@@ -38,12 +38,20 @@ function extractLastUpdated(html) {
 }
 
 function extractPreBlock(html) {
-  const m = html.match(/<PRE>([\s\S]*?)<\/PRE>/i);
-  if (!m) return '';
-  // Remove outer <FONT FACE=...> wrapper
-  let content = m[1];
-  content = content.replace(/^\s*<FONT FACE="[^"]*">\s*/i, '');
-  content = content.replace(/\s*<\/FONT>\s*$/i, '');
+  // Try closed <pre>...</pre> first
+  const closed = html.match(/<PRE>([\s\S]*?)<\/PRE>/i);
+  let content;
+  if (closed) {
+    content = closed[1];
+  } else {
+    // Unclosed <pre>: grab everything from <pre> to </body> or end
+    const open = html.match(/<PRE>([\s\S]*?)(?:<\/body>|$)/i);
+    if (!open) return '';
+    content = open[1];
+  }
+  // Remove outer <FONT FACE=...> or <font face=...> wrapper
+  content = content.replace(/^\s*<font face="[^"]*">\s*/i, '');
+  content = content.replace(/\s*<\/font>\s*$/i, '');
   return content;
 }
 
