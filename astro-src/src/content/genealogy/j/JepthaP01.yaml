@@ -1,0 +1,82 @@
+id: JepthaP01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: PeterS01
+parentLetter: P
+parentDesc: Peter Smith Vining and Sarah Maria Hicks
+head:
+  givenName: Jeptha Peter
+  birth:
+    date: April 1856
+    place: New York
+  death:
+    date: 16 March 1909
+marriages:
+  - date: 3 February 1880
+    spouse:
+      givenName: Etta F.
+      surname: Hitchcock
+      birth:
+        date: January 1853
+        place: New York
+childrenGroups:
+  - children:
+      - name: Clarence J. Vining
+        entryId: ClarenceJ01
+        entryLetter: C
+        birth:
+          date: March 1881
+          place: New York
+        marriages:
+          - number: 1
+            date: "Pearl H. Pelham, divorced"
+          - number: 2
+            date: Cora Whittaker
+        death:
+          date: "1946"
+        burial:
+          place: "Windham Cemetery   Windham, New York"
+      - name: Newell E. Vining
+        entryId: NewellE01
+        entryLetter: N
+        birth:
+          date: November 1886
+          place: New York
+        marriages:
+          - date: Mary Magdalena Alle
+        death:
+          date: 14 October 1943
+      - name: Myrtle L. Vining
+        birth:
+          date: July 1890
+          place: New York
+      - name: Walter V. Vining
+        entryId: WalterV01
+        entryLetter: W
+        birth:
+          date: July 1893
+          place: New York
+        marriages:
+          - date: Grace B. Cheeseman
+        death:
+          date: "1964"
+        burial:
+          place: "Windham Cemetery   Windham, New York"
+docsUrl: Jsources/JepthaP01doc.htm
+raw: |-
+  <a name="JepthaP01"></a><font size=+2>Jeptha Peter Vining</font>
+     (son of <a href="Pfamilies.htm#PeterS01">Peter Smith Vining and Sarah Maria Hicks</a>)
+     b. April 1856   New York
+     m. 3 February 1880
+           Etta F. Hitchcock
+                 b. January 1853   New York
+     d. 16 March 1909
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ClarenceJ01">Clarence J. Vining</a>   b. March 1881   New York   -   m. (1) Pearl H. Pelham, divorced;   (2) Cora Whittaker   -   d. 1946   -   bur. Windham Cemetery   Windham, New York
+     <a href="Nfamilies.htm#NewellE01">Newell E. Vining</a>   b. November 1886   New York   -   m. Mary Magdalena Alle   -   d. 14 October 1943
+     Myrtle L. Vining   b. July 1890   New York
+     <a href="Wfamilies.htm#WalterV01">Walter V. Vining</a>   b. July 1893   New York   -   m. Grace B. Cheeseman   -   d. 1964   -   bur. Windham Cemetery   Windham, New York
+  
+  <a href="Jsources/JepthaP01doc.htm">documentation and notes</a>

@@ -1,0 +1,58 @@
+id: JesseL03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Thomas05
+parentLetter: T
+parentDesc: Thomas Vining and Lucretia Peckham
+head:
+  givenName: Jesse L.
+  birth:
+    date: 28 September 1881
+    place: "Ellmore, Minnesota"
+  death:
+    date: 17 June 1950
+marriages:
+  - number: 1
+    date: Lulu Hewitt
+    spouse:
+      givenName: divorced
+      surname: divorced
+  - number: 2
+    date: 13 October 1942
+    spouse:
+      givenName: Regina
+      surname: Thill
+childrenGroups:
+  - spouseRef: Lulu Hewitt
+    children:
+      - name: Laura Violet Vining
+        birth:
+          date: 30 September 1905
+          place: "Chetek, Wisconsin"
+        marriages:
+          - number: 1
+            date: George Peterson
+          - number: 2
+            date: Melvin J. Swanson
+      - name: Ralph J. Vining
+        birth:
+          date: 5 October 1907
+        marriages:
+          - date: 31 July 1939
+      - name: "Note: Ralph J. Vining was adopted by his mother's second husband, and his name was changed to Forbes."
+raw: |-
+  <a name="JesseL03"></a><font size=+2>Jesse L. Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas05">Thomas Vining and Lucretia Peckham</a>)
+     b. 28 September 1881   Ellmore, Minnesota
+     m. (1) Lulu Hewitt
+                 divorced
+           (2) 13 October 1942
+                 Regina Thill
+     d. 17 June 1950
+  
+  <font size=+1>children by Lulu Hewitt:</font>
+     Laura Violet Vining   b. 30 September 1905   Chetek, Wisconsin   -   m. (1) George Peterson;   (2) Melvin J. Swanson
+     Ralph J. Vining   b. 5 October 1907   -   m. 31 July 1939
+  
+     Note: Ralph J. Vining was adopted by his mother's second husband, and his name was changed to Forbes.

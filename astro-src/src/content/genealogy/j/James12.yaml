@@ -1,0 +1,59 @@
+id: James12
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James
+  birth:
+    date: February 1860
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Ellen
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        birth:
+          date: July 1881
+          place: Florida
+      - name: Joseph Vining   b June 1882   Florida
+      - name: Henry Vining   b September 1883   Florida
+      - name: child Vining
+        death:
+          date: before 1900 censuus
+      - name: child Vining
+        death:
+          date: before 1900 census
+      - name: Rose Vining
+        birth:
+          date: "December 18[90?]"
+          place: Florida
+      - name: Lillie Vining
+        birth:
+          date: March 1893
+          place: Florida
+      - name: Jessie Vining
+        birth:
+          date: August 1897
+          place: Florida
+docsUrl: Jsources/James12doc.htm
+raw: |-
+  <a name="James12"></a><font size=+2>James Vining</font>
+     (son of [?])
+     b. February 1860   Georgia
+     m. Ellen [&#8230;]
+              b. December 1861   Florida
+  
+  <font size=+1>children:</font>
+     Mary Vining   b. July 1881   Florida
+     Joseph Vining   b June 1882   Florida
+     Henry Vining   b September 1883   Florida
+     child Vining   d. before 1900 censuus
+     child Vining   d. before 1900 census
+     Rose Vining   b. December 18[90?]   Florida
+     Lillie Vining   b. March 1893   Florida
+     Jessie Vining   b. August 1897   Florida
+  
+  <a href="Jsources/James12doc.htm">documentation and notes</a>

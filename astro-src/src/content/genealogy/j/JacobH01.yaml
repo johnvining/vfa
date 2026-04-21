@@ -1,0 +1,63 @@
+id: JacobH01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Josiah02
+parentDesc: Josiah Vining and Esther Clough
+head:
+  givenName: Jacob Herrick
+  birth:
+    date: 20 November 1815
+    place: "[West Gardiner or Litchfield], Kennebec County, Maine"
+  death:
+    date: "[28 July or September?] 1893"
+    place: "Richmond, Indiana"
+marriages:
+  - number: 1
+    date: "Catherine [...]"
+  - number: 2
+    date: Lucy Weeks Dillingham
+childrenGroups:
+  - spouseRef: "Catherine [...]"
+    children:
+      - name: Alice A. Vining
+        birth:
+          date: "[2 March or 27 April?] 1846"
+          place: "Fall River, Bristol County, Massachusetts"
+        marriages:
+          - date: 11 August 1886
+            place: "LaPorte, Indiana"
+            spouse: Stephen Coffin Mendenhall
+        death:
+          date: 10 January 1924
+      - name: William A. Vining
+        death:
+          date: 18 March 1854
+          place: "Fall River, Bristol County, Massachusetts"
+      - name: Mary Louisa Vining
+        birth:
+          date: age 6 y. as of 1860 census
+          place: "[Massachusetts or Maine?]"
+        death:
+          date: "1889"
+          place: "Richmond, Wayne County, Indiana"
+docsUrl: Jsources/JacobH01doc.htm
+raw: |-
+  <a name="JacobH01"></a><font size=+2>Jacob Herrick Vining</font>
+     (son of <a href="#Josiah02">Josiah Vining and Esther Clough</a>)
+     b. 20 November 1815   [West Gardiner or Litchfield], Kennebec County, Maine
+     m. (1) Catherine [...]
+                    b. age 29 y. as of 1850 census   [Massachusetts?]
+           (2) Lucy Weeks Dillingham
+                    (dau. of Edward Dillingham and Hannah Weeks)
+                    b. 30 May 1821   Sidney, Kennebec County, Maine
+                    d. 29 November 1885   Leesburg, Lake County, Florida
+     d. [28 July or September?] 1893   Richmond, Indiana
+           bur. Earlham Cemetery   Richmond, Wayne County, Indiana
+  
+  <font size=+1>children by Catherine [...]:</font>
+     Alice A. Vining   b. [2 March or 27 April?] 1846   Fall River, Bristol County, Massachusetts   -   m. 11 August 1886   LaPorte, Indiana   Stephen Coffin Mendenhall   -   d. 10 January 1924
+     William A. Vining   d. 12 August 1851   Fall River, Bristol County, Massachusetts   -   d. 18 March 1854   Fall River, Bristol County, Massachusetts
+     Mary Louisa Vining   b. age 6 y. as of 1860 census   [Massachusetts or Maine?]   -   d. 1889   Richmond, Wayne County, Indiana
+  
+  <a href="Jsources/JacobH01doc.htm">documentation and notes</a>

@@ -1,0 +1,70 @@
+id: JamesB02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilburR01
+parentLetter: W
+parentDesc: Wilbur Records Vining and Margaret Molloy
+head:
+  givenName: James Bodwell
+  birth:
+    date: 9 July 1857
+  death:
+    date: 2 February 1902
+marriages:
+  - date: 17 September 1879
+    place: "London, Ontario"
+    spouse:
+      givenName: Margaret Elizabeth
+      surname: Quinn
+      death:
+        date: 30 March 1937
+childrenGroups:
+  - children:
+      - name: Frank W. Vining
+        entryId: FrankW02
+        entryLetter: F
+        birth:
+          date: 11 March 1882
+          place: Canada
+        marriages:
+          - date: Alice Katherine Healy
+        death:
+          date: 21 October 1920
+          place: "Jersey City, NY"
+      - name: Mary Winifred Vining
+        birth:
+          date: 29 June 1884
+          place: "London, Ontario"
+        marriages:
+          - date: 17 July 1912
+            spouse: John McLaughlin
+      - name: Anna Bodwell Vining
+        birth:
+          date: 22 June 1887
+          place: "London, Ontario"
+        death:
+          date: 28 October 1962
+      - name: Basil Hamilton Vining
+        birth:
+          date: 22 November 1889
+        death:
+          date: 21 July 1919
+          place: Belgian Congo
+docsUrl: Jsources/JamesB02doc.htm
+raw: |-
+  <a name="JamesB02"></a><font size=+2>James Bodwell Vining</font>
+     (son of <a href="Wfamilies.htm#WilburR01">Wilbur Records Vining and Margaret Molloy</a>)
+     b. 9 July 1857
+     m. 17 September 1879   London, Ontario
+           Margaret Elizabeth Quinn
+                 d. 30 March 1937
+     d. 2 February 1902
+  
+  <font size=+1>children:</font>
+     <a href="Ffamilies.htm#FrankW02">Frank W. Vining</a>   b. 11 March 1882   Canada   -   m. Alice Katherine Healy   -   d. 21 October 1920   Jersey City, NY
+     Mary Winifred Vining   b. 29 June 1884   London, Ontario   -   m. 17 July 1912   John McLaughlin
+     Anna Bodwell Vining   b. 22 June 1887   London, Ontario   -   d. 28 October 1962
+     Basil Hamilton Vining   b. 22 November 1889   -   d. 21 July 1919   Belgian Congo
+  
+  <a href="Jsources/JamesB02doc.htm">documentation and notes</a>

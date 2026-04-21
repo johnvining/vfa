@@ -1,0 +1,73 @@
+id: JohnN01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John09
+parentDesc: John Vining and Adeliza Atwood
+head:
+  givenName: John Newell
+  birth:
+    date: "1839"
+    place: New York
+  death:
+    date: 3 November 1921
+marriages:
+  - spouse:
+      givenName: "Pitcher, New"
+      surname: York
+      birth:
+        date: age 30 y. as of 1870 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: William Albert Vining
+        entryId: WilliamA01
+        entryLetter: W
+        birth:
+          date: 3 August 1861
+          place: "Conklin Forks, New York"
+        marriages:
+          - date: Charlotte Olivia Burley
+        death:
+          date: 20 January 1945
+        burial:
+          place: "Conklin Cemetery   Conklin, New York"
+      - name: Lucien Freeman Vining
+        entryId: LucienF01
+        entryLetter: L
+        birth:
+          date: 3 March 1863
+          place: "Conklin Forks, New York"
+        marriages:
+          - date: 12 y. as of 1900 census
+            place: "Coudersport, Pennsylvania"
+            spouse: Alice Wandover
+        death:
+          date: age 79 y. at death
+      - name: Minnie May Vining
+        birth:
+          date: 16 September 1866
+          place: "Conklin Forks, New York"
+        marriages:
+          - date: 27 January 1887
+            spouse: Cicero Finch
+        death:
+          date: January 1959
+          place: "Binghamton, New York"
+docsUrl: Jsources/JohnN01doc.htm
+raw: |-
+  <a name="JohnN01"></a><font size=+2>John Newell Vining</font>
+     (son of <a href="#John09">John Vining and Adeliza Atwood</a>)
+     b. 1839   New York
+     m. Pitcher, New York
+           Roxanna Tripp
+                 b. age 30 y. as of 1870 census   New York
+     d. 3 November 1921
+           bur. Conklin Cemetery   Conklin, New York
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamA01">William Albert Vining</a>   b. 3 August 1861   Conklin Forks, New York   -   m. Charlotte Olivia Burley   -   d. 20 January 1945   -   bur. Conklin Cemetery   Conklin, New York
+     <a href="Lfamilies.htm#LucienF01">Lucien Freeman Vining</a>   b. 3 March 1863   Conklin Forks, New York   -   m. 12 y. as of 1900 census   Coudersport, Pennsylvania   Alice Wandover   -   d. age 79 y. at death
+     Minnie May Vining   b. 16 September 1866   Conklin Forks, New York   -   m. 27 January 1887   Cicero Finch   -   d. January 1959   Binghamton, New York
+  
+  <a href="Jsources/JohnN01doc.htm">documentation and notes</a>

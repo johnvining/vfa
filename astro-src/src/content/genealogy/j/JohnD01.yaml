@@ -1,0 +1,34 @@
+id: JohnD01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: AtwoodP01
+parentLetter: A
+parentDesc: Atwood P. Vining and Harriet Decker
+head:
+  givenName: John Decker
+  birth:
+    date: 19 April 1867
+    place: Pennsylvania
+  death:
+    date: 29 June 1946
+    place: "Binghamton, Broome County, New York"
+marriages:
+  - spouse:
+      givenName: Julia
+      surname: Wilbur
+docsUrl: Jsources/JohnD01doc.htm
+raw: |-
+  <a name="JohnD01"></a><font size=+2>John Decker Vining</font>
+     (son of <a href="Afamilies.htm#AtwoodP01">Atwood P. Vining and Harriet Decker</a>)
+     b. 19 April 1867   Pennsylvania
+     m. Julia Wilbur
+              b. 1869   New York
+              d. 1960   Binghamton, Broome County, New York
+     d. 29 June 1946   Binghamton, Broome County, New York
+           bur. Vestal Hills Memorial Park   Vestal, Broome County, New York
+  
+  <font size=+1>child:</font>
+     <a href=" Cfamilies.htm#ClairW01">Clair Wilbur Vining</a>   b. 24 April 1893   New York   -   m. (1) Jennie Adelia Rose;   (2) ?;   (3) ?   -   d. May 1958
+  
+  <a href="Jsources/JohnD01doc.htm">documentation and notes</a>

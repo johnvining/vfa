@@ -1,0 +1,131 @@
+id: John11
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Samuel06
+parentLetter: S
+parentDesc: "Samuel Vining and Mary &#8220;Polly&#8221; Miller"
+head:
+  givenName: John
+  birth:
+    date: 1 February 1831
+    place: Ohio
+  death:
+    date: 22 September 1872
+    place: "Etna Green, Indiana"
+marriages:
+  - number: 1
+    date: Lucinda E. Farber
+  - number: 2
+    date: Lydia M. Pellett
+childrenGroups:
+  - spouseRef: Lucinda Farber
+    children:
+      - name: Josephine Vining
+        birth:
+          date: age 24 y. as of 1880 census
+          place: Indiana
+        marriages:
+          - date: James Burke
+      - name: Jane Vining
+        birth:
+          date: 28 February 1858
+        marriages:
+          - number: 1
+            date: Scott Farber
+          - number: 2
+            date: George Shepherd
+        death:
+          date: 2 November 1944
+          place: "Etna Green, Indiana"
+      - name: Uria Vining - b. age 21 y. as of 1880 census   Indiana
+      - name: Benjamin Vining - b. age 19 y. as of 1880 census   Indiana
+      - name: William Elmer Vining
+        birth:
+          date: "[1864/1865 or age 19 y. as of 1880 census?]"
+          place: Indiana
+        marriages:
+          - number: 1
+            date: Anzina Figley (Morrison)
+          - number: 2
+            date: Bertha Woodruff
+        death:
+          date: "1944"
+      - name: Melissa Vining
+        birth:
+          date: age 17 y. as of 1880 census
+          place: Indiana
+      - name: Clara Vining
+        birth:
+          date: 3 March 1863
+          place: Indiana
+        marriages:
+          - date: Reuben Riley Bradford
+        death:
+          date: "1944"
+  - spouseRef: Lydia Pellett
+    children:
+      - name: Robert Henry Vining
+        entryId: RobertH01
+        entryLetter: R
+        birth:
+          date: 17 February 1866
+          place: Indiana
+        marriages:
+          - date: 8 September 1888
+            spouse: Sarah Elizabeth Eaglebarger
+        death:
+          date: 5 November 1937
+        burial:
+          place: "Summit Chapel Cemetery   Bourbon, Indiana"
+      - name: Minor Simon/Simeon Vining
+        entryId: MinorS01
+        entryLetter: M
+        birth:
+          date: 29 September 1867
+          place: Indiana
+        marriages:
+          - date: Emma F. Dillingham
+        death:
+          date: 25 October 1937
+      - name: John Franklin Vining
+        entryId: JohnF01
+        birth:
+          date: 21 August 1872
+          place: Indiana
+        marriages:
+          - date: Clara Belle Hershberger
+        death:
+          date: 2 June 1937
+        burial:
+          place: "Etna Green Cemetery   Etna Green, Indiana"
+docsUrl: Jsources/John11doc.htm
+raw: |-
+  <a name="John11"></a><font size=+2>John Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel06">Samuel Vining and Mary &#8220;Polly&#8221; Miller</a>)
+     b. 1 February 1831   Ohio
+     m. (1) Lucinda E. Farber
+                    b. age 29 y. at death
+                    d. 29 November 18[6?]4
+                          bur. Etna Green Cemetery   Etna Green, Indiana
+           (2) Lydia M. Pellett
+                    (dau. of Joseph Pellett and Sarah Holloway)
+                    b. 16 March 1836   Ohio
+                    d. 9 August 1923
+                          bur. Summit Chapel Cemetery   Bourbon, Indiana
+     d. 22 September 1872   Etna Green, Indiana
+  
+  <font size=+1>children by Lucinda Farber:</font>
+     Josephine Vining   b. age 24 y. as of 1880 census   Indiana   -   m. James Burke
+     Jane Vining   b. 28 February 1858   -   m. (1) Scott Farber;   (2) George Shepherd   -   d. 2 November 1944   Etna Green, Indiana
+     Uria Vining - b. age 21 y. as of 1880 census   Indiana
+     Benjamin Vining - b. age 19 y. as of 1880 census   Indiana
+     <a href=" Wfamilies.htm#WilliamE01">William Elmer Vining</a>   b. [1864/1865 or age 19 y. as of 1880 census?]   Indiana   -   m. (1) Anzina Figley (Morrison);   (2) Bertha Woodruff   -   d. 1944
+     Melissa Vining   b. age 17 y. as of 1880 census   Indiana
+     Clara Vining   b. 3 March 1863   Indiana   -   m. Reuben Riley Bradford   -   d. 1944
+  <font size=+1>children by Lydia Pellett:</font>
+     <a href="Rfamilies.htm#RobertH01">Robert Henry Vining</a>   b. 17 February 1866   Indiana   -   m. 8 September 1888   Sarah Elizabeth Eaglebarger   -   d. 5 November 1937   -   bur. Summit Chapel Cemetery   Bourbon, Indiana
+     <a href="Mfamilies.htm#MinorS01">Minor Simon/Simeon Vining</a>   b. 29 September 1867   Indiana   -   m. Emma F. Dillingham   -   d. 25 October 1937
+     <a href="#JohnF01">John Franklin Vining</a>   b. 21 August 1872   Indiana   -   m. Clara Belle Hershberger   -   d. 2 June 1937   -   bur. Etna Green Cemetery   Etna Green, Indiana
+  
+  <a href="Jsources/John11doc.htm">documentation and notes</a>

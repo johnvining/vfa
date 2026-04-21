@@ -1,0 +1,44 @@
+id: JasperW01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ward01
+parentLetter: W
+parentDesc: Ward Vining and Jane Cecelia Reed
+head:
+  givenName: Jasper Ward
+  birth:
+    date: 18 May 1848
+    place: "Southwick, Massachusetts"
+  death:
+    date: 13 April 1926
+marriages:
+  - date: 4 April 1881
+    place: "Springfield, Massachusetts"
+    spouse:
+      givenName: Ella M.
+      surname: Brown
+      birth:
+        date: November 1846
+        place: Massachusetts
+      death:
+        date: 29 April 1915
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+docsUrl: Jsources/JasperW01doc.htm
+raw: |-
+  <a name="JasperW01"></a><font size=+2>Jasper Ward Vining</font>
+     (son of <a href="Wfamilies.htm#Ward01">Ward Vining and Jane Cecelia Reed</a>)
+     b. 18 May 1848   Southwick, Massachusetts
+     m. 4 April 1881   Springfield, Massachusetts
+           Ella M. Brown
+                 b. November 1846   Massachusetts
+                 d. 29 April 1915
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 13 April 1926
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>child:</font>
+     Eliza B. Vining   b. April 1882   Massachusetts
+  
+  <a href="Jsources/JasperW01doc.htm">documentation and notes</a>

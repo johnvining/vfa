@@ -1,0 +1,42 @@
+id: JamesAJr01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesA08
+parentDesc: James A. Vining and Victoria Iaccino
+head:
+  givenName: James A. Jr.
+  birth:
+    date: 1 November 1949
+    place: "Hudson, New York"
+  death:
+    date: 28 January 2020
+marriages:
+  - spouse:
+      givenName: Teena
+      surname: Alonge
+childrenGroups:
+  - children:
+      - name: James A. Vining III
+        marriages:
+          - date: "Rose [&#8230;]"
+      - name: Teena Vining
+        marriages:
+          - date: Thomas Graf
+      - name: Anthony Vining
+        marriages:
+          - date: "Melanie [&#8230;]"
+docsUrl: Jsources/JamesAJr01doc.htm
+raw: |-
+  <a name="JamesAJr01"></a><font size=+2>James A. Vining Jr.</font>
+     (son of <a href="#JamesA08">James A. Vining and Victoria Iaccino</a>)
+     b. 1 November 1949   Hudson, New York
+     m. Teena Alonge
+     d. 28 January 2020
+  
+  <font size=+1>children:</font>
+     James A. Vining III   m. Rose [&#8230;]
+     Teena Vining   m. Thomas Graf
+     Anthony Vining   m. Melanie [&#8230;]
+  
+  <a href="Jsources/JamesAJr01doc.htm">documentation and notes</a>

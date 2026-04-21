@@ -1,0 +1,21 @@
+id: John33
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+marriages:
+  - spouse:
+      givenName: Anna Jane
+      surname: "[...]"
+docsUrl: Jsources/John33doc.htm
+raw: |-
+  <a name="John33"></a><font size=+2>John Vining</font>
+     (son of [?])
+     m. Anna Jane [...]
+  
+  <font size=+1>child:</font>
+     Thomas Vining   b. 22 February 1888   Wilmington, North Carolina   -   m. Martha [...]   -   d. 3 November 1957   Wilmington, North Carolina   -   bur. Pine Forest Cemetery   Wilmington, North Carolina
+  
+  <a href="Jsources/John33doc.htm">documentation and notes</a>

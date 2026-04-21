@@ -1,0 +1,56 @@
+id: JohnJr01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John05
+parentDesc: John Vining and Mary Goodwin
+head:
+  givenName: John Jr.
+  birth:
+    date: 27 July 1798
+    place: "Durham, Maine"
+marriages:
+  - date: "1825"
+    spouse:
+      givenName: "Martha [S. or C.?]"
+      surname: Ross
+      birth:
+        date: age 70 y. as of 1870 census
+        place: "[Brunswick?], Maine"
+childrenGroups:
+  - children:
+      - name: Elbridge C. Vining
+        entryId: ElbridgeC01
+        entryLetter: E
+        birth:
+          date: 28 May 1827
+          place: Maine
+        marriages:
+          - number: 1
+            date: 26 May 1861
+            place: "Berwick, Maine"
+            spouse: Mary Bunker
+          - number: 2
+            date: 23 June 1872
+            spouse: Patience Watson
+      - name: Harrison Vining
+        birth:
+          date: 28 March 1832
+      - name: Martha A. Vining
+        birth:
+          date: 27 July 1834
+        marriages:
+          - date: Charles Clark
+raw: |-
+  <a name="JohnJr01"></a><font size=+2>John Vining Jr.</font>
+     (son of <a href="#John05">John Vining and Mary Goodwin</a>)
+     b. 27 July 1798   Durham, Maine
+     m. 1825
+           Martha [S. or C.?] Ross
+                 b. age 70 y. as of 1870 census   [Brunswick?], Maine
+     lost at sea February 1838
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#ElbridgeC01">Elbridge C. Vining</a>   b. 28 May 1827   Maine   -   m. (1) 26 May 1861   Berwick, Maine   Mary Bunker;   (2) 23 June 1872   Patience Watson
+     Harrison Vining   b. 28 March 1832
+     Martha A. Vining   b. 27 July 1834   -   m. Charles Clark

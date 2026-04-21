@@ -1,0 +1,120 @@
+id: James01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Joseph01
+parentDesc: Joseph Vining and Olive Torrey
+head:
+  givenName: James
+  birth:
+    date: 10 February 1779
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 6 June 1817
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 4 November 1799
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Lucy Cushing (she m. (2) Jacob
+      surname: Rowell)
+      birth:
+        date: 19 October 1770
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Jared Vining
+        entryId: Jared02
+        birth:
+          date: 17 July 1800
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 26 May 1824
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Charlotte Stetson
+          - number: 2
+            date: 3 December 1837
+            place: "Abington, Massachusetts"
+            spouse: Emily Churchill
+      - name: Elias Vining
+        entryId: Elias02
+        entryLetter: E
+        birth:
+          date: 24 June 1802
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: int. 28 February 1824
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Nancy Tirrell
+          - number: 2
+            date: int. 21 May 1843
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Harriet Ford
+        death:
+          date: 13 September 1883
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Lydia B. Vining
+        birth:
+          date: 23 November 1804
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 10 November 1825
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: John Reed
+      - name: Martin Vining
+        entryId: Martin01
+        entryLetter: M
+        birth:
+          date: 20 March 1808
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 16 December 1835
+            place: "East Bridgewater, Massachusetts"
+            spouse: Lucy Allen
+        death:
+          date: 31 March 1876
+      - name: Lucy Vining
+        birth:
+          date: 2 October 1810
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 26 September 1848
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Alvan Reed
+        death:
+          date: 16 March 1879
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Emily Vining
+        birth:
+          date: 8 February 1814
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 1 June 1837
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Thomas Barstow Porter
+      - name: Delia Vining
+        birth:
+          date: age 8 m. at death
+        death:
+          date: 1 August 1817
+          place: "Weymouth, Norfolk County, Massachusetts"
+raw: |-
+  <a name="James01"></a><font size=+2>James Vining</font>
+     (son of <a href="#Joseph01">Joseph Vining and Olive Torrey</a>)
+     b. 10 February 1779   Weymouth, Norfolk County, Massachusetts
+     m. 4 November 1799   Weymouth, Norfolk County, Massachusetts
+           Lucy Cushing (she m. (2) Jacob Rowell)
+                 (dau. of Frederic Cushing and Grace Bates)
+                 b. 19 October 1770   Weymouth, Norfolk County, Massachusetts
+     d. 6 June 1817   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#Jared02">Jared Vining</a>   b. 17 July 1800   Weymouth, Norfolk County, Massachusetts   -   m. (1) 26 May 1824   Weymouth, Norfolk County, Massachusetts   Charlotte Stetson;   (2) 3 December 1837   Abington, Massachusetts   Emily Churchill
+     <a href="Efamilies.htm#Elias02">Elias Vining</a>   b. 24 June 1802   Weymouth, Norfolk County, Massachusetts   -   m. (1) int. 28 February 1824   Weymouth, Norfolk County, Massachusetts   Nancy Tirrell;   (2) int. 21 May 1843   Weymouth, Norfolk County, Massachusetts   Harriet Ford   -   d. 13 September 1883   Weymouth, Norfolk County, Massachusetts
+     Lydia B. Vining   b. 23 November 1804   Weymouth, Norfolk County, Massachusetts   -   m. 10 November 1825   Weymouth, Norfolk County, Massachusetts   John Reed
+     <a href="Mfamilies.htm#Martin01">Martin Vining</a>   b. 20 March 1808   Weymouth, Norfolk County, Massachusetts   -   m. 16 December 1835   East Bridgewater, Massachusetts   Lucy Allen   -   d. 31 March 1876
+     Lucy Vining   b. 2 October 1810   Weymouth, Norfolk County, Massachusetts   -   m. 26 September 1848   Weymouth, Norfolk County, Massachusetts   Alvan Reed   -   d. 16 March 1879   Weymouth, Norfolk County, Massachusetts
+     Emily Vining   b. 8 February 1814   Weymouth, Norfolk County, Massachusetts   -   m. 1 June 1837   Weymouth, Norfolk County, Massachusetts   Thomas Barstow Porter
+     Delia Vining   b. age 8 m. at death   -   d. 1 August 1817   Weymouth, Norfolk County, Massachusetts

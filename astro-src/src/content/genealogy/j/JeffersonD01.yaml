@@ -1,0 +1,72 @@
+id: JeffersonD01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Vincent01
+parentDesc: Vincent Vining and Malinda Abigail May
+head:
+  givenName: Jefferson Davis
+  birth:
+    date: 28 March 1890
+    place: Georgia
+  death:
+    date: 17 April 1971
+    place: Georgia
+marriages:
+  - number: 1
+    date: Mamie Ratliff
+  - number: 2
+    date: "1917"
+    place: Georgia
+    spouse:
+      givenName: Cora
+      surname: Delk
+      birth:
+        date: 8 January 1899
+      death:
+        date: 10 May 1982
+      burial:
+        place: "Mount Zion Cemetery   Axson, Georgia"
+childrenGroups:
+  - spouseRef: Cora Delk
+    children:
+      - name: Myrtice Vining
+        birth:
+          date: 17 September 1916
+          place: "Pearson, Georgia"
+        marriages:
+          - date: 11 March 1932
+            spouse: Clemon Fielding Sirmans
+        death:
+          date: 19 October 2001
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
+      - name: child
+        birth:
+          date: ca. 1916
+        death:
+          date: ca. 1916
+docsUrl: Jsources/JeffersonD01doc.htm
+raw: |-
+  <a name="JeffersonD01"></a><font size=+2>Jefferson Davis Vining</font>
+     (son of <a href="#Vincent01">Vincent Vining and Malinda Abigail May</a>)
+     b. 28 March 1890   Georgia
+     m. (1) Mamie Ratliff
+                       b. 1894
+                       d. 16 February 1914
+                             bur. Camp Branch Primitive Baptist Church Cemetery   Ware County, Georgia
+           (2) 1917   Georgia
+                 Cora Delk
+                       b. 8 January 1899
+                       d. 10 May 1982
+                             bur. Mount Zion Cemetery   Axson, Georgia
+     d. 17 April 1971   Georgia
+           bur. Mount Zion Cemetery   Axson, Georgia
+  
+  <font size=+1>child by Mamie Ratliff:</font>
+     <a href="Gfamilies.htm#GeorgeV01">George Vinson Vining</a>   b. 6 February 1914   Ware County, Georgia   -   m. Myrtice Coreen Rowe   -   d. 2 November 2005   Jacksonville, Florida   -   bur. Mount Zion Cemetery   Axson, Georgia
+  <font size=+1>children by Cora Delk:</font>
+     Myrtice Vining   b. 17 September 1916   Pearson, Georgia   -   m. 11 March 1932   Clemon Fielding Sirmans   -   d. 19 October 2001   -   bur. Mount Zion Cemetery   Axson, Georgia
+     child   b. ca. 1916   -   d. ca. 1916
+  
+  <a href="Jsources/JeffersonD01doc.htm">documentation and notes</a>

@@ -1,0 +1,70 @@
+id: JohnF03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrankW02
+parentLetter: F
+parentDesc: Frank W. Vining and Alice Katherine Healy
+head:
+  givenName: John Francis
+  birth:
+    date: 3 July 1917
+    place: "Lisbon, New York"
+  death:
+    date: 27 June 2006
+    place: "Guilford, Connecticut"
+marriages:
+  - spouse:
+      givenName: "East Orange, New"
+      surname: Jersey
+      birth:
+        date: "Danville, Pennsylvania"
+      death:
+        date: 22 May 2020
+        place: "Alpharetta, Georgia"
+      burial:
+        place: "St. Mary&#8217;s Cemetery   Grasmere, New York"
+childrenGroups:
+  - children:
+      - name: Anne M. Vining
+        marriages:
+          - date: Robert Holdsworth
+      - name: Cecilla Vining
+        marriages:
+          - date: John Duffy
+      - name: John J. Vining
+      - name: Eugenia M. Vining
+        marriages:
+          - date: Robert Malison
+      - name: Mary F. Vining
+        marriages:
+          - date: Robert Rycyna
+      - name: Thomas M. Vining
+        marriages:
+          - date: "Kris [&#8230;]"
+      - name: Patrick Vining
+        marriages:
+          - date: "Claudia [&#8230;]"
+docsUrl: Jsources/JohnF03doc.htm
+raw: |-
+  <a name="JohnF03"></a><font size=+2>John Francis Vining</font>
+     (son of <a href="Ffamilies.htm#FrankW02">Frank W. Vining and Alice Katherine Healy</a>)
+     b. 3 July 1917   Lisbon, New York
+     m. East Orange, New Jersey
+           Eugenia Swantic
+                 (dau. of Frank Swantic and Sidonia [&#8230;])
+                 b. Danville, Pennsylvania
+                 d. 22 May 2020   Alpharetta, Georgia
+                       bur. St. Mary&#8217;s Cemetery   Grasmere, New York
+     d. 27 June 2006   Guilford, Connecticut
+  
+  <font size=+1>children:</font>
+     Anne M. Vining   m. Robert Holdsworth
+     Cecilla Vining   m. John Duffy
+     John J. Vining
+     Eugenia M. Vining   m. Robert Malison
+     Mary F. Vining   m. Robert Rycyna
+     Thomas M. Vining   m. Kris [&#8230;]
+     Patrick Vining   m. Claudia [&#8230;]
+  
+  <a href="Jsources/JohnF03doc.htm">documentation and notes</a>

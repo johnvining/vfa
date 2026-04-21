@@ -1,0 +1,108 @@
+id: Jeptha01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamJr01
+parentLetter: W
+parentDesc: William Vining Jr. and Anna Nichols
+head:
+  givenName: Jeptha
+  birth:
+    date: 15 February 1737/38
+    place: "Sutton, Massachusetts"
+  death:
+    date: 9 December 1797
+    place: Georgia
+marriages:
+  - number: 1
+    date: Amy Miller
+  - number: 2
+    date: Mary Thomas
+childrenGroups:
+  - spouseRef: Amy Miller
+    children:
+      - name: Mary Margaret Vining
+        birth:
+          date: ca. 1765
+          place: South Carolina
+        marriages:
+          - date: Harmon Perryman
+        death:
+          date: ca. 1835
+          place: Georgia
+      - name: Thomas Vining
+        entryId: Thomas07
+        entryLetter: T
+        birth:
+          date: "1755"
+          place: "Anson County, North Carolina"
+        marriages:
+          - date: Mary Wade
+        death:
+          date: "[22 or 26?] April 1826"
+          place: "Athens, Alabama"
+      - name: Ann Vining
+        birth:
+          date: ca. 1757
+        marriages:
+          - date: 31 March 1795
+            place: Georgia
+            spouse: Dixon Perryman
+      - name: Joshua Vining
+        entryId: Joshua01
+        birth:
+          date: "[ca. 1759 or ca. 1773?]"
+          place: South Carolina
+        marriages:
+          - date: ca. 1793
+            place: "Anson County, North Carolina"
+            spouse: Elizabeth Valentine
+        death:
+          date: before 1818
+          place: "East Baton Rouge Parish, Louisiana"
+      - name: Abigail Vining
+        birth:
+          date: ca 1761
+        marriages:
+          - date: "[...] Greer"
+      - name: Uriah Blanchard Vining
+        entryId: UriahB01
+        entryLetter: U
+        birth:
+          date: "1763"
+          place: Tennessee
+        marriages:
+          - date: Eunice Nugent
+        death:
+          date: 21 January 1821
+          place: "Woodville, Wilkinson County, Mississippi"
+      - name: Matthew Vining
+        birth:
+          date: ca. 1765
+  - children:
+      - name: Michael Thomas Vining
+      - name: Jane Vining
+docsUrl: Jsources/Jeptha01doc.htm
+raw: |-
+  <a name="Jeptha01"></a><font size=+2>Jeptha Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamJr01">William Vining Jr. and Anna Nichols</a>)
+     b. 15 February 1737/38   Sutton, Massachusetts
+     m. (1) Amy Miller
+                 (dau. of Josepoh Miller and [?])
+           (2) Mary Thomas
+           [3?] ?
+     d. 9 December 1797   Georgia
+  
+  <font size=+1>children by Amy Miller:</font>
+     Mary Margaret Vining   b. ca. 1765   South Carolina   -   m. Harmon Perryman   -   d. ca. 1835   Georgia
+     <a href="Tfamilies.htm#Thomas07">Thomas Vining</a>   b. 1755   Anson County, North Carolina   -   m. Mary Wade   -   d. [22 or 26?] April 1826   Athens, Alabama
+     Ann Vining   b. ca. 1757   -   m. 31 March 1795   Georgia   Dixon Perryman
+     <a href="#Joshua01">Joshua Vining</a>   b. [ca. 1759 or ca. 1773?]   South Carolina   -   m. ca. 1793   Anson County, North Carolina   Elizabeth Valentine   -   d. before 1818   East Baton Rouge Parish, Louisiana
+     Abigail Vining   b. ca 1761   -   m. [...] Greer
+     <a href="Ufamilies.htm#UriahB01">Uriah Blanchard Vining</a>   b. 1763   Tennessee   -   m. Eunice Nugent   -   d. 21 January 1821   Woodville, Wilkinson County, Mississippi
+     Matthew Vining   b. ca. 1765
+  <font size=+1>children?:</font>
+     Michael Thomas Vining
+     Jane Vining
+  
+  <a href="Jsources/Jeptha01doc.htm">documentation and notes</a>

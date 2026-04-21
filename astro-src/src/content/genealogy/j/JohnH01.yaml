@@ -1,0 +1,100 @@
+id: JohnH01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Scott01
+parentLetter: S
+parentDesc: Scott Vining and Priscilla Burton
+head:
+  givenName: John Hamilton
+  birth:
+    date: 28 November 1817
+    place: "Corinth, New York"
+  death:
+    date: "5 December [1877?]"
+    place: "Chicago, Illinois"
+marriages:
+  - number: 1
+    date: ca. 1840
+    spouse:
+      givenName: Mary Cordelia
+      surname: Canovan
+      birth:
+        date: 14 October 1818
+      death:
+        date: 30 October 1899
+      burial:
+        place: "Highland Cemetery   Ypsilanti, Michigan"
+  - number: 2
+    date: 12 July 1857
+    place: "Chicago, Illinois"
+    spouse:
+      givenName: Rachel Ginter
+      surname: Thompson
+childrenGroups:
+  - spouseRef: Mary Cordelia Canovan
+    children:
+      - name: Mark Lyman Vining
+        entryId: MarkL01
+        entryLetter: M
+        birth:
+          date: 24 August 1842
+          place: "Troy, Michigan"
+        marriages:
+          - number: 1
+            date: Celestine Richardson
+          - number: 2
+            date: Adelle G. Billings Henry
+        death:
+          date: 30 December 1907
+        burial:
+          place: "Highland Cemetery   Ypsilanti, Michigan"
+      - name: John Vining
+      - name: George Vining
+      - name: Adelaide Vining
+  - spouseRef: Rachel Ginter Thompson
+    children:
+      - name: Priscilla May Vining
+        birth:
+          date: 25 May 1858
+          place: "Troy, Michigan"
+        marriages:
+          - date: 1 June 1884
+            spouse: Claude Herbert Pearsall
+      - name: Teresa Eugenia Vining
+        birth:
+          date: 28 March 1861
+        death:
+          date: 27 November 1862
+          place: "Troy, Michigan"
+      - name: Caroline Teresa Vining
+        birth:
+          date: 9 September 1863
+        death:
+          date: 27 August 1864
+          place: "Detroit, Michigan"
+docsUrl: Jsources/JohnH01doc.htm
+raw: |-
+  <a name="JohnH01"></a><font size=+2>John Hamilton Vining</font>
+     (son of <a href="Sfamilies.htm#Scott01">Scott Vining and Priscilla Burton</a>)
+     b. 28 November 1817   Corinth, New York
+     m. (1) ca. 1840
+                 Mary Cordelia Canovan
+                       b. 14 October 1818
+                       d. 30 October 1899
+                             bur. Highland Cemetery   Ypsilanti, Michigan
+           (2) 12 July 1857   Chicago, Illinois
+                 Rachel Ginter Thompson
+     d. 5 December [1877?]   Chicago, Illinois
+  
+  <font size=+1>children by Mary Cordelia Canovan:</font>
+     <a href="Mfamilies.htm#MarkL01">Mark Lyman Vining</a>   b. 24 August 1842   Troy, Michigan   -   m. (1) Celestine Richardson;   (2) Adelle G. Billings Henry   -   d. 30 December 1907   -   bur. Highland Cemetery   Ypsilanti, Michigan
+     John Vining
+     George Vining
+     Adelaide Vining
+  <font size=+1>children by Rachel Ginter Thompson:</font>
+     Priscilla May Vining   b. 25 May 1858   Troy, Michigan   -   m. 1 June 1884   Claude Herbert Pearsall
+     Teresa Eugenia Vining   b. 28 March 1861   -   d. 27 November 1862   Troy, Michigan
+     Caroline Teresa Vining   b. 9 September 1863   -   d. 27 August 1864   Detroit, Michigan
+  
+  <a href="Jsources/JohnH01doc.htm">documentation and notes</a>

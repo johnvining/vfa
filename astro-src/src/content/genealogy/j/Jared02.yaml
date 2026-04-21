@@ -1,0 +1,126 @@
+id: Jared02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: James01
+parentDesc: James Vining and Lucy Cushing
+head:
+  givenName: Jared
+  birth:
+    date: 17 July 1800
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - number: 1
+    date: 26 May 1824
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Charlotte
+      surname: Stetson
+      birth:
+        date: 27 September 1803
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 20 April 1837
+        place: "Weymouth, Norfolk County, Massachusetts"
+  - number: 2
+    date: 3 December 1837
+    place: "Abington, Massachusetts"
+    spouse:
+      givenName: Emily
+      surname: Churchill
+      birth:
+        date: age 30 y. as of 1850 census
+        place: Massachusetts
+childrenGroups:
+  - spouseRef: Charlotte Stetson
+    children:
+      - name: Solon Augustus Vining
+        entryId: SolonA01
+        entryLetter: S
+        birth:
+          date: 28 May 1825
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 15 August 1847
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Louisa Holbrook
+        death:
+          date: 15 February 1894
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Lucy Ann Vining
+        birth:
+          date: 16 September 1826
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Alonzo Vining
+        entryId: Alonzo02
+        entryLetter: A
+        birth:
+          date: 7 January 1835
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 30 March 1857
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Susan Maria Reynolds
+        death:
+          date: 18 September 1888
+          place: "Weymouth, Norfolk County, Massachusetts"
+  - spouseRef: Emily Churchill
+    children:
+      - name: Jefferson Vining
+        birth:
+          date: 29 August 1839
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: George Henry Vining
+        entryId: GeorgeH01
+        entryLetter: G
+        birth:
+          date: 15 March 1844
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 21 July 1875
+            place: "Comanche, Texas"
+            spouse: Sarah A. Burleson
+        death:
+          date: 1 September 1923
+          place: "Montague, Texas"
+      - name: James Vining
+        entryId: James08
+        birth:
+          date: May 1850
+          place: Massachusetts
+        marriages:
+          - date: "Alice J. [...]"
+      - name: Emma Vining
+        birth:
+          date: age 6 y. as of 1860 census
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Laura Frances Vining
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Massachusetts
+docsUrl: Jsources/Jared02doc.htm
+raw: |-
+  <a name="Jared02"></a><font size=+2>Jared Vining</font>
+     (son of <a href="#James01">James Vining and Lucy Cushing</a>)
+     b. 17 July 1800   Weymouth, Norfolk County, Massachusetts
+     m. (1) 26 May 1824   Weymouth, Norfolk County, Massachusetts
+                 Charlotte Stetson
+                       (dau. of Timothy Stetson and Deborah Nash)
+                       b. 27 September 1803   Weymouth, Norfolk County, Massachusetts
+                       d. 20 April 1837   Weymouth, Norfolk County, Massachusetts
+           (2) 3 December 1837   Abington, Massachusetts
+                 Emily Churchill
+                       b. age 30 y. as of 1850 census   Massachusetts
+  
+  <font size=+1>children by Charlotte Stetson:</font>
+     <a href="Sfamilies.htm#SolonA01">Solon Augustus Vining</a>   b. 28 May 1825   Weymouth, Norfolk County, Massachusetts   -   m. 15 August 1847   Weymouth, Norfolk County, Massachusetts   Louisa Holbrook   -   d. 15 February 1894   Weymouth, Norfolk County, Massachusetts
+     Lucy Ann Vining   b. 16 September 1826   Weymouth, Norfolk County, Massachusetts
+     <a href="Afamilies.htm#Alonzo02">Alonzo Vining</a>   b. 7 January 1835   Weymouth, Norfolk County, Massachusetts   -   m. 30 March 1857   Weymouth, Norfolk County, Massachusetts   Susan Maria Reynolds   -   d. 18 September 1888   Weymouth, Norfolk County, Massachusetts
+  <font size=+1>children by Emily Churchill:</font>
+     Jefferson Vining   b. 29 August 1839   Weymouth, Norfolk County, Massachusetts
+     <a href="Gfamilies.htm#GeorgeH01">George Henry Vining</a>   b. 15 March 1844   Weymouth, Norfolk County, Massachusetts   -   m. 21 July 1875   Comanche, Texas   Sarah A. Burleson   -   d. 1 September 1923   Montague, Texas
+     <a href="#James08">James Vining</a>   b. May 1850   Massachusetts   -   m. Alice J. [...]
+     Emma Vining   b. age 6 y. as of 1860 census   Weymouth, Norfolk County, Massachusetts
+     Laura Frances Vining   b. age 4 y. as of 1860 census   Massachusetts
+  
+  <a href="Jsources/Jared02doc.htm">documentation and notes</a>

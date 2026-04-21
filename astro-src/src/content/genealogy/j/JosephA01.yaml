@@ -1,0 +1,107 @@
+id: JosephA01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Alonzo01
+parentLetter: A
+parentDesc: "Alonzo Vining and Jane [McNee of MacKee?]"
+head:
+  givenName: Joseph Alonzo
+  birth:
+    date: 12 June 1857
+  death:
+    date: 5 April 1927
+marriages:
+  - number: 1
+    date: (Mary) Emma Lindley
+  - number: 2
+    date: 5 September 1914
+    spouse:
+      givenName: Eliza (Lindley)
+      surname: Agur
+childrenGroups:
+  - spouseRef: (Mary) Emma Lindley
+    children:
+      - name: Roy Lindley Vining
+        birth:
+          date: 14 December 1887
+        death:
+          date: 19 December 1918
+      - name: James Gordon Vining
+        entryId: JamesG01
+        birth:
+          date: 16 November 1889
+        marriages:
+          - date: "1915"
+            spouse: Elizabeth Duffin
+        death:
+          date: 4 March 1965
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario"
+      - name: Alonzo Moulton Vining
+        entryId: AlonzoM01
+        entryLetter: A
+        birth:
+          date: 4 January 1891
+        marriages:
+          - date: Nellie Vance
+        death:
+          date: 3 September 1935
+        burial:
+          place: "Aultsville, Ontario"
+      - name: Eva Gertrude Vining
+        birth:
+          date: 14 May 1893
+        marriages:
+          - date: Clare Perkins
+        death:
+          date: February 1978
+      - name: Harriet Jean Vining
+        birth:
+          date: 12 July 1895
+          place: m. Freeman J. Duffin
+      - name: William Henry Vining
+        birth:
+          date: 24 February 1898
+        marriages:
+          - date: Edith Tuttle
+        death:
+          date: 7 April 1971
+          place: "(last residence: Niagara Falls, New York)"
+      - name: Alice Beatrice Vining
+        birth:
+          date: 19 June 1900
+        marriages:
+          - date: Nelson Corbett
+      - name: Charlotte Irene Vining
+        birth:
+          date: 15 October 1902
+        death:
+          date: 12 December 1964
+docsUrl: Jsources/JosephA01doc.htm
+raw: |-
+  <a name="JosephA01"></a><font size=+2>Joseph Alonzo Vining</font>
+     (son of <a href="Afamilies.htm#Alonzo01">Alonzo Vining and Jane [McNee of MacKee?]</a>)
+     b. 12 June 1857
+     m. (1) (Mary) Emma Lindley
+                    b. 20 January 1863
+                    d. 2 April 1911
+                          bur. Vining Cemetery   Friendly Corners, Middlesex County, Ontario
+           (2) 5 September 1914
+                 Eliza (Lindley) Agur
+                    (dau. of William Lindley and Harriet Dry)
+                    b. age 55 y. at marriage to Joseph Alonzo Vining
+     d. 5 April 1927
+           bur. Vining Cemetery   Friendly Corners, Middlesex County, Ontario
+  
+  <font size=+1>children by (Mary) Emma Lindley:</font>
+     Roy Lindley Vining   b. 14 December 1887   -   d. 19 December 1918
+     <a href="#JamesG01">James Gordon Vining</a>   b. 16 November 1889   -   m. 1915   Elizabeth Duffin   -   d. 4 March 1965   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario
+     <a href="Afamilies.htm#AlonzoM01">Alonzo Moulton Vining</a>   b. 4 January 1891   -   m. Nellie Vance   -   d. 3 September 1935   -   bur. Aultsville, Ontario
+     Eva Gertrude Vining   b. 14 May 1893   -   m. Clare Perkins   -   d. February 1978
+     Harriet Jean Vining   b. 12 July 1895   m. Freeman J. Duffin
+     William Henry Vining   b. 24 February 1898   -   m. Edith Tuttle   -   d. 7 April 1971   (last residence: Niagara Falls, New York)   -   bur Vining Cemetery   Thorndale, Ontario
+     Alice Beatrice Vining   b. 19 June 1900   -   m. Nelson Corbett
+     Charlotte Irene Vining   b. 15 October 1902   -   d. 12 December 1964
+  
+  <a href="Jsources/JosephA01doc.htm">documentation and notes</a>

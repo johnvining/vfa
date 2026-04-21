@@ -1,0 +1,147 @@
+id: JohnAB01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnB04
+parentDesc: John B. Vining and Rhue Ann McClain
+head:
+  givenName: John A. Bradley
+  birth:
+    date: 16 April 1871
+    place: Ohio
+  death:
+    date: 26 December 1956
+    place: Indiana
+marriages:
+  - date: 14 April 1897
+    place: Indiana
+    spouse:
+      givenName: Sarah Jane
+      surname: Brown
+      birth:
+        date: 17 September 1877
+        place: Indiana
+      death:
+        date: 23 March 1928
+        place: "Muncie, Indiana"
+      burial:
+        place: "Beech Grove Cemetery   Muncie, Indiana"
+childrenGroups:
+  - children:
+      - name: William McKinley Vining
+        birth:
+          date: 10 July 1897
+          place: Indiana
+        marriages:
+          - date: 31 August 1936
+            spouse: Linda Frances Granville
+        death:
+          date: "[24 or 26?] June 1937"
+          place: "Columbus Town, Indiana"
+      - name: Donald Dewey Admiral Vining
+        entryId: DonaldDA01
+        entryLetter: D
+        birth:
+          date: 2 November 1898
+          place: "Portland, Indiana"
+        marriages:
+          - date: 28 December 1928
+            place: "Muncie, Indiana"
+            spouse: Martha Elizabeth Gurley
+        death:
+          date: 1 October 1976
+          place: "Muncie, Indiana"
+        burial:
+          place: "Elm Ridge Cemetery   Muncie, Indiana"
+      - name: Delphia Mae Vining
+        birth:
+          date: 14 June 1900
+          place: Indiana
+        marriages:
+          - date: 10 July 1920
+            place: Indiana
+            spouse: Howard E. Bell
+      - name: Dessie Sylvertia Vining
+        birth:
+          date: 3 March 1905
+          place: Indiana
+        marriages:
+          - date: 14 April 1923
+            place: Indiana
+            spouse: Jack Ryder
+        death:
+          date: "1926"
+      - name: Anna Rebecca Vining
+        birth:
+          date: 24 December 1907
+          place: Indiana
+        marriages:
+          - date: 10 June 1933
+            spouse: George Curtis Bantz
+        death:
+          date: 26 February 1996
+          place: Indiana
+      - name: Lloyd Henry Vining
+        entryId: LloydH01
+        entryLetter: L
+        birth:
+          date: 22 January 1909
+          place: "Muncie, Indiana"
+        marriages:
+          - number: 1
+            date: Elizabeth Pierce
+          - number: 2
+            date: "Esther [...]"
+          - number: 3
+            date: Geraldine Stanley
+        death:
+          date: 9 November 1990
+          place: "Portland, Indiana"
+        burial:
+          place: "Beech Grove Cemetery   Muncie, Indiana"
+      - name: Mary Geraldine Vining
+        birth:
+          date: 10 July 1911
+          place: Indiana
+        marriages:
+          - date: 8 October 1932
+            spouse: Isaac W. Anderson
+        death:
+          date: 16 October 1999
+          place: "Muncie, Indiana"
+      - name: Helen Josephine Vining
+        birth:
+          date: 11 April 1913
+          place: Indiana
+        marriages:
+          - date: 3 September 1932
+            place: Indiana
+            spouse: Theodore Roosevelt Neal
+        death:
+          date: 24 August 1994
+          place: "Los Angeles, California"
+docsUrl: Jsources/JohnAB01doc.htm
+raw: |-
+  <a name="JohnAB01"></a><font size=+2>John A. Bradley Vining</font>
+     (son of <a href="#JohnB04">John B. Vining and Rhue Ann McClain</a>)
+     b. 16 April 1871   Ohio
+     m. 14 April 1897   Indiana
+           Sarah Jane Brown
+                 (dau. of Abraham Brown and Rebecca Runyon)
+                 b. 17 September 1877   Indiana
+                 d. 23 March 1928   Muncie, Indiana
+                       bur. Beech Grove Cemetery   Muncie, Indiana
+     d. 26 December 1956   Indiana
+           bur. Beech Grove Cemetery   Muncie, Indiana
+  
+  <font size=+1>children:</font>
+     William McKinley Vining   b. 10 July 1897   Indiana   -   m. 31 August 1936   Linda Frances Granville   -   d. [24 or 26?] June 1937   Columbus Town, Indiana
+     <a href="Dfamilies.htm#DonaldDA01">Donald Dewey Admiral Vining</a>   b. 2 November 1898   Portland, Indiana   -   m. 28 December 1928   Muncie, Indiana   Martha Elizabeth Gurley   -   d. 1 October 1976   Muncie, Indiana   -   bur. Elm Ridge Cemetery   Muncie, Indiana
+     Delphia Mae Vining   b. 14 June 1900   Indiana   -   m. 10 July 1920   Indiana   Howard E. Bell
+     Dessie Sylvertia Vining   b. 3 March 1905   Indiana   -   m. 14 April 1923   Indiana   Jack Ryder   -   d. 1926
+     Anna Rebecca Vining   b. 24 December 1907   Indiana   -   m. 10 June 1933   George Curtis Bantz   -   d. 26 February 1996   Indiana
+     <a href="Lfamilies.htm#LloydH01">Lloyd Henry Vining</a>   b. 22 January 1909   Muncie, Indiana   -   m. (1) Elizabeth Pierce;   (2) Esther [...];   (3) Geraldine Stanley   -   d. 9 November 1990   Portland, Indiana   -   bur. Beech Grove Cemetery   Muncie, Indiana
+     Mary Geraldine Vining   b. 10 July 1911   Indiana   -   m. 8 October 1932   Isaac W. Anderson   -   d. 16 October 1999   Muncie, Indiana
+     Helen Josephine Vining   b. 11 April 1913   Indiana   -   m. 3 September 1932   Indiana   Theodore Roosevelt Neal   -   d. 24 August 1994   Los Angeles, California
+  
+  <a href="Jsources/JohnAB01doc.htm">documentation and notes</a>

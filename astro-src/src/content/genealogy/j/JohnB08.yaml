@@ -1,0 +1,28 @@
+id: JohnB08
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Henry07
+parentLetter: H
+parentDesc: Henry Vining and Rebecca Lyle
+head:
+  givenName: John Beckley
+  birth:
+    date: 2 April 1815
+    place: "New Castle, New Castle County, Delaware"
+  death:
+    date: 22 January 1892
+    place: "New Castle, New Castle County, Delaware"
+marriages:
+  - spouse:
+      givenName: Sarah M.
+      surname: Bradford
+raw: |-
+  <a name="JohnB08"></a><font size=+2>John Beckley Vining</font>
+     (son of <a href="Hfamilies.htm#Henry07">Henry Vining and Rebecca Lyle</a>)
+     b. 2 April 1815   New Castle, New Castle County, Delaware
+     m. Sarah M. Bradford
+     d. 22 January 1892   New Castle, New Castle County, Delaware
+  
+  <font size=+1>child:</font>
+     Harriet C. Vining   b. November 1842   Deleware   -   d. 11 June 1914

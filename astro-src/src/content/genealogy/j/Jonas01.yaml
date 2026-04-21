@@ -1,0 +1,119 @@
+id: Jonas01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jonathan01
+parentDesc: Jonathan/John Vining and Rosanna/Roxanna Carter
+head:
+  givenName: Jonas
+  birth:
+    date: 22 September 1765
+    place: Connecticut
+  death:
+    date: 25 May 1841
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Sarah
+      surname: Page
+childrenGroups:
+  - children:
+      - name: Betsey Vining
+        birth:
+          date: ca. 1788
+          place: New York
+        marriages:
+          - date: March 1805
+            spouse: Isaac Davis
+        death:
+          date: 14 May 1871
+        burial:
+          place: "Vining Cemetery   Bennington Township, Ohio"
+      - name: Luther Vining
+        entryId: Luther01
+        entryLetter: L
+        birth:
+          date: 12 January 1790
+          place: New York
+        marriages:
+          - date: Sybil Webster
+        death:
+          date: 12 May 1857
+        burial:
+          place: "Bloomfield Cemetery   Bearcreek Township, Jay County, Indiana"
+      - name: Fannie Vining
+        birth:
+          date: 4 April 1793
+          place: New York
+        marriages:
+          - date: Samuel Davis
+        death:
+          date: 28 March 1881
+          place: "Marengo, Morrow County, Ohio"
+      - name: Rufus Vining
+        entryId: Rufus01
+        entryLetter: R
+        birth:
+          date: 16 June 1800
+          place: New York
+        marriages:
+          - date: 29 December 1825
+            place: Ohio
+            spouse: Almira Doughty
+        death:
+          date: 5 January 1877
+          place: "Porter, Ohio"
+        burial:
+          place: "Fargo Cemetery   Bennington Township, Ohio"
+      - name: Sarah Vining
+      - name: Nancy Vining
+      - name: Polly Vining
+      - name: Calvin Vining
+        entryId: Calvin01
+        entryLetter: C
+        birth:
+          date: 28 March 1803
+          place: "Chenango, New York"
+        marriages:
+          - date: Mary Ann Noe
+        death:
+          date: 18 January 1858
+          place: Ohio
+      - name: "Benjamin? Vining"
+        entryId: Benjamin05
+        entryLetter: B
+        birth:
+          date: "1806"
+      - name: Lydia Vining
+      - name: John Bradley Vining
+        entryId: JohnB01
+        birth:
+          date: age 40 y. as of 1850 census
+          place: "Chenango, New York"
+        marriages:
+          - date: ca. 1835
+            spouse: Sarah A. Doty
+raw: |-
+  <a name="Jonas01"></a><font size=+2>Jonas Vining</font>
+     (son of <a href="#Jonathan01">Jonathan/John Vining and Rosanna/Roxanna Carter</a>)
+     b. 22 September 1765   Connecticut
+     m. Sarah Page
+              (dau. of Isaac Page and Sarah Bradley)
+              b. 1771   Connecticut
+              d. 9 November 1853   Pagetown, Morrow County, Ohio
+                    bur. Vining Cemetery   Bennington Township, Ohio
+     d. 25 May 1841   Ohio
+           bur. Vining Cemetery   Bennington Township, Ohio
+  
+  <font size=+1>children:</font>
+     Betsey Vining   b. ca. 1788   New York   -   m. March 1805   Isaac Davis   -   d. 14 May 1871   -   bur. Vining Cemetery   Bennington Township, Ohio
+     <a href="Lfamilies.htm#Luther01">Luther Vining</a>   b. 12 January 1790   New York   -   m. Sybil Webster   -   d. 12 May 1857   -   bur. Bloomfield Cemetery   Bearcreek Township, Jay County, Indiana
+     Fannie Vining   b. 4 April 1793   New York   -   m. Samuel Davis   -   d. 28 March 1881   Marengo, Morrow County, Ohio
+     <a href="Rfamilies.htm#Rufus01">Rufus Vining</a>   b. 16 June 1800   New York   -   m. 29 December 1825   Ohio   Almira Doughty   -   d. 5 January 1877   Porter, Ohio   -   bur. Fargo Cemetery   Bennington Township, Ohio
+     Sarah Vining
+     Nancy Vining
+     Polly Vining
+     <a href="Cfamilies.htm#Calvin01">Calvin Vining</a>   b. 28 March 1803   Chenango, New York   -   m. Mary Ann Noe   -   d. 18 January 1858   Ohio
+     <a href="Bfamilies.htm#Benjamin05">Benjamin? Vining</a>   b. 1806
+     Lydia Vining
+     <a href="#JohnB01">John Bradley Vining</a>   b. age 40 y. as of 1850 census   Chenango, New York   -   m. ca. 1835   Sarah A. Doty

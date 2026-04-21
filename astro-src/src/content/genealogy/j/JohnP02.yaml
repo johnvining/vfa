@@ -1,0 +1,58 @@
+id: JohnP02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ShedrickW01
+parentLetter: S
+parentDesc: Shedrick W. Vining and Virginia Fay Huett
+head:
+  givenName: John P.
+  birth:
+    date: 30 November 1878
+    place: Alabama
+  death:
+    date: 4 August 1961
+marriages:
+  - spouse:
+      givenName: Cora L.
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Callie Mae Vining
+        birth:
+          date: "1906"
+        marriages:
+          - date: "[&#8230;] Carroll"
+        death:
+          date: "1982"
+      - name: Cassie Faye Vining
+        birth:
+          date: "1914"
+        marriages:
+          - date: "[&#8230;] Bracknell"
+        death:
+          date: "1951"
+      - name: Estella Clara Vining
+        birth:
+          date: "1916"
+          place: "m. [&#8230;] Tyler"
+        death:
+          date: "1985"
+docsUrl: Jsources/JohnP02doc.htm
+raw: |-
+  <a name="JohnP02"></a><font size=+2>John P. Vining</font>
+     (son of <a href="Sfamilies.htm#ShedrickW01">Shedrick W. Vining and Virginia Fay Huett</a>)
+     b. 30 November 1878   Alabama
+     m. Cora L. [&#8230;]
+              b. 25 August 1883
+              d. 20 January 1954
+                    bur. Hickman Chapel Cemetery   Tuscaloosa County, Alabama
+     d. 4 August 1961
+           bur. Hickman Chapel Cemetery   Tuscaloosa County, Alabama
+  
+  <font size=+1>children:</font>
+     Callie Mae Vining   b. 1906   -   m. [&#8230;] Carroll   -   d. 1982
+     Cassie Faye Vining   b. 1914   -   m. [&#8230;] Bracknell   -   d. 1951
+     Estella Clara Vining   b. 1916   m. [&#8230;] Tyler   -   d. 1985
+  
+  <a href="Jsources/JohnP02doc.htm">documentation and notes</a>

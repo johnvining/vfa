@@ -1,0 +1,84 @@
+id: JohnS06
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John Sasser
+  birth:
+    date: "1834"
+  death:
+    date: 9 August 1888
+marriages:
+  - spouse:
+      givenName: Mary Jane
+      surname: Beard
+childrenGroups:
+  - children:
+      - name: Lucinda T Vining
+        birth:
+          date: "1869"
+        marriages:
+          - date: "[&#8230;] Barnes"
+        death:
+          date: "1929"
+      - name: Mary E. Vining
+        birth:
+          date: "1871"
+        marriages:
+          - date: "[&#8230;] Crabb"
+        death:
+          date: "1951"
+      - name: John Henry Vining
+        entryId: JohnH03
+        birth:
+          date: 4 February 1874
+          place: Alabama
+        marriages:
+          - date: Virgie Lorene Holt
+        death:
+          date: 26 January 1942
+          place: "Athens, Alabama"
+        burial:
+          place: "Reunion Cemetery   Thach, Alabama"
+      - name: Joseph Sasser Vining
+        birth:
+          date: November 1876
+          place: Alabama
+        death:
+          date: 14 May 1951
+          place: Alabama
+        burial:
+          place: "Reunion Cemetery   Thach, Alabama"
+      - name: William David Vining
+        entryId: WilliamD04
+        entryLetter: W
+        birth:
+          date: 30 July 1882
+          place: Mississippi
+        marriages:
+          - date: "Minnie B. [&#8230;]"
+        death:
+          date: 18 September 1935
+        burial:
+          place: "Cypert Cemetery   Cypert, Arkansas"
+docsUrl: Jsources/JohnS06doc.htm
+raw: |-
+  <a name="JohnS06"></a><font size=+2>John Sasser Vining</font>
+     (son of [?])
+     b. 1834
+     m. Mary Jane Beard
+              b. 1845   Alabama
+              d. 26 June 1926   Athens, Alabama
+                    bur. Reunion Cemetery   Thach, Alabama
+     d. 9 August 1888
+           bur. Loyd Cemetery   Calhoun County, Mississippi
+  
+  <font size=+1>children:</font>
+     Lucinda T Vining   b. 1869   -   m. [&#8230;] Barnes   -   d. 1929
+     Mary E. Vining   b. 1871   -   m. [&#8230;] Crabb   -   d. 1951
+     <a href="#JohnH03">John Henry Vining</a>   b. 4 February 1874   Alabama   -   m. Virgie Lorene Holt   -   d. 26 January 1942   Athens, Alabama   -   bur. Reunion Cemetery   Thach, Alabama
+     Joseph Sasser Vining   b. November 1876   Alabama   -   d. 14 May 1951   Alabama   -   bur. Reunion Cemetery   Thach, Alabama
+     <a href="Wfamilies.htm#WilliamD04">William David Vining</a>   b. 30 July 1882   Mississippi   -   m. Minnie B. [&#8230;]   -   d. 18 September 1935   -   bur. Cypert Cemetery   Cypert, Arkansas
+  
+  <a href="Jsources/JohnS06doc.htm">documentation and notes</a>

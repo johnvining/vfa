@@ -1,0 +1,31 @@
+id: JackieR01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LeoW01
+parentLetter: L
+parentDesc: Leo Warren Vining and Dorothy Reba Anderson
+head:
+  givenName: Jackie Roy
+  birth:
+    date: 26 December 1953
+marriages:
+  - date: 13 September 1975
+    place: "Eugene, Oregon"
+    spouse:
+      givenName: Paula
+      surname: Leonard
+childrenGroups:
+  - children:
+      - name: Kelly Vining
+      - name: Kevin Vining
+raw: |-
+  <a name="JackieR01"></a><font size=+2>Jackie Roy Vining</font>
+     (son of <a href="Lfamilies.htm#LeoW01">Leo Warren Vining and Dorothy Reba Anderson</a>)
+     b. 26 December 1953
+     m. 13 September 1975   Eugene, Oregon
+           Paula Leonard
+  
+  <font size=+1>children:</font>
+     Kelly Vining
+     Kevin Vining

@@ -1,0 +1,41 @@
+id: JohnW07
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ThomasCJr01
+parentLetter: T
+parentDesc: Thomas Cleburne Vining Jr. and Nancy Williams
+head:
+  givenName: John Wesley
+  birth:
+    date: 29 December 1970
+marriages:
+  - number: 1
+    date: 14 December 1991
+    spouse:
+      givenName: divorced 25 September
+      surname: "2014"
+  - number: 2
+    date: 18 May 2017
+childrenGroups:
+  - spouseRef: Jennifer Monique Eubanks
+    children:
+      - name: Bethany Elaine Vining
+        birth:
+          date: 14 October 1994
+      - name: John Luke Thomas Vining
+        birth:
+          date: 3 May 2003
+raw: |-
+  <a name="JohnW07"></a><font size=+2>John Wesley Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasCJr01">Thomas Cleburne Vining Jr. and Nancy Williams</a>)
+     b. 29 December 1970
+     m. (1) 14 December 1991
+                    Jennifer Monique Eubanks
+                 divorced 25 September 2014
+           (2) 18 May 2017
+                    Ratna Surjadi
+  
+  <font size=+1>children by Jennifer Monique Eubanks:</font>
+     Bethany Elaine Vining   b. 14 October 1994
+     John Luke Thomas Vining   b. 3 May 2003

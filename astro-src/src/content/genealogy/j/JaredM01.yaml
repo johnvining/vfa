@@ -1,0 +1,57 @@
+id: JaredM01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jared01
+parentDesc: Jared Vining and Louise Morgan
+head:
+  givenName: Jared Morgan
+  birth:
+    date: "1812"
+    place: "Bridgewater, NY"
+marriages:
+  - date: 30 October 1839
+    place: "Nissouri Township, Ontario"
+    spouse:
+      givenName: Ellen
+      surname: Vandenbergh
+      birth:
+        date: "1818"
+      death:
+        date: 6 April 1880
+        place: "Flushing Township, Michigan"
+childrenGroups:
+  - children:
+      - name: Jared Vining
+        entryId: Jared03
+        birth:
+          date: age 37 y. as of 1880 census
+        marriages:
+          - date: 29 June 1876
+            place: "Genesee County, Michigan"
+            spouse: Mary Lumetta Firman
+      - name: Charles Vining
+        entryId: Charles14
+        entryLetter: C
+        birth:
+          date: 15 April 1846
+          place: "West Nissouri Township, Ontario"
+        marriages:
+          - date: "1869"
+            spouse: Emma Mary Smith
+        death:
+          date: "1906"
+          place: Michigan
+raw: |-
+  <a name="JaredM01"></a><font size=+2>Jared Morgan Vining</font>
+     (son of <a href="#Jared01">Jared Vining and Louise Morgan</a>)
+     b. 1812   Bridgewater, NY
+     m. 30 October 1839   Nissouri Township, Ontario
+           Ellen Vandenbergh
+                 (dau. of John Vandenbergh and Mary Williams)
+                 b. 1818
+                 d. 6 April 1880   Flushing Township, Michigan
+  
+  <font size=+1>children:</font>
+     <a href="#Jared03">Jared Vining</a>   b. age 37 y. as of 1880 census   -   m. 29 June 1876   Genesee County, Michigan   Mary Lumetta Firman
+     <a href="Cfamilies.htm#Charles14">Charles Vining</a>   b. 15 April 1846   West Nissouri Township, Ontario   -   m. 1869   Emma Mary Smith   -   d. 1906   Michigan

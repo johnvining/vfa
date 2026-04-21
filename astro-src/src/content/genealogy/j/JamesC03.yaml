@@ -1,0 +1,82 @@
+id: JamesC03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: AustinS01
+parentLetter: A
+parentDesc: Austin Shorter Vining and Jane A. Patterson
+head:
+  givenName: James Clinton
+  birth:
+    date: 28 August 1852
+    place: "Murray County, Georgia"
+  death:
+    date: 20 May 1931
+    place: "Whitfield County, Georgia"
+marriages:
+  - date: 27 y. as of 1900 census
+    spouse:
+      givenName: Alice
+      surname: Henley
+      birth:
+        date: May 1855
+        place: Georgia
+      death:
+        date: between 1920 and 1930 censuses
+      burial:
+        place: "Dawnville Cemetery   Dawnville, Georgia"
+childrenGroups:
+  - children:
+      - name: Robert Shorter Vining
+        entryId: RobertS01
+        entryLetter: R
+        birth:
+          date: 3 September 1875
+          place: Georgia
+        marriages:
+          - date: Leona Leonard
+        death:
+          date: 16 December 1933
+        burial:
+          place: "West Hill Cemetery   Dalton, Georgia"
+      - name: Augustus J. Vining
+        birth:
+          date: November 1877
+          place: Georgia
+      - name: Zelura Vining
+        birth:
+          date: February 1880
+          place: Georgia
+      - name: child Vining
+      - name: child Vining
+      - name: Leonard E. Vining
+        entryId: LeonardE01
+        entryLetter: L
+        birth:
+          date: February 1892
+          place: Georgia
+        marriages:
+          - date: 7 September 1913
+            place: "Elizabeth City, North Carolina"
+docsUrl: Jsources/JamesC03doc.htm
+raw: |-
+  <a name="JamesC03"></a><font size=+2>James Clinton Vining</font>
+     (son of <a href="Afamilies.htm#AustinS01">Austin Shorter Vining and Jane A. Patterson</a>)
+     b. 28 August 1852   Murray County, Georgia
+     m. 27 y. as of 1900 census
+           Alice Henley
+                 b. May 1855   Georgia
+                 d. between 1920 and 1930 censuses
+                       bur. Dawnville Cemetery   Dawnville, Georgia
+     d. 20 May 1931   Whitfield County, Georgia
+           bur. Dawnville Cemetery   Dawnville, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RobertS01">Robert Shorter Vining</a>   b. 3 September 1875   Georgia   -   m. Leona Leonard   -   d. 16 December 1933      -   bur. West Hill Cemetery   Dalton, Georgia
+     Augustus J. Vining   b. November 1877   Georgia
+     Zelura Vining   b. February 1880   Georgia
+     child Vining
+     child Vining
+     <a href="Lfamilies.htm#LeonardE01">Leonard E. Vining</a>   b. February 1892   Georgia   -   m. 7 September 1913   Elizabeth City, North Carolina
+  
+  <a href="Jsources/JamesC03doc.htm">documentation and notes</a>

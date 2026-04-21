@@ -1,0 +1,42 @@
+id: JesseH01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JesseL01
+parentDesc: Jesse Lawrence Vining and Sarah Ann Nail Alcox
+head:
+  givenName: Jesse Henry
+  birth:
+    date: "1858"
+marriages:
+  - number: 1
+    date: "Tobitha Goodbread?"
+  - number: 2
+    date: 19 August 1890
+childrenGroups:
+  - children:
+      - name: Nellie Vining
+      - name: Edgar Vining
+      - name: Lennie Vining
+      - name: Mary Elizabeth Vining
+      - name: Priscilla Vining
+      - name: Tabitha Vining
+        marriages:
+          - date: Riley Fullwood
+      - name: Nora Vining
+raw: |-
+  <a name="JesseH01"></a><font size=+2>Jesse Henry Vining</font>
+     (son of <a href="#JesseL01">Jesse Lawrence Vining and Sarah Ann Nail Alcox</a>)
+     b. 1858
+     m. (1) Tobitha Goodbread?
+           (2) 19 August 1890
+                    Georgia Loretta Rimer
+  
+  <font size=+1>children:</font>
+     Nellie Vining
+     Edgar Vining
+     Lennie Vining
+     Mary Elizabeth Vining
+     Priscilla Vining
+     Tabitha Vining   m. Riley Fullwood
+     Nora Vining

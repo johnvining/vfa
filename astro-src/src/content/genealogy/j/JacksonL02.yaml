@@ -1,0 +1,35 @@
+id: JacksonL02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisM03
+parentLetter: F
+parentDesc: Francis Marion Vining and Hary Leah Harris
+head:
+  givenName: Jackson L.
+  birth:
+    date: "1907"
+    place: Georgia
+  death:
+    date: 19 March 1963
+    place: "Hartford, Connecticut"
+marriages:
+  - spouse:
+      givenName: Catherine Elizabeth
+      surname: Harrison
+docsUrl: Jsources/JacksonL02doc.htm
+raw: |-
+  <a name="JacksonL02"></a><font size=+2>Jackson L. Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisM03">Francis Marion Vining and Hary Leah Harris</a>)
+     b. 1907   Georgia
+     m. Catherine Elizabeth Harrison
+              b. 12 July 1912   Fort Valley, Georgia
+              d. 30 June 2001   Hartford, Connecticut
+                    bur. Fairview Cemetery   West Hartford, Connecticut
+     d. 19 March 1963   Hartford, Connecticut
+           bur. Fairview Cemetery   West Hartford, Connecticut
+  
+  <font size=+1>child:</font>
+     <a href="#JackH01">Jack HarrisonVining</a>   b. 29 February 1932   New Haven, Connecticut   -   m. 12 July 1958   Monticello, Florida   Madge Burt Alexander   -   d. 2 February 2019   -   bur. West Street Cemetery   Columbia, Connecticut
+  
+  <a href="Jsources/JacksonL02doc.htm">documentation and notes</a>

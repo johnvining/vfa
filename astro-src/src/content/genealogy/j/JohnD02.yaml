@@ -1,0 +1,36 @@
+id: JohnD02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LawrenceC01
+parentLetter: L
+parentDesc: "Lawrence Claud[e?] Vining and Martha Ernestina Hielscher"
+head:
+  givenName: John David
+  birth:
+    date: 14 October 1944
+    place: "Lake City, Minnesota"
+marriages:
+  - date: 18 December 1965
+    spouse:
+      givenName: Linda
+      surname: Myers
+childrenGroups:
+  - children:
+      - name: Samuel Vining
+        birth:
+          date: 19 March 1967
+          place: "Lake City, Minnesota"
+      - name: Tammy Vining
+        birth:
+          date: 21 June 1968
+raw: |-
+  <a name="JohnD02"></a><font size=+2>John David Vining</font>
+     (son of <a href="Lfamilies.htm#LawrenceC01">Lawrence Claud[e?] Vining and Martha Ernestina Hielscher</a>)
+     b. 14 October 1944   Lake City, Minnesota
+     m. 18 December 1965
+           Linda Myers
+  
+  <font size=+1>children:</font>
+     Samuel Vining   b. 19 March 1967   Lake City, Minnesota
+     Tammy Vining   b. 21 June 1968

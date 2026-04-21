@@ -1,0 +1,52 @@
+id: JohnL06
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: KennethE02
+parentLetter: K
+parentDesc: "Kenneth E. Vining and Rachel A. [&#8230;]"
+head:
+  givenName: John L.
+  birth:
+    date: 26 October 1933
+    place: "Marengo, Ohio"
+  death:
+    date: 6 May 2012
+    place: "Ashland, Ohio"
+marriages:
+  - date: 4 January 1956
+    spouse:
+      givenName: Lenore June
+      surname: Bridges
+      birth:
+        date: 11 August 1939
+        place: "Mansfield, Ohio"
+      death:
+        date: 13 July 2014
+        place: "Millersburg, Ohio"
+      burial:
+        place: "Greenlawn Union Cemetery   Perrysville, Ohio"
+childrenGroups:
+  - children:
+      - name: Debra Vining
+        marriages:
+          - date: "[&#8230;] Fowler"
+      - name: Linda Vining
+docsUrl: Jsources/JohnL06doc.htm
+raw: |-
+  <a name="JohnL06"></a><font size=+2>John L. Vining</font>
+     (son of <a href="Kfamilies.htm#KennethE02">Kenneth E. Vining and Rachel A. [&#8230;]</a>)
+     b. 26 October 1933   Marengo, Ohio
+     m. 4 January 1956
+           Lenore June Bridges
+                 b. 11 August 1939   Mansfield, Ohio
+                 d. 13 July 2014   Millersburg, Ohio
+                       bur. Greenlawn Union Cemetery   Perrysville, Ohio
+     d. 6 May 2012   Ashland, Ohio
+           bur. Greenlawn Union Cemetery   Perrysville, Ohio
+  
+  <font size=+1>children:</font>
+     Debra Vining   m. [&#8230;] Fowler
+     Linda Vining
+  
+  <a href="Jsources/JohnL06doc.htm">documentation and notes</a>

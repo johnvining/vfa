@@ -1,0 +1,143 @@
+id: JohnIII01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnJr04
+parentDesc: John Vining Jr. and Sarah Ratcliff
+head:
+  givenName: John III
+  birth:
+    date: ca. 1795
+    place: "Warren County, Georgia"
+  death:
+    date: "1838"
+    place: "Upson County, Georgia"
+marriages:
+  - number: 1
+    date: 4 February 1819
+    place: "Jefferson County, Georgia"
+    spouse:
+      givenName: Mary
+      surname: Hudson
+      birth:
+        date: "[1799 or 1800?]"
+      death:
+        date: "1829"
+  - number: 2
+    date: license issued 7 April 1829
+    place: "Jefferson County, Georgia"
+    spouse:
+      givenName: "Esibah [Hephezibah?]"
+      surname: Price
+      birth:
+        date: "1829"
+        place: "Jefferson County, Georgia"
+  - number: 3
+    date: "1830"
+    spouse:
+      givenName: Elizabeth
+      surname: Welsh
+childrenGroups:
+  - spouseRef: Mary Hudson
+    children:
+      - name: "[Emeline or Emaline?] C. Vining"
+        birth:
+          date: "1821"
+          place: "Jefferson County, Georgia"
+        marriages:
+          - date: 30 May 1841
+            place: "Upson County, Georgia"
+            spouse: Andrew J. Dees
+      - name: Lavinia K. Vining
+        birth:
+          date: "1823"
+          place: "Jefferson County, Georgia"
+        marriages:
+          - date: 11 December 1842
+            place: "Upson County, Georgia"
+            spouse: John W. Beverly
+      - name: William Whitfield Vining
+        entryId: WilliamW05
+        entryLetter: W
+        birth:
+          date: September 1823
+          place: "Jefferson County, Georgia"
+        marriages:
+          - date: 4 November 1845
+            place: "Upson County, Georgia"
+            spouse: Leacy Woodson
+        death:
+          date: "Upson Counnty, Georgia"
+        burial:
+          place: "Fellowship Baptist Church Cemetery   Upson County, Georgia"
+      - name: John Sanders Vining
+        entryId: JohnS03
+        birth:
+          date: 24 January 1828
+          place: "[Jefferson or Crawford?] County, Georgia"
+        marriages:
+          - date: 22 November 1849
+            place: Georgia
+            spouse: Elizabeth Louiza Worthington
+        death:
+          date: 23 June 1912
+          place: "Thomaston, Upson County, Georgia"
+        burial:
+          place: "Smith Cemetery   Upson County, Georgia"
+  - spouseRef: Elizabeth Welsh
+    children:
+      - name: Mary E. Vining
+        birth:
+          date: ca. 1831
+          place: "Upson County, Georgia"
+        marriages:
+          - date: 2 January 1851
+            place: "Upson County, Georgia"
+            spouse: Augustus A. Smith
+        death:
+          date: "[?]"
+        burial:
+          place: "Smith-Vining Cemetery   Thomaston, Upson County, Georgia"
+      - name: Francis Jefferson Vining
+        entryId: FrancisJ01
+        entryLetter: F
+        birth:
+          date: "[3 or 5?] April [1833 or 1834?]"
+          place: "Upson County, Georgia"
+        marriages:
+          - date: 9 November 1865
+            place: "Upson County, Georgia"
+            spouse: Falba J. Starling
+        death:
+          date: 26 April 1907
+          place: "Thomaston, Upson County, Georgia"
+        burial:
+          place: "Antioch United Methodist Cemetery   Thomaston, Georgia"
+      - name: John M. Vining
+docsUrl: Jsources/JohnIII01doc.htm
+raw: |-
+  <a name="JohnIII01"></a><font size=+2>John Vining III</font>
+     (son of <a href="#JohnJr04">John Vining Jr. and Sarah Ratcliff</a>)
+     b. ca. 1795   Warren County, Georgia
+     m. (1) 4 February 1819   Jefferson County, Georgia
+                 Mary Hudson
+                       b. [1799 or 1800?]
+                       d. 1829
+           (2) license issued 7 April 1829   Jefferson County, Georgia
+                 Esibah [Hephezibah?] Price
+                       b. 1829   Jefferson County, Georgia
+           (3) 1830
+                 Elizabeth Welsh
+     d. 1838   Upson County, Georgia
+  
+  <font size=+1>children by Mary Hudson:</font>
+     [Emeline or Emaline?] C. Vining   b. 1821   Jefferson County, Georgia   -   m. 30 May 1841   Upson County, Georgia   Andrew J. Dees
+     Lavinia K. Vining   b. 1823   Jefferson County, Georgia   -   m. 11 December 1842   Upson County, Georgia   John W. Beverly
+     <a href="Wfamilies.htm#WilliamW05">William Whitfield Vining</a>   b. September 1823   Jefferson County, Georgia   -   m. 4 November 1845   Upson County, Georgia   Leacy Woodson   -   d. Upson Counnty, Georgia   -   bur. Fellowship Baptist Church Cemetery   Upson County, Georgia
+     <a href="#JohnS03">John Sanders Vining</a>   b. 24 January 1828   [Jefferson or Crawford?] County, Georgia   -   m. 22 November 1849   Georgia   Elizabeth Louiza Worthington   -   d. 23 June 1912   Thomaston, Upson County, Georgia   -   bur. Smith Cemetery   Upson County, Georgia
+  <font size=+1>children by Elizabeth Welsh:</font>
+     Mary E. Vining   b. ca. 1831   Upson County, Georgia   -   m. 2 January 1851   Upson County, Georgia   Augustus A. Smith   -   d. [?]   -   bur. Smith-Vining Cemetery   Thomaston, Upson County, Georgia
+     <a href="Ffamilies.htm#FrancisJ01">Francis Jefferson Vining</a>   b. [3 or 5?] April [1833 or 1834?]   Upson County, Georgia   -   m. 9 November 1865   Upson County, Georgia   Falba J. Starling   -   d. 26 April 1907   Thomaston, Upson County, Georgia   -   bur. Antioch United Methodist Cemetery   Thomaston, Georgia
+     John M. Vining
+  
+  <a href="Jsources/JohnIII01doc.htm">documentation and notes</a>

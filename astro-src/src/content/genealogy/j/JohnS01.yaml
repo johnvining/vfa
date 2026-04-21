@@ -1,0 +1,64 @@
+id: JohnS01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JeffersonA01
+parentDesc: Jefferson Ashley Vining and Mary Elizabeth Fry
+head:
+  givenName: John Solon
+  birth:
+    date: 5 July 1849
+    place: Alabama
+  death:
+    date: 21 September 1907
+marriages:
+  - spouse:
+      givenName: Emma
+      surname: Sparks
+childrenGroups:
+  - children:
+      - name: Walter D. Vining
+        birth:
+          date: 29 September 1881
+          place: Alabama
+        death:
+          date: March 1910
+        burial:
+          place: "Georgetown Cemetery   Georgetown, Georgia"
+      - name: Ola Vining
+        birth:
+          date: 16January 1884
+          place: Georgia
+        marriages:
+          - date: "[&#8230;] Kaigler"
+        death:
+          date: 20 April 1949
+        burial:
+          place: "Georgetown Cemetery   Georgetown, Georgia"
+      - name: "B[&#8230;?] Vining"
+        birth:
+          date: July 1889
+          place: Georgia
+      - name: Mary Vining
+        birth:
+          date: July 1889
+          place: Georgia
+docsUrl: Jsources/JohnS01doc.htm
+raw: |-
+  <a name="JohnS01"></a><font size=+2>John Solon Vining</font>
+     (son of <a href="#JeffersonA01">Jefferson Ashley Vining and Mary Elizabeth Fry</a>)
+     b. 5 July 1849   Alabama
+     m. Emma Sparks
+              b. 30 March 1860   Alabama
+              d. 6 July 1935
+                    bur. Georgetown Cemetery   Georgetown, Georgia
+     d. 21 September 1907
+           bur. Georgetown Cemetery   Georgetown, Georgia
+  
+  <font size=+1>children:</font>
+     Walter D. Vining   b. 29 September 1881   Alabama   -   d. March 1910   -   bur. Georgetown Cemetery   Georgetown, Georgia
+     Ola Vining   b. 16January 1884   Georgia   -   m. [&#8230;] Kaigler   -   d. 20 April 1949   -   bur. Georgetown Cemetery   Georgetown, Georgia
+     B[&#8230;?] Vining   b. July 1889   Georgia
+     Mary Vining   b. July 1889   Georgia
+  
+  <a href="Jsources/JohnS01doc.htm">documentation and notes</a>

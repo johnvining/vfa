@@ -1,0 +1,44 @@
+id: JamesB04
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: BronsonE01
+parentLetter: B
+parentDesc: Bronson E. Vining and Margaret C. Walsh
+head:
+  givenName: James B.
+  birth:
+    date: 29 November 1936
+    place: "Toledo, Ohio"
+  death:
+    date: 13 September 2020
+    place: "Oregon, Ohio"
+marriages:
+  - date: 18 September 1965
+    place: "Toledo, Ohio"
+    spouse:
+      givenName: Joanne
+      surname: Tavcar
+childrenGroups:
+  - children:
+      - name: Daniel Vining
+        marriages:
+          - date: "Patti [&#8230;]"
+      - name: Maryann Vining
+        marriages:
+          - date: Tim Medley
+docsUrl: Jsources/JamesB04doc.htm
+raw: |-
+  <a name="JamesB04"></a><font size=+2>James B. Vining</font>
+     (son of <a href="Bfamilies.htm#BronsonE01">Bronson E. Vining and Margaret C. Walsh</a>)
+     b. 29 November 1936   Toledo, Ohio
+     m. 18 September 1965   Toledo, Ohio
+           Joanne Tavcar
+     d. 13 September 2020   Oregon, Ohio
+           bur. Lake Township Cemetery   Walbridge, Ohio
+  
+  <font size=+1>children:</font>
+     Daniel Vining   m. Patti [&#8230;]
+     Maryann Vining   m. Tim Medley
+  
+  <a href="Jsources/JamesB04doc.htm">documentation and notes</a>

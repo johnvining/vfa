@@ -1,0 +1,202 @@
+id: JohnU01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesB01
+parentDesc: James Blanchard Vining and Nancy Katherine Bahm
+head:
+  givenName: John Uriah
+  birth:
+    date: 16 August 1861
+    place: Louisiana
+  death:
+    date: 14 May 1928
+marriages:
+  - number: 1
+    date: 28 April 1887
+    place: Louisiana
+    spouse:
+      givenName: Fannie F.
+      surname: Spring
+      birth:
+        date: 18 January 1867
+      death:
+        date: 12 September 1893
+  - number: 2
+    date: 17 November 1895
+    spouse:
+      givenName: "Amelia Estelle &#8220;Abbie&#8221;"
+      surname: Dillan
+      birth:
+        date: 6 April 1873
+      death:
+        date: 1 March 1911
+      burial:
+        place: "Amite Cemetery   Amite, Louisiana"
+  - number: 3
+    date: 18 December 1911
+    spouse:
+      givenName: Annie Elizabeth
+      surname: Morgan
+      death:
+        date: 29 January 1958
+childrenGroups:
+  - spouseRef: Fannie F. Spring
+    children:
+      - name: daughter
+        birth:
+          date: 24 April 1888
+        death:
+          date: 24 April 1888
+      - name: Florence Ethel Vining
+        birth:
+          date: 24 April 1889
+        marriages:
+          - date: 20 September 1917
+            spouse: Leo Richard Perez
+      - name: Lelia Alma Vining
+        birth:
+          date: 1 April 1891
+        marriages:
+          - number: 1
+            date: 15 October 1910
+            spouse: Lawrence Butler
+          - number: 2
+            date: "1935"
+            spouse: "Jesse Lloyd &#8220;Happy&#8221; Engle"
+      - name: daughter   stillborn 12 September 1893
+  - spouseRef: "Amelia Estelle &#8220;Abbie&#8221; Dillan"
+    children:
+      - name: Grace Marguerite Vining
+        birth:
+          date: 17 December 1896
+        marriages:
+          - date: 1 September 1921
+            spouse: Samuel Fisher
+      - name: Gordon Francis Vining
+        entryId: GordonF02
+        entryLetter: G
+        birth:
+          date: 15 April 1898
+          place: Louisiana
+        marriages:
+          - date: 29 December 1923
+            spouse: Nettie Ophelia Passman
+        death:
+          date: 18 May 1954
+          place: Louisiana
+        burial:
+          place: "Chappapeela Baptist Cemetery   Amite, Louisiana"
+      - name: Edwin Johnson Vining
+        entryId: EdwinJ01
+        entryLetter: E
+        birth:
+          date: 26 March 1900
+          place: Louisiana
+        marriages:
+          - date: 4 June 1924
+            spouse: Miriam Estelle Starns
+        death:
+          date: 1 October 1952
+        burial:
+          place: "Mulberry Street Cemetery   Amite, Louisiana"
+      - name: Elva D. Vining
+        birth:
+          date: 6 August 1901
+        marriages:
+          - date: 1 June 1926
+            spouse: Samuel Kirby Wilson
+        death:
+          date: "1968"
+      - name: Julia Ruth Vining
+        birth:
+          date: 20 September 1903
+        marriages:
+          - date: 29 November 1935
+            spouse: Norman L. Hornsby
+      - name: John Tillman Vining
+        entryId: JohnT01
+        birth:
+          date: 31 December 1905
+        marriages:
+          - date: 18 February 1931
+            spouse: Essie Mae Morris
+        death:
+          date: 16 February 1961
+        burial:
+          place: "Mulberry Street Cemetery   Amite, Louisiana"
+      - name: Aubrey Elliott Vining
+        entryId: AubreyE01
+        entryLetter: A
+        birth:
+          date: 9 May 1908
+        marriages:
+          - date: 28 August 1929
+            spouse: Florence Frances McCarthy
+        death:
+          date: May 1969
+          place: "Metairie, Louisiana"
+        burial:
+          place: "Mulberry Street Cemetery   Amite, Louisiana"
+  - spouseRef: Annie Elizabeth Morgan
+    children:
+      - name: Thomas Underwood Vining
+        entryId: ThomasU01
+        entryLetter: T
+        birth:
+          date: 26 October 1912
+        marriages:
+          - number: 1
+            date: 16 May 1932
+            spouse: Mattie Mae Thompson
+          - number: 2
+            date: 16 October 1965
+            spouse: Mable (Story) Allen
+        death:
+          date: 9 July 1998
+          place: "(last residence: Denham Springs, Louisiana)"
+      - name: Catherine Eugenia Vining
+        birth:
+          date: 17 November 1916
+        marriages:
+          - date: 21 September 1935
+            spouse: Roy Earl Thompson
+docsUrl: Jsources/JohnU01doc.htm
+raw: |-
+  <a name="JohnU01"></a><font size=+2>John Uriah Vining</font>
+     (son of <a href="#JamesB01">James Blanchard Vining and Nancy Katherine Bahm</a>)
+     b. 16 August 1861   Louisiana
+     m. (1) 28 April 1887   Louisiana
+                 Fannie F. Spring
+                       (dau. of George K. Spring and Olivia Adelaine Longino)
+                       b. 18 January 1867
+                       d. 12 September 1893
+           (2) 17 November 1895
+                 Amelia Estelle &#8220;Abbie&#8221; Dillan
+                       b. 6 April 1873
+                       d. 1 March 1911
+                             bur. Amite Cemetery   Amite, Louisiana
+           (3) 18 December 1911
+                 Annie Elizabeth Morgan
+                       d. 29 January 1958
+     d. 14 May 1928
+           bur. Amite Cemetery   Amite, Louisiana
+  
+  <font size=+1>children by Fannie F. Spring:</font>
+     daughter   b. 24 April 1888   -   d. 24 April 1888
+     Florence Ethel Vining   b. 24 April 1889   -   m. 20 September 1917   Leo Richard Perez
+     Lelia Alma Vining   b. 1 April 1891   -   m. (1) 15 October 1910   Lawrence Butler;   (2) 1935   Jesse Lloyd &#8220;Happy&#8221; Engle
+     daughter   stillborn 12 September 1893
+  <font size=+1>children by Amelia Estelle &#8220;Abbie&#8221; Dillan</font>
+     Grace Marguerite Vining   b. 17 December 1896   -   m. 1 September 1921   Samuel Fisher
+     <a href="Gfamilies.htm#GordonF02">Gordon Francis Vining</a>   b. 15 April 1898   Louisiana   -   m. 29 December 1923   Nettie Ophelia Passman   -   d. 18 May 1954   Louisiana   -   bur. Chappapeela Baptist Cemetery   Amite, Louisiana
+     <a href="Efamilies.htm#EdwinJ01">Edwin Johnson Vining</a>   b. 26 March 1900   Louisiana   -   m. 4 June 1924   Miriam Estelle Starns   -   d. 1 October 1952   -   bur. Mulberry Street Cemetery   Amite, Louisiana
+     Elva D. Vining   b. 6 August 1901   -   m. 1 June 1926   Samuel Kirby Wilson   -   d. 1968
+     Julia Ruth Vining   b. 20 September 1903   -   m. 29 November 1935   Norman L. Hornsby
+     <a href="#JohnT01">John Tillman Vining</a>   b. 31 December 1905   -   m. 18 February 1931   Essie Mae Morris   -   d. 16 February 1961   -   bur.  Mulberry Street Cemetery   Amite, Louisiana
+     <a href="Afamilies.htm#AubreyE01">Aubrey Elliott Vining</a>   b. 9 May 1908   -   m. 28 August 1929   Florence Frances McCarthy   -   d. May 1969   Metairie, Louisiana   -   bur. Mulberry Street Cemetery   Amite, Louisiana
+  <font size=+1>children by Annie Elizabeth Morgan:</font>
+     <a href="Tfamilies.htm#ThomasU01">Thomas Underwood Vining</a>   b. 26 October 1912   -   m. (1) 16 May 1932   Mattie Mae Thompson;   (2) 16 October 1965   Mable (Story) Allen   -   d. 9 July 1998   (last residence: Denham Springs, Louisiana)
+     Catherine Eugenia Vining   b. 17 November 1916   -   m. 21 September 1935   Roy Earl Thompson
+  
+  <a href="Jsources/JohnU01doc.htm">documentation and notes</a>

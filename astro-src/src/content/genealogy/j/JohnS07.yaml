@@ -1,0 +1,66 @@
+id: JohnS07
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: PeterS01
+parentLetter: P
+parentDesc: Peter Smith Vining and Sarah Maria Hicks
+head:
+  givenName: John Stephen
+  birth:
+    date: age 3 y. as of 1850 census
+    place: New York
+marriages:
+  - spouse:
+      givenName: Lena
+      surname: Willamy
+childrenGroups:
+  - children:
+      - name: Florence May Vining
+        birth:
+          date: 5 June 1877
+          place: "New Britain, Connecticut"
+        marriages:
+          - date: Charles Frederic Scott
+        death:
+          date: 30 April 1970
+        burial:
+          place: "Guilford, Connecticut"
+      - name: John Leonard Vining
+        entryId: JohnL05
+        birth:
+          date: 10 August 1884
+          place: Connecticut
+        marriages:
+          - date: 28 November 1903
+            place: "Springfield, Massachusetts"
+            spouse: Phoebe Giles
+        death:
+          date: 29 July 1958
+          place: "New Haven, Connecticut"
+        burial:
+          place: "Fairview Cemetery   New Britain, Connecticut"
+      - name: Arthur S. Vining
+        entryId: ArthurS03
+        entryLetter: A
+        birth:
+          date: 23 January 1888
+          place: Connecticut
+        marriages:
+          - date: Irene Quinn
+        death:
+          date: 18 November 1957
+docsUrl: Jsources/JohnS07doc.htm
+raw: |-
+  <a name="JohnS07"></a><font size=+2>John Stephen Vining</font>
+     (son of <a href="Pfamilies.htm#PeterS01">Peter Smith Vining and Sarah Maria Hicks</a>)
+     b. age 3 y. as of 1850 census   New York
+     m. Lena Willamy
+              b. 1855   New York
+  
+  <font size=+1>children:</font>
+     Florence May Vining   b. 5 June 1877   New Britain, Connecticut   -   m. Charles Frederic Scott   -   d. 30 April 1970   -   bur. Guilford, Connecticut
+     <a href="#JohnL05">John Leonard Vining</a>   b. 10 August 1884   Connecticut   -   m. 28 November 1903   Springfield, Massachusetts   Phoebe Giles   -   d. 29 July 1958   New Haven, Connecticut   -   bur. Fairview Cemetery   New Britain, Connecticut
+     <a href="Afamilies.htm#ArthurS03">Arthur S. Vining</a>   b. 23 January 1888   Connecticut   -   m. Irene Quinn   -   d. 18 November 1957
+  
+  <a href="Jsources/JohnS07doc.htm">documentation and notes</a>

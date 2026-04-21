@@ -1,0 +1,59 @@
+id: JamesG01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JosephA01
+parentDesc: Joseph Alonzo Vining and (Mary) Emma Lindley
+head:
+  givenName: James Gordon
+  birth:
+    date: 16 November 1889
+  death:
+    date: 4 March 1965
+marriages:
+  - date: "1915"
+    spouse:
+      givenName: Elizabeth
+      surname: Duffin
+      birth:
+        date: "1893"
+      death:
+        date: "1979"
+      burial:
+        place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario"
+childrenGroups:
+  - children:
+      - name: Winnifred Irene Vining
+        birth:
+          date: 22 October 1920
+          place: Ontario
+        marriages:
+          - date: 11 May 1946
+            spouse: Paul E. Giguere
+        death:
+          date: 18 July 2005
+          place: "Mississauga, Ontario"
+      - name: Elizabeth Jean Vining
+        birth:
+          date: 17 May 1922
+        marriages:
+          - date: 21 September 1943
+            spouse: Donald Shapter
+docsUrl: Jsources/JamesG01doc.htm
+raw: |-
+  <a name="JamesG01"></a><font size=+2>James Gordon Vining</font>
+     (son of <a href="#JosephA01">Joseph Alonzo Vining and (Mary) Emma Lindley</a>)
+     b. 16 November 1889
+     m. 1915
+           Elizabeth Duffin
+                 b. 1893
+                 d. 1979
+                       bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario
+     d. 4 March 1965
+           bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario
+  
+  <font size=+1>children:</font>
+     Winnifred Irene Vining   b. 22 October 1920   Ontario   -   m. 11 May 1946   Paul E. Giguere   -   d. 18 July 2005   Mississauga, Ontario
+     Elizabeth Jean Vining   b. 17 May 1922   -   m. 21 September 1943   Donald Shapter
+  
+  <a href="Jsources/JamesG01doc.htm">documentation and notes</a>

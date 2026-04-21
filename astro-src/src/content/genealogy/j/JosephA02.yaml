@@ -1,0 +1,79 @@
+id: JosephA02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: OliverS01
+parentLetter: O
+parentDesc: Oliver Smith Vining and Elizabeth Helen Muzzy
+head:
+  givenName: Joseph Allen
+  birth:
+    date: 1 November 1861
+    place: "North Hatfield, Massachusetts"
+  death:
+    date: 5 April 1923
+marriages:
+  - date: 7 April 1882
+    spouse:
+      givenName: Adeline Jane
+      surname: Baker
+      birth:
+        date: 3 March 1862
+        place: Massachusetts
+      death:
+        date: 13 June 1936
+      burial:
+        place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Leroy Allen Vining
+        birth:
+          date: 23 January 1887
+          place: "South Deerfield, Massachusetts"
+        death:
+          date: 2 March 1893
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+      - name: Ola DeEtte Vining
+        birth:
+          date: 30 November 1888
+          place: "South Hadley Falls, Massachusetts"
+        death:
+          date: 22 June 1973
+          place: "(last residence: Holyoke, Massachusetts)"
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+      - name: Merritt Alfred Vining
+        entryId: MerrittA01
+        entryLetter: M
+        birth:
+          date: 31 October 1890
+          place: "South Hadley Falls, Massachusetts"
+        marriages:
+          - date: 5 August 1922
+            place: "Detroit, Michigan"
+            spouse: Marian Monica Armstrong
+        death:
+          date: 2 May 1975
+          place: "Rochester, Michigan"
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+docsUrl: Jsources/JosephA02doc.htm
+raw: |-
+  <a name="JosephA02"></a><font size=+2>Joseph Allen Vining</font>
+     (son of <a href="Ofamilies.htm#OliverS01">Oliver Smith Vining and Elizabeth Helen Muzzy</a>)
+     b. 1 November 1861   North Hatfield, Massachusetts
+     m. 7 April 1882
+           Adeline Jane Baker
+                 b. 3 March 1862   Massachusetts
+                 d. 13 June 1936
+                       bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     d. 5 April 1923
+           bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     Leroy Allen Vining   b. 23 January 1887   South Deerfield, Massachusetts   -   d. 2 March 1893   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     Ola DeEtte Vining   b. 30 November 1888   South Hadley Falls, Massachusetts   -   d. 22 June 1973   (last residence: Holyoke, Massachusetts)   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     <a href="Mfamilies.htm#MerrittA01">Merritt Alfred Vining</a>   b. 31 October 1890   South Hadley Falls, Massachusetts   -   m. 5 August 1922   Detroit, Michigan   Marian Monica Armstrong   -   d. 2 May 1975   Rochester, Michigan   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+  
+  <a href="Jsources/JosephA02doc.htm">documentation and notes</a>

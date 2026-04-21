@@ -1,0 +1,101 @@
+id: JohnA02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EdwinR01
+parentLetter: E
+parentDesc: Edwin R. Vining and Ada L. Morse
+head:
+  givenName: John Albion
+  birth:
+    date: 7 December 1873
+    place: "Durham, Maine"
+  death:
+    date: 20 March 1923
+    place: "Auburn, Maine"
+marriages:
+  - number: 1
+    date: 22 November 1899
+    place: "Phillips, Maine"
+    spouse:
+      givenName: Minnie Louise
+      surname: Vining
+      birth:
+        date: 12 May 1878
+        place: "Avon, Maine"
+      death:
+        date: 5 March 1902
+        place: "East Livermore, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+  - number: 2
+    date: 24 November 1904
+    place: "East Livermore, Maine"
+    spouse:
+      givenName: "Augusta Eva Pike [She m. (2) 21 January 1923   Bertrand C."
+      surname: "Jillson]"
+      birth:
+        date: "East Livermore, Maine"
+childrenGroups:
+  - spouseRef: Minnie Louise Vining
+    children:
+      - name: Minnie Vining
+        birth:
+          date: 2 February 1901
+          place: "East Livermore, Maine"
+        death:
+          date: 3 February 1901
+          place: "East Livermore, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+  - spouseRef: Augusta Eva Pike
+    children:
+      - name: Ada Lucille Vining
+        birth:
+          date: 8 July 1911
+          place: "Auburn, Maine"
+        marriages:
+          - date: 17 August 1936
+            spouse: Harold E. Bamford
+        death:
+          date: 1 July 1995
+      - name: Ralph Merton Vining
+        entryId: RalphM01
+        entryLetter: R
+        birth:
+          date: 25 September 1915
+          place: "Auburn, Maine"
+        marriages:
+          - date: 22 March 1941
+            place: "Mechanic Falls, Maine"
+            spouse: Pearl Frances Hirst
+        death:
+          date: 5 November 1990
+          place: "Lewiston, Maine"
+        burial:
+          place: "Elmwood Cemetery   Otisfield, Maine"
+docsUrl: Jsources/JohnA02doc.htm
+raw: |-
+  <a name="JohnA02"></a><font size=+2>John Albion Vining</font>
+     (son of <a href="Efamilies.htm#EdwinR01">Edwin R. Vining and Ada L. Morse</a>)
+     b. 7 December 1873   Durham, Maine
+     m. (1) 22 November 1899   Phillips, Maine
+                 Minnie Louise Vining
+                       (dau. of <a href="Tfamilies.htm#TimothyW01">Timothy W. Vining and Tryphena C. Dow</a>)
+                       b. 12 May 1878   Avon, Maine
+                       d. 5 March 1902   East Livermore, Maine
+                             bur. Village Cemetery   Strong, Maine
+           (2) 24 November 1904   East Livermore, Maine
+                 Augusta Eva Pike [She m. (2) 21 January 1923   Bertrand C. Jillson]
+                       (dau. of Jonathan Pike and Jennie [B. Bamford?])
+                       b. East Livermore, Maine
+     d. 20 March 1923   Auburn, Maine
+           bur. grave 6, lot 881, section MA   Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>children by Minnie Louise Vining:</font>
+     Minnie Vining   b. 2 February 1901   East Livermore, Maine   -   d. 3 February 1901   East Livermore, Maine   -   bur. Village Cemetery   Strong, Maine
+  <font size=+1>children by Augusta Eva Pike:</font>
+     Ada Lucille Vining   b. 8 July 1911   Auburn, Maine   -    m. 17 August 1936   Harold E. Bamford   -   d. 1 July 1995
+     <a href="Rfamilies.htm#RalphM01">Ralph Merton Vining</a>   b. 25 September 1915   Auburn, Maine   -   m. 22 March 1941   Mechanic Falls, Maine   Pearl Frances Hirst   -   d. 5 November 1990   Lewiston, Maine   -   bur. Elmwood Cemetery   Otisfield, Maine
+  
+  <a href="Jsources/JohnA02doc.htm">documentation and notes</a>

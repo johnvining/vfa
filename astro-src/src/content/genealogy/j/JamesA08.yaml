@@ -1,0 +1,37 @@
+id: JamesA08
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James A.
+marriages:
+  - spouse:
+      givenName: Victoria
+      surname: Iaccino
+childrenGroups:
+  - children:
+      - name: James A. Vining Jr.
+        entryId: JamesAJr01
+        birth:
+          date: 1 November 1949
+          place: "Hudson, New York"
+        marriages:
+          - date: Teena Alonge
+        death:
+          date: 28 January 2020
+      - name: Robert Vining
+        marriages:
+          - date: "Kathy [&#8230;]"
+      - name: Ed Vining
+        marriages:
+          - date: "Donna [&#8230;]"
+raw: |-
+  <a name="JamesA08"></a><font size=+2>James A. Vining</font>
+     (son of [?])
+     m. Victoria Iaccino
+  
+  <font size=+1>children:</font>
+     <a href="#JamesAJr01">James A. Vining Jr.</a>   b. 1 November 1949   Hudson, New York   -   m. Teena Alonge   -   d. 28 January 2020
+     Robert Vining   m. Kathy [&#8230;]
+     Ed Vining   m. Donna [&#8230;]

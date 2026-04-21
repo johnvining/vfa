@@ -1,0 +1,43 @@
+id: JohnH06
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RobertE04
+parentLetter: R
+parentDesc: Robert Elijah Vining and Cynthia Emma Alford
+head:
+  givenName: John Hubert
+  birth:
+    date: 10 February 1893
+    place: Georgia
+  death:
+    date: 13 February 1958
+marriages:
+  - date: 2 May 1920
+    spouse:
+      givenName: Cecil
+      surname: West
+      birth:
+        date: 31 July 1901
+        place: Georgia
+      death:
+        date: 14 November 1981
+      burial:
+        place: "Pine Grove Cemetery   Eatonton, Georgia"
+docsUrl: Jsources/JohnH06doc.htm
+raw: |-
+  <a name="JohnH06"></a><font size=+2>John Hubert Vining</font>
+     (son of <a href="Rfamilies.htm#RobertE04">Robert Elijah Vining and Cynthia Emma Alford</a>)
+     b. 10 February 1893   Georgia
+     m. 2 May 1920
+           Cecil West
+                 b. 31 July 1901   Georgia
+                 d. 14 November 1981
+                       bur. Pine Grove Cemetery   Eatonton, Georgia
+     d. 13 February 1958
+           bur. Pine Grove Cemetery   Eatonton, Georgia
+  
+  <font size=+1>child:</font>
+     Hubert Adolphus Vining   b. 1923   -   d. 1997
+  
+  <a href="Jsources/JohnH06doc.htm">documentation and notes</a>

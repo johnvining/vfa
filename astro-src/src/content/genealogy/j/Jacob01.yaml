@@ -1,0 +1,48 @@
+id: Jacob01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John26
+parentDesc: John Vining and Catherine Dodson
+head:
+  givenName: Jacob
+  birth:
+    date: May 1842
+    place: Illinois
+  death:
+    date: 14 May 1915
+    place: "Peoria, Peoria County, Illinois"
+marriages:
+  - spouse:
+      givenName: Mary J.
+      surname: Ross
+childrenGroups:
+  - children:
+      - name: William Vining
+        birth:
+          date: May 1864
+          place: Illinois
+      - name: "Fannie [Loper?] Vining"
+        birth:
+          date: May 1874
+          place: Missouri
+        marriages:
+          - date: George W. Loper
+        death:
+          date: 22 February 1908
+          place: "Atlanta, Logan County, Illinois"
+docsUrl: Jsources/Jacob01doc.htm
+raw: |-
+  <a name="Jacob01"></a><font size=+2>Jacob Vining</font>
+     (son of <a href="#John26">John Vining and Catherine Dodson</a>)
+     b. May 1842   Illinois
+     m. Mary J. Ross
+              b. 11 December 1845   Missouri
+              d. 17 February 1923   Atlanta, Logan County, Illinois
+     d. 14 May 1915   Peoria, Peoria County, Illinois
+  
+  <font size=+1>children:</font>
+     William Vining   b. May 1864   Illinois
+     Fannie [Loper?] Vining   b. May 1874   Missouri   -   m. George W. Loper   -  d. 22 February 1908   Atlanta, Logan County, Illinois
+  
+  <a href="Jsources/Jacob01doc.htm">documentation and notes</a>

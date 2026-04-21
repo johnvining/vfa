@@ -1,0 +1,67 @@
+id: Jasper01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Abraham01
+parentLetter: A
+parentDesc: "Abraham Vining and [Elinor or Elanora?] [...]"
+head:
+  givenName: Jasper
+  birth:
+    date: 7 May 1818
+    place: Georgia
+  death:
+    date: ca. December 1864
+    place: "Augusta, Georgia"
+marriages:
+  - date: 16 January 1861
+    place: Georgia
+    spouse:
+      givenName: Mary
+      surname: Willis
+      birth:
+        date: 1 December 1827
+      death:
+        date: 10 November 1909
+        place: Georgia
+      burial:
+        place: "Stapleton Baptist Church Cemetery   Stapleton, Georgia"
+childrenGroups:
+  - children:
+      - name: Susan A. Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Georgia
+      - name: Maria Lula Vining
+        birth:
+          date: age 7 y. as of 1870 census
+          place: Georgia
+      - name: Jasper L. Vining
+        birth:
+          date: "1865"
+          place: Georgia
+        marriages:
+          - date: Rosa Lee Lamar
+        death:
+          date: "1935"
+          place: Georgia
+        burial:
+          place: "Stapleton Baptist Church Cemetery   Stapleton, Georgia"
+docsUrl: Jsources/Jasper01doc.htm
+raw: |-
+  <a name="Jasper01"></a><font size=+2>Jasper Vining</font>
+     (son of <a href="Afamilies.htm#Abraham01">Abraham Vining and [Elinor or Elanora?] [...]</a>)
+     b. 7 May 1818   Georgia
+     m. 16 January 1861   Georgia
+           Mary Willis
+                 b. 1 December 1827
+                 d. 10 November 1909   Georgia
+                       bur. Stapleton Baptist Church Cemetery   Stapleton, Georgia
+     d. ca. December 1864   Augusta, Georgia
+  
+  <font size=+1>children:</font>
+     Susan A. Vining   b. age 8 y. as of 1870 census   Georgia
+     Maria Lula Vining   b. age 7 y. as of 1870 census   Georgia
+     Jasper L. Vining   b. 1865   Georgia   -   m. Rosa Lee Lamar   -   d. 1935   Georgia   -   bur. Stapleton Baptist Church Cemetery   Stapleton, Georgia
+  
+  <a href="Jsources/Jasper01doc.htm">documentation and notes</a>

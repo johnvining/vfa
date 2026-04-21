@@ -1,0 +1,36 @@
+id: JohnE01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: MiltonW01
+parentLetter: M
+parentDesc: Milton Wayne Vining and Ruth Edna Conway
+head:
+  givenName: John Edwin
+  birth:
+    date: 26 November 1959
+    place: "Cincinnati, Ohio"
+marriages:
+  - number: 1
+    date: 23 December 1980
+    place: "Fairfield, Illinois"
+    spouse:
+      givenName: Darla Sue
+      surname: Bruce
+  - number: 2
+    date: 26 November 2003
+    spouse:
+      givenName: Ninfa R.
+      surname: Munarriz
+raw: |-
+  <a name="JohnE01"></a><font size=+2>John Edwin Vining</font>
+     (son of <a href="Mfamilies.htm#MiltonW01">Milton Wayne Vining and Ruth Edna Conway</a>)
+     b. 26 November 1959   Cincinnati, Ohio
+     m. (1) 23 December 1980   Fairfield, Illinois
+                 Darla Sue Bruce
+                 divorced 19 December 1997
+           (2) 26 November 2003
+                 Ninfa R. Munarriz
+  
+  <font size=+1>child by Darla Sue Bruce:</font>
+     <a href="Bfamilies.htm#BenjaminJ01">Benjamin John Vining</a>   b. 22 December 1982   Fairfield, Illinois   -   m. 11 October 2014   Erica Jean Whitledge - d. 22 December 2020

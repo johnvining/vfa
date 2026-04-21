@@ -1,0 +1,57 @@
+id: JohnS02
+letter: J
+lastUpdated: 10 March 2023
+head:
+  givenName: John Sanford
+  birth:
+    date: 12 September 1945
+marriages:
+  - number: 1
+    date: 2 September 1967
+    place: "North Highlands, California"
+    spouse:
+      givenName: Claudia Camille
+      surname: Smith
+      birth:
+        date: 2 August 1946
+  - number: 2
+    date: 14 January 1977
+    place: "Carmichael, California"
+    spouse:
+      givenName: Carole Irene
+      surname: Smpardos
+      birth:
+        date: 8 June 1945
+childrenGroups:
+  - spouseRef: Claudia Camille Smith
+    children:
+      - name: Kimberley Ann Vining
+        birth:
+          date: 4 June 1968
+          place: "Sacramento, California"
+        marriages:
+          - date: David Newquist
+      - name: Aaron Lee Vining
+        entryId: AaronL02
+        entryLetter: A
+        birth:
+          date: 11 May 1971
+          place: "Sacramento, California"
+        marriages:
+          - date: 27 April 1996
+            spouse: Luz Maria Garcia
+raw: |-
+  <a name="JohnS02"></a><font size=+2>John Sanford Vining</font>
+     (adopted son of <a href="Gfamilies.htm#GaleM01">Gale Merle Vining and Gladys Ella Beckman</a>)
+     b. 12 September 1945
+     m. (1) 2 September 1967   North Highlands, California
+                 Claudia Camille Smith
+                       b. 2 August 1946
+                 divorced 1976   California
+           (2) 14 January 1977   Carmichael, California
+                 Carole Irene Smpardos
+                       b. 8 June 1945
+  
+  <font size=+1>children by Claudia Camille Smith:</font>
+     Kimberley Ann Vining   b. 4 June 1968   Sacramento, California   -   m. David Newquist
+     <a href="Afamilies.htm#AaronL02">Aaron Lee Vining</a>   b. 11 May 1971   Sacramento, California   -   m. 27 April 1996   Luz Maria Garcia

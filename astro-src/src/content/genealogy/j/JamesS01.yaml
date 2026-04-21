@@ -1,0 +1,60 @@
+id: JamesS01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FredN01
+parentLetter: F
+parentDesc: Fred Nathaniel Vining and Inez Blanch Wise
+head:
+  givenName: James Sylvester
+  birth:
+    date: 2 January 1915
+    place: "Valeda, Kansas"
+  death:
+    date: 14 January 2005
+    place: "Crane, Missouri"
+marriages:
+  - date: 18 August 1936
+    spouse:
+      givenName: Glessie Marie
+      surname: Richardson
+      birth:
+        date: 28 August 1917
+      death:
+        date: 19 November 1993
+      burial:
+        place: "Patton Cemetery   Pyatt, Arkansas"
+childrenGroups:
+  - children:
+      - name: Robert Vining
+        entryId: Robert08
+        entryLetter: R
+        birth:
+          date: 21 April 1941
+          place: "Coffeyville, Kansas"
+        marriages:
+          - date: Naomi Ilene Flesher
+        death:
+          date: 3 March 2015
+          place: "Bentonville, Arkansas"
+      - name: daughter
+      - name: son
+docsUrl: Jsources/JamesS01doc.htm
+raw: |-
+  <a name="JamesS01"></a><font size=+2>James Sylvester Vining</font>
+     (son of <a href="Ffamilies.htm#FredN01">Fred Nathaniel Vining and Inez Blanch Wise</a>)
+     b. 2 January 1915   Valeda, Kansas
+     m. 18 August 1936
+           Glessie Marie Richardson
+                 b. 28 August 1917
+                 d. 19 November 1993
+                       bur. Patton Cemetery   Pyatt, Arkansas
+     d. 14 January 2005   Crane, Missouri
+           bur. Patton Cemetery   Pyatt, Arkansas
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#Robert08">Robert Vining</a>   b. 21 April 1941   Coffeyville, Kansas   -   m. Naomi Ilene Flesher   -   d. 3 March 2015   Bentonville, Arkansas
+     daughter
+     son
+  
+  <a href="Jsources/JamesS01doc.htm">documentation and notes</a>

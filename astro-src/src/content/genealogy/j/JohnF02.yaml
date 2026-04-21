@@ -1,0 +1,71 @@
+id: JohnF02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: NoahF01
+parentLetter: N
+parentDesc: Noah Franklin Vining and Fannie M. Burrell
+head:
+  givenName: John Franklin
+  birth:
+    date: 24 April 1870
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 11 August 1952
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 28 October 1896
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Gertrude Anna
+      surname: Packard
+      birth:
+        date: 16 December 1873
+        place: "Worcester, Massachusetts"
+      death:
+        date: 9 February 1940
+        place: "Braintree, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Margaret Vining
+        birth:
+          date: age 22 y. as of 1920 census
+          place: Massachusetts
+      - name: Allan Vining
+        birth:
+          date: age 21 y. as of 1920 census
+          place: Massachusetts
+      - name: John Franklin Vining Jr.
+        entryId: JohnFJr01
+        birth:
+          date: 25 April 1900
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: "?"
+          - number: 2
+            date: 25 October 1930
+            place: "Boston, Massachusetts"
+            spouse: Marie Hult
+        death:
+          date: 21 November 1977
+          place: "Plymouth, Massachusetts"
+      - name: Marion Vining
+        birth:
+          date: age 14 y. as of 1920 census
+          place: Massachusetts
+raw: |-
+  <a name="JohnF02"></a><font size=+2>John Franklin Vining</font>
+     (son of <a href="Nfamilies.htm#NoahF01">Noah Franklin Vining and Fannie M. Burrell</a>)
+     b. 24 April 1870   Weymouth, Norfolk County, Massachusetts
+     m. 28 October 1896   Weymouth, Norfolk County, Massachusetts
+           Gertrude Anna Packard
+                 b. 16 December 1873   Worcester, Massachusetts
+                 d. 9 February 1940   Braintree, Massachusetts
+     d. 11 August 1952   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Margaret Vining   b. age 22 y. as of 1920 census   Massachusetts
+     Allan Vining   b. age 21 y. as of 1920 census   Massachusetts
+     <a href="#JohnFJr01">John Franklin Vining Jr.</a>   b. 25 April 1900   Weymouth, Norfolk County, Massachusetts   -   m. (1) ?;   (2) 25 October 1930   Boston, Massachusetts   Marie Hult   -   d. 21 November 1977   Plymouth, Massachusetts
+     Marion Vining   b. age 14 y. as of 1920 census   Massachusetts

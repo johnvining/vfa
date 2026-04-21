@@ -1,0 +1,141 @@
+id: John13
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamJr01
+parentLetter: W
+parentDesc: William Vining Jr. and Anna Nichols
+head:
+  givenName: John
+  birth:
+    date: ca. 1725
+    place: "[Sutton or Topsfield?], Massachusetts"
+  death:
+    date: "between 26 April 1801 (will made) and 8 July 1801 (will probated) [2 July 1801?]"
+    place: "Jefferson County, Georgia"
+marriages:
+  - date: ca. 1750
+    place: "Johnston, North Carolina"
+    spouse:
+      givenName: Sarah
+      surname: Ratcliff(e)
+      birth:
+        date: "172[5 or 7?]"
+        place: "[Queens?], Talbot County, Maryland"
+      death:
+        date: 26 April 1801
+        place: "Jefferson County, Georgia"
+childrenGroups:
+  - children:
+      - name: Sarah Vining
+        birth:
+          date: ca. 1751
+          place: North Carolina
+        marriages:
+          - date: Jesse Jump
+        death:
+          date: Georgia
+      - name: Cadar Vining
+        entryId: Cadar01
+        entryLetter: C
+        birth:
+          date: ca. 1753
+          place: North Carolina
+        marriages:
+          - date: Nancy Bush
+        death:
+          date: ca. 1820
+      - name: William Vining
+        entryId: William06
+        entryLetter: W
+        birth:
+          date: "ca. [1755 or 1757?]"
+          place: North Carolina
+        marriages:
+          - date: ca. 1778
+            spouse: "Nancy [&#8230;]"
+        death:
+          date: before March 1809
+          place: "Jefferson County, Georgia"
+      - name: Shadrack Vining
+        entryId: Shadrack01
+        entryLetter: S
+        birth:
+          date: "[1753 or 1756?]"
+          place: "Aversboro, Johnston County, North Carolina"
+        marriages:
+          - date: 13 April 1778
+            place: "Johnston County, North Carolina"
+            spouse: Phereby Carmeal Ratcliff(e)
+        death:
+          date: "[December or April?] [1806 or 1805 ?]"
+          place: "Jefferson County, Georgia"
+      - name: John Vining Jr.
+        entryId: JohnJr04
+        birth:
+          date: ca. 1758
+          place: "Johnston County, North Carolina"
+        marriages:
+          - date: Sarah Ratcliff
+        death:
+          date: "1832&#8211;1833"
+          place: "Jefferson County, Georgia"
+      - name: Jesse Vining
+        entryId: Jesse03
+        birth:
+          date: "ca. [1756 or 1760?]"
+          place: "[North or South?] Carolina"
+        marriages:
+          - date: Georgia
+            spouse: "Rebecca [Her(r)ing or Heritty?]"
+        death:
+          date: ca. 1821
+          place: "St. Helena, Louisiana"
+      - name: Ann Vining
+        birth:
+          date: ca. 1762
+          place: North Carolina
+        marriages:
+          - date: ca. 1782
+            spouse: Joseph Williams
+      - name: Abigail Vining
+        birth:
+          date: ca. 1764
+          place: North Carolina
+        marriages:
+          - date: 24 September 1795
+            spouse: "James [Farless or Fasless or Fabless ?]"
+      - name: Thomas Vining
+        entryId: Thomas08
+        entryLetter: T
+        birth:
+          date: ca. 1766
+          place: North Carolina
+        marriages:
+          - date: Amy Peacock
+        death:
+          date: before 1801
+docsUrl: Jsources/John13doc.htm
+raw: |-
+  <a name="John13"></a><font size=+2>John Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamJr01">William Vining Jr. and Anna Nichols</a>)
+     b. ca. 1725   [Sutton or Topsfield?], Massachusetts
+     m. ca. 1750   Johnston, North Carolina
+           Sarah Ratcliff(e)
+                 (dau. of John Benjamin Ratcliff and Sarah Fellows)
+                 b. 172[5 or 7?]   [Queens?], Talbot County, Maryland
+                 d. 26 April 1801   Jefferson County, Georgia
+     d. between 26 April 1801 (will made) and 8 July 1801 (will probated) [2 July 1801?]   Jefferson County, Georgia
+  
+  <font size=+1>children:</font> (in order of mention in father's will)
+     Sarah Vining   b. ca. 1751   North Carolina   -   m. Jesse Jump   -   d. Georgia
+     <a href="Cfamilies.htm#Cadar01">Cadar Vining</a>   b. ca. 1753   North Carolina   -   m. Nancy Bush   -   d. ca. 1820
+     <a href="Wfamilies.htm#William06">William Vining</a>   b. ca. [1755 or 1757?]   North Carolina   -   m. ca. 1778   Nancy [&#8230;]   -   d. before March 1809   Jefferson County, Georgia
+     <a href="Sfamilies.htm#Shadrack01">Shadrack Vining</a>   b. [1753 or 1756?]   Aversboro, Johnston County, North Carolina   -   m. 13 April 1778   Johnston County, North Carolina   Phereby Carmeal Ratcliff(e)   -   d. [December or April?] [1806 or 1805 ?]   Jefferson County, Georgia
+     <a href="#JohnJr04">John Vining Jr.</a>   b. ca. 1758   Johnston County, North Carolina   -   m. Sarah Ratcliff   -   d. 1832&#8211;1833   Jefferson County, Georgia
+     <a href="#Jesse03">Jesse Vining</a>   b. ca. [1756 or 1760?]   [North or South?] Carolina   -   m. Georgia   Rebecca [Her(r)ing or Heritty?]   -   d. ca. 1821   St. Helena, Louisiana
+     Ann Vining   b. ca. 1762   North Carolina   -   m. ca. 1782   Joseph Williams
+     Abigail Vining   b. ca. 1764   North Carolina   -   m. 24 September 1795   James [Farless or Fasless or Fabless ?]
+     <a href="Tfamilies.htm#Thomas08">Thomas Vining</a>   b. ca. 1766   North Carolina   -   m. Amy Peacock   -   d. before 1801
+  
+  <a href="Jsources/John13doc.htm">documentation and notes</a>

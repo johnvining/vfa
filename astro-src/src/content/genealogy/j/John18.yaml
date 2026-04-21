@@ -1,0 +1,37 @@
+id: John18
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+  birth:
+    date: age 50 y. as of 1870 census
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Gracy
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Margarett Vining
+        birth:
+          date: age 10 y. as of 1870 census
+          place: Georgia
+      - name: "El[a?]dora Vining"
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Georgia
+docsUrl: Jsources/John18doc.htm
+raw: |-
+  <a name="John18"></a><font size=+2>John Vining</font>
+     (son of [?])
+     b. age 50 y. as of 1870 census   Georgia
+     m. Gracy [...]
+              b. age 32 y. as of 1870 census   Georgia
+  
+  <font size=+1>children</font>
+     Margarett Vining   b. age 10 y. as of 1870 census   Georgia
+     El[a?]dora Vining   b. age 1 y. as of 1870 census   Georgia
+  
+  <a href="Jsources/John18doc.htm">documentation and notes</a>

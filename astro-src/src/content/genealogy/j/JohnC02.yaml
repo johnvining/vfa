@@ -1,0 +1,41 @@
+id: JohnC02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnC01
+parentDesc: John Chester Vining and Annie O. Wicks
+head:
+  givenName: John Carl
+  birth:
+    date: 9 July 1917
+  death:
+    date: 2 December 1911
+marriages:
+  - date: 62 y. as of death
+    spouse:
+      givenName: Clara
+      surname: Pugh
+childrenGroups:
+  - children:
+      - name: Susan Vining
+        marriages:
+          - date: Gordon Bell
+      - name: John Vining
+        entryId: John32
+        marriages:
+          - date: "Nancy [...]"
+docsUrl: Jsources/JohnC02doc.htm
+raw: |-
+  <a name="JohnC02"></a><font size=+2>John Carl Vining</font>
+     (son of <a href="#JohnC01">John Chester Vining and Annie O. Wicks</a>)
+     b. 9 July 1917
+     m. 62 y. as of death
+           Clara Pugh
+     d. 2 December 1911
+           bur. Floral Hills Memory Gardens   Georgia
+  
+  <font size=+1>children:</font>
+     Susan Vining   m. Gordon Bell
+     <a href="#John32">John Vining</a>   m. Nancy [...]
+  
+  <a href="Jsources/JohnC02doc.htm">documentation and notes</a>

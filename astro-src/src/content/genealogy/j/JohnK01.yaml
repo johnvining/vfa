@@ -1,0 +1,57 @@
+id: JohnK01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LenleyL01
+parentLetter: L
+parentDesc: Lenley Loren Vining and Marion O'Bleness
+head:
+  givenName: John Keith
+  birth:
+    date: 30 August 1928
+    place: "Fargo, North Dakota"
+  death:
+    date: 13 December 2013
+marriages:
+  - date: 11 May 1954
+    place: "Edmonton, Alberta"
+    spouse:
+      givenName: Eva
+      surname: Hromick
+      birth:
+        date: 30 July 1936
+childrenGroups:
+  - children:
+      - name: Sherry Lee Vining
+        birth:
+          date: 30 December 1954
+          place: "Leonard, North Dakota"
+      - name: Randall Ray Vining
+        birth:
+          date: 7 August 1956
+          place: "Leonard, North Dakota"
+        marriages:
+          - date: Kathy Roden
+      - name: Kimberly Ann Vining
+        birth:
+          date: 24 June 1958
+          place: "Leonard, North Dakota"
+        marriages:
+          - date: Steve Malakowsky
+docsUrl: Jsources/JohnK01doc.htm
+raw: |-
+  <a name="JohnK01"></a><font size=+2>John Keith Vining</font>
+     (son of <a href="Lfamilies.htm#LenleyL01">Lenley Loren Vining and Marion O'Bleness</a>)
+     b. 30 August 1928   Fargo, North Dakota
+     m. 11 May 1954   Edmonton, Alberta
+           Eva Hromick
+                 b. 30 July 1936
+     d. 13 December 2013
+           bur. Watson Cemetery   Leonard, North Dakota
+  
+  <font size=+1>children:</font>
+     Sherry Lee Vining   b. 30 December 1954   Leonard, North Dakota
+     Randall Ray Vining   b. 7 August 1956   Leonard, North Dakota   -   m. Kathy Roden
+     Kimberly Ann Vining   b. 24 June 1958   Leonard, North Dakota   -   m. Steve Malakowsky
+  
+  <a href="Jsources/JohnK01doc.htm">documentation and notes</a>

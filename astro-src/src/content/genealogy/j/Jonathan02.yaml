@@ -1,0 +1,129 @@
+id: Jonathan02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jonah01
+parentDesc: Jonah Vining and Olive Leavitt
+head:
+  givenName: Jonathan
+  birth:
+    date: "1783"
+    place: "Pownalborough, Maine"
+  death:
+    date: 22 November 1855
+    place: "Windsor, Maine"
+marriages:
+  - date: 31 October 1802
+    spouse:
+      givenName: "Jane [&#8220;Jennie&#8221;"
+      surname: "Gurrell?]"
+      birth:
+        date: age 67 y. at death
+      death:
+        date: "14 June 18[55 or 53?]"
+      burial:
+        place: "Windsor Neck Cemetery   Windsor, Maine"
+childrenGroups:
+  - children:
+      - name: Clarissa Vining
+        birth:
+          date: 20 January 1806
+          place: "Windsor, Maine"
+        marriages:
+          - date: between 24 November 1826 and 24 April 1827
+            spouse: Robert Morton
+      - name: Sally Vining
+        birth:
+          date: 20 March 1808
+          place: "Windsor, Maine"
+        marriages:
+          - date: int. 11 August 1829
+            spouse: Henry Bryant
+      - name: Daniel Vining
+        entryId: Daniel03
+        entryLetter: D
+        birth:
+          date: 28 April 1810
+          place: "Windsor, Maine"
+        marriages:
+          - number: 1
+            date: "Old Town, Maine"
+            spouse: Sarah Esterbrook
+          - number: 2
+            date: 19 July 1851
+            spouse: Windsor   Eliza Choate
+        death:
+          date: 10 February 1890
+        burial:
+          place: "Windsor Neck Cemetery   Windsor, Maine"
+      - name: Mary Jane Vining
+        birth:
+          date: 23 June 1812
+          place: "Windsor, Maine"
+        marriages:
+          - date: 8 December 1836
+            spouse: Ira Clough
+        death:
+          date: 19 September 1855
+      - name: Eulalia Vining
+        birth:
+          date: 1 January 1816
+          place: "Windsor, Maine"
+      - name: Eulalia S. Vining
+        birth:
+          date: 1 January 1817
+          place: "Windsor, Maine"
+        marriages:
+          - date: int. 26 September 1848
+            spouse: Charles H. Thomas
+      - name: Octavia Vining
+        birth:
+          date: 3 August 1819
+          place: "Windsor, Maine"
+      - name: Octavia Vining
+        birth:
+          date: 3 June 1821
+          place: "Windsor, Maine"
+        marriages:
+          - date: int. 25 September 1843
+            spouse: James Dunlap
+      - name: Laura Ann Vining
+        birth:
+          date: 23 May 1824
+          place: "Windsor, Maine"
+        marriages:
+          - date: before 25 February 1847
+            spouse: Jonathan J. Longfellow
+      - name: Lucretia N. Vining
+        birth:
+          date: age 22 y. at death
+        death:
+          date: 23 June 1846
+        burial:
+          place: "Windsor Neck Cemetery   Windsor, Maine"
+docsUrl: Jsources/Jonathan02doc.htm
+raw: |-
+  <a name="Jonathan02"></a><font size=+2>Jonathan Vining</font>
+     (son of <a href="#Jonah01">Jonah Vining and Olive Leavitt</a>)
+     b. 1783   Pownalborough, Maine
+     m. 31 October 1802
+           Jane [&#8220;Jennie&#8221; Gurrell?]
+                 b. age 67 y. at death
+                 d. 14 June 18[55 or 53?]
+                       bur. Windsor Neck Cemetery   Windsor, Maine
+     d. 22 November 1855   Windsor, Maine
+           bur. Windsor Neck Cemetery   Windsor, Maine
+  
+  <font size=+1>children:</font>   (<a href="Jsources/Jonathan02fam.htm">family record from Windsor, Maine, town records</a>)
+     Clarissa Vining   b. 20 January 1806   Windsor, Maine   -   m. between 24 November 1826 and 24 April 1827   Robert Morton
+     Sally Vining   b. 20 March 1808   Windsor, Maine   -   m. int. 11 August 1829   Henry Bryant
+     <a href="Dfamilies.htm#Daniel03">Daniel Vining</a>   b. 28 April 1810   Windsor, Maine   -   m. (1) Old Town, Maine   Sarah Esterbrook;   (2) 19 July 1851   Windsor   Eliza Choate   -   d. 10 February 1890   -   bur. Windsor Neck Cemetery   Windsor, Maine
+     Mary Jane Vining   b. 23 June 1812   Windsor, Maine   -   m. 8 December 1836   Ira Clough   -   d. 19 September 1855
+     Eulalia Vining   b. 1 January 1816   Windsor, Maine
+     Eulalia S. Vining   b. 1 January 1817   Windsor, Maine   -   m. int. 26 September 1848   Charles H. Thomas
+     Octavia Vining   b. 3 August 1819   Windsor, Maine
+     Octavia Vining   b. 3 June 1821   Windsor, Maine   -   m. int. 25 September 1843   James Dunlap
+     Laura Ann Vining   b. 23 May 1824   Windsor, Maine   -   m. before 25 February 1847   Jonathan J. Longfellow
+     Lucretia N. Vining   b. age 22 y. at death   -   d. 23 June 1846   -   bur. Windsor Neck Cemetery   Windsor, Maine
+  
+  <a href="Jsources/Jonathan02doc.htm">documentation and notes</a>

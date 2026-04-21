@@ -1,0 +1,47 @@
+id: Jesse02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamJr01
+parentLetter: W
+parentDesc: William Vining Jr. and Anna Nichols
+head:
+  givenName: Jesse
+  birth:
+    date: ca. 1730
+    place: "Sutton, Massachusetts"
+  death:
+    date: 26 June 1800
+marriages:
+  - date: ca. 1759
+    place: South Carolina
+    spouse:
+      givenName: Anne
+      surname: Hilson
+      birth:
+        date: ca. 1734
+        place: "Sutton, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Jesse Vining Jr.
+        entryId: JesseJr01
+        birth:
+          date: "1760"
+          place: "Cheraw District, South Carolina"
+        marriages:
+          - date: "1792"
+            spouse: Phebe Pledger
+        death:
+          date: "[26 June 1823 or April 1800 ?]"
+          place: "Benne[n?]tsville, South Carolina"
+raw: |-
+  <a name="Jesse02"></a><font size=+2>Jesse Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamJr01">William Vining Jr. and Anna Nichols</a>)
+     b. ca. 1730   Sutton, Massachusetts
+     m. ca. 1759   South Carolina
+           Anne Hilson
+                 b. ca. 1734   Sutton, Massachusetts
+     d. 26 June 1800
+  
+  <font size=+1>children:</font>
+     <a href="#JesseJr01">Jesse Vining Jr.</a>   b. 1760   Cheraw District, South Carolina   -   m. 1792   Phebe Pledger   -   d. [26 June 1823 or April 1800 ?]   Benne[n?]tsville, South Carolina

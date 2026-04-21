@@ -1,0 +1,46 @@
+id: JohnHFJr01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnHF01
+parentDesc: John Henry Fraine Vining and Mary E Tobin
+head:
+  givenName: John Henry Fraine Jr.
+  birth:
+    date: 22 December 1941
+    place: "Saint John, New Brunwsick"
+  death:
+    date: 6 August 2016
+    place: "Newport, Vermont"
+marriages:
+  - number: 1
+    date: 6 November 1965
+    spouse:
+      givenName: Linda Rae
+      surname: Young
+  - number: 2
+    date: Ann Crawford
+childrenGroups:
+  - children:
+      - name: Michael Crawford Vining
+        entryId: MichaelC01
+        entryLetter: M
+        marriages:
+          - date: Dawn Elizabeth Rackleff
+      - name: Brennan Vining
+docsUrl: Jsources/JohnHFJr01doc.htm
+raw: |-
+  <a name="JohnHFJr01"></a><font size=+2>John Henry Fraine Vining Jr.</font>
+     (son of <a href="#JohnHF01">John Henry Fraine Vining and Mary E Tobin</a>)
+     b. 22 December 1941   Saint John, New Brunwsick
+     m. (1) 6 November 1965
+                 Linda Rae Young
+              divorced
+           (2) Ann Crawford
+     d. 6 August 2016   Newport, Vermont
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MichaelC01">Michael Crawford Vining</a>   m. Dawn Elizabeth Rackleff
+     Brennan Vining
+  
+  <a href="Jsources/JohnHFJr01doc.htm">documentation and notes</a>

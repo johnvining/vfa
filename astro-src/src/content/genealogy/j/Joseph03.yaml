@@ -1,0 +1,81 @@
+id: Joseph03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Joseph
+  birth:
+    date: 22 April 1780
+    place: Connecticut
+  death:
+    date: 16 March 1870
+    place: "Rutland Township, Ohio"
+marriages:
+  - date: "1804"
+    spouse:
+      givenName: Elizabeth
+      surname: Hayes
+      birth:
+        date: 15 February 1784
+        place: "Granby, Connecticut"
+      death:
+        date: 6 February 1874
+        place: "Obetz, Ohio"
+      burial:
+        place: "Howell Hill Cemetery   Rutland, Ohio"
+childrenGroups:
+  - children:
+      - name: Timothy Birum Vining
+        entryId: TimothyB01
+        entryLetter: T
+        birth:
+          date: 24 July 1805
+          place: "Hartford, Connecticut"
+        marriages:
+          - date: 3 May 1826
+            place: Ohio
+            spouse: Sina Jones
+        death:
+          date: 23 May 1893
+          place: Ohio
+        burial:
+          place: "Howell Hill Cemetery   Rutland, Ohio"
+      - name: Joseph Vining Jr.
+        birth:
+          date: ca. 1812
+        marriages:
+          - date: 5 December 1833
+            place: Ohio
+            spouse: Matilda Russell
+        death:
+          date: "1847"
+          place: Ohio
+      - name: Elizabeth Vining
+        birth:
+          date: "1813"
+        marriages:
+          - date: 5 November 1843
+            place: Ohio
+            spouse: John Partlow
+        death:
+          date: 27 November 1881
+docsUrl: Jsources/Joseph03doc.htm
+raw: |-
+  <a name="Joseph03"></a><font size=+2>Joseph Vining</font>
+     (son of [?])
+     b. 22 April 1780   Connecticut
+     m. 1804
+           Elizabeth Hayes
+                 b. 15 February 1784   Granby, Connecticut
+                 d. 6 February 1874   Obetz, Ohio
+                       bur. Howell Hill Cemetery   Rutland, Ohio
+     d. 16 March 1870   Rutland Township, Ohio
+           bur. Howell Hill Cemetery   Rutland, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Tfamilies.htm#TimothyB01">Timothy Birum Vining</a>   b. 24 July 1805   Hartford, Connecticut   -   m. 3 May 1826   Ohio   Sina Jones   -   d. 23 May 1893   Ohio   -   bur. Howell Hill Cemetery   Rutland, Ohio
+     Joseph Vining Jr.   b. ca. 1812   -   m. 5 December 1833   Ohio   Matilda Russell   -   d. 1847   Ohio
+     Elizabeth Vining   b. 1813   -   m. 5 November 1843   Ohio   John Partlow   -   d. 27 November 1881
+  
+  <a href="Jsources/Joseph03doc.htm">documentation and notes</a>

@@ -1,0 +1,47 @@
+id: JosephL01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: NormanL01
+parentLetter: N
+parentDesc: Norman Lee Vining and Pauline Owens
+head:
+  givenName: Joseph Lee
+  birth:
+    date: 26 August 1937
+  death:
+    date: 17 December 2009
+    place: "Shreveport, Louisiana"
+marriages:
+  - date: 8 September 1956
+    spouse:
+      givenName: Lois Faye Van
+      surname: Cleave
+      birth:
+        date: 4 July 1938
+childrenGroups:
+  - children:
+      - name: Doris Vining
+        marriages:
+          - date: Bobby Shelton Jr.
+      - name: Donna Vining
+        marriages:
+          - date: Steve Posey
+docsUrl: Jsources/JosephL01doc.htm
+raw: |-
+  <a name="JosephL01"></a><font size=+2>Joseph Lee Vining</font>
+     (son of <a href="Nfamilies.htm#NormanL01">Norman Lee Vining and Pauline Owens</a>)
+     b. 26 August 1937
+     m. 8 September 1956
+           Lois Faye Van Cleave
+                 b. 4 July 1938
+                 d 22 March 2007
+                       bur New Forest Cemetery   Forest, Louisiana
+     d. 17 December 2009   Shreveport, Louisiana
+           bur. New Forest Cemetery   Forest, Louisiana
+  
+  <font size=+1>children:</font>
+     Doris Vining   m. Bobby Shelton Jr.
+     Donna Vining   m. Steve Posey
+  
+  <a href="Jsources/JosephL01doc.htm">documentation and notes</a>

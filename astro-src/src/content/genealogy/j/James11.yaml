@@ -1,0 +1,20 @@
+id: James11
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Tim01
+parentLetter: T
+parentDesc: Tim Vining and Linda Davis
+head:
+  givenName: James
+marriages:
+  - spouse:
+      givenName: Rachel
+      surname: "[...]"
+raw: |-
+  <a name="James11"></a><font size=+2>James Vining</font>
+     (son of <a href="Tfamilies.htm#Tim01">Tim Vining and Linda Davis</a>)
+     m. Rachel [...]
+  
+  <font size=+1>child:</font>
+     Hunter Vining

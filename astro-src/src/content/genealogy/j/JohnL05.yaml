@@ -1,0 +1,80 @@
+id: JohnL05
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnS07
+parentDesc: John S. Vining and Lena Willamy
+head:
+  givenName: John Leonard
+  birth:
+    date: 10 August 1884
+    place: Connecticut
+  death:
+    date: 29 July 1958
+    place: "New Haven, Connecticut"
+marriages:
+  - date: 28 November 1903
+    place: "Springfield, Massachusetts"
+    spouse:
+      givenName: Phoebe
+      surname: Giles
+      birth:
+        date: "1885"
+        place: England
+      death:
+        date: 24 January 1951
+        place: "New Britain, Connecticut"
+      burial:
+        place: "Fairview Cemetery   New Britain, Connecticut"
+childrenGroups:
+  - children:
+      - name: Norman Arthur Vining
+        entryId: NormanA01
+        entryLetter: N
+        birth:
+          date: 7 March 1911
+          place: Connecticut
+        marriages:
+          - date: 29 September 1933
+            spouse: Frances Rockwell
+        death:
+          date: 1 November 1988
+          place: "Springfield, Massachusetts"
+        burial:
+          place: "Fairview Cemetery   New Britain, Connecticut"
+      - name: Arnold Leonard Vining
+        entryId: ArnoldL01
+        entryLetter: A
+        birth:
+          date: 16 March 1914
+        marriages:
+          - date: Josephine White
+        death:
+          date: 31 January 1945
+        burial:
+          place: "Epinal American Cemetery and Memorial   Epinal, Lorraine, France"
+      - name: Beatrice Irene Vining
+        birth:
+          date: 17 February 1916
+        marriages:
+          - date: Samuel Vetrano
+docsUrl: Jsources/JohnL05doc.htm
+raw: |-
+  <a name="JohnL05"></a><font size=+2>John Leonard Vining</font>
+     (son of <a href="#JohnS07">John S. Vining and Lena Willamy</a>)
+     b. 10 August 1884   Connecticut
+     m. 28 November 1903   Springfield, Massachusetts
+           Phoebe Giles
+                 (dau. of Alfred Giles and Emma Hargraves)
+                 b. 1885   England
+                 d. 24 January 1951   New Britain, Connecticut
+                       bur. Fairview Cemetery   New Britain, Connecticut
+     d. 29 July 1958   New Haven, Connecticut
+           bur. Fairview Cemetery   New Britain, Connecticut
+  
+  <font size=+1>children:</font>
+     <a href="Nfamilies.htm#NormanA01">Norman Arthur Vining</a>   b. 7 March 1911   Connecticut   -   m. 29 September 1933   Frances Rockwell   -   d. 1 November 1988   Springfield, Massachusetts   -   bur. Fairview Cemetery   New Britain, Connecticut
+     <a href="Afamilies.htm#ArnoldL01">Arnold Leonard Vining</a>   b. 16 March 1914   -   m. Josephine White   -   d. 31 January 1945   -   bur. Epinal American Cemetery and Memorial   Epinal, Lorraine, France
+     Beatrice Irene Vining   b. 17 February 1916   -   m. Samuel Vetrano
+  
+  <a href="Jsources/JohnL05doc.htm">documentation and notes</a>

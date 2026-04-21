@@ -1,0 +1,68 @@
+id: JamesW03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: DavidJr02
+parentLetter: D
+parentDesc: David Vining Jr. and Hannah Husted
+head:
+  givenName: James Washington
+  birth:
+    date: 13 July 1827
+    place: "Cairo, New York"
+  death:
+    date: 9 November 1901
+    place: "St. Joseph Township, Indiana"
+marriages:
+  - spouse:
+      givenName: "[1?]"
+      surname: "[&#8230;]"
+childrenGroups:
+  - spouseRef: Katherine Buettner
+    children:
+      - name: Carrie Vining
+        birth:
+          date: 5 May 1862
+        death:
+          date: 12 September 1901
+        burial:
+          place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+      - name: Kittie Vining
+        birth:
+          date: 21 November 1863
+          place: "St. Joseph Township, Indiana"
+        marriages:
+          - date: Charles Parker
+        death:
+          date: 25 April 1934
+        burial:
+          place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+      - name: Myrtle Vining
+        birth:
+          date: "1878"
+        death:
+          date: 2 January 1896
+        burial:
+          place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+docsUrl: Jsources/JamesW03doc.htm
+raw: |-
+  <a name="JamesW03"></a><font size=+2>James Washington Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJr02">David Vining Jr. and Hannah Husted</a>)
+     b. 13 July 1827   Cairo, New York
+     m. [1?] [&#8230;]
+           [2?] 16 March 1861
+                    Katherine Buettner
+                          b. 1842   Indiana
+                          d. 10 March 1905   Fort Wayne, Indiana
+                                bur. Lindenwood Cemetery   Fort Wayne, Indiana
+     d. 9 November 1901   St. Joseph Township, Indiana
+           bur. Lindenwood Cemetery   Fort Wayne, Indiana
+  
+  <font size=+1>child by [&#8230;]:</font>
+     <a href="Afamilies.htm#Alexander05">Alexander Vining</a>   b. 1853   New York   -   m. Alice Edwards   -   d. 2 June 1926   Athens, New York   -   bur. Athens Rural Cemetery   Athens, New York
+  <font size=+1>children by Katherine Buettner:</font>
+     Carrie Vining   b. 5 May 1862   -   d. 12 September 1901   -   bur. Lindenwood Cemetery   Fort Wayne, Indiana
+     Kittie Vining   b. 21 November 1863   St. Joseph Township, Indiana   -   m. Charles Parker   -   d. 25 April 1934   -   bur. Lindenwood Cemetery   Fort Wayne, Indiana
+     Myrtle Vining   b. 1878   -   d. 2 January 1896   -   bur. Lindenwood Cemetery   Fort Wayne, Indiana
+  
+  <a href="Jsources/JamesW03doc.htm">documentation and notes</a>

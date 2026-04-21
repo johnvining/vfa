@@ -1,0 +1,114 @@
+id: John04
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John03
+parentDesc: John Vining and Elizabeth Richards
+head:
+  givenName: John
+  birth:
+    date: 16 April 1713
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 5 December 1795
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: int. 20 July 1735
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Sarah
+      surname: Beal
+      birth:
+        date: 8 May 1717
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 24 October 1764
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Sarah Vining
+        birth:
+          date: 5 October 1736
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 2 July 1761
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Jonathan Hunt
+      - name: Elizabeth Vining
+        birth:
+          date: 30 October 1738
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 4 November 1766
+            place: "Abington, Massachusetts"
+            spouse: William Ladd
+      - name: Jerusha Vining
+        birth:
+          date: 3 August 1742
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 3 November 1763
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Abner Holbrook
+        death:
+          date: 31 December 1819
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: James Vining
+        birth:
+          date: 15 August 1744
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 17 August 1746
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Miriam Vining
+        birth:
+          date: 18 March 1746/47
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 19 November 1749
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 23 May 1790
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: "<a href=\"Dfamilies.htm#David01\">David Vining</a>"
+        death:
+          date: 11 February 1826
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: John Vining
+        birth:
+          date: 6 January 1752
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 13 September 1775
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Leah Vining
+        birth:
+          date: 16 April 1755
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 24 October 1811
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: James Colson
+        death:
+          date: 13 October 1831
+raw: |-
+  <a name="John04"></a><font size=+2>John Vining</font>
+     (son of <a href="#John03">John Vining and Elizabeth Richards</a>)
+     b. 16 April 1713   Weymouth, Norfolk County, Massachusetts
+     m. int. 20 July 1735   Weymouth, Norfolk County, Massachusetts
+           Sarah Beal
+                 (dau. of James Beal and Sarah Lincoln)
+                 b. 8 May 1717   Weymouth, Norfolk County, Massachusetts
+                 d. 24 October 1764   Weymouth, Norfolk County, Massachusetts
+     d. 5 December 1795   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Sarah Vining   b. 5 October 1736   Weymouth, Norfolk County, Massachusetts   -   m. 2 July 1761   Weymouth, Norfolk County, Massachusetts   Jonathan Hunt
+     Elizabeth Vining   b. 30 October 1738   Weymouth, Norfolk County, Massachusetts   -   m. 4 November 1766   Abington, Massachusetts    William Ladd
+     Jerusha Vining   b. 3 August 1742   Weymouth, Norfolk County, Massachusetts   -   m. 3 November 1763   Weymouth, Norfolk County, Massachusetts   Abner Holbrook   -   d. 31 December 1819   Weymouth, Norfolk County, Massachusetts
+     James Vining   b. 15 August 1744   Weymouth, Norfolk County, Massachusetts   -   d. 17 August 1746   Weymouth, Norfolk County, Massachusetts
+     Miriam Vining   b. 18 March 1746/47   Weymouth, Norfolk County, Massachusetts   -   [d. 2 January 1826   Weymouth, Norfolk County, Massachusetts?]
+     Mary Vining   b. 19 November 1749   Weymouth, Norfolk County, Massachusetts   -   m. 23 May 1790   Weymouth, Norfolk County, Massachusetts   <a href="Dfamilies.htm#David01">David Vining</a>   -   d. 11 February 1826   Weymouth, Norfolk County, Massachusetts
+     John Vining   b. 6 January 1752   Weymouth, Norfolk County, Massachusetts   -   d. 13 September 1775   Weymouth, Norfolk County, Massachusetts
+     Leah Vining   b. 16 April 1755   Weymouth, Norfolk County, Massachusetts   -   m. 24 October 1811   Weymouth, Norfolk County, Massachusetts   James Colson   -   d. 13 October 1831

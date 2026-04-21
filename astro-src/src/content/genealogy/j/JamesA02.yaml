@@ -1,0 +1,75 @@
+id: JamesA02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: CharlesM01
+parentLetter: C
+parentDesc: Charles Mayer Vining and Jimmie Breckenridge
+head:
+  givenName: James Allen
+  birth:
+    date: 26 August 1928
+  death:
+    date: 7 January 2018
+    place: "Meridian, Mississippi"
+marriages:
+  - spouse:
+      givenName: Sarah
+      surname: Thornton
+childrenGroups:
+  - children:
+      - name: James Allen Vining Jr.
+        birth:
+          date: 21 October 1953
+      - name: Regina Vining
+        birth:
+          date: 20 March 1955
+        marriages:
+          - date: "[&#8230;] Berdami"
+      - name: Patricia Vining
+        birth:
+          date: 20 March 1956
+        marriages:
+          - date: "[&#8230;] Hester"
+      - name: Charles Vining
+        birth:
+          date: 22 February 1957
+        death:
+          date: before 7 January 2018
+      - name: Joseph Vining
+        birth:
+          date: 27 February 1959
+      - name: Perry Ann Vining
+        birth:
+          date: 31 July 1960
+      - name: Mary Louise Vining
+        birth:
+          date: 30 November 1961
+        marriages:
+          - date: "[&#8230;] Garrett"
+      - name: Lisa Vining
+        birth:
+          date: 24 November 1963
+      - name: "John [Lance?] Vining"
+        birth:
+          date: 23 September 1969
+docsUrl: Jsources/JamesA02doc.htm
+raw: |-
+  <a name="JamesA02"></a><font size=+2>James Allen Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesM01">Charles Mayer Vining and Jimmie Breckenridge</a>)
+     b. 26 August 1928
+     m. Sarah Thornton
+     d. 7 January 2018   Meridian, Mississippi
+  
+  <font size=+1>children:</font>
+     James Allen Vining Jr.   b. 21 October 1953
+     Regina Vining   b. 20 March 1955   -   m. [&#8230;] Berdami
+     Patricia Vining   b. 20 March 1956   -   m. [&#8230;] Hester
+     Charles Vining   b. 22 February 1957   -   d. before 7 January 2018
+     Joseph Vining   b. 27 February 1959
+     Perry Ann Vining   b. 31 July 1960
+     Mary Louise Vining   b. 30 November 1961   -   m. [&#8230;] Garrett
+     Lisa Vining   b. 24 November 1963
+     John [Lance?] Vining   b. 23 September 1969
+  
+  <a href="Jsources/JamesA02doc.htm">documentation and notes</a>

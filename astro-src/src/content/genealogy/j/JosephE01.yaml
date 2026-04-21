@@ -1,0 +1,45 @@
+id: JosephE01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ebenezer01
+parentLetter: E
+parentDesc: Ebenezer Vining and Abigail Eason
+head:
+  givenName: Joseph Eason
+  birth:
+    date: 29 January 1788
+    place: "Leyden, Massachusetts"
+  death:
+    date: 29 March 1831
+    place: "Ellicottville, New York"
+marriages:
+  - date: 14 March 1813
+childrenGroups:
+  - children:
+      - name: Joseph Ashley Vining
+        birth:
+          date: 13 January 1814
+          place: "Bridgewater, New York"
+        marriages:
+          - date: "Ellicottville, New York?"
+            spouse: Aurelia Williams
+      - name: Sally Salome Vining
+        birth:
+          date: 22 June 1818
+        death:
+          date: July 1818
+raw: |-
+  <a name="JosephE01"></a><font size=+2>Joseph Eason Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer01">Ebenezer Vining and Abigail Eason</a>)
+     b. 29 January 1788   Leyden, Massachusetts
+     m. 14 March 1813
+        Sally Ashley
+              (dau. of Thomas Ashley and Sally [...])
+              b. 22 October 1790   Bennington, Vermont
+              d. 1 August 1854   Rochester, New York
+     d. 29 March 1831   Ellicottville, New York
+  
+  <font size=+1>children:</font>
+     Joseph Ashley Vining   b. 13 January 1814   Bridgewater, New York   -   m. Ellicottville, New York?   Aurelia Williams
+     Sally Salome Vining   b. 22 June 1818   -   d. July 1818

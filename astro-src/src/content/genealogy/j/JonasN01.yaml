@@ -1,0 +1,70 @@
+id: JonasN01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnB01
+parentDesc: John Bradley Vining and Sarah A. Doty
+head:
+  givenName: Jonas N.
+  birth:
+    date: "25 June [1837 or 1838]"
+    place: Ohio
+  death:
+    date: 8 June 1931
+marriages:
+  - number: 1
+    date: Malinda Bowen
+  - number: 2
+    date: "1894"
+    spouse:
+      givenName: "Sarah A. &#8220;Nancy&#8221;"
+      surname: Columbes
+      birth:
+        date: August 1855
+        place: Ohio
+childrenGroups:
+  - spouseRef: "Sarah A. &#8220;Nancy&#8221; Columbes"
+    children:
+      - name: Leo Nelson Vining
+        entryId: LeoN01
+        entryLetter: L
+        birth:
+          date: 11 July 1896
+          place: Ohio
+        marriages:
+          - date: Jean M. McLean
+        death:
+          date: January 1951
+      - name: Lloyd Ozias Vining
+        entryId: LloydO01
+        entryLetter: L
+        birth:
+          date: 3 September 1899
+          place: Ohio
+        marriages:
+          - date: Esther Hulda Prince
+        death:
+          date: 13 July 1963
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+docsUrl: Jsources/JonasN01doc.htm
+raw: |-
+  <a name="JonasN01"></a><font size=+2>Jonas N. Vining</font>
+     (son of <a href="#JohnB01">John Bradley Vining and Sarah A. Doty</a>)
+     b. 25 June [1837 or 1838]   Ohio
+     m. (1) Malinda Bowen
+                       b. 1 July 1841   Ohio
+                       d. 31 December 1891
+                             bur. Buxton Cemetery   Franklin County, Virginia
+           (2) 1894
+                 Sarah A. &#8220;Nancy&#8221; Columbes
+                       b. August 1855   Ohio
+     d. 8 June 1931
+  
+  <font size=+1>child by Malinda Bowen:</font>
+     Edith M. Vining   b. 17 July 1873   Ohio
+  <font size=+1>children by Sarah A. &#8220;Nancy&#8221; Columbes:</font>
+     <a href="Lfamilies.htm#LeoN01">Leo Nelson Vining</a>   b. 11 July 1896   Ohio   -   m. Jean M. McLean   -   d. January 1951
+     <a href="Lfamilies.htm#LloydO01">Lloyd Ozias Vining</a>   b. 3 September 1899   Ohio   -   m. Esther Hulda Prince   -   d. 13 July 1963   -   bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <a href="Jsources/JonasN01doc.htm">documentation and notes</a>

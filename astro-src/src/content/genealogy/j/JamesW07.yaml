@@ -1,0 +1,60 @@
+id: JamesW07
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: PeterS01
+parentLetter: P
+parentDesc: Peter Smith Vining and Sarah Maria Hicks
+head:
+  givenName: James Washington
+  birth:
+    date: age 7 y. as of 1860 census
+    place: "Jewett, Greene County, New York"
+  death:
+    date: 21 June 1882
+marriages:
+  - spouse:
+      givenName: Henrietta
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Cecelia Vining
+        birth:
+          date: ca. 1865
+          place: New York
+        marriages:
+          - date: Charles H. Clark
+        death:
+          date: 7 November 1892
+          place: "New York, New York"
+      - name: Peter S. Vining
+        entryId: PeterS02
+        entryLetter: P
+        birth:
+          date: 22 July 1877
+          place: "[Connecticut or New York?]"
+        marriages:
+          - date: 9 y. as of 1910 census
+            spouse: Mary Campion
+        death:
+          date: September 1971
+          place: "Snd Lake, Rensselaer County, New York"
+        burial:
+          place: "Sand Lake Union Cemetery   Sand Lake, New York"
+      - name: Raymond Vining
+docsUrl: Jsources/JamesW07doc.htm
+raw: |-
+  <a name="JamesW07"></a><font size=+2>James Washington Vining</font>
+     (son of <a href="Pfamilies.htm#PeterS01">Peter Smith Vining and Sarah Maria Hicks</a>)
+     b. age 7 y. as of 1860 census   Jewett, Greene County, New York
+     m. Henrietta [...]
+              b. age 29 y. as of 1880 census   New York
+     d. 21 June 1882
+           bur. Hensonville Cemetery   New York
+  
+  <font size=+1>children:</font>
+     Cecelia Vining   b. ca. 1865   New York   -   m. Charles H. Clark   -   d. 7 November 1892   New York, New York
+     <a href="Pfamilies.htm#PeterS02">Peter S. Vining</a>   b. 22 July 1877   [Connecticut or New York?]   -   m. 9 y. as of 1910 census   Mary Campion   -   d. September 1971   Snd Lake, Rensselaer County, New York   -   bur. Sand Lake Union Cemetery   Sand Lake, New York
+     Raymond Vining
+  
+  <a href="Jsources/JamesW07doc.htm">documentation and notes</a>

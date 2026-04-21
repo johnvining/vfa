@@ -1,0 +1,117 @@
+id: JohnJr05
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John15
+parentDesc: John Vining and Elvira Harris Shelton
+head:
+  givenName: John
+  birth:
+    date: 19 September 1825
+    place: Alabama
+  death:
+    date: 12 December 1890
+    place: Tennessee
+marriages:
+  - date: 4 October 1847
+    place: "Fayetteville, Tennessee"
+    spouse:
+      givenName: Ann S.
+      surname: Carty
+      birth:
+        date: age 41 y. as of 1870 census
+        place: Tennessee
+childrenGroups:
+  - children:
+      - name: John Vining
+        birth:
+          date: "age [12?] y. as of 1860 census"
+          place: Tennessee
+      - name: Benjamin Carty Vining
+        entryId: BenjaminC01
+        entryLetter: B
+        birth:
+          date: 18 May 1850
+          place: Tennessee
+        marriages:
+          - date: Frances Scott
+        death:
+          date: 11 June 1927
+          place: "[Toney, AL?]"
+        burial:
+          place: "Shady Grove Cemetery   Toney, Alabama"
+      - name: "L[uella or ouisa?] R. Vining"
+        birth:
+          date: age 7 y. as of 1860 census
+          place: Tennessee
+      - name: Charles C. Vining
+        birth:
+          date: 24 July 1856
+          place: Tennessee
+        death:
+          date: 20 August 1877
+        burial:
+          place: "State Line Cemetery   Hazel Green, Alabama"
+      - name: James Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Tennessee
+      - name: George Vining
+        birth:
+          date: April 1870
+          place: Tennessee
+      - name: Catherine Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Tennessee
+      - name: Eliza Vining
+        birth:
+          date: age 5 y. as of 1870 census
+          place: Tennessee
+      - name: Joseph Morrison Vining
+        entryId: JosephM01
+        birth:
+          date: 6 April 1868
+          place: "Fayetteville, Tennessee"
+        marriages:
+          - date: Arah Belle Haley
+        death:
+          date: 10 November 1957
+          place: "Lubbock, Texas"
+        burial:
+          place: "Littlefield Cemetery   Littlefield, Texas"
+      - name: Edward Lee Vining
+        entryId: EdwardL02
+        entryLetter: E
+        birth:
+          date: 1 September 1872
+          place: Tennessee
+        marriages:
+          - date: "Elvira D. [&#8230;]"
+        death:
+          date: 17 July 1958
+        burial:
+          place: "Leesville Cemetery   Leesville, Louisiana"
+docsUrl: Jsources/John05doc.htm
+raw: |-
+  <a name="JohnJr05"></a><font size=+2>John Vining</font>
+     (son of <a href="#John15">John Vining and Elvira Harris Shelton</a>)
+     b. 19 September 1825   Alabama
+     m. 4 October 1847   Fayetteville, Tennessee
+           Ann S. Carty
+                 b. age 41 y. as of 1870 census   Tennessee
+     d. 12 December 1890   Tennessee
+  
+  <font size=+1>children:</font>
+     John Vining   b. age [12?] y. as of 1860 census   Tennessee
+     <a href="Bfamilies.htm#BenjaminC01">Benjamin Carty Vining</a>   b. 18 May 1850   Tennessee   -   m. Frances Scott   -   d. 11 June 1927   [Toney, AL?]   -   bur. Shady Grove Cemetery   Toney, Alabama
+     L[uella or ouisa?] R. Vining   b. age 7 y. as of 1860 census   Tennessee
+     Charles C. Vining   b. 24 July 1856   Tennessee   -   d. 20 August 1877   -   bur. State Line Cemetery   Hazel Green, Alabama
+     James Vining   b. age 1 y. as of 1860 census   Tennessee
+     George Vining   b. April 1870   Tennessee
+     Catherine Vining   b. age 8 y. as of 1870 census   Tennessee
+     Eliza Vining   b. age 5 y. as of 1870 census   Tennessee
+     <a href="#JosephM01">Joseph Morrison Vining</a>   b. 6 April 1868   Fayetteville, Tennessee   -   m. Arah Belle Haley   -   d. 10 November 1957   Lubbock, Texas   -   bur. Littlefield Cemetery   Littlefield, Texas
+     <a href="Efamilies.htm#EdwardL02">Edward Lee Vining</a>   b. 1 September 1872   Tennessee   -   m. Elvira D. [&#8230;]   -   d. 17 July 1958   -   bur. Leesville Cemetery   Leesville, Louisiana
+  
+  <a href="Jsources/John05doc.htm">documentation and notes</a>

@@ -1,0 +1,41 @@
+id: JamesHJr01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesH04
+parentDesc: "James Hoyt Vining and Mae [&#8230;]"
+head:
+  givenName: James Hoyt Jr.
+  birth:
+    date: 18 October 1928
+    place: Georgia
+  death:
+    date: 4 September 2008
+marriages:
+  - spouse:
+      givenName: Jean
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: James Hoyt Vining III
+      - name: Pamela Vining
+        marriages:
+          - date: "[&#8230;] Cox"
+      - name: Janet Vining
+        marriages:
+          - date: "[&#8230;] Fowler"
+raw: |-
+  <a name="JamesHJr01"></a><font size=+2>James Hoyt Vining Jr.</font>
+     (son of <a href="#JamesH04">James Hoyt Vining and Mae [&#8230;]</a>)
+     b. 18 October 1928   Georgia
+     m. Jean [&#8230;]
+              b. 26 January 1931
+              d. 13 November 2014
+                    bur. Florida National Cemetery   Bushnell, Florida
+     d. 4 September 2008
+           bur. Florida National Cemetery   Bushnell, Florida
+  
+  <font size=+1>children:</font>
+     James Hoyt Vining III
+     Pamela Vining   m. [&#8230;] Cox
+     Janet Vining   m. [&#8230;] Fowler

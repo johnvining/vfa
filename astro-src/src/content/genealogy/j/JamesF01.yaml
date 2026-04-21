@@ -1,0 +1,73 @@
+id: JamesF01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?] Vining and Susie [&#8230;]"
+head:
+  givenName: James F.
+  birth:
+    date: age 49 y. as of 1870 census
+    place: "Putnam County, Georgia"
+marriages:
+  - spouse:
+      givenName: November
+      surname: "1869"
+      birth:
+        date: September 1828
+        place: "Jasper, Georgia"
+childrenGroups:
+  - children:
+      - name: Mary Ann Vining
+        birth:
+          date: 3 February 1848
+          place: Georgia
+        marriages:
+          - date: Francis Marion Hodgins
+        death:
+          date: 28 September 1913
+      - name: Sarah A. Vining
+        birth:
+          date: 2 March 1853
+          place: Georgia
+        death:
+          date: 3 June 1911
+          place: "Newton County, Georgia"
+      - name: Martha Jane Vining
+        birth:
+          date: age 14 y. as of 1870 census
+          place: Georgia
+      - name: Elijah Vining
+        birth:
+          date: age 11 y. as of 1870 census
+          place: Georgia
+      - name: William Vining
+        birth:
+          date: July 1861
+          place: "Newton County, Georgia"
+        marriages:
+          - date: "Carrie [&#8230;]"
+      - name: Adeline Vining
+        birth:
+          date: April 1872
+          place: Georgia
+        death:
+          date: 16 May 1944
+docsUrl: Jsources/JamesF01doc.htm
+raw: |-
+  <a name="JamesF01"></a><font size=+2>James F. Vining</font>
+     (son of [?] Vining and Susie [&#8230;])
+     b. age 49 y. as of 1870 census   Putnam County, Georgia
+     m. November 1869
+           Sophia Margaret Nesbit Lewis
+                 (dau. of Philip Lewis and Elizabeth Osborne)
+                 b. September 1828   Jasper, Georgia
+  
+  <font size=+1>children:</font>
+     Mary Ann Vining   b. 3 February 1848   Georgia   -   m. Francis Marion Hodgins   -   d. 28 September 1913
+     Sarah A. Vining   b. 2 March 1853   Georgia   -   d. 3 June 1911   Newton County, Georgia
+     Martha Jane Vining   b. age 14 y. as of 1870 census   Georgia
+     Elijah Vining   b. age 11 y. as of 1870 census   Georgia
+     William Vining   b. July 1861   Newton County, Georgia   -   m. Carrie [&#8230;]
+     Adeline Vining   b. April 1872   Georgia   -   d. 16 May 1944
+  
+  <a href="Jsources/JamesF01doc.htm">documentation and notes</a>

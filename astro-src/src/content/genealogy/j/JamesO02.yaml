@@ -1,0 +1,84 @@
+id: JamesO02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: James04
+parentDesc: James Vining and Sarah Brooker
+head:
+  givenName: James O.
+  birth:
+    date: 15 February 1878
+    place: Georgia
+  death:
+    date: 20 November 1950
+    place: "Aiken, South Carolina"
+marriages:
+  - number: 1
+    date: 9 y. as of 1910 census
+    spouse:
+      givenName: Mary Jane
+      surname: "O&8217;Steen"
+      birth:
+        date: 7 March 1885
+        place: "Williston, South Carolina"
+      death:
+        date: 19 May 1971
+        place: "Aiken, South Carolina"
+      burial:
+        place: "Bethany Cemetery   Aiken, South Carolina"
+childrenGroups:
+  - spouseRef: Mary Jane O'Steen
+    children:
+      - name: Thelma Lucille Vining
+        birth:
+          date: "1901"
+          place: Florida
+        marriages:
+          - date: "[...] James"
+        death:
+          date: "1972"
+      - name: Myrtle Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Florida
+      - name: James Chandler Vining
+        birth:
+          date: 3 March 1908
+          place: Georgia
+        death:
+          date: 1 January 1931
+        burial:
+          place: "[Chaney Cemetery   Coffee County, Georgia   OR   Rock Pond Cemetery   Iron City, Georgia ?]"
+      - name: Maude Vining
+        birth:
+          date: "1912"
+        marriages:
+          - date: "[...] Morgan"
+        death:
+          date: "1991"
+docsUrl: Jsources/JamesO02doc.htm
+raw: |-
+  <a name="JamesO02"></a><font size=+2>James O. Vining</font>
+     (son of <a href="#James04">James Vining and Sarah Brooker</a>)
+     b. 15 February 1878   Georgia
+     m. (1) 9 y. as of 1910 census
+                 Mary Jane O&8217;Steen
+                       (dau. of Benjamin Harrison O'Steen and Mildred Herrin)
+                       b. 6 June 1880   [Clinch County, Georgia or Florida)
+                       d. 4 February 1915
+                             bur. Chaney Cemetery   Georgia
+              (2) Margaret Mitchell
+                       (dau. of Asa H. Mitchell and Emma S. Wooley)
+                       b. 7 March 1885   Williston, South Carolina
+                       d. 19 May 1971   Aiken, South Carolina
+                             bur. Bethany Cemetery   Aiken, South Carolina
+     d. 20 November 1950   Aiken, South Carolina
+           bur. Bethany Cemetery   Aiken, South Carolina
+  
+  <font size=+1>children by Mary Jane O'Steen:</font>
+     Thelma Lucille Vining   b. 1901   Florida   -   m. [...] James   -   d. 1972
+     Myrtle Vining   b. age 6 y. as of 1910 census   Florida
+     James Chandler Vining   b. 3 March 1908   Georgia   -   d. 1 January 1931   -   bur. [Chaney Cemetery   Coffee County, Georgia   OR   Rock Pond Cemetery   Iron City, Georgia ?]
+     Maude Vining   b. 1912   -   m. [...] Morgan   -   d. 1991
+  
+  <a href="Jsources/JamesO02doc.htm">documentation and notes</a>

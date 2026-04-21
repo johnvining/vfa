@@ -1,0 +1,119 @@
+id: John03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John02
+parentDesc: John Vining and Naomi Bicknell
+head:
+  givenName: John
+  birth:
+    date: 17 January 1687/88
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 27 July 1746
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: ca. 1710
+    spouse:
+      givenName: Elizabeth
+      surname: Richards
+      birth:
+        date: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Benjamin Vining
+        entryId: Benjamin01
+        entryLetter: B
+        birth:
+          date: 24 January 1710/11
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 30 November 1732
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Hannah Pratt
+      - name: John Vining
+        entryId: John04
+        birth:
+          date: 16 April 1713
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: int. 20 July 1735
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Sarah Beal
+        death:
+          date: 5 December 1795
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Richard Vining
+        entryId: Richard01
+        entryLetter: R
+        birth:
+          date: 12 September 1715
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 17 February 1736/37
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Lydia Allen
+        death:
+          date: before August 1800
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 9 April 1717
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 21 August 1734
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Gideon Parkman
+      - name: Betty Vining
+        birth:
+          date: 9 January 1720/21
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Joseph Vining
+        birth:
+          date: 23 June 1723
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 27 January 1742/43
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Ruth Vining
+        birth:
+          date: 1 November 1725
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 12 December 1745
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Jonathan Joy
+        death:
+          date: 17 January 1795
+      - name: Lydia Vining
+        birth:
+          date: 27 November 1728
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 17 March 1748
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: John Hunt
+        death:
+          date: 4 June 1802
+raw: |-
+  <a name="John03"></a><font size=+2>John Vining</font>
+     (son of <a href="#John02">John Vining and Naomi Bicknell</a>)
+     b. 17 January 1687/88   Weymouth, Norfolk County, Massachusetts
+     m. ca. 1710
+           Elizabeth Richards
+                 (dau. of James Richards and Ruth Bicknell)
+                 b. Weymouth, Norfolk County, Massachusetts
+                 d. Weymouth, Norfolk County, Massachusetts
+     d. 27 July 1746   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Bfamilies.htm#Benjamin01">Benjamin Vining</a>   b. 24 January 1710/11   Weymouth, Norfolk County, Massachusetts   -   m. 30 November 1732   Weymouth, Norfolk County, Massachusetts   Hannah Pratt
+     <a href="#John04">John Vining</a>   b. 16 April 1713   Weymouth, Norfolk County, Massachusetts   -   m. int. 20 July 1735   Weymouth, Norfolk County, Massachusetts   Sarah Beal   -   d. 5 December 1795   Weymouth, Norfolk County, Massachusetts
+     <a href="Rfamilies.htm#Richard01">Richard Vining</a>   b. 12 September 1715   Weymouth, Norfolk County, Massachusetts   -   m. 17 February 1736/37   Weymouth, Norfolk County, Massachusetts   Lydia Allen   -   d. before August 1800   Weymouth, Norfolk County, Massachusetts
+     Mary Vining   b. 9 April 1717   Weymouth, Norfolk County, Massachusetts   -   m. 21 August 1734   Weymouth, Norfolk County, Massachusetts   Gideon Parkman
+     Betty Vining   b. 9 January 1720/21   Weymouth, Norfolk County, Massachusetts
+     Joseph Vining   b. 23 June 1723   Weymouth, Norfolk County, Massachusetts   -   d. 27 January 1742/43   Weymouth, Norfolk County, Massachusetts
+     Ruth Vining   b. 1 November 1725   Weymouth, Norfolk County, Massachusetts   -   m. 12 December 1745   Weymouth, Norfolk County, Massachusetts   Jonathan Joy   -   d. 17 January 1795
+     Lydia Vining   b. 27 November 1728   Weymouth, Norfolk County, Massachusetts   -   m. 17 March 1748   Weymouth, Norfolk County, Massachusetts   John Hunt   -   d. 4 June 1802

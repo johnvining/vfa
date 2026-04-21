@@ -1,0 +1,40 @@
+id: John38
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+marriages:
+  - spouse:
+      givenName: Burlie
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Gene Vining
+      - name: Donald Vining
+        entryId: Donald03
+        entryLetter: D
+        birth:
+          date: age 80 y. at death
+        marriages:
+          - date: "Wanda [&#8230;]"
+        death:
+          date: 1 May 2018
+          place: Alabama
+      - name: John Vining
+        marriages:
+          - date: "Joyce [&#8230;]"
+      - name: Carolyn Vining
+        marriages:
+          - date: "[&#8230;] Garrison"
+raw: |-
+  <a name="John38"></a><font size=+2>John Vining</font>
+     (son of [?])
+     m. Burlie [&#8230;]
+  
+  <font size=+1>children:</font>
+     Gene Vining
+     <a href="Dfamilies.htm#Donald03">Donald Vining</a>   b. age 80 y. at death   -   m. Wanda [&#8230;]   -   d. 1 May 2018   Alabama
+     John Vining   m. Joyce [&#8230;]
+     Carolyn Vining   m. [&#8230;] Garrison

@@ -1,0 +1,19 @@
+id: Jason01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jill01
+parentDesc: Jill Vining and Mike Buchholz
+head:
+  givenName: Jason
+marriages:
+  - spouse:
+      givenName: Amy
+      surname: "[...]"
+raw: |-
+  <a name="Jason01"></a><font size=+2>Jason Vining</font>
+     (son of <a href="#Jill01">Jill Vining and Mike Buchholz</a>)
+     m. Amy [...]
+  
+  <font size=+1>child:</font>
+     Autumn Vining

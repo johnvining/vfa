@@ -1,0 +1,72 @@
+id: JohnP01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Alonzo01
+parentLetter: A
+parentDesc: "Alonzo Vining and Jane [McNee or MacKee?]"
+head:
+  givenName: John Paul
+  birth:
+    date: "1863"
+  death:
+    date: "1949"
+marriages:
+  - spouse:
+      givenName: Zilpha
+      surname: Gleason
+childrenGroups:
+  - children:
+      - name: Clara Vining
+        birth:
+          date: 15 July 1891
+        marriages:
+          - date: 21 March 1917
+            spouse: Wesley Richardson
+        death:
+          date: 15 April 1970
+          place: "St. Marys, Ontario"
+      - name: Emily Jane Vining
+        birth:
+          date: 12 January 1893
+        death:
+          date: 20 September 1893
+      - name: John James Gleason Vining
+        entryId: JohnJG01
+        birth:
+          date: 18 May 1894
+        marriages:
+          - date: 12 October 1921
+            spouse: "Maud[e?] Priscilla Borland"
+        death:
+          date: March 1987
+          place: "(last residence: Port Austin, Michigan)"
+      - name: Jared Alonzo Vining
+        birth:
+          date: 30 May 1903
+          place: "London, Ontario"
+        marriages:
+          - number: 1
+            date: Edith Jane Smibert (d. 1959)
+          - number: 2
+            date: November 1962
+            spouse: Rose Murray
+        death:
+          date: 19 August 1979
+          place: "London, Ontario"
+        burial:
+          place: "Vining Cemetery   Friendly Corners   West Nissouri Township, Ontario"
+raw: |-
+  <a name="JohnP01"></a><font size=+2>John Paul Vining</font>
+     (son of <a href="Afamilies.htm#Alonzo01">Alonzo Vining and Jane [McNee or MacKee?]</a>)
+     b. 1863
+     m. Zilpha Gleason
+              b. 1863
+              d. 1940
+     d. 1949
+  
+  <font size=+1>children:</font>
+     Clara Vining   b. 15 July 1891   -   m. 21 March 1917   Wesley Richardson   -   d. 15 April 1970   St. Marys, Ontario
+     Emily Jane Vining   b. 12 January 1893   -   d. 20 September 1893
+     <a href="#JohnJG01">John James Gleason Vining</a>   b. 18 May 1894   -   m. 12 October 1921   Maud[e?] Priscilla Borland   -   d. March 1987   (last residence: Port Austin, Michigan)
+     Jared Alonzo Vining   b. 30 May 1903   London, Ontario   -   m. (1) Edith Jane Smibert (d. 1959);   (2) November 1962   Rose Murray   -   d. 19 August 1979   London, Ontario   -   bur. Vining Cemetery   Friendly Corners   West Nissouri Township, Ontario

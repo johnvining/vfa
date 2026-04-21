@@ -1,0 +1,147 @@
+id: JeffersonA01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Samuel09
+parentLetter: S
+parentDesc: Samuel Vining and Tabitha Evans
+head:
+  givenName: Jefferson Ashley
+  birth:
+    date: 26 February 1822
+    place: "Putnam County, Georgia"
+  death:
+    date: 1 December 1883
+    place: "Eufaula, Barbour County, Alabama"
+marriages:
+  - date: 9 May 1847
+    spouse:
+      givenName: Mary Elizabeth
+      surname: Fry
+      birth:
+        date: 20 July 1831
+      death:
+        date: 20 August 1904
+childrenGroups:
+  - children:
+      - name: Louise Vining
+        birth:
+          date: June 1848
+        death:
+          date: "1853"
+      - name: John Solon Vining
+        entryId: JohnS01
+        birth:
+          date: 5 July 1849
+          place: Alabama
+        marriages:
+          - date: Emma Sparks
+        death:
+          date: 21 September 1907
+        burial:
+          place: "Georgetown Cemetery   Georgetown, Georgia"
+      - name: Addie Vining
+        birth:
+          date: December 1851
+          place: m. March 1874   William F. Shannon
+      - name: Macon Abner Vining
+        entryId: MaconA01
+        entryLetter: M
+        birth:
+          date: 18 February 1854
+          place: Alabama
+        marriages:
+          - number: 1
+            date: 31 January 1878
+            place: "Eufaula, Alabama"
+            spouse: Sarah Emma Averett
+          - number: 2
+            date: Mary Belle Jones
+        death:
+          date: 23 February 1914
+          place: "Eufaula, Alabama"
+      - name: Sophronia Vining
+        birth:
+          date: 17 May 1856
+        marriages:
+          - date: 28 December 1880
+            spouse: Thomas Fletcher King
+      - name: "Americu &#8220;Babe&#8221; Vining"
+        birth:
+          date: 16 August 1858
+        marriages:
+          - date: June 1879
+            spouse: Thomas B. Jones
+      - name: Wiley Ed Vining
+        birth:
+          date: November 1860
+        marriages:
+          - date: Rosa Lee Cada
+        death:
+          date: "1884"
+      - name: Mary Leila Vining
+        birth:
+          date: 13 December 1862
+        marriages:
+          - number: 1
+            date: James Carter
+          - number: 2
+            date: William Chambers
+      - name: Martha Vining
+        birth:
+          date: 25 February 1865
+        marriages:
+          - date: Davis Wood
+      - name: Robert Lee Vining
+        birth:
+          date: 20 March 1867
+        marriages:
+          - date: Freddie Smith
+      - name: Lucy Dixon Vining
+        birth:
+          date: 5 March 1869
+        marriages:
+          - number: 1
+            date: W. D. Glover
+          - number: 2
+            date: J. W. Stamps
+      - name: Nora Belle Vining
+        birth:
+          date: 22 August 1871
+        marriages:
+          - date: James D. Jones
+      - name: Tabitha Vining
+        birth:
+          date: 26 February 1873
+      - name: Eloise Vining
+        birth:
+          date: 13 March 1875
+docsUrl: Jsources/JeffersonA01doc.htm
+raw: |-
+  <a name="JeffersonA01"></a><font size=+2>Jefferson Ashley Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel09">Samuel Vining and Tabitha Evans</a>)
+     b. 26 February 1822   Putnam County, Georgia
+     m. 9 May 1847
+           Mary Elizabeth Fry
+                 b. 20 July 1831
+                 d. 20 August 1904
+     d. 1 December 1883   Eufaula, Barbour County, Alabama
+           bur. McGee Cemetery   Barbour County, Alabama
+  
+  <font size=+1>children:</font>
+     Louise Vining   b. June 1848   -   d. 1853
+     <a href="#JohnS01">John Solon Vining</a>   b. 5 July 1849   Alabama   -   m. Emma Sparks   -   d. 21 September 1907   -   bur. Georgetown Cemetery   Georgetown, Georgia
+     Addie Vining   b. December 1851   m. March 1874   William F. Shannon
+     <a href="Mfamilies.htm#MaconA01">Macon Abner Vining</a>   b. 18 February 1854   Alabama   -   m. (1) 31 January 1878   Eufaula, Alabama   Sarah Emma Averett;   (2) Mary Belle Jones   -   d. 23 February 1914   Eufaula, Alabama
+     Sophronia Vining   b. 17 May 1856   -   m. 28 December 1880   Thomas Fletcher King
+     Americu &#8220;Babe&#8221; Vining   b. 16 August 1858   -   m. June 1879   Thomas B. Jones
+     Wiley Ed Vining   b. November 1860   -   m. Rosa Lee Cada   -   d. 1884
+     Mary Leila Vining   b. 13 December 1862   -   m. (1) James Carter;   (2) William Chambers
+     Martha Vining   b. 25 February 1865   -   m. Davis Wood
+     Robert Lee Vining   b. 20 March 1867   -   m. Freddie Smith
+     Lucy Dixon Vining   b. 5 March 1869   -   m. (1) W. D. Glover;   (2) J. W. Stamps
+     Nora Belle Vining   b. 22 August 1871   -   m. James D. Jones
+     Tabitha Vining   b. 26 February 1873
+     Eloise Vining   b. 13 March 1875
+  
+  <a href="Jsources/JeffersonA01doc.htm">documentation and notes</a>

@@ -1,0 +1,44 @@
+id: JosephC01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Joseph Collins
+  birth:
+    date: 3 July 1835
+    place: "Bristol, Gloucestershire, England"
+  death:
+    date: 7 November 1918
+    place: "Bristol, Gloucestershire, England"
+marriages:
+  - spouse:
+      givenName: Helen Elizabeth Reynolds
+      surname: Frankis
+childrenGroups:
+  - children:
+      - name: Henry Percival Vining
+        entryId: HenryP01
+        entryLetter: H
+        birth:
+          date: "1863"
+          place: "Bristol, Gloucestershire, England"
+        marriages:
+          - date: Mary Adelaide Sarratt
+      - name: Ethel martha Vining
+      - name: Frederick William Frankis Vining
+      - name: Evelyn Caroline May Vining
+raw: |-
+  <a name="JosephC01"></a><font size=+2>Joseph Collins Vining</font>
+     (son of [?])
+     b. 3 July 1835   Bristol, Gloucestershire, England
+     m. Helen Elizabeth Reynolds Frankis
+              b. January 1838   Bristol, Gloucestershire, England
+              d. July 1910   Bristol, Gloucestershire, England
+     d. 7 November 1918   Bristol, Gloucestershire, England
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#HenryP01">Henry Percival Vining</a>   b. 1863   Bristol, Gloucestershire, England   -   m. Mary Adelaide Sarratt
+     Ethel martha Vining
+     Frederick William Frankis Vining
+     Evelyn Caroline May Vining

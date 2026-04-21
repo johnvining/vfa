@@ -1,0 +1,79 @@
+id: Jonathan01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: SamuelJr01
+parentLetter: S
+parentDesc: Samuel Vining Jr. and Mary Gleason
+head:
+  givenName: Jonathan/John
+  birth:
+    date: 26 May 1732
+    place: "Enfield, Connecticut"
+  death:
+    date: "[Ohio?]"
+marriages:
+  - spouse:
+      givenName: Rosanna/Roxanna
+      surname: Carter
+childrenGroups:
+  - children:
+      - name: John Vining
+        birth:
+          date: 13 April 1762
+        death:
+          date: "21 April 1777?"
+          place: Connecticut
+      - name: Elizabeth Vining
+        birth:
+          date: 28 February 1764
+        marriages:
+          - date: 8 June 1788
+            place: "Becket, Massachusetts"
+            spouse: James Rudd
+      - name: Jonas Vining
+        entryId: Jonas01
+        birth:
+          date: 22 September 1765
+          place: Connecticut
+        marriages:
+          - date: Sarah Page
+        death:
+          date: 25 May 1841
+          place: Ohio
+        burial:
+          place: "Vining Cemetery   Bennington Township, Ohio"
+      - name: "Mary &#8220;Betsy&#8221; Vining"
+        birth:
+          date: 4 October 1767
+        marriages:
+          - date: "1784"
+            spouse: Ebenezer Jones
+        death:
+          date: 19 October 1834
+        burial:
+          place: "Cincinnatus, New York"
+      - name: Samuel Vining
+        entryId: Samuel03
+        entryLetter: S
+        birth:
+          date: 12 October 1770
+        marriages:
+          - date: "Rebekah [...]"
+        death:
+          date: 24 May 1841
+        burial:
+          place: "Vining Cemetery   Bennington Township, Ohio"
+raw: |-
+  <a name="Jonathan01"></a><font size=+2>Jonathan/John Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelJr01">Samuel Vining Jr. and Mary Gleason</a>)
+     b. 26 May 1732   Enfield, Connecticut
+     m. Rosanna/Roxanna Carter
+     d. [Ohio?]
+  
+  <font size=+1>children:</font>
+     John Vining   b. 13 April 1762   -   d. 21 April 1777?   Connecticut
+     Elizabeth Vining   b. 28 February 1764   -   m. 8 June 1788   Becket, Massachusetts   James Rudd
+     <a href="#Jonas01">Jonas Vining</a>   b. 22 September 1765   Connecticut   -   m. Sarah Page   -   d. 25 May 1841   Ohio   -   bur. Vining Cemetery   Bennington Township, Ohio
+     Mary &#8220;Betsy&#8221; Vining   b. 4 October 1767   -   m. 1784   Ebenezer Jones   -   d. 19 October 1834   -   bur. Cincinnatus, New York
+     <a href="Sfamilies.htm#Samuel03">Samuel Vining</a>   b. 12 October 1770   -   m. Rebekah [...]   -   d. 24 May 1841   -   bur. Vining Cemetery   Bennington Township, Ohio

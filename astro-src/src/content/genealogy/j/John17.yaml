@@ -1,0 +1,95 @@
+id: John17
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Benjamin07
+parentLetter: B
+parentDesc: Benjamin Vining and Mary Middleton
+head:
+  givenName: John
+  birth:
+    date: "17[24 or 25?]"
+  death:
+    date: 13 November 1770
+marriages:
+  - number: 1
+    date: 28 April 1749
+    spouse:
+      givenName: Rachel
+      surname: Ridgely
+      birth:
+        date: "7 February [1717 or 1715?]"
+        place: "Anne Arundel County, Delaware"
+      death:
+        date: 6 November 1753
+        place: "Dover, Kent County, Delaware"
+      burial:
+        place: "Christ Episcopal Church Cemetery   Dover, Delaware"
+  - number: 2
+    date: 16 January 1755
+    spouse:
+      givenName: Phoebe
+      surname: Wynkoop
+childrenGroups:
+  - spouseRef: Rachel Ridgely
+    children:
+      - name: Benjamin Vining
+        birth:
+          date: "1751"
+        death:
+          date: 21 November 1785
+        burial:
+          place: Christ Episcopal Church Cemetery
+      - name: Nicholas Vining
+  - spouseRef: Phoebe Wynkoop
+    children:
+      - name: "Mary &#8220;Polly&#8221; Vining"
+        birth:
+          date: 20 August 1756
+          place: "Dover, Delaware"
+        death:
+          date: 20 April 1821
+        burial:
+          place: "Old Swedes Churchyard   Wilmington, Delaware"
+      - name: John Middleton Vining
+        entryId: JohnM02
+        birth:
+          date: 23 December 1758
+          place: "Dover, Delaware"
+        marriages:
+          - date: "[24 or 29?] November 1790"
+            place: "[New York?]"
+            spouse: Anna Maria Seton
+        death:
+          date: February 1802
+          place: "Dover, Delaware"
+        burial:
+          place: "Christ Episcopal Church Cemetery   Dover, Delaware"
+      - name: Abraham Vining
+        birth:
+          date: 5 December 1762
+          place: "Dover, Delaware"
+        death:
+          date: 25 October 1764
+raw: |-
+  <a name="John17"></a><font size=+2>John Vining</font>
+     (son of <a href="Bfamilies.htm#Benjamin07">Benjamin Vining and Mary Middleton</a>)
+     b. 17[24 or 25?]
+     m. (1) 28 April 1749
+                 Rachel Ridgely
+                       (dau. of Nicholas Greenbury Ridgely and Sarah Worthington)
+                       b. 7 February [1717 or 1715?]   Anne Arundel County, Delaware
+                       d. 6 November 1753   Dover, Kent County, Delaware
+                             bur. Christ Episcopal Church Cemetery   Dover, Delaware
+           (2) 16 January 1755
+                 Phoebe Wynkoop
+     d. 13 November 1770
+           [bur. Christ Episcopal Church Cemetery   Dover, Delaware ?]
+  
+  <font size=+1>children by Rachel Ridgely:</font>
+     Benjamin Vining   b. 1751   -   d. 21 November 1785   -   bur. Christ Episcopal Church Cemetery   -   Dover, Delaware
+     Nicholas Vining
+  <font size=+1>children by Phoebe Wynkoop:</font>
+     Mary &#8220;Polly&#8221; Vining   b. 20 August 1756   Dover, Delaware   -   d. 20 April 1821   -   bur. Old Swedes Churchyard   Wilmington, Delaware
+     <a href="#JohnM02">John Middleton Vining</a>   b. 23 December 1758   Dover, Delaware   -   m. [24 or 29?] November 1790   [New York?]   Anna Maria Seton   -   d. February 1802   Dover, Delaware   -   bur. Christ Episcopal Church Cemetery   Dover, Delaware
+     Abraham Vining   b. 5 December 1762   Dover, Delaware   -   d. 25 October 1764

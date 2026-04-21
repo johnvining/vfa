@@ -1,0 +1,35 @@
+id: JamesA01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: CharlesS01
+parentLetter: C
+parentDesc: Charles Stewart Vining and Sara Harriett Smith
+head:
+  givenName: James Anthony
+  birth:
+    date: 28 May 1909
+    place: Georgia
+  death:
+    date: 6 April 1994
+    place: "Thomaston, Georgia"
+marriages:
+  - spouse:
+      givenName: Edna
+      surname: Laury
+docsUrl: Jsources/JamesA01doc.htm
+raw: |-
+  <a name="JamesA01"></a><font size=+2>James Anthony Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesS01">Charles Stewart Vining and Sara Harriett Smith</a>)
+     b. 28 May 1909   Georgia
+     m. Edna Laury
+              b. 17 May 1912   Ottawa, Kansas
+              d. 20 May 1994   Georgia
+                    bur. Southview Cemetery   Thomaston, Georgia
+     d. 6 April 1994   Thomaston, Georgia
+           bur. Southview Cemetery   Thomaston, Georgia
+  
+  <font size=+1>child:</font>
+     Marie Vining   m. Clyde Pettet
+  
+  <a href="Jsources/JamesA01doc.htm">documentation and notes</a>

@@ -1,0 +1,32 @@
+id: JamesEJr01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesE01
+parentDesc: James Edward Vining and Caroline M. Engelmann
+head:
+  givenName: James Edward Jr.
+  birth:
+    date: 8 April 1935
+    place: "St. Louis, Missouri"
+marriages:
+  - spouse:
+      givenName: "[...]"
+      surname: Drake
+childrenGroups:
+  - children:
+      - name: Denise Vining
+        birth:
+          date: 27 April 1961
+      - name: Theresa Elaine Vining
+        birth:
+          date: 25 April 1962
+raw: |-
+  <a name="JamesEJr01"></a><font size=+2>James Edward Vining Jr.</font>
+     (son of <a href="#JamesE01">James Edward Vining and Caroline M. Engelmann</a>)
+     b. 8 April 1935   St. Louis, Missouri
+     m. [...] Drake
+  
+  <font size=+1>children:</font>
+     Denise Vining   b. 27 April 1961
+     Theresa Elaine Vining   b. 25 April 1962

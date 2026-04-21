@@ -1,0 +1,105 @@
+id: Joseph02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Israel01
+parentLetter: I
+parentDesc: Israel Vining and Abia Dunbar
+head:
+  givenName: Joseph
+  birth:
+    date: 19 April 1797
+    place: "Windsor, Massachusetts"
+  death:
+    date: 30 September 1865
+marriages:
+  - date: 30 October 1821
+    place: "Pownal, Vermont"
+    spouse:
+      givenName: "Elizabeth &#8220;Betsey&#8221; [Clark or"
+      surname: "Quance?]"
+      birth:
+        date: 7 September 1796
+        place: "Chesterfield, Massachusetts"
+      death:
+        date: 21 December 1870
+childrenGroups:
+  - children:
+      - name: child
+        birth:
+          date: "Plainfield, Massachusetts"
+        death:
+          date: 24 February 1823
+      - name: Leman Vining
+        entryId: Leman01
+        entryLetter: L
+        birth:
+          date: 21 December 1823
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: "1842"
+            spouse: Elizabeth B. Wheeler
+        death:
+          date: 30 September 1857
+        burial:
+          place: "Main Street Cemetery   Dalton, Massachusetts"
+      - name: Joseph Riley Vining
+        entryId: JosephR01
+        birth:
+          date: 4 October 1825
+          place: "Savoy, Massachusetts"
+        marriages:
+          - date: Jane Moore Sears
+        death:
+          date: 16 May 1858
+        burial:
+          place: "Main Street Cemetery   Dalton, Massachusetts"
+      - name: child
+        death:
+          date: 6 October 1829
+      - name: Cordelia Vining
+        birth:
+          date: 8 October 1830
+          place: "Savoy, Massachusetts"
+        marriages:
+          - number: 1
+            date: Levi Prutt (d. 18 August 1863)
+          - number: 2
+            date: Charles H. Standish
+        death:
+          date: 29 April 1892
+      - name: Abigail Vining
+        birth:
+          date: 8 October 1832
+          place: "Savoy, Massachusetts"
+        marriages:
+          - date: 26 September 1849
+            spouse: Edward Cobb Thayer
+      - name: child
+        birth:
+          date: 12 January 1835
+          place: "Windsor, Massachusetts"
+        death:
+          date: 28 April 1835
+          place: "Windsor, Massachusetts"
+docsUrl: Jsources/Joseph02doc.htm
+raw: |-
+  <a name="Joseph02"></a><font size=+2>Joseph Vining</font>
+     (son of <a href="Ifamilies.htm#Israel01">Israel Vining and Abia Dunbar</a>)
+     b. 19 April 1797   Windsor, Massachusetts
+     m. 30 October 1821   Pownal, Vermont
+           Elizabeth &#8220;Betsey&#8221; [Clark or Quance?]
+                 b. 7 September 1796   Chesterfield, Massachusetts
+                 d. 21 December 1870
+     d. 30 September 1865
+  
+  <font size=+1>children:</font>
+     child   b. Plainfield, Massachusetts   -   d. 24 February 1823
+     <a href="Lfamilies.htm#Leman01">Leman Vining</a>   b. 21 December 1823   Plainfield, Massachusetts   -   m. 1842   Elizabeth B. Wheeler   -   d. 30 September 1857   -   bur. Main Street Cemetery   Dalton, Massachusetts
+     <a href="#JosephR01">Joseph Riley Vining</a>   b. 4 October 1825   Savoy, Massachusetts   -   m. Jane Moore Sears   -   d. 16 May 1858   -   bur. Main Street Cemetery   Dalton, Massachusetts
+     child   d. 6 October 1829
+     Cordelia Vining   b. 8 October 1830   Savoy, Massachusetts   -   m. (1) Levi Prutt (d. 18 August 1863);   (2) Charles H. Standish   -   d. 29 April 1892
+     Abigail Vining   b. 8 October 1832   Savoy, Massachusetts   -   m. 26 September 1849   Edward Cobb Thayer
+     child   b. 12 January 1835   Windsor, Massachusetts   -   d. 28 April 1835   Windsor, Massachusetts
+  
+  <a href="Jsources/Joseph02doc.htm">documentation and notes</a>

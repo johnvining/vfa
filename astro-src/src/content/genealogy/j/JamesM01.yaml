@@ -1,0 +1,69 @@
+id: JamesM01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RoyalA01
+parentLetter: R
+parentDesc: Royal Albert Vining and Mary Wetmore
+head:
+  givenName: James Manley
+  birth:
+    date: 17 March 1869
+    place: Michigan
+  death:
+    date: 28 February 1928
+marriages:
+  - spouse:
+      givenName: Rose E.
+      surname: Stevens
+childrenGroups:
+  - children:
+      - name: Edna M. Vining
+        birth:
+          date: 16 March 1895
+        death:
+          date: 15 April 1896
+        burial:
+          place: "Lakeview Cemetery   Lakeview, Michigan"
+      - name: Morris Vining
+        marriages:
+          - date: Mable Wild/Weld
+      - name: Clair A. Vining
+        birth:
+          date: 23 May 1902
+          place: Michigan
+        death:
+          date: 12 July 1928
+          place: Michigan
+        burial:
+          place: "Lakeview Cemetery   Lakeview, Michigan"
+      - name: Fay A. Vining
+        entryId: FayA01
+        entryLetter: F
+        birth:
+          date: 10 October 1903
+          place: Michigan
+        marriages:
+          - date: Fern L. Schultz
+        death:
+          date: 27 November 1980
+          place: "Lansing, Michigan"
+docsUrl: Jsources/JamesM01doc.htm
+raw: |-
+  <a name="JamesM01"></a><font size=+2>James Manley Vining</font>
+     (son of <a href="Rfamilies.htm#RoyalA01">Royal Albert Vining and Mary Wetmore</a>)
+     b. 17 March 1869   Michigan
+     m. Rose E. Stevens
+              b. 1870
+              d. 1944
+                    bur. Lakeview Cemetery   Lakeview, Michigan
+     d. 28 February 1928
+        bur. Lakeview Cemetery   Lakeview, Michigan
+  
+  <font size=+1>children:</font>
+     Edna M. Vining   b. 16 March 1895   -   d. 15 April 1896   -   bur. Lakeview Cemetery   Lakeview, Michigan
+     Morris Vining   m. Mable Wild/Weld
+     Clair A. Vining   b. 23 May 1902   Michigan   -   d. 12 July 1928   Michigan   -   bur. Lakeview Cemetery   Lakeview, Michigan
+     <a href="Ffamilies.htm#FayA01">Fay A. Vining</a>   b. 10 October 1903   Michigan   -   m. Fern L. Schultz   -   d. 27 November 1980   Lansing, Michigan
+  
+  <a href="Jsources/JamesM01doc.htm">documentation and notes</a>

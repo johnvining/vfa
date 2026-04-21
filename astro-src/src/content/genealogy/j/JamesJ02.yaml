@@ -1,0 +1,66 @@
+id: JamesJ02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: CharlesE04
+parentLetter: C
+parentDesc: Charles E. Vining and Ione Augusta Singer
+head:
+  givenName: James John
+  birth:
+    date: September 1896
+    place: Kansas
+marriages:
+  - spouse:
+      givenName: Edith Alfeld
+      surname: Johnson
+childrenGroups:
+  - children:
+      - name: James Rodford Vining
+        entryId: JamesR02
+        birth:
+          date: 14 June 1928
+          place: "Kansas City, Missouri"
+        marriages:
+          - number: 1
+            date: "Margaret Beth Smith, divorced"
+          - number: 2
+            date: 23 April 1994
+            spouse: Carlene Royston
+        death:
+          date: 2 January 2013
+          place: "St. Joseph, Missouri"
+        burial:
+          place: "Saint Joseph Memorial Park Cemetery   Saint Joseph, Missouri"
+      - name: Charles Evan Vining
+        entryId: CharlesE02
+        entryLetter: C
+        birth:
+          date: 20 August 1932
+          place: "Kansas City, Missouri"
+        marriages:
+          - date: 22 August 1953
+            spouse: "Denver, Colorado   Laura M. Pressley"
+        death:
+          date: 30 August 2020
+          place: "Kansas City, Missouri"
+      - name: Larry Vining
+        birth:
+          date: 2 June 1942
+          place: "Kansas City, Kansas"
+        death:
+          date: 24 January 2021
+docsUrl: Jsources/JamesJ02doc.htm
+raw: |-
+  <a name="JamesJ02"></a><font size=+2>James John Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesE04">Charles E. Vining and Ione Augusta Singer</a>)
+     b. September 1896   Kansas
+     m. Edith Alfeld Johnson
+              b. age 26 y. as of 1940   Missouri
+  
+  <font size=+1>children:</font>
+     <a href="#JamesR02">James Rodford Vining</a>   b. 14 June 1928   Kansas City, Missouri   -   m. (1) Margaret Beth Smith, divorced;   (2) 23 April 1994   Carlene Royston   -   d. 2 January 2013   St. Joseph, Missouri   -   bur. Saint Joseph Memorial Park Cemetery   Saint Joseph, Missouri
+     <a href="Cfamilies.htm#CharlesE02">Charles Evan Vining</a>   b. 20 August 1932   Kansas City, Missouri   -   m. 22 August 1953   Denver, Colorado   Laura M. Pressley   -   d. 30 August 2020   Kansas City, Missouri
+     Larry Vining   b. 2 June 1942   Kansas City, Kansas   -   d. 24 January 2021
+  
+  <a href="Jsources/JamesJ02doc.htm">documentation and notes</a>

@@ -1,0 +1,75 @@
+id: JesseL02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ErnestL02
+parentLetter: E
+parentDesc: Ernest Lester Vining and Lou Purl Hopkins
+head:
+  givenName: Jesse Lee
+  birth:
+    date: 25 May 1908
+    place: "Vilas, Kansas"
+  death:
+    date: 4 June 1993
+    place: "Tempe, Arizona"
+marriages:
+  - date: 18 November 1933  Kansas
+    spouse:
+      givenName: Pearl Adell
+      surname: Williams
+      birth:
+        date: 20 December 1915
+        place: "Oswego, Kansas"
+      death:
+        date: 1 December 2001
+        place: "Tempe, Arizona"
+      burial:
+        place: "Green Acres Memorial Park   Scottsdale, Arizona"
+childrenGroups:
+  - children:
+      - name: son +
+        marriages:
+          - date: Sheila Mary McCarthy
+      - name: son +
+        marriages:
+          - date: "[&#8230;] Simelton"
+      - name: Ernest William Vining
+        entryId: ErnestW03
+        entryLetter: E
+        birth:
+          date: 30 May 1942
+          place: "Tempe, Arizona"
+        marriages:
+          - date: 24 July 1976
+            spouse: "Tucson, Arizona   Connie [&#8230;]"
+        death:
+          date: 11 January 2018
+      - name: Dee Vining
+        marriages:
+          - date: "[&#8230;] Bertoli"
+      - name: Dorothy
+        marriages:
+          - date: "[&#8230;] Whittington"
+docsUrl: Jsources/JesseL02doc.htm
+raw: |-
+  <a name="JesseL02"></a><font size=+2>Jesse Lee Vining</font>
+     (son of <a href="Efamilies.htm#ErnestL02">Ernest Lester Vining and Lou Purl Hopkins</a>)
+     b. 25 May 1908   Vilas, Kansas
+     m. 18 November 1933  Kansas
+           Pearl Adell Williams
+                 (dau. of William Alexander Williams and Bessie Bell Butts)
+                 b. 20 December 1915   Oswego, Kansas
+                 d. 1 December 2001   Tempe, Arizona
+                       bur. Green Acres Memorial Park   Scottsdale, Arizona
+     d. 4 June 1993   Tempe, Arizona
+           bur. Green Acres Memorial Park   Scottsdale, Arizona
+  
+  <font size=+1>children:</font>
+     son +    m. Sheila Mary McCarthy
+     son +    m. [&#8230;] Simelton
+     <a href="Efamilies.htm#ErnestW03">Ernest William Vining</a>   b. 30 May 1942   Tempe, Arizona   -   m. 24 July 1976   Tucson, Arizona   Connie [&#8230;]   -   d. 11 January 2018
+     Dee Vining   m. [&#8230;] Bertoli
+     Dorothy   m. [&#8230;] Whittington
+  
+  <a href="Jsources/JesseL02doc.htm">documentation and notes</a>

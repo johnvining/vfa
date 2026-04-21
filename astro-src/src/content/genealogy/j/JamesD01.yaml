@@ -1,0 +1,42 @@
+id: JamesD01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: VerleV01
+parentLetter: V
+parentDesc: Verle Vernon Vining and Alice Ruth Bednarek
+head:
+  givenName: James DuWayne
+  birth:
+    date: 13 November 1949
+    place: "Berlin, Wisconsin"
+  death:
+    date: 6 October 1982
+    place: "Marshfield, Wisconsin"
+marriages:
+  - number: 1
+    date: "[...] Gozinski"
+  - number: 2
+    date: "[...] Berry"
+childrenGroups:
+  - spouseRef: "[...] Berry"
+    children:
+      - name: son
+      - name: daughter
+docsUrl: Jsources/JamesD01doc.htm
+raw: |-
+  <a name="JamesD01"></a><font size=+2>James DuWayne Vining</font>
+     (son of <a href="Vfamilies.htm#VerleV01">Verle Vernon Vining and Alice Ruth Bednarek</a>)
+     b. 13 November 1949   Berlin, Wisconsin
+     m. (1) [...] Gozinski
+           (2) [...] Berry
+     d. 6 October 1982   Marshfield, Wisconsin
+           bur. Saint James Catholic Cemetery   Neshkoro, Wisconsin
+  
+  <font size=+1>child by [...] Gozinski:</font>
+     son
+  <font size=+1>children by [...] Berry:</font>
+     son
+     daughter
+  
+  <a href="Jsources/JamesD01doc.htm">documentation and notes</a>

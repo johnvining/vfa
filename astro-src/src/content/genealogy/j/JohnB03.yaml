@@ -1,0 +1,80 @@
+id: JohnB03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EdwardP01
+parentLetter: E
+parentDesc: Edward Payson Vining and Esther May Burbank
+head:
+  givenName: John Burbank
+  birth:
+    date: 7 January 1889
+    place: "Weld, Maine"
+  death:
+    date: 6 July 1969
+    place: "Farmington, Maine"
+marriages:
+  - date: 15 May 1917
+    place: "Freeman, Maine"
+    spouse:
+      givenName: Elsie May
+      surname: Blackwell
+      birth:
+        date: 18 September 1896
+        place: "Freeman, Maine"
+      death:
+        date: 27 October 1990
+        place: "Farmington, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Carroll Edward Vining
+        entryId: CarrollE01
+        entryLetter: C
+        birth:
+          date: 22 September 1923
+          place: "Freeman, Maine"
+        marriages:
+          - date: 27 August 1950
+            place: "Cumberland, Maine"
+            spouse: Claire Isabel Doughty
+        death:
+          date: 6 June 1985
+          place: "Portland, Maine"
+        burial:
+          place: "Moss Side Cemetery   Cumberland, Maine"
+      - name: Everett Leon Vining
+        entryId: EverettL02
+        entryLetter: E
+        birth:
+          date: 24 August 1932
+          place: "Freeman, Maine"
+        marriages:
+          - date: 27 November 1955
+            place: "Farmington, Maine"
+            spouse: Olive Helen Getchell
+        death:
+          date: 27 February 2009
+          place: "Farmington, Maine"
+        burial:
+          place: "Fairview Cemetery   Farmington, Maine"
+docsUrl: Jsources/JohnB03doc.htm
+raw: |-
+  <a name="JohnB03"></a><font size=+2>John Burbank Vining</font>
+     (son of <a href="Efamilies.htm#EdwardP01">Edward Payson Vining and Esther May Burbank</a>)
+     b. 7 January 1889   Weld, Maine
+     m. 15 May 1917   Freeman, Maine
+           Elsie May Blackwell
+                 (dau. of Carroll Blackwell and Emma Childs)
+                 b. 18 September 1896   Freeman, Maine
+                 d. 27 October 1990   Farmington, Maine
+                       bur. Village Cemetery   Strong, Maine
+     d. 6 July 1969   Farmington, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#CarrollE01">Carroll Edward Vining</a>   b. 22 September 1923   Freeman, Maine   -   m. 27 August 1950   Cumberland, Maine   Claire Isabel Doughty   -   d. 6 June 1985   Portland, Maine   -   bur. Moss Side Cemetery   Cumberland, Maine
+     <a href="Efamilies.htm#EverettL02">Everett Leon Vining</a>   b. 24 August 1932   Freeman, Maine   -   m. 27 November 1955   Farmington, Maine   Olive Helen Getchell   -   d. 27 February 2009   Farmington, Maine   -   bur. Fairview Cemetery   Farmington, Maine
+  
+  <a href="Jsources/JohnB03doc.htm">documentation and notes</a>

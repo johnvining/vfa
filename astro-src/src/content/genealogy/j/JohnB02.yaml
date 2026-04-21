@@ -1,0 +1,101 @@
+id: JohnB02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Daniel01
+parentLetter: D
+parentDesc: Daniel Vining and Deborah Waters
+head:
+  givenName: John Blake
+  birth:
+    date: age 25 y. as of marriage
+    place: "Salem, Maine"
+marriages:
+  - number: 1
+    date: 19 February 1854
+    place: "Lynn, Massachusetts"
+    spouse:
+      givenName: Mary Elizabeth
+      surname: Weed
+      birth:
+        date: 25 May 1834
+        place: "Newburyport, Massachusetts"
+      death:
+        date: 13 August 1854
+  - number: 2
+    date: 19 January 1857
+    spouse:
+      givenName: Martha A.
+      surname: Dwinells
+      birth:
+        date: age 27 y. as of 1860 census
+        place: Massachusetts
+childrenGroups:
+  - spouseRef: Martha A. Dwinells
+    children:
+      - name: Emma Vining
+        birth:
+          date: age 2 y. as of 1860 census
+        death:
+          date: before 1867
+      - name: Fred P. Vining
+        entryId: FredP01
+        entryLetter: F
+        birth:
+          date: December 1865
+          place: Massachusetts
+        marriages:
+          - date: "1889"
+            spouse: "Jennie C. [&#8230;]"
+        death:
+          date: 28 September 1924
+        burial:
+          place: "Pine Grove Cemetery   Lynn, Massachusetts"
+      - name: Emma D. Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Massachusetts
+        marriages:
+          - date: "1887"
+            spouse: Walter Macomber
+        death:
+          date: "1904"
+      - name: Florence E. Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Massachusetts
+        marriages:
+          - date: Frank O. Palmer
+      - name: Wilbur C. Vining
+        entryId: WilburC01
+        entryLetter: W
+        birth:
+          date: May 1874
+          place: Massachusetts
+        marriages:
+          - date: 0 y. as of 1900 census
+            spouse: "Carrie [...]"
+docsUrl: Jsources/JohnB02doc.htm
+raw: |-
+  <a name="JohnB02"></a><font size=+2>John Blake Vining</font>
+     (son of <a href="Dfamilies.htm#Daniel01">Daniel Vining and Deborah Waters</a>)
+     b. age 25 y. as of marriage   Salem, Maine
+     m. (1) 19 February 1854   Lynn, Massachusetts
+                 Mary Elizabeth Weed
+                       (dau. of George Weed and Abigail Chapman)
+                       b. 25 May 1834   Newburyport, Massachusetts
+                       d. 13 August 1854
+           (2) 19 January 1857
+                 Martha A. Dwinells
+                       b. age 27 y. as of 1860 census   Massachusetts
+  
+  <font size=+1>child [by Mary Elizabeth Weed?]:</font>
+     <a href="Ffamilies.htm#FrankM01">Frank Melvin Vining</a>   b. 1854   -   m. Alice Lavalette
+  <font size=+1>children by Martha A. Dwinells:</font>
+     Emma Vining   b. age 2 y. as of 1860 census   -   d. before 1867
+     <a href="Ffamilies.htm#FredP01">Fred P. Vining</a>   b. December 1865   Massachusetts   -   m. 1889   Jennie C. [&#8230;]   -   d. 28 September 1924   -   bur. Pine Grove Cemetery   Lynn, Massachusetts
+     Emma D. Vining   b. age 3 y. as of 1870 census   Massachusetts   -   m. 1887   Walter Macomber   -   d. 1904
+     Florence E. Vining   b. age 1 y. as of 1870 census   Massachusetts   -   m. Frank O. Palmer
+     <a href="Wfamilies.htm#WilburC01">Wilbur C. Vining</a>   b. May 1874   Massachusetts   -   m. 0 y. as of 1900 census   Carrie [...]
+  
+  <a href="Jsources/JohnB02doc.htm">documentation and notes</a>

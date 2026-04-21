@@ -1,0 +1,51 @@
+id: Jeptha02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Joshua01
+parentDesc: Joshua Vining and Elizabeth Valentine
+head:
+  givenName: Jeptha
+  birth:
+    date: age 52 y. as of 1850 census
+    place: "Warren County, Georgia"
+  death:
+    date: after 1870
+    place: "East Baton Rouge Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Elizabeth Ann
+      surname: Valentine
+childrenGroups:
+  - children:
+      - name: "Mary Frances &#8220;Polly&#8221; Vining"
+        birth:
+          date: age 9 y. as of 1850 census
+          place: Louisiana
+        marriages:
+          - date: 15 December 1860
+            place: "East Baton Rouge Parish, Louisiana"
+            spouse: William Marchant
+      - name: Cynthia Ann Rebecca Vining
+        birth:
+          date: age 7 y. as of 1850 census
+          place: Louisiana
+        marriages:
+          - date: ca. 1862
+            spouse: Jackson Heard Duff
+docsUrl: Jsources/Jeptha02doc.htm
+raw: |-
+  <a name="Jeptha02"></a><font size=+2>Jeptha Vining</font>
+     (son of <a href="#Joshua01">Joshua Vining and Elizabeth Valentine</a>)
+     b. age 52 y. as of 1850 census   Warren County, Georgia
+     m. Elizabeth Ann Valentine
+              [dau. of Thomas Valentine and Elizabeth [...]?]
+              b. 1803   South Carolina
+              d. after 1870   East Baton Rouge Parish, Louisiana
+     d. after 1870   East Baton Rouge Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Mary Frances &#8220;Polly&#8221; Vining   b. age 9 y. as of 1850 census   Louisiana   -   m. 15 December 1860   East Baton Rouge Parish, Louisiana   William Marchant
+     Cynthia Ann Rebecca Vining   b. age 7 y. as of 1850 census   Louisiana   -   m. ca. 1862   Jackson Heard Duff
+  
+  <a href="Jsources/Jeptha02doc.htm">documentation and notes</a>

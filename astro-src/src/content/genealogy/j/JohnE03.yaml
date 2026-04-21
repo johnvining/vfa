@@ -1,0 +1,31 @@
+id: JohnE03
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: CharlesL02
+parentLetter: C
+parentDesc: Charles Leroy Vining and Ruby Jewel Pippens
+head:
+  givenName: John Edward
+  birth:
+    date: 7 July 1939
+  death:
+    date: 12 August 2019
+childrenGroups:
+  - children:
+      - name: John Edward Vining Jr.
+      - name: William Vining
+      - name: Sabrina K. Vining
+docsUrl: Jsources/JohnE03doc.htm
+raw: |-
+  <a name="JohnE03"></a><font size=+2>John Edward Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesL02">Charles Leroy Vining and Ruby Jewel Pippens</a>)
+     b. 7 July 1939
+     d. 12 August 2019
+  
+  <font size=+1>children:</font>
+     John Edward Vining Jr.
+     William Vining
+     Sabrina K. Vining
+  
+  <a href="Jsources/JohnE03doc.htm">documentation and notes</a>

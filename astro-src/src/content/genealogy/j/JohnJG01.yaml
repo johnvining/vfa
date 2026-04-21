@@ -1,0 +1,56 @@
+id: JohnJG01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnP01
+parentDesc: John Paul Vining and Zilpha Gleason
+head:
+  givenName: John James Gleason
+  birth:
+    date: 18 May 1894
+  death:
+    date: March 1987
+    place: "(last residence: Port Austin, Michigan)"
+marriages:
+  - date: 12 October 1921
+    spouse:
+      givenName: "Maud[e?] Priscilla"
+      surname: Borland
+      birth:
+        date: age 26 y. at marriage
+childrenGroups:
+  - children:
+      - name: Stewart Alonzo Vining
+        entryId: StewartA01
+        entryLetter: S
+        birth:
+          date: 7 December 1922
+        marriages:
+          - date: 31 May 1957
+            spouse: Hannah Guzelis
+      - name: Lyrena Elizabeth Vining
+        birth:
+          date: 12 February 1925
+        marriages:
+          - date: 13 February 1943
+            spouse: "Joe Gary,   divorced 10 May 1965"
+      - name: Shirley Lorraine Vining
+        birth:
+          date: 19 January 1927
+        marriages:
+          - date: 2 March 1946
+            spouse: Frank Vlcko
+raw: |-
+  <a name="JohnJG01"></a><font size=+2>John James Gleason Vining</font>
+     (son of <a href="#JohnP01">John Paul Vining and Zilpha Gleason</a>)
+     b. 18 May 1894
+     m. 12 October 1921
+           Maud[e?] Priscilla Borland
+                 (dau. of William Borland and Elizabeth Birk)
+                 b. age 26 y. at marriage
+     d. March 1987   (last residence: Port Austin, Michigan)
+  
+  <font size=+1>children:</font>
+     <a href="Sfamilies.htm#StewartA01">Stewart Alonzo Vining</a>   b. 7 December 1922   -   m. 31 May 1957   Hannah Guzelis
+     Lyrena Elizabeth Vining   b. 12 February 1925   -   m. 13 February 1943   Joe Gary,   divorced 10 May 1965
+     Shirley Lorraine Vining   b. 19 January 1927   -   m. 2 March 1946   Frank Vlcko

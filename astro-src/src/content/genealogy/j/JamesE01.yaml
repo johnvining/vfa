@@ -1,0 +1,49 @@
+id: JamesE01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EdwardJ01
+parentLetter: E
+parentDesc: Edward James Vining and Elizabeth Mooney
+head:
+  givenName: James Edward
+  birth:
+    date: 1 October 1902
+    place: "St. Louis, Missouri"
+  death:
+    date: 8 August 1956
+    place: "Hillsborough [County?], Florida"
+marriages:
+  - spouse:
+      givenName: Caroline M.
+      surname: Engelmann
+childrenGroups:
+  - children:
+      - name: Carolyn Elizabeth Vining
+        birth:
+          date: 2 March 1933
+        marriages:
+          - date: Dorian Morley
+      - name: James Edward Vining Jr.
+        entryId: JamesEJr01
+        birth:
+          date: 8 April 1935
+          place: "St. Louis, Missouri"
+        marriages:
+          - date: "[...] Drake"
+docsUrl: Jsources/JamesE01doc.htm
+raw: |-
+  <a name="JamesE01"></a><font size=+2>James Edward Vining</font>
+     (son of <a href="Efamilies.htm#EdwardJ01">Edward James Vining and Elizabeth Mooney</a>)
+     b. 1 October 1902   St. Louis, Missouri
+     m. Caroline M. Engelmann
+              b. 23 April 1912
+              d. 6 September 1975
+                    bur. Garden of Memories Cemetery   Tampa, Florida
+     d. 8 August 1956   Hillsborough [County?], Florida
+  
+  <font size=+1>children:</font>
+     Carolyn Elizabeth Vining   b. 2 March 1933   -   m. Dorian Morley
+     <a href="#JamesEJr01">James Edward Vining Jr.</a>   b. 8 April 1935   St. Louis, Missouri   -   m. [...] Drake
+  
+  <a href="Jsources/JamesE01doc.htm">documentation and notes</a>

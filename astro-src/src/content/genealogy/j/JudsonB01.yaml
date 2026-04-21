@@ -1,0 +1,57 @@
+id: JudsonB01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JosiahH01
+parentDesc: "Josiah Henry Vining and Mary &#8220;Polly&#8221; Skinner"
+head:
+  givenName: Judson Bartow
+  death:
+    date: 21 March 1906
+    place: "Ocoee, Florida"
+marriages:
+  - spouse:
+      givenName: Francis Virginia
+      surname: Lee
+childrenGroups:
+  - children:
+      - name: Ida May Vining
+        birth:
+          date: 7 April 1890
+          place: "Orange County, Florida"
+      - name: Jasper Bartow Vining
+        birth:
+          date: 9 May 1893
+          place: "Orlando, Orange County, Florida"
+        marriages:
+          - date: "Muriel [...]"
+      - name: Bessie Evelyn Vining
+        birth:
+          date: 30 September 1899
+          place: "Orange County, Florida"
+      - name: Freeman Judson Vining
+        entryId: FreemanJ01
+        entryLetter: F
+        birth:
+          date: 27 December 1902
+          place: "Ocoee, Orange County, Florida"
+        marriages:
+          - date: "Susie [Gray or Gertrude] Sellers"
+        death:
+          date: 20 November 1973
+          place: "Jacksonville, Duval County, Florida"
+raw: |-
+  <a name="JudsonB01"></a><font size=+2>Judson Bartow Vining</font>
+     (son of <a href="#JosiahH01">Josiah Henry Vining and Mary &#8220;Polly&#8221; Skinner</a>)
+     b, 28 June 1862   Stockton, Clinch County, Georgia
+     m. Francis Virginia Lee
+              (dau. of William Riley Lee and Virginia Fatima Johns)
+              b. ca. 1868   Florida
+              d. July 1958   Jacksonville, Florida
+     d. 21 March 1906   Ocoee, Florida
+  
+  <font size=+1>children</font>
+     Ida May Vining   b. 7 April 1890   Orange County, Florida
+     Jasper Bartow Vining   b. 9 May 1893   Orlando, Orange County, Florida   -   m. Muriel [...]
+     Bessie Evelyn Vining   b. 30 September 1899   Orange County, Florida
+     <a href="Ffamilies.htm#FreemanJ01">Freeman Judson Vining</a>   b. 27 December 1902   Ocoee, Orange County, Florida   -   m. Susie [Gray or Gertrude] Sellers   -   d. 20 November 1973   Jacksonville, Duval County, Florida

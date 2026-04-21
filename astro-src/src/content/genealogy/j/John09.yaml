@@ -1,0 +1,87 @@
+id: John09
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ThomasP01
+parentLetter: T
+parentDesc: "Thomas &#8220Philo[w?]&#8221; Vining and Nancy A. [...]"
+head:
+  givenName: John
+  birth:
+    date: age 45 y. as of 1855
+    place: New York
+marriages:
+  - spouse:
+      givenName: Adeliza
+      surname: Atwood
+childrenGroups:
+  - children:
+      - name: Atwood P. Vining
+        entryId: AtwoodP01
+        entryLetter: A
+        birth:
+          date: August 1835
+          place: New York
+        marriages:
+          - date: Harriet Decker
+        death:
+          date: 31 March 1910
+      - name: Dennison Vining
+        birth:
+          date: age 12 y. as of 1850 census
+          place: New York
+      - name: John Newell Vining
+        entryId: JohnN01
+        birth:
+          date: "1839"
+          place: New York
+        marriages:
+          - date: "Pitcher, New York"
+            spouse: Roxanna Tripp
+        death:
+          date: 3 November 1921
+        burial:
+          place: "Conklin Cemetery   Conklin, New York"
+      - name: Lucien/Lucian Vining
+        birth:
+          date: age 10 y. as of 1850 census
+          place: New York
+      - name: Leroy Vining
+        birth:
+          date: age 16 y. as of 1850 census
+          place: New York
+      - name: Adelia Vining
+        birth:
+          date: age 4 y. as of 1850 census
+          place: New York
+        marriages:
+          - date: Willard Gilmore
+      - name: Jerome Vining
+        birth:
+          date: age 3 y. as of 1850 census
+          place: New York
+      - name: "Jane &#8220;Jennie&#8221; Vining"
+        birth:
+          date: age 4 y. as of 1855
+          place: New York
+        marriages:
+          - date: "[...] Allen"
+docsUrl: Jsources/John09doc.htm
+raw: |-
+  <a name="John09"></a><font size=+2>John Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasP01">Thomas &#8220Philo[w?]&#8221; Vining and Nancy A. [...]</a>)
+     b. age 45 y. as of 1855   New York
+     m. Adeliza Atwood
+              b. age 36 y. as of 1850 census   New York
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#AtwoodP01">Atwood P. Vining</a>   b. August 1835   New York   -   m. Harriet Decker   -   d. 31 March 1910
+     Dennison Vining   b. age 12 y. as of 1850 census   New York
+     <a href="#JohnN01">John Newell Vining</a>   b. 1839   New York   -   m. Pitcher, New York   Roxanna Tripp   -   d. 3 November 1921   -   bur. Conklin Cemetery   Conklin, New York
+     Lucien/Lucian Vining   b. age 10 y. as of 1850 census   New York
+     Leroy Vining   b. age 16 y. as of 1850 census   New York
+     Adelia Vining   b. age 4 y. as of 1850 census   New York   -   m. Willard Gilmore
+     Jerome Vining   b. age 3 y. as of 1850 census   New York
+     Jane &#8220;Jennie&#8221; Vining   b. age 4 y. as of 1855   New York   -   m.   [...] Allen
+  
+  <a href="Jsources/John09doc.htm">documentation and notes</a>

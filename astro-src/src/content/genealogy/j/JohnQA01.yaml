@@ -1,0 +1,28 @@
+id: JohnQA01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Page01
+parentLetter: P
+parentDesc: Page Vining and Margaret Ring
+head:
+  givenName: John Q. A.
+  birth:
+    date: age 12 y. as of 1850 census
+    place: Maine
+marriages:
+  - spouse:
+      givenName: Julia
+      surname: "[...]"
+docsUrl: Jsources/JohnQA01doc.htm
+raw: |-
+  <a name="JohnQA01"></a><font size=+2>John Q. A. Vining</font>
+     (son of <a href="Pfamilies.htm#Page01">Page Vining and Margaret Ring</a>)
+     b. age 12 y. as of 1850 census   Maine
+     m. Julia [...]
+              b. age 29 y. as of 1870 census   Maine
+  
+  <font size=+1>child:</font>
+     Bernice Vining   b. age 2 y. as of 1870 census   Maine
+  
+  <a href="Jsources/JohnQA01doc.htm">documentation and notes</a>

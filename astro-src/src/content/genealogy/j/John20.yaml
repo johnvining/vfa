@@ -1,0 +1,64 @@
+id: John20
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John19
+parentDesc: John Vining
+head:
+  givenName: John
+  birth:
+    date: "1820"
+    place: England
+marriages:
+  - date: 14 August 1843
+    place: "Stepney, London, England"
+    spouse:
+      givenName: Julia
+      surname: Fitzgerald
+      birth:
+        date: ca. 1824
+        place: "London, England"
+      death:
+        date: 19 December 1892
+        place: "Melbourne East, Australia"
+childrenGroups:
+  - children:
+      - name: John Vining
+        birth:
+          date: "1843"
+          place: England
+      - name: Julia Vining
+        birth:
+          date: "1845"
+          place: "Melbourne, Australia"
+        death:
+          date: "1845"
+          place: "Melbourne, Australia"
+      - name: Robert Vining
+        birth:
+          date: "1847"
+          place: "Melbourne, Australia"
+      - name: James Vining
+        birth:
+          date: "1848"
+          place: "Melbourne, Australia"
+      - name: Julia Vining
+        birth:
+          date: "1850"
+          place: "Melbourne, Australia"
+raw: |-
+  <a name="John20"></a><font size=+2>John Vining</font>
+     (son of <a href="#John19">John Vining</a>)
+     b. 1820   England
+     m. 14 August 1843   Stepney, London, England
+           Julia Fitzgerald
+                 (dau. of Michael Fitzgerald and [...])
+                 b. ca. 1824   London, England
+                 d. 19 December 1892   Melbourne East, Australia
+  
+  <font size=+1>children:</font>
+     John Vining   b. 1843   England
+     Julia Vining   b. 1845   Melbourne, Australia   -   d. 1845   Melbourne, Australia
+     Robert Vining   b. 1847   Melbourne, Australia
+     James Vining   b. 1848   Melbourne, Australia
+     Julia Vining   b. 1850   Melbourne, Australia

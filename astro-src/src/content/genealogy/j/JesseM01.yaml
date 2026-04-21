@@ -1,0 +1,59 @@
+id: JesseM01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: DavidC01
+parentLetter: D
+parentDesc: "David Clayton &#8220;Bud&#8221; Vining and Alice Martin"
+head:
+  givenName: Jesse Minyard
+  birth:
+    date: 3 May 1898
+    place: Texas
+  death:
+    date: 28 November 1958
+marriages:
+  - spouse:
+      givenName: Callie Elizabeth
+      surname: Wofford
+childrenGroups:
+  - children:
+      - name: Catherine Virginia Vining
+      - name: David C. Vining
+        entryId: DavidC02
+        entryLetter: D
+        birth:
+          date: 21 December 1924
+        marriages:
+          - date: Inez Brown
+        death:
+          date: 2 February 1957
+        burial:
+          place: "Larissa Cemetery   Mount Selman, Texas"
+      - name: Cynthia Vining
+      - name: James Minyard Vining
+        birth:
+          date: 14 October 1930
+        death:
+          date: 29 February 2000
+        burial:
+          place: "Larissa Cemetery   Mount Selman, Texas"
+docsUrl: Jsources/JesseM01doc.htm
+raw: |-
+  <a name="JesseM01"></a><font size=+2>Jesse Minyard Vining</font>
+     (son of <a href="Dfamilies.htm#DavidC01">David Clayton &#8220;Bud&#8221; Vining and Alice Martin</a>)
+     b. 3 May 1898   Texas
+     m. Callie Elizabeth Wofford
+              b. 27 October 1900   Texas
+              d. 18 February 1975   Texas
+                    bur. Larissa Cemetery   Mount Selman, Texas
+     d. 28 November 1958
+           bur. Larissa Cemetery   Mount Selman, Texas
+  
+  <font size=+1>children:</font>
+     Catherine Virginia Vining
+     <a href="Dfamilies.htm#DavidC02">David C. Vining</a>   b. 21 December 1924   -   m. Inez Brown   -   d. 2 February 1957   -   bur. Larissa Cemetery   Mount Selman, Texas
+     Cynthia Vining
+     James Minyard Vining   b. 14 October 1930   -   d. 29 February 2000   -   bur. Larissa Cemetery   Mount Selman, Texas
+  
+  <a href="Jsources/JesseM01doc.htm">documentation and notes</a>

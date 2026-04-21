@@ -1,0 +1,52 @@
+id: JosephA06
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John36
+parentDesc: "John Vining and Etta [&#8230;]"
+head:
+  givenName: Joseph Allen
+  birth:
+    date: age 38 y. as of 1930 census
+    place: Florida
+marriages:
+  - spouse:
+      givenName: Delma
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Edna Vining
+        birth:
+          date: "age 2 y., 9 m. as of 1920 census"
+          place: Florida
+      - name: John Daniel Vining   b age 8 y. as of 1930 census   Florida
+      - name: Robert Vining
+        birth:
+          date: age 5 y. as of 1930 census
+          place: Florida
+      - name: Jesse Cecil Vining
+        entryId: JesseC01
+        birth:
+          date: 26 August 1927
+          place: Florida
+        marriages:
+          - date: "Hazel L. [&#8230;]"
+        death:
+          date: 0 April 1992
+        burial:
+          place: "Riverside Memorial Park   Jacksonville, Florida"
+docsUrl: Jsources/JosephA06doc.htm
+raw: |-
+  <a name="JosephA06"></a><font size=+2>Joseph Allen Vining</font>
+     (son of <a href="#John36">John Vining and Etta [&#8230;]</a>)
+     b. age 38 y. as of 1930 census   Florida
+     m. Delma [&#8230;]
+              b. age 34 y. as of 1930 census   Florida
+  
+  <font size=+1>children:</font>
+     Edna Vining   b. age 2 y., 9 m. as of 1920 census   Florida
+     John Daniel Vining   b age 8 y. as of 1930 census   Florida
+     Robert Vining   b. age 5 y. as of 1930 census   Florida
+     <a href="#JesseC01">Jesse Cecil Vining</a>   b. 26 August 1927   Florida   -   m. Hazel L. [&#8230;]   -   d. 0 April 1992   -   bur. Riverside Memorial Park   Jacksonville, Florida
+  
+  <a href="Jsources/JosephA06doc.htm">documentation and notes</a>

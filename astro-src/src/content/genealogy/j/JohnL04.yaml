@@ -1,0 +1,51 @@
+id: JohnL04
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: HaroldD01
+parentLetter: H
+parentDesc: "Harold Despard Vining and [...]"
+head:
+  givenName: John Llewellyn
+  birth:
+    date: "1901"
+    place: Hooks Fm.
+  death:
+    date: ca. 1975
+childrenGroups:
+  - children:
+      - name: Michale J. D. Vining
+        birth:
+          date: "1929"
+          place: "Stroud, England"
+      - name: Noel B. D. Vining
+        birth:
+          date: "1930"
+          place: "Westbury on Severn, England"
+      - name: Philip Robert Despard Vining
+        birth:
+          date: "1931"
+          place: "Westbury, England"
+        death:
+          date: "1953"
+          place: "Gloucestershire, England"
+      - name: Ann M. D. Vining
+        birth:
+          date: "1932"
+          place: "Westbury, England"
+      - name: Marjorie K. D. Vining
+        birth:
+          date: "1938"
+          place: "Gloucester, England"
+raw: |-
+  <a name="JohnL04"></a><font size=+2>John Llewellyn Vining</font>
+     (son of <a href="Hfamilies.htm#HaroldD01">Harold Despard Vining and [...]</a>)
+     b. 1901   Hooks Fm.
+     d. ca. 1975
+  
+  <font size=+1>children:</font>
+     Michale J. D. Vining   b. 1929   Stroud, England
+     Noel B. D. Vining   b. 1930   Westbury on Severn, England
+     Philip Robert Despard Vining   b. 1931   Westbury, England   -   d. 1953   Gloucestershire, England
+     Ann M. D. Vining   b. 1932   Westbury, England
+     Marjorie K. D. Vining   b. 1938   Gloucester, England

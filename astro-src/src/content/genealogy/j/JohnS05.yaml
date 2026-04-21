@@ -1,0 +1,38 @@
+id: JohnS05
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LymanE01
+parentLetter: L
+parentDesc: Lyman Erwin Vining and Margaret Wood
+head:
+  givenName: John St. Clair
+  birth:
+    date: 24 February 1943
+  death:
+    date: 18 November 2001
+marriages:
+  - spouse:
+      givenName: Janet
+      surname: Kanago
+childrenGroups:
+  - children:
+      - name: Brittany Vining
+        marriages:
+          - date: Mike Sprecher
+      - name: Brad Vining
+        marriages:
+          - date: "April [Vining?]"
+docsUrl: Jsources/JohnS05doc.htm
+raw: |-
+  <a name="JohnS05"></a><font size=+2>John St. Clair Vining</font>
+     (son of <a href="Lfamilies.htm#LymanE01">Lyman Erwin Vining and Margaret Wood</a>)
+     b. 24 February 1943
+     m. Janet Kanago
+     d. 18 November 2001
+  
+  <font size=+1>children:</font>
+     Brittany Vining   m. Mike Sprecher
+     Brad Vining   m. April [Vining?]
+  
+  <a href="Jsources/JohnS05doc.htm">documentation and notes</a>

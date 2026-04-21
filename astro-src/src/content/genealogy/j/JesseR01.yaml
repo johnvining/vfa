@@ -1,0 +1,61 @@
+id: JesseR01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RodolphusC01
+parentLetter: R
+parentDesc: Rodolphus C. Vining and Martha R. Mason
+head:
+  givenName: Jesse Rodolphus
+  birth:
+    date: 11 September 1872
+    place: "West Cummington, Massachusetts"
+  death:
+    date: 14 October 1948
+marriages:
+  - spouse:
+      givenName: Angeline Martha
+      surname: Dickinson
+childrenGroups:
+  - children:
+      - name: Nellie Martha Vining
+        birth:
+          date: 24 April 1897
+          place: "Westfield, Massachusetts"
+        marriages:
+          - date: 17 June 1916
+            spouse: Joseph Henry Dewick Dennis
+        death:
+          date: 17 May 1969
+      - name: Ruth E. Vining
+        birth:
+          date: 2 November 1902
+          place: "Newport, Rhode Island"
+        marriages:
+          - number: 1
+            date: 19 August 1920
+            spouse: John A. Cerio
+          - number: 2
+            date: "1930"
+            spouse: Carmen DeLieto
+        death:
+          date: 3 March 1972
+          place: "Highland Mills, New York"
+        burial:
+          place: "Friends Cemetery   Newport, Rhode Island"
+docsUrl: Jsources/JesseR01doc.htm
+raw: |-
+  <a name="JesseR01"></a><font size=+2>Jesse Rodolphus Vining</font>
+     (son of <a href="Rfamilies.htm#RodolphusC01">Rodolphus C. Vining and Martha R. Mason</a>)
+     b. 11 September 1872   West Cummington, Massachusetts
+     m. Angeline Martha Dickinson
+              (dau. of Calvin Dickinson and Lucy Draper Comstock)
+              d. 28 April 1916   Granby, Massachusetts
+     d. 14 October 1948
+           bur. Braman Cemetery   Newport, Rhode Island
+  
+  <font size=+1>children:</font>
+     Nellie Martha Vining   b. 24 April 1897   Westfield, Massachusetts   -   m. 17 June 1916   Joseph Henry Dewick Dennis   -   d. 17 May 1969
+     Ruth E. Vining   b. 2 November 1902   Newport, Rhode Island   -   m. (1) 19 August 1920   John A. Cerio;   (2) 1930   Carmen DeLieto   -   d. 3 March 1972   Highland Mills, New York   -   bur. Friends Cemetery   Newport, Rhode Island
+  
+  <a href="Jsources/JesseR01doc.htm">documentation and notes</a>

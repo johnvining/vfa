@@ -1,0 +1,62 @@
+id: John02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John01
+parentDesc: John Vining and Mary Reed
+head:
+  givenName: John
+  birth:
+    date: "[15 or 16?] April 1662"
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 11 January 1737
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: ca. 1686
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Naomi
+      surname: Bicknell
+      birth:
+        date: 21 June 1657
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 11 September 1719
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: John Vining
+        entryId: John03
+        birth:
+          date: 17 January 1687/88
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: ca.  1710
+            spouse: Elizabeth Richards
+        death:
+          date: 27 July 1746
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 25 March 1690
+        marriages:
+          - date: int. 1 October 1715
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Ephraim Richards
+        death:
+          date: 22 April 1718
+raw: |-
+  <a name="John02"></a><font size=+2>John Vining</font>
+     (son of <a href="#John01">John Vining and Mary Reed</a>)
+     b. [15 or 16?] April 1662   Weymouth, Norfolk County, Massachusetts
+     m. ca. 1686   Weymouth, Norfolk County, Massachusetts
+           Naomi Bicknell
+                 (dau. of John Bicknell and Mary Shaw)
+                 b. 21 June 1657   Weymouth, Norfolk County, Massachusetts
+                 d. 11 September 1719   Weymouth, Norfolk County, Massachusetts
+     d. 11 January 1737   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#John03">John Vining</a>   b. 17 January 1687/88   Weymouth, Norfolk County, Massachusetts   -   m. ca.  1710   Elizabeth Richards   -   d. 27 July 1746   Weymouth, Norfolk County, Massachusetts
+     Mary Vining   b. 25 March 1690   -   m. int. 1 October 1715   Weymouth, Norfolk County, Massachusetts   Ephraim Richards   -   d. 22 April 1718

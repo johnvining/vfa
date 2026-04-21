@@ -1,0 +1,52 @@
+id: JesseJr02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jesse03
+parentDesc: "Jesse Vining and Rebecca [Hering or Herrity?]"
+head:
+  givenName: Jesse Jr.
+  birth:
+    date: ca. 1806
+  death:
+    date: 6 August 1840
+    place: "St. Helena, Louisiana"
+marriages:
+  - date: ca. 1828
+    place: "St. Helena Parish, Louisiana"
+    spouse:
+      givenName: Martha
+      surname: Foster
+      birth:
+        date: ca. 1808
+childrenGroups:
+  - children:
+      - name: Mary Rebecca Vining
+        birth:
+          date: "1831"
+          place: "Washington Parish, Louisiana"
+      - name: Joel Benson Vining
+        entryId: JoelB01
+        birth:
+          date: "[ca. 1832 or 1839?]"
+          place: Louisiana
+        marriages:
+          - date: 15 October 1857
+            place: "Amite, Mississippi"
+            spouse: Sophrona Foster
+        death:
+          date: 15 June 1864 (in Civil War)
+          place: "Clinton, Mississippi"
+raw: |-
+  <a name="JesseJr02"></a><font size=+2>Jesse Vining Jr.</font>
+     (son of <a href="#Jesse03">Jesse Vining and Rebecca [Hering or Herrity?]</a>)
+     b. ca. 1806
+     m. ca. 1828   St. Helena Parish, Louisiana
+           Martha Foster
+                 (dau. of Joel Foster and Mary Staples)
+                 b. ca. 1808
+     d. 6 August 1840   St. Helena, Louisiana
+  
+  <font size=+1>children:</font>
+     Mary Rebecca Vining   b. 1831   Washington Parish, Louisiana
+     <a href="#JoelB01">Joel Benson Vining</a>   b. [ca. 1832 or 1839?]   Louisiana   -   m. 15 October 1857   Amite, Mississippi   Sophrona Foster   -   d. 15 June 1864 (in Civil War)   Clinton, Mississippi

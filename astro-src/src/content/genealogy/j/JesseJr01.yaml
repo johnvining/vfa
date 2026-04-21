@@ -1,0 +1,82 @@
+id: JesseJr01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jesse02
+parentDesc: Jesse Vining and Anne Hilson
+head:
+  givenName: Jesse Jr.
+  birth:
+    date: "1760"
+    place: South Carolina
+  death:
+    date: 26 June 1823
+    place: South Carolina
+marriages:
+  - date: "1792"
+    spouse:
+      givenName: Phebe
+      surname: Pledger
+      birth:
+        date: "1759"
+      death:
+        date: "1829"
+        place: South Carolina
+childrenGroups:
+  - children:
+      - name: John William Vining
+        birth:
+          date: "1787"
+        death:
+          date: "1838"
+      - name: Ann Vining
+        marriages:
+          - date: Jonathan Brantley
+      - name: Thomas Alexander Vining
+        entryId: ThomasA01
+        entryLetter: T
+        birth:
+          date: 17 March 1795
+          place: "Marlboro County, South Carolina"
+        marriages:
+          - number: 1
+            date: 18 March 1824
+            place: "Marlboro County, South Carolina"
+            spouse: Elizabeth Thomas (d. 7 August 1856)
+          - number: 2
+            date: 21 May 1857
+            place: "Marlboro County, South Carolina"
+            spouse: Eliza Jane Thomas
+        death:
+          date: 26 January 1876
+          place: "Bennettsville, Marlboro County, South Carolina"
+        burial:
+          place: "Salem Baptist Cemetery   Bennettsville, Marlboro County, South Carolina"
+      - name: Jesse Pledger Vining
+        entryId: JesseP01
+        birth:
+          date: "1798"
+          place: "Bennettsville, South Carolina"
+        marriages:
+          - date: "1825"
+            place: "Bennettsville, Marlboro County, Georgia"
+            spouse: "Mary Ann &#8220;Polly&#8221; Cox"
+        death:
+          date: "1868"
+          place: "Stockton, Clinch County, Georgia"
+raw: |-
+  <a name="JesseJr01"></a><font size=+2>Jesse Vining Jr.</font>
+     (son of <a href="#Jesse02">Jesse Vining and Anne Hilson</a>)
+     b. 1760   South Carolina
+     m. 1792
+           Phebe Pledger
+                 (dau. of Philip Pledger and Mary Ann Ellis)
+                 b. 1759
+                 d. 1829   South Carolina
+     d. 26 June 1823   South Carolina
+  
+  <font size=+1>children:</font>
+     John William Vining   b. 1787   -   d. 1838
+     Ann Vining   m. Jonathan Brantley
+     <a href="Tfamilies.htm#ThomasA01">Thomas Alexander Vining</a>   b. 17 March 1795   Marlboro County, South Carolina   -   m. (1) 18 March 1824   Marlboro County, South Carolina   Elizabeth Thomas (d. 7 August 1856);   (2) 21 May 1857   Marlboro County, South Carolina   Eliza Jane Thomas   -   d. 26 January 1876   Bennettsville, Marlboro County, South Carolina   -   bur. Salem Baptist Cemetery   Bennettsville, Marlboro County, South Carolina
+     <a href="#JesseP01">Jesse Pledger Vining</a>   b. 1798   Bennettsville, South Carolina   -   m. 1825   Bennettsville, Marlboro County, Georgia   Mary Ann &#8220;Polly&#8221; Cox   -   d. 1868   Stockton, Clinch County, Georgia

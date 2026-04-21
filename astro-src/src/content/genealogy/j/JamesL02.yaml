@@ -1,0 +1,71 @@
+id: JamesL02
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: HerveyE01
+parentLetter: H
+parentDesc: Hervey E. Vining and Ethel Bertha Marson
+head:
+  givenName: James LaForest
+  birth:
+    date: 10 October 1908
+    place: "Avon, Maine"
+  death:
+    date: 21 October 1965
+    place: "Farmington, Maine"
+marriages:
+  - date: 3 May 1947
+    place: "Farmington, Maine"
+    spouse:
+      givenName: Harriet Fern
+      surname: Gray
+      birth:
+        date: "1922"
+        place: "Farmington, Maine"
+      death:
+        date: "1994"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: James LaForest Vining Jr.
+        entryId: JamesLJr01
+        birth:
+          date: 11 June 1947
+          place: "Farmington, Maine"
+        marriages:
+          - date: 13 May 1978
+            spouse: Gloria A. Bragg
+      - name: Edward Montell Vining
+        birth:
+          date: 5 January 1949
+          place: "New Sharon, Maine"
+      - name: Edna Hazel Vining
+        birth:
+          date: 21 December 1949
+          place: "Farmington, Maine"
+        death:
+          date: 22 December 1949
+          place: "Farmington, Maine"
+        burial:
+          place: "Riverside Cemetery   Farmington, Maine"
+docsUrl: Jsources/JamesL02doc.htm
+raw: |-
+  <a name="JamesL02"></a><font size=+2>James LaForest Vining</font>
+     (son of <a href="Hfamilies.htm#HerveyE01">Hervey E. Vining and Ethel Bertha Marson</a>)
+     b. 10 October 1908   Avon, Maine
+     m. 3 May 1947   Farmington, Maine
+           Harriet Fern Gray
+                 (dau. of Montell Gray and Bessie Morton)
+                 b. 1922   Farmington, Maine
+                 d. 1994
+                       bur. Village Cemetery   Strong, Maine
+     d. 21 October 1965   Farmington, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     <a href="#JamesLJr01">James LaForest Vining Jr.</a>   b. 11 June 1947   Farmington, Maine   -   m. 13 May 1978   Gloria A. Bragg
+     Edward Montell Vining   b. 5 January 1949   New Sharon, Maine
+     Edna Hazel Vining   b. 21 December 1949   Farmington, Maine   -   d. 22 December 1949   Farmington, Maine   -   bur. Riverside Cemetery   Farmington, Maine
+  
+  <a href="Jsources/JamesL02doc.htm">documentation and notes</a>

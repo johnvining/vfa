@@ -1,0 +1,62 @@
+id: JamesD04
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesW05
+parentDesc: "James W. Vining and Eula [&#8230;]"
+head:
+  givenName: James David
+  birth:
+    date: 11 December 1904
+    place: Georgia
+  death:
+    date: 26 January 1981
+marriages:
+  - spouse:
+      givenName: Bessie
+      surname: Singleton
+childrenGroups:
+  - children:
+      - name: James David Vining Jr.
+        entryId: JamesDJr01
+        birth:
+          date: 16 May 1934
+          place: "Tucker, Georgia"
+        marriages:
+          - date: 62 y. at death
+            place: Ann Massey
+        death:
+          date: 10 April 2021
+      - name: Donald R. Vining
+        birth:
+          date: age 0 m. as of 1940 census
+          place: Georgia
+      - name: Ray Vining
+        marriages:
+          - date: "MaryLee [&#8230;]"
+      - name: Carl Vining
+        marriages:
+          - date: "Charmet [&#8230;]"
+      - name: Sara Vining
+        marriages:
+          - date: "Bobby [&#8230;]"
+docsUrl: Jsources/JamesD04doc.htm
+raw: |-
+  <a name="JamesD04"></a><font size=+2>James David Vining</font>
+     (son of <a href="#JamesW05">James W. Vining and Eula [&#8230;]</a>)
+     b. 11 December 1904   Georgia
+     m. Bessie Singleton
+              b. 16 October 1905   Georgia
+              d. 16 July 1994
+                    bur. Melwood Cemetery   Stone Mountain, Georgia
+     d. 26 January 1981
+           bur. Melwood Cemetery   Stone Mountain, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="#JamesDJr01">James David Vining Jr.</a>   b. 16 May 1934   Tucker, Georgia   -   m. 62 y. at death   Ann Massey   -   d. 10 April 2021
+     Donald R. Vining   b. age 0 m. as of 1940 census   Georgia
+     Ray Vining   m. MaryLee [&#8230;]
+     Carl Vining   m. Charmet [&#8230;]
+     Sara Vining   m. Bobby [&#8230;]
+  
+  <a href="Jsources/JamesD04doc.htm">documentation and notes</a>

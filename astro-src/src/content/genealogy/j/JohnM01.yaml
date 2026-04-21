@@ -1,0 +1,33 @@
+id: JohnM01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John Marcus
+  birth:
+    date: 13 July 1915
+    place: "Boise, Idaho"
+  death:
+    date: 8 September 1968
+    place: "North Fork, California"
+marriages:
+  - spouse:
+      givenName: Jean Louise
+      surname: Keller
+docsUrl: Jsources/JohnM01doc.htm
+raw: |-
+  <a name="JohnM01"></a><font size=+2>John Marcus Vining</font>
+     (son of [?])
+     b. 13 July 1915   Boise, Idaho
+     m. Jean Louise Keller
+              (dau. of Furman Harry Keller and Gretta Margaret Clevegner)
+              b. 8 December 1928   Caldwell, Idaho
+              d. 2013   San Diego, California
+     d. 8 September 1968   North Fork, California
+           bur. Canyon Hill Cemetery   Caldwell, Idaho
+  
+  <font size=+1>child:</font>
+     <a href="Pfamilies.htm#Paul01">Paul Vining</a>   b. 9 July 1952   Wales, Alaska   -   m. Martha Ellen Cozean
+  
+  <a href="Jsources/JohnM01doc.htm">documentation and notes</a>

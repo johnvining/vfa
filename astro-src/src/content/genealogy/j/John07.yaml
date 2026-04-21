@@ -1,0 +1,112 @@
+id: John07
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnR01
+parentDesc: "[John Randall Vining and Rachel [...]?]"
+head:
+  givenName: John
+  birth:
+    date: "22 April [1781 or 1782]"
+    place: "Bernardston/Leyden, Massachusetts"
+  death:
+    date: 4 December 1857
+    place: "[Templeton, Massachusetts?]"
+marriages:
+  - date: 9 May 1808
+    place: "Woburn, Massachusetts"
+    spouse:
+      givenName: Fanny
+      surname: Richardson
+      birth:
+        date: 20 May 1779
+        place: "Woburn, Massachusetts"
+      death:
+        date: "[Templeton, Massachusetts?]"
+childrenGroups:
+  - children:
+      - name: Fanny Richardson Vining
+        birth:
+          date: 27 June 1810
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 13 April 1833
+            spouse: George W. Comes
+        death:
+          date: 31 August 1838
+      - name: John Randall Vining
+        entryId: JohnR02
+        birth:
+          date: 27 June 1810
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 10 December 1846
+            spouse: Martha A. Clough
+        death:
+          date: 16 June 1885
+      - name: Luther Richardson Vining
+        entryId: LutherR01
+        entryLetter: L
+        birth:
+          date: 20 May 1812
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 27 November 1833
+            spouse: Mary Richardson
+      - name: Josiah Vining
+        birth:
+          date: 19 December 1815
+          place: "Templeton, Massachusetts"
+        death:
+          date: October 1817
+      - name: Andre Vining
+        birth:
+          date: 21 April 1817
+          place: "Templeton, Massachusetts"
+        death:
+          date: 18 October 1817
+      - name: George Vining
+        entryId: George03
+        entryLetter: G
+        birth:
+          date: 29 December 1818
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 14 November 1844
+            place: "Portland, Massachusetts"
+            spouse: Martha B. Emery
+        death:
+          date: 1 June 1875
+          place: "Templeton, Massachusetts"
+      - name: Willard Vining
+        entryId: Willard01
+        entryLetter: W
+        birth:
+          date: 23 March 1821
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 24 July 1843
+            spouse: Miranda Cody
+        death:
+          date: "1849"
+        burial:
+          place: at sea
+raw: |-
+  <a name="John07"></a><font size=+2>John Vining</font>
+     (son of [<a href="#JohnR01">John Randall Vining and Rachel [...]</a>?])
+     b. 22 April [1781 or 1782]   Bernardston/Leyden, Massachusetts
+     m. 9 May 1808   Woburn, Massachusetts
+           Fanny Richardson
+                 (dau. of Jeduthan Richardson and Mary Wright)
+                 b. 20 May 1779   Woburn, Massachusetts
+                 d. [Templeton, Massachusetts?]
+     d. 4 December 1857   [Templeton, Massachusetts?]
+  
+  <font size=+1>children:</font>
+     Fanny Richardson Vining   b. 27 June 1810   Templeton, Massachusetts   -   m. 13 April 1833   George W. Comes   -   d. 31 August 1838
+     <a href="#JohnR02">John Randall Vining</a>   b. 27 June 1810   Templeton, Massachusetts   -   m. 10 December 1846   Martha A. Clough   -   d. 16 June 1885
+     <a href="Lfamilies.htm#LutherR01">Luther Richardson Vining</a>   b. 20 May 1812   Templeton, Massachusetts   -   m. 27 November 1833   Mary Richardson
+     Josiah Vining   b. 19 December 1815   Templeton, Massachusetts   -   d. October 1817
+     Andre Vining   b. 21 April 1817   Templeton, Massachusetts   -   d. 18 October 1817
+     <a href="Gfamilies.htm#George03">George Vining</a>   b. 29 December 1818   Templeton, Massachusetts   -   m. 14 November 1844   Portland, Massachusetts   Martha B. Emery   -   d. 1 June 1875   Templeton, Massachusetts
+     <a href="Wfamilies.htm#Willard01">Willard Vining</a>   b. 23 March 1821   Templeton, Massachusetts   -   m. 24 July 1843   Miranda Cody   -   d. 1849   -   bur. at sea

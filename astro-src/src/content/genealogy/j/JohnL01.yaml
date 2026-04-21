@@ -1,0 +1,49 @@
+id: JohnL01
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Abijah01
+parentLetter: A
+parentDesc: "Abijah Vining and Rebecca [...]"
+head:
+  givenName: John Leeson
+  birth:
+    date: 6 August 1791
+    place: Connecticut
+  death:
+    date: "11 November [...]"
+marriages:
+  - spouse:
+      givenName: "Elizabeth &#8220;Betsey&#8221;"
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Mary J. Vining
+        birth:
+          date: "1821"
+          place: New York
+        death:
+          date: "1886"
+          place: "Upper Cincinnatus, New York"
+      - name: Polly Vining
+        birth:
+          date: 10 August 1834
+          place: New York
+        death:
+          date: 16 August 1891
+          place: "Cincinnatus, New York"
+docsUrl: Jsources/JohnL01doc.htm
+raw: |-
+  <a name="JohnL01"></a><font size=+2>John Leeson Vining</font>
+     (son of <a href="Afamilies.htm#Abijah01">Abijah Vining and Rebecca [...]</a>)
+     b. 6 August 1791   Connecticut
+     m. Elizabeth &#8220;Betsey&#8221; [...]
+              b. age 48 y. as of 1850 census   New York
+     d. 11 November [...]
+           bur. Upper Cincy Cemetery   Cincinnatus, New York
+  
+  <font size=+1>children:</font>
+     Mary J. Vining   b. 1821   New York   -   d. 1886   Upper Cincinnatus, New York
+     Polly Vining   b. 10 August 1834   New York   -   d. 16 August 1891   Cincinnatus, New York
+  
+  <a href="Jsources/JohnL01doc.htm">documentation and notes</a>

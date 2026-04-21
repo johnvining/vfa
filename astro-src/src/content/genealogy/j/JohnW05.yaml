@@ -1,0 +1,101 @@
+id: JohnW05
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnS03
+parentDesc: John Sanders Vining and Elizabeth Louiza Worthington
+head:
+  givenName: John Wesley
+  birth:
+    date: January 1855
+    place: Georgia
+  death:
+    date: before 1940 census
+marriages:
+  - date: 2 January 1883
+    place: "Upson County, Georgia"
+    spouse:
+      givenName: Lucy
+      surname: Jenkins
+      birth:
+        date: 17 March 1866
+        place: Georgia
+      death:
+        date: 15 May 1940
+      burial:
+        place: "Forsyth City Cemetery   Forsyth, Georgia"
+childrenGroups:
+  - children:
+      - name: Marshall Lee Vining
+        entryId: MarshallL01
+        entryLetter: M
+        birth:
+          date: 17 December 1883
+          place: Georgia
+        marriages:
+          - number: 1
+            date: license 23 September 1905
+            place: Georgia
+            spouse: Lula Bishop
+          - number: 2
+            date: "Bela [&#8230;]"
+        death:
+          date: 3 June 1962
+        burial:
+          place: Forsyth City Cemetery
+      - name: "[?] Vining [daughter]"
+        birth:
+          date: June 1887
+          place: Georgia
+      - name: Ivy Vining
+        birth:
+          date: September 1889
+          place: Georgia
+      - name: Dorsey T. Vining
+        entryId: DorseyT01
+        entryLetter: D
+        birth:
+          date: 17 January 1893
+          place: "Thomaston, Georgia"
+        marriages:
+          - date: 29 August 1916
+            place: "Houston County, Georgia"
+            spouse: Bertha Jewell Pritchard
+        death:
+          date: 4 January 1941
+          place: "Opelika, Alabama"
+        burial:
+          place: "Rosemere Cemetery   Opelika, Alabama"
+      - name: Otis Edmund Vining
+        birth:
+          date: 16 January 1897
+          place: Georgia
+        death:
+          date: 29 July 1942
+        burial:
+          place: "Forsyth City Cemetery   Forsyth, Monroe County, Georgia"
+      - name: "Audrey Vining [son]"
+        birth:
+          date: October 1898
+          place: Georgia
+docsUrl: Jsources/JohnW05doc.htm
+raw: |-
+  <a name="JohnW05"></a><font size=+2>John Wesley Vining</font>
+     (son of <a href="#JohnS03">John Sanders Vining and Elizabeth Louiza Worthington</a>)
+     b. January 1855   Georgia
+     m. 2 January 1883   Upson County, Georgia
+           Lucy Jenkins
+                 b. 17 March 1866   Georgia
+                 d. 15 May 1940
+                       bur. Forsyth City Cemetery   Forsyth, Georgia
+     d. before 1940 census
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MarshallL01">Marshall Lee Vining</a>   b. 17 December 1883   Georgia   -   m. (1) license 23 September 1905   Georgia   Lula Bishop;   (2) Bela [&#8230;]   -   d. 3 June 1962   -   bur. Forsyth City Cemetery   -   Forsyth, Georgia
+     [?] Vining [daughter]   b. June 1887   Georgia
+     Ivy Vining   b. September 1889   Georgia
+     <a href="Dfamilies.htm#DorseyT01">Dorsey T. Vining</a>   b. 17 January 1893   Thomaston, Georgia   -   m. 29 August 1916   Houston County, Georgia   Bertha Jewell Pritchard   -   d. 4 January 1941   Opelika, Alabama   -   bur. Rosemere Cemetery   Opelika, Alabama
+     Otis Edmund Vining   b. 16 January 1897   Georgia   -   d. 29 July 1942   -   bur. Forsyth City Cemetery   Forsyth, Monroe County, Georgia
+     Audrey Vining [son]   b. October 1898   Georgia
+  
+  <a href="Jsources/JohnW05doc.htm">documentation and notes</a>
