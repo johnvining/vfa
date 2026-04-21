@@ -1,5 +1,6 @@
 id: Cleveland01
 letter: C
+sequence: 136
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenjaminC01
@@ -13,12 +14,15 @@ head:
   death:
     date: 28 January 1949
     place: "Toney, Alabama"
+  burial:
+    place: "Fowlkes Cemetery   Monrovia, Madison County, Alabama"
 marriages:
   - date: 17 June 1917
     place: "Madison County, Alabama"
     spouse:
       givenName: Lottie
       surname: Wallace
+      parents: "(dau. of [...] Wallace and Nancy Jane [...])"
       birth:
         date: 21 September 1896
         place: "Huntsville, Alabama"

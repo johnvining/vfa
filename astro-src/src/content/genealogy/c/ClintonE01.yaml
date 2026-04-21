@@ -1,5 +1,6 @@
 id: ClintonE01
 letter: C
+sequence: 142
 lastUpdated: 25 February 2023
 relationship: son
 parentId: EdwardP01
@@ -13,12 +14,15 @@ head:
   death:
     date: 8 March 1924
     place: "Strong, Maine"
+  burial:
+    place: "Temple, Maine"
 marriages:
   - date: 7 September 1914
     place: "Temple, Maine"
     spouse:
       givenName: Rosie E.
       surname: Walker
+      parents: "(dau. of Frank Walker and E[...]a Orberton)"
       birth:
         date: age 20 y. at marriage
         place: "Avon, Maine"

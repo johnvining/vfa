@@ -1,5 +1,6 @@
 id: CharlesF02
 letter: C
+sequence: 67
 lastUpdated: 25 February 2023
 relationship: son
 parentId: DayP01
@@ -13,6 +14,8 @@ head:
   death:
     date: 1 August 1979
     place: "(last residence: Florida)"
+  burial:
+    place: "St. John's Catholic Cemetery   Jackson, Michigan"
 marriages:
   - date: 27 November 1948
     spouse:

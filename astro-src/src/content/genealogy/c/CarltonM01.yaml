@@ -1,5 +1,6 @@
 id: CarltonM01
 letter: C
+sequence: 22
 lastUpdated: 25 February 2023
 relationship: son
 parentId: MauriceA01
@@ -12,6 +13,8 @@ head:
     place: "Cass County, Michigan"
   death:
     date: "1934"
+  burial:
+    place: "Lakeside Cemetery   Decatur, Van Buren County, Michigan"
 marriages:
   - date: 11 September 1915
     place: "Decatur, Van Buren County, Michigan"
@@ -25,6 +28,26 @@ marriages:
         date: "1966"
       burial:
         place: "Lakeside Cemetery   Decatur, Van Buren County, Michigan"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Marion A. Vining
+        birth:
+          date: "age 1 y., 4 m. as of 1920 census"
+          place: Michigan
+        marriages:
+          - date: Robert Hartman
+      - name: Robert Morris Vining
+        birth:
+          date: 17 March 1926
+          place: "Niles, Michigan"
+        marriages:
+          - date: Dorothy Elizabeth Burgner
+        death:
+          date: 12 April 2000
+          place: "Fort Worth, Tarrant County, Texas"
+        burial:
+          place: "Greenwood Memorial Park and Mausoleum   Fort Worth, Tarrant County, Texas"
 docsUrl: Csources/CarltonM01doc.htm
 raw: |-
   <a name="CarltonM01"></a><font size=+2>Carlton M. Vining</font>

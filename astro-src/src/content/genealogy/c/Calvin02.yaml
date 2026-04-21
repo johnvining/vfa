@@ -1,5 +1,6 @@
 id: Calvin02
 letter: C
+sequence: 5
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -14,10 +15,22 @@ head:
 marriages:
   - number: 1
     date: Mahala Jones
+    spouse:
+      birth:
+        date: age 40 y. as of 1850 census
+        place: Pennsylvania
   - number: 2
     date: Harriet Croney
+    spouse:
+      birth:
+        date: age 32 y. as of 1860 census
+        place: Canada
+      death:
+        date: 18 July 1902
+        place: "Oak Harbor, Ottawa County, Ohio"
 childrenGroups:
   - spouseRef: Mahala Jones
+    headingText: children by Mahala Jones
     children:
       - name: George Marcus Vining
         entryId: GeorgeM03
@@ -53,6 +66,7 @@ childrenGroups:
           date: age 2 y. as of 1850 census
           place: Ohio
   - spouseRef: "Harriet [&#8230;]"
+    headingText: "children by Harriet [&#8230;]"
     children:
       - name: James Vining
         birth:

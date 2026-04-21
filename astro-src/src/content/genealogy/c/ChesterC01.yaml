@@ -1,5 +1,6 @@
 id: ChesterC01
 letter: C
+sequence: 111
 lastUpdated: 25 February 2023
 relationship: son
 parentId: WilliamE03
@@ -13,6 +14,8 @@ head:
   death:
     date: 24 June 1978
     place: Texas
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Texas"
 marriages:
   - date: 2 July 1916
     spouse:

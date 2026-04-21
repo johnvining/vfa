@@ -1,5 +1,6 @@
 id: CorneliusW01
 letter: C
+sequence: 156
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Daniel02
@@ -13,10 +14,13 @@ head:
   death:
     date: 4 February 1883
     place: "Liberty Township, Michigan"
+  burial:
+    place: "East Liberty Cemetery   Liberty, Michigan"
 marriages:
-  - spouse:
-      givenName: "[9 May or 4 February?]"
-      surname: "1838"
+  - date: "[9 May or 4 February?] 1838"
+    spouse:
+      givenName: Zipporah
+      surname: Clarke
       birth:
         date: 29 March 1818
         place: New York

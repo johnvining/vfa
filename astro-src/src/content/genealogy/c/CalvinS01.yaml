@@ -1,5 +1,6 @@
 id: CalvinS01
 letter: C
+sequence: 7
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JaredW01
@@ -12,6 +13,8 @@ head:
     place: "Ellicottville, Cattaraugus County, New York"
   death:
     date: "1917"
+  burial:
+    place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
 marriages:
   - date: 14 April 1853
     spouse:

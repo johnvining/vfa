@@ -1,5 +1,6 @@
 id: CharlesA05
 letter: C
+sequence: 47
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenjaminF04
@@ -12,12 +13,15 @@ head:
     place: Texas
   death:
     date: 26 April 1903
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Texas"
 marriages:
   - date: 14 September 1892
     place: "Cherokee, Texas"
     spouse:
       givenName: Harriet Alice
       surname: Roten
+      parents: (dau. of David Edward Roten and Alice Anderson Whitten)
       birth:
         date: 10 December 1873
         place: Texas

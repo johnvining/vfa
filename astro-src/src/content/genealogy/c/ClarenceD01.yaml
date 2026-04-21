@@ -1,5 +1,6 @@
 id: ClarenceD01
 letter: C
+sequence: 116
 lastUpdated: 25 February 2023
 relationship: son
 parentId: RobertH01
@@ -13,6 +14,8 @@ head:
   death:
     date: 19 January 1980
     place: "Plymouth, Indiana"
+  burial:
+    place: "Etna Green East Cemetery   Etna Township, Indiana"
 marriages:
   - date: 10 February 1915
     place: Indiana

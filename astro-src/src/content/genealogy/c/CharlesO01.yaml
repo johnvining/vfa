@@ -1,5 +1,6 @@
 id: CharlesO01
 letter: C
+sequence: 92
 lastUpdated: 25 February 2023
 relationship: son
 parentId: WilliamR02
@@ -13,6 +14,8 @@ head:
   death:
     date: 26 October 1896
     place: "Corning, Kansas"
+  burial:
+    place: "Corning Cemetery   Corning, Kansas"
 marriages:
   - date: 24 December 1876
     place: Missouri

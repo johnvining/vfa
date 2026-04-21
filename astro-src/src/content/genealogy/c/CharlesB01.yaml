@@ -1,5 +1,6 @@
 id: CharlesB01
 letter: C
+sequence: 55
 lastUpdated: 25 February 2023
 relationship: son
 parentId: MaconA01
@@ -12,10 +13,24 @@ head:
   death:
     date: 21 January 1982
     place: "(last residence: Eufaula, Alabama)"
+  burial:
+    place: "Fairview Cemetery   Eufaula, Barbour County, Alabama"
 marriages:
   - spouse:
       givenName: Nell
       surname: Cody
+      birth:
+        date: 21 April 1923
+      death:
+        date: 3 October 1997
+      burial:
+        place: "Fairview Cemetery   Eufaula, Barbour County, Alabama"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Charlotte Vining
+        marriages:
+          - date: "[...] Goltry"
 docsUrl: Csources/CharlesB01doc.htm
 raw: |-
   <a name="CharlesB01"></a><font size=+2>Charles Boyd Vining</font>

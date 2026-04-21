@@ -1,5 +1,6 @@
 id: CharlesF04
 letter: C
+sequence: 69
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FelixJ01
@@ -12,10 +13,13 @@ head:
     place: Georgia
   death:
     date: "1937"
+  burial:
+    place: "Dawnville Cemetery   Dawnville, Georgia"
 marriages:
-  - spouse:
-      givenName: approx. 15 y. as of 1930
-      surname: census
+  - date: "approx. 15 y. as of 1930 census"
+    spouse:
+      givenName: Demmie
+      surname: Lotspeich
       birth:
         date: "1892"
         place: Georgia

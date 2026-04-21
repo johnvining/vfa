@@ -1,5 +1,6 @@
 id: ClaudeL01
 letter: C
+sequence: 132
 lastUpdated: 25 February 2023
 relationship: son
 parentId: LesterR03
@@ -13,6 +14,8 @@ head:
   death:
     date: September 1962
     place: "(last residence: Colorado)"
+  burial:
+    place: "Crown Hill Cemetery   Wheat Ridge, Colorado"
 marriages:
   - date: 1 y. as of 1910 census
     spouse:

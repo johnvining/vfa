@@ -1,5 +1,6 @@
 id: CaryW01
 letter: C
+sequence: 25
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CalvinS01
@@ -11,12 +12,33 @@ head:
     place: "Eden, Lake County, Michigan"
   death:
     date: "1940"
+  burial:
+    place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
 marriages:
   - number: 1
     date: "1887"
     place: Michigan
+    spouse:
+      givenName: May
+      surname: Kendall
+      parents: (dau. of John B. Kendall and Elizabeth Stuart)
+      birth:
+        date: 26 October 1866
+        place: Michigan
+      death:
+        date: 7 February 1920
+        place: "Lakeview, Montcalm County, Michigan"
+      burial:
+        place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
+  - number: 2
+    date: "Harriet A. [&#8230;]"
+    spouse:
+      birth:
+        date: age 61 y. as of 1930 census
+        place: Michigan
 childrenGroups:
   - spouseRef: May Kendall
+    headingText: children by May Kendall
     children:
       - name: Keats Kendall Vining
         entryId: KeatsK01

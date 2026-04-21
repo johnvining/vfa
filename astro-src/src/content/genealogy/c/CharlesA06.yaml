@@ -1,5 +1,6 @@
 id: CharlesA06
 letter: C
+sequence: 50
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JosephM02
@@ -13,12 +14,15 @@ head:
   death:
     date: 10 August 2004
     place: "Lake City, Columbia County, Florida"
+  burial:
+    description: "cremated, ashes scatted at sea"
 marriages:
   - date: 13 June 1946
     place: "Beaumont, Jefferson County, Texas"
     spouse:
       givenName: Billie June
       surname: Landry
+      parents: (dau. of Junius Landry and Mildred Ophelia Hargraves)
       birth:
         date: 21 April 1925
         place: "Houston, Harris County, Texas"

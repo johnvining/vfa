@@ -1,5 +1,6 @@
 id: CharlesM06
 letter: C
+sequence: 89
 lastUpdated: 25 February 2023
 relationship: son
 parentId: AlbertD01
@@ -13,6 +14,8 @@ head:
   death:
     date: 14 June 2003
     place: "Indian River, Michigan"
+  burial:
+    place: "Forest Home Cemetery   Greenvile, Michigan"
 marriages:
   - date: 30 June 1951
     spouse:
@@ -24,6 +27,14 @@ marriages:
         date: 22 November 1985
       burial:
         place: "Forest Home Cemetery   Greenville, Michigan"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Phillips Vining
+        birth:
+          date: "[b. and?] d. 12 February 1962"
+        burial:
+          place: "Forest Home Cemetery   Greenville, Michigan"
 docsUrl: Csources/CharlesM06doc.htm
 raw: |-
   <a name="CharlesM06"></a><font size=+2>Charles Miller Vining</font>

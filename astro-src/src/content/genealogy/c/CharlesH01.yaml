@@ -1,5 +1,6 @@
 id: CharlesH01
 letter: C
+sequence: 72
 lastUpdated: 25 February 2023
 relationship: son
 parentId: David06
@@ -12,9 +13,19 @@ head:
     place: Maine
   death:
     date: 28 July 1895
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - number: 1
     date: "Carolyn Hunter (of Strong, Maine)"
+    spouse:
+      birth:
+        date: "age 35 y., 7 m., 23 d. at death"
+        place: Maine
+      death:
+        date: 11 August 1871
+      burial:
+        place: "Village Cemetery   Strong, Maine"
   - number: 2
     date: int. 15 March 1872
     spouse:
@@ -34,6 +45,7 @@ marriages:
       surname: Learned
 childrenGroups:
   - spouseRef: Carolyn Hunter
+    headingText: children by Carolyn Hunter
     children:
       - name: Charles Alfred Vining
         entryId: CharlesA01

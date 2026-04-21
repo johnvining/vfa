@@ -1,5 +1,6 @@
 id: ClarenceJ01
 letter: C
+sequence: 122
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JepthaP01
@@ -12,16 +13,49 @@ head:
     place: New York
   death:
     date: "1946"
+  burial:
+    place: "Windham Cemetery   Windham, New York"
 marriages:
   - number: 1
     date: ca. 1907
     spouse:
       givenName: Pearl H.
       surname: Pelham
+      parents: (dau. of Samuel Pelham and Permelia Jane Claver)
       birth:
-        date: "age 35 y. as of 1920 census  Windham, New York"
+        date: age 35 y. as of 1920 census
+        place: "Windham, New York"
+    note: "divorced (she m. (2) Floyd J. Tremper)"
   - number: 2
     date: Cora Whittaker
+    spouse:
+      parents: "(dau. of Benjamin H. Whittaker and [&#8230;])"
+      birth:
+        date: 31 October 1889
+        place: New York
+      death:
+        date: July 1980
+        place: New York
+      burial:
+        place: "Windham Cemetery   Windham, New York"
+childrenGroups:
+  - headingText: child by Pearl H. Pelham
+    children:
+      - name: Eldred Claver Vining
+        entryId: EldredC01
+        entryLetter: E
+        birth:
+          date: 3 April 1913
+          place: "Windham, New York"
+        marriages:
+          - date: 8 August 1938
+            place: "Margaretville, New York"
+            spouse: Virginia F. Cook
+        death:
+          date: 11 March 1988
+          place: New York
+        burial:
+          place: "Clovesville Cemetery   Fleischmanns, New York"
 docsUrl: Csources/ClarenceJ01doc.htm
 raw: |-
   <a name="ClarenceJ01"></a><font size=+2>Clarence J. Vining</font>

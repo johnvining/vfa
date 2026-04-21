@@ -1,5 +1,6 @@
 id: ColumbusT01
 letter: C
+sequence: 154
 lastUpdated: 25 February 2023
 relationship: son
 parentId: WilliamN02
@@ -18,6 +19,16 @@ marriages:
       birth:
         date: April 1872
         place: Arkansas
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Mattie L. Vining
+        birth:
+          date: July 1891
+          place: Arkansas
+      - name: child Vining
+        death:
+          date: prior to 1910 census
 docsUrl: Csources/ColumbusT01doc.htm
 raw: |-
   <a name="ColumbusT01"></a><font size=+2>Columbus T. Vining</font>

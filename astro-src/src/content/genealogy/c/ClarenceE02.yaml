@@ -1,5 +1,6 @@
 id: ClarenceE02
 letter: C
+sequence: 118
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnS04
@@ -13,10 +14,20 @@ head:
   death:
     date: 9 January 1958
     place: "Calhoun, Ouachita Parish, Louisiana"
+  burial:
+    place: "Beulah Cemetery   Calhoun, Ouachita Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Elva Mae
       surname: Waters
+      birth:
+        date: 23 September 1894
+        place: Louisiana
+      death:
+        date: 19 June 1977
+        place: "Ruston, Lincoln Parish, Louisiana"
+      burial:
+        place: "Beulah Cemetery   Calhoun, Louisiana"
 childrenGroups:
   - children:
       - name: Clarence Eugene Vining Jr.

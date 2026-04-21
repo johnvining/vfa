@@ -1,5 +1,6 @@
 id: CarrollE01
 letter: C
+sequence: 24
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnB03
@@ -13,12 +14,15 @@ head:
   death:
     date: 6 June 1985
     place: "Portland, Maine"
+  burial:
+    place: "Moss Side Cemetery   Cumberland, Cumberland County, Maine"
 marriages:
   - date: 27 August 1950
     place: "Cumberland, Cumberland County, Maine"
     spouse:
       givenName: Claire Isabel
       surname: Doughty
+      parents: (dau. of Benjamin Franklin Doughty and Ruth Eleanora Allen)
       birth:
         date: 26 October 1927
         place: "Cumberland, Cumberland County, Maine"

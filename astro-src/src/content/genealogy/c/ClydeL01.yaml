@@ -1,5 +1,6 @@
 id: ClydeL01
 letter: C
+sequence: 150
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnF01
@@ -13,10 +14,18 @@ head:
   death:
     date: 8 December 1973
     place: "(last residence: Quincy, Washington)"
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
 marriages:
   - spouse:
       givenName: Evelyn Clara
       surname: Truex
+      birth:
+        date: "1911"
+      death:
+        date: "1994"
+      burial:
+        place: "Etna Green Cemetery   Etna Greene, Indiana"
 childrenGroups:
   - children:
       - name: Clarabelle Mae Vining

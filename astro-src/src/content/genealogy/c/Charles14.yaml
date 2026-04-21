@@ -1,5 +1,6 @@
 id: Charles14
 letter: C
+sequence: 40
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JaredM01
@@ -13,6 +14,8 @@ head:
   death:
     date: 13 June 1906
     place: Michigan
+  burial:
+    place: "Beaverton Cemetery   Beaverton, Gladwin County, Michigan"
 marriages:
   - date: "1869"
     spouse:

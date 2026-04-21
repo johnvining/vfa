@@ -1,5 +1,6 @@
 id: Charles07
 letter: C
+sequence: 42
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,27 @@ marriages:
   - spouse:
       givenName: "Mary Evelyn &#8220;Eva&#8221;"
       surname: Puterbaugh
+      parents: (dau. of Peter Puterbaugh and Margaret Fetter)
+      birth:
+        date: 8 February 1863
+        place: Ohio
+      death:
+        date: 8 February 1928
+        place: Ohio
+      burial:
+        place: Greenlawn Cemetery   Ohio
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Forest T. Vining
+        birth:
+          date: 16 May 1885
+          place: "Willowdell, Darke County, Ohio"
+        marriages:
+          - date: Hazel Angela Noffsinger
+        death:
+          date: 23 July 1983
+          place: Ohio
 raw: |-
   <a name="Charles07"></a><font size=+2>Charles Vining</font>
      (son of [?])

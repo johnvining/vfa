@@ -1,5 +1,6 @@
 id: ClarenceR02
 letter: C
+sequence: 125
 lastUpdated: 25 February 2023
 relationship: son
 parentId: HoraceC01
@@ -12,10 +13,30 @@ head:
     place: "Hartford County, Connecticut"
   death:
     date: "1940"
+  burial:
+    place: "North Canton Cemetery   North Canton, Connecticut"
 marriages:
   - spouse:
       givenName: Emma J.
       surname: Strickland
+      birth:
+        date: "1881"
+      death:
+        date: "1922"
+      burial:
+        place: "North Canton Cemetery   North Canton, Connecticut"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Grace Vining
+        birth:
+          date: "1884"
+        marriages:
+          - date: "[&#8230;] Cole"
+        death:
+          date: "1961"
+        burial:
+          place: "North Canton Cemetery   North Canton, Connecticut"
 docsUrl: Csources/ClarenceR02doc.htm
 raw: |-
   <a name="ClarenceR02"></a><font size=+2>Clarence Ruggles Vining</font>

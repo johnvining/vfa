@@ -1,5 +1,6 @@
 id: CharlesE04
 letter: C
+sequence: 56
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Thomas12
@@ -13,8 +14,12 @@ head:
 marriages:
   - date: 15 y. as of 1900 census
     spouse:
-      givenName: "b. 31 March 1867   [Kansas or"
-      surname: "Tennessee?]"
+      givenName: Ione Augusta
+      surname: Singer
+      parents: "(dau. of D. F. Singer and [&#8230;])"
+      birth:
+        date: 31 March 1867
+        place: "[Kansas or Tennessee?]"
       death:
         date: 28 July 1938
         place: "Kansas City, Missouri"

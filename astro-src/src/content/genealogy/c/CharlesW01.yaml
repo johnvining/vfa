@@ -1,5 +1,6 @@
 id: CharlesW01
 letter: C
+sequence: 105
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnF01
@@ -12,13 +13,29 @@ head:
     place: Indiana
   death:
     date: 25 July 1997
+  burial:
+    place: "Woodlawn Cemetery   Leslie, Michigan"
 marriages:
   - number: 1
-    date: Millicent Craft
+    spouse:
+      givenName: Millicent
+      surname: Craft
+      birth:
+        date: age 20 y. as of 1940 census
+        place: Indiana
   - number: 2
-    date: Mary M. Whitker
+    spouse:
+      givenName: Mary M.
+      surname: Whitker
+      birth:
+        date: 24 July 1918
+      death:
+        date: 20 April 2002
+      burial:
+        place: "Woodlawn Cemetery   Leslie, Michigan"
 childrenGroups:
   - spouseRef: Millicent Craft
+    headingText: children by Millicent Craft
     children:
       - name: Virginia Carol Vining
         birth:
@@ -35,6 +52,7 @@ childrenGroups:
         marriages:
           - date: "Betty [...]"
   - spouseRef: Mary M. Whitker
+    headingText: children by Mary M. Whitker
     children:
       - name: Beverly Ann Vining
         birth:

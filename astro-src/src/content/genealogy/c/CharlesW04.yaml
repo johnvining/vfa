@@ -1,5 +1,6 @@
 id: CharlesW04
 letter: C
+sequence: 104
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Shadrack04
@@ -13,11 +14,14 @@ head:
   death:
     date: 24 September 1928
     place: Alabama
+  burial:
+    place: "Quinn Cemetery   Chelsea, Shelby County, Alabama"
 marriages:
   - date: 14 y. as of 1910 census
     spouse:
       givenName: Ollie F.
       surname: Selman
+      parents: (dau. of Joseph Monroe Selman and Martha Shoults)
       birth:
         date: "[12 or 21 ?] December 1880"
         place: "Randolph, Alabama"
@@ -38,7 +42,7 @@ childrenGroups:
           date: 1 May 1965
           place: "Trussville, Jefferson County, Alabama"
         burial:
-          place: Grace Community Church Cemetery
+          place: "Grace Community Church Cemetery   -   Hoover, Alabama"
       - name: Ethel Vining
         birth:
           date: age 7 y. as of 1910 census

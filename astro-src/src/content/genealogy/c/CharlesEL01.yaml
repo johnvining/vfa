@@ -1,5 +1,6 @@
 id: CharlesEL01
 letter: C
+sequence: 63
 lastUpdated: 25 February 2023
 relationship: son
 parentId: MosesP01
@@ -13,6 +14,8 @@ head:
   death:
     date: 14 February 1921
     place: "Farmington, Maine"
+  burial:
+    place: "Wilton, Maine"
 marriages:
   - date: 9 January 1890
     spouse:

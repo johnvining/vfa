@@ -1,5 +1,6 @@
 id: CarltonB01
 letter: C
+sequence: 21
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Augustus03
@@ -12,10 +13,26 @@ head:
     place: Georgia
   death:
     date: 26 December 1966
+  burial:
+    place: "Circle View Cemetery   Social Circle, Walton County, Georgia"
 marriages:
   - spouse:
       givenName: Louise
       surname: Abercrombie
+      birth:
+        date: 12 March 1891
+        place: Georgia
+      death:
+        date: 26 July 1968
+      burial:
+        place: "Circle View Cemetery   Social Circle, Walton County, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Daisy Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Georgia
 docsUrl: Csources/CarltonB01doc.htm
 raw: |-
   <a name="CarltonB01"></a><font size=+2>Carlton Berry Vining</font>

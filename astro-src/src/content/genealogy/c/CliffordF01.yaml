@@ -1,5 +1,6 @@
 id: CliffordF01
 letter: C
+sequence: 138
 lastUpdated: 25 February 2023
 relationship: son
 parentId: EdmundP04
@@ -13,12 +14,15 @@ head:
   death:
     date: 11 July 1995
     place: "Vancouver, Washington"
+  burial:
+    place: "Saint Luke's Episcopal Church Columbarium   Vancouver, Washington"
 marriages:
   - date: 1 March 1941
     place: "Seattle, Washington"
     spouse:
       givenName: Olive Scott
       surname: Pennington
+      parents: (dau. of Walter Scott Pennington and Olive Grace Rice)
       birth:
         date: 13 August 1913
         place: "Glenwood, Minnesota"

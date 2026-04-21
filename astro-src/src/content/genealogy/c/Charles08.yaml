@@ -1,5 +1,6 @@
 id: Charles08
 letter: C
+sequence: 35
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JosephJr01
@@ -16,12 +17,26 @@ marriages:
     spouse:
       givenName: "Martha Nash &#8220;Patty&#8221;"
       surname: Porter
+      parents: "(dau. of John Porter and Susan &#8220;Sukey&#8221; Nash)"
       birth:
         date: 11 July 1802
         place: "Weymouth, Norfolk County, Massachusetts"
       death:
         date: 26 July 1889
         place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Susan Augusta Vining
+        birth:
+          date: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 1 September 1844
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Josiah Pray
+        death:
+          date: 26 November 1846
+          place: "Weymouth, Norfolk County, Massachusetts"
 docsUrl: Csources/Charles08doc.htm
 raw: |-
   <a name="Charles08"></a><font size=+2>Charles Vining</font>

@@ -1,5 +1,6 @@
 id: Charles03
 letter: C
+sequence: 45
 lastUpdated: 25 February 2023
 relationship: son
 parentId: HoraceO01
@@ -15,6 +16,11 @@ marriages:
   - spouse:
       givenName: Meta
       surname: Schultz
+      birth:
+        date: 30 August 1886
+      death:
+        date: August 1968
+        place: "(last residence: St. Paul, Ramsey County, Minnesota)"
 childrenGroups:
   - children:
       - name: Dorothy Vining

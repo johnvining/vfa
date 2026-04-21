@@ -1,5 +1,6 @@
 id: ClairW01
 letter: C
+sequence: 113
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnD01
@@ -14,16 +15,34 @@ head:
     date: May 1958
 marriages:
   - number: 1
-    date: Jennie Adelia Rose
     spouse:
-      givenName: b. age 28 y. as of 1920 census   New
-      surname: York
+      givenName: Jennie Adelia
+      surname: Rose
+      birth:
+        date: age 28 y. as of 1920 census
+        place: New York
   - number: 2
     date: ca. 1929
+    spouse:
+      givenName: Adelaide
+      surname: LaPenna
+      birth:
+        date: 5 April 1900
+        place: New York
+      death:
+        date: 25 June 1979
   - number: 3
-    date: Estelle Winfield
+    spouse:
+      givenName: Estelle
+      surname: Winfield
+      birth:
+        date: 3 February 1908
+        place: "Edinburgh, Scotland"
+      death:
+        place: "Altoona, Florida"
 childrenGroups:
   - spouseRef: Jennie Adelia Rose
+    headingText: children by Jennie Adelia Rose
     children:
       - name: Donald Clair Vining
         entryId: DonaldC01
@@ -61,6 +80,7 @@ childrenGroups:
         burial:
           place: "Vestal Hills Memorial Park   Vestal, New York"
   - spouseRef: Adelaide LaPenna
+    headingText: children by Adelaide LaPenna
     children:
       - name: James Edward Vining
         entryId: JamesE03
@@ -82,10 +102,14 @@ childrenGroups:
           place: "Brooklyn, New York"
         death:
           date: 13 December 1996
+  - headingText: child by Estelle Winfield
+    children:
       - name: Miriam Rose Vining
         birth:
           date: 28 November 1944
-          place: "Trenton, New Jersey  -   m. [...] Pearl,   divorced"
+          place: "Trenton, New Jersey"
+        marriages:
+          - date: "[...] Pearl,   divorced"
 raw: |-
   <a name="ClairW01"></a><font size=+2>Clair Wilbur Vining</font>
      (son of <a href="Jfamilies.htm#JohnD01">John Decker Vining and Julia Wilbur</a>)

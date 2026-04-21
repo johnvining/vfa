@@ -1,5 +1,6 @@
 id: ColumbusS01
 letter: C
+sequence: 153
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JesseL01
@@ -15,8 +16,93 @@ head:
 marriages:
   - date: 11 November 1883
     spouse:
-      givenName: "Catherine Alcox [see documentation and"
-      surname: "notes]"
+      givenName: "Catherine Alcox [see documentation and notes]"
+      birth:
+        date: 8 April 1865
+      death:
+        date: 23 December 1934
+      burial:
+        place: "Lovejoy Cemetery   Stockton, Georgia"
+childrenGroups:
+  - children:
+      - name: Rousia Austin Vining
+        birth:
+          date: "1885"
+      - name: Joseph Burton F. Vining
+        entryId: JosephB01
+        entryLetter: J
+        birth:
+          date: 7 February 1887
+        marriages:
+          - date: Florence Imogene Jackson
+        death:
+          date: 16 April 1962
+        burial:
+          place: "Lovejoy Cemetery   Georgia"
+      - name: Charles Henry Vining
+        birth:
+          date: 25 May 1889
+        death:
+          date: 24 October 1895
+          place: Georgia
+        burial:
+          place: "Lovejoy Cemetery   Georgia"
+      - name: Lonnie Dolphus Vining
+        birth:
+          date: 23 May 1892
+          place: "Savannah, Georgia"
+        marriages:
+          - number: 1
+            date: Lucille Kilpatrick
+          - number: 2
+            date: Charles Lou King
+        death:
+          date: 20 July 1970
+          place: Florida
+        burial:
+          place: "Crosby Lake Cemetery   Starks, Florida"
+      - name: Dicey Mae Vining
+        birth:
+          date: "1894"
+        marriages:
+          - date: Walter J. Timmerman
+      - name: Gus Columbus Vining
+        entryId: GusC01
+        entryLetter: G
+        birth:
+          date: 25 October 1896
+        marriages:
+          - date: Ethel Malone
+        death:
+          date: 22 February 1959
+          place: Georgia
+        burial:
+          description: "Lovejoy Cemetery   Georgia"
+      - name: Fred Fuston Vining
+        birth:
+          date: 4 September 1899
+        marriages:
+          - date: Doris Goodbread
+        death:
+          date: 29 June 1964
+        burial:
+          place: "Lovejoy Cemetery   Stockton, Georgia"
+      - name: Dora Ann Vining
+        birth:
+          date: "1901"
+        marriages:
+          - date: Frank L. Fender
+      - name: Jesse Cleveland Vining
+        birth:
+          date: 22 February 1904
+        marriages:
+          - date: "Nina M. [...]"
+        death:
+          date: 24 July 1977
+          place: Georgia
+        burial:
+          place: "Lovejoy Cemetery   Stockton, Georgia"
+docsUrl: Csources/ColumbusS01doc.htm
 raw: |-
   <a name="ColumbusS01"></a><font size=+2>Columbus Simon Vining</font>
      (son of <a href="Jfamilies.htm#JesseL01">Jesse Lawrence Vining and Sarah Ann Nail Alcox</a>)

@@ -1,5 +1,6 @@
 id: CharlesA08
 letter: C
+sequence: 51
 lastUpdated: 25 February 2023
 relationship: son
 parentId: StephenW02
@@ -13,10 +14,15 @@ head:
   death:
     date: 9 December 1937
     place: "Napa County, California"
+  burial:
+    place: "Filer Cemetery   Filer, Idaho"
 marriages:
   - spouse:
       givenName: Mary Alice
       surname: Pyle
+      birth:
+        date: March 1870
+        place: Michigan
 childrenGroups:
   - children:
       - name: Minnie A. Vining

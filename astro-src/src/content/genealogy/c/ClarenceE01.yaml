@@ -1,5 +1,6 @@
 id: ClarenceE01
 letter: C
+sequence: 119
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ClarenceD02
@@ -21,8 +22,10 @@ marriages:
   - number: 2
     date: 13 November 1971
     place: "Decker, Michigan"
+    note: "Violet L. Phetteplace (ne&#233; Loutzenhiser)"
 childrenGroups:
   - spouseRef: Kay Smith
+    headingText: children by Kay Smith
     children:
       - name: Matthew Vining
         birth:

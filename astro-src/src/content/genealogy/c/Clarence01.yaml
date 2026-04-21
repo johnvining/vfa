@@ -1,5 +1,6 @@
 id: Clarence01
 letter: C
+sequence: 114
 lastUpdated: 25 February 2023
 relationship: son
 parentId: HarrisonS01
@@ -27,6 +28,13 @@ marriages:
       birth:
         date: age 34 y. as of 1910 census
         place: New York
+childrenGroups:
+  - headingText: "child by Sarah [...]"
+    children:
+      - name: Mildred Vining
+        birth:
+          date: June 1898
+          place: New York
 raw: |-
   <a name="Clarence01"></a><font size=+2>Clarence Vining</font>
      (son of <a href="Hfamilies.htm#HarrisonS01">Harrison S. Vining and Lucy I. Simonton</a>)

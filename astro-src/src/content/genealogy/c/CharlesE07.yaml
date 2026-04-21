@@ -1,5 +1,6 @@
 id: CharlesE07
 letter: C
+sequence: 62
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesF01
@@ -17,6 +18,20 @@ marriages:
       birth:
         date: age 24 y. as of 1920 census
         place: Michigan
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Josephine J. Vining
+        birth:
+          date: 11 June 1913
+          place: Michigan
+        marriages:
+          - number: 1
+            date: "Whetey Tarbell,"
+            spouse: divorced
+          - number: 2
+            date: Iowa
+            spouse: Elton Carter
 docsUrl: Csources/CharlesE07doc.htm
 raw: |-
   <a name="CharlesE07"></a><font size=+2>Charles Elton Vining</font>

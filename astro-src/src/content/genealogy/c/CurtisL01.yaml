@@ -1,5 +1,6 @@
 id: CurtisL01
 letter: C
+sequence: 171
 lastUpdated: 25 February 2023
 relationship: son
 parentId: VirgilM01
@@ -12,10 +13,28 @@ head:
   death:
     date: 31 January 2005
     place: "Fort Atkinson, Wisconsin"
+  burial:
+    place: "Union Cemetery   Sumner, Wisconsin"
 marriages:
   - spouse:
       givenName: Rosalind M.
       surname: Raymond
+      birth:
+        date: 22 April 1917
+      death:
+        date: 10 July 1993
+      burial:
+        place: "Union Cemetery   Sumner, Wisconsin"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Kurt Vining
+        entryId: Kurt01
+        entryLetter: K
+        birth:
+          date: 3 May 1943
+        marriages:
+          - date: Lois Ann Schroeder
 docsUrl: Csources/CurtisL01doc.htm
 raw: |-
   <a name="CurtisL01"></a><font size=+2>Curtis L. Vining</font>

@@ -1,5 +1,6 @@
 id: ConverseW01
 letter: C
+sequence: 155
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenjaminJr01
@@ -12,12 +13,15 @@ head:
     place: "[North Yarmouth, Maine?]"
   death:
     date: 12 April 1887
+  burial:
+    place: "Town Line Cemetery   Strong, Maine"
 marriages:
   - date: 27 June 1835
     place: "North Yarmouth, Maine"
     spouse:
       givenName: Esther Hall
       surname: Worthley
+      parents: (dau. of Timothy Worthley and Phebe Weare)
       birth:
         date: 16 September 1811
         place: "North Yarmouth, Maine"

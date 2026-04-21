@@ -1,5 +1,6 @@
 id: Cullen01
 letter: C
+sequence: 168
 lastUpdated: 25 February 2023
 relationship: son
 parentId: George02
@@ -12,6 +13,8 @@ head:
     place: "Plainfield, Massachusetts"
   death:
     date: "[13 or 12?] April 1856"
+  burial:
+    place: "Streeter Cemetery   Cummington, Massachusetts"
 marriages:
   - date: 5 July 1819
     place: "Windsor, Massachusetts"

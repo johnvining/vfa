@@ -1,5 +1,6 @@
 id: CarlF01
 letter: C
+sequence: 14
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FelixJ01
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Grace E.
       surname: "[&#8230;]"
+      birth:
+        date: age 35 y. as of 1920 census
+        place: California
 childrenGroups:
   - children:
       - name: John S. Vining

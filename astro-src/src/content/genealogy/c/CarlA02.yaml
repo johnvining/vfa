@@ -1,5 +1,6 @@
 id: CarlA02
 letter: C
+sequence: 10
 lastUpdated: 25 February 2023
 relationship: son
 parentId: RichardW01
@@ -12,10 +13,18 @@ head:
     place: Louisiana
   death:
     date: 10 July 2000
+  burial:
+    place: "Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Ruby Jean
       surname: Traylor
+      birth:
+        date: 8 April 1932
+      death:
+        date: 18 May 2010
+      burial:
+        place: "Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Carl David Vining

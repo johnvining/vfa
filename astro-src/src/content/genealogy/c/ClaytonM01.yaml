@@ -1,5 +1,6 @@
 id: ClaytonM01
 letter: C
+sequence: 133
 lastUpdated: 25 February 2023
 relationship: son
 parentId: MerleE01
@@ -18,12 +19,15 @@ marriages:
     spouse:
       givenName: Betty Elaine
       surname: Hubbard
+      parents: (dau. of Earl Hubbard and Mabel Rollins)
       birth:
         date: 12 April 1934
         place: "White Hall, Illinois"
       death:
         date: 8 December 2025
         place: "Morris, Illinois"
+      burial:
+        description: "[see <a href=\"https://www.legacy.com/us/obituaries/morrisherald-news/name/betty-vining-obituary?id=60256622\" target=\"_blank\">obituary</a>]"
 childrenGroups:
   - children:
       - name: Bruce Hubbard Vining

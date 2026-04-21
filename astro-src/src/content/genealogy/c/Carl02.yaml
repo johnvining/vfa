@@ -1,5 +1,6 @@
 id: Carl02
 letter: C
+sequence: 8
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?] and Lewella Jedithia Malcolm"
@@ -15,6 +16,10 @@ marriages:
       surname: Spahn
       birth:
         date: ca. 1910
+childrenGroups:
+  - headingText: child
+    children:
+      - name: daughter Vining
 raw: |-
   <a name="Carl02"></a><font size=+2>Carl Vining</font>
      (son of [?] and Lewella Jedithia Malcolm)

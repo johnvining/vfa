@@ -1,5 +1,6 @@
 id: CharlesH08
 letter: C
+sequence: 73
 lastUpdated: 25 February 2023
 relationship: son
 parentId: GeorgeO01
@@ -12,10 +13,19 @@ head:
     place: Massachusetts
   death:
     date: "1961"
+  burial:
+    place: "Springfield Cemetery   Springfield, Massachusetts"
 marriages:
   - spouse:
       givenName: Laura L.
       surname: Lemkie
+      birth:
+        date: "1890"
+        place: Massachusetts
+      death:
+        date: "1976"
+      burial:
+        place: "Springfield Cemetery   Springfield, Massachusetts"
 childrenGroups:
   - children:
       - name: Richard H. Vining

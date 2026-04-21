@@ -1,5 +1,6 @@
 id: Calvin01
 letter: C
+sequence: 4
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Jonas01
@@ -18,6 +19,7 @@ marriages:
     spouse:
       givenName: Mary Ann
       surname: Noe
+      parents: "(dau. of Robert Noe and Mary Tappin[g?])"
       birth:
         date: 8 November 1804
         place: New Jersey
@@ -95,6 +97,7 @@ childrenGroups:
           - date: 24 October 1871
             place: "Morrow [County?], Ohio"
             spouse: Mary Elizabeth Osborn
+        note: "16 May 1920   Clinton, Clinton County, Iowa"
         burial:
           place: "Springdale Cemetery   Clinton, Clinton County, Iowa"
 docsUrl: Csources/Calvin01doc.htm

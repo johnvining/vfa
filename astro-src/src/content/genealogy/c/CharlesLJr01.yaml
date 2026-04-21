@@ -1,5 +1,6 @@
 id: CharlesLJr01
 letter: C
+sequence: 83
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesL02
@@ -12,6 +13,8 @@ head:
   death:
     date: 30 November 2003
     place: "West Monroe, Louisiana"
+  burial:
+    place: "Providence Memorial Park   Lake Providence, Louisiana"
 marriages:
   - spouse:
       givenName: Reta

@@ -1,5 +1,6 @@
 id: CharlesFJr01
 letter: C
+sequence: 70
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesF04
@@ -11,10 +12,18 @@ head:
     place: Georgia
   death:
     date: 24 July 2000
+  burial:
+    place: "Dawn Rest Cemetery   Dalton, Georgia"
 marriages:
   - spouse:
       givenName: Starr
       surname: Cashon
+      birth:
+        date: age 88 y. at death
+      death:
+        date: 5 November 2012
+      burial:
+        place: "Dawn Rest Cemetery   Dalton, Georgia"
 childrenGroups:
   - children:
       - name: Chris Vining

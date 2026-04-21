@@ -1,5 +1,6 @@
 id: CarlD01
 letter: C
+sequence: 12
 lastUpdated: 25 February 2023
 relationship: son
 parentId: EltonC01
@@ -12,11 +13,14 @@ head:
   death:
     date: 10 July 1999
     place: "(last residence: Fort Wayne, Indiana)"
+  burial:
+    place: "Covington Memorial Gardens   Fort Wayne, Allen County, Indiana"
 marriages:
   - date: 9 October 1949
     spouse:
       givenName: Jo Ann
       surname: Secrist
+      parents: (dau. of Orson S. Secrist and Mary Taylor)
       birth:
         date: "1931"
         place: "D&#8217;Hanis, Texas"

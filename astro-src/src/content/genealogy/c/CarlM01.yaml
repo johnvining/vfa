@@ -1,5 +1,6 @@
 id: CarlM01
 letter: C
+sequence: 19
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FrederickE01
@@ -13,12 +14,15 @@ head:
   death:
     date: 10 January 1982
     place: "Wheaton, DuPage County, Illinois"
+  burial:
+    place: "Wheaton Cemetery   Wheaton, DuPage County, Illinois"
 marriages:
   - date: 3 August 1922
     place: "Wheaton, DuPage County, Illinois"
     spouse:
       givenName: Mabel Catherine
       surname: Vogel
+      parents: (dau. of Ernest Louis Vogel and Elizabeth J. Rosie)
       birth:
         date: 30 June 1896
         place: "Chicago, Cook County, Illinois"
@@ -27,6 +31,22 @@ marriages:
         place: "Pueblo West, Pueblo County, Colorado"
       burial:
         place: "Wheaton Cemetery   Wheaton, DuPage County, Illinois"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Carl Merton Vining Jr.
+        entryId: CarlMJr01
+        birth:
+          date: 17 June 1927
+          place: "Chicago, Cook County, Illinois"
+        marriages:
+          - date: 30 April 1948
+            place: "Wheaton, DuPage County, Illinois"
+            spouse: Myrtle Joy Robinson
+        death:
+          date: 17 July 2012
+        burial:
+          place: "Swallows Cemetery   Pueblo County, Colorado"
 docsUrl: Csources/CarlM01doc.htm
 raw: |-
   <a name="CarlM01"></a><font size=+2>Carl Merton Vining</font>

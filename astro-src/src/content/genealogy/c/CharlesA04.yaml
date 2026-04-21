@@ -1,5 +1,6 @@
 id: CharlesA04
 letter: C
+sequence: 48
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesA07
@@ -12,18 +13,23 @@ head:
   death:
     date: "1946"
     place: "Stoutland, Missouri"
+  burial:
+    place: "Forest Hill Cemetery   Kansas City, Jackson County, Missouri"
 marriages:
-  - spouse:
-      givenName: "[1?] Kansas City,"
-      surname: Missouri
+  - date: "[1?] Kansas City, Missouri"
+    spouse:
+      givenName: Ada Alice
+      surname: Hall
+      parents: (dau. of Alfred Robert Hall Sr. and Melissa Ann Thomas)
       birth:
-        date: age 42 y. as of 1930 census
-        place: Missouri
+        date: 6 November 1897
+        place: "Kansas City, Missouri"
       death:
         date: 13 September 1962
         place: "Kansas City, Missouri"
       burial:
         place: "Forest Hill Cemetery   Kansas City, Jackson County, Missouri"
+    note: "[2?] Lottie [&#8230;]   b. age 42 y. as of 1930 census   Missouri"
 childrenGroups:
   - children:
       - name: Charles A. Vining

@@ -1,5 +1,6 @@
 id: CosbyE02
 letter: C
+sequence: 158
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CosbyE01
@@ -12,15 +13,19 @@ marriages:
   - number: 1
     date: Carolyn Sue Carroll
     spouse:
-      givenName: divorced May
-      surname: "1969"
+      birth:
+        date: 18 March 1936
+    note: divorced May 1969
   - number: 2
     date: October 1969
     spouse:
       givenName: Naomi Fisher
       surname: Sowell
+      birth:
+        date: 23 August 1946
 childrenGroups:
   - spouseRef: Carolyn Sue Carroll
+    headingText: children by Carolyn Sue Carroll
     children:
       - name: Cosby Eugene Vining Jr.
         entryId: CosbyEJr01

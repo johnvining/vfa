@@ -1,5 +1,6 @@
 id: CleatusR01
 letter: C
+sequence: 135
 lastUpdated: 25 February 2023
 relationship: son
 parentId: SidneyR01
@@ -13,10 +14,14 @@ head:
   death:
     date: 24 August 2007
     place: "Prosser, Benton County, Washington"
+  burial:
+    place: "East Prosser Cemetery   Prosser, Washington"
 marriages:
-  - spouse:
-      givenName: Carmel by the
-      surname: Sea
+  - date: "Carmel by the Sea"
+    spouse:
+      givenName: Christine Thelma
+      surname: Redd
+      parents: (dau. of James Ballenger Redd and Dosa B. Harrison)
       birth:
         date: 6 September 1925
         place: Missouri

@@ -1,5 +1,6 @@
 id: CharlesT01
 letter: C
+sequence: 101
 lastUpdated: 25 February 2023
 relationship: son
 parentId: DariusT01
@@ -13,10 +14,26 @@ head:
   death:
     date: 13 January 1949
     place: "Rockledge, Florida"
+  burial:
+    place: "LaGrange Cemetery   Mims, Florida"
 marriages:
   - spouse:
       givenName: Fannie
       surname: Jones
+      parents: "(dau. of Mitchell Thomas Jones and [&#8230;])"
+      birth:
+        date: 16 July 1879
+        place: "Lake Park, Georgia"
+      death:
+        date: 18 July 1961
+      burial:
+        place: "LaGrange Cemetery   Mims, Florida"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "[&#8230;] Vining"
+        marriages:
+          - date: C. R. Whitworth
 docsUrl: Csources/CharlesT01doc.htm
 raw: |-
   <a name="CharlesT01"></a><font size=+2>Charles Thomas Vining</font>

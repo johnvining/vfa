@@ -1,5 +1,6 @@
 id: CharlesHJr01
 letter: C
+sequence: 79
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesH04
@@ -12,6 +13,16 @@ marriages:
   - spouse:
       givenName: Marjorie
       surname: Crossley
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Donald Vining
+        birth:
+          date: 30 June 1917
+          place: "Benton, Pennsylvania"
+        death:
+          date: 24 January 1998
+          place: New York
 raw: |-
   <a name="CharlesHJr01"></a><font size=+2>Charles Horace Vining Jr.</font>
      (son of <a href="#CharlesH04">Charles Horace Vining and Mary Jane Ruic</a>)

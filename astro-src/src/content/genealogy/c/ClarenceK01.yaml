@@ -1,5 +1,6 @@
 id: ClarenceK01
 letter: C
+sequence: 123
 lastUpdated: 25 February 2023
 relationship: son
 parentId: EdwardK03
@@ -18,6 +19,7 @@ marriages:
       surname: "[&#8230;]"
 childrenGroups:
   - spouseRef: "Patricia [&#8230;]"
+    headingText: "children by Patricia [&#8230;]"
     children:
       - name: Patrick Vining
       - name: Brandi Len Vining

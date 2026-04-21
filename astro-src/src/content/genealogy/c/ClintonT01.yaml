@@ -1,5 +1,6 @@
 id: ClintonT01
 letter: C
+sequence: 145
 lastUpdated: 25 February 2023
 relationship: son
 parentId: PhilipF01
@@ -14,6 +15,12 @@ marriages:
     spouse:
       givenName: Hawley Corrine
       surname: McLaughlin
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Carter James Vining
+        birth:
+          date: 2 December 2007
 raw: |-
   <a name="ClintonT01"></a><font size=+2>Clinton Thomas Vining</font>
      (son of <a href="Pfamilies.htm#PhilipF01">Philip Frank Vining and Cheryl Ann Morgan</a>)

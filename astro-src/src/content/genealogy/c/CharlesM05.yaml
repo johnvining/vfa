@@ -1,5 +1,6 @@
 id: CharlesM05
 letter: C
+sequence: 86
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Artie01
@@ -13,10 +14,17 @@ head:
   death:
     date: 15 May 2012
     place: "Hueytown, Alabama"
+  burial:
+    place: "Forest Grove Memorial Gardens   Pleasant Grove, Alabama"
 marriages:
   - spouse:
       givenName: Charlotte
       surname: Waller
+      parents: "(dau. of William Waller and Oneita [&#8230;])"
+      death:
+        date: 26 January 2020
+      burial:
+        place: "Forest Grove Memorial Gardens   Pleasant Grove, Alabama"
 childrenGroups:
   - children:
       - name: Charles Marion Vining Jr.

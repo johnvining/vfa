@@ -1,5 +1,6 @@
 id: CosbyE01
 letter: C
+sequence: 160
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JamesB03
@@ -13,18 +14,23 @@ head:
   death:
     date: 20 August 1968
     place: "Roberta, Georgia"
+  burial:
+    place: "Marshallville City Cemetery   Marshallville, Georgia"
 marriages:
   - date: 27 March 1926
     place: "Butler, Georgia"
     spouse:
       givenName: Flora Malvina
       surname: Masters
+      parents: (dau. of Thomas Porter Masters and Millie Arcandance Malone)
       birth:
         date: 27 July 1902
         place: "Hillham, Tennessee"
       death:
         date: 28 February 1998
         place: "Muncie, Indiana"
+      burial:
+        description: "bru. Gardens of Memory   Muncie, Indiana"
 childrenGroups:
   - children:
       - name: Mary Frances Vining
@@ -51,6 +57,7 @@ childrenGroups:
         birth:
           date: 3 December 1930
           place: "Marshallville, Georgia"
+        note: "26 September 1997   Muncie, Indiana"
         burial:
           place: "Gardens of Memory Cemetery   Muncie, Indiana"
       - name: Flora Lillian Vining

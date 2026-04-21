@@ -1,5 +1,6 @@
 id: CharlesS01
 letter: C
+sequence: 100
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FrancisJ01
@@ -13,11 +14,14 @@ head:
   death:
     date: 8 May 1958
     place: Georgia
+  burial:
+    place: "Southview Cemetery   Thomaston, Georgia"
 marriages:
   - date: 15 December 1891
     spouse:
       givenName: Sara Harriet
       surname: Smith
+      parents: "(dau. of Anthony Garnett Smith Jr. and Elizabeth M. [...])"
       birth:
         date: "[17 or 19 ?] December 1869"
         place: Georgia
@@ -107,6 +111,8 @@ childrenGroups:
           - date: "Beth [&#8230;]"
         death:
           date: 26 February 1988
+        burial:
+          description: "Southview Cemetery   Thomaston, Georgia"
       - name: Sara Harriet Vining
         birth:
           date: 21 October 1914

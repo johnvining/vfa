@@ -1,5 +1,6 @@
 id: CharlesE01
 letter: C
+sequence: 58
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesW02
@@ -12,13 +13,41 @@ head:
   death:
     date: 15 October 1956
     place: "Chicago, Illinois"
+  burial:
+    place: "Elm Lawn Cemetery   Elmhurst, Illinois"
 marriages:
   - number: 1
     date: Jean Forrester
   - number: 2
     date: Myrtle Burns
+    spouse:
+      parents: "(dau. of John M. Burns and Rae Lois [...])"
+      birth:
+        date: 7 June 1907
+      death:
+        date: "[24 or 25?] September 1989"
+        place: "(last residence: Jacksonville, Florida)"
 childrenGroups:
+  - headingText: child by Jean Forrester
+    children:
+      - name: Charles Edward Vining Jr.
+        entryId: CharlesEJr01
+        birth:
+          date: 4 October 1924
+          place: "Chicago, Illinois"
+        marriages:
+          - number: 1
+            date: "Jessie [...]"
+          - number: 2
+            date: "[...]"
+          - number: 3
+            date: 30 August 1992
+            spouse: "Maui, Hawaii   Nita Rae Killen"
+        death:
+          date: 27 October 2012
+          place: "Palm Desert, California"
   - spouseRef: Myrtle Burns
+    headingText: children by Myrtle Burns
     children:
       - name: Richard Burns Vining
         entryId: RichardB01

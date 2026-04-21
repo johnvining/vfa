@@ -1,5 +1,6 @@
 id: ClarenceW01
 letter: C
+sequence: 127
 lastUpdated: 25 February 2023
 relationship: son
 parentId: LeonardE01
@@ -13,10 +14,14 @@ head:
   death:
     date: 27 February 2002
     place: "Dickson, Tennessee"
+  burial:
+    place: "Union Cemetery   Dickson, Tennessee"
 marriages:
-  - spouse:
-      givenName: November
-      surname: "1941"
+  - date: November 1941
+    spouse:
+      givenName: Marjorie Dare
+      surname: Richardson
+      parents: (dau. of Arlie Ethridge Richardson and Pearl Boley)
       birth:
         date: 19 November 1922
         place: "Norfolk County, Virginia"

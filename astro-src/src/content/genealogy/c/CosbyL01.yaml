@@ -1,5 +1,6 @@
 id: CosbyL01
 letter: C
+sequence: 162
 lastUpdated: 25 February 2023
 relationship: son
 parentId: AlbertG02
@@ -13,12 +14,15 @@ head:
   death:
     date: 1 July 1886
     place: "Marshallville, Georgia"
+  burial:
+    place: "Marshallville City Cemetery   Marshallville, Georgia"
 marriages:
   - date: 3 September 1846
     place: Georgia
     spouse:
       givenName: Evaline Elizabeth
       surname: Routh
+      parents: (dau. of Pleasant Miller Routh and Narcissus Lillard)
       birth:
         date: 21 June 1830
         place: "Monroe County, Tennessee"

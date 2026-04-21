@@ -1,5 +1,6 @@
 id: CecilF01
 letter: C
+sequence: 28
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ErnestL01
@@ -22,9 +23,14 @@ childrenGroups:
       - name: Philip Frank Vining
         entryId: PhilipF01
         entryLetter: P
+        marriages:
+          - date: 28 May 1976
+            spouse: Cheryl Ann Morgan
       - name: Jill Vining
         entryId: Jill01
         entryLetter: J
+        marriages:
+          - date: Mike Buchholz
       - name: Ben Vining
 raw: |-
   <a name="CecilF01"></a><font size=+2>Cecil Frank Vining</font>

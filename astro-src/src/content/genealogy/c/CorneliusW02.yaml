@@ -1,5 +1,6 @@
 id: CorneliusW02
 letter: C
+sequence: 157
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesF01
@@ -12,10 +13,13 @@ head:
   death:
     date: "[June 1960 or 1961?]"
     place: "Daytona Beach, Florida"
+  burial:
+    place: "Daytona Memorial Park   Datona Beach, Florida"
 marriages:
-  - spouse:
-      givenName: "Jackson,"
-      surname: Michigan
+  - date: "Jackson, Michigan"
+    spouse:
+      givenName: Genevieve
+      surname: Jenkins
       birth:
         date: 11 June 1887
         place: Michigan

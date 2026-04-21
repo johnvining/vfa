@@ -1,5 +1,6 @@
 id: CharlesR02
 letter: C
+sequence: 96
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Levi01
@@ -12,15 +13,27 @@ head:
     place: Louisiana
   death:
     date: 13 July 1966
+  burial:
+    place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
 marriages:
   - spouse:
       givenName: Corine
       surname: Perrilloux
+      birth:
+        date: 20 November 1906
+        place: Louisiana
+      death:
+        date: 13 April 1980
+      burial:
+        place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
 childrenGroups:
   - children:
       - name: Douglas Herbert Vining
         entryId: DouglasH01
         entryLetter: D
+        birth:
+          date: 30 June 1925
+          place: Louisiana
         marriages:
           - date: Netye Douglas
         death:

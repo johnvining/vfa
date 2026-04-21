@@ -1,5 +1,6 @@
 id: CharlesS02
 letter: C
+sequence: 99
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Nathan01
@@ -13,10 +14,13 @@ head:
   death:
     date: 7 December 1895
     place: "Gorham, Coos County, New Hampshire"
+  burial:
+    place: "Evans Cemetery   Gorham, Coos County, New Hampshire"
 marriages:
-  - spouse:
-      givenName: intentions filed 5 November
-      surname: "1867"
+  - date: "intentions filed 5 November 1867"
+    spouse:
+      givenName: Margaret
+      surname: Gray
       birth:
         date: "1847"
         place: Canada

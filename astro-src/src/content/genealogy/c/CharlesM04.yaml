@@ -1,5 +1,6 @@
 id: CharlesM04
 letter: C
+sequence: 84
 lastUpdated: 25 February 2023
 relationship: son
 parentId: PhilipL01
@@ -11,6 +12,16 @@ marriages:
   - number: 1
     date: 21 June 1958
     place: Maine
+    spouse:
+      givenName: Virginia M.
+      surname: MacVane
+      parents: (dau. of Harold MacVane and Louise Petersen)
+      birth:
+        date: 28 November 1934
+        place: "Portland, Maine"
+      death:
+        date: 1 October 1997
+        place: "Yarmouth, Maine"
   - number: 2
     date: "Caroline [&#8230;]"
 childrenGroups:
@@ -25,7 +36,11 @@ childrenGroups:
       - name: Eric Vining
         birth:
           date: 11 Octobrt 1958
-      - name: Ernest Dean Vining   n. 11 October 1958
+      - name: Ernest Dean Vining
+        birth:
+          date: "n. 11 October 1958"
+        marriages:
+          - date: "Rose [&#8230;]"
         death:
           date: 2 September 2020
 docsUrl: Csources/CharlesM04doc.htm

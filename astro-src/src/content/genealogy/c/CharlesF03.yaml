@@ -1,5 +1,6 @@
 id: CharlesF03
 letter: C
+sequence: 68
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -9,6 +10,11 @@ marriages:
   - spouse:
       givenName: Jane
       surname: Johnstone
+      birth:
+        date: "1792"
+        place: "Norwich, England"
+      death:
+        date: 28 October 1880
 childrenGroups:
   - children:
       - name: Eleanor Eliza Jane Vining

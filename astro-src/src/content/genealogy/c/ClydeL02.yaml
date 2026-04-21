@@ -1,5 +1,6 @@
 id: ClydeL02
 letter: C
+sequence: 149
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FranklinE01
@@ -12,9 +13,20 @@ head:
     place: Kansas
   death:
     date: 7 March 1976
+  burial:
+    place: "Shepherd City Cemetery   Shepherd, Texas"
 marriages:
   - number: 1
-    date: Bessie M. Jones
+    spouse:
+      givenName: Bessie M.
+      surname: Jones
+      birth:
+        date: "1892"
+        place: Missouri
+      death:
+        date: "[...]"
+      burial:
+        place: "Farley Chapel Cemetery   Shepherd, Texas"
   - number: 2
     date: 9 March 1971
     place: "San Jacinto County, Texas"

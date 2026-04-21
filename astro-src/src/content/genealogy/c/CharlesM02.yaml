@@ -1,5 +1,6 @@
 id: CharlesM02
 letter: C
+sequence: 90
 lastUpdated: 25 February 2023
 relationship: son
 parentId: MyronH01
@@ -15,6 +16,18 @@ marriages:
     spouse:
       givenName: Erma Rose
       surname: Aldrich
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Charles Myron Vining Jr.
+        entryId: CharlesMJr01
+        birth:
+          date: 30 May 1930
+        marriages:
+          - date: 25 June 1950
+            spouse: Lorraine Joyce Walsh
+        death:
+          date: 11 April 1991
 raw: |-
   <a name="CharlesM02"></a><font size=+2>Charles Myron Vining</font>
      (son of <a href="Mfamilies.htm#MyronH01">Myron Henry Vining and Isabelle Nettie Kays</a>)

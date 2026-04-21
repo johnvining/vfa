@@ -1,5 +1,6 @@
 id: CharlesL01
 letter: C
+sequence: 81
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ThomasR01
@@ -13,11 +14,14 @@ head:
   death:
     date: 27 June 2004
     place: "(last residence: Cambridge, Minnesota)"
+  burial:
+    place: "South Maple Ridge Cemetery   Isanti County, Minnesota"
 marriages:
   - date: 25 October 1939
     spouse:
       givenName: "Lenora &#8220;Lee&#8221;"
       surname: Elder
+      parents: "(dau. of Howard Elder and Hilma [...])"
       birth:
         date: 16 June 1919
         place: "St. Paul, Minnesota"

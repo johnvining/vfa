@@ -1,5 +1,6 @@
 id: CecilH01
 letter: C
+sequence: 29
 lastUpdated: 25 February 2023
 relationship: son
 parentId: HarryR01
@@ -13,6 +14,8 @@ head:
   death:
     date: 21 March 1990
     place: "Richmond, Franklin County, Kansas"
+  burial:
+    place: "Richmond Cemetery   Richmond, Franklin County, Kansas"
 marriages:
   - date: 15 June 1929
     spouse:

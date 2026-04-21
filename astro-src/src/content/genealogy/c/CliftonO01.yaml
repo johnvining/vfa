@@ -1,5 +1,6 @@
 id: CliftonO01
 letter: C
+sequence: 141
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FrancisMJr01
@@ -12,10 +13,19 @@ head:
     place: Louisiana
   death:
     date: 22 October 1953
+  burial:
+    place: "New Forest Cemetery   Forest, Louisiana"
 marriages:
   - spouse:
       givenName: Lukie
       surname: Goyne
+      birth:
+        date: 17 September 1908
+        place: Arkansas
+      death:
+        date: 18 March 1888
+      burial:
+        place: "New Forest Cemetery   Forest, Louisiana"
 childrenGroups:
   - children:
       - name: Clifton Otis Vining Jr.

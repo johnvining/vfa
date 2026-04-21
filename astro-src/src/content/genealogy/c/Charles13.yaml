@@ -1,5 +1,6 @@
 id: Charles13
 letter: C
+sequence: 37
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Abijah02
@@ -16,6 +17,47 @@ marriages:
   - spouse:
       givenName: Louise M.
       surname: Gray
+      birth:
+        date: December 1839
+        place: New York
+      death:
+        date: "1917"
+      burial:
+        place: "Elk Point Cemetery   Elk Point, Union County, South Dakota"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Erwin K. Vining
+        entryId: ErwinK01
+        entryLetter: E
+        birth:
+          date: July 1860
+          place: "Wilmington, Will County, Illinois"
+        marriages:
+          - date: Mattie Jane McCain
+        death:
+          date: 5 Octobr 1932
+          place: "Brooklyn, Kings County, New York"
+        burial:
+          place: "&#8220;The Evergreens&#8221; Cemetery   Brooklyn, Kings County, New York"
+      - name: Elmer E. Vining
+        entryId: ElmerE01
+        entryLetter: E
+        birth:
+          date: September 1861
+          place: "Dublin, Ohio"
+        marriages:
+          - date: 12 y. as of 1900 census
+            spouse: Eva Leota Hamilton
+        death:
+          date: 7 October 1908
+          place: "Horton, Kansas"
+        burial:
+          place: "Norton Cemeteru   Horton, Kansas"
+      - name: Charles Vining
+        birth:
+          date: age 7 y. as of 1880 census
+          place: Nebraska
 docsUrl: Csources/Charles13doc.htm
 raw: |-
   <a name="Charles13"></a><font size=+2>Charles Vining</font>

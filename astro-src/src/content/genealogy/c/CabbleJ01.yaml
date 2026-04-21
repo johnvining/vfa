@@ -1,5 +1,6 @@
 id: CabbleJ01
 letter: C
+sequence: 1
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?] and Lottie [&#8230;]"
@@ -11,12 +12,15 @@ head:
   death:
     date: 9 April 1980
     place: "[last place of residence: Monroe, Missouri]"
+  burial:
+    place: "Pleasant Hill Cemetery   Paris, Monroe County, Missouri"
 marriages:
   - date: 23 December 1914
     place: "Paris, Monroe County, Missouri"
     spouse:
       givenName: Bess Ruth
       surname: Infield
+      parents: (dau. of Joseph William Infield and Susanna Frances White)
       birth:
         date: 26 January 1893
         place: "Monroe County, Missouri"

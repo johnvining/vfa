@@ -1,5 +1,6 @@
 id: CharlesM07
 letter: C
+sequence: 87
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesA06
@@ -15,6 +16,23 @@ marriages:
     spouse:
       givenName: Gillian Hilda
       surname: Anderson
+      parents: (dau. of Maurice David Anderson and Elsie Sarah Butler)
+childrenGroups:
+  - children:
+      - name: Norma Gayle Vining
+        birth:
+          date: 17 March 1969
+          place: "Middlesex, England"
+        marriages:
+          - date: 5 October 1991
+            place: "Annapolis, Maryland"
+            spouse: Donald Parlett Jr.
+      - name: Rosemary Ann Vining
+        birth:
+          date: 11 October 1972
+          place: "Quonset Point, North Kingston, Washington County, Rhode Island"
+        marriages:
+          - date: Stephen Francis Bunda
 raw: |-
   <a name="CharlesM07"></a><font size=+2>Charles Martin Vining</font>
      (son of <a href="#CharlesA06">Charles Andrew Vining and Billie June Landry</a>)

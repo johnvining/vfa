@@ -1,5 +1,6 @@
 id: CarlMJr01
 letter: C
+sequence: 20
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CarlM01
@@ -11,12 +12,15 @@ head:
     place: "Chicago, Cook County, Illinois"
   death:
     date: 17 July 2012
+  burial:
+    place: "Swallows Cemetery   Pueblo County, Colorado"
 marriages:
   - date: 30 April 1948
     place: "Wheaton, DuPage County, Illinois"
     spouse:
       givenName: Myrtle Joy
       surname: Robinson
+      parents: (dau. of Perry William Robinson and Myrtle Fulton Stevenson)
       birth:
         date: 12 July 1927
         place: "Wheaton, DuPage County, Illinois"

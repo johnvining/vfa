@@ -1,5 +1,6 @@
 id: Charles06
 letter: C
+sequence: 34
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Richard08
@@ -17,11 +18,21 @@ marriages:
   - spouse:
       givenName: Sophia
       surname: Hobbs
+      parents: (dau. of Matthew Hobbs and Betty Williams)
+      birth:
+        date: 28 September 1783
+        place: "Portsea, Hampshire, England"
+      death:
+        date: 21 December 1847
+        place: "Yeovil, Somerset, England"
 childrenGroups:
   - children:
       - name: James Tally Vining
         entryId: JamesT03
         entryLetter: J
+        birth:
+          date: baptized 4 April 1809
+          place: "Yeovil St. John, Somerset, England"
         marriages:
           - number: 1
             date: 8 May 1833

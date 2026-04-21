@@ -1,5 +1,6 @@
 id: CraigL01
 letter: C
+sequence: 166
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ClydeL01
@@ -12,10 +13,18 @@ head:
   death:
     date: 1 November 1993
     place: "Lehigh Acres, Florida"
+  burial:
+    place: "Fort Myers Memorial Gardens   Fort Myers, Florida"
 marriages:
   - spouse:
       givenName: Phyllis A.
       surname: Struble
+      birth:
+        date: "1934"
+      death:
+        date: "1991"
+      burial:
+        place: "Fort Myers Memorial Gardens   Fort Myers, Florida"
 childrenGroups:
   - children:
       - name: Richard Lee Vining

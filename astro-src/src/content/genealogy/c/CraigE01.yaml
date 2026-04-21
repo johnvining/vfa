@@ -1,5 +1,6 @@
 id: CraigE01
 letter: C
+sequence: 164
 lastUpdated: 25 February 2023
 relationship: son
 parentId: FrankE01
@@ -14,6 +15,12 @@ marriages:
   - spouse:
       givenName: Lois Ellen
       surname: Dixon
+      birth:
+        date: 16 September 1904
+      death:
+        date: 30 October 1995
+      burial:
+        place: "Waitsburg Cemetery   Waitsburg, Washington"
 childrenGroups:
   - children:
       - name: Elizabeth Dean Vining

@@ -81,7 +81,7 @@ function dp(field: DatePlace): string {
 // and should not receive an additional b. or d. prefix
 function hasSelfPrefix(date: string | undefined): boolean {
   if (!date) return false;
-  return /^(bapt\.|int\.|chr\.)/.test(date);
+  return /^(bapt\.|int\.|chr\.|baptized|christened|n\.|\[b\.)/.test(date);
 }
 
 function bur(b: Burial, indent: number): string[] {

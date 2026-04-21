@@ -1,5 +1,6 @@
 id: Charles04
 letter: C
+sequence: 41
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Eliza
       surname: "[&#8230;]"
+      birth:
+        date: age 23 y. as of 1880 census
+        place: Texas
 childrenGroups:
   - children:
       - name: Walter Vining

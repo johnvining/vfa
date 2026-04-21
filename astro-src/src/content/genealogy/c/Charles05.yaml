@@ -1,5 +1,6 @@
 id: Charles05
 letter: C
+sequence: 43
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Calvin02
@@ -12,12 +13,15 @@ head:
   death:
     date: "1945"
     place: "Lindsey, Ohio"
+  burial:
+    place: "Lindsey Cemetery   Lindsey, Sandusky County, Ohio"
 marriages:
   - date: 6 September 1893
     place: "Lindsey, Sandusky County, Ohio"
     spouse:
       givenName: Catharine
       surname: Overmyer
+      parents: "(dau. of Michael Overmyer Jr. and Susannah Ann [...])"
       birth:
         date: 17 July 1872
         place: "Lindsey, Sandusky County, Ohio"

@@ -1,5 +1,6 @@
 id: ClarenceE03
 letter: C
+sequence: 120
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Levi01
@@ -12,10 +13,19 @@ head:
     place: Louisiana
   death:
     date: 19 June 1953
+  burial:
+    place: "Collins Cemetery   Ponchatoula, Louisiana"
 marriages:
   - spouse:
       givenName: Katie Margaret
       surname: Cooper
+      birth:
+        date: 28 September 1904
+        place: Louisiana
+      death:
+        date: 14 April 1984
+      burial:
+        place: "Collins Cemetery   Ponchatoula, Louisiana"
 childrenGroups:
   - children:
       - name: Warren E. Vining

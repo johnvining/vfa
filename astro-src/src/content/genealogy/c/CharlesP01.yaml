@@ -1,5 +1,6 @@
 id: CharlesP01
 letter: C
+sequence: 95
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ThomasG01
@@ -13,10 +14,21 @@ head:
   death:
     date: 9 July 1965
     place: "Oakdale, Louisiana"
+  burial:
+    place: "Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana"
 marriages:
   - spouse:
       givenName: "Mary Elizabeth &#8220;Mamie&#8221;"
       surname: Vetsch
+      parents: "(dau. of Joseph Vetsch and Mary Alice P[o?]tter)"
+      birth:
+        date: 14 February 1887
+        place: "Fort Necessity, Louisiana"
+      death:
+        date: 14 April 1977
+        place: "Baker, Louisiana"
+      burial:
+        place: "Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Marjorie Vining
@@ -29,9 +41,9 @@ childrenGroups:
           date: before 29 December 2010
       - name: "Delores [Patricia?] Vining"
         birth:
-          date: age 8 y. as of 1930 census  Louisiana
-        death:
-          date: "before 29 December 2010?]"
+          date: age 8 y. as of 1930 census
+          place: Louisiana
+        note: "[m. [...] Nixon   -   d. before 29 December 2010?]"
       - name: Thomas Vetsch Vining
         entryId: ThomasV01
         entryLetter: T

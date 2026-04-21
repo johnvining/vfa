@@ -1,5 +1,6 @@
 id: CharlesH02
 letter: C
+sequence: 76
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ThomasR02
@@ -11,10 +12,16 @@ head:
     date: 18 April 1895
   death:
     date: July 1967
+  burial:
+    place: "Greenlawn Memorial Park   Columbia, South Carolina"
 marriages:
   - spouse:
       givenName: Mary Ellen
       surname: Blume
+      birth:
+        date: "1902"
+      death:
+        date: "1978"
 childrenGroups:
   - children:
       - name: Robert Leonard Vining

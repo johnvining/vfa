@@ -1,0 +1,55 @@
+id: ClintonM01
+letter: C
+sequence: 144
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RobertS01
+parentLetter: R
+parentDesc: Robert Shorter Vining and Leona Leonard
+head:
+  givenName: Clinton Mark
+  birth:
+    date: 3 January 1907
+    place: "Whitfield County, Georgia"
+  death:
+    date: 30 September 1977
+  burial:
+    place: "West Hill emetery   Dalton, Georgia"
+marriages:
+  - spouse:
+      givenName: Lucille Frances
+      surname: Gordon
+childrenGroups:
+  - children:
+      - name: Clinton Mark Vining Jr.
+        birth:
+          date: 25 September 1932
+        death:
+          date: 17 June 1938
+      - name: Anthony F. Vining
+        entryId: AnthonyF01
+        entryLetter: A
+        birth:
+          date: April 1942
+        marriages:
+          - date: "Barbara [&#8230;]"
+        death:
+          date: 14 April 2018
+      - name: Timothy Louie Vining
+        birth:
+          date: "22 Apri 1945"
+        death:
+          date: 19 August 1980
+          place: "Whitfield County, Georgia"
+raw: |-
+  <a name="ClintonM01"><font size=+2>Clinton Mark Vining</font>
+     (son of <a href="Rfamilies.htm#RobertS01">Robert Shorter Vining and Leona Leonard</a>)
+     b. 3 January 1907   Whitfield County, Georgia
+     m. Lucille Frances Gordon
+     d. 30 September 1977
+           bur. West Hill emetery   Dalton, Georgia
+
+  <font size=+1>children:</font>
+     Clinton Mark Vining Jr.   b. 25 September 1932   -   d. 17 June 1938
+     <a href="Afamilies.htm#AnthonyF01">Anthony F. Vining</a>   b. April 1942   -   m. Barbara [&#8230;]   -   d. 14 April 2018
+     Timothy Louie Vining   b. 22 Apri 1945   -   d. 19 August 1980   Whitfield County, Georgia

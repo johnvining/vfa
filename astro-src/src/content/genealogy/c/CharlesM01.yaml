@@ -1,5 +1,6 @@
 id: CharlesM01
 letter: C
+sequence: 88
 lastUpdated: 25 February 2023
 relationship: son
 parentId: EmetJ01
@@ -8,8 +9,7 @@ parentDesc: Emet James Vining and Mary Cecilia Mayer
 head:
   givenName: Charles Mayer
   birth:
-    date: "[17 September 1905 or 9 September 1904"
-    place: "Iowa?]"
+    date: "[17 September 1905 or 9 September 1904   Iowa?]"
   death:
     date: 13 June 1967
     place: "Atlanta, Georgia"
@@ -20,6 +20,7 @@ marriages:
     date: Christine Woods
 childrenGroups:
   - spouseRef: Jimmie Breckenridge
+    headingText: children by Jimmie Breckenridge
     children:
       - name: Charline Vining
         birth:

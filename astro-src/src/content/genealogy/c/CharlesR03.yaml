@@ -1,5 +1,6 @@
 id: CharlesR03
 letter: C
+sequence: 98
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ShedrickW01
@@ -12,10 +13,19 @@ head:
     place: Alabama
   death:
     date: 10 October 1969
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 marriages:
   - spouse:
       givenName: Bessie Lou
       surname: Gentry
+      birth:
+        date: 10 December 1897
+        place: Alabama
+      death:
+        date: 3 June 1978
+      burial:
+        place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 childrenGroups:
   - children:
       - name: Verna Vining

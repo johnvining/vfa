@@ -1,5 +1,6 @@
 id: ClydeA01
 letter: C
+sequence: 147
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Clyde01
@@ -17,6 +18,17 @@ marriages:
     date: "Patricia Ann [&#8230;]"
   - number: 2
     date: "Tina [&#8230;]"
+childrenGroups:
+  - headingText: "child by Patricia Ann [&#8230;]"
+    children:
+      - name: Blake Allen Vining
+        birth:
+          date: 2 September 1986
+        death:
+          date: 4 February 2021
+          place: "Pearson, Georgia"
+        burial:
+          place: "Mount Zion Chuurch Cemetery   Axson, Georgia"
 docsUrl: Csources/ClydeA01doc.htm
 raw: |-
   <a name="ClydeA01"></a><font size=+2>Clyde Allen Vining</font>

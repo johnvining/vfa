@@ -1,5 +1,6 @@
 id: CharlesT02
 letter: C
+sequence: 102
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ThomasJ02
@@ -12,10 +13,19 @@ head:
     place: Alabama
   death:
     date: 9 July 2019
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 marriages:
   - spouse:
       givenName: Ruth
       surname: Curb
+      parents: "(dau. of Jack Curb and Era [&#8230;])"
+      birth:
+        date: age 82 y. at death
+      death:
+        date: 2 August 2018
+      burial:
+        place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 childrenGroups:
   - children:
       - name: Barry Alan Vining
