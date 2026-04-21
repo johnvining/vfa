@@ -85,6 +85,7 @@ const genealogy = defineCollection({
     childrenGroups: z.array(childrenGroup).optional(),
     docsUrl: z.string().optional(),
     notes: z.string().optional(),
+    raw: z.string().optional(),
   }),
 });
 
