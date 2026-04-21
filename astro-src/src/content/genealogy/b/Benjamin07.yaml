@@ -1,0 +1,61 @@
+id: Benjamin07
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: William10
+parentLetter: W
+parentDesc: "William Vining and [...]"
+head:
+  givenName: Benjamin
+  birth:
+    date: "1685"
+  death:
+    date: September 1735
+marriages:
+  - number: 1
+    date: "Ann [&#8230;]"
+  - number: 2
+    date: Mary Middleton
+childrenGroups:
+  - spouseRef: Mary Middleton
+    children:
+      - name: John Vining
+        entryId: John17
+        entryLetter: J
+        birth:
+          date: "1724"
+        marriages:
+          - date: "[1?] 28 April 1749"
+            spouse: "Rachel Ridgely;   [2?] Phoebe Wynkoop"
+        death:
+          date: 13 November 1770
+      - name: Mary Vining
+        birth:
+          date: ca. 1730
+        marriages:
+          - date: Charles Inglis
+      - name: Benjamin Vining
+        birth:
+          date: ca. 1730
+        death:
+          date: "1785"
+docsUrl: Bsources/Benjamin07doc.htm
+raw: |-
+  <a name="Benjamin07"></a><font size=+2>Benjamin Vining</font>
+     (son of <a href="Wfamilies.htm#William10">William Vining and [...]</a>)
+     b. 1685
+     m. (1) Ann [&#8230;]
+           (2) Mary Middleton
+                    (dau. of Hugh Middleton and [&#8230;])
+                    b. 1705   &#8220;near Salem [County], New Jersey&#8221;
+                    d. 16 December 1761   Dover, Kent County, Delaware
+                          bur. Christ Episcopal Church Cemetery   Dover, Kent County, Delaware
+     d. September 1735
+           [bur. Christ Episcopal Church Cemetery   Dover, Kent County, Delaware ?]
+  
+  <font size=+1>children by Mary Middleton:</font>
+     <a href="Jfamilies.htm#John17">John Vining</a>   b. 1724   -   m. [1?] 28 April 1749   Rachel Ridgely;   [2?] Phoebe Wynkoop   -   d. 13 November 1770   -   [b. Christ Episcopal Church Cemetery   Dover, Kent County, Delaware ?]
+     Mary Vining   b. ca. 1730   -   m. Charles Inglis
+     Benjamin Vining   b. ca. 1730   -   d. 1785
+  
+  <a href="Bsources/Benjamin07doc.htm">documentation and notes</a>

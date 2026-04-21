@@ -1,0 +1,40 @@
+id: Bernard01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LeonA01
+parentLetter: L
+parentDesc: Leon A. Vining and Bertha Catts
+head:
+  givenName: Bernard
+marriages:
+  - spouse:
+      givenName: Mary Elizabeth
+      surname: Norton
+childrenGroups:
+  - children:
+      - name: "Bernard Leon &#8220;Lee&#8221; Vining"
+        entryId: BernardL01
+        birth:
+          date: "1942"
+        marriages:
+          - date: "1965"
+            spouse: Phillice Claire Gilfillan
+        death:
+          date: "2009"
+      - name: Lance Thomas Vining
+        entryId: LanceT01
+        entryLetter: L
+        birth:
+          date: "1947"
+        marriages:
+          - date: "1972"
+            spouse: Pamela Elizabeth Borchers
+raw: |-
+  <a name="Bernard01"></a><font size=+2>Bernard Vining</font>
+     (son of <a href="Lfamilies.htm#LeonA01">Leon A. Vining and Bertha Catts</a>)
+     m. Mary Elizabeth Norton
+  
+  <font size=+1>children:</font>
+     <a href="#BernardL01">Bernard Leon &#8220;Lee&#8221; Vining</a>   b. 1942   -   m. 1965   Phillice Claire Gilfillan   -   d. 2009
+     <a href="Lfamilies.htm#LanceT01">Lance Thomas Vining</a>   b. 1947   -   m. 1972   Pamela Elizabeth Borchers

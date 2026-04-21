@@ -1,0 +1,43 @@
+id: Benjamin05
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Jonas01
+parentLetter: J
+parentDesc: Jonas Vining and Sarah Page
+head:
+  givenName: "Benjamin?"
+  birth:
+    date: "1806"
+childrenGroups:
+  - children:
+      - name: Phebe Ann Vining
+        birth:
+          date: "1824"
+      - name: John Vining
+        birth:
+          date: "1832"
+      - name: James Vining
+        birth:
+          date: "1835"
+      - name: Rollin Vining
+        birth:
+          date: "1837"
+      - name: Visian Vining
+        birth:
+          date: "1839"
+      - name: Sarah Vining
+        birth:
+          date: "1842"
+raw: |-
+  <a name="Benjamin05"></a><font size=+2>Benjamin? Vining</font>
+     (son of <a href="Jfamilies.htm#Jonas01">Jonas Vining and Sarah Page</a>)
+     b. 1806
+  
+  <font size=+1>children:</font>
+     Phebe Ann Vining   b. 1824
+     John Vining   b. 1832
+     James Vining   b. 1835
+     Rollin Vining   b. 1837
+     Visian Vining   b. 1839
+     Sarah Vining   b. 1842

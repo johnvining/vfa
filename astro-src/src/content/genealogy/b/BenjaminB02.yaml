@@ -1,0 +1,72 @@
+id: BenjaminB02
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Scott01
+parentLetter: S
+parentDesc: Scott Vining and Priscilla Burton
+head:
+  givenName: Benjamin Burton
+  birth:
+    date: "1821?"
+    place: New York
+  death:
+    date: 22 September 1862
+    place: "Fort Lyon, Bent County, Colorado"
+marriages:
+  - date: 12 May 1858
+    place: "Kansas City, Missouri"
+    spouse:
+      givenName: Margaret Ann
+      surname: Biggam
+      birth:
+        date: ca. 1836
+      death:
+        date: 4 December 1863
+        place: "Van Buren Township, Wayne County, Michigan"
+      burial:
+        place: "Downer Cemetery   Canton, Wayne County, Michigan"
+childrenGroups:
+  - children:
+      - name: Frances Emeline Vining
+        birth:
+          date: 24 July 1859
+          place: Kansas
+        marriages:
+          - date: 9 October 1879
+            place: "Van Buren Township, Wayne County, Michigan"
+            spouse: Richard Daniel Branton
+        death:
+          date: 29 September 1887
+          place: "Ypsilanti, Washtenaw County, Michigan"
+        burial:
+          place: "Downer Cemetery   Canton, Wayne County, Michigan"
+      - name: Albert Scott Vining
+        entryId: AlbertS01
+        entryLetter: A
+        birth:
+          date: 21 January 1859
+        marriages:
+          - date: 11 y. as of 1900 census
+            spouse: Mary Haase
+        death:
+          date: 30 January 1907
+        burial:
+          place: "Highland View Cemetery   Big Rapids, Mecosta County, Michigan"
+docsUrl: Bsources/BenjaminB02doc.htm
+raw: |-
+  <a name="BenjaminB02"></a><font size=+2>Benjamin Burton Vining</font>
+     (son of <a href="Sfamilies.htm#Scott01">Scott Vining and Priscilla Burton</a>)
+     b. 1821?   New York
+     m. 12 May 1858   Kansas City, Missouri
+           Margaret Ann Biggam
+                 b. ca. 1836
+                 d. 4 December 1863   Van Buren Township, Wayne County, Michigan
+                       bur. Downer Cemetery   Canton, Wayne County, Michigan
+     d. 22 September 1862   Fort Lyon, Bent County, Colorado
+  
+  <font size=+1>children:</font>
+     Frances Emeline Vining   b. 24 July 1859   Kansas   -   m. 9 October 1879   Van Buren Township, Wayne County, Michigan   Richard Daniel Branton   -   d. 29 September 1887   Ypsilanti, Washtenaw County, Michigan   -   bur. Downer Cemetery   Canton, Wayne County, Michigan
+     <a href="Afamilies.htm#AlbertS01">Albert Scott Vining</a>   b. 21 January 1859   -   m. 11 y. as of 1900 census   Mary Haase   -   d. 30 January 1907   -   bur. Highland View Cemetery   Big Rapids, Mecosta County, Michigan
+  
+  <a href="Bsources/BenjaminB02doc.htm">documentation and notes</a>

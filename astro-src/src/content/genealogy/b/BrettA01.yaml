@@ -1,0 +1,46 @@
+id: BrettA01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AlbertL03
+parentLetter: A
+parentDesc: Albert Lester Vining and Marian Lucille Deyoung
+head:
+  givenName: Brett Alan
+  birth:
+    date: 10 June 1953
+    place: "Seattle, King County, Washington"
+  death:
+    date: 4 December 2019
+    place: "Pasco, Franklin County, Washington"
+marriages:
+  - date: 38 y. as of 4 December 2019
+    spouse:
+      givenName: Karol
+      surname: Schock
+childrenGroups:
+  - children:
+      - name: Tracy Marie Vining
+        marriages:
+          - date: Jason Bartosik
+      - name: Lisa Vining
+        marriages:
+          - date: Bruce Kudrna
+      - name: Daniel Vining
+        marriages:
+          - date: "Dallas [&#8230;]"
+docsUrl: Bsources/BrettA01doc.htm
+raw: |-
+  <a name="BrettA01"></a><font size=+2>Brett Alan Vining</font>
+     (son of <a href="Afamilies.htm#AlbertL03">Albert Lester Vining and Marian Lucille Deyoung</a>)
+     b. 10 June 1953   Seattle, King County, Washington
+     m. 38 y. as of 4 December 2019
+           Karol Schock
+     d. 4 December 2019   Pasco, Franklin County, Washington
+  
+  <font size=+1>children:</font>
+     Tracy Marie Vining   m. Jason Bartosik
+     Lisa Vining   m. Bruce Kudrna
+     Daniel Vining   m. Dallas [&#8230;]
+  
+  <a href="Bsources/BrettA01doc.htm">documentation and notes</a>

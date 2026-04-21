@@ -1,0 +1,36 @@
+id: BobbyL01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RonaldW01
+parentLetter: R
+parentDesc: Ronald Winston Vining and Joyce Clementine Schmieks
+head:
+  givenName: Bobby Leigh
+  birth:
+    date: 20 October 1960
+    place: "Fort Fairfield, Aroostook County, Maine"
+marriages:
+  - date: 15 September 1984
+    spouse:
+      givenName: Jeannine Arlene
+      surname: Greenleaf
+childrenGroups:
+  - children:
+      - name: Sarah Lynn Vining
+        birth:
+          date: 18 March 1985
+      - name: Ashley Ann Vining
+        birth:
+          date: 29 May 1987
+raw: |-
+  <a name="BobbyL01"></a><font size=+2>Bobby Leigh Vining</font>
+     (son of <a href="Rfamilies.htm#RonaldW01">Ronald Winston Vining and Joyce Clementine Schmieks</a>)
+     b. 20 October 1960   Fort Fairfield, Aroostook County, Maine
+     m. 15 September 1984
+           Jeannine Arlene Greenleaf
+           divorced 1997
+  
+  <font size=+1>children:</font>
+     Sarah Lynn Vining   b. 18 March 1985
+     Ashley Ann Vining   b. 29 May 1987

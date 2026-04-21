@@ -1,0 +1,47 @@
+id: BF01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: B. F.
+  birth:
+    date: age 46 y. as of 1880 census
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: M. E.
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: "M. L. Vining [daughter]"
+        birth:
+          date: age 15 y. as of 1880 census
+          place: Alabama
+      - name: "J. F. Vining [son]"
+        birth:
+          date: age 14 y. as of 1880 census
+          place: Alabama
+      - name: "J. W. Vining [son]"
+        birth:
+          date: age 10 y. as of 1880 census
+          place: Alabama
+      - name: "M. L. Vining [son]"
+        birth:
+          date: age 5 y. as of 1880 census
+          place: Alabama
+docsUrl: Bsources/BF01doc.htm
+raw: |-
+  <a name="BF01"></a><font size=+2>B. F. Vining</font>
+     (son of [?])
+     b. age 46 y. as of 1880 census   Alabama
+     m. M. E. [&#8230;]
+              b. age 47 y. as of 1880 census   Georgia
+  
+  <font size=+1>children:</font>
+     M. L. Vining [daughter]   b. age 15 y. as of 1880 census   Alabama
+     J. F. Vining [son]   b. age 14 y. as of 1880 census   Alabama
+     J. W. Vining [son]   b. age 10 y. as of 1880 census   Alabama
+     M. L. Vining [son]   b. age 5 y. as of 1880 census   Alabama 
+  
+  <a href="Bsources/BF01doc.htm">documentation and notes</a>

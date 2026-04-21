@@ -1,0 +1,50 @@
+id: BenjaminF01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Alexander02
+parentLetter: A
+parentDesc: Alexander Vining and Abigail Whiton
+head:
+  givenName: Benjamin Franklin
+  birth:
+    date: 30 April 1808
+    place: "Abington, Plymouth County, Massachusetts"
+marriages:
+  - date: 19 May 1833
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Lydia
+      surname: Hunt
+childrenGroups:
+  - children:
+      - name: Lydia Elizabeth Vining
+        birth:
+          date: 26 June 1839
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: child
+        birth:
+          date: age 2 m. at death
+        death:
+          date: 18 October 1842
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Henry Franklin Vining
+        birth:
+          date: 16 November 1847
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: Eliza A. Randall
+docsUrl: Bsources/BenjaminF01doc.htm
+raw: |-
+  <a name="BenjaminF01"></a><font size=+2>Benjamin Franklin Vining</font>
+     (son of <a href="Afamilies.htm#Alexander02">Alexander Vining and Abigail Whiton</a>)
+     b. 30 April 1808   Abington, Plymouth County, Massachusetts
+     m. 19 May 1833   Abington, Plymouth County, Massachusetts
+           Lydia Hunt
+  
+  <font size=+1>children:</font>
+     Lydia Elizabeth Vining   b. 26 June 1839   Abington, Plymouth County, Massachusetts
+     child   b. age 2 m. at death   -   d. 18 October 1842   Abington, Plymouth County, Massachusetts
+     Henry Franklin Vining   b. 16 November 1847   Abington, Plymouth County, Massachusetts   -   m. Eliza A. Randall
+  
+  <a href="Bsources/BenjaminF01doc.htm">documentation and notes</a>

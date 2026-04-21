@@ -1,0 +1,107 @@
+id: BenjaminF03
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnH07
+parentLetter: J
+parentDesc: John Hiram Vining and Cora Osie McRae
+head:
+  givenName: Benjamin Franklin
+  birth:
+    date: 6 November 1886
+    place: Georgia
+  death:
+    date: 15 May 1974
+    place: "Atlanta, Fulton County, Georgia"
+marriages:
+  - spouse:
+      givenName: Georgia
+      surname: Georgia
+      birth:
+        date: 24 April 1889
+        place: Georgia
+      death:
+        date: 20 February 1978
+        place: "(last residence: Miami, Miami-Dade County, Florida)"
+      burial:
+        place: "Westview Cemetery   Atlanta, Fulton County, Georgia"
+childrenGroups:
+  - children:
+      - name: Travis Franklin Vining
+        entryId: TravisF01
+        entryLetter: T
+        birth:
+          date: 26 September 1908
+          place: "Atlanta, Fulton County, Georgia"
+        marriages:
+          - date: Corene Farlow
+        death:
+          date: 8 March 1975
+          place: "Atlanta, Fulton County, Georgia"
+        burial:
+          place: "Westview Cemetery   Atlanta, Fulton County, Georgia"
+      - name: Virginia Vining
+        birth:
+          date: 25 February 1911
+          place: "Atlanta, Fulton County, Georgia"
+        marriages:
+          - date: Harold Edwin Gilbert
+        death:
+          date: 21 February 1988
+          place: "Miami, MIami-Dade County, Florida"
+        burial:
+          place: "Woodlawn Cemetery   Miami, Miami-DadeFlorida"
+      - name: Annie Grace Vining
+        birth:
+          date: 9 November 1914
+          place: "Atlanta, Fulton County, Georgia"
+        marriages:
+          - number: 1
+            date: Carl Cronan
+          - number: 2
+            date: Harry Witt
+      - name: Louise C. Vining
+        birth:
+          date: 2 September 1918
+          place: "[Atlanta or Thomaston?], Georgia"
+        marriages:
+          - date: William O. Tallent
+        death:
+          date: 7 June 2003
+          place: "Macon [County?], Missouri"
+        burial:
+          place: LaPlata Cemetery   Missouri
+      - name: Paul Vining
+        birth:
+          date: 21 July 1922
+          place: "Atlanta, Fulton County, Georgia"
+        marriages:
+          - date: "Hazel [...]"
+        burial:
+          place: "Miami, Florida"
+      - name: Frankie Lee Vining
+        marriages:
+          - date: Warren G. Mosley
+docsUrl: Bsources/BenjaminF03doc.htm
+raw: |-
+  <a name="BenjaminF03"></a><font size=+2>Benjamin Franklin Vining</font>
+     (son of <a href="Jfamilies.htm#JohnH07">John Hiram Vining and Cora Osie McRae</a>)
+     b. 6 November 1886   Georgia
+     m. Georgia
+           Hattie Grace Ellerbee
+                 (dau. of David Clark Ellerbee and Ophel[l?]ia Ballard)
+                 b. 24 April 1889   Georgia
+                 d. 20 February 1978   (last residence: Miami, Miami-Dade County, Florida)
+                       bur. Westview Cemetery   Atlanta, Fulton County, Georgia
+     d. 15 May 1974   Atlanta, Fulton County, Georgia
+           bur. Westview Cemetery   Atlanta, Fulton County, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Tfamilies.htm#TravisF01">Travis Franklin Vining</a>   b. 26 September 1908   Atlanta, Fulton County, Georgia   -   m. Corene Farlow   -   d. 8 March 1975   Atlanta, Fulton County, Georgia   -   bur. Westview Cemetery   Atlanta, Fulton County, Georgia
+     Virginia Vining   b. 25 February 1911   Atlanta, Fulton County, Georgia   -   m. Harold Edwin Gilbert   -   d. 21 February 1988   Miami, MIami-Dade County, Florida   -   bur. Woodlawn Cemetery   Miami, Miami-DadeFlorida
+     Annie Grace Vining   b. 9 November 1914   Atlanta, Fulton County, Georgia   -   m. (1) Carl Cronan;   (2) Harry Witt
+     Louise C. Vining   b. 2 September 1918   [Atlanta or Thomaston?], Georgia   -   m. William O. Tallent   -   d. 7 June 2003   Macon [County?], Missouri   -   bur. LaPlata Cemetery   Missouri
+     Paul Vining   b. 21 July 1922   Atlanta, Fulton County, Georgia   -   m. Hazel [...]   -   bur. Miami, Florida
+     Frankie Lee Vining   -   b. 25 May 1924   Atlanta, Fulton County, Georgia   -   m. Warren G. Mosley
+  
+  <a href="Bsources/BenjaminF03doc.htm">documentation and notes</a>

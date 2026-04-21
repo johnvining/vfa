@@ -1,0 +1,59 @@
+id: BradleyA01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnFJr01
+parentLetter: J
+parentDesc: John Franklin Vining Jr. and Marie Hult
+head:
+  givenName: Bradley Allen
+  birth:
+    date: 21 February 1935
+    place: "[Weymouth or Roxbury?], Massachusetts"
+  death:
+    date: 26 November 2019
+marriages:
+  - date: 7 September 1963
+    place: "Worcester, Worcester County, Massachusetts"
+    spouse:
+      givenName: Barbara Ann
+      surname: Milton
+      birth:
+        date: 16 March 1932
+        place: "Worcester, Worcester County, Massachusetts"
+      death:
+        date: "14 May 201[6 or 5?]"
+        place: "Natick, MIDdlesex County, Massachusetts"
+      burial:
+        place: "Hope Cemetery   Worcester, Worcester County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: John Milton Vining
+        birth:
+          date: 8 March 1967
+          place: "Boston, Suffolk County, Massachusetts"
+        marriages:
+          - date: "Debra P. [&#8230;]"
+      - name: Paul Forrest Vining
+        birth:
+          date: 18 April 1968
+          place: "Boston, Suuffolk County, Massachusetts"
+docsUrl: Bsources/BradleyA01doc.htm
+raw: |-
+  <a name="BradleyA01"></a><font size=+2>Bradley Allen Vining</font>
+     (son of <a href="Jfamilies.htm#JohnFJr01">John Franklin Vining Jr. and Marie Hult</a>)
+     b. 21 February 1935   [Weymouth or Roxbury?], Massachusetts
+     m. 7 September 1963   Worcester, Worcester County, Massachusetts
+           Barbara Ann Milton
+                 (dau. of Arthur G. Milton and Mabel A. Brierly)
+                 b. 16 March 1932   Worcester, Worcester County, Massachusetts
+                 d. 14 May 201[6 or 5?]   Natick, MIDdlesex County, Massachusetts
+                       bur. Hope Cemetery   Worcester, Worcester County, Massachusetts
+     d. 26 November 2019
+           bur. Hope Cemetery   Worcester, Worcester County, Massachusetts
+  
+  <font size=+1>children:</font>
+     John Milton Vining   b. 8 March 1967   Boston, Suffolk County, Massachusetts   -   m. Debra P. [&#8230;]
+     Paul Forrest Vining   b. 18 April 1968   Boston, Suuffolk County, Massachusetts
+  
+  <a href="Bsources/BradleyA01doc.htm">documentation and notes</a>

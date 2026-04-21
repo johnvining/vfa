@@ -1,0 +1,35 @@
+id: BlairE01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Barry01
+parentDesc: "Barry Vining and Pauline [&#8230;]"
+head:
+  givenName: Blair Emery
+  birth:
+    date: 13 May 1980
+    place: "Morrinsville, Waikata, New Zealand"
+  death:
+    date: 11 October 2019
+    place: "Dunedin, New Zealand"
+marriages:
+  - spouse:
+      givenName: Melissa
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Della-May Vining
+      - name: Lilly Vining
+docsUrl: Bsources/BlairE01doc.htm
+raw: |-
+  <a name="BlairE01"></a><font size=+2>Blair Emery Vining</font>
+     (son of <a href="#Barry01">Barry Vining and Pauline [&#8230;]</a>)
+     b. 13 May 1980   Morrinsville, Waikata, New Zealand
+     m. Melissa [&#8230;]
+     d. 11 October 2019   Dunedin, New Zealand
+  
+  <font size=+1>children:</font>
+     Della-May Vining
+     Lilly Vining
+  
+  <a href="Bsources/BlairE01doc.htm">documentation and notes</a>

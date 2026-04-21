@@ -1,0 +1,75 @@
+id: BenjaminC01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnJr05
+parentLetter: J
+parentDesc: John Vining and Ann S. Carty
+head:
+  givenName: Benjamin Carty
+  birth:
+    date: 18 May 1850
+    place: Tennessee
+  death:
+    date: 11 June 1927
+    place: "[Toney, Madison County, Alabama?]"
+marriages:
+  - spouse:
+      givenName: Frances
+      surname: Scott
+childrenGroups:
+  - children:
+      - name: Leland Scott Vining
+        birth:
+          date: "1879"
+        death:
+          date: "1934"
+      - name: Joseph Alonzo Vining
+        birth:
+          date: April 1884
+          place: "[Alabama?]"
+        death:
+          date: "1945"
+      - name: Brown Rutherford Vining
+        birth:
+          date: "10 February 188[5 or 6?]"
+          place: "[Alabama?]"
+        marriages:
+          - date: Emma Lou Miller
+            spouse: "d. 28 May 1965   Larkinsville, Jackson County, Alabama"
+      - name: Cleveland Vining
+        entryId: Cleveland01
+        entryLetter: C
+        birth:
+          date: 15 April 1889
+          place: "Blanche,  Lincoln County, Tennessee"
+        marriages:
+          - date: 17 June 1917
+            spouse: Lottie Wallace
+        death:
+          date: 28 January 1949
+          place: "Toney, Madison County, Alabama"
+      - name: Annie Vining
+        birth:
+          date: April 1892
+          place: "[Alabama?]"
+docsUrl: Bsources/BenjaminC01doc.htm
+raw: |-
+  <a name="BenjaminC01"></a><font size=+2>Benjamin Carty Vining</font>
+     (son of <a href="Jfamilies.htm#JohnJr05">John Vining and Ann S. Carty</a>)
+     b. 18 May 1850   Tennessee
+     m. Frances Scott
+              b. 1862   Tennessee
+              d. 1939
+                    bur. Shady Grove Cemetery   Toney, Madison County, Alabama
+     d. 11 June 1927   [Toney, Madison County, Alabama?]
+           bur. Shady Grove Cemetery   Toney, Madison County, Alabama
+  
+  <font size=+1>children:</font>
+     Leland Scott Vining   b. 1879   -   d. 1934
+     Joseph Alonzo Vining   b. April 1884   [Alabama?]   -   d. 1945
+     Brown Rutherford Vining   b. 10 February 188[5 or 6?]   [Alabama?]   -   m. Emma Lou Miller   d. 28 May 1965   Larkinsville, Jackson County, Alabama
+     <a href="Cfamilies.htm#Cleveland01">Cleveland Vining</a>   b. 15 April 1889   Blanche,  Lincoln County, Tennessee   -   m. 17 June 1917   Lottie Wallace   -   d. 28 January 1949   Toney, Madison County, Alabama
+     Annie Vining   b. April 1892   [Alabama?]
+  
+  <a href="Bsources/BenjaminC01doc.htm">documentation and notes</a>

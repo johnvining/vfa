@@ -1,0 +1,56 @@
+id: Benjamin04
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John05
+parentLetter: J
+parentDesc: John Vining and Mary Goodwin
+head:
+  givenName: Benjamin
+  birth:
+    date: 23 August 1793
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 12 February 1870
+marriages:
+  - number: 1
+    date: 15 April 1819
+    place: "Durham, Androscoggin County, Maine"
+    spouse:
+      givenName: Hannah
+      surname: Merrill
+      birth:
+        date: age 58 y. as of the 1850 census
+        place: Maine
+  - number: 2
+    date: int. 5 February 1856
+    spouse:
+      givenName: Mrs. Rhoda
+      surname: Barnes
+      birth:
+        date: "age 91 y., 2 m., 27 d. at death"
+      death:
+        date: 31 May 1889
+      burial:
+        place: "Pond Road Cemetery   Wales, Maine"
+docsUrl: Bsources/Benjamin04doc.htm
+raw: |-
+  <a name="Benjamin04"></a><font size=+2>Benjamin Vining</font>
+     (son of <a href="Jfamilies.htm#John05">John Vining and Mary Goodwin</a>)
+     b. 23 August 1793   Durham, Androscoggin County, Maine
+     m. (1) 15 April 1819   Durham, Androscoggin County, Maine
+                 Hannah Merrill
+                       b. age 58 y. as of the 1850 census   Maine
+                          bur. Pond Road Cemetery   Wales, Maine
+           (2) int. 5 February 1856
+                 Mrs. Rhoda Barnes
+                       b. age 91 y., 2 m., 27 d. at death
+                       d. 31 May 1889
+                             bur. Pond Road Cemetery   Wales, Maine
+     d. 12 February 1870
+           bur. Pond Road Cemetery   Wales, Maine
+  
+  <font size=+1>child by Hannah Merrill:</font>
+     John Vining   b. 6 April 1825   -   d. 2 July 1826   -   bur. Pond Road Cemetery   Wales, Maine
+  
+  <a href="Bsources/Benjamin04doc.htm">documentation and notes</a>

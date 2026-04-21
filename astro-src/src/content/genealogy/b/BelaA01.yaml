@@ -1,0 +1,83 @@
+id: BelaA01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: William02
+parentLetter: W
+parentDesc: William Vining and Nancy Ragoon
+head:
+  givenName: Bela A.
+  birth:
+    date: 18 January 1832
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 10 January 1911
+    place: "Orchard, Mitchell County, Iowa"
+marriages:
+  - date: 17 September 1863
+    place: Vermont
+    spouse:
+      givenName: Lucretia Ann
+      surname: Lyman
+      birth:
+        date: 24 October 1839
+        place: "Columbia, Coos County, New Hampshire"
+      death:
+        date: 13 October 1921
+        place: "Orchard, Mitchell County, Iowa"
+      burial:
+        place: "Osage Cemetery   Osage, Mitchell County, Iowa"
+childrenGroups:
+  - children:
+      - name: Fred J. Vining
+        birth:
+          date: 26 November 1864
+          place: "Columbia, Coos County, New Hampshire"
+        death:
+          date: "[1 or 2 ?] February 1898"
+          place: "Dunn, Dane County, Wisconsin"
+        burial:
+          place: "Osage Cemetery   Osage, Mitchell County, Iowa"
+      - name: Sarah Diane Vining
+        birth:
+          date: 11 March 1867
+          place: "Grand Rapids, Wood County, Wisconsin"
+        marriages:
+          - date: 26 April 1889
+            spouse: Charles D. Brown
+        death:
+          date: 15 June 1946
+          place: "Spring Green, Sauk County, Wisconsin"
+      - name: Elmo William Vining
+        entryId: ElmoW01
+        entryLetter: E
+        birth:
+          date: 7 November 1871
+          place: Iowa
+        marriages:
+          - date: 2 August 1897
+            place: "Wright County, Iowa"
+            spouse: Jennie M. Courtney
+        death:
+          date: 22 April 1951
+          place: "Osage, Mitchell County, Iowa"
+docsUrl: Bsources/BelaA01doc.htm
+raw: |-
+  <a name="BelaA01"></a><font size=+2>Bela A. Vining</font>
+     (son of <a href="Wfamilies.htm#William02">William Vining and Nancy Ragoon</a>)
+     b. 18 January 1832   Durham, Androscoggin County, Maine
+     m. 17 September 1863   Vermont
+           Lucretia Ann Lyman
+                 (dau. of John Scott Lyman and Emily Schoff)
+                 b. 24 October 1839   Columbia, Coos County, New Hampshire
+                 d. 13 October 1921   Orchard, Mitchell County, Iowa
+                       bur. Osage Cemetery   Osage, Mitchell County, Iowa
+     d. 10 January 1911   Orchard, Mitchell County, Iowa
+           bur. Osage Cemetery   Osage, Mitchell County, Iowa
+  
+  <font size=+1>children:</font>
+     Fred J. Vining   b. 26 November 1864   Columbia, Coos County, New Hampshire   -   d. [1 or 2 ?] February 1898   Dunn, Dane County, Wisconsin   -   bur. Osage Cemetery   Osage, Mitchell County, Iowa
+     Sarah Diane Vining   b. 11 March 1867   Grand Rapids, Wood County, Wisconsin   -   m. 26 April 1889   Charles D. Brown   -   d. 15 June 1946   Spring Green, Sauk County, Wisconsin
+     <a href="Efamilies.htm#ElmoW01">Elmo William Vining</a>   b. 7 November 1871   Iowa   -   m. 2 August 1897   Wright County, Iowa   Jennie M. Courtney   -   d. 22 April 1951   Osage, Mitchell County, Iowa
+  
+  <a href="Bsources/BelaA01doc.htm">documentation and notes</a>

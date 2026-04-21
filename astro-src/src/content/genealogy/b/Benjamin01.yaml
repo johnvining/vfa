@@ -1,0 +1,127 @@
+id: Benjamin01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John03
+parentLetter: J
+parentDesc: John Vining and Elizabeth Richards
+head:
+  givenName: Benjamin
+  birth:
+    date: 24 January 1710/11
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 30 November 1732
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Hannah
+      surname: Pratt
+      birth:
+        date: 29 September 1710
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Benjamin Vining
+        birth:
+          date: 27 February 1734
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 27 February 1734
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Abner Vining
+        birth:
+          date: 27 February 1734
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 27 February 1734
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Hannah Vining
+        birth:
+          date: 19 May 1735
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: int. 20 September 1753
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Isaac Joy
+        death:
+          date: 7 March 1797
+      - name: Naomi Vining
+        birth:
+          date: 12 February 1738
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 23 January 1755
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Thomas Bates
+          - number: 2
+            date: int. 13 October 1764
+            spouse: Joshua Shaw Jr.
+      - name: Lucy Vining
+        birth:
+          date: 10 April 1741
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 4 June 1761
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: William Loud
+        death:
+          date: 11 December 1831
+      - name: Joseph Vining
+        entryId: Joseph01
+        entryLetter: J
+        birth:
+          date: 6 July 1744
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 9 January 1766
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Olive Torrey
+          - number: 2
+            date: 15 December 1791
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Hannah Torrey
+        death:
+          date: 24 October 1828
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Benjamin Vining Jr.
+        entryId: BenjaminJr02
+        birth:
+          date: 14 June 1747
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 20 November 1782
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Chloe Lane
+        death:
+          date: 18 March 1835
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Elizabeth Vining
+        birth:
+          date: 23 March 1750/51
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 3 February 1779
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Thomas Nash
+        death:
+          date: "1790"
+raw: |-
+  <a name="Benjamin01"></a><font size=+2>Benjamin Vining</font>
+     (son of <a href="Jfamilies.htm#John03">John Vining and Elizabeth Richards</a>)
+     b. 24 January 1710/11   Weymouth, Norfolk County, Massachusetts
+     m. 30 November 1732   Weymouth, Norfolk County, Massachusetts
+           Hannah Pratt
+                 (dau. of Samuel Pratt and Hannah [...])
+                 b. 29 September 1710   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Benjamin Vining   b. 27 February 1734   Weymouth, Norfolk County, Massachusetts   -   d. 27 February 1734   Weymouth, Norfolk County, Massachusetts
+     Abner Vining   b. 27 February 1734   Weymouth, Norfolk County, Massachusetts   -   d. 27 February 1734   Weymouth, Norfolk County, Massachusetts
+     Hannah Vining   b. 19 May 1735   Weymouth, Norfolk County, Massachusetts   -   m. int. 20 September 1753   Weymouth, Norfolk County, Massachusetts   Isaac Joy   -   d. 7 March 1797
+     Naomi Vining   b. 12 February 1738   Weymouth, Norfolk County, Massachusetts   -   m. (1) 23 January 1755   Weymouth, Norfolk County, Massachusetts   Thomas Bates;   (2) int. 13 October 1764   Joshua Shaw Jr.
+     Lucy Vining   b. 10 April 1741   Weymouth, Norfolk County, Massachusetts   -   m. 4 June 1761   Weymouth, Norfolk County, Massachusetts   William Loud   -   d. 11 December 1831
+     <a href="Jfamilies.htm#Joseph01">Joseph Vining</a>   b. 6 July 1744   Weymouth, Norfolk County, Massachusetts   -   m. (1) 9 January 1766   Weymouth, Norfolk County, Massachusetts   Olive Torrey;   (2) 15 December 1791   Weymouth, Norfolk County, Massachusetts   Hannah Torrey   -   d. 24 October 1828   Weymouth, Norfolk County, Massachusetts
+     <a href="#BenjaminJr02">Benjamin Vining Jr.</a>   b. 14 June 1747   Weymouth, Norfolk County, Massachusetts   -   m. 20 November 1782   Abington, Plymouth County, Massachusetts   Chloe Lane   -   d. 18 March 1835   Abington, Plymouth County, Massachusetts
+     Elizabeth Vining   b. 23 March 1750/51   Weymouth, Norfolk County, Massachusetts   -   m. 3 February 1779   Weymouth, Norfolk County, Massachusetts   Thomas Nash   -   d. 1790

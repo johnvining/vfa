@@ -1,0 +1,43 @@
+id: BruceP01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CarlMJr01
+parentLetter: C
+parentDesc: Carl Merton Vining Jr. and Myrtle Joy Robinson
+head:
+  givenName: Bruce Perry
+  birth:
+    date: 26 February 1954
+    place: "Geneva, Kane County, Illinois"
+marriages:
+  - date: 12 June 1982
+    place: "Norwood, San Miguel County, Colorado"
+    spouse:
+      givenName: Penny Michelle
+      surname: Rupp
+childrenGroups:
+  - children:
+      - name: Meghan Vining
+        birth:
+          date: 20 November 1984
+          place: "Norwood, San Miguel County, Colorado"
+      - name: Mallory Vining
+        birth:
+          date: 12 March 1986
+          place: "Pueblo, Pueblo County, Colorado"
+      - name: Morgan Vining
+        birth:
+          date: 5 February 1989
+          place: "Pueblo, Pueblo County, Colorado"
+raw: |-
+  <a name="BruceP01"></a><font size=+2>Bruce Perry Vining</font>
+     (son of <a href="Cfamilies.htm#CarlMJr01">Carl Merton Vining Jr. and Myrtle Joy Robinson</a>)
+     b. 26 February 1954   Geneva, Kane County, Illinois
+     m. 12 June 1982   Norwood, San Miguel County, Colorado
+           Penny Michelle Rupp
+  
+  <font size=+1>children:</font>
+     Meghan Vining   b. 20 November 1984   Norwood, San Miguel County, Colorado
+     Mallory Vining   b. 12 March 1986   Pueblo, Pueblo County, Colorado
+     Morgan Vining   b. 5 February 1989   Pueblo, Pueblo County, Colorado

@@ -1,0 +1,46 @@
+id: BennieE01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BenD01
+parentDesc: Ben David Vining and Bertha Mae Bunn
+head:
+  givenName: Bennie Edward
+  birth:
+    date: 14 January 1931
+    place: Alabama
+  death:
+    date: 19 May 2013
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: Finn
+childrenGroups:
+  - children:
+      - name: Ed Vining
+        marriages:
+          - date: "Dian [&#8230;]"
+      - name: Richard Vining
+        marriages:
+          - date: "Leigh [&#8230;]"
+      - name: Tim Vining
+      - name: Mark Vining
+        marriages:
+          - date: "Jerri [&#8230;]"
+      - name: Joe Vining
+        marriages:
+          - date: "Carla [&#8230;]"
+raw: |-
+  <a name="BennieE01"></a><font size=+2>Bennie Edward Vining</font>
+     (son of <a href="#BenD01">Ben David Vining and Bertha Mae Bunn</a>)
+     b. 14 January 1931   Alabama
+     m. Elizabeth Finn
+     d. 19 May 2013
+           bur. Cedar Hill Cemetery   Bessemer, Jefferson County, Alabama
+  
+  <font size=+1>children:</font>
+     Ed Vining   m. Dian [&#8230;]
+     Richard Vining   m. Leigh [&#8230;]
+     Tim Vining
+     Mark Vining   m. Jerri [&#8230;]
+     Joe Vining   m. Carla [&#8230;]

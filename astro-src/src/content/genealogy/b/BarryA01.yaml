@@ -1,0 +1,62 @@
+id: BarryA01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MortimerJ01
+parentLetter: M
+parentDesc: Mortimer Jay Vining and Mary A. Thompson
+head:
+  givenName: Barry Allen
+  birth:
+    date: "6 [August or July?] 1889"
+    place: Connecticut
+marriages:
+  - number: 1
+    date: 1 y. as of 1910 census
+    spouse:
+      givenName: Helen E.
+      surname: "[...]"
+      birth:
+        date: age 21 y. as of 1910 census
+        place: Connecticut
+  - number: 2
+    date: ca. 1911
+    spouse:
+      givenName: Julia R.
+      surname: "[...]"
+      birth:
+        date: age 32 y. as of 1920 census
+        place: "[Connecticut or Pennsylvania]"
+childrenGroups:
+  - spouseRef: "Julia R. [...]"
+    children:
+      - name: Norma E. Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Connecticut
+      - name: Virginia R. Vining
+        birth:
+          date: age 4 y. as of 1920 census
+          place: Connecticut
+      - name: Richard M. Vining
+        birth:
+          date: "age 1 y., 5 m. as of 1930 census"
+          place: Connecticut
+docsUrl: Bsources/BarryA01doc.htm
+raw: |-
+  <a name="BarryA01"></a><font size=+2>Barry Allen Vining</font>
+     (son of <a href="Mfamilies.htm#MortimerJ01">Mortimer Jay Vining and Mary A. Thompson</a>)
+     b. 6 [August or July?] 1889   Connecticut
+     m. (1) 1 y. as of 1910 census
+                 Helen E. [...]
+                       b. age 21 y. as of 1910 census   Connecticut
+           (2) ca. 1911
+                 Julia R. [...]
+                       b. age 32 y. as of 1920 census   [Connecticut or Pennsylvania]
+  
+  <font size=+1>children by Julia R. [...]:</font>
+     Norma E. Vining   b. age 5 y. as of 1920 census   Connecticut
+     Virginia R. Vining   b. age 4 y. as of 1920 census   Connecticut
+     Richard M. Vining   b. age 1 y., 5 m. as of 1930 census   Connecticut
+  
+  <a href="Bsources/BarryA01doc.htm">documentation and notes</a>

@@ -1,0 +1,164 @@
+id: Bana01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Owen01
+parentLetter: O
+parentDesc: Owen Vining and Edith Ann Ivey
+head:
+  givenName: "Bana (Bainley, Bench)"
+  birth:
+    date: August 1852
+    place: "Sandersville, Washington County, Georgia"
+  death:
+    date: 24 April 1924
+    place: "Brookfield, Tift County, Georgia"
+marriages:
+  - number: 1
+    date: 19 April 1874
+    spouse:
+      givenName: Martha Jane
+      surname: Crosby
+      birth:
+        date: 10 March 1853
+        place: Georgia
+      death:
+        date: 14 October 1927
+      burial:
+        place: "Screven City Cemetery   Screven, Wayne County, Georgia"
+  - number: 2
+    date: 9 y. as of 1900 census
+    spouse:
+      givenName: Frances Jane
+      surname: Gillis
+      birth:
+        date: "August [1867 or 1868?]"
+        place: Georgia
+      death:
+        date: 19 April 1939
+      burial:
+        place: "New River Cemetery   Tifton, Tift County, Georgia"
+childrenGroups:
+  - spouseRef: Martha Jane Crosby
+    children:
+      - name: Agnes Vining
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Georgia
+      - name: Ida Vining
+        birth:
+          date: 3 March 1878
+          place: Georgia
+        marriages:
+          - date: Angus Gillis
+        death:
+          date: 17 December 1966
+        burial:
+          place: "Salem Cemetery   Douglas [County?], Georgia"
+      - name: Alice Vining
+        birth:
+          date: age 1 y. as of 1880 census
+          place: Georgia
+      - name: Edgar Vining
+        birth:
+          date: December 1882
+          place: Georgia
+      - name: Verjal Vining
+        birth:
+          date: 13 March 1883
+        death:
+          date: 29 June 1884
+        burial:
+          place: "Union Hill Cemetery   Axson, Atkinson County, Georgia"
+      - name: Tessica Vining
+        birth:
+          date: 28 March 1888
+          place: Georgia
+        marriages:
+          - number: 1
+            date: "1902"
+            spouse: Lucious Randal Miley
+          - number: 2
+            date: "1911"
+            spouse: John M. Booth
+          - number: 3
+            date: "1915"
+            spouse: Robert Lee Griner
+        death:
+          date: 19 October 1961
+          place: Georgia
+        burial:
+          place: "Beaver Dam Cemetery   Ray City, Berrien County, Georgia"
+  - spouseRef: Frances Jane Gillis
+    children:
+      - name: Oscar Vining
+        entryId: Oscar01
+        entryLetter: O
+        birth:
+          date: February 1892
+          place: Georgia
+        marriages:
+          - date: "Alma [...]"
+      - name: Olin Vining
+        entryId: Olin01
+        entryLetter: O
+        birth:
+          date: January 1894
+          place: Georgia
+        marriages:
+          - date: "Hattie [...]"
+        death:
+          date: 10 June 1937
+        burial:
+          place: "Mount Zion Cemetery   Axson, Atkinson County, Georgia"
+      - name: Eula Vining
+        birth:
+          date: July 1896
+          place: Georgia
+      - name: Lilla Vining
+        birth:
+          date: August 1899
+          place: Georgia
+      - name: Ellen Vining
+        birth:
+          date: age 8 y. as of 1910 census
+          place: Georgia
+      - name: Malinda Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Georgia
+docsUrl: Bsources/Bana01doc.htm
+raw: |-
+  <a name="Bana01"></a><font size=+2>Bana (Bainley, Bench) Vining</font>
+     (son of <a href="Ofamilies.htm#Owen01">Owen Vining and Edith Ann Ivey</a>)
+     b. August 1852   Sandersville, Washington County, Georgia
+     m. (1) 19 April 1874
+                 Martha Jane Crosby
+                       (dau. of Abraham J. Crosby and [...] Weatherly)
+                       b. 10 March 1853   Georgia
+                       d. 14 October 1927
+                             bur. Screven City Cemetery   Screven, Wayne County, Georgia
+           (2) 9 y. as of 1900 census
+                 Frances Jane Gillis
+                       b. August [1867 or 1868?]   Georgia
+                       d. 19 April 1939
+                             bur. New River Cemetery   Tifton, Tift County, Georgia
+     d. 24 April 1924   Brookfield, Tift County, Georgia
+           bur. New River Cemetery   Tifton, Tift County, Georgia
+  
+  <font size=+1>children by Martha Jane Crosby:</font>
+     Agnes Vining   b. age 3 y. as of 1880 census   Georgia
+     Ida Vining   b. 3 March 1878   Georgia   -   m. Angus Gillis   -   d. 17 December 1966   -   bur. Salem Cemetery   Douglas [County?], Georgia
+     Alice Vining   b. age 1 y. as of 1880 census   Georgia
+     Edgar Vining   b. December 1882   Georgia
+     Verjal Vining   b. 13 March 1883   -   d. 29 June 1884   -   bur. Union Hill Cemetery   Axson, Atkinson County, Georgia
+     Tessica Vining   b. 28 March 1888   Georgia   -   m. (1) 1902   Lucious Randal Miley;   (2) 1911   John M. Booth;   (3) 1915   Robert Lee Griner   -   d. 19 October 1961   Georgia   -   bur. Beaver Dam Cemetery   Ray City, Berrien County, Georgia
+  <font size=+1>children by Frances Jane Gillis:</font>
+     <a href="Ofamilies.htm#Oscar01">Oscar Vining</a>   b. February 1892   Georgia   -   m. Alma [...]
+     <a href="Ofamilies.htm#Olin01">Olin Vining</a>   b. January 1894   Georgia   -   m. Hattie [...]   -   d. 10 June 1937   -   bur. Mount Zion Cemetery   Axson, Atkinson County, Georgia
+     Eula Vining   b. July 1896   Georgia
+     Lilla Vining   b. August 1899   Georgia
+     Ellen Vining   b. age 8 y. as of 1910 census   Georgia
+     Malinda Vining   b. age 4 y. as of 1910 census   Georgia
+  
+  <a href="Bsources/Bana01doc.htm">documentation and notes</a>

@@ -1,0 +1,44 @@
+id: BernardL01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Bernard01
+parentDesc: Bernard Vining and Mary Elizabeth Norton
+head:
+  givenName: "Bernard Leon &#8220;Lee&#8221;"
+  birth:
+    date: "1942"
+  death:
+    date: "2009"
+marriages:
+  - date: "1965"
+    spouse:
+      givenName: Phillice Claire
+      surname: Gilfillan
+childrenGroups:
+  - children:
+      - name: Mark Leon Vining
+        birth:
+          date: "1965"
+      - name: Kimberly Alice Vining
+        birth:
+          date: "1968"
+        marriages:
+          - date: Joseph S. Gorder
+      - name: Karen Vining
+        birth:
+          date: "1969"
+        marriages:
+          - date: James F. Macnamara Jr.
+raw: |-
+  <a name="BernardL01"></a><font size=+2>Bernard Leon &#8220;Lee&#8221; Vining</font>
+     (son of <a href="#Bernard01">Bernard Vining and Mary Elizabeth Norton</a>)
+     b. 1942
+     m. 1965
+           Phillice Claire Gilfillan
+     d. 2009
+  
+  <font size=+1>children:</font>
+     Mark Leon Vining   b. 1965
+     Kimberly Alice Vining   b. 1968   -   m. Joseph S. Gorder
+     Karen Vining   b. 1969   -   m. James F. Macnamara Jr.

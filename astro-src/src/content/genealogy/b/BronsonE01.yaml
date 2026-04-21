@@ -1,0 +1,57 @@
+id: BronsonE01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RoyE02
+parentLetter: R
+parentDesc: "Roy Ellis Vining and Hazel M. [&#8230;]"
+head:
+  givenName: Bronson E.
+  birth:
+    date: 7 May 1906
+    place: Ohio
+  death:
+    date: 17 July 1977
+    place: "Bowling Green, Wood County, Ohio"
+marriages:
+  - spouse:
+      givenName: Margaret C.
+      surname: Walsh
+childrenGroups:
+  - children:
+      - name: Jacqueline Vining
+        birth:
+          date: "age 5 y., [?] m. as of 1930 census"
+          place: Ohio
+        marriages:
+          - date: "[&#8230;] Vermitt"
+      - name: James B. Vining
+        entryId: JamesB04
+        entryLetter: J
+        birth:
+          date: 29 November 1936
+          place: "Toledo, Lucas County, Ohio"
+        marriages:
+          - date: 18 September 1965
+            place: "Toledo, Lucas County, Ohio"
+            spouse: Joanne Tavcar
+        death:
+          date: 13 September 2020
+          place: "Oregon, Lucas County, Ohio"
+        burial:
+          place: "Lake Township Cemetery   Walbridge, Wood County, Ohio"
+docsUrl: Bsources/BronsonE01doc.htm
+raw: |-
+  <a name="BronsonE01"></a><font size=+2>Bronson E. Vining</font>
+     (son of <a href="Rfamilies.htm#RoyE02">Roy Ellis Vining and Hazel M. [&#8230;]</a>)
+     b. 7 May 1906   Ohio
+     m. Margaret C. Walsh
+              b. age 26 y. as of 1930 census   Michigan
+     d. 17 July 1977   Bowling Green, Wood County, Ohio
+           bur. Ottawa Hills Cemetery   Toledo, Lucas County, Ohio
+  
+  <font size=+1>children:</font>
+     Jacqueline Vining   b. age 5 y., [?] m. as of 1930 census   Ohio   -   m. [&#8230;] Vermitt
+     <a href="Jfamilies.htm#JamesB04">James B. Vining</a>   b. 29 November 1936   Toledo, Lucas County, Ohio   -   m. 18 September 1965   Toledo, Lucas County, Ohio   Joanne Tavcar   -   d. 13 September 2020   Oregon, Lucas County, Ohio   -   bur. Lake Township Cemetery   Walbridge, Wood County, Ohio
+  
+  <a href="Bsources/BronsonE01doc.htm">documentation and notes</a>

@@ -1,0 +1,61 @@
+id: BarryL01
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LouisD02
+parentLetter: L
+parentDesc: Louis Dozier Vining and Grace Haines
+head:
+  givenName: Barry L.
+  birth:
+    date: 5 January 1940
+    place: "Pottstown, Montgomery County, Pennsylvania"
+  death:
+    date: 2 March 2022
+    place: "East Coventry Township, Chester County, Pennsylvania"
+marriages:
+  - date: 11 March 1961
+    place: "Spring City, Chester County, Pennsylvania"
+    spouse:
+      givenName: Carol Jean
+      surname: Halteman
+      birth:
+        date: 19 February 1942
+        place: "Phoenixville, Chester County, Pennsylvania"
+      death:
+        date: 23 October 2013
+        place: "Royersford, Montgomery County, Pennsylvania"
+      burial:
+        place: "Zion Lutheran Cemetery   Spring City, Chester County, Pennsylvania"
+childrenGroups:
+  - children:
+      - name: Barry L. Vining Jr.
+        entryId: BarryLJr01
+        birth:
+          date: 27 December 1961
+        marriages:
+          - date: "Holly [&#8230;]"
+      - name: Dean Vining
+        entryId: Dean01
+        entryLetter: D
+        marriages:
+          - date: "Michelle [&#8230;]"
+docsUrl: Bsources/BarryL01doc.htm
+raw: |-
+  <a name="BarryL01"></a><font size=+2>Barry L. Vining</font>
+     (son of <a href="Lfamilies.htm#LouisD02">Louis Dozier Vining and Grace Haines</a>)
+     b. 5 January 1940   Pottstown, Montgomery County, Pennsylvania
+     m. 11 March 1961   Spring City, Chester County, Pennsylvania
+           Carol Jean Halteman
+                 (dau. of Eugene Halteman and Caroline Lee)
+                 b. 19 February 1942   Phoenixville, Chester County, Pennsylvania
+                 d. 23 October 2013   Royersford, Montgomery County, Pennsylvania
+                       bur. Zion Lutheran Cemetery   Spring City, Chester County, Pennsylvania
+     d. 2 March 2022   East Coventry Township, Chester County, Pennsylvania
+           bur. Zion Lutheran Church Cemetery   Spring City, Chester County, Pennsylvania
+  
+  <font size=+1>children:</font>
+     <a href="#BarryLJr01">Barry L. Vining Jr.</a>   b. 27 December 1961   -   m. Holly [&#8230;]
+     <a href="Dfamilies.htm#Dean01">Dean Vining</a>   m. Michelle [&#8230;]
+  
+  <a href="Bsources/BarryL01doc.htm">documentation and notes</a>

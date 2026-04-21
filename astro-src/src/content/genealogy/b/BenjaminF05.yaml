@@ -1,0 +1,37 @@
+id: BenjaminF05
+letter: B
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Benjamin F.
+  birth:
+    date: age 31 y. as of 1870 census
+    place: Rhode Island
+marriages:
+  - spouse:
+      givenName: Esther R.
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: William H. Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: Massachusetts
+      - name: Lizzie T. Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Massachusetts
+docsUrl: Bsources/BenjaminF05doc.htm
+raw: |-
+  <a name="BenjaminF05"></a><font size=+2>Benjamin F. Vining</font>
+     (son of [?])
+     b. age 31 y. as of 1870 census   Rhode Island
+     m. Esther R. [...]
+              b. age 31 y. as of 1870 census   Massachusetts
+  
+  <font size=+1>children:</font>
+     William H. Vining   b. age 6 y. as of 1870 census   Massachusetts
+     Lizzie T. Vining   b. age 3 y. as of 1870 census   Massachusetts
+  
+  <a href="Bsources/BenjaminF05doc.htm">documentation and notes</a>
