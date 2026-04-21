@@ -31,7 +31,8 @@ marriages:
       burial:
         place: "Crown View Cemetery   Sheridan, Hamilton County, Indiana"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Ruby Ellen Vining
         birth:
           date: "1906"

@@ -30,7 +30,7 @@ marriages:
         date: age 34 y. as of 1910 census
         place: New York
 childrenGroups:
-  - spouseRef: "Delia [...]"
+  - headingText: "child by Delia [...]"
     children:
       - name: Ethel Mae Vining
         birth:

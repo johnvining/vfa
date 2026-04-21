@@ -16,7 +16,8 @@ marriages:
         date: ca. 1850
         place: "St. Elen, Canada"
 childrenGroups:
-  - children:
+  - headingText: chlld
+    children:
       - name: Phillip H. Vining
         entryId: PhillipH01
         entryLetter: P
