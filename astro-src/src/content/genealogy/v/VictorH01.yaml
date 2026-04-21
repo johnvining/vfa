@@ -28,7 +28,8 @@ marriages:
       burial:
         place: "Mountain View Cemetery   Pueblo, Colorado"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Florene M. Vining
         birth:
           date: age [?] as of 1940 census

@@ -27,7 +27,8 @@ marriages:
       burial:
         place: "Armel Cemetery   Armel, Colorado"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Arthur F. Vining
         entryId: ArthurF02
         entryLetter: A

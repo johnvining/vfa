@@ -14,7 +14,8 @@ head:
   burial:
     place: "Odd Fellows Cemetery   Bayou La Batre, Mobile County, Alabama"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Vernon Dale Vining III
 docsUrl: Vsources/VernonDJr01doc.htm
 raw: |-
