@@ -1,0 +1,33 @@
+id: Kenneth02
+letter: K
+lastUpdated: 24 July 2022
+relationship: son
+parentId: HaroldR01
+parentLetter: H
+parentDesc: Harold Reginald Vining and Lois Hersom
+head:
+  givenName: Kenneth
+  birth:
+    date: 22 December 1934
+    place: Iowa
+marriages:
+  - spouse:
+      givenName: Diane Irene
+      surname: Ruch
+childrenGroups:
+  - children:
+      - name: Kevin Vining
+        birth:
+          date: 13 September 1958
+      - name: Timothy Vining
+        birth:
+          date: 23 July 1967
+raw: |-
+  <a name="Kenneth02"></a><font size=+2>Kenneth Vining</font>
+     (son of <a href="Hfamilies.htm#HaroldR01">Harold Reginald Vining and Lois Hersom</a>)
+     b. 22 December 1934   Iowa
+     m. Diane Irene Ruch
+  
+  <font size=+1>children:</font>
+     Kevin Vining   b. 13 September 1958
+     Timothy Vining   b. 23 July 1967

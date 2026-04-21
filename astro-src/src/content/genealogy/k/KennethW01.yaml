@@ -1,0 +1,66 @@
+id: KennethW01
+letter: K
+lastUpdated: 24 July 2022
+relationship: son
+parentId: HomerF01
+parentLetter: H
+parentDesc: Homer Frank Vining and Helen M. Head
+head:
+  givenName: Kenneth Wayne
+  birth:
+    date: 26 November 1945
+    place: "Kansas City, Missouri"
+  death:
+    date: 28 November 2013
+    place: "Shawnee [County?], Kansas"
+marriages:
+  - date: 30 May 1970
+    spouse:
+      givenName: Shirley LoDean
+      surname: Young
+      birth:
+        date: 1 July 1952
+childrenGroups:
+  - children:
+      - name: "Robert &#8220;Wade&#8221; Vining"
+        entryId: Robert06
+        entryLetter: R
+        birth:
+          date: 14 March 1971
+        marriages:
+          - date: Carrie Stumpf
+      - name: Kenneth Frank Vining
+        entryId: KennethF01
+        birth:
+          date: 8 December 1972
+        marriages:
+          - date: Michelle Lynn Wheeler
+      - name: Deena Gayle Vining
+        birth:
+          date: 18 August 1976
+        marriages:
+          - date: 11 April 1998
+            spouse: John Harrison McLaughlin
+      - name: Arthur Samuel Vining
+        entryId: ArthurS02
+        entryLetter: A
+        birth:
+          date: 18 August 1976
+docsUrl: Ksources/KennethW01doc.htm
+raw: |-
+  <a name="KennethW01"></a><font size=+2>Kenneth Wayne Vining</font>
+     (son of <a href="Hfamilies.htm#HomerF01">Homer Frank Vining and Helen M. Head</a>)
+     b. 26 November 1945   Kansas City, Missouri
+     m. 30 May 1970
+           Shirley LoDean Young
+                 b. 1 July 1952
+     d. 28 November 2013   Shawnee [County?], Kansas
+           bur. Maple Hill Cemetery-Mausoleum   Kansas City, Kansas
+     
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#Robert06">Robert &#8220;Wade&#8221; Vining</a>   b. 14 March 1971   -   m. Carrie Stumpf
+     <a href="#KennethF01">Kenneth Frank Vining</a>   b. 8 December 1972   -   m. Michelle Lynn Wheeler
+     Deena Gayle Vining   b. 18 August 1976   -   m. 11 April 1998   John Harrison McLaughlin
+     <a href="Afamilies.htm#ArthurS02">Arthur Samuel Vining</a>   b. 18 August 1976
+  
+  <a href="Ksources/KennethW01doc.htm">documentation and notes</a>

@@ -1,0 +1,40 @@
+id: Kenneth03
+letter: K
+lastUpdated: 24 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Kenneth
+marriages:
+  - date: 6 August 1994
+    spouse:
+      givenName: Kristen Marie
+      surname: Fairchild
+      birth:
+        date: 28 August 1964
+        place: "Blue Earth [County?], Minnesota"
+      death:
+        date: 3 October 2017
+childrenGroups:
+  - children:
+      - name: Tanner Vining
+        marriages:
+          - date: "Sophia [&#8230;]"
+      - name: Curtis Vining
+        marriages:
+          - date: "Kendra [&#8230;]"
+docsUrl: Ksources/Kenneth03doc.htm
+raw: |-
+  <a name="Kenneth03"></a><font size=+2>Kenneth Vining</font>
+     (son of [?])
+     m. 6 August 1994
+           Kristen Marie Fairchild
+                 (dau. of Tom Fairchild and Kay Paschke)
+                 b. 28 August 1964   Blue Earth [County?], Minnesota
+                 d. 3 October 2017
+  
+  <font size=+1>children:</font>
+     Tanner Vining   m. Sophia [&#8230;]
+     Curtis Vining   m. Kendra [&#8230;]
+  
+  <a href="Ksources/Kenneth03doc.htm">documentation and notes</a>

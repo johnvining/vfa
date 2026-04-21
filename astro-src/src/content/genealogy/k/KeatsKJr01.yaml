@@ -1,0 +1,60 @@
+id: KeatsKJr01
+letter: K
+lastUpdated: 24 July 2022
+relationship: son
+parentId: KeatsK01
+parentDesc: Keats Kendall Vining and Lavesta Edgerly
+head:
+  givenName: Keats Kendall Jr.
+  birth:
+    date: 21 February 1918
+    place: "Petoskey, Emmet County, Michigan"
+  death:
+    date: 17 November 1993
+    place: "Butterfield, Missaukee County, Michigan"
+marriages:
+  - date: 18 March 1950
+    spouse:
+      givenName: Janet Ethel
+      surname: Bird
+      birth:
+        date: "1921"
+      death:
+        date: "2003"
+      burial:
+        place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
+childrenGroups:
+  - children:
+      - name: Margaret Elizabeth Vining
+        birth:
+          date: 1 February 1951
+      - name: John Kendall Vining
+        entryId: JohnK02
+        entryLetter: J
+        birth:
+          date: 10 December 1953
+        marriages:
+          - date: 31 May 1986
+            spouse: Linda Louise Renicky
+      - name: Victoria Louise Vining
+        birth:
+          date: 24 May 1956
+docsUrl: Ksources/KeatsKJr01doc.htm
+raw: |-
+  <a name="KeatsKJr01"></a><font size=+2>Keats Kendall Vining Jr.</font>
+     (son of <a href="#KeatsK01">Keats Kendall Vining and Lavesta Edgerly</a>)
+     b. 21 February 1918   Petoskey, Emmet County, Michigan
+     m. 18 March 1950
+           Janet Ethel Bird
+                 b. 1921
+                 d. 2003
+                       bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+     d. 17 November 1993   Butterfield, Missaukee County, Michigan
+           bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+  
+  <font size=+1>children:</font>
+     Margaret Elizabeth Vining   b. 1 February 1951
+     <a href="Jfamilies.htm#JohnK02">John Kendall Vining</a>   b. 10 December 1953   -   m. 31 May 1986   Linda Louise Renicky
+     Victoria Louise Vining   b. 24 May 1956
+  
+  <a href="Ksources/KeatsKJr01doc.htm">documentation and notes</a>
