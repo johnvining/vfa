@@ -1,5 +1,6 @@
 id: GeorgeA03
 letter: G
+sequence: 13
 lastUpdated: 22 July 2022
 relationship: son
 parentId: GeorgeH03
@@ -11,6 +12,8 @@ head:
     place: "Brockton, Massachusetts"
   death:
     date: 6 July 2017
+  burial:
+    place: "Center Cemetery   Pembroke, Massachusetts"
 marriages:
   - spouse:
       givenName: Lori-Jean

@@ -1,5 +1,6 @@
 id: George03
 letter: G
+sequence: 3
 lastUpdated: 22 July 2022
 relationship: son
 parentId: John07
@@ -13,12 +14,15 @@ head:
   death:
     date: 1 June 1875
     place: "Templeton, Worcester Counnty,Massachusetts"
+  burial:
+    place: "Pine Grove Cemetery   Templeton, Worcester Couny, Massachusetts"
 marriages:
   - date: 14 November 1844
     place: "Portland, Maine"
     spouse:
       givenName: Martha B.
       surname: Emery
+      parents: "(dau. of Nathaniel Emery and Deborah Rogers)"
       birth:
         date: 15 March 1821
         place: "Bartlett, Carroll County, New Hampshire"

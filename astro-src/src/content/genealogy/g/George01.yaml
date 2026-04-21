@@ -1,5 +1,6 @@
 id: George01
 letter: G
+sequence: 1
 lastUpdated: 22 July 2022
 relationship: son
 parentId: John01
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Hannah
       surname: Judkins
+      parents: "(dau. of Samuel Judkins and Elizabeth Leavitt)"
       birth:
         date: 14 February 1676
         place: "Boston, Suffolk County, Massachusetts"

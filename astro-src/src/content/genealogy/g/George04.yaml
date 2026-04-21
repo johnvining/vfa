@@ -1,5 +1,6 @@
 id: George04
 letter: G
+sequence: 6
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Annie
       surname: "[...]"
+      birth:
+        date: age 32 y. as of 1880 census
+        place: "Wert[...?]"
 childrenGroups:
   - children:
       - name: George J. Vining

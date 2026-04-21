@@ -1,5 +1,6 @@
 id: GeorgeW06
 letter: G
+sequence: 46
 lastUpdated: 22 July 2022
 relationship: son
 parentId: RandallL01
@@ -13,10 +14,13 @@ head:
   death:
     date: 3 September 1984
     place: "(last residence: Sondheimer, Louisiana)"
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Melba
       surname: Whatley
+      parents: "(dau. of Enoch J. Whatley and Clara Loread LaCroix)"
 childrenGroups:
   - children:
       - name: daughter

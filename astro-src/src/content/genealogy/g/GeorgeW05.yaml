@@ -1,5 +1,6 @@
 id: GeorgeW05
 letter: G
+sequence: 49
 lastUpdated: 22 July 2022
 relationship: son
 parentId: James04
@@ -12,10 +13,20 @@ head:
     place: Georgia
   death:
     date: 12 June 1945
+  burial:
+    place: "Springhead Methodist Church Cemetery   Georgia"
 marriages:
   - spouse:
       givenName: Rhoda
       surname: Corbitt
+      parents: "(dau. of James Madison Corbitt and Elizabeth M. Pafford)"
+      birth:
+        date: 23 December 1876
+        place: Georgia
+      death:
+        date: 14 November 1960
+      burial:
+        place: "Springhead Methodist Church Cemetery   Georgia"
 childrenGroups:
   - children:
       - name: Alene O'Neal Vining
@@ -74,6 +85,8 @@ childrenGroups:
         death:
           date: 28 November 2012
           place: "Vincennes, Indiana"
+        burial:
+          description: cremated
       - name: Anna Vining
         birth:
           date: 2 April 1904

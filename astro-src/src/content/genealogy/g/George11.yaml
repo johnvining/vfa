@@ -1,5 +1,6 @@
 id: George11
 letter: G
+sequence: 4
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Elizabeth
       surname: "[...]"
+      birth:
+        date: age 32 y. as of 1870 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: John Vining

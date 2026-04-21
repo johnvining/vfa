@@ -1,5 +1,6 @@
 id: GeorgeR01
 letter: G
+sequence: 38
 lastUpdated: 22 July 2022
 relationship: son
 parentId: JeffersonT01
@@ -13,11 +14,14 @@ head:
   death:
     date: 23 May 1983
     place: "McMinnville, Oregon"
+  burial:
+    place: "Masonic Cemetery   McMinnville, Oregon"
 marriages:
   - date: 28 March 1928
     spouse:
       givenName: Fidella Emmaline
       surname: Golladay
+      parents: "(dau. of Byrd Monroe Golladay and Sarah E. Kaufman)"
       birth:
         date: 26 August 1894
         place: "Rardin, Illinois"
@@ -27,6 +31,24 @@ marriages:
       burial:
         place: "Masonic Cemetery   McMinnville, Oregon"
 childrenGroups:
+  - headingText: "adopted children"
+    children:
+      - name: Sarah Pearl Vining
+        birth:
+          date: age 16 y. as of 1930 census
+          place: Canada
+      - name: Vera I. Vining
+        birth:
+          date: age 15 y. as of 1930 census
+          place: Oregon
+      - name: Quay Vining
+        birth:
+          date: age 14 y. as of 1930 census
+          place: Oregon
+      - name: Charles C. Vining
+        birth:
+          date: age 11 y. as of 1930 census
+          place: Oregon
   - children:
       - name: Wilma I. Vining
         birth:
@@ -54,7 +76,12 @@ childrenGroups:
           place: "McMinnville, Oregon"
         burial:
           place: "Willamette National Cemetery   Portland, Oregon"
-      - name: "Tom Martin Vining   5 November 1935   Corvallis, Oregon"
+      - name: Tom Martin Vining
+        birth:
+          date: 5 November 1935
+          place: "Corvallis, Oregon"
+        marriages:
+          - date: Leah Fulmer
         death:
           date: September 2012
         burial:

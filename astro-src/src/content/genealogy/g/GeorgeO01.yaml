@@ -1,5 +1,6 @@
 id: GeorgeO01
 letter: G
+sequence: 36
 lastUpdated: 22 July 2022
 relationship: son
 parentId: WilliamO02
@@ -12,10 +13,21 @@ head:
     place: Massachusetts
   death:
     date: 21 July 1883
+  burial:
+    place: "Springfield Cemetery   Springfield, Massachusetts"
 marriages:
   - spouse:
       givenName: Abbie Maria
       surname: Knowlton
+      parents: "(dau. of Austin Knowlton and Abigail G. Edwards)"
+      birth:
+        date: 29 December 1848
+        place: "Holden, Massachusetts"
+      death:
+        date: 5 June 1949
+        place: "Springfield, Massachusetts"
+      burial:
+        place: "Springfield Cemetery   Springfield, Massachusetts"
 childrenGroups:
   - children:
       - name: Henry Dwight Vining

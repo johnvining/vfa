@@ -1,0 +1,72 @@
+id: George08
+letter: G
+sequence: 9
+lastUpdated: 22 July 2022
+relationship: son
+parentId: JohnE02
+parentLetter: J
+parentDesc: John Elmer Vining and Florence M. Payne
+head:
+  givenName: George
+  birth:
+    date: "1903"
+    place: Indiana
+  death:
+    date: "1965"
+  burial:
+    place: "IOOF Cemetery   New Haven, Indiana"
+marriages:
+  - spouse:
+      givenName: Susanna Katherine
+      surname: Rice
+      birth:
+        date: "1906"
+        place: Indiana
+      death:
+        date: "1996"
+      burial:
+        place: "IOOF Cemetery   New Haven, Indiana"
+childrenGroups:
+  - children:
+      - name: Mae Josephine Vining
+        birth:
+          date: age 1 y., 1 m. as of 1930 census
+          place: Indiana
+        marriages:
+          - date: 26 June 1948
+            place: Indiana
+            spouse: Ira Vernon Brewster
+      - name: Paul J. Vining
+        entryId: PaulJ01
+        entryLetter: P
+        birth:
+          date: 8 October 1934
+          place: "Fort Wayne, Indiana"
+        marriages:
+          - date: 7 August 1954
+            place: "Fort Wayne, Indiana"
+            spouse: Patricia L. Repp
+        death:
+          date: 20 August 2020
+          place: Indiana
+      - name: Earl Vining
+      - name: George Vining Jr.
+docsUrl: Gsources/George08doc.htm
+raw: |-
+  <a name="George08"><a><font size=+2>George Vining</font>
+     (son of <a href="Jfamilies.htm#JohnE02">John Elmer Vining and Florence M. Payne</a>)
+     b. 1903   Indiana
+     m. Susanna Katherine Rice
+              b. 1906   Indiana
+              d. 1996
+                    bur. IOOF Cemetery   New Haven, Indiana
+     d. 1965
+           bur. IOOF Cemetery   New Haven, Indiana
+
+  <font size=+1>children:</font>
+     Mae Josephine Vining   b. age 1 y., 1 m. as of 1930 census   Indiana   -   m. 26 June 1948   Indiana   Ira Vernon Brewster
+     <a href="Pfamilies.htm#PaulJ01">Paul J. Vining</a>   b. 8 October 1934   Fort Wayne, Indiana   -   m. 7 August 1954   Fort Wayne, Indiana   Patricia L. Repp   -   d. 20 August 2020   Indiana
+     Earl Vining
+     George Vining Jr.
+
+  <a href="Gsources/George08doc.htm">documentation and notes</a>

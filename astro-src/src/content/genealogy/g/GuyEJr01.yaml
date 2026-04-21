@@ -12,10 +12,18 @@ head:
     place: Nebraska
   death:
     date: December 1973
+  burial:
+    place: "Riverhurst Cemetery   Endicott, New York"
 marriages:
   - spouse:
       givenName: Irene A.
       surname: Townsend
+      birth:
+        date: "1917"
+      death:
+        date: "1990"
+      burial:
+        place: "Riverhurst Cemetery   Endicott, New York"
 childrenGroups:
   - children:
       - name: Guy Ellsworth Vining III

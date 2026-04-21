@@ -1,5 +1,6 @@
 id: GeorgeT02
 letter: G
+sequence: 40
 lastUpdated: 22 July 2022
 relationship: son
 parentId: ThomasA02
@@ -13,10 +14,19 @@ head:
   death:
     date: 5 November 1875
     place: "Astoria, Oregon"
+  burial:
+    place: "Fort Steilacoom Cemetery   Steilacoom, Washington"
 marriages:
   - spouse:
       givenName: Mary Henrietta
       surname: Hoffman
+      birth:
+        date: 26 June 1837
+        place: Indiana
+      death:
+        date: 12 January 1933
+      burial:
+        place: "Ashland Cemetery   Ashland, Oregon"
 childrenGroups:
   - children:
       - name: Kate M. Vining

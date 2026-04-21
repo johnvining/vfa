@@ -1,5 +1,6 @@
 id: GeorgeR02
 letter: G
+sequence: 37
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -11,10 +12,19 @@ head:
   death:
     date: 2 August 1900
     place: "Springfield, Massachusetts"
+  burial:
+    place: "Springfield Cemetery   Springfield, Massachusetts"
 marriages:
   - spouse:
       givenName: Sarah E.
       surname: Hitchcock
+      birth:
+        date: 27 June 1839
+        place: Massachusetts
+      death:
+        date: 22 January 1904
+      burial:
+        place: "Springfield Cemetery   Springfield, Massachusetts"
 childrenGroups:
   - children:
       - name: Etta J. Vining

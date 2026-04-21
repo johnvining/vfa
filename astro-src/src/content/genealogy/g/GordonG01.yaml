@@ -17,6 +17,14 @@ marriages:
   - spouse:
       givenName: Martha
       surname: Yarbro
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Elizabeth Swift Vining
+        birth:
+          date: 15 July 1945
+        death:
+          date: 23 June 1990
 raw: |-
   <a name="GordonG01"></a><font size=+2>Gordon Geoffrey Vining</font>
      (son of <a href="Lfamilies.htm#LeonardE01">Leonard Edwin Vining and Ada Albena Walker</a>)

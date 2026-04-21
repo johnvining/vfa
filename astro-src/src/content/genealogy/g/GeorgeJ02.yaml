@@ -1,5 +1,6 @@
 id: GeorgeJ02
 letter: G
+sequence: 27
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Thomas02
@@ -14,6 +15,13 @@ marriages:
   - spouse:
       givenName: Delinda
       surname: Tuller
+      parents: "(dau. of Asaph Tuller and Ruth Case)"
+      birth:
+        date: age 54 y. as of 1860 census
+        place: Connecticut
+      death:
+        date: 14 May 1875
+        place: "Mount Kisco, Westchester County, New York"
 childrenGroups:
   - children:
       - name: Harriet Vining

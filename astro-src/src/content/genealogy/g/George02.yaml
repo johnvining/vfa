@@ -1,5 +1,6 @@
 id: George02
 letter: G
+sequence: 2
 lastUpdated: 22 July 2022
 relationship: son
 parentId: GeorgeB01
@@ -12,12 +13,15 @@ head:
   death:
     date: 8 April 1822
     place: "Plainfield, Hampshire County, Massachusetts"
+  burial:
+    place: "West Hill Cemetery   Plainfield, Massachusetts"
 marriages:
   - date: 27 July 1778
     place: "Bridgewater, Plymouth County, Massachusetts"
     spouse:
       givenName: Abigail
       surname: Alden
+      parents: "(dau. of Ezra Alden and Rebecca Keith)"
       birth:
         date: 19 March 1761
         place: "Bridgewater, Plymouth County, Massachusetts"

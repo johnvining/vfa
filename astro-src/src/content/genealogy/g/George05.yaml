@@ -1,12 +1,13 @@
 id: George05
 letter: G
+sequence: 10
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
 head:
   givenName: George
   birth:
-    date: Australia
+    place: Australia
 childrenGroups:
   - children:
       - name: Ron Vining

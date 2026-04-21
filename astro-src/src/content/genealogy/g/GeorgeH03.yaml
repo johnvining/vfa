@@ -1,5 +1,6 @@
 id: GeorgeH03
 letter: G
+sequence: 26
 lastUpdated: 22 July 2022
 relationship: son
 parentId: WilliamE02
@@ -13,10 +14,21 @@ head:
   death:
     date: 10 July 2013
     place: "Casco, Cuberland County, Maine"
+  burial:
+    place: "Mt. Pleasant Cemetery   Pembroke, Plymouth County, Massachusetts"
 marriages:
   - spouse:
       givenName: Edith Christina
       surname: Schmook
+      parents: "(dau. of Allen B. Schmook and Christina Thomas)"
+      birth:
+        date: 10 August 1928
+        place: "Boston, Suffolk County, Massachusetts"
+      death:
+        date: 15 March 2008
+        place: "Plymouth, Plymouth County, Massachusetts"
+      burial:
+        place: "Mt. Pleasant Cemetery   Pembroke, Plymouth County, Massachusetts"
 childrenGroups:
   - children:
       - name: Christine Vining
@@ -32,6 +44,8 @@ childrenGroups:
         death:
           date: 6 July 2017
           place: "Kingston, Massachusetts"
+        burial:
+          description: "but. Center Cemetery   Pembroke, Massachusetts"
       - name: Richard Vining
         entryId: Richard10
         entryLetter: R

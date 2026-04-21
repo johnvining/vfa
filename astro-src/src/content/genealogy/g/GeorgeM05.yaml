@@ -1,5 +1,6 @@
 id: GeorgeM05
 letter: G
+sequence: 32
 lastUpdated: 22 July 2022
 relationship: son
 parentId: CosbyL02
@@ -17,6 +18,9 @@ marriages:
   - spouse:
       givenName: Lucy M.
       surname: Moseley
+      birth:
+        date: age 17 y. as of 1860 census
+        place: Tennessee
 childrenGroups:
   - children:
       - name: Teresa A. Vining

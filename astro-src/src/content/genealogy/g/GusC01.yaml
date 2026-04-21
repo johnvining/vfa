@@ -12,10 +12,22 @@ head:
   death:
     date: 22 February 1959
     place: Georgia
+  burial:
+    place: "Lovejoy Cemetery   Stockton, Georgia"
 marriages:
   - spouse:
       givenName: Ethel
       surname: Malone
+      birth:
+        date: 6 August 1899
+      death:
+        date: 13 September 1980
+      burial:
+        place: "Lovejoy Cemetery   Stockton, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Donald Vining
 docsUrl: Gsources/GusC01doc.htm
 raw: |-
   <a name="GusC01"></a><font size=+2>Gus Columbus Vining</font>

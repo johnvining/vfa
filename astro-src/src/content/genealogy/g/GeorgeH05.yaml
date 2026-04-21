@@ -1,5 +1,6 @@
 id: GeorgeH05
 letter: G
+sequence: 22
 lastUpdated: 22 July 2022
 relationship: son
 parentId: ThaddeusS01
@@ -12,10 +13,16 @@ head:
     place: Illinois
   death:
     date: August 1922
+  burial:
+    place: "Woodland Cemetery   Jackson, Michigan"
 marriages:
   - spouse:
       givenName: Dora P.
       surname: Scheele
+      parents: "(dau. of [&#8230] Scheele and Pauline D. [&#8230;])"
+      birth:
+        date: age 24 y. as of 1920 census
+        place: Michigan
 childrenGroups:
   - children:
       - name: Mary E. Vining

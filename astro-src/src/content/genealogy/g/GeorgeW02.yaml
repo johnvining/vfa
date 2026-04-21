@@ -1,5 +1,6 @@
 id: GeorgeW02
 letter: G
+sequence: 43
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Page01
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: "Katharine A. &#8220;Kate&#8221;"
       surname: Rollins
+      birth:
+        date: age 51 y. at death
+        place: Maine
+      death:
+        date: 3 October 1889
+      burial:
+        place: "Center Hill Cemetery   Weld, Maine"
 childrenGroups:
   - children:
       - name: Clara E. Vining

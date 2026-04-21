@@ -12,10 +12,18 @@ head:
   death:
     date: 20 July 1986
     place: "(last residence: Hurtsboro, Alabama)"
+  burial:
+    place: "Hurtsboro Cemetery   Hurtsboro, Alabama"
 marriages:
   - spouse:
       givenName: Sarah Caroline
       surname: Persons
+      birth:
+        date: 3 September 1913
+      death:
+        date: 3 March 2004
+      burial:
+        place: "Hurtsboro Cemetery   Hurtsboro, Alabama"
 childrenGroups:
   - children:
       - name: Guy Macon Vining

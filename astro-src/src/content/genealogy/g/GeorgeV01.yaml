@@ -1,5 +1,6 @@
 id: GeorgeV01
 letter: G
+sequence: 42
 lastUpdated: 22 July 2022
 relationship: son
 parentId: JeffersonD01
@@ -12,6 +13,8 @@ head:
     place: Georgia
   death:
     date: 2 November 2005
+  burial:
+    place: "Mt. Zion Baptist Church Cemetery   Axson, Georgia"
 marriages:
   - spouse:
       givenName: Myrtice

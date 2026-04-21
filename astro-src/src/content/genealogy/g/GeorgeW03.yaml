@@ -1,5 +1,6 @@
 id: GeorgeW03
 letter: G
+sequence: 44
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Israel02
@@ -11,11 +12,14 @@ head:
     date: 21 February 1848
   death:
     date: 27 November 1915
+  burial:
+    place: "Evergreen Washelli Memorial Park   Seattle, Washington"
 marriages:
   - date: 16 March 1878
     spouse:
       givenName: Mary Edna
       surname: Lucas
+      parents: "(dau. of Henry A. Lucas and Mary [...])"
       birth:
         date: July 1850
         place: Maine

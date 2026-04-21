@@ -13,12 +13,15 @@ head:
   death:
     date: 23 March 1895
     place: "Neenah, Wisconsin"
+  burial:
+    place: "Oak Hill Cemetery   Neenah, Wisconsin"
 marriages:
   - number: 1
     date: 13 November 1849
     spouse:
       givenName: Mary Eliza
       surname: Huxley
+      parents: "(dau. of Milton Huxley and Harriet Hickox)"
       birth:
         date: 30 December 1828
         place: "Stafford, New York"
@@ -28,6 +31,15 @@ marriages:
         place: "Oak Hill Cemetery   Neenah, Wisconsin"
   - number: 2
     date: Clara Alice Huxley
+    spouse:
+      birth:
+        date: "1836"
+        place: Massachusetts
+      death:
+        date: 27 January 1929
+        place: "Chicago, Illinois"
+      burial:
+        place: "Oak Hill Cemetery   Neenah, Wisconsin"
 childrenGroups:
   - spouseRef: Mary Eliza Huxley
     children:
@@ -43,6 +55,7 @@ childrenGroups:
           - date: 30 June 1881
             place: "Neenah, Wisconsin"
             spouse: Emil Bernhard Sorley
+        middleNote: "23 November 1903   Wayauwega, Wisconsin"
         burial:
           place: "Oakwood Cemetery   Weyauwega, Wisconsin"
       - name: Byron Vining

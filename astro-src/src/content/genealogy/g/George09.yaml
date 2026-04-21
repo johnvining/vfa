@@ -1,5 +1,6 @@
 id: George09
 letter: G
+sequence: 5
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Cullen01
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Amanda
       surname: "[...]"
+      birth:
+        date: age 20 y. as of 1860 census
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: George L. Vining

@@ -1,5 +1,6 @@
 id: GeorgeM03
 letter: G
+sequence: 30
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Calvin02
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Mary
       surname: Mays
+      birth:
+        date: age 42 y. as of 1880 census
+        place: Virginia
 childrenGroups:
   - children:
       - name: William Vining

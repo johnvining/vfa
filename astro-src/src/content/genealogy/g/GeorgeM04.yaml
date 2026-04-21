@@ -1,5 +1,6 @@
 id: GeorgeM04
 letter: G
+sequence: 31
 lastUpdated: 22 July 2022
 relationship: son
 parentId: ThomasWJr01
@@ -19,11 +20,19 @@ marriages:
     spouse:
       givenName: Martha Florence
       surname: Burnham
+      parents: "(dau. of Alexander Marion Burnham and Sarah Ann Brooks)"
       birth:
         date: 6 January 1873
         place: "Hidalgo, Illinois"
       death:
         date: June 1950
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Floreine Vining
+        marriages:
+          - place: "Wichita Falls, Texas"
+            spouse: "[...] Moore"
 raw: |-
   <a name="GeorgeM04"></a><font size=+2>George M. Vining</font>
      (son of <a href="Tfamilies.htm#ThomasWJr01">Thomas William Vining Jr. and Mary Jane Bray</a>)

@@ -1,5 +1,6 @@
 id: GeorgeH01
 letter: G
+sequence: 24
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Jared02
@@ -21,6 +22,13 @@ marriages:
       birth:
         date: age 30 y. as of 1880 census
         place: Maine
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Susan Vining
+        birth:
+          date: age 5 y. as of 1880 census
+          place: Maine
 docsUrl: Gsources/GeorgeH01doc.htm
 raw: |-
   <a name="GeorgeH01"></a><font size=+2>George Henry Vining</font>

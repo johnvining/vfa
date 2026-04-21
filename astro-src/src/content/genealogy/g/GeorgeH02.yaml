@@ -1,5 +1,6 @@
 id: GeorgeH02
 letter: G
+sequence: 25
 lastUpdated: 22 July 2022
 relationship: son
 parentId: GeorgeW04
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Elizabeth May
       surname: Morgan
+      parents: "(dau. of Edwin Morgan and Lucia Turner)"
       birth:
         date: 20 April 1878
         place: "Florence, Minnesota"
@@ -31,6 +33,7 @@ marriages:
     spouse:
       givenName: Antis Adwilda
       surname: Babcock
+      parents: "(dau. of Plympton Babcock and Lucinda Montague)"
       birth:
         date: 18 January 1875
         place: Kansas

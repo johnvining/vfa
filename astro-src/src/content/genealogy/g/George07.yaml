@@ -1,5 +1,6 @@
 id: George07
 letter: G
+sequence: 11
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -9,6 +10,11 @@ marriages:
   - spouse:
       givenName: Eva Joyce
       surname: Doster
+      parents: "(dau. of Sidney Doster and Albert Young)"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: son
 raw: |-
   <a name="George07"></a><font size=+2>George Vining</font>
      (son of [?])

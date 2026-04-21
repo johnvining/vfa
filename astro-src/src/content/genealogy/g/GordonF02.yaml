@@ -13,11 +13,14 @@ head:
   death:
     date: 18 May 1954
     place: Louisiana
+  burial:
+    place: "Chappapeela Baptist Cemetery   Amite, Louisiana"
 marriages:
   - date: 29 December 1923
     spouse:
       givenName: Nettie Ophelia
       surname: Passman
+      parents: "(dau. of John William Passman and Annis Idell Corkern)"
       birth:
         date: 30 July 1902
         place: Louisiana
@@ -65,6 +68,8 @@ childrenGroups:
         death:
           date: 24 July 2017
           place: "North Wilkesboro, North Carolina"
+        burial:
+          description: "not buried - body donated for medical education and research"
       - name: Frances Colleen Vining
         birth:
           date: 19 October 1934

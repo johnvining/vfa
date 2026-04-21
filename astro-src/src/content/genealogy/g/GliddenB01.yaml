@@ -13,10 +13,13 @@ head:
   death:
     date: 28 July 1881
     place: "Marlette, Michigan"
+  burial:
+    place: "Marlette City Cemetery   Marlette, Michigan"
 marriages:
-  - spouse:
-      givenName: "Nissouri, Ontario,"
-      surname: Canada
+  - date: "Nissouri, Ontario, Canada"
+    spouse:
+      givenName: Rebecca
+      surname: Gleason
       birth:
         date: "1830"
         place: "Ontario, Canada"

@@ -12,17 +12,29 @@ head:
     place: "Thorndale, Ontario, Canada"
   death:
     date: 3 October 1946
+  burial:
+    place: "Vining Cemetery   Thorndale, Ontario, Canada"
 marriages:
   - date: 23 May 1917
     place: "Aylmer West, Ontario, Canada"
     spouse:
       givenName: Ethel Pearl
       surname: Timpany
+      parents: "(dau. of Charles Timpany and Hannah Clarke)"
       birth:
         date: age 29 y. at marriage
         place: "Aylmer, Ontario, Canada"
       death:
         date: 17 August 1956
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Marjorie Elizabeth Vining
+        birth:
+          date: 28 May 1919
+        death:
+          date: 27 April 2004
+          place: "St. Marys, Ontario, Canada"
 raw: |-
   <a name="GliddenB02"></a><font size=+2>Glidden Bodwell Vining</font>
      (son of <a href="Sfamilies.htm#SalmonJr01">Salmon Vining Jr. and Esther F. Gourlay</a>)

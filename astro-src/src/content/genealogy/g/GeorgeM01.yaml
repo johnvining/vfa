@@ -1,5 +1,6 @@
 id: GeorgeM01
 letter: G
+sequence: 33
 lastUpdated: 22 July 2022
 relationship: son
 parentId: EmetJ01
@@ -13,10 +14,30 @@ head:
   death:
     date: 9 May 1979
     place: "Jackson, Mississippi"
+  burial:
+    place: "Drew Cemetery   Drew, Mississippi"
 marriages:
   - spouse:
       givenName: Tillie Elizabeth
       surname: Sizemore
+      birth:
+        date: 7 October 1904
+      death:
+        date: 4 March 1975
+      burial:
+        place: "Drew Cemetery   Drew, Mississippi"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: George Matthew Vining Jr.
+        entryId: GeorgeMJr01
+        birth:
+          date: 26 November 1930
+        marriages:
+          - date: Deleslyn Bland
+        death:
+          date: 4 June 2018
+          place: "Jackson, Mississippi"
 raw: |-
   <a name="GeorgeM01"></a><font size=+2>George Matthew Vining</font>
      (son of <a href="Efamilies.htm#EmetJ01">Emet James Vining and Mary Cecilia Mayer</a>)

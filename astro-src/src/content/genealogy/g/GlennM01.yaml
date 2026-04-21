@@ -12,6 +12,8 @@ head:
   death:
     date: 9 February 1988
     place: "(last residence: South Bend, Indiana)"
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
 marriages:
   - number: 1
     date: Mabel Shumaker
@@ -19,6 +21,37 @@ marriages:
     date: Mary Lotimore
   - number: 3
     date: Ruby Irene Samules
+    spouse:
+      birth:
+        date: "1915"
+      death:
+        date: "1996"
+      burial:
+        place: "Etna Green Cemetery   Etna Green, Indiana"
+childrenGroups:
+  - headingText: "child by Mabel Shumaker"
+    children:
+      - name: Glenn Minor Vining Jr.
+        entryId: GlennMJr01
+        birth:
+          date: 29 May 1925
+          place: "Bourbon, Indiana"
+        marriages:
+          - date: "1946"
+            spouse: Lois June Larson
+        death:
+          date: 30 May 1987
+          place: "Augusta, Georgia"
+        burial:
+          place: "Augusta National Cemetery   Augusta, Georgia"
+  - headingText: "child by Mary Lotimore"
+    children:
+      - name: Donna Vining
+  - headingText: "child by Ruby Samules"
+    children:
+      - name: Robert Vining
+        birth:
+          date: 7 December 1950
 docsUrl: Gsources/GlennM01doc.htm
 raw: |-
   <a name="GlennM01"></a><font size=+2>Glenn Minor Vining</font>

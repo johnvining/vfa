@@ -1,5 +1,6 @@
 id: George10
 letter: G
+sequence: 7
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Lucinda
       surname: "[...]"
+      birth:
+        date: age 24 y. as of 1870 census
+        place: "Indian Territory"
 childrenGroups:
   - children:
       - name: Betsy Vining

@@ -1,5 +1,6 @@
 id: GeorgeD01
 letter: G
+sequence: 19
 lastUpdated: 22 July 2022
 relationship: son
 parentId: CharlesW04
@@ -13,10 +14,32 @@ head:
   death:
     date: 1 May 1965
     place: "Trussville, Jefferson County, Alabama"
+  burial:
+    place: "Grace Community Church Cemetery   Hoover, Alabama"
 marriages:
   - spouse:
       givenName: Minnie
       surname: Garner
+      parents: "(dau. of Elsberry B. Garner and Sarah Angeline Pace)"
+      birth:
+        date: ca. 1897
+        place: Alabama
+      death:
+        date: 13 March 1938
+childrenGroups:
+  - headingText: child
+    children:
+      - name: James Edward Vining
+        entryId: JamesE06
+        entryLetter: J
+        birth:
+          date: 20 August 1930
+          place: "Bessemer, Jefferson County, Alabama"
+        marriages:
+          - date: Sue Doris Partlow
+        death:
+          date: 11 September 2017
+          place: "Trussville, Jefferson County, Alabama"
 docsUrl: Gsources/GeorgeD01doc.htm
 raw: |-
   <a name="GeorgeD01"></a><font size=+2>George Dewey Vining</font>

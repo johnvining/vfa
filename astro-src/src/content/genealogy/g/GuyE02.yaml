@@ -12,10 +12,21 @@ head:
     place: Kansas
   death:
     date: 9 November 1961
+  burial:
+    place: "Horton Cemetery   Horton, Kansas"
 marriages:
   - spouse:
       givenName: Lavere M.
       surname: Johnson
+      parents: "(dau. of R. H. Johnson and Blanche Jones)"
+      birth:
+        date: 29 May 1895
+        place: "Lawrence, Kansas"
+      death:
+        date: 18 October 1943
+        place: "Manhattan, New York City, New York"
+      burial:
+        place: "Horton Cemetery   Horton, Kansas"
 childrenGroups:
   - children:
       - name: Dorothy Vining

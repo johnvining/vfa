@@ -1,5 +1,6 @@
 id: GeorgeC02
 letter: G
+sequence: 18
 lastUpdated: 22 July 2022
 relationship: son
 parentId: ThomasJ02
@@ -12,10 +13,19 @@ head:
     place: Alabama
   death:
     date: 28 November 2004
+  burial:
+    place: "Forest Grove Memorial Gardens   Pleasant Grove, Jefferson County, Alabama"
 marriages:
   - spouse:
       givenName: Norma Jean
       surname: Harris
+      parents: "(dau. of Floyd Harris and Audrey Mae Bradley)"
+      birth:
+        date: 28 August 1935
+      death:
+        date: 2 November 2019
+      burial:
+        place: "Forest Grove Memorial Gardens"
 childrenGroups:
   - children:
       - name: Terry L. Vining

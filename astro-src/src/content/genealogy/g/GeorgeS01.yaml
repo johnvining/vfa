@@ -1,5 +1,6 @@
 id: GeorgeS01
 letter: G
+sequence: 39
 lastUpdated: 22 July 2022
 relationship: son
 parentId: Charles01
@@ -12,9 +13,19 @@ head:
   death:
     date: 9 July 1962
     place: "Cortland, New York"
+  burial:
+    place: "Hillcrest Cemetery   DeRuyter, New York"
 marriages:
   - number: 1
     date: Kate Kellyhouse
+    spouse:
+      birth:
+        place: "Binghamton, New York"
+      death:
+        date: 10 October 1965
+        place: "Fabius, New York"
+      burial:
+        place: "Cortland Rural Cemetery   Cortland, New York"
   - number: 2
     date: 14 June 1947
     place: "Cortland, New York"
@@ -29,6 +40,10 @@ marriages:
         place: "Cortland, New York"
       burial:
         place: "DeRuyter, New York"
+childrenGroups:
+  - headingText: "child by Kate Kellyhouse"
+    children:
+      - name: child
 raw: |-
   <a name="GeorgeS01"></a><font size=+2>George S. Vining</font>
      (son of <a href="Cfamilies.htm#Charles01">Charles Vining and Sophronia K. Neff</a>)

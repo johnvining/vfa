@@ -1,5 +1,6 @@
 id: George06
 letter: G
+sequence: 8
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Rebecca
       surname: "[...]"
+      birth:
+        date: age 20 y. as of 1880 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Jane Vining

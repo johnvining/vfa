@@ -13,9 +13,18 @@ head:
   death:
     date: 31 August 2017
 marriages:
-  - spouse:
-      givenName: "(1?) Mary"
+  - number: 1
+    spouse:
+      givenName: Mary
       surname: Meek
+  - number: 2
+    date: "Linda [&#8230;]"
+  - number: 3
+    date: 12 April 1997
+    place: "South Dakota"
+    spouse:
+      givenName: Barbara
+      surname: Eide
 childrenGroups:
   - spouseRef: Mary Meek
     children:

@@ -1,5 +1,6 @@
 id: GeorgeA02
 letter: G
+sequence: 15
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -11,10 +12,20 @@ head:
   death:
     date: 26 March 2012
     place: "Minden, Webster Parish, Louisiana"
+  burial:
+    place: "Minden City Cemetery   Minden, Webster Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Mildred
       surname: Aucoin
+      birth:
+        date: 18 October 1925
+        place: "Morgan City, Louisiana"
+      death:
+        date: 8 April 2001
+        place: "Morgan City, Louisiana"
+      burial:
+        place: "Minden City Cemetery   Minden, Webster Parish, Louisiana"
 childrenGroups:
   - children:
       - name: George August Vining Jr.

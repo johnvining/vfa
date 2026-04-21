@@ -1,5 +1,6 @@
 id: GeorgeE01
 letter: G
+sequence: 21
 lastUpdated: 22 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -9,6 +10,13 @@ marriages:
   - spouse:
       givenName: Frances
       surname: "[&#8230]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: George Earl Vining
+        entryId: GeorgeE02
+        marriages:
+          - date: Roberta Perry
 raw: |-
   <a name="GeorgeE01"></a><font size=+2>George Ernest Vining</font>
      (son of [?])

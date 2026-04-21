@@ -13,8 +13,37 @@ head:
 marriages:
   - number: 1
     date: Lucille Eagle
+    spouse:
+      birth:
+        date: "1898"
+        place: Michigan
+      death:
+        date: "1927"
   - number: 2
     date: Gertrude M. Sampson
+    spouse:
+      birth:
+        date: age 33 y. as of 1930 census
+        place: Canada
+childrenGroups:
+  - headingText: "child by Lucille Eagle"
+    children:
+      - name: Phyllis Elaine Vining
+        birth:
+          date: 10 April 1922
+          place: Michigan
+        marriages:
+          - date: "1945"
+            spouse: Edmund Cichoracki
+  - headingText: "child by Gertrude M. Sampson"
+    children:
+      - name: Barbara Anne Vining
+        birth:
+          date: 14 September 1929
+          place: Michigan
+        marriages:
+          - date: 24 September 1955
+            spouse: Wayne Proctor
 docsUrl: Gsources/GlennR01doc.htm
 raw: |-
   <a name="GlennR01"></a><font size=+2>Glenn Russell Vining</font>

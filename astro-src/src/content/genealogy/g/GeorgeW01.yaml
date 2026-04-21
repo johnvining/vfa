@@ -1,5 +1,6 @@
 id: GeorgeW01
 letter: G
+sequence: 48
 lastUpdated: 22 July 2022
 relationship: son
 parentId: GeorgeJr01
@@ -11,10 +12,18 @@ head:
   death:
     date: 28 April 1879
     place: "Denver, Colorado"
+  burial:
+    place: "Forest Lawn Cemetery   Buffalo, New York"
 marriages:
   - spouse:
       givenName: Emily
       surname: Holland
+      birth:
+        date: 23 April 1822
+        place: "Belchertown, Massachusetts"
+      death:
+        date: 29 June 1864
+        place: "Buffalo, New York"
 childrenGroups:
   - children:
       - name: Edward Payson Vining

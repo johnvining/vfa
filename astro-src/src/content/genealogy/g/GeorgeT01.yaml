@@ -1,5 +1,6 @@
 id: GeorgeT01
 letter: G
+sequence: 41
 lastUpdated: 22 July 2022
 relationship: son
 parentId: OtisS01
@@ -13,6 +14,8 @@ head:
   death:
     date: 13 January 1896
     place: "Jay, Maine"
+  burial:
+    place: "Jay Hill Cemetery   Jay, Maine"
 marriages:
   - date: 12 May 1878
     spouse:

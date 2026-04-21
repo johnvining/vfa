@@ -13,6 +13,12 @@ marriages:
   - spouse:
       givenName: Roberta Jean
       surname: Daugherty
+      birth:
+        date: 17 June 1932
+        place: "Natrona, Pennsylvania"
+      death:
+        date: 21 November 2013
+        place: New York
 childrenGroups:
   - children:
       - name: Gilbert J. Vining

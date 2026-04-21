@@ -1,5 +1,6 @@
 id: GeorgeW04
 letter: G
+sequence: 45
 lastUpdated: 22 July 2022
 relationship: son
 parentId: DavidH01
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Eleanor Adelaide
       surname: Lampman
+      parents: "(dau. of Stephen L. Lampman and Mary Adelaid Lamb)"
       birth:
         date: 17 May 1855
         place: "Bennington, Bennington County, Vermont"

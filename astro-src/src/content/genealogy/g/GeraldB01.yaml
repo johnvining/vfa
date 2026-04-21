@@ -13,10 +13,20 @@ head:
   death:
     date: 23 August 1984
     place: "Texas   (last residence: Dallas, Texas)"
+  burial:
+    place: "Restland Memorial Park   Dallas, Texas"
 marriages:
   - spouse:
       givenName: Jean Oleta
       surname: Young
+      birth:
+        date: 4 August 1927
+        place: "Columbus, Ohio"
+      death:
+        date: 11 December 2007
+        place: "Dallas, Texas"
+      burial:
+        place: "Restland Memorial Park   Dallas, Texas"
 childrenGroups:
   - children:
       - name: Joseph Lee Vining

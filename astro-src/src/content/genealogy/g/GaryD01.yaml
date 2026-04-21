@@ -13,6 +13,12 @@ marriages:
   - spouse:
       givenName: Barbara Ann
       surname: Hovancik
+      birth:
+        date: "1944"
+      death:
+        date: 13 July 2015
+      burial:
+        place: "Calvary Cemetery   Johnson City, New York"
 childrenGroups:
   - children:
       - name: Dawn Marie Vining

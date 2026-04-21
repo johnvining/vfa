@@ -12,10 +12,43 @@ head:
   death:
     date: 14 April 1986
     place: "Sacramento, California"
+  burial:
+    place: "Mount Vernon Memorial Park   Fair Oaks, California"
 marriages:
   - spouse:
       givenName: Gladys Ella
       surname: Beckman
+      birth:
+        date: 20 September 1912
+        place: "Iowa"
+      death:
+        date: 20 August 1990
+        place: "Placer, California"
+      burial:
+        place: "Mount Vernon Memorial Park   Fair Oaks, California"
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: John Sanford Vining
+        entryId: JohnS02
+        entryLetter: J
+        birth:
+          date: 12 September 1945
+          place: "Sioux City, Iowa"
+        marriages:
+          - number: 1
+            date: 2 September 1967
+            place: "North Highlands, California"
+            spouse: "Claudia Camille Smith,   divorced 1976   California"
+          - number: 2
+            date: 14 January 1977
+            place: "Carmichael, California"
+            spouse: "Carole Irene Smpardos"
+  - headingText: "child"
+    children:
+      - name: Margaret Ann Vining
+        birth:
+          date: 6 February 1952
 docsUrl: Gsources/GaleM01doc.htm
 raw: |-
   <a name="GaleM01"></a><font size=+2>Gale Merle Vining</font>

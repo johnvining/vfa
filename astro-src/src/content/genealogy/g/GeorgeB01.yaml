@@ -1,5 +1,6 @@
 id: GeorgeB01
 letter: G
+sequence: 16
 lastUpdated: 22 July 2022
 relationship: son
 parentId: George01
@@ -15,6 +16,7 @@ marriages:
     spouse:
       givenName: Ruth
       surname: Derby
+      parents: "(dau. of Jonathan Derby and Ruth Shaw)"
       birth:
         date: 14 December 1722
         place: "Weymouth, Norfolk County, Massachusetts"
@@ -25,6 +27,7 @@ marriages:
     spouse:
       givenName: Mary
       surname: Dunham
+      parents: "(dau. of Nathaniel Dunham and [Mercy or Marcey?] [...])"
       birth:
         date: 17 August 1724
         place: "Norton, Massachusetts"
