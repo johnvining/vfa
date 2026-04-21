@@ -13,11 +13,14 @@ head:
   death:
     date: 14 October 1858
     place: "Southwick, Massachusetts"
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
 marriages:
   - date: 8 February 1842
     spouse:
       givenName: Mary Cecilia
       surname: Forward
+      parents: "(dau. of Pliny Forward and Fanny Root)"
       birth:
         date: 31 October 1819
         place: Massachusetts

@@ -13,10 +13,20 @@ head:
   death:
     date: 15 August 1956
     place: Ohio
+  burial:
+    place: "Bradford Cemetery   Bradbury, Ohio"
 marriages:
   - spouse:
       givenName: Minnie Mae
       surname: Nelson
+      birth:
+        date: 1 August 1894
+        place: "Clifton, West Virginia"
+      death:
+        date: 8 April 1978
+        place: Ohio
+      burial:
+        place: "Rock Springs Cemetery   Rock Springs, Ohio"
 childrenGroups:
   - children:
       - name: Helen Blanch Vining

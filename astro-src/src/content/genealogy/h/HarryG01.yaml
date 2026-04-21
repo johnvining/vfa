@@ -13,12 +13,15 @@ head:
   death:
     date: 18 June 1932
     place: "Minot, Maine"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Maine"
 marriages:
   - date: 21 January 1896
     place: "East Winthrop, Maine"
     spouse:
       givenName: Ella Mae
       surname: Conant
+      parents: "(dau. of Charles B. Conant and Tryphena Staples)"
       birth:
         date: 1 August 1875
         place: "Strong, Maine"
@@ -29,7 +32,10 @@ marriages:
         place: "Mount Auburn Cemetery   Auburn, Maine"
 childrenGroups:
   - children:
-      - name: "daughter   stillborn 17 May 1897   Strong, Maine"
+      - name: daughter
+        note: "stillborn 17 May 1897   Strong, Maine"
+        burial:
+          place: "Conant Cemetery   Strong, Maine"
       - name: son
         birth:
           date: 17 May 1897
@@ -39,6 +45,8 @@ childrenGroups:
           place: "Strong, Maine"
         burial:
           place: "Conant Cemetery   Strong, Maine"
+  - headingText: "adopted child"
+    children:
       - name: Minnie Louise Vining Jr.
         birth:
           date: 23 February 1902

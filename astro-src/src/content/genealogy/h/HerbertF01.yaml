@@ -1,5 +1,6 @@
 id: HerbertF01
 letter: H
+sequence: 905
 lastUpdated: 30 July 2022
 relationship: son
 parentId: AdoniramE01
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Mabel S.
       surname: "[...]"
+      birth:
+        date: age 35 as of 1910 census
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: Helen S. Vining

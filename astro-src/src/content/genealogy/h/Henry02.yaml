@@ -1,5 +1,6 @@
 id: Henry02
 letter: H
+sequence: 704
 lastUpdated: 30 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Elizabeth
       surname: "[...]"
+      birth:
+        date: age 22 y. as of 1850 census
+        place: Ohio
 childrenGroups:
   - children:
       - name: Priscilla Vining

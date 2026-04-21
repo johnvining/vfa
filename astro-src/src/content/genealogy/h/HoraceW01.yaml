@@ -13,8 +13,31 @@ head:
     date: "Minneapolis, Minnesota"
 marriages:
   - spouse:
-      givenName: "Veronica [Lukas or"
-      surname: "Lucas]"
+      givenName: "Veronica [Lukas or Lucas]"
+      surname: ""
+      parents: "(dau. of Martin Lukas and Franziska Kittok]"
+      birth:
+        date: 1 February 1885
+        place: "Delano, Minnesota"
+      death:
+        date: 9 May 1977
+        place: "(last residence: Minneapolis, Minnesota)"
+      burial:
+        place: "Minneapolis, Minnesota"
+childrenGroups:
+  - headingText: "[adopted?] child"
+    children:
+      - name: Roy T. Vining
+        entryId: RoyT01
+        entryLetter: R
+        birth:
+          date: 16 February 1910
+          place: Minnesota
+        marriages:
+          - date: "Constance [...]"
+        death:
+          date: 19 January 1998
+          place: "Minneapolis, Minnesota"
 docsUrl: Hsources/HoraceW01doc.htm
 raw: |-
   <a name="HoraceW01"></a><font size=+2>Horace Webster Vining</font>

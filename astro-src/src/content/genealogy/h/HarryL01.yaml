@@ -12,6 +12,8 @@ head:
     place: "[Alexander or Cooper?], Maine"
   death:
     date: 1 March 1956
+  burial:
+    place: "Sunset Cemetery   North Anson, Maine"
 marriages:
   - number: 1
     date: 18 September 1907
@@ -19,6 +21,7 @@ marriages:
     spouse:
       givenName: Etta E.
       surname: Creamer
+      parents: "(dau. of Charles H. Creamer and Mary Elzina Frost)"
       birth:
         date: 30 May 1882
         place: "[Alexander or Cooper?], Maine"
@@ -33,6 +36,7 @@ marriages:
     spouse:
       givenName: Dorothy Blanche
       surname: Flemming
+      parents: "(dau. Charles Flemming and Grace Card)"
       birth:
         date: 22 May 1902
         place: "Lubec, Maine"
@@ -99,6 +103,8 @@ childrenGroups:
         birth:
           date: 23 April 1928
           place: "Embden, Maine"
+  - headingText: "child by Dorothy Blanche Flemming"
+    children:
       - name: Arlene June Vining
         birth:
           date: 29 March 1941

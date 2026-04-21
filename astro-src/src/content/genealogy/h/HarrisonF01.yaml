@@ -16,6 +16,7 @@ marriages:
     spouse:
       givenName: Jo Ann
       surname: Strickland
+    note: divorced 1978
   - number: 2
     date: "1987"
     spouse:
@@ -32,6 +33,8 @@ childrenGroups:
         birth:
           date: 10 May 1977
           place: "Harrisburg, Virginia"
+  - headingText: "child by [?]"
+    children:
       - name: Jenna Joie Hart Vining
 raw: |-
   <a name="HarrisonF01"></a><font size=+2>Harrison Foster Vining</font>

@@ -10,10 +10,18 @@ head:
     date: 15 February 1920
   death:
     date: 8 September 1990
+  burial:
+    place: "Chapel Hill Memorial Gardens   Kansas City, Kansas"
 marriages:
   - spouse:
       givenName: Helen Margaret
       surname: Head
+      birth:
+        date: "1924"
+      death:
+        date: "2002"
+      burial:
+        place: "Chapel Hill Memorial Gardens   Kansas City, Kansas"
 childrenGroups:
   - children:
       - name: Kenneth Wayne Vining

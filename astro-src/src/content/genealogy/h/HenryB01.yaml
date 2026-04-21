@@ -12,12 +12,15 @@ head:
     place: Georgia
   death:
     date: 14 October 1917
+  burial:
+    place: "Porterdale, Georgia"
 marriages:
   - date: 17 May 1901
     place: Georgia
     spouse:
       givenName: Susan E.
       surname: Stallsworth
+      parents: "(dau. of [&#8230;] Stallsworth and Emerby F. [&#8230;])"
       birth:
         date: 28 February 1884
         place: Georgia

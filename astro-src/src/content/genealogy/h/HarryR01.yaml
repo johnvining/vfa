@@ -12,10 +12,19 @@ head:
     place: Nebraska
   death:
     date: "1972"
+  burial:
+    place: "Lone Star Cemetery   Mountain Grove, Missouri"
 marriages:
   - spouse:
       givenName: Kathryn A.
       surname: Elliott
+      birth:
+        date: 23 January 1887
+        place: Nebraska
+      death:
+        date: 4 January 1952
+      burial:
+        place: "Lone Star Cemetery   Mountain Grove, Missouri"
 childrenGroups:
   - children:
       - name: Cecil H. Vining

@@ -12,10 +12,22 @@ head:
     place: Massachusetts
   death:
     date: "1959"
+  burial:
+    place: "Melrose Cemetery   Brockton, Massachusetts"
 marriages:
   - spouse:
       givenName: Ruth E.
       surname: "[&#8230;]"
+      birth:
+        date: age 49 y. as of 1940 census
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Meredith Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Massachusetts
 docsUrl: Hsources/HowardC02doc.htm
 raw: |-
   <a name="HowardC02"></a><font size=+2>Howard Carlton Vining</font>

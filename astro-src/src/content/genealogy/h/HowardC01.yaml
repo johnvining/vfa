@@ -28,6 +28,18 @@ marriages:
     spouse:
       givenName: Lottie J.
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: "child by M. Emma Small"
+    children:
+      - name: C. Adele Vining
+        birth:
+          date: 18 June 1874
+        marriages:
+          - date: Alexander C. McCormack
+        death:
+          date: 6 February 1912
+        burial:
+          place: "Brewster Cemetery   Brewster, Massachusetts"
 docsUrl: Hsources/HowardC01doc.htm
 raw: |-
   <a name="HowardC01"></a><font size=+2>Howard C. Vining</font>

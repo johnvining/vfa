@@ -12,8 +12,16 @@ head:
   death:
     date: 4 March 1914
     place: "Haverhill, Essex County, Massachusetts"
+  burial:
+    place: "Strong, Franklin County, Maine"
 marriages:
   - date: 26 March 1862
+    spouse:
+      givenName: "Ella [N.?]"
+      surname: Collins
+      parents: "(dau. of John Collins and Annie [&#8230;])"
+      birth:
+        place: "Nantucket, Nantucket County, Massachusetts"
 childrenGroups:
   - children:
       - name: "child (=Fred Vining of West Epping, New Hampshire?)"

@@ -1,5 +1,6 @@
 id: HerbertA01
 letter: H
+sequence: 903
 lastUpdated: 30 July 2022
 relationship: son
 parentId: WilliamA03
@@ -14,6 +15,10 @@ marriages:
   - spouse:
       givenName: Mae
       surname: Harlow
+      parents: "(dau. of Edw[in?] Harlow and Augusta A. [...])"
+      birth:
+        date: January 1874
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: Allen Vining

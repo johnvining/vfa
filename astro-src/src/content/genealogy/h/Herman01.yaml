@@ -11,9 +11,10 @@ head:
     date: age 14 y. as of 1850 census
     place: "North Yarmouth, Maine"
 marriages:
-  - spouse:
-      givenName: "Benicia,"
-      surname: California
+  - place: "Benicia, California"
+    spouse:
+      givenName: "Mary"
+      surname: "[...]"
       birth:
         date: age 31 y. as of 1880 census
         place: Ireland

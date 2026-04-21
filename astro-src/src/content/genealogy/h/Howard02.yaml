@@ -13,11 +13,50 @@ head:
   death:
     date: 6 January 1978
     place: Illinois
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Illinois"
 marriages:
   - number: 1
     date: Rose Gross
+    spouse:
+      birth:
+        date: "1897"
+      death:
+        date: February 1956
+        place: "Kankakee, Illinois"
+      burial:
+        place: "Mound Grove Cemetery   Kankakee, Illinois"
   - number: 2
     date: Hulda Anderson
+    spouse:
+      birth:
+        date: 1 August 1897
+      death:
+        date: 5 November 1985
+        place: "Watseka, Illinois"
+      burial:
+        place: "Limestone Cemetery   West Kankakee, Illinois"
+childrenGroups:
+  - headingText: "child by Rose Gross"
+    children:
+      - name: Lawrence H. Vining
+        entryId: LawrenceH01
+        entryLetter: L
+        birth:
+          date: 4 August 1924
+        marriages:
+          - date: 2 August 1947
+            place: "Kankakee, Illinois"
+            spouse: Mary Eleanor Eastman
+        death:
+          date: 12 September 2013
+          place: Illinois
+        burial:
+          place: "Kankakee Memorial Gardens and Chapel Mausoleum   Kankakee, Illinois"
+      - name: Pauline Vining
+        birth:
+          date: age 13 y. as of 1940 census
+          place: Illinois
 docsUrl: Hsources/Howard02doc.htm
 raw: |-
   <a name="Howard02"></a><font size=+2>Howard Vining</font>

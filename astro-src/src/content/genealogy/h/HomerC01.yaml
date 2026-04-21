@@ -13,11 +13,14 @@ head:
   death:
     date: 27 April 1896
     place: "Southwick, Massachusetts"
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
 marriages:
   - date: 10 March 1852
     spouse:
       givenName: Sarah
       surname: Fowler
+      parents: "(dau. of Augustine Fowler and [Maria Reed or Sarah Bartlett?])"
       birth:
         date: 22 July 1831
         place: "Kent, Connecticut"

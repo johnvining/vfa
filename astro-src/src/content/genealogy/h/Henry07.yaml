@@ -1,5 +1,6 @@
 id: Henry07
 letter: H
+sequence: 701
 lastUpdated: 30 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -11,10 +12,21 @@ head:
   death:
     date: 28 July 1831
     place: "Wilmington, New Castle County, Delaware"
+  burial:
+    place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
 marriages:
   - spouse:
       givenName: Rebecca
       surname: Lyle
+      parents: "(dau. of James Lyle and [Eleanor or Ellen?] [&#8230;])"
+      birth:
+        date: "17[8 or 9?]2"
+        place: Pennsylvania
+      death:
+        date: 10 August 1866
+        place: "Wilmington, New Castle County, Delaware"
+      burial:
+        place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
 childrenGroups:
   - children:
       - name: William H. Vining

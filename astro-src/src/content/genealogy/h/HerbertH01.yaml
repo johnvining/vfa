@@ -1,5 +1,6 @@
 id: HerbertH01
 letter: H
+sequence: 906
 lastUpdated: 30 July 2022
 relationship: son
 parentId: AbnerC01
@@ -12,10 +13,21 @@ head:
     place: Georgia
   death:
     date: 14 July 2001
+  burial:
+    place: "Covington City Cemetery   Covington, Georgia"
 marriages:
   - spouse:
       givenName: Margaret Matilda
       surname: Faulkner
+      parents: "(dau. of William Columbus Faulkner and Martha Mary Row)"
+      birth:
+        date: 30 October 1916
+        place: "Monroe, Georgia"
+      death:
+        date: 27 August 2004
+        place: "Augusta, Georgia"
+      burial:
+        place: "Covington City Cemetery   Covington, Georgia"
 childrenGroups:
   - children:
       - name: Laura Elizabeth Vining

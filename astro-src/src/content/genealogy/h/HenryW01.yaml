@@ -13,6 +13,8 @@ head:
   death:
     date: "1890"
     place: "Petillo Hill, Arkansas"
+  burial:
+    place: "Petillo Hill Cemetery   Centerville, Arkansas"
 marriages:
   - number: 1
     date: 13 January 1870
@@ -27,9 +29,15 @@ marriages:
     spouse:
       givenName: Clarissa
       surname: "Ra[y?]mer"
+      parents: "(dau. of James P. Ramer and Martha Walker)"
       birth:
         date: age 26 y. as of 1880 census
         place: Arkansas
+      death:
+        date: "1941"
+        place: Arkansas
+      burial:
+        place: "Petillo Hill Cemetery   Centerville, Arkansas"
 childrenGroups:
   - spouseRef: Clarissa Ramer
     children:

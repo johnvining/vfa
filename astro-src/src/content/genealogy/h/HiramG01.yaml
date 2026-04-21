@@ -13,10 +13,25 @@ head:
   death:
     date: 22 March 1993
     place: Georgia
+  burial:
+    place: "Upson Memorial Garden   Thomaston, Georgia"
 marriages:
   - spouse:
       givenName: Lois E.
       surname: Fallin
+      birth:
+        date: 4 January 1914
+      death:
+        date: 17 March 1988
+      burial:
+        place: "Upson Memorial Garden   Thomaston, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Doris Vining
+        birth:
+          date: age 7 y. as of 1940 census
+          place: Georgia
 docsUrl: Hsources/HiramG01doc.htm
 raw: |-
   <a name="HiramG01"></a><font size=+2>Hiram Grady Vining</font>

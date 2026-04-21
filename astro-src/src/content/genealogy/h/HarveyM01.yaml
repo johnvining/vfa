@@ -13,17 +13,30 @@ head:
   death:
     date: 4 November 1892
     place: "Mansfield, Illinois"
+  burial:
+    place: "Mackey Cemetery   Mansfield, Illinois"
 marriages:
   - date: 15 February 1849
     place: "Worthington, Ohio"
     spouse:
       givenName: Mary Jane
       surname: Buckman
+      parents: "(dau. of James Buckman and Elizabeth McMicken)"
       birth:
         date: 10 January 1828
         place: Pennsylvania
       death:
         date: 28 April 1891
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Hulda E. Vining
+        birth:
+          date: 8 January 1851
+          place: "Mansfield, Illinois"
+        death:
+          date: 9 May 1853
+          place: "Mansfield, Illinois"
 docsUrl: Hsources/HarveyM01doc.htm
 raw: |-
   <a name="HarveyM01"></a><font size=+2>Harvey Milton Vining</font>

@@ -1,5 +1,6 @@
 id: HarryL02
 letter: H
+sequence: 502
 lastUpdated: 30 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -14,8 +15,23 @@ head:
 marriages:
   - number: 1
     date: Veta L. Turcott
+    spouse:
+      parents: "(dau. of Gerge Turcott and Augusta Dudley)"
+      birth:
+        date: 6 June 1880
+        place: "Tallmadge, Michigan"
+      death:
+        date: 2 May 1909
+        place: "Hennepin County, Minnesota"
   - number: 2
     date: Lucy A. Allard
+    spouse:
+      birth:
+        date: 3 October 1886
+        place: Minnesota
+      death:
+        date: 23 April 1955
+        place: "Hennepin County, Minnesota"
 childrenGroups:
   - spouseRef: Veta L. Turcott
     children:
@@ -46,10 +62,15 @@ childrenGroups:
           place: Minnesota
         marriages:
           - date: Francis J. Stelter
+        note: "26 February 1983   Ramsey, Minnesota"
+  - headingText: "child by Lucy A. Allard"
+    children:
       - name: Charles Jabin Vining
         birth:
           date: 26 February 1912
-          place: "Byron, Minnesota   -  m. Dorothy M. [&#8230;]"
+          place: "Byron, Minnesota"
+        marriages:
+          - date: "Dorothy M. [&#8230;]"
         death:
           date: 3 May 1942
           place: "Minneapolis, Minnesota"

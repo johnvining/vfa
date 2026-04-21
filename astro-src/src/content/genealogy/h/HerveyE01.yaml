@@ -12,12 +12,15 @@ head:
     place: "Strong, Maine"
   death:
     date: "1957"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - date: 28 October 1905
     place: "Phillips, Maine"
     spouse:
       givenName: Ethel Bertha
       surname: Marson
+      parents: "(dau. of Elbridge Marson and Emma Goodwin)"
       birth:
         date: "1891"
         place: "Gardiner, Maine"

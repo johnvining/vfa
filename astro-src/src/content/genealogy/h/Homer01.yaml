@@ -12,10 +12,19 @@ head:
     place: Alabama
   death:
     date: 25 November 1958
+  burial:
+    place: Green Pond Presbyterian Church Cemetery
 marriages:
   - spouse:
       givenName: Odell
       surname: "[...]"
+      birth:
+        date: 18 October 1916
+        place: Alabama
+      death:
+        date: 5 June 1997
+      burial:
+        place: Green Pond Presbyterian Church Cemetery
 childrenGroups:
   - children:
       - name: Homer Vining Jr.

@@ -12,6 +12,18 @@ head:
     place: Massachusetts
   death:
     date: 23 May 1870
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: James A. Vining
+        birth:
+          date: age 8 m. at death
+        death:
+          date: 27 October 1868
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
 docsUrl: Hsources/HarrisonW01doc.htm
 raw: |-
   <a name="HarrisonW01"></a><font size=+2>Harrison W. Vining</font>

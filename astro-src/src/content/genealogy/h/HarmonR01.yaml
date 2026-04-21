@@ -15,6 +15,10 @@ marriages:
   - spouse:
       givenName: Mabel
       surname: Tapley
+childrenGroups:
+  - headingText: child
+    children:
+      - name: David Gordon Vining
 docsUrl: Hsources/HarmonR01doc.htm
 raw: |-
   <a name="HarmonR01"></a><font size=+2>Harmon R[ummell?]. Vining</font>

@@ -9,10 +9,30 @@ head:
     date: "1876"
     place: Ohio
 marriages:
-  - spouse:
-      givenName: "[1?]"
-      surname: "[?]"
+  - number: 1
+    date: "[1?]"
+    spouse:
+      givenName: "[?]"
+      surname: ""
+  - number: 2
+    date: "5 y. as of 1910 census"
+    spouse:
+      givenName: Charlotte
+      surname: Smith
+      parents: "(dau. of George Henry Smith and Charlotte Hamilton)"
+      birth:
+        date: 21 july 1879
+        place: "Nottingham, Nottinghamshire, England"
+      death:
+        date: 8 February 1976
+        place: "Bridgeport, Fairfield County, Connecticut"
 childrenGroups:
+  - headingText: "child by [?]"
+    children:
+      - name: Helen Vining
+        birth:
+          date: ca. 1896
+          place: Ohio
   - spouseRef: "Charlotte Smith]"
     children:
       - name: Charlotte Hazel Vining
@@ -63,7 +83,7 @@ raw: |-
                           (dau. of George Henry Smith and Charlotte Hamilton)
                           b. 21 july 1879   Nottingham, Nottinghamshire, England
                           d. 8 February 1976   Bridgeport, Fairfield County, Connecticut
-  
+
   <font size=+1>child by [?]:</font>
      Helen Vining   b. ca. 1896   Ohio
   <font size=+1>children by Charlotte Smith]:</font>

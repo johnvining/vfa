@@ -13,10 +13,18 @@ head:
   death:
     date: 2 January 1971
     place: "Alma, Gratiot County, Michigan"
+  burial:
+    place: "Payne Cemetery   Maple Rapids, Michigan"
 marriages:
   - spouse:
       givenName: Cecile Louise
       surname: Shank
+      birth:
+        date: "1908"
+      death:
+        date: "2002"
+      burial:
+        place: "Payne Cemetery   Maple Rapids, Michigan"
 childrenGroups:
   - children:
       - name: Donna Jean Vining

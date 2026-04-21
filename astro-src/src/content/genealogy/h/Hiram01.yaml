@@ -13,11 +13,14 @@ head:
   death:
     date: 29 August 1896
     place: "Weld, Maine"
+  burial:
+    place: "Center Hill Cemetery   Weld, Maine"
 marriages:
   - date: 18 May 1848
     spouse:
       givenName: Emmeline
       surname: Heath
+      parents: "(dau. of Ezra Heath and Sarah Wright)"
       birth:
         date: 14 December 1816
         place: "Avon, Maine"

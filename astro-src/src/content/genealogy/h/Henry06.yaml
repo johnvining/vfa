@@ -1,5 +1,6 @@
 id: Henry06
 letter: H
+sequence: 703
 lastUpdated: 30 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Ann
       surname: "[...]"
+      birth:
+        date: age 30 y. as of 1870 census
+        place: Louisiana
 childrenGroups:
   - children:
       - name: Francis Vining

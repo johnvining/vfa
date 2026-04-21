@@ -14,6 +14,20 @@ marriages:
   - spouse:
       givenName: Mary Adelaide
       surname: Sarratt
+      parents: "(dau. of Henry Davenport Sarratt and Thomasina Hackett)"
+      birth:
+        date: "186[8 or 6?]"
+        place: "Woolwich, Kent, England"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Percival Llewellyn Vining
+        birth:
+          date: 17 February 1891
+          place: "[Portsea Island or Portsmouth?], Hampshire, England"
+        death:
+          date: April 1973
+          place: "Alton, Hampshire, England"
 raw: |-
   <a name="HenryP01"></a><font size=+2>Henry Percival Vining</font>
      (son of <a href="Jfamilies.htm#JosephC01">Joseph Collins Vining and Helen Elizabeth Reynolds Frankis</a>)

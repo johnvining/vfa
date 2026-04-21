@@ -1,5 +1,6 @@
 id: Henry01
 letter: H
+sequence: 702
 lastUpdated: 30 July 2022
 relationship: son
 parentId: Charles10
@@ -7,10 +8,18 @@ parentLetter: C
 parentDesc: Charles Vining and Mary Taylour
 head:
   givenName: Henry
+  birth:
+    date: bapt. 12 February 1789
 marriages:
   - spouse:
       givenName: Amelia
       surname: Quantrell
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Matilda Charlotte Vining
+        marriages:
+          - date: John Wood
 raw: |-
   <a name="Henry01"></a><font size=+2>Henry Vining</font>
      (son of <a href="Cfamilies.htm#Charles10">Charles Vining and Mary Taylour</a>)

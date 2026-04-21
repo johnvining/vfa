@@ -9,6 +9,22 @@ marriages:
   - spouse:
       givenName: Marjory
       surname: Williams
+childrenGroups:
+  - headingText: child
+    children:
+      - name: James Marquardt Vining
+        entryId: JamesM04
+        entryLetter: J
+        birth:
+          date: 26 June 1923
+          place: "Johannesburg, South Africa"
+        marriages:
+          - date: 4 October 1952
+            place: "Brakpan, South Africa"
+            spouse: Barbara Elizabeth Nel
+        death:
+          date: 11 December 2010
+          place: "Benoni, South Africa"
 raw: |-
   <a name="HaroldM01"></a><font size=+2>Harold Marquardt Vining</font>
      (son of [?])

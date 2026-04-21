@@ -12,6 +12,8 @@ head:
     place: Ohio
   death:
     date: "1945"
+  burial:
+    place: "Riverside Cemetery   Rockford, Ohio"
 marriages:
   - number: 1
     date: 3 February 1901
@@ -28,6 +30,17 @@ marriages:
         place: "Riverside Cemetery   Rockford, Ohio"
   - number: 2
     date: "Molle [&#8230;]"
+    spouse:
+      birth:
+        date: age 66 y. as of 1940 census
+        place: Ohio
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: Edna Vining
+        birth:
+          date: age 13 y. as of 1920 census
+          place: Ohio
 docsUrl: Hsources/Haskell01doc.htm
 raw: |-
   <a name="Haskell01"></a><font size=+2>Haskell Vining</font>

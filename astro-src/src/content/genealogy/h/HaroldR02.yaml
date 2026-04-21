@@ -12,10 +12,15 @@ head:
     place: Iowa
   death:
     date: 23 May 1937
+  burial:
+    place: "Filer Cemetery   Filer, Idaho"
 marriages:
   - spouse:
       givenName: Nina E.
       surname: "[&#8230;]"
+      birth:
+        date: age 25 y. as of 1920 census
+        place: Washington
 childrenGroups:
   - children:
       - name: Doris Vining

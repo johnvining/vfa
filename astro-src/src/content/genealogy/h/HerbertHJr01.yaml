@@ -1,5 +1,6 @@
 id: HerbertHJr01
 letter: H
+sequence: 907
 lastUpdated: 30 July 2022
 relationship: son
 parentId: HerbertH01
@@ -10,6 +11,14 @@ marriages:
   - spouse:
       givenName: Nancy Denise
       surname: Brady
+      parents: "(dau. of Charles C. Brady and Pearl Hardy)"
+      birth:
+        date: 28 July 1954
+      death:
+        date: 6 February 2008
+        place: "Augusta, Georgia"
+      burial:
+        place: "Westover Memorial Park   Augusta, Georgia"
 childrenGroups:
   - children:
       - name: Wesley Hampton Vining

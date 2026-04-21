@@ -1,5 +1,6 @@
 id: HerbertM01
 letter: H
+sequence: 909
 lastUpdated: 30 July 2022
 relationship: son
 parentId: HerbertL01
@@ -12,9 +13,17 @@ head:
   death:
     date: 16 January 1973
     place: "San Bernardino, California"
+  burial:
+    place: "Parker Community Cemetery   Parker, Arizona"
 marriages:
   - number: 1
     date: Alice Louise Johnson
+    spouse:
+      birth:
+        date: 4 July 1910
+      death:
+        date: "2002"
+        place: "Seattle, Washington"
   - number: 2
     date: "1920"
     spouse:

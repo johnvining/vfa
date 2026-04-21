@@ -16,12 +16,17 @@ marriages:
     spouse:
       givenName: Cynthia
       surname: Bischoff
+    note: divorced 1984
 childrenGroups:
   - children:
       - name: Jason Dean Vining
         birth:
-          date: Sunset Memorial Gardens
-          place: "Jamestown, Stutsman County, North Dakota"
+          date: 14 February 1979
+        death:
+          date: 14 August 1998
+          place: "Stutsman County, North Dakota"
+        burial:
+          place: "Sunset Memorial Gardens   Jamestown, Stutsman County, North Dakota"
       - name: Veronica Vining
         birth:
           date: 3 September 1980

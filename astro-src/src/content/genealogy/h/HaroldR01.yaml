@@ -13,6 +13,8 @@ head:
   death:
     date: "[18 or 1?] July 1966"
     place: "Storm Lake, Iowa"
+  burial:
+    place: "Sacred Heart Cemetery   Early, Iowa"
 marriages:
   - number: 1
     date: 11 June 1932
@@ -20,6 +22,7 @@ marriages:
     spouse:
       givenName: Lois
       surname: Hersom
+      parents: "(dau. of George Arthur Hersom and Laura Bertha McGeary)"
       birth:
         date: 30 October 1913
         place: "Fonda, Iowa"
@@ -32,6 +35,7 @@ marriages:
     spouse:
       givenName: Ida May
       surname: Krischel
+      parents: "(dau. of Mike Krischel and Elizabeth Ann Erie)"
       birth:
         date: 1 May 1910
         place: "Rutland, Illinois"
@@ -57,6 +61,8 @@ childrenGroups:
           place: Iowa
         marriages:
           - date: Diane Irene Ruch
+  - headingText: "child by Ida Krischel"
+    children:
       - name: Pamela E. Vining
         birth:
           date: 7 November 1952

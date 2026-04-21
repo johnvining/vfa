@@ -11,10 +11,20 @@ head:
   death:
     date: 24 December 1916
     place: Ohio
+  burial:
+    place: "Honey Creek Cemetery   Christiansburg, Ohio"
 marriages:
   - spouse:
       givenName: Christena
       surname: Jackson
+      birth:
+        date: 10 May 1844
+        place: "Hamilton, Ohio"
+      death:
+        date: 26 July 1906
+        place: Ohio
+      burial:
+        place: "Honey Creek Cemetery   Christiansburg, Ohio"
 childrenGroups:
   - children:
       - name: Charles Herbert Vining

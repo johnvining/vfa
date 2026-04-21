@@ -13,6 +13,16 @@ marriages:
   - spouse:
       givenName: Frances Margaret
       surname: Price
+      birth:
+        date: "1891"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Lisle Vining
+        birth:
+          date: "1930"
+        death:
+          date: "1949"
 raw: |-
   <a name="HoraceB01"></a><font size=+2>Horace Benjamin Vining</font>
      (son of <a href="Tfamilies.htm#ThomasR02">Thomas Reese Vining and Lydia Jane Pope</a>)

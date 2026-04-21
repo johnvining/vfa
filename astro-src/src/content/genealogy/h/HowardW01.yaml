@@ -12,16 +12,30 @@ head:
     place: Ohio
   death:
     date: 7 December 2003
+  burial:
+    place: "Willow Cemetery   Oregon, Ohio"
 marriages:
   - spouse:
       givenName: Mildred
       surname: Smith
+      parents: "(dau. of [&#8230;] Smith and Edna Brand)"
+      birth:
+        date: "1915"
+        place: Ohio
+      death:
+        date: 12 August 1991
+        place: "Toledo, Ohio"
+      burial:
+        place: "Willow Cemetery   Oregon, Ohio"
 childrenGroups:
   - children:
       - name: Barbara E. Vining
         birth:
           date: 11 January 1933
-          place: "Toledo, Ohio - d. 10 July 2022   Oregon, Ohio"
+          place: "Toledo, Ohio"
+        death:
+          date: 10 July 2022
+          place: "Oregon, Ohio"
       - name: Carolyn H. Vining
         birth:
           date: 10 August 1934
@@ -43,7 +57,12 @@ childrenGroups:
           place: "Toledo, Ohio"
         burial:
           place: "Ottawa Hills Memorial Park   Ottawa Hills, Ohio"
-      - name: William Vining   b age 1 y. as of 1940 census   Ohio
+      - name: William Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Ohio
+        death:
+          date: "before 10 July 2022"
 docsUrl: Hsources/HowardW01doc.htm
 raw: |-
   <a name="HowardW01"></a><font size=+2>Howard W. Vining</font>

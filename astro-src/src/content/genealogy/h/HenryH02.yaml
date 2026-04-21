@@ -1,5 +1,6 @@
 id: HenryH02
 letter: H
+sequence: 802
 lastUpdated: 30 July 2022
 relationship: son
 parentId: Horatio01
@@ -12,14 +13,25 @@ head:
   death:
     date: 19 December 1937
     place: "New Iberia, Louisiana"
+  burial:
+    place: "Willow Grove Cemetery   Berwick, Louisiana"
 marriages:
   - number: 1
     date: Marguerite Mirsa Vallet
+    spouse:
+      parents: "(dau. of Jean Amable Gentile Vallet and Marie Celina Leblanc)"
+      birth:
+        date: 30 April 1860
+        place: "Assumption Parish, Louisiana"
+      death:
+        date: 16 October 1888
+        place: "St. Mary Parish, Louisiana"
   - number: 2
     date: 21 y. as of 1910 census
     spouse:
       givenName: Emma
       surname: Garecht
+      parents: "(dau. of Michael Garecht and Rosina Reichkenauer)"
       birth:
         date: 8 March 1867
         place: "New Orleans, Louisiana"
@@ -50,7 +62,10 @@ childrenGroups:
       - name: Henry Louis Vining
         birth:
           date: 11 April 1886
-          place: "Morgan City, Louisiana   -  m. Ozama [&#8230;]"
+          place: "Morgan City, Louisiana"
+        marriages:
+          - date: "Ozama [&#8230;]"
+        note: "15 July 1938   Morgan City, Louisiana"
       - name: Amelia Josephine Vining
         birth:
           date: 10 January 1888

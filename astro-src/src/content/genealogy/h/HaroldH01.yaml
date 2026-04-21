@@ -13,12 +13,15 @@ head:
   death:
     date: 16 May 1990
     place: "Bangor, Maine"
+  burial:
+    place: "West Ridge Cemetery   Cooper, Maine"
 marriages:
   - date: 20 September 1930
     place: "Pembroke, Maine"
     spouse:
       givenName: Mildred Edith
       surname: Morrison
+      parents: "(dau. of Albert Morrison and Jennie Lowe)"
       birth:
         date: 16 November 1908
         place: "Charlotte, Maine"
@@ -42,7 +45,13 @@ childrenGroups:
         death:
           date: 3 March 2007
           place: "North Windham, Connecticut"
-      - name: "Shirley Joyce Vining   21 April 1933   Cooper, Maine"
+      - name: Shirley Joyce Vining
+        birth:
+          date: 21 April 1933
+          place: "Cooper, Maine"
+        marriages:
+          - date: 31 December 1953
+            spouse: Dewey William Swanson
       - name: Dorothy Mae Vining
         birth:
           date: 26 February 1935

@@ -12,10 +12,18 @@ head:
   death:
     date: 15 March 1991
     place: "Memphis, Tennessee"
+  burial:
+    place: "Odd Fellows East Cemetery   Greenwood, Mississippi"
 marriages:
   - spouse:
       givenName: Gladys Adele
       surname: Carroll
+      birth:
+        date: 23 June 1930
+      death:
+        date: 6 November 2008
+      burial:
+        place: "Odd Fellows East Cemetery   Greenwood, Mississippi"
 childrenGroups:
   - children:
       - name: Mildred Vining

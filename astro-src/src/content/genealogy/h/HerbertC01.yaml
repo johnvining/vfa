@@ -1,5 +1,6 @@
 id: HerbertC01
 letter: H
+sequence: 904
 lastUpdated: 30 July 2022
 relationship: son
 parentId: HerbertW01
@@ -11,6 +12,8 @@ head:
   death:
     date: 24 February 2015
     place: "Patterson, Louisiana"
+  burial:
+    place: "Berwick Memorial Cemetery   Berwick, Louisiana"
 marriages:
   - spouse:
       givenName: Judith

@@ -1,5 +1,6 @@
 id: HenryH01
 letter: H
+sequence: 804
 lastUpdated: 30 July 2022
 relationship: son
 parentId: WilliamHJr01
@@ -12,10 +13,18 @@ head:
   death:
     date: July 1974
     place: "(last residence: East Canaan, Connecticut)"
+  burial:
+    place: "Colebrook Center Cemetery   Colebrook, Connecticut"
 marriages:
   - spouse:
       givenName: Walpurga
       surname: Stein
+      birth:
+        date: "1892"
+      death:
+        date: "1985"
+      burial:
+        place: "Colebrook Center Cemetery   Colebrook, Connecticut"
 childrenGroups:
   - children:
       - name: Florence Margaret Vining

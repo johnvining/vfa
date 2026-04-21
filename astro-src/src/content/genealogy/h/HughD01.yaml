@@ -12,10 +12,15 @@ head:
     place: "Brooks, Georgia"
   death:
     date: December 1980
+  burial:
+    place: "Griffin Memorial Gardens   Griffin, Georgia"
 marriages:
   - spouse:
       givenName: Frances
       surname: Graddy
+      birth:
+        date: age 20 y. as of 1940 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Rawles Leroy Vining

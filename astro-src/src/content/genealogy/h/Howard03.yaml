@@ -1,8 +1,6 @@
 id: Howard03
 letter: H
 lastUpdated: 30 July 2022
-relationship: dau.
-parentDesc: "Joseph Miller and Lillian [&#8230;]"
 head:
   givenName: Howard
 marriages:
@@ -10,6 +8,7 @@ marriages:
     spouse:
       givenName: Jeanette
       surname: Miller
+      parents: "(dau. of Joseph Miller and Lillian [&#8230;])"
       birth:
         date: 14 July 1931
       death:

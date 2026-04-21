@@ -14,6 +14,11 @@ marriages:
   - spouse:
       givenName: Elizabeth
       surname: Little
+      birth:
+        date: June 1848
+        place: Georgia
+      death:
+        date: Georgia
 childrenGroups:
   - children:
       - name: Henry Vining
