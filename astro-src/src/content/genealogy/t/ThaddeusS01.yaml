@@ -13,20 +13,37 @@ head:
   death:
     date: 18 April 1921
     place: "Grand Rapids, Kent County, Michigan"
+  burial:
+    place: "Woodland Cemetery   Jackson [County?], Michigan"
 marriages:
   - number: 1
-    date: Hattie Lewis
+    spouse:
+      givenName: Hattie
+      surname: Lewis
+      birth:
+        date: age 23 y. as of 1870 census
+        place: "New Hampshire"
   - number: 2
     date: 12 y. as of 1900 census
     spouse:
       givenName: Anna
       surname: Greene
+      parents: "(dau. of Thomas Greene and Anna Mary Hughes)"
       birth:
         date: August 1857
         place: "Detroit, Wayne County, Michigan"
       death:
         date: 15 April 1902
 childrenGroups:
+  - headingText: child by Hattie Lewis
+    children:
+      - name: Clarence Vining
+        birth:
+          date: January 1870
+          place: Michigan
+        death:
+          date: 30 May 1903
+          place: "District of Columbia"
   - spouseRef: Anna Green
     children:
       - name: Tyna Vining

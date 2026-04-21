@@ -1,5 +1,6 @@
 id: ThomasE02
 letter: T
+sequence: 29
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasG01
@@ -12,11 +13,27 @@ head:
   death:
     date: 27 April 1953
     place: "Eudora, Chicot County, Arkansas"
+  burial:
+    place: "Mount Carmel Cemetery   Eudora, Chicot County, Arkansas"
 marriages:
   - number: 1
-    date: "Josephine [...]"
+    spouse:
+      givenName: "Josephine [...]"
+      birth:
+        date: age 26 y. as of 1910 census
+        place: Louisiana
   - number: 2
-    date: Mary Maude Edmonson
+    spouse:
+      givenName: Mary Maude
+      surname: Edmonson
+      parents: "(dau. of James Coleman Edmonson and Mary Ella McCall)"
+      birth:
+        date: 18 May 1888
+        place: Mississippi
+      death:
+        date: 12 February 1937
+      burial:
+        place: "Mount Carmel Cemetery   Eudora, Arkansas"
 childrenGroups:
   - spouseRef: "Josephine [&#8230;]"
     children:

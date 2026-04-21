@@ -1,5 +1,6 @@
 id: Thomas13
 letter: T
+sequence: 14
 lastUpdated: 9 March 2023
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,16 @@ marriages:
   - spouse:
       givenName: Virginia
       surname: "[...]"
+      birth:
+        date: age 30 y. as of 1920 census
+        place: "North Carolina"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Mary L. Vining
+        birth:
+          date: age 7 y. as of 1920 census
+          place: "North Carolina"
 docsUrl: Tsources/Thomas13doc.htm
 raw: |-
   <a name="Thomas13"></a><font size=+2>Thomas Vining</font>

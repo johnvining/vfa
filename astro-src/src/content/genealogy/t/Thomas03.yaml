@@ -1,5 +1,6 @@
 id: Thomas03
 letter: T
+sequence: 7
 lastUpdated: 9 March 2023
 relationship: son
 parentId: BenjaminJr01
@@ -13,11 +14,14 @@ head:
   death:
     date: 14 August 1877
     place: "Avon, Franklin County, Maine"
+  burial:
+    place: "Mount Blue Cemetery   Avon, Franklin County, Maine"
 marriages:
   - date: 30 November 1826
     spouse:
       givenName: Jemima
       surname: Haines
+      parents: "(dau. of Benjamin Haines and Jemima Ridley)"
       birth:
         date: 17 June 1808
         place: "Avon, Franklin County, Maine"

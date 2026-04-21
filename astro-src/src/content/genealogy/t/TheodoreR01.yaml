@@ -13,14 +13,24 @@ head:
   death:
     date: 22 December 1973
     place: "Houston, Harris County, Texas"
+  burial:
+    place: "Earthman Resthaven Cemetery   Houston, Harris County, Texas"
 marriages:
   - number: 1
-    date: Dorothy M. Noble
-  - number: 2
-    date: Alice McNeal
     spouse:
-      givenName: "b. 2 March 1904  "
-      surname: Iowa
+      givenName: Dorothy M.
+      surname: Noble
+      parents: "(dau. or Albert Emanuel Noble and Minnie D. Bumgardner)"
+      birth:
+        date: ca 1908
+        place: "Chariton, Lucas County, Iowa"
+  - number: 2
+    spouse:
+      givenName: Alice
+      surname: McNeal
+      birth:
+        date: 2 March 1904
+        place: Iowa
       death:
         date: 7 February 1973
       burial:

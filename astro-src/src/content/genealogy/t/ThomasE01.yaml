@@ -1,5 +1,6 @@
 id: ThomasE01
 letter: T
+sequence: 28
 lastUpdated: 9 March 2023
 relationship: son
 parentId: JamesTJr01
@@ -12,10 +13,18 @@ head:
     place: Ohio
   death:
     date: 25 December 1931
+  burial:
+    place: "Saint Mary Cemetery   Delaware, Ohio"
 marriages:
   - spouse:
       givenName: Myrtle
       surname: McGraw
+      birth:
+        date: 20 January 1882
+      death:
+        date: 25 July 1949
+      burial:
+        place: "Saint Mary Cemetery   Delaware, Ohio"
 childrenGroups:
   - children:
       - name: Ella N. Vining

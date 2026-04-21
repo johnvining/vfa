@@ -1,5 +1,6 @@
 id: ThomasM01
 letter: T
+sequence: 46
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasR02
@@ -11,10 +12,18 @@ head:
     place: "Bennettsville, South Carolina"
   death:
     date: 22 February 1966
+  burial:
+    place: "Congaree Baptist Church Cemetery   West Columbia, Lexington County, South Carolina"
 marriages:
   - spouse:
       givenName: Pauline Maybell
       surname: Browder
+      birth:
+        date: 1 January 1902
+      death:
+        date: 14 June 2001
+      burial:
+        place: "Congaree Baptist Church Cemetery   West Columbia, Lexington County, South Carolina"
 childrenGroups:
   - children:
       - name: Robert William Vining

@@ -1,5 +1,6 @@
 id: ThomasJ02
 letter: T
+sequence: 43
 lastUpdated: 9 March 2023
 relationship: son
 parentId: JonahL01
@@ -13,10 +14,15 @@ head:
   death:
     date: 24 November 1969
     place: "Green Pond, Bibb County, Alabama"
+  burial:
+    place: "Hickman Chapel Cemetery   Tuscaloosa County, Alabama"
 marriages:
   - spouse:
       givenName: Viola B.
       surname: "[...]"
+      birth:
+        date: age 32 y. as of 1940 census
+        place: Alabama
 childrenGroups:
   - children:
       - name: William Elbert Vining

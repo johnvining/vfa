@@ -1,5 +1,6 @@
 id: Thomas02
 letter: T
+sequence: 5
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Elias01
@@ -12,11 +13,31 @@ head:
     place: "Simsbury, Hartford County, Connecticut"
   death:
     date: 17 November 1853
+  burial:
+    place: "Hop Meadow Cemetery   Simsbury, Hartford County, Connecticut"
 marriages:
   - number: 1
-    date: Wealthy Weston
+    spouse:
+      givenName: Wealthy
+      surname: Weston
+      parents: "(dau. of Benjamin Weston and Mary Woodhouse)"
+      birth:
+        date: 19 April 1779
+        place: "Wethersfield, Hartford County, Connecticut"
+      death:
+        date: 25 October 1835
+        place: "Simsbury, Hartford County, Connecticut"
   - number: 2
-    date: Mary Mason
+    spouse:
+      givenName: Mary
+      surname: Mason
+      birth:
+        date: age 60 y. as of 1850 census
+        place: Connecticut
+      death:
+        date: "19 [...] 1857"
+      burial:
+        place: "Hop Meadow Cemetery   Simsbury, Hartford County, Connecticut"
 childrenGroups:
   - spouseRef: Wealthy Weston
     children:

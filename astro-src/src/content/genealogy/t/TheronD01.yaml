@@ -11,6 +11,20 @@ head:
   death:
     date: 20 May 2006
     place: "Minden, Webster Parish, Louisiana"
+  burial:
+    place: "New Forest Cemetery   Forest, Louisiana"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Curt Vining
+      - name: Quentin Vining
+      - name: Todd Vining
+      - name: Shelly Vining
+        marriages:
+          - date: "[...] Phillips"
+      - name: Cindy Vining
+        marriages:
+          - date: "[...] Evans"
 docsUrl: Tsources/TheronD01doc.htm
 raw: |-
   <a name="TheronD01"></a><font size=+2>Theron Douglas Vining</font>

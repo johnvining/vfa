@@ -1,5 +1,6 @@
 id: Thomas06
 letter: T
+sequence: 15
 lastUpdated: 9 March 2023
 relationship: son
 parentId: WilliamL02
@@ -9,10 +10,31 @@ head:
   givenName: Thomas
   birth:
     date: 16 May 1899
+  death:
+    date: April 1950
+  burial:
+    place: "Red Bluff Cemetery   Pearson, Georgia"
 marriages:
   - spouse:
       givenName: Fannie
       surname: Corbitt
+      birth:
+        date: 17 September 1897
+      death:
+        date: "July [see documentation and notes for discussion of the year]"
+      burial:
+        place: "Red Bluff Cemetery   Pearson, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Robert L. Vining
+        birth:
+          date: 1 November 1920
+        death:
+          date: May 1933
+        burial:
+          place: "Red Bluff Cemetery   Pearson, Georgia"
+docsUrl: Tsources/Thomas06doc.htm
 raw: |-
   <a name="Thomas06"></a><font size=+2>Thomas Vining</font>
      (son of <a href="Wfamilies.htm#WilliamL02">William Lee Vining and Frances Gaskins</a>)

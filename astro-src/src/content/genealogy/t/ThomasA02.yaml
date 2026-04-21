@@ -1,5 +1,6 @@
 id: ThomasA02
 letter: T
+sequence: 17
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Thomas02
@@ -12,6 +13,8 @@ head:
   death:
     date: 5 May 1880
     place: "Simsbury, Hartford County, Connecticut"
+  burial:
+    place: "Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut"
 marriages:
   - number: 1
     date: 26 December 1822
@@ -19,6 +22,7 @@ marriages:
     spouse:
       givenName: Amelia
       surname: Tuller
+      parents: "(dau. of Asaph Tuller and Ruth Case)"
       birth:
         date: "1809"
         place: "Simsbury, Hartford County, Connecticut"
@@ -65,6 +69,11 @@ childrenGroups:
           place: "Simsbury, Hartford County, Connecticut"
         marriages:
           - date: Mary Henrietta Hoffman
+        death:
+          date: 5 November 1875
+          place: "Astoria, Oregon"
+        burial:
+          place: "Fort Stellacoom Cemetery   Stellacoom, Wshington"
       - name: Ruth Vining
         birth:
           date: "1832"

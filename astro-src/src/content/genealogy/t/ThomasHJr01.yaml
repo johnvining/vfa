@@ -1,5 +1,6 @@
 id: ThomasHJr01
 letter: T
+sequence: 39
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasH03
@@ -12,10 +13,18 @@ head:
   death:
     date: 29 November 2012
     place: "Farmerville, Louisiana"
+  burial:
+    place: "Mulhearn Memorial Park Cemetery   Monroe, Louisiana"
 marriages:
   - spouse:
       givenName: Bernice
       surname: Jones
+      birth:
+        date: 15 December 1929
+      death:
+        date: 12 September 2015
+      burial:
+        place: "Mulhearn Memorial Park Cemetery   Monroe, Louisiana"
 childrenGroups:
   - children:
       - name: William Eugene Vining

@@ -1,5 +1,6 @@
 id: ThomasN02
 letter: T
+sequence: 48
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasB03
@@ -17,6 +18,7 @@ marriages:
     spouse:
       givenName: Nancy Lee
       surname: Williams
+      parents: "(dau. of Madison Lamar Williams and Wilma Frances Mooty)"
       birth:
         date: "1943"
         place: "Miami, Florida"

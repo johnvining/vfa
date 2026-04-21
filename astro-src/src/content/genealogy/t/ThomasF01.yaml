@@ -1,5 +1,6 @@
 id: ThomasF01
 letter: T
+sequence: 33
 lastUpdated: 9 March 2023
 relationship: son
 parentId: John16
@@ -13,12 +14,28 @@ head:
   death:
     date: 6 February 1863
     place: Ohio
+  burial:
+    place: "[Columbus, Ohio?]"
 marriages:
   - date: 17 June 1861
     place: "Vinland, Wisconsin"
     spouse:
       givenName: Anstice Billings
       surname: Coats
+      parents: "(dau. of Titus Coats and Eveline [...])"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Susan Eveline Vining
+        birth:
+          date: 11 May 1862
+          place: "Neenah, Wisconsin"
+        marriages:
+          - date: Louis Kossuth Moeller
+        death:
+          date: 15 April 1941
+        burial:
+          place: "Clark's Hill Crest Cemetery   Galena, Kansas"
 raw: |-
   <a name="ThomasF01"></a><font size=+2>Thomas Field Vining</font>
      (son of <a href="Jfamilies.htm#John16">John Vining and Susanna Brown</a>)

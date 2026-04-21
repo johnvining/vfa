@@ -1,5 +1,6 @@
 id: ThomasM02
 letter: T
+sequence: 47
 lastUpdated: 9 March 2023
 relationship: son
 parentId: AlbertH01
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Nora Willena
       surname: Smith
+      parents: "(dau. of John Henry Smith and Mary Elizabeth C. C. Findley)"
       birth:
         date: 15 October 1907
         place: "Dalton, Georgia"

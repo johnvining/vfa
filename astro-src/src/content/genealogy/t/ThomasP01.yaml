@@ -1,5 +1,6 @@
 id: ThomasP01
 letter: T
+sequence: 52
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Abijah01
@@ -13,10 +14,16 @@ head:
   death:
     date: 15 October 1851
     place: "Taylor, New York"
+  burial:
+    place: "Potter Hill Cemetery   Taylor, New York"
 marriages:
   - spouse:
       givenName: Nancy A.
       surname: "[...]"
+      death:
+        date: 25 April 1849
+      burial:
+        place: "Potter Hill Cemetery   Taylor, New York"
 childrenGroups:
   - children:
       - name: Cynthia Vining

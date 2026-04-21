@@ -1,5 +1,6 @@
 id: ThomasR02
 letter: T
+sequence: 54
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasA01
@@ -15,6 +16,10 @@ marriages:
   - spouse:
       givenName: Lydia Jane
       surname: Pope
+      birth:
+        date: "1866"
+      death:
+        date: "1940"
 childrenGroups:
   - children:
       - name: James Walter Vining

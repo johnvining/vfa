@@ -13,16 +13,26 @@ head:
   death:
     date: 8 March 1975
     place: "Atlanta, Georgia"
+  burial:
+    place: "Westview Cemetery   Atlanta, Georgia"
 marriages:
   - spouse:
       givenName: Corenne
       surname: Farlow
+      birth:
+        date: 12 March 1914
+        place: Georgia
+      death:
+        date: 3 November 1983
+        place: "(last residence: Metairie, Louisiana)"
+      burial:
+        place: "Westview Cemetery   Atlanta, Georgia"
 childrenGroups:
   - children:
       - name: son +
       - name: Patrick Vining +
         birth:
-          date: "Atlanta, Georgia"
+          place: "Atlanta, Georgia"
         death:
           date: 19 February 1977
           place: "Atlanta, Georgia"

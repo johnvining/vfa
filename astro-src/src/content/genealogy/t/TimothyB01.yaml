@@ -13,12 +13,15 @@ head:
   death:
     date: 23 May 1893
     place: Ohio
+  burial:
+    place: "Howell Hill Cemetery   Salisbury Township, Ohio"
 marriages:
   - date: 3 May 1826
     place: Ohio
     spouse:
       givenName: Sina
       surname: Jones
+      parents: "(dau. of Charles Jones and [...])"
       birth:
         date: 12 November 1806
         place: New York

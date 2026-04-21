@@ -1,5 +1,6 @@
 id: ThomasB03
 letter: T
+sequence: 20
 lastUpdated: 9 March 2023
 relationship: son
 parentId: NathanielF01
@@ -14,6 +15,14 @@ marriages:
   - spouse:
       givenName: Nola Mae
       surname: Skeen
+      parents: "(dau. of [&#8230;] Skeen and Gertrude [&#8230;])"
+      birth:
+        date: 31 December 1913
+      death:
+        date: 1 May 2001
+      burial:
+        place: "Forest Lawn Memorial Gardens   Lake City, Columbia County, Florida"
+    note: "divorced July 1960   Dade County, Florida"
 childrenGroups:
   - children:
       - name: Thomas Nathan Vining

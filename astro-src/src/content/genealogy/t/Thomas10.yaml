@@ -1,5 +1,6 @@
 id: Thomas10
 letter: T
+sequence: 6
 lastUpdated: 9 March 2023
 relationship: son
 parentDesc: "[?]"
@@ -11,6 +12,18 @@ marriages:
     spouse:
       givenName: "Eliza [Andrus or"
       surname: "Andrews?]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Thomas Vining
+        entryId: Thomas11
+        birth:
+          date: "1830"
+        marriages:
+          - date: 16 June 1875
+            spouse: Julia/Juliet Sons
+        death:
+          date: "1880"
 raw: |-
   <a name="Thomas10"></a><font size=+2>Thomas Vining</font>
      (son of [?])

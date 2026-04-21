@@ -1,5 +1,6 @@
 id: ThomasA04
 letter: T
+sequence: 16
 lastUpdated: 9 March 2023
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Sarah
       surname: "[...]"
+      birth:
+        date: age 54 y. as of 1870 census
+        place: South Carolina
 childrenGroups:
   - children:
       - name: Della Vining

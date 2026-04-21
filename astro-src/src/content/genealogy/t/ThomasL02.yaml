@@ -1,5 +1,6 @@
 id: ThomasL02
 letter: T
+sequence: 44
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Earl03
@@ -12,10 +13,13 @@ head:
   death:
     date: 19 February 2017
     place: "Douglas, Georgia"
+  burial:
+    place: "Royals Cemetery   Kirkland, Georgia"
 marriages:
   - spouse:
       givenName: Tammy
       surname: Davis
+      parents: "(dau. of Joe Elton Davis and Mary [&#8230;])"
 childrenGroups:
   - children:
       - name: Cody Lamar Vining

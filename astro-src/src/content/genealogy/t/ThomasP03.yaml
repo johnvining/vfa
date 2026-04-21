@@ -1,5 +1,6 @@
 id: ThomasP03
 letter: T
+sequence: 50
 lastUpdated: 9 March 2023
 relationship: son
 parentId: CorneliusW01
@@ -13,11 +14,14 @@ head:
   death:
     date: 9 August 1915
     place: "Liberty Township, Michigan"
+  burial:
+    place: "East Liberty Cemetery   Liberty Township, Michigan"
 marriages:
   - date: 31 December 1878
     spouse:
       givenName: Viola Adora
       surname: Redner
+      parents: "(dau. of Elias Redner and Hanna Merian Keeling)"
       birth:
         date: 7 May 1863
         place: "Brooklyn (Columbia Township), Michigan"

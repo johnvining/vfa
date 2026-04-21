@@ -1,5 +1,6 @@
 id: Thomas07
 letter: T
+sequence: 4
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Jeptha01
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: Mary
       surname: Wade
+      parents: "(dau. of Thomas Holden Wade and Jane Boggan)"
+      birth:
+        date: ca. 1759
+        place: "North Carolina"
+      death:
+        date: "1827"
+        place: "Limestone County, Alabama"
 childrenGroups:
   - children:
       - name: John Vining
@@ -62,7 +70,11 @@ childrenGroups:
       - name: Matilda Vining
         birth:
           date: "1796"
-          place: "Georgia   m. ca. 1809   Dixon Springs, Trousdale County, Tennessee   Thomas Gray"
+          place: Georgia
+        marriages:
+          - date: ca. 1809
+            place: "Dixon Springs, Trousdale County, Tennessee"
+            spouse: Thomas Gray
         death:
           date: "[Dixon Springs, Trousdale County or Smith County?], Tennessee"
         burial:

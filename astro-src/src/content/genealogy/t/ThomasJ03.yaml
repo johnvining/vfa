@@ -1,5 +1,6 @@
 id: ThomasJ03
 letter: T
+sequence: 41
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasV01
@@ -8,6 +9,10 @@ head:
   givenName: Thomas Jerry
   death:
     date: before 29 December 2010
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Katrina Vining
 raw: |-
   <a name="ThomasJ03"></a><font size=+2>Thomas Jerry Vining</font>
      (son of <a href="#ThomasV01">Thomas Vetsch Vining and Myrtle Jones</a>)

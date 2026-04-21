@@ -1,5 +1,6 @@
 id: Thomas01
 letter: T
+sequence: 1
 lastUpdated: 9 March 2023
 relationship: son
 parentId: George01
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Hannah
       surname: Randall
+      parents: "(dau. of John Randall and Susanna Benson)"
       birth:
         date: 4 January 1707/08
         place: "Weymouth, Norfolk County, Massachusetts"

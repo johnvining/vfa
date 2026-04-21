@@ -1,5 +1,6 @@
 id: ThomasE04
 letter: T
+sequence: 30
 lastUpdated: 9 March 2023
 relationship: son
 parentId: KennethE01
@@ -15,6 +16,7 @@ marriages:
     spouse:
       givenName: Rosemarie Joan
       surname: Ducharme
+      parents: "(dau. of Marcel Ducharme and Doris [&#8230;])"
 childrenGroups:
   - children:
       - name: Daniel Ryan Vining

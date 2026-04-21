@@ -1,5 +1,6 @@
 id: ThomasS01
 letter: T
+sequence: 56
 lastUpdated: 9 March 2023
 relationship: son
 parentId: David04
@@ -13,10 +14,21 @@ head:
   death:
     date: 12 April 1866
     place: "Leyden, Massachusetts"
+  burial:
+    place: "East Hawley Cemetery   Hawley, Massachsetts"
 marriages:
   - spouse:
       givenName: Nancy Judson
       surname: Shaw
+      parents: "(dau. of Elisha Shaw and Elizabeth Fuller Sturtevant)"
+      birth:
+        date: 7 May 1824
+        place: "Colrain, Massachusetts"
+      death:
+        date: 9 October 1912
+        place: "Leyden, Massachusetts"
+      burial:
+        place: "South Leyden Cemetery   Leyden, Massachusetts"
 childrenGroups:
   - children:
       - name: Ella Sarah B. Vining

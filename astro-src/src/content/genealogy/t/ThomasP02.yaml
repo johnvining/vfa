@@ -1,5 +1,6 @@
 id: ThomasP02
 letter: T
+sequence: 51
 lastUpdated: 9 March 2023
 relationship: son
 parentId: JamesT01
@@ -12,10 +13,38 @@ head:
     place: "Delaware, Ohio"
   death:
     date: 14 September 1924
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
 marriages:
   - number: 1
     date: 3 October 1867
+    spouse:
+      givenName: Cynthia
+      surname: Fritz
+      death:
+        date: "[?]"
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
+  - number: 2
+    spouse:
+      givenName: Elnora Baker
+      surname: Laurence
+      birth:
+        date: "1852"
+      death:
+        date: 20 December 1928
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
 childrenGroups:
+  - headingText: child by Cynthia Fritz
+    children:
+      - name: Minnie Vining
+        birth:
+          date: ca. 1868
+        marriages:
+          - date: H. C. Price
+        death:
+          date: "Chicago, Illinois"
   - spouseRef: Elnora Baker Laurence
     children:
       - name: Edward Thomas Vining

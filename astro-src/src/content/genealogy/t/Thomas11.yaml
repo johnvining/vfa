@@ -1,5 +1,6 @@
 id: Thomas11
 letter: T
+sequence: 9
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Thomas10
@@ -15,6 +16,7 @@ marriages:
     spouse:
       givenName: Julia/Juliet
       surname: Sons
+      parents: "(dau. of Antoine William Sons and Harriet Henrietta Renaud)"
       birth:
         date: August 1856
       death:

@@ -1,5 +1,6 @@
 id: ThomasB01
 letter: T
+sequence: 22
 lastUpdated: 9 March 2023
 relationship: son
 parentId: DonaldE01
@@ -13,6 +14,8 @@ head:
   death:
     date: 10 February 2010
     place: Ohio
+  burial:
+    place: "Strongsville Cemetery   Strongsville, Ohio"
 marriages:
   - date: 22 July 1952
     spouse:

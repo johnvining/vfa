@@ -1,5 +1,6 @@
 id: ThomasV01
 letter: T
+sequence: 58
 lastUpdated: 9 March 2023
 relationship: son
 parentId: CharlesP01
@@ -13,6 +14,8 @@ head:
   death:
     date: 29 December 2010
     place: "Pineville, Louisiana"
+  burial:
+    place: "Resthaven Cemetery   Oakdale, Allen Parish, Louisiana"
 marriages:
   - date: 63 y. as of 29 December 2010
     spouse:
@@ -25,8 +28,8 @@ childrenGroups:
         death:
           date: before 29 December 2010
       - name: Charles Ronald Vining
-        birth:
-          date: "m. Linda [...]"
+        marriages:
+          - date: "Linda [...]"
       - name: Phillip Irby Vining
         entryId: PhillipI01
         entryLetter: P

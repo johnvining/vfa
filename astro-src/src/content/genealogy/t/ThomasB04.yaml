@@ -1,5 +1,6 @@
 id: ThomasB04
 letter: T
+sequence: 21
 lastUpdated: 9 March 2023
 relationship: son
 parentId: FrancisJ01
@@ -16,6 +17,10 @@ marriages:
   - spouse:
       givenName: Lillie
       surname: Beverly
+      parents: "(dau. of James A. Beverly and Mary J. [...])"
+      birth:
+        date: age 34 y. as of 1920 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Hilda Vining

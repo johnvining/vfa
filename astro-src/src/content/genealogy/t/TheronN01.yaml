@@ -13,10 +13,18 @@ head:
   death:
     date: 11 June 1989
     place: "Webster Parish, Louisiana"
+  burial:
+    place: "New Forest Cemetery   Forest, Louisiana"
 marriages:
   - spouse:
       givenName: Eva Mae
       surname: Grubbs
+      birth:
+        date: 14 July 1921
+      death:
+        date: 5 November 1996
+      burial:
+        place: "New Forest Cemetery   Forest, Louisiana"
 childrenGroups:
   - children:
       - name: Theron Douglas Vining

@@ -1,5 +1,6 @@
 id: ThomasF04
 letter: T
+sequence: 32
 lastUpdated: 9 March 2023
 relationship: son
 parentDesc: "[?]"
@@ -15,6 +16,9 @@ marriages:
   - spouse:
       givenName: Elizabeth
       surname: "[&#8230;]"
+      death:
+        date: 8 February 1832
+        place: "Medford, Massachusetts"
 childrenGroups:
   - children:
       - name: John Vining

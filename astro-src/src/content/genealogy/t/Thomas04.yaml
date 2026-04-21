@@ -1,5 +1,6 @@
 id: Thomas04
 letter: T
+sequence: 10
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Thomas03
@@ -12,11 +13,14 @@ head:
   death:
     date: 13 December 1918
     place: "Eustis, Franklin County, Maine"
+  burial:
+    place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
 marriages:
   - date: 39 y. as of 1900 census
     spouse:
       givenName: Releaf S.
       surname: Walker
+      parents: "(dau. of Chandler Walker and Meribah C. &#8220;Mary&#8221; Smith)"
       birth:
         date: 22 February 1839
         place: "Freeman Township, Franklin County, Maine"

@@ -1,5 +1,6 @@
 id: ThomasR03
 letter: T
+sequence: 55
 lastUpdated: 9 March 2023
 relationship: son
 parentId: WilliamH09
@@ -16,6 +17,7 @@ marriages:
     spouse:
       givenName: Frances D.
       surname: Conover
+      parents: "(dau. of Robert M. Conover and Kate [&#8230;])"
       birth:
         date: December 1858
         place: New Jersey
@@ -67,6 +69,8 @@ childrenGroups:
           date: "1888"
         death:
           date: 7 September 1889
+        burial:
+          description: "[bur.?] East View Cemetery   Salem, New Jersey"
       - name: Leon A. Vining
         entryId: LeonA01
         entryLetter: L

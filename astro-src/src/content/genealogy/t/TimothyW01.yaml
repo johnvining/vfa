@@ -13,12 +13,15 @@ head:
   death:
     date: 8 May 1885
     place: "Avon, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - date: 25 October 1864
     place: "Farmington, Maine"
     spouse:
       givenName: Tryphena C.
       surname: Dow
+      parents: "(dau. of Joshua Dow and Eliza[beth?] Haines)"
       birth:
         date: 25 May 1845
         place: "Avon, Maine"

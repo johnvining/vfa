@@ -1,5 +1,6 @@
 id: Thomas15
 letter: T
+sequence: 12
 lastUpdated: 9 March 2023
 relationship: son
 parentId: GeorgeJ01
@@ -20,6 +21,41 @@ marriages:
         place: Arkansas
       death:
         date: between 1910 and 1920 censuses
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Fred M. Vining
+        entryId: FredM01
+        entryLetter: F
+        birth:
+          date: "1897"
+          place: Arkansas
+        marriages:
+          - date: Carrie C. Bono
+        death:
+          date: "1958"
+        burial:
+          place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+      - name: George J. Vining
+        birth:
+          date: 24 May 1900
+          place: Arkansas
+        death:
+          date: 13 January 1948
+        burial:
+          place: "Little Rock National Cemetery   Little Rock, Arkansas"
+      - name: Ira Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Arkansas
+      - name: Nellie Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Arkansas
+      - name: Vinnie Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Arkansas
 docsUrl: Tsources/Thomas15doc.htm
 raw: |-
   <a name="Thomas15"></a><font size=+2>Thomas Vining</font>

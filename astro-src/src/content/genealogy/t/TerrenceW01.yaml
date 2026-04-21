@@ -14,6 +14,13 @@ marriages:
   - spouse:
       givenName: Patricia Ann
       surname: Bookhardt
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Theresa Kimberly Vining
+        birth:
+          date: 3 November 1967
+          place: "Smyrna, Cobb Counnty, Georgia"
 raw: |-
   <a name="TerrenceW01"></a><font size=+2>Terrence Wiley Vining</font>
      (son of <a href="Cfamilies.htm#CarlH01">Carl Horace Vining and Ethamarie Y. Wiley</a>)

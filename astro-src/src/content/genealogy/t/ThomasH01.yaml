@@ -1,5 +1,6 @@
 id: ThomasH01
 letter: T
+sequence: 36
 lastUpdated: 9 March 2023
 relationship: son
 parentId: FrankL01
@@ -13,6 +14,8 @@ head:
   death:
     date: 2 March 2001
     place: "Phoenix, Arizona"
+  burial:
+    place: "Highland Cemetery   Great Falls, Montana"
 marriages:
   - date: 4 March 1951
     place: "Great Falls, Montana"

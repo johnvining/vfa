@@ -1,0 +1,62 @@
+id: Thomas14
+letter: T
+sequence: 13
+lastUpdated: 9 March 2023
+relationship: son
+parentId: FrankC01
+parentLetter: F
+parentDesc: Frank Clarke Vining and Mary A. Cosgrove
+head:
+  givenName: Thomas
+  birth:
+    date: 14 December 1869
+    place: "Friday Harbor, San Juan County, Washington"
+  death:
+    date: 17 March 1922
+    place: "Ellensburg, Kittitas County, Washington"
+marriages:
+  - date: "4 January 1907 [or 1901?]"
+    place: "Vancouver, British Columbia, Canada"
+    spouse:
+      givenName: "Kate [Borrow or Burroughs?]"
+      parents: "(dau. of Frederick Burroughs and Christena Annie Woodrow)"
+      birth:
+        date: 7 November 1880
+        place: "Montreal, Quebec, Canada"
+      death:
+        date: 3 March 1956
+        place: "Ellensburg, Kittitas County, Washington"
+childrenGroups:
+  - headingText: children
+    children:
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: Lloyd Woodrow Vining
+        birth:
+          date: 16 July 1912
+          place: "Ellensburg, Kittitas County, Washington"
+        marriages:
+          - date: Betty Lou Grindrod
+        death:
+          date: 31 October 1989
+          place: "Ellensburg, Kittitas County, Washington"
+        burial:
+          place: "IOOF Cemetery   Ellensburg, Kittitas County, Washington"
+docsUrl: Tsources/Thomas14doc.htm
+raw: |-
+  <a name="Thomas14"</a><font size=+2>Thomas Vining</font>
+     (son of <a href="Ffamilies.htm#FrankC01">Frank Clarke Vining and Mary A. Cosgrove</a>)
+     b. 14 December 1869   Friday Harbor, San Juan County, Washington
+     m. 4 January 1907 [or 1901?]   Vancouver, British Columbia, Canada
+           Kate [Borrow or Burroughs?]
+                 (dau. of Frederick Burroughs and Christena Annie Woodrow)
+                 b. 7 November 1880   Montreal, Quebec, Canada
+                 d. 3 March 1956   Ellensburg, Kittitas County, Washington
+     d. 17 March 1922   Ellensburg, Kittitas County, Washington
+
+  <font size=+1>children:</font>
+     child Vining   d. before 1910 census
+     Lloyd Woodrow Vining   b. 16 July 1912   Ellensburg, Kittitas County, Washington   -   m. Betty Lou Grindrod   -   d. 31 October 1989   Ellensburg, Kittitas County, Washington   -   bur. IOOF Cemetery   Ellensburg, Kittitas County, Washington
+
+  <a href="Tsources/Thomas14doc.htm">documentation and notes</a>

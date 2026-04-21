@@ -1,5 +1,6 @@
 id: ThomasU01
 letter: T
+sequence: 57
 lastUpdated: 9 March 2023
 relationship: son
 parentId: JohnU01
@@ -12,6 +13,8 @@ head:
   death:
     date: 9 July 1998
     place: "(last residence: Denham Springs, Louisiana)"
+  burial:
+    place: "Pleasant Hill Baptist Church Cemetery   St. Helena Parish, Louisiana"
 marriages:
   - number: 1
     date: 16 May 1932

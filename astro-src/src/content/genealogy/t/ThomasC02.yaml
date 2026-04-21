@@ -1,5 +1,6 @@
 id: ThomasC02
 letter: T
+sequence: 24
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasE02
@@ -13,6 +14,25 @@ marriages:
   - spouse:
       givenName: Doretha
       surname: Runnells
+      birth:
+        date: age 26 y. as of 1940 census
+        place: Mississippi
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Thomas Cleburne Vining Jr.
+        entryId: ThomasCJr01
+        birth:
+          date: 7 February 1939
+          place: Arkansas
+        marriages:
+          - date: 56 y. as of 2018
+            spouse: Nancy Williams
+        death:
+          date: 13 January 2018
+          place: "Russellville, Arkansas"
+        burial:
+          place: "McFadden Cemetery   Dover, Arkansas"
 docsUrl: Tsources/ThomasC02doc.htm
 raw: |-
   <a name="ThomasC02"></a><font size=+2>Thomas Cleburne Vining</font>

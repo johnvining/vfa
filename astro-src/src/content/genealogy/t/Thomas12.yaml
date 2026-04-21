@@ -1,5 +1,6 @@
 id: Thomas12
 letter: T
+sequence: 8
 lastUpdated: 9 March 2023
 relationship: son
 parentId: Samuel02
@@ -16,6 +17,7 @@ marriages:
     spouse:
       givenName: Mary A.
       surname: Moring
+      parents: "(dau. of Benjamin Moring and Jane [&#8230;])"
       birth:
         date: age 30 y. as of 1860 census
         place: Nova Scotia

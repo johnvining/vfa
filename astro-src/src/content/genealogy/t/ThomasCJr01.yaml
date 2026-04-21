@@ -1,5 +1,6 @@
 id: ThomasCJr01
 letter: T
+sequence: 25
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasC02
@@ -12,6 +13,8 @@ head:
   death:
     date: 13 January 2018
     place: "Russellville, Arkansas"
+  burial:
+    place: "McFadden Cemetery   Dover, Arkansas"
 marriages:
   - date: 56 y. as of 2018
     spouse:
@@ -33,7 +36,8 @@ childrenGroups:
           - number: 1
             date: November 1991
             spouse: Kenny Beckie;   divorced ca. 2009
-          - date: (2)Helmut Stepp
+          - number: 2
+            spouse: Helmut Stepp
       - name: John Wesley Vining
         entryId: JohnW07
         entryLetter: J

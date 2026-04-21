@@ -1,5 +1,6 @@
 id: ThomasB02
 letter: T
+sequence: 23
 lastUpdated: 9 March 2023
 relationship: son
 parentId: AlbertG02
@@ -12,12 +13,15 @@ head:
     place: Georgia
   death:
     date: 16 July 1905
+  burial:
+    place: "Center Valley Cemetery   Chatsworth, Georgia"
 marriages:
   - date: 23 December 1857
     place: Georgia
     spouse:
       givenName: Barbara Elizabeth
       surname: Harris
+      parents: "(dau. of Miniard Harris and Dicy Daugherty)"
       birth:
         date: 17 April 1842
       death:

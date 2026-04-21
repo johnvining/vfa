@@ -1,5 +1,6 @@
 id: ThomasW03
 letter: T
+sequence: 62
 lastUpdated: 9 March 2023
 relationship: son
 parentId: EdwardH03
@@ -17,14 +18,31 @@ marriages:
   - number: 1
     date: 2 January 1966
     spouse:
-      givenName: divorced
-      surname: divorced
+      givenName: Barbara
+      surname: Di Lullo
+    note: divorced
   - number: 2
     date: 28 August 1982
     place: "Carlsbad, New Mexico"
     spouse:
       givenName: Lena
       surname: Granger
+childrenGroups:
+  - headingText: child by Barbara Di Lullo
+    children:
+      - name: Holly Jo Vining
+        birth:
+          date: February 1969
+        marriages:
+          - date: Kevin Shaughnessy
+  - headingText: child by Lena Granger
+    children:
+      - name: Stephanie Rene Vining
+        birth:
+          date: 28 May 1985
+          place: "Carlsbad, New Mexico"
+        marriages:
+          - date: Justin Hughes
 docsUrl: Tsources/ThomasW03doc.htm
 raw: |-
   <a name="ThomasW03"></a><font size=+2>Thomas William Vining</font>

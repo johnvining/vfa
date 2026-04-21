@@ -1,5 +1,6 @@
 id: ThomasG01
 letter: T
+sequence: 35
 lastUpdated: 9 March 2023
 relationship: son
 parentId: ThomasWH01
@@ -11,10 +12,96 @@ head:
     place: "[Louisiana or Tate, Georgia?]"
   death:
     date: 29 September 1916
+  burial:
+    place: "Crystal Springs Cemetery   Crystal Springs, Mississippi"
 marriages:
   - spouse:
       givenName: Julia Sabrina
       surname: Wells
+      parents: "(dau. of Christopher [Rankin or Columbus?] Wells and Elizabeth Hoover)"
+      birth:
+        date: 2 December 1846
+        place: Mississippi
+      death:
+        date: 7 May 1901
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Randall Lee Vining
+        entryId: RandallL01
+        entryLetter: R
+        birth:
+          date: 12 July 1866
+          place: "Hinds, Mississippi"
+        marriages:
+          - number: 1
+            date: Laura Ann Horton (d. 24 March 1902)
+          - number: 2
+            date: 4 March 1903
+            spouse: "[Della or Delia?] Stewart"
+        death:
+          date: 5 June 1961
+          place: "Monroe, Louisiana"
+        burial:
+          place: "Forest Cemetery   Forest, Louisiana"
+      - name: Margaret Vining
+        birth:
+          date: 25 March 1872
+          place: Mississippi
+        death:
+          date: 5 February 1965
+      - name: Addie Julia Vining
+        birth:
+          date: 22 September 1873
+          place: Mississippi
+        death:
+          date: 29 June 1944
+      - name: Mary Louise Vining
+        birth:
+          date: 28 January 1874
+          place: Mississippi
+        death:
+          date: 8 September 1906
+      - name: Thomas Ebenezer Vining
+        entryId: ThomasE02
+        birth:
+          date: 20 August 1877
+          place: "Crystal Springs, Copiah County, Mississippi"
+        marriages:
+          - number: 1
+            date: "Josephine [...]"
+          - number: 2
+            date: Mary Maude Edmonson
+        death:
+          date: 27 April 1953
+          place: "Eudora, Chicot County, Arkansas"
+        burial:
+          place: "Mount Carmel Cemetery   Eudora, Chicot County, Arkansas"
+      - name: "Martha &#8220;Mattie&#8221; Vining"
+        birth:
+          date: 11 June 1880
+          place: Mississippi
+        death:
+          date: January 1968
+      - name: Annie Laurie Vining
+        birth:
+          date: 3 July 1883
+          place: Mississippi
+        death:
+          date: August 1992
+      - name: Charles Phillip Vining
+        entryId: CharlesP01
+        entryLetter: C
+        birth:
+          date: 26 December 1885
+          place: "Jackson, Mississippi"
+        marriages:
+          - date: "Mary Elizabeth &#8220;Mamie&#8221; Vetsch"
+        death:
+          date: 9 July 1965
+          place: "Oakdale, Louisiana"
+        burial:
+          place: "Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana"
 docsUrl: Tsources/ThomasG01doc.htm
 raw: |-
   <a name="ThomasG01"></a><font size=+2>Thomas Green Vining</font>
