@@ -1,0 +1,70 @@
+id: OlenMJr01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: OlenM01
+parentDesc: Olen Marshall Vining and Ella Edwards
+head:
+  givenName: Olen Marshall Jr.
+  birth:
+    date: 22 April 1920
+    place: "McComb, Mississippi"
+  death:
+    date: 17 February 2003
+    place: "Velva, North Dakota"
+marriages:
+  - date: 2 July 1944
+    place: "Alliance, Nebraksa"
+    spouse:
+      givenName: Alice Elinor
+      surname: Hickman
+      birth:
+        date: 17 September 1922
+        place: "Bushnell, Nebraksa"
+      death:
+        date: 12 April 1993
+        place: "Minot, North Dakota"
+childrenGroups:
+  - children:
+      - name: Olen Marshall Vining III
+        marriages:
+          - date: "Jean [...]"
+      - name: Mark Eugene Vining
+        birth:
+          date: 31 December 1949
+          place: "Kimball, Nebraska"
+        death:
+          date: 27 August 2015
+      - name: Daniel Vining
+        marriages:
+          - date: "Belinda [...]"
+      - name: Donna Vining
+        marriages:
+          - date: Gene Jenson
+      - name: Mary Vining
+        marriages:
+          - date: Serge Fournier
+      - name: Doreen Vining
+        marriages:
+          - date: Rolf Sullivan
+docsUrl: Osources/OlenMJr01doc.htm
+raw: |-
+  <a name="OlenMJr01"></a><font size=+2>Olen Marshall Vining Jr.</font>
+     (son of <a href="#OlenM01">Olen Marshall Vining and Ella Edwards</a>)
+     b. 22 April 1920   McComb, Mississippi
+     m. 2 July 1944   Alliance, Nebraksa
+           Alice Elinor Hickman
+                 (dau. of Ira Smith Hickman and Maude McDonald)
+                 b. 17 September 1922   Bushnell, Nebraksa
+                 d. 12 April 1993   Minot, North Dakota
+     d. 17 February 2003   Velva, North Dakota
+  
+  <font size=+1>children:</font>
+     Olen Marshall Vining III   m. Jean [...]
+     Mark Eugene Vining   b. 31 December 1949   Kimball, Nebraska   -   d. 27 August 2015
+     Daniel Vining   m. Belinda [...]
+     Donna Vining   m. Gene Jenson
+     Mary Vining   m. Serge Fournier
+     Doreen Vining   m. Rolf Sullivan
+  
+  <a href="Osources/OlenMJr01doc.htm">documentation and notes</a>

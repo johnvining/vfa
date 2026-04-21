@@ -1,0 +1,86 @@
+id: OliverS01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Leavitt01
+parentLetter: L
+parentDesc: Leavitt Vining and Ophronia Swift
+head:
+  givenName: Oliver Smith
+  birth:
+    date: "age 49 y., 8 m. at death"
+  death:
+    date: 14 June 1875
+marriages:
+  - date: "1850"
+    spouse:
+      givenName: Elizabeth Helen
+      surname: Muzzy
+      birth:
+        date: "1832"
+      death:
+        date: "1903"
+      burial:
+        place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Ella Triphena Maria Vining
+        birth:
+          date: "1851"
+        marriages:
+          - date: Richard K. Abbott
+      - name: Martha A. Vining
+        birth:
+          date: "age 1 y., 4 m. at death"
+        death:
+          date: 18 October 1856
+          place: "Hatfield, Massachusetts"
+        burial:
+          place: "North Hatfield Cemetery, North Hatfield, Massachusetts"
+      - name: Charles William Vining
+        birth:
+          date: "1859"
+          place: "Hatfield, Massachusetts"
+        death:
+          date: 5 March 1870
+          place: "Hatfield, Massachusetts"
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+      - name: Joseph Allen Vining
+        entryId: JosephA02
+        entryLetter: J
+        birth:
+          date: 1 November 1861
+          place: "North Hatfield, Massachusetts"
+        marriages:
+          - date: 7 April 1882
+            spouse: Adeline Jane Baker
+        death:
+          date: 5 April 1923
+      - name: "Martha E. &#8220;Mattie&#8221; Vining"
+        birth:
+          date: "1867"
+        marriages:
+          - date: 19 October 1886
+            spouse: Charles A. Bardwell
+docsUrl: Osources/OliverS01doc.htm
+raw: |-
+  <a name="OliverS01"></a><font size=+2>Oliver Smith Vining</font>
+     (son of <a href="Lfamilies.htm#Leavitt01">Leavitt Vining and Ophronia Swift</a>)
+     b. age 49 y., 8 m. at death
+     m. 1850
+           Elizabeth Helen Muzzy
+                 b. 1832
+                 d. 1903
+                       bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     d. 14 June 1875
+           bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     Ella Triphena Maria Vining   b. 1851   -   m. Richard K. Abbott
+     Martha A. Vining   b. age 1 y., 4 m. at death   -   d. 18 October 1856   Hatfield, Massachusetts   -   bur. North Hatfield Cemetery, North Hatfield, Massachusetts
+     Charles William Vining   b. 1859   Hatfield, Massachusetts   -   d. 5 March 1870   Hatfield, Massachusetts   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     <a href="Jfamilies.htm#JosephA02">Joseph Allen Vining</a>   b. 1 November 1861   North Hatfield, Massachusetts   -   m. 7 April 1882   Adeline Jane Baker   -   d. 5 April 1923
+     Martha E. &#8220;Mattie&#8221; Vining   b. 1867   -   m. 19 October 1886   Charles A. Bardwell
+  
+  <a href="Osources/OliverS01doc.htm">documentation and notes</a>

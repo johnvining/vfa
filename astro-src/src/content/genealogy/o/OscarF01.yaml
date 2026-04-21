@@ -1,0 +1,60 @@
+id: OscarF01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: "Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins"
+head:
+  givenName: Oscar Francis
+  birth:
+    date: 9 January 1912
+    place: Oklahoma
+  death:
+    date: February 1976
+    place: "(last residence: Caney, Kansas)"
+marriages:
+  - date: 7 August 1936
+    spouse:
+      givenName: Alta
+      surname: Herren
+      birth:
+        date: 28 March 1918
+        place: "Sitka, Arkansas"
+      death:
+        date: 25 May 2012
+        place: "Independence, Kansas"
+      burial:
+        place: "Robbins Cemetery   Coffeyville, Kansas"
+childrenGroups:
+  - children:
+      - name: Norma Jean Vining
+        birth:
+          date: 13 October 1939
+        marriages:
+          - date: 14 June 1963
+            spouse: Leroy Birnbrook
+      - name: Alta Arlene Vining
+        birth:
+          date: 16 June 1945
+        marriages:
+          - date: "[...] Bellairs"
+docsUrl: Osources/OscarF01doc.htm
+raw: |-
+  <a name="OscarF01"></a><font size=+2>Oscar Francis Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins</a>)
+     b. 9 January 1912   Oklahoma
+     m. 7 August 1936
+           Alta Herren
+                 (dau. of Edmund Herren and Ida Blaine)
+                 b. 28 March 1918   Sitka, Arkansas
+                 d. 25 May 2012   Independence, Kansas
+                       bur. Robbins Cemetery   Coffeyville, Kansas
+     d. February 1976   (last residence: Caney, Kansas)
+           bur. Robbins Cemetery   Coffeyville, Kansas
+  
+  <font size=+1>children:</font>
+     Norma Jean Vining   b. 13 October 1939   -   m. 14 June 1963   Leroy Birnbrook
+     Alta Arlene Vining   b. 16 June 1945   -   m. [...] Bellairs
+  
+  <a href="Osources/OscarF01doc.htm">documentation and notes</a>

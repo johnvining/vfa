@@ -1,0 +1,81 @@
+id: OscarD01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: HoraceO01
+parentLetter: H
+parentDesc: Horace Oscar Vining and Martha Harrison Chapman
+head:
+  givenName: Oscar David
+  birth:
+    date: 27 December 1885
+    place: "Lake City, Minnesota"
+  death:
+    date: April 1969
+    place: "St. Paul, Minnesota"
+marriages:
+  - spouse:
+      givenName: Emma E.
+      surname: Raddatz
+childrenGroups:
+  - children:
+      - name: Howard Herman Vining
+        entryId: HowardH01
+        entryLetter: H
+        birth:
+          date: 23 March 1909
+          place: Minnesota
+        marriages:
+          - date: 20 June 1936
+            spouse: Fern Ione Alexander
+        death:
+          date: 23 February 1984
+          place: "(last residence: St. Paul, Minnesota)"
+        burial:
+          place: "Riverview Cemetery   St. Paul, Minnesota"
+      - name: Margery E. Vining
+        birth:
+          date: 13 March 1914
+          place: Minnesota
+        marriages:
+          - date: Russell Robinson
+        death:
+          date: "1988"
+        burial:
+          place: "Riverview Cemetery   St. Paul, Minnesota"
+      - name: "Albert &#8220;Perk&#8221; Vining"
+        entryId: Albert01
+        entryLetter: A
+        birth:
+          date: 12 August 1915
+          place: Minnesota
+        marriages:
+          - date: Eileen Ledger
+        death:
+          date: April 1971
+          place: "(last residence: St. Paul, Minnesota)"
+      - name: Ora Vining
+        birth:
+          date: 23 October 1920
+          place: Minnesota
+        marriages:
+          - date: Chester Swanson
+        death:
+          date: "1992"
+        burial:
+          place: "Riverview Cemetery   St. Paul, Minnesota"
+docsUrl: Osources/OscarD01doc.htm
+raw: |-
+  <a name="OscarD01"></a><font size=+2>Oscar David Vining</font>
+     (son of <a href="Hfamilies.htm#HoraceO01">Horace Oscar Vining and Martha Harrison Chapman</a>)
+     b. 27 December 1885   Lake City, Minnesota
+     m. Emma E. Raddatz
+     d. April 1969   St. Paul, Minnesota
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#HowardH01">Howard Herman Vining</a>   b. 23 March 1909   Minnesota   -   m. 20 June 1936   Fern Ione Alexander   -   d. 23 February 1984   (last residence: St. Paul, Minnesota)   -   bur. Riverview Cemetery   St. Paul, Minnesota
+     Margery E. Vining   b. 13 March 1914   Minnesota   -   m. Russell Robinson   -   d. 1988   -   bur. Riverview Cemetery   St. Paul, Minnesota
+     <a href="Afamilies.htm#Albert01">Albert &#8220;Perk&#8221; Vining</a>   b. 12 August 1915   Minnesota   -   m. Eileen Ledger   -   d. April 1971   (last residence: St. Paul, Minnesota)
+     Ora Vining   b. 23 October 1920   Minnesota   -   m. Chester Swanson   -   d. 1992   -   bur. Riverview Cemetery   St. Paul, Minnesota
+  
+  <a href="Osources/OscarD01doc.htm">documentation and notes</a>

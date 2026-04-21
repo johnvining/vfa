@@ -1,0 +1,141 @@
+id: OtisS01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Samuel05
+parentLetter: S
+parentDesc: "Samuel Vining and Mary &#8220;Polly&#8221; Smith"
+head:
+  givenName: Otis Smith
+  birth:
+    date: 18 November 1830
+    place: "Durham, Maine"
+  death:
+    date: 19 April 1889
+    place: "Lisbon, Maine"
+marriages:
+  - date: int. 3 October 1852
+    place: "Lisbon, Maine"
+    spouse:
+      givenName: Minerva A.
+      surname: Stover
+      birth:
+        date: November 1830
+        place: "Harpswell Center, Maine"
+      death:
+        date: 17 December 1906
+        place: "Lisbon, Maine"
+      burial:
+        place: "Hillside Cemetery   Lisbon, Maine"
+childrenGroups:
+  - children:
+      - name: Melvina S. Vining
+        birth:
+          date: 4 September 1853
+          place: "Durham, Maine"
+        death:
+          date: 13 July 1855
+        burial:
+          place: "Hillside Cemetery   Lisbon, Maine"
+      - name: Charles Otis Vining
+        entryId: CharlesO02
+        entryLetter: C
+        birth:
+          date: 15 February 1855
+          place: "Durham, Maine"
+        marriages:
+          - date: 1 April 1893
+            place: "Pittsfield, Maine"
+            spouse: Edith S. Collamore
+        death:
+          date: 18 August 1915
+          place: "Harpswell, Maine"
+        burial:
+          place: "Lisbon, Maine"
+      - name: George Thomas Vining
+        entryId: GeorgeT01
+        entryLetter: G
+        birth:
+          date: 2 December 1856
+          place: "Durham, Maine"
+        marriages:
+          - date: 12 May 1878
+            spouse: Harriet T. Foster
+        burial:
+          place: Jay Hill
+      - name: Harriet Jane Vining
+        birth:
+          date: 24 December 1858
+          place: "Durham, Maine"
+        marriages:
+          - date: 17 January 1877
+            place: "Lisbon, Maine"
+            spouse: Charles H. Koepka
+      - name: Minerva Ann Vining
+        birth:
+          date: 15 March 1861
+          place: "Durham, Maine"
+      - name: Martha Plummer Vining
+        birth:
+          date: 17 February 1863
+          place: "Durham, Maine"
+        marriages:
+          - date: 6 November 1881
+            place: "Lisbon, Maine"
+            spouse: Benjamin F. Thorn
+      - name: Clara Helen Vining
+        birth:
+          date: 20 June 1865
+          place: Maine
+        marriages:
+          - date: 17 September 1885
+            place: "Lisbon, Maine"
+            spouse: Charles C. Chandler
+      - name: Frederick Elmer Vining
+        entryId: FrederickE01
+        entryLetter: F
+        birth:
+          date: 27 January 1868
+          place: "Durham, Maine"
+        marriages:
+          - date: 1 June 1889
+            place: "Lisbon, Maine"
+            spouse: Louise Conant McKenney
+        death:
+          date: 12 February 1934
+          place: "Deferiet, New York"
+        burial:
+          place: "Hillside Cemetery   Lisbon, Maine"
+      - name: Edwin Wilson Vining
+        birth:
+          date: 18 December 1871
+        death:
+          date: 13 July 1872
+        burial:
+          place: "Hillside Cemetery   Lisbon, Maine"
+docsUrl: Osources/OtisS01doc.htm
+raw: |-
+  <a name="OtisS01"></a><font size=+2>Otis Smith Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel05">Samuel Vining and Mary &#8220;Polly&#8221; Smith</a>)
+     b. 18 November 1830   Durham, Maine
+     m. int. 3 October 1852   Lisbon, Maine
+           Minerva A. Stover
+                 (dau. of Simeon Stover and Louis[e] Hinckl[e]y)
+                 b. November 1830   Harpswell Center, Maine
+                 d. 17 December 1906   Lisbon, Maine
+                       bur. Hillside Cemetery   Lisbon, Maine
+     d. 19 April 1889   Lisbon, Maine
+           bur. Hillside Cemetery   Lisbon, Maine
+  
+  <font size=+1>children:</font>   (<a href="Osources/OtisS01doc.htm">family record from Durham, Maine, town records</a>)
+     Melvina S. Vining   b. 4 September 1853   Durham, Maine   -   d. 13 July 1855   -   bur. Hillside Cemetery   Lisbon, Maine
+     <a href="Cfamilies.htm#CharlesO02">Charles Otis Vining</a>   b. 15 February 1855   Durham, Maine   -   m. 1 April 1893   Pittsfield, Maine   Edith S. Collamore   -   d. 18 August 1915   Harpswell, Maine   -   bur. Lisbon, Maine
+     <a href="Gfamilies.htm#GeorgeT01">George Thomas Vining</a>   b. 2 December 1856   Durham, Maine   -   m. 12 May 1878   Harriet T. Foster   -   13 January 1896   Jay, Maine   -   bur. Jay Hill
+     Harriet Jane Vining   b. 24 December 1858   Durham, Maine   -   m. 17 January 1877   Lisbon, Maine   Charles H. Koepka
+     Minerva Ann Vining   b. 15 March 1861   Durham, Maine
+     Martha Plummer Vining   b. 17 February 1863   Durham, Maine   -   m. 6 November 1881   Lisbon, Maine   Benjamin F. Thorn
+     Clara Helen Vining   b. 20 June 1865   Maine   -   m. 17 September 1885   Lisbon, Maine   Charles C. Chandler
+     <a href="Ffamilies.htm#FrederickE01">Frederick Elmer Vining</a>   b. 27 January 1868   Durham, Maine   -   m. 1 June 1889   Lisbon, Maine   Louise Conant McKenney   -   d. 12 February 1934   Deferiet, New York   -   bur. Hillside Cemetery   Lisbon, Maine
+     Edwin Wilson Vining   b. 18 December 1871   -   d. 13 July 1872   -   bur. Hillside Cemetery   Lisbon, Maine
+  
+  <a href="Osources/OtisS01doc.htm">documentation and notes</a>

@@ -1,0 +1,90 @@
+id: OlenM01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Francis02
+parentLetter: F
+parentDesc: "Francis &#8220;Frank&#8221; Vining and Harriet Joiner"
+head:
+  givenName: Olen Marshall
+  birth:
+    date: 15 December 1878
+    place: "[Mississippi or Louisiana?]"
+  death:
+    date: 29 January 1955
+marriages:
+  - spouse:
+      givenName: Ella
+      surname: Edwards
+childrenGroups:
+  - children:
+      - name: Annie Vining
+        birth:
+          date: age 14 y. as of 1920 census
+          place: Louisiana
+        marriages:
+          - date: "[...] Fortenberry"
+      - name: Gertrude Vining
+        birth:
+          date: age 13 y. as of 1920 census
+          place: Louisiana
+      - name: Robert E. Vining
+        entryId: RobertE07
+        entryLetter: R
+        birth:
+          date: 9 March 1908
+          place: Louisiana
+        marriages:
+          - date: Mamie Perrilloux
+        death:
+          date: 4 July 1975
+        burial:
+          place: "Morse Cemetery   Tangipahoa Parish, Louisiana"
+      - name: Wilfred Elmo Vining
+        birth:
+          date: 11 February 1910
+          place: Louisiana
+        death:
+          date: 27 January 1961
+        burial:
+          place: "Collins Cemetery   Ponchatoula, Louisiana"
+      - name: Inez Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Louisiana
+        marriages:
+          - date: "[...] Perriloux"
+        death:
+          date: "2003"
+      - name: Olen Marshall Vining Jr.
+        entryId: OlenMJr01
+        birth:
+          date: 22 April 1920
+          place: "McComb, Mississippi"
+        marriages:
+          - date: 2 July 1944
+            spouse: "Alliance, Nebraska   Alice Elinor Hickman"
+        death:
+          date: 17 February 2003
+          place: "Velva, North Dakota"
+docsUrl: Osources/OlenM01doc.htm
+raw: |-
+  <a name="OlenM01"></a><font size=+2>Olen Marshall Vining</font>
+     (son of <a href="Ffamilies.htm#Francis02">Francis &#8220;Frank&#8221; Vining and Harriet Joiner</a>)
+     b. 15 December 1878   [Mississippi or Louisiana?]
+     m. Ella Edwards
+              b. 8 June 1887   [Louisiana or Mississippi?]
+              d. 23 September 1867
+                    bur. Collins Cemetery   Ponchatoula, Louisiana
+     d. 29 January 1955
+           bur. Collins Cemetery   Ponchatoula, Louisiana
+  
+  <font size=+1>children:</font>
+     Annie Vining   b. age 14 y. as of 1920 census   Louisiana   -   m. [...] Fortenberry
+     Gertrude Vining   b. age 13 y. as of 1920 census   Louisiana
+     <a href="Rfamilies.htm#RobertE07">Robert E. Vining</a>   b. 9 March 1908   Louisiana   -   m. Mamie Perrilloux   -   d. 4 July 1975   -   bur. Morse Cemetery   Tangipahoa Parish, Louisiana
+     Wilfred Elmo Vining   b. 11 February 1910   Louisiana   -   d. 27 January 1961   -   bur. Collins Cemetery   Ponchatoula, Louisiana
+     Inez Vining   b. age 8 y. as of 1920 census   Louisiana   -   m. [...] Perriloux   -   d. 2003
+     <a href="#OlenMJr01">Olen Marshall Vining Jr.</a>   b. 22 April 1920   McComb, Mississippi   -   m. 2 July 1944   Alliance, Nebraska   Alice Elinor Hickman   -   d. 17 February 2003   Velva, North Dakota
+  
+  <a href="Osources/OlenM01doc.htm">documentation and notes</a>
