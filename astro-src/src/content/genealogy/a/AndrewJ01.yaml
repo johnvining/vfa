@@ -12,6 +12,8 @@ head:
     place: "Weymouth, Norfolk County, Massachusetts"
   death:
     date: 5 December 1930
+  burial:
+    place: "San Francisco National Cemetery   San Francisco, San Francisco County, California"
 marriages:
   - date: 26 y. as of 1900 census
     spouse:
@@ -20,6 +22,13 @@ marriages:
       birth:
         date: December 1848
         place: New York
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "Lucy [A. or M.?] Vining"
+        birth:
+          date: September 1875
+          place: California
 docsUrl: Asources/AndrewJ01doc.htm
 raw: |-
   <a name="AndrewJ01"></a><font size="+2">Andrew Jackson Vining</font>

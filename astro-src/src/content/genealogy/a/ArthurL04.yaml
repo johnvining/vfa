@@ -1,0 +1,61 @@
+id: ArthurL04
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: WilliamM01
+parentLetter: W
+parentDesc: William Merton Vining and Ellen Damaris Barrows
+head:
+  givenName: Arthur Leon
+  birth:
+    date: 9 July 1884
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: "1932"
+    place: "Abington, Plymouth County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Lillian Amy
+      surname: Gokey
+      parents: "(dau. of Louis Gokey and Martha Nephu)"
+      birth:
+        date: October 1892
+        place: "Worcester, Worcester County, Massachusetts"
+      death:
+        date: "1927"
+        place: "Lowell, Middlesex County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Geraldine Ruth Vining
+        birth:
+          date: 23 April 1917
+          place: "Brockton, Plymouth County, Massachusetts"
+        marriages:
+          - date: Audley William Cole
+        death:
+          date: 7 December 2003
+          place: "Nashua, Hillsborough, New Hampshire"
+      - name: Frederick Lewis Vining
+        birth:
+          date: "age 1 y., 9 m. as of 1920 census"
+          place: Massachusetts
+      - name: Lillian Amy Vining
+        birth:
+          date: 4 June 1919
+          place: "Brockton, Plymouth County, Massachusetts"
+        marriages:
+          - date: Edwin Fuller
+        death:
+          date: 6 July 2000
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Arthur L. Vining
+        entryId: ArthurL02
+        birth:
+          date: 7 November 1924
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: Betty Peterson
+        death:
+          date: 10 April 1986
+          place: "Palm Beach, Palm Beach County, Florida"
+docsUrl: Asources/ArthurL04doc.htm

@@ -13,6 +13,8 @@ head:
   death:
     date: 28 March 1917
     place: "The Dalles, Wasco County, Oregon"
+  burial:
+    place: "Odd Fellows Cemetery   The Dalles, Wasco County, Oregon"
 marriages:
   - number: 1
     date: 4 July 1858
@@ -20,6 +22,7 @@ marriages:
     spouse:
       givenName: Sophia A.
       surname: Ralph
+      parents: (dau. of John Irons Ralph and Hannah Spilman)
       birth:
         date: 24 September 1839
         place: Ohio
@@ -40,6 +43,7 @@ marriages:
     spouse:
       givenName: "Martha Florintine (n&#233;e Enyart)"
       surname: Bartmess
+      parents: (dau. of Peter Stephen Enyart and Isabella Morgan)
       birth:
         date: 4 January 1860
         place: "Forrestville, Sonoma County, Oregon"
@@ -49,6 +53,7 @@ marriages:
         place: "Odd Fellows Cemetery   The Dalles, Wasco County, Oregon"
 childrenGroups:
   - spouseRef: Sophia A. Ralph
+    headingText: children by Sophia A. Ralph
     children:
       - name: Calvin Luther Vining
         entryId: CalvinL01
@@ -113,6 +118,7 @@ childrenGroups:
         burial:
           place: "Marysville Cemetery   Marysville, Washington"
   - spouseRef: "Martha Florintine (n&#233;e Enyart) Bartmess"
+    headingText: "children by Martha Florintine (n&#233;e Enyart) Bartmess"
     children:
       - name: Ava Vining
         birth:

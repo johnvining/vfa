@@ -13,10 +13,33 @@ head:
   death:
     date: 25 October 1978
     place: Texas
+  burial:
+    place: "Andrews County Cemetery   Andrews [County?], Texas"
 marriages:
   - spouse:
       givenName: Loretta Ann
       surname: Burns
+      birth:
+        date: 9 September 1918
+      death:
+        date: 25 February 1970
+        place: "Andrews [County?], Texas"
+      burial:
+        place: "Andrews County Cemetery   Andrews [County?], Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Aubrey Eugene Vining
+        birth:
+          date: 19 August 1935
+          place: "Wichita Falls, Wichita County, Texas"
+        marriages:
+          - date: "Jane [...]"
+        death:
+          date: 19 January 1969
+          place: "Rocksprings, Edwards County, Texas"
+        burial:
+          place: "Andrews County Cemetery   Andrews [County?], Texas"
 docsUrl: Asources/AmosA01doc.htm
 raw: |-
   <a name="AmosA01"></a><font size="+2">Amos Aubrey Vining</font>

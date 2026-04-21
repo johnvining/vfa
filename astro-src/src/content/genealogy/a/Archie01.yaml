@@ -13,6 +13,13 @@ marriages:
   - spouse:
       givenName: Alberta
       surname: "[...]"
+      birth:
+        date: 4 November 1898
+        place: Texas
+      death:
+        date: 16 January 1991
+      burial:
+        place: "Skyvue Memorial Gardens   Mansfield, Texas"
 childrenGroups:
   - children:
       - name: Richard Vining

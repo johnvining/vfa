@@ -20,20 +20,22 @@ marriages:
     spouse:
       givenName: Abigail
       surname: Whiton
+      parents: (dau. of Amasa Whiton and Lydia Jacob)
       birth:
         date: 30 September 1783
       death:
         date: 9 December 1812
   - number: 2
-    date: int. 16 October 1814
+    date: "int. 16 October 1814"
     place: "Abington, Plymouth County, Massachusetts"
     spouse:
-      givenName: "Mary &#8220;Polly&#8221; Jacobs (of Scituate, Plymouth County,"
-      surname: Massachusetts)
+      givenName: "Mary &#8220;Polly&#8221;"
+      surname: "Jacobs (of Scituate, Plymouth County, Massachusetts)"
       birth:
         date: "1775"
 childrenGroups:
   - spouseRef: Abigail Whiton
+    headingText: children by Abigail Whiton
     children:
       - name: Benjamin Franklin Vining
         entryId: BenjaminF01
@@ -54,6 +56,7 @@ childrenGroups:
             place: "Abington, Plymouth County. Massachusetts"
             spouse: Moses Blaisdell
   - spouseRef: "Mary &#8220;Polly&#8221; Jacobs"
+    headingText: "children by Mary &#8220;Polly&#8221; Jacobs"
     children:
       - name: Polly Jacobs Vining
         birth:

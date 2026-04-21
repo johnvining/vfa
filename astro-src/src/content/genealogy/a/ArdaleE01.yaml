@@ -12,10 +12,22 @@ head:
     place: "[South Dakota?]"
   death:
     date: 10 February 1977
+  burial:
+    place: "Memorial Park Cemetery   Tulsa, Tulsa County, Oklahoma"
 marriages:
   - spouse:
       givenName: Earleen M.
       surname: "[&#8230;]"
+      birth:
+        date: 10 September 1921
+      death:
+        date: 12 April 2005
+      burial:
+        place: "Memorial Park Cemetery   Tulsa, Tulsa County, Oklahoma"
+childrenGroups:
+  - headingText: "child(ren?)"
+    children:
+      - name: "child(ren?) Vining"
 docsUrl: Asources/ArdaleE01doc.htm
 raw: |-
   <a name="ArdaleE01"></a><font size="+2">Ardale Elliot Vining</font>

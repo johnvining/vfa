@@ -12,10 +12,30 @@ head:
     place: Louisiana
   death:
     date: "1961"
+  burial:
+    place: "Woodbine Cemetery   Ranier, Thurston County, Washington"
 marriages:
   - spouse:
       givenName: Elizabeth E.
       surname: "[...]"
+      birth:
+        date: "1911"
+        place: Oregon
+      death:
+        date: "1961"
+      burial:
+        place: "Woodbine Cemetery   Ranier, Thurston County, Washington"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Otis C. Vining
+        birth:
+          date: 18 January 1939
+          place: Washington
+        death:
+          date: 23 December 1968
+        burial:
+          place: "Woodbine Cemetery   Ranier, Thurston County, Washington"
 docsUrl: Asources/AndrewL02doc.htm
 raw: |-
   <a name="AndrewL02"></a><font size="+2">Andrew Lee Otis Vining</font>

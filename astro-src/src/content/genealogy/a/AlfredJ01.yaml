@@ -13,10 +13,15 @@ head:
   death:
     date: 28 November 1899
     place: "Hatcher, Quitman County, Georgia"
+  burial:
+    place: "Rose Hill Cemetery   Macon, Georgia"
 marriages:
   - spouse:
       givenName: Emma Delilah
       surname: Jernigan
+      birth:
+        date: December 1871
+        place: Georgia
 childrenGroups:
   - children:
       - name: Myra L. Vining

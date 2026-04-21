@@ -13,10 +13,27 @@ head:
   death:
     date: 9 January 1897
     place: Ohio
+  burial:
+    place: "Lindsey Cemetery   Lindsey, Sandusky County, Ohio"
 marriages:
   - spouse:
       givenName: Laura
       surname: "[&#8230;]"
+      birth:
+        date: 19 November 1844
+        place: Michigan
+      death:
+        date: 18 June 1897
+        place: Ohio
+      burial:
+        place: "Lindsey Cemetery   Lindsey, Sandusky County, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Harry Vining
+        birth:
+          date: age 6 y. as of 1880 census
+          place: Michigan
 docsUrl: Asources/Albert04doc.htm
 raw: |-
   <a name="Albert04"></a><font size="+2">Albert [I?] Vining</font>

@@ -13,12 +13,15 @@ head:
   death:
     date: 7 August 1882
     place: Illinois
+  burial:
+    place: "Stewart Cemetery   Plainville, Adams County, Illinois"
 marriages:
   - number: 1
     date: 10 October 1833
     spouse:
       givenName: Ellen C.
       surname: Bester
+      parents: "(dau. of John Bester and Rosetta [...])"
       birth:
         date: age 40 y. as of 1850 census
         place: Connecticut
@@ -26,8 +29,17 @@ marriages:
         date: 30 December 1863
   - number: 2
     date: "Mrs. Sarah R. Tarbell (n&#233;e Kidder)"
+    spouse:
+      birth:
+        date: 22 July 1823
+        place: "Albion, Kennebec, Maine"
+      death:
+        date: 10 August 1903
+      burial:
+        place: "Stewart Cemetery   Plainville, Adams County, Illinois"
 childrenGroups:
   - spouseRef: Ellen C. Bester
+    headingText: children by Ellen C. Bester
     children:
       - name: Susan Vining
         birth:

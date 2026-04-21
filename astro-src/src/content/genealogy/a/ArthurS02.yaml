@@ -9,6 +9,12 @@ head:
   givenName: Arthur Samuel
   birth:
     date: 18 August 1976
+childrenGroups:
+  - headingText: child by Karyn Ice
+    children:
+      - name: Lathon Conner Vining
+        birth:
+          date: 23 December 1998
 raw: |-
   <a name="ArthurS02"></a><font size="+2">Arthur Samuel Vining</font>
      (son of <a href="Kfamilies.htm#KennethW01">Kenneth Wayne Vining and Shirley LoDean Young</a>)

@@ -12,10 +12,21 @@ head:
   death:
     date: 28 October 2014
     place: "Houma, Terrebonne Parish, Louisiana"
+  burial:
+    place: "Gibson Baptist Church Cemetery   Gibson, Terrebonne Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Shirley Mae
       surname: Barrilleaux
+      parents: (dau. of Jefferson Paul Barrilleaux and Lucille P. LaCoste)
+      birth:
+        date: 23 January 1945
+        place: "Franklin, St. Mary Parish, Louisiana"
+      death:
+        date: 2 December 2014
+        place: "Ricohoc, St. Mary Parish, Louisiana"
+      burial:
+        place: "Gibson Baptist Church Cemetery   Gibson, Terrebonne Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Janet Vining

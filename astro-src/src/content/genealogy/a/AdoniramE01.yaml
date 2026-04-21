@@ -11,10 +11,18 @@ head:
     place: "Weymouth, Norfolk County, Massachusetts"
   death:
     date: 11 March 1909
+  burial:
+    place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
 marriages:
   - spouse:
       givenName: Martha Anne
       surname: White
+      parents: (dau. of Benjamin Franklin White and Mary Ann Tirrell)
+      birth:
+        date: 3 May 1841
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: "[prior to 1920 census?]"
 childrenGroups:
   - children:
       - name: Carrie E. Vining

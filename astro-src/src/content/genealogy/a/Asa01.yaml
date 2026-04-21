@@ -12,12 +12,15 @@ head:
     place: "Weymouth, Norfolk County, Massachusetts"
   death:
     date: 9 August 1854
+  burial:
+    place: "Doane Cemetery   Hawley, Franklin County, Massachusetts"
 marriages:
   - date: 20 March 1795
     place: "Abington, Plymouth County, Massachusetts"
     spouse:
       givenName: Sarah
       surname: Hunt
+      parents: (dau. of Thomas Hunt and Experience Thayer)
       birth:
         date: 18 May 1770
       death:

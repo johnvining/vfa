@@ -10,10 +10,21 @@ head:
     date: 21 March 1926
   death:
     date: 2 July 1983
+  burial:
+    place: "North Providence Ridge Cemetery   Elwood, Peoria County, Illinois"
 marriages:
   - spouse:
       givenName: Dorothy M. Wandless
       surname: (Byford)
+      parents: (dau. of David Wandless and Myrtle Faulkner)
+      birth:
+        date: 26 May 1919
+        place: "Fairmont, Will County, Illinois"
+      death:
+        date: 11 June 2000
+        place: "Dwight, Illinois"
+      burial:
+        place: "North Providence Ridge Cemetery   Elwood, Peoria County, Illinois"
 childrenGroups:
   - children:
       - name: Sharon Vining

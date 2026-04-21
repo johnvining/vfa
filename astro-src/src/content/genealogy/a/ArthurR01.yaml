@@ -13,10 +13,19 @@ head:
   death:
     date: 24 April 1964
     place: "(last residence: Illinois)"
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
 marriages:
   - spouse:
       givenName: Eunice Olive
       surname: Corbett
+      birth:
+        date: "1894"
+        place: Illinois
+      death:
+        date: "1956"
+      burial:
+        place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
 childrenGroups:
   - children:
       - name: Kenneth Ray Vining

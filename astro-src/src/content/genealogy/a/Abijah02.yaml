@@ -12,11 +12,14 @@ head:
     place: New York
   death:
     date: 31 June 1865
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
 marriages:
   - date: ca. 1816
     spouse:
       givenName: Abbey
       surname: Steele
+      parents: "(dau. of Beth[u?]el Steele and Polly [...])"
       birth:
         date: age 64 y. as of 1860 census
         place: New York

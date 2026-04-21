@@ -9,6 +9,18 @@ marriages:
   - spouse:
       givenName: Theresa
       surname: Jackson
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Albert Vining
+        birth:
+          date: 3 June 1920
+          place: "Stockton, Lanier County, Georgia"
+        death:
+          date: 10 December 1924
+          place: "Stockton, Lanier County, Georgia"
+        burial:
+          place: "Lovejoy Cemetery   Stockton, Lanier County, Georgia"
 raw: |-
   <a name="Albert03"></a><font size="+2">Albert Vining</font>
      (son of [?])

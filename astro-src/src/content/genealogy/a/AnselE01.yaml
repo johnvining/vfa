@@ -11,10 +11,19 @@ head:
     place: "Plainfield, Hampshire County, Massachusetts"
   death:
     date: 19 December 1900
+  burial:
+    place: "(probably) High Street Cemetery   Haydenville, Hampshire County, Massachusetts"
 marriages:
   - spouse:
       givenName: Mary P.
       surname: Sturtevant
+      birth:
+        date: 21 April 1840
+        place: Massachusetts
+      death:
+        date: 28 October 1928
+      burial:
+        place: "(probably) High Street Cemetery   Haydenville, Hampshire County, Massachusetts"
 childrenGroups:
   - children:
       - name: Charles E. Vining

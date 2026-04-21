@@ -12,10 +12,21 @@ head:
     place: Ohio
   death:
     date: 19 May 1908
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Morrow County, Ohio"
 marriages:
   - spouse:
       givenName: Jessie
       surname: Page
+      parents: (dau. of Riley Page and Fanny Burwell)
+      birth:
+        date: 20 November 1856
+        place: Ohio
+      death:
+        date: 28 January 1939
+        place: "Mt. Gilead, Morrow County, Ohio"
+      burial:
+        place: "Fargo Methodist Episcopal Cemetery   Marengo, MorrowCounty, Ohio"
 childrenGroups:
   - children:
       - name: E. Emory Vining

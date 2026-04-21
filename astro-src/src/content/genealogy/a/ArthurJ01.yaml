@@ -17,6 +17,22 @@ marriages:
   - spouse:
       givenName: Lillie
       surname: "[...]"
+      birth:
+        date: "1882"
+        place: Georgia
+      death:
+        date: "1958"
+        place: Georgia
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Arthur Vining
+        birth:
+          date: "1916"
+          place: Georgia
+        death:
+          date: "1970"
+          place: Georgia
 raw: |-
   <a name="ArthurJ01"></a><font size="+2">Arthur James Vining</font>
      (son of <a href="Wfamilies.htm#WilliamS01">William Shadrack Vining and Julia Thurmon</a>)

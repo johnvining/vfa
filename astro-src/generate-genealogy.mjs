@@ -256,7 +256,7 @@ function parseEntry(block, letter) {
 
   // Parse body: lines after header, before children/docs
   const headerIdx = lines.indexOf(headerLine);
-  const childrenIdx = lines.findIndex(l => /<font size=["']?\+1["']?>children/i.test(l));
+  const childrenIdx = lines.findIndex(l => /<font size=["']?\+1["']?>(?:children|child|adopted child)/i.test(l));
   const docsIdx = lines.findIndex(l => /documentation and notes/.test(l));
 
   const bodyLines = lines.slice(headerIdx + 1, childrenIdx !== -1 ? childrenIdx : (docsIdx !== -1 ? docsIdx : lines.length));
@@ -281,7 +281,8 @@ function parseEntry(block, letter) {
 
   for (const line of bodyLines) {
     if (!line.trim()) continue;
-    if (/^\s+\((son|dau\.) of/i.test(line)) continue;
+    // Only skip the head's own parent reference at indent 3, not spouse parent refs at deeper indents
+    if (countLeadingSpaces(line) === 3 && /^\((son|dau\.) of/i.test(line.trim())) continue;
 
     const indent = countLeadingSpaces(line);
     const content = line.trim();
@@ -311,10 +312,9 @@ function parseEntry(block, letter) {
             if (/^\d|^ca\./.test(rest)) {
               m.date = rest;
             } else {
-              // Inline spouse name (no date)
+              // Inline spouse name (no date) — details will follow at indent 12
               const parts = rest.split(' ');
               m.spouse = { givenName: parts.slice(0, -1).join(' ') || rest, surname: parts[parts.length - 1] };
-              inSpouseBlock = false;
             }
           } else {
             m.date = rest.slice(0, triIdx).trim();
@@ -334,24 +334,55 @@ function parseEntry(block, letter) {
         headBurial = parseBurialLine(content);
       }
     } else if (indent === 9) {
-      if (inSpouseBlock && /^\(\d+\)\s/.test(content)) {
-        // Numbered marriage continuation: (2) DATE   PLACE
+      if (!inSpouseBlock && content.startsWith('bur.')) {
+        // Head burial after death at indent 9 (most common pattern)
+        headBurial = parseBurialLine(content);
+      } else if (inSpouseBlock && /^\(\d+\)\s/.test(content)) {
+        // Numbered marriage continuation: (2) DATE   PLACE or (2) INLINE_SPOUSE_NAME
         const m = {};
         const numMatch = content.match(/^\((\d+)\)\s+/);
         m.number = parseInt(numMatch[1]);
         const rest = content.slice(numMatch[0].length).trim();
-        const dp = parseDatePlace(rest);
-        if (dp) { m.date = dp.date; m.place = dp.place; }
+        if (/^\d|^ca\.|^\[/.test(rest)) {
+          // Has actual date or bracketed date like [1843 or 1844]
+          const dp = parseDatePlace(rest);
+          if (dp) { m.date = dp.date; m.place = dp.place; }
+        } else if (rest) {
+          // Inline spouse name (e.g., "(2) Mrs. Sarah R. Tarbell") — store in date field
+          // Create empty spouse so indent-21 detail lines are captured
+          m.date = rest;
+          m.spouse = {};
+        }
         isNumberedMarriage = true;
         expectedSpouseIndent = 15;
         startMarriage(m);
       } else if (inSpouseBlock && content.startsWith('bur.')) {
         headBurial = parseBurialLine(content);
         inSpouseBlock = false;
-      } else if (inSpouseBlock && currentMarriage && !currentMarriage.spouse && expectedSpouseIndent === 9) {
-        // Unnumbered marriage: spouse name at indent 9
-        const parts = content.split(' ');
-        currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
+      } else if (inSpouseBlock && currentMarriage && expectedSpouseIndent === 9) {
+        if (!currentMarriage.spouse) {
+          // Unnumbered marriage: spouse name at indent 9
+          const parts = content.split(' ');
+          currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
+        } else if (currentMarriage.spouse.givenName === currentMarriage.spouse.surname) {
+          // Single-word inline: "m. Connecticut" was actually a PLACE, this is the real spouse name
+          currentMarriage.place = currentMarriage.spouse.givenName;
+          const parts = content.split(' ');
+          currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
+        }
+      }
+    } else if (indent === 12 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
+      // Inline marriage spouse details (spouse was set on same line as m.)
+      if (/^\(dau\. of|^\(son of/i.test(content)) {
+        currentMarriage.spouse.parents = content.trim();
+      } else if (content.startsWith('b.')) {
+        currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
+      } else if (content.startsWith('d.')) {
+        currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
+      } else if (content.startsWith('bur.')) {
+        currentMarriage.spouse.burial = parseBurialLine(content);
+      } else if (content.startsWith('m.')) {
+        if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
       }
     } else if (indent === 15 && inSpouseBlock && currentMarriage) {
       if (!currentMarriage.spouse) {
@@ -359,9 +390,10 @@ function parseEntry(block, letter) {
         const parts = content.split(' ');
         currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
       } else {
-        // Spouse details
+        // Unnumbered marriage spouse details
         if (/^\(dau\. of|^\(son of/i.test(content)) {
-          currentMarriage.spouse.parents = content.replace(/^\(dau\. of\s*|\(son of\s*/i, '').replace(/\)$/, '').trim();
+          // Store full parenthetical string (dau./son of ...) for faithful rendering
+          currentMarriage.spouse.parents = content.trim();
         } else if (content.startsWith('b.')) {
           currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
         } else if (content.startsWith('d.')) {
@@ -370,13 +402,35 @@ function parseEntry(block, letter) {
           if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
         }
       }
-    } else if (indent === 21 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
-      if (content.startsWith('b.')) {
-        currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
-      } else if (content.startsWith('d.')) {
-        currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
-      } else if (content.startsWith('bur.')) {
+    } else if (indent === 18 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
+      // Inline marriage spouse burial/continuation at indent 18
+      if (content.startsWith('bur.')) {
         currentMarriage.spouse.burial = parseBurialLine(content);
+      } else {
+        if (!currentMarriage.spouse.burial) currentMarriage.spouse.burial = {};
+        currentMarriage.spouse.burial.description = content;
+      }
+    } else if (indent === 21 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
+      if (isNumberedMarriage) {
+        // Numbered marriage spouse details
+        if (/^\(dau\. of|^\(son of/i.test(content)) {
+          currentMarriage.spouse.parents = content.trim();
+        } else if (content.startsWith('b.')) {
+          currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('d.')) {
+          currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('bur.')) {
+          currentMarriage.spouse.burial = parseBurialLine(content);
+        }
+      } else {
+        // Unnumbered marriage spouse burial/continuation
+        if (content.startsWith('bur.')) {
+          currentMarriage.spouse.burial = parseBurialLine(content);
+        } else {
+          // Continuation text (e.g., "cremated and ashes scattered...")
+          if (!currentMarriage.spouse.burial) currentMarriage.spouse.burial = {};
+          currentMarriage.spouse.burial.description = content;
+        }
       }
     } else if (indent === 27 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
       if (content.startsWith('bur.')) {
@@ -392,12 +446,15 @@ function parseEntry(block, letter) {
 
   while (scanIdx !== -1 && scanIdx < endIdx) {
     const headingLine = lines[scanIdx];
-    // Extract spouse ref from "children by X:" or "children with X:"
+    // Extract heading type and optional spouse ref
     const byMatch = headingLine.match(/<font[^>]+>children (?:by|with) ([^<:]+)/i);
     const spouseRef = byMatch ? byMatch[1].trim() : undefined;
+    // Capture non-standard headings like "child:", "adopted child:" for faithful rendering
+    const headingTextMatch = headingLine.match(/<font[^>]*>([^<]+)<\/font>/i);
+    const headingText = headingTextMatch ? headingTextMatch[1].replace(/:$/, '').trim() : undefined;
 
     // Find the next children heading or end
-    const nextHeadingIdx = lines.findIndex((l, i) => i > scanIdx && /<font size=["']?\+1["']?>children/i.test(l));
+    const nextHeadingIdx = lines.findIndex((l, i) => i > scanIdx && /<font size=["']?\+1["']?>(?:children|child|adopted child)/i.test(l));
     const groupEnd = nextHeadingIdx !== -1 && nextHeadingIdx < endIdx ? nextHeadingIdx : endIdx;
 
     const groupLines = lines.slice(scanIdx + 1, groupEnd);
@@ -413,6 +470,8 @@ function parseEntry(block, letter) {
     if (children.length > 0) {
       const group = { children };
       if (spouseRef) group.spouseRef = spouseRef;
+      // Store non-standard headings (child, adopted child) for faithful rendering
+      if (headingText && headingText.toLowerCase() !== 'children') group.headingText = headingText;
       childrenGroups.push(group);
     }
 
@@ -574,6 +633,10 @@ function serializeEntry(entry) {
       if (group.spouseRef) {
         yaml += ` spouseRef: ${yamlStr(group.spouseRef)}\n`;
         groupFirst = false;
+      }
+      if (group.headingText) {
+        if (groupFirst) { yaml += ` headingText: ${yamlStr(group.headingText)}\n`; groupFirst = false; }
+        else yaml += `    headingText: ${yamlStr(group.headingText)}\n`;
       }
       if (groupFirst) yaml += ` children:\n`;
       else yaml += `    children:\n`;

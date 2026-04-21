@@ -13,6 +13,8 @@ head:
   death:
     date: "1944"
     place: "Bellingham, Washington"
+  burial:
+    place: "Greenacres Memorial Park   Ferndale, Whatcomb County, Washington"
 marriages:
   - date: 21 y. as of 1910 census
     spouse:
@@ -43,6 +45,8 @@ childrenGroups:
           - date: Henry Oliver Buer
         death:
           date: 11 August 1969
+  - headingText: adopted child
+    children:
       - name: Carl Vining
         birth:
           date: 14 December 1905

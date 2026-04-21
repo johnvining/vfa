@@ -12,10 +12,15 @@ head:
   death:
     date: 31 August 1988
     place: "Houma, Terrebonne Parish, Louisiana"
+  burial:
+    place: "Morgan City Cemetery and Mausoleum   Morgan City, St. Mary Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Delta
       surname: Pennison
+      birth:
+        date: age 26 y. as of 1930 census
+        place: Louisiana
 childrenGroups:
   - children:
       - name: Lilly Vining

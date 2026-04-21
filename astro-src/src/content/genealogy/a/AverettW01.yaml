@@ -13,10 +13,16 @@ head:
   death:
     date: 19 April 1950
     place: Georgia
+  burial:
+    place: "Marshallville City Cemetery   Marshallville, Macon County, Georgia"
 marriages:
   - spouse:
       givenName: Viola Mae
       surname: Scott
+      parents: "(dau. of Gordon Scott and Rilla [&#8230;])"
+      birth:
+        date: age 28 y. as of 1830 census
+        place: Alabama
 childrenGroups:
   - children:
       - name: James Averett Vining

@@ -17,6 +17,10 @@ marriages:
   - spouse:
       givenName: Eileen
       surname: Ledger
+      birth:
+        date: 22 March 1920
+      death:
+        date: September 1977
 childrenGroups:
   - children:
       - name: Mary Jo Vining

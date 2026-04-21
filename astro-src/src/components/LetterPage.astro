@@ -1,6 +1,7 @@
 ---
 import BaseInner from '../layouts/BaseInner.astro';
 import { getCollection } from 'astro:content';
+import { renderEntry } from '../renderEntry';
 
 interface Props {
   letter: string;
@@ -10,13 +11,16 @@ const { letter } = Astro.props;
 const allEntries = await getCollection('genealogy');
 const entries = allEntries
   .filter(e => e.data.letter === letter)
-  .sort((a, b) => a.data.id.localeCompare(b.data.id));
+  .sort((a, b) => {
+    const nameCompare = a.data.head.givenName.localeCompare(b.data.head.givenName);
+    return nameCompare !== 0 ? nameCompare : a.data.id.localeCompare(b.data.id);
+  });
 
 const pageTitle = `Vining Genealogy - "${letter}" List`;
 const lastUpdated = entries[0]?.data.lastUpdated;
 
 const DIVIDER = '\n<hr class="people-divider" />\n';
-const preInner = entries.map(e => (e.data.raw ?? '') + '\n' + DIVIDER).join('\n')
+const preInner = entries.map(e => renderEntry(e.data) + '\n' + DIVIDER).join('\n')
   + '\n'.repeat(40);
 ---
 

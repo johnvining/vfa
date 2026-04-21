@@ -13,10 +13,28 @@ head:
   death:
     date: 28 June 1962
     place: "Garner, Wake County, North Carolina"
+  burial:
+    place: "Montlawn Memorial Park   Raleigh, Wake County, North Csrolina"
 marriages:
   - spouse:
       givenName: Minnie
       surname: Longmire
+      birth:
+        date: 20 December 1906
+      death:
+        date: 11 December 1995
+      burial:
+        place: "Montlawn Memorial Park   Raleigh, Wake County, North Carolina"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Julia Anne Vining
+        birth:
+          date: 21 August 1939
+        marriages:
+          - date: "[...] Flosman"
+        death:
+          date: 9 February 2004
 docsUrl: Asources/AlfredM01doc.htm
 raw: |-
   <a name="AlfredM01"></a><font size="+2">Alfred Marion Vining</font>

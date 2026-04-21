@@ -12,10 +12,14 @@ head:
   death:
     date: 3 March 1996
     place: "Columbiana, Shelby County, Alabama"
+  burial:
+    place: "Hubbard Cemetery   Shelby County, Alabama"
 marriages:
   - spouse:
       givenName: Flora Mae
       surname: McDonald
+      birth:
+        date: 12 December 1938
 childrenGroups:
   - children:
       - name: Margie Ann Vining

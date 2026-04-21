@@ -61,7 +61,8 @@ const marriage = z.object({
 });
 
 const childrenGroup = z.object({
-  spouseRef: z.string().optional(),   // "Sophia A. Ralph" — shown as label when multiple groups
+  spouseRef: z.string().optional(),    // "Sophia A. Ralph" — shown as label when multiple groups
+  headingText: z.string().optional(),  // non-standard heading like "child" or "adopted child"
   children: z.array(child),
 });
 
@@ -71,7 +72,7 @@ const genealogy = defineCollection({
     id: z.string(),
     letter: z.string(),
     lastUpdated: z.string().optional(),
-    relationship: z.enum(['son', 'dau.']).optional(),
+    relationship: z.enum(['son', 'dau.', 'adopted son', 'adopted dau.']).optional(),
     parentId: z.string().optional(),
     parentLetter: z.string().optional(),
     parentDesc: z.string().optional(),

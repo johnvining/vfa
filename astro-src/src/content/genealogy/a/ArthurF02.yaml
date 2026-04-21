@@ -14,6 +14,16 @@ marriages:
   - spouse:
       givenName: Edna
       surname: "[&#8230;]"
+      birth:
+        date: age 29 y. as of 1940 census
+        place: Nebraska
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Andrea Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Colorado
 docsUrl: Asources/ArthurF02doc.htm
 raw: |-
   <a name="ArthurF02"></a><font size="+2">Arthur F. Vining</font>

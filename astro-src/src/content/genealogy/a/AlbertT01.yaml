@@ -9,6 +9,20 @@ marriages:
   - spouse:
       givenName: Lena
       surname: Monk
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Homer Thadd Vining
+        entryId: HomerT01
+        entryLetter: H
+        birth:
+          date: 25 November 1902
+          place: "Star City, Lincoln County, Arkansas"
+        marriages:
+          - date: Neva Dell McGregor
+        death:
+          date: 2 February 1975
+          place: "Caddo Mills, Dallas, Hunt County, Texas"
 raw: |-
   <a name="AlbertT01"></a><font size="+2">Albert Thadd Vining</font>
      (son of [?])

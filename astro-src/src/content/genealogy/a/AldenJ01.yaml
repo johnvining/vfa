@@ -12,11 +12,19 @@ head:
     place: Ohio
   death:
     date: 23 March 1939
+  burial:
+    place: "Ferncliff Cemetery   Springfield, Clark County, Ohio"
 marriages:
   - number: 1
     date: "[...]"
   - number: 2
     date: 3 y. as of 1910 census
+    spouse:
+      givenName: Catherine
+      surname: "[&#8230;]"
+      birth:
+        date: age 41 y. as of 1910 census
+        place: Ohio
 childrenGroups:
   - children:
       - name: Elwin M. Vining

@@ -17,6 +17,7 @@ marriages:
     spouse:
       givenName: Sarah Elizabeth
       surname: Williams
+      parents: (dau. of Andrew Jackson Williams and Lucinda Peters)
       birth:
         date: 1 March 1859
         place: Georgia
@@ -32,10 +33,51 @@ childrenGroups:
           date: 28 December 1878
       - name: infant Vining
         birth:
-          date: and d. ca. 1880
+          date: "and d. ca. 1880"
       - name: infant Vining
         birth:
-          date: and d. ca. 1880
+          date: "and d. ca. 1880"
+      - name: Thomas Homer Vining
+        birth:
+          date: 11 February 1882
+          place: "Rutledge, Morgan County, Georgia"
+        marriages:
+          - date: "0 y. as of 1910 census"
+            spouse: "Bertha [&#8230;]"
+        death:
+          date: 28 December 1931
+          place: "Rutledge, Morgan County, Georgia [see &#8220;Research opportunity&#8221; under &#8220;documentation and notes&#8221; below]"
+      - name: Homer Lowry Vining
+        birth:
+          date: 17 June 1883
+          place: Georgia
+        marriages:
+          - date: Anna Bertha Phillips
+        death:
+          date: 13 December 1938
+          place: "Morgan County, Georgia"
+      - name: Andrew Jackson Vining
+        birth:
+          date: 27 June 1886
+          place: "Rutledge, Morgan County, Georgia"
+        marriages:
+          - date: Jewel M. Hodges
+        death:
+          date: 12 May 1964
+          place: "Birmingham, Jefferson County, Alabama"
+      - name: Carlton Berry Vining
+        entryId: CarltonB01
+        entryLetter: C
+        birth:
+          date: 26 February 1890
+          place: Georgia
+        marriages:
+          - date: Louise Abercrombie
+        death:
+          date: 26 December 1966
+          place: "Rutledge, Morgan County, Georgia"
+        burial:
+          place: "Circle View Cemetery   Social Circle, Walton County, Georgia"
 raw: |-
   <a name="AugustusG02"></a><font size="+2">Augustus Gallatin Vining</font>
      (son of <a href="#AlbertG02">Albert Gallatin Vining and Elizabeth Ann [Gerrard or Jarrard?]</a>)

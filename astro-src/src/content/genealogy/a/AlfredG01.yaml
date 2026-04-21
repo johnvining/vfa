@@ -12,10 +12,18 @@ head:
     place: Oklahoma
   death:
     date: August 1987
+  burial:
+    place: "Robbins Cemetery   Fawn Creek Township, Montgomery County, Kansas"
 marriages:
   - spouse:
       givenName: Cleda B.
       surname: Lancaster
+      birth:
+        date: "1919"
+      death:
+        date: "2006"
+      burial:
+        place: "Robbins Cemetery   Fawn Creek Township, Montgomery County, Kansas"
 childrenGroups:
   - children:
       - name: Efton Duane Vining

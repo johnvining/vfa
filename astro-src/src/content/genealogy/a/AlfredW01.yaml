@@ -12,10 +12,18 @@ head:
   death:
     date: December 1982
     place: "(last residence: Hensonville, Greene County, New York)"
+  burial:
+    place: "Pleasant Valley Cemetery   Ashland, New York"
 marriages:
   - spouse:
       givenName: Marie L.
       surname: Dunham
+      birth:
+        date: 16 October 1915
+      death:
+        date: 5 April 2007
+      burial:
+        place: "Pleasant Valley Cemetery   Ashland, New York"
 childrenGroups:
   - children:
       - name: Sally Julia Vining

@@ -12,10 +12,20 @@ head:
     place: New York
   death:
     date: 5 June 1932
+  burial:
+    place: "Windham Cemetery   Windham, Greene County, New York"
 marriages:
   - spouse:
       givenName: Ada H.
       surname: Peck
+      birth:
+        date: 22 April 1882
+        place: New York
+      death:
+        date: February 1978
+        place: "(last residence: Hensonville, Greene County, New York)"
+      burial:
+        place: "Windham Cemetery   Windham, Greene County, New York"
 childrenGroups:
   - children:
       - name: Eleanor E. Vining

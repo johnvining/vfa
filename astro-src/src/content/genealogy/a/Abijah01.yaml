@@ -13,9 +13,11 @@ head:
   death:
     date: "[Pitcher or Wayne Township?], New York"
 marriages:
-  - spouse:
-      givenName: Connecticut
-      surname: Connecticut
+  - place: Connecticut
+    spouse:
+      givenName: Rebecca
+      surname: Barton
+      parents: (dau. of Benjamin Barton and Mary Hale)
       birth:
         date: "1751"
       death:

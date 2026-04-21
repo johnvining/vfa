@@ -18,6 +18,13 @@ marriages:
       birth:
         date: August 1855
         place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Clarence I. Vining
+        birth:
+          date: July 1880
+          place: Massachusetts
 docsUrl: Asources/AsaL01doc.htm
 raw: |-
   <a name="AsaL01"></a><font size="+2">Asa L. Vining</font>

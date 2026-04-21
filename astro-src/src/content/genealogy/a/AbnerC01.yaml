@@ -12,6 +12,8 @@ head:
     place: Georgia
   death:
     date: 13 April 1951
+  burial:
+    place: "Southview Cemetery   Covington, Georgia"
 marriages:
   - date: 18 y. as of 1930 census
     spouse:
@@ -24,6 +26,21 @@ marriages:
         date: 7 June 1987
       burial:
         place: "Southview Cemetery   Covington, Newton County, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Herbert Hampton Vining
+        entryId: HerbertH01
+        entryLetter: H
+        birth:
+          date: 10 December 1912
+          place: Georgia
+        marriages:
+          - date: Margaret Matilda Faulkner
+        death:
+          date: 14 July 2001
+        burial:
+          place: "Covington City Cemetery   Covington, Newton County, Georgia"
 docsUrl: Asources/AbnerC01doc.htm
 raw: |-
   <a name="AbnerC01"></a><font size="+2">Abner Calhoun Vining</font>

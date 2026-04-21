@@ -13,12 +13,15 @@ head:
   death:
     date: 23 May 1895
     place: "Thorndale, Ontario"
+  burial:
+    place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
 marriages:
   - date: 1 October 1845
     place: "Nissouri, Ontario, Canada"
     spouse:
       givenName: Jane
       surname: McNee
+      parents: "(dau. of Colin McNee and [...])"
       birth:
         date: 14 December 1826
         place: "Nissouri, Ontario, Canada"

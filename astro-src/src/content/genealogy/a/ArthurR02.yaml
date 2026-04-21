@@ -12,10 +12,26 @@ head:
     place: Illinois
   death:
     date: 26 April 1886
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
 marriages:
   - spouse:
       givenName: Agnes
       surname: "[...]"
+      birth:
+        date: "1855"
+        place: Indiana
+      death:
+        date: "1933"
+      burial:
+        place: "Park Cemetery   Columbus, Cherokee County, Kansas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Maud Vining
+        birth:
+          date: age 2 y. as of 1880 census
+          place: Illinois
 docsUrl: Asources/ArthurR02doc.htm
 raw: |-
   <a name="ArthurR02"></a><font size="+2">Arthur R. Vining</font>

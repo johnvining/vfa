@@ -13,17 +13,36 @@ head:
   death:
     date: 24 June 1946
     place: "North Yarmouth, Cumberland County, Maine"
+  burial:
+    place: "Pine Grove Cemetery   Falmouth, Cumberland County, Maine"
 marriages:
   - date: 7 December 1910
     place: "Biddeford, York County, Maine"
     spouse:
       givenName: Helen Louise
       surname: Meserve
+      parents: (dau. of Arden W. Meserve and Josephine Johnson)
       birth:
         date: "1890"
         place: "Saco, York County, Maine"
       death:
         date: "1963"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Albert Nelson Vining Jr.
+        entryId: AlbertNJr01
+        birth:
+          date: 30 July 1911
+          place: "Biddeford, York County, Maine"
+        marriages:
+          - date: 29 October 1938
+            place: "Sanford, York County, Maine"
+            spouse: Mary Elodia Landry
+        death:
+          date: 9 July 2013
+        burial:
+          place: "Pine Grove Cemetery   Falmouth, Cumberland County, Maine"
 docsUrl: Asources/AlbertN01doc.htm
 raw: |-
   <a name="AlbertN01"></a><font size="+2">Albert Nelson Vining</font>

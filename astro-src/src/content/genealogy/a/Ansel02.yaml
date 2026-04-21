@@ -13,12 +13,15 @@ head:
   death:
     date: 19 October 1902
     place: "Waitsburg, Walla Walla County, Washington"
+  burial:
+    place: "Waitsburg Cemetery   Waitsburg, Walla Walla County, Washington"
 marriages:
   - date: 7 July 1867
     place: "Boone, Boone County, Iowa"
     spouse:
       givenName: Charlotte Cara
       surname: Cornwell
+      parents: (dau. of John Hubble Cornwell and Lucinda Young)
       birth:
         date: 30 March 1849
         place: "Amhurstburg, Ontario, Canada"

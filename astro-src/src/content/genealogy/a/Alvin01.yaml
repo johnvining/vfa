@@ -16,6 +16,21 @@ marriages:
   - spouse:
       givenName: Sarah
       surname: Stone
+      birth:
+        date: age 72 y. as of 1860 census
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Otis Vining
+        entryId: WilliamO02
+        entryLetter: W
+        birth:
+          date: 13 August 1813
+          place: "Suffield, Hartford County, Connecticut"
+        marriages:
+          - date: 27 January 1840
+            spouse: Eunice Horton Dwight
 docsUrl: Asources/Alvin01doc.htm
 raw: |-
   <a name="Alvin01"></a><font size="+2">Alvin Vining</font>

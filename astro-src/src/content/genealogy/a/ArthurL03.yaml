@@ -20,6 +20,15 @@ marriages:
       birth:
         date: age 40 y as of 1920 census
         place: Arkansas
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Lela Ruth Vining
+        birth:
+          date: age 9 y. as of 1920 census
+          place: Arkansas
+        marriages:
+          - date: John R. Custer
 docsUrl: Asources/ArthurL03doc.htm
 raw: |-
   <a name="ArthurL03"></a><font size="+2">Arthur Lee Vining</font>

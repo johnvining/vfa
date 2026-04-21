@@ -1,0 +1,299 @@
+// Renders a genealogy entry from structured YAML data to the HTML fragment
+// used inside the <pre> block on letter pages.
+
+type DatePlace = { date?: string; place?: string; lastResidence?: string } | undefined;
+type Burial = { place?: string; description?: string } | undefined;
+
+interface Spouse {
+  givenName?: string;
+  surname?: string;
+  nee?: string;
+  widowOf?: string;
+  parents?: string;
+  birth?: DatePlace;
+  death?: DatePlace;
+  burial?: Burial;
+}
+
+interface Marriage {
+  number?: number;
+  date?: string;
+  place?: string;
+  note?: string;
+  spouse?: Spouse;
+}
+
+interface ChildMarriage {
+  number?: number;
+  date?: string;
+  place?: string;
+  spouse?: string;
+  spouseDeath?: string;
+}
+
+interface Child {
+  name: string;
+  entryId?: string;
+  entryLetter?: string;
+  hasUnlistedChildren?: boolean;
+  birth?: DatePlace;
+  marriages?: ChildMarriage[];
+  death?: DatePlace;
+  burial?: Burial;
+}
+
+interface ChildrenGroup {
+  spouseRef?: string;
+  children: Child[];
+}
+
+interface EntryData {
+  id: string;
+  letter: string;
+  relationship?: 'son' | 'dau.' | 'adopted son' | 'adopted dau.';
+  parentId?: string;
+  parentLetter?: string;
+  parentDesc?: string;
+  head: {
+    givenName: string;
+    birth?: DatePlace;
+    death?: DatePlace;
+    burial?: Burial;
+  };
+  marriages?: Marriage[];
+  childrenGroups?: ChildrenGroup[];
+  docsUrl?: string;
+  notes?: string;
+}
+
+function dp(field: DatePlace): string {
+  if (!field) return '';
+  let s = field.date ?? '';
+  if (field.place) s += '   ' + field.place;
+  return s;
+}
+
+function bur(b: Burial, indent: number): string[] {
+  if (!b) return [];
+  const pad = ' '.repeat(indent);
+  const lines: string[] = [];
+  if (b.place) {
+    lines.push(`${pad}bur. ${b.place}`);
+    if (b.description) lines.push(' '.repeat(indent + 6) + b.description);
+  } else if (b.description) {
+    lines.push(pad + b.description);
+  }
+  return lines;
+}
+
+// Inserts " Vining" before any trailing suffix (Jr., Sr., roman numerals)
+function withVining(givenName: string): string {
+  const m = givenName.match(/^(.*?)(\s+(?:Jr\.?|Sr\.?|[IVX]+))$/);
+  if (m) return m[1] + ' Vining' + m[2];
+  return givenName + ' Vining';
+}
+
+// Renders a numbered marriage spouse block.
+// If spouse has givenName, renders name line at 15 then details at 21/27.
+// If spouse has no givenName (inline-name marriage), renders details at 21/27 directly.
+function renderNumberedSpouseBlock(m: Marriage): string[] {
+  const lines: string[] = [];
+  if (!m.spouse) return lines;
+  const s = m.spouse;
+
+  if (s.givenName) {
+    // Normal: separate spouse name line at 15
+    const nameParts = [s.givenName, s.surname].filter(Boolean);
+    lines.push(' '.repeat(15) + nameParts.join(' '));
+    if (s.parents) lines.push(' '.repeat(21) + s.parents);
+    if (s.birth) lines.push(' '.repeat(21) + 'b. ' + dp(s.birth));
+    if (s.death) lines.push(' '.repeat(21) + 'd. ' + dp(s.death));
+    if (s.widowOf) lines.push(' '.repeat(21) + 'm. ' + s.widowOf);
+    lines.push(...bur(s.burial, 27));
+  } else {
+    // Inline-name marriage: date line contains the name, details directly at 21
+    if (s.parents) lines.push(' '.repeat(21) + s.parents);
+    if (s.birth) lines.push(' '.repeat(21) + 'b. ' + dp(s.birth));
+    if (s.death) lines.push(' '.repeat(21) + 'd. ' + dp(s.death));
+    if (s.widowOf) lines.push(' '.repeat(21) + 'm. ' + s.widowOf);
+    lines.push(...bur(s.burial, 27));
+  }
+  return lines;
+}
+
+function renderSpouseBlock(m: Marriage, spouseIndent: number, detailIndent: number, burialIndent: number): string[] {
+  const lines: string[] = [];
+  if (!m.spouse) return lines;
+  const s = m.spouse;
+
+  const nameParts = [s.givenName, s.surname].filter(Boolean);
+  lines.push(' '.repeat(spouseIndent) + nameParts.join(' '));
+
+  if (s.parents) lines.push(' '.repeat(detailIndent) + s.parents);
+  if (s.birth) lines.push(' '.repeat(detailIndent) + 'b. ' + dp(s.birth));
+  if (s.death) lines.push(' '.repeat(detailIndent) + 'd. ' + dp(s.death));
+  if (s.widowOf) lines.push(' '.repeat(detailIndent) + 'm. ' + s.widowOf);
+  lines.push(...bur(s.burial, burialIndent));
+
+  return lines;
+}
+
+function renderChildLine(child: Child): string {
+  const parts: string[] = [];
+
+  // Name with optional link
+  let nameStr: string;
+  if (child.entryId) {
+    const href = child.entryLetter
+      ? `${child.entryLetter}families.htm#${child.entryId}`
+      : `#${child.entryId}`;
+    nameStr = `<a href="${href}">${child.name}</a>`;
+  } else {
+    nameStr = child.name;
+  }
+  if (child.hasUnlistedChildren) nameStr += ' +';
+
+  // Collect segments separated by "   -   "
+  const segments: string[] = [];
+  if (child.birth) segments.push('b. ' + dp(child.birth));
+
+  if (child.marriages && child.marriages.length > 0) {
+    const hasNumbered = child.marriages.some(m => m.number !== undefined);
+    if (hasNumbered) {
+      // Numbered marriages: m. (1) DATE   PLACE   SPOUSE;   (2) ...
+      const mParts = child.marriages.map(m => {
+        let s = `(${m.number}) `;
+        if (m.date) s += m.date;
+        if (m.place) s += '   ' + m.place;
+        if (m.spouse) s += '   ' + m.spouse;
+        return s;
+      });
+      segments.push('m. ' + mParts.join(';   '));
+    } else {
+      // Unnumbered: m. DATE   PLACE   SPOUSE
+      const mStrings = child.marriages.map(m => {
+        let s = '';
+        if (m.date) s += m.date;
+        if (m.place) s += '   ' + m.place;
+        if (m.spouse) s += '   ' + m.spouse;
+        return 'm. ' + s;
+      });
+      segments.push(...mStrings);
+    }
+  }
+
+  if (child.death) segments.push('d. ' + dp(child.death));
+  if (child.burial?.place) segments.push('bur. ' + child.burial.place);
+
+  const segStr = segments.join('   -   ');
+  return '   ' + (segStr ? nameStr + '   ' + segStr : nameStr);
+}
+
+export function renderEntry(data: EntryData): string {
+  const lines: string[] = [];
+
+  // Header
+  lines.push(`<a name="${data.id}"></a><font size="+2">${withVining(data.head.givenName)}</font>`);
+
+  // Parent reference
+  if (data.relationship && data.parentDesc) {
+    const rel = data.relationship === 'adopted dau.' ? 'adopted dau.'
+      : data.relationship === 'adopted son' ? 'adopted son'
+      : data.relationship === 'dau.' ? 'dau.'
+      : 'son';
+    if (data.parentId) {
+      const href = data.parentLetter
+        ? `${data.parentLetter}families.htm#${data.parentId}`
+        : `#${data.parentId}`;
+      lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>)`);
+    } else {
+      lines.push(`   (${rel} of ${data.parentDesc})`);
+    }
+  }
+
+  // Notes (e.g. name change, adoption note)
+  if (data.notes) lines.push(`   ${data.notes}`);
+
+  // Head birth
+  if (data.head.birth) lines.push('   b. ' + dp(data.head.birth));
+
+  // Marriages
+  const marriages = data.marriages ?? [];
+  const hasNumbered = marriages.some(m => m.number !== undefined);
+
+  if (marriages.length > 0) {
+    if (hasNumbered) {
+      // First numbered marriage: "m. (1) DATE   PLACE"
+      const first = marriages[0];
+      let mLine = `   m. (${first.number}) `;
+      if (first.date) mLine += first.date;
+      if (first.place) mLine += (first.date ? '   ' : '') + first.place;
+      lines.push(mLine);
+      lines.push(...renderNumberedSpouseBlock(first));
+
+      // Subsequent numbered marriages: "(2) DATE   PLACE"
+      for (const m of marriages.slice(1)) {
+        let mLine = `         (${m.number}) `;
+        if (m.date) mLine += m.date;
+        if (m.place) mLine += (m.date ? '   ' : '') + m.place;
+        lines.push(mLine);
+        lines.push(...renderNumberedSpouseBlock(m));
+      }
+    } else {
+      // Unnumbered marriages
+      for (const m of marriages) {
+        // Inline spouse (no date/place, spouse set directly, with givenName)
+        const isInline = !m.date && !m.place && m.spouse?.givenName;
+        if (isInline) {
+          const s = m.spouse!;
+          const nameParts = [s.givenName, s.surname].filter(Boolean);
+          lines.push('   m. ' + nameParts.join(' '));
+          // Inline spouse details at indent 12
+          if (s.parents) lines.push('            ' + s.parents);
+          if (s.birth) lines.push('            b. ' + dp(s.birth));
+          if (s.death) lines.push('            d. ' + dp(s.death));
+          if (s.widowOf) lines.push('            m. ' + s.widowOf);
+          lines.push(...bur(s.burial, 18));
+        } else {
+          // Normal unnumbered marriage (date and/or place on m. line, spouse block below)
+          let mLine = '   m. ';
+          if (m.date) mLine += m.date;
+          if (m.place) mLine += (m.date ? '   ' : '') + m.place;
+          lines.push(mLine);
+          if (m.spouse) lines.push(...renderSpouseBlock(m, 9, 15, 21));
+        }
+      }
+    }
+  }
+
+  // Head death
+  if (data.head.death) lines.push('   d. ' + dp(data.head.death));
+
+  // Head burial
+  lines.push(...bur(data.head.burial, 9));
+
+  lines.push('');
+
+  // Children groups
+  for (const group of (data.childrenGroups as any[]) ?? []) {
+    if (group.spouseRef) {
+      lines.push(`<font size="+1">children by ${group.spouseRef}:</font>`);
+    } else if (group.headingText && group.headingText.toLowerCase() !== 'children') {
+      lines.push(`<font size="+1">${group.headingText}:</font>`);
+    } else {
+      lines.push('<font size="+1">children:</font>');
+    }
+    for (const child of group.children) {
+      lines.push(renderChildLine(child));
+    }
+  }
+
+  lines.push('');
+
+  // Docs link
+  if (data.docsUrl) {
+    lines.push(`<a href="${data.docsUrl}">documentation and notes</a>`);
+  }
+
+  return lines.join('\n');
+}

@@ -16,6 +16,11 @@ marriages:
   - spouse:
       givenName: Hazel May
       surname: Betts
+      birth:
+        date: ca. 1891
+        place: "Ontario, Canada"
+      death:
+        date: "1984"
 childrenGroups:
   - children:
       - name: Edward R. Vining

@@ -13,10 +13,20 @@ head:
   death:
     date: 20 April 1946
     place: "Wilmington, Will County, Illinois"
+  burial:
+    place: "Custer Township Cemetery   Custer Park, Will County, Illinois"
 marriages:
   - spouse:
       givenName: Fanny
       surname: Darby
+      parents: "(dau. of [&#8230;] Darby and Amy [&#8230;])"
+      birth:
+        date: "1897"
+        place: Illinois
+      death:
+        date: "1981"
+      burial:
+        place: "Custer Township Cemetery   Custer Park, Will County, Illinois"
 childrenGroups:
   - children:
       - name: LaVern Avery Vining

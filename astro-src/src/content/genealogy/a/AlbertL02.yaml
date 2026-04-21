@@ -12,10 +12,36 @@ head:
     place: "Hamden, Delaware County, Connecticut"
   death:
     date: 28 December 1959
+  burial:
+    place: "Whitefish Cemetery   Whitefish, Flathead County, Montana"
 marriages:
   - spouse:
       givenName: Lillian Winnifred
       surname: Brown
+      birth:
+        date: "1892"
+        place: Missouri
+      death:
+        date: "1959"
+      burial:
+        place: "Whitefish Cemetery   Whitefish, Flathead County, Montana"
+childrenGroups:
+  - headingText: adopted child
+    children:
+      - name: Albert Lester Vining
+        entryId: AlbertL03
+        birth:
+          date: 20 January 1921
+          place: "Billings, Yellowstone County, Montana"
+        marriages:
+          - number: 1
+            date: Marian Lucille Deyoung (d. May 1961)
+          - number: 2
+            date: Phyllis Carmen Curry
+        death:
+          date: 21 August 2017
+        burial:
+          place: "Highland Cemetery   Havre, Hill County, Montana"
 docsUrl: Asources/AlbertL02doc.htm
 raw: |-
   <a name="AlbertL02"></a><font size="+2">Albert L. Vining</font>

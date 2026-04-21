@@ -12,11 +12,23 @@ head:
     place: Alabama
   death:
     date: 16 February 1952
+  burial:
+    place: "Reunion Cemetery   Thach, Alabama"
 marriages:
   - number: 1
     date: "Marie L. [..]"
   - number: 2
     date: Lois Webb
+childrenGroups:
+  - headingText: "child by Marie L. [...]"
+    children:
+      - name: Rachel Vining
+        birth:
+          date: 18 May 1938
+        death:
+          date: 11 March 1940
+        burial:
+          place: "Reunion Cemetery   Thach, Alabama"
 docsUrl: Asources/Allen03doc.htm
 raw: |-
   <a name="Allen03"></a><font size="+2">Allen Vining</font>

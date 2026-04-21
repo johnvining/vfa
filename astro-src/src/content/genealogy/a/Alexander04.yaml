@@ -12,10 +12,19 @@ head:
     place: Indiana
   death:
     date: "1956"
+  burial:
+    place: "Brooklyn Heights Cemetery   Brooklyn Heignts, Cuyahoga County, Ohio"
 marriages:
   - spouse:
       givenName: Emma
       surname: "[...]"
+      birth:
+        date: "1886"
+        place: Ohio
+      death:
+        date: "1965"
+      burial:
+        place: "Brooklyn Heights Cemetery   Brooklyn Heights, Cuyahoga County, Ohio"
 childrenGroups:
   - children:
       - name: Eleanor Vining

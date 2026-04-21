@@ -13,10 +13,20 @@ head:
   death:
     date: "[27 March 1947 or 18 June 1957 ?]"
     place: "Morgan City, Louisiana"
+  burial:
+    place: "Saint Andrews Cemetery   Amelia, St. Mary Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Rosalie Ophelia
       surname: Breaux
+      parents: (dau. of Louis Emile Breaux and Clementine Eulalie Barbier)
+      birth:
+        date: 16 December 1870
+        place: "Canal, Assumption Parish, Louisiana"
+      death:
+        date: 8 July 1934
+      burial:
+        place: "Saint Andrews Cemetery   Amelia, St. Mary Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Lorine Vining

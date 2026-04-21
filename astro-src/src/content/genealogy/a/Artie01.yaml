@@ -13,10 +13,19 @@ head:
   death:
     date: 20 October 1942
     place: "Athens, Alabama"
+  burial:
+    place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
 marriages:
   - spouse:
       givenName: Elenora Nayoma
       surname: Hall
+      birth:
+        date: 30 July 1916
+        place: Alabama
+      death:
+        date: 19 January 1975
+      burial:
+        place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
 childrenGroups:
   - children:
       - name: Kenneth Leon Vining

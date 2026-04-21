@@ -12,10 +12,33 @@ head:
     place: Alabama
   death:
     date: 1 February 1973
+  burial:
+    place: "Mount Signal Cemetery   Chelsea, Shelby County, Alabama"
 marriages:
   - spouse:
       givenName: Lola
       surname: Miller
+      birth:
+        date: 18 April 1910
+      death:
+        date: 5 March 1969
+      burial:
+        place: "Mount Signal Cemetery   Chelsea, Shelby County, Alabama"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Amos Boyd Vining
+        entryId: AmosB01
+        birth:
+          date: 9 February 1936
+          place: "Shelby County, Albama"
+        marriages:
+          - date: Flora Mae McDonald
+        death:
+          date: 3 March 1996
+          place: "Columbiana, Shelby County, Alabama"
+        burial:
+          place: "Hubbard Cemetery   Shelby County, Alabama"
 docsUrl: Asources/Arvine01doc.htm
 raw: |-
   <a name="Arvine01"></a><font size="+2">Arvine Vining</font>

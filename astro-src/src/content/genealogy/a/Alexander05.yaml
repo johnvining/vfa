@@ -13,10 +13,19 @@ head:
   death:
     date: 2 June 1926
     place: "Athens, Greene County, New York"
+  burial:
+    place: "Athens Rural Cemetery   Athens, Greene County, New York"
 marriages:
   - spouse:
       givenName: Alice
       surname: Edwards
+      birth:
+        date: "1856"
+        place: New York
+      death:
+        date: "[...]"
+      burial:
+        place: "Athens Rural Cemetery   Athens, Greene County, New York"
 childrenGroups:
   - children:
       - name: Minnie E. Vining

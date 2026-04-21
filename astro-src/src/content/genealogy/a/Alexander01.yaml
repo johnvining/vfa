@@ -13,6 +13,8 @@ head:
   death:
     date: 22 April 1828
     place: "East Windsor, Hartford County, Connecticut"
+  burial:
+    place: "Scantic Cemetery   East Windsor, Hartford County, Connecticut"
 marriages:
   - number: 1
     date: 19 September 1774
@@ -20,6 +22,7 @@ marriages:
     spouse:
       givenName: Olive Louisa
       surname: Pease
+      parents: "(dau. of David Pease and Olive [...])"
       birth:
         date: 16 March 1756
       death:
@@ -32,11 +35,13 @@ marriages:
     spouse:
       givenName: Lovice
       surname: Pease
+      parents: "(dau. of Israel Pease and Ann [...])"
       birth:
         date: 8 December 1763
         place: "Enfield, Hartford County, Connecticut"
 childrenGroups:
   - spouseRef: Olive Louisa Pease
+    headingText: children by Olive Louisa Pease
     children:
       - name: Roxanne Vining
         birth:

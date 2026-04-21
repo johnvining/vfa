@@ -12,10 +12,19 @@ head:
   death:
     date: 27 July 1893
     place: "Chatsworth, Murray County, Georgia"
+  burial:
+    place: "Center Valley Cemetery   Chatsworth, Murray County, Georgia"
 marriages:
   - spouse:
       givenName: Jane A.
       surname: Patterson
+      birth:
+        date: 28 July 1831
+        place: Georgia
+      death:
+        date: 30 November 1881
+      burial:
+        place: "Center Valley Cemetery   Chatsworth, Murray County, Georgia"
 childrenGroups:
   - children:
       - name: James Clinton Vining
