@@ -1,0 +1,71 @@
+id: HarryG01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: TimothyW01
+parentLetter: T
+parentDesc: Timothy W. Vining and Tryphena C. Dow
+head:
+  givenName: Harry G.
+  birth:
+    date: 15 May 1869
+    place: "Avon, Maine"
+  death:
+    date: 18 June 1932
+    place: "Minot, Maine"
+marriages:
+  - date: 21 January 1896
+    place: "East Winthrop, Maine"
+    spouse:
+      givenName: Ella Mae
+      surname: Conant
+      birth:
+        date: 1 August 1875
+        place: "Strong, Maine"
+      death:
+        date: 1 January 1954
+        place: "Auburn, Maine"
+      burial:
+        place: "Mount Auburn Cemetery   Auburn, Maine"
+childrenGroups:
+  - children:
+      - name: "daughter   stillborn 17 May 1897   Strong, Maine"
+      - name: son
+        birth:
+          date: 17 May 1897
+          place: "Strong, Maine"
+        death:
+          date: 19 May 1897
+          place: "Strong, Maine"
+        burial:
+          place: "Conant Cemetery   Strong, Maine"
+      - name: Minnie Louise Vining Jr.
+        birth:
+          date: 23 February 1902
+          place: "East Livermore, Maine"
+        death:
+          date: 29 May 1933
+          place: "Minot, Maine"
+        burial:
+          place: "grave 3, lot 116, section SS   Mount Auburn Cemetery   Auburn, Maine"
+docsUrl: Hsources/HarryG01doc.htm
+raw: |-
+  <a name="HarryG01"></a><font size=+2>Harry G. Vining</font>
+     (son of <a href="Tfamilies.htm#TimothyW01">Timothy W. Vining and Tryphena C. Dow</a>)
+     b. 15 May 1869   Avon, Maine
+     m. 21 January 1896   East Winthrop, Maine
+           Ella Mae Conant
+                 (dau. of Charles B. Conant and Tryphena Staples)
+                 b. 1 August 1875   Strong, Maine
+                 d. 1 January 1954   Auburn, Maine
+                       bur. Mount Auburn Cemetery   Auburn, Maine
+     d. 18 June 1932   Minot, Maine
+           bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>children:</font>
+     daughter   stillborn 17 May 1897   Strong, Maine   -   bur. Conant Cemetery   Strong, Maine
+     son   b. 17 May 1897   Strong, Maine   -   d. 19 May 1897   Strong, Maine   -   bur. Conant Cemetery   Strong, Maine
+  <font size=+1>adopted child:</font>
+     Minnie Louise Vining Jr.   b. 23 February 1902   East Livermore, Maine   -   d. 29 May 1933   Minot, Maine   -   bur. grave 3, lot 116, section SS   Mount Auburn Cemetery   Auburn, Maine
+  
+  <a href="Hsources/HarryG01doc.htm">documentation and notes</a>

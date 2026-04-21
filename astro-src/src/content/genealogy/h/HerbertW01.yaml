@@ -1,0 +1,44 @@
+id: HerbertW01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HenryH02
+parentDesc: Henry Horatio Vining and Emma Garecht
+head:
+  givenName: Herbert William
+  birth:
+    date: age 2 y. as of 1910 census
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Gladys
+      surname: Beadle
+childrenGroups:
+  - children:
+      - name: Herbert Connelly Vining
+        entryId: HerbertC01
+        birth:
+          date: 26 February 1940
+        marriages:
+          - date: "Judith [...]"
+        death:
+          date: 24 February 2015
+          place: "Patterson, Louisiana"
+        burial:
+          place: "Berwick Memorial Cemetery   Berwick, Louisiana"
+      - name: Cheryl Vining
+        marriages:
+          - date: Donald Stelly
+      - name: Janet Vining
+        marriages:
+          - date: Gregory J. Kreider
+raw: |-
+  <a name="HerbertW01"></a><font size=+2>Herbert William Vining</font>
+     (son of <a href="#HenryH02">Henry Horatio Vining and Emma Garecht</a>)
+     b. age 2 y. as of 1910 census   Louisiana
+     m. Gladys Beadle
+  
+  <font size=+1>children:</font>
+     <a href="#HerbertC01">Herbert Connelly Vining</a>   b. 26 February 1940   -   m. Judith [...]   -   d. 24 February 2015   Patterson, Louisiana   -   bur. Berwick Memorial Cemetery   Berwick, Louisiana
+     Cheryl Vining   m. Donald Stelly
+     Janet Vining   m. Gregory J. Kreider

@@ -1,0 +1,78 @@
+id: HenryH03
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: ThomasWJr01
+parentLetter: T
+parentDesc: Thomas William Vining Jr. and Elizabeth Hawley
+head:
+  givenName: Henry H.
+  birth:
+    date: 13 November 1870
+    place: "Pine Bluff City, Jefferson County, Arkansas"
+  death:
+    date: 10 November 1934
+    place: "Wichita Falls, Wichita County, Texas"
+marriages:
+  - date: 22 July 1903
+    place: "Jefferson County, Arkansas"
+    spouse:
+      givenName: Viola
+      surname: Davis
+      birth:
+        date: May 1885
+        place: "Pine Bluff, Jefferson County, Arkansas"
+childrenGroups:
+  - children:
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: James L. Vining
+        birth:
+          date: 2 July 1909
+          place: "Pine Bluff, Jefferson County, Arkansas"
+        marriages:
+          - date: "Edith M. [&#8230;]"
+        death:
+          date: 7 June 1967
+          place: "Lamesa, Dawson County, Texas"
+        burial:
+          place: "Gaines County Memorial Cemetery   Seminole, Texas"
+      - name: Amos Aubrey Vining
+        entryId: AmosA01
+        entryLetter: A
+        birth:
+          date: 14 April 1911
+          place: "North Little Rock, Pulaski County, Arkansas"
+        marriages:
+          - date: Loretta Ann Burns
+        death:
+          date: 25 October 1978
+          place: Texas
+        burial:
+          place: "Andrews County Cemetery   Andrews, Texas"
+      - name: "Francis [W. F. ?]"
+        birth:
+          date: "age 3 y., [0?] m. as of 1920 census"
+          place: Arkansas
+docsUrl: Hsources/HenryH03doc.htm
+raw: |-
+  <a name="HenryH03"></a><font size=+2>Henry H. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasWJr01">Thomas William Vining Jr. and Elizabeth Hawley</a>)
+     b. 13 November 1870   Pine Bluff City, Jefferson County, Arkansas
+     m. 22 July 1903   Jefferson County, Arkansas
+           Viola Davis
+                 b. May 1885   Pine Bluff, Jefferson County, Arkansas
+     d. 10 November 1934   Wichita Falls, Wichita County, Texas
+  
+  <font size=+1>children:</font>
+     child Vining   d. before 1910 census
+     child Vining   d. before 1910 census
+     James L. Vining   b. 2 July 1909   Pine Bluff, Jefferson County, Arkansas   -   m. Edith M. [&#8230;]   -   d. 7 June 1967   Lamesa, Dawson County, Texas   -   bur. Gaines County Memorial Cemetery   Seminole, Texas
+     <a href="Afamilies.htm#AmosA01">Amos Aubrey Vining</a>   b. 14 April 1911   North Little Rock, Pulaski County, Arkansas   -   m. Loretta Ann Burns   -   d. 25 October 1978   Texas   -   bur. Andrews County Cemetery   Andrews, Texas
+     Francis [W. F. ?]   b. age 3 y., [0?] m. as of 1920 census   Arkansas
+  
+  <a href="Hsources/HenryH03doc.htm">documentation and notes</a>

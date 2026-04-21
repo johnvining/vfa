@@ -1,0 +1,138 @@
+id: HarryL01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: FrederickH01
+parentLetter: F
+parentDesc: Frederick H. Vining and Edith Eleanor Creamer
+head:
+  givenName: Harry Leavitt
+  birth:
+    date: 20 June 1882
+    place: "[Alexander or Cooper?], Maine"
+  death:
+    date: 1 March 1956
+marriages:
+  - number: 1
+    date: 18 September 1907
+    place: "North Anson, Maine"
+    spouse:
+      givenName: Etta E.
+      surname: Creamer
+      birth:
+        date: 30 May 1882
+        place: "[Alexander or Cooper?], Maine"
+      death:
+        date: 25 May 1936
+        place: "Farmington, Maine"
+      burial:
+        place: "Sunset Cemetery   North Anson, Maine"
+  - number: 2
+    date: 18 January 1941
+    place: "North Anson, Maine"
+    spouse:
+      givenName: Dorothy Blanche
+      surname: Flemming
+      birth:
+        date: 22 May 1902
+        place: "Lubec, Maine"
+      death:
+        date: 13 October 1997
+        place: "(last residence: North Anson, Maine)"
+childrenGroups:
+  - spouseRef: "Etta [E. or F.?] Creamer"
+    children:
+      - name: Harold E. Vining
+        birth:
+          date: age 9 y. as of 1910 census
+          place: Maine
+      - name: Hazel C. Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Maine
+        marriages:
+          - date: 5 y. as of 1930 census
+            spouse: Lloyd G. Mullen
+      - name: Mabel M. Vining
+        birth:
+          date: 22 June 1909
+          place: "Embden, Maine"
+      - name: Lillian Frances Vining
+        birth:
+          date: 1 July 1912
+          place: "Embden, Maine"
+      - name: Mildred Etta Vining
+        birth:
+          date: 15 May 1915
+          place: "Embden, Maine"
+        marriages:
+          - date: 6 June 1931
+            spouse: George Atwood
+      - name: Minnie Eva Vining
+        birth:
+          date: 26 May 1918
+          place: "Embden, Maine"
+        marriages:
+          - date: 20 May 1939
+            spouse: Arthur N. Tilley
+      - name: Leo Harry Vining
+        entryId: LeoH02
+        entryLetter: L
+        birth:
+          date: 2 March 1921
+          place: "Embden, Maine"
+        marriages:
+          - date: 4 March 1944
+            place: "Farmington, Maine"
+            spouse: Katherine E. Libby
+        death:
+          date: 30 January 1999
+          place: "Embden, Maine"
+      - name: Agnes Lula Vining
+        birth:
+          date: 3 September 1923
+          place: "Embden, Maine"
+        marriages:
+          - date: 13 November 1941
+            spouse: Melvin M. Carrigan
+      - name: Edith Shirley Vining
+        birth:
+          date: 23 April 1928
+          place: "Embden, Maine"
+      - name: Arlene June Vining
+        birth:
+          date: 29 March 1941
+          place: "Embden, Maine"
+docsUrl: Hsources/HarryL01doc.htm
+raw: |-
+  <a name="HarryL01"></a><font size=+2>Harry Leavitt Vining</font>
+     (son of <a href="Ffamilies.htm#FrederickH01">Frederick H. Vining and Edith Eleanor Creamer</a>)
+     b. 20 June 1882   [Alexander or Cooper?], Maine
+     m. (1) 18 September 1907   North Anson, Maine
+                 Etta E. Creamer
+                       (dau. of Charles H. Creamer and Mary Elzina Frost)
+                       b. 30 May 1882   [Alexander or Cooper?], Maine
+                       d. 25 May 1936   Farmington, Maine
+                             bur. Sunset Cemetery   North Anson, Maine
+           (2) 18 January 1941   North Anson, Maine
+                 Dorothy Blanche Flemming
+                       (dau. Charles Flemming and Grace Card)
+                       b. 22 May 1902   Lubec, Maine
+                       d. 13 October 1997   (last residence: North Anson, Maine)
+     d. 1 March 1956
+           bur. Sunset Cemetery   North Anson, Maine
+  
+  <font size=+1>children by Etta [E. or F.?] Creamer:</font>
+     Harold E. Vining   b. age 9 y. as of 1910 census   Maine
+     Hazel C. Vining   b. age 3 y. as of 1910 census   Maine   -   m. 5 y. as of 1930 census   Lloyd G. Mullen
+     Mabel M. Vining   b. 22 June 1909   Embden, Maine
+     Lillian Frances Vining   b. 1 July 1912   Embden, Maine
+     Mildred Etta Vining   b. 15 May 1915   Embden, Maine   -   m. 6 June 1931   George Atwood
+     Minnie Eva Vining   b. 26 May 1918   Embden, Maine   -   m. 20 May 1939   Arthur N. Tilley
+     <a href="Lfamilies.htm#LeoH02">Leo Harry Vining</a>   b. 2 March 1921   Embden, Maine   -   m. 4 March 1944   Farmington, Maine   Katherine E. Libby   -   d. 30 January 1999   Embden, Maine
+     Agnes Lula Vining   b. 3 September 1923   Embden, Maine   -   m. 13 November 1941   Melvin M. Carrigan
+     Edith Shirley Vining   b. 23 April 1928   Embden, Maine
+  <font size=+1>child by Dorothy Blanche Flemming:</font>
+     Arlene June Vining   b. 29 March 1941   Embden, Maine
+  
+  <a href="Hsources/HarryL01doc.htm">documentation and notes</a>

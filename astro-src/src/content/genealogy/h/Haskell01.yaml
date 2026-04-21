@@ -1,0 +1,49 @@
+id: Haskell01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: RobertM01
+parentLetter: R
+parentDesc: Robert Miller Vining and Lucetta Hoke
+head:
+  givenName: Haskell
+  birth:
+    date: July 1877
+    place: Ohio
+  death:
+    date: "1945"
+marriages:
+  - number: 1
+    date: 3 February 1901
+    place: "Willshire, Ohio"
+    spouse:
+      givenName: Jane
+      surname: Shank
+      birth:
+        date: "1876"
+        place: Ohio
+      death:
+        date: "1937"
+      burial:
+        place: "Riverside Cemetery   Rockford, Ohio"
+  - number: 2
+    date: "Molle [&#8230;]"
+docsUrl: Hsources/Haskell01doc.htm
+raw: |-
+  <a name="Haskell01"></a><font size=+2>Haskell Vining</font>
+     (son of <a href="Rfamilies.htm#RobertM01">Robert Miller Vining and Lucetta Hoke</a>)
+     b. July 1877   Ohio
+     m. (1) 3 February 1901   Willshire, Ohio
+                 Jane Shank
+                       b. 1876   Ohio
+                       d. 1937
+                             bur. Riverside Cemetery   Rockford, Ohio
+           (2) Molle [&#8230;]
+                       b. age 66 y. as of 1940 census   Ohio
+     d. 1945
+           bur. Riverside Cemetery   Rockford, Ohio
+  
+  <font size=+1>adopted child:</font>
+     Edna Vining   b. age 13 y. as of 1920 census   Ohio
+  
+  <a href="Hsources/Haskell01doc.htm">documentation and notes</a>

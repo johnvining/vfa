@@ -1,0 +1,32 @@
+id: HomerLJr01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Homer L. Jr.
+childrenGroups:
+  - children:
+      - name: Homer L. Vining III
+        entryId: HomerLIII01
+        birth:
+          date: age 71 y. at death
+        marriages:
+          - date: "Ramona [...]"
+        death:
+          date: 24 May 2010
+          place: "Fayetteville, Georgia"
+      - name: Charlie Vining
+        marriages:
+          - date: "Judy [...]"
+      - name: Dan Vining
+        marriages:
+          - date: "Cobra [...]"
+raw: |-
+  <a name="HomerLJr01"></a><font size=+2>Homer L. Vining Jr.</font>
+     (son of [?])
+  
+  <font size=+1>children:</font>
+     <a href="#HomerLIII01">Homer L. Vining III</a>   b. age 71 y. at death   -   m. Ramona [...]   -   d. 24 May 2010   Fayetteville, Georgia
+     Charlie Vining   m. Judy [...]
+     Dan Vining   m. Cobra [...]

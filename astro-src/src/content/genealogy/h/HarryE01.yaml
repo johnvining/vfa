@@ -1,0 +1,68 @@
+id: HarryE01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Thomas05
+parentLetter: T
+parentDesc: Thomas Vining and Lucretia Peckham
+head:
+  givenName: Harry Edward
+  birth:
+    date: 27 April 1893
+    place: "Rio, Wisconsin"
+  death:
+    date: 28 May 1972
+    place: Minnesota
+marriages:
+  - date: 1 September 1917
+    place: "Minneapolis, Minnesota"
+    spouse:
+      givenName: Selma Christine
+      surname: Peterson
+      birth:
+        date: "[27 April 1893?]"
+        place: "Rio, Wisconsin"
+childrenGroups:
+  - children:
+      - name: Joyce Marvel Vining
+        birth:
+          date: 8 February 1920
+          place: "Minneapolis, Minnesota"
+        marriages:
+          - date: 20 March 1942
+            spouse: John G. Wilson
+      - name: Lilas June Vining
+        birth:
+          date: 8 February 1922
+          place: "Minneapolis, Minnesota"
+        marriages:
+          - date: 7 September 1946
+            spouse: Raymond Joseph Koch
+      - name: Curtis Harry Vining
+        entryId: CurtisH01
+        entryLetter: C
+        birth:
+          date: 9 January 1924
+          place: "Minneapolis, Minnesota"
+        marriages:
+          - date: 13 August 1948
+            place: Virginia Sutherland
+        death:
+          date: 11 October 1990
+docsUrl: Hsources/HarryE01doc.htm
+raw: |-
+  <a name="HarryE01"></a><font size=+2>Harry Edward Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas05">Thomas Vining and Lucretia Peckham</a>)
+     b. 27 April 1893   Rio, Wisconsin
+     m. 1 September 1917   Minneapolis, Minnesota
+           Selma Christine Peterson
+                 (dau. of Paul Peterson and Mary O'Lena Anderson)
+                 b. [27 April 1893?]   Rio, Wisconsin
+     d. 28 May 1972   Minnesota
+  
+  <font size=+1>children:</font>
+     Joyce Marvel Vining   b. 8 February 1920   Minneapolis, Minnesota   -   m. 20 March 1942   John G. Wilson
+     Lilas June Vining   b. 8 February 1922   Minneapolis, Minnesota   -   m. 7 September 1946   Raymond Joseph Koch
+     <a href="Cfamilies.htm#CurtisH01">Curtis Harry Vining</a>   b. 9 January 1924   Minneapolis, Minnesota   -   m. 13 August 1948   Virginia Sutherland   -   d. 11 October 1990
+  
+  <a href="Hsources/HarryE01doc.htm">documentation and notes</a>

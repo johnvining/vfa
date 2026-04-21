@@ -1,0 +1,72 @@
+id: HughD01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: FrankW04
+parentLetter: F
+parentDesc: Frank Whitten Vining and Sarah Elizabeth Slaughter
+head:
+  givenName: Hugh Dorsey
+  birth:
+    date: 3 October 1916
+    place: "Brooks, Georgia"
+  death:
+    date: December 1980
+marriages:
+  - spouse:
+      givenName: Frances
+      surname: Graddy
+childrenGroups:
+  - children:
+      - name: Rawles Leroy Vining
+        entryId: RawlesL01
+        entryLetter: R
+        birth:
+          date: "1935"
+          place: Georgia
+        marriages:
+          - date: June Evans
+        death:
+          date: 4 August 2007
+        burial:
+          place: "Griffin Memorial Gardens   Griffin, Georgia"
+      - name: Collis Linwood Vining
+        entryId: CollisL01
+        entryLetter: C
+        birth:
+          date: 16 October 1937
+          place: "Spalding County, Georgia"
+        marriages:
+          - date: Nora Jean Oxford
+        death:
+          date: 3 February 2021
+      - name: Shirley Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Georgia
+        marriages:
+          - date: "[&#8230;] Barwick"
+      - name: Peggy Vining
+        marriages:
+          - date: "[&#8230;] DeVane"
+      - name: Marcia Vining
+        marriages:
+          - date: "[&#8230;] Smith"
+docsUrl: Hsources/HughD01doc.htm
+raw: |-
+  <a name="HughD01"></a><font size=+2>Hugh Dorsey Vining</font>
+     (son of <a href="Ffamilies.htm#FrankW04">Frank Whitten Vining and Sarah Elizabeth Slaughter</a>)
+     b. 3 October 1916   Brooks, Georgia
+     m. Frances Graddy
+              b. age 20 y. as of 1940 census   Georgia
+     d. December 1980
+           bur. Griffin Memorial Gardens   Griffin, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RawlesL01">Rawles Leroy Vining</a>   b. 1935   Georgia   -   m. June Evans   -   d. 4 August 2007   -   bur. Griffin Memorial Gardens   Griffin, Georgia
+     <a href="Cfamilies.htm#CollisL01">Collis Linwood Vining</a>   b. 16 October 1937   Spalding County, Georgia   -   m. Nora Jean Oxford   -   d. 3 February 2021
+     Shirley Vining   b. age 1 y. as of 1940 census   Georgia   -   m. [&#8230;] Barwick
+     Peggy Vining   m. [&#8230;] DeVane
+     Marcia Vining   m. [&#8230;] Smith
+  
+  <a href="Hsources/HughD01doc.htm">documentation and notes</a>

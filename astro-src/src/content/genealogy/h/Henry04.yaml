@@ -1,0 +1,26 @@
+id: Henry04
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry
+  birth:
+    date: age 30 y. as of 1870 census
+    place: Indiana
+marriages:
+  - spouse:
+      givenName: Martha J.
+      surname: "[...]"
+docsUrl: Hsources/Henry04doc.htm
+raw: |-
+  <a name="Henry04"></a><font size=+2>Henry Vining</font>
+     (son of [?])
+     b. age 30 y. as of 1870 census   Indiana
+     m. Martha J. [...]
+              b. age 24 y. as of 1870 census   Ohio
+  
+  <font size=+1>child:</font>
+     Herman Vining   b. age 5 y. as of 1870 census   Illinois
+  
+  <a href="Hsources/Henry04doc.htm">documentation and notes</a>

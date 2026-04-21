@@ -1,0 +1,50 @@
+id: HarrisonF01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: LeoHJr01
+parentLetter: L
+parentDesc: "Leo Heath Vining Jr. and [Josephine Primrose Gundry?]"
+head:
+  givenName: Harrison Foster
+  birth:
+    date: 5 March 1950
+    place: "Baltimore, Maryland"
+marriages:
+  - number: 1
+    date: "1969"
+    spouse:
+      givenName: Jo Ann
+      surname: Strickland
+  - number: 2
+    date: "1987"
+    spouse:
+      givenName: Leslie Ann
+      surname: Welch
+childrenGroups:
+  - spouseRef: Jo Ann Strickland
+    children:
+      - name: Heath Foster Vining
+        birth:
+          date: 10 April 1970
+          place: "Harrisburg, Virginia"
+      - name: Josephine Alice Vining
+        birth:
+          date: 10 May 1977
+          place: "Harrisburg, Virginia"
+      - name: Jenna Joie Hart Vining
+raw: |-
+  <a name="HarrisonF01"></a><font size=+2>Harrison Foster Vining</font>
+     (son of <a href="Lfamilies.htm#LeoHJr01">Leo Heath Vining Jr. and [Josephine Primrose Gundry?]</a>)
+     b. 5 March 1950   Baltimore, Maryland
+     m. (1) 1969
+                 Jo Ann Strickland
+                 divorced 1978
+           (2) 1987
+                 Leslie Ann Welch
+  
+  <font size=+1>children by Jo Ann Strickland:</font>
+     Heath Foster Vining   b. 10 April 1970   Harrisburg, Virginia
+     Josephine Alice Vining   b. 10 May 1977   Harrisburg, Virginia
+  <font size=+1>child by [?]:</font>
+     Jenna Joie Hart Vining

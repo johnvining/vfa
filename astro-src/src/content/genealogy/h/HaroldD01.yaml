@@ -1,0 +1,63 @@
+id: HaroldD01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: JohnL03
+parentLetter: J
+parentDesc: John Llewellyn Vining and Mary Louise Hughes
+head:
+  givenName: Harold Despard
+  birth:
+    date: "1865"
+    place: "Down End, Gloucestershire, England"
+  death:
+    date: "1935"
+childrenGroups:
+  - children:
+      - name: Mary Estelle Vining
+        birth:
+          date: "1899"
+          place: "Hooks Farm, Lay, Gloucestershire, England"
+        death:
+          date: "1962"
+          place: "Gloucester, England"
+      - name: John Llewellyn Vining
+        entryId: JohnL04
+        entryLetter: J
+        birth:
+          date: "1901"
+          place: Hooks Fm.
+        death:
+          date: ca. 1975
+      - name: Phyllis Susan Vining
+        birth:
+          date: "1903"
+          place: Hooks Fm.
+        marriages:
+          - date: 28 April 1930
+            spouse: "Churcham, Gloucestershire, England   Harry Ratcliffe"
+        death:
+          date: ca. 1985
+          place: "Squamish, British Columbia, Canada"
+      - name: Betty Clare Despard Vining
+        birth:
+          date: "1910"
+          place: "Lower Stantway, Gloucestershire, England"
+        marriages:
+          - date: 19 June 1935
+            spouse: "Churcham, Gloucestershire   Colin Bearne"
+        death:
+          date: "1976"
+          place: Maidstone
+raw: |-
+  <a name="HaroldD01"></a><font size=+2>Harold Despard Vining</font>
+     (son of <a href="Jfamilies.htm#JohnL03">John Llewellyn Vining and Mary Louise Hughes</a>)
+     b. 1865   Down End, Gloucestershire, England
+     d. 1935
+           bur. Churcham, Gloucestershire, Engand
+  
+  <font size=+1>children:</font>
+     Mary Estelle Vining   b. 1899   Hooks Farm, Lay, Gloucestershire, England   -   d. 1962   Gloucester, England
+     <a href="Jfamilies.htm#JohnL04">John Llewellyn Vining</a>   b. 1901   Hooks Fm.   -   d. ca. 1975
+     Phyllis Susan Vining   b. 1903   Hooks Fm.   -   m. 28 April 1930   Churcham, Gloucestershire, England   Harry Ratcliffe   -   d. ca. 1985   Squamish, British Columbia, Canada
+     Betty Clare Despard Vining   b. 1910   Lower Stantway, Gloucestershire, England   -   m. 19 June 1935   Churcham, Gloucestershire   Colin Bearne   -   d. 1976   Maidstone

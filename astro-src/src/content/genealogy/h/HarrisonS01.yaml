@@ -1,0 +1,67 @@
+id: HarrisonS01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Ammi02
+parentLetter: A
+parentDesc: Ammi Vining and Betsey Strout
+head:
+  givenName: Harrison S.
+  birth:
+    date: 4 November 1824
+    place: "Portland, Maine"
+  death:
+    date: 14 May 1902
+    place: "Brooklyn, New York"
+marriages:
+  - date: 18 August 1849
+    spouse:
+      givenName: Lucy Ilsley
+      surname: Simonton
+      birth:
+        date: 13 March 1824
+        place: Maine
+      death:
+        date: 15 November 1893
+        place: "Brooklyn, New York"
+      burial:
+        place: "Eastern Cemetery   Portland, Maine"
+childrenGroups:
+  - children:
+      - name: Clarence Vining
+        entryId: Clarence01
+        entryLetter: C
+        birth:
+          date: age 9 y. as of 1860 census
+          place: Maine
+        marriages:
+          - number: 1
+            date: 7 y. as of 1900 census
+            spouse: "Sarah [...],   (2) 4 y. as of 1910 census   Ella H. [...]"
+      - name: Helen Sherwood Vining
+        birth:
+          date: July 1855
+          place: "Brooklyn, New York"
+        death:
+          date: 30 January 1916
+          place: "Rockland, Maine"
+        burial:
+          place: "Eastern Cemetery   Portland, Maine"
+docsUrl: Hsources/HarrisonS01doc.htm
+raw: |-
+  <a name="HarrisonS01"></a><font size=+2>Harrison S. Vining</font>
+     (son of <a href="Afamilies.htm#Ammi02">Ammi Vining and Betsey Strout</a>)
+     b. 4 November 1824   Portland, Maine
+     m. 18 August 1849
+           Lucy Ilsley Simonton
+                 b. 13 March 1824   Maine
+                 d. 15 November 1893   Brooklyn, New York
+                       bur. Eastern Cemetery   Portland, Maine
+     d. 14 May 1902   Brooklyn, New York
+           bur. Eastern Cemetery   Portland, Maine
+  
+  <font size=+1>children</font>
+     <a href="Cfamilies.htm#Clarence01">Clarence Vining</a>   b. age 9 y. as of 1860 census   Maine   -   m. (1) 7 y. as of 1900 census   Sarah [...],   (2) 4 y. as of 1910 census   Ella H. [...]
+     Helen Sherwood Vining   b. July 1855   Brooklyn, New York   -   d. 30 January 1916   Rockland, Maine   -   bur. Eastern Cemetery   Portland, Maine
+  
+  <a href="Hsources/HarrisonS01doc.htm">documentation and notes</a>

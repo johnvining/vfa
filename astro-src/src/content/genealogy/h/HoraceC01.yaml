@@ -1,0 +1,81 @@
+id: HoraceC01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: ThomasA02
+parentLetter: T
+parentDesc: Thomas A. Vining and Amelia Tuller
+head:
+  givenName: Horace Case
+  birth:
+    date: 26 December 1828
+    place: "Simsbury, Connecticut"
+  death:
+    date: 18 May 1869
+marriages:
+  - date: 14 February 1855
+    place: "Canton, Connecticut"
+    spouse:
+      givenName: Sarah Jane
+      surname: Case
+      birth:
+        date: "1837"
+        place: Connecticut
+      death:
+        date: "1931"
+      burial:
+        place: "North Canton Cemetery   North Canton, Connecticut"
+childrenGroups:
+  - children:
+      - name: Henry Jerome Vining
+        birth:
+          date: 16 February 1856
+        death:
+          date: March 1857
+      - name: Clarence Ruggles Vining
+        entryId: ClarenceR02
+        entryLetter: C
+        birth:
+          date: 18 May 1858
+          place: "Hartford County, Connecticut"
+        marriages:
+          - date: Emma J. Strickland
+        death:
+          date: "1940"
+        burial:
+          place: "North Canton Cemetery   North Canton, Connecticut"
+      - name: Charles Horace Vining
+        entryId: CharlesH04
+        entryLetter: C
+        birth:
+          date: 2 May 1860
+          place: Connecticut
+        marriages:
+          - date: 14 June 1883
+            spouse: Mary Jane Ruic
+      - name: Mary Rosanna Vining
+        birth:
+          date: 7 May 1862
+          place: Connecticut
+        marriages:
+          - date: Henry Humphrey Adams
+docsUrl: Hsources/HoraceC01doc.htm
+raw: |-
+  <a name="HoraceC01"></a><font size=+2>Horace Case Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasA02">Thomas A. Vining and Amelia Tuller</a>)
+     b. 26 December 1828   Simsbury, Connecticut
+     m. 14 February 1855   Canton, Connecticut
+           Sarah Jane Case
+                 b. 1837   Connecticut
+                 d. 1931
+                       bur. North Canton Cemetery   North Canton, Connecticut
+     d. 18 May 1869
+           bur. North Canton Cemetery   North Canton, Connecticut
+  
+  <font size=+1>children:</font>
+     Henry Jerome Vining   b. 16 February 1856   -   d. March 1857
+     <a href="Cfamilies.htm#ClarenceR02">Clarence Ruggles Vining</a>   b. 18 May 1858   Hartford County, Connecticut   -   m. Emma J. Strickland   -   d. 1940   -   bur. North Canton Cemetery   North Canton, Connecticut
+     <a href="Cfamilies.htm#CharlesH04">Charles Horace Vining</a>   b. 2 May 1860   Connecticut   -   m. 14 June 1883   Mary Jane Ruic
+     Mary Rosanna Vining   b. 7 May 1862   Connecticut   -   m. Henry Humphrey Adams
+  
+  <a href="Hsources/HoraceC01doc.htm">documentation and notes</a>

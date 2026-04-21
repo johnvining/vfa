@@ -1,0 +1,92 @@
+id: HenryW02
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry William
+  birth:
+    date: 8 January 1837
+    place: Massachusetts
+  death:
+    date: 24 December 1916
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Christena
+      surname: Jackson
+childrenGroups:
+  - children:
+      - name: Charles Herbert Vining
+        entryId: CharlesH06
+        entryLetter: C
+        birth:
+          date: 17 April 1861
+          place: "Cincinnati, Ohio"
+        marriages:
+          - date: 10 y. as of 1900 census
+            spouse: "[Sidonna or Florence ?] [&#8230;]"
+        death:
+          date: 15 July 1914
+          place: "Fort Wayne, Indiana"
+        burial:
+          place: "Parker Cemetery   Fort Wayne, Indiana"
+      - name: Eva E. Vining
+        birth:
+          date: age 7 y. as of 1870 census
+          place: Ohio
+      - name: Sarah C. Vining
+        birth:
+          date: age 5 y. as of 1870 census
+          place: Ohio
+      - name: Alden J. Vining
+        entryId: AldenJ01
+        entryLetter: A
+        birth:
+          date: 8 April 1868
+          place: Ohio
+        marriages:
+          - number: 1
+            date: Ella Gertrude Davis
+          - number: 2
+            date: 3 y. as of 1910 census
+            spouse: "Catherine [&#8230;]"
+        death:
+          date: 23 March 1939
+        burial:
+          place: "Ferncliff Cemetery   Springfield, Clark County, Ohio"
+      - name: "[Ellen or Alice B.] Vining"
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Ohio
+      - name: Cordelia C. Vining
+        birth:
+          date: 8 May 1872
+          place: Ohio
+        marriages:
+          - date: Charles F. Helpman
+        death:
+          date: 26 August 1933
+        burial:
+          place: "Honey Creek Cemetery   Christiansburg, Ohio"
+docsUrl: Hsources/HenryW02doc.htm
+raw: |-
+  <a name="HenryW02"></a><font size=+2>Henry William Vining</font>
+     (son of [?])
+     b. 8 January 1837   Massachusetts
+     m. Christena Jackson
+              b. 10 May 1844   Hamilton, Ohio
+              d. 26 July 1906   Ohio
+                    bur. Honey Creek Cemetery   Christiansburg, Ohio
+     d. 24 December 1916   Ohio
+           bur. Honey Creek Cemetery   Christiansburg, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#CharlesH06">Charles Herbert Vining</a>   b. 17 April 1861   Cincinnati, Ohio   -   m. 10 y. as of 1900 census   [Sidonna or Florence ?] [&#8230;]   -   d. 15 July 1914   Fort Wayne, Indiana   -   bur. Parker Cemetery   Fort Wayne, Indiana
+     Eva E. Vining   b. age 7 y. as of 1870 census   Ohio
+     Sarah C. Vining   b. age 5 y. as of 1870 census   Ohio
+     <a href="Afamilies.htm#AldenJ01">Alden J. Vining</a>   b. 8 April 1868   Ohio   -   m. (1) Ella Gertrude Davis;   (2) 3 y. as of 1910 census   Catherine [&#8230;]   -   d. 23 March 1939   -   bur. Ferncliff Cemetery   Springfield, Clark County, Ohio
+     [Ellen or Alice B.] Vining   b. age 1 y. as of 1870 census   Ohio
+     Cordelia C. Vining   b. 8 May 1872   Ohio   -   m. Charles F. Helpman   -   d. 26 August 1933   -   bur. Honey Creek Cemetery   Christiansburg, Ohio
+  
+  <a href="Hsources/HenryW02doc.htm">documentation and notes</a>

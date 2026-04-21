@@ -1,0 +1,45 @@
+id: HerbertH01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: AbnerC01
+parentLetter: A
+parentDesc: "Abner Calhoun Vining and Georgia Evelyn [...]"
+head:
+  givenName: Herbert Hampton
+  birth:
+    date: 10 December 1912
+    place: Georgia
+  death:
+    date: 14 July 2001
+marriages:
+  - spouse:
+      givenName: Margaret Matilda
+      surname: Faulkner
+childrenGroups:
+  - children:
+      - name: Laura Elizabeth Vining
+        death:
+          date: before 27 August 2004
+      - name: Herbert Hampton Vining Jr.
+        entryId: HerbertHJr01
+        marriages:
+          - date: Nancy Denise Brady
+docsUrl: Hsources/HerbertH01doc.htm
+raw: |-
+  <a name="HerbertH01"></a><font size=+2>Herbert Hampton Vining</font>
+     (son of <a href="Afamilies.htm#AbnerC01">Abner Calhoun Vining and Georgia Evelyn [...]</a>)
+     b. 10 December 1912   Georgia
+     m. Margaret Matilda Faulkner
+              (dau. of William Columbus Faulkner and Martha Mary Row)
+              b. 30 October 1916   Monroe, Georgia
+              d. 27 August 2004   Augusta, Georgia
+                    bur. Covington City Cemetery   Covington, Georgia
+     d. 14 July 2001
+           bur. Covington City Cemetery   Covington, Georgia
+  
+  <font size=+1>children:</font>
+     Laura Elizabeth Vining   d. before 27 August 2004
+     <a href="#HerbertHJr01">Herbert Hampton Vining Jr.</a>   m. Nancy Denise Brady
+  
+  <a href="Hsources/HerbertH01doc.htm">documentation and notes</a>

@@ -1,0 +1,47 @@
+id: HoraceE01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: CharlesH03
+parentLetter: C
+parentDesc: Charles Horace Vining and Abiah Murray
+head:
+  givenName: Horace Elvin
+  birth:
+    date: 31 March 1876
+    place: "Pomeroy, Ohio"
+  death:
+    date: 29 March 1960
+    place: "Akron, Ohio"
+marriages:
+  - date: "1901"
+    spouse:
+      givenName: Lula R.
+      surname: Harvey
+childrenGroups:
+  - children:
+      - name: Constance L. Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Ohio
+        marriages:
+          - date: Lawrence H. Bently
+      - name: Grace B. Vining
+        birth:
+          date: "age 2 y., 3 m. as of 1910 census"
+          place: "[Ohio or Pennsylvania ?]"
+docsUrl: Hsources/HoraceE01doc.htm
+raw: |-
+  <a name="HoraceE01"></a><font size=+2>Horace Elvin Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesH03">Charles Horace Vining and Abiah Murray</a>)
+     b. 31 March 1876   Pomeroy, Ohio
+     m. 1901
+           Lula R. Harvey
+     d. 29 March 1960   Akron, Ohio
+           bur. Crrown Hill Cemetery and Mausoleum   Twinsburg, Ohio
+  
+  <font size=+1>children:</font>
+     Constance L. Vining   b. age 7 y. as of 1910 census   Ohio   -   m. Lawrence H. Bently
+     Grace B. Vining   b. age 2 y., 3 m. as of 1910 census   [Ohio or Pennsylvania ?]
+  
+  <a href="Hsources/HoraceE01doc.htm">documentation and notes</a>

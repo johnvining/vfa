@@ -1,0 +1,42 @@
+id: HomerLIII01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HomerLJr01
+parentDesc: "Homer L. Vining Jr. and [...]"
+head:
+  givenName: Homer L. III
+  birth:
+    date: age 71 y. at death
+  death:
+    date: 24 May 2010
+    place: "Fayetteville, Georgia"
+marriages:
+  - spouse:
+      givenName: Ramona
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Libby Vining
+        marriages:
+          - date: Pat Reeves
+      - name: Robin Vining
+        marriages:
+          - date: Barry Turner
+      - name: Linda Vining
+        marriages:
+          - date: Tim Sperry
+docsUrl: Hsources/HomerLIII01doc.htm
+raw: |-
+  <a name="HomerLIII01"></a><font size=+2>Homer L. Vining III</font>
+     (son of <a href="#HomerLJr01">Homer L. Vining Jr. and [...]</a>)
+     b. age 71 y. at death
+     m. Ramona [...]
+     d. 24 May 2010   Fayetteville, Georgia
+  
+  <font size=+1>children:</font>
+     Libby Vining   m. Pat Reeves
+     Robin Vining   m. Barry Turner
+     Linda Vining   m. Tim Sperry
+  
+  <a href="Hsources/HomerLIII01doc.htm">documentation and notes</a>

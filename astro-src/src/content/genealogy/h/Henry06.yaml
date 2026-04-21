@@ -1,0 +1,42 @@
+id: Henry06
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry
+  birth:
+    date: age 50 y. as of 1870 census
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Ann
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Francis Vining
+        birth:
+          date: age 12 y. as of 1870 census
+          place: Louisiana
+      - name: Jane Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Louisiana
+      - name: Hester Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Louisiana
+docsUrl: Hsources/Henry06doc.htm
+raw: |-
+  <a name="Henry06"></a><font size=+2>Henry Vining</font>
+     (son of [?])
+     b. age 50 y. as of 1870 census   Louisiana
+     m. Ann [...]
+              b. age 30 y. as of 1870 census   Louisiana
+  
+  <font size=+1>children:</font>
+     Francis Vining   b. age 12 y. as of 1870 census   Louisiana
+     Jane Vining   b. age 8 y. as of 1870 census   Louisiana
+     Hester Vining   b. age 3 y. as of 1870 census   Louisiana
+  
+  <a href="Hsources/Henry06doc.htm">documentation and notes</a>

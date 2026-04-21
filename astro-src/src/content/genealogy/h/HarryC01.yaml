@@ -1,0 +1,65 @@
+id: HarryC01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: FrankW01
+parentLetter: F
+parentDesc: "Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith"
+head:
+  givenName: Harry C.
+  birth:
+    date: 30 September 1886
+    place: Illinois
+  death:
+    date: January 1963
+    place: "(last residence: Illinois)"
+marriages:
+  - date: 3 y. as of 1910 census
+    spouse:
+      givenName: Ada
+      surname: Eversoll
+      birth:
+        date: age 21 y. as of 1910 census
+        place: Illinois
+childrenGroups:
+  - children:
+      - name: Etta Vining
+        birth:
+          date: age 10 m. as of 1910 census
+          place: Illinois
+      - name: "Frances [E.?] Vining"
+        birth:
+          date: age 10 y. as of 1920 census
+          place: Illinois
+        marriages:
+          - number: 1
+            date: Martin J. Walsh
+          - number: 2
+            date: Frank Bandaisz
+      - name: Frank Harry Vining
+        entryId: FrankH01
+        entryLetter: F
+        birth:
+          date: age 33 y. as of 16 November 1946
+          place: "Chicago, Illinois"
+        marriages:
+          - date: Irene Mary Neumann
+        death:
+          date: 1960s
+          place: "Chicago, Illinois"
+docsUrl: Hsources/HarryC01doc.htm
+raw: |-
+  <a name="HarryC01"></a><font size=+2>Harry C. Vining</font>
+     (son of <a href="Ffamilies.htm#FrankW01">Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith</a>)
+     b. 30 September 1886   Illinois
+     m. 3 y. as of 1910 census
+           Ada Eversoll
+                 b. age 21 y. as of 1910 census   Illinois
+     d. January 1963   (last residence: Illinois)
+  
+  <font size=+1>children:</font>
+     Etta Vining   b. age 10 m. as of 1910 census   Illinois
+     Frances [E.?] Vining   b. age 10 y. as of 1920 census   Illinois   -   m. (1) Martin J. Walsh;   (2) Frank Bandaisz
+     <a href="Ffamilies.htm#FrankH01">Frank Harry Vining</a>   b. age 33 y. as of 16 November 1946   Chicago, Illinois   -   m. Irene Mary Neumann   -   d. 1960s   Chicago, Illinois
+  
+  <a href="Hsources/HarryC01doc.htm">documentation and notes</a>

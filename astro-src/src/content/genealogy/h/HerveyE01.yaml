@@ -1,0 +1,88 @@
+id: HerveyE01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: ElbridgeW01
+parentLetter: E
+parentDesc: Elbridge W. Vining and Elvira W. Keen
+head:
+  givenName: Hervey E.
+  birth:
+    date: 22 November 1879
+    place: "Strong, Maine"
+  death:
+    date: "1957"
+marriages:
+  - date: 28 October 1905
+    place: "Phillips, Maine"
+    spouse:
+      givenName: Ethel Bertha
+      surname: Marson
+      birth:
+        date: "1891"
+        place: "Gardiner, Maine"
+      death:
+        date: "1969"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Bertha Marion Vining
+        birth:
+          date: 24 March 1907
+          place: Maine
+        marriages:
+          - date: "[...] Richardson"
+        death:
+          date: 8 October 2007
+          place: "Farmington, Maine"
+      - name: James LaForest Vining
+        entryId: JamesL02
+        entryLetter: J
+        birth:
+          date: 10 October 1908
+          place: "Avon, Maine"
+        marriages:
+          - date: 3 May 1947
+            place: "Farmington, Maine"
+            spouse: Harriet Fern Gray
+        death:
+          date: 21 October 1965
+          place: "Farmington, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Elbridge Winfield Vining
+        entryId: ElbridgeW02
+        entryLetter: E
+        birth:
+          date: 4 May 1910
+          place: "Avon, Maine"
+        marriages:
+          - date: 30 December 1930
+            place: "Madison, Maine"
+            spouse: Mary Elizabeth Devault
+        death:
+          date: 20 June 1975
+          place: "Skowhegan, Maine"
+        burial:
+          place: "Saint Sebastian Cemetery   Madison, Maine"
+docsUrl: Hsources/HerveyE01doc.htm
+raw: |-
+  <a name="HerveyE01"></a><font size=+2>Hervey E. Vining</font>
+     (son of <a href="Efamilies.htm#ElbridgeW01">Elbridge W. Vining and Elvira W. Keen</a>)
+     b. 22 November 1879   Strong, Maine
+     m. 28 October 1905   Phillips, Maine
+           Ethel Bertha Marson
+                 (dau. of Elbridge Marson and Emma Goodwin)
+                 b. 1891   Gardiner, Maine
+                 d. 1969
+                       bur. Village Cemetery   Strong, Maine
+     d. 1957
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     Bertha Marion Vining   b. 24 March 1907   Maine   -   m. [...] Richardson   -   d. 8 October 2007   Farmington, Maine
+     <a href="Jfamilies.htm#JamesL02">James LaForest Vining</a>   b. 10 October 1908   Avon, Maine   -   m.    3 May 1947   Farmington, Maine   Harriet Fern Gray   -   d. 21 October 1965   Farmington, Maine   -   bur. Village Cemetery   Strong, Maine
+     <a href="Efamilies.htm#ElbridgeW02">Elbridge Winfield Vining</a>   b. 4 May 1910   Avon, Maine   -   m. 30 December 1930   Madison, Maine   Mary Elizabeth Devault   -   d. 20 June 1975   Skowhegan, Maine   -   bur. Saint Sebastian Cemetery   Madison, Maine
+  
+  <a href="Hsources/HerveyE01doc.htm">documentation and notes</a>

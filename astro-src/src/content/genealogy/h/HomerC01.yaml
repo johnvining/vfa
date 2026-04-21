@@ -1,0 +1,133 @@
+id: HomerC01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: SamuelC01
+parentLetter: S
+parentDesc: Samuel C. Vining and Lydia Bartlett
+head:
+  givenName: Homer C.
+  birth:
+    date: 20 October 1826
+    place: "Southwick, Massachusetts"
+  death:
+    date: 27 April 1896
+    place: "Southwick, Massachusetts"
+marriages:
+  - date: 10 March 1852
+    spouse:
+      givenName: Sarah
+      surname: Fowler
+      birth:
+        date: 22 July 1831
+        place: "Kent, Connecticut"
+      death:
+        date: 22 June 1900
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Allison A. Vining
+        birth:
+          date: 14 December 1852
+          place: Massachusetts
+        marriages:
+          - date: "1882"
+            place: Massachusetts
+            spouse: Addie F. Clouse
+        death:
+          date: 17 March 1928
+      - name: Mary Esther Vining
+        birth:
+          date: 22 April 1855
+          place: Massachusetts
+        marriages:
+          - number: 1
+            date: Elmore E. Fancher
+          - number: 2
+            date: Noble E. Lord Sr.
+        death:
+          date: 14 April 1937
+      - name: Lydia Maria Vining
+        birth:
+          date: 5 June 1857
+          place: Massachusetts
+        marriages:
+          - date: Charles Donahue
+        death:
+          date: 4 November 1934
+      - name: Hiram H. Vining
+        birth:
+          date: 22 August 1859
+          place: Massachusetts
+        death:
+          date: 3 October 1865
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: Samuel E. Vining
+        entryId: SamuelE01
+        entryLetter: S
+        birth:
+          date: 26 August 1861
+          place: "Southwick, Massachusetts"
+        marriages:
+          - number: 1
+            date: Annis S. Viets
+          - number: 2
+            date: "[1885 or 1886?]"
+            spouse: Harriet A. Booth
+          - number: 3
+            date: "[...] Sullivan"
+          - number: 4
+            date: Mary Turner
+        death:
+          date: 29 May 1909
+          place: "Springfield, Massachusetts"
+      - name: Harry D. Vining
+        entryId: HarryD01
+        entryLetter: H
+        birth:
+          date: "[22 or 26?] June 1865"
+          place: Massachusetts
+        marriages:
+          - number: 1
+            date: Bertha Crane
+          - number: 2
+            date: Linwood C. Merrill
+        death:
+          date: 9 October 1929
+          place: "West Springfield, Massachusetts"
+        burial:
+          place: "Meeting House Hill Cemetery   West Springfield, Massachusetts"
+      - name: Bessie E. Vining
+        birth:
+          date: 6 October 1871
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: Herbert J. Lord
+        death:
+          date: 9 April 1939
+docsUrl: Hsources/HomerC01doc.htm
+raw: |-
+  <a name="HomerC01"></a><font size=+2>Homer C. Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelC01">Samuel C. Vining and Lydia Bartlett</a>)
+     b. 20 October 1826   Southwick, Massachusetts
+     m. 10 March 1852
+           Sarah Fowler
+                 (dau. of Augustine Fowler and [Maria Reed or Sarah Bartlett?])
+                 b. 22 July 1831   Kent, Connecticut
+                 d. 22 June 1900
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 27 April 1896   Southwick, Massachusetts
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>children:</font>
+     Allison A. Vining   b. 14 December 1852   Massachusetts   -   m. 1882   Massachusetts   Addie F. Clouse   -   d. 17 March 1928
+     Mary Esther Vining   b. 22 April 1855   Massachusetts   -   m. (1) Elmore E. Fancher;   (2) Noble E. Lord Sr.   -   d. 14 April 1937
+     Lydia Maria Vining   b. 5 June 1857   Massachusetts   -   m. Charles Donahue   -   d. 4 November 1934
+     Hiram H. Vining   b. 22 August 1859   Massachusetts   -   d. 3 October 1865   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     <a href="Sfamilies.htm#SamuelE01">Samuel E. Vining</a>   b. 26 August 1861   Southwick, Massachusetts   -   m. (1) Annis S. Viets;   (2) [1885 or 1886?]   Harriet A. Booth;   (3) [...] Sullivan;   (4) Mary Turner   -   d. 29 May 1909   Springfield, Massachusetts
+     <a href="Hfamilies.htm#HarryD01">Harry D. Vining</a>   b. [22 or 26?] June 1865   Massachusetts   -   m. (1) Bertha Crane;   (2) Linwood C. Merrill   -   d. 9 October 1929   West Springfield, Massachusetts   -   bur. Meeting House Hill Cemetery   West Springfield, Massachusetts
+     Bessie E. Vining   b. 6 October 1871   Southwick, Massachusetts   -   m. Herbert J. Lord   -   d. 9 April 1939
+  
+  <a href="Hsources/HomerC01doc.htm">documentation and notes</a>

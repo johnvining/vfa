@@ -1,0 +1,54 @@
+id: Harrison01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HoraceO01
+parentDesc: Horace Oscar Vining and Martha Harrison Chapman
+head:
+  givenName: Harrison
+  birth:
+    date: 22 March 1883
+    place: "Florence, Minnesota"
+  death:
+    date: "1910"
+    place: "St. Paul, Minnesota"
+marriages:
+  - date: 4 y. as of 1910 census
+    spouse:
+      givenName: Marie
+      surname: Horejs
+      birth:
+        date: "age [29?] y. as of 1910 census"
+        place: Minnesota
+childrenGroups:
+  - children:
+      - name: Grace Ihrig Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Minnesota
+      - name: Francis Joseph Vining
+        entryId: FrancisJ02
+        entryLetter: F
+        birth:
+          date: 8 July 1908
+          place: "St. Paul, Minnesota"
+        marriages:
+          - date: Alice Martha Maurer
+        death:
+          date: 23 March 1966
+          place: "Ramsey County, Minnesota"
+docsUrl: Hsources/Harrison01doc.htm
+raw: |-
+  <a name="Harrison01"></a><font size=+2>Harrison Vining</font>
+     (son of <a href="#HoraceO01">Horace Oscar Vining and Martha Harrison Chapman</a>)
+     b. 22 March 1883   Florence, Minnesota
+     m. 4 y. as of 1910 census
+           Marie Horejs
+                 b. age [29?] y. as of 1910 census   Minnesota
+     d. 1910   St. Paul, Minnesota
+  
+  <font size=+1>children:</font>
+     Grace Ihrig Vining   b. age 3 y. as of 1910 census   Minnesota
+     <a href="Ffamilies.htm#FrancisJ02">Francis Joseph Vining</a>   b. 8 July 1908   St. Paul, Minnesota   -   m. Alice Martha Maurer   -   d. 23 March 1966   Ramsey County, Minnesota
+  
+  <a href="Hsources/Harrison01doc.htm">documentation and notes</a>

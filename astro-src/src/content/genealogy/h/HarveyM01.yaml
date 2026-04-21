@@ -1,0 +1,43 @@
+id: HarveyM01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: William01
+parentLetter: W
+parentDesc: William Vining and Huldah Pinney
+head:
+  givenName: Harvey Milton
+  birth:
+    date: 2 March 1821
+    place: "Worthington, Ohio"
+  death:
+    date: 4 November 1892
+    place: "Mansfield, Illinois"
+marriages:
+  - date: 15 February 1849
+    place: "Worthington, Ohio"
+    spouse:
+      givenName: Mary Jane
+      surname: Buckman
+      birth:
+        date: 10 January 1828
+        place: Pennsylvania
+      death:
+        date: 28 April 1891
+docsUrl: Hsources/HarveyM01doc.htm
+raw: |-
+  <a name="HarveyM01"></a><font size=+2>Harvey Milton Vining</font>
+     (son of <a href="Wfamilies.htm#William01">William Vining and Huldah Pinney</a>)
+     b. 2 March 1821   Worthington, Ohio
+     m. 15 February 1849   Worthington, Ohio
+           Mary Jane Buckman
+                 (dau. of James Buckman and Elizabeth McMicken)
+                 b. 10 January 1828   Pennsylvania
+                 d. 28 April 1891
+     d. 4 November 1892   Mansfield, Illinois
+           bur. Mackey Cemetery   Mansfield, Illinois
+  
+  <font size=+1>child:</font>
+     Hulda E. Vining   b. 8 January 1851   Mansfield, Illinois   -   d. 9 May 1853   Mansfield, Illinois
+  
+  <a href="Hsources/HarveyM01doc.htm">documentation and notes</a>

@@ -1,0 +1,52 @@
+id: HomerF01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HomerS01
+parentDesc: Homer Seldon Vining and Winnie Eliza Barlow
+head:
+  givenName: Homer Frank
+  birth:
+    date: 15 February 1920
+  death:
+    date: 8 September 1990
+marriages:
+  - spouse:
+      givenName: Helen Margaret
+      surname: Head
+childrenGroups:
+  - children:
+      - name: Kenneth Wayne Vining
+        entryId: KennethW01
+        entryLetter: K
+        birth:
+          date: 26 November 1945
+          place: "Kansas City, Missouri"
+        marriages:
+          - date: 30 May 1970
+            spouse: Shirley LoDean Young
+        death:
+          date: 28 November 2013
+          place: "Shawnee, Kansas"
+        burial:
+          place: "Maple Hill Cemetery-Mausoleum   Kansas City, Kansas"
+      - name: Sandra Jean Vining
+        marriages:
+          - date: "[&#8230;] Berry"
+docsUrl: Hsources/HomerF01doc.htm
+raw: |-
+  <a name="HomerF01"></a><font size=+2>Homer Frank Vining</font>
+     (son of <a href="#HomerS01">Homer Seldon Vining and Winnie Eliza Barlow</a>)
+     b. 15 February 1920
+     m. Helen Margaret Head
+              b. 1924
+              d. 2002
+                    bur. Chapel Hill Memorial Gardens   Kansas City, Kansas
+     d. 8 September 1990
+           bur. Chapel Hill Memorial Gardens   Kansas City, Kansas
+  
+  <font size=+1>children:</font>
+     <a href="Kfamilies.htm#KennethW01">Kenneth Wayne Vining</a>   b. 26 November 1945   Kansas City, Missouri   -   m. 30 May 1970   Shirley LoDean Young   -   d. 28 November 2013   Shawnee, Kansas   -   bur. Maple Hill Cemetery-Mausoleum   Kansas City, Kansas
+     Sandra Jean Vining   m. [&#8230;] Berry
+  
+  <a href="Hsources/HomerF01doc.htm">documentation and notes</a>

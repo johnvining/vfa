@@ -1,0 +1,37 @@
+id: HerbertC01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HerbertW01
+parentDesc: Herbert William Vining and Gladys Beadle
+head:
+  givenName: Herbert Connelly
+  birth:
+    date: 26 February 1940
+  death:
+    date: 24 February 2015
+    place: "Patterson, Louisiana"
+marriages:
+  - spouse:
+      givenName: Judith
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Connelly Brian Vining
+      - name: Valerie Leigh Vining
+        marriages:
+          - date: John R. Bering
+docsUrl: Hsources/HerbertC01doc.htm
+raw: |-
+  <a name="HerbertC01"></a><font size=+2>Herbert Connelly Vining</font>
+     (son of <a href="#HerbertW01">Herbert William Vining and Gladys Beadle</a>)
+     b. 26 February 1940
+     m. Judith [...]
+     d. 24 February 2015   Patterson, Louisiana
+           bur. Berwick Memorial Cemetery   Berwick, Louisiana
+  
+  <font size=+1>children:</font>
+     Connelly Brian Vining
+     Valerie Leigh Vining   m. John R. Bering
+  
+  <a href="Hsources/HerbertC01doc.htm">documentation and notes</a>

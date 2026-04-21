@@ -1,0 +1,71 @@
+id: HiramH01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Samuel04
+parentLetter: S
+parentDesc: Samuel Vining and Rhoda Pettibone
+head:
+  givenName: Hiram Harrison
+  birth:
+    date: 19 March 1815
+    place: Massachusetts
+  death:
+    date: 14 October 1858
+    place: "Southwick, Massachusetts"
+marriages:
+  - date: 8 February 1842
+    spouse:
+      givenName: Mary Cecilia
+      surname: Forward
+      birth:
+        date: 31 October 1819
+        place: Massachusetts
+      death:
+        date: 16 May 1912
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - children:
+      - name: daughter Vining
+        birth:
+          date: 17 February 1845
+        death:
+          date: 17 February 1845
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: son Vining
+        birth:
+          date: 28 June 1846
+        death:
+          date: 28 June 1846
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: Fanny Eloise Vining
+        birth:
+          date: 1 January 1849
+          place: Massachusetts
+        death:
+          date: 1 September 1939
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+docsUrl: Hsources/HiramH01doc.htm
+raw: |-
+  <a name="HiramH01"></a><font size=+2>Hiram Harrison Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel04">Samuel Vining and Rhoda Pettibone</a>)
+     b. 19 March 1815   Massachusetts
+     m. 8 February 1842
+           Mary Cecilia Forward
+                 (dau. of Pliny Forward and Fanny Root)
+                 b. 31 October 1819   Massachusetts
+                 d. 16 May 1912
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 14 October 1858   Southwick, Massachusetts
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>children:</font>
+     daughter Vining   b. 17 February 1845   -   d. 17 February 1845   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     son Vining   b. 28 June 1846   -   d. 28 June 1846   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     Fanny Eloise Vining   b. 1 January 1849   Massachusetts   -   d. 1 September 1939   -   bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <a href="Hsources/HiramH01doc.htm">documentation and notes</a>

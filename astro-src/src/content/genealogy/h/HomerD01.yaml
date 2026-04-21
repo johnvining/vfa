@@ -1,0 +1,58 @@
+id: HomerD01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Minor01
+parentLetter: M
+parentDesc: Minor Vining and Eunice J. Priestly
+head:
+  givenName: Homer Dewey
+  birth:
+    date: 23 December 1899
+    place: Michigan
+  death:
+    date: 2 January 1971
+    place: "Alma, Gratiot County, Michigan"
+marriages:
+  - spouse:
+      givenName: Cecile Louise
+      surname: Shank
+childrenGroups:
+  - children:
+      - name: Donna Jean Vining
+        marriages:
+          - date: "[...] Powell"
+      - name: Minor D. Vining
+      - name: Woodburn H. Vining
+        entryId: WoodburnH01
+        entryLetter: W
+        birth:
+          date: 6 November 1935
+          place: "Middleton, Gratiot County, Michigan"
+        marriages:
+          - number: 1
+            date: Donna Jean Gesleman (d. 4 March 1994)
+          - number: 2
+            date: 20 December 1997
+            spouse: Sheila Kay Carson
+        death:
+          date: 23 March 1999
+          place: "Greenville, Montcalm County, Michigan"
+docsUrl: Hsources/HomerD01doc.htm
+raw: |-
+  <a name="HomerD01"></a><font size=+2>Homer Dewey Vining</font>
+     (son of <a href="Mfamilies.htm#Minor01">Minor Vining and Eunice J. Priestly</a>)
+     b. 23 December 1899   Michigan
+     m. Cecile Louise Shank
+              b. 1908
+              d. 2002
+                    bur. Payne Cemetery   Maple Rapids, Michigan
+     d. 2 January 1971   Alma, Gratiot County, Michigan
+           bur. Payne Cemetery   Maple Rapids, Michigan
+  
+  <font size=+1>children:</font>
+     Donna Jean Vining   m. [...] Powell
+     Minor D. Vining
+     <a href="Wfamilies.htm#WoodburnH01">Woodburn H. Vining</a>   b. 6 November 1935   Middleton, Gratiot County, Michigan   -   m. (1) Donna Jean Gesleman (d. 4 March 1994);   (2) 20 December 1997   Sheila Kay Carson   -   d. 23 March 1999   Greenville, Montcalm County, Michigan
+  
+  <a href="Hsources/HomerD01doc.htm">documentation and notes</a>

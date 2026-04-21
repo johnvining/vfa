@@ -1,0 +1,55 @@
+id: HerbertM01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HerbertL01
+parentDesc: Herbert L. Vining and Mary Anderson
+head:
+  givenName: Herbert Mathew
+  birth:
+    date: 20 December 1896
+    place: "Cheyenne, Wyoming"
+  death:
+    date: 16 January 1973
+    place: "San Bernardino, California"
+marriages:
+  - number: 1
+    date: Alice Louise Johnson
+  - number: 2
+    date: "1920"
+    spouse:
+      givenName: Esther
+      surname: "[...]"
+childrenGroups:
+  - spouseRef: Alice Louise Johnson
+    children:
+      - name: Richard Vining
+        entryId: Richard05
+        entryLetter: R
+        birth:
+          date: ca. 1936
+        marriages:
+          - date: Sally Burke
+      - name: Cherie Louise Vining
+        birth:
+          date: "1940"
+        marriages:
+          - date: Abe William Johnson III
+docsUrl: Hsources/HerbertM01doc.htm
+raw: |-
+  <a name="HerbertM01"></a><font size=+2>Herbert Mathew Vining</font>
+     (son of <a href="#HerbertL01">Herbert L. Vining and Mary Anderson</a>)
+     b. 20 December 1896   Cheyenne, Wyoming
+     m. (1) Alice Louise Johnson
+                    b. 4 July 1910
+                    d. 2002   Seattle, Washington
+           (2) 1920
+                 Esther [...]
+     d. 16 January 1973   San Bernardino, California
+           bur. Parker Community Cemetery   Parker, Arizona
+  
+  <font size=+1>children by Alice Louise Johnson:</font>
+     <a href="Rfamilies.htm#Richard05">Richard Vining</a>   b. ca. 1936   -   m. Sally Burke
+     Cherie Louise Vining   b. 1940   -   m. Abe William Johnson III
+  
+  <a href="Hsources/HerbertM01doc.htm">documentation and notes</a>

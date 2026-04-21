@@ -1,0 +1,47 @@
+id: HenryBJr01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HenryB01
+parentDesc: Henry Bentley Vining and Susan E. Stallsworth
+head:
+  givenName: Henry Bentley Jr.
+  birth:
+    date: 20 March 1918
+    place: "Porterdale, Georgia"
+  death:
+    date: 26 September 2003
+    place: "Columbus, Georgia"
+marriages:
+  - number: 1
+    date: "Evelyn [...]"
+  - number: 2
+    date: Sue Owen
+childrenGroups:
+  - spouseRef: "[?]"
+    children:
+      - name: Don Vining
+      - name: Richard Vining
+        marriages:
+          - date: "Deborah [...]"
+      - name: Victor Vining
+      - name: Vicki Vining
+        marriages:
+          - date: "[...] Stewart"
+docsUrl: Hsources/HenryBJr01doc.htm
+raw: |-
+  <a name="HenryBJr01"></a><font size=+2>Henry Bentley Vining Jr.</font>
+     (son of <a href="#HenryB01">Henry Bentley Vining and Susan E. Stallsworth</a>)
+     b. 20 March 1918   Porterdale, Georgia
+     m. (1) Evelyn [...]
+           (2) Sue Owen
+     d. 26 September 2003   Columbus, Georgia
+           bur. Parkhill Cemetery
+  
+  <font size=+1>children by [?]:</font>
+     Don Vining
+     Richard Vining   m. Deborah [...]
+     Victor Vining
+     Vicki Vining   m. [...] Stewart
+  
+  <a href="Hsources/HenryBJr01doc.htm">documentation and notes</a>

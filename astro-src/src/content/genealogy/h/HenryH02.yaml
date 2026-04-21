@@ -1,0 +1,144 @@
+id: HenryH02
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Horatio01
+parentDesc: Horatio Vining and Mary Bennett
+head:
+  givenName: Henry Horatio
+  birth:
+    date: 23 June 1856
+    place: "Berwick, Louisiana"
+  death:
+    date: 19 December 1937
+    place: "New Iberia, Louisiana"
+marriages:
+  - number: 1
+    date: Marguerite Mirsa Vallet
+  - number: 2
+    date: 21 y. as of 1910 census
+    spouse:
+      givenName: Emma
+      surname: Garecht
+      birth:
+        date: 8 March 1867
+        place: "New Orleans, Louisiana"
+      death:
+        date: 16 July 1938
+        place: "Berwick, Louisiana"
+childrenGroups:
+  - spouseRef: Marguerite Mirsa Vallet
+    children:
+      - name: Oscar Adam Vining
+        entryId: OscarA01
+        entryLetter: O
+        birth:
+          date: 23 October 1880
+          place: "Morgan City, Louisiana"
+        marriages:
+          - number: 1
+            date: 7 y. as of 1910 census
+            spouse: Corine Marie Parrah
+          - number: 2
+            date: 1 y. as of 1930 census
+            spouse: Lorena Marie Ackman
+        death:
+          date: 16 February 1948
+          place: "Morgan City, Louisiana"
+        burial:
+          place: "Morgan City Cemetery and Mausoleum   Morgan City, Louisiana"
+      - name: Henry Louis Vining
+        birth:
+          date: 11 April 1886
+          place: "Morgan City, Louisiana   -  m. Ozama [&#8230;]"
+      - name: Amelia Josephine Vining
+        birth:
+          date: 10 January 1888
+          place: "Morgan City, Louisiana"
+        marriages:
+          - date: Joseph Theoobold Angeron
+        death:
+          date: 31 July 1969
+          place: "Morgan City, Louisiana"
+  - spouseRef: Emma Garecht
+    children:
+      - name: Michel Oretio Vining
+        entryId: MichelO01
+        entryLetter: M
+        birth:
+          date: 26 May 1890
+          place: "Morgan City, Louisiana"
+        marriages:
+          - date: "[1?] Clara Clark;"
+            spouse: "[2?] Pauline Ethel [&#8230;]"
+        death:
+          date: 11 September 1960
+          place: "Terrebonne Parish, Louisiana"
+      - name: Rosena Ophelia Vining
+      - name: Joseph Charles Vining
+        birth:
+          date: age 15 y. as of 1910 census
+          place: Louisiana
+      - name: Lucille Artina Vining
+        birth:
+          date: age 13 y. as of 1910 census
+          place: Louisiana
+      - name: Earl Eugene Vining
+        entryId: EarlE01
+        entryLetter: E
+        birth:
+          date: "1899"
+          place: Louisiana
+        marriages:
+          - date: Ada Lodrigue
+      - name: Caroline Viola Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Louisiana
+      - name: Alvin Vining
+        entryId: Alvin03
+        entryLetter: A
+        birth:
+          date: age 5 y. as of 1910 census
+          place: Louisiana
+        marriages:
+          - date: "Ethel [&#8230;]"
+      - name: Herbert William Vining
+        entryId: HerbertW01
+        birth:
+          date: age 2 y. as of 1910 census
+          place: Louisiana
+        marriages:
+          - date: Gladys Beadle
+docsUrl: Hsources/HenryH02doc.htm
+raw: |-
+  <a name="HenryH02"></a><font size=+2>Henry Horatio Vining</font>
+     (son of <a href="#Horatio01">Horatio Vining and Mary Bennett</a>)
+     b. 23 June 1856   Berwick, Louisiana
+     m. (1) Marguerite Mirsa Vallet
+                       (dau. of Jean Amable Gentile Vallet and Marie Celina Leblanc)
+                       b. 30 April 1860   Assumption Parish, Louisiana
+                       d. 16 October 1888   St. Mary Parish, Louisiana
+           (2) 21 y. as of 1910 census
+                 Emma Garecht
+                       (dau. of Michael Garecht and Rosina Reichkenauer)
+                       b. 8 March 1867   New Orleans, Louisiana
+                       d. 16 July 1938   Berwick, Louisiana
+     d. 19 December 1937   New Iberia, Louisiana
+           bur. Willow Grove Cemetery   Berwick, Louisiana
+  
+  <font size=+1>children by Marguerite Mirsa Vallet:</font>
+     <a href="Ofamilies.htm#OscarA01">Oscar Adam Vining</a>   b. 23 October 1880   Morgan City, Louisiana   -   m. (1) 7 y. as of 1910 census   Corine Marie Parrah;   (2) 1 y. as of 1930 census   Lorena Marie Ackman   -   d. 16 February 1948   Morgan City, Louisiana   -   bur. Morgan City Cemetery and Mausoleum   Morgan City, Louisiana
+     Henry Louis Vining   b. 11 April 1886   Morgan City, Louisiana   -  m. Ozama [&#8230;]   -   15 July 1938   Morgan City, Louisiana
+     Amelia Josephine Vining   b. 10 January 1888   Morgan City, Louisiana   -   m. Joseph Theoobold Angeron   -   d. 31 July 1969   Morgan City, Louisiana
+  <font size=+1>children by Emma Garecht:</font>
+     <a href="Mfamilies.htm#MichelO01">Michel Oretio Vining</a>   b. 26 May 1890   Morgan City, Louisiana   -   m. [1?] Clara Clark;   [2?] Pauline Ethel [&#8230;]   -   d. 11 September 1960   Terrebonne Parish, Louisiana
+     Rosena Ophelia Vining
+     Joseph Charles Vining   b. age 15 y. as of 1910 census   Louisiana
+     Lucille Artina Vining   b. age 13 y. as of 1910 census   Louisiana
+     <a href="Efamilies.htm#EarlE01">Earl Eugene Vining</a>   b. 1899   Louisiana   -   m. Ada Lodrigue
+     Caroline Viola Vining   b. age 7 y. as of 1910 census   Louisiana
+     <a href="Afamilies.htm#Alvin03">Alvin Vining</a>   b. age 5 y. as of 1910 census   Louisiana   -   m. Ethel [&#8230;]
+     <a href="#HerbertW01">Herbert William Vining</a>   b. age 2 y. as of 1910 census   Louisiana   -   m. Gladys Beadle
+  
+  <a href="Hsources/HenryH02doc.htm">documentation and notes</a>
