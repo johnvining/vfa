@@ -12,7 +12,8 @@ marriages:
       givenName: Mary Ann
       surname: "[...]"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Anthony Arsene Vining
         birth:
           date: 21 February 1958

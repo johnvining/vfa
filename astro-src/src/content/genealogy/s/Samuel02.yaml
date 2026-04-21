@@ -10,6 +10,19 @@ marriages:
   - spouse:
       givenName: Elizabeth
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Thomas Vining
+        entryId: Thomas12
+        entryLetter: T
+        birth:
+          date: age 30 y. as of 1860 census
+          place: England
+        marriages:
+          - date: 20 February 1854
+            place: "Wheeling, Ohio County, West Virginia"
+            spouse: Mary A. Moring
 raw: |-
   <a name="Samuel02"></a><font size=+2>Samuel Vining</font>
      (son of [?])

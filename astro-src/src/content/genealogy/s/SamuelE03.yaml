@@ -26,7 +26,8 @@ marriages:
         date: 21 October 2000
         place: "(last residence: St. Paul, Ramsey County, Minnesota)"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Michael Eugene Vining
         birth:
           date: 28 May 1947

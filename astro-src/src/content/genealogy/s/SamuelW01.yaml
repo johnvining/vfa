@@ -28,7 +28,8 @@ marriages:
       burial:
         place: "Rivercliff Cemetery   Mount Gilead, Ohio"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Mary Vining
         birth:
           date: June 1869

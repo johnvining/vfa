@@ -17,7 +17,8 @@ marriages:
       givenName: Janet
       surname: Jones
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Michelle Vining
         marriages:
           - date: Joey Lenares

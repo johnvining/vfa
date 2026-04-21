@@ -13,7 +13,8 @@ marriages:
       surname: Duffin
       parents: "(dau. of Babo Duffin and Becky [...])"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: John Paul Vining
         birth:
           date: 31 January 2007

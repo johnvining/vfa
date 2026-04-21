@@ -21,7 +21,8 @@ marriages:
       burial:
         place: "Great Lakes National Cemetery   Holly, Michigan"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Stewart Anthony Vining
         birth:
           date: 6 March 1959

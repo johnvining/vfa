@@ -21,7 +21,8 @@ marriages:
       burial:
         place: "Morgan City Cemetery   Morgan City, Louisiana"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Terry Michael Vining
         birth:
           date: 25 January 1959

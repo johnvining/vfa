@@ -19,7 +19,8 @@ marriages:
       givenName: Laurie
       surname: "[Holcomb?]"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Ashley Vining
 raw: |-
   <a name="StevenE03"></a><font size=+2>Steven Earl Vining</font>

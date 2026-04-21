@@ -20,7 +20,8 @@ marriages:
         date: September 1879
         place: "New Jersey"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Thomas R. C. Vining
         birth:
           date: April 1900

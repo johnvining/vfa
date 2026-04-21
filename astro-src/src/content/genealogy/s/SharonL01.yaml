@@ -10,7 +10,8 @@ head:
   birth:
     date: 6 November 1946
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Randall Lee Vining
         birth:
           date: 2 June 1965

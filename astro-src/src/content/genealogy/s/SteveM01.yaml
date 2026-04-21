@@ -14,7 +14,8 @@ head:
     date: 6 February 2020
     place: "Ashland, Ohio"
 childrenGroups:
-  - children:
+  - headingText: child
+    children:
       - name: Stasha Vining
         marriages:
           - date: Gary Thomas
