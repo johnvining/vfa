@@ -1,0 +1,83 @@
+---
+import BaseInner from '../layouts/BaseInner.astro';
+import { getCollection } from 'astro:content';
+
+interface Props {
+  letter: string;
+}
+const { letter } = Astro.props;
+
+const allEntries = await getCollection('genealogy');
+const entries = allEntries
+  .filter(e => e.data.letter === letter)
+  .sort((a, b) => a.data.id.localeCompare(b.data.id));
+
+const pageTitle = `Vining Genealogy - "${letter}" List`;
+const lastUpdated = entries[0]?.data.lastUpdated;
+
+const DIVIDER = '\n<hr class="people-divider" />\n';
+const preInner = entries.map(e => (e.data.raw ?? '') + '\n' + DIVIDER).join('\n')
+  + '\n'.repeat(40);
+---
+
+<BaseInner
+  title={pageTitle}
+  description="Vining families with on-line scanned documentation such as birth, marriage, and death certificates; census records; and images of gravestones; plus links from one family to another so lineages can be followed."
+  keywords="Vining, Vining family, genealogy"
+  activePage="Online Genealogy"
+>
+
+
+<br><br><br>
+
+<center>
+   <font size=+3>
+      <font color="006600">
+         Vining Genealogy - {letter}<br>
+      </font>
+   </font>
+      {lastUpdated && ('(updated ' + lastUpdated + ')')}
+</center>
+
+<br>
+
+<p>
+<font size=+2>Welcome to the &#8220;{letter}&#8221; list,</font> Vining families whose father&#8217;s (or single-parent mother&#8217;s) first name begins with the letter {letter}. Family units are arranged alphabetically by the first name of the father (or single-parent mother). Links are provided to enable you to move up and down each lineage. To follow a line back in time (ancestors), click on the underlined portion of &#8220;(son of &#8230;)&#8221; or &#8220;(dau. of &#8230;)&#8221; beneath the name of the person you want to trace back. To follow a line forward in time (descendants), click on the name of the person whose offspring you want to see. A plus sign (+) following a name means that that person had one or more children, but that family group has not been added to this web page. To view documentation, including census data, click on the link &#8220;documentation and notes&#8221; at the bottom of a family.
+<p>
+
+<p>
+<font size=+2>You are invited</font> to join the Vining Family Association. For information about the association (purpose, membership, etc.), please visit our <a href="http://www.vining-family.org">home page</a>.
+<p>
+
+<p>
+<font size=+2>We appreciate</font> very much the corrections and additions that many people are contributing to this genealogy. The real value in this project is the documentation, but that, unfortunately, is rarely contributed. <i>Please</i>, if you have images of gravestones, census records, or, for deceased persons, birth, marriage, and death certificates, submit them, and we will post them for the benefit of all. All information, especially source material, for inclusion in this web page should be sent to <a href="mailto:info@vining-family.org">info@vining-family.org</a> or mailed to &#8220;Vining Family Association&#8221; at the address at the top of this page. And, of course, please report all errors.
+<p>
+
+<p>
+<b>A little work by each of us will save a lot of work for all of us.</b>
+<p>
+
+<br>
+
+<hr class="nav-divider" />
+
+<center>
+
+If you wish to change to a different list, please select from the following:<br>
+
+<br>
+
+<font size=+2>
+   <a href="Afamilies.htm">A</a>&nbsp;&nbsp;&nbsp; <a href="Bfamilies.htm">B</a>&nbsp;&nbsp;&nbsp; <a href="Cfamilies.htm">C</a>&nbsp;&nbsp;&nbsp; <a href="Dfamilies.htm">D</a>&nbsp;&nbsp;&nbsp; <a href="Efamilies.htm">E</a>&nbsp;&nbsp;&nbsp; <a href="Ffamilies.htm">F</a>&nbsp;&nbsp;&nbsp; <a href="Gfamilies.htm">G</a>&nbsp;&nbsp;&nbsp; <a href="Hfamilies.htm">H</a>&nbsp;&nbsp;&nbsp; <a href="Ifamilies.htm">I</a>&nbsp;&nbsp;&nbsp; <a href="Jfamilies.htm">J</a>&nbsp;&nbsp;&nbsp; <a href="Kfamilies.htm">K</a>&nbsp;&nbsp;&nbsp; <a href="Lfamilies.htm">L</a>&nbsp;&nbsp;&nbsp; <a href="Mfamilies.htm">M</a>&nbsp;&nbsp;&nbsp; <a href="Nfamilies.htm">N</a>&nbsp;&nbsp;&nbsp; <a href="Ofamilies.htm">O</a>&nbsp;&nbsp;&nbsp; <a href="Pfamilies.htm">P</a>&nbsp;&nbsp;&nbsp; <a href="Qfamilies.htm">Q</a>&nbsp;&nbsp;&nbsp; <a href="Rfamilies.htm">R</a>&nbsp;&nbsp;&nbsp; <a href="Sfamilies.htm">S</a>&nbsp;&nbsp;&nbsp; <a href="Tfamilies.htm">T</a>&nbsp;&nbsp;&nbsp; <a href="Ufamilies.htm">U</a>&nbsp;&nbsp;&nbsp; <a href="Vfamilies.htm">V</a>&nbsp;&nbsp;&nbsp; <a href="Wfamilies.htm">W</a>&nbsp;&nbsp;&nbsp; <font color="C0C0C0">X&nbsp;&nbsp;&nbsp;Y&nbsp;&nbsp;&nbsp;Z</font><br>
+</font>
+
+</center>
+
+<hr class="nav-divider" />
+
+<pre>
+   <font FACE="TIMES NEW ROMAN">
+
+<Fragment set:html={preInner} />
+</pre>
+</BaseInner>

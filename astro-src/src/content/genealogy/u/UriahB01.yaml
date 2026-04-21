@@ -1,0 +1,69 @@
+id: UriahB01
+letter: U
+lastUpdated: 10 January 2018
+relationship: son
+parentId: Jeptha01
+parentLetter: J
+parentDesc: Jeptha Vining and Amy Miller
+head:
+  givenName: Uriah Blanchard
+  birth:
+    date: ca. 1763
+    place: Tennessee
+  death:
+    date: "21 January 1821"
+    place: "Woodville, Wilkinson County, Mississippi"
+marriages:
+  - spouse:
+      givenName: Eunice
+      surname: Nugent
+childrenGroups:
+  - children:
+      - name: Uriah Blanchard Vining Jr.
+        entryId: UriahBJr01
+        birth:
+          date: "1797"
+        marriages:
+          - date: 14 January 1819
+            place: Mississippi
+            spouse: Kitty Bailey
+      - name: Joanna Vining
+      - name: Joshua Vining
+      - name: Martha R. Vining
+      - name: Thomas Wade Hampton Vining
+        entryId: ThomasWH01
+        entryLetter: T
+        birth:
+          date: age 55 y. as of 1870 census
+          place: Mississippi
+        marriages:
+          - date: Margaret Gaines Womack Smith
+      - name: child Vining
+      - name: Edmond G. Vining
+        entryId: EdmondG01
+        entryLetter: E
+        marriages:
+          - date: 8 May 1822
+            place: Mississippi
+            spouse: Mickey Cole
+      - name: child Vining
+      - name: child Vining
+      - name: child Vining
+raw: |-
+  <a name="UriahB01"></a><font size=+2>Uriah Blanchard Vining</font>
+     (son of <a href="Jfamilies.htm#Jeptha01">Jeptha Vining and Amy Miller</a>)
+     b. ca. 1763   Tennessee
+     m. Eunice Nugent
+     d. 21 January 1821   Woodville, Wilkinson County, Mississippi
+  
+  <font size=+1>children:</font>
+     <a href="#UriahBJr01">Uriah Blanchard Vining Jr.</a>   b. 1797   -   m. 14 January 1819   Mississippi   Kitty Bailey
+     Joanna Vining
+     Joshua Vining
+     Martha R. Vining
+     <a href="Tfamilies.htm#ThomasWH01">Thomas Wade Hampton Vining</a>   b. age 55 y. as of 1870 census   Mississippi   -   m. Margaret Gaines Womack Smith
+     child Vining
+     <a href="Efamilies.htm#EdmondG01">Edmond G. Vining</a>   m. 8 May 1822   Mississippi   Mickey Cole
+     child Vining
+     child Vining
+     child Vining

@@ -526,7 +526,8 @@ function serializeEntry(entry) {
       if (m.place) addField('place', m.place);
       if (m.note) addField('note', m.note);
       if (m.spouse) {
-        yaml += `    spouse:\n`;
+        if (first) { yaml += ` spouse:\n`; first = false; }
+        else yaml += `    spouse:\n`;
         const s = m.spouse;
         const addSpouseField = (k, v) => {
           const needsQuotes = typeof v === 'string' && (/[:#\[\]{},&*?|<>=!%@`]/.test(v) || v.startsWith(' '));
