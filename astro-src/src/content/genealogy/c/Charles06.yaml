@@ -1,0 +1,56 @@
+id: Charles06
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Richard08
+parentLetter: R
+parentDesc: Richard Vining and Maria Smith
+head:
+  givenName: Charles
+  birth:
+    date: 27 August 1780
+    place: "Yeovil, Somerset, England"
+  death:
+    date: 6 November 1855
+    place: "Yeovil, Somerset, England"
+marriages:
+  - spouse:
+      givenName: Sophia
+      surname: Hobbs
+childrenGroups:
+  - children:
+      - name: James Tally Vining
+        entryId: JamesT03
+        entryLetter: J
+        marriages:
+          - number: 1
+            date: 8 May 1833
+            spouse: "Yeovil, Somerset, England   Mary Webb Wellington"
+          - number: 2
+            date: 30 August 1843
+            spouse: "Yeovil, Somerset, England   Emma Mayo"
+        death:
+          date: 16 October 1871
+          place: "Kent, England"
+      - name: Charles Vining
+      - name: Joseph Vining
+      - name: Richard Vining
+      - name: Sophia Vining
+      - name: Sophia Vining
+raw: |-
+  <a name="Charles06"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Rfamilies.htm#Richard08">Richard Vining and Maria Smith</a>)
+     b. 27 August 1780   Yeovil, Somerset, England
+     m. Sophia Hobbs
+              (dau. of Matthew Hobbs and Betty Williams)
+              b. 28 September 1783   Portsea, Hampshire, England
+              d. 21 December 1847   Yeovil, Somerset, England
+     d. 6 November 1855   Yeovil, Somerset, England
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JamesT03">James Tally Vining</a>   baptized 4 April 1809   Yeovil St. John, Somerset, England   -   m. (1) 8 May 1833   Yeovil, Somerset, England   Mary Webb Wellington;   (2) 30 August 1843   Yeovil, Somerset, England   Emma Mayo   -   d. 16 October 1871   Kent, England
+     Charles Vining
+     Joseph Vining
+     Richard Vining
+     Sophia Vining
+     Sophia Vining

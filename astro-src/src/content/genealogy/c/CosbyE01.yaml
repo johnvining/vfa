@@ -1,0 +1,104 @@
+id: CosbyE01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JamesB03
+parentLetter: J
+parentDesc: James Benjamin Vining and Clara Rosella Hand
+head:
+  givenName: Cosby Evans
+  birth:
+    date: 3 January 1896
+    place: Georgia
+  death:
+    date: 20 August 1968
+    place: "Roberta, Georgia"
+marriages:
+  - date: 27 March 1926
+    place: "Butler, Georgia"
+    spouse:
+      givenName: Flora Malvina
+      surname: Masters
+      birth:
+        date: 27 July 1902
+        place: "Hillham, Tennessee"
+      death:
+        date: 28 February 1998
+        place: "Muncie, Indiana"
+childrenGroups:
+  - children:
+      - name: Mary Frances Vining
+        birth:
+          date: 12 January 1927
+        marriages:
+          - number: 1
+            date: "[...] Hubbard"
+          - number: 2
+            date: "[...] Finney"
+          - number: 3
+            date: "[...] Bertram"
+        death:
+          date: 13 October 2003
+          place: "Detroit, Michigan"
+      - name: Jack Evans Vining
+        birth:
+          date: 29 September 1928
+          place: "Marshallville, Georgia"
+        death:
+          date: 17 October 1982
+          place: "Cincinnati, Ohio"
+      - name: Daisy Kathleen Vining
+        birth:
+          date: 3 December 1930
+          place: "Marshallville, Georgia"
+        burial:
+          place: "Gardens of Memory Cemetery   Muncie, Indiana"
+      - name: Flora Lillian Vining
+        birth:
+          date: 13 February 1933
+          place: "Marshallville, Georgia"
+        death:
+          date: 21 February 1984
+          place: Indiana
+      - name: Cosby Eugene Vining
+        entryId: CosbyE02
+        birth:
+          date: 31 May 1935
+        marriages:
+          - number: 1
+            date: "Carolyn Sue Carroll,"
+            spouse: divorced May 1969
+          - number: 2
+            date: October 1969
+            spouse: Naomi Fisher Sowell
+      - name: Larry Carlton Vining
+        entryId: LarryC01
+        entryLetter: L
+        birth:
+          date: 13 December 1943
+        marriages:
+          - date: 20 April 1968
+            spouse: Willie Ruth Sullivan
+docsUrl: Csources/CosbyE01doc.htm
+raw: |-
+  <a name="CosbyE01"></a><font size=+2>Cosby Evans Vining</font>
+     (son of <a href="Jfamilies.htm#JamesB03">James Benjamin Vining and Clara Rosella Hand</a>)
+     b. 3 January 1896   Georgia
+     m. 27 March 1926   Butler, Georgia
+           Flora Malvina Masters
+                 (dau. of Thomas Porter Masters and Millie Arcandance Malone)
+                 b. 27 July 1902   Hillham, Tennessee
+                 d. 28 February 1998   Muncie, Indiana
+                       bru. Gardens of Memory   Muncie, Indiana
+     d. 20 August 1968   Roberta, Georgia
+           bur. Marshallville City Cemetery   Marshallville, Georgia
+  
+  <font size=+1>children:</font>
+     Mary Frances Vining   b. 12 January 1927   -   m. (1) [...] Hubbard;   (2) [...] Finney;   (3) [...] Bertram   -   d. 13 October 2003   Detroit, Michigan
+     Jack Evans Vining   b. 29 September 1928   Marshallville, Georgia   -   d. 17 October 1982   Cincinnati, Ohio
+     Daisy Kathleen Vining   b. 3 December 1930   Marshallville, Georgia   -   26 September 1997   Muncie, Indiana   -   bur. Gardens of Memory Cemetery   Muncie, Indiana
+     Flora Lillian Vining   b. 13 February 1933   Marshallville, Georgia   -   d. 21 February 1984   Indiana
+     <a href="#CosbyE02">Cosby Eugene Vining</a>   b. 31 May 1935   -   m. (1) Carolyn Sue Carroll,   divorced May 1969;   (2) October 1969   Naomi Fisher Sowell
+     <a href="Lfamilies.htm#LarryC01">Larry Carlton Vining</a>   b. 13 December 1943   -   m. 20 April 1968   Willie Ruth Sullivan
+  
+  <a href="Csources/CosbyE01doc.htm">documentation and notes</a>

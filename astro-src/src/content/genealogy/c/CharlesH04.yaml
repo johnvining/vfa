@@ -1,0 +1,61 @@
+id: CharlesH04
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: HoraceC01
+parentLetter: H
+parentDesc: Horace Case Vining and Sarah Jane Case
+head:
+  givenName: Charles Horace
+  birth:
+    date: 2 May 1860
+    place: Connecticut
+marriages:
+  - date: 14 June 1883
+    spouse:
+      givenName: Mary Jane
+      surname: Ruic
+      birth:
+        date: 20 August 1865
+childrenGroups:
+  - children:
+      - name: Cora May Vining
+        birth:
+          date: 6 July 1884
+      - name: Lilla Sarah Vining
+        birth:
+          date: 31 July 1886
+      - name: Charles Horace Vining Jr.
+        entryId: CharlesHJr01
+        birth:
+          date: 31 May 1892
+        marriages:
+          - date: Marjorie Crossley
+      - name: Edith Loretta Vining
+        birth:
+          date: 22 September 1893
+      - name: Ruth Charlotte Vining
+        birth:
+          date: 17 January 1900
+      - name: Gertrude Mildred Vining
+        birth:
+          date: 31 December 1901
+docsUrl: Csources/CharlesH04doc.htm
+raw: |-
+  <a name="CharlesH04"></a><font size=+2>Charles Horace Vining</font>
+     (son of <a href="Hfamilies.htm#HoraceC01">Horace Case Vining and Sarah Jane Case</a>)
+     b. 2 May 1860   Connecticut
+     m. 14 June 1883
+           Mary Jane Ruic
+                 (dau. of Henry Cornelius Ruic and Mary Jane King)
+                 b. 20 August 1865
+  
+  <font size=+1>children:</font>
+     Cora May Vining   b. 6 July 1884
+     Lilla Sarah Vining   b. 31 July 1886
+     <a href="#CharlesHJr01">Charles Horace Vining Jr.</a>   b. 31 May 1892   -   m. Marjorie Crossley
+     Edith Loretta Vining   b. 22 September 1893
+     Ruth Charlotte Vining   b. 17 January 1900
+     Gertrude Mildred Vining   b. 31 December 1901
+  
+  <a href="Csources/CharlesH04doc.htm">documentation and notes</a>

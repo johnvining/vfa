@@ -1,0 +1,97 @@
+id: CharlesO01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WilliamR02
+parentLetter: W
+parentDesc: William Reynolds Vining and Martha G. May
+head:
+  givenName: Charles Oliver
+  birth:
+    date: 14 August 1854
+    place: Ohio
+  death:
+    date: 26 October 1896
+    place: "Corning, Kansas"
+marriages:
+  - date: 24 December 1876
+    place: Missouri
+    spouse:
+      givenName: Susan M.
+      surname: Noland
+      birth:
+        date: "1857"
+        place: Missouri
+      death:
+        date: 5 November 1894
+        place: "Corning, Kansas"
+      burial:
+        place: "Corning Cemetery   Corning, Kansas"
+childrenGroups:
+  - children:
+      - name: Myrtle M. Vining
+        birth:
+          date: October 1877
+          place: Missouri
+        marriages:
+          - date: ca. 1896
+            spouse: Sidney H. Harrison
+      - name: Benjamin Leland Vining
+        birth:
+          date: July 1882
+        death:
+          date: 14 July 1963
+        burial:
+          place: "Corning Cemetery   Corning, Kansas"
+      - name: "Carolyn Daisy &#8220;Carrie&#8221; Vining"
+        birth:
+          date: 17 September 1885
+          place: "Corning, Kansas"
+        marriages:
+          - date: 9 August 1908
+            spouse: Frank Elmer Alsup
+        death:
+          date: 18 May 1954
+          place: "Kansas City, Missouri"
+      - name: Bryant Oliver Vining
+        entryId: BryantO01
+        entryLetter: B
+        birth:
+          date: 18 December 1887
+          place: "Corning, Kansas"
+        marriages:
+          - date: 8 August 1908
+            place: "Council Grove, Kansas"
+            spouse: Margaret Francetta Hinshaw
+        death:
+          date: 25 December 1971
+          place: "Topeka, Kansas"
+        burial:
+          place: "Wilsey, Kansas"
+      - name: Julia Vining
+        birth:
+          date: September 1889
+          place: Kansas
+      - name: "infant Vining   [b. and d. 5 November 1894?]"
+docsUrl: Csources/CharlesO01doc.htm
+raw: |-
+  <a name="CharlesO01"></a><font size=+2>Charles Oliver Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamR02">William Reynolds Vining and Martha G. May</a>)
+     b. 14 August 1854   Ohio
+     m. 24 December 1876   Missouri
+           Susan M. Noland
+                 b. 1857   Missouri
+                 d. 5 November 1894   Corning, Kansas
+                       bur. Corning Cemetery   Corning, Kansas
+     d. 26 October 1896   Corning, Kansas
+           bur. Corning Cemetery   Corning, Kansas
+  
+  <font size=+1>children:</font>
+     Myrtle M. Vining   b. October 1877   Missouri   -   m. ca. 1896   Sidney H. Harrison
+     Benjamin Leland Vining   b. July 1882   -   d. 14 July 1963   -   bur. Corning Cemetery   Corning, Kansas
+     Carolyn Daisy &#8220;Carrie&#8221; Vining   b. 17 September 1885   Corning, Kansas   -   m. 9 August 1908   Frank Elmer Alsup   -   d. 18 May 1954   Kansas City, Missouri
+     <a href="Bfamilies.htm#BryantO01">Bryant Oliver Vining</a>   b. 18 December 1887   Corning, Kansas   -   m. 8 August 1908   Council Grove, Kansas   Margaret Francetta Hinshaw   -   d. 25 December 1971   Topeka, Kansas   -   bur. Wilsey, Kansas
+     Julia Vining   b. September 1889   Kansas
+     infant Vining   [b. and d. 5 November 1894?]
+  
+  <a href="Csources/CharlesO01doc.htm">documentation and notes</a>

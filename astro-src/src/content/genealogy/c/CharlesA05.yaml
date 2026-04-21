@@ -1,0 +1,70 @@
+id: CharlesA05
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BenjaminF04
+parentLetter: B
+parentDesc: Benjamin Franklin Vining and Lucinda Catherine Pearson
+head:
+  givenName: Charles Albert
+  birth:
+    date: "1870"
+    place: Texas
+  death:
+    date: 26 April 1903
+marriages:
+  - date: 14 September 1892
+    place: "Cherokee, Texas"
+    spouse:
+      givenName: Harriet Alice
+      surname: Roten
+      birth:
+        date: 10 December 1873
+        place: Texas
+childrenGroups:
+  - children:
+      - name: Lucy Vining
+        birth:
+          date: "1894"
+          place: Texas
+        marriages:
+          - date: 1 July 1914
+            place: "Cherokee, Texas"
+            spouse: Paul Guinn
+      - name: Agnes Vining
+        birth:
+          date: "1896"
+          place: Texas
+      - name: "Charles Macon &#8220;Pat&#8221; Vining"
+        entryId: CharlesM03
+        birth:
+          date: 20 September 1898
+          place: "Rusk, Texas"
+        marriages:
+          - number: 1
+            date: Anna Leona Banks
+          - number: 2
+            date: Gene O. Young
+        death:
+          date: 28 April 1956
+          place: "Dallas, Texas"
+        burial:
+          place: "Laurel Land Memorial Park   Dallas, Texas"
+docsUrl: Csources/CharlesA05doc.htm
+raw: |-
+  <a name="CharlesA05"></a><font size=+2>Charles Albert Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminF04">Benjamin Franklin Vining and Lucinda Catherine Pearson</a>)
+     b. 1870   Texas
+     m. 14 September 1892   Cherokee, Texas
+           Harriet Alice Roten
+                 (dau. of David Edward Roten and Alice Anderson Whitten)
+                 b. 10 December 1873   Texas
+     d. 26 April 1903
+           bur. Cedar Hill Cemetery   Rusk, Texas
+  
+  <font size=+1>children:</font>
+     Lucy Vining   b. 1894   Texas   -   m. 1 July 1914   Cherokee, Texas   Paul Guinn
+     Agnes Vining   b. 1896   Texas
+     <a href="#CharlesM03">Charles Macon &#8220;Pat&#8221; Vining</a>   b. 20 September 1898   Rusk, Texas   -   m. (1) Anna Leona Banks;   (2) Gene O. Young   -   d. 28 April 1956   Dallas, Texas   -   bur. Laurel Land Memorial Park   Dallas, Texas
+  
+  <a href="Csources/CharlesA05doc.htm">documentation and notes</a>

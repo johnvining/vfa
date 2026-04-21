@@ -1,0 +1,42 @@
+id: CharlesP02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Charles P.
+  birth:
+    date: April 1856
+    place: Illinois
+marriages:
+  - date: 13 y. as of 1900 census
+    spouse:
+      givenName: Hattie A.
+      surname: "[...]"
+      birth:
+        date: December 1857
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Ruby L. Vining
+        birth:
+          date: December 1885
+          place: Kansas
+      - name: Curtis C. Vining
+        birth:
+          date: October 1888
+          place: Kansas
+docsUrl: Csources/CharlesP02doc.htm
+raw: |-
+  <a name="CharlesP02"></a><font size=+2>Charles P. Vining</font>
+     (son of [?])
+     b. April 1856   Illinois
+     m. 13 y. as of 1900 census
+           Hattie A. [...]
+                 b. December 1857   Massachusetts
+  
+  <font size=+1>children:</font>
+     Ruby L. Vining   b. December 1885   Kansas
+     Curtis C. Vining   b. October 1888   Kansas
+  
+  <a href="Csources/CharlesP02doc.htm">documentation and notes</a>

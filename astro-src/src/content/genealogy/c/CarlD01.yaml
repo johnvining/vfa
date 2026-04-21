@@ -1,0 +1,58 @@
+id: CarlD01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EltonC01
+parentLetter: E
+parentDesc: Elton Cassius Vining and Anna Banta
+head:
+  givenName: Carl Dee
+  birth:
+    date: 5 September 1928
+  death:
+    date: 10 July 1999
+    place: "(last residence: Fort Wayne, Indiana)"
+marriages:
+  - date: 9 October 1949
+    spouse:
+      givenName: Jo Ann
+      surname: Secrist
+      birth:
+        date: "1931"
+        place: "D&#8217;Hanis, Texas"
+      death:
+        date: 25 December 2020
+        place: "Fort Wayne, Indiana"
+      burial:
+        place: "Covington Memorial Gardens   Fort Wayne, Allen County, Indiana"
+childrenGroups:
+  - children:
+      - name: David Vining
+        birth:
+          date: "1952"
+        marriages:
+          - date: "Jody [&#8230;]"
+      - name: Douglas Vining
+        birth:
+          date: "1955"
+        marriages:
+          - date: "Sarina [&#8230;]"
+docsUrl: Csources/CarlD01doc.htm
+raw: |-
+  <a name="CarlD01"></a><font size=+2>Carl Dee Vining</font>
+     (son of <a href="Efamilies.htm#EltonC01">Elton Cassius Vining and Anna Banta</a>)
+     b. 5 September 1928
+     m. 9 October 1949
+           Jo Ann Secrist
+                 (dau. of Orson S. Secrist and Mary Taylor)
+                 b. 1931   D&#8217;Hanis, Texas
+                 d. 25 December 2020   Fort Wayne, Indiana
+                       bur. Covington Memorial Gardens   Fort Wayne, Allen County, Indiana
+     d. 10 July 1999   (last residence: Fort Wayne, Indiana)
+           bur. Covington Memorial Gardens   Fort Wayne, Allen County, Indiana
+  
+  <font size=+1>children:</font>
+     David Vining   b. 1952   -   m. Jody [&#8230;]
+     Douglas Vining   b. 1955   -   m. Sarina [&#8230;]
+  
+  <a href="Csources/CarlD01doc.htm">documentation and notes</a>

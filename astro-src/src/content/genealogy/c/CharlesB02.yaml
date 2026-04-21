@@ -1,0 +1,60 @@
+id: CharlesB02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BryantO01
+parentLetter: B
+parentDesc: Bryant Oliver Vining and Margaret Francetta Hinshaw
+head:
+  givenName: Charles Benjamin
+  birth:
+    date: 11 December 1915
+    place: "Wilsey, Morris County, Kansas"
+  death:
+    date: 13 June 1996
+    place: "Delta, Delta County, Colorado"
+marriages:
+  - number: 1
+    date: Mary Jean Stone
+    spouse:
+      givenName: "b. 16 April 1914   Topeka, Shawnee County,"
+      surname: Kansas
+      death:
+        date: 1 January 1956
+        place: "Topeka, Shawnee County, Kansas"
+      burial:
+        place: "Mount Hope Cemetery   Topeka, Shawnee County, Kansas"
+  - number: 2
+    date: Geraldine Marie Harris
+childrenGroups:
+  - spouseRef: "[Mary Jean Stone?]"
+    children:
+      - name: Charles D. Vining
+        birth:
+          date: age 1 m. as of 1940 census
+          place: Kansas
+      - name: Laura Beth Vining
+        marriages:
+          - date: "[...] Fletcher"
+docsUrl: Csources/CharlesB02doc.htm
+raw: |-
+  <a name="CharlesB02"></a><font size=+2>Charles Benjamin Vining</font>
+     (son of <a href="Bfamilies.htm#BryantO01">Bryant Oliver Vining and Margaret Francetta Hinshaw</a>)
+     b. 11 December 1915   Wilsey, Morris County, Kansas
+     m. (1) Mary Jean Stone
+                 (dau. of Thomas Jefferson Stone and Olive Hester Allen)
+                 b. 16 April 1914   Topeka, Shawnee County, Kansas
+                 d. 1 January 1956   Topeka, Shawnee County, Kansas
+                       bur. Mount Hope Cemetery   Topeka, Shawnee County, Kansas
+           (2) Geraldine Marie Harris
+     d. 13 June 1996   Delta, Delta County, Colorado
+  
+  <font size=+1>adopted child:</font>
+     Olive Jean Vining   b. 27 November 1932   Topeka, Shawnee County, Kansas   -   m. [...] Rogers   -   d. 23 January 2016   Topeka, Shawnee County, Kansas
+  <font size=+1>[children by Mary Jean Stone?]:</font>
+     <a href="Tfamilies.htm#ThomasE03">Thomas Edward Vining</a>   b. 13 October 1941   Topeka, Shawnee County, Kansas   -   m. 10 May 1966   Newkirk, Oklahoma   Mickey Linn Gleason   -   d. 14 April 2008   Meriden, Jefferson County, Kansas
+     <font size=+1>children by [Mary Jean Stone?]:</font>
+     Charles D. Vining   b. age 1 m. as of 1940 census   Kansas
+     Laura Beth Vining   m. [...] Fletcher
+  
+  <a href="Csources/CharlesB02doc.htm">documentation and notes</a>

@@ -1,0 +1,66 @@
+id: ClaudeL01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LesterR03
+parentLetter: L
+parentDesc: Lester Reed Vining and Clara L. Warner
+head:
+  givenName: Claude L.
+  birth:
+    date: 25 June 1882
+    place: Connecticut
+  death:
+    date: September 1962
+    place: "(last residence: Colorado)"
+marriages:
+  - date: 1 y. as of 1910 census
+    spouse:
+      givenName: Florence
+      surname: Marshall
+      birth:
+        date: "1879"
+        place: Massachusetts
+      death:
+        date: "1964"
+      burial:
+        place: "Crown Hill Cemetery   Wheat Ridge, Colorado"
+childrenGroups:
+  - children:
+      - name: Ward M. Vining
+        birth:
+          date: 31 August 1912
+          place: "Tolland, Massachusetts"
+        marriages:
+          - date: "Maxine L. [&#8230;]"
+        death:
+          date: 21 April 1993
+        burial:
+          place: "Crown Hill Cemetery   Wheat Ridge, Colorado"
+      - name: Lester R. Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Massachusetts
+      - name: Claudia M. Vining
+        birth:
+          date: age 11 y. as of 1930 census
+          place: Massachusetts
+docsUrl: Csources/ClaudeL01doc.htm
+raw: |-
+  <a name="ClaudeL01"></a><font size=+2>Claude L. Vining</font>
+     (son of <a href="Lfamilies.htm#LesterR03">Lester Reed Vining and Clara L. Warner</a>)
+     b. 25 June 1882   Connecticut
+     m. 1 y. as of 1910 census
+           Florence Marshall
+                 b. 1879   Massachusetts
+                 d. 1964
+                       bur. Crown Hill Cemetery   Wheat Ridge, Colorado
+     d. September 1962   (last residence: Colorado)
+           bur. Crown Hill Cemetery   Wheat Ridge, Colorado
+  
+  <font size=+1>children:</font>
+     Ward M. Vining   b. 31 August 1912   Tolland, Massachusetts   -   m. Maxine L. [&#8230;]   -   d. 21 April 1993   -   bur. Crown Hill Cemetery   Wheat Ridge, Colorado
+     Lester R. Vining   b. age 5 y. as of 1920 census   Massachusetts
+     Claudia M. Vining   b. age 11 y. as of 1930 census   Massachusetts
+  
+  <a href="Csources/ClaudeL01doc.htm">documentation and notes</a>

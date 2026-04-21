@@ -1,0 +1,37 @@
+id: CurtisR01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Curtis Ray
+  birth:
+    date: 13 September 1947
+    place: "Fort Worth, Texas"
+  death:
+    date: 1 August 2016
+marriages:
+  - spouse:
+      givenName: Becky
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Angela Vining
+      - name: Curtis Ray Vining Jr.
+      - name: Crista Vining
+      - name: Charita Vining
+docsUrl: Csources/CurtisR01doc.htm
+raw: |-
+  <a name="CurtisR01"></a><font size=+2>Curtis Ray Vining</font>
+     (son of [?]
+     b. 13 September 1947   Fort Worth, Texas
+     m. Becky [&#8230;]
+     d. 1 August 2016
+  
+  <font size=+1>children:</font>
+     Angela Vining
+     Curtis Ray Vining Jr.
+     Crista Vining
+     Charita Vining
+  
+  <a href="Csources/CurtisR01doc.htm">documentation and notes</a>

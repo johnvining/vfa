@@ -1,0 +1,50 @@
+id: CharlesA09
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AbnerB01
+parentLetter: A
+parentDesc: Abner B. Vining and Sophia A. Ralph
+head:
+  givenName: Charles A.
+  birth:
+    date: 19 December 1866
+    place: "Meigs County, Ohio"
+  death:
+    date: 8 March 1927
+    place: "Chicago, Cook County, Illinois"
+marriages:
+  - date: 17 August 1893
+    place: "Cook County, Illinois"
+    spouse:
+      givenName: Mary
+      surname: Sauer
+      birth:
+        date: February 1874
+        place: Michigan
+childrenGroups:
+  - children:
+      - name: Florence Vining
+        birth:
+          date: June 1894
+          place: Illinois
+      - name: Loretta Vining
+        birth:
+          date: October 1898
+          place: Illinois
+docsUrl: Csources/CharlesA09doc.htm
+raw: |-
+  <a name="CharlesA09"></a><font size=+2>Charles A. Vining</font>
+     (son of <a href="Afamilies.htm#AbnerB01">Abner B. Vining and Sophia A. Ralph</a>)
+     b. 19 December 1866   Meigs County, Ohio
+     m. 17 August 1893   Cook County, Illinois
+           Mary Sauer
+                 b. February 1874   Michigan
+     d. 8 March 1927   Chicago, Cook County, Illinois
+           bur. Mount Carmel Cemetery   Hillside, Cook County, Illinois
+  
+  <font size=+1>children:</font>
+     Florence Vining   b. June 1894   Illinois
+     Loretta Vining   b. October 1898   Illinois
+  
+  <a href="Csources/CharlesA09doc.htm">documentation and notes</a>

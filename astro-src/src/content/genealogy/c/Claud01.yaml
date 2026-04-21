@@ -1,0 +1,46 @@
+id: Claud01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FloydR01
+parentLetter: F
+parentDesc: Floyd R. Vining and Pearlie May Brooks
+head:
+  givenName: Claud
+  birth:
+    date: 4 February 1930
+    place: "Limestone County, Alabama"
+  death:
+    date: 1 November 2010
+    place: "Athens, Alabama"
+marriages:
+  - date: 27 August 1950
+    spouse:
+      givenName: Ozell
+      surname: Bowers
+      birth:
+        date: 18 June 1929
+childrenGroups:
+  - children:
+      - name: Toney Vining
+        marriages:
+          - date: "Joan [...]"
+      - name: Ricky Vining
+        marriages:
+          - date: "Cindy [...]"
+docsUrl: Csources/Claud01doc.htm
+raw: |-
+  <a name="Claud01"></a><font size=+2>Claud Vining</font>
+     (son of <a href="Ffamilies.htm#FloydR01">Floyd R. Vining and Pearlie May Brooks</a>)
+     b. 4 February 1930   Limestone County, Alabama
+     m. 27 August 1950
+           Ozell Bowers
+                 b. 18 June 1929
+     d. 1 November 2010   Athens, Alabama
+           bur. Athens City Cemetery   Athens, Alabama
+  
+  <font size=+1>children:</font>
+     Toney Vining   m. Joan [...]
+     Ricky Vining   m. Cindy [...]
+  
+  <a href="Csources/Claud01doc.htm">documentation and notes</a>

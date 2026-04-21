@@ -1,0 +1,51 @@
+id: CharlieFJr01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlieF01
+parentDesc: Charlie Franklin Vining and Julia Smith
+head:
+  givenName: Charlie Franklin Jr.
+  birth:
+    date: 22 October 1972
+    place: "Douglas, Georgia"
+marriages:
+  - date: 31 August 1991
+    place: "Pearson, Georgia"
+    spouse:
+      givenName: Mary Kim
+      surname: Lott
+      birth:
+        date: 25 October 1974
+        place: "Tifton, Georgia"
+childrenGroups:
+  - children:
+      - name: Charlie Franklin Vining III
+        birth:
+          date: 13 December 1991
+          place: "Douglas, Georgia"
+      - name: Tori Alexis Vining
+        birth:
+          date: 23 March 1993
+          place: "Douglas, Georgia"
+      - name: Justin Kane Vining
+        birth:
+          date: 14 September 1995
+          place: "Fort Campbell, Tennessee"
+      - name: Jacob Austin Vining
+        birth:
+          date: 17 August 2000
+          place: "Ocilla, Georgia"
+raw: |-
+  <a name="CharlieFJr01"></a><font size=+2>Charlie Franklin Vining Jr.</font>
+    (son of <a href="#CharlieF01">Charlie Franklin Vining and Julia Smith</a>)
+     b. 22 October 1972   Douglas, Georgia
+     m. 31 August 1991   Pearson, Georgia
+           Mary Kim Lott
+                 b. 25 October 1974   Tifton, Georgia
+  
+  <font size=+1>children:</font>
+     Charlie Franklin Vining III   b. 13 December 1991   Douglas, Georgia
+     Tori Alexis Vining   b. 23 March 1993   Douglas, Georgia
+     Justin Kane Vining   b. 14 September 1995   Fort Campbell, Tennessee
+     Jacob Austin Vining   b. 17 August 2000   Ocilla, Georgia

@@ -1,0 +1,116 @@
+id: Charles09
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasL01
+parentLetter: T
+parentDesc: Thomas Llewellyn Vining and Anne Thick
+head:
+  givenName: Charles
+  birth:
+    date: 5 NOvember 1776
+  death:
+    date: 26 November 1848
+marriages:
+  - date: 3 June 1808
+    place: "St. Peters, Worcester, England"
+    spouse:
+      givenName: Mary
+      surname: Meredith
+childrenGroups:
+  - children:
+      - name: Charles Joseph Vining
+        entryId: CharlesJ01
+        birth:
+          date: 17 March 1809
+        marriages:
+          - number: 1
+            date: "1836"
+            spouse: Matilda Himmet Brodrib
+          - number: 2
+            date: August 1841
+            spouse: Anne Whitaker
+        death:
+          date: 3 July 1869
+      - name: Jane Vining
+        birth:
+          date: 18 April 1810
+        death:
+          date: 29 April 1855
+      - name: Mary Vining
+        birth:
+          date: 24 September 1811
+        marriages:
+          - date: George Hodson
+        death:
+          date: "1867"
+      - name: William Vining
+        birth:
+          date: 11 July 1813
+        death:
+          date: 20 January 1901
+      - name: Edward C. Vining
+        birth:
+          date: 1 August 1815
+        death:
+          date: 28 February 1870
+      - name: Elizabeth Vining
+        birth:
+          date: 7 April 1817
+        marriages:
+          - date: 5 October 1843
+            spouse: John Danger
+      - name: Susan Vining
+        birth:
+          date: 25 June 1818
+        death:
+          date: "1896"
+      - name: Fanny Vining
+        birth:
+          date: "1 January 18[20 or 21?]"
+          place: "Bristol, England"
+        marriages:
+          - date: "[1?] 1852"
+            spouse: Edward Stock
+        death:
+          date: "1898"
+          place: "Bristol, England"
+      - name: Helen Vining
+        birth:
+          date: 1 January 1823
+        marriages:
+          - date: Richard Poole
+        death:
+          date: December 1908
+      - name: Emma Vining
+        birth:
+          date: 3 October 1826
+        death:
+          date: 9 June 1911
+      - name: John Llewellyn Vining
+        birth:
+          date: 11 January 1829
+        marriages:
+          - date: Mary Hughes
+        death:
+          date: "1872"
+raw: |-
+  <a name="Charles09"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasL01">Thomas Llewellyn Vining and Anne Thick</a>)
+     b. 5 NOvember 1776
+     m. 3 June 1808   St. Peters, Worcester, England
+           Mary Meredith
+     d. 26 November 1848
+  
+  <font size=+1>children:</font>
+     <a href="#CharlesJ01">Charles Joseph Vining</a>   b. 17 March 1809   -   m. (1) 1836   Matilda Himmet Brodrib;   (2) August 1841   Anne Whitaker   -   d. 3 July 1869
+     Jane Vining   b. 18 April 1810   -   d. 29 April 1855
+     Mary Vining   b. 24 September 1811   -   m.  George Hodson   -   d. 1867
+     William Vining   b. 11 July 1813   -   d. 20 January 1901
+     Edward C. Vining   b. 1 August 1815   -   d. 28 February 1870
+     Elizabeth Vining   b. 7 April 1817   -   m. 5 October 1843   John Danger
+     Susan Vining   b. 25 June 1818   -   d. 1896
+     Fanny Vining   b. 1 January 18[20 or 21?]   Bristol, England   -   m. [1?] 1852   Edward Stock   -   d. 1898   Bristol, England
+     Helen Vining   b. 1 January 1823   -   m. Richard Poole   -   d. December 1908
+     Emma Vining   b. 3 October 1826   -   d. 9 June 1911
+     John Llewellyn Vining   b. 11 January 1829   -   m. Mary Hughes   -   d. 1872

@@ -1,0 +1,52 @@
+id: CliffordR01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LenleyL01
+parentLetter: L
+parentDesc: Lenley Loren Vining and Marion O'Bleness
+head:
+  givenName: Clifford Ray
+  birth:
+    date: 3 August 1929
+    place: "Fargo, North Dakota"
+  death:
+    date: 20 April 2016
+    place: "Fargo, North Dakota"
+marriages:
+  - date: 21 June 1957
+    place: "Durbin, North Dakota"
+    spouse:
+      givenName: Dorleen
+      surname: Schimming
+childrenGroups:
+  - children:
+      - name: Kevin Clair Vining
+        birth:
+          date: 1 September 1958
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: "[...] Bryan"
+      - name: Roel Craig Vining
+        entryId: RoelC01
+        entryLetter: R
+        birth:
+          date: 28 December 1960
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: "[...] Holmes"
+docsUrl: Csources/CliffordR01doc.htm
+raw: |-
+  <a name="CliffordR01"></a><font size=+2>Clifford Ray Vining</font>
+     (son of <a href="Lfamilies.htm#LenleyL01">Lenley Loren Vining and Marion O'Bleness</a>)
+     b. 3 August 1929   Fargo, North Dakota
+     m. 21 June 1957   Durbin, North Dakota
+           Dorleen Schimming
+     d. 20 April 2016   Fargo, North Dakota
+           bur. Goshen Moravian Cemetery
+  
+  <font size=+1>children:</font>
+     Kevin Clair Vining   b. 1 September 1958   Fargo, North Dakota   -   m. [...] Bryan
+     <a href="Rfamilies.htm#RoelC01">Roel Craig Vining</a>   b. 28 December 1960   Fargo, North Dakota   -   m. [...] Holmes
+  
+  <a href="Csources/CliffordR01doc.htm">documentation and notes</a>

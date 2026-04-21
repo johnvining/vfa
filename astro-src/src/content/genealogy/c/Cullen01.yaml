@@ -1,0 +1,142 @@
+id: Cullen01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: George02
+parentLetter: G
+parentDesc: George Vining and Abigail Alden
+head:
+  givenName: Cullen
+  birth:
+    date: 17 May 1798
+    place: "Plainfield, Massachusetts"
+  death:
+    date: "[13 or 12?] April 1856"
+marriages:
+  - date: 5 July 1819
+    place: "Windsor, Massachusetts"
+    spouse:
+      givenName: Hannah
+      surname: Latham
+      birth:
+        date: age 60 y. as of 1860 census
+        place: "Windsor, Massachusetts"
+      death:
+        date: 20 April 1891
+      burial:
+        place: "Streeter Cemetery   Cummington, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Susannah Alden Vining
+        birth:
+          date: 18 March 1820
+      - name: Melvin Latham Vining
+        entryId: MelvinL01
+        entryLetter: M
+        birth:
+          date: 30 August 1822
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: 12 March 1849
+            place: "Roxbury, Massachusetts"
+            spouse: Elizabeth G. Pennell
+      - name: Marcus Richard Vining
+        entryId: MarcusR01
+        entryLetter: M
+        birth:
+          date: 7 January 1825
+          place: Massachusetts
+        marriages:
+          - date: Elizabeth Maguire
+        death:
+          date: 14 June 1912
+          place: "Adams, Massachusetts"
+      - name: Parmelia Vining
+        birth:
+          date: age 3 y. at death
+        death:
+          date: 20 July 1830
+        burial:
+          place: "Streeter Cemetery   Cummington, Massachusetts"
+      - name: Florintha Vining
+        birth:
+          date: age 1 y. at death
+        death:
+          date: 20 July 1830
+        burial:
+          place: "Streeter Cemetery   Cummington, Massachusetts"
+      - name: Rodolphus C. Vining
+        entryId: RodolphusC01
+        entryLetter: R
+        birth:
+          date: 20 December 1834
+          place: Massachusetts
+        marriages:
+          - date: 6 May 1852
+            place: "Cummington, Massachusetts"
+            spouse: Martha R. Mason
+        death:
+          date: 8 July 1895
+          place: "Holyoke, Massachusetts"
+        burial:
+          place: "Forestdale Cemetery   Holyoke, Massachusetts"
+      - name: Parmelia Vining
+        birth:
+          date: ca. 1834
+        marriages:
+          - date: 1 January 1884
+            spouse: William Henry Roberts
+      - name: George Vining
+        entryId: George09
+        entryLetter: G
+        birth:
+          date: age 24 y. as of 1860 census
+          place: "Cummington, Massachusetts"
+        marriages:
+          - date: "Amanda [&#8230;]"
+      - name: Emma D. Vining
+        birth:
+          date: age 21 y. as of 1860 census
+          place: Massachusetts
+        marriages:
+          - date: 5 July 1855
+            spouse: Wells H. Bates
+        death:
+          date: 7 November 1870
+      - name: Elenore G. Vining
+        birth:
+          date: age 17 y. as of 1860 census
+          place: Massachusetts
+        marriages:
+          - date: 25 February 1869
+            spouse: R. C. Packard
+      - name: Anna M. Vining
+        birth:
+          date: age 14 y. as of 1860
+docsUrl: Csources/Cullen01doc.htm
+raw: |-
+  <a name="Cullen01"></a><font size=+2>Cullen Vining</font>
+     (son of <a href="Gfamilies.htm#George02">George Vining and Abigail Alden</a>)
+     b. 17 May 1798   Plainfield, Massachusetts
+     m. 5 July 1819   Windsor, Massachusetts
+           Hannah Latham
+                 b. age 60 y. as of 1860 census   Windsor, Massachusetts
+                 d. 20 April 1891
+                       bur. Streeter Cemetery   Cummington, Massachusetts
+     d. [13 or 12?] April 1856
+           bur. Streeter Cemetery   Cummington, Massachusetts
+  
+  <font size=+1>children:</font>
+     Susannah Alden Vining   b. 18 March 1820
+     <a href="Mfamilies.htm#MelvinL01">Melvin Latham Vining</a>   b. 30 August 1822   Plainfield, Massachusetts   -   m. 12 March 1849   Roxbury, Massachusetts   Elizabeth G. Pennell
+     <a href="Mfamilies.htm#MarcusR01">Marcus Richard Vining</a>   b. 7 January 1825   Massachusetts   -   m. Elizabeth Maguire   -   d. 14 June 1912   Adams, Massachusetts
+     Parmelia Vining   b. age 3 y. at death   -   d. 20 July 1830   -   bur. Streeter Cemetery   Cummington, Massachusetts
+     Florintha Vining   b. age 1 y. at death   -   d. 20 July 1830   -   bur. Streeter Cemetery   Cummington, Massachusetts
+     <a href="Rfamilies.htm#RodolphusC01">Rodolphus C. Vining</a>   b. 20 December 1834   Massachusetts   -   m. 6 May 1852   Cummington, Massachusetts   Martha R. Mason   -   d. 8 July 1895   Holyoke, Massachusetts   -   bur. Forestdale Cemetery   Holyoke, Massachusetts
+     Parmelia Vining   b. ca. 1834   -   m. 1 January 1884   William Henry Roberts
+     <a href="Gfamilies.htm#George09">George Vining</a>   b. age 24 y. as of 1860 census   Cummington, Massachusetts   -   m. Amanda [&#8230;]
+     Emma D. Vining   b. age 21 y. as of 1860 census   Massachusetts   -   m. 5 July 1855   Wells H. Bates   -   d. 7 November 1870
+     Elenore G. Vining   b. age 17 y. as of 1860 census   Massachusetts   -   m. 25 February 1869   R. C. Packard
+     Anna M. Vining   b. age 14 y. as of 1860
+  
+  <a href="Csources/Cullen01doc.htm">documentation and notes</a>

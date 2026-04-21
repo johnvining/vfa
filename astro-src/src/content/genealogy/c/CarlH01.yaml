@@ -1,0 +1,45 @@
+id: CarlH01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: OsmynC01
+parentLetter: O
+parentDesc: "Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; La Palm"
+head:
+  givenName: Carl Horace
+  birth:
+    date: 16 June 1915
+    place: Michigan
+marriages:
+  - date: 23 May 1936
+    spouse:
+      givenName: Ethamarie Y.
+      surname: Wiley
+childrenGroups:
+  - children:
+      - name: Diane Denise Vining
+        birth:
+          date: 19 August 1937
+        marriages:
+          - date: Michael Troy Westmoreland
+      - name: Terrence Wiley Vining
+        entryId: TerrenceW01
+        entryLetter: T
+        birth:
+          date: 22 May 1941
+          place: "Detroit, Wayne County, Michigan"
+        marriages:
+          - date: Patricia Ann Bookhardt
+docsUrl: Csources/CarlH01doc.htm
+raw: |-
+  <a name="CarlH01"></a><font size=+2>Carl Horace Vining</font>
+     (son of <a href="Ofamilies.htm#OsmynC01">Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; La Palm</a>)
+     b. 16 June 1915   Michigan
+     m. 23 May 1936
+           Ethamarie Y. Wiley
+  
+  <font size=+1>children:</font>
+     Diane Denise Vining   b. 19 August 1937   -   m. Michael Troy Westmoreland
+     <a href="Tfamilies.htm#TerrenceW01">Terrence Wiley Vining</a>   b. 22 May 1941   Detroit, Wayne County, Michigan   -   m. Patricia Ann Bookhardt
+  
+  <a href="Csources/CarlH01doc.htm">documentation and notes</a>

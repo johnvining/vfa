@@ -1,0 +1,46 @@
+id: CarlL01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WarrenC01
+parentLetter: W
+parentDesc: Warren Clifford Vining and Elizabeth Rosie Vogel
+head:
+  givenName: Carl Louis
+  birth:
+    date: 4 September 1920
+    place: "Wheaton, DuPage County, Illinois"
+  death:
+    date: 7 August 2014
+    place: "Hamilton [County?], Ohio"
+marriages:
+  - date: 6 October 1945
+    spouse:
+      givenName: Astrid Emma
+      surname: Strom
+      birth:
+        date: "1916"
+childrenGroups:
+  - children:
+      - name: Richard Vining
+        marriages:
+          - date: "Cynthia [...]"
+      - name: Holly Vining
+        marriages:
+          - date: Michael Johnson
+docsUrl: Csources/CarlL01doc.htm
+raw: |-
+  <a name="CarlL01"></a><font size=+2>Carl Louis Vining</font>
+     (son of <a href="Wfamilies.htm#WarrenC01">Warren Clifford Vining and Elizabeth Rosie Vogel</a>)
+     b. 4 September 1920   Wheaton, DuPage County, Illinois
+     m. 6 October 1945
+           Astrid Emma Strom
+                 b. 1916
+     d. 7 August 2014   Hamilton [County?], Ohio
+           bur. Arlington Memorial Gardens   Mount Healthy, Hamilton County, Ohio
+  
+  <font size=+1>children:</font>
+     Richard Vining   m. Cynthia [...]
+     Holly Vining   m. Michael Johnson
+  
+  <a href="Csources/CarlL01doc.htm">documentation and notes</a>

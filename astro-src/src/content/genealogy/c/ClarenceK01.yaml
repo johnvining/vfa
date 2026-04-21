@@ -1,0 +1,36 @@
+id: ClarenceK01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EdwardK03
+parentLetter: E
+parentDesc: Edward Kevlin Vining
+head:
+  givenName: Clarence Kevlin
+  birth:
+    date: 17 April 1954
+  death:
+    date: 8 July 2017
+    place: Mississippi
+marriages:
+  - spouse:
+      givenName: Jan
+      surname: "[&#8230;]"
+childrenGroups:
+  - spouseRef: "Patricia [&#8230;]"
+    children:
+      - name: Patrick Vining
+      - name: Brandi Len Vining
+docsUrl: Csources/ClarenceK01doc.htm
+raw: |-
+  <a name="ClarenceK01"></a><font size=+2>Clarence Kevlin Vining</font>
+     (son of <a href="Efamilies.htm#EdwardK03">Edward Kevlin Vining</a>)
+     b. 17 April 1954
+     m. Jan [&#8230;]
+     d. 8 July 2017   Mississippi
+  
+  <font size=+1>children by Patricia [&#8230;]:</font>
+     Patrick Vining
+     Brandi Len Vining
+  
+  <a href="Csources/ClarenceK01doc.htm">documentation and notes</a>

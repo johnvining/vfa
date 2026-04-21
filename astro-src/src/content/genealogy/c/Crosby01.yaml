@@ -1,0 +1,52 @@
+id: Crosby01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EdwardT01
+parentLetter: E
+parentDesc: Edward Thomas Vining and Sadie Ellistine Crosby
+head:
+  givenName: Crosby
+  birth:
+    date: 25 February 1901
+    place: "Chicago, Illinois"
+  death:
+    date: 26 July 1970
+    place: "(last residence: Glenview, Illinois)"
+marriages:
+  - date: 11 August 1933
+    spouse:
+      givenName: Blanche Elsie
+      surname: Toman
+      birth:
+        date: age 27 y. as of 1940 census
+        place: Illinois
+childrenGroups:
+  - children:
+      - name: Carol E. Vining
+        birth:
+          date: 28 May 1937
+          place: Illinois
+        marriages:
+          - date: Richard Albrecht
+      - name: Richard Crosby Vining
+        birth:
+          date: 10 May 1943
+        marriages:
+          - date: 24 June 1972
+            spouse: Diane Kathryn Kinast
+docsUrl: Csources/Crosby01doc.htm
+raw: |-
+  <a name="Crosby01"></a><font size=+2>Crosby Vining</font>
+     (son of <a href="Efamilies.htm#EdwardT01">Edward Thomas Vining and Sadie Ellistine Crosby</a>)
+     b. 25 February 1901   Chicago, Illinois
+     m. 11 August 1933
+           Blanche Elsie Toman
+                 b. age 27 y. as of 1940 census   Illinois
+     d. 26 July 1970   (last residence: Glenview, Illinois)
+  
+  <font size=+1>children:</font>
+     Carol E. Vining   b. 28 May 1937   Illinois   -   m. Richard Albrecht
+     Richard Crosby Vining   b. 10 May 1943   -   m. 24 June 1972   Diane Kathryn Kinast
+  
+  <a href="Csources/Crosby01doc.htm">documentation and notes</a>

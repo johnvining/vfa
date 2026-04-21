@@ -1,0 +1,37 @@
+id: Carl03
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: NewellE01
+parentLetter: N
+parentDesc: Newell E. Vining and Mary Magdalena Alle
+head:
+  givenName: Carl
+  birth:
+    date: 30 August 1912
+marriages:
+  - spouse:
+      givenName: Frances
+      surname: Cross
+childrenGroups:
+  - children:
+      - name: Carol Vining
+        birth:
+          date: 25 November 1943
+        marriages:
+          - number: 1
+            date: Otis Barrentino
+          - number: 2
+            date: "[...] Thompson"
+      - name: Paula Vining
+        birth:
+          date: 21 June 1947
+raw: |-
+  <a name="Carl03"></a><font size=+2>Carl Vining</font>
+     (son of <a href="Nfamilies.htm#NewellE01">Newell E. Vining and Mary Magdalena Alle</a>)
+     b. 30 August 1912
+     m. Frances Cross
+  
+  <font size=+1>children:</font>
+     Carol Vining   b. 25 November 1943   -   m. (1) Otis Barrentino;   (2) [...] Thompson
+     Paula Vining   b. 21 June 1947

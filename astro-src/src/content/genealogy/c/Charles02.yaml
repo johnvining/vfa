@@ -1,0 +1,58 @@
+id: Charles02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Robert02
+parentLetter: R
+parentDesc: "Robert Vining and Elizabeth [...]"
+head:
+  givenName: Charles
+  birth:
+    date: 20 December 1844
+    place: New York
+  death:
+    date: 26 April 1921
+marriages:
+  - date: 6 March 1879
+    spouse:
+      givenName: Lucy A.
+      surname: Hoover
+      birth:
+        date: age 21 y. as of 1880 census
+        place: New York
+      death:
+        date: 8 April 1892
+childrenGroups:
+  - children:
+      - name: Orpha M. Vining
+        entryId: OrphaM01
+        entryLetter: O
+        birth:
+          date: 13 February 1880
+          place: New York
+        marriages:
+          - date: "(?) [...];"
+            spouse: (1) 7 y. as of 1910 census   David Frayer
+        death:
+          date: 1 February 1952
+      - name: Henry Vining
+        birth:
+          date: 2 March 1882
+        death:
+          date: January 1962
+docsUrl: Csources/Charles02doc.htm
+raw: |-
+  <a name="Charles02"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Rfamilies.htm#Robert02">Robert Vining and Elizabeth [...]</a>)
+     b. 20 December 1844   New York
+     m. 6 March 1879
+           Lucy A. Hoover
+                 b. age 21 y. as of 1880 census   New York
+                 d. 8 April 1892
+     d. 26 April 1921
+  
+  <font size=+1>children:</font>
+     <a href="Ofamilies.htm#OrphaM01">Orpha M. Vining</a>   b. 13 February 1880   New York   -   m. (?) [...];   (1) 7 y. as of 1910 census   David Frayer   -   d. 1 February 1952
+     Henry Vining   b. 2 March 1882   -   d. January 1962
+  
+  <a href="Csources/Charles02doc.htm">documentation and notes</a>

@@ -1,0 +1,79 @@
+id: CorneliusW02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesF01
+parentDesc: Charles Fournier Vining and Nancy Ophelia Preston
+head:
+  givenName: Cornelius Wright
+  birth:
+    date: 8 February 1883
+    place: "Columbia Township, Michigan"
+  death:
+    date: "[June 1960 or 1961?]"
+    place: "Daytona Beach, Florida"
+marriages:
+  - spouse:
+      givenName: "Jackson,"
+      surname: Michigan
+      birth:
+        date: 11 June 1887
+        place: Michigan
+      death:
+        date: 5 February 1948
+      burial:
+        place: "Daytona Memorial Park   Daytona Beach, Florida"
+childrenGroups:
+  - children:
+      - name: Damain Charles Vining
+        birth:
+          date: "1911"
+          place: Michigan
+        marriages:
+          - date: 5 November 1939
+            place: "Daytona Beach, Florida"
+            spouse: Cora Lee Fussell
+        death:
+          date: "1964"
+        burial:
+          place: "Greenlawn Cemetery   Jacksonville, Florida"
+      - name: Jerome L. Vining
+        birth:
+          date: 5 September 1911
+          place: New York
+      - name: Genevieve Vining
+        birth:
+          date: 9 October 1913
+        marriages:
+          - date: "[...] Sucor"
+      - name: Nancy Vining
+        birth:
+          date: "age 3 y., 9 m. as of 1920 census"
+          place: New York
+      - name: Beulah May Vining
+        birth:
+          date: 8 March 1919
+          place: New York
+        marriages:
+          - date: Jenson Ross
+docsUrl: Csources/CorneliusW02doc.htm
+raw: |-
+  <a name="CorneliusW02"></a><font size=+2>Cornelius Wright Vining</font>
+     (son of <a href="#CharlesF01">Charles Fournier Vining and Nancy Ophelia Preston</a>)
+     b. 8 February 1883   Columbia Township, Michigan
+     m. Jackson, Michigan
+           Genevieve Jenkins
+                 b. 11 June 1887   Michigan
+                 d. 5 February 1948
+                       bur. Daytona Memorial Park   Daytona Beach, Florida
+     d. [June 1960 or 1961?]   Daytona Beach, Florida
+           bur. Daytona Memorial Park   Datona Beach, Florida
+  
+  <font size=+1>children:</font>
+     Damain Charles Vining   b. 1911   Michigan   -   m. 5 November 1939   Daytona Beach, Florida   Cora Lee Fussell   -   d. 1964   -   bur. Greenlawn Cemetery   Jacksonville, Florida
+     Jerome L. Vining   b. 5 September 1911   New York
+     Genevieve Vining   b. 9 October 1913   -   m. [...] Sucor
+     Nancy Vining   b. age 3 y., 9 m. as of 1920 census   New York
+     Beulah May Vining   b. 8 March 1919   New York   -   m. Jenson Ross
+  
+  <a href="Csources/CorneliusW02doc.htm">documentation and notes</a>

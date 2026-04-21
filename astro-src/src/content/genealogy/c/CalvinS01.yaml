@@ -1,0 +1,78 @@
+id: CalvinS01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JaredW01
+parentLetter: J
+parentDesc: "Jared Wilbur &#8220;Jerry&#8221; Vining and Ursula Manla Bryant"
+head:
+  givenName: Calvin Seneca
+  birth:
+    date: 8 June 1828
+    place: "Ellicottville, Cattaraugus County, New York"
+  death:
+    date: "1917"
+marriages:
+  - date: 14 April 1853
+    spouse:
+      givenName: Almeda Veste
+      surname: White
+      birth:
+        date: December 1835
+        place: New York
+      death:
+        date: "1914"
+      burial:
+        place: "Lakeview Cemetery   Lakeview, Montcalm, Michigan"
+childrenGroups:
+  - children:
+      - name: "Delia Ralphetta &#8220;Nettie&#8221; Vining"
+        birth:
+          date: 14 February 1854
+          place: Michigan
+        death:
+          date: "1858"
+      - name: Nettie Vining - b. age 16 y. as of 1870 census   Michigan
+      - name: Cary Warren Vining
+        entryId: CaryW01
+        birth:
+          date: 5 November 1859
+          place: "Eden Township, Lake County, Michigan"
+        marriages:
+          - number: 1
+            date: "1887"
+            spouse: May Kendall
+          - number: 2
+            date: "Harriet A. [&#8230;]"
+        death:
+          date: "1940"
+          place: "Lakeview, Montcalm County, Michigan"
+        burial:
+          place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
+      - name: Pearl Andrus Vining
+        birth:
+          date: 2 June 1871
+        marriages:
+          - date: 4 y. as of 1900 census
+            place: "Lakeview, Montcalm County, Michigan"
+            spouse: Francis Blanchard
+docsUrl: Csources/CalvinS01doc.htm
+raw: |-
+  <a name="CalvinS01"></a><font size=+2>Calvin Seneca Vining</font>
+     (son of <a href="Jfamilies.htm#JaredW01">Jared Wilbur &#8220;Jerry&#8221; Vining and Ursula Manla Bryant</a>)
+     b. 8 June 1828   Ellicottville, Cattaraugus County, New York
+     m. 14 April 1853
+           Almeda Veste White
+                 b. December 1835   New York
+                 d. 1914
+                       bur. Lakeview Cemetery   Lakeview, Montcalm, Michigan
+     d. 1917
+           bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+  
+  <font size=+1>children:</font>
+     Delia Ralphetta &#8220;Nettie&#8221; Vining   b. 14 February 1854   Michigan   -   d. 1858
+     Nettie Vining - b. age 16 y. as of 1870 census   Michigan
+     <a href="#CaryW01">Cary Warren Vining</a>   b. 5 November 1859   Eden Township, Lake County, Michigan   -   m. (1) 1887   May Kendall;   (2) Harriet A. [&#8230;]   -   d. 1940   Lakeview, Montcalm County, Michigan   -   bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+     Pearl Andrus Vining   b. 2 June 1871   -   m. 4 y. as of 1900 census   Lakeview, Montcalm County, Michigan   Francis Blanchard
+  
+  <a href="Csources/CalvinS01doc.htm">documentation and notes</a>

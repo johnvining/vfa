@@ -1,0 +1,56 @@
+id: CleatusR01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: SidneyR01
+parentLetter: S
+parentDesc: Sidney Raymond Vining and Iona Maud Kelly
+head:
+  givenName: Cleatus Roman
+  birth:
+    date: 10 June 1923
+    place: "Estancia, New Mexico"
+  death:
+    date: 24 August 2007
+    place: "Prosser, Benton County, Washington"
+marriages:
+  - spouse:
+      givenName: Carmel by the
+      surname: Sea
+      birth:
+        date: 6 September 1925
+        place: Missouri
+      death:
+        date: 22 January 2011
+        place: Washington
+      burial:
+        place: "East Prosser Cemetery   Prosser, Washington"
+childrenGroups:
+  - children:
+      - name: Ray Vining
+        marriages:
+          - date: "Karen [...]"
+      - name: Marvin Vining
+        marriages:
+          - date: "Joanne [...]"
+      - name: Tim Vining
+docsUrl: Csources/CleatusR01doc.htm
+raw: |-
+  <a name="CleatusR01"></a><font size=+2>Cleatus Roman Vining</font>
+     (son of <a href="Sfamilies.htm#SidneyR01">Sidney Raymond Vining and Iona Maud Kelly</a>)
+     b. 10 June 1923   Estancia, New Mexico
+     m. Carmel by the Sea
+           Christine Thelma Redd
+                 (dau. of James Ballenger Redd and Dosa B. Harrison)
+                 b. 6 September 1925   Missouri
+                 d. 22 January 2011   Washington
+                       bur. East Prosser Cemetery   Prosser, Washington
+     d. 24 August 2007   Prosser, Benton County, Washington
+           bur. East Prosser Cemetery   Prosser, Washington
+  
+  <font size=+1>children:</font>
+     Ray Vining   m. Karen [...]
+     Marvin Vining   m. Joanne [...]
+     Tim Vining
+  
+  <a href="Csources/CleatusR01doc.htm">documentation and notes</a>

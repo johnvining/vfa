@@ -1,0 +1,55 @@
+id: CarlF01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FelixJ01
+parentLetter: F
+parentDesc: Felix Joseph Vining and Sarah Elizabeth Cain
+head:
+  givenName: Carl F.
+  birth:
+    date: July 1884
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Grace E.
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: John S. Vining
+        birth:
+          date: "age 1 y., 2 m. as of 1920 census"
+          place: California
+      - name: Doris E. Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: California
+      - name: Emily R. Vining
+        birth:
+          date: age 7 y. as of 1930 census
+          place: California
+      - name: Carl F. Vining Jr.
+        entryId: CarlFJr01
+        birth:
+          date: 15 July 1927
+          place: California
+        marriages:
+          - date: 15 May 1949
+            spouse: "Carson City, Nevada   Madeline Thompson"
+        death:
+          date: 5 July 2015
+docsUrl: Csources/CarlF01doc.htm
+raw: |-
+  <a name="CarlF01"></a><font size=+2>Carl F. Vining</font>
+     (son of <a href="Ffamilies.htm#FelixJ01">Felix Joseph Vining and Sarah Elizabeth Cain</a>)
+     b. July 1884   Georgia
+     m. Grace E. [&#8230;]
+              b. age 35 y. as of 1920 census   California
+  
+  <font size=+1>children:</font>
+     John S. Vining   b. age 1 y., 2 m. as of 1920 census   California
+     Doris E. Vining   b. age 9 y. as of 1930 census   California
+     Emily R. Vining   b. age 7 y. as of 1930 census   California
+     <a href="#CarlFJr01">Carl F. Vining Jr.</a>   b. 15 July 1927   California   -   m. 15 May 1949   Carson City, Nevada   Madeline Thompson   -   d. 5 July 2015
+  
+  <a href="Csources/CarlF01doc.htm">documentation and notes</a>

@@ -1,0 +1,89 @@
+id: CosbyL01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AlbertG02
+parentLetter: A
+parentDesc: Albert Gallatin Vining and Elizabeth Ann Gerrard
+head:
+  givenName: Cosby Littleberry
+  birth:
+    date: 7 November 1826
+    place: "Habersham County, Georgia"
+  death:
+    date: 1 July 1886
+    place: "Marshallville, Georgia"
+marriages:
+  - date: 3 September 1846
+    place: Georgia
+    spouse:
+      givenName: Evaline Elizabeth
+      surname: Routh
+      birth:
+        date: 21 June 1830
+        place: "Monroe County, Tennessee"
+      death:
+        date: 11 March 1905
+      burial:
+        place: "Marshallville, Georgia"
+childrenGroups:
+  - children:
+      - name: Margaret A. Vining
+        birth:
+          date: age 10 y. as of 1860 census
+          place: Georgia
+      - name: "Claris[s]a Amanda Vining"
+        birth:
+          date: age 7 y. as of 1860 census
+          place: Georgia
+      - name: Alfred M. Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Tennessee
+      - name: James Benjamin Vining
+        entryId: JamesB03
+        entryLetter: J
+        birth:
+          date: 22 June 1864
+          place: "Macon, Georgia"
+        marriages:
+          - date: 31 May 1891
+            place: "Garden Valley, Georgia"
+            spouse: Clara Rosella Hand
+        death:
+          date: 7 December 1935
+          place: "Marshallville, Georgia"
+      - name: Elizabeth Berlin Vining
+        birth:
+          date: 23 June 1867
+          place: Georgia
+      - name: Fannie Ida Vining
+        birth:
+          date: 20 March 1870
+          place: "Marshallville, Georgia"
+        death:
+          date: 17 December 1895
+          place: "Marshallville, Georgia"
+docsUrl: Csources/CosbyL01doc.htm
+raw: |-
+  <a name="CosbyL01"></a><font size=+2>Cosby Littleberry Vining</font>
+     (son of <a href="Afamilies.htm#AlbertG02">Albert Gallatin Vining and Elizabeth Ann Gerrard</a>)
+     b. 7 November 1826   Habersham County, Georgia
+     m. 3 September 1846   Georgia
+           Evaline Elizabeth Routh
+                 (dau. of Pleasant Miller Routh and Narcissus Lillard)
+                 b. 21 June 1830   Monroe County, Tennessee
+                 d. 11 March 1905
+                       bur. Marshallville, Georgia
+     d. 1 July 1886   Marshallville, Georgia
+           bur. Marshallville City Cemetery   Marshallville, Georgia
+  
+  <font size=+1>children:</font>
+     Margaret A. Vining   b. age 10 y. as of 1860 census   Georgia
+     Claris[s]a Amanda Vining   b. age 7 y. as of 1860 census   Georgia
+     Alfred M. Vining   b. age 3 y. as of 1860 census   Tennessee
+     <a href="Jfamilies.htm#JamesB03">James Benjamin Vining</a>   b. 22 June 1864   Macon, Georgia   -   m. 31 May 1891   Garden Valley, Georgia   Clara Rosella Hand   -   d. 7 December 1935   Marshallville, Georgia
+     Elizabeth Berlin Vining   b. 23 June 1867   Georgia
+     Fannie Ida Vining   b. 20 March 1870   Marshallville, Georgia   -   d. 17 December 1895   Marshallville, Georgia
+  
+  <a href="Csources/CosbyL01doc.htm">documentation and notes</a>

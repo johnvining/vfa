@@ -1,0 +1,117 @@
+id: Calvin02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Calvin
+  birth:
+    date: age 37 y. as of 1850 census
+    place: "[Massachusetts or Canada ?]"
+  death:
+    date: January 1880
+    place: "Oak Harbor, Ottawa County, Ohio"
+marriages:
+  - number: 1
+    date: Mahala Jones
+  - number: 2
+    date: Harriet Croney
+childrenGroups:
+  - spouseRef: Mahala Jones
+    children:
+      - name: George Marcus Vining
+        entryId: GeorgeM03
+        entryLetter: G
+        birth:
+          date: age 12 y. as of 1850 census
+          place: "[Ohio or Virginia?]"
+        marriages:
+          - date: Mary Mays
+      - name: Henry W. Vining
+        birth:
+          date: age 9 y. as of 1850 census
+          place: Ohio
+      - name: Albert J. Vining
+        entryId: Albert04
+        entryLetter: A
+        birth:
+          date: age 7 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: "Laura [&#8230;]"
+        death:
+          date: 9 January 1897
+          place: Ohio
+        burial:
+          place: "Lindsey Cemetery   Lindsey, Sandusky County, Ohio"
+      - name: "[Martha or Louise ?] Vining"
+        birth:
+          date: age 4 y. as of 1850 census
+          place: Ohio
+      - name: Mary Mahala Vining
+        birth:
+          date: age 2 y. as of 1850 census
+          place: Ohio
+  - spouseRef: "Harriet [&#8230;]"
+    children:
+      - name: James Vining
+        birth:
+          date: age 9 y. as of 1860 census
+          place: Ohio
+      - name: Jane Vining
+        birth:
+          date: age 6 y. as of 1860 census
+          place: Ohio
+      - name: John Vining
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Ohio
+      - name: Isabel Vining
+        birth:
+          date: age 2 y. as of 1860 census
+          place: New York
+      - name: Jennie Vining
+        birth:
+          date: age 3 m. as of 1860 census
+          place: Ohio
+      - name: Charles Vining
+        entryId: Charles05
+        birth:
+          date: 2 March 1862
+          place: "Sandusky, Erie County, Ohio"
+        marriages:
+          - date: 6 September 1893
+            place: "Lindsey, Sandusky County, Ohio"
+            spouse: Catharine Overmyer
+        death:
+          date: "1945"
+          place: "Lindsey, Sandusky County, Ohio"
+        burial:
+          place: "Lindsey Cemetery   Lindsey, Sandusky County, Ohio"
+docsUrl: Csources/Calvin02doc.htm
+raw: |-
+  <a name="Calvin02"></a><font size=+2>Calvin Vining</font>
+     (son of [?])
+     b. age 37 y. as of 1850 census   [Massachusetts or Canada ?]
+     m. (1) Mahala Jones
+                    b. age 40 y. as of 1850 census   Pennsylvania
+           (2) Harriet Croney
+                    b. age 32 y. as of 1860 census   Canada
+                    d. 18 July 1902   Oak Harbor, Ottawa County, Ohio
+     d. January 1880   Oak Harbor, Ottawa County, Ohio
+  
+  <font size=+1>children by Mahala Jones:</font>
+     <a href="Gfamilies.htm#GeorgeM03">George Marcus Vining</a>   b. age 12 y. as of 1850 census   [Ohio or Virginia?]   -   m. Mary Mays
+     Henry W. Vining   b. age 9 y. as of 1850 census   Ohio
+     <a href="Afamilies.htm#Albert04">Albert J. Vining</a>   b. age 7 y. as of 1850 census   Ohio   -   m. Laura [&#8230;]   -   d. 9 January 1897   Ohio   -   bur. Lindsey Cemetery   Lindsey, Sandusky County, Ohio
+     [Martha or Louise ?] Vining   b. age 4 y. as of 1850 census   Ohio
+     Mary Mahala Vining   b. age 2 y. as of 1850 census   Ohio
+  <font size=+1>children by Harriet [&#8230;]</font>
+     James Vining   b. age 9 y. as of 1860 census   Ohio
+     Jane Vining   b. age 6 y. as of 1860 census   Ohio
+     John Vining   b. age 4 y. as of 1860 census   Ohio
+     Isabel Vining   b. age 2 y. as of 1860 census   New York
+     Jennie Vining   b. age 3 m. as of 1860 census   Ohio
+     <a href="#Charles05">Charles Vining</a>   b. 2 March 1862   Sandusky, Erie County, Ohio   -   m. 6 September 1893   Lindsey, Sandusky County, Ohio   Catharine Overmyer   -   d. 1945   Lindsey, Sandusky County, Ohio   -   bur. Lindsey Cemetery   Lindsey, Sandusky County, Ohio
+  
+  <a href="Csources/Calvin02doc.htm">documentation and notes</a>

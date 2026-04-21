@@ -1,0 +1,65 @@
+id: Charles05
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Calvin02
+parentDesc: "Calvin Vining and Harriet [...]"
+head:
+  givenName: Charles
+  birth:
+    date: 2 March 1862
+    place: "Sandusky, Erie County, Ohio"
+  death:
+    date: "1945"
+    place: "Lindsey, Ohio"
+marriages:
+  - date: 6 September 1893
+    place: "Lindsey, Sandusky County, Ohio"
+    spouse:
+      givenName: Catharine
+      surname: Overmyer
+      birth:
+        date: 17 July 1872
+        place: "Lindsey, Sandusky County, Ohio"
+      death:
+        date: 30 November 1939
+        place: "Ann Arbor, Washtenaw County, Michigan"
+      burial:
+        place: "Lindsey Cemetery   Lindsey, Sandusky County, Ohio"
+childrenGroups:
+  - children:
+      - name: Charles Russell Vining
+        birth:
+          date: 26 August 1895
+          place: "Lindsey, Sandusky County, Ohio"
+        marriages:
+          - date: "[1?] Velda Garnet Shiek;"
+            spouse: "[2?] Maud Lee [&#8230;]"
+        death:
+          date: 29 July 1977
+          place: "Elmore, Ohio"
+        burial:
+          place: "Harris-Elmore Union Cemetery   Elmore, Ohio"
+      - name: Bessie C. Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Ohio
+docsUrl: Csources/Charles05doc.htm
+raw: |-
+  <a name="Charles05"></a><font size=+2>Charles Vining</font>
+     (son of <a href="#Calvin02">Calvin Vining and Harriet [...]</a>)
+     b. 2 March 1862   Sandusky, Erie County, Ohio
+     m. 6 September 1893   Lindsey, Sandusky County, Ohio
+           Catharine Overmyer
+                 (dau. of Michael Overmyer Jr. and Susannah Ann [...])
+                 b. 17 July 1872   Lindsey, Sandusky County, Ohio
+                 d. 30 November 1939   Ann Arbor, Washtenaw County, Michigan
+                       bur. Lindsey Cemetery   Lindsey, Sandusky County, Ohio
+     d. 1945   Lindsey, Ohio
+           bur. Lindsey Cemetery   Lindsey, Sandusky County, Ohio
+  
+  <font size=+1>children:</font>
+     Charles Russell Vining   b. 26 August 1895   Lindsey, Sandusky County, Ohio   -   m. [1?] Velda Garnet Shiek;   [2?] Maud Lee [&#8230;]   -   d. 29 July 1977   Elmore, Ohio   -   bur. Harris-Elmore Union Cemetery   Elmore, Ohio
+     Bessie C. Vining   b. age 4 y. as of 1910 census   Ohio
+  
+  <a href="Csources/Charles05doc.htm">documentation and notes</a>

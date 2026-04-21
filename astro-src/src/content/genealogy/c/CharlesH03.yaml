@@ -1,0 +1,90 @@
+id: CharlesH03
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: TimothyB01
+parentLetter: T
+parentDesc: Timothy Birum Vining and Sina Jones
+head:
+  givenName: Charles Horace
+  birth:
+    date: 19 April 1830
+    place: Ohio
+  death:
+    date: 22 February 1913
+    place: Ohio
+marriages:
+  - date: 13 September 1855
+    place: Ohio
+    spouse:
+      givenName: Abiah
+      surname: Murray
+      birth:
+        date: 15 February 1841
+        place: Ohio
+      death:
+        date: 6 January 1925
+        place: "Pomeroy, Ohio"
+      burial:
+        place: "Stevens Stevenson Graveyard   Pomeroy, Ohio"
+childrenGroups:
+  - children:
+      - name: Amelda R. Vining
+        birth:
+          date: "1856"
+          place: Ohio
+        marriages:
+          - date: 1 January 1875
+            place: Ohio
+            spouse: Nial R. Hysell
+        death:
+          date: "1930"
+          place: Ohio
+      - name: "A[u]gusta Vining"
+        birth:
+          date: "1862"
+          place: Ohio
+      - name: Charles W. Vining
+        birth:
+          date: "1864"
+          place: Ohio
+      - name: Violet E. Vining
+        birth:
+          date: "1868"
+          place: Ohio
+      - name: Horace Elvin Vining
+        entryId: HoraceE01
+        entryLetter: H
+        birth:
+          date: 31 March 1876
+          place: "Pomeroy, Ohio"
+        marriages:
+          - date: "1901"
+            spouse: Lula R. Harvey
+        death:
+          date: 29 March 1960
+          place: "Akron, Ohio"
+        burial:
+          place: "Crrown Hill Cemetery and Mausoleum   Twinsburg, Ohio"
+docsUrl: Csources/CharlesH03doc.htm
+raw: |-
+  <a name="CharlesH03"></a><font size=+2>Charles Horace Vining</font>
+     (son of <a href="Tfamilies.htm#TimothyB01">Timothy Birum Vining and Sina Jones</a>)
+     b. 19 April 1830   Ohio
+     m. 13 September 1855   Ohio
+           Abiah Murray
+                 (dau. of Thomas Murray and Marinda Stevens)
+                 b. 15 February 1841   Ohio
+                 d. 6 January 1925   Pomeroy, Ohio
+                       bur. Stevens Stevenson Graveyard   Pomeroy, Ohio
+     d. 22 February 1913   Ohio
+           bur. Stevens Stevenson Graveyard   Pomeroy, Ohio
+  
+  <font size=+1>children:</font>
+     Amelda R. Vining   b. 1856   Ohio   -   m. 1 January 1875   Ohio   Nial R. Hysell   -   d. 1930   Ohio
+     A[u]gusta Vining   b. 1862   Ohio
+     Charles W. Vining   b. 1864   Ohio
+     Violet E. Vining   b. 1868   Ohio
+     <a href="Hfamilies.htm#HoraceE01">Horace Elvin Vining</a>   b. 31 March 1876   Pomeroy, Ohio   -   m. 1901   Lula R. Harvey   -   d. 29 March 1960   Akron, Ohio   -   bur. Crrown Hill Cemetery and Mausoleum   Twinsburg, Ohio
+  
+  <a href="Csources/CharlesH03doc.htm">documentation and notes</a>

@@ -1,0 +1,45 @@
+id: CarlFJr01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CarlF01
+parentDesc: "Carl F. Vining and Grace E. [&#8230;]"
+head:
+  givenName: Carl F. Jr.
+  birth:
+    date: 15 July 1927
+    place: California
+  death:
+    date: 5 July 2015
+marriages:
+  - date: 14 May 1949
+    place: "Carson City, Nevada"
+    spouse:
+      givenName: Madeline
+      surname: Thompson
+      birth:
+        date: 20 September 1929
+      death:
+        date: 11 November 2015
+childrenGroups:
+  - children:
+      - name: Eric Vining
+      - name: Susan Vining
+        marriages:
+          - date: David Ahrens
+docsUrl: Csources/CarlFJr01doc.htm
+raw: |-
+  <a name="CarlFJr01"></a><font size=+2>Carl F. Vining Jr.</font>
+     (son of <a href="#CarlF01">Carl F. Vining and Grace E. [&#8230;]</a>)
+     b. 15 July 1927   California
+     m. 14 May 1949   Carson City, Nevada
+           Madeline Thompson
+                 b. 20 September 1929
+                 d. 11 November 2015
+     d. 5 July 2015
+  
+  <font size=+1>children:</font>
+     Eric Vining
+     Susan Vining   m. David Ahrens
+  
+  <a href="Csources/CarlFJr01doc.htm">documentation and notes</a>

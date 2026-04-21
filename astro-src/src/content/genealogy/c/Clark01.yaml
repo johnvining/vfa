@@ -1,0 +1,25 @@
+id: Clark01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RobertA02
+parentLetter: R
+parentDesc: "Robert A. Vining and Patricia [...]"
+head:
+  givenName: Clark
+marriages:
+  - spouse:
+      givenName: Megan
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Luke Vining
+      - name: Rylee Vining
+raw: |-
+  <a name="Clark01"></a><font size=+2>Clark Vining</font>
+     (son of <a href="Rfamilies.htm#RobertA02">Robert A. Vining and Patricia [...]</a>)
+     m. Megan [...]
+  
+  <font size=+1>children:</font>
+     Luke Vining
+     Rylee Vining

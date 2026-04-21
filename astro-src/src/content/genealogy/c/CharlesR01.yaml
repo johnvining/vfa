@@ -1,0 +1,34 @@
+id: CharlesR01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: SamuelE01
+parentLetter: S
+parentDesc: Samuel E. Vining and Harriet A. Booth
+head:
+  givenName: Charles Raymond
+  birth:
+    date: 28 June 1894
+    place: "Worcester, Massachusetts"
+  death:
+    date: 8 February 1964
+    place: "St. Petersburg, Florida"
+marriages:
+  - number: 1
+    date: Edna Chapman
+    spouse:
+      givenName: divorced
+      surname: divorced
+  - number: 2
+    date: "Frances [...]"
+raw: |-
+  <a name="CharlesR01"></a><font size=+2>Charles Raymond Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelE01">Samuel E. Vining and Harriet A. Booth</a>
+     b. 28 June 1894   Worcester, Massachusetts
+     m. (1) Edna Chapman
+                 divorced
+           (2) Frances [...]
+     d. 8 February 1964   St. Petersburg, Florida
+  
+  <font size=+1>child by ?:</font>
+     <a href="Rfamilies.htm#RaymondH02">Raymond Harrison Vining</a>

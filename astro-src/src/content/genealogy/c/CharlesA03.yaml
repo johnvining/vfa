@@ -1,0 +1,60 @@
+id: CharlesA03
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ErastusC01
+parentLetter: E
+parentDesc: Erastus Clarkson Vining and Elizabeth E. Riston
+head:
+  givenName: Charles Augustus
+  birth:
+    date: 16 April 1880
+    place: Kansas
+  death:
+    date: 22 January 1951
+childrenGroups:
+  - children:
+      - name: Lester Richard Vining
+        entryId: LesterR02
+        entryLetter: L
+        birth:
+          date: 17 April 1912
+          place: "Garbor, Missouri"
+        marriages:
+          - date: 8 January 1934
+            place: "Reed's Spring, Missouri"
+            spouse: Lois Mabel Lewallen
+        death:
+          date: 26 January 1998
+          place: "(last residence: Branson, Missouri)"
+        burial:
+          place: "Evergreen Cemetery   Branson, Missouri"
+      - name: Elmer Vining
+      - name: Beulah May Vining
+        birth:
+          date: 31 May 1915
+        marriages:
+          - number: 1
+            date: 12 April 1930
+            spouse: "Will Lelallen,   divorced"
+          - number: 2
+            date: 26 September 1969
+            spouse: Robert Page
+      - name: Ethel Vining
+        marriages:
+          - date: "[...] Lewallen"
+docsUrl: Csources/CharlesA03doc.htm
+raw: |-
+  <a name="CharlesA03"></a><font size=+2>Charles Augustus Vining</font>
+     (son of <a href="Efamilies.htm#ErastusC01">Erastus Clarkson Vining and Elizabeth E. Riston</a>)
+     b. 16 April 1880   Kansas
+     d. 22 January 1951
+           bur. Evergreen Cemetery   Branson, Missouri
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LesterR02">Lester Richard Vining</a>   b. 17 April 1912   Garbor, Missouri   -   m. 8 January 1934   Reed's Spring, Missouri   Lois Mabel Lewallen   -   d. 26 January 1998   (last residence: Branson, Missouri)   -   bur. Evergreen Cemetery   Branson, Missouri
+     Elmer Vining
+     Beulah May Vining   b. 31 May 1915   -   m. (1) 12 April 1930   Will Lelallen,   divorced;   (2) 26 September 1969   Robert Page
+     Ethel Vining   m. [...] Lewallen
+  
+  <a href="Csources/CharlesA03doc.htm">documentation and notes</a>

@@ -1,0 +1,52 @@
+id: CharlesE02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JamesJ02
+parentLetter: J
+parentDesc: James John Vining and Edith Alfeld Johnson
+head:
+  givenName: Charles Evan
+  birth:
+    date: 20 August 1932
+    place: "Kansas City, Missouri"
+  death:
+    date: 30 August 2020
+    place: "Kansas City, Missouri"
+marriages:
+  - date: 22 August 1953
+    place: "Denver, Colorado"
+    spouse:
+      givenName: Laura M.
+      surname: Pressly
+      birth:
+        date: 26 February 1933
+        place: "Denver, Colorado"
+      death:
+        date: 26 April 2006
+        place: "Kansas City, Missouri"
+childrenGroups:
+  - children:
+      - name: Timothy Vining
+      - name: Jayne Vining
+        marriages:
+          - date: "[...] Yunghans"
+      - name: James Vining
+docsUrl: Csources/CharlesE02doc.htm
+raw: |-
+  <a name="CharlesE02"></a><font size=+2>Charles Evan Vining</font>
+     (son of <a href="Jfamilies.htm#JamesJ02">James John Vining and Edith Alfeld Johnson</a>)
+     b. 20 August 1932   Kansas City, Missouri
+     m. 22 August 1953   Denver, Colorado
+           Laura M. Pressly
+                 (dau. of Hearst Pressly and Marion Bowie)
+                 b. 26 February 1933   Denver, Colorado
+                 d. 26 April 2006   Kansas City, Missouri
+     d. 30 August 2020   Kansas City, Missouri
+  
+  <font size=+1>children:</font>
+     Timothy Vining
+     Jayne Vining   m. [...] Yunghans
+     James Vining
+  
+  <a href="Csources/CharlesE02doc.htm">documentation and notes</a>

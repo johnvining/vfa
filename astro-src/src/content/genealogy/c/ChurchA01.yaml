@@ -1,0 +1,96 @@
+id: ChurchA01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Oliver01
+parentLetter: O
+parentDesc: Oliver Vining and Mary R. Burchim
+head:
+  givenName: Church Abijah
+  birth:
+    date: 2 January 1872
+    place: Illinois
+  death:
+    date: 20 September 1942
+marriages:
+  - date: 15 January 1896
+    spouse:
+      givenName: Edith Rachel
+      surname: Case
+      birth:
+        date: 4 August 1874
+        place: "Aroma Park, Illinois"
+childrenGroups:
+  - children:
+      - name: Warren Oliver Vining
+        birth:
+          date: 9 December 1896
+        death:
+          date: after 1900 census and prior to 1910 census
+      - name: Eva Mae Vining
+        birth:
+          date: 25 July 1898
+          place: Illinois
+        marriages:
+          - number: 1
+            date: Hans Breiholtz (d.)
+          - number: 2
+            date: Benjamin Bain
+      - name: Estella Pearl Vining
+        birth:
+          date: 11 October 1900
+          place: Illinois
+        marriages:
+          - date: Frank Rhoads
+      - name: Alice Ruth Vining
+        birth:
+          date: 16 February 1903
+          place: Iowa
+        marriages:
+          - date: "Humeston, Iowa"
+            spouse: Daryl Gardner
+      - name: Walter Ray Vining
+        entryId: WalterR01
+        entryLetter: W
+        birth:
+          date: 27 June 1905
+          place: Iowa
+        marriages:
+          - date: 8 June 1932
+            place: "Odebolt, Iowa"
+            spouse: Alice Marie Anderson
+        death:
+          date: 18 November 1963
+      - name: Percy Fayette Vining
+        entryId: PercyF01
+        entryLetter: P
+        birth:
+          date: 25 April 1909
+          place: Iowa
+        marriages:
+          - date: Virginia Elizabeth Tillotson
+        death:
+          date: 27 August 1992
+          place: "Ash Flat, Arkansas"
+        burial:
+          place: "Oaklawn Cemetery   Cherokee Village, Arkansas"
+docsUrl: Csources/ChurchA01doc.htm
+raw: |-
+  <a name="ChurchA01"></a><font size=+2>Church Abijah Vining</font>
+     (son of <a href="Ofamilies.htm#Oliver01">Oliver Vining and Mary R. Burchim</a>)
+     b. 2 January 1872   Illinois
+     m. 15 January 1896
+           Edith Rachel Case
+                 (dau. of Oscar Napoleon Case and Evaline Hammond)
+                 b. 4 August 1874   Aroma Park, Illinois
+     d. 20 September 1942
+  
+  <font size=+1>children:</font>
+     Warren Oliver Vining   b. 9 December 1896   -   d. after 1900 census and prior to 1910 census
+     Eva Mae Vining   b. 25 July 1898   Illinois   -   m. (1) Hans Breiholtz (d.);   (2) Benjamin Bain
+     Estella Pearl Vining   b. 11 October 1900   Illinois   -   m. Frank Rhoads
+     Alice Ruth Vining   b. 16 February 1903   Iowa   -   m. Humeston, Iowa   Daryl Gardner
+     <a href="Wfamilies.htm#WalterR01">Walter Ray Vining</a>   b. 27 June 1905   Iowa   -   m. 8 June 1932   Odebolt, Iowa   Alice Marie Anderson   -   d. 18 November 1963
+     <a href="Pfamilies.htm#PercyF01">Percy Fayette Vining</a>   b. 25 April 1909   Iowa   -   m. Virginia Elizabeth Tillotson   -   d. 27 August 1992   Ash Flat, Arkansas   -   bur. Oaklawn Cemetery   Cherokee Village, Arkansas
+  
+  <a href="Csources/ChurchA01doc.htm">documentation and notes</a>

@@ -1,0 +1,40 @@
+id: CecilE01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Cecil E.
+  birth:
+    date: 16 August 1943
+    place: "Richmond County, Georgia"
+  death:
+    date: 3 April 1994
+    place: "Columbia County, Georgia"
+marriages:
+  - date: 14 November 1987
+    spouse:
+      givenName: Lorene
+      surname: Disher
+      birth:
+        date: 19 February 1951
+childrenGroups:
+  - children:
+      - name: Michael S. Vining
+      - name: Angela Vining
+docsUrl: Csources/CecilE01doc.htm
+raw: |-
+  <a name="CecilE01"></a><font size=+2>Cecil E. Vining</font>
+     (son of [?])
+     b. 16 August 1943   Richmond County, Georgia
+     m. 14 November 1987
+           Lorene Disher
+                 b. 19 February 1951
+     d. 3 April 1994   Columbia County, Georgia
+              bur. Bellevue Memorial Gardens   Columbia County, Georgia
+  
+  <font size=+1>children:</font>
+     Michael S. Vining
+     Angela Vining
+  
+  <a href="Csources/CecilE01doc.htm">documentation and notes</a>

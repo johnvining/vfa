@@ -1,0 +1,61 @@
+id: ClintonE01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EdwardP01
+parentLetter: E
+parentDesc: Edward Payson Vining and Esther May Burbank
+head:
+  givenName: Clinton E.
+  birth:
+    date: 13 December 1883
+    place: "Weld, Maine"
+  death:
+    date: 8 March 1924
+    place: "Strong, Maine"
+marriages:
+  - date: 7 September 1914
+    place: "Temple, Maine"
+    spouse:
+      givenName: Rosie E.
+      surname: Walker
+      birth:
+        date: age 20 y. at marriage
+        place: "Avon, Maine"
+childrenGroups:
+  - children:
+      - name: Edward Clinton Vining
+        birth:
+          date: 5 December 1916
+          place: "Temple, Maine"
+      - name: Rena Vining
+        birth:
+          date: 14 April 1918
+          place: "Temple, Maine"
+      - name: Frances Emma Vining
+        birth:
+          date: 24 February 1923
+          place: "Temple, Maine"
+      - name: Erltine Nicca Vining
+        birth:
+          date: 18 August 1924
+          place: "Temple, Maine"
+docsUrl: Csources/ClintonE01doc.htm
+raw: |-
+  <a name="ClintonE01"></a><font size=+2>Clinton E. Vining</font>
+     (son of <a href="Efamilies.htm#EdwardP01">Edward Payson Vining and Esther May Burbank</a>)
+     b. 13 December 1883   Weld, Maine
+     m. 7 September 1914   Temple, Maine
+           Rosie E. Walker
+                 (dau. of Frank Walker and E[...]a Orberton)
+                 b. age 20 y. at marriage   Avon, Maine
+     d. 8 March 1924   Strong, Maine
+           bur. Temple, Maine
+  
+  <font size=+1>children:</font>
+     Edward Clinton Vining   b. 5 December 1916   Temple, Maine
+     Rena Vining   b. 14 April 1918   Temple, Maine
+     Frances Emma Vining   b. 24 February 1923   Temple, Maine
+     Erltine Nicca Vining   b. 18 August 1924   Temple, Maine
+  
+  <a href="Csources/ClintonE01doc.htm">documentation and notes</a>

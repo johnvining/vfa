@@ -1,0 +1,63 @@
+id: CaryW01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CalvinS01
+parentDesc: Calvin Seneca Vining and Almeda Veste White
+head:
+  givenName: Cary Warren
+  birth:
+    date: 5 November 1859
+    place: "Eden, Lake County, Michigan"
+  death:
+    date: "1940"
+marriages:
+  - number: 1
+    date: "1887"
+    place: Michigan
+childrenGroups:
+  - spouseRef: May Kendall
+    children:
+      - name: Keats Kendall Vining
+        entryId: KeatsK01
+        entryLetter: K
+        birth:
+          date: 15 July 1889
+          place: Michigan
+        marriages:
+          - date: Lavesta Edgerly
+        death:
+          date: February 1973
+          place: "(last residence: Grand Rapids, Kent County, Michigan)"
+      - name: Marguerite M. Vining
+        birth:
+          date: 14 December 1891
+          place: "Lakeview, Montcalm County, Michigan"
+        marriages:
+          - date: 14 July 1917
+            place: "New York, New York"
+            spouse: Henry McIntosh Moore
+        death:
+          date: 2 September 1982
+          place: "Thomasville, Thomas County, Georgia"
+docsUrl: Csources/CaryW01doc.htm
+raw: |-
+  <a name="CaryW01"></a><font size=+2>Cary Warren Vining</font>
+     (son of <a href="#CalvinS01">Calvin Seneca Vining and Almeda Veste White</a>)
+     b. 5 November 1859   Eden, Lake County, Michigan
+     m. (1) 1887   Michigan
+              May Kendall
+                    (dau. of John B. Kendall and Elizabeth Stuart)
+                    b. 26 October 1866   Michigan
+                    d. 7 February 1920   Lakeview, Montcalm County, Michigan
+                          bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+        (2) Harriet A. [&#8230;]
+                    b. age 61 y. as of 1930 census   Michigan
+     d. 1940
+           bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+  
+  <font size=+1>children by May Kendall:</font>
+     <a href="Kfamilies.htm#KeatsK01">Keats Kendall Vining</a>   b. 15 July 1889   Michigan   -   m. Lavesta Edgerly   -   d. February 1973   (last residence: Grand Rapids, Kent County, Michigan)
+     Marguerite M. Vining   b. 14 December 1891   Lakeview, Montcalm County, Michigan   -   m. 14 July 1917   New York, New York   Henry McIntosh Moore   -   d. 2 September 1982   Thomasville, Thomas County, Georgia
+  
+  <a href="Csources/CaryW01doc.htm">documentation and notes</a>

@@ -1,0 +1,44 @@
+id: CharlesM05
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Artie01
+parentLetter: A
+parentDesc: Artie Vining and Elenora Nasyomas Hall
+head:
+  givenName: Charles Marion
+  birth:
+    date: 19 July 1934
+    place: "Limestone County, Alabama"
+  death:
+    date: 15 May 2012
+    place: "Hueytown, Alabama"
+marriages:
+  - spouse:
+      givenName: Charlotte
+      surname: Waller
+childrenGroups:
+  - children:
+      - name: Charles Marion Vining Jr.
+        marriages:
+          - date: "Natalie [&#8230;]"
+      - name: Cheryl Vining
+        marriages:
+          - date: Tim Childers
+docsUrl: Csources/CharlesM05doc.htm
+raw: |-
+  <a name="CharlesM05"></a><font size=+2>Charles Marion Vining</font>
+     (son of <a href="Afamilies.htm#Artie01">Artie Vining and Elenora Nasyomas Hall</a>)
+     b. 19 July 1934   Limestone County, Alabama
+     m. Charlotte Waller
+              (dau. of William Waller and Oneita [&#8230;])
+              d. 26 January 2020
+                    bur. Forest Grove Memorial Gardens   Pleasant Grove, Alabama
+     d. 15 May 2012   Hueytown, Alabama
+           bur. Forest Grove Memorial Gardens   Pleasant Grove, Alabama
+  
+  <font size=+1>children:</font>
+     Charles Marion Vining Jr.   m. Natalie [&#8230;]
+     Cheryl Vining   m. Tim Childers
+  
+  <a href="Csources/CharlesM05doc.htm">documentation and notes</a>

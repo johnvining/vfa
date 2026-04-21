@@ -1,0 +1,53 @@
+id: CharlesW02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Charles W.
+  birth:
+    date: September 1871
+    place: Illinois
+marriages:
+  - date: 5 y. as of 1900 census
+    spouse:
+      givenName: Josephine M.
+      surname: White
+      birth:
+        date: April 1872
+        place: Illinois
+childrenGroups:
+  - children:
+      - name: Donald C. Vining
+        birth:
+          date: December 1895
+          place: Illinois
+      - name: Charles Edward Vining
+        entryId: CharlesE01
+        birth:
+          date: 4 September 1899
+          place: "Essex, Illinois"
+        marriages:
+          - number: 1
+            date: "[...]"
+          - number: 2
+            date: Myrtle Burns
+        death:
+          date: 15 October 1956
+          place: "Chicago, Illinois"
+        burial:
+          place: "Elm Lawn Cemetery   Elmhurst, Illinois"
+docsUrl: Csources/CharlesW02doc.htm
+raw: |-
+  <a name="CharlesW02"></a><font size=+2>Charles W. Vining</font>
+     (son of [?])
+     b. September 1871   Illinois
+     m. 5 y. as of 1900 census
+           Josephine M. White
+                 b. April 1872   Illinois
+  
+  <font size=+1>children:</font>
+     Donald C. Vining   b. December 1895   Illinois
+     <a href="#CharlesE01">Charles Edward Vining</a>   b. 4 September 1899   Essex, Illinois   -   m. (1) [...];   (2) Myrtle Burns   -   d. 15 October 1956   Chicago, Illinois   -   bur. Elm Lawn Cemetery   Elmhurst, Illinois
+  
+  <a href="Csources/CharlesW02doc.htm">documentation and notes</a>

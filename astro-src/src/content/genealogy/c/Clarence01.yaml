@@ -1,0 +1,42 @@
+id: Clarence01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: HarrisonS01
+parentLetter: H
+parentDesc: Harrison S. Vining and Lucy I. Simonton
+head:
+  givenName: Clarence
+  birth:
+    date: age 9 y. as of 1860 census
+    place: Maine
+marriages:
+  - number: 1
+    date: 7 y. as of 1900 census
+    spouse:
+      givenName: Sarah
+      surname: "[...]"
+      birth:
+        date: April 1850
+        place: Maine
+  - number: 2
+    date: 4 y. as of 1910 census
+    spouse:
+      givenName: Ella H.
+      surname: "[...]"
+      birth:
+        date: age 34 y. as of 1910 census
+        place: New York
+raw: |-
+  <a name="Clarence01"></a><font size=+2>Clarence Vining</font>
+     (son of <a href="Hfamilies.htm#HarrisonS01">Harrison S. Vining and Lucy I. Simonton</a>)
+     b. age 9 y. as of 1860 census   Maine
+     m. (1) 7 y. as of 1900 census
+                 Sarah [...]
+                       b. April 1850   Maine
+           (2) 4 y. as of 1910 census
+                 Ella H. [...]
+                       b. age 34 y. as of 1910 census   New York
+  
+  <font size=+1>child by Sarah [...]:</font>
+     Mildred Vining   b. June 1898   New York

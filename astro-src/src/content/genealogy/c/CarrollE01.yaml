@@ -1,0 +1,71 @@
+id: CarrollE01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnB03
+parentLetter: J
+parentDesc: John Burbank Vining and Elsie May Blackwell
+head:
+  givenName: Carroll Edward
+  birth:
+    date: 22 September 1923
+    place: "Freeman, Franklin County, Maine"
+  death:
+    date: 6 June 1985
+    place: "Portland, Maine"
+marriages:
+  - date: 27 August 1950
+    place: "Cumberland, Cumberland County, Maine"
+    spouse:
+      givenName: Claire Isabel
+      surname: Doughty
+      birth:
+        date: 26 October 1927
+        place: "Cumberland, Cumberland County, Maine"
+      death:
+        date: 30 April 2019
+      burial:
+        place: "Moss Side Cemetery   Cumberland, Cumberland County, Maine"
+childrenGroups:
+  - children:
+      - name: Gregory Earl Vining
+        entryId: GregoryE01
+        entryLetter: G
+        birth:
+          date: 28 November 1957
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - number: 1
+            date: 28 May 1983
+            spouse: "Sara Frey Taylor,   (2) Terry [...]"
+      - name: Neal David Vining
+        birth:
+          date: 26 September 1960
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: 31 July 1993
+            spouse: Barbie-Jo Harmon
+      - name: Janet Louise Vining
+        birth:
+          date: 13 June 1966
+          place: "Portland, Cumberland County, Maine"
+docsUrl: Csources/CarrollE01doc.htm
+raw: |-
+  <a name="CarrollE01"></a><font size=+2>Carroll Edward Vining</font>
+     (son of <a href="Jfamilies.htm#JohnB03">John Burbank Vining and Elsie May Blackwell</a>)
+     b. 22 September 1923   Freeman, Franklin County, Maine
+     m. 27 August 1950   Cumberland, Cumberland County, Maine
+           Claire Isabel Doughty
+                 (dau. of Benjamin Franklin Doughty and Ruth Eleanora Allen)
+                 b. 26 October 1927   Cumberland, Cumberland County, Maine
+                 d. 30 April 2019
+                       bur. Moss Side Cemetery   Cumberland, Cumberland County, Maine
+     d. 6 June 1985   Portland, Maine
+           bur. Moss Side Cemetery   Cumberland, Cumberland County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GregoryE01">Gregory Earl Vining</a>   b. 28 November 1957   Portland, Cumberland County, Maine   -   m. (1) 28 May 1983   Sara Frey Taylor,   (2) Terry [...]
+     Neal David Vining   b. 26 September 1960   Portland, Cumberland County, Maine   -   m. 31 July 1993   Barbie-Jo Harmon
+     Janet Louise Vining   b. 13 June 1966   Portland, Cumberland County, Maine
+  
+  <a href="Csources/CarrollE01doc.htm">documentation and notes</a>

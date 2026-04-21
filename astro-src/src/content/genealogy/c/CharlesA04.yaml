@@ -1,0 +1,78 @@
+id: CharlesA04
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesA07
+parentDesc: Charles Augustus Vining and Mary Josephine Smith
+head:
+  givenName: Charles Albert
+  birth:
+    date: "1886"
+    place: Missouri
+  death:
+    date: "1946"
+    place: "Stoutland, Missouri"
+marriages:
+  - spouse:
+      givenName: "[1?] Kansas City,"
+      surname: Missouri
+      birth:
+        date: age 42 y. as of 1930 census
+        place: Missouri
+      death:
+        date: 13 September 1962
+        place: "Kansas City, Missouri"
+      burial:
+        place: "Forest Hill Cemetery   Kansas City, Jackson County, Missouri"
+childrenGroups:
+  - children:
+      - name: Charles A. Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Missouri
+        marriages:
+          - date: Adna Kerney
+      - name: Lottie Alice Vining
+        birth:
+          date: 19 February 1916
+          place: Missouri
+        marriages:
+          - number: 1
+            date: "Kansas City, Missouri"
+            spouse: Clyde Kerney
+          - number: 2
+            date: "[&#8230;] Eckerle"
+        death:
+          date: August 1986
+          place: "Independence, Missouri"
+      - name: George Alfred Vining
+        birth:
+          date: 15 September 1917
+          place: "Kansas City, Missouri"
+        marriages:
+          - date: "[&#8230;] Marlowe"
+        death:
+          date: October 1973
+          place: "Kansas City, Missouri"
+docsUrl: Csources/CharlesA04doc.htm
+raw: |-
+  <a name="CharlesA04"></a><font size=+2>Charles Albert Vining</font>
+     (son of <a href="#CharlesA07">Charles Augustus Vining and Mary Josephine Smith</a>)
+     b. 1886   Missouri
+     m. [1?] Kansas City, Missouri
+                 Ada Alice Hall
+                       (dau. of Alfred Robert Hall Sr. and Melissa Ann Thomas)
+                       b. 6 November 1897   Kansas City, Missouri
+                       d. 13 September 1962   Kansas City, Missouri
+                             bur. Forest Hill Cemetery   Kansas City, Jackson County, Missouri
+           [2?] Lottie [&#8230;]
+                       b. age 42 y. as of 1930 census   Missouri
+     d. 1946   Stoutland, Missouri
+           bur. Forest Hill Cemetery   Kansas City, Jackson County, Missouri
+  
+  <font size=+1>children:</font>
+     Charles A. Vining   b. age 5 y. as of 1920 census   Missouri   -   m. Adna Kerney
+     Lottie Alice Vining   b. 19 February 1916   Missouri   -   m. (1) Kansas City, Missouri   Clyde Kerney;   (2) [&#8230;] Eckerle   -   d. August 1986   Independence, Missouri
+     George Alfred Vining   b. 15 September 1917   Kansas City, Missouri   -   m. [&#8230;] Marlowe   -   d. October 1973   Kansas City, Missouri
+  
+  <a href="Csources/CharlesA04doc.htm">documentation and notes</a>

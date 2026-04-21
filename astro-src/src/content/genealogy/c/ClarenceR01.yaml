@@ -1,0 +1,89 @@
+id: ClarenceR01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JamesB03
+parentLetter: J
+parentDesc: James Benjamin Vining and Clara Rosella Hand
+head:
+  givenName: Clarence Russell
+  birth:
+    date: 17 April 1894
+    place: "Marshallville, Georgia"
+  death:
+    date: 14 November 1979
+    place: "Columbus, Georgia"
+marriages:
+  - date: 28 March 1920
+    place: "Columbus, Georgia"
+    spouse:
+      givenName: Myrtle Ella
+      surname: Tomblin
+      birth:
+        date: 4 July 1900
+        place: "Columbus, Georgia"
+childrenGroups:
+  - children:
+      - name: Pauline Vining
+        birth:
+          date: age 7 y. as of 1930 census
+          place: Georgia
+        marriages:
+          - date: "[...] Kieschnick"
+      - name: Dorothy Vining
+        birth:
+          date: age 5 y. as of 1930 census
+          place: Georgia
+        marriages:
+          - date: "[...] McNally"
+      - name: Malcolm T. Vining
+        birth:
+          date: "age 4 y., [?] m. as of 1930 census"
+          place: Georgia
+      - name: Helen Vining
+        birth:
+          date: "age [?] as of 1930 census"
+          place: Georgia
+      - name: Kenneth E. Vining
+      - name: Donald Preston Vining
+        entryId: DonaldP01
+        entryLetter: D
+        birth:
+          date: 10 September 1940
+          place: "Marshallville, Georgia"
+        marriages:
+          - date: Bobbie Jean Beasley
+      - name: Daniel W. Vining
+      - name: Joyce Vining
+        marriages:
+          - date: "[...] Williams"
+      - name: Delores Vining
+        marriages:
+          - date: "[...] Knox"
+      - name: Sara Vining
+        marriages:
+          - date: "[...] Shirk"
+docsUrl: Csources/ClarenceR01doc.htm
+raw: |-
+  <a name="ClarenceR01"></a><font size=+2>Clarence Russell Vining</font>
+     (son of <a href="Jfamilies.htm#JamesB03">James Benjamin Vining and Clara Rosella Hand</a>)
+     b. 17 April 1894   Marshallville, Georgia
+     m. 28 March 1920   Columbus, Georgia
+           Myrtle Ella Tomblin
+                 b. 4 July 1900   Columbus, Georgia
+     d. 14 November 1979   Columbus, Georgia
+           bur. Evergreen Cemetery   [Columbus, Georgia?]
+  
+  <font size=+1>children:</font>
+     Pauline Vining   b. age 7 y. as of 1930 census   Georgia   -   m. [...] Kieschnick
+     Dorothy Vining   b. age 5 y. as of 1930 census   Georgia   -   m. [...] McNally
+     Malcolm T. Vining   b. age 4 y., [?] m. as of 1930 census   Georgia
+     Helen Vining   b. age [?] as of 1930 census   Georgia
+     Kenneth E. Vining
+     <a href="Dfamilies.htm#DonaldP01">Donald Preston Vining</a>   b. 10 September 1940   Marshallville, Georgia   -   m. Bobbie Jean Beasley
+     Daniel W. Vining
+     Joyce Vining   m. [...] Williams
+     Delores Vining   m. [...] Knox
+     Sara Vining   m. [...] Shirk
+  
+  <a href="Csources/ClarenceR01doc.htm">documentation and notes</a>

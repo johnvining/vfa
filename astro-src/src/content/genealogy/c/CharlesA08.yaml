@@ -1,0 +1,93 @@
+id: CharlesA08
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: StephenW02
+parentLetter: S
+parentDesc: Stephen W. Vining and Mary Amelia Pringle
+head:
+  givenName: Charles Arnold
+  birth:
+    date: March 1863
+    place: Iowa
+  death:
+    date: 9 December 1937
+    place: "Napa County, California"
+marriages:
+  - spouse:
+      givenName: Mary Alice
+      surname: Pyle
+childrenGroups:
+  - children:
+      - name: Minnie A. Vining
+        birth:
+          date: November 1889
+          place: Iowa
+        marriages:
+          - date: "[...] Sinclair"
+        death:
+          date: "1977"
+      - name: Clarence Lee Vining
+        entryId: ClarenceL01
+        birth:
+          date: 13 March 1891
+          place: "Otter Creek, Iowa"
+        marriages:
+          - date: 20 y. as of 1930 census
+            spouse: "Jennie M. [&#8230;]"
+        death:
+          date: September 1974
+          place: "San Mateo, California"
+      - name: Glenn Dale Vining
+        entryId: GlennD01
+        entryLetter: G
+        birth:
+          date: 8 August 1893
+          place: Iowa
+        marriages:
+          - date: 12 y. as of 1930 census
+            spouse: "Vera L. [&#8230;]"
+      - name: Harold Raymond Vining
+        entryId: HaroldR02
+        entryLetter: H
+        birth:
+          date: 12 May 1895
+          place: Iowa
+        marriages:
+          - date: "Nina E. [&#8230;]"
+        death:
+          date: 23 May 1937
+        burial:
+          place: "Filer Cemetery   Filer, Idaho"
+      - name: Fern Vining
+        birth:
+          date: "[March?] 1897"
+          place: Iowa
+      - name: Velma Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Idaho
+      - name: Mildred Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Idaho
+docsUrl: Csources/CharlesA08doc.htm
+raw: |-
+  <a name="CharlesA08"></a><font size=+2>Charles Arnold Vining</font>
+     (son of <a href="Sfamilies.htm#StephenW02">Stephen W. Vining and Mary Amelia Pringle</a>
+     b. March 1863   Iowa
+     m. Mary Alice Pyle
+              b. March 1870   Michigan
+     d. 9 December 1937   Napa County, California
+           bur. Filer Cemetery   Filer, Idaho
+  
+  <font size=+1>children:</font>
+     Minnie A. Vining   b. November 1889   Iowa   -   m. [...] Sinclair   -   d. 1977
+     <a href="#ClarenceL01">Clarence Lee Vining</a>   b. 13 March 1891   Otter Creek, Iowa   -   m. 20 y. as of 1930 census   Jennie M. [&#8230;]   -   d. September 1974   San Mateo, California
+     <a href="Gfamilies.htm#GlennD01">Glenn Dale Vining</a>   b. 8 August 1893   Iowa   -   m. 12 y. as of 1930 census   Vera L. [&#8230;]   
+     <a href="Hfamilies.htm#HaroldR02">Harold Raymond Vining</a>   b. 12 May 1895   Iowa   -   m. Nina E. [&#8230;]   -   d. 23 May 1937   -   bur. Filer Cemetery   Filer, Idaho
+     Fern Vining   b. [March?] 1897   Iowa
+     Velma Vining   b. age 7 y. as of 1910 census   Idaho
+     Mildred Vining   b. age 3 y. as of 1910 census   Idaho
+  
+  <a href="Csources/CharlesA08doc.htm">documentation and notes</a>

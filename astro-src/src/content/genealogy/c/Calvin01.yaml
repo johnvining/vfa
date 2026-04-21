@@ -1,0 +1,125 @@
+id: Calvin01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Jonas01
+parentLetter: J
+parentDesc: Jonas Vining and Sarah Page
+head:
+  givenName: Calvin
+  birth:
+    date: 28 March 1803
+    place: "Chenango County, New York"
+  death:
+    date: 18 January 1858
+    place: Ohio
+marriages:
+  - date: ca. 1824
+    spouse:
+      givenName: Mary Ann
+      surname: Noe
+      birth:
+        date: 8 November 1804
+        place: New Jersey
+      death:
+        date: "20 [March or April?] 1868"
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: Elias M. Vining
+        entryId: EliasM01
+        entryLetter: E
+        birth:
+          date: age 26 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: January 1846
+            spouse: Jane Bunker
+      - name: Nancy Vining
+        birth:
+          date: "1825"
+          place: Ohio
+        marriages:
+          - date: Joseph DeGood
+        death:
+          date: "1854"
+          place: Ohio
+      - name: daughter
+      - name: daughter
+      - name: William Vining
+        entryId: William03
+        entryLetter: W
+        birth:
+          date: age 17 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: 16 August 1858
+            place: Ohio
+            spouse: Celestia M. Horr
+      - name: Mary E. Vining
+        birth:
+          date: age 15 y. as of 1850 census
+        death:
+          date: 12 July 1858
+      - name: Phebe Vining
+        birth:
+          date: age 13 y. as of 1850 census
+      - name: Samuel Wesley Vining
+        entryId: SamuelW01
+        entryLetter: S
+        birth:
+          date: 24 November 1840
+          place: Ohio
+        marriages:
+          - date: "Ellen B. [&#8230;]"
+        death:
+          date: 21 September 1911
+          place: "Mount Gilead, Morrow County, Ohio"
+        burial:
+          place: "Rivercliff Cemetery   Mount Gilead, Morrow County, Ohio"
+      - name: Sarah Vining
+        birth:
+          date: age 8 y. as of 1850 census
+      - name: Henry Clay Vining
+        birth:
+          date: age 5 y. as of 1850 census
+        death:
+          date: 18 May 1854
+      - name: Isaac Edwin Vining
+        entryId: IsaacE02
+        entryLetter: I
+        birth:
+          date: 21 February 1850
+          place: "Bennington Township, licking County, Ohio"
+        marriages:
+          - date: 24 October 1871
+            place: "Morrow [County?], Ohio"
+            spouse: Mary Elizabeth Osborn
+        burial:
+          place: "Springdale Cemetery   Clinton, Clinton County, Iowa"
+docsUrl: Csources/Calvin01doc.htm
+raw: |-
+  <a name="Calvin01"></a><font size=+2>Calvin Vining</font>
+     (son of <a href="Jfamilies.htm#Jonas01">Jonas Vining and Sarah Page</a>)
+     b. 28 March 1803   Chenango County, New York
+     m. ca. 1824
+           Mary Ann Noe
+                 (dau. of Robert Noe and Mary Tappin[g?])
+                 b. 8 November 1804   New Jersey
+                 d. 20 [March or April?] 1868   Ohio
+     d. 18 January 1858   Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EliasM01">Elias M. Vining</a>   b. age 26 y. as of 1850 census   Ohio   -   m. January 1846   Jane Bunker
+     Nancy Vining   b. 1825   Ohio   -   m. Joseph DeGood   -   d. 1854   Ohio
+     daughter
+     daughter
+     <a href="Wfamilies.htm#William03">William Vining</a>   b. age 17 y. as of 1850 census   Ohio   -   m. 16 August 1858   Ohio   Celestia M. Horr
+     Mary E. Vining   b. age 15 y. as of 1850 census   -   d. 12 July 1858
+     Phebe Vining   b. age 13 y. as of 1850 census
+     <a href="Sfamilies.htm#SamuelW01">Samuel Wesley Vining</a>   b. 24 November 1840   Ohio   -   m. Ellen B. [&#8230;]   -   d. 21 September 1911   Mount Gilead, Morrow County, Ohio   -   bur. Rivercliff Cemetery   Mount Gilead, Morrow County, Ohio
+     Sarah Vining   b. age 8 y. as of 1850 census
+     Henry Clay Vining   b. age 5 y. as of 1850 census   -   d. 18 May 1854
+     <a href="Ifamilies.htm#IsaacE02">Isaac Edwin Vining</a>   b. 21 February 1850   Bennington Township, licking County, Ohio   -   m. 24 October 1871   Morrow [County?], Ohio   Mary Elizabeth Osborn   -   16 May 1920   Clinton, Clinton County, Iowa   -   bur. Springdale Cemetery   Clinton, Clinton County, Iowa
+  
+  <a href="Csources/Calvin01doc.htm">documentation and notes</a>

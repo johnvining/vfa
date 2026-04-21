@@ -1,0 +1,50 @@
+id: CliffordH01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: NathanielH02
+parentLetter: N
+parentDesc: Nathaniel Hanson Vining and Elsie Baird
+head:
+  givenName: Clifford Harold
+  birth:
+    date: 11 December 1936
+    place: "St. Albans, Maine"
+  death:
+    date: 4 February 2018
+    place: "Fort Myers, Florida"
+marriages:
+  - date: 5 January 1957
+    spouse:
+      givenName: Thelma June
+      surname: Sennett
+childrenGroups:
+  - children:
+      - name: Michael Earl Vining
+        entryId: MichaelE02
+        entryLetter: M
+        birth:
+          date: 4 February 1963
+        marriages:
+          - date: "Gerri [&#8230;]"
+      - name: Mark Alan Vining
+        entryId: MarkA02
+        entryLetter: M
+        birth:
+          date: 3 May 1969
+        marriages:
+          - date: "[&#8230;] Recklitis"
+docsUrl: Csources/CliffordH01doc.htm
+raw: |-
+  <a name="CliffordH01"></a><font size=+2>Clifford Harold Vining</font>
+     (son of <a href="Nfamilies.htm#NathanielH02">Nathaniel Hanson Vining and Elsie Baird</a>)
+     b. 11 December 1936   St. Albans, Maine
+     m. 5 January 1957
+           Thelma June Sennett
+     d. 4 February 2018   Fort Myers, Florida
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MichaelE02">Michael Earl Vining</a>   b. 4 February 1963   -   m. Gerri [&#8230;]
+     <a href="Mfamilies.htm#MarkA02">Mark Alan Vining</a>   b. 3 May 1969   -   m. [&#8230;] Recklitis
+  
+  <a href="Csources/CliffordH01doc.htm">documentation and notes</a>

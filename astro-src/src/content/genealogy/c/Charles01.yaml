@@ -1,0 +1,95 @@
+id: Charles01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasP01
+parentLetter: T
+parentDesc: "Thomas &#8220;Philo[w?]&#8221; Vining and Nancy A. [...]"
+head:
+  givenName: Charles
+  birth:
+    date: age 36 y. as of 1870 census
+    place: New York
+  death:
+    date: 1923/24
+    place: "Cincinnatus, Cortland County, New York"
+marriages:
+  - spouse:
+      givenName: "Chenango Forks, Broome County, New"
+      surname: York
+      birth:
+        date: "[1841 or age 31 y. as of 1870 census?]"
+        place: "Taylor, Cortland County, New York"
+      death:
+        date: "1924"
+        place: "Cincinnatus, Cortland County, New York"
+childrenGroups:
+  - children:
+      - name: Nancy Vining
+        birth:
+          date: December 1860
+          place: New York
+        marriages:
+          - date: William R. Parker
+      - name: Benjamin L. Vining
+        entryId: BenjaminL02
+        entryLetter: B
+        birth:
+          date: "1861"
+          place: New York
+        marriages:
+          - date: "Esther [Kellyhouse or Callyhouse?]"
+        death:
+          date: 28 January 1933
+          place: "Lower Cincinnatus, Cortland County, New York"
+        burial:
+          place: "Cincinnatus Cemetery   Cincinnatus, Cortland County, New York"
+      - name: John Vining
+        birth:
+          date: February 1864
+          place: New York
+      - name: George S. Vining
+        entryId: GeorgeS01
+        entryLetter: G
+        birth:
+          date: age 3 y. as of 1870 census
+          place: New York
+        marriages:
+          - number: 1
+            date: Kate Kellyhouse
+          - number: 2
+            date: 14 June 1947
+            place: "Cortland [County?], New York"
+            spouse: Cynthia Quick Husted
+        death:
+          date: 9 July 1962
+          place: "Cortland [County?], New York"
+        burial:
+          place: "Hillcrest Cemetery   DeRuyter, Madison County, New York"
+      - name: Jenny Vining
+        birth:
+          date: March 1869
+        death:
+          date: 20 August 1870
+        burial:
+          place: "Potter Hill Cemetery   Taylor, Cortland County, New York"
+docsUrl: Csources/Charles01doc.htm
+raw: |-
+  <a name="Charles01"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasP01">Thomas &#8220;Philo[w?]&#8221; Vining and Nancy A. [...]</a>)
+     b. age 36 y. as of 1870 census   New York
+     m. Chenango Forks, Broome County, New York
+           Sophronia K. Neff
+                 (dau. of Benjamin Luther Neff and Nancy Crandall)
+                 b. [1841 or age 31 y. as of 1870 census?]   Taylor, Cortland County, New York
+                 d. 1924   Cincinnatus, Cortland County, New York
+     d. 1923/24   Cincinnatus, Cortland County, New York
+  
+  <font size=+1>children:</font>
+     Nancy Vining   b. December 1860   New York   -   m. William R. Parker
+     <a href="Bfamilies.htm#BenjaminL02">Benjamin L. Vining</a>   b. 1861   New York   -   m. Esther [Kellyhouse or Callyhouse?]   -   d. 28 January 1933   Lower Cincinnatus, Cortland County, New York   -   bur. Cincinnatus Cemetery   Cincinnatus, Cortland County, New York
+     John Vining   b. February 1864   New York
+     <a href="Gfamilies.htm#GeorgeS01">George S. Vining</a>   b. age 3 y. as of 1870 census   New York   -   m. (1) Kate Kellyhouse;   (2) 14 June 1947   Cortland [County?], New York   Cynthia Quick Husted   -   d. 9 July 1962   Cortland [County?], New York   -   bur. Hillcrest Cemetery   DeRuyter, Madison County, New York
+     Jenny Vining   b. March 1869   -   d. 20 August 1870   -   bur. Potter Hill Cemetery   Taylor, Cortland County, New York
+  
+  <a href="Csources/Charles01doc.htm">documentation and notes</a>

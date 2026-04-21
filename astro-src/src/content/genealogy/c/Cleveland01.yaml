@@ -1,0 +1,94 @@
+id: Cleveland01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BenjaminC01
+parentLetter: B
+parentDesc: Benjamin Carty Vining and Frances Scott
+head:
+  givenName: Cleveland
+  birth:
+    date: 15 April 1889
+    place: "Blanche, Tennessee"
+  death:
+    date: 28 January 1949
+    place: "Toney, Alabama"
+marriages:
+  - date: 17 June 1917
+    place: "Madison County, Alabama"
+    spouse:
+      givenName: Lottie
+      surname: Wallace
+      birth:
+        date: 21 September 1896
+        place: "Huntsville, Alabama"
+      death:
+        date: 23 February 1962
+        place: "Miami, Florida"
+      burial:
+        place: "Maple Hill Cemetery   Huntsville, Madison County, Alabama"
+childrenGroups:
+  - children:
+      - name: Jennie S. Vining
+        birth:
+          date: age 11 y. as of 1930 census
+          place: Tenessee
+      - name: Carty Cleveland Vining
+        birth:
+          date: 21 November 1921
+          place: "Huntsville, Alabama"
+        death:
+          date: 26 August 2004
+          place: "Huntsville, Alabama"
+        burial:
+          place: "Gatlin Cemetery   Ardmore, Alabama"
+      - name: Nancy L. Vining
+        birth:
+          date: age 5 y. as of 1930 census
+          place: Alabama
+      - name: Edward Thomas Vining
+        entryId: EdwardT02
+        entryLetter: E
+        birth:
+          date: 19 November 1927
+          place: Alabama
+        marriages:
+          - date: 7 February 1953
+            place: "Miami, Florida"
+            spouse: Dorothy May Sanborn
+        death:
+          date: "Bakersfield, California"
+          place: 24 September 1972
+        burial:
+          place: "Union Cemetery   Bakersfield, California"
+      - name: James Randall Vining
+        birth:
+          date: 26 February 1930
+        death:
+          date: 24 March 2004
+        burial:
+          place: "Houston National Cemetery   Houston, Texas"
+      - name: son Vining
+docsUrl: Csources/Cleveland01doc.htm
+raw: |-
+  <a name="Cleveland01"></a><font size=+2>Cleveland Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminC01">Benjamin Carty Vining and Frances Scott</a>)
+     b. 15 April 1889   Blanche, Tennessee
+     m. 17 June 1917   Madison County, Alabama
+           Lottie Wallace
+                 (dau. of [...] Wallace and Nancy Jane [...])
+                 b. 21 September 1896   Huntsville, Alabama
+                 d. 23 February 1962   Miami, Florida
+                       bur. Maple Hill Cemetery   Huntsville, Madison County, Alabama
+     d. 28 January 1949   Toney, Alabama
+           bur. Fowlkes Cemetery   Monrovia, Madison County, Alabama
+  
+  <font size=+1>children:</font>
+     Jennie S. Vining   b. age 11 y. as of 1930 census   Tenessee
+     Carty Cleveland Vining   b. 21 November 1921   Huntsville, Alabama   -   d. 26 August 2004   Huntsville, Alabama   -   bur. Gatlin Cemetery   Ardmore, Alabama
+     Nancy L. Vining   b. age 5 y. as of 1930 census   Alabama
+     <a href="Efamilies.htm#EdwardT02">Edward Thomas Vining</a>   b. 19 November 1927   Alabama   -   m. 7 February 1953   Miami, Florida   Dorothy May Sanborn   -   d. Bakersfield, California   24 September 1972   -   bur. Union Cemetery   Bakersfield, California
+     James Randall Vining   b. 26 February 1930   -   d. 24 March 2004   -   bur. Houston National Cemetery   Houston, Texas
+     son Vining
+  
+  <a href="Csources/Cleveland01doc.htm">documentation and notes</a>

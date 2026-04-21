@@ -1,0 +1,74 @@
+id: CosbyE02
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CosbyE01
+parentDesc: Cosby Evans Vining and Flora Malvina Masters
+head:
+  givenName: Cosby Eugene
+  birth:
+    date: 31 May 1935
+marriages:
+  - number: 1
+    date: Carolyn Sue Carroll
+    spouse:
+      givenName: divorced May
+      surname: "1969"
+  - number: 2
+    date: October 1969
+    spouse:
+      givenName: Naomi Fisher
+      surname: Sowell
+childrenGroups:
+  - spouseRef: Carolyn Sue Carroll
+    children:
+      - name: Cosby Eugene Vining Jr.
+        entryId: CosbyEJr01
+        birth:
+          date: 1 June 1956
+        marriages:
+          - date: June 1977
+            spouse: "Vicky L. Odell,   divorced 1985"
+      - name: Teresa Roxanne Vining
+        birth:
+          date: 25 May 1957
+        marriages:
+          - number: 1
+            date: "Bobby Lara,"
+            spouse: divorced
+          - number: 2
+            date: Bruce Boone
+      - name: Teri Lynn Vining
+        birth:
+          date: 5 July 1958
+        marriages:
+          - number: 1
+            date: "Richard Reader,"
+            spouse: divorced
+          - number: 2
+            date: Craig Taylor
+      - name: Brenda Sue Vining
+        birth:
+          date: 8 December 1959
+        marriages:
+          - number: 1
+            date: "Douglas Lauck,"
+            spouse: divorced
+          - number: 2
+            date: Allen Bradshaw
+raw: |-
+  <a name="CosbyE02"></a><font size=+2>Cosby Eugene Vining</font>
+     (son of <a href="#CosbyE01">Cosby Evans Vining and Flora Malvina Masters</a>)
+     b. 31 May 1935
+     m. (1) Carolyn Sue Carroll
+                    b. 18 March 1936
+                 divorced May 1969
+           (2) October 1969
+                 Naomi Fisher Sowell
+                    b. 23 August 1946
+  
+  <font size=+1>children by Carolyn Sue Carroll:</font>
+     <a href="#CosbyEJr01">Cosby Eugene Vining Jr.</a>   b. 1 June 1956   -   m. June 1977   Vicky L. Odell,   divorced 1985
+     Teresa Roxanne Vining   b. 25 May 1957   -   m. (1) Bobby Lara,   divorced;   (2) Bruce Boone
+     Teri Lynn Vining   b. 5 July 1958   -   m. (1) Richard Reader,   divorced;   (2) Craig Taylor
+     Brenda Sue Vining   b. 8 December 1959   -   m. (1) Douglas Lauck,   divorced;   (2) Allen Bradshaw

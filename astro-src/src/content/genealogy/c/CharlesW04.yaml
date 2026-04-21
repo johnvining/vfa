@@ -1,0 +1,85 @@
+id: CharlesW04
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Shadrack04
+parentLetter: S
+parentDesc: Shadrack Vining and Nancy M. Clifton
+head:
+  givenName: Charles Warren
+  birth:
+    date: 12 November 1865
+    place: "Bibb County, Alabama"
+  death:
+    date: 24 September 1928
+    place: Alabama
+marriages:
+  - date: 14 y. as of 1910 census
+    spouse:
+      givenName: Ollie F.
+      surname: Selman
+      birth:
+        date: "[12 or 21 ?] December 1880"
+        place: "Randolph, Alabama"
+      death:
+        date: 7 August 1929
+        place: "Bessemer, Jefferson County, Alabama"
+      burial:
+        place: "Quinn Cemetery   Chelsea, Shelby County, Alabama"
+childrenGroups:
+  - children:
+      - name: George Dewey Vining
+        entryId: GeorgeD01
+        entryLetter: G
+        birth:
+          date: 13 August 1901
+          place: Alabama
+        death:
+          date: 1 May 1965
+          place: "Trussville, Jefferson County, Alabama"
+        burial:
+          place: Grace Community Church Cemetery
+      - name: Ethel Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Alabama
+      - name: Lolie Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Alabama
+      - name: Lora Vining
+        birth:
+          date: "1907"
+      - name: Arvine Vining
+        entryId: Arvine01
+        entryLetter: A
+        birth:
+          date: 14 April 1907
+          place: Alabama
+        marriages:
+          - date: Lola Miller
+        death:
+          date: 1 February 1973
+          place: Alabama
+docsUrl: Csources/CharlesW04doc.htm
+raw: |-
+  <a name="CharlesW04"></a><font size=+2>Charles Warren Vining</font>
+     (son of <a href="Sfamilies.htm#Shadrack04">Shadrack Vining and Nancy M. Clifton</a>)
+     b. 12 November 1865   Bibb County, Alabama
+     m. 14 y. as of 1910 census
+           Ollie F. Selman
+                 (dau. of Joseph Monroe Selman and Martha Shoults)
+                 b. [12 or 21 ?] December 1880   Randolph, Alabama
+                 d. 7 August 1929   Bessemer, Jefferson County, Alabama
+                       bur. Quinn Cemetery   Chelsea, Shelby County, Alabama
+     d. 24 September 1928   Alabama
+           bur. Quinn Cemetery   Chelsea, Shelby County, Alabama
+  
+  <font size=+1>children</font>
+     <a href="Gfamilies.htm#GeorgeD01">George Dewey Vining</a>   b. 13 August 1901   Alabama   -   d. 1 May 1965   Trussville, Jefferson County, Alabama   -   bur. Grace Community Church Cemetery   -   Hoover, Alabama
+     Ethel Vining   b. age 7 y. as of 1910 census   Alabama
+     Lolie Vining   b. age 4 y. as of 1910 census   Alabama
+     Lora Vining   b. 1907
+     <a href="Afamilies.htm#Arvine01">Arvine Vining</a>   b. 14 April 1907   Alabama   -   m. Lola Miller   -   d. 1 February 1973   Alabama
+  
+  <a href="Csources/CharlesW04doc.htm">documentation and notes</a>

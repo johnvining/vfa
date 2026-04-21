@@ -1,0 +1,58 @@
+id: ChesterC01
+letter: C
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WilliamE03
+parentLetter: W
+parentDesc: William Eddington Vining and Laura Kieffer Tannery
+head:
+  givenName: Chester Calvin
+  birth:
+    date: 7 July 1897
+    place: "Alto, Texas"
+  death:
+    date: 24 June 1978
+    place: Texas
+marriages:
+  - date: 2 July 1916
+    spouse:
+      givenName: Amanda Jane
+      surname: Middleton
+      birth:
+        date: 2 September 1897
+        place: Texas
+      death:
+        date: 26 January 1980
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Texas"
+childrenGroups:
+  - children:
+      - name: daughter
+        marriages:
+          - date: "[...] Garrett"
+      - name: daughter
+      - name: daughter
+      - name: Chester J. Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Texas
+docsUrl: Csources/ChesterC01doc.htm
+raw: |-
+  <a name="ChesterC01"></a><font size=+2>Chester Calvin Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamE03">William Eddington Vining and Laura Kieffer Tannery</a>)
+     b. 7 July 1897   Alto, Texas
+     m. 2 July 1916
+           Amanda Jane Middleton
+                 b. 2 September 1897   Texas
+                 d. 26 January 1980
+                       bur. Cedar Hill Cemetery   Rusk, Texas
+     d. 24 June 1978   Texas
+           bur. Cedar Hill Cemetery   Rusk, Texas
+  
+  <font size=+1>children:</font>
+     daughter   m. [...] Garrett
+     daughter
+     daughter
+     Chester J. Vining   b. age 2 y. as of 1940 census   Texas
+  
+  <a href="Csources/ChesterC01doc.htm">documentation and notes</a>
