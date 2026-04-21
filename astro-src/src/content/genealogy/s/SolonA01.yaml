@@ -1,0 +1,65 @@
+id: SolonA01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Jared02
+parentLetter: J
+parentDesc: Jared Vining and Charlotte Stetson
+head:
+  givenName: Solon Augustus
+  birth:
+    date: 28 May 1825
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 15 February 1894
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 15 August 1847
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Louisa
+      surname: Holbrook
+      birth:
+        date: 24 February 1830
+childrenGroups:
+  - children:
+      - name: Ada Louise Vining
+        birth:
+          date: 24 February 1848
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: "[...] Wheeler"
+      - name: Charlotte E. Vining
+        birth:
+          date: age 4 m. as of 1850 census
+        marriages:
+          - date: Amasa D. Stoddard
+      - name: Lucy A. Vining
+        birth:
+          date: age 8 y. as of 1860 census
+        marriages:
+          - date: John A. Hollis
+      - name: Carrie F. Vining
+        birth:
+          date: age 6 y. as of 1870 census
+        marriages:
+          - date: Frank H. Richards
+docsUrl: Ssources/SolonA01doc.htm
+raw: |-
+  <a name="SolonA01"></a><font size=+2>Solon Augustus Vining</font>
+     (son of <a href="Jfamilies.htm#Jared02">Jared Vining and Charlotte Stetson</a>)
+     b. 28 May 1825   Weymouth, Norfolk County, Massachusetts
+     m. 15 August 1847   Weymouth, Norfolk County, Massachusetts
+           Louisa Holbrook
+                 (dau. of Minot Holbrook and Lavinia Littlefield)
+                 b. 24 February 1830
+     d. 15 February 1894   Weymouth, Norfolk County, Massachusetts
+           bur. Highland Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Ada Louise Vining   b. 24 February 1848   Weymouth, Norfolk County, Massachusetts   -   m. [...] Wheeler
+     Charlotte E. Vining   b. age 4 m. as of 1850 census   -   m. Amasa D. Stoddard
+     Lucy A. Vining   b. age 8 y. as of 1860 census   -   m. John A. Hollis
+     Carrie F. Vining   b. age 6 y. as of 1870 census   -   m. Frank H. Richards
+  
+  <a href="Ssources/SolonA01doc.htm">documentation and notes</a>

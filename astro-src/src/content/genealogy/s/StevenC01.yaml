@@ -1,0 +1,44 @@
+id: StevenC01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CarlMJr01
+parentLetter: C
+parentDesc: Carl Merton Vining Jr. and Myrtle Joy Robinson
+head:
+  givenName: Steven Carl
+  birth:
+    date: 6 April 1949
+    place: "Geneva, Illinois"
+marriages:
+  - date: 16 June 1973
+    place: "Los Alamos, New Mexico"
+    spouse:
+      givenName: Deborah Sue
+      surname: Hicks
+childrenGroups:
+  - children:
+      - name: Brian Vining
+        birth:
+          date: 20 July 1976
+          place: "Pueblo, Colorado"
+        marriages:
+          - date: 21 July 1998
+            spouse: "Pagosa Springs, Colorado"
+      - name: Chris Vining
+        birth:
+          date: 22 April 1979
+          place: "Montrose, Colorado"
+        death:
+          date: 5 May 1998
+          place: "Grand Junction, Colorado"
+raw: |-
+  <a name="StevenC01"></a><font size=+2>Steven Carl Vining</font>
+     (son of <a href="Cfamilies.htm#CarlMJr01">Carl Merton Vining Jr. and Myrtle Joy Robinson</a>)
+     b. 6 April 1949   Geneva, Illinois
+     m. 16 June 1973   Los Alamos, New Mexico
+           Deborah Sue Hicks
+  
+  <font size=+1>children:</font>
+     Brian Vining   b. 20 July 1976   Pueblo, Colorado   -   m. 21 July 1998   Pagosa Springs, Colorado
+     Chris Vining   b. 22 April 1979   Montrose, Colorado   -   d. 5 May 1998   Grand Junction, Colorado

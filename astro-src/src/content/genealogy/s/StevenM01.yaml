@@ -1,0 +1,42 @@
+id: StevenM01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MiltonW01
+parentLetter: M
+parentDesc: Milton Wayne Vining and Ruth Edna Conway
+head:
+  givenName: Steven Mark
+  birth:
+    date: 7 February 1956
+    place: "Cincinnati, Ohio"
+  death:
+    date: "November 8, 2022"
+marriages:
+  - date: 28 May 1977
+    spouse:
+      givenName: Marion Olive
+      surname: Stevens
+childrenGroups:
+  - children:
+      - name: Steven Mark Vining Jr.
+        birth:
+          date: 6 December 1977
+          place: "Bridgton, Cumberland County, Maine"
+      - name: Samuel Charles Vining
+        birth:
+          date: 12 December 1981
+          place: "Bridgton, Cumberland County, Maine"
+raw: |-
+  <a name="StevenM01"></a><font size=+2>Steven Mark Vining</font>
+     (son of <a href="Mfamilies.htm#MiltonW01">Milton Wayne Vining and Ruth Edna Conway</a>)
+     b. 7 February 1956   Cincinnati, Ohio
+     m. 28 May 1977
+           Marion Olive Stevens
+                 (dau. of Charles Stevens and Jane Sanborn)
+        divorced 1980s
+     d. November 8, 2022
+  
+  <font size=+1>children:</font>
+     Steven Mark Vining Jr.   b. 6 December 1977   Bridgton, Cumberland County, Maine
+     Samuel Charles Vining   b. 12 December 1981   Bridgton, Cumberland County, Maine

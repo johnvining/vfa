@@ -1,0 +1,110 @@
+id: SamuelB01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Abijah02
+parentLetter: A
+parentDesc: Abijah Vining and Abbey Steele
+head:
+  givenName: Samuel B.
+  birth:
+    date: "1825"
+    place: New York
+  death:
+    date: 2 January 1886
+marriages:
+  - date: 31 December 1846
+    place: Illinois
+    spouse:
+      givenName: Jane E.
+      surname: Smith
+      birth:
+        date: "age 69 y., 9 m., 7 d. at death"
+        place: Vermont
+      death:
+        date: 16 July 1892
+      burial:
+        place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
+childrenGroups:
+  - children:
+      - name: Walter Todd Vining
+        entryId: WalterT01
+        entryLetter: W
+        birth:
+          date: January 1848
+          place: Illinois
+        marriages:
+          - date: 3 July 1870
+            place: Illinois
+            spouse: Mary Jane Morgan
+        death:
+          date: 11 July 1911
+      - name: Arthur R. Vining
+        entryId: ArthurR02
+        entryLetter: A
+        birth:
+          date: "age 36 y., 10 m., 12 d. at death"
+          place: Illinois
+        marriages:
+          - date: "Agnes [...]"
+        death:
+          date: 26 April 1886
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
+      - name: Frank Winslow Vining
+        entryId: FrankW01
+        entryLetter: F
+        birth:
+          date: 11 March 1851/52
+          place: "Limestone Township, Kankakee County, Illinois"
+        marriages:
+          - date: 11 March 1875
+            place: Illinois
+            spouse: "Jeanette &#8220;Nettie&#8221; Smith"
+        death:
+          date: 22 November 1908
+      - name: Lucy Vining
+        marriages:
+          - date: 14 November 1872
+            place: "Morris, Fulton County, Illinois"
+            spouse: A. J. Smith
+        death:
+          date: 11 February 1914
+      - name: William Vining
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Illinois
+      - name: "[Emma or Emily] Vining"
+        birth:
+          date: age 2 y. as of 1860 census
+          place: Illinois
+        marriages:
+          - date: 20 December 1881
+            place: Illinois
+            spouse: William L. Yeates
+        death:
+          date: 6 October 1922
+      - name: Benjamin Vining
+docsUrl: Ssources/SamuelB01doc.htm
+raw: |-
+  <a name="SamuelB01"></a><font size=+2>Samuel B. Vining</font>
+     (son of <a href="Afamilies.htm#Abijah02">Abijah Vining and Abbey Steele</a>)
+     b. 1825   New York
+     m. 31 December 1846   Illinois
+           Jane E. Smith
+                 b. age 69 y., 9 m., 7 d. at death   Vermont
+                 d. 16 July 1892
+                       bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+     d. 2 January 1886
+           bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WalterT01">Walter Todd Vining</a>   b. January 1848   Illinois   -   m. 3 July 1870   Illinois   Mary Jane Morgan   -   d. 11 July 1911
+     <a href="Afamilies.htm#ArthurR02">Arthur R. Vining</a>   b. age 36 y., 10 m., 12 d. at death   Illinois   -   m. Agnes [...]   -   d. 26 April 1886   -   bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+     <a href="Ffamilies.htm#FrankW01">Frank Winslow Vining</a>   b. 11 March 1851/52   Limestone Township, Kankakee County, Illinois   -   m. 11 March 1875   Illinois   Jeanette &#8220;Nettie&#8221; Smith   -   d. 22 November 1908
+     Lucy Vining   m. 14 November 1872   Morris, Fulton County, Illinois   A. J. Smith   -   d. 11 February 1914
+     William Vining   b. age 4 y. as of 1860 census   Illinois
+     [Emma or Emily] Vining   b. age 2 y. as of 1860 census   Illinois   -   m. 20 December 1881   Illinois   William L. Yeates   -   d. 6 October 1922
+     Benjamin Vining
+  
+  <a href="Ssources/SamuelB01doc.htm">documentation and notes</a>

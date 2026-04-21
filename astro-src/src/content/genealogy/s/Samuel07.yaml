@@ -1,0 +1,38 @@
+id: Samuel07
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Samuel
+marriages:
+  - spouse:
+      givenName: "Mary &#8220;Lucy&#8221;"
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Floyd Vining
+      - name: Hugh Vining
+      - name: Lois Vining
+      - name: Kennith N. Vining
+        entryId: KennithN01
+        entryLetter: K
+        birth:
+          date: age 88 y. at death
+          place: "McCalla, Jefferson County, Alabama"
+        marriages:
+          - date: "Corene [&#8230;]"
+        death:
+          date: 15 April 2018
+      - name: Louise Vining
+raw: |-
+  <a name="Samuel07"></a><font size=+2>Samuel Vining</font>
+     (son of [?])
+     m. Mary &#8220;Lucy&#8221; [&#8230;]
+  
+  <font size=+1>children:</font>
+     Floyd Vining
+     Hugh Vining
+     Lois Vining
+     <a href="Kfamilies.htm#KennithN01">Kennith N. Vining</a>   b. age 88 y. at death   McCalla, Jefferson County, Alabama   -   m. Corene [&#8230;]   -   d. 15 April 2018
+     Louise Vining

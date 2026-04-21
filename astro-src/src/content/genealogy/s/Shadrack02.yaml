@@ -1,0 +1,52 @@
+id: Shadrack02
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Shadrack
+  birth:
+    date: age 27 y. as of 1870 census
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: Martha
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Robert Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Alabama
+      - name: Ella Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Alabama
+      - name: William Vining
+        birth:
+          date: age 9 y. as of 1880 census
+          place: Alabama
+      - name: Thomas Vining
+        birth:
+          date: age 7 y. as of 1880 census
+          place: Alabama
+      - name: Rosa Vining
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Alabama
+docsUrl: Ssources/Shadrack02doc.htm
+raw: |-
+  <a name="Shadrack02"></a><font size=+2>Shadrack Vining</font>
+     (son of [?])
+     b. age 27 y. as of 1870 census   Alabama
+     m. Martha [...]
+              b. age [28?] y. as of 1870 census   Tennessee
+  
+  <font size=+1>children:</font>
+     Robert Vining   b. age 3 y. as of 1870 census   Alabama
+     Ella Vining   b. age 1 y. as of 1870 census   Alabama
+     William Vining   b. age 9 y. as of 1880 census   Alabama
+     Thomas Vining   b. age 7 y. as of 1880 census   Alabama
+     Rosa Vining   b. age 3 y. as of 1880 census   Alabama
+  
+  <a href="Ssources/Shadrack02doc.htm">documentation and notes</a>

@@ -1,0 +1,55 @@
+id: Sterling01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: OscarA01
+parentLetter: O
+parentDesc: Oscar Adam Vining and Corine Marie Parrah
+head:
+  givenName: Sterling
+  birth:
+    date: "age [3?] m. as of 1910 census"
+    place: Louisiana
+  death:
+    date: ca. 1992
+marriages:
+  - spouse:
+      givenName: Essie
+      surname: Ratcliff
+childrenGroups:
+  - children:
+      - name: Pat Vining
+      - name: Sterling Vining Jr.
+        entryId: SterlingJr01
+        marriages:
+          - date: 64 y. as of 2017
+            spouse: Barbara Estay
+      - name: Donald Earl Vining
+        entryId: DonaldE03
+        entryLetter: D
+        birth:
+          date: 26 December 1942
+        marriages:
+          - number: 1
+            date: Andrea Vicknair
+      - name: Ronald Vining
+      - name: Gary Vining
+      - name: Tracy Vining
+        entryId: Tracy01
+        entryLetter: T
+        marriages:
+          - date: "Julie [...]"
+raw: |-
+  <a name="Sterling01"></a><font size=+2>Sterling Vining</font>
+     (son of <a href="Ofamilies.htm#OscarA01">Oscar Adam Vining and Corine Marie Parrah</a>)
+     b. age [3?] m. as of 1910 census   Louisiana
+     m. Essie Ratcliff
+     d. ca. 1992
+  
+  <font size=+1>children:</font>
+     Pat Vining
+     <a href="#SterlingJr01">Sterling Vining Jr.</a>   m. 64 y. as of 2017   Barbara Estay
+     <a href="Dfamilies.htm#DonaldE03">Donald Earl Vining</a>   b. 26 December 1942   -   m. (1) Andrea Vicknair
+     Ronald Vining
+     Gary Vining
+     <a href="Tfamilies.htm#Tracy01">Tracy Vining</a>   m. Julie [...]

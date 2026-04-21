@@ -1,0 +1,70 @@
+id: Sewall01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Bela01
+parentLetter: B
+parentDesc: Bela Vining and Thankful Millbanks
+head:
+  givenName: Sewall
+  birth:
+    date: 29 January 1808
+    place: "Durham, Androscoggin County, Maine"
+marriages:
+  - number: 1
+    date: "1831"
+  - number: 2
+    date: Mrs. Mary Randall
+childrenGroups:
+  - spouseRef: Hepzibah D. Blanchard
+    children:
+      - name: Ellen Augusta Vining
+        birth:
+          date: 4 February 1833
+          place: Maine
+        marriages:
+          - date: "Samuel Baker?"
+      - name: William H. L. Vining
+        birth:
+          date: "age 11 y., 11 m. at death"
+        death:
+          date: 20 March 1849
+        burial:
+          place: "Strout Cemetery   Durham, Maine"
+      - name: Edward Orville Vining
+        birth:
+          date: age 7 y. as of 1850 census
+          place: Maine
+      - name: Henry Sewall Vining
+        birth:
+          date: 19 May 1843
+          place: Maine
+        death:
+          date: 23 December 1890
+      - name: Everard Augustus Vining
+        birth:
+          date: 12 February 1848
+          place: Maine
+        marriages:
+          - date: "Jennie H. [...]"
+docsUrl: Ssources/Sewall01doc.htm
+raw: |-
+  <a name="Sewall01"></a><font size=+2>Sewall Vining</font>
+     (son of <a href="Bfamilies.htm#Bela01">Bela Vining and Thankful Millbanks</a>)
+     b. 29 January 1808   Durham, Androscoggin County, Maine
+     m. (1) 1831
+              Hepzibah D. Blanchard
+                    b. age 35 y. at death
+                    d. 17 September 1849
+                          bur. Strout Cemetery   Durham, Androscoggin County, Maine
+           (2) Mrs. Mary Randall
+                    b. age 59 y. as of 1870 census   Maine
+  
+  <font size=+1>children by Hepzibah D. Blanchard:</font>
+     Ellen Augusta Vining   b. 4 February 1833   Maine   -   m. Samuel Baker?
+     William H. L. Vining   b. age 11 y., 11 m. at death   -   d. 20 March 1849   -   bur. Strout Cemetery   Durham, Maine
+     Edward Orville Vining   b. age 7 y. as of 1850 census   Maine
+     Henry Sewall Vining   b. 19 May 1843   Maine   -   d. 23 December 1890
+     Everard Augustus Vining   b. 12 February 1848   Maine   -   m. Jennie H. [...]
+  
+  <a href="Ssources/Sewall01doc.htm">documentation and notes</a>

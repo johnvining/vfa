@@ -1,0 +1,81 @@
+id: SeldonJ01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: NathanielH01
+parentLetter: N
+parentDesc: Nathaniel Haws Vining and Anna L. Stone
+head:
+  givenName: Seldon J.
+  birth:
+    date: 15 September 1867
+    place: "St. Albans, Somerset County, Maine"
+  death:
+    date: "Seattle, Washington"
+marriages:
+  - date: 9 January 1895
+    spouse:
+      givenName: Alice Mary
+      surname: Lowenstein
+      birth:
+        date: January 1875
+        place: Japan
+      death:
+        date: 17 December 1943
+        place: "[San Diego, California or Seattle, Washington?]"
+childrenGroups:
+  - children:
+      - name: Marie Thelma Vining
+        birth:
+          date: 8 March 1896
+          place: "St. Albans, Somerset County, Maine"
+      - name: Marjorie C. Vining
+        birth:
+          date: January 1900
+          place: "Seattle, Washington"
+      - name: Genevieve Virginia Vining
+        birth:
+          date: 3 December 1901
+          place: "Seattle, Washington"
+        marriages:
+          - date: Addison Shoudy
+        death:
+          date: November 1976
+          place: "Lake Stevens, Washington"
+      - name: Maurice Nanthaniel Vining
+        entryId: MauriceN01
+        entryLetter: M
+        birth:
+          date: 12 August 1904
+          place: "Seattle, Washington"
+        marriages:
+          - date: Dorothea Helen Pratt
+        death:
+          date: 21 April 1993
+          place: "Kitsap County, Washington"
+        burial:
+          place: "Saint Barnabas Episcopal Church Cemetery   Bainbridge, Washington"
+      - name: Lenore E. Vining
+        birth:
+          date: age 11 m. as of 1910 census
+          place: Washington
+docsUrl: Ssources/SeldonJ01doc.htm
+raw: |-
+  <a name="SeldonJ01"></a><font size=+2>Seldon J. Vining</font>
+     (son of <a href="Nfamilies.htm#NathanielH01">Nathaniel Haws Vining and Anna L. Stone</a>)
+     b. 15 September 1867   St. Albans, Somerset County, Maine
+     m. 9 January 1895
+           Alice Mary Lowenstein
+                 (dau. of [...] Lowenstein and [...] Kahler)
+                 b. January 1875   Japan
+                 d. 17 December 1943   [San Diego, California or Seattle, Washington?]
+     d. Seattle, Washington
+  
+  <font size=+1>children:</font>
+     Marie Thelma Vining   b. 8 March 1896   St. Albans, Somerset County, Maine
+     Marjorie C. Vining   b. January 1900   Seattle, Washington
+     Genevieve Virginia Vining   b. 3 December 1901   Seattle, Washington   -   m. Addison Shoudy   -   d. November 1976   Lake Stevens, Washington
+     <a href="Mfamilies.htm#MauriceN01">Maurice Nanthaniel Vining</a>   b. 12 August 1904   Seattle, Washington   -   m. Dorothea Helen Pratt   -   d. 21 April 1993   Kitsap County, Washington   -   bur. Saint Barnabas Episcopal Church Cemetery   Bainbridge, Washington
+     Lenore E. Vining   b. age 11 m. as of 1910 census   Washington
+  
+  <a href="Ssources/SeldonJ01doc.htm">documentation and notes</a>

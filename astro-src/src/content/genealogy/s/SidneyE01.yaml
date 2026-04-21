@@ -1,0 +1,59 @@
+id: SidneyE01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ShirleyR01
+parentDesc: Shirley R. Vining and Beatrice M. Ham
+head:
+  givenName: Sidney Ellsworth
+  birth:
+    date: 1 December 1918
+    place: "Pelham, New Hampshire"
+  death:
+    date: 11 February 2009
+    place: "Anaheim, California"
+marriages:
+  - date: 23 March 1946
+    place: "Lowell, Massachusetts"
+    spouse:
+      givenName: Dorothy Frances
+      surname: Battersby
+      birth:
+        date: 29 December 1921
+        place: "Dracut, Massachusetts"
+      death:
+        date: 17 March 2003
+        place: "Anaheim, California"
+childrenGroups:
+  - children:
+      - name: Dale Alan Vining
+        entryId: DaleA01
+        entryLetter: D
+        birth:
+          date: 28 October 1949
+          place: "Los Angeles, California"
+      - name: Debra Sue Vining
+        birth:
+          date: 22 May 1951
+          place: "Long Beach, California"
+        marriages:
+          - date: 10 July 1982
+            place: "Long Beach, California"
+            spouse: Ferdinand Joseph Weidner
+docsUrl: Ssources/SidneyE01doc.htm
+raw: |-
+  <a name="SidneyE01"></a><font size=+2>Sidney Ellsworth Vining</font>
+     (son of <a href="#ShirleyR01">Shirley R. Vining and Beatrice M. Ham</a>)
+     b. 1 December 1918   Pelham, New Hampshire
+     m. 23 March 1946   Lowell, Massachusetts
+           Dorothy Frances Battersby
+                 b. 29 December 1921   Dracut, Massachusetts
+                 d. 17 March 2003   Anaheim, California
+     d. 11 February 2009   Anaheim, California
+           bur. Riverside National Cemetery   Riverside, California
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DaleA01">Dale Alan Vining</a>   b. 28 October 1949   Los Angeles, California
+     Debra Sue Vining   b. 22 May 1951   Long Beach, California   -   m. 10 July 1982   Long Beach, California   Ferdinand Joseph Weidner
+  
+  <a href="Ssources/SidneyE01doc.htm">documentation and notes</a>

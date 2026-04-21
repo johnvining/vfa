@@ -1,0 +1,31 @@
+id: SmithH01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasR03
+parentLetter: T
+parentDesc: "Thomas R. Vining and Frances D. [...]"
+head:
+  givenName: Smith H.
+  birth:
+    date: April 1879
+    place: New Jersey
+  death:
+    date: "1946"
+marriages:
+  - spouse:
+      givenName: Fannie D.
+      surname: "[...]"
+docsUrl: Ssources/SmithH01doc.htm
+raw: |-
+  <a name="SmithH01"></a><font size=+2>Smith H. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasR03">Thomas R. Vining and Frances D. [...]</a>)
+     b. April 1879   New Jersey
+     m. Fannie D. [...]
+              b. September 1879   New Jersey
+     d. 1946
+  
+  <font size=+1>child:</font>
+     Thomas R. C. Vining   b. April 1900   New Jersey
+  
+  <a href="Ssources/SmithH01doc.htm">documentation and notes</a>

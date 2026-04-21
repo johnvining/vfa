@@ -1,0 +1,64 @@
+id: Spencer01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Richard02
+parentLetter: R
+parentDesc: Richard Vining and Susannah Pratt
+head:
+  givenName: Spencer
+  birth:
+    date: 15 August 1801
+    place: "Abington, Massachusetts"
+marriages:
+  - date: 14 October 1824
+    place: "Abington, Massachusetts"
+    spouse:
+      givenName: Sarah E.
+      surname: Porter
+      birth:
+        date: age 67 y. as of 1870 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: William Reed Vining
+        entryId: WilliamR01
+        entryLetter: W
+        birth:
+          date: 5 December 1825
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 25 September 1849
+            place: "Abington, Massachusetts"
+            spouse: Susan A. H. Whitman
+        death:
+          date: before 1900 census
+      - name: Sarah Porter Vining
+        birth:
+          date: 23 January 1828
+          place: "Abington, Massachusetts"
+        death:
+          date: 17 January 1830
+          place: "Abington, Massachusetts"
+      - name: Spencer Vining Jr.
+        birth:
+          date: 17 August 1832
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 31 October 1858
+            spouse: Nancy A. Penniman
+docsUrl: Ssources/Spencer01doc.htm
+raw: |-
+  <a name="Spencer01"></a><font size=+2>Spencer Vining</font>
+     (son of <a href="Rfamilies.htm#Richard02">Richard Vining and Susannah Pratt</a>)
+     b. 15 August 1801   Abington, Massachusetts
+     m. 14 October 1824   Abington, Massachusetts
+           Sarah E. Porter
+                 b. age 67 y. as of 1870 census   Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamR01">William Reed Vining</a>   b. 5 December 1825   Abington, Massachusetts   -   m. 25 September 1849   Abington, Massachusetts   Susan A. H. Whitman   -   d. before 1900 census
+     Sarah Porter Vining   b. 23 January 1828   Abington, Massachusetts   -   d. 17 January 1830   Abington, Massachusetts
+     Spencer Vining Jr.   b. 17 August 1832   Abington, Massachusetts   -   m. 31 October 1858   Nancy A. Penniman
+  
+  <a href="Ssources/Spencer01doc.htm">documentation and notes</a>

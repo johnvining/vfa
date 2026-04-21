@@ -1,0 +1,66 @@
+id: SethW01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasF04
+parentLetter: T
+parentDesc: "Thomas Field Vining and Elizabeth [&#8230;]"
+head:
+  givenName: Seth Wyman
+  birth:
+    date: "1810"
+    place: "Medford, Massachusetts"
+  death:
+    date: 27 September 1853
+    place: "Medford, Massachusetts"
+marriages:
+  - date: 26 April 1838
+    place: "Medford, Massachusetts"
+    spouse:
+      givenName: Sarah Ann
+      surname: Brooks
+      birth:
+        date: age 30 y. as of 1850 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Sarah E. Vining
+        birth:
+          date: age 12 y. as of 1850 census
+          place: Massachusetts
+      - name: Alice A. Vining
+        birth:
+          date: age 10 y. as of 1850 census
+          place: Massachusetts
+      - name: "Charles [B.?] Vining"
+        birth:
+          date: age 5 y. as of 1850 census
+          place: Massachusetts
+      - name: Jacob Winslow Vining
+        entryId: JacobW01
+        entryLetter: J
+        birth:
+          date: age 1 y. as of 1850 census
+          place: Massachusetts
+        marriages:
+          - number: 1
+            date: Cecelia M. Gilman
+          - number: 2
+            date: Florence A. Ryder
+docsUrl: Ssources/SethW01doc.htm
+raw: |-
+  <a name="SethW01"></a><font size=+2>Seth Wyman Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasF04">Thomas Field Vining and Elizabeth [&#8230;]</a>)
+     b. 1810   Medford, Massachusetts
+     m. 26 April 1838   Medford, Massachusetts
+           Sarah Ann Brooks
+                 b. age 30 y. as of 1850 census   Massachusetts
+     d. 27 September 1853   Medford, Massachusetts
+  
+  <font size=+1>children:</font>
+     Sarah E. Vining   b. age 12 y. as of 1850 census   Massachusetts
+     Alice A. Vining   b. age 10 y. as of 1850 census   Massachusetts
+     Charles [B.?] Vining   b. age 5 y. as of 1850 census   Massachusetts
+     <a href="Jfamilies.htm#JacobW01">Jacob Winslow Vining</a>   b. age 1 y. as of 1850 census   Massachusetts   -   m. (1) Cecelia M. Gilman;   (2) Florence A. Ryder
+  
+  <a href="Ssources/SethW01doc.htm">documentation and notes</a>

@@ -1,0 +1,121 @@
+id: Samuel06
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Samuel03
+parentDesc: "Samuel Vining and Rebekah [...]"
+head:
+  givenName: Samuel
+  birth:
+    date: "1 February [1802 or 1803?]"
+    place: New York
+  death:
+    date: 6 June 1879
+marriages:
+  - spouse:
+      givenName: "Mary &#8220;Polly&#8221;"
+      surname: Miller
+childrenGroups:
+  - children:
+      - name: Abijah Vining
+        birth:
+          date: 13 March 1828
+      - name: John Vining
+        entryId: John11
+        entryLetter: J
+        birth:
+          date: 1 February 1831
+          place: Ohio
+        marriages:
+          - number: 1
+            date: Lucinda Farber
+          - number: 2
+            date: Lydia Pellett
+        death:
+          date: 25 September 1872
+          place: "Etna Green, Kosciusko County, Indiana"
+      - name: Simeon Vining
+        birth:
+          date: 11 July 1833
+      - name: Robert Miller Vining
+        entryId: RobertM01
+        entryLetter: R
+        birth:
+          date: 10 September 1835
+          place: "Delaware, Ohio"
+        marriages:
+          - number: 1
+            date: 6 April 1862
+            spouse: Sarah Stout (d. 8 March 1875)
+          - number: 2
+            date: 20 October 1876
+            spouse: Lucetta Elizabeth Hoke
+        death:
+          date: 24 October 1898
+          place: Ohio
+        burial:
+          place: "East Bethel Cemetery   Rockford, Ohio"
+      - name: Margaret Jane Vining
+        birth:
+          date: 12 March 1837
+          place: Ohio
+        marriages:
+          - date: William Brown Simmons
+        death:
+          date: 21 September 1884
+        burial:
+          place: "Lawrence, Douglas County, Kansas"
+      - name: Minor Simeon Vining
+        entryId: MinorS02
+        entryLetter: M
+        birth:
+          date: "[28 August or 27 July ?] 1842"
+          place: Ohio
+        marriages:
+          - date: "[Rebec[ca?] Catharine Stokonsburry or [...] Cass?]"
+        death:
+          date: 19 February 1892
+        burial:
+          place: "Summit Chapel Cemetery   Bourbon, Marshall County, Indiana"
+      - name: William Harmon Vining
+        entryId: WilliamH03
+        entryLetter: W
+        birth:
+          date: 13 August 1848
+          place: Ohio
+        marriages:
+          - date: 27 February 1877
+            spouse: "Sarah Margaret &#8220;Sally&#8221; Ridenour"
+        death:
+          date: 18 August 1907
+        burial:
+          place: "Deaver Cemetery   Precept, Furnas County, Nebraska"
+      - name: Simon S. Vining
+        entryId: SimonS01
+        birth:
+          date: 2 September 1849
+          place: Ohio
+        marriages:
+          - date: 30 December 1875
+            spouse: Mary Elenor Roush
+docsUrl: Ssources/Samuel06doc.htm
+raw: |-
+  <a name="Samuel06"></a><font size=+2>Samuel Vining</font>
+     (son of <a href="#Samuel03">Samuel Vining and Rebekah [...]</a>)
+     b. 1 February [1802 or 1803?]   New York
+     m. Mary &#8220;Polly&#8221; Miller
+              b. age 45 y. as of 1850 census   Ohio
+     d. 6 June 1879
+           bur. Pleasant Ridge Cemetery   Darke County, Ohio
+  
+  <font size=+1>children:</font>
+     Abijah Vining   b. 13 March 1828
+     <a href="Jfamilies.htm#John11">John Vining</a>  b. 1 February 1831   Ohio   -    m. (1) Lucinda Farber;   (2) Lydia Pellett   -   d. 25 September 1872   Etna Green, Kosciusko County, Indiana
+     Simeon Vining   b. 11 July 1833
+     <a href="Rfamilies.htm#RobertM01">Robert Miller Vining</a>   b. 10 September 1835   Delaware, Ohio   -   m. (1) 6 April 1862   Sarah Stout (d. 8 March 1875);   (2) 20 October 1876   Lucetta Elizabeth Hoke   -   d. 24 October 1898   Ohio   -   bur. East Bethel Cemetery   Rockford, Ohio
+     Margaret Jane Vining   b. 12 March 1837   Ohio   -    m. William Brown Simmons   -   d. 21 September 1884   -   bur. Lawrence, Douglas County, Kansas
+     <a href="Mfamilies.htm#MinorS02">Minor Simeon Vining</a>   b. [28 August or 27 July ?] 1842   Ohio   -   m. [Rebec[ca?] Catharine Stokonsburry or [...] Cass?]   -   d. 19 February 1892   -   bur. Summit Chapel Cemetery   Bourbon, Marshall County, Indiana
+     <a href="Wfamilies.htm#WilliamH03">William Harmon Vining</a>   b. 13 August 1848   Ohio   -   m. 27 February 1877   Sarah Margaret &#8220;Sally&#8221; Ridenour   -   d. 18 August 1907   -   bur. Deaver Cemetery   Precept, Furnas County, Nebraska
+     <a href="#SimonS01">Simon S. Vining</a>   b. 2 September 1849   Ohio   -   m. 30 December 1875   Mary Elenor Roush
+  
+  <a href="Ssources/Samuel06doc.htm">documentation and notes</a>

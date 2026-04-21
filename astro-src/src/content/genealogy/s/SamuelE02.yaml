@@ -1,0 +1,56 @@
+id: SamuelE02
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FrankW01
+parentLetter: F
+parentDesc: "Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith"
+head:
+  givenName: Samuel E.
+  birth:
+    date: 27 July 1881
+  death:
+    date: 2 January 1951
+marriages:
+  - spouse:
+      givenName: Bessie
+      surname: Curtis
+childrenGroups:
+  - children:
+      - name: Everett C. Vining
+        entryId: EverettC01
+        entryLetter: E
+        birth:
+          date: "1911"
+        marriages:
+          - number: 1
+            date: "Josephine Middleton,"
+            spouse: divorced
+          - number: 2
+            date: Geraldine McGee
+        death:
+          date: "1975"
+        burial:
+          place: "Oakwood Cemetery   Joliet, Will County, Illinois"
+      - name: Blanche Vining
+        birth:
+          date: 26 May 1914
+        marriages:
+          - date: Hugo Gersman
+docsUrl: Ssources/SamuelE02doc.htm
+raw: |-
+  <a name="SamuelE02"></a><font size=+2>Samuel E. Vining</font>
+     (son of <a href="Ffamilies.htm#FrankW01">Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith</a>)
+     b. 27 July 1881
+     m. Bessie Curtis
+              b. 1884
+              d. 1964
+                    bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+     d. 2 January 1951
+           bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EverettC01">Everett C. Vining</a>   b. 1911   -   m. (1) Josephine Middleton,   divorced;   (2) Geraldine McGee   -   d. 1975   -   bur. Oakwood Cemetery   Joliet, Will County, Illinois
+     Blanche Vining   b. 26 May 1914   -   m. Hugo Gersman
+  
+  <a href="Ssources/SamuelE02doc.htm">documentation and notes</a>

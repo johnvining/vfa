@@ -1,0 +1,94 @@
+id: SidneyR01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FrancisMJr01
+parentLetter: F
+parentDesc: Francis Marion Vining Jr. and Mary Dora Kinman
+head:
+  givenName: Sidney Raymond
+  birth:
+    date: 22 August 1892
+    place: Louisiana
+  death:
+    date: 8 August 1969
+marriages:
+  - date: 30 December 1917
+    place: "Erick, Oklahoma"
+    spouse:
+      givenName: Iona Maud
+      surname: Kelly
+      birth:
+        date: "1895"
+      death:
+        date: "1990"
+        place: "Grandview, Washington"
+      burial:
+        place: "Grandview Cemetery   Grandview, Washington"
+childrenGroups:
+  - children:
+      - name: Lurline Vining
+        birth:
+          date: 31 October 1919
+        death:
+          date: 21 February 2000
+      - name: Clifton B. Vining
+        birth:
+          date: "[11 or 10?] April 1921"
+          place: "Estancia, New Mexico"
+        marriages:
+          - date: Bette Lou King
+        death:
+          date: 21 February 2015
+          place: Washington
+        burial:
+          place: "Sequim View Cemetery   Sequim, Washington"
+      - name: Cleatus Roman Vining
+        entryId: CleatusR01
+        entryLetter: C
+        birth:
+          date: 10 June 1923
+          place: "Estancia, New Mexico"
+        marriages:
+          - date: Carmel by the Sea
+            spouse: Christine Thelma Redd
+        death:
+          date: 24 August 2007
+          place: "[Prosser or Grandview?], Washington"
+        burial:
+          place: "East Prosser Cemetery   Prosser, Washington"
+      - name: Douglas Frederick Vining
+        entryId: DouglasF01
+        entryLetter: D
+        birth:
+          date: 23 May 1931
+          place: "Sequim, Clallam ounty, Washington"
+        marriages:
+          - date: 14 December 1967
+            place: "Reno, Washoe County, Nevada"
+            spouse: Alcena Kaye Lybyer
+        death:
+          date: 2 September 2011
+          place: "Yakima, Yakima County, Washington"
+      - name: Lillian Vining
+docsUrl: Ssources/SidneyR01doc.htm
+raw: |-
+  <a name="SidneyR01"></a><font size=+2>Sidney Raymond Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisMJr01">Francis Marion Vining Jr. and Mary Dora Kinman</a>)
+     b. 22 August 1892   Louisiana
+     m. 30 December 1917   Erick, Oklahoma
+           Iona Maud Kelly
+                 b. 1895
+                 d. 1990   Grandview, Washington
+                       bur. Grandview Cemetery   Grandview, Washington
+     d. 8 August 1969
+           bur. Grandview Cemetery   Grandview, Washington
+  
+  <font size=+1>children:</font>
+     Lurline Vining   b. 31 October 1919   -   d. 21 February 2000
+     Clifton B. Vining   b. [11 or 10?] April 1921   Estancia, New Mexico   -   m. Bette Lou King   -   d. 21 February 2015   Washington   -   bur. Sequim View Cemetery   Sequim, Washington
+     <a href="Cfamilies.htm#CleatusR01">Cleatus Roman Vining</a>   b. 10 June 1923   Estancia, New Mexico   -   m. Carmel by the Sea   Christine Thelma Redd   -   d. 24 August 2007   [Prosser or Grandview?], Washington   -   bur. East Prosser Cemetery   Prosser, Washington   
+     <a href="Dfamilies.htm#DouglasF01">Douglas Frederick Vining</a>   b. 23 May 1931   Sequim, Clallam ounty, Washington   -   m. 14 December 1967   Reno, Washoe County, Nevada   Alcena Kaye Lybyer   -   d. 2 September 2011   Yakima, Yakima County, Washington
+     Lillian Vining
+  
+  <a href="Ssources/SidneyR01doc.htm">documentation and notes</a>

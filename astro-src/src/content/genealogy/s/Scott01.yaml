@@ -1,0 +1,116 @@
+id: Scott01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: George02
+parentLetter: G
+parentDesc: George Vining and Abigail Alden
+head:
+  givenName: Scott
+  birth:
+    date: 11 May 1787
+    place: "Bridgewater, Massachusetts"
+  death:
+    date: 9 December 1844
+    place: "Belleville, Michigan"
+marriages:
+  - number: 1
+    date: 1 June 1816
+    place: "West Greenfield, New York"
+  - number: 2
+    date: "?"
+  - number: 3
+    date: ca. 1833
+childrenGroups:
+  - spouseRef: Priscilla Burton
+    children:
+      - name: John Hamilton Vining
+        entryId: JohnH01
+        entryLetter: J
+        birth:
+          date: 28 November 1817
+          place: "Corinth, New York"
+        marriages:
+          - number: 1
+            date: ca. 1840
+            spouse: Mary Cordelia Canovan
+          - number: 2
+            date: 12 July 1857
+            place: "Chicago, Illinois"
+            spouse: Rachel Ginter Thompson
+        death:
+          date: "5 December [1877]"
+          place: "Chicago, Illinois"
+      - name: Julia Anna Vining
+        birth:
+          date: "1818?"
+      - name: Sophia Vining
+        birth:
+          date: "1819?"
+      - name: Freeman Burton Vining
+        birth:
+          date: "1820?"
+      - name: Benjamin Burton Vining
+        entryId: BenjaminB02
+        entryLetter: B
+        birth:
+          date: "1821"
+          place: New York
+        marriages:
+          - date: 12 May 1858
+            spouse: Margaret Ann Biggam
+        death:
+          date: 22 September 1862
+          place: "Fort Lyon, Colorado"
+      - name: Priscilla Ryder Vining
+        birth:
+          date: 23 September 1823
+          place: "Sand Lake, New York"
+        marriages:
+          - date: 6 February 1845
+            spouse: John Boyce
+        death:
+          date: 15 December 1875
+          place: "Ypsilanti, Michigan"
+      - name: William Oscar Vining
+        entryId: WilliamO01
+        entryLetter: W
+        birth:
+          date: "1834"
+        marriages:
+          - date: 2 November 1862
+            place: "[Flat Rock or Brockway?], Michigan"
+            spouse: Ann B. Arzend
+        death:
+          date: 26 August 1871
+          place: "Wayne, Michigan"
+docsUrl: Ssources/Scott01doc.htm
+raw: |-
+  <a name="Scott01"></a><font size=+2>Scott Vining</font>
+     (son of <a href="Gfamilies.htm#George02">George Vining and Abigail Alden</a>)
+     b. 11 May 1787   Bridgewater, Massachusetts
+     m. (1) 1 June 1816   West Greenfield, New York
+                    Priscilla Burton
+                          b. 1799
+                          d. 26 November 1823   West Greenfield, New York
+                                bur. Sand Lake, [Michigan?]
+           (2) ?
+           (3) ca. 1833
+                    Isabella [Deyo/De Voe?]
+                          b. age 77 y. at death
+                          d. 11 November 1866   Wayne, Michigan
+                                bur. Soop-Pleasantview Cemetery   Belleville, Michigan
+     d. 9 December 1844   Belleville, Michigan
+           bur. Soop-Pleasantview Cemetery   Belleville, Michigan
+  
+  <font size=+1>children by Priscilla Burton:</font>
+     <a href="Jfamilies.htm#JohnH01">John Hamilton Vining</a>   b. 28 November 1817   Corinth, New York   -   m. (1) ca. 1840   Mary Cordelia Canovan;   (2) 12 July 1857   Chicago, Illinois   Rachel Ginter Thompson   -   d. 5 December [1877]   Chicago, Illinois
+     Julia Anna Vining   b. 1818?
+     Sophia Vining   b. 1819?
+     Freeman Burton Vining   b. 1820?
+     <a href="Bfamilies.htm#BenjaminB02">Benjamin Burton Vining</a>   b. 1821   New York   -   m. 12 May 1858   Margaret Ann Biggam   -   d. 22 September 1862   Fort Lyon, Colorado
+     Priscilla Ryder Vining   b. 23 September 1823   Sand Lake, New York   -   m. 6 February 1845   John Boyce   -   d. 15 December 1875   Ypsilanti, Michigan
+  <font size=+1>child by Isabella [Deyo/DeVoe?]:</font>
+     <a href="Wfamilies.htm#WilliamO01">William Oscar Vining</a>   b. 1834   -   m. 2 November 1862   [Flat Rock or Brockway?], Michigan   Ann B. Arzend   -   d. 26 August 1871   Wayne, Michigan
+  
+  <a href="Ssources/Scott01doc.htm">documentation and notes</a>

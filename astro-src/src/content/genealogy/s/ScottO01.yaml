@@ -1,0 +1,64 @@
+id: ScottO01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RoswellS01
+parentLetter: R
+parentDesc: Roswell S. Vining and Julia Vestina Hitchcock
+head:
+  givenName: Scott Osborn
+  birth:
+    date: 16 December 1901
+    place: New York
+  death:
+    date: 12 December 1991
+marriages:
+  - spouse:
+      givenName: Lillian
+      surname: Eggers
+childrenGroups:
+  - children:
+      - name: Scott Ernest Vining
+        entryId: ScottE01
+        birth:
+          date: 9 May 1927
+          place: "Port Ewen, New York"
+        marriages:
+          - date: "1948"
+            spouse: Lona Bess Dahle
+        death:
+          date: 22 May 2013
+          place: "Port Ewen, New York"
+      - name: Robert William Vining
+        entryId: RobertW02
+        entryLetter: R
+        birth:
+          date: 17 September 1928
+          place: New York
+        marriages:
+          - date: Lynn Rose Watson
+      - name: Ruth Vining
+        birth:
+          date: 11 January 1930
+          place: New York
+      - name: Betty Vining
+        birth:
+          date: 28 April 1938
+        marriages:
+          - date: Oscar Wehrly
+docsUrl: Ssources/ScottO01doc.htm
+raw: |-
+  <a name="ScottO01"></a><font size=+2>Scott Osborn Vining</font>
+     (son of <a href="Rfamilies.htm#RoswellS01">Roswell S. Vining and Julia Vestina Hitchcock</a>)
+     b. 16 December 1901   New York
+     m. Lillian Eggers
+              b. age 38 y. as of 1940 census   New York
+     d. 12 December 1991
+  
+  <font size=+1>children:</font>
+     <a href="#ScottE01">Scott Ernest Vining</a>   b. 9 May 1927   Port Ewen, New York   -   m. 1948   Lona Bess Dahle   -   d. 22 May 2013   Port Ewen, New York
+     <a href="Rfamilies.htm#RobertW02">Robert William Vining</a>   b. 17 September 1928   New York   -   m. Lynn Rose Watson
+     Ruth Vining   b. 11 January 1930   New York   -   Donald Peterson
+     Betty Vining   b. 28 April 1938   -   m. Oscar Wehrly
+  
+  <a href="Ssources/ScottO01doc.htm">documentation and notes</a>

@@ -1,0 +1,85 @@
+id: Samuel03
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Jonathan01
+parentLetter: J
+parentDesc: Jonathan/John Vining and Rosanna/Roxanna Carter
+head:
+  givenName: Samuel
+  birth:
+    date: 12 October 1770
+  death:
+    date: 24 May 1841
+marriages:
+  - spouse:
+      givenName: Rebekah
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Abijah Vining
+        entryId: Abijah02
+        entryLetter: A
+        birth:
+          date: 27 July 1793
+          place: New York
+        marriages:
+          - date: ca. 1816
+            spouse: Abbey Steele
+        death:
+          date: 16 August 1871
+          place: Illinois
+      - name: John Vining
+        entryId: John08
+        entryLetter: J
+        birth:
+          date: age 69 y. at death
+        marriages:
+          - date: Abigail Ganong
+        death:
+          date: 11 November 1866
+        burial:
+          place: "William Ganong Cemetery   Westland, Wayne County, Michigan"
+      - name: "daughter(s?)"
+        birth:
+          date: 1795/1800
+      - name: Samuel Vining
+        entryId: Samuel06
+        birth:
+          date: "1 February [1802 or 1803?]"
+          place: New York
+        marriages:
+          - date: "Mary &#8220;Polly&#8221; Miller"
+        death:
+          date: 6 June 1879
+        burial:
+          place: "Pleasant Ridge Cemetery   Darke County, Ohio"
+      - name: Minor T./J. Vining
+        entryId: MinorT01
+        entryLetter: M
+        birth:
+          date: age 40 y. as of 1850 census
+          place: New York
+        marriages:
+          - date: 13 April 1841
+            spouse: Phebe A. Canine
+docsUrl: Ssources/Samuel03doc.htm
+raw: |-
+  <a name="Samuel03"></a><font size=+2>Samuel Vining</font>
+     (son of <a href="Jfamilies.htm#Jonathan01">Jonathan/John Vining and Rosanna/Roxanna Carter</a>)
+     b. 12 October 1770
+     m. Rebekah [...]
+              b. age [72?] y., 3 m., 2 d. at death
+              d. 28 August 1842
+                    bur. Vining Cemetery   Bennington Township, Morrow County, Ohio
+     d. 24 May 1841
+           bur. Vining Cemetery   Bennington Township, Morrow County, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#Abijah02">Abijah Vining</a>   b. 27 July 1793   New York   -   m. ca. 1816   Abbey Steele   -   d. 16 August 1871   Illinois
+     <a href="Jfamilies.htm#John08">John Vining</a>   b. age 69 y. at death   -   m. Abigail Ganong   -   d. 11 November 1866   -   bur. William Ganong Cemetery   Westland, Wayne County, Michigan
+     daughter(s?)   b. 1795/1800
+     <a href="#Samuel06">Samuel Vining</a>   b. 1 February [1802 or 1803?]   New York   -   m. Mary &#8220;Polly&#8221; Miller   -   d. 6 June 1879   -   bur. Pleasant Ridge Cemetery   Darke County, Ohio
+     <a href="Mfamilies.htm#MinorT01">Minor T./J. Vining</a>   b. age 40 y. as of 1850 census   New York   -   m. 13 April 1841   Phebe A. Canine
+  
+  <a href="Ssources/Samuel03doc.htm">documentation and notes</a>
