@@ -1,0 +1,119 @@
+id: ThomasN01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Abraham01
+parentLetter: A
+parentDesc: "Abraham Vining and [Elinor or Elanora?] [...]"
+head:
+  givenName: Thomas Newton
+  birth:
+    date: 28 April 1825
+    place: Georgia
+  death:
+    date: 26 July 1896
+    place: "East Point, Georgia"
+marriages:
+  - number: 1
+    date: "[3 January 1850 or 26 December 1849]"
+    place: Georgia
+    spouse:
+      givenName: Mary E.
+      surname: Posey
+  - number: 2
+    date: 30 April 1857
+    place: Georgia
+    spouse:
+      givenName: Leacy (Lucy or Alicia) Frances
+      surname: Brown
+      birth:
+        date: 8 May 1837
+        place: Georgia
+      death:
+        date: 22 October 1905
+        place: "[East Point, Georgia?]"
+      burial:
+        place: "Senoia City Cemetery   Senoia, Georgia"
+childrenGroups:
+  - spouseRef: Mary E. Posey
+    children:
+      - name: Ann E. Vining
+        birth:
+          date: age 9 y. as of 1860 census
+          place: Georgia
+      - name: Virginia Vining
+        birth:
+          date: age 8 y. as of 1860 census
+          place: Georgia
+  - spouseRef: Leacy (Lucy or Alicia) Frances Brown
+    children:
+      - name: Georgia Vining
+        birth:
+          date: February 1858
+          place: Georgia
+        marriages:
+          - date: 30 September 1879
+            place: Georgia
+            spouse: Salvador Sutton
+      - name: LaFrance Vining
+        birth:
+          date: 18 November 1859
+          place: Georgia
+        death:
+          date: 17 October 1910
+        burial:
+          place: "Senoia City Cemetery   Senoia, Georgia"
+      - name: DeQuincy Vining
+        birth:
+          date: 30 June 1861
+        marriages:
+          - date: 8 June 1893
+            place: Georgia
+            spouse: Ella D. Methvin
+        death:
+          date: 12 March 1941
+        burial:
+          place: "Senoia City Cemetery   Senoia, Georgia"
+      - name: Estelle Brown Vining
+        birth:
+          date: 11 September 1863
+          place: "Macon, Georgia"
+        marriages:
+          - date: 27 November 1884
+            place: "Senoia, Georgia"
+            spouse: "Willis S[y or i]dney Travis"
+        death:
+          date: 9 April 1941
+          place: "Senoia, GA"
+        burial:
+          place: "Senoia City Cemetery   Senoia, Georgia"
+      - name: Homer Vining
+        birth:
+          date: ca. 1865
+docsUrl: Tsources/ThomasN01doc.htm
+raw: |-
+  <a name="ThomasN01"></a><font size=+2>Thomas Newton Vining</font>
+     (son of <a href="Afamilies.htm#Abraham01">Abraham Vining and [Elinor or Elanora?] [...]</a>)
+     b. 28 April 1825   Georgia
+     m. (1) [3 January 1850 or 26 December 1849]   Georgia
+                 Mary E. Posey
+           (2) 30 April 1857   Georgia
+                 Leacy (Lucy or Alicia) Frances Brown
+                       (dau. of Turner Brown and Martha [...])
+                       b. 8 May 1837   Georgia
+                       d. 22 October 1905   [East Point, Georgia?]
+                             bur. Senoia City Cemetery   Senoia, Georgia
+     d. 26 July 1896   East Point, Georgia
+           bur. Senoia City Cemetery   Senoia, Georgia
+  
+  <font size=+1>children by Mary E. Posey:</font>
+     Ann E. Vining   b. age 9 y. as of 1860 census   Georgia
+     Virginia Vining   b. age 8 y. as of 1860 census   Georgia
+  <font size=+1>children by Leacy (Lucy or Alicia) Frances Brown:</font>
+     Georgia Vining   b. February 1858   Georgia   -   m. 30 September 1879   Georgia   Salvador Sutton
+     LaFrance Vining   b. 18 November 1859   Georgia   -   d. 17 October 1910   -   bur. Senoia City Cemetery   Senoia, Georgia
+     DeQuincy Vining   b. 30 June 1861   -   m. 8 June 1893   Georgia   Ella D. Methvin   -   d. 12 March 1941   -   bur. Senoia City Cemetery   Senoia, Georgia
+     Estelle Brown Vining   b. 11 September 1863   Macon, Georgia   -   m. 27 November 1884   Senoia, Georgia   Willis S[y or i]dney Travis   -   d. 9 April 1941   Senoia, GA   -   bur. Senoia City Cemetery   Senoia, Georgia
+     Homer Vining   b. ca. 1865
+  
+  <a href="Tsources/ThomasN01doc.htm">documentation and notes</a>

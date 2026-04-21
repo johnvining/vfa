@@ -1,0 +1,40 @@
+id: ThomasH02
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: JohnH02
+parentLetter: J
+parentDesc: John Henry Vining and Janie Rachel Byrd
+head:
+  givenName: Thomas Henry
+  birth:
+    date: 8 September 1960
+marriages:
+  - date: 6 January 1990
+    spouse:
+      givenName: Carol Elaine
+      surname: Stamper
+      birth:
+        date: 11 January 1963
+childrenGroups:
+  - children:
+      - name: Taylor Cassandra Vining
+        birth:
+          date: 5 September 1993
+          place: Colorado
+      - name: Ashley Lynn Vining
+        birth:
+          date: 28 September 1995
+          place: Colorado
+raw: |-
+  <a name="ThomasH02"></a><font size=+2>Thomas Henry Vining</font>
+     (son of <a href="Jfamilies.htm#JohnH02">John Henry Vining and Janie Rachel Byrd</a>)
+     b. 8 September 1960
+     m. 6 January 1990
+           Carol Elaine Stamper
+                 b. 11 January 1963
+           2009   divorced
+  
+  <font size=+1>children:</font>
+     Taylor Cassandra Vining   b. 5 September 1993   Colorado
+     Ashley Lynn Vining   b. 28 September 1995   Colorado

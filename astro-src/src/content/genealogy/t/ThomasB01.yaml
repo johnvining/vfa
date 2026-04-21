@@ -1,0 +1,65 @@
+id: ThomasB01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: DonaldE01
+parentLetter: D
+parentDesc: Donald Erhart Vining and Mildred Agnes Banks
+head:
+  givenName: Thomas Bernard
+  birth:
+    date: 16 November 1934
+    place: Ohio
+  death:
+    date: 10 February 2010
+    place: Ohio
+marriages:
+  - date: 22 July 1952
+    spouse:
+      givenName: Elizabeth
+      surname: Barneswell
+      birth:
+        date: 8 October 1934
+childrenGroups:
+  - children:
+      - name: Laurie Ann Vining
+        birth:
+          date: 23 April 1953
+          place: "Berea, Ohio"
+        marriages:
+          - date: Dan Strong
+        death:
+          date: "1993"
+      - name: Thomas Bernard Vining Jr.
+        birth:
+          date: 24 July 1954
+        marriages:
+          - date: "Gail [...]"
+      - name: Daniel Gerard Vining
+        birth:
+          date: 3 September 1959
+        marriages:
+          - date: "Lois [...]"
+      - name: Cheryl Ann Vining
+        birth:
+          date: 23 April 1965
+        marriages:
+          - date: Robert Ehrnfelt
+docsUrl: Tsources/ThomasB01doc.htm
+raw: |-
+  <a name="ThomasB01"></a><font size=+2>Thomas Bernard Vining</font>
+     (son of <a href="Dfamilies.htm#DonaldE01">Donald Erhart Vining and Mildred Agnes Banks</a>)
+     b. 16 November 1934   Ohio
+     m. 22 July 1952
+           Elizabeth Barneswell
+                 b. 8 October 1934
+     d. 10 February 2010   Ohio
+           bur. Strongsville Cemetery   Strongsville, Ohio
+  
+  <font size=+1>children:</font>
+     Laurie Ann Vining   b. 23 April 1953   Berea, Ohio   -   m. Dan Strong   -   d. 1993
+     Thomas Bernard Vining Jr.   b. 24 July 1954   -   m. Gail [...]
+     Daniel Gerard Vining   b. 3 September 1959   -   m. Lois [...]
+     Cheryl Ann Vining   b. 23 April 1965   -   m. Robert Ehrnfelt
+  
+  <a href="Tsources/ThomasB01doc.htm">documentation and notes</a>

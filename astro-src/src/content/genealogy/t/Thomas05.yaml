@@ -1,0 +1,121 @@
+id: Thomas05
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Edward01
+parentLetter: E
+parentDesc: Edward Vining and Catherine Haines
+head:
+  givenName: Thomas
+  birth:
+    date: 10 November 1849
+    place: "Milwaukee, Milwaukee County, Wisconsin"
+  death:
+    date: "[10 March 1925 or 24 March 1927?]"
+marriages:
+  - date: 9 November 1871
+    place: "Marcellon, Columbia County, Wisconsin"
+    spouse:
+      givenName: Lucretia M.
+      surname: Peckham
+      birth:
+        date: 18 March 1854
+        place: "Marcellon, Columbia County, Wisconsin"
+      death:
+        date: 4 March 1910
+        place: "Chetek, Barron County, Wisconsin"
+childrenGroups:
+  - children:
+      - name: Charles Vining
+        birth:
+          date: 22 March 1873
+          place: "Marcellon, Columbia County, Wisconsin"
+        death:
+          date: 12 October 1883
+          place: Minnesota
+      - name: Laura May Vining
+        birth:
+          date: "26 January [1875 or 1876?]"
+          place: "Marcellon, Columbia County, Wisconsin"
+        marriages:
+          - date: 19 September 1894
+            spouse: Benjamin W. Palmer
+        death:
+          date: 1 January 1942
+          place: "Huron, Beadle County, South Dakota"
+      - name: Jesse Lotten Vining
+        entryId: JesseL03
+        entryLetter: J
+        birth:
+          date: 28 September 1881
+          place: "Elmore, Faribault County, Minnesota"
+        marriages:
+          - number: 1
+            date: "Lulu Hewitt,"
+            spouse: divorced
+          - number: 2
+            date: 13 October 1942
+            spouse: Regina Thill
+        death:
+          date: 17 June 1950
+          place: "Davison, South Dakota"
+      - name: Thomas Raymond Vining
+        entryId: ThomasR01
+        birth:
+          date: 26 October 1887
+          place: "Columbia [County?], Wisconsin"
+        marriages:
+          - date: 14 September 1910
+            spouse: Gertrude Michaelson
+        death:
+          date: 10 January 1952
+        burial:
+          place: "Ethan Hillcrest Cemetery   Ethan, South Dakota"
+      - name: Lester E. Vining
+        birth:
+          date: 3 August 1890
+          place: Wisconsin
+        death:
+          date: 12 September 1917
+      - name: Harry Edward Vining
+        entryId: HarryE01
+        entryLetter: H
+        birth:
+          date: 27 April 1893
+          place: "Rio, Wisconsin"
+        marriages:
+          - date: 1 September 1917
+            place: "Minneapolis, Minnesota"
+            spouse: Selma Christine Peterson
+        death:
+          date: 28 May 1972
+          place: Minnesota
+      - name: Benjamin Wade Vining
+        birth:
+          date: 14 March 1898
+          place: "Chetek, Barron County, Wisconsin"
+        death:
+          date: 20 October 1980
+          place: "Chetek, Barron County, Wisconsin"
+docsUrl: Tsources/Thomas05doc.htm
+raw: |-
+  <a name="Thomas05"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Efamilies.htm#Edward01">Edward Vining and Catherine Haines</a>)
+     b. 10 November 1849   Milwaukee, Milwaukee County, Wisconsin
+     m. 9 November 1871   Marcellon, Columbia County, Wisconsin
+           Lucretia M. Peckham
+                 (dau. of Peleg Lawton Peckham and Minerva Austin)
+                 b. 18 March 1854   Marcellon, Columbia County, Wisconsin
+                 d. 4 March 1910   Chetek, Barron County, Wisconsin
+     d. [10 March 1925 or 24 March 1927?]
+  
+  <font size=+1>children:</font>
+     Charles Vining   b. 22 March 1873   Marcellon, Columbia County, Wisconsin   -   d. 12 October 1883   Minnesota
+     Laura May Vining   b. 26 January [1875 or 1876?]   Marcellon, Columbia County, Wisconsin   -   m. 19 September 1894   Benjamin W. Palmer   -   d. 1 January 1942   Huron, Beadle County, South Dakota
+     <a href="Jfamilies.htm#JesseL03">Jesse Lotten Vining</a>   b. 28 September 1881   Elmore, Faribault County, Minnesota   -   m. (1) Lulu Hewitt,   divorced;   (2) 13 October 1942   Regina Thill   -   d. 17 June 1950   Davison, South Dakota
+     <a href="#ThomasR01">Thomas Raymond Vining</a>   b. 26 October 1887   Columbia [County?], Wisconsin   -   m. 14 September 1910   Gertrude Michaelson   -   d. 10 January 1952   -   bur. Ethan Hillcrest Cemetery   Ethan, South Dakota
+     Lester E. Vining   b. 3 August 1890   Wisconsin   -   d. 12 September 1917
+     <a href="Hfamilies.htm#HarryE01">Harry Edward Vining</a>   b. 27 April 1893   Rio, Wisconsin   -   m. 1 September 1917   Minneapolis, Minnesota   Selma Christine Peterson   -   d. 28 May 1972   Minnesota
+     Benjamin Wade Vining   b. 14 March 1898   Chetek, Barron County, Wisconsin   -   d. 20 October 1980   Chetek, Barron County, Wisconsin
+  
+  <a href="Tsources/Thomas05doc.htm">documentation and notes</a>

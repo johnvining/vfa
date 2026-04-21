@@ -1,0 +1,77 @@
+id: ThomasW02
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasL01
+parentDesc: Thomas Llewellyn Vining and Anne Thick
+head:
+  givenName: Thomas William
+  birth:
+    date: "1770"
+  death:
+    date: "1850"
+marriages:
+  - date: "1826"
+    place: "Bristol, England"
+    spouse:
+      givenName: Mary
+      surname: Prediger
+childrenGroups:
+  - children:
+      - name: "Fanny [Amelia or Mary Ann?] Vining"
+        birth:
+          date: 10 January 1830
+      - name: Thomas William Vining Jr.
+        entryId: ThomasWJr01
+        birth:
+          date: 13 January 1832
+          place: "Bristol, Gloucestershire, England"
+        marriages:
+          - number: 1
+            date: 30 January 1853
+            spouse: Arkansas   Mary Jane Bray
+          - number: 2
+            date: 11 February 1866
+            spouse: "Pine Bluff, Arkansas   Elizabeth Hawley"
+        death:
+          date: 27 December 1893
+          place: "Pine Bluff, Arkansas"
+        burial:
+          place: "Bellwood Cemetery   Pine Bluff, Arkansas"
+      - name: John Vining
+        birth:
+          date: "1834"
+      - name: George Joseph Vining
+        entryId: GeorgeJ01
+        entryLetter: G
+        birth:
+          date: 25 March 1836
+          place: "Bristol, England"
+        marriages:
+          - number: 1
+            date: 1 November 1862
+            spouse: "Pine Bluff, Arkansas   Cornelia Aldridge"
+          - number: 2
+            date: 22 October 1901
+            spouse: "Pine Bluff, Arkansas   Amelia R. Schwind"
+        death:
+          date: 15 March 1915
+        burial:
+          place: "Bellwood Cemetery   Pine Bluff, Arkansas"
+      - name: Elizabeth H. Vining
+        birth:
+          date: age 4 y. as of 27 June 1843
+raw: |-
+  <a name="ThomasW02"></a><font size=+2>Thomas William Vining</font>
+     (son of <a href="#ThomasL01">Thomas Llewellyn Vining and Anne Thick</a>)
+     b. 1770
+     m. 1826   Bristol, England
+           Mary Prediger
+     d. 1850
+  
+  <font size=+1>children:</font>
+     Fanny [Amelia or Mary Ann?] Vining   b. 10 January 1830
+     <a href="#ThomasWJr01">Thomas William Vining Jr.</a>   b. 13 January 1832   Bristol, Gloucestershire, England   -   m. (1) 30 January 1853   Arkansas   Mary Jane Bray;   (2) 11 February 1866   Pine Bluff, Arkansas   Elizabeth Hawley   -   d. 27 December 1893   Pine Bluff, Arkansas   -   bur. Bellwood Cemetery   Pine Bluff, Arkansas
+     John Vining   b. 1834
+     <a href="Gfamilies.htm#GeorgeJ01">George Joseph Vining</a>   b. 25 March 1836   Bristol, England   -   m. (1) 1 November 1862   Pine Bluff, Arkansas   Cornelia Aldridge;   (2) 22 October 1901   Pine Bluff, Arkansas   Amelia R. Schwind   -   d. 15 March 1915   -   bur. Bellwood Cemetery   Pine Bluff, Arkansas
+     Elizabeth H. Vining   b. age 4 y. as of 27 June 1843

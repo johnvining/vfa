@@ -1,0 +1,64 @@
+id: ThomasU01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: JohnU01
+parentLetter: J
+parentDesc: John Uriah Vining and Annie Elizabeth Morgan
+head:
+  givenName: Thomas Underwood
+  birth:
+    date: 26 October 1912
+  death:
+    date: 9 July 1998
+    place: "(last residence: Denham Springs, Louisiana)"
+marriages:
+  - number: 1
+    date: 16 May 1932
+    spouse:
+      givenName: Mattie Mae
+      surname: Thompson
+  - number: 2
+    date: 16 October 1965
+    spouse:
+      givenName: Mable (Story)
+      surname: Allen
+childrenGroups:
+  - children:
+      - name: Annie Mae Vining
+        birth:
+          date: 30 June 1933
+        marriages:
+          - number: 1
+            date: 6 October 1952
+            spouse: Joseph A. Chaney
+          - number: 2
+            date: 10 January 1964
+            spouse: Dave Oxley
+      - name: Thomas Ernest Vining
+        birth:
+          date: 31 July 1935
+        marriages:
+          - date: "Dot [...]"
+        death:
+          date: 20 May 1985
+          place: "(last residence: Baker, Louisiana)"
+        burial:
+          place: "Pleasant Hill Baptist Church Cemetery   St. Helena Parish, Louisiana"
+docsUrl: Tsources/ThomasU01doc.htm
+raw: |-
+  <a name="ThomasU01"></a><font size=+2>Thomas Underwood Vining</font>
+     (son of <a href="Jfamilies.htm#JohnU01">John Uriah Vining and Annie Elizabeth Morgan</a>)
+     b. 26 October 1912
+     m. (1) 16 May 1932
+                 Mattie Mae Thompson
+           (2) 16 October 1965
+                 Mable (Story) Allen
+     d. 9 July 1998   (last residence: Denham Springs, Louisiana)
+              bur. Pleasant Hill Baptist Church Cemetery   St. Helena Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Annie Mae Vining   b. 30 June 1933   -   m. (1) 6 October 1952   Joseph A. Chaney;   (2) 10 January 1964   Dave Oxley
+     Thomas Ernest Vining   b. 31 July 1935   -   m. Dot [...]   -   d. 20 May 1985   (last residence: Baker, Louisiana)   -   bur. Pleasant Hill Baptist Church Cemetery   St. Helena Parish, Louisiana
+  
+  <a href="Tsources/ThomasU01doc.htm">documentation and notes</a>

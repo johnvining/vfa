@@ -1,0 +1,43 @@
+id: Thomas11
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Thomas10
+parentDesc: Thomas Vining and Eliza Andrus
+head:
+  givenName: Thomas
+  birth:
+    date: "1830"
+  death:
+    date: "1880"
+marriages:
+  - date: 16 June 1875
+    spouse:
+      givenName: Julia/Juliet
+      surname: Sons
+      birth:
+        date: August 1856
+      death:
+        date: "1881"
+childrenGroups:
+  - children:
+      - name: Louisa Vining
+        birth:
+          date: "1877"
+      - name: "Virgini[a?] Elvina Vining"
+        birth:
+          date: "1880"
+raw: |-
+  <a name="Thomas11"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="#Thomas10">Thomas Vining and Eliza Andrus</a>)
+     b. 1830
+     m. 16 June 1875
+           Julia/Juliet Sons
+                 (dau. of Antoine William Sons and Harriet Henrietta Renaud)
+                 b. August 1856
+                 d. 1881
+     d. 1880
+  
+  <font size=+1>children:</font>
+     Louisa Vining   b. 1877
+     Virgini[a?] Elvina Vining   b. 1880

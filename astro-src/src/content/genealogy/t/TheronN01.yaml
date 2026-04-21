@@ -1,0 +1,68 @@
+id: TheronN01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: JosephAL01
+parentLetter: J
+parentDesc: Joseph Alford Lee Vining and Gracie Gustavia Fryday
+head:
+  givenName: Theron Nash
+  birth:
+    date: 15 January 1917
+    place: "Madison Parish, Louisiana"
+  death:
+    date: 11 June 1989
+    place: "Webster Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Eva Mae
+      surname: Grubbs
+childrenGroups:
+  - children:
+      - name: Theron Douglas Vining
+        entryId: TheronD01
+        birth:
+          date: 21 January 1949
+        death:
+          date: 20 May 2006
+          place: "Minden, Louisiana"
+        burial:
+          place: "New Forest Cemetery   Forest, Louisiana"
+      - name: Lavelle Vining
+      - name: Huey Vining
+      - name: Kenneth Vining
+      - name: Larry Vining
+      - name: Jimmy Vining
+      - name: Geraldine Vining
+        marriages:
+          - date: "[...] Irby"
+      - name: Diane Vining
+        marriages:
+          - date: "[...] Beam"
+      - name: Evetta Vining
+        marriages:
+          - date: "[...] Citrano"
+docsUrl: Tsources/TheronN01doc.htm
+raw: |-
+  <a name="TheronN01"></a><font size=+2>Theron Nash Vining</font>
+     (son of <a href="Jfamilies.htm#JosephAL01">Joseph Alford Lee Vining and Gracie Gustavia Fryday</a>)
+     b. 15 January 1917   Madison Parish, Louisiana
+     m. Eva Mae Grubbs
+              b. 14 July 1921
+              d. 5 November 1996
+                    bur. New Forest Cemetery   Forest, Louisiana
+     d. 11 June 1989   Webster Parish, Louisiana
+           bur. New Forest Cemetery   Forest, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="#TheronD01">Theron Douglas Vining</a>   b. 21 January 1949   -   d. 20 May 2006   Minden, Louisiana   -   bur. New Forest Cemetery   Forest, Louisiana
+     Lavelle Vining
+     Huey Vining
+     Kenneth Vining
+     Larry Vining
+     Jimmy Vining
+     Geraldine Vining   m. [...] Irby
+     Diane Vining   m. [...] Beam
+     Evetta Vining   m. [...] Citrano
+  
+  <a href="Tsources/TheronN01doc.htm">documentation and notes</a>

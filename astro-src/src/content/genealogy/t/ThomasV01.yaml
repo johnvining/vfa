@@ -1,0 +1,62 @@
+id: ThomasV01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: CharlesP01
+parentLetter: C
+parentDesc: "Charles Phillip Vining and Mary Elizabeth &#8220;Mamie&#8221; Vetsch"
+head:
+  givenName: Thomas Vetsch
+  birth:
+    date: 11 February 1924
+    place: "Forest, Louisiana"
+  death:
+    date: 29 December 2010
+    place: "Pineville, Louisiana"
+marriages:
+  - date: 63 y. as of 29 December 2010
+    spouse:
+      givenName: Myrtle
+      surname: Jones
+childrenGroups:
+  - children:
+      - name: Thomas Jerry Vining
+        entryId: ThomasJ03
+        death:
+          date: before 29 December 2010
+      - name: Charles Ronald Vining
+        birth:
+          date: "m. Linda [...]"
+      - name: Phillip Irby Vining
+        entryId: PhillipI01
+        entryLetter: P
+        birth:
+          date: 19 November 1949
+        marriages:
+          - date: "Cheri O&#8217;Banion"
+        death:
+          date: 23 April 2021
+      - name: Mary Lou Vining
+        marriages:
+          - date: Mark Stephenson
+      - name: Peggy Vining
+        marriages:
+          - date: Rayford Ancelet
+docsUrl: Tsources/ThomasV01doc.htm
+raw: |-
+  <a name="ThomasV01"></a><font size=+2>Thomas Vetsch Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesP01">Charles Phillip Vining and Mary Elizabeth &#8220;Mamie&#8221; Vetsch</a>)
+     b. 11 February 1924   Forest, Louisiana
+     m. 63 y. as of 29 December 2010
+           Myrtle Jones
+     d. 29 December 2010   Pineville, Louisiana
+           bur. Resthaven Cemetery   Oakdale, Allen Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="#ThomasJ03">Thomas Jerry Vining</a>   d. before 29 December 2010
+     Charles Ronald Vining   b.    m. Linda [...]
+     <a href="Pfamilies.htm#PhillipI01">Phillip Irby Vining</a>   b. 19 November 1949   -   m. Cheri O&#8217;Banion   -   d. 23 April 2021
+     Mary Lou Vining   m. Mark Stephenson
+     Peggy Vining   m. Rayford Ancelet
+  
+  <a href="Tsources/ThomasV01doc.htm">documentation and notes</a>

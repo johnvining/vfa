@@ -1,0 +1,25 @@
+id: Tracy01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Sterling01
+parentLetter: S
+parentDesc: Sterling Vining and Essie Ratcliff
+head:
+  givenName: Tracy
+marriages:
+  - spouse:
+      givenName: Julie
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Jana Vining
+      - name: Jason Vining
+raw: |-
+  <a name="Tracy01"></a><font size=+2>Tracy Vining</font>
+     (son of <a href="Sfamilies.htm#Sterling01">Sterling Vining and Essie Ratcliff</a>)
+     m. Julie [...]
+  
+  <font size=+1>children:</font>
+     Jana Vining
+     Jason Vining

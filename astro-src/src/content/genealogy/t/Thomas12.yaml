@@ -1,0 +1,51 @@
+id: Thomas12
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Samuel02
+parentLetter: S
+parentDesc: "Samuel Vining and Elizabeth [&#8230;]"
+head:
+  givenName: Thomas
+  birth:
+    date: age 30 y. as of 1860 census
+    place: England
+marriages:
+  - date: 20 February 1854
+    place: "Wheeling, West Virginia"
+    spouse:
+      givenName: Mary A.
+      surname: Moring
+      birth:
+        date: age 30 y. as of 1860 census
+        place: Nova Scotia
+childrenGroups:
+  - children:
+      - name: J. E. Vining
+        birth:
+          date: age 5 y. as of 1860 census
+          place: Missouri
+      - name: Charles E. Vining
+        entryId: CharlesE04
+        entryLetter: C
+        birth:
+          date: October 1858
+          place: Missouri
+        marriages:
+          - date: 15 y. as of 1900 census
+            spouse: Ione Augusta Singer
+docsUrl: Tsources/Thomas12doc.htm
+raw: |-
+  <a name="Thomas12"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel02">Samuel Vining and Elizabeth [&#8230;]</a>)
+     b. age 30 y. as of 1860 census   England
+     m. 20 February 1854   Wheeling, West Virginia
+           Mary A. Moring
+                 (dau. of Benjamin Moring and Jane [&#8230;])
+                 b. age 30 y. as of 1860 census   Nova Scotia
+  
+  <font size=+1>children:</font>
+     J. E. Vining   b. age 5 y. as of 1860 census   Missouri
+     <a href="Cfamilies.htm#CharlesE04">Charles E. Vining</a>   b. October 1858   Missouri   -   m. 15 y. as of 1900 census   Ione Augusta Singer
+  
+  <a href="Tsources/Thomas12doc.htm">documentation and notes</a>

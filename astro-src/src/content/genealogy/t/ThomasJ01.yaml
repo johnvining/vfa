@@ -1,0 +1,51 @@
+id: ThomasJ01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: HowardH01
+parentLetter: H
+parentDesc: Howard Herman Vining and Fern Ione Alexander
+head:
+  givenName: Thomas James
+  birth:
+    date: 5 February 1946
+    place: "St. Paul, Minnesota"
+marriages:
+  - number: 1
+    date: 3 October 1970
+    place: "South St. Paul, Minnesota"
+    spouse:
+      givenName: Christine
+      surname: Mielke
+  - number: 2
+    date: 27 July 1984
+    place: "St. Paul, Minnesota"
+    spouse:
+      givenName: Pamela
+      surname: Sainty
+childrenGroups:
+  - spouseRef: Pamela Sainty
+    children:
+      - name: Cheryl Lynn Vining
+        birth:
+          date: 26 March 1989
+          place: "Maplewood, Minnesota"
+        marriages:
+          - date: "2007"
+            spouse: Erik Birch
+      - name: Sara Jean Vining
+        birth:
+          date: 1 November 1990
+          place: "Maplewood, Minnesota"
+raw: |-
+  <a name="ThomasJ01"></a><font size=+2>Thomas James Vining</font>
+     (son of <a href="Hfamilies.htm#HowardH01">Howard Herman Vining and Fern Ione Alexander</a>)
+     b. 5 February 1946   St. Paul, Minnesota
+     m. (1) 3 October 1970   South St. Paul, Minnesota
+                 Christine Mielke
+           (2) 27 July 1984   St. Paul, Minnesota
+                 Pamela Sainty
+  
+  <font size=+1>children by Pamela Sainty:</font>
+     Cheryl Lynn Vining   b. 26 March 1989   Maplewood, Minnesota   -   m. 2007   Erik Birch
+     Sara Jean Vining   b. 1 November 1990   Maplewood, Minnesota

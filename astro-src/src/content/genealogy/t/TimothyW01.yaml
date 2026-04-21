@@ -1,0 +1,93 @@
+id: TimothyW01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ConverseW01
+parentLetter: C
+parentDesc: Converse Wing Vining and Esther Hall Worthley
+head:
+  givenName: Timothy W.
+  birth:
+    date: age 47 y. at death
+    place: "[Avon or North Yarmouth?], Maine"
+  death:
+    date: 8 May 1885
+    place: "Avon, Maine"
+marriages:
+  - date: 25 October 1864
+    place: "Farmington, Maine"
+    spouse:
+      givenName: Tryphena C.
+      surname: Dow
+      birth:
+        date: 25 May 1845
+        place: "Avon, Maine"
+      death:
+        date: 8 May 1906
+        place: "Auburn, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Harry G. Vining
+        entryId: HarryG01
+        entryLetter: H
+        birth:
+          date: 15 May 1869
+          place: "Avon, Maine"
+        marriages:
+          - date: 21 January 1896
+            spouse: Ella Mae Conant
+        death:
+          date: 18 June 1932
+          place: "Minot, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Blanche M. Vining
+        birth:
+          date: "age 18 y., 6 m. at death"
+        death:
+          date: 8 April 1891
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Minnie Louise Vining
+        birth:
+          date: 12 May 1878
+          place: "Avon, Maine"
+        marriages:
+          - date: 22 November 1899
+            place: "Phillips, Maine"
+            spouse: "<a href=\"#JohnA02\">John Albion Vining</a>"
+        death:
+          date: 5 March 1902
+          place: "East Livermore, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: F. Ardine Vining
+        birth:
+          date: "age 8 y., 1 m. at death"
+        death:
+          date: 5 October 1888
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+docsUrl: Tsources/TimothyW01doc.htm
+raw: |-
+  <a name="TimothyW01"></a><font size=+2>Timothy W. Vining</font>
+     (son of <a href="Cfamilies.htm#ConverseW01">Converse Wing Vining and Esther Hall Worthley</a>)
+     b. age 47 y. at death   [Avon or North Yarmouth?], Maine
+     m. 25 October 1864   Farmington, Maine
+           Tryphena C. Dow
+                 (dau. of Joshua Dow and Eliza[beth?] Haines)
+                 b. 25 May 1845   Avon, Maine
+                 d. 8 May 1906   Auburn, Maine
+                       bur. Village Cemetery   Strong, Maine
+     d. 8 May 1885   Avon, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#HarryG01">Harry G. Vining</a>   b. 15 May 1869   Avon, Maine   -   m. 21 January 1896   Ella Mae Conant   -   d. 18 June 1932   Minot, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     Blanche M. Vining   b. age 18 y., 6 m. at death   -   d. 8 April 1891   -   bur. Village Cemetery   Strong, Maine
+     Minnie Louise Vining   b. 12 May 1878   Avon, Maine   -   m. 22 November 1899   Phillips, Maine   <a href="#JohnA02">John Albion Vining</a>   -   d. 5 March 1902   East Livermore, Maine   -   bur. Village Cemetery   Strong, Maine
+     F. Ardine Vining   b. age 8 y., 1 m. at death   -   d. 5 October 1888   -   bur. Village Cemetery   Strong, Maine
+  
+  <a href="Tsources/TimothyW01doc.htm">documentation and notes</a>

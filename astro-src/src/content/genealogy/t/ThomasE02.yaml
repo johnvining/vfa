@@ -1,0 +1,92 @@
+id: ThomasE02
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasG01
+parentDesc: Thomas Green Vining and Julia Sabrina Wells
+head:
+  givenName: Thomas Ebenezer
+  birth:
+    date: 20 August 1877
+    place: "Crystal Springs, Copiah County, Mississippi"
+  death:
+    date: 27 April 1953
+    place: "Eudora, Chicot County, Arkansas"
+marriages:
+  - number: 1
+    date: "Josephine [...]"
+  - number: 2
+    date: Mary Maude Edmonson
+childrenGroups:
+  - spouseRef: "Josephine [&#8230;]"
+    children:
+      - name: "[Josie J. or Cassie?] Vining"
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Louisiana
+      - name: child Vining
+      - name: Thomas Cleburne Vining
+        entryId: ThomasC02
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Louisiana
+        marriages:
+          - date: Doretha Runnels
+      - name: Edwin Louis Vining
+        birth:
+          date: age 1 y. as of 1910 census
+          place: Louisiana
+      - name: Robert Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Louisiana
+  - spouseRef: "Mary Maude Edmonson[?]"
+    children:
+      - name: Ruth Vining
+        birth:
+          date: age 4 y. as of 1930 census
+          place: Arkansas
+        marriages:
+          - date: Fletcher Young
+      - name: Donald Vining +
+        birth:
+          date: age 2 y. as of 1930 census
+          place: Arkansas
+        marriages:
+          - date: "[...] Caudle"
+      - name: Billy Coleman Vining
+        entryId: BillyC01
+        entryLetter: B
+        birth:
+          date: age 6 m. as of 1930 census
+          place: "Eudora, Arkansas"
+        marriages:
+          - date: 25 December 1949
+            spouse: Mary Ann Strickland
+docsUrl: Tsources/ThomasE02doc.htm
+raw: |-
+  <a name="ThomasE02"></a><font size=+2>Thomas Ebenezer Vining</font>
+     (son of <a href="#ThomasG01">Thomas Green Vining and Julia Sabrina Wells</a>)
+     b. 20 August 1877   Crystal Springs, Copiah County, Mississippi
+     m. (1) Josephine [...]
+                    b. age 26 y. as of 1910 census   Louisiana
+           (2) Mary Maude Edmonson
+                    (dau. of James Coleman Edmonson and Mary Ella McCall)
+                    b. 18 May 1888   Mississippi
+                    d. 12 February 1937
+                          bur. Mount Carmel Cemetery   Eudora, Arkansas
+     d. 27 April 1953   Eudora, Chicot County, Arkansas
+           bur. Mount Carmel Cemetery   Eudora, Chicot County, Arkansas
+  
+  <font size=+1>children by Josephine [&#8230;]:</font>
+     [Josie J. or Cassie?] Vining   b. age 6 y. as of 1910 census   Louisiana
+     child Vining
+     <a href="#ThomasC02">Thomas Cleburne Vining</a>   b. age 3 y. as of 1910 census   Louisiana   -   m. Doretha Runnels
+     Edwin Louis Vining   b. age 1 y. as of 1910 census   Louisiana
+     Robert Vining   b. age 8 y. as of 1920 census   Louisiana
+  <font size=+1>children by Mary Maude Edmonson[?]:</font>
+     Ruth Vining   b. age 4 y. as of 1930 census   Arkansas   -   m. Fletcher Young
+     Donald Vining +    b. age 2 y. as of 1930 census   Arkansas   -   m. [...] Caudle
+     <a href="Bfamilies.htm#BillyC01">Billy Coleman Vining</a>   b. age 6 m. as of 1930 census   Eudora, Arkansas   -   m. 25 December 1949   Mary Ann Strickland
+  
+  <a href="Tsources/ThomasE02doc.htm">documentation and notes</a>

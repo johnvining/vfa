@@ -1,0 +1,50 @@
+id: ThomasE01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: JamesTJr01
+parentLetter: J
+parentDesc: James Thomas Vining Jr. and Christena Shoub
+head:
+  givenName: Thomas Earl
+  birth:
+    date: 17 September 1880
+    place: Ohio
+  death:
+    date: 25 December 1931
+marriages:
+  - spouse:
+      givenName: Myrtle
+      surname: McGraw
+childrenGroups:
+  - children:
+      - name: Ella N. Vining
+        birth:
+          date: 27 November 1904
+      - name: Mary Teresa Vining
+        birth:
+          date: 8 October 1915
+      - name: Thomas Earl Vining Jr.
+        birth:
+          date: 22 October 1920
+        death:
+          date: 18 April 1999
+          place: "(last residence: Orrville, Ohio)"
+docsUrl: Tsources/ThomasE01doc.htm
+raw: |-
+  <a name="ThomasE01"></a><font size=+2>Thomas Earl Vining</font>
+     (son of <a href="Jfamilies.htm#JamesTJr01">James Thomas Vining Jr. and Christena Shoub</a>)
+     b. 17 September 1880   Ohio
+     m. Myrtle McGraw
+              b. 20 January 1882
+              d. 25 July 1949
+                    bur. Saint Mary Cemetery   Delaware, Ohio
+     d. 25 December 1931
+           bur. Saint Mary Cemetery   Delaware, Ohio
+  
+  <font size=+1>children:</font>
+     Ella N. Vining   b. 27 November 1904
+     Mary Teresa Vining   b. 8 October 1915
+     Thomas Earl Vining Jr.   b. 22 October 1920   -   d. 18 April 1999   (last residence: Orrville, Ohio)
+  
+  <a href="Tsources/ThomasE01doc.htm">documentation and notes</a>

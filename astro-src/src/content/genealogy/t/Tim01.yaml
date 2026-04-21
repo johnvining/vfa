@@ -1,0 +1,45 @@
+id: Tim01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Tim
+marriages:
+  - date: 41 y. as of 19 June 2010
+    spouse:
+      givenName: Linda
+      surname: Davis
+      birth:
+        date: 20 February 1949
+        place: "Mesa, Arizona"
+      death:
+        date: 19 June 2010
+        place: "Roseville, California"
+childrenGroups:
+  - children:
+      - name: Lee Vining
+        entryId: Lee01
+        entryLetter: L
+        marriages:
+          - date: "Cyndie [...]"
+      - name: James Vining
+        entryId: James11
+        entryLetter: J
+        marriages:
+          - date: "Rachel [...]"
+docsUrl: Tsources/Tim01doc.htm
+raw: |-
+  <a name="Tim01"></a><font size=+2>Tim Vining</font>
+     (son of [?])
+     m. 41 y. as of 19 June 2010
+           Linda Davis
+                 (daughter of Dave Davis and Zelma [...])
+                 b. 20 February 1949   Mesa, Arizona
+                 d. 19 June 2010   Roseville, California
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#Lee01">Lee Vining</a>   m. Cyndie [...]
+     <a href="Jfamilies.htm#James11">James Vining</a>   m. Rachel [...]
+  
+  <a href="Tsources/Tim01doc.htm">documentation and notes</a>

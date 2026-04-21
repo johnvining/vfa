@@ -1,0 +1,90 @@
+id: ThomasR01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Thomas05
+parentDesc: Thomas Vining and Lucretia Peckham
+head:
+  givenName: Thomas Raymond
+  birth:
+    date: 26 October 1887
+    place: Wisconsin
+  death:
+    date: 10 January 1952
+marriages:
+  - date: 14 September 1910
+    spouse:
+      givenName: Gertrude
+      surname: Michaelson
+      birth:
+        date: age 27 y. as of 1920 census
+        place: South Dakota
+childrenGroups:
+  - children:
+      - name: Mabel Vining
+        birth:
+          date: 26 September 1911
+          place: "Chetek, Wisconsin"
+        marriages:
+          - date: 10 February 1932
+            spouse: William Adams
+      - name: Raymond Harris Vining
+        entryId: RaymondH01
+        entryLetter: R
+        birth:
+          date: 27 November 1912
+          place: "Chetek, Wisconsin"
+        marriages:
+          - date: 31 March 1935
+            spouse: Velma Ruth Ashley
+        death:
+          date: 14 April 1998
+          place: "(last residence: Hill City, South Dakota)"
+        burial:
+          place: "Ethan Hillcrest Cemetery   Ethan, South Dakota"
+      - name: Edward H. Vining
+        entryId: EdwardH03
+        entryLetter: E
+        birth:
+          date: 3 December 1913
+          place: "Ethan, South Dakota"
+        marriages:
+          - date: 1 September 1939
+            spouse: "Lake Andes, South Dakota   Martha Wudel"
+        death:
+          date: 31 July 2002
+          place: "Worthington, Minnesota"
+        burial:
+          place: "Green Hill Cemetery   Alexandria, South Dakota"
+      - name: Charles L. Vining
+        entryId: CharlesL01
+        entryLetter: C
+        birth:
+          date: 1 February 1919
+          place: "Mitchell, South Dakota"
+        marriages:
+          - date: 25 October 1939
+            spouse: "Lenora &#8220;Lee&#8221; Elder"
+        death:
+          date: 27 June 2004
+          place: "(last residence: Cambridge, Minnesota)"
+        burial:
+          place: South Maple Ridge Cemetery
+docsUrl: Tsources/ThomasR01doc.htm
+raw: |-
+  <a name="ThomasR01"></a><font size=+2>Thomas Raymond Vining</font>
+     (son of <a href="#Thomas05">Thomas Vining and Lucretia Peckham</a>)
+     b. 26 October 1887   Wisconsin
+     m. 14 September 1910
+           Gertrude Michaelson
+                 b. age 27 y. as of 1920 census   South Dakota
+     d. 10 January 1952
+           bur. Ethan Hillcrest Cemetery   Ethan, South Dakota
+  
+  <font size=+1>children:</font>
+     Mabel Vining   b. 26 September 1911   Chetek, Wisconsin   -   m. 10 February 1932   William Adams
+     <a href="Rfamilies.htm#RaymondH01">Raymond Harris Vining</a>   b. 27 November 1912   Chetek, Wisconsin   -   m. 31 March 1935   Velma Ruth Ashley   -   d. 14 April 1998   (last residence: Hill City, South Dakota)   -   bur. Ethan Hillcrest Cemetery   Ethan, South Dakota
+     <a href="Efamilies.htm#EdwardH03">Edward H. Vining</a>   b. 3 December 1913   Ethan, South Dakota   -   m. 1 September 1939   Lake Andes, South Dakota   Martha Wudel   -   d. 31 July 2002   Worthington, Minnesota   -   bur. Green Hill Cemetery   Alexandria, South Dakota
+     <a href="Cfamilies.htm#CharlesL01">Charles L. Vining</a>   b. 1 February 1919   Mitchell, South Dakota   -   m. 25 October 1939   Lenora &#8220;Lee&#8221; Elder   -   d. 27 June 2004   (last residence: Cambridge, Minnesota)   -   bur. South Maple Ridge Cemetery
+  
+  <a href="Tsources/ThomasR01doc.htm">documentation and notes</a>

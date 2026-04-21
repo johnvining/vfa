@@ -1,0 +1,58 @@
+id: TheodoreC01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: GuyE02
+parentLetter: G
+parentDesc: Guy Ellsworth Vining and Lavere Marguerite Johnson
+head:
+  givenName: Theodore Charles
+  birth:
+    date: 2 August 1920
+    place: "Pratt, Pratt County, Kansas"
+  death:
+    date: 24 June 2001
+    place: Arizona
+marriages:
+  - date: "1945"
+    spouse:
+      givenName: Jean Meredith
+      surname: Atteberry
+      birth:
+        date: 9 June 1924
+        place: "Charity, Dallas County, Missouri"
+      death:
+        date: 12 January 2013
+      burial:
+        place: "East Lawn Palms Cemetery   Tucson, Pima, Arizona"
+childrenGroups:
+  - children:
+      - name: Joanne Vining
+      - name: Julie Vining
+        marriages:
+          - date: Richard Patze
+      - name: Bob Vining
+        marriages:
+          - date: "Julie [&#8230;]"
+      - name: Tom Vining
+docsUrl: Tsources/TheodoreC01doc.htm
+raw: |-
+  <a name="TheodoreC01"></a><font size=+2>Theodore Charles Vining</font>
+     (son of <a href="Gfamilies.htm#GuyE02">Guy Ellsworth Vining and Lavere Marguerite Johnson</a>)
+     b. 2 August 1920   Pratt, Pratt County, Kansas
+     m. 1945
+           Jean Meredith Atteberry
+                 (dau. of Orval Onis Atteberry and Vera Odessa White)
+                 b. 9 June 1924   Charity, Dallas County, Missouri
+                 d. 12 January 2013
+                       bur. East Lawn Palms Cemetery   Tucson, Pima, Arizona
+     d. 24 June 2001   Arizona
+           bur. East Lawn Palms Cemetery   Tucson, Pima, Arizona
+  
+  <font size=+1>children:</font>
+     Joanne Vining
+     Julie Vining   m. Richard Patze
+     Bob Vining   m. Julie [&#8230;]
+     Tom Vining
+  
+  <a href="Tsources/TheodoreC01doc.htm">documentation and notes</a>

@@ -1,0 +1,47 @@
+id: TravisF01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: BenjaminF03
+parentLetter: B
+parentDesc: Benjamin Franklin Vining and Hattie Grace Ellerbee
+head:
+  givenName: Travis Franklin
+  birth:
+    date: 26 September 1908
+    place: "Atlanta, Georgia"
+  death:
+    date: 8 March 1975
+    place: "Atlanta, Georgia"
+marriages:
+  - spouse:
+      givenName: Corenne
+      surname: Farlow
+childrenGroups:
+  - children:
+      - name: son +
+      - name: Patrick Vining +
+        birth:
+          date: "Atlanta, Georgia"
+        death:
+          date: 19 February 1977
+          place: "Atlanta, Georgia"
+        burial:
+          place: "Westview Cemetery   Atlanta, Georgia"
+docsUrl: Tsources/TravisF01doc.htm
+raw: |-
+  <a name="TravisF01"></a><font size=+2>Travis Franklin Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminF03">Benjamin Franklin Vining and Hattie Grace Ellerbee</a>)
+     b. 26 September 1908   Atlanta, Georgia
+     m. Corenne Farlow
+              b. 12 March 1914   Georgia
+              d. 3 November 1983   (last residence: Metairie, Louisiana)
+                    bur. Westview Cemetery   Atlanta, Georgia
+     d. 8 March 1975   Atlanta, Georgia
+           bur. Westview Cemetery   Atlanta, Georgia
+  
+  <font size=+1>children:</font>
+     son +
+     Patrick Vining +    b. Atlanta, Georgia   -   d. 19 February 1977   Atlanta, Georgia   -   bur. Westview Cemetery   Atlanta, Georgia
+  
+  <a href="Tsources/TravisF01doc.htm">documentation and notes</a>

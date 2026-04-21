@@ -1,0 +1,120 @@
+id: Thomas03
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: Thomas
+  birth:
+    date: 31 March 1800
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 14 August 1877
+    place: "Avon, Franklin County, Maine"
+marriages:
+  - date: 30 November 1826
+    spouse:
+      givenName: Jemima
+      surname: Haines
+      birth:
+        date: 17 June 1808
+        place: "Avon, Franklin County, Maine"
+      death:
+        date: 10 March 1874
+        place: "Avon, Franklin County, Maine"
+      burial:
+        place: "Mount Blue Cemetery   Avon, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Seward Vining
+        entryId: Seward01
+        entryLetter: S
+        birth:
+          date: 18 April 1827
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: int. 3 June 1850
+            spouse: Roxanna F. Purrington
+        death:
+          date: 11 January 1895
+          place: "Strong, Franklin County, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: Comfort F. Vining
+        birth:
+          date: 17 May 1829
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 25 February 1847
+            place: "Lowell, Middlesex County, Massachusetts"
+            spouse: Daniel P. Fall
+        death:
+          date: March 1882
+          place: New Hampshire
+      - name: Jemima H. Vining
+        birth:
+          date: 27 November 1832
+          place: "Avon, Franklin County, Maine"
+      - name: Thomas Vining
+        entryId: Thomas04
+        birth:
+          date: 19 May 1835
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 39 y. as of 1900 census
+            spouse: Releaf S. Walker
+        death:
+          date: 13 December 1918
+          place: "Eustis, Franklin County, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Sarah R. B. Vining
+        birth:
+          date: "[1 or 2?]6 May 1838"
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: int. 9 October 1868
+            spouse: Sidney (C or G). Haley
+        death:
+          date: "1875"
+        burial:
+          place: "Mount Blue Cemetery   Avon, Franklin County, Maine"
+      - name: Frederick Augustus Vining
+        entryId: FrederickA01
+        entryLetter: F
+        birth:
+          date: 13 May 1843
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 35 y. as of 1900 census
+            spouse: Eliza Ann Sampson
+        death:
+          date: 27 January 1917
+          place: "Augusta, Kennebec County, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+docsUrl: Tsources/Thomas03doc.htm
+raw: |-
+  <a name="Thomas03"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. 31 March 1800   Durham, Androscoggin County, Maine
+     m. 30 November 1826
+           Jemima Haines
+                 (dau. of Benjamin Haines and Jemima Ridley)
+                 b. 17 June 1808   Avon, Franklin County, Maine
+                 d. 10 March 1874   Avon, Franklin County, Maine
+                       bur. Mount Blue Cemetery   Avon, Franklin County, Maine
+     d. 14 August 1877   Avon, Franklin County, Maine
+           bur. Mount Blue Cemetery   Avon, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Sfamilies.htm#Seward01">Seward Vining</a>   b. 18 April 1827   Avon, Franklin County, Maine   -   m. int. 3 June 1850   Roxanna F. Purrington   -   d. 11 January 1895   Strong, Franklin County, Maine   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     Comfort F. Vining   b. 17 May 1829   Avon, Franklin County, Maine   -   m. 25 February 1847   Lowell, Middlesex County, Massachusetts   Daniel P. Fall   -   d. March 1882   New Hampshire
+     Jemima H. Vining   b. 27 November 1832   Avon, Franklin County, Maine
+     <a href="#Thomas04">Thomas Vining</a>   b. 19 May 1835   Avon, Franklin County, Maine   -   m. 39 y. as of 1900 census   Releaf S. Walker   -   d. 13 December 1918   Eustis, Franklin County, Maine   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Sarah R. B. Vining   b. [1 or 2?]6 May 1838   Avon, Franklin County, Maine   -   m. int. 9 October 1868   Sidney (C or G). Haley   -   d. 1875   -   bur. Mount Blue Cemetery   Avon, Franklin County, Maine
+     <a href="Ffamilies.htm#FrederickA01">Frederick Augustus Vining</a>   b. 13 May 1843   Avon, Franklin County, Maine   -   m. 35 y. as of 1900 census   Eliza Ann Sampson   -   d. 27 January 1917   Augusta, Kennebec County, Maine   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+  
+  <a href="Tsources/Thomas03doc.htm">documentation and notes</a>

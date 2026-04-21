@@ -1,0 +1,71 @@
+id: ThomasL01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: James06
+parentLetter: J
+parentDesc: James Vining and Elizabeth Llewellyn
+head:
+  givenName: Thomas Llewellyn
+  birth:
+    date: "1742"
+    place: "Bristol, England"
+  death:
+    date: 9 July 1824
+marriages:
+  - date: 12 February 1769
+    place: "Wincanton, Somersetshire, England"
+    spouse:
+      givenName: Anne
+      surname: Thick
+      birth:
+        date: ca. 1743
+childrenGroups:
+  - children:
+      - name: Thomas William Vining
+        entryId: ThomasW02
+        birth:
+          date: "1770"
+        marriages:
+          - date: "1826"
+            spouse: "Bristol, England   Mary Prediger"
+        death:
+          date: "1850"
+      - name: Charles Vining
+        entryId: Charles09
+        entryLetter: C
+        birth:
+          date: "1776"
+        marriages:
+          - date: 3 June 1808
+            spouse: "St. Peters, Worcester, England   Mary Meredith"
+      - name: John Vining
+        entryId: John12
+        entryLetter: J
+        birth:
+          date: 23 March 1787
+          place: "Bristol, England"
+        death:
+          date: 26 September 1886
+  - children:
+      - name: Frederick Vining
+        entryId: Frederick01
+        entryLetter: F
+        marriages:
+          - date: "1814"
+            spouse: Jemima Marian Bew
+raw: |-
+  <a name="ThomasL01"></a><font size=+2>Thomas Llewellyn Vining</font>
+     (son of <a href="Jfamilies.htm#James06">James Vining and Elizabeth Llewellyn</a>)
+     b. 1742   Bristol, England
+     m. 12 February 1769   Wincanton, Somersetshire, England
+           Anne Thick
+                 b. ca. 1743
+     d. 9 July 1824
+  
+  <font size=+1>children:</font>
+     <a href="#ThomasW02">Thomas William Vining</a>   b. 1770   -   m. 1826   Bristol, England   Mary Prediger   -   d. 1850
+     <a href="Cfamilies.htm#Charles09">Charles Vining</a>   b. 1776   -   m. 3 June 1808   St. Peters, Worcester, England   Mary Meredith
+     <a href="Jfamilies.htm#John12">John Vining</a>   b. 23 March 1787   Bristol, England   -   d. 26 September 1886
+  <font size=+1>children?:</font>
+     <a href="Ffamilies.htm#Frederick01">Frederick Vining</a>   m. 1814   Jemima Marian Bew

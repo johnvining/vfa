@@ -1,0 +1,33 @@
+id: ThomasF01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: John16
+parentLetter: J
+parentDesc: John Vining and Susanna Brown
+head:
+  givenName: Thomas Field
+  birth:
+    date: 10 October 1835
+    place: "Lowell, Massachusetts"
+  death:
+    date: 6 February 1863
+    place: Ohio
+marriages:
+  - date: 17 June 1861
+    place: "Vinland, Wisconsin"
+    spouse:
+      givenName: Anstice Billings
+      surname: Coats
+raw: |-
+  <a name="ThomasF01"></a><font size=+2>Thomas Field Vining</font>
+     (son of <a href="Jfamilies.htm#John16">John Vining and Susanna Brown</a>)
+     b. 10 October 1835   Lowell, Massachusetts
+     m. 17 June 1861   Vinland, Wisconsin
+           Anstice Billings Coats
+                 (dau. of Titus Coats and Eveline [...])
+     d. 6 February 1863   Ohio
+           bur. [Columbus, Ohio?]
+  
+  <font size=+1>child:</font>
+     Susan Eveline Vining   b. 11 May 1862   Neenah, Wisconsin   -   m. Louis Kossuth Moeller   -   d. 15 April 1941   -   bur. Clark's Hill Crest Cemetery   Galena, Kansas

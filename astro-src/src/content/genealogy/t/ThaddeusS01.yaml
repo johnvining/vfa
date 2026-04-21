@@ -1,0 +1,87 @@
+id: ThaddeusS01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: CorneliusW01
+parentLetter: C
+parentDesc: Cornelius Wright Vining and Zipporah Clarke
+head:
+  givenName: Thaddeus Subsequie
+  birth:
+    date: 4 August 1841
+    place: "Columbia, Jackson County, Michigan"
+  death:
+    date: 18 April 1921
+    place: "Grand Rapids, Kent County, Michigan"
+marriages:
+  - number: 1
+    date: Hattie Lewis
+  - number: 2
+    date: 12 y. as of 1900 census
+    spouse:
+      givenName: Anna
+      surname: Greene
+      birth:
+        date: August 1857
+        place: "Detroit, Wayne County, Michigan"
+      death:
+        date: 15 April 1902
+childrenGroups:
+  - spouseRef: Anna Green
+    children:
+      - name: Tyna Vining
+        birth:
+          date: 26 May 1889
+          place: "Chicago, Cook County, Illinois"
+        marriages:
+          - date: Elmer Underhill
+        death:
+          date: 12 May 1943
+          place: "Chicago, Cook County, Illinois"
+        burial:
+          place: "Mt. Greenwood Cemetery   Worth, Cook County, Illinois"
+      - name: George H. Vining
+        entryId: GeorgeH05
+        entryLetter: G
+        birth:
+          date: 22 June 1891
+          place: "Chicago, Cook County, Illinois"
+        marriages:
+          - date: Dora P. Scheele
+        death:
+          date: 6 August 1922
+          place: "Jackson, Jackson County, Michigan"
+        burial:
+          place: "Woodland Cemetery   Jackson, Jackson County, Michigan"
+      - name: Irene Vining
+        birth:
+          date: 4 April 1894
+          place: "Chicago, Cook County, Illinois"
+        marriages:
+          - date: "[...] Schram"
+        death:
+          date: 30 December 1972
+          place: "Lansing, Ingham County, Michigan"
+docsUrl: Tsources/ThaddeusS01doc.htm
+raw: |-
+  <a name="ThaddeusS01"></a><font size=+2>Thaddeus Subsequie Vining</font>
+     (son of <a href="Cfamilies.htm#CorneliusW01">Cornelius Wright Vining and Zipporah Clarke</a>)
+     b. 4 August 1841   Columbia, Jackson County, Michigan
+     m. (1) Hattie Lewis
+                       b. age 23 y. as of 1870 census   New Hampshire
+           (2) 12 y. as of 1900 census
+                 Anna Greene
+                       (dau. of Thomas Greene and Anna Mary Hughes)
+                       b. August 1857   Detroit, Wayne County, Michigan
+                       d. 15 April 1902
+     d. 18 April 1921   Grand Rapids, Kent County, Michigan
+           bur. Woodland Cemetery   Jackson [County?], Michigan
+  
+  <font size=+1>child by Hattie Lewis:</font>
+     Clarence Vining   b. January 1870   Michigan   -   d. 30 May 1903   District of Columbia
+  <font size=+1>children by Anna Green:</font>
+     Tyna Vining   b. 26 May 1889   Chicago, Cook County, Illinois   -   m. Elmer Underhill   -   d. 12 May 1943   Chicago, Cook County, Illinois   -   bur. Mt. Greenwood Cemetery   Worth, Cook County, Illinois
+     <a href="Gfamilies.htm#GeorgeH05">George H. Vining</a>   b. 22 June 1891   Chicago, Cook County, Illinois   -   m. Dora P. Scheele   -   d. 6 August 1922   Jackson, Jackson County, Michigan   -   bur. Woodland Cemetery   Jackson, Jackson County, Michigan
+     Irene Vining   b. 4 April 1894   Chicago, Cook County, Illinois   -   m. [...] Schram   -   d. 30 December 1972   Lansing, Ingham County, Michigan
+  
+  <a href="Tsources/ThaddeusS01doc.htm">documentation and notes</a>

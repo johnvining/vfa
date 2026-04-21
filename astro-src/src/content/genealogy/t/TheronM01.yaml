@@ -1,0 +1,61 @@
+id: TheronM01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: RobertL01
+parentLetter: R
+parentDesc: Robert Latham Vining and Cora Sybil Beals
+head:
+  givenName: Theron Marcus
+  birth:
+    date: 28 July 1914
+    place: "Adams, Massachusetts"
+  death:
+    date: 6 October 1989
+    place: "Gainesville, Alachua County, Florida"
+marriages:
+  - date: 21 February 1949
+    place: "Leonardstown, Maryland"
+    spouse:
+      givenName: Rita Mary
+      surname: Kirby
+childrenGroups:
+  - children:
+      - name: Kirby Robert Russell Vining
+        entryId: KirbyR01
+        entryLetter: K
+        birth:
+          date: 30 July 1953
+          place: "Baltimore, Maryland"
+        marriages:
+          - date: Katherine Todd
+      - name: Donna Rita Vining
+        birth:
+          date: 30 March 1955
+          place: "Baltimore, Maryland"
+      - name: Cronin Beals Vining
+        birth:
+          date: 22 August 1957
+          place: "Baltimore, Maryland"
+        marriages:
+          - date: Elizabeth Platt
+      - name: Roberta Anne Vining
+        birth:
+          date: 27 October 1959
+          place: "Baltimore, Maryland"
+        marriages:
+          - date: Michael Martin
+raw: |-
+  <a name="TheronM01"></a><font size=+2>Theron Marcus Vining</font>
+     (son of <a href="Rfamilies.htm#RobertL01">Robert Latham Vining and Cora Sybil Beals</a>)
+     b. 28 July 1914   Adams, Massachusetts
+     m. 21 February 1949   Leonardstown, Maryland
+           Rita Mary Kirby
+     d. 6 October 1989   Gainesville, Alachua County, Florida
+           bur. Gainesville, Alachua County, Florida
+  
+  <font size=+1>children:</font>
+     <a href="Kfamilies.htm#KirbyR01">Kirby Robert Russell Vining</a>   b. 30 July 1953   Baltimore, Maryland   -   m. Katherine Todd
+     Donna Rita Vining   b. 30 March 1955   Baltimore, Maryland
+     Cronin Beals Vining   b. 22 August 1957   Baltimore, Maryland   -   m. Elizabeth Platt
+     Roberta Anne Vining   b. 27 October 1959   Baltimore, Maryland   -   m. Michael Martin

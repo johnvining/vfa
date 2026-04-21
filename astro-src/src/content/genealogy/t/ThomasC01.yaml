@@ -1,0 +1,53 @@
+id: ThomasC01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: FrankA03
+parentLetter: F
+parentDesc: "Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft"
+head:
+  givenName: Thomas Clifford
+  birth:
+    date: 27 May 1907
+    place: Connecticut
+  death:
+    date: 16 December 1983
+    place: "San Bernardino, California"
+marriages:
+  - date: "1936"
+    spouse:
+      givenName: Esther F.
+      surname: Hoadley
+      birth:
+        date: age 29 y. as of 1940 census
+        place: Oregon
+childrenGroups:
+  - children:
+      - name: Leland Mason Vining
+        entryId: LelandM01
+        entryLetter: L
+        birth:
+          date: 31 January 1939
+          place: "Kalispel, Montana"
+        marriages:
+          - date: Gloy E. Korkla
+      - name: Roger T. Vining
+        birth:
+          date: 13 July 1943
+        marriages:
+          - date: "Florence Noreen [...]"
+docsUrl: Tsources/ThomasC01doc.htm
+raw: |-
+  <a name="ThomasC01"></a><font size=+2>Thomas Clifford Vining</font>
+     (son of <a href="Ffamilies.htm#FrankA03">Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft</a>)
+     b. 27 May 1907   Connecticut
+     m. 1936
+           Esther F. Hoadley
+                 b. age 29 y. as of 1940 census   Oregon
+     d. 16 December 1983   San Bernardino, California
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LelandM01">Leland Mason Vining</a>   b. 31 January 1939   Kalispel, Montana   -   m. Gloy E. Korkla
+     Roger T. Vining   b. 13 July 1943   -   m. Florence Noreen [...]
+  
+  <a href="Tsources/ThomasC01doc.htm">documentation and notes</a>

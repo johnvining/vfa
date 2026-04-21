@@ -1,0 +1,183 @@
+id: Thomas01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: George01
+parentLetter: G
+parentDesc: George Vining and Hannah Judkins
+head:
+  givenName: Thomas
+  birth:
+    date: 14 September 1703
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: "1753"
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 25 July 1727
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Hannah
+      surname: Randall
+      birth:
+        date: 4 January 1707/08
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 16 April 1767
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Susanna Vining
+        birth:
+          date: 9 July 1728
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 21 June 1750
+            place: "Abington, Massachusetts"
+            spouse: Benjamin Shaw
+        death:
+          date: "1756"
+          place: Massachusetts
+      - name: Josiah Vining
+        entryId: Josiah01
+        entryLetter: J
+        birth:
+          date: 8 December 1729
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 31 January 1750
+            place: "Abington, Massachusetts"
+            spouse: Hannah Abigail Dawes
+        death:
+          date: "1774"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Hannah Vining
+        birth:
+          date: 10 November 1731
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: int. 2 August 1748
+            place: "Abington, Massachusetts"
+            spouse: Ebenezer Whitmarsh
+        death:
+          date: 15 November 1803
+          place: Massachusetts
+      - name: Mercy Vining
+        birth:
+          date: 5 April 1734
+          place: "[Weymouth or Abington?], Massachusetts"
+        marriages:
+          - date: int. 18 March 1758
+            place: "(Abington or Weymouth), Massachusetts"
+            spouse: John Loud
+        death:
+          date: "1776"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: John Randall Vining
+        birth:
+          date: 4 July 1736
+          place: "Weymouth, norfolk County, Massachusetts"
+        death:
+          date: "1756"
+          place: Massachusetts
+      - name: Benjamin Vining
+        entryId: Benjamin02
+        entryLetter: B
+        birth:
+          date: 16 November 1738
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 22 October 1761
+            place: "Abington, Massachusetts"
+            spouse: Mehitabel Brooks
+          - number: 2
+            date: 20 August 1776
+            spouse: Lydia Turner
+          - number: 3
+            date: "1789"
+            spouse: Bathsheba Davis
+        death:
+          date: 12 August 1812
+          place: "Durham, (now) Androscoggin County, Maine"
+      - name: Sarah Vining
+        birth:
+          date: 9 November 1741
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 7 September 1779
+            place: "Abington, Massachusetts"
+            spouse: John Totman
+        death:
+          date: 19 March 1813
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Jonah Vining
+        entryId: Jonah01
+        entryLetter: J
+        birth:
+          date: 17 March 1744
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 4 September 1765
+            place: "Abington, Massachusetts"
+            spouse: Olive Leavitt
+        death:
+          date: "1799"
+          place: "Jefferson, Lincoln County, Maine"
+      - name: Elizabeth Vining
+        birth:
+          date: 21 September 1746
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 4 November 1766
+            spouse: William Ladd
+        death:
+          date: "1772"
+          place: Massachusetts
+      - name: Silence Vining
+        birth:
+          date: 16 March 1748/49
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 24 May 1770
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: John Cushing
+        death:
+          date: "1776"
+          place: "Royalsborougn [now Durham], (now) Androscoggin County, Maine"
+      - name: Mary Vining
+        birth:
+          date: 13 May 1752
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 9 April 1776
+            spouse: John Farrer
+        death:
+          date: "1781"
+          place: Massachusetts
+docsUrl: Tsources/Thomas01doc.htm
+raw: |-
+  <a name="Thomas01"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Gfamilies.htm#George01">George Vining and Hannah Judkins</a>)
+     b. 14 September 1703   Weymouth, Norfolk County, Massachusetts
+     m. 25 July 1727   Weymouth, Norfolk County, Massachusetts
+           Hannah Randall
+                 (dau. of John Randall and Susanna Benson)
+                 b. 4 January 1707/08   Weymouth, Norfolk County, Massachusetts
+                 d. 16 April 1767   Weymouth, Norfolk County, Massachusetts
+     d. 1753   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Susanna Vining   b. 9 July 1728   Weymouth, Norfolk County, Massachusetts   -   m. 21 June 1750   Abington, Massachusetts   Benjamin Shaw   -   d. 1756   Massachusetts
+     <a href="Jfamilies.htm#Josiah01">Josiah Vining</a>   b. 8 December 1729   Weymouth, Norfolk County, Massachusetts   -   m. 31 January 1750   Abington, Massachusetts   Hannah Abigail Dawes   -   d. 1774   Weymouth, Norfolk County, Massachusetts
+     Hannah Vining   b. 10 November 1731   Weymouth, Norfolk County, Massachusetts   -   m. int. 2 August 1748   Abington, Massachusetts   Ebenezer Whitmarsh   -   d. 15 November 1803   Massachusetts
+     Mercy Vining   b. 5 April 1734   [Weymouth or Abington?], Massachusetts   -   m. int. 18 March 1758   (Abington or Weymouth), Massachusetts   John Loud   -   d.1776   Weymouth, Norfolk County, Massachusetts
+     John Randall Vining   b. 4 July 1736   Weymouth, norfolk County, Massachusetts   -   d. 1756   Massachusetts
+     <a href="Bfamilies.htm#Benjamin02">Benjamin Vining</a>   b. 16 November 1738   Weymouth, Norfolk County, Massachusetts   -   m. (1) 22 October 1761   Abington, Massachusetts   Mehitabel Brooks;   (2) 20 August 1776   Lydia Turner;   (3) 1789   Bathsheba Davis   -   d. 12 August 1812   Durham, (now) Androscoggin County, Maine
+     Sarah Vining   b. 9 November 1741   Weymouth, Norfolk County, Massachusetts   -   m. 7 September 1779   Abington, Massachusetts   John Totman   -   d. 19 March 1813   Abington, Plymouth County, Massachusetts
+     <a href="Jfamilies.htm#Jonah01">Jonah Vining</a>   b. 17 March 1744   Weymouth, Norfolk County, Massachusetts   -   m. 4 September 1765   Abington, Massachusetts   Olive Leavitt   -   d. 1799   Jefferson, Lincoln County, Maine
+     Elizabeth Vining   b. 21 September 1746   Weymouth, Massachusetts   -   m. 4 November 1766   William Ladd   -   d. 1772   Massachusetts
+     Silence Vining   b. 16 March 1748/49   Abington, Plymouth County, Massachusetts   -   m. 24 May 1770   Abington, Plymouth County, Massachusetts   John Cushing   -   d. 1776   Royalsborougn [now Durham], (now) Androscoggin County, Maine
+     Mary Vining   b. 13 May 1752   Abington, Plymouth County, Massachusetts   -   m. 9 April 1776   John Farrer   -   d. 1781   Massachusetts
+  
+  <a href="Tsources/Thomas01doc.htm">documentation and notes</a>

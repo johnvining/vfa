@@ -1,0 +1,42 @@
+id: ThomasA04
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Thomas A.
+  birth:
+    date: age 73 y. as of 1870 census
+    place: South Carolina
+marriages:
+  - spouse:
+      givenName: Sarah
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Della Vining
+        birth:
+          date: age 19 y. as of 1870 census
+          place: South Carolina
+      - name: John Vining
+        birth:
+          date: age 17 y. as of 1870 census
+          place: South Carolina
+      - name: Maria Vining
+        birth:
+          date: age 16 y. as of 1870 census
+          place: South Carolina
+docsUrl: Tsources/ThomasA04doc.htm
+raw: |-
+  <a name="ThomasA04"></a><font size=+2>Thomas A. Vining</font>
+     (son of [?])
+     b. age 73 y. as of 1870 census   South Carolina
+     m. Sarah [...]
+              b. age 54 y. as of 1870 census   South Carolina
+  
+  <font size=+1>children:</font>
+     Della Vining   b. age 19 y. as of 1870 census   South Carolina
+     John Vining   b. age 17 y. as of 1870 census   South Carolina
+     Maria Vining   b. age 16 y. as of 1870 census   South Carolina
+  
+  <a href="Tsources/ThomasA04doc.htm">documentation and notes</a>

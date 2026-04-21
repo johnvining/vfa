@@ -1,0 +1,105 @@
+id: ThomasF04
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Thomas Field
+  birth:
+    date: "1784"
+    place: "Medford, Massachusetts"
+  death:
+    date: "1865"
+    place: "Lowell, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: John Vining
+        entryId: John16
+        entryLetter: J
+        birth:
+          date: 29 March 1805
+          place: "Medford, Massachusetts"
+        marriages:
+          - date: 23 January 1833
+            place: "Lowell, Massachusetts"
+            spouse: Susanna Brown
+      - name: Joseph Vining
+        birth:
+          date: 31 August 1806
+          place: "Medford, Massachusetts"
+        death:
+          date: 31 January 1809
+          place: "Medford, Massachusetts"
+      - name: Joseph Vining
+        birth:
+          date: 11 March 1809
+          place: "Medford, Massachusetts"
+      - name: Seth Wyman Vining
+        entryId: SethW01
+        entryLetter: S
+        birth:
+          date: 19 September 1810
+          place: "Medford, Massachusetts"
+        marriages:
+          - date: 26 April 1838
+            place: "Medford, Massachusetts"
+            spouse: Sarah Ann Brooks
+        death:
+          date: 27 September 1853
+          place: "Medford, Massachusetts"
+      - name: Thomas Field Vining
+        birth:
+          date: "1811"
+          place: "Medford, Massachusetts"
+        death:
+          date: 12 October 1845
+          place: "Medford, Massachusetts"
+      - name: Elizabeth Norwood Vining
+        birth:
+          date: 18 October 1812
+          place: "Medford, Massachusetts"
+      - name: Josiah Vining
+        birth:
+          date: 31 January 1815
+          place: "Medford, Massachusetts"
+      - name: Henry Vining
+        birth:
+          date: 19 February 1817
+          place: "Medford, Massachusetts"
+      - name: Gorham Parsons Vining
+        entryId: GorhamP01
+        entryLetter: G
+        birth:
+          date: 18 June 1819
+          place: "Medford, Massachusetts"
+        marriages:
+          - number: 1
+            date: 13 November 1849
+            spouse: Mary Eliza Huxley
+          - number: 2
+            date: "Clara A. [...]"
+        death:
+          date: 23 March 1895
+          place: "Neenah, Wisconsin"
+raw: |-
+  <a name="ThomasF04"></a><font size=+2>Thomas Field Vining</font>
+     (son of [?])
+     b. 1784   Medford, Massachusetts
+     m. Elizabeth [&#8230;]
+              d. 8 February 1832   Medford, Massachusetts
+     d. 1865   Lowell, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#John16">John Vining</a>   b. 29 March 1805   Medford, Massachusetts   -   m. 23 January 1833   Lowell, Massachusetts   Susanna Brown
+     Joseph Vining   b. 31 August 1806   Medford, Massachusetts   -   d. 31 January 1809   Medford, Massachusetts
+     Joseph Vining   b. 11 March 1809   Medford, Massachusetts
+     <a href="Sfamilies.htm#SethW01">Seth Wyman Vining</a>   b. 19 September 1810   Medford, Massachusetts   -   m. 26 April 1838   Medford, Massachusetts   Sarah Ann Brooks   -   d. 27 September 1853   Medford, Massachusetts
+     Thomas Field Vining   b. 1811   Medford, Massachusetts   -   d. 12 October 1845   Medford, Massachusetts
+     Elizabeth Norwood Vining   b. 18 October 1812   Medford, Massachusetts
+     Josiah Vining   b. 31 January 1815   Medford, Massachusetts
+     Henry Vining   b. 19 February 1817   Medford, Massachusetts
+     <a href="Gfamilies.htm#GorhamP01">Gorham Parsons Vining</a>   b. 18 June 1819   Medford, Massachusetts   -   m. (1) 13 November 1849   Mary Eliza Huxley;   (2) Clara A. [...]   -   d. 23 March 1895   Neenah, Wisconsin

@@ -1,0 +1,104 @@
+id: Thomas02
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Elias01
+parentLetter: E
+parentDesc: Elias Vining and Eunice Case
+head:
+  givenName: Thomas
+  birth:
+    date: 2 May 1778
+    place: "Simsbury, Hartford County, Connecticut"
+  death:
+    date: 17 November 1853
+marriages:
+  - number: 1
+    date: Wealthy Weston
+  - number: 2
+    date: Mary Mason
+childrenGroups:
+  - spouseRef: Wealthy Weston
+    children:
+      - name: John Vining
+        birth:
+          date: "1798"
+      - name: Thomas A. Vining
+        entryId: ThomasA02
+        birth:
+          date: "1800"
+          place: "Simsbury, Hartford County, Connecticut"
+        marriages:
+          - number: 1
+            date: 26 December 1822
+            spouse: Amelia Tuller
+          - number: 2
+            date: September 1859
+            place: Connecticut
+            spouse: Jerusha Keys
+        death:
+          date: 5 May 1880
+          place: "Simsbury, Hartford County, Connecticut"
+        burial:
+          place: "Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut"
+      - name: Edward Vining
+        birth:
+          date: "1802"
+      - name: Mary Vining
+        birth:
+          date: "1806"
+      - name: William Henry Vining
+        entryId: WilliamH06
+        entryLetter: W
+        birth:
+          date: 5 April 1808
+          place: "Simsbury, Hartford County, Connecticut"
+        marriages:
+          - date: 13 December 1831
+            place: "Colebrook, Litchfield County, Connecticut"
+            spouse: Orpha Hart
+        death:
+          date: 10 June 1874
+          place: "Colebrook, Litchfield County, Connecticut"
+      - name: George J. Vining
+        entryId: GeorgeJ02
+        entryLetter: G
+        birth:
+          date: age 58 y. as of 1860 census
+          place: Connecticut
+        marriages:
+          - date: Delinda Tuller
+        death:
+          date: 28 August 1882
+          place: "Mount Kisco, Westchester County, New York"
+      - name: Lucy Vining
+      - name: Betsey Vining
+      - name: Wealthy Vining
+docsUrl: Tsources/Thomas02doc.htm
+raw: |-
+  <a name="Thomas02"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Efamilies.htm#Elias01">Elias Vining and Eunice Case</a>)
+     b. 2 May 1778   Simsbury, Hartford County, Connecticut
+     m. (1) Wealthy Weston
+                    (dau. of Benjamin Weston and Mary Woodhouse)
+                    b. 19 April 1779   Wethersfield, Hartford County, Connecticut
+                    d. 25 October 1835   Simsbury, Hartford County, Connecticut
+           (2) Mary Mason
+                    b. age 60 y. as of 1850 census   Connecticut
+                    d. 19 [...] 1857
+                          bur. Hop Meadow Cemetery   Simsbury, Hartford County, Connecticut
+     d. 17 November 1853
+           bur. Hop Meadow Cemetery   Simsbury, Hartford County, Connecticut
+  
+  <font size=+1>children by Wealthy Weston:</font>
+     John Vining   b. 1798
+     <a href="#ThomasA02">Thomas A. Vining</a>   b. 1800   Simsbury, Hartford County, Connecticut   -   m. (1) 26 December 1822   Amelia Tuller;   (2) September 1859   Connecticut   Jerusha Keys   -   d. 5 May 1880   Simsbury, Hartford County, Connecticut   -   bur. Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut
+     Edward Vining   b. 1802
+     Mary Vining   b. 1806
+     <a href="Wfamilies.htm#WilliamH06">William Henry Vining</a>   b. 5 April 1808   Simsbury, Hartford County, Connecticut   -   m. 13 December 1831   Colebrook, Litchfield County, Connecticut   Orpha Hart   -   d. 10 June 1874   Colebrook, Litchfield County, Connecticut
+     <a href="Gfamilies.htm#GeorgeJ02">George J. Vining</a>   b. age 58 y. as of 1860 census   Connecticut   -    m. Delinda Tuller   -   d. 28 August 1882   Mount Kisco, Westchester County, New York
+     Lucy Vining
+     Betsey Vining
+     Wealthy Vining
+  
+  <a href="Tsources/Thomas02doc.htm">documentation and notes</a>
