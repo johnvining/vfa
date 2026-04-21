@@ -1,5 +1,6 @@
 id: OliverJr01
 letter: O
+sequence: 274
 lastUpdated: 27 May 2020
 relationship: son
 parentId: Oliver02
@@ -12,10 +13,20 @@ head:
   death:
     date: 3 April 1999
     place: "(last residence: Axson, Georgia)"
+  burial:
+    place: "Stokesville Baptist Church Cemetery   Axson, Georgia"
 marriages:
   - spouse:
       givenName: Ruth Latrell
       surname: Vaughn
+      parents: "(dau. of Ausie Vaughn and Mary Elizabeth Tarrant)"
+      birth:
+        date: 12 May 1928
+      death:
+        date: 24 July 1997
+        place: "(last residence: Axson, Georgia)"
+      burial:
+        place: "Stokesville Baptist Church Cemetery   Axson, Georgia"
 childrenGroups:
   - children:
       - name: Beverly Ann Vining

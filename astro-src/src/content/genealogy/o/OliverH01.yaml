@@ -1,5 +1,6 @@
 id: OliverH01
 letter: O
+sequence: 295
 lastUpdated: 27 May 2020
 relationship: son
 parentId: Oliver03
@@ -12,6 +13,8 @@ head:
   death:
     date: January 1973
     place: "Bridgeport, Connecticut"
+  burial:
+    place: "Mountain Grove Cemetery and Mausoleum   Bridgeport, Connecticut"
 marriages:
   - spouse:
       givenName: Emma

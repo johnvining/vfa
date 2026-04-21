@@ -14,6 +14,12 @@ marriages:
   - spouse:
       givenName: "Mary Elizabeth &#8220;May&#8221;"
       surname: Huntley
+      birth:
+        date: "age 82 y., 5 m., [1?]8 d. at death"
+        place: "East Machias, Washington County, Maine"
+      death:
+        date: 13 March 1904
+        place: "Cooper, Washington County, Maine"
 childrenGroups:
   - children:
       - name: Almira Helen Vining

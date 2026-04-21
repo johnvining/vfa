@@ -13,12 +13,15 @@ head:
   death:
     date: "1878"
     place: "Avon, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - date: int. 13 June 1838
     place: "Avon, Maine"
     spouse:
       givenName: Louisa Jane
       surname: Worthley
+      parents: "(dau. of Asa Worthley and Jennie True)"
       birth:
         date: 29 March 1818
         place: "North Yarmouth, Maine"
@@ -38,6 +41,8 @@ childrenGroups:
         death:
           date: 4 September 1888
           place: "Avon, Maine"
+        burial:
+          description: "bur Village Cemetery   Strong, Maine"
       - name: Ostinello Vining
         birth:
           date: "1843"
@@ -55,6 +60,31 @@ childrenGroups:
             spouse: d. May 1939
         burial:
           place: "Village Cemetery   Strong, Maine"
+      - name: "Aroline K. Vining"
+        birth:
+          date: "11 January [1848 or 1847?]"
+        death:
+          date: 28 April 1865
+        burial:
+          place: "Pease Cemetery   Avon, Maine [see documentation and notes]"
+      - name: "Emogene &#8220;Emma&#8221; Vining"
+        birth:
+          date: age 9 y. as of 1860 census
+        marriages:
+          - date: 1 January 1874
+            spouse: Harrison J. Bates
+      - name: "Roxanna W. &#8220;Anna&#8221; Vining"
+        birth:
+          date: 24 August 1857
+          place: "Avon, Maine"
+        marriages:
+          - date: 5 January 1901
+            spouse: William C. Bates
+        death:
+          date: 25 April 1926
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+docsUrl: Nsources/NathanielR01doc.htm
 raw: |-
   <a name="NathanielR01"></a><font size=+2>Nathaniel R. Vining</font>
      (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)

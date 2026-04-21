@@ -17,6 +17,9 @@ marriages:
   - spouse:
       givenName: Clara
       surname: Windoft
+      birth:
+        date: age 28 y. as of 1930 census
+        place: Michigan
 childrenGroups:
   - children:
       - name: Norman Vining Jr.

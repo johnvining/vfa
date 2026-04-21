@@ -16,6 +16,11 @@ marriages:
   - spouse:
       givenName: Mary Magdalena
       surname: Alle
+      birth:
+        date: 37 y. as of 1920 census
+        place: New York
+      death:
+        date: between 1920 and 1930 censuses
 childrenGroups:
   - children:
       - name: Carl Vining

@@ -12,11 +12,14 @@ head:
   death:
     date: 12 February 1988
     place: "(last residence: Willacoochee, Georgia)"
+  burial:
+    place: "Willacoochee City Cemetery   Georgia"
 marriages:
   - date: ca. 1949
     spouse:
       givenName: Sue Nell
       surname: Vining
+      parents: "(dau. of <a href=\"#OwenF01\">Owen Franklin Vining and Pearl Woodard</a>)"
       birth:
         date: 26 October 1928
         place: Georgia
@@ -47,6 +50,8 @@ childrenGroups:
           - date: "[...] Croft"
       - name: Anthony Lynn Vining
       - name: Jeff Vining
+  - headingText: "adopted child"
+    children:
       - name: "Kevin Crews [Vining]"
 docsUrl: Osources/OwenGJr01doc.htm
 raw: |-

@@ -13,14 +13,22 @@ head:
   death:
     date: 1 February 1952
 marriages:
-  - spouse:
-      givenName: "(?)"
-      surname: "[...]"
-  - number: 1
-    date: 7 y. as of 1910 census
+  - date: "(?) [...]"
     spouse:
-      givenName: David
-      surname: Frayer
+      givenName: "(1) 7 y. as of 1910 census"
+      surname: David Frayer
+childrenGroups:
+  - headingText: "child by [...]"
+    children:
+      - name: Russell Dale Vining
+        entryId: RussellD01
+        entryLetter: R
+        birth:
+          date: 28 August 1896
+        marriages:
+          - date: Flossie Leah Turk
+        death:
+          date: "[23 August 1962 or December 1972?]"
 raw: |-
   <a name="OrphaM01"></a><font size=+2>Orpha M. Vining</font>
      (dau. of <a href="Cfamilies.htm#Charles02">Charles Vining and Lucy A. Hoover</a>)

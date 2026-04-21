@@ -13,10 +13,19 @@ head:
   death:
     date: 6 October 1968
     place: "(last residence: Waycross, Georgia)"
+  burial:
+    place: "Oakland Cemetery   Waycross, Georgia"
 marriages:
   - spouse:
       givenName: Arloe
       surname: Wall
+      birth:
+        date: 7 March 1896
+        place: Georgia
+      death:
+        date: 30 January 1978
+      burial:
+        place: "Oakland Cemetery   Waycross, Georgia"
 childrenGroups:
   - children:
       - name: John Vining

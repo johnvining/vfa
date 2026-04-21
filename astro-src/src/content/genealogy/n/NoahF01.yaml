@@ -1,5 +1,6 @@
 id: NoahF01
 letter: N
+sequence: 471
 lastUpdated: 3 February 2021
 relationship: son
 parentId: NoahJr01
@@ -12,13 +13,51 @@ head:
   death:
     date: 29 March 1908
     place: "Weymouth, Massachusetts"
+  burial:
+    place: "Mount Hope Cemetery   Weymouth, Massachusetts"
 marriages:
   - number: 1
     date: 22 November 1868
     place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Fannie Maria
+      surname: Burrell
+      birth:
+        date: 29 January 1849
+        place: "Weymouth, Massachusetts"
+      death:
+        date: "1870"
+        place: "Weymouth, Massachusetts"
+      burial:
+        place: "Mount Hope Cemetery   Weymouth, Massachusetts"
   - number: 2
     date: 31 May 1873
+    spouse:
+      givenName: Lydia Emeline
+      surname: Gowell
+      birth:
+        date: February 1851
+        place: Maine
+      death:
+        date: "1949"
+      burial:
+        place: "Mount Hope Cemetery   Weymouth, Massachusetts"
 childrenGroups:
+  - headingText: "child by Fannie M. Burrell"
+    children:
+      - name: John Franklin Vining
+        entryId: JohnF02
+        entryLetter: J
+        birth:
+          date: 24 April 1870
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 28 October 1896
+            place: "Weymouth, Massachusetts"
+            spouse: Gertrude Anna Packard
+        death:
+          date: 11 August 1952
+          place: "Weymouth, Massachusetts"
   - spouseRef: Lydia Emeline Gowell
     children:
       - name: Samuel Albert Vining

@@ -12,11 +12,14 @@ head:
   death:
     date: 4 March 1899
     place: "St. Albans, Maine"
+  burial:
+    place: "Village Cemetery   St. Albans, Maine"
 marriages:
   - date: 23 September 1864
     spouse:
       givenName: Lucinda Ann
       surname: Stone
+      parents: "(dau. of Cyrus Stone and [Hannah?] Prescott)"
       birth:
         date: 23 February 1846
         place: "Ripley, Maine"

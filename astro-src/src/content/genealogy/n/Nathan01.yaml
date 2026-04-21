@@ -1,0 +1,65 @@
+id: Nathan01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: Jonah01
+parentLetter: J
+parentDesc: "Jonah Vining and Olive Leavitt"
+head:
+  givenName: Nathan
+  birth:
+    date: ca. 1788
+    place: "Pownalborough, Lincoln County, Maine"
+marriages:
+  - date: 19 April 1810
+    place: "Portland, Cumberland County, Maine"
+    spouse:
+      givenName: Jane
+      surname: Smith
+childrenGroups:
+  - children:
+      - name: Smith L. Vining
+        birth:
+          date: ca. 1811
+        marriages:
+          - date: 29 September 1832
+            spouse: Eliza Warren
+      - name: Nathan Vining Jr.
+        birth:
+          date: ca. 1813
+        marriages:
+          - date: 29 August 1834
+            place: "Portland, Cumberland County, Maine"
+            spouse: Jane Thomas
+      - name: Jane Vining
+        birth:
+          date: ca. 1815
+        marriages:
+          - date: int. 27 February 1836
+            spouse: James Lord Jr.
+      - name: Charles S. Vining
+        entryId: CharlesS02
+        entryLetter: C
+        birth:
+          date: "1826"
+          place: Maine
+        marriages:
+          - date: "intentions filed 5 November 1867"
+            spouse: Margaret Gray
+        death:
+          date: 7 December 1895
+          place: "Gorham, Coos County, New Hampshire"
+        burial:
+          place: "Evans Cemetery   Gorham, Coos County, New Hampshire"
+raw: |-
+  <a name="Nathan01"><a><font size=+2>Nathan Vining</font>
+     (son of <a href="Jfamilies.htm#Jonah01">Jonah Vining and Olive Leavitt</a>)
+     b. ca. 1788   Pownalborough, Lincoln County, Maine
+     m. 19 April 1810   Portland, Cumberland County, Maine
+           Jane Smith
+
+  <font size=+1>children:</font>
+     Smith L. Vining   b. ca. 1811   -   m. 29 September 1832   Eliza Warren
+     Nathan Vining Jr.   b. ca. 1813   -   m. 29 August 1834   Portland, Cumberland County, Maine   Jane Thomas
+     Jane Vining   b. ca. 1815   -   m. int. 27 February 1836   James Lord Jr.
+     <a href="Cfamilies.htm#CharlesS02">Charles S. Vining</a>   b. 1826   Maine   -   m. intentions filed 5 November 1867   Margaret Gray   -   d. 7 December 1895   Gorham, Coos County, New Hampshire   -   bur. Evans Cemetery   Gorham, Coos County, New Hampshire

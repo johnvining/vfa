@@ -12,10 +12,18 @@ head:
     place: Georgia
   death:
     date: 10 June 1937
+  burial:
+    place: "Mount Zion Cemetery   Axson, Georgia"
 marriages:
   - spouse:
       givenName: Hattie
       surname: Crosby
+      parents: "(dau. of Hardy Crosby and Luraney Laranie Wright)"
+      birth:
+        date: age 21 y. as of 1920 census
+        place: Georgia
+      death:
+        date: Atkinson County, Georgia
 childrenGroups:
   - children:
       - name: Guy Vining
@@ -43,7 +51,12 @@ childrenGroups:
           date: 22 August 1921
         burial:
           place: "New River Cemetery   Tifton, Georgia"
-      - name: Lillie Mae Vining   13 April 1921   Georgia
+      - name: Lillie Mae Vining
+        birth:
+          date: 13 April 1921
+          place: Georgia
+        marriages:
+          - date: Eschol Eddie Parker
         death:
           date: 23 February 2005
           place: "Douglas, Coffee County, Georgia"

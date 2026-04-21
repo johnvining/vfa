@@ -12,10 +12,19 @@ head:
     place: Georgia
   death:
     date: 25 January 1951
+  burial:
+    place: "Willacoochee City Cemetery   Willacoochee, Atkinson County, Georgia"
 marriages:
   - spouse:
       givenName: Mary Eula
       surname: Reiner
+      birth:
+        date: 28 August 1901
+        place: Georgia
+      death:
+        date: 12 June 1985
+      burial:
+        place: "Willacoochee City Cemetery   Willacoochee, Atkinson County, Georgia"
 childrenGroups:
   - children:
       - name: Gertrude Vining
@@ -49,9 +58,12 @@ childrenGroups:
           place: Georgia
         marriages:
           - date: "[&#8230;] Stone"
-      - name: Billy Joe Vinning
+      - name: "Billy Joe Vinning [sic]"
         entryId: BillyJ01
         entryLetter: B
+        birth:
+          date: 22 June 1933
+          place: "Millwood, Georgia"
         death:
           date: 10 December 2010
           place: "Savannah, Georgia"

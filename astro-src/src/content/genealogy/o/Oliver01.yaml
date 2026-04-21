@@ -13,12 +13,15 @@ head:
   death:
     date: 6 April 1913
     place: "Kankakee, Illinois"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee, Illinois"
 marriages:
   - date: 15 April 1870
     place: Illinois
     spouse:
       givenName: Mary R.
       surname: Burchim
+      parents: "(dau. of Alexander Burchim and Margaret [...])"
       birth:
         date: 1 December 1847
         place: Illinois

@@ -13,12 +13,40 @@ head:
   death:
     date: 15 April 1935
     place: "Miami, Florida"
+  burial:
+    place: "Miami Memorial Park   Miami, Florida"
 marriages:
   - number: 1
     date: Pollie Davis
+    spouse:
+      birth:
+        date: "1887"
+      death:
+        date: "1917"
   - number: 2
     date: Effie Jane Jackson
+    spouse:
+      parents: "(dau. of John [K. or Frank?] Jackson and [Elizabeth J. Hufham or Martha Jane Walker?])"
+      birth:
+        date: 14 March 1902
+        place: "Mayo, Florida"
+      death:
+        date: 4 February 1987
+        place: "Miami, Florida"
+      burial:
+        place: "Miami Memorial Park   Miami, Florida"
 childrenGroups:
+  - headingText: "child by Pollie Davis"
+    children:
+      - name: Thomas B. Vining
+        entryId: ThomasB03
+        entryLetter: T
+        birth:
+          date: age 7 y. as of 1920 census
+          place: Florida
+        marriages:
+          - date: "Nola Mae Skeen,"
+            spouse: "divorced July 1960   Dade County, Florida"
   - spouseRef: Effie Jane Jackson
     children:
       - name: Estelle Virginia Vining

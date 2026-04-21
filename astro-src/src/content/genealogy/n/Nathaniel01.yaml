@@ -11,8 +11,12 @@ head:
     date: age 14 y. as of 1920 census
     place: Alabama
 marriages:
-  - date: Lucille Taylor
-    place: "(she m. (2) [&#8230;] Johnson)"
+  - spouse:
+      givenName: "Lucille Taylor   (she m. (2) [&#8230;] Johnson)"
+      parents: "(dau. of [&#8230] Taylor and Viola Elliot)"
+      birth:
+        date: age 17 y. as of 1940 census
+        place: Pennsylvania
 childrenGroups:
   - children:
       - name: Nathaniel Vining Jr.

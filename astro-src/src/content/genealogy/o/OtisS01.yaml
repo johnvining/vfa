@@ -13,12 +13,15 @@ head:
   death:
     date: 19 April 1889
     place: "Lisbon, Maine"
+  burial:
+    place: "Hillside Cemetery   Lisbon, Maine"
 marriages:
   - date: int. 3 October 1852
     place: "Lisbon, Maine"
     spouse:
       givenName: Minerva A.
       surname: Stover
+      parents: "(dau. of Simeon Stover and Louis[e] Hinckl[e]y)"
       birth:
         date: November 1830
         place: "Harpswell Center, Maine"
@@ -60,7 +63,7 @@ childrenGroups:
           place: "Durham, Maine"
         marriages:
           - date: 12 May 1878
-            spouse: Harriet T. Foster
+            spouse: "Harriet T. Foster   -   13 January 1896   Jay, Maine"
         burial:
           place: Jay Hill
       - name: Harriet Jane Vining

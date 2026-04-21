@@ -12,10 +12,19 @@ head:
     place: "[North Carolina or Alabama?]"
   death:
     date: 3 September 1950
+  burial:
+    place: "Rosehill Cemetery   Gastonia, Gaston County, North Carolina"
 marriages:
   - spouse:
       givenName: Carrie Louise
       surname: Collins
+      parents: "(dau. of Leroy Collins and Eliza Crawford)"
+      birth:
+        date: age 25 y. as of 1930 census
+        place: North Carolina
+      death:
+        date: 12 March 1957
+        place: "Gastonia, Gaston County, North Carolina"
 childrenGroups:
   - children:
       - name: Mary E. Vining

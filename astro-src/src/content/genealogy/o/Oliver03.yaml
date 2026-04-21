@@ -16,6 +16,12 @@ marriages:
   - spouse:
       givenName: Ella
       surname: Simpson
+      birth:
+        date: age 32 y. as of 1920 census
+        place: "[Kentucky or Louisiana?]"
+      death:
+        date: 22 December 1948
+        place: "Oneonta, Otsego County, New York"
 childrenGroups:
   - children:
       - name: Myrtle B. Vining

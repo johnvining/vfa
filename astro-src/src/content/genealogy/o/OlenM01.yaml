@@ -12,10 +12,19 @@ head:
     place: "[Mississippi or Louisiana?]"
   death:
     date: 29 January 1955
+  burial:
+    place: "Collins Cemetery   Ponchatoula, Louisiana"
 marriages:
   - spouse:
       givenName: Ella
       surname: Edwards
+      birth:
+        date: 8 June 1887
+        place: "[Louisiana or Mississippi?]"
+      death:
+        date: 23 September 1867
+      burial:
+        place: "Collins Cemetery   Ponchatoula, Louisiana"
 childrenGroups:
   - children:
       - name: Annie Vining

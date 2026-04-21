@@ -22,6 +22,13 @@ marriages:
       birth:
         date: 11 October 1764
         place: Massachusetts
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Sally Vining
+        birth:
+          date: "1787"
+          place: "Hingham, Plymouth County, Massachusetts"
 docsUrl: Nsources/Nehemiah01doc.htm
 raw: |-
   <a name="Nehemiah01"></a><font size=+2>Nehemiah Vining</font>

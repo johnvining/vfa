@@ -12,11 +12,34 @@ head:
   death:
     date: 24 November 1989
     place: "(last residence: Englewood, Florida)"
+  burial:
+    place: "Arlington National Cemetery   Arlington, Virginia"
 marriages:
   - number: 1
     date: Bonnabelle Zella Baker
+    spouse:
+      parents: "(dau. of Donald Jerome Baker and Vera Ellen Pierson)"
+      birth:
+        date: "1913"
+      death:
+        date: "1978"
+      burial:
+        place: "Lake View Cemetery   Kendallville, Indiana"
+    note: "divorced"
   - number: 2
     date: Josephine Weeks
+childrenGroups:
+  - headingText: "child by Bonnabelle Zella Baker"
+    children:
+      - name: Arsene Earl Vining
+        entryId: ArseneE01
+        entryLetter: A
+        marriages:
+          - number: 1
+            date: "Jane Hanes,"
+            spouse: divorced
+          - number: 2
+            date: "Donna [...]"
 raw: |-
   <a name="OsmynA01"></a><font size=+2>Osmyn Arsene Vining</font>
      (son of <a href="#OsmynC01">Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221 La Palm</a>)

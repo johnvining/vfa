@@ -12,10 +12,19 @@ head:
     place: Louisiana
   death:
     date: 1 March 1971
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Pauline
       surname: Owens
+      birth:
+        date: 29 November 1913
+        place: Louisiana
+      death:
+        date: 23 May 1965
+      burial:
+        place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Joseph Lee Vining
