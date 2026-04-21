@@ -1,4 +1,5 @@
 id: RobertW05
+sequence: 125
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: "Mary [G.?]"
       surname: "[&#8230;]"
+      birth:
+        date: "age [49?] y. as of 1920 census"
+        place: Alabama
 childrenGroups:
   - children:
       - name: Fred D. Vining

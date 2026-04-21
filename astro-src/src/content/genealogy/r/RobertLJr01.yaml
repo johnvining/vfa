@@ -1,4 +1,5 @@
 id: RobertLJr01
+sequence: 111
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,6 +13,15 @@ marriages:
   - spouse:
       givenName: Shirley Kay
       surname: Prince
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Myra Elizabeth Vining
+        birth:
+          date: 1 January 1970
+        marriages:
+          - date: 5 February 1993
+            spouse: Dean Michael Herbst
 raw: |-
   <a name="RobertLJr01"></a><font size=+2>Robert Lee Vining Jr.</font>
      (son of <a href="#RobertL03">Robert Lee Vining and Della Mae Futrell</a>)

@@ -1,4 +1,5 @@
 id: RobertL04
+sequence: 109
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: Louisiana
   death:
     date: "1960"
+  burial:
+    place: "Estancia Memorial Cemetery   Estancia, New Mexico"
 marriages:
   - date: 5 y. as of 1900 census
     spouse:
       givenName: Willie Pearl
       surname: Gibson
+      parents: "(dau. of Andrew Gibson and [...])"
       birth:
         date: 14 November 1870
         place: "Ruston, Louisiana"

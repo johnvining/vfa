@@ -1,4 +1,5 @@
 id: RobertL03
+sequence: 110
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,6 +17,23 @@ marriages:
   - spouse:
       givenName: Della Mae
       surname: Futrell
+      parents: "(dau. of L. Monroe Futrell and Laura Green)"
+      birth:
+        date: 1 January 1892
+        place: "Grant Parish, Louisiana"
+      death:
+        date: 25 November 1984
+      burial:
+        place: "Bethel Cemetery   Colfax, Louisiana"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Robert Lee Vining Jr.
+        entryId: RobertLJr01
+        birth:
+          date: 16 March 1936
+        marriages:
+          - date: Shirley Kay Prince
 docsUrl: Rsources/RobertL03doc.htm
 raw: |-
   <a name="RobertL03"></a><font size=+2>Robert Lee Vining</font>

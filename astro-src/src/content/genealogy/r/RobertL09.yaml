@@ -1,4 +1,5 @@
 id: RobertL09
+sequence: 114
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,20 @@ head:
   death:
     date: 23 February 1950
     place: "Seattle, Washington"
+  burial:
+    place: "Lake View Cemetery   Seattle, Washington"
 marriages:
   - spouse:
       givenName: Agnes E.
       surname: Alford
+      birth:
+        date: February 1876
+        place: "Bonaventure, Quebec, Canada"
+      death:
+        date: 23 May 1930
+        place: "Dawson, Yukon, Canada"
+      burial:
+        place: "Lake View Cemetery   Seattle, Washington"
 childrenGroups:
   - children:
       - name: James Orrin Vining
@@ -30,6 +41,7 @@ childrenGroups:
         death:
           date: 28 January 1979
           place: "Seattle, Washington"
+        note: cremated
       - name: Jessica Irma Vining
         birth:
           date: 16 March 1904

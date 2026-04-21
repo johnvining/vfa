@@ -1,4 +1,5 @@
 id: ReubenW01
+sequence: 35
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 23 April 1901
     place: "Georgetown, Williamson County, Texas"
+  burial:
+    place: "Odd Fellows Cemetery   Georgetown, Williamson County, Texas"
 marriages:
   - spouse:
       givenName: Mary Elizabeth
       surname: Bowes
+      parents: "(dau. of [Edward?] Bowes and Mary Ann James)"
+      birth:
+        date: 21 July 1824
+        place: "[Usk or Llanover?], Monmouthshire, Wales"
+      death:
+        date: 13 May 1896
+        place: "Georgetown, Williamson County, Texas"
+      burial:
+        place: "Odd Fellows Cemetery   Georgetown, Texas"
 childrenGroups:
   - children:
       - name: Olivia Annie Vining

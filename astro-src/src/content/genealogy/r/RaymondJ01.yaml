@@ -1,0 +1,42 @@
+id: RaymondJ01
+sequence: 24
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Evy01
+parentLetter: E
+parentDesc: Evy Vining and Mary Giroir
+head:
+  givenName: Raymond John
+  birth:
+    date: 5 December 1926
+    place: "Bayou Melhomme, Louisiana"
+  death:
+    date: 17 May 2011
+  burial:
+    place: Morgan City Cemetery
+childrenGroups:
+  - children:
+      - name: Deloris Vining
+        marriages:
+          - date: "[&#8230;] Gilchrist"
+      - name: Herbert Vining
+      - name: Evy Vining
+      - name: Juanita Vining
+        marriages:
+          - date: "[&#8230;] Elder"
+docsUrl: Rsources/RaymondJ01doc.htm
+raw: |-
+  <a name="RaymondJ01"><a><font size=+2>Raymond John Vining</font>
+     (son of <a href="Efamilies.htm#Evy01">Evy Vining and Mary Giroir</a>)
+     b. 5 December 1926   Bayou Melhomme, Louisiana
+     d. 17 May 2011
+           bur. Morgan City Cemetery
+
+  <font size=+1>children:</font>
+     Deloris Vining   m. [&#8230;] Gilchrist
+     Herbert Vining
+     Evy Vining
+     Juanita Vining   m. [&#8230;] Elder
+
+  <a href="Rsources/RaymondJ01doc.htm">documentation and notes</a>

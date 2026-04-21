@@ -1,4 +1,5 @@
 id: RobertH03
+sequence: 101
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 12 October 1888
     place: "Clyde, Clyde County, Kansas"
+  burial:
+    place: "Mount Hope Cemetery   Clyde, Kansas"
 marriages:
   - date: 1 January 1869
     place: "Elk Creek Township, Republic County, Kansas"
     spouse:
       givenName: Martha Jane
       surname: Oliver
+      parents: "(dau. of William Oliver and Nancy Alexander)"
       birth:
         date: October 1847
         place: "Washington County, Ohio"

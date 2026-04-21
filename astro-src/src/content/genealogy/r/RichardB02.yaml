@@ -1,4 +1,5 @@
 id: RichardB02
+sequence: 51
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 9 July 1976
     place: "Pueblo, Colorado"
+  burial:
+    place: "Imperial Memorial Gardens   Pueblo, Colorado"
 marriages:
   - spouse:
       givenName: Lucille M.
       surname: Quirico
+      parents: "(dau. of Edward Quirico and Estellina [...])"
+      birth:
+        date: 16 May 1912
+        place: "Walsen Camp, Colorado"
+      death:
+        date: 1 December 2004
+        place: "Aurora, Colorado"
 childrenGroups:
   - children:
       - name: Walter Gene Vining

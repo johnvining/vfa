@@ -1,4 +1,5 @@
 id: Richard01
+sequence: 37
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -52,6 +53,7 @@ childrenGroups:
       - name: John Vining
         birth:
           date: "Weymouth, Massachusetts"
+        note: bapt. 1748
       - name: Hitty Vining
         birth:
           date: 13 October 1751
@@ -64,7 +66,14 @@ childrenGroups:
           - date: int. 25 October 1771
             place: "Weymouth, Massachusetts"
             spouse: Samuel Holbrook
-      - name: "Lydia Vining   bapt. 3 June 1759   Weymouth, Massachusetts"
+      - name: Lydia Vining
+        birth:
+          date: bapt. 3 June 1759
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 25 June 1778
+            place: "[Abington or Weymouth?], Massachusetts"
+            spouse: Josiah Lovell
       - name: Nehemiah Vining
         entryId: Nehemiah01
         entryLetter: N

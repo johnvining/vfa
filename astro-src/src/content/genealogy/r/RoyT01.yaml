@@ -1,6 +1,11 @@
 id: RoyT01
+sequence: 165
 letter: R
 lastUpdated: 15 January 2024
+relationship: son
+parentId: HoraceW01
+parentLetter: H
+parentDesc: "Horace Webster Vining and Veronica [Lukas or Lucas]"
 head:
   givenName: Roy T.
   birth:
@@ -12,6 +17,12 @@ marriages:
   - spouse:
       givenName: Constance
       surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: daughter
+        marriages:
+          - date: "[...] Leshin"
 raw: |-
   <a name="RoyT01"></a><font size=+2>Roy T. Vining</font>
      ([adopted?] son of <a href="Hfamilies.htm#HoraceW01">Horace Webster Vining and Veronica [Lukas or Lucas]</a>)

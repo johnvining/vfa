@@ -1,4 +1,5 @@
 id: RobertE05
+sequence: 95
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,17 +12,15 @@ head:
     date: 28 January 1940
   death:
     date: 13 April 2002
+  burial:
+    description: "buried West Yarmouth, Massachusetts"
 marriages:
   - number: 1
     date: "[...]"
-    spouse:
-      givenName: divorced
-      surname: divorced
+    note: divorced
   - number: 2
     date: "Sherryann Kalomer[i?]s"
-    spouse:
-      givenName: divorced
-      surname: divorced
+    note: divorced
   - number: 3
     date: "Grace [...]"
 childrenGroups:

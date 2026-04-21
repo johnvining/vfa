@@ -1,4 +1,5 @@
 id: Richard07
+sequence: 46
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -8,7 +9,10 @@ head:
 marriages:
   - spouse:
       givenName: Debbie
-      surname: Debbie
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Tommy Vining
 raw: |-
   <a name="Richard07"></a><font size=+2>Richard Vining</font>
      (son of [?])

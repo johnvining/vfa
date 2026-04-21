@@ -1,4 +1,5 @@
 id: RichardA02
+sequence: 50
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,12 @@ marriages:
   - spouse:
       givenName: Janeen
       surname: Hurlbert
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Gregg Allen Vining
+        birth:
+          date: 4 April 1969
 raw: |-
   <a name="RichardA02"></a><font size=+2>Richard Allen Vining</font>
      (son of <a href="Jfamilies.htm#JohnR03">John Reuben Vining and Ella Mae Belseth</a>)

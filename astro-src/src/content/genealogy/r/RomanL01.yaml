@@ -1,4 +1,5 @@
 id: RomanL01
+sequence: 138
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -28,6 +29,8 @@ childrenGroups:
         birth:
           date: 19 September 1936
           place: Alabama
+  - headingText: "child by Margaret Kemp"
+    children:
       - name: Lynn Vining
         birth:
           date: 2 July 1953

@@ -1,4 +1,5 @@
 id: ReginaldM01
+sequence: 27
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -17,6 +18,24 @@ marriages:
   - spouse:
       givenName: Mary Eliza
       surname: Thomson
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ernest James Tally Vining
+        entryId: ErnestJT01
+        entryLetter: E
+        birth:
+          date: 17 March 1872
+          place: "London, England"
+        marriages:
+          - date: 5 October 1890
+            place: "Lockport, New York"
+            spouse: Emma Grace Clark
+        death:
+          date: 20 July 1924
+          place: "White Plains, Westchester County, New York"
+        burial:
+          place: "Kensico Cemetery   Valhalla, New York"
 raw: |-
   <a name="ReginaldM01"></a><font size=+2>Reginald Maline Vining</font>
      (son of <a href="Jfamilies.htm#JamesT03">James Tally Vining and Emma Mayo</a>)

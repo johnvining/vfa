@@ -1,4 +1,5 @@
 id: RobertE06
+sequence: 99
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,12 +14,23 @@ head:
   death:
     date: 15 February 1991
     place: "Orange, Orange County, California"
+  burial:
+    place: "Riverside National Cemetery   Riverside, California"
 marriages:
   - number: 1
     date: Pat Ryan
   - number: 2
     date: 18 July 1981
     place: Nevada
+    spouse:
+      givenName: Priscella Jean
+      surname: Horsley
+      birth:
+        date: 12 September 1933
+      death:
+        date: 22 June 2005
+      burial:
+        place: "Riverside National Cemetery   Riverside, California"
 childrenGroups:
   - spouseRef: Pat Ryan
     children:

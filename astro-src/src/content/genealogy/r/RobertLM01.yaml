@@ -1,4 +1,5 @@
 id: RobertLM01
+sequence: 116
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,11 +17,24 @@ marriages:
     spouse:
       givenName: Janet Kathleen
       surname: Howard
+    note: divorced
   - number: 2
     date: 18 November 1989
     spouse:
       givenName: Sheri L.
       surname: Connelly
+childrenGroups:
+  - headingText: "child by Janet Kathleen Howard"
+    children:
+      - name: Bryant Robert Vining
+        entryId: BryantR01
+        entryLetter: B
+        birth:
+          date: 16 May 1982
+        marriages:
+          - date: 31 May 2014
+            place: "Bakersfield, California"
+            spouse: Ashley Jean Rhoades
 raw: |-
   <a name="RobertLM01"></a><font size=+2>Robert Lloyd McKinney Vining</font>
      (son of <a href="Wfamilies.htm#WarrenCJr01">Warren Clifford Vining Jr. and Elizabeth Ruth Gustafson</a>)

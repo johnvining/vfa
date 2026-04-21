@@ -1,4 +1,5 @@
 id: Richard03
+sequence: 41
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 19 May 1918
     place: "Woodbine, Iowa"
+  burial:
+    place: "Woodbine Cemetery   Woodbine, Iowa"
 marriages:
   - date: 20 March 1858
     place: "Woodbine, Iowa"
     spouse:
       givenName: Emily Jane
       surname: Winter
+      parents: "(dau. of Matthew Winter and Harriet Ford)"
       birth:
         date: 3 April 1841
         place: "Hensonville, New York"

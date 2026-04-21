@@ -1,4 +1,5 @@
 id: Reuben01
+sequence: 30
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 6 August 1857
     place: "Durham, Androscoggin County, Maine"
+  burial:
+    place: "Vining Cemetery   Durham, Androscoggin County, Maine"
 marriages:
   - spouse:
       givenName: "Mercy Lunt (of Brunswick, Cumberland County,"
       surname: Maine)
+      parents: "(dau. of Josiah Lunt and Mary Cole)"
+      birth:
+        date: 30 January 1811
+        place: "Brunswick, Cumberland County, Maine"
+      death:
+        date: 20 April 1898
+        place: "Durham, Androscoggin County, Maine"
+      burial:
+        place: "Vining Cemetery   Durham, Androscoggin County, Maine"
 childrenGroups:
   - children:
       - name: Martha R. Vining

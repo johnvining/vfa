@@ -1,4 +1,5 @@
 id: Ross01
+sequence: 153
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,6 +13,10 @@ marriages:
   - spouse:
       givenName: Linda
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Ben Vining
 docsUrl: Rsources/Ross01doc.htm
 raw: |-
   <a name="Ross01"></a><font size=+2>Ross Vining</font>

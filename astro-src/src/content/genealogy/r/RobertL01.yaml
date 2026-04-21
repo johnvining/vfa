@@ -1,4 +1,5 @@
 id: RobertL01
+sequence: 108
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Cummington, Massachusetts"
   death:
     date: "1936"
+  burial:
+    place: "West Cummington Cemetery   West Cummington, Massachusetts"
 marriages:
   - spouse:
       givenName: Cora Sybil
@@ -32,8 +35,15 @@ childrenGroups:
         birth:
           date: 28 July 1914
           place: "Adams, Massachusetts"
+        death:
+          date: 6 October 1989
+          place: "Gainesville, Florida"
+        burial:
+          place: "Gainesville, Florida"
         marriages:
           - date: 21 February 1949
+            place: "Hagerstown, Maryland"
+            spouse: Rita Mary Kirby
 docsUrl: Rsources/RobertL01doc.htm
 raw: |-
   <a name="RobertL01"></a><font size=+2>Robert Latham Vining</font>

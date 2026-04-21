@@ -1,4 +1,5 @@
 id: RudolphA02
+sequence: 169
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Mary
       surname: "[&#8230;]"
+      birth:
+        date: age 23 y. as of 1930 census
+        place: Louisiana
 childrenGroups:
   - children:
       - name: Milton Vining

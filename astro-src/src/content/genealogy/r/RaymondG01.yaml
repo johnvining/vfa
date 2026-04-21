@@ -1,4 +1,5 @@
 id: RaymondG01
+sequence: 21
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,18 +14,28 @@ head:
   death:
     date: 28 October 1967
     place: "Farmington, Franklin County, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Franklin County, Maine"
 marriages:
   - date: 5 February 1938
     place: "New Portland, Somerset County, Maine"
     spouse:
       givenName: "Caroline Rundlett (n&#233;e"
       surname: Nemire)
+      parents: "(dau. of George Nemire and Pearl Fox)"
       birth:
         date: age 36 y. at marriage
         place: New York
       death:
         date: 17 June 1988
         place: "Skowhegan, Somerset County, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Esther Caroline Vining
+        birth:
+          date: 27 June 1939
+          place: "New Portland, Somerset County, Maine"
 raw: |-
   <a name="RaymondG01"></a><font size=+2>Raymond G. Vining</font>
      (son of <a href="Efamilies.htm#EdwardP01">Edward Payson Vining and Esther May Burbank</a>)

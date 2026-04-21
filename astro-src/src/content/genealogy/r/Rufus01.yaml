@@ -1,4 +1,5 @@
 id: Rufus01
+sequence: 171
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 5 January 1877
     place: "Porter, Ohip"
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
 marriages:
   - date: 29 December 1825
     place: Ohio
     spouse:
       givenName: Almira
       surname: Doughty
+      parents: "(dau. of Stephen W. Doughty II and Abigail Austin)"
       birth:
         date: 20 October 1809
         place: "Topsham, Sagadahoc County, Maine"

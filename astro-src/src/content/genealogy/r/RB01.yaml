@@ -1,4 +1,5 @@
 id: RB01
+sequence: 1
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -29,6 +30,8 @@ childrenGroups:
           place: Georgia
         burial:
           place: "Crawford County, Georgia"
+  - headingText: "child?"
+    children:
       - name: George B. Vining
         birth:
           date: age 20 y. as of 1860 census

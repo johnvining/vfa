@@ -1,4 +1,5 @@
 id: RobertE08
+sequence: 100
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: d. 8 March 1937
     place: "Wilsey, Morris County, Kansas"
+  burial:
+    place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
 marriages:
   - spouse:
       givenName: Alphraetta Mary
       surname: Hight
+      parents: "(dau. of Charles Fairman Hight and Elizabeth Butts)"
+      birth:
+        date: 5 October 1910
+        place: "Council Grove, Morris County. Kansas"
+      death:
+        date: 4 January 1997
+        place: "Denver, Denver County, Colorado"
 childrenGroups:
   - children:
       - name: Robert James Vining

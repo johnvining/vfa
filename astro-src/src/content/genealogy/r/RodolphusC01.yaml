@@ -1,4 +1,5 @@
 id: RodolphusC01
+sequence: 134
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 8 July 1895
     place: "Holyoke, Massachusetts"
+  burial:
+    description: "bur Forestdale Cemetery   Holyoke, Massachusetts"
 marriages:
   - date: 6 May 1852
     spouse:
@@ -22,6 +25,8 @@ marriages:
         date: 12 February 1834
       death:
         date: 2 January 1914
+      burial:
+        description: "bur Forestdale Cemetery   Holyoke, Massachusetts"
 childrenGroups:
   - children:
       - name: Osmyn Vining

@@ -1,4 +1,5 @@
 id: RonaldH01
+sequence: 142
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 4 June 2017
     place: "Pacific Grove, Monterey County, California"
+  burial:
+    place: "El Carmelo Cemetery   Pacific Grove, Monterey County, California"
 marriages:
   - date: 21 February 1947
     spouse:
       givenName: Selma Jennie
       surname: Baker
+      parents: "(dau. of Leon Baker and Tillie [...])"
       birth:
         date: 9 March 1925
         place: "San Francisco, California"

@@ -1,4 +1,5 @@
 id: RonaldLJr01
+sequence: 144
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,6 +13,10 @@ marriages:
   - spouse:
       givenName: Cheryl
       surname: Lindquist
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Crystal Vining
 raw: |-
   <a name="RonaldLJr01"></a><font size=+2>Ronald Lee Vining Jr.</font>
      (son of <a href="#RonaldL01">Ronald Lee Vining and Ann Dolnak</a>)

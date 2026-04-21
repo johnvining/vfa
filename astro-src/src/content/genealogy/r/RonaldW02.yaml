@@ -1,4 +1,5 @@
 id: RonaldW02
+sequence: 147
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -15,6 +16,9 @@ head:
 marriages:
   - date: 28 December 1952
     place: "Chicago, Illinois"
+    spouse:
+      givenName: Leona Rose
+      surname: Hunt
 childrenGroups:
   - children:
       - name: Dawn Jeanette Vining

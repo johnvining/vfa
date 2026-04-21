@@ -1,4 +1,5 @@
 id: RandallM01
+sequence: 7
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: "St. Louis, Michigan"
   death:
     date: 28 July 2010
+  burial:
+    place: "Pine Grove Cemetery   Emerson Township, Gratiot County, Michigan"
 marriages:
   - date: 6 September 1942
     spouse:
       givenName: Katherine Marie
       surname: Campbell
+      parents: "(dau. of Sidney Campbell and Agnes Miller)"
       birth:
         date: 17 August 1921
         place: "near Fowler, Clinton County, Michigan"

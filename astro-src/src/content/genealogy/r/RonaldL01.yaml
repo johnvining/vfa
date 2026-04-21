@@ -1,4 +1,5 @@
 id: RonaldL01
+sequence: 143
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,6 +17,15 @@ marriages:
   - spouse:
       givenName: Ann
       surname: Dolnak
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Ronald Lee Vining Jr.
+        entryId: RonaldLJr01
+        birth:
+          date: 18 October 1958
+        marriages:
+          - date: Cheryl Lindquist
 docsUrl: Rsources/RonaldL01doc.htm
 raw: |-
   <a name="RonaldL01"></a><font size=+2>Ronald Lee Vining</font>

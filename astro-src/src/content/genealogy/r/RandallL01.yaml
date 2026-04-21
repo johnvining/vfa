@@ -1,4 +1,5 @@
 id: RandallL01
+sequence: 6
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: "[5 or 4?] June 1961"
     place: "Monroe, Louisiana"
+  burial:
+    place: "Forest Cemetery   Forest, Louisiana"
 marriages:
   - number: 1
     date: 11 y. as of 1900 census
@@ -31,6 +34,7 @@ marriages:
     spouse:
       givenName: Della
       surname: Stewart
+      parents: "(dau. of William J. Stewart and Priscilla Elizabeth Huey)"
       birth:
         date: 24 August 1880
         place: "Clay, Louisiana"

@@ -1,4 +1,5 @@
 id: RichardJr02
+sequence: 47
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 7 May 1811
     place: "West Granby, Hartford County, Connecticut"
+  burial:
+    place: "West Granby Cemetery   Granby, Hartford County, Connecticut"
 marriages:
   - date: 1 September 1803
     place: Connecticut
@@ -24,6 +27,28 @@ marriages:
       death:
         date: 26 July 1815
         place: "Granby, Hartford County, Connecticut"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Abner Banning Vining
+        entryId: AbnerB02
+        entryLetter: A
+        birth:
+          date: 4 September 1807
+          place: "Granby, Hartford County, Connecticut"
+        marriages:
+          - number: 1
+            date: 10 October 1833
+            spouse: "Ellen C. Bester (d. 1863)"
+          - number: 2
+            date: 20 August 1864
+            place: "Adams, Illinois"
+            spouse: "Mrs. Sarah R. Tarbell (n&#233;e Kidder)"
+        death:
+          date: 7 August 1882
+          place: Illinois
+        burial:
+          place: "Stewart Cemetery   Plainville, Adams County, Illinois"
 docsUrl: Rsources/RichardJr02doc.htm
 raw: |-
   <a name="RichardJr02"></a><font size=+2>Richard Vining Jr.</font>

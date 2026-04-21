@@ -1,4 +1,5 @@
 id: RoswellS01
+sequence: 155
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,6 +17,10 @@ marriages:
   - spouse:
       givenName: Julia Vestina
       surname: Hitchcock
+      birth:
+        date: "1875"
+      death:
+        date: "1941"
 childrenGroups:
   - children:
       - name: Scott Osborn Vining

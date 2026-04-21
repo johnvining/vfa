@@ -1,4 +1,5 @@
 id: RichardR01
+sequence: 68
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,11 +12,26 @@ head:
     place: "Carmel, California"
   death:
     date: 9 September 1982
+  burial:
+    description: "cremated, ashes scattered"
 marriages:
   - number: 1
     date: Judith Stoner
   - number: 2
     date: Kaaren Crail
+childrenGroups:
+  - headingText: "child by Judith Stoner"
+    children:
+      - name: Jeremiah Alexander Vining
+        birth:
+          date: age 7 y. at death
+          place: "Antioch, Contra Costa County, California"
+        death:
+          date: 9 September 1982
+        note: "cremated, ashes scattered"
+  - headingText: "child by Kaaren Crail"
+    children:
+      - name: Christopher Richard Vining
 docsUrl: Rsources/RichardR01doc.htm
 raw: |-
   <a name="RichardR01"></a><font size=+2>Richard Ronald Vining</font>

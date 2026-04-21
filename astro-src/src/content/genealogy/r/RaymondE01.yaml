@@ -1,4 +1,5 @@
 id: RaymondE01
+sequence: 20
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,11 +13,27 @@ head:
     place: New York
   death:
     date: "1963"
+  burial:
+    place: "Windham Cemetery   Windham, New York"
 marriages:
   - number: 1
     date: Mabel Crandell
+    spouse:
+      birth:
+        date: "1885"
+      death:
+        date: "[26 May?] 1916"
+      burial:
+        place: "Windham Cemetery   Windham, New York"
   - number: 2
     date: "Jennie [&#8230;]"
+    spouse:
+      birth:
+        date: "1891"
+      death:
+        date: "1952"
+      burial:
+        place: "Windham Cemetery   Windham, New York"
 childrenGroups:
   - spouseRef: Mabel Crandell
     children:

@@ -1,4 +1,5 @@
 id: RonaldW01
+sequence: 148
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 22 October 2011
     place: "Lewiston, Androscoggin County, Maine"
+  burial:
+    place: "Megquier Hill Cemetery   Poland, Androscoggin County, Maine"
 marriages:
   - number: 1
     date: 9 July 1953
@@ -20,6 +23,7 @@ marriages:
     spouse:
       givenName: Helen R.
       surname: Dubois
+      parents: "(dau. of Ernest E. Dubois and Almeda M. Miller)"
       birth:
         date: age 20 y. as of 9 July 1953
         place: "North Adams, Berkshire County, Massachusetts"
@@ -29,6 +33,7 @@ marriages:
     spouse:
       givenName: Joyce Clementine
       surname: Schmieks
+      parents: "(dau. of Michael S. Schmieks and Iza Marshall)"
       birth:
         date: 28 August 1936
         place: "Auburn, Androscoggin County, Maine"

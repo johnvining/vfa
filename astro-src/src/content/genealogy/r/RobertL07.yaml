@@ -1,4 +1,5 @@
 id: RobertL07
+sequence: 115
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,10 +12,18 @@ head:
     date: 15 May 1889
   death:
     date: 25 May 1977
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Laura Amanda
       surname: Finley
+      birth:
+        date: 22 December 1896
+      death:
+        date: 13 March 1990
+      burial:
+        place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 childrenGroups:
   - children:
       - name: infant son Vining

@@ -1,4 +1,5 @@
 id: RawlesL01
+sequence: 11
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,6 +12,8 @@ head:
     date: "1935"
   death:
     date: 4 August 2007
+  burial:
+    place: "Griffin Memorial Gardens   Griffin, Georgia"
 marriages:
   - spouse:
       givenName: June

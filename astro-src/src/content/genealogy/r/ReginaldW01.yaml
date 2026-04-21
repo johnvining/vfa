@@ -1,4 +1,5 @@
 id: ReginaldW01
+sequence: 28
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,33 @@ head:
   death:
     date: 22 September 1990
     place: "Rochester, Monroe County, New York"
+  burial:
+    place: "Mount Hope Cemetery   Norwich, Chenango County, New York"
 marriages:
   - spouse:
       givenName: Frances Elizabeth
       surname: Ackley
+      parents: "(dau. of George William Ackley and Minnie Belle Barden)"
+      birth:
+        date: 22 March 1909
+        place: "Cortland, California"
+      death:
+        date: 23 August 1997
+        place: "Norwich, Chenango County, New York"
+      burial:
+        place: "Mount Hope Cemetery   Norwich, Chenango County, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Douglas Robert Vining
+        birth:
+          date: 31 December 1931
+          place: "Norwich, Chenango County, New York"
+        death:
+          date: 22 February 2008
+          place: "Boston, Suffolk County, Massachusetts"
+        burial:
+          place: "Wyoming Cemetery   Melrose, Middlesex County, Massachusetts"
 docsUrl: Rsources/ReginaldW01doc.htm
 raw: |-
   <a name="ReginaldW01"></a><font size=+2>Reginald W. Vining</font>

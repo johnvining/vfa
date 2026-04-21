@@ -1,4 +1,5 @@
 id: RodneyM01
+sequence: 133
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -25,6 +26,13 @@ marriages:
     spouse:
       givenName: Elizabeth
       surname: Page
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Susan Carol Vining
+        birth:
+          date: 31 January 1952
+          place: "Boston, Massachusetts"
 raw: |-
   <a name="RodneyM01"></a><font size=+2>Rodney Merritt Vining</font>
      (son of <a href="Mfamilies.htm#MerrittA01">Merritt Alfred Vining and Marion Monica Armstrong</a>)

@@ -1,4 +1,5 @@
 id: RussellK01
+sequence: 179
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,14 @@ head:
   death:
     date: 25 May 2012
     place: "Hammond, Louisiana"
+  burial:
+    place: "Collins Cemetery   Ponchatoula, Louisiana"
 marriages:
-  - spouse:
-      givenName: "[4?] Deccember"
-      surname: "1971"
+  - date: "[4?] Deccember 1971"
+    spouse:
+      givenName: Twila
+      surname: Goldsberry
+      parents: "(dau. of James Goldsberry and Arlene [&#8230;])"
       birth:
         date: 28 October 1950
 childrenGroups:

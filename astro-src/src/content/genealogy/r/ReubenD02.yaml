@@ -1,4 +1,5 @@
 id: ReubenD02
+sequence: 34
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 23 March 1957
     place: "Lakeland, Florida"
+  burial:
+    place: "Oak Hill Burial Park   Lakeland, Florida"
 marriages:
   - spouse:
       givenName: Betty Genevieve
       surname: Langford
+      birth:
+        date: 17 August 1887
+      death:
+        date: 25 February 1978
+        place: "Richmond, Virginia"
+      burial:
+        place: "Oak Hill Burial Park   Lakeland, Florida"
 childrenGroups:
   - children:
       - name: Robert DeWitt Vining

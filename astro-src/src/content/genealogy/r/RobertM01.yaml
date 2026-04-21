@@ -1,4 +1,5 @@
 id: RobertM01
+sequence: 118
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 24 October 1898
     place: Ohio
+  burial:
+    place: "East Bethel Cemetery   Rockford, Ohio"
 marriages:
   - number: 1
     date: 6 April 1862
@@ -20,6 +23,7 @@ marriages:
     spouse:
       givenName: Sarah Ann
       surname: Stout
+      parents: "(dau. of John Stout and Susanna Shaffer)"
       birth:
         date: 25 December 1835
         place: Ohio
@@ -32,6 +36,7 @@ marriages:
     spouse:
       givenName: Lucetta Elizabeth
       surname: Hoke
+      parents: "(dau. of John Hoke and Lucinda Strait)"
       birth:
         date: March 1859
         place: "Cincinnati, Ohio"

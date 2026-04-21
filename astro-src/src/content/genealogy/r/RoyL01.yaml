@@ -1,4 +1,5 @@
 id: RoyL01
+sequence: 161
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,10 +13,18 @@ head:
   death:
     date: 21 January 1973
     place: "Eatonton, Georgia"
+  burial:
+    place: "Crestlawn Memorial Gardens  Eatonton, Georgia"
 marriages:
   - spouse:
       givenName: Ruby Lee
       surname: Whitten
+      birth:
+        date: 12 January 1905
+      death:
+        date: 26 June 1991
+      burial:
+        place: "Crestlawn Memorial Gardens  Eatonton, Georgia"
 childrenGroups:
   - children:
       - name: Emma Lola Vining

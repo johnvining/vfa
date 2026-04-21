@@ -1,4 +1,5 @@
 id: RobertD01
+sequence: 92
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,25 @@ marriages:
   - spouse:
       givenName: Ara
       surname: Short
+      birth:
+        date: 3 December 1921
+        place: "Providence, Rhode Island"
+      death:
+        date: 5 January 2021
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Robert Raymond Vining
+        entryId: RobertR02
+        birth:
+          date: 21 November 1941
+          place: "San Diego, San Diego County, Califoria"
+        marriages:
+          - date: "1964"
+            spouse: Melinda Morris
+        death:
+          date: 4 August 2020
+          place: "New Orleans, Orleans Parish, Louisiana"
 docsUrl: Rsources/RobertD01doc.htm
 raw: |-
   <a name="RobertD01"></a><font size=+2>Robert DeWitt Vining</font>

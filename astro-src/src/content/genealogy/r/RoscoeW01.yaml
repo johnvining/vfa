@@ -1,4 +1,5 @@
 id: RoscoeW01
+sequence: 152
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 4 December 1936
     place: "Narberth, Pennsylvania"
+  burial:
+    place: "West Laurel Hill Cemetery   Bala Cynwyd, Pennsylvania"
 marriages:
   - date: 3 y. as of 1900 census
     spouse:
       givenName: Addie
       surname: Sanders
+      parents: "(dau. of [&#8230;] Sanders and Elizabeth [&#8230;])"
       birth:
         date: June 1877
         place: New York

@@ -1,4 +1,5 @@
 id: RostonE01
+sequence: 154
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,11 @@ head:
   death:
     date: 27 September 2014
     place: "Ardmore, Alabama"
+  burial:
+    place: "Reunion Cemetery   Thach, Alabama"
 marriages:
   - spouse:
       givenName: "[&#8230;]"
-      surname: "[&#8230;]"
 childrenGroups:
   - children:
       - name: Mickey Vining

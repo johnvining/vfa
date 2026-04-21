@@ -1,4 +1,5 @@
 id: RichardW03
+sequence: 71
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: Dorothy
       surname: Higgins
+      parents: "(dau. of Claude B. Higgins and Mary Emma Seabolt)"
+      birth:
+        date: 4 June 1923
+        place: "Atlanta, Fulton County, Georgia"
+      death:
+        date: 28 September 1997
+        place: Connecticut
 childrenGroups:
   - children:
       - name: Richard Worthington Vining Jr.

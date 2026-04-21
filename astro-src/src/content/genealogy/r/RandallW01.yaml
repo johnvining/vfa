@@ -1,4 +1,5 @@
 id: RandallW01
+sequence: 10
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,6 +12,13 @@ head:
   death:
     date: 16 January 2011
     place: "East Longmeadow, Massachusetts"
+  burial:
+    place: "Lawrence Brook Cemetery   Royalston, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Randall Paul Vining
+        entryId: RandallP01
 docsUrl: Rsources/RandallW01doc.htm
 raw: |-
   <a name="RandallW01"></a><font size=+2>Randall Winfield Vining</font>

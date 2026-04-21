@@ -1,4 +1,5 @@
 id: ReginaldA01
+sequence: 36
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,6 +17,10 @@ marriages:
   - spouse:
       givenName: Julia
       surname: Patrick
+      parents: "(dau. of James H. Patrick and Leila S. [&#8230;])"
+      birth:
+        date: age 26 y. as of 1930 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: "Jean Vining   b age 1 y., 4 m. as of 1930 census   Georgia"
@@ -28,6 +33,7 @@ childrenGroups:
         death:
           date: 23 January 2014
           place: Florida
+        note: cremated, location of ashes unknown
 docsUrl: Rsources/ReginaldA01doc.htm
 raw: |-
   <a name="ReginaldA01"></a><font size=+2>Reginald Arthur &#8220;Rex&#8221; Vining</font>

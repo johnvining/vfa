@@ -1,4 +1,5 @@
 id: RecordsW01
+sequence: 26
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -17,6 +18,8 @@ marriages:
   - spouse:
       givenName: Lydia
       surname: Williams
+      death:
+        place: "Berlin, Ohio"
 childrenGroups:
   - children:
       - name: "Jared Wilbur &#8220;Jerry&#8221; Vining"

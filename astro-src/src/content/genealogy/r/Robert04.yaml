@@ -1,4 +1,5 @@
 id: Robert04
+sequence: 85
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -9,6 +10,12 @@ marriages:
   - spouse:
       givenName: Lindsi
       surname: Meier
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Nevaeh Sue Vining
+        birth:
+          date: 12 January 2007
 raw: |-
   <a name="Robert04"></a><font size=+2>Robert Vining</font>
      (son of [?])

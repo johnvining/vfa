@@ -1,4 +1,5 @@
 id: RoyLJr01
+sequence: 162
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,10 +13,18 @@ head:
   death:
     date: 6 May 2011
     place: "Eatonton, Georgia"
+  burial:
+    place: "Crestlawn Memorial Gardens   Eatonton, Georgia"
 marriages:
   - spouse:
       givenName: Betty Allene
       surname: Clyborne
+      birth:
+        date: 12 January 1933
+      death:
+        date: 21 November 2002
+      burial:
+        place: "Crestlawn Memorial Gardens   Eatonton, Georgia"
 childrenGroups:
   - children:
       - name: Roger Vining

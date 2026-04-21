@@ -1,4 +1,5 @@
 id: Richard10
+sequence: 43
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -10,9 +11,8 @@ head:
   birth:
     date: 29 January 1952
 marriages:
-  - spouse:
-      givenName: "(1?) Nancy"
-      surname: "[&#8230;]"
+  - date: "(1?) Nancy [&#8230;]"
+    note: "(2?) Karen [&#8230;]"
 childrenGroups:
   - spouseRef: "[?]"
     children:

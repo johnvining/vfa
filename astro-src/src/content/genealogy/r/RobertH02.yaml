@@ -1,4 +1,5 @@
 id: RobertH02
+sequence: 103
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -17,6 +18,8 @@ marriages:
   - spouse:
       givenName: Catherine
       surname: Keddy
+      death:
+        date: 9 October 2014
 childrenGroups:
   - children:
       - name: Linda L. Vining

@@ -1,4 +1,5 @@
 id: RobertE03
+sequence: 94
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -15,6 +16,16 @@ head:
 marriages:
   - number: 1
     date: Shirley Ann Petty (d. 1947)
+  - number: 2
+    date: Ruby MacGillum
+childrenGroups:
+  - headingText: child
+    children:
+      - name: daughter
+        birth:
+          date: October 1947
+        death:
+          date: October 1947
 raw: |-
   <a name="RobertE03"></a><font size=+2>Robert Edward Vining</font>
      (son of <a href="Hfamilies.htm#HomerS01">Homer Seldon Vining and Winnie Eliza Barlow</a>)

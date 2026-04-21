@@ -1,4 +1,5 @@
 id: RobertE07
+sequence: 97
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 4 July 1975
     place: "Covington, St. Tammany Parish, Louisiana"
+  burial:
+    place: "Morse Cemetery   Bedico, Tangipahoa Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Mamie
       surname: Perrilloux
+      parents: "(dau. of Walter Perilloux and Viola Edwards)"
+      birth:
+        date: 17 October 1912
+        place: Louisiana
+      death:
+        date: 15 October 1984
+        place: "Ponchatoula, Tangipahoa Parish, Louisiana"
+      burial:
+        place: "Morse Cemetery   Bedico, Tangipahoa Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Vera Vining

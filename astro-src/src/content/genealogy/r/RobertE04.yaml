@@ -1,4 +1,5 @@
 id: RobertE04
+sequence: 96
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 14 May 1940
     place: "Putnam County, Georgia"
+  burial:
+    place: "Pine Grove Cemetery   Eatonton, Georgia"
 marriages:
   - spouse:
       givenName: Cynthia Emma
       surname: Alford
+      parents: "(dau. of John Franklin Alford and Virginia Frances Paschal)"
+      birth:
+        date: 17 February 1870
+        place: "Putnam County, Georgia"
+      death:
+        date: 22 July 1950
+        place: "Putnam County, Georgia"
+      burial:
+        place: "Pine Grove Cemetery   Eatonton, Georgia"
 childrenGroups:
   - children:
       - name: John Hubert Vining

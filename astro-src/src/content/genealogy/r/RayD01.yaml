@@ -1,4 +1,5 @@
 id: RayD01
+sequence: 13
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,10 +12,18 @@ head:
     date: 15 December 1924
   death:
     date: 11 September 2012
+  burial:
+    place: "Cortez Cemetery   Cortez, Colorado"
 marriages:
   - spouse:
       givenName: Helen Claire
       surname: "[&#8230;]"
+      birth:
+        date: "1924"
+      death:
+        date: "1977"
+      burial:
+        place: "Cortez Cemetery   Cortez, Colorado"
 childrenGroups:
   - children:
       - name: Mary Vining

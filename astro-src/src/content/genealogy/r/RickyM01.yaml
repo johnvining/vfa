@@ -1,4 +1,5 @@
 id: RickyM01
+sequence: 74
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -15,16 +16,19 @@ marriages:
     spouse:
       givenName: "Naomi [Chamberlain or"
       surname: "Huff?]"
+    note: divorced 1984
   - number: 2
     date: 21 June 1985
     spouse:
       givenName: Susan
       surname: Jandreau
+    note: divorced 1993
   - number: 3
     date: 7 August 1994
     spouse:
       givenName: "Lisa Marie [Trepanier or"
       surname: "Mercier?]"
+    note: divorced 20 February 2006
 childrenGroups:
   - spouseRef: Susan Jandreau
     children:

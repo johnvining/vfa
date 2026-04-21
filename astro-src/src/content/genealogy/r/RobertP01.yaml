@@ -1,4 +1,5 @@
 id: RobertP01
+sequence: 120
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,6 +12,12 @@ marriages:
   - spouse:
       givenName: Susan
       surname: Ware
+      birth:
+        date: 17 July 1945
+        place: "Bath, Maine"
+      death:
+        date: 10 October 2020
+        place: "Wells, Maine"
 docsUrl: Rsources/RobertP01doc.htm
 raw: |-
   <a name="RobertP01"></a><font size=+2>Robert Philip Vining</font>

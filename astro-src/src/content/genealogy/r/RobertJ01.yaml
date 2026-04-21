@@ -1,4 +1,5 @@
 id: RobertJ01
+sequence: 105
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -11,6 +12,9 @@ head:
     date: 23 August 1965
 marriages:
   - date: "1989"
+    spouse:
+      givenName: Lori Sue
+      surname: Lugar
 childrenGroups:
   - children:
       - name: Sarah Grace Vining

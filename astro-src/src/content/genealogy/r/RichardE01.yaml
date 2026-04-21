@@ -1,4 +1,5 @@
 id: RichardE01
+sequence: 54
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,10 +13,18 @@ head:
   death:
     date: 16 July 1991
     place: "(last residence: Mobile, Alabama)"
+  burial:
+    place: "Pine Crest Cemetery   Mobile, Mobile County, Alabama"
 marriages:
   - spouse:
       givenName: Bertie Lee
       surname: Flowers
+      birth:
+        date: 4 October 1920
+      death:
+        date: 22 February 2003
+      burial:
+        place: "Pine Crest Cemetery   Mobile, Mobile County, Alabama"
 childrenGroups:
   - children:
       - name: Barbara Allen Vining

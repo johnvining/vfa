@@ -1,4 +1,5 @@
 id: Rockie01
+sequence: 130
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -9,6 +10,8 @@ marriages:
   - spouse:
       givenName: Becky
       surname: "[...]"
+      birth:
+        date: 15 June 1953
 childrenGroups:
   - children:
       - name: Kristi Vining

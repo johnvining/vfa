@@ -1,4 +1,5 @@
 id: RoyE01
+sequence: 156
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 7 July 1972
     place: "Griffin, Georgia"
+  burial:
+    place: "Griffin Memorial Gardens   Griffin, Georgia"
 marriages:
   - number: 1
     date: "1922"
@@ -26,7 +29,26 @@ marriages:
   - number: 2
     date: "1927"
     place: "Columbus, Georgia"
+    spouse:
+      givenName: Maggie Mae
+      surname: Randall
+      parents: "(dau. of Noah Nicholas Randall and Maudie Mae Jordan)"
+      birth:
+        date: 12 December 1908
+        place: "Columbus, Georgia"
+      death:
+        date: 14 January 1999
+      burial:
+        place: "Griffin Memorial Gardens   Griffin, Georgia"
 childrenGroups:
+  - headingText: "child vy Geraldine Gibson"
+    children:
+      - name: Rudine E. Vining
+        birth:
+          date: 12 December 1925
+          place: Georgia
+        marriages:
+          - date: Edward Menzies
   - spouseRef: Maggie Mae Randall
     children:
       - name: "Clinton [Edwin or Edward?] Vining"

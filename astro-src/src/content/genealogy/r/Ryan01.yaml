@@ -1,4 +1,5 @@
 id: Ryan01
+sequence: 180
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -9,6 +10,12 @@ marriages:
   - spouse:
       givenName: Christy
       surname: Hausler
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Dawson Randall Vining
+        birth:
+          date: 22 February 2002
 raw: |-
   <a name="Ryan01"></a><font size=+2>Ryan Vining</font>
      (son of [?])

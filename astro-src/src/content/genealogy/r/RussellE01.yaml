@@ -1,4 +1,5 @@
 id: RussellE01
+sequence: 178
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -17,6 +18,15 @@ marriages:
   - spouse:
       givenName: Ann
       surname: Molloy
+      parents: "(dau. of Peter S. Molloy and Gertrude Wallace)"
+      birth:
+        date: 3 February 1930
+        place: "New Haven, Connecticut"
+      death:
+        date: 3 May 2016
+        place: "Hamden, Connecticut"
+      burial:
+        place: "St. Mary's Cemetery   [Hamden?], Connecticut"
 childrenGroups:
   - children:
       - name: Christy Ann Vining

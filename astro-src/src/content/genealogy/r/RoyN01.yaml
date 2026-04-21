@@ -1,4 +1,5 @@
 id: RoyN01
+sequence: 164
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,10 +13,19 @@ head:
     place: Arizona
   death:
     date: 16 December 1944
+  burial:
+    place: "Roselawn Cemetery   Pueblo, Colorado"
 marriages:
   - spouse:
       givenName: Ann G.
       surname: "[&#8230;]"
+      birth:
+        date: "1890"
+        place: New York
+      death:
+        date: 29 July 1981
+      burial:
+        place: "Roselawn Cemetery   Pueblo, Colorado"
 childrenGroups:
   - children:
       - name: Joan H. Vining

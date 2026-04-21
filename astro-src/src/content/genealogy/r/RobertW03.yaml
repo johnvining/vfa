@@ -1,4 +1,5 @@
 id: RobertW03
+sequence: 129
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -14,6 +15,13 @@ marriages:
   - spouse:
       givenName: Dorothy Ann
       surname: Cook
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Sarah Lee Vining
+        birth:
+          date: 11 June 1969
+          place: "Denver, Colorado"
 raw: |-
   <a name="RobertW03"></a><font size=+2>Robert William Vining</font>
      (son of <a href="Wfamilies.htm#WilliamH04">William Henry Vining and Guillerma &#8220;Minnie&#8221; Saenz</a>)

@@ -1,4 +1,5 @@
 id: Richard08
+sequence: 39
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -15,6 +16,11 @@ marriages:
   - spouse:
       givenName: Maria
       surname: Smith
+      birth:
+        date: "1753"
+      death:
+        date: 28 May 1839
+        place: "Yeovil, Somerset, England"
 childrenGroups:
   - children:
       - name: Mary Vining

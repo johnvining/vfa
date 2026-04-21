@@ -1,4 +1,5 @@
 id: RandallP01
+sequence: 9
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -6,6 +7,10 @@ parentId: RandallW01
 parentDesc: Randall Winfield Vining
 head:
   givenName: Randall Paul
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Corey Allen Vining
 raw: |-
   <a name="RandallP01"></a><font size=+2>Randall Paul Vining</font>
      (son of <a href="#RandallW01">Randall Winfield Vining</a>)

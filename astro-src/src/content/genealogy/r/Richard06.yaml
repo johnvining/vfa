@@ -1,4 +1,5 @@
 id: Richard06
+sequence: 45
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -9,6 +10,10 @@ marriages:
   - spouse:
       givenName: Leigh
       surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: David Vining
 raw: |-
   <a name="Richard06"></a><font size=+2>Richard Vining</font>
      (son of [?])

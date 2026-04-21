@@ -1,4 +1,5 @@
 id: RomanF01
+sequence: 137
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -12,10 +13,14 @@ head:
     place: Alabama
   death:
     date: 25 August 1945
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 marriages:
   - spouse:
       givenName: "Emily Susan &#8220;Emma&#8221;"
       surname: Thomas
+      birth:
+        date: 12 March 1885
 childrenGroups:
   - children:
       - name: Myrtle Lee Vining

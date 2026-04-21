@@ -1,4 +1,5 @@
 id: RobertL02
+sequence: 117
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -15,6 +16,16 @@ marriages:
   - spouse:
       givenName: Evelyn
       surname: Eggers
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: David Roswell Vining
+        entryId: DavidR01
+        entryLetter: D
+        birth:
+          date: 15 March 1941
+        marriages:
+          - date: Judy Norris
 raw: |-
   <a name="RobertL02"></a><font size=+2>Robert Lucius Vining</font>
      (son of <a href="#RoswellS01">Roswell S. Vining and Julia Vestina Hitchcock</a>)

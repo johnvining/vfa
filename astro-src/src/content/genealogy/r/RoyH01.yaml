@@ -1,4 +1,5 @@
 id: RoyH01
+sequence: 158
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,6 +17,13 @@ marriages:
   - spouse:
       givenName: Nancy J.
       surname: Cliff
+      parents: "(dau. of Ernest Howard Cliff and Janet [&#8230;]"
+      birth:
+        date: "age 89 y. at death"
+        place: "Montreal, Quebec"
+      death:
+        date: 10 April 2017
+        place: Pennsylvania
 childrenGroups:
   - children:
       - name: (Janet) Susan Vining

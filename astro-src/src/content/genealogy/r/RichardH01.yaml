@@ -1,4 +1,5 @@
 id: RichardH01
+sequence: 57
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -16,6 +17,21 @@ marriages:
   - spouse:
       givenName: Virginia M.
       surname: Russell
+      parents: "(dau. of Nason Russell and Mildred Boyce)"
+      birth:
+        date: 16 July 1917
+        place: "Springfield, Massachusetts"
+      death:
+        date: 26 January 2004
+        place: "Laconia, New Hampshire"
+      burial:
+        place: "Bayside Cemetery   Laconia, New Hampshire"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Shirley Vining
+        marriages:
+          - date: Kirk Cassavaugh Sr.
 raw: |-
   <a name="RichardH01"></a><font size=+2>Richard H. Vining</font>
      (son of <a href="Cfamilies.htm#CharlesH08">Charles H. Vining and Laura L. Lemkie</a>)

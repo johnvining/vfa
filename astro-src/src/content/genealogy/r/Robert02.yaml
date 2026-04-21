@@ -1,4 +1,5 @@
 id: Robert02
+sequence: 77
 letter: R
 lastUpdated: 15 January 2024
 relationship: son
@@ -18,6 +19,12 @@ marriages:
     date: Polly Waters
   - number: 2
     date: "Elizabeth [...]"
+    spouse:
+      birth:
+        date: 16 June 1814
+        place: "New York"
+      death:
+        date: 18 April 1864
 childrenGroups:
   - spouseRef: Polly Waters
     children:
