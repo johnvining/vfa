@@ -1,5 +1,6 @@
 id: Benjamin04
 letter: B
+sequence: 17
 lastUpdated: 25 February 2023
 relationship: son
 parentId: John05
@@ -12,6 +13,8 @@ head:
     place: "Durham, Androscoggin County, Maine"
   death:
     date: 12 February 1870
+  burial:
+    place: "Pond Road Cemetery   Wales, Maine"
 marriages:
   - number: 1
     date: 15 April 1819
@@ -22,10 +25,12 @@ marriages:
       birth:
         date: age 58 y. as of the 1850 census
         place: Maine
+      burial:
+        place: "Pond Road Cemetery   Wales, Maine"
   - number: 2
     date: int. 5 February 1856
     spouse:
-      givenName: Mrs. Rhoda
+      givenName: "Mrs. Rhoda"
       surname: Barnes
       birth:
         date: "age 91 y., 2 m., 27 d. at death"
@@ -33,6 +38,16 @@ marriages:
         date: 31 May 1889
       burial:
         place: "Pond Road Cemetery   Wales, Maine"
+childrenGroups:
+  - headingText: child by Hannah Merrill
+    children:
+      - name: John Vining
+        birth:
+          date: 6 April 1825
+        death:
+          date: 2 July 1826
+        burial:
+          place: "Pond Road Cemetery   Wales, Maine"
 docsUrl: Bsources/Benjamin04doc.htm
 raw: |-
   <a name="Benjamin04"></a><font size=+2>Benjamin Vining</font>

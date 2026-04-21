@@ -1,5 +1,6 @@
 id: BernardR01
 letter: B
+sequence: 44
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BertrandG01
@@ -15,6 +16,7 @@ marriages:
     spouse:
       givenName: Shirley Jane
       surname: Foote
+      parents: (dau. of Harry Foote and Edith Crosby)
       birth:
         date: 29 January 1925
         place: "Bath, Sagadahoc County, Maine"

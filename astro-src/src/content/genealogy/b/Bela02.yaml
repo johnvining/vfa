@@ -1,5 +1,6 @@
 id: Bela02
 letter: B
+sequence: 9
 lastUpdated: 25 February 2023
 relationship: son
 parentId: David01
@@ -13,12 +14,15 @@ head:
   death:
     date: "[28 or 8?] January 1860"
     place: "Weymouth, Norfolk County, Massachusetts"
+  burial:
+    place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
 marriages:
   - date: 20 March 1799
     place: "Weymouth, Norfolk County, Massachusetts"
     spouse:
       givenName: Content
       surname: Pratt
+      parents: (dau. of Benjamin Pratt and Love Lincoln)
       birth:
         date: 22 September 1776
         place: "Weymouth, Norfolk County, Massachusetts"
@@ -29,12 +33,28 @@ marriages:
         place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
 childrenGroups:
   - children:
-      - name: "Hervey Vining   bapt. 27 September 1801   Weymouth, Norfolk County, Massachusetts"
-      - name: "Eveline Lincoln Vining   bapt. 31 March 1805   Weymouth, Norfolk County, Massachusetts"
+      - name: Hervey Vining
+        birth:
+          date: "bapt. 27 September 1801"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 26 February 1803
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Eveline Lincoln Vining
+        birth:
+          date: "bapt. 31 March 1805"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: "int. 6 August 1824"
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Ezra Pratt
         death:
           date: 7 January 1868
           place: "Weymouth, Norfolk County, Massachusetts"
-      - name: "Eliza Ann Vining   bapt. 2 August 1807   Weymouth, Norfolk County, Massachusetts"
+      - name: Eliza Ann Vining
+        birth:
+          date: "bapt. 2 August 1807"
+          place: "Weymouth, Norfolk County, Massachusetts"
       - name: Maria Vining
         birth:
           date: 21 August 1807

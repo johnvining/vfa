@@ -1,8 +1,10 @@
 id: BenjaminHJr01
 letter: B
+sequence: 34
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenjaminH01
+parentLetter: B
 parentDesc: Benjamin Harrison Vining and Lucile Braswell
 head:
   givenName: Benjamin Harrison Jr.
@@ -10,6 +12,16 @@ marriages:
   - spouse:
       givenName: Patricia
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Benjamin Harrison Vining III
+        birth:
+          date: 13 December 1969
+        death:
+          date: 22 December 1969
+        burial:
+          place: "Shiloh Baptist Church Cemetery   Thomaston, Upson County, Georgia"
 docsUrl: Bsources/BenjaminHJr01doc.htm
 raw: |-
   <a name="BenjaminHJr01"></a><font size=+2>Benjamin Harrison Vining Jr.</font>

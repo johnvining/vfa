@@ -1,5 +1,6 @@
 id: BenjaminJr01
 letter: B
+sequence: 23
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Benjamin02
@@ -12,11 +13,14 @@ head:
   death:
     date: 9 September 1833
     place: "Avon, Franklin County, Maine"
+  burial:
+    place: "Pease Cemetery   Avon, Franklin County, Maine"
 marriages:
   - date: 23 March 1797
     spouse:
       givenName: "Sarah &#8220;Sally&#8221;"
       surname: Ring
+      parents: (dau. of Batchelder Ring and Sarah Harrington)
       birth:
         date: 19 September 1777
         place: "Royalsborough [now Durham], Androscoggin County, Maine"

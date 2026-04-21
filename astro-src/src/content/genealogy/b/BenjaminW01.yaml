@@ -1,5 +1,6 @@
 id: BenjaminW01
 letter: B
+sequence: 39
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenjaminF04
@@ -12,10 +13,18 @@ head:
   death:
     date: 24 May 1924
     place: "Dallas, Dallas County, Texas"
+  burial:
+    place: "Oakwood Cemetery   Waco, McLennan County, Texas"
 marriages:
   - spouse:
       givenName: Pet Katherine
       surname: Grant
+      birth:
+        date: "1884"
+      death:
+        date: "1957"
+      burial:
+        place: "Oakwood Cemetery   Waco, McLennan County, Texas"
 childrenGroups:
   - children:
       - name: Loula Ben Vining

@@ -1,5 +1,6 @@
 id: AlbertL02
 letter: A
+sequence: 30
 lastUpdated: 1 February 2021
 relationship: son
 parentId: FrankA03
@@ -33,6 +34,7 @@ childrenGroups:
         birth:
           date: 20 January 1921
           place: "Billings, Yellowstone County, Montana"
+        adoptedDate: "20 March 1922"
         marriages:
           - number: 1
             date: Marian Lucille Deyoung (d. May 1961)

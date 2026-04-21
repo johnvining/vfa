@@ -1,5 +1,6 @@
 id: Benjamin03
 letter: B
+sequence: 19
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -17,6 +18,12 @@ marriages:
         date: January 1845
         place: Louisiana
 childrenGroups:
+  - headingText: "child?"
+    children:
+      - name: Sophia Vining
+        birth:
+          date: age 24 y. as of 1870 census
+          place: Louisiana
   - children:
       - name: Mahala Vining
         birth:

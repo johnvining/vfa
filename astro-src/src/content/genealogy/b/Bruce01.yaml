@@ -1,5 +1,6 @@
 id: Bruce01
 letter: B
+sequence: 62
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Walter01
@@ -11,18 +12,23 @@ head:
     date: 5 March 1914
   death:
     date: 21 July 1991
+  burial:
+    place: "Maplewood Cemetery   Luverne, Rock County, Minnesota"
 marriages:
   - date: 6 April 1938
     place: "Sioux Falls, Minnehaha County, South Dakota"
     spouse:
       givenName: Thelma Mae
       surname: Kienast
+      parents: (dau. of Charles Kienast and Jenny Dean)
       birth:
         date: 4 September 1913
         place: "Magnolia, Rock County, Beltrami County, Minnesota"
       death:
         date: 6 November 2010
         place: "Bemidji, Beltrami County, Minnesota"
+      burial:
+        description: "inurnment Maplewood Cemetery   Luverne, Rock County, Minnesota"
 childrenGroups:
   - children:
       - name: Tanya Joy Vining

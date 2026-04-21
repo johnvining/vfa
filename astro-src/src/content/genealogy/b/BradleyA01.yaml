@@ -1,5 +1,6 @@
 id: BradleyA01
 letter: B
+sequence: 56
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnFJr01
@@ -12,12 +13,15 @@ head:
     place: "[Weymouth or Roxbury?], Massachusetts"
   death:
     date: 26 November 2019
+  burial:
+    place: "Hope Cemetery   Worcester, Worcester County, Massachusetts"
 marriages:
   - date: 7 September 1963
     place: "Worcester, Worcester County, Massachusetts"
     spouse:
       givenName: Barbara Ann
       surname: Milton
+      parents: (dau. of Arthur G. Milton and Mabel A. Brierly)
       birth:
         date: 16 March 1932
         place: "Worcester, Worcester County, Massachusetts"

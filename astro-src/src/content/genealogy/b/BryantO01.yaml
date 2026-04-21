@@ -1,5 +1,6 @@
 id: BryantO01
 letter: B
+sequence: 66
 lastUpdated: 25 February 2023
 relationship: son
 parentId: CharlesO01
@@ -13,12 +14,15 @@ head:
   death:
     date: 25 December 1971
     place: "Topeka, Shawnee County, Kansas"
+  burial:
+    place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
 marriages:
   - date: 8 August 1908
     place: "Council Grove, Morris County, Kansas"
     spouse:
       givenName: Margaret Francetta
       surname: Hinshaw
+      parents: (dau. of Alonzo Hinshaw and America Olive Bigger)
       birth:
         date: 23 March 1890
         place: "near Wilsey, Morris County, Kansas"
@@ -105,11 +109,13 @@ childrenGroups:
           place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
       - name: Stanley Arthur Vining
         birth:
-          date: Maple Park Cemetery
-          place: "Springfield, Greene County, Missouri"
+          date: 1 July 1931
+          place: "Wilsey, Morris County, Kansas"
         death:
           date: 8 February 2011
           place: "Springfield, Missouri"
+        burial:
+          place: "Maple Park Cemetery   Springfield, Greene County, Missouri"
       - name: Wilma Vivian Vining
         birth:
           date: 7 March 1933

@@ -1,5 +1,6 @@
 id: BillyC01
 letter: B
+sequence: 47
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ThomasE02
@@ -14,6 +15,7 @@ marriages:
     spouse:
       givenName: Mary Ann
       surname: Strickland
+      parents: (dau. of Charles Watkins Strickland Jr. and Mary Tyndall)
       birth:
         date: 9 September 1932
         place: "Nashville, Howard County, Arkansas"
@@ -22,6 +24,32 @@ marriages:
         place: "Little Rock, Pulaski County, Arkansas"
       burial:
         place: "Rest Haven Memorial Gardens   Arkadelphia, Clark County, Arkansas"
+childrenGroups:
+  - children:
+      - name: Charlotte Ruth Vining
+        marriages:
+          - spouse: Ricky Douglas
+      - name: Billy Coleman Vining Jr.
+        entryId: BillyCJr01
+        entryLetter: B
+        birth:
+          date: "Bufaula, Oklahoma"
+        marriages:
+          - spouse: Marsha Lackey
+      - name: Amanda Jo Vining
+        marriages:
+          - spouse: James Morgan
+      - name: Andrew Lee Vining
+        entryId: AndrewL01
+        entryLetter: A
+        marriages:
+          - spouse: Gina Morin
+      - name: Polly Ann Vining
+      - name: Molly Jan Vining
+        marriages:
+          - spouse: Steven Brent Wallace
+      - name: Lon Vining
+docsUrl: Bsources/BillyC01doc.htm
 raw: |-
   <a name="BillyC01"></a><font size=+2>Billy Coleman Vining</font>
      (son of <a href="Tfamilies.htm#ThomasE02">Thomas Ebenezer Vining and Mary Maude Edmonson</a>)

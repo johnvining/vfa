@@ -12,6 +12,9 @@ const allEntries = await getCollection('genealogy');
 const entries = allEntries
   .filter(e => e.data.letter === letter)
   .sort((a, b) => {
+    const aSeq = (a.data as any).sequence;
+    const bSeq = (b.data as any).sequence;
+    if (aSeq !== undefined && bSeq !== undefined) return aSeq - bSeq;
     const nameCompare = a.data.head.givenName.localeCompare(b.data.head.givenName);
     return nameCompare !== 0 ? nameCompare : a.data.id.localeCompare(b.data.id);
   });

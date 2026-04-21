@@ -1,5 +1,6 @@
 id: BenjaminF02
 letter: B
+sequence: 31
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Ammi01
@@ -13,10 +14,14 @@ head:
   death:
     date: 23 March 1886
     place: "Durham, Androscoggin County, Maine"
+  burial:
+    place: "Cedar Grove Cemetery   Durham, Androscoggin County, Maine"
 marriages:
-  - spouse:
-      givenName: prior to 1870
-      surname: census
+  - date: prior to 1870 census
+    spouse:
+      givenName: "Sarah Jane"
+      surname: Richards
+      parents: (dau. of Ira B. Richards and Sarah Gerrish)
       birth:
         date: 6 March 1842
         place: "Durham, Androscoggin County, Maine"

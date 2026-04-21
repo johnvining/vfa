@@ -1,5 +1,6 @@
 id: BenjaminL02
 letter: B
+sequence: 36
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Charles01
@@ -13,11 +14,14 @@ head:
   death:
     date: 28 January 1933
     place: "Lower Cincinnatus, Cortland County, New York"
+  burial:
+    place: "Cincinnatus Cemetery   Cincinnatus, Cortland County, New York"
 marriages:
   - date: 15 y. as of 1900 census
     spouse:
       givenName: Esther
       surname: Kellyhouse
+      parents: "(dau. of David Kellyhouse and Catherine [&#8230;])"
       birth:
         date: "1866"
         place: New York

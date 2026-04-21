@@ -1,5 +1,6 @@
 id: BenjaminB01
 letter: B
+sequence: 24
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenjaminJr01
@@ -17,6 +18,17 @@ marriages:
       surname: Thompson
       birth:
         date: 6 June 1801
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Lucy L. Vining
+        birth:
+          date: 12 January 1831
+        marriages:
+          - date: "[...] Shove"
+        death:
+          date: 27 July 1855
+          place: "Medway, Massachusetts"
 docsUrl: Bsources/BenjaminB01doc.htm
 raw: |-
   <a name="BenjaminB01"></a><font size=+2>Benjamin Brooks Vining</font>

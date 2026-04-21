@@ -1,5 +1,6 @@
 id: Byron01
 letter: B
+sequence: 70
 lastUpdated: 25 February 2023
 relationship: son
 parentId: GorhamP01
@@ -13,6 +14,8 @@ head:
   death:
     date: 30 January 1937
     place: "Phoenix, Maricopa County, Arizona"
+  burial:
+    place: "Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona"
 marriages:
   - date: 3 y. as of 1900 census
     spouse:

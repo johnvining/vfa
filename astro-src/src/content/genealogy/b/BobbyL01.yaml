@@ -1,5 +1,6 @@
 id: BobbyL01
 letter: B
+sequence: 55
 lastUpdated: 25 February 2023
 relationship: son
 parentId: RonaldW01
@@ -12,6 +13,7 @@ head:
     place: "Fort Fairfield, Aroostook County, Maine"
 marriages:
   - date: 15 September 1984
+    note: divorced 1997
     spouse:
       givenName: Jeannine Arlene
       surname: Greenleaf

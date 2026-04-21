@@ -47,7 +47,9 @@ const child = z.object({
   entryLetter: z.string().optional(),
   hasUnlistedChildren: z.boolean().optional(),
   birth: datePlace,
+  adoptedDate: z.string().optional(),
   marriages: z.array(childMarriage).optional(),
+  note: z.string().optional(),
   death: datePlace,
   burial,
 });
@@ -71,6 +73,7 @@ const genealogy = defineCollection({
   schema: z.object({
     id: z.string(),
     letter: z.string(),
+    sequence: z.number().optional(),
     lastUpdated: z.string().optional(),
     relationship: z.enum(['son', 'dau.', 'adopted son', 'adopted dau.']).optional(),
     parentId: z.string().optional(),
@@ -78,7 +81,10 @@ const genealogy = defineCollection({
     parentDesc: z.string().optional(),
     head: z.object({
       givenName: z.string(),
+      surname: z.string().optional(),   // override when surname is non-standard (e.g. "Vinning")
+      headingNote: z.string().optional(), // trailing annotation like [sic; ...]
       birth: datePlace,
+      adoptedDate: z.string().optional(),
       death: datePlace,
       burial,
     }),

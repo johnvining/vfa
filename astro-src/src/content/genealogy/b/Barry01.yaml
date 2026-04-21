@@ -1,12 +1,27 @@
 id: Barry01
 letter: B
+sequence: 4
 lastUpdated: 25 February 2023
+notes: "[son of [?])"
 head:
   givenName: Barry
 marriages:
   - spouse:
       givenName: Pauline
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Blair Emery Vining
+        entryId: BlairE01
+        birth:
+          date: 13 May 1980
+          place: "Morrinsville, Waikato, New Zealand"
+        marriages:
+          - date: "Melissa [&#8230;]"
+        death:
+          date: 11 October 2019
+          place: "Dunedin, New Zealand"
 raw: |-
   <a name="Barry01"></a><font size=+2>Barry Vining</font>
      [son of [?])

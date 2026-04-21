@@ -1,5 +1,6 @@
 id: BenjaminC01
 letter: B
+sequence: 26
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnJr05
@@ -13,10 +14,19 @@ head:
   death:
     date: 11 June 1927
     place: "[Toney, Madison County, Alabama?]"
+  burial:
+    place: "Shady Grove Cemetery   Toney, Madison County, Alabama"
 marriages:
   - spouse:
       givenName: Frances
       surname: Scott
+      birth:
+        date: "1862"
+        place: Tennessee
+      death:
+        date: "1939"
+      burial:
+        place: "Shady Grove Cemetery   Toney, Madison County, Alabama"
 childrenGroups:
   - children:
       - name: Leland Scott Vining

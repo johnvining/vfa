@@ -1,5 +1,6 @@
 id: Bruce02
 letter: B
+sequence: 63
 lastUpdated: 25 February 2023
 relationship: son
 parentId: GeorgeW07
@@ -11,6 +12,15 @@ marriages:
   - spouse:
       givenName: Iris Marcia
       surname: Taylor
+      parents: (dau. of Marshall Bruce Taylor and Wilda Alderman)
+      birth:
+        date: 3 December 1960
+        place: "Lowndes County, Georgia"
+      death:
+        date: 7 February 2015
+        place: "Adel, Cook County, Georgia"
+      burial:
+        place: "Woodlawn Memorial Gardens   Adel, Cook County, Georgia"
 childrenGroups:
   - children:
       - name: Carli Vining

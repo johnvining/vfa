@@ -1,5 +1,6 @@
 id: BelaA01
 letter: B
+sequence: 10
 lastUpdated: 25 February 2023
 relationship: son
 parentId: William02
@@ -13,12 +14,15 @@ head:
   death:
     date: 10 January 1911
     place: "Orchard, Mitchell County, Iowa"
+  burial:
+    place: "Osage Cemetery   Osage, Mitchell County, Iowa"
 marriages:
   - date: 17 September 1863
     place: Vermont
     spouse:
       givenName: Lucretia Ann
       surname: Lyman
+      parents: (dau. of John Scott Lyman and Emily Schoff)
       birth:
         date: 24 October 1839
         place: "Columbia, Coos County, New Hampshire"

@@ -1,5 +1,6 @@
 id: Brian01
 letter: B
+sequence: 59
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -9,6 +10,12 @@ marriages:
   - spouse:
       givenName: Jollene
       surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Jeffrey Vining
+        birth:
+          date: 15 May 1997
 raw: |-
   <a name="Brian01"></a><font size=+2>Brian Vining</font>
      (son of [?])

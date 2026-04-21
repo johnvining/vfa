@@ -1,5 +1,6 @@
 id: BenjaminF05
 letter: B
+sequence: 28
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Esther R.
       surname: "[...]"
+      birth:
+        date: age 31 y. as of 1870 census
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: William H. Vining

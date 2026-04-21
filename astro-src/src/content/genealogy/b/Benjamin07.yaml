@@ -1,5 +1,6 @@
 id: Benjamin07
 letter: B
+sequence: 13
 lastUpdated: 25 February 2023
 relationship: son
 parentId: William10
@@ -11,13 +12,26 @@ head:
     date: "1685"
   death:
     date: September 1735
+  burial:
+    description: "[bur. Christ Episcopal Church Cemetery   Dover, Kent County, Delaware ?]"
 marriages:
   - number: 1
     date: "Ann [&#8230;]"
   - number: 2
     date: Mary Middleton
+    spouse:
+      parents: "(dau. of Hugh Middleton and [&#8230;])"
+      birth:
+        date: "1705"
+        place: "&#8220;near Salem [County], New Jersey&#8221;"
+      death:
+        date: 16 December 1761
+        place: "Dover, Kent County, Delaware"
+      burial:
+        place: "Christ Episcopal Church Cemetery   Dover, Kent County, Delaware"
 childrenGroups:
   - spouseRef: Mary Middleton
+    headingText: children by Mary Middleton
     children:
       - name: John Vining
         entryId: John17
@@ -29,6 +43,8 @@ childrenGroups:
             spouse: "Rachel Ridgely;   [2?] Phoebe Wynkoop"
         death:
           date: 13 November 1770
+        burial:
+          description: "[b. Christ Episcopal Church Cemetery   Dover, Kent County, Delaware ?]"
       - name: Mary Vining
         birth:
           date: ca. 1730

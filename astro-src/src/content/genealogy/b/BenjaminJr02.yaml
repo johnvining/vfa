@@ -1,8 +1,10 @@
 id: BenjaminJr02
 letter: B
+sequence: 22
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Benjamin01
+parentLetter: B
 parentDesc: Benjamin Vining and Hannah Pratt
 head:
   givenName: Benjamin Jr.
@@ -36,6 +38,8 @@ childrenGroups:
             spouse: "Mary &#8220;Polly&#8221; Jacobs"
         death:
           date: 27 October 1818
+        burial:
+          place: "Old Town Cemetery   Rockland, Plymouth County, Massachusetts"
       - name: Chloe Vining
         birth:
           date: 4 April 1787

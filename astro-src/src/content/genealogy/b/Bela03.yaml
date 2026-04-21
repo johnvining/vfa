@@ -1,5 +1,6 @@
 id: Bela03
 letter: B
+sequence: 11
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -12,6 +13,12 @@ marriages:
   - spouse:
       givenName: Jane C.
       surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Emily J. Vining
+        birth:
+          date: age 1 y. as of 1850 census
 raw: |-
   <a name="Bela03"></a><font size=+2>Bela A. Vining</font>
      (son of [?])

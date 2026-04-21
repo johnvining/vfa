@@ -1,5 +1,6 @@
 id: Bana01
 letter: B
+sequence: 3
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Owen01
@@ -13,12 +14,15 @@ head:
   death:
     date: 24 April 1924
     place: "Brookfield, Tift County, Georgia"
+  burial:
+    place: "New River Cemetery   Tifton, Tift County, Georgia"
 marriages:
   - number: 1
     date: 19 April 1874
     spouse:
       givenName: Martha Jane
       surname: Crosby
+      parents: "(dau. of Abraham J. Crosby and [...] Weatherly)"
       birth:
         date: 10 March 1853
         place: Georgia
@@ -40,6 +44,7 @@ marriages:
         place: "New River Cemetery   Tifton, Tift County, Georgia"
 childrenGroups:
   - spouseRef: Martha Jane Crosby
+    headingText: children by Martha Jane Crosby
     children:
       - name: Agnes Vining
         birth:
@@ -90,6 +95,7 @@ childrenGroups:
         burial:
           place: "Beaver Dam Cemetery   Ray City, Berrien County, Georgia"
   - spouseRef: Frances Jane Gillis
+    headingText: children by Frances Jane Gillis
     children:
       - name: Oscar Vining
         entryId: Oscar01

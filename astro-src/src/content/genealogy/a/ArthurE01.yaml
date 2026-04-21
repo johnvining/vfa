@@ -1,5 +1,6 @@
 id: ArthurE01
 letter: A
+sequence: 87
 lastUpdated: 1 February 2021
 relationship: son
 parentId: GeorgeW04
@@ -30,6 +31,7 @@ marriages:
       death:
         date: 15 November 1969
         place: "Garner, Hancock County, Iowa"
+    note: divorced before 1930 census
 childrenGroups:
   - spouseRef: "[?]"
     headingText: "children by [?]"

@@ -1,5 +1,6 @@
 id: Bela01
 letter: B
+sequence: 8
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Benjamin02
@@ -12,11 +13,14 @@ head:
   death:
     date: 17 February 1846
     place: "Durham, Androscoggin County, Maine"
+  burial:
+    place: "Sawyer Cemetery   Durham, Androscoggin County, Maine"
 marriages:
   - date: 15 July 1790
     spouse:
       givenName: Thankful
       surname: Millbanks
+      parents: (dau. of Philip Millbanks and Lucy Dyer)
       birth:
         date: "age 92 y., 7 m. at death"
         place: "[Lewiston, Androscoggin County, Maine?]"

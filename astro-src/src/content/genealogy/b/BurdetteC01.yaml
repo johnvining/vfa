@@ -1,5 +1,6 @@
 id: BurdetteC01
 letter: B
+sequence: 68
 lastUpdated: 25 February 2023
 relationship: son
 parentId: LeonardJ01
@@ -12,10 +13,14 @@ head:
   death:
     date: "1963"
     place: "Windham, Greene County, New York"
+  burial:
+    place: "Maplecrest Cemetery   Windham, Greene County, New York"
 marriages:
   - spouse:
       givenName: Mary
       surname: Woodward
+      birth:
+        date: 19 February 1938
 childrenGroups:
   - children:
       - name: David Vining

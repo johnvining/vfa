@@ -1,5 +1,6 @@
 id: BenjaminF03
 letter: B
+sequence: 32
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnH07
@@ -13,10 +14,14 @@ head:
   death:
     date: 15 May 1974
     place: "Atlanta, Fulton County, Georgia"
+  burial:
+    place: "Westview Cemetery   Atlanta, Fulton County, Georgia"
 marriages:
-  - spouse:
-      givenName: Georgia
-      surname: Georgia
+  - place: Georgia
+    spouse:
+      givenName: Hattie Grace
+      surname: Ellerbee
+      parents: "(dau. of David Clark Ellerbee and Ophel[l?]ia Ballard)"
       birth:
         date: 24 April 1889
         place: Georgia
@@ -80,8 +85,11 @@ childrenGroups:
         burial:
           place: "Miami, Florida"
       - name: Frankie Lee Vining
+        birth:
+          date: 25 May 1924
+          place: "Atlanta, Fulton County, Georgia"
         marriages:
-          - date: Warren G. Mosley
+          - spouse: Warren G. Mosley
 docsUrl: Bsources/BenjaminF03doc.htm
 raw: |-
   <a name="BenjaminF03"></a><font size=+2>Benjamin Franklin Vining</font>

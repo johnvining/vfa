@@ -1,5 +1,6 @@
 id: BenjaminF04
 letter: B
+sequence: 30
 lastUpdated: 25 February 2023
 relationship: son
 parentId: AlbertG02
@@ -12,12 +13,15 @@ head:
     place: Georgia
   death:
     date: 26 October 1914
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
 marriages:
   - date: 28 November 1867
     place: "Rusk, Cherokee County, Texas"
     spouse:
       givenName: Lucinda Catherine
       surname: Pearson
+      parents: "(dau. of George Pearson and [&#8230;])"
       birth:
         date: 17 February 1864
         place: Texas

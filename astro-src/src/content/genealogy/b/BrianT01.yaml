@@ -1,5 +1,6 @@
 id: BrianT01
 letter: B
+sequence: 60
 lastUpdated: 25 February 2023
 relationship: son
 parentId: EarlL01
@@ -14,6 +15,10 @@ marriages:
   - spouse:
       givenName: Jodi Lynn
       surname: Hudson
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Tyler Vining
 raw: |-
   <a name="BrianT01"></a><font size=+2>Brian Todd Vining</font>
      (son of <a href="Efamilies.htm#EarlL01">Earl Lee Vining and Carol Hapner</a>)

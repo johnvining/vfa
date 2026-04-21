@@ -1,5 +1,6 @@
 id: BenjaminJ01
 letter: B
+sequence: 35
 lastUpdated: 25 February 2023
 relationship: son
 parentId: JohnE01
@@ -17,6 +18,13 @@ marriages:
     spouse:
       givenName: Erica Jean
       surname: Whitledge
+      parents: "(dau. of Bobby Whitledge and Julie [...])"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Rosalind Nicole Vining
+        birth:
+          date: 18 November 2015
 docsUrl: Bsources/BenjaminJ01doc.htm
 raw: |-
   <a name="BenjaminJ01"></a><font size=+2>Benjamin John Vining</font>

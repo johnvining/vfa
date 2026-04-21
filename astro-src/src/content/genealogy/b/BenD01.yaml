@@ -1,5 +1,6 @@
 id: BenD01
 letter: B
+sequence: 12
 lastUpdated: 25 February 2023
 relationship: son
 parentId: ShedrickW01
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Bertha Mae
       surname: Bunn
+      birth:
+        date: age 25 y. as of 1930 census
+        place: Alabama
 childrenGroups:
   - children:
       - name: Katherine Vining

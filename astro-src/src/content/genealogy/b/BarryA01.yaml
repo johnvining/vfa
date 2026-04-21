@@ -1,5 +1,6 @@
 id: BarryA01
 letter: B
+sequence: 5
 lastUpdated: 25 February 2023
 relationship: son
 parentId: MortimerJ01
@@ -29,6 +30,7 @@ marriages:
         place: "[Connecticut or Pennsylvania]"
 childrenGroups:
   - spouseRef: "Julia R. [...]"
+    headingText: "children by Julia R. [...]"
     children:
       - name: Norma E. Vining
         birth:

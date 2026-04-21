@@ -1,5 +1,6 @@
 id: ArseneE01
 letter: A
+sequence: 84
 lastUpdated: 1 February 2021
 relationship: son
 parentId: OsmynA01
@@ -10,6 +11,7 @@ head:
 marriages:
   - number: 1
     date: Jane Hanes
+    note: divorced
   - number: 2
     date: "Donna [...]"
 childrenGroups:

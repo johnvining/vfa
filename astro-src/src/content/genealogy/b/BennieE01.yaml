@@ -1,5 +1,6 @@
 id: BennieE01
 letter: B
+sequence: 40
 lastUpdated: 25 February 2023
 relationship: son
 parentId: BenD01
@@ -11,6 +12,8 @@ head:
     place: Alabama
   death:
     date: 19 May 2013
+  burial:
+    place: "Cedar Hill Cemetery   Bessemer, Jefferson County, Alabama"
 marriages:
   - spouse:
       givenName: Elizabeth

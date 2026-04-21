@@ -1,5 +1,6 @@
 id: BronsonE01
 letter: B
+sequence: 61
 lastUpdated: 25 February 2023
 relationship: son
 parentId: RoyE02
@@ -13,10 +14,15 @@ head:
   death:
     date: 17 July 1977
     place: "Bowling Green, Wood County, Ohio"
+  burial:
+    place: "Ottawa Hills Cemetery   Toledo, Lucas County, Ohio"
 marriages:
   - spouse:
       givenName: Margaret C.
       surname: Walsh
+      birth:
+        date: age 26 y. as of 1930 census
+        place: Michigan
 childrenGroups:
   - children:
       - name: Jacqueline Vining

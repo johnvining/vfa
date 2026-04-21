@@ -1,5 +1,6 @@
 id: Benjamin02
 letter: B
+sequence: 15
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Thomas01
@@ -20,6 +21,10 @@ marriages:
     spouse:
       givenName: Mehitabel
       surname: Brooks
+      parents: (dau. of Taylor Brooks and Meriam Curtis)
+      birth:
+        date: "chr. 22 February 1740/41"
+        place: "Scituate, Plymouth, Massachusetts"
       death:
         date: 9 April 1774
         place: "Durham, Androscoggin County, Maine"
@@ -35,6 +40,7 @@ marriages:
       surname: Davis
 childrenGroups:
   - spouseRef: Mehitabel Brooks
+    headingText: children by Mehitabel Brooks
     children:
       - name: John Vining
         entryId: John05
@@ -89,6 +95,7 @@ childrenGroups:
         death:
           date: 3 May 1774
   - spouseRef: Lydia Turner
+    headingText: children by Lydia Turner
     children:
       - name: Mehitabel Vining
         birth:
