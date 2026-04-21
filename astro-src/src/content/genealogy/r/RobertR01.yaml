@@ -1,0 +1,43 @@
+id: RobertR01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: MikeL01
+parentLetter: M
+parentDesc: Mike Lee Vining and Stella Dixie Oldham
+head:
+  givenName: Robert Randall
+  birth:
+    date: 28 August 1936
+    place: "Oak Grove, Louisiana"
+  death:
+    date: 28 February 2010
+    place: "Houston, Texas"
+marriages:
+  - spouse:
+      givenName: Karen
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Bryan Vining
+      - name: Tammy Vining
+        marriages:
+          - date: Bill Shaw
+      - name: Randy Vining
+        marriages:
+          - date: "Kelly [&#8230;]"
+docsUrl: Rsources/RobertR01doc.htm
+raw: |-
+  <a name="RobertR01"></a><font size=+2>Robert Randall Vining</font>
+     (son of <a href="Mfamilies.htm#MikeL01">Mike Lee Vining and Stella Dixie Oldham</a>)
+     b. 28 August 1936   Oak Grove, Louisiana
+     m. Karen [&#8230;]
+     d. 28 February 2010   Houston, Texas
+           bur. Forest Corner Cemetery
+  
+  <font size=+1>children:</font>
+     Bryan Vining
+     Tammy Vining   m. Bill Shaw
+     Randy Vining   m. Kelly [&#8230;]
+  
+  <a href="Rsources/RobertR01doc.htm">documentation and notes</a>

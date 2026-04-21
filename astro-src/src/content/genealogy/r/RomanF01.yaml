@@ -1,0 +1,80 @@
+id: RomanF01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ShadrackJ01
+parentLetter: S
+parentDesc: Shadrack Joshua Vining and Nancy Margrete Oglesby
+head:
+  givenName: Roman Franklin
+  birth:
+    date: 19 February 1882
+    place: Alabama
+  death:
+    date: 25 August 1945
+marriages:
+  - spouse:
+      givenName: "Emily Susan &#8220;Emma&#8221;"
+      surname: Thomas
+childrenGroups:
+  - children:
+      - name: Myrtle Lee Vining
+        birth:
+          date: 14 August 1905
+          place: Alabama
+        marriages:
+          - date: G. Dewey Brantley
+      - name: Ola Mae Vining
+        birth:
+          date: 11 August 1908
+          place: Alabama
+      - name: Roman Lester Vining
+        entryId: RomanL01
+        birth:
+          date: 17 September 1910
+          place: Alabama
+        marriages:
+          - number: 1
+            date: Nancy Lou Tidmore
+          - number: 2
+            date: Margaret Kemp
+        death:
+          date: 24 July 1995
+          place: "(last residence: Albuquerque, New Mexico)"
+      - name: Vera Roberta Vining
+        birth:
+          date: 25 August 1913
+        marriages:
+          - number: 1
+            date: Lee Roberson
+          - number: 2
+            date: Jesse Whitlock
+      - name: Walter Rupert Vining
+        entryId: WalterR02
+        entryLetter: W
+        birth:
+          date: 16 August 1921
+          place: Alabama
+        marriages:
+          - date: Mary Elizabeth Daniel
+        death:
+          date: 26 December 1974
+          place: "Green Pond Presbyterian Church Cemetery   Green Pond, Alabama"
+docsUrl: Rsources/RomanF01doc.htm
+raw: |-
+  <a name="RomanF01"></a><font size=+2>Roman Franklin Vining</font>
+     (son of <a href="Sfamilies.htm#ShadrackJ01">Shadrack Joshua Vining and Nancy Margrete Oglesby</a>)
+     b. 19 February 1882   Alabama
+     m. Emily Susan &#8220;Emma&#8221; Thomas
+              b. 12 March 1885
+     d. 25 August 1945
+           bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+  
+  <font size=+1>children:</font>
+     Myrtle Lee Vining   b. 14 August 1905   Alabama   -   m. G. Dewey Brantley
+     Ola Mae Vining   b. 11 August 1908   Alabama
+     <a href="#RomanL01">Roman Lester Vining</a>   b. 17 September 1910   Alabama   -   m. (1) Nancy Lou Tidmore;   (2) Margaret Kemp   -   d. 24 July 1995   (last residence: Albuquerque, New Mexico)
+     Vera Roberta Vining   b. 25 August 1913   -   m. (1) Lee Roberson;   (2) Jesse Whitlock
+     <a href="Wfamilies.htm#WalterR02">Walter Rupert Vining</a>   b. 16 August 1921   Alabama   -   m. Mary Elizabeth Daniel   -   d. 26 December 1974   Green Pond Presbyterian Church Cemetery   Green Pond, Alabama
+  
+  <a href="Rsources/RomanF01doc.htm">documentation and notes</a>

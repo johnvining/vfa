@@ -1,0 +1,150 @@
+id: Robert02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: DavidJr02
+parentLetter: D
+parentDesc: David Vining Jr. and Hannah Husted
+head:
+  givenName: Robert
+  birth:
+    date: 21 February 1806
+    place: "Cairo, New York"
+  death:
+    date: 7 March 1861
+    place: "Hensonville, New York"
+marriages:
+  - number: 1
+    date: Polly Waters
+  - number: 2
+    date: "Elizabeth [...]"
+childrenGroups:
+  - spouseRef: Polly Waters
+    children:
+      - name: Richard Vining
+        entryId: Richard03
+        birth:
+          date: "[28 or 21?] August 1828"
+          place: "Cairo, New York"
+        marriages:
+          - date: 20 March 1858
+            place: "Woodbine, Iowa"
+            spouse: Emily Jane Winter
+        death:
+          date: 19 May 1918
+          place: "Woodbine, Iowa"
+      - name: Rachel Vining
+        birth:
+          date: age 21 y. as of 1850 census
+          place: New York
+        marriages:
+          - date: James Walker
+      - name: Lewis Vining
+        entryId: Lewis01
+        entryLetter: L
+        birth:
+          date: 21 September 1831
+          place: New York
+        marriages:
+          - date: 20 November 1858
+            spouse: Adaline Orinda Winter
+        death:
+          date: 24 August 1877
+      - name: Albert Bela Vining
+        entryId: AlbertB01
+        entryLetter: A
+        birth:
+          date: 6 February 1833
+          place: New York
+        marriages:
+          - date: 14 June 1857
+            spouse: Harriet Finch
+        death:
+          date: 16 May 1903
+          place: "Woodbine, Iowa"
+        burial:
+          place: "Woodbine Cemetery   Woodbine, Iowa"
+      - name: David B. Vining
+        entryId: DavidB03
+        entryLetter: D
+        birth:
+          date: 3 May 1840
+          place: New York
+        marriages:
+          - date: Lucy Gordon
+        death:
+          date: 5 March 1915
+          place: "Windham, New York"
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+  - spouseRef: "Elizabeth [...]"
+    children:
+      - name: Sarah Vining
+        birth:
+          date: 30 November 1841
+        death:
+          date: 15 March 1844
+        burial:
+          place: Hensonville Cemetery   New York
+      - name: Charles Vining
+        entryId: Charles02
+        entryLetter: C
+        birth:
+          date: 20 December 1844
+          place: New York
+        marriages:
+          - date: Lucy A. Hoover
+        death:
+          date: 26 April 1921
+      - name: Stephen T. Vining
+        entryId: StephenT01
+        entryLetter: S
+        birth:
+          date: 20 September 1846
+          place: New York
+        marriages:
+          - date: Jennie Showers
+        death:
+          date: 11 February 1913
+      - name: Winfield Scott Vining
+        entryId: WinfieldS01
+        entryLetter: W
+        birth:
+          date: 14 August 1849
+          place: New York
+        marriages:
+          - date: Estelle Miles
+        death:
+          date: 21 January 1911
+      - name: Leonard Vining
+        birth:
+          date: 8 May 1854
+          place: New York
+        death:
+          date: 16 May 1871
+          place: "Hensonville, New York"
+docsUrl: Rsources/Robert02doc.htm
+raw: |-
+  <a name="Robert02"></a><font size=+2>Robert Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJr02">David Vining Jr. and Hannah Husted</a>)
+     b. 21 February 1806   Cairo, New York
+     m. (1) Polly Waters
+           (2) Elizabeth [...]
+                    b. 16 June 1814   New York
+                    d. 18 April 1864
+     d. 7 March 1861   Hensonville, New York
+  
+  <font size=+1>children by Polly Waters:</font>
+     <a href="#Richard03">Richard Vining</a>   b. [28 or 21?] August 1828   Cairo, New York   -   m. 20 March 1858   Woodbine, Iowa   Emily Jane Winter   -   d. 19 May 1918   Woodbine, Iowa
+     Rachel Vining   b. age 21 y. as of 1850 census   New York   -   m. James Walker
+     <a href="Lfamilies.htm#Lewis01">Lewis Vining</a>   b. 21 September 1831   New York   -   m. 20 November 1858   Adaline Orinda Winter   -   d. 24 August 1877
+     <a href="Afamilies.htm#AlbertB01">Albert Bela Vining</a>   b. 6 February 1833   New York   -   m. 14 June 1857   Harriet Finch   -   d. 16 May 1903   Woodbine, Iowa   -   bur. Woodbine Cemetery   Woodbine, Iowa
+     <a href="Dfamilies.htm#DavidB03">David B. Vining</a>   b. 3 May 1840   New York   -   m. Lucy Gordon   -   d. 5 March 1915   Windham, New York   -   bur. Maplecrest Cemetery   Windham, New York
+  <font size=+1>children by Elizabeth [...]:</font>
+     Sarah Vining   b. 30 November 1841   -   d. 15 March 1844   -   bur. Hensonville Cemetery   New York
+     <a href="Cfamilies.htm#Charles02">Charles Vining</a>   b. 20 December 1844   New York   -   m. Lucy A. Hoover   -   d. 26 April 1921
+     <a href="Sfamilies.htm#StephenT01">Stephen T. Vining</a>   b. 20 September 1846   New York   -   m. Jennie Showers   -   d. 11 February 1913
+     <a href="Wfamilies.htm#WinfieldS01">Winfield Scott Vining</a>   b. 14 August 1849   New York   -   m. Estelle Miles   -   d. 21 January 1911
+     Leonard Vining   b. 8 May 1854   New York   -   d. 16 May 1871   Hensonville, New York   
+  
+  <a href="Rsources/Robert02doc.htm">documentation and notes</a>

@@ -1,0 +1,103 @@
+id: RecordsW01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Ebenezer01
+parentLetter: E
+parentDesc: Ebenezer Vining and Abigail Eason
+head:
+  givenName: Records Wilber
+  birth:
+    date: 14 May 1786
+    place: Massachusetts
+  death:
+    date: age 80 y. at death
+    place: Indiana
+marriages:
+  - spouse:
+      givenName: Lydia
+      surname: Williams
+childrenGroups:
+  - children:
+      - name: "Jared Wilbur &#8220;Jerry&#8221; Vining"
+        entryId: JaredW01
+        entryLetter: J
+        birth:
+          date: 2 July 1806
+          place: "Brookfield, New York"
+        marriages:
+          - date: 11 November 1827
+            place: "Bryant Hill, New York"
+            spouse: Ursula Manla Bryant
+        death:
+          date: "Oshtemo, Michigan"
+      - name: Ebenezer Vining
+        entryId: Ebenezer02
+        entryLetter: E
+        birth:
+          date: 17 April 1809
+          place: "Brookfield, New York"
+        marriages:
+          - date: 3 May 1835
+            spouse: Julia Gray
+        death:
+          date: 21 May 1886
+          place: "East Townsend Township, Ohio"
+      - name: Lydia Vining
+        birth:
+          date: age 38 y. as of 1850 census
+        marriages:
+          - date: Ansel D. Bryant
+        death:
+          date: Ohio
+      - name: Sarah W. Vining
+        birth:
+          date: November 1814
+          place: "Sweden, New York"
+        marriages:
+          - date: Chester D. Jackson
+        death:
+          date: 30 January 1900
+          place: "Berlinville, Ohio"
+      - name: Mary E. Vining
+        birth:
+          date: 29 May 1817
+          place: "Sweden, New York"
+        marriages:
+          - date: 30 October 1838
+            place: "Townsend, Ohio"
+            spouse: Hiram Cook
+        death:
+          date: 11 July 1894
+          place: "Boulder, Montana"
+      - name: Abigail Vining
+        birth:
+          date: age 26 y. as of 1850 census
+        marriages:
+          - date: "Townsend Township, Ohio"
+            spouse: Edmund Waldron
+      - name: Adela Vining
+        birth:
+          date: age 24 y. as of 1850 census
+        marriages:
+          - date: 5 October 1848
+            spouse: Milo Cook
+docsUrl: Rsources/RecordsW01doc.htm
+raw: |-
+  <a name="RecordsW01"></a><font size=+2>Records Wilber Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer01">Ebenezer Vining and Abigail Eason</a>)
+     b. 14 May 1786   Massachusetts
+     m. Lydia Williams
+              d. Berlin, Ohio
+     d. age 80 y. at death   Indiana
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JaredW01">Jared Wilbur &#8220;Jerry&#8221; Vining</a>   b. 2 July 1806   Brookfield, New York   -   m. 11 November 1827   Bryant Hill, New York   Ursula Manla Bryant   -   d. Oshtemo, Michigan
+     <a href="Efamilies.htm#Ebenezer02">Ebenezer Vining</a>   b. 17 April 1809   Brookfield, New York   -   m. 3 May 1835   Julia Gray   -   d. 21 May 1886   East Townsend Township, Ohio
+     Lydia Vining   b. age 38 y. as of 1850 census   -   m. Ansel D. Bryant   -   d. Ohio
+     Sarah W. Vining   b. November 1814   Sweden, New York   -   m. Chester D. Jackson   -   d. 30 January 1900   Berlinville, Ohio
+     Mary E. Vining   b. 29 May 1817   Sweden, New York   -   m. 30 October 1838   Townsend, Ohio   Hiram Cook   -   d. 11 July 1894   Boulder, Montana
+     Abigail Vining   b. age 26 y. as of 1850 census   -   m. Townsend Township, Ohio   Edmund Waldron
+     Adela Vining   b. age 24 y. as of 1850 census   -   m. 5 October 1848   Milo Cook
+  
+  <a href="Rsources/RecordsW01doc.htm">documentation and notes</a>

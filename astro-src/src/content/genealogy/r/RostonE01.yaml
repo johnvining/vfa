@@ -1,0 +1,49 @@
+id: RostonE01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FloydR01
+parentLetter: F
+parentDesc: Floyd R. Vining and Pearlie Mae Brooks
+head:
+  givenName: Roston Elmer
+  birth:
+    date: 23 October 1940
+    place: "Athens, Alabama"
+  death:
+    date: 27 September 2014
+    place: "Ardmore, Alabama"
+marriages:
+  - spouse:
+      givenName: "[&#8230;]"
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Mickey Vining
+        marriages:
+          - date: Amanda Bailey
+      - name: Scott Vining
+        marriages:
+          - date: Buffie Taylor
+      - name: Cyrena Vining
+        marriages:
+          - date: James Hodges
+      - name: Priscilla Vining
+        marriages:
+          - date: "[&#8230;] Boyles"
+docsUrl: Rsources/RostonE01doc.htm
+raw: |-
+  <a name="RostonE01"></a><font size=+2>Roston Elmer Vining</font>
+     (son of <a href="Ffamilies.htm#FloydR01">Floyd R. Vining and Pearlie Mae Brooks</a>)
+     b. 23 October 1940   Athens, Alabama
+     m. [&#8230;]
+     d. 27 September 2014   Ardmore, Alabama
+           bur. Reunion Cemetery   Thach, Alabama
+  
+  <font size=+1>children:</font>
+     Mickey Vining   m. Amanda Bailey
+     Scott Vining   m. Buffie Taylor
+     Cyrena Vining   m. James Hodges
+     Priscilla Vining   m. [&#8230;] Boyles
+  
+  <a href="Rsources/RostonE01doc.htm">documentation and notes</a>

@@ -1,0 +1,61 @@
+id: RoyalA01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JaredW01
+parentLetter: J
+parentDesc: "Jared Wilbur &#8220;Jerry&#8221; Vining and Ursula Manla Bryant"
+head:
+  givenName: Royal Albert
+  birth:
+    date: 15 April 1841
+    place: "Ellicottville, New York"
+  death:
+    date: "1927"
+marriages:
+  - date: 25 December 1866
+    spouse:
+      givenName: Mary
+      surname: Wetmore
+      birth:
+        date: March 1849
+        place: New York
+      death:
+        date: "1927"
+childrenGroups:
+  - children:
+      - name: James Manley Vining
+        entryId: JamesM01
+        entryLetter: J
+        birth:
+          date: 17 March 1869
+          place: Michigan
+        marriages:
+          - date: Rose E. Stevens
+        death:
+          date: 28 February 1928
+        burial:
+          place: "Lakeview Cemetery   Lakeview, Michigan"
+      - name: Ida Mabel Vining
+        birth:
+          date: 3 April 1879
+          place: Michigan
+        marriages:
+          - date: Vernon Wilson
+docsUrl: Rsources/RoyalA01doc.htm
+raw: |-
+  <a name="RoyalA01"></a><font size=+2>Royal Albert Vining</font>
+     (son of  <a href="Jfamilies.htm#JaredW01">Jared Wilbur &#8220;Jerry&#8221; Vining and Ursula Manla Bryant</a>)
+     b. 15 April 1841   Ellicottville, New York
+     m. 25 December 1866
+           Mary Wetmore
+                 b. March 1849   New York
+                 d. 1927
+     d. 1927
+           bur. Lakeview Cemetery   Lakeview, Michigan
+  
+  <font size=+1>children:</font> [see note below]
+     <a href="Jfamilies.htm#JamesM01">James Manley Vining</a>   b. 17 March 1869   Michigan   -   m. Rose E. Stevens   -   d. 28 February 1928   -   bur. Lakeview Cemetery   Lakeview, Michigan
+     Ida Mabel Vining   b. 3 April 1879   Michigan   -   m. Vernon Wilson
+  
+  <a href="Rsources/RoyalA01doc.htm">documentation and notes</a>

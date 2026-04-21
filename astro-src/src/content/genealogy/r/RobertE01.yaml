@@ -1,0 +1,47 @@
+id: RobertE01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WilliamA01
+parentLetter: W
+parentDesc: William Albert Vining and Charlotte Olivia Burley
+head:
+  givenName: Robert Earl
+  birth:
+    date: 5 November 1903
+    place: "Binghamton, New York"
+  death:
+    date: 5 November 1903
+    place: "(last residence: Binghamton, New York)"
+marriages:
+  - spouse:
+      givenName: Erma Eloise
+      surname: Merrill
+childrenGroups:
+  - children:
+      - name: Gedney Lee Vining
+        birth:
+          date: 23 December 1933
+      - name: Durland Walter Vining
+        entryId: DurlandW01
+        entryLetter: D
+        birth:
+          date: 19 December 1937
+        marriages:
+          - date: Janice Miles
+      - name: Elaine Claudia Vining
+        birth:
+          date: 20 July 1947
+        marriages:
+          - date: Dale V. Salice
+raw: |-
+  <a name="RobertE01"></a><font size=+2>Robert Earl Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamA01">William Albert Vining and Charlotte Olivia Burley</a>)
+     b. 5 November 1903   Binghamton, New York
+     m. Erma Eloise Merrill
+     d. 5 November 1903   (last residence: Binghamton, New York)
+  
+  <font size=+1>children:</font>
+     Gedney Lee Vining   b. 23 December 1933
+     <a href="Dfamilies.htm#DurlandW01">Durland Walter Vining</a>   b. 19 December 1937   -   m. Janice Miles
+     Elaine Claudia Vining   b. 20 July 1947   -   m. Dale V. Salice

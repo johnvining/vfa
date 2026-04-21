@@ -1,0 +1,39 @@
+id: RichardWJr01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RichardW03
+parentDesc: Richard Worthington Vining and Dorothy Higgins
+head:
+  givenName: Richard Worthington Jr.
+  birth:
+    date: 28 August 1949
+    place: "Bridgeport, Fairfield County, Connecticut"
+  death:
+    date: 27 May 2012
+    place: "Oxford, New Haven County, Connecticut"
+marriages:
+  - spouse:
+      givenName: "[#?] Patty"
+      surname: Curtiss
+childrenGroups:
+  - children:
+      - name: Michelle Vining
+        marriages:
+          - date: John Christopher
+      - name: Richard Worthington Vining III
+      - name: Matthew B. Vining
+docsUrl: Rsources/RichardWJr01doc.htm
+raw: |-
+  <a name="RichardWJr01"></a><font size=+2>Richard Worthington Vining Jr.</font>
+     (son of <a href="#RichardW03">Richard Worthington Vining and Dorothy Higgins</a>)
+     b. 28 August 1949   Bridgeport, Fairfield County, Connecticut
+     m. [#?] Patty Curtiss
+     d. 27 May 2012   Oxford, New Haven County, Connecticut
+  
+  <font size=+1>children:</font>
+     Michelle Vining   m. John Christopher
+     Richard Worthington Vining III
+     Matthew B. Vining
+  
+  <a href="Rsources/RichardWJr01doc.htm">documentation and notes</a>

@@ -1,0 +1,86 @@
+id: Rufus02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesT01
+parentLetter: J
+parentDesc: James Thomas Vining and Philena Durfey
+head:
+  givenName: Rufus
+  birth:
+    date: 13 June 1840
+    place: Ohio
+  death:
+    date: 7 August 1921
+marriages:
+  - date: 3 July 1863
+    place: "Delaware, Ohio"
+    spouse:
+      givenName: Julia
+      surname: Gentleman
+      birth:
+        date: "age 55 y., 11 m., 4 d. at death"
+      death:
+        date: 9 May 1895
+childrenGroups:
+  - children:
+      - name: Sarah Vining
+        birth:
+          date: 27 September 1864
+          place: Ohio
+        marriages:
+          - date: "Bald Eagle, Minnesota"
+            spouse: Edward Stiegleder
+      - name: James Vining
+        birth:
+          date: 15 October 1866
+          place: Ohio
+        death:
+          date: "11 July 1925[?]"
+          place: "St. Paul, Minnesota"
+      - name: Roxana Vining
+        birth:
+          date: "[November 1869 or 25 June 1868?]"
+          place: Ohio
+        death:
+          date: age 6 m. at death
+      - name: Frank J. Vining
+        entryId: FrankJ01
+        entryLetter: F
+        birth:
+          date: 27 June 1871
+          place: Ohio
+        marriages:
+          - date: 16 y. as of 1910 census
+            spouse: Anna May Haas
+        death:
+          date: 7 April 1929
+        burial:
+          place: "St. Mary Cemetery   Delaware, Ohio"
+      - name: Julia C. Vining
+        birth:
+          date: 16 August 1875
+        marriages:
+          - date: 26 November 1896
+            place: "St. Paul, Minnesota"
+            spouse: Lewis Borneman
+docsUrl: Rsources/Rufus02doc.htm
+raw: |-
+  <a name="Rufus02"></a><font size=+2>Rufus Vining</font>
+     (son of <a href="Jfamilies.htm#JamesT01">James Thomas Vining and Philena Durfey</a>)
+     b. 13 June 1840   Ohio
+     m. 3 July 1863   Delaware, Ohio
+           Julia Gentleman
+                 b. age 55 y., 11 m., 4 d. at death
+                 d. 9 May 1895
+     d. 7 August 1921
+           bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <font size=+1>children:</font>
+     Sarah Vining   b. 27 September 1864   Ohio   -   m. Bald Eagle, Minnesota   Edward Stiegleder
+     James Vining   b. 15 October 1866   Ohio   -   d. 11 July 1925[?]   St. Paul, Minnesota
+     Roxana Vining   b. [November 1869 or 25 June 1868?]   Ohio   -   d. age 6 m. at death
+     <a href="Ffamilies.htm#FrankJ01">Frank J. Vining</a>   b. 27 June 1871   Ohio   -   m. 16 y. as of 1910 census   Anna May Haas   -   d. 7 April 1929   -   bur. St. Mary Cemetery   Delaware, Ohio
+     Julia C. Vining   b. 16 August 1875   -   m. 26 November 1896   St. Paul, Minnesota   Lewis Borneman
+  
+  <a href="Rsources/Rufus02doc.htm">documentation and notes</a>

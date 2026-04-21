@@ -1,0 +1,35 @@
+id: Ronald02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RalphS01
+parentDesc: Ralph Spellman Vining and Lura Baker
+head:
+  givenName: Ronald
+  birth:
+    date: 6 October 1935
+marriages:
+  - spouse:
+      givenName: Betty
+      surname: Bayliss
+childrenGroups:
+  - children:
+      - name: Cynthia Vining
+        birth:
+          date: 24 April 1962
+      - name: Pamela Vining
+        birth:
+          date: 19 April 1964
+      - name: Kathy Vining
+        birth:
+          date: 25 June 1970
+raw: |-
+  <a name="Ronald02"></a><font size=+2>Ronald Vining</font>
+     (son of <a href="#RalphS01">Ralph Spellman Vining and Lura Baker</a>)
+     b. 6 October 1935
+     m. Betty Bayliss
+  
+  <font size=+1>children:</font>
+     Cynthia Vining   b. 24 April 1962
+     Pamela Vining   b. 19 April 1964
+     Kathy Vining   b. 25 June 1970

@@ -1,0 +1,61 @@
+id: RickyM01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RonaldW01
+parentDesc: Ronald Winston Vining and Joyce Clementine Schmieks
+head:
+  givenName: Ricky Michael
+  birth:
+    date: 13 June 1959
+    place: "Limestone, Aroostook County, Maine"
+marriages:
+  - number: 1
+    date: 7 July 1979
+    spouse:
+      givenName: "Naomi [Chamberlain or"
+      surname: "Huff?]"
+  - number: 2
+    date: 21 June 1985
+    spouse:
+      givenName: Susan
+      surname: Jandreau
+  - number: 3
+    date: 7 August 1994
+    spouse:
+      givenName: "Lisa Marie [Trepanier or"
+      surname: "Mercier?]"
+childrenGroups:
+  - spouseRef: Susan Jandreau
+    children:
+      - name: Katie Marie Vining
+        birth:
+          date: 21 December 1985
+      - name: Kelly Jean Vining
+        birth:
+          date: 8 December 1986
+      - name: Ricky Michael Vining Jr.
+        birth:
+          date: 26 January 1987
+      - name: Rusty Vining
+        birth:
+          date: 29 July 1988
+raw: |-
+  <a name="RickyM01"></a><font size=+2>Ricky Michael Vining</font>
+     (son of <a href="#RonaldW01">Ronald Winston Vining and Joyce Clementine Schmieks</a>)
+     b. 13 June 1959   Limestone, Aroostook County, Maine
+     m. (1) 7 July 1979
+                 Naomi [Chamberlain or Huff?]
+                 divorced 1984
+           (2) 21 June 1985
+                 Susan Jandreau
+                 divorced 1993
+           (3) 7 August 1994
+                 Lisa Marie [Trepanier or Mercier?]
+                 divorced 20 February 2006
+  
+  <font size=+1>children by Susan Jandreau:</font>
+     Katie Marie Vining   b. 21 December 1985
+     Kelly Jean Vining   b. 8 December 1986
+     Ricky Michael Vining Jr.   b. 26 January 1987
+     Rusty Vining   b. 29 July 1988

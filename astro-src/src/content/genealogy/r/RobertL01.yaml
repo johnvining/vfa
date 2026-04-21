@@ -1,0 +1,51 @@
+id: RobertL01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: MarcusR01
+parentLetter: M
+parentDesc: Marcus Richard Vining and Elizabeth Maguire
+head:
+  givenName: Robert Latham
+  birth:
+    date: 9 June 1861
+    place: "Cummington, Massachusetts"
+  death:
+    date: "1936"
+marriages:
+  - spouse:
+      givenName: Cora Sybil
+      surname: Beals
+childrenGroups:
+  - children:
+      - name: Russell Conwell Vining
+        entryId: RussellC01
+        birth:
+          date: 21 June 1904
+          place: "Cummington, Massachusetts"
+        marriages:
+          - date: Cuba
+            spouse: "Mercedes [...]"
+      - name: Theron Marcus Vining
+        entryId: TheronM01
+        entryLetter: T
+        birth:
+          date: 28 July 1914
+          place: "Adams, Massachusetts"
+        marriages:
+          - date: 21 February 1949
+docsUrl: Rsources/RobertL01doc.htm
+raw: |-
+  <a name="RobertL01"></a><font size=+2>Robert Latham Vining</font>
+     (son of <a href="Mfamilies.htm#MarcusR01">Marcus Richard Vining and Elizabeth Maguire</a>)
+     b. 9 June 1861   Cummington, Massachusetts
+     m. Cora Sybil Beals
+     d. 1936
+           bur. West Cummington Cemetery   West Cummington, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#RussellC01">Russell Conwell Vining</a>   b. 21 June 1904   Cummington, Massachusetts   -   m. Cuba   Mercedes [...]
+     <a href="Tfamilies.htm#TheronM01">Theron Marcus Vining</a>   b. 28 July 1914   Adams, Massachusetts   -   m. 21 February 1949   
+  rdstown, Maryland   Rita Mary Kirby   -   d. 6 October 1989  Gainesville, Florida   -   bur. Gainesville, Florida
+  
+  <a href="Rsources/RobertL01doc.htm">documentation and notes</a>

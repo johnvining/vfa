@@ -1,0 +1,47 @@
+id: RomanL01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RomanF01
+parentDesc: "Roman Franklin Vining and Emily Susan &#8220;Emma&#8221; Thomas"
+head:
+  givenName: Roman Lester
+  birth:
+    date: 17 September 1910
+    place: Alabama
+  death:
+    date: 24 July 1995
+    place: "(last residence: Albuquerque, New Mexico)"
+marriages:
+  - number: 1
+    date: Nancy Lou Tidmore
+  - number: 2
+    date: Margaret Kemp
+childrenGroups:
+  - spouseRef: Nancy Lou Tidmore
+    children:
+      - name: Doris Louise Vining
+        birth:
+          date: 12 July 1934
+          place: Alabama
+      - name: Margaret Ruth Vining
+        birth:
+          date: 19 September 1936
+          place: Alabama
+      - name: Lynn Vining
+        birth:
+          date: 2 July 1953
+          place: "Knox, Tennessee"
+raw: |-
+  <a name="RomanL01"></a><font size=+2>Roman Lester Vining</font>
+     (son of <a href="#RomanF01">Roman Franklin Vining and Emily Susan &#8220;Emma&#8221; Thomas</a>)
+     b. 17 September 1910   Alabama
+     m. (1) Nancy Lou Tidmore
+           (2) Margaret Kemp
+     d. 24 July 1995   (last residence: Albuquerque, New Mexico)
+  
+  <font size=+1>children by Nancy Lou Tidmore:</font>
+     Doris Louise Vining   b. 12 July 1934   Alabama
+     Margaret Ruth Vining   b. 19 September 1936   Alabama
+  <font size=+1>child by Margaret Kemp:</font>
+     Lynn Vining   b. 2 July 1953   Knox, Tennessee

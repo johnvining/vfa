@@ -1,0 +1,94 @@
+id: RonaldH01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RonaldT01
+parentDesc: Ronald Theodore Benjamin Vining and Theresa Marie Siebenaler
+head:
+  givenName: Ronald Harold
+  birth:
+    date: 18 August 1925
+    place: "Pacific Grove, Monterey County, California"
+  death:
+    date: 4 June 2017
+    place: "Pacific Grove, Monterey County, California"
+marriages:
+  - date: 21 February 1947
+    spouse:
+      givenName: Selma Jennie
+      surname: Baker
+      birth:
+        date: 9 March 1925
+        place: "San Francisco, California"
+      death:
+        date: 12 February 2015
+childrenGroups:
+  - children:
+      - name: Richard Ronald Vining
+        entryId: RichardR01
+        birth:
+          date: 2 December 1947
+          place: "Carmel, California"
+        marriages:
+          - date: "Karen [...]"
+        death:
+          date: September 1982
+      - name: David Vining
+        marriages:
+          - date: "Misa [...]"
+      - name: Robert Vining
+      - name: Walter Vining
+        marriages:
+          - date: "Mitzi [...]"
+      - name: Dorothy Lorraine Vining
+        birth:
+          date: 11 April 1953
+          place: "Carmel-by-the-Sea, California"
+        death:
+          date: 16 November 1990
+          place: "Los Angeles County, California"
+        burial:
+          place: "El Carmelo Cemetery   Pacific Grove, Monterey County, California"
+      - name: Bonnie Vining
+        marriages:
+          - date: Steve Jacobsen
+      - name: Heidi Vining
+        marriages:
+          - date: Craig Snyder
+      - name: Sharon Louise Vining
+        birth:
+          date: 7 May 1950
+        marriages:
+          - date: "[...] Pashin"
+        death:
+          date: 29 January 2013
+          place: California
+      - name: Christine Vining
+        marriages:
+          - date: "[1?] [...] Glasby;"
+            spouse: "[2?] Bruce Stebbins"
+docsUrl: Rsources/RonaldH01doc.htm
+raw: |-
+  <a name="RonaldH01"></a><font size=+2>Ronald Harold Vining</font>
+     (son of <a href="#RonaldT01">Ronald Theodore Benjamin Vining and Theresa Marie Siebenaler</a>)
+     b. 18 August 1925   Pacific Grove, Monterey County, California
+     m. 21 February 1947
+           Selma Jennie Baker
+                 (dau. of Leon Baker and Tillie [...])
+                 b. 9 March 1925   San Francisco, California
+                 d. 12 February 2015
+     d. 4 June 2017   Pacific Grove, Monterey County, California
+           bur. El Carmelo Cemetery   Pacific Grove, Monterey County, California
+  
+  <font size=+1>children:</font>
+     <a href="#RichardR01">Richard Ronald Vining</a>   b. 2 December 1947   Carmel, California   -   m. Karen [...]   -   d. September 1982
+     David Vining   m. Misa [...]
+     Robert Vining
+     Walter Vining   m. Mitzi [...]
+     Dorothy Lorraine Vining   b. 11 April 1953   Carmel-by-the-Sea, California   -   d. 16 November 1990   Los Angeles County, California   -   bur. El Carmelo Cemetery   Pacific Grove, Monterey County, California
+     Bonnie Vining   m. Steve Jacobsen
+     Heidi Vining   m. Craig Snyder
+     Sharon Louise Vining   b. 7 May 1950   -   m. [...] Pashin   -   d. 29 January 2013   California
+     Christine Vining   m. [1?] [...] Glasby;   [2?] Bruce Stebbins
+  
+  <a href="Rsources/RonaldH01doc.htm">documentation and notes</a>

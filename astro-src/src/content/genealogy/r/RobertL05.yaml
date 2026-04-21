@@ -1,0 +1,42 @@
+id: RobertL05
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertS01
+parentDesc: Robert Shorter Vining and Leona Leonard
+head:
+  givenName: Robert Luke
+  birth:
+    date: 5 September 1909
+  death:
+    date: 16 October 1990
+marriages:
+  - date: 2 April 1931
+    place: "Clarke County, Georgia"
+    spouse:
+      givenName: Kate Lynn
+      surname: Jefferson
+      birth:
+        date: 19 July 1913
+        place: "Cobb County, Georgia"
+      death:
+        date: 24 May 1991
+      burial:
+        place: "Chatsworth Heights Cemetery   Chatsworth, Georgia"
+docsUrl: Rsources/RobertL05doc.htm
+raw: |-
+  <a name="RobertL05"></a><font size=+2>Robert Luke Vining</font>
+     (son of <a href="#RobertS01">Robert Shorter Vining and Leona Leonard</a>)
+     b. 5 September 1909
+     m. 2 April 1931   Clarke County, Georgia
+           Kate Lynn Jefferson
+                 b. 19 July 1913   Cobb County, Georgia
+                 d. 24 May 1991
+                       bur. Chatsworth Heights Cemetery   Chatsworth, Georgia
+     d. 16 October 1990
+           bur. Chatsworth Heights Cemetery   Chatsworth, Georgia
+  
+  <font size=+1>child:</font>
+     <a href="#RobertLJr02">Robert L. Vining Jr.</a>   b. 30 March 1931   -   m. Martha Sue Cate
+  
+  <a href="Rsources/RobertL05doc.htm">documentation and notes</a>

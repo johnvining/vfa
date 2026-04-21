@@ -1,0 +1,42 @@
+id: Robert08
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesS01
+parentLetter: J
+parentDesc: James Sylvester Vining and Glessie Marie Richardson
+head:
+  givenName: Robert
+  birth:
+    date: 21 April 1941
+    place: "Coffeyville, Kansas"
+  death:
+    date: 3 March 2015
+    place: "Bella Vista, Arkansas"
+marriages:
+  - spouse:
+      givenName: Naomi Ilene
+      surname: Flesher
+childrenGroups:
+  - children:
+      - name: Eric Vining
+        marriages:
+          - date: "Shandra [...]"
+      - name: Robin Vining
+        marriages:
+          - date: "[...] Tinsley"
+raw: |-
+  <a name="Robert08"></a><font size=+2>Robert Vining</font>
+     (son of <a href="Jfamilies.htm#JamesS01">James Sylvester Vining and Glessie Marie Richardson</a>)
+     b. 21 April 1941   Coffeyville, Kansas
+     m. Naomi Ilene Flesher
+              (dau. of Walter Flesher and Lucille Starkey)
+              b. 2 December 1944   Hutchinson, Kansas
+              d. 9 May 2014   Fayetteville, Arkansas
+                    bur. Bluff Cemetery   Springdale, Arkansas
+     d. 3 March 2015   Bella Vista, Arkansas
+           bur. Bluff Cemetery   Springdale, Arkansas
+  
+  <font size=+1>children:</font>
+     Eric Vining   m. Shandra [...]
+     Robin Vining   m. [...] Tinsley

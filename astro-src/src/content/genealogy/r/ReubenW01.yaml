@@ -1,0 +1,90 @@
+id: ReubenW01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Charles10
+parentLetter: C
+parentDesc: Charles Vining and Mary Taylor
+head:
+  givenName: Reuben William
+  birth:
+    date: 24 June 1822
+    place: "London, England"
+  death:
+    date: 23 April 1901
+    place: "Georgetown, Williamson County, Texas"
+marriages:
+  - spouse:
+      givenName: Mary Elizabeth
+      surname: Bowes
+childrenGroups:
+  - children:
+      - name: Olivia Annie Vining
+        birth:
+          date: May 1850
+          place: "London, England"
+        marriages:
+          - number: 1
+            date: "[...] Reed"
+          - number: 2
+            date: "1872"
+            place: "New Orleans, Louisiana"
+            spouse: Benjamin Andrews Sr.
+        death:
+          date: 5 January 1911
+          place: "Philadelphia, Pennsylvania"
+        burial:
+          place: "Metairie Cemetery   New Orleans, Louisiana"
+      - name: "Mary &#8220;Mollie&#8221; Vining"
+        birth:
+          date: 4 November 1855
+          place: "Brooklyn, New York"
+        marriages:
+          - date: "1876"
+            place: "Georgetown, Texas"
+            spouse: Armistead Stone Fisher
+      - name: "Eliabeth Louise &#8220;Lizzie&#8221; Vining"
+        birth:
+          date: 4 November 1855
+          place: "Brooklyn, New York"
+        marriages:
+          - date: "Georgetown, Texas"
+            spouse: Thomas Walker
+        burial:
+          place: "Georgetown, Texas"
+      - name: William Lincoln Vining
+        entryId: WilliamL03
+        entryLetter: W
+        birth:
+          date: 20 August 1863
+          place: Louisiana
+        marriages:
+          - date: Lula Worth Morgan
+        death:
+          date: 27 November 1929
+          place: "Austin, Travis County, Texas"
+      - name: Nelly Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Louisiana
+docsUrl: Rsources/ReubenW01doc.htm
+raw: |-
+  <a name="ReubenW01"></a><font size=+2>Reuben William Vining</font>
+     (son of <a href="Cfamilies.htm#Charles10">Charles Vining and Mary Taylor</a>)
+     b. 24 June 1822   London, England
+     m. Mary Elizabeth Bowes
+              (dau. of [Edward?] Bowes and Mary Ann James)
+              b. 21 July 1824   [Usk or Llanover?], Monmouthshire, Wales
+              d. 13 May 1896   Georgetown, Williamson County, Texas
+                    bur. Odd Fellows Cemetery   Georgetown, Texas
+     d. 23 April 1901   Georgetown, Williamson County, Texas
+           bur. Odd Fellows Cemetery   Georgetown, Williamson County, Texas
+  
+  <font size=+1>children:</font>
+     Olivia Annie Vining   b. May 1850   London, England   -   m. (1) [...] Reed;   (2) 1872   New Orleans, Louisiana   Benjamin Andrews Sr.   -   d. 5 January 1911   Philadelphia, Pennsylvania   -   bur. Metairie Cemetery   New Orleans, Louisiana
+     Mary &#8220;Mollie&#8221; Vining   b. 4 November 1855   Brooklyn, New York   -   m. 1876   Georgetown, Texas   Armistead Stone Fisher
+     Eliabeth Louise &#8220;Lizzie&#8221; Vining   b. 4 November 1855   Brooklyn, New York   -   m. Georgetown, Texas   Thomas Walker   -   bur. Georgetown, Texas
+     <a href="Wfamilies.htm#WilliamL03">William Lincoln Vining</a>   b. 20 August 1863   Louisiana   -   m. Lula Worth Morgan   -   d. 27 November 1929   Austin, Travis County, Texas
+     Nelly Vining   b. age 3 y. as of 1870 census   Louisiana
+  
+  <a href="Rsources/ReubenW01doc.htm">documentation and notes</a>

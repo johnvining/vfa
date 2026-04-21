@@ -1,0 +1,78 @@
+id: RobertW05
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Robert W.
+  birth:
+    date: "age [51?] y. as of 1920 census"
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: "Mary [G.?]"
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Fred D. Vining
+        birth:
+          date: age 25 y. as of 1920 census
+          place: Alabama
+      - name: Caudie Vining
+        birth:
+          date: age 22 y. as of 1920 census
+          place: Alabama
+      - name: Elmer Vining
+        entryId: Elmer03
+        entryLetter: E
+        birth:
+          date: age 20 y. as of 1920 census
+          place: Alabama
+        marriages:
+          - date: "Anna L. [&#8230;]"
+      - name: Lillian Vining
+        birth:
+          date: age 18 y. as of 1920 census
+          place: Alabama
+      - name: Napoleon B. Vining
+        entryId: NapoleonB01
+        entryLetter: N
+        birth:
+          date: age 16 y. as of 1920 census
+          place: Alabama
+        marriages:
+          - date: "Carrie [&#8230;]"
+        death:
+          date: 3 September 1950
+        burial:
+          place: "Rosehill Cemetery   Gastonia, North Carolina"
+      - name: Nathaniel Vining
+        entryId: Nathaniel01
+        entryLetter: N
+        birth:
+          date: age 14 y. as of 1920 census
+          place: Alabama
+        marriages:
+          - date: Lucille Taylor
+      - name: "B[&#8230;] Vining"
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Alabama
+docsUrl: Rsources/RobertW05doc.htm
+raw: |-
+  <a name="RobertW05"></a><font size=+2>Robert W. Vining</font>
+     (son of [?])
+     b. age [51?] y. as of 1920 census   Alabama
+     m. Mary [G.?] [&#8230;]
+              b. age [49?] y. as of 1920 census   Alabama
+  
+  <font size=+1>children:</font>
+     Fred D. Vining   b. age 25 y. as of 1920 census   Alabama
+     Caudie Vining   b. age 22 y. as of 1920 census   Alabama
+     <a href="Efamilies.htm#Elmer03">Elmer Vining</a>   b. age 20 y. as of 1920 census   Alabama   -   m. Anna L. [&#8230;]
+     Lillian Vining   b. age 18 y. as of 1920 census   Alabama
+     <a href="Nfamilies.htm#NapoleonB01">Napoleon B. Vining</a>   b. age 16 y. as of 1920 census   Alabama   -   m. Carrie [&#8230;]   -   d. 3 September 1950   -   bur. Rosehill Cemetery   Gastonia, North Carolina
+     <a href="Nfamilies.htm#Nathaniel01">Nathaniel Vining</a>   b. age 14 y. as of 1920 census   Alabama   -   m. Lucille Taylor
+     B[&#8230;] Vining   b. age 8 y. as of 1920 census   Alabama
+  
+  <a href="Rsources/RobertW05doc.htm">documentation and notes</a>

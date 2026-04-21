@@ -1,0 +1,49 @@
+id: RB01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: R. B.
+  birth:
+    date: age 27 y. as of 1850 census
+    place: Georgia
+childrenGroups:
+  - children:
+      - name: "[L?]enia Vining"
+        birth:
+          date: age 16 y. as of 1860 census
+          place: Georgia
+      - name: Frances E. Vining
+        birth:
+          date: age 15 y. as of 1860 census
+          place: Georgia
+      - name: "[?]iety Vining"
+        birth:
+          date: 21 January 1849
+          place: Georgia
+        marriages:
+          - date: Jabez Jackson Nichols
+        death:
+          date: 28 December 1870
+          place: Georgia
+        burial:
+          place: "Crawford County, Georgia"
+      - name: George B. Vining
+        birth:
+          date: age 20 y. as of 1860 census
+          place: Georgia
+docsUrl: Rsources/RB01doc.htm
+raw: |-
+  <a name="RB01"></a><font size=+2>R. B. Vining</font>
+     (son of [?])
+     b. age 27 y. as of 1850 census   Georgia
+  
+  <font size=+1>children:</font>
+     [L?]enia Vining   b. age 16 y. as of 1860 census   Georgia
+     Frances E. Vining   b. age 15 y. as of 1860 census   Georgia
+     [?]iety Vining   b. 21 January 1849   Georgia   -   m. Jabez Jackson Nichols   -   d. 28 December 1870   Georgia   -   bur. Crawford County, Georgia
+  <font size=+1>child?:</font>
+     George B. Vining   b. age 20 y. as of 1860 census   Georgia
+  
+  <a href="Rsources/RB01doc.htm">documentation and notes</a>

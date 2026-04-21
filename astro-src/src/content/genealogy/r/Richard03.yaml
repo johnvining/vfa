@@ -1,0 +1,106 @@
+id: Richard03
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Robert02
+parentDesc: Robert Vining and Polly Waters
+head:
+  givenName: Richard
+  birth:
+    date: 21 August 1828
+    place: "Cairo, New York"
+  death:
+    date: 19 May 1918
+    place: "Woodbine, Iowa"
+marriages:
+  - date: 20 March 1858
+    place: "Woodbine, Iowa"
+    spouse:
+      givenName: Emily Jane
+      surname: Winter
+      birth:
+        date: 3 April 1841
+        place: "Hensonville, New York"
+      death:
+        date: 12 October 1933
+        place: "Woodbine, Iowa"
+      burial:
+        place: "Woodbine Cemetery   Woodbine, Iowa"
+childrenGroups:
+  - children:
+      - name: Marshall M. Vining
+        entryId: MarshallM01
+        entryLetter: M
+        birth:
+          date: 2 October 1859
+          place: Iowa
+        marriages:
+          - date: 18 February 1885
+            place: Iowa
+            spouse: Addie Swearingen
+        death:
+          date: 9 December 1933
+          place: "Woodbine, Iowa"
+      - name: Emet James Vining
+        entryId: EmetJ01
+        entryLetter: E
+        birth:
+          date: 18 January 1862
+          place: Iowa
+        marriages:
+          - number: 1
+            date: "[...] (d. before 1900 census)"
+          - number: 2
+            date: 12 March 1902
+            spouse: Mary Cecilia Mayer
+        death:
+          date: 29 July 1941
+      - name: Herbert L. Vining
+        entryId: HerbertL01
+        entryLetter: H
+        birth:
+          date: May 1866
+          place: Iowa
+        marriages:
+          - date: "1890"
+            spouse: Mary Anderson
+        death:
+          date: 26 August 1927
+          place: "Los Angeles, California"
+        burial:
+          place: "Evergreen Cemetery   Los Angeles, California"
+      - name: "[Willis or William?] H. Vining"
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Iowa
+      - name: Ida M. Vining
+        birth:
+          date: March 1870
+          place: Iowa
+        marriages:
+          - date: James Otis Shinn
+        death:
+          date: 13 February 1959
+          place: "Onawa, Iowa"
+docsUrl: Rsources/Richard03doc.htm
+raw: |-
+  <a name="Richard03"></a><font size=+2>Richard Vining</font>
+     (son of <a href="#Robert02">Robert Vining and Polly Waters</a>)
+     b. 21 August 1828   Cairo, New York
+     m. 20 March 1858   Woodbine, Iowa
+           Emily Jane Winter
+                 (dau. of Matthew Winter and Harriet Ford)
+                 b. 3 April 1841   Hensonville, New York
+                 d. 12 October 1933   Woodbine, Iowa
+                       bur. Woodbine Cemetery   Woodbine, Iowa
+     d. 19 May 1918   Woodbine, Iowa
+           bur. Woodbine Cemetery   Woodbine, Iowa
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MarshallM01">Marshall M. Vining</a>   b. 2 October 1859   Iowa   -   m. 18 February 1885   Iowa   Addie Swearingen   -   d. 9 December 1933   Woodbine, Iowa
+     <a href="Efamilies.htm#EmetJ01">Emet James Vining</a>   b. 18 January 1862   Iowa   -   m. (1) [...] (d. before 1900 census);   (2) 12 March 1902   Mary Cecilia Mayer   -   d. 29 July 1941
+     <a href="Hfamilies.htm#HerbertL01">Herbert L. Vining</a>   b. May 1866   Iowa   -   m. 1890   Mary Anderson   -   d. 26 August 1927   Los Angeles, California   -   bur. Evergreen Cemetery   Los Angeles, California
+     [Willis or William?] H. Vining   b. age 1 y. as of 1870 census   Iowa
+     Ida M. Vining   b. March 1870   Iowa   -   m. James Otis Shinn   -   d. 13 February 1959   Onawa, Iowa
+  
+  <a href="Rsources/Richard03doc.htm">documentation and notes</a>

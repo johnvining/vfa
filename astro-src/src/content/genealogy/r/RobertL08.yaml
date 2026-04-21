@@ -1,0 +1,40 @@
+id: RobertL08
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: CharlesH02
+parentLetter: C
+parentDesc: Charles Herman Vining and Mary Ellen Blume
+head:
+  givenName: Robert Leonard
+  birth:
+    date: "1919"
+  death:
+    date: "1985"
+marriages:
+  - spouse:
+      givenName: "Clisher &#8220;Tiny&#8221;"
+      surname: Hutto
+childrenGroups:
+  - children:
+      - name: Betty Vining
+        marriages:
+          - date: Raymond Campbell
+      - name: Donald E. Vining
+        entryId: DonaldE02
+        entryLetter: D
+        birth:
+          date: 22 August 1944
+          place: "Columbia, South Carolina"
+        death:
+          date: 17 April 2014
+raw: |-
+  <a name="RobertL08"></a><font size=+2>Robert Leonard Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesH02">Charles Herman Vining and Mary Ellen Blume</a>)
+     b. 1919
+     m. Clisher &#8220;Tiny&#8221; Hutto
+     d. 1985
+  
+  <font size=+1>children:</font>
+     Betty Vining   m. Raymond Campbell
+     <a href="Dfamilies.htm#DonaldE02">Donald E. Vining</a>   b. 22 August 1944   Columbia, South Carolina   -   d. 17 April 2014

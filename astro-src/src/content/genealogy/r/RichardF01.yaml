@@ -1,0 +1,59 @@
+id: RichardF01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: HomerT01
+parentLetter: H
+parentDesc: Homer Thadd Vining and Neva Dale McGregor
+head:
+  givenName: Richard Franklin
+  birth:
+    date: 6 March 1933
+    place: "Star City, Arkansas"
+  death:
+    date: 27 July 2011
+    place: "Falling Waters, West Virginia"
+marriages:
+  - spouse:
+      givenName: Gwendolyn
+      surname: Markley
+childrenGroups:
+  - children:
+      - name: Richard Franklin Vining Jr.
+        entryId: RichardFJr01
+        birth:
+          date: 17 August 1959
+          place: "Los Angeles, California"
+        marriages:
+          - date: "Cynthia Yvonne [...]"
+        death:
+          date: 9 May 2008
+          place: "Fredericksburg, Virginia"
+        burial:
+          place: "Rose Hill Cemetery   Clear Spring, Maryland"
+      - name: Gregory Vining
+      - name: Kimberly Ann Vining
+        marriages:
+          - date: William Edgar Bishop
+      - name: Michelle Vining
+      - name: Diana Vining
+      - name: Tana Vining
+        marriages:
+          - date: "[...] Barnes"
+docsUrl: Rsources/RichardF01doc.htm
+raw: |-
+  <a name="RichardF01"></a><font size=+2>Richard Franklin Vining</font>
+     (son of <a href="Hfamilies.htm#HomerT01">Homer Thadd Vining and Neva Dale McGregor</a>)
+     b. 6 March 1933   Star City, Arkansas
+     m. Gwendolyn Markley
+     d. 27 July 2011   Falling Waters, West Virginia
+  
+  <font size=+1>children:</font>
+     <a href="#RichardFJr01">Richard Franklin Vining Jr.</a>   b. 17 August 1959   Los Angeles, California   -   m. Cynthia Yvonne [...]   -   d. 9 May 2008   Fredericksburg, Virginia   -   bur. Rose Hill Cemetery   Clear Spring, Maryland
+     Gregory Vining
+     Kimberly Ann Vining   m. William Edgar Bishop
+     Michelle Vining
+     Diana Vining
+     Tana Vining   m. [...] Barnes
+  
+  <a href="Rsources/RichardF01doc.htm">documentation and notes</a>

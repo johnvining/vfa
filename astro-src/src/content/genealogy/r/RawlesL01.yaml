@@ -1,0 +1,44 @@
+id: RawlesL01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: HughD01
+parentLetter: H
+parentDesc: Hugh Dorsey Vining and Frances Graddy
+head:
+  givenName: Rawles Leroy
+  birth:
+    date: "1935"
+  death:
+    date: 4 August 2007
+marriages:
+  - spouse:
+      givenName: June
+      surname: Evans
+childrenGroups:
+  - children:
+      - name: Rhonda Vining
+        marriages:
+          - date: Clifford Buffington
+      - name: Rodney Vining
+        marriages:
+          - date: "Bo [&#8230;]"
+      - name: Renita Vining
+        marriages:
+          - date: Mike Anthony
+      - name: Rusty Vining
+        marriages:
+          - date: "Janice [&#8230;]"
+raw: |-
+  <a name="RawlesL01"></a><font size=+2>Rawles Leroy Vining</font>
+     (son of <a href="Hfamilies.htm#HughD01">Hugh Dorsey Vining and Frances Graddy</a>)
+     b. 1935
+     m. June Evans
+     d. 4 August 2007
+           bur. Griffin Memorial Gardens   Griffin, Georgia
+  
+  <font size=+1>children:</font>
+     Rhonda Vining   m. Clifford Buffington
+     Rodney Vining   m. Bo [&#8230;]
+     Renita Vining   m. Mike Anthony
+     Rusty Vining   m. Janice [&#8230;]

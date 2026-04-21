@@ -1,0 +1,53 @@
+id: RodneyB01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: QuentinD01
+parentLetter: Q
+parentDesc: "Quentin Delmont Vining and Frances [Aletha or Althea?] Lakin"
+head:
+  givenName: Rodney Bertrand
+  birth:
+    date: 25 March 1948
+    place: "Farmington, Franklin County, Maine"
+  death:
+    date: 28 February 2007
+    place: "Wilton, Franklin County, Maine"
+marriages:
+  - date: 7 January 1967
+    place: "Wilton, Franklin County, Maine"
+    spouse:
+      givenName: Meredith Elaine
+      surname: Sprague
+      birth:
+        date: 15 July 1949
+childrenGroups:
+  - children:
+      - name: Cynthia Helen Vining
+        birth:
+          date: 16 May 1967
+        marriages:
+          - date: 13 September 1992
+            spouse: Shane Allen Kaherl
+      - name: Timothy D. Vining
+        marriages:
+          - date: 18 May 1996
+            spouse: Bobbi-Jo Turcotte
+      - name: Cathy Vining
+docsUrl: Rsources/RodneyB01doc.htm
+raw: |-
+  <a name="RodneyB01"></a><font size=+2>Rodney Bertrand Vining</font>
+     (son of <a href="Qfamilies.htm#QuentinD01">Quentin Delmont Vining and Frances [Aletha or Althea?] Lakin</a>)
+     b. 25 March 1948   Farmington, Franklin County, Maine
+     m. 7 January 1967   Wilton, Franklin County, Maine
+           Meredith Elaine Sprague
+                 (dau. of Carroll Sprague and Delia [...])
+                 b. 15 July 1949
+     d. 28 February 2007   Wilton, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Cynthia Helen Vining   b. 16 May 1967   -   m. 13 September 1992   Shane Allen Kaherl
+     Timothy D. Vining   m. 18 May 1996   Bobbi-Jo Turcotte
+     Cathy Vining
+  
+  <a href="Rsources/RodneyB01doc.htm">documentation and notes</a>

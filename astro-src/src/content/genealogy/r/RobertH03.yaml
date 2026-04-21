@@ -1,0 +1,100 @@
+id: RobertH03
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesC02
+parentLetter: J
+parentDesc: James C. Vining and Abigail Willoughby
+head:
+  givenName: Robert Henry
+  birth:
+    date: 7 June 1848
+    place: "Tioga County, Pennsylvania"
+  death:
+    date: 12 October 1888
+    place: "Clyde, Clyde County, Kansas"
+marriages:
+  - date: 1 January 1869
+    place: "Elk Creek Township, Republic County, Kansas"
+    spouse:
+      givenName: Martha Jane
+      surname: Oliver
+      birth:
+        date: October 1847
+        place: "Washington County, Ohio"
+      death:
+        date: 3 July 1933
+        place: "Russell, Russell County, Kansas"
+      burial:
+        place: "Russell City Cemetery   Russell, Kansas"
+childrenGroups:
+  - children:
+      - name: Herman Vining
+        birth:
+          date: "1865"
+          place: Illinois
+      - name: Effie Adelaide Vining
+        birth:
+          date: 27 October 1869
+          place: "[Clyde, Cloud County or Russell ?], Kansas"
+        marriages:
+          - date: William W. Nutting
+        death:
+          date: 26 February 1957
+          place: "Russell, Russell County, Kansas"
+        burial:
+          place: "Russell City Cemetery   Russell, Russell County, Kansas"
+      - name: Edward B. Vining
+        birth:
+          date: 15 October 1871
+          place: Kansas
+        death:
+          date: 26 November 1897
+          place: "Clyde, Cloud County, Kansas"
+        burial:
+          place: "Russell Cemetery   Russell, Russell County, Kansas"
+      - name: Essie G. Vining
+        birth:
+          date: 12 August 1874
+          place: Kansas
+        death:
+          date: 22 January 1880
+          place: "Clyde, Cloud County, Kansas"
+        burial:
+          place: "Mount Hope Cemetery   Clyde, Cloud County, Kansas"
+      - name: Ernest Delong Vining
+        entryId: ErnestD02
+        entryLetter: E
+        birth:
+          date: 21 February 1882
+          place: "Clyde, Cloud Counnty, Kansas"
+        marriages:
+          - number: 1
+            date: Lydia Clyde Alexander
+          - number: 2
+            date: Elizabeth Bella Cavazos
+        death:
+          date: 30 January 1966
+          place: "McAllen, Hidalgo County, Texas"
+docsUrl: Rsources/RobertH03doc.htm
+raw: |-
+  <a name="RobertH03"></a><font size=+2>Robert Henry Vining</font>
+     (son of <a href="Jfamilies.htm#JamesC02">James C. Vining and Abigail Willoughby</a>)
+     b. 7 June 1848   Tioga County, Pennsylvania
+     m. 1 January 1869   Elk Creek Township, Republic County, Kansas
+           Martha Jane Oliver
+                 (dau. of William Oliver and Nancy Alexander)
+                 b. October 1847   Washington County, Ohio
+                 d. 3 July 1933   Russell, Russell County, Kansas
+                       bur. Russell City Cemetery   Russell, Kansas
+     d. 12 October 1888   Clyde, Clyde County, Kansas
+           bur. Mount Hope Cemetery   Clyde, Kansas
+  
+  <font size=+1>children:</font>
+     Herman Vining   b. 1865   Illinois
+     Effie Adelaide Vining   b. 27 October 1869   [Clyde, Cloud County or Russell ?], Kansas   -   m. William W. Nutting   -   d. 26 February 1957   Russell, Russell County, Kansas   -   bur. Russell City Cemetery   Russell, Russell County, Kansas
+     Edward B. Vining   b. 15 October 1871   Kansas   -   d. 26 November 1897   Clyde, Cloud County, Kansas   -   bur. Russell Cemetery   Russell, Russell County, Kansas
+     Essie G. Vining   b. 12 August 1874   Kansas   -   d. 22 January 1880   Clyde, Cloud County, Kansas   -   bur. Mount Hope Cemetery   Clyde, Cloud County, Kansas
+     <a href="Efamilies.htm#ErnestD02">Ernest Delong Vining</a>   b. 21 February 1882   Clyde, Cloud Counnty, Kansas   -   m. (1) Lydia Clyde Alexander;   (2) Elizabeth Bella Cavazos   -   d. 30 January 1966   McAllen, Hidalgo County, Texas
+  
+  <a href="Rsources/RobertH03doc.htm">documentation and notes</a>

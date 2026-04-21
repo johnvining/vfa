@@ -1,0 +1,32 @@
+id: Ronald03
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WilliamM03
+parentLetter: W
+parentDesc: William Minor Vininng and Florence Velda Wonnacott
+head:
+  givenName: Ronald
+  birth:
+    date: 19 October 1920
+  death:
+    date: February 1990
+childrenGroups:
+  - children:
+      - name: Ronald Vining Jr.
+      - name: Judy Vining
+        marriages:
+          - date: Larry Stead
+      - name: Robert Vining
+        marriages:
+          - date: Shirley Newton
+raw: |-
+  <a name="Ronald03"></a><font size=+2>Ronald Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamM03">William Minor Vininng and Florence Velda Wonnacott</a>)
+     b. 19 October 1920
+     d. February 1990
+  
+  <font size=+1>children:</font>
+     Ronald Vining Jr.
+     Judy Vining   m. Larry Stead
+     Robert Vining   m. Shirley Newton

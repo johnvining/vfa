@@ -1,0 +1,32 @@
+id: RobertW04
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WarrenR01
+parentLetter: W
+parentDesc: Warren Richard Vining and Patsy Stanfill
+head:
+  givenName: Robert Warren
+  birth:
+    date: 12 August 1958
+marriages:
+  - spouse:
+      givenName: Lisa
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Jonathan Robert Vining
+        birth:
+          date: 13 July 1988
+      - name: Courtney Carol Vining
+        birth:
+          date: 25 April 1990
+raw: |-
+  <a name="RobertW04"></a><font size=+2>Robert Warren Vining</font>
+     (son of <a href="Wfamilies.htm#WarrenR01">Warren Richard Vining and Patsy Stanfill</a>)
+     b. 12 August 1958
+     m. Lisa [...]
+  
+  <font size=+1>children:</font>
+     Jonathan Robert Vining   b. 13 July 1988
+     Courtney Carol Vining   b. 25 April 1990

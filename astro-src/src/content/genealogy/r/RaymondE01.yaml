@@ -1,0 +1,61 @@
+id: RaymondE01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WinfieldS01
+parentLetter: W
+parentDesc: Winfield Scott Vining and Estelle Miles
+head:
+  givenName: Raymond E.
+  birth:
+    date: 2 November 1879
+    place: New York
+  death:
+    date: "1963"
+marriages:
+  - number: 1
+    date: Mabel Crandell
+  - number: 2
+    date: "Jennie [&#8230;]"
+childrenGroups:
+  - spouseRef: Mabel Crandell
+    children:
+      - name: Dorotha Estelle Vining
+        birth:
+          date: 15 November 1905
+        marriages:
+          - date: Walter Charles Baker
+      - name: Edythe Mae Vining
+        birth:
+          date: 5 March 1907
+        marriages:
+          - date: Harold Dietz
+      - name: Madelyne M. Vining
+        birth:
+          date: 21 June 1908
+        marriages:
+          - date: Thayer Shook
+        death:
+          date: 15 March 1965
+docsUrl: Rsources/RaymondE01doc.htm
+raw: |-
+  <a name="RaymondE01"></a><font size=+2>Raymond E. Vining</font>
+     (son of <a href="Wfamilies.htm#WinfieldS01">Winfield Scott Vining and Estelle Miles</a>)
+     b. 2 November 1879   New York
+     m. (1) Mabel Crandell
+                    b. 1885
+                    d. [26 May?] 1916
+                          bur. Windham Cemetery   Windham, New York
+           (2) Jennie [&#8230;]
+                    b. 1891
+                    d. 1952
+                          bur. Windham Cemetery   Windham, New York
+     d. 1963
+           bur. Windham Cemetery   Windham, New York
+  
+  <font size=+1>children by Mabel Crandell:</font>
+     Dorotha Estelle Vining   b. 15 November 1905   -   m. Walter Charles Baker
+     Edythe Mae Vining   b. 5 March 1907   -   m. Harold Dietz
+     Madelyne M. Vining   b. 21 June 1908   -   m. Thayer Shook   -   d. 15 March 1965
+  
+  <a href="Rsources/RaymondE01doc.htm">documentation and notes</a>

@@ -1,0 +1,23 @@
+id: Robert10
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: CharlesE05
+parentLetter: C
+parentDesc: Charles Eugene Vining and Alma Rose Downing
+head:
+  givenName: Robert
+childrenGroups:
+  - children:
+      - name: Tiffani Vining
+        marriages:
+          - date: "[&#8230;] Bartel"
+      - name: Ryan Vining
+        entryId: Ryan02
+raw: |-
+  <a name="Robert10"></a><font size=+2>Robert Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesE05">Charles Eugene Vining and Alma Rose Downing</a>)
+  
+  <font size=+1>children:</font>
+     Tiffani Vining   m. [&#8230;] Bartel
+     <a href="#Ryan02">Ryan Vining</a>

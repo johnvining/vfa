@@ -1,0 +1,61 @@
+id: RoscoeW01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WilliamHJr01
+parentLetter: W
+parentDesc: William Henry Vining Jr. and Jane Susanna Hart
+head:
+  givenName: Roscoe William
+  birth:
+    date: 7 April 1873
+    place: Connecticut
+  death:
+    date: 4 December 1936
+    place: "Narberth, Pennsylvania"
+marriages:
+  - date: 3 y. as of 1900 census
+    spouse:
+      givenName: Addie
+      surname: Sanders
+      birth:
+        date: June 1877
+        place: New York
+      death:
+        date: "1966"
+      burial:
+        place: "West Laurel Hill Cemetery   Bala Cynwyd, Pennsylvania"
+childrenGroups:
+  - children:
+      - name: Eunice S. Vining
+        birth:
+          date: December 1897
+          place: New York
+        marriages:
+          - date: Henry A. Frye
+      - name: Helena A. Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Pennsylvania
+        marriages:
+          - date: "Haddam, Connecticut"
+            spouse: Henry D. Spear
+docsUrl: Rsources/RoscoeW01doc.htm
+raw: |-
+  <a name="RoscoeW01"></a><font size=+2>Roscoe William Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamHJr01">William Henry Vining Jr. and Jane Susanna Hart</a>)
+     b. 7 April 1873   Connecticut
+     m. 3 y. as of 1900 census
+           Addie Sanders
+                 (dau. of [&#8230;] Sanders and Elizabeth [&#8230;])
+                 b. June 1877   New York
+                 d. 1966
+                       bur. West Laurel Hill Cemetery   Bala Cynwyd, Pennsylvania
+     d. 4 December 1936   Narberth, Pennsylvania
+           bur. West Laurel Hill Cemetery   Bala Cynwyd, Pennsylvania
+  
+  <font size=+1>children:</font>
+     Eunice S. Vining   b. December 1897   New York   -   m. Henry A. Frye
+     Helena A. Vining   b. age 3 y. as of 1910 census   Pennsylvania   -   m. Haddam, Connecticut   Henry D. Spear
+  
+  <a href="Rsources/RoscoeW01doc.htm">documentation and notes</a>

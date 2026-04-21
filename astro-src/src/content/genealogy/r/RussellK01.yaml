@@ -1,0 +1,50 @@
+id: RussellK01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: CarlA02
+parentLetter: C
+parentDesc: Carl Anderson Vining and Ruby Jean Traylor
+head:
+  givenName: Russell Keith
+  birth:
+    date: 21 June 1953
+    place: "Ponchatoula, Louisiana"
+  death:
+    date: 25 May 2012
+    place: "Hammond, Louisiana"
+marriages:
+  - spouse:
+      givenName: "[4?] Deccember"
+      surname: "1971"
+      birth:
+        date: 28 October 1950
+childrenGroups:
+  - children:
+      - name: Jason Vining
+        marriages:
+          - date: "Betty [&#8230;]"
+      - name: James Vining
+      - name: Christopher Vining
+      - name: Rebekah Vining
+        marriages:
+          - date: "[&#8230;] Allred"
+docsUrl: Rsources/RussellK01doc.htm
+raw: |-
+  <a name="RussellK01"></a><font size=+2>Russell Keith Vining</font>
+     (son of <a href="Cfamilies.htm#CarlA02">Carl Anderson Vining and Ruby Jean Traylor</a>)
+     b. 21 June 1953   Ponchatoula, Louisiana
+     m. [4?] Deccember 1971
+           Twila Goldsberry
+                 (dau. of James Goldsberry and Arlene [&#8230;])
+                 b. 28 October 1950
+     d. 25 May 2012   Hammond, Louisiana
+           bur. Collins Cemetery   Ponchatoula, Louisiana
+  
+  <font size=+1>children:</font>
+     Jason Vining   m. Betty [&#8230;]
+     James Vining
+     Christopher Vining
+     Rebekah Vining   m. [&#8230;] Allred
+  
+  <a href="Rsources/RussellK01doc.htm">documentation and notes</a>

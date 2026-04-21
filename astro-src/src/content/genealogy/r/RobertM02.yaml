@@ -1,0 +1,67 @@
+id: RobertM02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertE04
+parentDesc: Robert Elijah Vining and Cynthia Emma Alford
+head:
+  givenName: Robert Milton
+  birth:
+    date: 14 May 1897
+    place: "Putnam County, Georgia"
+  death:
+    date: 19 March 1982
+    place: "Putnam County, Georgia"
+marriages:
+  - date: 23 December 1915
+    place: "Putnam County, Georgia"
+    spouse:
+      givenName: Bessie May
+      surname: Linch
+      birth:
+        date: 28 December 1897
+        place: Georgia
+      death:
+        date: 8 July 1987
+        place: "Putnam County, Georgia"
+childrenGroups:
+  - children:
+      - name: Robert Whitfield Vining
+        birth:
+          date: 3 February 1917
+          place: "Putnam County, Georgia"
+        marriages:
+          - date: Juanita Fowler
+        death:
+          date: 1 April 2001
+          place: "Rabun County, Georgia"
+      - name: Vola Roberts Vining
+        marriages:
+          - date: "[...] Hatcher"
+      - name: Milton Elijah Vining
+        entryId: MiltonE01
+        entryLetter: M
+        birth:
+          date: age 69 y. at death
+        marriages:
+          - date: Janette Greenway
+        death:
+          date: 29 April 2001
+          place: "Winder, Georgia"
+        burial:
+          place: Barrow Memorial Gardens
+raw: |-
+  <a name="RobertM02"></a><font size=+2>Robert Milton Vining</font>
+     (son of <a href="#RobertE04">Robert Elijah Vining and Cynthia Emma Alford</a>)
+     b. 14 May 1897   Putnam County, Georgia
+     m. 23 December 1915   Putnam County, Georgia
+           Bessie May Linch
+                 (dau. of William Whitfield Linch and Sarah Louisa Huff)
+                 b. 28 December 1897   Georgia
+                 d. 8 July 1987   Putnam County, Georgia
+     d. 19 March 1982   Putnam County, Georgia
+  
+  <font size=+1>children:</font>
+     Robert Whitfield Vining   b. 3 February 1917   Putnam County, Georgia   -   m. Juanita Fowler   -   d. 1 April 2001   Rabun County, Georgia
+     Vola Roberts Vining   m. [...] Hatcher
+     <a href="Mfamilies.htm#MiltonE01">Milton Elijah Vining</a>   b. age 69 y. at death   -   m. Janette Greenway   -   d. 29 April 2001   Winder, Georgia   -   bur. Barrow Memorial Gardens

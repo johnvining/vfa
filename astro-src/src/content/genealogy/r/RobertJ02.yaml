@@ -1,0 +1,72 @@
+id: RobertJ02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: EdmundP04
+parentLetter: E
+parentDesc: Edmund Pendleton Vining and Sarah Louise Havens
+head:
+  givenName: Robert Jefferson
+  birth:
+    date: 6 March 1895
+    place: "Kankakee, Illinois"
+  death:
+    date: 18 June 1984
+    place: "Kankakee, Illinois"
+marriages:
+  - number: 1
+    date: ca. 1916
+    spouse:
+      givenName: Margaurite
+      surname: "[&#8230;]"
+      birth:
+        date: age 34 y. as of 1930 census
+        place: New York
+  - number: 2
+    date: 15 May 1943
+    place: "Kankakee, Illinois"
+    spouse:
+      givenName: Mrs. Lillian B. Daugherty Butler
+      surname: Cheffer
+      birth:
+        date: "1892"
+      death:
+        date: 25 April 1973
+      burial:
+        place: "Mound Grove Cemetery   Kankakee, Illinois"
+childrenGroups:
+  - spouseRef: "Margaurite [&#8230;]"
+    children:
+      - name: Miriam Vining
+        birth:
+          date: age 11 y. as of 1930 census
+          place: Illinois
+        marriages:
+          - date: "[&#8230;] Demarah"
+      - name: Virginia Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: Illinois
+        marriages:
+          - date: "[&#8230;] King"
+docsUrl: Rsources/RobertJ02doc.htm
+raw: |-
+  <a name="RobertJ02"></a><font size=+2>Robert Jefferson Vining</font>
+     (son of <a href="Efamilies.htm#EdmundP04">Edmund Pendleton Vining and Sarah Louise Havens</a>)
+     b. 6 March 1895   Kankakee, Illinois
+     m. (1) ca. 1916
+                 Margaurite [&#8230;]
+                       b. age 34 y. as of 1930 census   New York
+           (2) 15 May 1943   Kankakee, Illinois
+                 Mrs. Lillian B. Daugherty Butler Cheffer
+                       b. 1892
+                       d. 25 April 1973
+                             bur. Mound Grove Cemetery   Kankakee, Illinois
+     d. 18 June 1984   Kankakee, Illinois
+           bur. Mound Grove Cemetery   Kankakee, Illinois
+  
+  <font size=+1>children by Margaurite [&#8230;]:</font>
+     Miriam Vining   b. age 11 y. as of 1930 census   Illinois   -   m. [&#8230;] Demarah
+     Virginia Vining   b. age 9 y. as of 1930 census   Illinois   -   m. [&#8230;] King
+  
+  <a href="Rsources/RobertJ02doc.htm">documentation and notes</a>

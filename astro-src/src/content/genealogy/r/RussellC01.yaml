@@ -1,0 +1,27 @@
+id: RussellC01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertL01
+parentDesc: Robert Latham Vining and Cora Sybil Beals
+head:
+  givenName: Russell Conwell
+  birth:
+    date: 21 June 1904
+    place: "Cummington, Massachusetts"
+marriages:
+  - date: Cuba
+    place: "Mercedes [...]"
+childrenGroups:
+  - children:
+      - name: Dorothy Elizabeth Vining
+      - name: Cora Vining
+raw: |-
+  <a name="RussellC01"></a><font size=+2>Russell Conwell Vining</font>
+     (son of <a href="#RobertL01">Robert Latham Vining and Cora Sybil Beals</a>)
+     b. 21 June 1904   Cummington, Massachusetts
+     m. Cuba   Mercedes [...]
+  
+  <font size=+1>children:</font>
+     Dorothy Elizabeth Vining
+     Cora Vining

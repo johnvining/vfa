@@ -1,0 +1,44 @@
+id: RonaldWJr01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RonaldW01
+parentDesc: Ronald Winston Vining and Joyce Clementine Schmieks
+head:
+  givenName: Ronald Winston Jr.
+  birth:
+    date: 9 November 1957
+    place: "Lewiston, Androscoggin County, Maine"
+marriages:
+  - number: 1
+    date: August 1977
+    spouse:
+      givenName: "[Elisha?]"
+      surname: Clark
+  - number: 2
+    date: 10 November 1990
+    spouse:
+      givenName: Joan Marie
+      surname: Stain
+childrenGroups:
+  - spouseRef: Joan Marie Stain
+    children:
+      - name: Sabrina Lynne Vining
+        birth:
+          date: 21 January 1990
+      - name: Ronald Winston Vining III
+        birth:
+          date: 20 May 1992
+raw: |-
+  <a name="RonaldWJr01"></a><font size=+2>Ronald Winston Vining Jr.</font>
+     (son of <a href="#RonaldW01">Ronald Winston Vining and Joyce Clementine Schmieks</a>)
+     b. 9 November 1957   Lewiston, Androscoggin County, Maine
+     m. (1) August 1977
+                 [Elisha?] Clark
+              divorced 1990
+           (2) 10 November 1990
+                 Joan Marie Stain
+  
+  <font size=+1>children by Joan Marie Stain:</font>
+     Sabrina Lynne Vining   b. 21 January 1990
+     Ronald Winston Vining III   b. 20 May 1992

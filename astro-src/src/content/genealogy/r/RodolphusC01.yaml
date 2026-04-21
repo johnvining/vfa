@@ -1,0 +1,97 @@
+id: RodolphusC01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Cullen01
+parentLetter: C
+parentDesc: Cullen Vining and Hannah Latham
+head:
+  givenName: Rodolphus C.
+  birth:
+    date: 20 December 1834
+    place: Massachusetts
+  death:
+    date: 8 July 1895
+    place: "Holyoke, Massachusetts"
+marriages:
+  - date: 6 May 1852
+    spouse:
+      givenName: Martha R.
+      surname: Mason
+      birth:
+        date: 12 February 1834
+      death:
+        date: 2 January 1914
+childrenGroups:
+  - children:
+      - name: Osmyn Vining
+        entryId: Osmyn01
+        entryLetter: O
+        birth:
+          date: 14 September 1852
+          place: Massachusetts
+        marriages:
+          - date: 6 August 1870
+            spouse: "Caroline &#8220;Carrie&#8221; Dyer"
+        death:
+          date: 29 August 1922
+          place: "Kalamazoo, Michigan"
+        burial:
+          place: "Cummington, Massachusetts"
+      - name: Franklin Walter Vining
+        birth:
+          date: 5 May 1857
+          place: "Cummington, Massachusetts"
+        death:
+          date: 12 April 1900
+      - name: Nellie Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Massachusetts
+      - name: Eva M. Vining
+        birth:
+          date: age 10 y. as of 1870 census
+          place: Massachusetts
+        marriages:
+          - date: 2 August 1879
+            spouse: James Toole
+        death:
+          date: 15 July 1913
+      - name: Cullen B. Vining
+        birth:
+          date: age 10 m. as of 1870 census
+          place: Massachusetts
+      - name: Jesse Rodolphus Vining
+        entryId: JesseR01
+        entryLetter: J
+        birth:
+          date: 11 September 1872
+          place: "West Cummington, Massachusetts"
+        marriages:
+          - date: Angeline Martha Dickerson
+        death:
+          date: 14 October 1948
+        burial:
+          place: "Braman Cemetery   Newport, Rhode Island"
+docsUrl: Rsources/RodolphusC01doc.htm
+raw: |-
+  <a name="RodolphusC01"></a><font size=+2>Rodolphus C. Vining</font>
+     (son of <a href="Cfamilies.htm#Cullen01">Cullen Vining and Hannah Latham</a>)
+     b. 20 December 1834   Massachusetts
+     m. 6 May 1852
+           Martha R. Mason
+                 b. 12 February 1834
+                 d. 2 January 1914
+                       bur Forestdale Cemetery   Holyoke, Massachusetts
+     d. 8 July 1895   Holyoke, Massachusetts
+           bur Forestdale Cemetery   Holyoke, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Ofamilies.htm#Osmyn01">Osmyn Vining</a>   b. 14 September 1852   Massachusetts   -   m. 6 August 1870   Caroline &#8220;Carrie&#8221; Dyer   -   d. 29 August 1922   Kalamazoo, Michigan   -   bur. Cummington, Massachusetts
+     Franklin Walter Vining   b. 5 May 1857   Cummington, Massachusetts   -   d. 12 April 1900
+     Nellie Vining   b. age 1 y. as of 1860 census   Massachusetts
+     Eva M. Vining   b. age 10 y. as of 1870 census   Massachusetts   -   m. 2 August 1879   James Toole   -   d. 15 July 1913
+     Cullen B. Vining   b. age 10 m. as of 1870 census   Massachusetts
+     <a href="Jfamilies.htm#JesseR01">Jesse Rodolphus Vining</a>   b. 11 September 1872   West Cummington, Massachusetts   -   m. Angeline Martha Dickerson   -   d. 14 October 1948   -   bur. Braman Cemetery   Newport, Rhode Island
+  
+  <a href="Rsources/RodolphusC01doc.htm">documentation and notes</a>

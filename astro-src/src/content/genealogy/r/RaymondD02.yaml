@@ -1,0 +1,37 @@
+id: RaymondD02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Raymond02
+parentDesc: Raymond Vining and Hazel Schaffer
+head:
+  givenName: Raymond David
+  birth:
+    date: 18 November 1946
+    place: "Celina, Ohio"
+  death:
+    date: 19 November 2007
+    place: "Saint Marys, Ohio"
+childrenGroups:
+  - children:
+      - name: Raymond Vining
+        marriages:
+          - date: "Elizabeth [&#8230;]"
+      - name: Cara Vining
+      - name: Mia Vining
+        marriages:
+          - date: "[&#8230;] Kleman"
+docsUrl: Rsources/RaymondD02doc.htm
+raw: |-
+  <a name="RaymondD02"></a><font size=+2>Raymond David Vining</font>
+     (son of <a href="#Raymond02">Raymond Vining and Hazel Schaffer</a>)
+     b. 18 November 1946   Celina, Ohio
+     d. 19 November 2007   Saint Marys, Ohio
+           bur. Elm Grove Cemetery   Saint Marys, Ohio
+  
+  <font size=+1>children:</font>
+     Raymond Vining   m. Elizabeth [&#8230;]
+     Cara Vining
+     Mia Vining   m. [&#8230;] Kleman
+  
+  <a href="Rsources/RaymondD02doc.htm">documentation and notes</a>

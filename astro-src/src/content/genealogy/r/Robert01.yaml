@@ -1,0 +1,96 @@
+id: Robert01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: John31
+parentLetter: J
+parentDesc: John Vining and Joane Furneaux
+head:
+  givenName: Robert
+  birth:
+    date: ca. 1610
+    place: "Wincanton, England"
+  death:
+    date: ca. 1672
+    place: "Wincanton, England"
+marriages:
+  - date: ca. 1635
+    place: "Wincanton, England"
+    spouse:
+      givenName: Mary
+      surname: Reade
+      birth:
+        date: ca. 1604
+        place: "Wincanton, England"
+      death:
+        date: 19 April 1672
+        place: "Wincanton, England"
+childrenGroups:
+  - children:
+      - name: John Vining
+        entryId: John01
+        entryLetter: J
+        marriages:
+          - number: 1
+            date: 11 May 1657
+            place: "Weymouth, Massachusetts"
+            spouse: "Margaret [&#8220Mary&#8221;?] Reade"
+          - number: 2
+            date: 22 January 1659/60
+            place: "Weymouth, Massachusetts"
+            spouse: Mary Reed
+        death:
+          date: February 1685
+          place: "Weymouth, Massachusetts"
+      - name: William Vining
+        birth:
+          date: "1641"
+        death:
+          date: probably young
+      - name: Abraham Vining
+        birth:
+          date: "1643"
+      - name: Robert Vining
+        birth:
+          date: "1645"
+        marriages:
+          - date: "Julian?"
+      - name: William Vining
+        birth:
+          date: "1645"
+      - name: James Vining
+        birth:
+          date: "1648"
+      - name: Ellinor Vining
+        birth:
+          date: "1650"
+      - name: George Vining
+        birth:
+          date: "1655"
+      - name: Sarah Vining
+        marriages:
+          - date: ca. 1669
+            spouse: Thomas Porter (of Weymouth)
+docsUrl: Rsources/Robert01doc.htm
+raw: |-
+  <a name="Robert01"></a><font size=+2>Robert Vining</font>
+     (son of <a href="Jfamilies.htm#John31">John Vining and Joane Furneaux</a>)
+     b. ca. 1610   Wincanton, England
+     m. ca. 1635   Wincanton, England
+           Mary Reade
+                 b. ca. 1604   Wincanton, England
+                 d. 19 April 1672   Wincanton, England
+     d. ca. 1672   Wincanton, England
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#John01">John Vining</a>   chr. 17 April 1636   Wincanton, England   -   m. (1) 11 May 1657   Weymouth, Massachusetts   Margaret [&#8220Mary&#8221;?] Reade;   (2) 22 January 1659/60   Weymouth, Massachusetts   Mary Reed   -   d. February 1685   Weymouth, Massachusetts
+     William Vining   b. 1641   -   d. probably young
+     Abraham Vining   b. 1643
+     Robert Vining   b. 1645   -   m. Julian?
+     William Vining   b. 1645
+     James Vining   b. 1648
+     Ellinor Vining   b. 1650
+     George Vining   b. 1655
+     Sarah Vining   m. ca. 1669   Thomas Porter (of Weymouth)
+  
+  <a href="Rsources/Robert01doc.htm">documentation and notes</a>

@@ -1,0 +1,41 @@
+id: RobertR02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertD01
+parentDesc: Robert DeWitt Vining and Ara Short
+head:
+  givenName: Robert Raymond
+  birth:
+    date: 21 November 1941
+    place: "San Diego, San Diego County, Califoria"
+  death:
+    date: 4 August 2020
+    place: "New Orleans, Orleans Parish, Louisiana"
+marriages:
+  - date: "1964"
+    spouse:
+      givenName: Melinda
+      surname: Morris
+childrenGroups:
+  - children:
+      - name: Robert Prentice Vining
+        marriages:
+          - date: "Rhonda [&#8230;]"
+      - name: Paul Raymond Vining
+        marriages:
+          - date: "Tania [&#8230;]"
+docsUrl: Rsources/RobertR02doc.htm
+raw: |-
+  <a name="RobertR02"></a><font size=+2>Robert Raymond Vining</font>
+     (son of <a href="#RobertD01">Robert DeWitt Vining and Ara Short</a>)
+     b. 21 November 1941   San Diego, San Diego County, Califoria
+     m. 1964
+           Melinda Morris
+     d. 4 August 2020   New Orleans, Orleans Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Robert Prentice Vining   m. Rhonda [&#8230;]
+     Paul Raymond Vining   m. Tania [&#8230;]
+  
+  <a href="Rsources/RobertR02doc.htm">documentation and notes</a>

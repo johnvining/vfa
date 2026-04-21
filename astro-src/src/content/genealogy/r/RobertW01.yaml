@@ -1,0 +1,55 @@
+id: RobertW01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: LeroyL01
+parentLetter: L
+parentDesc: Leroy Leslie Vining and Jennie Worden
+head:
+  givenName: Robert William
+  birth:
+    date: 23 July 1920
+    place: "South Windsor, New York"
+  death:
+    date: March 1992
+marriages:
+  - spouse:
+      givenName: Jean Rosemond
+      surname: Nabinger
+childrenGroups:
+  - children:
+      - name: Alice Jane Vining
+        birth:
+          date: 31 July 1943
+          place: "South Windsor, New York"
+        marriages:
+          - date: Gerald N. Root
+      - name: Judith Ann Vining
+        birth:
+          date: 30 November 1944
+          place: "East Windsor, New York"
+        marriages:
+          - date: Michael Jon Hastings
+      - name: Patricia Lee Vining
+        birth:
+          date: 20 January 1954
+          place: "Windsor, New York"
+        marriages:
+          - date: "Salem, Virginia"
+            spouse: James Garrison
+      - name: Robert Gene Vining
+        birth:
+          date: 12 February 1958
+          place: "Windsor, New York"
+raw: |-
+  <a name="RobertW01"></a><font size=+2>Robert William Vining</font>
+     (son of <a href="Lfamilies.htm#LeroyL01">Leroy Leslie Vining and Jennie Worden</a>)
+     b. 23 July 1920   South Windsor, New York
+     m. Jean Rosemond Nabinger
+     d. March 1992
+  
+  <font size=+1>children:</font>
+     Alice Jane Vining   b. 31 July 1943   South Windsor, New York   -   m. Gerald N. Root
+     Judith Ann Vining   b. 30 November 1944   East Windsor, New York   -   m. Michael Jon Hastings
+     Patricia Lee Vining   b. 20 January 1954   Windsor, New York   -   m. Salem, Virginia   James Garrison
+     Robert Gene Vining   b. 12 February 1958   Windsor, New York

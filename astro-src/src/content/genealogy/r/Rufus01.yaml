@@ -1,0 +1,121 @@
+id: Rufus01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Jonas01
+parentLetter: J
+parentDesc: Jonas Vining and Sarah Page
+head:
+  givenName: Rufus
+  birth:
+    date: 16 June 1800
+    place: New York
+  death:
+    date: 5 January 1877
+    place: "Porter, Ohip"
+marriages:
+  - date: 29 December 1825
+    place: Ohio
+    spouse:
+      givenName: Almira
+      surname: Doughty
+      birth:
+        date: 20 October 1809
+        place: "Topsham, Sagadahoc County, Maine"
+      death:
+        date: 11 February 1880
+        place: "Porter Township, Ohio"
+      burial:
+        place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+childrenGroups:
+  - children:
+      - name: Hannah Vining
+        birth:
+          date: 29 November 1826
+          place: Ohio
+        death:
+          date: 12 July 1858
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+      - name: Lafayette Vining
+        entryId: Lafayette01
+        entryLetter: L
+        birth:
+          date: age 21 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: Phebe Rinehart
+      - name: Philena Vining
+        birth:
+          date: age 19 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: 25 March 1855
+            spouse: Jacob Arnold Pringle
+      - name: Stephen Vining
+        birth:
+          date: "&#8220;infant&#8221; at death"
+        death:
+          date: 5 November 1834
+          place: "Bennington Township, Ohio"
+        burial:
+          place: "Vining Cemetery   Bennington Township, Ohio"
+      - name: Stephen W. Vining
+        entryId: StephenW02
+        entryLetter: S
+        birth:
+          date: age 16 y. as of 1850 census
+        marriages:
+          - date: Mary Amelia Pringle
+        death:
+          date: "Spokane, Washington"
+      - name: Americus Vining
+        birth:
+          date: age 13 y. as of 1850 census
+          place: Ohio
+        death:
+          date: 30 May 1908
+      - name: Agustus Vining
+        entryId: Agustus01
+        entryLetter: A
+        birth:
+          date: 9 June 1837
+          place: Ohio
+        marriages:
+          - date: Jessie Page
+        death:
+          date: 19 May 1908
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+      - name: Mary Jane Vining
+        birth:
+          date: age 10 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: "1865"
+            spouse: William R. Page
+docsUrl: Rsources/Rufus01doc.htm
+raw: |-
+  <a name="Rufus01"></a><font size=+2>Rufus Vining</font>
+     (son of <a href="Jfamilies.htm#Jonas01">Jonas Vining and Sarah Page</a>)
+     b. 16 June 1800   New York
+     m. 29 December 1825   Ohio
+           Almira Doughty
+                 (dau. of Stephen W. Doughty II and Abigail Austin)
+                 b. 20 October 1809   Topsham, Sagadahoc County, Maine
+                 d. 11 February 1880   Porter Township, Ohio
+                       bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     d. 5 January 1877   Porter, Ohip
+           bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+  
+  <font size=+1>children:</font>
+     Hannah Vining   b. 29 November 1826   Ohio   -   d. 12 July 1858   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     <a href="Lfamilies.htm#Lafayette01">Lafayette Vining</a>   b. age 21 y. as of 1850 census   Ohio   -   m. Phebe Rinehart
+     Philena Vining   b. age 19 y. as of 1850 census   Ohio   -   m. 25 March 1855   Jacob Arnold Pringle
+     Stephen Vining   b. &#8220;infant&#8221; at death   -   d. 5 November 1834   Bennington Township, Ohio   -   bur. Vining Cemetery   Bennington Township, Ohio
+     <a href="Sfamilies.htm#StephenW02">Stephen W. Vining</a>   b. age 16 y. as of 1850 census   -   m. Mary Amelia Pringle   -   d. Spokane, Washington
+     Americus Vining   b. age 13 y. as of 1850 census   Ohio   -   d. 30 May 1908
+     <a href="Afamilies.htm#Agustus01">Agustus Vining</a>   b. 9 June 1837   Ohio   -   m. Jessie Page   -   d. 19 May 1908   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     Mary Jane Vining   b. age 10 y. as of 1850 census   Ohio   -   m. 1865   William R. Page
+  
+  <a href="Rsources/Rufus01doc.htm">documentation and notes</a>

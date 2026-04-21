@@ -1,0 +1,41 @@
+id: RobertBJr01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertB01
+parentDesc: "Robert B. Vining and [...]"
+head:
+  givenName: Robert B. Jr.
+  birth:
+    date: age 65 y. at death
+  death:
+    date: 6 September 2010
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Brendan Vining
+        marriages:
+          - date: "Holly [...]"
+      - name: Patrick Vining
+        marriages:
+          - date: "Beth [...]"
+      - name: Kerry Vining
+        marriages:
+          - date: Greg Allen
+docsUrl: Rsources/RobertBJr01doc.htm
+raw: |-
+  <a name="RobertBJr01"></a><font size=+2>Robert B. Vining Jr.</font>
+     (son of <a href="#RobertB01">Robert B. Vining and [...]</a>)
+     b. age 65 y. at death
+     m. Elizabeth [...]
+     d. 6 September 2010
+  
+  <font size=+1>children:</font>
+     Brendan Vining   m. Holly [...]
+     Patrick Vining   m. Beth [...]
+     Kerry Vining   m. Greg Allen
+  
+  <a href="Rsources/RobertBJr01doc.htm">documentation and notes</a>

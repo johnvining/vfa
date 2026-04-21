@@ -1,0 +1,49 @@
+id: Richard08
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Richard
+  birth:
+    date: "1752"
+    place: "Yeovil, Somerset, England"
+  death:
+    date: 13 January 1816
+    place: "Yeovil, Somerset, England"
+marriages:
+  - spouse:
+      givenName: Maria
+      surname: Smith
+childrenGroups:
+  - children:
+      - name: Mary Vining
+      - name: Ann Vining
+      - name: Charles Vining
+        entryId: Charles06
+        entryLetter: C
+        birth:
+          date: 27 August 1780
+          place: "Yeovil, Somerset, England"
+        marriages:
+          - date: Sophia Hobbs
+        death:
+          date: 6 November 1855
+          place: "Yeovil, Somerset, England"
+      - name: Robert Vining
+      - name: Richard Vining
+raw: |-
+  <a name="Richard08"></a><font size=+2>Richard Vining</font>
+     (son of [?])
+     b. 1752   Yeovil, Somerset, England
+     m. Maria Smith
+              b. 1753
+              d. 28 May 1839   Yeovil, Somerset, England
+     d. 13 January 1816   Yeovil, Somerset, England
+  
+  <font size=+1>children:</font>
+     Mary Vining
+     Ann Vining
+     <a href="Cfamilies.htm#Charles06">Charles Vining</a>   b. 27 August 1780   Yeovil, Somerset, England   -   m. Sophia Hobbs   -   d. 6 November 1855   Yeovil, Somerset, England
+     Robert Vining
+     Richard Vining

@@ -1,0 +1,73 @@
+id: RichardM02
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Richard Mogg
+  birth:
+    date: "ca. 1802&#8211;1807"
+  death:
+    date: "1854"
+marriages:
+  - date: 14 May 1828
+    spouse:
+      givenName: Hannah
+      surname: Pitt
+      birth:
+        date: "1805"
+      death:
+        date: "1878"
+childrenGroups:
+  - children:
+      - name: Hannah Vining
+        birth:
+          date: "1830"
+      - name: Mary Vining
+        birth:
+          date: "1832"
+      - name: Richard John Vining
+        entryId: RichardJ02
+        birth:
+          date: "1837"
+          place: England
+        marriages:
+          - date: 25 December 1862
+            spouse: Eliza Morgan
+        death:
+          date: "1903"
+          place: "Alexandra, Victoria   Australia"
+      - name: Emily Vining
+        birth:
+          date: "1839"
+      - name: Charles Vining
+        birth:
+          date: "1841"
+      - name: Clara Vining
+        birth:
+          date: "1846"
+      - name: Fred Vining
+        birth:
+          date: "1849"
+docsUrl: Rsources/RichardM02doc.htm
+raw: |-
+  <a name="RichardM02"></a><font size=+2>Richard Mogg Vining</font>
+     (son of [?])
+     b. ca. 1802&#8211;1807
+     m. 14 May 1828
+           Hannah Pitt
+                 b. 1805
+                 d. 1878
+     d. 1854
+           bur. All Souls, Kensal Green   England
+  
+  <font size=+1>children:</font>
+     Hannah Vining   b. 1830
+     Mary Vining   b. 1832
+     <a href="#RichardJ02">Richard John Vining</a>   b. 1837   England   -   m. 25 December 1862   Eliza Morgan   -   d. 1903   Alexandra, Victoria   Australia
+     Emily Vining   b. 1839
+     Charles Vining   b. 1841
+     Clara Vining   b. 1846
+     Fred Vining   b. 1849
+  
+  <a href="Rsources/RichardM02doc.htm">documentation and notes</a>

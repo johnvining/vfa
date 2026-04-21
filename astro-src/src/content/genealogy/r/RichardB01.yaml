@@ -1,0 +1,76 @@
+id: RichardB01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: CharlesE01
+parentLetter: C
+parentDesc: Charles Edward Vining and Myrtle Burns
+head:
+  givenName: Richard Burns
+  birth:
+    date: 12 July 1928
+    place: "Chicago, Illinois"
+  death:
+    date: 29 June 2000
+    place: "(last residence: Waterbury, Connecticut)"
+marriages:
+  - date: 27 December 1947
+    place: "Stratford, Connecticut"
+    spouse:
+      givenName: Dorothy Agnes
+      surname: Hodson
+      birth:
+        date: 11 July 1923
+        place: "Detroit, Michigan"
+childrenGroups:
+  - children:
+      - name: daughter
+        marriages:
+          - number: 1
+            date: "[...] Marshall"
+          - number: 2
+            date: "[...] Ferrell"
+          - number: 3
+            date: "[...] Beck"
+      - name: daughter
+        marriages:
+          - number: 1
+            date: "[...] Radachowsky"
+          - number: 2
+            date: "[...] Pirone"
+      - name: Margaret Maureen Vining
+        birth:
+          date: 30 January 1952
+          place: "Chicago, IL"
+        marriages:
+          - date: "[...] Rogers"
+        death:
+          date: 17 June 1992
+      - name: daughter
+        marriages:
+          - date: "[...] Chase"
+      - name: son
+      - name: daughter
+        marriages:
+          - date: "[...]"
+      - name: son +
+        marriages:
+          - date: "[...] Arce"
+raw: |-
+  <a name="RichardB01"></a><font size=+2>Richard Burns Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesE01">Charles Edward Vining and Myrtle Burns</a>)
+     b. 12 July 1928   Chicago, Illinois
+     m. 27 December 1947   Stratford, Connecticut
+           Dorothy Agnes Hodson
+                 (dau. of Francis Gardner Hodson and Agnes Mary Geoghegan)
+                 b. 11 July 1923   Detroit, Michigan
+     d. 29 June 2000   (last residence: Waterbury, Connecticut)
+  
+  <font size=+1>children:</font>
+     daughter   m. (1) [...] Marshall;   (2) [...] Ferrell;   (3) [...] Beck
+     daughter   m. (1) [...] Radachowsky;   (2) [...] Pirone
+     Margaret Maureen Vining   b. 30 January 1952   Chicago, IL   -   m. [...] Rogers   -   d. 17 June 1992
+     daughter   m. [...] Chase
+     son
+     daughter   m. [...]
+     son +    m. [...] Arce

@@ -1,0 +1,72 @@
+id: RandallM01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WilliamM03
+parentLetter: W
+parentDesc: William Minor Vining and Florence Velda Wonnacott
+head:
+  givenName: Randall M.
+  birth:
+    date: 8 May 1922
+    place: "St. Louis, Michigan"
+  death:
+    date: 28 July 2010
+marriages:
+  - date: 6 September 1942
+    spouse:
+      givenName: Katherine Marie
+      surname: Campbell
+      birth:
+        date: 17 August 1921
+        place: "near Fowler, Clinton County, Michigan"
+      death:
+        date: 26 December 2012
+      burial:
+        place: "Pine Grove Cemetery   Emerson Township, Gratiot County, Michigan"
+childrenGroups:
+  - children:
+      - name: Lynn R. Vining
+        entryId: LynnR01
+        entryLetter: L
+        birth:
+          date: 1 December 1943
+          place: "Ithaca, Michigan"
+        marriages:
+          - date: 20 October 2001
+            spouse: "Paula A. [&#8230;]"
+        death:
+          date: 1 July 2011
+          place: "Midland, Michigan"
+        burial:
+          place: "Pine Grove Cemetery   Ithaca, Michigan"
+      - name: Jeanette Vining
+        marriages:
+          - date: Tim Dana
+      - name: Diane Vining
+        marriages:
+          - date: Loren Huss
+      - name: Richard Vining
+        marriages:
+          - date: "Margaret [...]"
+docsUrl: Rsources/RandallM01doc.htm
+raw: |-
+  <a name="RandallM01"></a><font size=+2>Randall M. Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamM03">William Minor Vining and Florence Velda Wonnacott</a>)
+     b. 8 May 1922   St. Louis, Michigan
+     m. 6 September 1942
+           Katherine Marie Campbell
+                 (dau. of Sidney Campbell and Agnes Miller)
+                 b. 17 August 1921   near Fowler, Clinton County, Michigan
+                 d. 26 December 2012
+                       bur. Pine Grove Cemetery   Emerson Township, Gratiot County, Michigan
+     d. 28 July 2010
+           bur. Pine Grove Cemetery   Emerson Township, Gratiot County, Michigan
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LynnR01">Lynn R. Vining</a>   b. 1 December 1943   Ithaca, Michigan   -   m. 20 October 2001   Paula A. [&#8230;]   -   d. 1 July 2011   Midland, Michigan   -   bur. Pine Grove Cemetery   Ithaca, Michigan
+     Jeanette Vining   m. Tim Dana
+     Diane Vining   m. Loren Huss
+     Richard Vining   m. Margaret [...]
+  
+  <a href="Rsources/RandallM01doc.htm">documentation and notes</a>

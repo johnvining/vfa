@@ -1,0 +1,49 @@
+id: RonaldR01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: GeorgeR01
+parentLetter: G
+parentDesc: George Robert Vining and Fidella Emmaline Golladay
+head:
+  givenName: Ronald Reece
+  birth:
+    date: 22 October 1933
+    place: "[Oregon?]"
+  death:
+    date: 10 January 2018
+    place: "McMinnville, Oregon"
+marriages:
+  - date: 10 May 1952
+    spouse:
+      givenName: Elnora
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Debbie Vining
+        marriages:
+          - date: "Henry [&#8230;]"
+      - name: Jan Vining
+        marriages:
+          - date: "Lee [&#8230;]"
+      - name: Greg Vining
+        entryId: Greg01
+        entryLetter: G
+        marriages:
+          - date: "June [&#8230;]"
+docsUrl: Rsources/RonaldR01doc.htm
+raw: |-
+  <a name="RonaldR01"></a><font size=+2>Ronald Reece Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeR01">George Robert Vining and Fidella Emmaline Golladay</a>)
+     b. 22 October 1933   [Oregon?]
+     m. 10 May 1952
+           Elnora [...]
+     d. 10 January 2018   McMinnville, Oregon
+           bur. Willamette National Cemetery   Portland, Oregon
+  
+  <font size=+1>children:</font>
+     Debbie Vining   m. Henry [&#8230;]
+     Jan Vining   m. Lee [&#8230;]
+     <a href="Gfamilies.htm#Greg01">Greg Vining</a>   m. June [&#8230;]
+  
+  <a href="Rsources/RonaldR01doc.htm">documentation and notes</a>

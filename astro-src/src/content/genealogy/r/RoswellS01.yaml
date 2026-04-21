@@ -1,0 +1,67 @@
+id: RoswellS01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WinfieldS01
+parentLetter: W
+parentDesc: Winfield Scott Vining and Estelle Miles
+head:
+  givenName: Roswell S.
+  birth:
+    date: 27 November 1871
+    place: New York
+  death:
+    date: "1944"
+marriages:
+  - spouse:
+      givenName: Julia Vestina
+      surname: Hitchcock
+childrenGroups:
+  - children:
+      - name: Scott Osborn Vining
+        entryId: ScottO01
+        entryLetter: S
+        birth:
+          date: 16 December 1901
+          place: New York
+        marriages:
+          - date: Lillian Eggers
+        death:
+          date: 12 December 1991
+      - name: Robert Lucius Vining
+        entryId: RobertL02
+        birth:
+          date: 16 June 1907
+        marriages:
+          - date: Evelyn Eggers
+        death:
+          date: 15 June 1996
+          place: "(last residence: Quarryville, Pennsylvania)"
+      - name: Alfred William Vining
+        entryId: AlfredW01
+        entryLetter: A
+        birth:
+          date: 7 September 1908
+        marriages:
+          - date: Marie Dunham
+        death:
+          date: December 1982
+          place: "(last residence: Hensonville, New York)"
+        burial:
+          place: "Pleasant Valley Cemetery   Ashland, New York"
+docsUrl: Rsources/RoswellS01doc.htm
+raw: |-
+  <a name="RoswellS01"></a><font size=+2>Roswell S. Vining</font>
+     (son of <a href="Wfamilies.htm#WinfieldS01">Winfield Scott Vining and Estelle Miles</a>)
+     b. 27 November 1871   New York
+     m. Julia Vestina Hitchcock
+              b. 1875
+              d. 1941
+     d. 1944
+  
+  <font size=+1>children:</font>
+     <a href="Sfamilies.htm#ScottO01">Scott Osborn Vining</a>   b. 16 December 1901   New York   -   m. Lillian Eggers   -   d. 12 December 1991
+     <a href="#RobertL02">Robert Lucius Vining</a>   b. 16 June 1907   -   m. Evelyn Eggers   -   d. 15 June 1996   (last residence: Quarryville, Pennsylvania)
+     <a href="Afamilies.htm#AlfredW01">Alfred William Vining</a>   b. 7 September 1908   -   m. Marie Dunham   -   d. December 1982   (last residence: Hensonville, New York)   -   bur. Pleasant Valley Cemetery   Ashland, New York
+  
+  <a href="Rsources/RoswellS01doc.htm">documentation and notes</a>

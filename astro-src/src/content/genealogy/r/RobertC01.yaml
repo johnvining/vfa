@@ -1,0 +1,30 @@
+id: RobertC01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RaymondC01
+parentDesc: Raymond C. Vining and Kathleen Bienko
+head:
+  givenName: Robert C.
+  birth:
+    date: 17 December 1985
+    place: "Toledo, Ohio"
+  death:
+    date: 4 August 2018
+    place: "Sylvania, Ohio"
+childrenGroups:
+  - children:
+      - name: Mackenzie Wilkins-Vining
+      - name: Morgan Vining
+docsUrl: Rsources/RobertC01doc.htm
+raw: |-
+  <a name="RobertC01"></a><font size=+2>Robert C. Vining</font>
+     (son of <a href="#RaymondC01">Raymond C. Vining and Kathleen Bienko</a>)
+     b. 17 December 1985   Toledo, Ohio
+     d. 4 August 2018   Sylvania, Ohio
+  
+  <font size=+1>children:</font>
+     Mackenzie Wilkins-Vining
+     Morgan Vining
+  
+  <a href="Rsources/RobertC01doc.htm">documentation and notes</a>

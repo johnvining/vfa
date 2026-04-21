@@ -1,0 +1,45 @@
+id: ReginaldA01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertS01
+parentDesc: Robert Shorter Vining and Leona Leonard
+head:
+  givenName: "Reginald Arthur &#8220;Rex&#8221;"
+  birth:
+    date: 18 August 1900
+    place: "Murray County, Georgia"
+  death:
+    date: 17 October 1972
+    place: "Putnam, Florida"
+marriages:
+  - spouse:
+      givenName: Julia
+      surname: Patrick
+childrenGroups:
+  - children:
+      - name: "Jean Vining   b age 1 y., 4 m. as of 1930 census   Georgia"
+      - name: Kenneth Arthur Vining
+        entryId: KennethA01
+        entryLetter: K
+        birth:
+          date: age 8 y. as of 1940 census
+          place: Georgia
+        death:
+          date: 23 January 2014
+          place: Florida
+docsUrl: Rsources/ReginaldA01doc.htm
+raw: |-
+  <a name="ReginaldA01"></a><font size=+2>Reginald Arthur &#8220;Rex&#8221; Vining</font>
+     (son of <a href="#RobertS01">Robert Shorter Vining and Leona Leonard</a>)
+     b. 18 August 1900   Murray County, Georgia
+     m. Julia Patrick
+              (dau. of James H. Patrick and Leila S. [&#8230;])
+              b. age 26 y. as of 1930 census   Georgia
+     d. 17 October 1972   Putnam, Florida
+  
+  <font size=+1>children:</font>
+     Jean Vining   b age 1 y., 4 m. as of 1930 census   Georgia
+     <a href="Kfamilies.htm#KennethA01">Kenneth Arthur Vining</a>   b. age 8 y. as of 1940 census   Georgia   -   d. 23 January 2014   Florida   -   cremated, location of ashes unknown
+  
+  <a href="Rsources/ReginaldA01doc.htm">documentation and notes</a>

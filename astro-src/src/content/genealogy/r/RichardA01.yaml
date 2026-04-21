@@ -1,0 +1,55 @@
+id: RichardA01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: MerrittA01
+parentLetter: M
+parentDesc: Merritt Alfred Vining and Marion Monica Armstrong
+head:
+  givenName: Richard Alfred
+  birth:
+    date: 29 January 1925
+    place: "Detroit, Michigan"
+  death:
+    date: 12 February 2004
+    place: "Pontiac, Michigan"
+marriages:
+  - number: 1
+    date: 21 August 1948
+    spouse:
+      givenName: La Vohn Teckla
+      surname: Coleman
+  - number: 2
+    date: "Bonnie [...]"
+childrenGroups:
+  - children:
+      - name: Richard Bruce Vining
+        birth:
+          date: 6 July 1949
+          place: "Detroit, Michigan"
+      - name: Thomas Alfred Vining
+        birth:
+          date: 1 January 1953
+          place: "Detroit, Michigan"
+      - name: Paul Merritt Vining
+        birth:
+          date: 19 April 1954
+          place: "Detroit, Michigan"
+      - name: Gregg William Vining
+        birth:
+          date: 11 April 1958
+          place: "Detroit, Michigan"
+raw: |-
+  <a name="RichardA01"></a><font size=+2>Richard Alfred Vining</font>
+     (son of <a href="Mfamilies.htm#MerrittA01">Merritt Alfred Vining and Marion Monica Armstrong</a>)
+     b. 29 January 1925   Detroit, Michigan
+     m. (1) 21 August 1948
+                 La Vohn Teckla Coleman
+           (2) Bonnie [...]
+     d. 12 February 2004   Pontiac, Michigan
+  
+  <font size=+1>children:</font>
+     Richard Bruce Vining   b. 6 July 1949   Detroit, Michigan
+     Thomas Alfred Vining   b. 1 January 1953   Detroit, Michigan
+     Paul Merritt Vining   b. 19 April 1954   Detroit, Michigan
+     Gregg William Vining   b. 11 April 1958   Detroit, Michigan

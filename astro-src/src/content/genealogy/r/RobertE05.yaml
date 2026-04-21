@@ -1,0 +1,52 @@
+id: RobertE05
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesE04
+parentLetter: J
+parentDesc: "James [Edwin?] Vining and Hazel [...]"
+head:
+  givenName: Robert Edwin
+  birth:
+    date: 28 January 1940
+  death:
+    date: 13 April 2002
+marriages:
+  - number: 1
+    date: "[...]"
+    spouse:
+      givenName: divorced
+      surname: divorced
+  - number: 2
+    date: "Sherryann Kalomer[i?]s"
+    spouse:
+      givenName: divorced
+      surname: divorced
+  - number: 3
+    date: "Grace [...]"
+childrenGroups:
+  - spouseRef: "Sherryann Kalomer[i?]s"
+    children:
+      - name: Hollyann Vining
+        birth:
+          date: 18 December 1968
+      - name: Terryann Vining
+        birth:
+          date: 26 April 1970
+        marriages:
+          - date: "[...] Schwiederek"
+raw: |-
+  <a name="RobertE05"></a><font size=+2>Robert Edwin Vining</font>
+     (son of <a href="Jfamilies.htm#JamesE04">James [Edwin?] Vining and Hazel [...]</a>)
+     b. 28 January 1940
+     m. (1) [...]
+                 divorced
+           (2) Sherryann Kalomer[i?]s
+                 divorced
+           (3) Grace [...]
+     d. 13 April 2002
+           buried West Yarmouth, Massachusetts
+  
+  <font size=+1>children by Sherryann Kalomer[i?]s:</font>
+     Hollyann Vining   b. 18 December 1968
+     Terryann Vining   b. 26 April 1970   -   m. [...] Schwiederek

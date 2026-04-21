@@ -1,0 +1,75 @@
+id: RogerE01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: LesterR01
+parentLetter: L
+parentDesc: Lester Raymond Vining and Laurel Vivian Ladner
+head:
+  givenName: Roger Earl
+  birth:
+    date: 10 September 1927
+    place: "Big Rapids, Michigan"
+  death:
+    date: 26 September 2020
+    place: "Lakeview, Michigan"
+marriages:
+  - date: 27 August 1949
+    spouse:
+      givenName: Dolores Arlene
+      surname: Croff
+      birth:
+        date: 26 August 1930
+      death:
+        date: 28 May 2003
+      burial:
+        place: "Higbee Cemetery   Deerfield Township, Mecosta County, Michigan"
+childrenGroups:
+  - children:
+      - name: Mike Roger Vining
+        entryId: MikeR01
+        entryLetter: M
+        birth:
+          date: 12 August 1950
+          place: "Greenville, Michigan"
+        marriages:
+          - number: 1
+            date: Francine Arlene Troupe
+          - number: 2
+            date: Donna IKenberry
+      - name: Frank Alan Vining
+        entryId: FrankA01
+        entryLetter: F
+        birth:
+          date: 3 August 1952
+          place: "Lakeview, Michigan"
+        marriages:
+          - number: 1
+            date: Bonnie Sue McClurken
+          - number: 2
+            date: "Vicki [&#8230;]"
+      - name: Randy Lee Vining
+        birth:
+          date: 31 October 1953
+          place: "Lakeview, Michigan"
+        marriages:
+          - date: "Terri Lynn [&#8230;]"
+docsUrl: Rsources/RogerE01doc.htm
+raw: |-
+  <a name="RogerE01"></a><font size=+2>Roger Earl Vining</font>
+     (son of <a href="Lfamilies.htm#LesterR01">Lester Raymond Vining and Laurel Vivian Ladner</a>)
+     b. 10 September 1927   Big Rapids, Michigan
+     m. 27 August 1949
+           Dolores Arlene Croff
+                 b. 26 August 1930
+                 d. 28 May 2003
+                       bur. Higbee Cemetery   Deerfield Township, Mecosta County, Michigan
+     d. 26 September 2020   Lakeview, Michigan
+           bur. Higbee Cemetery   Morley, Michigan
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MikeR01">Mike Roger Vining</a>   b. 12 August 1950   Greenville, Michigan   -   m. (1) Francine Arlene Troupe;   (2) Donna IKenberry
+     <a href="Ffamilies.htm#FrankA01">Frank Alan Vining</a>   b. 3 August 1952   Lakeview, Michigan   -   m. (1) Bonnie Sue McClurken;   (2) Vicki [&#8230;]
+     Randy Lee Vining   b. 31 October 1953   Lakeview, Michigan   -   m. Terri Lynn [&#8230;]
+  
+  <a href="Rsources/RogerE01doc.htm">documentation and notes</a>

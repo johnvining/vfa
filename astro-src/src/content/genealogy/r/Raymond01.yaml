@@ -1,0 +1,31 @@
+id: Raymond01
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Raymond
+marriages:
+  - spouse:
+      givenName: Joyce
+      surname: Nelson
+childrenGroups:
+  - children:
+      - name: David Vining
+      - name: Steve Michael Vining
+        entryId: SteveM01
+        entryLetter: S
+        birth:
+          date: 10 September 1962
+          place: "Mount Vernon, Ohio"
+        death:
+          date: 6 February 2020
+          place: "Ashland, Ohio"
+raw: |-
+  <a name="Raymond01"></a><font size=+2>Raymond Vining</></font>
+     (son of [?])
+     m. Joyce Nelson
+  
+  <font size=+1>children:</font>
+     David Vining
+     <a href="Sfamilies.htm#SteveM01">Steve Michael Vining</a>   b. 10 September 1962   Mount Vernon, Ohio   -   d. 6 February 2020   Ashland, Ohio
