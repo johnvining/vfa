@@ -1,5 +1,6 @@
 id: KennithN01
 letter: K
+sequence: 25
 lastUpdated: 24 July 2022
 relationship: son
 parentId: Samuel07
@@ -16,6 +17,10 @@ marriages:
   - spouse:
       givenName: Corene
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Kennith N. Vining Jr.
 docsUrl: Ksources/KennithN01doc.htm
 raw: |-
   <a name="KennithN01"></a><font size=+2>Kennith N. Vining</font>

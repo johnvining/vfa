@@ -1,5 +1,6 @@
 id: KennethE02
 letter: K
+sequence: 16
 lastUpdated: 24 July 2022
 relationship: son
 parentId: JohnF04
@@ -12,10 +13,19 @@ head:
     place: Ohio
   death:
     date: "1960"
+  burial:
+    place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
 marriages:
   - spouse:
       givenName: Rachel A.
       surname: Lane
+      birth:
+        date: "1907"
+        place: "West Virginia"
+      death:
+        date: "1966"
+      burial:
+        place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
 childrenGroups:
   - children:
       - name: Edward J. Vining

@@ -1,5 +1,6 @@
 id: KeithB01
 letter: K
+sequence: 5
 lastUpdated: 24 July 2022
 relationship: son
 parentId: DavidB01
@@ -12,6 +13,8 @@ head:
     place: "Comfrey, Brown County, Minnesota"
   death:
     date: 7 June 1991
+  burial:
+    place: "Restlawn Memory Gardens   Huron, Beadle County, South Dakota"
 marriages:
   - spouse:
       givenName: Vickie

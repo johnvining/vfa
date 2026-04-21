@@ -1,5 +1,6 @@
 id: Kenneth01
 letter: K
+sequence: 10
 lastUpdated: 24 July 2022
 relationship: son
 parentDesc: "[?]"
@@ -9,6 +10,13 @@ marriages:
   - spouse:
       givenName: Paula
       surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Allison Suree Vining
+        note: "[b. and?] d. 10 June 1986"
+        burial:
+          place: "Macedonia Cemetery   Shelby County, Alabama"
 docsUrl: Ksources/Kenneth01doc.htm
 raw: |-
   <a name="Kenneth01"></a><font size=+2>Kenneth Vining</font>

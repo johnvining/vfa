@@ -1,5 +1,6 @@
 id: KamitaE01
 letter: K
+sequence: 1
 lastUpdated: 24 July 2022
 relationship: son
 parentId: OsmynC01
@@ -13,13 +14,17 @@ head:
   death:
     date: 24 July 2007
     place: "[Decatur or Lawton?], Michigan"
+  burial:
+    place: "Florida National Cemetery   Bushnell, Sumter County, Florida"
 marriages:
   - number: 1
     date: 29 January 1938
     place: Indiana
+    note: "divorced 4 October 1944   Kalamazoo, Kalamazoo County, Michigan"
     spouse:
       givenName: Elizabeth Jane
       surname: Volenski
+      parents: "(dau. of Anthony Volenski and Mabel Florence Davidson)"
       birth:
         date: 11 July 1919
         place: "Kalamazoo, Kalamazoo County, Michigan"

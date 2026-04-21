@@ -1,5 +1,6 @@
 id: KennethW02
 letter: K
+sequence: 24
 lastUpdated: 24 July 2022
 relationship: son
 parentId: CharlesA06
@@ -13,6 +14,7 @@ head:
 marriages:
   - date: 14 May 1976
     place: "Corpus Christi, Nueces County, Texas"
+    note: divorced
     spouse:
       givenName: Barbara Ann
       surname: Benka

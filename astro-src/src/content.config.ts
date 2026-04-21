@@ -46,9 +46,11 @@ const child = z.object({
   entryId: z.string().optional(),
   entryLetter: z.string().optional(),
   hasUnlistedChildren: z.boolean().optional(),
+  leadingDash: z.boolean().optional(),
   birth: datePlace,
   adoptedDate: z.string().optional(),
   marriages: z.array(childMarriage).optional(),
+  middleNote: z.string().optional(),  // segment after marriages, before death (no "m." prefix)
   note: z.string().optional(),
   death: datePlace,
   burial,
@@ -79,6 +81,7 @@ const genealogy = defineCollection({
     parentId: z.string().optional(),
     parentLetter: z.string().optional(),
     parentDesc: z.string().optional(),
+    noCloseParen: z.boolean().optional(),
     head: z.object({
       givenName: z.string(),
       surname: z.string().optional(),   // override when surname is non-standard (e.g. "Vinning")

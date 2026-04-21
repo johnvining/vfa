@@ -1,5 +1,6 @@
 id: KirbyR01
 letter: K
+sequence: 30
 lastUpdated: 24 July 2022
 relationship: son
 parentId: TheronM01
@@ -14,6 +15,12 @@ marriages:
   - spouse:
       givenName: Katherine
       surname: Todd
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Miles Kenneth Vining
+        birth:
+          date: 11 November 1991
 raw: |-
   <a name="KirbyR01"></a><font size=+2>Kirby Robert Russell Vining</font>
      (son of <a href="Tfamilies.htm#TheronM01">Theron Marcus Vining and Rita Mary Kirby</a>)

@@ -1,5 +1,6 @@
 id: KennethC01
 letter: K
+sequence: 13
 lastUpdated: 24 July 2022
 relationship: son
 parentId: CharlesW03
@@ -13,6 +14,12 @@ marriages:
   - spouse:
       givenName: Elizabeth A.
       surname: "[&#8230;]"
+      birth:
+        place: "New Jersey"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Rhodey Vining
 raw: |-
   <a name="KennethC01"></a><font size=+2>Kenneth C. Vining</font>
      (son of <a href="Cfamilies.htm#CharlesW03">Charles Whitney Vining and Annette L. Thibeault</a>)

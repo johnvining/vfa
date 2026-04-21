@@ -1,5 +1,6 @@
 id: KennethA01
 letter: K
+sequence: 12
 lastUpdated: 24 July 2022
 relationship: son
 parentId: ReginaldA01
@@ -13,6 +14,8 @@ head:
   death:
     date: 23 January 2014
     place: Florida
+  burial:
+    description: "cremated, location of ashes unknown"
 childrenGroups:
   - children:
       - name: Kenneth Arthur Vining Jr.

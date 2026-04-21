@@ -1,5 +1,6 @@
 id: KenwoodW01
 letter: K
+sequence: 27
 lastUpdated: 24 July 2022
 relationship: son
 parentId: MelvinL03
@@ -17,6 +18,9 @@ marriages:
   - spouse:
       givenName: Shirley Joanne
       surname: Peterson
+      parents: "(dau. of Andrew Peterson and Lydia [&#8230;])"
+      death:
+        date: 8 April 2020
 childrenGroups:
   - children:
       - name: Stephen P. Vining

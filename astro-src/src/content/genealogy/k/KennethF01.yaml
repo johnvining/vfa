@@ -1,5 +1,6 @@
 id: KennethF01
 letter: K
+sequence: 19
 lastUpdated: 24 July 2022
 relationship: son
 parentId: KennethW01
@@ -12,6 +13,15 @@ marriages:
   - spouse:
       givenName: Michelle Lynn
       surname: Wheeler
+childrenGroups:
+  - headingText: "child by Stacy Patterson"
+    children:
+      - name: Ashley Nicole Vining
+        birth:
+          date: 30 December 1993
+  - headingText: "child by Michelle Lynn Wheeler"
+    children:
+      - name: Chandler James Wade Vining
 raw: |-
   <a name="KennethF01"></a><font size=+2>Kenneth Frank Vining</font>
      (son of <a href="#KennethW01">Kenneth Wayne Vining and Shirley LoDean Young</a>)

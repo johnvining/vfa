@@ -1,14 +1,23 @@
 id: Kevin01
 letter: K
+sequence: 28
 lastUpdated: 24 July 2022
 relationship: son
 parentDesc: "[?]"
 head:
   givenName: Kevin
 marriages:
-  - spouse:
-      givenName: September
-      surname: "1983"
+  - date: September 1983
+    spouse:
+      givenName: Cheryl Ann
+      surname: Dull
+      parents: "(dau. of Donald Dull and Elizabeth Nastqav)"
+      birth:
+        date: 16 December 1962
+        place: "Tulsa, Oklahoma"
+      death:
+        date: "23 June 2022."
+        place: "Shawnee, Kansas"
 childrenGroups:
   - children:
       - name: Ryan Christopher Vining

@@ -1,5 +1,6 @@
 id: KentA01
 letter: K
+sequence: 8
 lastUpdated: 24 July 2022
 relationship: son
 parentId: WalterD03
@@ -10,6 +11,7 @@ head:
   birth:
     date: "1951"
     place: New Hampshire
+  death: {}
 marriages:
   - spouse:
       givenName: Pat Hall

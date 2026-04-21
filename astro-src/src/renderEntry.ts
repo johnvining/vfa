@@ -36,9 +36,11 @@ interface Child {
   entryId?: string;
   entryLetter?: string;
   hasUnlistedChildren?: boolean;
+  leadingDash?: boolean;
   birth?: DatePlace;
   adoptedDate?: string;
   marriages?: ChildMarriage[];
+  middleNote?: string;
   note?: string;
   death?: DatePlace;
   burial?: Burial;
@@ -208,6 +210,7 @@ function renderChildLine(child: Child): string {
     }
   }
 
+  if (child.middleNote) segments.push(child.middleNote);
   if (child.note && !child.death) segments.push(child.note);
   if (child.death) segments.push('d. ' + dp(child.death));
   if (child.burial?.place) segments.push('bur. ' + child.burial.place);
@@ -215,6 +218,9 @@ function renderChildLine(child: Child): string {
   if (child.note && child.death) segments.push(child.note);
 
   const segStr = segments.join('   -   ');
+  if (segStr && child.leadingDash) {
+    return '   ' + nameStr + '   -   ' + segStr;
+  }
   return '   ' + (segStr ? nameStr + '   ' + segStr : nameStr);
 }
 
@@ -300,6 +306,7 @@ export function renderEntry(data: EntryData): string {
           if (s.death) lines.push('            d. ' + dp(s.death));
           if (s.widowOf) lines.push('            m. ' + s.widowOf);
           lines.push(...bur(s.burial, 18));
+          if (m.note) lines.push('         ' + m.note);
         } else {
           // Normal unnumbered marriage (date and/or place on m. line, spouse block below)
           let mLine = '   m. ';

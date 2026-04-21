@@ -1,5 +1,6 @@
 id: KarlW01
 letter: K
+sequence: 2
 lastUpdated: 24 July 2022
 relationship: son
 parentId: Millis01
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: Patricia
       surname: Fletcher
+      parents: "(dau. of Austin Fletcher and Helen [&#8230;])"
+      birth:
+        date: 16 April 1939
+        place: "Binghamton, Broome County, New York"
+      death:
+        date: 4 August 2018
+        place: "Bluffton, Beaufort County, South Carolina"
 childrenGroups:
   - children:
       - name: Brian Lee Vining

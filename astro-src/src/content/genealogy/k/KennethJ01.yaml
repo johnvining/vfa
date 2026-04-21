@@ -1,5 +1,6 @@
 id: KennethJ01
 letter: K
+sequence: 20
 lastUpdated: 24 July 2022
 relationship: son
 parentId: ClairW01
@@ -12,10 +13,18 @@ head:
   death:
     date: 9 November 1996
     place: "(last residence: Johnson City, Broome County, New York)"
+  burial:
+    place: "Vestal Hills Memorial Park   Vestal, Broome County, New York"
 marriages:
   - spouse:
       givenName: Lillian
       surname: Ropic
+      birth:
+        date: "1925"
+      death:
+        date: "2005"
+      burial:
+        place: "Vestal Hills Memorial Park   Vestal, Broome County, New York"
 childrenGroups:
   - children:
       - name: Diane Vining

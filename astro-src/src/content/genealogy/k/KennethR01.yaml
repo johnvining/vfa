@@ -1,5 +1,6 @@
 id: KennethR01
 letter: K
+sequence: 21
 lastUpdated: 24 July 2022
 relationship: son
 parentId: ThomasP03
@@ -17,6 +18,16 @@ marriages:
   - spouse:
       givenName: Virginia
       surname: Harmer
+      birth:
+        date: "age 25 y. as of 1940 census"
+        place: Michigan
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Charles Vining
+        birth:
+          date: "age 1 y. as of 1940 census"
+          place: Michigan
 docsUrl: Ksources/KennethR01doc.htm
 raw: |-
   <a name="KennethR01"></a><font size=+2>Kenneth R. Vining</font>
