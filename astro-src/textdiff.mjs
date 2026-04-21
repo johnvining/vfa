@@ -11,6 +11,7 @@ function extractText(html) {
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
     .replace(/&#(\d+);?/g, (_, n) => String.fromCodePoint(parseInt(n, 10)))
     .replace(/&mdash;/g, '—')
     .replace(/&ldquo;/g, '"')
