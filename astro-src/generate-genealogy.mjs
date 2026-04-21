@@ -404,7 +404,9 @@ function parseEntry(block, letter) {
     const children = groupLines
       .filter(l => {
         const t = l.trim();
-        return countLeadingSpaces(l) >= 3 && t && !/<font/.test(l) && !/^</.test(t);
+        // Allow anchor-wrapped children (<a href...>Name</a>) but exclude bare tag-only lines (<table>, <tr>, etc)
+        const isTagOnly = /^</.test(t) && !stripTags(t).trim();
+        return countLeadingSpaces(l) >= 3 && t && !/<font/.test(l) && !isTagOnly;
       })
       .map(l => parseChildLine(l.trim()));
 
