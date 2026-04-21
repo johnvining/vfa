@@ -1,0 +1,46 @@
+id: GregoryE01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: CarrollE01
+parentLetter: C
+parentDesc: Carroll Edward Vining and Claire Isabel Doughty
+head:
+  givenName: Gregory Earl
+  birth:
+    date: 28 November 1957
+    place: "Portland, Maine"
+marriages:
+  - number: 1
+    date: 28 May 1983
+    spouse:
+      givenName: Sara Frey
+      surname: Taylor
+  - number: 2
+    date: "Terry [...]"
+childrenGroups:
+  - children:
+      - name: Carol Ann Vining
+      - name: Andrea Taylor Vining
+      - name: Kristina Marie Vining
+        birth:
+          date: 14 February 1991
+          place: "Portland, Maine"
+        death:
+          date: 11 January 2015
+docsUrl: Gsources/GregoryE01doc.htm
+raw: |-
+  <a name="GregoryE01"></a><font size=+2>Gregory Earl Vining</font>
+     (son of <a href="Cfamilies.htm#CarrollE01">Carroll Edward Vining and Claire Isabel Doughty</a>)
+     b. 28 November 1957   Portland, Maine
+     m. (1) 28 May 1983
+                 Sara Frey Taylor
+                       (dau. of William F. Taylor and Maggie [...])
+           (2) Terry [...]
+  
+  <font size=+1>children:</font>
+     Carol Ann Vining
+     Andrea Taylor Vining
+     Kristina Marie Vining   b. 14 February 1991   Portland, Maine   -   d. 11 January 2015
+  
+  <a href="Gsources/GregoryE01doc.htm">documentation and notes</a>

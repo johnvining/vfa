@@ -1,0 +1,148 @@
+id: GeorgeH02
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: GeorgeW04
+parentDesc: George Washington Vining and Eleanor Adelaide Lampman
+head:
+  givenName: George Henry
+  birth:
+    date: 10 November 1875
+    place: Wisconsin
+  death:
+    date: 28 January 1954
+    place: "Pueblo, Colorado"
+marriages:
+  - number: 1
+    date: 16 July 1897
+    place: "Stockholm, Wisconsin"
+    spouse:
+      givenName: Elizabeth May
+      surname: Morgan
+      birth:
+        date: 20 April 1878
+        place: "Florence, Minnesota"
+      death:
+        date: 13 March 1909
+        place: "Weston, Wisconsin"
+  - number: 2
+    date: 23 February 1908
+    place: "Terry, Montana"
+    spouse:
+      givenName: Antis Adwilda
+      surname: Babcock
+      birth:
+        date: 18 January 1875
+        place: Kansas
+      death:
+        date: 11 November 1934
+        place: "Hooper, Colorado"
+      burial:
+        place: "Monte Vista Cemetery   Monte Vista, Colorado"
+  - number: 3
+    date: "1928"
+    place: "Pueblo, Colorado"
+    spouse:
+      givenName: Martha
+      surname: Strauss
+      birth:
+        date: 6 February 1887
+        place: Arkansas
+      death:
+        date: February 1977
+        place: "Pueblo, Colorado"
+childrenGroups:
+  - spouseRef: Elizabeth May Morgan
+    children:
+      - name: Clarence Vining
+        birth:
+          date: 1 December 1898
+          place: "Weston, Wisconsin"
+        death:
+          date: 13 December 1993
+          place: "Westfield, Wisconsin"
+      - name: Walter Vining
+        birth:
+          date: 11 February 1900
+          place: "Weston, Wisconsin"
+        death:
+          date: January 1994
+          place: "Waunakee, Wisconsin"
+      - name: Alfred Vining
+        birth:
+          date: 26 April 1903
+          place: "Weston, Wisconsin"
+        death:
+          date: 8 April 1910
+          place: "Sparta, Wisconsin"
+        burial:
+          place: "Sparta, Wisconsin"
+      - name: Lucea Delpena Vining
+        birth:
+          date: 11 March 1905
+          place: "Weston, Wisconsin"
+        marriages:
+          - date: "[...] Kane"
+        death:
+          date: 13 April 1935
+          place: Wisconsin
+  - spouseRef: Antis Adwilda Babcock
+    children:
+      - name: Richard Bruce Vining
+        entryId: RichardB02
+        entryLetter: R
+        birth:
+          date: 3 April 1910
+          place: Montana
+        marriages:
+          - date: Lucille M. Quirico
+        death:
+          date: 9 July 1976
+          place: "Pueblo, Colorado"
+        burial:
+          place: "Imperial Memorial Gardens   Pueblo, Colorado"
+      - name: Victor Henry Vining
+        entryId: VictorH01
+        entryLetter: V
+        birth:
+          date: 24 July 1912
+          place: "Terry, Montana"
+        marriages:
+          - date: Olive Florine Dochter
+        death:
+          date: 13 October 1983
+          place: "Colorado City, Colorado"
+        burial:
+          place: "Mountain View Cemetery   Pueblo, Colorado"
+docsUrl: Gsources/GeorgeH02doc.htm
+raw: |-
+  <a name="GeorgeH02"></a><font size=+2>George Henry Vining</font>
+     (son of <a href="#GeorgeW04">George Washington Vining and Eleanor Adelaide Lampman</a>)
+     b. 10 November 1875   Wisconsin
+     m. (1) 16 July 1897   Stockholm, Wisconsin
+                 Elizabeth May Morgan
+                       (dau. of Edwin Morgan and Lucia Turner)
+                       b. 20 April 1878   Florence, Minnesota
+                       d. 13 March 1909   Weston, Wisconsin
+           (2) 23 February 1908   Terry, Montana
+                 Antis Adwilda Babcock
+                       (dau. of Plympton Babcock and Lucinda Montague)
+                       b. 18 January 1875   Kansas
+                       d. 11 November 1934   Hooper, Colorado
+                             bur. Monte Vista Cemetery   Monte Vista, Colorado
+           (3) 1928   Pueblo, Colorado
+                 Martha Strauss
+                       b. 6 February 1887   Arkansas
+                       d. February 1977   Pueblo, Colorado
+     d. 28 January 1954   Pueblo, Colorado
+  
+  <font size=+1>children by Elizabeth May Morgan:</font>
+     Clarence Vining   b. 1 December 1898   Weston, Wisconsin   -   d. 13 December 1993   Westfield, Wisconsin
+     Walter Vining   b. 11 February 1900   Weston, Wisconsin   -   d. January 1994   Waunakee, Wisconsin
+     Alfred Vining   b. 26 April 1903   Weston, Wisconsin   -   d. 8 April 1910   Sparta, Wisconsin   -   bur. Sparta, Wisconsin
+     Lucea Delpena Vining   b. 11 March 1905   Weston, Wisconsin   -   m. [...] Kane   -   d. 13 April 1935   Wisconsin
+  <font size=+1>children by Antis Adwilda Babcock:</font>
+     <a href="Rfamilies.htm#RichardB02">Richard Bruce Vining</a>   b. 3 April 1910   Montana   -   m. Lucille M. Quirico   -   d. 9 July 1976   Pueblo, Colorado   -   bur. Imperial Memorial Gardens   Pueblo, Colorado
+     <a href="Vfamilies.htm#VictorH01">Victor Henry Vining</a>   b. 24 July 1912   Terry, Montana   -   m. Olive Florine Dochter   -   d. 13 October 1983   Colorado City, Colorado   -   bur. Mountain View Cemetery   Pueblo, Colorado
+  
+  <a href="Gsources/GeorgeH02doc.htm">documentation and notes</a>

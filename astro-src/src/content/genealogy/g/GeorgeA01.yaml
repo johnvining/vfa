@@ -1,0 +1,71 @@
+id: GeorgeA01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: BenjaminF04
+parentLetter: B
+parentDesc: Benjamin Franklin Vining and Lucinda Catherine Pearson
+head:
+  givenName: George Albert
+  birth:
+    date: "1876"
+  death:
+    date: 23 February 1966
+marriages:
+  - date: 28 February 1894
+    place: "Cherokee County, Texas"
+    spouse:
+      givenName: Ruby Lee
+      surname: Roten
+      birth:
+        date: 26 April 1876
+        place: "Midway, Texas"
+      death:
+        date: 23 April 1966
+        place: "Rusk, Texas"
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Texas"
+childrenGroups:
+  - children:
+      - name: William Macon Vining
+        entryId: WilliamM02
+        entryLetter: W
+        birth:
+          date: 20 January 1896
+          place: "Rusk, Cheokee County, Texas"
+        marriages:
+          - date: 28 January 1944
+            spouse: Eddie B. Roark
+        death:
+          date: 17 August 1990
+          place: "Rusk, Cherokee County, Texas"
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: Fitzhugh Vining
+        birth:
+          date: 29 March 1898
+          place: Texas
+        death:
+          date: 21 August 1902
+          place: Texas
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+docsUrl: Gsources/GeorgeA01doc.htm
+raw: |-
+  <a name="GeorgeA01"></a><font size=+2>George Albert Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminF04">Benjamin Franklin Vining and Lucinda Catherine Pearson</a>)
+     b. 1876
+     m. 28 February 1894   Cherokee County, Texas
+           Ruby Lee Roten
+                 (dau. of David Edward Roten and Alice Anderson [Whitten or Whitney])
+                 b. 26 April 1876   Midway, Texas
+                 d. 23 April 1966   Rusk, Texas
+                       bur. Cedar Hill Cemetery   Rusk, Texas
+           divorced 1905
+     d. 23 February 1966
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamM02">William Macon Vining</a>   b. 20 January 1896   Rusk, Cheokee County, Texas   -   m. 28 January 1944   Eddie B. Roark   -   d. 17 August 1990   Rusk, Cherokee County, Texas   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     Fitzhugh Vining   b. 29 March 1898   Texas   -   d. 21 August 1902   Texas   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+  
+  <a href="Gsources/GeorgeA01doc.htm">documentation and notes</a>

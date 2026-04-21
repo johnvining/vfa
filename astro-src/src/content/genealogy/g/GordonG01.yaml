@@ -1,0 +1,28 @@
+id: GordonG01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: LeonardE01
+parentLetter: L
+parentDesc: Leonard Edwin Vining and Ada Albena Walker
+head:
+  givenName: Gordon Geoffrey
+  birth:
+    date: August 1918
+    place: "Washington, District of Columbia"
+  death:
+    date: 16 April 1945
+    place: "Tokyo, Japan"
+marriages:
+  - spouse:
+      givenName: Martha
+      surname: Yarbro
+raw: |-
+  <a name="GordonG01"></a><font size=+2>Gordon Geoffrey Vining</font>
+     (son of <a href="Lfamilies.htm#LeonardE01">Leonard Edwin Vining and Ada Albena Walker</a>)
+     b. August 1918   Washington, District of Columbia
+     m. Martha Yarbro
+     d. 16 April 1945   Tokyo, Japan
+  
+  <font size=+1>child:</font>
+     Elizabeth Swift Vining   b. 15 July 1945   -   d.. 23 June 1990

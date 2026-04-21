@@ -1,0 +1,47 @@
+id: George04
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George
+  birth:
+    date: age 39 y. as of 1880 census
+    place: Bavaria
+marriages:
+  - spouse:
+      givenName: Annie
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: George J. Vining
+        birth:
+          date: age 12 y. as of 1880 census
+          place: New York
+      - name: Frederick Vining
+        birth:
+          date: age 7 y. as of 1880 census
+          place: New York
+      - name: Annie Vining
+        birth:
+          date: age 6 y. as of 1880 census
+          place: New York
+      - name: Charles Vining
+        birth:
+          date: age 1 y. as of 1880 census
+          place: New York
+docsUrl: Gsources/George04doc.htm
+raw: |-
+  <a name="George04"></a><font size=+2>George Vining</font>
+     (son of [?])
+     b. age 39 y. as of 1880 census   Bavaria
+     m. Annie [...]
+              b. age 32 y. as of 1880 census   Wert[...?]
+  
+  <font size=+1>children:</font>
+     George J. Vining   b. age 12 y. as of 1880 census   New York
+     Frederick Vining   b. age 7 y. as of 1880 census   New York
+     Annie Vining   b. age 6 y. as of 1880 census   New York
+     Charles Vining   b. age 1 y. as of 1880 census   New York
+  
+  <a href="Gsources/George04doc.htm">documentation and notes</a>

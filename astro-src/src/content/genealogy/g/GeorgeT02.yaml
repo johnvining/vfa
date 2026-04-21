@@ -1,0 +1,96 @@
+id: GeorgeT02
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ThomasA02
+parentLetter: T
+parentDesc: Thomas A. Vining and Amelia Tuller
+head:
+  givenName: George T.
+  birth:
+    date: 12 April 1828
+    place: "Simsbury, Connecticut"
+  death:
+    date: 5 November 1875
+    place: "Astoria, Oregon"
+marriages:
+  - spouse:
+      givenName: Mary Henrietta
+      surname: Hoffman
+childrenGroups:
+  - children:
+      - name: Kate M. Vining
+        birth:
+          date: 15 July 1858
+          place: "Josephine County, Oregon"
+      - name: Amelia Vining
+        birth:
+          date: age 8 m. as of 1860 census
+          place: Oregon
+      - name: Frank Hoffman Vining
+        entryId: FrankH02
+        entryLetter: F
+        birth:
+          date: 1 January 1862
+          place: Oregon
+        marriages:
+          - date: Susie Maria Edmonds
+        death:
+          date: 24 April 1946
+          place: "Pacific Grove, California"
+        burial:
+          place: "El Carmelo Cemetery   Pacific Grove, California"
+      - name: William Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: Oregon
+      - name: Ralph Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Oregon
+      - name: Emma Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Oregon
+      - name: Robert Linn Vining
+        entryId: RobertL09
+        entryLetter: R
+        birth:
+          date: 6 December 1871
+          place: "Puyallup, Washington [Territory]"
+        death:
+          date: 23 February 1950
+          place: "Seattle, Washington"
+        burial:
+          place: "Lake View Cemetery   Seattle, Washington"
+      - name: Irving E. Vining
+        birth:
+          date: 12 June 1874
+          place: Washington Territory
+        death:
+          date: 21 December 1949
+        burial:
+          place: "Ashland Cemetery   Ashland, Oregon"
+docsUrl: Gsources/GeorgeT02doc.htm
+raw: |-
+  <a name="GeorgeT02"></a><font size=+2>George T. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasA02">Thomas A. Vining and Amelia Tuller</a>)
+     b. 12 April 1828   Simsbury, Connecticut
+     m. Mary Henrietta Hoffman
+              b. 26 June 1837   Indiana
+              d. 12 January 1933
+                    bur. Ashland Cemetery   Ashland, Oregon
+     d. 5 November 1875   Astoria, Oregon
+           bur. Fort Steilacoom Cemetery   Steilacoom, Washington
+  
+  <font size=+1>children:</font>
+     Kate M. Vining   b. 15 July 1858   Josephine County, Oregon
+     Amelia Vining   b. age 8 m. as of 1860 census   Oregon
+     <a href="Ffamilies.htm#FrankH02">Frank Hoffman Vining</a>   b. 1 January 1862   Oregon   -   m. Susie Maria Edmonds   -   d. 24 April 1946   Pacific Grove, California   -   bur. El Carmelo Cemetery   Pacific Grove, California
+     William Vining   b. age 6 y. as of 1870 census   Oregon
+     Ralph Vining   b. age 4 y. as of 1870 census   Oregon
+     Emma Vining   b. age 2 y. as of 1870 census   Oregon
+     <a href="Rfamilies.htm#RobertL09">Robert Linn Vining</a>   b. 6 December 1871   Puyallup, Washington [Territory]   -   d. 23 February 1950   Seattle, Washington   -   bur. Lake View Cemetery   Seattle, Washington
+     Irving E. Vining   b. 12 June 1874   Washington Territory   -   d. 21 December 1949   -   bur. Ashland Cemetery   Ashland, Oregon
+  
+  <a href="Gsources/GeorgeT02doc.htm">documentation and notes</a>

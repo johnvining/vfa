@@ -1,0 +1,108 @@
+id: Gaius01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: Elias01
+parentLetter: E
+parentDesc: Elias Vining and Eunice Case
+head:
+  givenName: Gaius
+  birth:
+    date: 13 November 1785
+    place: "Simsbury, Connecticut"
+  death:
+    date: 28 February 1873
+    place: "Southwick, Massachusetts"
+marriages:
+  - date: 18 October 1812
+    place: "Simsbury, Connecticut"
+    spouse:
+      givenName: Martha
+      surname: Little
+      birth:
+        date: 27 January 1783
+        place: "Huntington, New York"
+      death:
+        date: 25 September 1871
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Henry Edward Vining
+        birth:
+          date: 31 July 1813
+          place: "Simsbury, Connecticut"
+      - name: Samuel Little Vining
+        birth:
+          date: 20 May 1817
+          place: "Simsbury, Connecticut"
+      - name: John Andrew Vining
+        birth:
+          date: 21 March 1819
+          place: "Simsbury, Connecticut"
+        death:
+          date: 21 October 1819
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+      - name: Martha Amelia Vining
+        birth:
+          date: 20 May 1822
+          place: "Simsbury, Connecticut"
+        death:
+          date: 6 May 1829
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+      - name: Moses Andrew Vining
+        entryId: MosesA01
+        entryLetter: M
+        birth:
+          date: 9 September 1823
+          place: "Simsbury, Connecticut"
+        marriages:
+          - date: Eliza Ann Brown
+        death:
+          date: 4 September 1890
+          place: "Jacksonville, Florida"
+      - name: Gaius Hobart Vining
+        birth:
+          date: 25 September 1824
+          place: "Simsbury, Connecticut"
+      - name: William Norton Vining
+        entryId: WilliamN01
+        entryLetter: W
+        birth:
+          date: 15 February 1826
+          place: "[Massachusetts or Simsbury, Connecticut?]"
+        marriages:
+          - date: 25 November 1855
+            place: "Chicopee, Massachusetts"
+            spouse: Phebe Fowler
+        death:
+          date: 9 August 1898
+          place: "Southwick, Massachusetts"
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+docsUrl: Gsources/Gaius01doc.htm
+raw: |-
+  <a name="Gaius01"></a><font size=+2>Gaius Vining</font>
+     (son of <a href="Efamilies.htm#Elias01">Elias Vining and Eunice Case</a>)
+     b. 13 November 1785   Simsbury, Connecticut
+     m. 18 October 1812   Simsbury, Connecticut
+           Martha Little
+                 (dau. of Samuel Little and [...])
+                 b. 27 January 1783   Huntington, New York
+                 d. 25 September 1871
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 28 February 1873   Southwick, Massachusetts
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>children:</font>
+     Henry Edward Vining   b. 31 July 1813   Simsbury, Connecticut
+     Samuel Little Vining   b. 20 May 1817   Simsbury, Connecticut
+     John Andrew Vining   b. 21 March 1819   Simsbury, Connecticut   -   d. 21 October 1819   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+     Martha Amelia Vining   b. 20 May 1822   Simsbury, Connecticut   -   d. 6 May 1829   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+     <a href="Mfamilies.htm#MosesA01">Moses Andrew Vining</a>   b. 9 September 1823   Simsbury, Connecticut   -   m. Eliza Ann Brown   -   d. 4 September 1890   Jacksonville, Florida
+     Gaius Hobart Vining   b. 25 September 1824   Simsbury, Connecticut
+     <a href="Wfamilies.htm#WilliamN01">William Norton Vining</a>   b. 15 February 1826   [Massachusetts or Simsbury, Connecticut?]   -   m. 25 November 1855   Chicopee, Massachusetts   Phebe Fowler   -   d. 9 August 1898   Southwick, Massachusetts   -   bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <a href="Gsources/Gaius01doc.htm">documentation and notes</a>

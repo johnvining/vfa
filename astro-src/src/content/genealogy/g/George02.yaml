@@ -1,0 +1,157 @@
+id: George02
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: GeorgeB01
+parentDesc: George B. Vining and Ruth Derby
+head:
+  givenName: George
+  birth:
+    date: 24 December 1754
+    place: "Norton, Bristol County, Massachusetts"
+  death:
+    date: 8 April 1822
+    place: "Plainfield, Hampshire County, Massachusetts"
+marriages:
+  - date: 27 July 1778
+    place: "Bridgewater, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Abigail
+      surname: Alden
+      birth:
+        date: 19 March 1761
+        place: "Bridgewater, Plymouth County, Massachusetts"
+      death:
+        date: 5 September 1831
+        place: "Plainfield, Massachusetts"
+      burial:
+        place: "West Hill Cemetery   Plainfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Polly Vining
+        birth:
+          date: "[18 or 8?] December 1778"
+          place: "Bridgewater, Plymouth County. Massachusetts"
+        marriages:
+          - date: 1 January 1799
+            spouse: Thomas Kingman
+      - name: Freeman Vining
+        birth:
+          date: 25 January 1781
+          place: "Bridgewater, Plymouth County, Massachusetts"
+        death:
+          date: "1812?"
+          place: Massachusetts
+      - name: Melvin Vining
+        birth:
+          date: 16 March 1783
+          place: "Bridgewater, Plymouth County, Massachusetts"
+      - name: Nabby Vining
+        birth:
+          date: 4 April 1785
+          place: "Bridgewater, Plymouth County, Massachusetts"
+        marriages:
+          - date: 10 January 1805
+            spouse: Robert Beals
+      - name: Scott Vining
+        entryId: Scott01
+        entryLetter: S
+        birth:
+          date: 11 May 1787
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - number: 1
+            date: 1 June 1816
+            place: "West Greenfield, New York"
+            spouse: Priscilla Burton
+          - number: 2
+            date: "?"
+          - number: 3
+            date: ca. 1833
+            spouse: "Isabella [Deyo/De Voe?]"
+        death:
+          date: 9 December 1844
+          place: "Belleville, Michigan"
+        burial:
+          place: "Soop-Pleasantview Cemetery   Belleville, Michigan"
+      - name: George Vining Jr.
+        entryId: GeorgeJr01
+        birth:
+          date: 3 August 1789
+          place: "Bridgewater, Plymouth County, Massachusetts"
+        marriages:
+          - date: 19 June 1817
+            spouse: Susan Woods
+        death:
+          date: 19 June 1871
+      - name: Marcus Vining
+        birth:
+          date: 21 October 1791
+          place: "Plainfield, Massachusetts"
+      - name: Ruth Vining
+        birth:
+          date: 6 November 1793
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: 25 October 1818
+            place: "Plainfield, Massachusetts"
+            spouse: Silas Johnson Carter
+        death:
+          date: 8 April 1885
+      - name: Leah Vining
+        birth:
+          date: 12 April 1796
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: 10 February 1818
+            spouse: Jacob Stetson
+        death:
+          date: 22 August 1881
+      - name: Cullen Vining
+        entryId: Cullen01
+        entryLetter: C
+        birth:
+          date: 17 May 1798
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: 5 July 1819
+            place: "Windsor, Massachusetts"
+            spouse: Hannah Latham
+        death:
+          date: "[12?] April 1856"
+        burial:
+          place: "Streeter Cemetery   Cummington, Massachusetts"
+      - name: Rebekah Vining
+        birth:
+          date: 2 July 1801
+        marriages:
+          - date: 7 June 1818
+            spouse: Joseph Woods
+docsUrl: Gsources/George02doc.htm
+raw: |-
+  <a name="George02"></a><font size=+2>George Vining</font>
+     (son of <a href="#GeorgeB01">George B. Vining and Ruth Derby</a>)
+     b. 24 December 1754   Norton, Bristol County, Massachusetts
+     m. 27 July 1778   Bridgewater, Plymouth County, Massachusetts
+           Abigail Alden
+                 (dau. of Ezra Alden and Rebecca Keith)
+                 b. 19 March 1761   Bridgewater, Plymouth County, Massachusetts
+                 d. 5 September 1831   Plainfield, Massachusetts
+                       bur. West Hill Cemetery   Plainfield, Massachusetts
+     d. 8 April 1822   Plainfield, Hampshire County, Massachusetts
+           bur. West Hill Cemetery   Plainfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     Polly Vining   b. [18 or 8?] December 1778   Bridgewater, Plymouth County. Massachusetts   -   m. 1 January 1799   Thomas Kingman
+     Freeman Vining   b. 25 January 1781   Bridgewater, Plymouth County, Massachusetts   -   d. 1812?   Massachusetts
+     Melvin Vining   b. 16 March 1783   Bridgewater, Plymouth County, Massachusetts
+     Nabby Vining   b. 4 April 1785   Bridgewater, Plymouth County, Massachusetts   -   m. 10 January 1805   Robert Beals
+     <a href="Sfamilies.htm#Scott01">Scott Vining</a>   b. 11 May 1787   Plainfield, Massachusetts   -   m. (1) 1 June 1816   West Greenfield, New York   Priscilla Burton;   (2) ?;   (3) ca. 1833   Isabella [Deyo/De Voe?]   -   d. 9 December 1844   Belleville, Michigan   -   bur. Soop-Pleasantview Cemetery   Belleville, Michigan
+     <a href="#GeorgeJr01">George Vining Jr.</a>   b. 3 August 1789   Bridgewater, Plymouth County, Massachusetts   -   m. 19 June 1817   Susan Woods   -   d. 19 June 1871
+     Marcus Vining   b. 21 October 1791   Plainfield, Massachusetts
+     Ruth Vining   b. 6 November 1793   Plainfield, Massachusetts   -   m. 25 October 1818   Plainfield, Massachusetts   Silas Johnson Carter   -   d. 8 April 1885
+     Leah Vining   b. 12 April 1796   Plainfield, Massachusetts   -   m. 10 February 1818   Jacob Stetson   -   d. 22 August 1881
+     <a href="Cfamilies.htm#Cullen01">Cullen Vining</a>   b. 17 May 1798   Plainfield, Massachusetts   -   m. 5 July 1819   Windsor, Massachusetts   Hannah Latham   -   d. [12?] April 1856   -   bur. Streeter Cemetery   Cummington, Massachusetts
+     Rebekah Vining   b. 2 July 1801   -   m. 7 June 1818   Joseph Woods 
+  
+  <a href="Gsources/George02doc.htm">documentation and notes</a>

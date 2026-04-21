@@ -1,0 +1,76 @@
+id: GeorgeO01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: WilliamO02
+parentLetter: W
+parentDesc: William Otis Vining and Eunice Horton Dwight
+head:
+  givenName: George Otis
+  birth:
+    date: 22 October 1848
+    place: Massachusetts
+  death:
+    date: 21 July 1883
+marriages:
+  - spouse:
+      givenName: Abbie Maria
+      surname: Knowlton
+childrenGroups:
+  - children:
+      - name: Henry Dwight Vining
+        birth:
+          date: 1 June 1872
+          place: Massachusetts
+        marriages:
+          - date: Grace Bradford
+        death:
+          date: 13 November 1946
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+      - name: Orrin W. Vining
+        birth:
+          date: "1873"
+          place: Massachusetts
+        death:
+          date: "1929"
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+      - name: Louis E. Vining
+        birth:
+          date: "1875"
+          place: Massachusetts
+        death:
+          date: "1970"
+      - name: Charles Horton Vining
+        entryId: CharlesH08
+        entryLetter: C
+        birth:
+          date: "1878"
+          place: Massachusetts
+        marriages:
+          - date: Laura L. Lemkie
+        death:
+          date: "1961"
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+docsUrl: Gsources/GeorgeO01doc.htm
+raw: |-
+  <a name="GeorgeO01"></a><font size=+2>George Otis Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamO02">William Otis Vining and Eunice Horton Dwight</a>)
+     b. 22 October 1848   Massachusetts
+     m. Abbie Maria Knowlton
+              (dau. of Austin Knowlton and Abigail G. Edwards)
+              b. 29 December 1848   Holden, Massachusetts
+              d. 5 June 1949   Springfield, Massachusetts
+                    bur. Springfield Cemetery   Springfield, Massachusetts
+     d. 21 July 1883
+           bur. Springfield Cemetery   Springfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     Henry Dwight Vining   b. 1 June 1872   Massachusetts   -   m. Grace Bradford   -   d. 13 November 1946   -   bur. Springfield Cemetery   Springfield, Massachusetts
+     Orrin W. Vining   b. 1873   Massachusetts   -   d. 1929   -   bur. Springfield Cemetery   Springfield, Massachusetts
+     Louis E. Vining   b. 1875   Massachusetts   -   d. 1970
+     <a href="Cfamilies.htm#CharlesH08">Charles Horton Vining</a>   b. 1878   Massachusetts   -   m. Laura L. Lemkie   -   d. 1961   -   bur. Springfield Cemetery   Springfield, Massachusetts 
+  
+  <a href="Gsources/GeorgeO01doc.htm">documentation and notes</a>

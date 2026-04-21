@@ -1,0 +1,62 @@
+id: GlenW01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: VirgilM01
+parentLetter: V
+parentDesc: Virgil M. Vining and Randy Mansager
+head:
+  givenName: Glen William
+  birth:
+    date: 10 December 1917
+    place: Iowa
+  death:
+    date: 21 May 1997
+    place: "Riverside, California"
+marriages:
+  - number: 1
+    date: Dorothy Bolton
+  - number: 2
+    date: "1968"
+    spouse:
+      givenName: Mrs. Laura Grace (McKaig)
+      surname: Grina
+      birth:
+        date: 5 March 1918
+      death:
+        date: 29 January 2007
+      burial:
+        place: "Riverside National Cemetery   Riverside, California"
+childrenGroups:
+  - spouseRef: Dorothy Bolton
+    children:
+      - name: Glen William Vining Jr.
+        entryId: GlenWJr01
+        birth:
+          date: 26 May 1939
+        marriages:
+          - date: Donna Waggner
+      - name: Kent M. Vining
+        entryId: KentM01
+        entryLetter: K
+        birth:
+          date: 18 April 1947
+        marriages:
+          - date: "Janet C. Bow,"
+            spouse: divorced
+raw: |-
+  <a name="GlenW01"></a><font size=+2>Glen William Vining</font>
+     (son of <a href="Vfamilies.htm#VirgilM01">Virgil M. Vining and Randy Mansager</a>)
+     b. 10 December 1917   Iowa
+     m. (1) Dorothy Bolton
+           (2) 1968
+                 Mrs. Laura Grace (McKaig) Grina
+                       b. 5 March 1918
+                       d. 29 January 2007
+                             bur. Riverside National Cemetery   Riverside, California
+     d. 21 May 1997   Riverside, California
+           bur. Riverside National Cemetery   Riverside, California
+  
+  <font size=+1>children by Dorothy Bolton:</font>
+     <a href="#GlenWJr01">Glen William Vining Jr.</a>   b. 26 May 1939   -   m. Donna Waggner
+     <a href="Kfamilies.htm#KentM01">Kent M. Vining</a>   b. 18 April 1947   -   m. Janet C. Bow,   divorced

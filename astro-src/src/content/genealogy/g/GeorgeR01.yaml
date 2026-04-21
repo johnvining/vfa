@@ -1,0 +1,96 @@
+id: GeorgeR01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: JeffersonT01
+parentLetter: J
+parentDesc: Jefferson T. Vining and Sarah Young
+head:
+  givenName: George Robert
+  birth:
+    date: 6 August 1897
+    place: "Portland, Oregon"
+  death:
+    date: 23 May 1983
+    place: "McMinnville, Oregon"
+marriages:
+  - date: 28 March 1928
+    spouse:
+      givenName: Fidella Emmaline
+      surname: Golladay
+      birth:
+        date: 26 August 1894
+        place: "Rardin, Illinois"
+      death:
+        date: 1 August 1974
+        place: "McMinnville, Oregon"
+      burial:
+        place: "Masonic Cemetery   McMinnville, Oregon"
+childrenGroups:
+  - children:
+      - name: Wilma I. Vining
+        birth:
+          date: "age 1 y., 5 m. as of 1930 census"
+          place: Oregon
+        marriages:
+          - date: "[&#8230;] Griffith"
+      - name: Marvin D. Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Oregon
+        marriages:
+          - date: "Dorine [&#8230;]"
+      - name: Ronald Reece Vining
+        entryId: RonaldR01
+        entryLetter: R
+        birth:
+          date: 22 October 1933
+          place: "[Oregon?]"
+        marriages:
+          - date: 10 May 1952
+            spouse: "Elnora [&#8230;]"
+        death:
+          date: 10 January 2018
+          place: "McMinnville, Oregon"
+        burial:
+          place: "Willamette National Cemetery   Portland, Oregon"
+      - name: "Tom Martin Vining   5 November 1935   Corvallis, Oregon"
+        death:
+          date: September 2012
+        burial:
+          place: "Willamette National Cemetery   Portland, Oregon"
+      - name: Reta E. Vining
+        birth:
+          date: age 0 m. as of 1940 census
+          place: Oregon
+        marriages:
+          - date: "[&#8230;] Wilson"
+      - name: Betty Vining
+docsUrl: Gsources/GeorgeR01doc.htm
+raw: |-
+  <a name="GeorgeR01"></a><font size=+2>George Robert Vining</font>
+     (son of <a href="Jfamilies.htm#JeffersonT01">Jefferson T. Vining and Sarah Young</a>)
+     b. 6 August 1897   Portland, Oregon
+     m. 28 March 1928
+           Fidella Emmaline Golladay
+                 (dau. of Byrd Monroe Golladay and Sarah E. Kaufman)
+                 b. 26 August 1894   Rardin, Illinois
+                 d. 1 August 1974   McMinnville, Oregon
+                       bur. Masonic Cemetery   McMinnville, Oregon
+     d. 23 May 1983   McMinnville, Oregon
+           bur. Masonic Cemetery   McMinnville, Oregon
+  
+  <font size=+1>adopted children:</font>
+     Sarah Pearl Vining   b. age 16 y. as of 1930 census   Canada
+     Vera I. Vining   b. age 15 y. as of 1930 census   Oregon
+     Quay Vining   b. age 14 y. as of 1930 census   Oregon
+     Charles C. Vining   b. age 11 y. as of 1930 census   Oregon
+  <font size=+1>children:</font>
+     Wilma I. Vining   b. age 1 y., 5 m. as of 1930 census   Oregon   -   m. [&#8230;] Griffith
+     Marvin D. Vining   b. age 9 y. as of 1940 census   Oregon   -   m. Dorine [&#8230;]
+     <a href="Rfamilies.htm#RonaldR01">Ronald Reece Vining</a>   b. 22 October 1933   [Oregon?]   -   m. 10 May 1952   Elnora [&#8230;]   -   d. 10 January 2018   McMinnville, Oregon   -   bur. Willamette National Cemetery   Portland, Oregon
+     Tom Martin Vining   5 November 1935   Corvallis, Oregon   -   m. Leah Fulmer   -   d. September 2012   -   bur. Willamette National Cemetery   Portland, Oregon
+     Reta E. Vining   b. age 0 m. as of 1940 census   Oregon   -   m. [&#8230;] Wilson
+     Betty Vining
+  
+  <a href="Gsources/GeorgeR01doc.htm">documentation and notes</a>

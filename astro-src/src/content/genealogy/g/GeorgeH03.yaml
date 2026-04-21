@@ -1,0 +1,62 @@
+id: GeorgeH03
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: WilliamE02
+parentLetter: W
+parentDesc: William Everett Vining and Eleanor Maud Burbank
+head:
+  givenName: George Henry
+  birth:
+    date: 29 August 1925
+    place: "Boston, Suffolk County, Massachusetts"
+  death:
+    date: 10 July 2013
+    place: "Casco, Cuberland County, Maine"
+marriages:
+  - spouse:
+      givenName: Edith Christina
+      surname: Schmook
+childrenGroups:
+  - children:
+      - name: Christine Vining
+        marriages:
+          - date: Jack Carroll
+      - name: George Allen Vining
+        entryId: GeorgeA03
+        birth:
+          date: 24 March 1949
+          place: "Brockton, Massachusetts"
+        marriages:
+          - date: Lori-Jean Perry
+        death:
+          date: 6 July 2017
+          place: "Kingston, Massachusetts"
+      - name: Richard Vining
+        entryId: Richard10
+        entryLetter: R
+        birth:
+          date: 29 January 1952
+        marriages:
+          - date: "(1?) Nancy [&#8230;];"
+            spouse: "(2?) Karen [&#8230;]"
+docsUrl: Gsources/GeorgeH03doc.htm
+raw: |-
+  <a name="GeorgeH03"></a><font size=+2>George Henry Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamE02">William Everett Vining and Eleanor Maud Burbank</a>)
+     b. 29 August 1925   Boston, Suffolk County, Massachusetts
+     m. Edith Christina Schmook
+              (dau. of Allen B. Schmook and Christina Thomas)
+              b. 10 August 1928   Boston, Suffolk County, Massachusetts
+              d. 15 March 2008   Plymouth, Plymouth County, Massachusetts
+                    bur. Mt. Pleasant Cemetery   Pembroke, Plymouth County, Massachusetts
+     d. 10 July 2013   Casco, Cuberland County, Maine
+           bur. Mt. Pleasant Cemetery   Pembroke, Plymouth County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Christine Vining   m. Jack Carroll
+     <a href="#GeorgeA03">George Allen Vining</a>   b. 24 March 1949   Brockton, Massachusetts   -   m. Lori-Jean Perry   -   d. 6 July 2017   Kingston, Massachusetts   -   but. Center 
+  Cemetery   Pembroke, Massachusetts
+     <a href="Rfamilies.htm#Richard10">Richard Vining</a>   b. 29 January 1952   -   m. (1?) Nancy [&#8230;];   (2?) Karen [&#8230;]
+  
+  <a href="Gsources/GeorgeH03doc.htm">documentation and notes</a>

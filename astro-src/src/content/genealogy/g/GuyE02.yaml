@@ -1,0 +1,72 @@
+id: GuyE02
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ElmerE01
+parentLetter: E
+parentDesc: Elmer E. Vining and Eva L. Hamilton
+head:
+  givenName: Guy E.
+  birth:
+    date: 5 September 1889
+    place: Kansas
+  death:
+    date: 9 November 1961
+marriages:
+  - spouse:
+      givenName: Lavere M.
+      surname: Johnson
+childrenGroups:
+  - children:
+      - name: Dorothy Vining
+        birth:
+          date: "age 3 y., 9 m. as of 1920 census"
+          place: Kansas
+      - name: Robert E. Vining
+        birth:
+          date: "age 1 y., 8 m. as of 1920 census"
+          place: Kansas
+      - name: Theodore Charles Vining
+        entryId: TheodoreC01
+        entryLetter: T
+        birth:
+          date: 2 August 1920
+        marriages:
+          - date: Jean Meredith Atteberry
+        death:
+          date: 24 June 2001
+        burial:
+          place: "East Lawn Palms Cemetery   Tucson, Arizona"
+      - name: Joe Alvin Vining
+        entryId: JoeA01
+        entryLetter: J
+        birth:
+          date: 21 December 1922
+          place: Kansas
+        marriages:
+          - date: 1 February 1949
+            spouse: Lucy Carig
+        death:
+          date: 16 June 1993
+        burial:
+          place: "St. Leos Catholic Cemetery   Horton, Kansas"
+docsUrl: Gsources/GuyE02doc.htm
+raw: |-
+  <a name="GuyE02"></a><font size=+2>Guy E. Vining</font>
+     (son of <a href="Efamilies.htm#ElmerE01">Elmer E. Vining and Eva L. Hamilton</a>)
+     b. 5 September 1889   Kansas
+     m. Lavere M. Johnson
+              (dau. of R. H. Johnson and Blanche Jones)
+              b. 29 May 1895   Lawrence, Kansas
+              d. 18 October 1943   Manhattan, New York City, New York
+                    bur. Horton Cemetery   Horton, Kansas
+     d. 9 November 1961
+           bur. Horton Cemetery   Horton, Kansas
+  
+  <font size=+1>children:</font>
+     Dorothy Vining   b. age 3 y., 9 m. as of 1920 census   Kansas
+     Robert E. Vining   b. age 1 y., 8 m. as of 1920 census   Kansas
+     <a href="Tfamilies.htm#TheodoreC01">Theodore Charles Vining</a>   b. 2 August 1920   -   m. Jean Meredith Atteberry   -   d. 24 June 2001   -   bur. East Lawn Palms Cemetery   Tucson, Arizona
+     <a href="Jfamilies.htm#JoeA01">Joe Alvin Vining</a>   b. 21 December 1922   Kansas   -   m. 1 February 1949   Lucy Carig   -   d. 16 June 1993   -   bur. St. Leos Catholic Cemetery   Horton, Kansas
+  
+  <a href="Gsources/GuyE02doc.htm">documentation and notes</a>

@@ -1,0 +1,99 @@
+id: George01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: John01
+parentLetter: J
+parentDesc: John Vining and Mary Reed
+head:
+  givenName: George
+  birth:
+    date: ca. 1679
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 27 March 1723
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 10 October 1700
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Hannah
+      surname: Judkins
+      birth:
+        date: 14 February 1676
+        place: "Boston, Suffolk County, Massachusetts"
+      death:
+        date: 17 February 1774
+        place: "Abington, Plymouth County, Massachusetts"
+      burial:
+        place: "Maplewood Cemetery   Rockland, Plymouth County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Thomas Vining
+        entryId: Thomas01
+        entryLetter: T
+        birth:
+          date: 14 September 1703
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 25 July 1727
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Hannah Randall
+        death:
+          date: "1753"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Elisha Vining
+        entryId: Elisha01
+        entryLetter: E
+        birth:
+          date: ca. 1714
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 3 December 1741
+            spouse: Mary Leavitt
+        death:
+          date: 3 April 1799
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: George B. Vining
+        entryId: GeorgeB01
+        birth:
+          date: "1716"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 3 December 1741
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Ruth Derby
+          - number: 2
+            date: 13 March 1755
+            spouse: Mary Dunham
+        death:
+          date: 3 April 1799
+          place: "Norton, Bristol County, Massachusetts"
+      - name: Hannah Vining
+      - name: Elizabeth Vining
+      - name: Mary Vining
+      - name: Jane Vining
+docsUrl: Gsources/George01doc.htm
+raw: |-
+  <a name="George01"></a><font size=+2>George Vining</font>
+     (son of <a href="Jfamilies.htm#John01">John Vining and Mary Reed</a>)
+     b. ca. 1679   Weymouth, Norfolk County, Massachusetts
+     m. 10 October 1700   Weymouth, Norfolk County, Massachusetts
+           Hannah Judkins
+                 (dau. of Samuel Judkins and Elizabeth Leavitt)
+                 b. 14 February 1676   Boston, Suffolk County, Massachusetts
+                 d. 17 February 1774   Abington, Plymouth County, Massachusetts
+                       bur. Maplewood Cemetery   Rockland, Plymouth County, Massachusetts
+     d. 27 March 1723   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Tfamilies.htm#Thomas01">Thomas Vining</a>   b. 14 September 1703   Weymouth, Norfolk County, Massachusetts   -   m. 25 July 1727   Weymouth, Norfolk County, Massachusetts   Hannah Randall   -   d. 1753   Weymouth, Norfolk County, Massachusetts
+     <a href="Efamilies.htm#Elisha01">Elisha Vining</a>   b. ca. 1714   Weymouth, Norfolk County, Massachusetts   -   m. 3 December 1741   Mary Leavitt   -   d. 3 April 1799   Abington, Plymouth County, Massachusetts
+     <a href="#GeorgeB01">George B. Vining</a>   b. 1716   Weymouth, Norfolk County, Massachusetts   -   m. (1) 3 December 1741   Weymouth, Norfolk County, Massachusetts   Ruth Derby;   (2) 13 March 1755   Mary Dunham   -   d. 3 April 1799   Norton, Bristol County, Massachusetts
+     Hannah Vining
+     Elizabeth Vining
+     Mary Vining
+     Jane Vining
+  
+  <a href="Gsources/George01doc.htm">documentation and notes</a>

@@ -1,0 +1,51 @@
+id: GuyH01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: MaconA01
+parentLetter: M
+parentDesc: Macon Abner Vining and Mary Belle Jones
+head:
+  givenName: Guy Henry
+  birth:
+    date: 12 September 1901
+  death:
+    date: 20 July 1986
+    place: "(last residence: Hurtsboro, Alabama)"
+marriages:
+  - spouse:
+      givenName: Sarah Caroline
+      surname: Persons
+childrenGroups:
+  - children:
+      - name: Guy Macon Vining
+        birth:
+          date: 2 May 1938
+        death:
+          date: 16 February 1947
+        burial:
+          place: "Hurtsboro Cemetery   Hurtsboro, Alabama"
+      - name: William Persons Vining
+        birth:
+          date: 7 January 1942
+        death:
+          date: 14 April 1942
+        burial:
+          place: "Hurtsboro Cemetery   Hurtsboro, Alabama"
+docsUrl: Gsources/GuyH01doc.htm
+raw: |-
+  <a name="GuyH01"></a><font size=+2>Guy Henry Vining</font>
+     (son of <a href="Mfamilies.htm#MaconA01">Macon Abner Vining and Mary Belle Jones</a>)
+     b. 12 September 1901
+     m. Sarah Caroline Persons
+              b. 3 September 1913
+              d. 3 March 2004
+                    bur. Hurtsboro Cemetery   Hurtsboro, Alabama
+     d. 20 July 1986   (last residence: Hurtsboro, Alabama)
+           bur. Hurtsboro Cemetery   Hurtsboro, Alabama
+  
+  <font size=+1>children:</font>
+     Guy Macon Vining   b. 2 May 1938   -   d. 16 February 1947   -   bur. Hurtsboro Cemetery   Hurtsboro, Alabama
+     William Persons Vining   b. 7 January 1942   -   d. 14 April 1942   -   bur. Hurtsboro Cemetery   Hurtsboro, Alabama
+  
+  <a href="Gsources/GuyH01doc.htm">documentation and notes</a>

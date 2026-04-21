@@ -1,0 +1,52 @@
+id: GeorgeW03
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: Israel02
+parentLetter: I
+parentDesc: Israel Vining and Joan (Bigelow) Haws
+head:
+  givenName: George Washington
+  birth:
+    date: 21 February 1848
+  death:
+    date: 27 November 1915
+marriages:
+  - date: 16 March 1878
+    spouse:
+      givenName: Mary Edna
+      surname: Lucas
+      birth:
+        date: July 1850
+        place: Maine
+childrenGroups:
+  - children:
+      - name: Ruth Winnifred Vining
+        birth:
+          date: 9 April 1880
+          place: "St. Albans, Maine"
+      - name: Harold Luther Vining
+        birth:
+          date: May 1888
+          place: Maine
+        death:
+          date: "1948"
+        burial:
+          place: "Evergreen Washelli Memorial Park   Seattle, Washington"
+docsUrl: Gsources/GeorgeW03doc.htm
+raw: |-
+  <a name="GeorgeW03"></a><font size=+2>George Washington Vining</font>
+     (son of <a href="Ifamilies.htm#Israel02">Israel Vining and Joan (Bigelow) Haws</a>)
+     b. 21 February 1848
+     m. 16 March 1878
+           Mary Edna Lucas
+                 (dau. of Henry A. Lucas and Mary [...])
+                 b. July 1850   Maine
+     d. 27 November 1915
+           bur. Evergreen Washelli Memorial Park   Seattle, Washington
+  
+  <font size=+1>children:</font>
+     Ruth Winnifred Vining   b. 9 April 1880   St. Albans, Maine
+     Harold Luther Vining   b. May 1888   Maine   -   d. 1948   -   bur. Evergreen Washelli Memorial Park   Seattle, Washington
+  
+  <a href="Gsources/GeorgeW03doc.htm">documentation and notes</a>

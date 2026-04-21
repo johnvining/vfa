@@ -1,0 +1,161 @@
+id: GeorgeJ01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ThomasW02
+parentLetter: T
+parentDesc: Thomas William Vining and Mary Prediger
+head:
+  givenName: George Joseph
+  birth:
+    date: 25 March 1836
+    place: "Bristol, England"
+  death:
+    date: 15 March 1915
+marriages:
+  - number: 1
+    date: 1 November 1862
+    place: "Pine Bluff, Arkansas"
+    spouse:
+      givenName: Cornelia
+      surname: Aldridge
+      birth:
+        date: 27 August 1846
+        place: Kentucky
+      death:
+        date: 18 November 1900
+      burial:
+        place: "Bellwood Cemetery   Pine Bluff, Arkansas"
+  - number: 2
+    date: 22 October 1901
+    place: "Pine Bluff, Arkansas"
+    spouse:
+      givenName: Amelia R.
+      surname: Schwind
+      birth:
+        date: 24 October 1864
+        place: "Bellville, Illinois"
+      death:
+        date: September 1958
+        place: "Little Rock, Arkansas"
+      burial:
+        place: "Bellwood Cemetery   Pine Bluff, Arkansas"
+childrenGroups:
+  - spouseRef: Cornelia Aldridge
+    children:
+      - name: Thomas Vining
+        entryId: Thomas15
+        entryLetter: T
+        birth:
+          date: April 1864
+          place: Illinois
+        marriages:
+          - date: 4 y. as of 1900 census
+            spouse: "Fannie E. [&#8230;]"
+      - name: "Mary Ellen &#8220;Nellie&#8221; Vining"
+        birth:
+          date: 10 April 1866
+          place: "Mattoon, Illinois"
+        marriages:
+          - date: "1890"
+            spouse: "Pine Bluff, Arkansas   Benjamin H. Christopher"
+        death:
+          date: 1 January 1951
+        burial:
+          place: "Bellwood Cemetery   Pine Bluff, Arkansas"
+      - name: Frances Cornelia Vining
+        birth:
+          date: age 12 y. as of 1880 census
+          place: Illinois
+        marriages:
+          - date: H. P. Alexander
+        death:
+          date: 16 October 1895
+          place: "Pine Bluff, Arkansas"
+      - name: George Joseph Vining Jr.
+        entryId: GeorgeJJr01
+        birth:
+          date: 9 July 1872
+          place: "Mattoon, Illinois"
+        marriages:
+          - date: 19 April 1899
+            spouse: "Margaret Olivia &#8220;Maggie&#8221; Rutledge"
+        death:
+          date: 3 February 1938
+        burial:
+          place: "Bellwood Cemetery   Pine Bluff, Arkansas"
+      - name: Arthur Lee Vining
+        entryId: ArthurL03
+        entryLetter: A
+        birth:
+          date: 7 January 1871
+          place: Illinois
+        marriages:
+          - date: 29 April 1907
+            spouse: Fannie Harding
+        death:
+          date: 5 September 1957
+      - name: Victor Vining
+        birth:
+          date: September 1872
+        death:
+          date: November 1873
+      - name: Fred Earnest Vining
+        entryId: FredE01
+        entryLetter: F
+        birth:
+          date: 5 January 1878
+          place: "Mattoon, Illinois"
+        marriages:
+          - date: 11 December 1906
+            spouse: Minnie Frances Payne
+        death:
+          date: 20 August 1956
+          place: "Greenwood, Mississippi"
+        burial:
+          place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+      - name: "Thomas Freelin &#8220;Nuse&#8221; Vining"
+        birth:
+          date: 22 April 1882
+        marriages:
+          - date: "5 July 1896 [at 14 y.?]"
+            spouse: Tommie Glover
+        death:
+          date: 5 May 1941
+      - name: John Vera Vining
+        birth:
+          date: 28 September 1885
+          place: "Mattoon, Illinois"
+        death:
+          date: 14 April 1944
+docsUrl: Gsources/GeorgeJ01doc.htm
+raw: |-
+  <a name="GeorgeJ01"></a><font size=+2>George Joseph Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasW02">Thomas William Vining and Mary Prediger</a>)
+     b. 25 March 1836   Bristol, England
+     m. (1) 1 November 1862   Pine Bluff, Arkansas
+                 Cornelia Aldridge
+                       b. 27 August 1846   Kentucky
+                       d. 18 November 1900
+                             bur. Bellwood Cemetery   Pine Bluff, Arkansas
+           (2) 22 October 1901   Pine Bluff, Arkansas
+                 Amelia R. Schwind
+                       (dau. of John Schwind and Margaret [...])
+                       b. 24 October 1864   Bellville, Illinois
+                       d. September 1958   Little Rock, Arkansas
+                             bur. Bellwood Cemetery   Pine Bluff, Arkansas
+     d. 15 March 1915
+           bur. Bellwood Cemetery   Pine Bluff, Arkansas
+  
+  <font size=+1>children by Cornelia Aldridge:</font>
+     <a href="Tfamilies.htm#Thomas15">Thomas Vining</a>   b. April 1864   Illinois   -   m. 4 y. as of 1900 census   Fannie E. [&#8230;]
+     Mary Ellen &#8220;Nellie&#8221; Vining   b. 10 April 1866   Mattoon, Illinois   -   m. 1890   Pine Bluff, Arkansas   Benjamin H. Christopher   -   d. 1 January 1951   -   bur. Bellwood Cemetery   Pine Bluff, Arkansas
+     Frances Cornelia Vining   b. age 12 y. as of 1880 census   Illinois   -   m. H. P. Alexander   -   d. 16 October 1895   Pine Bluff, Arkansas
+     <a href="#GeorgeJJr01">George Joseph Vining Jr.</a>   b. 9 July 1872   Mattoon, Illinois   -   m. 19 April 1899   Margaret Olivia &#8220;Maggie&#8221; Rutledge   -   d. 3 February 1938   -   bur. Bellwood Cemetery   Pine Bluff, Arkansas
+     <a href="Afamilies.htm#ArthurL03">Arthur Lee Vining</a>   b. 7 January 1871   Illinois   -   m. 29 April 1907   Fannie Harding   -   d. 5 September 1957
+     Victor Vining   b. September 1872   -   d. November 1873
+     <a href="Ffamilies.htm#FredE01">Fred Earnest Vining</a>   b. 5 January 1878   Mattoon, Illinois   -   m. 11 December 1906   Minnie Frances Payne   -   d. 20 August 1956   Greenwood, Mississippi   -   bur. Bellwood Cemetery Annex   Pine Bluff, Arkansas
+     Thomas Freelin &#8220;Nuse&#8221; Vining   b. 22 April 1882   -   m. 5 July 1896 [at 14 y.?]   Tommie Glover   -   d. 5 May 1941
+     John Vera Vining   b. 28 September 1885   Mattoon, Illinois   -   d. 14 April 1944
+  
+  <a href="Gsources/GeorgeJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,56 @@
+id: GeorgeW02
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: Page01
+parentLetter: P
+parentDesc: Page Vining and Margaret Ring
+head:
+  givenName: George W.
+  birth:
+    date: June 1828
+    place: "Weld, Maine"
+  death:
+    date: 7 June 1908
+    place: "Weld, Maine"
+marriages:
+  - spouse:
+      givenName: "Katharine A. &#8220;Kate&#8221;"
+      surname: Rollins
+childrenGroups:
+  - children:
+      - name: Clara E. Vining
+        birth:
+          date: "age 3 y., 7 m. at death"
+          place: Maine
+        death:
+          date: 1 January 1861
+        burial:
+          place: "Center Hill Cemetery   Weld, Maine"
+      - name: Willie E. Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: Maine
+        death:
+          date: "Weld, Maine"
+      - name: Herbert E. Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Maine
+docsUrl: Gsources/GeorgeW02doc.htm
+raw: |-
+  <a name="GeorgeW02"></a><font size=+2>George W. Vining</font>
+     (son of <a href="Pfamilies.htm#Page01">Page Vining and Margaret Ring</a>)
+     b. June 1828   Weld, Maine
+     m. Katharine A. &#8220;Kate&#8221; Rollins
+              b. age 51 y. at death   Maine
+              d. 3 October 1889
+                    bur. Center Hill Cemetery   Weld, Maine
+     d. 7 June 1908   Weld, Maine
+  
+  <font size=+1>children:</font>
+     Clara E. Vining   b. age 3 y., 7 m. at death   Maine   -   d. 1 January 1861   -   bur. Center Hill Cemetery   Weld, Maine
+     Willie E. Vining   b. age 6 y. as of 1870 census   Maine   -   d. Weld, Maine
+     Herbert E. Vining   b. age 2 y. as of 1870 census   Maine
+  
+  <a href="Gsources/GeorgeW02doc.htm">documentation and notes</a>

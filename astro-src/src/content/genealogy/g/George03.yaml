@@ -1,0 +1,74 @@
+id: George03
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: John07
+parentLetter: J
+parentDesc: John Vining and Fanny Richardson
+head:
+  givenName: George
+  birth:
+    date: 29 December 1818
+    place: "Templeton, Massachusetts"
+  death:
+    date: 1 June 1875
+    place: "Templeton, Worcester Counnty,Massachusetts"
+marriages:
+  - date: 14 November 1844
+    place: "Portland, Maine"
+    spouse:
+      givenName: Martha B.
+      surname: Emery
+      birth:
+        date: 15 March 1821
+        place: "Bartlett, Carroll County, New Hampshire"
+      death:
+        date: 16 May 1901
+        place: "Templeton, WorcesterCounty, Massachusetts"
+      burial:
+        place: "Pine Grove Cemetery   Templeton, Worcester County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Fanny Vining
+        birth:
+          date: 23 July 1846
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 4 September 1872
+            place: "Fitchburg, Massachusetts"
+            spouse: George F. Gould
+      - name: Martha Vining
+        birth:
+          date: 23 July 1846
+          place: "Templeton, Massachusetts"
+        marriages:
+          - date: 15 June 1868
+            place: "Templeton, Massachusetts"
+            spouse: Austin Curtis Drury
+      - name: George Luther Vining
+        birth:
+          date: 6 October 1851
+          place: Massachusetts
+        marriages:
+          - date: "1874"
+            spouse: Fannie A. Balcom
+docsUrl: Gsources/George03doc.htm
+raw: |-
+  <a name="George03"></a><font size=+2>George Vining</font>
+     (son of <a href="Jfamilies.htm#John07">John Vining and Fanny Richardson</a>)
+     b. 29 December 1818   Templeton, Massachusetts
+     m. 14 November 1844   Portland, Maine
+           Martha B. Emery
+                 (dau. of Nathaniel Emery and Deborah Rogers)
+                 b. 15 March 1821   Bartlett, Carroll County, New Hampshire
+                 d. 16 May 1901   Templeton, WorcesterCounty, Massachusetts
+                       bur. Pine Grove Cemetery   Templeton, Worcester County, Massachusetts
+     d. 1 June 1875   Templeton, Worcester Counnty,Massachusetts
+           bur. Pine Grove Cemetery   Templeton, Worcester Couny, Massachusetts
+  
+  <font size=+1>children:</font>
+     Fanny Vining   b. 23 July 1846   Templeton, Massachusetts   -   m. 4 September 1872   Fitchburg, Massachusetts   George F. Gould
+     Martha Vining   b. 23 July 1846   Templeton, Massachusetts   -   m. 15 June 1868   Templeton, Massachusetts   Austin Curtis Drury
+     George Luther Vining   b. 6 October 1851   Massachusetts   -   m. 1874   Fannie A. Balcom
+  
+  <a href="Gsources/George03doc.htm">documentation and notes</a>

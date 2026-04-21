@@ -1,0 +1,37 @@
+id: George05
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George
+  birth:
+    date: Australia
+childrenGroups:
+  - children:
+      - name: Ron Vining
+      - name: Walter Roy Vining
+        entryId: WalterR03
+        entryLetter: W
+        birth:
+          date: 21 September 1930
+        death:
+          date: 2 February 2001
+        burial:
+          place: "Kelvin Grove Cemetery   Palmerston North, Wanganui-Manawatu, New Zealand"
+      - name: Clive Vining
+      - name: Dulcie Vining
+      - name: Maureen Vining
+      - name: Nola Vining
+raw: |-
+  <a name="George05"></a><font size=+2>George Vining</font>
+     (son of [?])
+     b. Australia
+  
+  <font size=+1>children:</font>
+     Ron Vining
+     <a href="Wfamilies.htm#WalterR03">Walter Roy Vining</a>   b. 21 September 1930   -   d. 2 February 2001   -   bur. Kelvin Grove Cemetery   Palmerston North, Wanganui-Manawatu, New Zealand
+     Clive Vining
+     Dulcie Vining
+     Maureen Vining
+     Nola Vining

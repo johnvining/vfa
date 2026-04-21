@@ -1,0 +1,52 @@
+id: GeorgeW07
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: OwenF01
+parentLetter: O
+parentDesc: Owen Franklin Vining and Pearl Woodard
+head:
+  givenName: "George Washington &#8220;Sonny&#8221"
+  birth:
+    date: 30 July 1930
+    place: Georgia
+  death:
+    date: 4 March 2015
+    place: Georgia
+marriages:
+  - date: 2 January 1952
+    spouse:
+      givenName: Robbie Nell
+      surname: Wheless
+      birth:
+        date: 30 May 1933
+        place: Georgia
+      death:
+        date: 29 November 2007
+      burial:
+        place: "Woodlawn Annex Cemetery   Adel, Georgia"
+childrenGroups:
+  - children:
+      - name: Justina Vining
+        marriages:
+          - date: Richard Strickland
+      - name: Bruce Vining
+        entryId: Bruce02
+        entryLetter: B
+        marriages:
+          - date: Iris Marcia Taylor
+raw: |-
+  <a name="GeorgeW07"></a><font size=+2>George Washington &#8220;Sonny&#8221 Vining</font>
+     (son of <a href="Ofamilies.htm#OwenF01">Owen Franklin Vining and Pearl Woodard</a>)
+     b. 30 July 1930   Georgia
+     m. 2 January 1952
+           Robbie Nell Wheless
+                 b. 30 May 1933   Georgia
+                 d. 29 November 2007
+                       bur. Woodlawn Annex Cemetery   Adel, Georgia
+     d. 4 March 2015   Georgia
+           bur. Woodlawn Annex Cemetery   Adel, Georgia
+  
+  <font size=+1>children:</font>
+     Justina Vining   m. Richard Strickland
+     <a href="Bfamilies.htm#Bruce02">Bruce Vining</a>   m. Iris Marcia Taylor

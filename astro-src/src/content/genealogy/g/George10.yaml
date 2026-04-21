@@ -1,0 +1,37 @@
+id: George10
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George
+  birth:
+    date: age 28 y. as of 1870 census
+    place: Mississippi
+marriages:
+  - spouse:
+      givenName: Lucinda
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Betsy Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Arkansas
+      - name: Robert Vining
+        birth:
+          date: December 1869
+          place: Arkansas
+docsUrl: Gsources/George10doc.htm
+raw: |-
+  <a name="George10"></a><font size=+2>George Vining</font>
+     (son of [?])
+     b. age 28 y. as of 1870 census   Mississippi
+     m. Lucinda [...]
+              b. age 24 y. as of 1870 census   Indian Territory
+  
+  <font size=+1>children:</font>
+     Betsy Vining   b. age 3 y. as of 1870 census   Arkansas
+     Robert Vining   b. December 1869   Arkansas
+  
+  <a href="Gsources/George10doc.htm">documentation and notes</a>

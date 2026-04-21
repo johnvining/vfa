@@ -1,0 +1,44 @@
+id: GeorgeH05
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ThaddeusS01
+parentLetter: T
+parentDesc: Thaddeus Subsequie Vining and Anna Greene
+head:
+  givenName: George H.
+  birth:
+    date: "1891"
+    place: Illinois
+  death:
+    date: August 1922
+marriages:
+  - spouse:
+      givenName: Dora P.
+      surname: Scheele
+childrenGroups:
+  - children:
+      - name: Mary E. Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: Michigan
+      - name: Donald G. Vining
+        birth:
+          date: age 7 y. as of 1930 census
+          place: Michigan
+docsUrl: Gsources/GeorgeH05doc.htm
+raw: |-
+  <a name="GeorgeH05"></a><font size=+2>George H. Vining</font>
+     (son of <a href="Tfamilies.htm#ThaddeusS01">Thaddeus Subsequie Vining and Anna Greene</a>)
+     b. 1891   Illinois
+     m. Dora P. Scheele
+              (dau. of [&#8230] Scheele and Pauline D. [&#8230;])
+              b. age 24 y. as of 1920 census   Michigan
+     d. August 1922
+           bur. Woodland Cemetery   Jackson, Michigan
+  
+  <font size=+1>children:</font>
+     Mary E. Vining   b. age 9 y. as of 1930 census   Michigan
+     Donald G. Vining   b. age 7 y. as of 1930 census   Michigan
+  
+  <a href="Gsources/GeorgeH05doc.htm">documentation and notes</a>

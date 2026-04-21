@@ -1,0 +1,33 @@
+id: GeorgeC01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George C.
+marriages:
+  - spouse:
+      givenName: Jean
+      surname: Musgrave
+childrenGroups:
+  - children:
+      - name: Carlton Vining
+        marriages:
+          - date: "JoAnn [...]"
+      - name: Charles Whitney Vining
+        entryId: CharlesW03
+        entryLetter: C
+        marriages:
+          - date: Annette L. Thibeault
+        death:
+          date: 22 March 2014
+        burial:
+          place: "Oak Grove Cemetery   Medford, Massachusetts"
+raw: |-
+  <a name="GeorgeC01"></a><font size=+2>George C. Vining</font>
+     (son of [?])
+     m. Jean Musgrave
+  
+  <font size=+1>children:</font>
+     Carlton Vining   m. JoAnn [...]
+     <a href="Cfamilies.htm#CharlesW03">Charles Whitney Vining</a>   m. Annette L. Thibeault   -   d. 22 March 2014   -   bur. Oak Grove Cemetery   Medford, Massachusetts

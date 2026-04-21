@@ -1,0 +1,56 @@
+id: GeraldO01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: MerleE01
+parentLetter: M
+parentDesc: Merle Edwin Vining and Edna Grace Snyder
+head:
+  givenName: Gerald Owen
+  birth:
+    date: 3 December 1944
+    place: "Aberdeen, South Dakota"
+  death:
+    date: 31 August 2017
+marriages:
+  - spouse:
+      givenName: "(1?) Mary"
+      surname: Meek
+childrenGroups:
+  - spouseRef: Mary Meek
+    children:
+      - name: Diana M. Vining
+        birth:
+          date: 4 May 1967
+        marriages:
+          - date: "[&#8230;] Crosser"
+      - name: Robert E. Vining
+        birth:
+          date: 6 May 1969
+        marriages:
+          - date: "Michelle [&#8230;]"
+      - name: Michael Vining
+        marriages:
+          - date: "Janel [&#8230;]"
+      - name: Patrick Vining
+        marriages:
+          - date: "Michelle [&#8230;]"
+docsUrl: Gsources/GeraldO01doc.htm
+raw: |-
+  <a name="GeraldO01"></a><font size=+2>Gerald Owen Vining</font>
+     (son of <a href="Mfamilies.htm#MerleE01">Merle Edwin Vining and Edna Grace Snyder</a>)
+  
+     b. 3 December 1944   Aberdeen, South Dakota
+     m. (1?) Mary Meek
+        (2) Linda [&#8230;]
+        (3?) 12 April 1997   South Dakota
+                 Barbara Eide
+     d. 31 August 2017
+  
+  <font size=+1>children by Mary Meek:</font>
+     Diana M. Vining   b. 4 May 1967   -   m. [&#8230;] Crosser
+     Robert E. Vining   b. 6 May 1969   -   m. Michelle [&#8230;]
+     Michael Vining   m. Janel [&#8230;]
+     Patrick Vining   m. Michelle [&#8230;]
+  
+  <a href="Gsources/GeraldO01doc.htm">documentation and notes</a>

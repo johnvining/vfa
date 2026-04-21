@@ -1,0 +1,105 @@
+id: GorhamP01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ThomasF04
+parentLetter: T
+parentDesc: "Thomas Field Vining and Elizabeth [&#8230;]"
+head:
+  givenName: Gorham Parsons
+  birth:
+    date: 18 June 1819
+    place: "Medford, Massachusetts"
+  death:
+    date: 23 March 1895
+    place: "Neenah, Wisconsin"
+marriages:
+  - number: 1
+    date: 13 November 1849
+    spouse:
+      givenName: Mary Eliza
+      surname: Huxley
+      birth:
+        date: 30 December 1828
+        place: "Stafford, New York"
+      death:
+        date: 1 January 1866
+      burial:
+        place: "Oak Hill Cemetery   Neenah, Wisconsin"
+  - number: 2
+    date: Clara Alice Huxley
+childrenGroups:
+  - spouseRef: Mary Eliza Huxley
+    children:
+      - name: Willard H. Vining
+        birth:
+          date: 8 February 1851
+          place: "Neenah, Wisconsin"
+      - name: Mary Eliza Vining
+        birth:
+          date: 16 November 1856
+          place: "Neenah, Wisconsin"
+        marriages:
+          - date: 30 June 1881
+            place: "Neenah, Wisconsin"
+            spouse: Emil Bernhard Sorley
+        burial:
+          place: "Oakwood Cemetery   Weyauwega, Wisconsin"
+      - name: Byron Vining
+        entryId: Byron01
+        entryLetter: B
+        birth:
+          date: "[17 or 21?] January 1860"
+          place: "Neenah, Wisconsin"
+        marriages:
+          - date: 3 y. as of 1900 census
+            spouse: Estelle Hollingsworth
+        death:
+          date: 30 January 1937
+          place: "Phoenix, Arizona"
+        burial:
+          place: "Greenwood Memory Lawn Cemetery   Phoenix, Arizona"
+  - spouseRef: "Clara A. [...]"
+    children:
+      - name: "Frances H. &#8220;Fannie&#8221; Vining"
+        birth:
+          date: December 1869
+          place: Wisconsin
+        marriages:
+          - date: "[...] [Alden?]"
+      - name: Gorham P. Vining
+        birth:
+          date: 18 October 1877
+          place: Wisconsin
+        marriages:
+          - date: "Grace P. [...]"
+        death:
+          date: February 1969
+          place: "(last residence: Monterey, Indiana)"
+docsUrl: Gsources/GorhamP01doc.htm
+raw: |-
+  <a name="GorhamP01"></a><font size=+2>Gorham Parsons Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasF04">Thomas Field Vining and Elizabeth [&#8230;]</a>)
+     b. 18 June 1819   Medford, Massachusetts
+     m. (1) 13 November 1849
+                 Mary Eliza Huxley
+                       (dau. of Milton Huxley and Harriet Hickox)
+                       b. 30 December 1828   Stafford, New York
+                       d. 1 January 1866
+                             bur. Oak Hill Cemetery   Neenah, Wisconsin
+           (2) Clara Alice Huxley
+                       b. 1836   Massachusetts
+                       d. 27 January 1929   Chicago, Illinois
+                             bur. Oak Hill Cemetery   Neenah, Wisconsin
+     d. 23 March 1895   Neenah, Wisconsin
+           bur. Oak Hill Cemetery   Neenah, Wisconsin
+  
+  <font size=+1>children by Mary Eliza Huxley:</font>
+     Willard H. Vining   b. 8 February 1851   Neenah, Wisconsin
+     Mary Eliza Vining   b. 16 November 1856   Neenah, Wisconsin   -   m. 30 June 1881   Neenah, Wisconsin   Emil Bernhard Sorley   -   23 November 1903   Wayauwega, Wisconsin   -   bur. Oakwood Cemetery   Weyauwega, Wisconsin
+     <a href="Bfamilies.htm#Byron01">Byron Vining</a>   b. [17 or 21?] January 1860   Neenah, Wisconsin   -   m. 3 y. as of 1900 census   Estelle Hollingsworth   -   d. 30 January 1937   Phoenix, Arizona   -   bur. Greenwood Memory Lawn Cemetery   Phoenix, Arizona
+  <font size=+1>children by Clara A. [...]:</font>
+     Frances H. &#8220;Fannie&#8221; Vining   b. December 1869   Wisconsin   -   m. [...] [Alden?]
+     Gorham P. Vining   b. 18 October 1877   Wisconsin   -   m. Grace P. [...]   -   d. February 1969   (last residence: Monterey, Indiana)
+  
+  <a href="Gsources/GorhamP01doc.htm">documentation and notes</a>
