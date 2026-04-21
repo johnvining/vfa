@@ -1,0 +1,94 @@
+id: DonaldE01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: William04
+parentLetter: W
+parentDesc: William Vining and Charlotte M. Higgins
+head:
+  givenName: Donald Erhart
+  birth:
+    date: 11 February 1902
+    place: "Lorain, Ohio"
+  death:
+    date: May 1970
+    place: "(last residence: Strongsville, Ohio)"
+marriages:
+  - date: 9 October 1927
+    spouse:
+      givenName: Mildred Agnes
+      surname: Banks
+      birth:
+        date: "1907"
+        place: Ohio
+      death:
+        date: "1975"
+      burial:
+        place: "Strongsville Cemetery   Strongsville, Cuyahoga County, Ohio"
+childrenGroups:
+  - children:
+      - name: Donald William Vining
+        birth:
+          date: 8 July 1928
+          place: Ohio
+        death:
+          date: 24 April 2010
+        burial:
+          place: "Strongsville Cemetery   Strongsville, Ohio"
+      - name: Joann Charlotte Vining
+        birth:
+          date: 22 November 1929
+          place: Ohio
+        marriages:
+          - date: 2 December 1950
+            spouse: Thomas Neil Doutt
+      - name: Thomas Bernard Vining
+        entryId: ThomasB01
+        entryLetter: T
+        birth:
+          date: 16 November 1934
+          place: Ohio
+        marriages:
+          - date: 22 July 1952
+            spouse: Elizabeth Barneswell
+        death:
+          date: 10 February 2010
+        burial:
+          place: "Strongsville Cemetery   Strongsville, Cuyahoga County, Ohio"
+      - name: Paul Allen Vining
+        entryId: PaulA01
+        entryLetter: P
+        birth:
+          date: 21 May 1938
+          place: Ohio
+        marriages:
+          - number: 1
+            date: 12 September 1959
+            spouse: Nancy Lu Barrett
+          - number: 2
+            date: Sandra C. Smith
+        death:
+          date: 10 December 1996
+          place: "(last residence: Strongsville, Ohio)"
+        burial:
+          place: "Strongsville Cemetery   Strongsville, Ohio"
+docsUrl: Dsources/DonaldE01doc.htm
+raw: |-
+  <a name="DonaldE01"></a><font size=+2>Donald Erhart Vining</font>
+     (son of <a href="Wfamilies.htm#William04">William Vining and Charlotte M. Higgins</a>)
+     b. 11 February 1902   Lorain, Ohio
+     m. 9 October 1927
+           Mildred Agnes Banks
+                 b. 1907   Ohio
+                 d. 1975
+                       bur. Strongsville Cemetery   Strongsville, Cuyahoga County, Ohio
+     d. May 1970   (last residence: Strongsville, Ohio)
+           bur. Strongsville Cemetery   Strongsville, Cuyahoga County, Ohio
+  
+  <font size=+1>children:</font>
+     Donald William Vining   b. 8 July 1928   Ohio   -   d. 24 April 2010   -   bur. Strongsville Cemetery   Strongsville, Ohio
+     Joann Charlotte Vining   b. 22 November 1929   Ohio   -   m. 2 December 1950   Thomas Neil Doutt
+     <a href="Tfamilies.htm#ThomasB01">Thomas Bernard Vining</a>   b. 16 November 1934   Ohio   -   m. 22 July 1952   Elizabeth Barneswell   -   d. 10 February 2010   -   bur. Strongsville Cemetery   Strongsville, Cuyahoga County, Ohio
+     <a href="Pfamilies.htm#PaulA01">Paul Allen Vining</a>   b. 21 May 1938   Ohio   -   m. (1) 12 September 1959   Nancy Lu Barrett;   (2) Sandra C. Smith   -   d. 10 December 1996   (last residence: Strongsville, Ohio)   -   bur. Strongsville Cemetery   Strongsville, Ohio
+  
+  <a href="Dsources/DonaldE01doc.htm">documentation and notes</a>

@@ -1,0 +1,99 @@
+id: DavidJr01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: David01
+parentDesc: David Vining and Lydia Torrey
+head:
+  givenName: David Jr.
+  birth:
+    date: 22 January 1771
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 28 January 1850
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 25 September 1796
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Lydia
+      surname: Hunt
+      birth:
+        date: 21 December 1775
+        place: "Abington, Plymouth County, Massachusetts"
+      death:
+        date: 16 November 1854
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Perez Vining
+        entryId: Perez01
+        entryLetter: P
+        birth:
+          date: 18 December 1798
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 2 May 1822
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Mary Dyer
+        death:
+          date: 22 June 1850
+      - name: Lydia Torrey Vining
+        birth:
+          date: 15 September 1801
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 14 October 1824
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: "[Oran or Orin?] Holbrook"
+          - number: 2
+            date: 31 May 1847
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Daniel Holbrook
+      - name: Roxa Vining
+        birth:
+          date: 19 April 1804
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: David Vining III
+        entryId: DavidIII01
+        birth:
+          date: 25 November 1806
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 8 October 1829
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: "Lucy [Eldredge or Eldridge?] White"
+      - name: Laura Vining
+        birth:
+          date: 17 April 1809
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 30 October 1830
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Loring Pratt
+        death:
+          date: March 1883
+          place: "Weymouth, Norfolk County, Massachusetts"
+        burial:
+          place: "Mount Hope Cemetery   South Weymouth, Norfolk County, Massachusetts"
+docsUrl: Dsources/DavidJr01doc.htm
+raw: |-
+  <a name="DavidJr01"></a><font size=+2>David Vining Jr.</font>
+     (son of <a href="#David01">David Vining and Lydia Torrey</a>)
+     b. 22 January 1771   Weymouth, Norfolk County, Massachusetts
+     m. 25 September 1796   Abington, Plymouth County, Massachusetts
+           Lydia Hunt
+                 (dau. of Thomas Hunt and Experience Thayer)
+                 b. 21 December 1775   Abington, Plymouth County, Massachusetts
+                 d. 16 November 1854   Weymouth, Norfolk County, Massachusetts
+     d. 28 January 1850   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Pfamilies.htm#Perez01">Perez Vining</a>   b. 18 December 1798   Abington, Plymouth County, Massachusetts   -   m. 2 May 1822   Weymouth, Norfolk County, Massachusetts   Mary Dyer   -   d. 22 June 1850
+     Lydia Torrey Vining   b. 15 September 1801   Abington, Plymouth County, Massachusetts   -   m. (1) 14 October 1824   Weymouth, Norfolk County, Massachusetts   [Oran or Orin?] Holbrook;   (2) 31 May 1847   Abington, Plymouth County, Massachusetts   Daniel Holbrook
+     Roxa Vining   b. 19 April 1804   Abington, Plymouth County, Massachusetts
+     <a href="#DavidIII01">David Vining III</a>   b. 25 November 1806   Weymouth, Norfolk County, Massachusetts   -   m. 8 October 1829   Weymouth, Norfolk County, Massachusetts   Lucy [Eldredge or Eldridge?] White
+     Laura Vining   b. 17 April 1809   Weymouth, Norfolk County, Massachusetts   -   m. 30 October 1830   Weymouth, Norfolk County, Massachusetts   Loring Pratt   -   d. March 1883   Weymouth, Norfolk County, Massachusetts   -   bur. Mount Hope Cemetery   South Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Dsources/DavidJr01doc.htm">documentation and notes</a>

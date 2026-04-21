@@ -1,0 +1,63 @@
+id: David08
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: David
+  birth:
+    date: age 26 y. as of 1850 census
+    place: New York
+marriages:
+  - spouse:
+      givenName: Hannah L.
+      surname: Green
+childrenGroups:
+  - children:
+      - name: "Charles [J. or E.?] Vining"
+        birth:
+          date: age 1 y. as of 1850 census
+          place: New York
+      - name: Alvin Vining
+        entryId: Alvin04
+        entryLetter: A
+        birth:
+          date: age 9 y. as of 1860 census
+          place: "Ellington, Chatauqua County, New York"
+        marriages:
+          - date: Jennie Brown
+      - name: Sarah Ann Vining
+        birth:
+          date: 9 January 1852
+          place: "Saratoga [County?], New York"
+        marriages:
+          - date: James Clark Remore
+        death:
+          date: 9 March 1928
+          place: "Bay City, Bay County, Michigan"
+        burial:
+          place: "Green Ridge Cemetery   Bay City, Bay County, Michigan"
+      - name: Mary J. Vining
+        birth:
+          date: age 5 y. as of 1860 census
+          place: New York
+      - name: John Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: New York
+docsUrl: Dsources/David08doc.htm
+raw: |-
+  <a name="David08"></a><font size=+2>David Vining</font>
+     (son of [?])
+     b. age 26 y. as of 1850 census   New York
+     m. Hannah L. Green
+              b. age 21 y. as of 1850 census   New York
+  
+  <font size=+1>children:</font>
+     Charles [J. or E.?] Vining   b. age 1 y. as of 1850 census   New York
+     <a href="Afamilies.htm#Alvin04">Alvin Vining</a>   b. age 9 y. as of 1860 census   Ellington, Chatauqua County, New York   -   m. Jennie Brown
+     Sarah Ann Vining   b. 9 January 1852   Saratoga [County?], New York   -   m. James Clark Remore   -   d. 9 March 1928   Bay City, Bay County, Michigan   -   bur. Green Ridge Cemetery   Bay City, Bay County, Michigan
+     Mary J. Vining   b. age 5 y. as of 1860 census   New York
+     John Vining   b. age 3 y. as of 1860 census   New York
+  
+  <a href="Dsources/David08doc.htm">documentation and notes</a>

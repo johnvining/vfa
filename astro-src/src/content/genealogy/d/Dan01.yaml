@@ -1,0 +1,35 @@
+id: Dan01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "Bill Vining and Joan Hannah [...]"
+head:
+  givenName: Dan
+marriages:
+  - spouse:
+      givenName: Teresa
+      surname: Jensen
+childrenGroups:
+  - children:
+      - name: Danielle Vining
+      - name: Alyssa Vining
+      - name: Samantha Jo Vining
+        birth:
+          date: 20 June 1993
+        death:
+          date: 20 November 2014
+          place: "Mason City, Cerro Gordo County, Iowa"
+        burial:
+          place: "New Hampton City Cemetery   New Hampton, Chickasaw County, Iowa"
+docsUrl: Dsources/Dan01doc.htm
+raw: |-
+  <a name="Dan01"></a><font size=+2>Dan Vining</font>
+     (son of Bill Vining and Joan Hannah [...])
+     m. Teresa Jensen
+  
+  <font size=+1>children:</font>
+     Danielle Vining
+     Alyssa Vining
+     Samantha Jo Vining   b. 20 June 1993   -   d. 20 November 2014   Mason City, Cerro Gordo County, Iowa   -   bur. New Hampton City Cemetery   New Hampton, Chickasaw County, Iowa
+  
+  <a href="Dsources/Dan01doc.htm">documentation and notes</a>

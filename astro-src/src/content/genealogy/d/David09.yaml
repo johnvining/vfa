@@ -1,0 +1,23 @@
+id: David09
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: David
+marriages:
+  - spouse:
+      givenName: Leslie
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Sarah Vining
+      - name: Benjamin Vining
+raw: |-
+  <a name="David09"></a><font size=+2>David Vining</font>
+     (son of [?])
+     m. Leslie [...]
+  
+  <font size=+1>children:</font>
+     Sarah Vining
+     Benjamin Vining

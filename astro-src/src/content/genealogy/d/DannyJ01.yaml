@@ -1,0 +1,62 @@
+id: DannyJ01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EarlM01
+parentLetter: E
+parentDesc: Earl Marvin Vining and Una Marie Toups
+head:
+  givenName: Danny Joseph
+  birth:
+    date: 1 March 1950
+    place: "Lafourche Parish, Louisiana"
+  death:
+    date: 26 May 2011
+    place: "Lafayette, Lafayette Parish, Louisiana"
+marriages:
+  - number: 1
+    date: Emily Eymard
+  - number: 2
+    date: 37 y. as of 2011
+    spouse:
+      givenName: Kathleen
+      surname: Daigle
+childrenGroups:
+  - spouseRef: Kathleen Daigle
+    children:
+      - name: Danielle Raquel Vining
+        birth:
+          date: 18 April 1975
+        marriages:
+          - date: Season Gomez
+      - name: Crystal Dawn Vining
+        birth:
+          date: 3 May 1977
+        death:
+          date: 4 September 2012
+          place: "Lafayette [Parish?], Louisiana"
+        burial:
+          place: "Greenlawn Memorial Gardens   Lafayette [Parish?], Louisiana"
+      - name: Dannie Lynn Vining
+        birth:
+          date: 26 June 1978
+docsUrl: Dsources/DannyJ01doc.htm
+raw: |-
+  <a name="DannyJ01"></a><font size=+2>Danny Joseph Vining</font>
+     (son of <a href="Efamilies.htm#EarlM01">Earl Marvin Vining and Una Marie Toups</a>)
+     b. 1 March 1950   Lafourche Parish, Louisiana
+     m. (1) Emily Eymard
+           (2) 37 y. as of 2011
+                 Kathleen Daigle
+                       (dau. of James C. Daigle and Nolia Meche)
+     d. 26 May 2011   Lafayette, Lafayette Parish, Louisiana
+           bur. Greenlawn Memorial Park   Lafayette [Parish?], Louisiana
+  
+  <font size=+1>child by Emily Eymard:</font>
+     Daisy June Vining   b. 13 August 1969
+  <font size=+1>children by Kathleen Daigle:</font>
+     Danielle Raquel Vining   b. 18 April 1975   -   m. Season Gomez
+     Crystal Dawn Vining   b. 3 May 1977   -   d. 4 September 2012   Lafayette [Parish?], Louisiana   -   bur. Greenlawn Memorial Gardens   Lafayette [Parish?], Louisiana
+     Dannie Lynn Vining   b. 26 June 1978
+  
+  <a href="Dsources/DannyJ01doc.htm">documentation and notes</a>

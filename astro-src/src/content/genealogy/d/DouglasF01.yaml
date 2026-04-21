@@ -1,0 +1,52 @@
+id: DouglasF01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: SidneyR01
+parentLetter: S
+parentDesc: Sidney Raymond Vining and Iona Maud Kelly
+head:
+  givenName: Douglas Frederick
+  birth:
+    date: 23 May 1931
+    place: "Sequim, Clallam County, Washington"
+  death:
+    date: 2 September 2011
+    place: "Yakima, Yakima County, Washington"
+marriages:
+  - date: 14 December 1967
+    place: "Reno, Washoe County, Nevada"
+    spouse:
+      givenName: Alcena Kaye
+      surname: Lybyer
+      birth:
+        date: 16 April 1942
+        place: "Yakima, Yakima County, Washington"
+      death:
+        date: 6 January 2017
+        place: "Jacksonville, Texas"
+childrenGroups:
+  - children:
+      - name: Roberta Vining
+        entryId: Roberta01
+        entryLetter: R
+      - name: Jonell Vining
+        marriages:
+          - date: Robby Arrington
+docsUrl: Dsources/DouglasF01doc.htm
+raw: |-
+  <a name="DouglasF01"></a><font size=+2>Douglas Frederick Vining</font>
+     (son of <a href="Sfamilies.htm#SidneyR01">Sidney Raymond Vining and Iona Maud Kelly</a>)
+     b. 23 May 1931   Sequim, Clallam County, Washington
+     m. 14 December 1967   Reno, Washoe County, Nevada
+           Alcena Kaye Lybyer
+                 (dau. of Chauncy Lybyer and Cleta Viola Dobbs)
+                 b. 16 April 1942   Yakima, Yakima County, Washington
+                 d. 6 January 2017   Jacksonville, Texas
+     d. 2 September 2011   Yakima, Yakima County, Washington
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#Roberta01">Roberta Vining</a>
+     Jonell Vining   m. Robby Arrington
+  
+  <a href="Dsources/DouglasF01doc.htm">documentation and notes</a>

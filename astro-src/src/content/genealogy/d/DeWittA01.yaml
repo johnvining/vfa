@@ -1,0 +1,57 @@
+id: DeWittA01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Edmond01
+parentLetter: E
+parentDesc: Edmond Vining and Minnie Ellen Argo
+head:
+  givenName: DeWitt Allen
+  birth:
+    date: 10 July 1923
+  death:
+    date: 13 April 2005
+marriages:
+  - date: 18 September 1946
+    place: "Olympia, Washington"
+    spouse:
+      givenName: Mae M.
+      surname: Murray
+      birth:
+        date: 17 March 1929
+      death:
+        date: 4 July 1999
+      burial:
+        place: "Tahoma National Cemetery   Kent, Washington"
+childrenGroups:
+  - children:
+      - name: Jimmie Allen Vining
+        birth:
+          date: 11 August 1947
+        marriages:
+          - date: "Olympia, Washington"
+            spouse: Lenora J. Wilson
+      - name: Dannie Bert Vining
+        birth:
+          date: 1 July 1950
+        marriages:
+          - date: "Olympia, Washington"
+            spouse: Barbara M. Kalenins
+docsUrl: Dsources/DeWittA01doc.htm
+raw: |-
+  <a name="DeWittA01"></a><font size=+2>DeWitt Allen Vining</font>
+     (son of <a href="Efamilies.htm#Edmond01">Edmond Vining and Minnie Ellen Argo</a>)
+     b. 10 July 1923
+     m. 18 September 1946   Olympia, Washington
+           Mae M. Murray
+                 b. 17 March 1929
+                 d. 4 July 1999
+                       bur. Tahoma National Cemetery   Kent, Washington
+     d. 13 April 2005
+           bur. Tahoma National Cemetery   Kent, Washington
+  
+  <font size=+1>children:</font>
+     Jimmie Allen Vining   b. 11 August 1947   -   m. Olympia, Washington   Lenora J. Wilson
+     Dannie Bert Vining   b. 1 July 1950   -   m. Olympia, Washington   Barbara M. Kalenins
+  
+  <a href="Dsources/DeWittA01doc.htm">documentation and notes</a>

@@ -1,0 +1,88 @@
+id: David05
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John05
+parentLetter: J
+parentDesc: John Vining and Mary Goodwin
+head:
+  givenName: David
+  birth:
+    date: 8 April 1801
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 3 September 1867
+    place: "Lewiston, Maine"
+marriages:
+  - date: int. 2 June 1833
+    place: "Lisbon, Androscoggin County, Maine"
+    spouse:
+      givenName: Betsey
+      surname: Smith
+      birth:
+        date: "age 75 y., 9 m., 3 d. at death"
+        place: "Lisbon, Androscoggin County, Maine"
+      death:
+        date: 30 July 1882
+      burial:
+        place: "Lisbon Cemetery   Lisbon, Androscoggin County, Maine"
+childrenGroups:
+  - children:
+      - name: James Vining
+        entryId: James02
+        entryLetter: J
+        birth:
+          date: 19 May 1834
+          place: Maine
+        marriages:
+          - date: 21 August 1869
+            spouse: Susan D. Clark
+        death:
+          date: "[2 or 25?] January 1904"
+          place: "Lewiston, Androscoggin County, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Androscoggin County, Maine"
+      - name: Mahala S. Vining
+        birth:
+          date: April 1836
+        marriages:
+          - date: 24 October 1854
+            spouse: Edward Gould
+      - name: Maria Conant Vining
+        birth:
+          date: April 1836
+        marriages:
+          - date: 24 October 1856
+            spouse: Luther Perley
+      - name: David Appleton Vining
+        birth:
+          date: 13 May 1843
+          place: Maine
+        marriages:
+          - date: 5 May 1868
+            spouse: Sally S. Libby
+        death:
+          date: 13 March 1903
+          place: "Lewiston, Androscoggin County, Maine"
+        burial:
+          place: "Lisbon Cemetery   Lisbon, Androscoggin County, Maine"
+docsUrl: Dsources/David05doc.htm
+raw: |-
+  <a name="David05"></a><font size=+2>David Vining</font>
+     (son of <a href="Jfamilies.htm#John05">John Vining and Mary Goodwin</a>)
+     b. 8 April 1801   Durham, Androscoggin County, Maine
+     m. int. 2 June 1833   Lisbon, Androscoggin County, Maine
+           Betsey Smith
+                 b. age 75 y., 9 m., 3 d. at death   Lisbon, Androscoggin County, Maine
+                 d. 30 July 1882
+                       bur. Lisbon Cemetery   Lisbon, Androscoggin County, Maine
+     d. 3 September 1867   Lewiston, Maine
+           bur. Lisbon Cemetery   Lisbon, Androscoggin County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#James02">James Vining</a>   b. 19 May 1834   Maine   -   m. 21 August 1869   Susan D. Clark   -   d. [2 or 25?] January 1904   Lewiston, Androscoggin County, Maine   -   bur. Mount Auburn Cemetery   Auburn, Androscoggin County, Maine
+     Mahala S. Vining   b. April 1836   -   m. 24 October 1854   Edward Gould
+     Maria Conant Vining   b. April 1836   -   m. 24 October 1856   Luther Perley
+     David Appleton Vining   b. 13 May 1843   Maine   -   m. 5 May 1868   Sally S. Libby   -   d. 13 March 1903   Lewiston, Androscoggin County, Maine   -   bur. Lisbon Cemetery   Lisbon, Androscoggin County, Maine
+  
+  <a href="Dsources/David05doc.htm">documentation and notes</a>

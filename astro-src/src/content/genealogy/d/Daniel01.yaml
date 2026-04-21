@@ -1,0 +1,157 @@
+id: Daniel01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Jonah01
+parentLetter: J
+parentDesc: Jonah Vining and Olive Leavitt
+head:
+  givenName: Daniel
+  birth:
+    date: "1790"
+    place: "Balltown (Jefferson), Lincoln County, Maine"
+  death:
+    date: 11 September 1846
+    place: "Salem, Franklin County, Maine"
+marriages:
+  - spouse:
+      givenName: int. 10 September
+      surname: "1812"
+      birth:
+        date: age 59 y. as of 1850 census
+        place: "[New Hampshire or Pownalborough, Lincoln County, Maine?)"
+      death:
+        date: 6 March 1875
+      burial:
+        place: "Lakeview Cemetery   Wilton, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Moses P. Vining
+        entryId: MosesP01
+        entryLetter: M
+        birth:
+          date: 22 January 1811
+          place: "Malta [now Windsor], Kennebec County, Maine"
+        marriages:
+          - number: 1
+            date: 8 July 1839
+            spouse: Reliance T. Soule
+          - number: 2
+            date: 15 March 1862
+            spouse: "Clarinda [Briggs?]"
+        death:
+          date: 9 November 1883
+      - name: Daniel Waters Vining
+        birth:
+          date: 9 December 1814
+          place: "Malta [now Windsor], Kennebec County, Maine"
+        marriages:
+          - date: Mary Ann Briggs
+        death:
+          date: 16 November 1877
+          place: "Augusta, Kennebec County, Maine"
+        burial:
+          place: "Mount Pleasant Cemetery   Augusta, Kennebec County, Maine"
+      - name: Emeline Carleton Vining
+        birth:
+          date: 26 July 1817
+          place: "Chesterville, Franklin County, Maine"
+        marriages:
+          - date: Joshua Blake Green
+      - name: David W. Vining
+        entryId: DavidW01
+        birth:
+          date: 17 April 1819
+          place: "Salem, Franklin County, Maine"
+        marriages:
+          - date: 8 March 1842
+            place: "Lynn, Essex County, Massachusetts"
+            spouse: Caroline M. Weed
+        death:
+          date: 12 July 1887
+          place: "Lewiston, Nez Perce County, Idaho"
+        burial:
+          place: "Normal Hill Cemetery   Lewiston, Nez Perce County, Idaho"
+      - name: Thomas W. Vining
+        entryId: ThomasW01
+        entryLetter: T
+        birth:
+          date: 26 May 1821
+          place: "Salem, Franklin County, Maine"
+        marriages:
+          - date: 1 May 1845
+            spouse: "[Martha [...] or Mary E. Lye?]"
+      - name: Florena H. Vining
+        birth:
+          date: 7 October 1823
+          place: "Salem, Franklin County, Maine"
+      - name: Jonathan Vining
+        birth:
+          date: 7 October 1825
+          place: Massachusetts
+      - name: John Blake Vining
+        entryId: JohnB02
+        entryLetter: J
+        birth:
+          date: 7 October 1825
+          place: "Salem, Franklin County, Maine"
+        marriages:
+          - number: 1
+            date: 19 February 1854
+            place: "Lynn, Essex County, Massachusetts"
+            spouse: Mary Elizabeth Weed (d. 13 August 1854)
+          - number: 2
+            date: 19 January 1857
+            spouse: Martha A. Dwinells
+      - name: Hannah Vining
+        birth:
+          date: 8 January 1828
+          place: "Salem, Franklin County, Maine"
+        marriages:
+          - date: Charles Rount
+      - name: Ezra A. Vining
+        entryId: EzraA01
+        entryLetter: E
+        birth:
+          date: age 37 y. as of 1870 census
+          place: "Salem, Franklin County, Maine"
+        marriages:
+          - date: Mary Jane Wells
+        death:
+          date: "1898"
+          place: "Lowell, Middlesex County, Massachusetts"
+      - name: Deborah Augusta Vining
+        birth:
+          date: ca. 1838
+          place: "Salem, Franklin County, Maine"
+        marriages:
+          - date: "[...] Peck"
+        death:
+          date: ca. 1925
+docsUrl: Dsources/Daniel01doc.htm
+raw: |-
+  <a name="Daniel01"></a><font size=+2>Daniel Vining</font>
+     (son of <a href="Jfamilies.htm#Jonah01">Jonah Vining and Olive Leavitt</a>)
+     b. 1790   Balltown (Jefferson), Lincoln County, Maine
+     m. int. 10 September 1812
+           Deborah Waters
+                 b. age 59 y. as of 1850 census   [New Hampshire or Pownalborough, Lincoln County, Maine?)
+                 d. 6 March 1875
+                       bur. Lakeview Cemetery   Wilton, Franklin County, Maine
+     d. 11 September 1846   Salem, Franklin County, Maine
+           bur. Lakeview Cemetery   Wilton, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MosesP01">Moses P. Vining</a>   b. 22 January 1811   Malta [now Windsor], Kennebec County, Maine   -   m. (1) 8 July 1839   Reliance T. Soule;   (2) 15 March 1862   Clarinda [Briggs?]   -   d. 9 November 1883
+     Daniel Waters Vining   b. 9 December 1814   Malta [now Windsor], Kennebec County, Maine   -   m. Mary Ann Briggs   -   d. 16 November 1877   Augusta, Kennebec County, Maine   -   bur. Mount Pleasant Cemetery   Augusta, Kennebec County, Maine
+     Emeline Carleton Vining   b. 26 July 1817   Chesterville, Franklin County, Maine   -   m. Joshua Blake Green
+     <a href="#DavidW01">David W. Vining</a>   b. 17 April 1819   Salem, Franklin County, Maine   -   m. 8 March 1842   Lynn, Essex County, Massachusetts   Caroline M. Weed   -   d. 12 July 1887   Lewiston, Nez Perce County, Idaho   -   bur. Normal Hill Cemetery   Lewiston, Nez Perce County, Idaho
+     <a href="Tfamilies.htm#ThomasW01">Thomas W. Vining</a>   b. 26 May 1821   Salem, Franklin County, Maine   -   m. 1 May 1845   [Martha [...] or Mary E. Lye?]
+     Florena H. Vining   b. 7 October 1823   Salem, Franklin County, Maine
+     Jonathan Vining   b. 7 October 1825   Massachusetts
+     <a href="Jfamilies.htm#JohnB02">John Blake Vining</a>   b. 7 October 1825   Salem, Franklin County, Maine   -   m. (1) 19 February 1854   Lynn, Essex County, Massachusetts   Mary Elizabeth Weed (d. 13 August 1854);   (2) 19 January 1857   Martha A. Dwinells
+     Hannah Vining   b. 8 January 1828   Salem, Franklin County, Maine   -   m. Charles Rount
+     <a href="Efamilies.htm#EzraA01">Ezra A. Vining</a>   b. age 37 y. as of 1870 census   Salem, Franklin County, Maine   -   m. Mary Jane Wells   -   d. 1898   Lowell, Middlesex County, Massachusetts
+     Deborah Augusta Vining   b. ca. 1838   Salem, Franklin County, Maine   -   m. [...] Peck   -   d. ca. 1925
+  
+  <a href="Dsources/Daniel01doc.htm">documentation and notes</a>

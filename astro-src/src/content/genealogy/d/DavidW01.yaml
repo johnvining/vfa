@@ -1,0 +1,71 @@
+id: DavidW01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Daniel01
+parentDesc: Daniel Vining and Deborah Waters
+head:
+  givenName: David W.
+  birth:
+    date: 17 April 1819
+    place: "Salem, Maine"
+  death:
+    date: 12 July 1887
+    place: "Lewiston, Idaho"
+marriages:
+  - date: 8 March 1842
+    place: "Lynn, Massachusetts"
+    spouse:
+      givenName: Caroline M.
+      surname: Weed
+      birth:
+        date: 11 March 1822
+        place: "Bristol, Rhode Island"
+      death:
+        date: 28 April 1897
+        place: "Cambridge, Massachusetts"
+childrenGroups:
+  - children:
+      - name: George Warren Vining
+        birth:
+          date: "23 September [1843 or 1842?]"
+          place: "Lynn, Massachusetts"
+        death:
+          date: 23 January 1905
+          place: "Boston, Massachusetts"
+        burial:
+          place: "Mount Hope Cemetery   Mattapan, Massachusetts"
+      - name: Gertrude Elizabeth Vining
+        birth:
+          date: 13 December 1845
+          place: "Farmington, Maine"
+      - name: Abbie A. Vining
+        birth:
+          date: age 1 y. as of 1850 census
+          place: Massachusetts
+      - name: Eugene R. Vining
+        birth:
+          date: age 8 y. as of 1860 census
+          place: Massachusetts
+      - name: Carrie D. Vining   b age 4 y. as of 1860 census   Massachusetts
+docsUrl: Dsources/DavidW01doc.htm
+raw: |-
+  <a name="DavidW01"></a><font size=+2>David W. Vining</font>
+     (son of <a href="#Daniel01">Daniel Vining and Deborah Waters</a>)
+     b. 17 April 1819   Salem, Maine
+     m. 8 March 1842   Lynn, Massachusetts
+           Caroline M. Weed
+                 (dau. of George Weed and Desire Roundy)
+                 b. 11 March 1822   Bristol, Rhode Island
+                 d. 28 April 1897   Cambridge, Massachusetts
+     d. 12 July 1887   Lewiston, Idaho
+           bur. Normal Hill Cemetery   Lewiston, Idaho
+  
+  <font size=+1>children:</font>
+     George Warren Vining   b. 23 September [1843 or 1842?]   Lynn, Massachusetts   -   d. 23 January 1905   Boston, Massachusetts   -   bur. Mount Hope Cemetery   Mattapan, Massachusetts
+     Gertrude Elizabeth Vining   b. 13 December 1845   Farmington, Maine
+     Abbie A. Vining   b. age 1 y. as of 1850 census   Massachusetts
+     Eugene R. Vining   b. age 8 y. as of 1860 census   Massachusetts
+     Carrie D. Vining   b age 4 y. as of 1860 census   Massachusetts
+  
+  <a href="Dsources/DavidW01doc.htm">documentation and notes</a>

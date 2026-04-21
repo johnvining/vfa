@@ -1,0 +1,43 @@
+id: DavidM05
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: PaulJ01
+parentLetter: P
+parentDesc: Paul J. Vining and Patricia L. Repp
+head:
+  givenName: David M.
+  birth:
+    date: 25 October 1956
+    place: "Fort Wayne, Indiana"
+  death:
+    date: 6 January 2021
+    place: "Fort Wayne, Indiana"
+marriages:
+  - date: 18 February 1984
+    spouse:
+      givenName: Carol
+      surname: Shaw
+childrenGroups:
+  - children:
+      - name: Shannon Vining
+        death:
+          date: as an infant
+      - name: Susanna Vining
+        marriages:
+          - date: Michael Hinen
+docsUrl: Dsources/DavidM05doc.htm
+raw: |-
+  <a name="DavidM05"></a><font size=+2>David M. Vining</font>
+     (son of <a href="Pfamilies.htm#PaulJ01">Paul J. Vining and Patricia L. Repp</a>)
+     b. 25 October 1956   Fort Wayne, Indiana
+     m. 18 February 1984
+           Carol Shaw
+     d. 6 January 2021   Fort Wayne, Indiana
+           bur. Covington Memorial Gardens   Fort Wayne, Indiana
+  
+  <font size=+1>children:</font>
+     Shannon Vining   d. as an infant
+     Susanna Vining   m. Michael Hinen
+  
+  <a href="Dsources/DavidM05doc.htm">documentation and notes</a>

@@ -1,0 +1,36 @@
+id: DavidJ02
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Samuel09
+parentLetter: S
+parentDesc: Samuel Vining and Jane McBride
+head:
+  givenName: David John
+  birth:
+    date: 23 February 1830
+    place: Georgia
+  death:
+    date: January 1862
+childrenGroups:
+  - children:
+      - name: Hopkins H. Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Georgia
+      - name: Samuel B. Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Georgia
+docsUrl: Dsources/DavidJ02doc.htm
+raw: |-
+  <a name="DavidJ02"></a><font size=+2>David John Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel09">Samuel Vining and Jane McBride</a>)
+     b. 23 February 1830   Georgia
+     d. January 1862
+  
+  <font size=+1>children:</font>
+     Hopkins H. Vining   b. age 3 y. as of 1860 census   Georgia
+     Samuel B. Vining   b. age 1 y. as of 1860 census   Georgia
+  
+  <a href="Dsources/DavidJ02doc.htm">documentation and notes</a>

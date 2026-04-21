@@ -1,0 +1,62 @@
+id: DavidT01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: David04
+parentDesc: David Vining and Gratia K. Taylor
+head:
+  givenName: David Taylor
+  birth:
+    date: 19 October 1821
+    place: "Hawley, Franklin County, Massachusetts"
+  death:
+    date: 18 February 1888
+    place: "Conway, Massachusetts"
+marriages:
+  - date: 18 April 1849
+    spouse:
+      givenName: Emily Harriett
+      surname: Sears
+      birth:
+        date: age 41 y. as of 1860 census
+        place: Massachusetts
+      death:
+        date: 28 July 1873
+        place: "Conway, Massachusetts"
+      burial:
+        place: "Howland Cemetery   Conway, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Harriet E. Vining
+        birth:
+          date: age 10 y. as of 1860 census
+          place: Massachusetts
+      - name: Mary Emma Vining
+        birth:
+          date: 7 October 1858
+          place: Massachusetts
+        marriages:
+          - date: 14 February 1889
+            spouse: Frederick C. Batchelder
+        death:
+          date: 25 May 1922
+          place: "Conway, Massachusetts"
+docsUrl: Dsources/DavidT01doc.htm
+raw: |-
+  <a name="DavidT01"></a><font size=+2>David Taylor Vining</font>
+     (son of <a href="#David04">David Vining and Gratia K. Taylor</a>)
+     b. 19 October 1821   Hawley, Franklin County, Massachusetts
+     m. 18 April 1849
+           Emily Harriett Sears
+                 (dau. of [...] Sears and Sally [...])
+                 b. age 41 y. as of 1860 census   Massachusetts
+                 d. 28 July 1873   Conway, Massachusetts
+                       bur. Howland Cemetery   Conway, Massachusetts
+     d. 18 February 1888   Conway, Massachusetts
+           bur. Howland Cemetery   Conway, Massachusetts
+  
+  <font size=+1>children:</font>
+     Harriet E. Vining   b. age 10 y. as of 1860 census   Massachusetts
+     Mary Emma Vining   b. 7 October 1858   Massachusetts   -   m. 14 February 1889   Frederick C. Batchelder   -   d. 25 May 1922   Conway, Massachusetts
+  
+  <a href="Dsources/DavidT01doc.htm">documentation and notes</a>

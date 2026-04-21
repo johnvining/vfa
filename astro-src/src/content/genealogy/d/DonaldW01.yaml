@@ -1,0 +1,43 @@
+id: DonaldW01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: PhilipB01
+parentLetter: P
+parentDesc: "Philip Brooks Vining and Louise [&#8230;]"
+head:
+  givenName: Donald W.
+  birth:
+    date: 22 Jnuary 1936
+    place: "Melrose, Massachusetts"
+  death:
+    date: 28 December 2019
+    place: "Haverhill, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Carol Lee
+      surname: Rowe
+childrenGroups:
+  - children:
+      - name: Steven E. Vining
+        marriages:
+          - date: "Donna [&#8230;]"
+      - name: Brian P. Vining
+        marriages:
+          - date: "Cheryl [&#8230;]"
+docsUrl: Dsources/DonaldW01doc.htm
+raw: |-
+  <a name="DonaldW01"></a><font size=+2>Donald W. Vining</font>
+     (son of <a href="Pfamilies.htm#PhilipB01">Philip Brooks Vining and Louise [&#8230;]</a>)
+     b. 22 Jnuary 1936   Melrose, Massachusetts
+     m. Carol Lee Rowe
+              b. age 80 y. at death   Malden, Massachusetts
+              d. 2 May 2020   Winchester, Massachusetts
+     d. 28 December 2019   Haverhill, Massachusetts
+           bur. Ridgewood Cemetery   North Andover, Massachuusetts
+  
+  <font size=+1>children:</font>
+     Steven E. Vining   m. Donna [&#8230;]
+     Brian P. Vining   m. Cheryl [&#8230;]
+  
+  <a href="Dsources/DonaldW01doc.htm">documentation and notes</a>

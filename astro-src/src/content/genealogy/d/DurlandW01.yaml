@@ -1,0 +1,32 @@
+id: DurlandW01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RobertE01
+parentLetter: R
+parentDesc: Robert Earl Vining and Erma Eloise Merrill
+head:
+  givenName: Durland Walter
+  birth:
+    date: 19 December 1937
+marriages:
+  - spouse:
+      givenName: Janice
+      surname: Miles
+childrenGroups:
+  - children:
+      - name: Mark Daniel Vining
+        birth:
+          date: 27 April 1963
+      - name: Robert Dean Vining
+        birth:
+          date: 19 November 1965
+raw: |-
+  <a name="DurlandW01"></a><font size=+2>Durland Walter Vining</font>
+     (son of <a href="Rfamilies.htm#RobertE01">Robert Earl Vining and Erma Eloise Merrill</a>)
+     b. 19 December 1937
+     m. Janice Miles
+  
+  <font size=+1>children:</font>
+     Mark Daniel Vining   b. 27 April 1963
+     Robert Dean Vining   b. 19 November 1965

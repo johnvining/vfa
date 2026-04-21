@@ -1,0 +1,60 @@
+id: DwightP01
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WilliamB01
+parentLetter: W
+parentDesc: William Brown Vining and Harriet Emma Price
+head:
+  givenName: Dwight Price
+  birth:
+    date: 29 May 1901
+    place: "[Missouri or Swannanoa, North Carolina ?]"
+  death:
+    date: 23 January 1999
+    place: "(last residence: Lexington, North Carolina)"
+marriages:
+  - date: 2 June 1928
+    spouse:
+      givenName: Allie B.
+      surname: Phillips
+      birth:
+        date: 22 June 1905
+        place: "[South Carolina or Swannanoa, North Carolina ?]"
+      death:
+        date: 23 June 1992
+        place: "(last residence: Lexington, North Carolina)"
+childrenGroups:
+  - children:
+      - name: Elizabeth Addieline Vining
+        birth:
+          date: 13 November 1931
+          place: North Carolina
+      - name: "Charles Phillips &#8220;Phil&#8221; Vining"
+        birth:
+          date: 11 November 1935
+          place: "Swannanoa, North Carolina"
+        marriages:
+          - date: 27 October 1956
+            spouse: "Braintree, England   Joan Kirk"
+      - name: Patricia Ann Vining
+        birth:
+          date: 5 March 1949
+docsUrl: Dsources/DwightP01doc.htm
+raw: |-
+  <a name="DwightP01"></a><font size=+2>Dwight Price Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamB01">William Brown Vining and Harriet Emma Price</a>)
+     b. 29 May 1901   [Missouri or Swannanoa, North Carolina ?]
+     m. 2 June 1928
+           Allie B. Phillips
+                 b. 22 June 1905   [South Carolina or Swannanoa, North Carolina ?]
+                 d. 23 June 1992   (last residence: Lexington, North Carolina)
+     d. 23 January 1999   (last residence: Lexington, North Carolina)
+  
+  <font size=+1>children:</font>
+     Elizabeth Addieline Vining   b. 13 November 1931   North Carolina
+     Charles Phillips &#8220;Phil&#8221; Vining   b. 11 November 1935   Swannanoa, North Carolina   -   m. 27 October 1956   Braintree, England   Joan Kirk
+  <font size=+1>adopted child:</font>
+     Patricia Ann Vining   b. 5 March 1949
+  
+  <a href="Dsources/DwightP01doc.htm">documentation and notes</a>
