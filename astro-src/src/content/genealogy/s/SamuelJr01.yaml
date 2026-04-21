@@ -1,5 +1,6 @@
 id: SamuelJr01
 letter: S
+sequence: 11
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Samuel01
@@ -20,7 +21,7 @@ marriages:
     spouse:
       givenName: Mary
       surname: Gleason
-      parents: "dau. of John Gleason and Hannah Woolworth"
+      parents: (dau. of John Gleason and Hannah Woolworth)
       birth:
         date: 10 October 1709
         place: "Enfield, Hartford County, Connecticut"
@@ -31,7 +32,8 @@ marriages:
     spouse:
       givenName: "Elizabeth Killiam?"
 childrenGroups:
-  - children:
+  - headingText: "children?"
+    children:
       - name: Richard Vining
       - name: Elizabeth Vining
   - spouseRef: Mary Gleason
@@ -95,7 +97,7 @@ childrenGroups:
             spouse: Eunice Case
         death:
           date: 12 March 1825
-  - spouseRef: "Elizabeth Killiam?"
+  - headingText: "children (by Elizabeth Killiam?)"
     children:
       - name: Lucy Vining
         birth:
