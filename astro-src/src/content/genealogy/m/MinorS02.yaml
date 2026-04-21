@@ -1,0 +1,117 @@
+id: MinorS02
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Samuel06
+parentLetter: S
+parentDesc: "Samuel Vining and Mary &#8220;Polly&#8221; Miller"
+head:
+  givenName: Minor Simeon
+  birth:
+    date: "[28 August or 27 July?] 1842"
+    place: Ohio
+  death:
+    date: 9 February 1892
+marriages:
+  - date: 24 December 1865
+    spouse:
+      givenName: Rebecca Catharine
+      surname: Stooksberry
+      birth:
+        date: "age 57 y., 4 m., 29 d. at death"
+      death:
+        date: 21 April 1902
+      burial:
+        place: "Summit Chapel Cemetery   Bourbon, Indiana"
+childrenGroups:
+  - children:
+      - name: Marilda Vining
+        birth:
+          date: "1867"
+        marriages:
+          - date: William Phiestev
+      - name: Simon H. Vining
+        birth:
+          date: 14 June 1870
+        death:
+          date: 6 February 1877
+      - name: Franklin Isaac Vining
+        entryId: FranklinI01
+        entryLetter: F
+        birth:
+          date: July 1874
+          place: Indiana
+        marriages:
+          - number: 1
+            date: "1899"
+            spouse: Alta Julian
+          - number: 2
+            date: "1940"
+            spouse: Leona Schooley
+        death:
+          date: "1955"
+        burial:
+          place: "Summit Chapel Cemetery   Bourbon, Indiana"
+      - name: "Susan[na?] Vining"
+        birth:
+          date: 17 June 1876
+          place: m. 12 October 1902   Indiana   Noah Yoder
+        death:
+          date: 14 September 1942
+      - name: Bentley Vining
+        entryId: Bentley01
+        entryLetter: B
+        birth:
+          date: "1878"
+        marriages:
+          - date: "Mary [Julian?]"
+        death:
+          date: "1968"
+        burial:
+          place: "Palestine Cemetery   Palestine, Indiana"
+      - name: Emma E. Vining
+        birth:
+          date: October 1881
+        marriages:
+          - date: 30 July 1899
+            place: Indiana
+            spouse: Charles Creighbaum
+        death:
+          date: 16 October 1946
+      - name: daughter
+        birth:
+          date: 5 October 1885
+        death:
+          date: 17 October 1885
+      - name: Dora Eva Vining
+        birth:
+          date: April 1887
+        marriages:
+          - date: John Sinkler
+        death:
+          date: "1951"
+          place: Wisconsin
+docsUrl: Msources/MinorS02doc.htm
+raw: |-
+  <a name="MinorS02"></a><font size=+2>Minor Simeon Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel06">Samuel Vining and Mary &#8220;Polly&#8221; Miller</a>)
+     b. [28 August or 27 July?] 1842   Ohio
+     m. 24 December 1865
+           Rebecca Catharine Stooksberry
+                 b. age 57 y., 4 m., 29 d. at death
+                 d. 21 April 1902
+                       bur. Summit Chapel Cemetery   Bourbon, Indiana
+     d. 9 February 1892
+           bur. Summit Chapel Cemetery   Bourbon, Indiana
+  
+  <font size=+1>children:</font>
+     Marilda Vining   b. 1867   -   m. William Phiestev
+     Simon H. Vining   b. 14 June 1870   -   d. 6 February 1877
+     <a href="Ffamilies.htm#FranklinI01">Franklin Isaac Vining</a>   b. July 1874   Indiana   -   m. (1) 1899   Alta Julian;   (2) 1940   Leona Schooley   -   d. 1955   -   bur. Summit Chapel Cemetery   Bourbon, Indiana
+     Susan[na?] Vining   b. 17 June 1876   m. 12 October 1902   Indiana   Noah Yoder   -   d. 14 September 1942
+     <a href="Bfamilies.htm#Bentley01">Bentley Vining</a>   b. 1878   -   m. Mary [Julian?]   -   d. 1968   -   bur. Palestine Cemetery   Palestine, Indiana
+     Emma E. Vining   b. October 1881   -   m. 30 July 1899   Indiana   Charles Creighbaum   -   d. 16 October 1946
+     daughter   b. 5 October 1885   -   d. 17 October 1885
+     Dora Eva Vining   b. April 1887   -   m. John Sinkler   -   d. 1951   Wisconsin
+  
+  <a href="Msources/MinorS02doc.htm">documentation and notes</a>

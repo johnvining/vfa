@@ -1,0 +1,114 @@
+id: MosesA01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Gaius01
+parentLetter: G
+parentDesc: Gaius Vining and Mary Little
+head:
+  givenName: Moses Andrew
+  birth:
+    date: 9 September 1823
+    place: "Simsbury, Connecticut"
+  death:
+    date: 4 September 1890
+    place: "Jacksonville, Florida"
+marriages:
+  - spouse:
+      givenName: Eliza Ann
+      surname: Brown
+childrenGroups:
+  - children:
+      - name: Dora Brown Vining
+        birth:
+          date: 7 April 1858
+        death:
+          date: 16 September 1944
+      - name: George Hobart Vining
+        birth:
+          date: 31 August 1859
+        marriages:
+          - date: 29 July 1896
+            spouse: Marion Fane
+      - name: Fannie Louise Vining
+        birth:
+          date: 22 February 1862
+          place: "Southwick, Massachusetts"
+        death:
+          date: 8 July 1948
+          place: "Kansas City, Missouri"
+        burial:
+          place: "Elmwood Cemetery   Kansas City, Missouri"
+      - name: William Brown Vining
+        entryId: WilliamB01
+        entryLetter: W
+        birth:
+          date: 12 November 1862
+          place: Massachusetts
+        marriages:
+          - date: 28 June 1899
+            spouse: Harriet Emma Price
+        death:
+          date: 22 November 1949
+        burial:
+          place: "Tonganoxie Cemetery   Tonganoxie, Kansas"
+      - name: Howard Brown Vining
+        birth:
+          date: 15 January 1865
+      - name: Charles Morton Vining
+        birth:
+          date: 8 February 1866
+        marriages:
+          - date: 15 October 1902
+            spouse: Maud Katherine Howes
+        death:
+          date: "1935"
+      - name: Henry Rowland Vining
+        birth:
+          date: 6 April 1870
+          place: "Southwick, Massachusetts"
+        death:
+          date: 5 February 1892
+          place: "Kansas City, Missouri"
+        burial:
+          place: "Elmwood Cemetery   Kansas City, Missouri"
+      - name: Adelaide Gale Vining
+        birth:
+          date: 17 September 1872
+          place: "Southwick, Massachusetts"
+        death:
+          date: 11 September 1954
+          place: "Kansas City, Missouri"
+        burial:
+          place: "Elmwood Cemetery   Kansas City, Missouri"
+      - name: Edith Bigelow Vining
+        birth:
+          date: 23 November 1876
+          place: "Southwick, Massachusetts"
+        death:
+          date: 29 March 1952
+          place: "Kansas City, Missouri"
+        burial:
+          place: "Elmwood Cemetery   Kansas City, Missouri"
+docsUrl: Msources/MosesA01doc.htm
+raw: |-
+  <a name="MosesA01"></a><font size=+2>Moses Andrew Vining</font>
+     (son of <a href="Gfamilies.htm#Gaius01">Gaius Vining and Mary Little</a>)
+     b. 9 September 1823   Simsbury, Connecticut
+     m. Eliza Ann Brown
+              b. 9 August 1834
+              d. 22 March 1898   New Orleans, Louisiana
+     d. 4 September 1890   Jacksonville, Florida
+  
+  <font size=+1>children:</font>
+     Dora Brown Vining   b. 7 April 1858   -   d. 16 September 1944
+     George Hobart Vining   b. 31 August 1859   -   m. 29 July 1896   Marion Fane
+     Fannie Louise Vining   b. 22 February 1862   Southwick, Massachusetts   -   d. 8 July 1948   Kansas City, Missouri   -   bur. Elmwood Cemetery   Kansas City, Missouri
+     <a href="Wfamilies.htm#WilliamB01">William Brown Vining</a>   b. 12 November 1862   Massachusetts   -   m. 28 June 1899   Harriet Emma Price   -   d. 22 November 1949   -   bur. Tonganoxie Cemetery   Tonganoxie, Kansas
+     Howard Brown Vining   b. 15 January 1865
+     Charles Morton Vining   b. 8 February 1866   -   m. 15 October 1902   Maud Katherine Howes   -   d. 1935
+     Henry Rowland Vining   b. 6 April 1870   Southwick, Massachusetts   -   d. 5 February 1892   Kansas City, Missouri   -   bur. Elmwood Cemetery   Kansas City, Missouri
+     Adelaide Gale Vining   b. 17 September 1872   Southwick, Massachusetts   -   d. 11 September 1954   Kansas City, Missouri   -   bur. Elmwood Cemetery   Kansas City, Missouri
+     Edith Bigelow Vining   b. 23 November 1876   Southwick, Massachusetts   -   d. 29 March 1952   Kansas City, Missouri   -   bur. Elmwood Cemetery   Kansas City, Missouri
+  
+  <a href="Msources/MosesA01doc.htm">documentation and notes</a>

@@ -1,0 +1,53 @@
+id: MerleE01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: RufusA01
+parentLetter: R
+parentDesc: Rufus Allen Vining and Anna Marie Byers
+head:
+  givenName: Merle Edwin
+  birth:
+    date: 23 October 1909
+  death:
+    date: May 1987
+    place: "(last residence: Aberdeen, South Dakota)"
+marriages:
+  - spouse:
+      givenName: Edna Grace
+      surname: Snyder
+childrenGroups:
+  - children:
+      - name: Clayton Merle Vining
+        entryId: ClaytonM01
+        entryLetter: C
+        birth:
+          date: 18 April 1931
+          place: "Aberdeen, South Dakota"
+        marriages:
+          - date: 14 February 1954
+            place: "White Hall, Illinois"
+            spouse: Betty Elaine Hubbard
+        death:
+          date: 3 February 2014
+      - name: Gerald Owen Vining
+        entryId: GeraldO01
+        entryLetter: G
+        birth:
+          date: 3 December 1944
+          place: "Aberdeen, South Dakota"
+        marriages:
+          - date: "(1?) Mary Meek;"
+            spouse: "(2) Linda [&#8230;];   (3?) 12 April 1997   South Dakota   Barbara Eide"
+        death:
+          date: 31 August 2017
+raw: |-
+  <a name="MerleE01"></a><font size=+2>Merle Edwin Vining</font>
+     (son of <a href="Rfamilies.htm#RufusA01">Rufus Allen Vining and Anna Marie Byers</a>)
+     b. 23 October 1909
+     m. Edna Grace Snyder
+     d. May 1987   (last residence: Aberdeen, South Dakota)
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ClaytonM01">Clayton Merle Vining</a>   b. 18 April 1931   Aberdeen, South Dakota   -   m. 14 February 1954   White Hall, Illinois   Betty Elaine Hubbard   -   d. 3 February 2014
+     <a href="Gfamilies.htm#GeraldO01">Gerald Owen Vining</a>   b. 3 December 1944   Aberdeen, South Dakota   -   m. (1?) Mary Meek;   (2) Linda [&#8230;];   (3?) 12 April 1997   South Dakota   Barbara Eide   -   d. 31 August 2017

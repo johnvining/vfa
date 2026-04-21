@@ -1,0 +1,43 @@
+id: MarshallE01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: WilliamS01
+parentLetter: W
+parentDesc: William Shadrack Vining and Addie Sanders Wellborn
+head:
+  givenName: Marshall Edwin
+  birth:
+    date: 25 May 1904
+    place: "Atlanta, Georgia"
+  death:
+    date: 14 April 1974
+    place: "Atlanta, Georgia"
+marriages:
+  - date: "1922"
+    place: "Atlanta, Georgia"
+    spouse:
+      givenName: Eva
+      surname: Fleming
+      birth:
+        date: 18 January 1906
+        place: "Crawford, Georgia"
+      death:
+        date: 30 April 1995
+        place: "Augusta, Georgia"
+docsUrl: Msources/MarshallE01doc.htm
+raw: |-
+  <a name="MarshallE01"></a><font size=+2>Marshall Edwin Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamS01">William Shadrack Vining and Addie Sanders Wellborn</a>)
+     b. 25 May 1904   Atlanta, Georgia
+     m. 1922   Atlanta, Georgia
+           Eva Fleming
+                 (dau. of Norris Fleming and Tennessee Davis)
+                 b. 18 January 1906   Crawford, Georgia
+                 d. 30 April 1995   Augusta, Georgia
+     d. 14 April 1974   Atlanta, Georgia
+  
+  <font size=+1>child:</font>
+     Louise Vining   b. 1923   Atlanta, Georgia
+  
+  <a href="Msources/MarshallE01doc.htm">documentation and notes</a>

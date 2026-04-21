@@ -1,0 +1,62 @@
+id: Millis01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: WilliamA01
+parentLetter: W
+parentDesc: William Albert Vining and Charlotte Olivia Burley
+head:
+  givenName: Millis
+  birth:
+    date: 1 July 1900
+  death:
+    date: "1991"
+marriages:
+  - number: 1
+    date: Bernice G. Powell
+  - number: 2
+    date: Norma I. Wilson
+  - number: 3
+    date: Margaret H. Bollman
+childrenGroups:
+  - spouseRef: Norma I. Wilson
+    children:
+      - name: Shirley Jean Vining
+        birth:
+          date: 14 September 1929
+          place: m. James Kwasnik
+      - name: Karl Wilson Vining
+        entryId: KarlW01
+        entryLetter: K
+        birth:
+          date: 16 February 1937
+          place: "Binghamton, New York"
+        marriages:
+          - date: Patricia Fletcher
+        death:
+          date: 17 April 2013
+          place: South Carolina
+      - name: Kathleen Margaret Vining
+        birth:
+          date: 25 April 1949
+docsUrl: Msources/Millis01doc.htm
+raw: |-
+  <a name="Millis01"></a><font size=+2>Millis Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamA01">William Albert Vining and Charlotte Olivia Burley</a>)
+     b. 1 July 1900
+     m. (1) Bernice G. Powell
+           (2) Norma I. Wilson
+                    b. 1904
+                    d. 1944
+                          bur. Chenango Valley Cemetery   Binghamton, New York
+           (3) Margaret H. Bollman
+     d. 1991
+           bur. Chenango Valley Cemetery   Binghamton, New York
+  
+  <font size=+1>children by Norma I. Wilson:</font>
+     Shirley Jean Vining   b. 14 September 1929   m. James Kwasnik
+     <a href="Kfamilies.htm#KarlW01">Karl Wilson Vining</a>   b. 16 February 1937   Binghamton, New York   -   m. Patricia Fletcher   -   d. 17 April 2013   South Carolina
+  <font size=+1>adopted child:</font>
+     Kathleen Margaret Vining   b. 25 April 1949
+  
+  <a href="Msources/Millis01doc.htm">documentation and notes</a>

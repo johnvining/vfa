@@ -1,0 +1,73 @@
+id: MarshallM01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Richard03
+parentLetter: R
+parentDesc: Richard Vining and Emily Jane Winter
+head:
+  givenName: Marshall M.
+  birth:
+    date: 2 October 1859
+    place: Iowa
+  death:
+    date: 9 December 1933
+    place: "Woodbine, Iowa"
+marriages:
+  - date: 18 February 1885
+    place: Iowa
+    spouse:
+      givenName: Addie
+      surname: Swearingen
+      birth:
+        date: 26 January 1864
+        place: "Fort Dodge, Iowa"
+      death:
+        date: 29 November 1944
+      burial:
+        place: "Woodbine Cemetery   Woodbine, Oowa"
+childrenGroups:
+  - children:
+      - name: Vera Francis Vining
+        birth:
+          date: 24 December 1887
+          place: Iowa
+        marriages:
+          - date: "Portland, Oregon"
+            spouse: "[...] Robb"
+      - name: Percival L. Vining
+        entryId: Percival01
+        entryLetter: P
+        birth:
+          date: 2 July 1896
+          place: "Woodbine, Iowa"
+        marriages:
+          - number: 1
+            date: "1919"
+            place: "Dunlap Township, Iowa"
+            spouse: "Elsie L. Burkholder,   divorced"
+          - number: 2
+            date: "1926"
+            place: Iowa
+            spouse: Esther Jane Lewis
+        death:
+          date: 3 December 1950
+          place: "Woodbine, Iowa"
+docsUrl: Msources/MarshallM01doc.htm
+raw: |-
+  <a name="MarshallM01"></a><font size=+2>Marshall M. Vining</font>
+     (son of <a href="Rfamilies.htm#Richard03">Richard Vining and Emily Jane Winter</a>)
+     b. 2 October 1859   Iowa
+     m. 18 February 1885   Iowa
+           Addie Swearingen
+                 b. 26 January 1864   Fort Dodge, Iowa
+                 d. 29 November 1944
+                       bur. Woodbine Cemetery   Woodbine, Oowa
+     d. 9 December 1933   Woodbine, Iowa
+           bur. Woodbine Cemetery   Woodbine, Iowa
+  
+  <font size=+1>children:</font>
+     Vera Francis Vining   b. 24 December 1887   Iowa   -   m. Portland, Oregon   [...] Robb
+     <a href="Pfamilies.htm#Percival01">Percival L. Vining</a>   b. 2 July 1896   Woodbine, Iowa   -   m. (1) 1919   Dunlap Township, Iowa   Elsie L. Burkholder,   divorced;   (2) 1926   Iowa   Esther Jane Lewis   -   d. 3 December 1950   Woodbine, Iowa
+  
+  <a href="Msources/MarshallM01doc.htm">documentation and notes</a>

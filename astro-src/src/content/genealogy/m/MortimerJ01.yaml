@@ -1,0 +1,90 @@
+id: MortimerJ01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Ward01
+parentLetter: W
+parentDesc: Ward Vining and Jane Cecelia Reed
+head:
+  givenName: Mortimer Jay
+  birth:
+    date: 22 October 1849
+    place: Massachusetts
+  death:
+    date: "1924"
+marriages:
+  - spouse:
+      givenName: "October [1873 or"
+      surname: "1872?]"
+      birth:
+        date: July 1854
+        place: Connecticut
+      death:
+        date: "1927"
+      burial:
+        place: "Windsorville Cemetery   Windsorville, Connecticut"
+childrenGroups:
+  - children:
+      - name: Susan Celestia Vining
+        birth:
+          date: 1 December 1873
+          place: Connecticut
+        marriages:
+          - date: 9 y. as of 1900 census
+            spouse: Elisha M. Granger
+      - name: Scott Thompson Vining
+        entryId: ScottT01
+        entryLetter: S
+        birth:
+          date: 7 February 1875
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: "Mary [...]"
+      - name: Grace Marian Vining
+        birth:
+          date: 3 February 1876
+        death:
+          date: "1886"
+        burial:
+          place: Windsorville Cemetery
+      - name: Ward Mortimer Vining
+        birth:
+          date: 6 August 1878
+        death:
+          date: "1886"
+      - name: Stanley Shepherd Vining
+        birth:
+          date: 19 February 1879
+        death:
+          date: "1886"
+      - name: Barry Allen Vining
+        entryId: BarryA01
+        entryLetter: B
+        birth:
+          date: "6 [August or July?] 1889"
+          place: Connecticut
+        marriages:
+          - date: "[1?] 1 y. as of 1910 census"
+            spouse: "Helen E. [...];   [2?] Julia R. [...]"
+docsUrl: Msources/MortimerJ01doc.htm
+raw: |-
+  <a name="MortimerJ01"></a><font size=+2>Mortimer Jay Vining</font>
+     (son of <a href="Wfamilies.htm#Ward01">Ward Vining and Jane Cecelia Reed</a>)
+     b. 22 October 1849   Massachusetts
+     m. October [1873 or 1872?]
+           Mary A. Thompson
+                 b. July 1854   Connecticut
+                 d. 1927
+                       bur. Windsorville Cemetery   Windsorville, Connecticut
+     d. 1924
+           bur. Windsorville Cemetery   Windsorville, Connecticut
+  
+  <font size=+1>children:</font>
+     Susan Celestia Vining   b. 1 December 1873   Connecticut   -   m. 9 y. as of 1900 census   Elisha M. Granger
+     <a href="Sfamilies.htm#ScottT01">Scott Thompson Vining</a>   b. 7 February 1875   Southwick, Massachusetts   -   m. Mary [...]
+     Grace Marian Vining   b. 3 February 1876   -   d. 1886   -   bur. Windsorville Cemetery
+     Ward Mortimer Vining   b. 6 August 1878   -   d. 1886
+     Stanley Shepherd Vining   b. 19 February 1879   -   d. 1886
+     <a href="Bfamilies.htm#BarryA01">Barry Allen Vining</a>   b. 6 [August or July?] 1889   Connecticut   -   m. [1?] 1 y. as of 1910 census   Helen E. [...];   [2?] Julia R. [...]
+  
+  <a href="Msources/MortimerJ01doc.htm">documentation and notes</a>

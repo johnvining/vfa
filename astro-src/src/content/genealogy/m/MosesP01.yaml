@@ -1,0 +1,58 @@
+id: MosesP01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Daniel01
+parentLetter: D
+parentDesc: Daniel Vining and Deborah Waters
+head:
+  givenName: Moses P.
+  birth:
+    date: 22 January 1811
+    place: "Malta [now Windsor], Maine"
+  death:
+    date: 9 November 1883
+marriages:
+  - number: 1
+    date: 8 July 1839
+    spouse:
+      givenName: Reliance T.
+      surname: Soule
+  - number: 2
+    date: 15 March 1862
+    spouse:
+      givenName: Clarinda
+      surname: "B[riggs?]"
+      birth:
+        date: "age 66 y., 10 m. at death"
+        place: Maine
+      death:
+        date: 13 May 1894
+childrenGroups:
+  - spouseRef: Reliance T. Soule
+    children:
+      - name: Corydon Vining
+        birth:
+          date: age 8 y. as of 1850 census
+          place: "Salem, Maine"
+raw: |-
+  <a name="MosesP01"></a><font size=+2>Moses P. Vining</font>
+     (son of <a href="Dfamilies.htm#Daniel01">Daniel Vining and Deborah Waters</a>)
+     b. 22 January 1811   Malta [now Windsor], Maine
+     m. (1) 8 July 1839
+                 Reliance T. Soule
+           (2) 15 March 1862
+                 Clarinda B[riggs?]
+                       b. age 66 y., 10 m. at death   Maine
+                       d. 13 May 1894
+                          bur. Riverside Cemetery   Farmington, Maine
+     d. 9 November 1883
+  
+  <font size=+1>children by Reliance T. Soule:</font>
+     Corydon Vining   b. age 8 y. as of 1850 census   Salem, Maine
+     Charles Vining   b. age 19 y., 9 m. at death [see &#8220;documentation and notes&#8221; below]   Salem, Maine   -   d. 4 December 1862   -   bur. Riverside Cemetery   Farmington, Maine
+     Ella E. Vining   b. July 1853   Salem, Maine   -   m. 5 December 1880   Chesterville, Maine   Charles A. Hardy
+  <font size=+1>child by Clarinda [Briggs?]:</font>
+     <a href="Cfamilies.htm#CharlesEL01">Charles Ernest Lindel Vining</a>   b. 21 December 1867   West Gardiner, Maine   -   m. 9 January 1890   Jennie Louise Marston   -   d. 14 February 1921   Farmington, Maine   -   bur. Wilton, Maine
+  
+  <a href="Msources/MosesP01doc.htm">documentation and notes</a>

@@ -1,0 +1,62 @@
+id: MelvinH01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: ElmerH02
+parentLetter: E
+parentDesc: Elmer Harold Vining and Bernice Marguerite Foye
+head:
+  givenName: Melvin Howard
+  birth:
+    date: 27 October 1921
+    place: "Brockton, Massachusetts"
+  death:
+    date: 2 March 2008
+    place: "Falls Township, Pennsylvania"
+marriages:
+  - date: 10 January 1943
+    place: "Trenton, New Jersey"
+    spouse:
+      givenName: Jean Marie
+      surname: Breen
+      birth:
+        date: 4 April 1917
+        place: "Glasgow, Scotland"
+      death:
+        date: 11 January 2015
+      burial:
+        place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        birth:
+          date: early July 1947
+        death:
+          date: same day in early July 1947
+      - name: "Judi Anne Vining   7 April 1950   Brockton, Massachusetts"
+      - name: Janice Marie Vining
+        birth:
+          date: 29 July 1952
+          place: "Brockton, Massachusetts"
+        marriages:
+          - date: "[...] Lesyk"
+docsUrl: Msources/MelvinH01doc.htm
+raw: |-
+  <a name="MelvinH01"></a><font size=+2>Melvin Howard Vining</font>
+     (son of <a href="Efamilies.htm#ElmerH02">Elmer Harold Vining and Bernice Marguerite Foye</a>)
+     b. 27 October 1921   Brockton, Massachusetts
+     m. 10 January 1943   Trenton, New Jersey
+           Jean Marie Breen
+                 (dau. of Hugh George Breen and Mary Bridget Rafferty)
+                 b. 4 April 1917   Glasgow, Scotland
+                 d. 11 January 2015
+                       bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+     d. 2 March 2008   Falls Township, Pennsylvania
+           bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Mary Vining   b. early July 1947   -   d. same day in early July 1947
+     Judi Anne Vining   7 April 1950   Brockton, Massachusetts
+     Janice Marie Vining   b. 29 July 1952   Brockton, Massachusetts   -   m. [...] Lesyk
+  
+  <a href="Msources/MelvinH01doc.htm">documentation and notes</a>

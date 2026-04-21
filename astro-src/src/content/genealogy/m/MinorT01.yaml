@@ -1,0 +1,53 @@
+id: MinorT01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Samuel03
+parentLetter: S
+parentDesc: "Samuel Vining and Rebekah [...]"
+head:
+  givenName: Minor T./J.
+  birth:
+    date: age 40 y. as of 1850 census
+    place: New York
+marriages:
+  - date: 13 April 1841
+    spouse:
+      givenName: Phebe A.
+      surname: Canine
+      birth:
+        date: age 60 y. as of 1870 census
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: Lovinia Vining
+        birth:
+          date: age 9 y. as of 1850 census
+      - name: Jefferson Vining
+        birth:
+          date: age 7 y. as of 1850 census
+      - name: James G. Vining
+        birth:
+          date: age 4 y. as of 1850 census
+      - name: Polly C. Vining
+        birth:
+          date: age 1 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: James Eaton
+docsUrl: Msources/MinorT01doc.htm
+raw: |-
+  <a name="MinorT01"></a><font size=+2>Minor T./J. Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel03">Samuel Vining and Rebekah [...]</a>)
+     b. age 40 y. as of 1850 census   New York
+     m. 13 April 1841
+           Phebe A. Canine
+                 b. age 60 y. as of 1870 census   Ohio
+  
+  <font size=+1>children:</font>
+     Lovinia Vining   b. age 9 y. as of 1850 census
+     Jefferson Vining   b. age 7 y. as of 1850 census
+     James G. Vining   b. age 4 y. as of 1850 census
+     Polly C. Vining   b. age 1 y. as of 1850 census   Ohio   -   m. James Eaton
+  
+  <a href="Msources/MinorT01doc.htm">documentation and notes</a>

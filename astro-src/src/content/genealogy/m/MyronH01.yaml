@@ -1,0 +1,93 @@
+id: MyronH01
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: AlbertB01
+parentLetter: A
+parentDesc: Albert Bela Vining and Harriet Finch
+head:
+  givenName: Myron Henry
+  birth:
+    date: 28 December 1859
+    place: "[New York or Iowa?]"
+  death:
+    date: 16 January 1931
+    place: "Waterloo, Iowa"
+marriages:
+  - date: 7 y. as of 1900 census (her second marriage)
+    spouse:
+      givenName: Isabelle Nettie
+      surname: Kays
+      birth:
+        date: "1864"
+      death:
+        date: 21 December 1926
+      burial:
+        place: "Fontana Cemetery   Hazelton, Iowa"
+childrenGroups:
+  - children:
+      - name: Viola A. Vining
+        birth:
+          date: June 1895
+          place: "Waterloo, Iowa"
+        marriages:
+          - date: 24 April 1918
+            spouse: Edward D. Tracy
+      - name: Leroy Myron Vining
+        entryId: LeroyM01
+        entryLetter: L
+        birth:
+          date: 27 October 1899
+          place: "[Waterloo or Dunlap?], Iowa"
+        marriages:
+          - date: 4 August 1918
+            place: "Waterloo, Iowa"
+            spouse: Mabel M. Grover
+        death:
+          date: 14 July 1961
+        burial:
+          place: "Missoula Cemetery   Missoula, Montana"
+      - name: Theodore Roosevelt Vining
+        entryId: TheodoreR01
+        entryLetter: T
+        birth:
+          date: 22 January 1902
+          place: "Waterloo, Iowa"
+        marriages:
+          - date: Alice McNeal
+        death:
+          date: 22 December 1973
+          place: "Harris County, Texas"
+        burial:
+          place: "Earthman Resthaven Cemetery   Houston, Texas"
+      - name: Charles Myron Vining
+        entryId: CharlesM02
+        entryLetter: C
+        birth:
+          date: 23 February 1903
+          place: "Waterloo, Iowa"
+        marriages:
+          - date: ca. 1928
+            spouse: Erma Rose Aldrich
+docsUrl: Msources/MyronH01doc.htm
+raw: |-
+  <a name="MyronH01"></a><font size=+2>Myron Henry Vining</font>
+     (son of <a href="Afamilies.htm#AlbertB01">Albert Bela Vining and Harriet Finch</a>)
+     b. 28 December 1859   [New York or Iowa?]
+     m. 7 y. as of 1900 census (her second marriage)
+           Isabelle Nettie Kays
+                 b. 1864
+                 d. 21 December 1926
+                       bur. Fontana Cemetery   Hazelton, Iowa
+     d. 16 January 1931   Waterloo, Iowa
+           bur. Fontana Cemetery   Hazelton, Iowa
+  
+  <font size=+1>stepchild [adopted?]:</font>
+     James Vining   b. August 1892   Iowa
+  <font size=+1>children:</font>
+     Viola A. Vining   b. June 1895   Waterloo, Iowa   -   m. 24 April 1918   Edward D. Tracy
+     <a href="Lfamilies.htm#LeroyM01">Leroy Myron Vining</a>   b. 27 October 1899   [Waterloo or Dunlap?], Iowa   -   m. 4 August 1918   Waterloo, Iowa   Mabel M. Grover   -   d. 14 July 1961   -   bur. Missoula Cemetery   Missoula, Montana
+     <a href="Tfamilies.htm#TheodoreR01">Theodore Roosevelt Vining</a>   b. 22 January 1902   Waterloo, Iowa   -   m. Alice McNeal   -   d. 22 December 1973   Harris County, Texas   -   bur. Earthman Resthaven Cemetery   Houston, Texas
+     <a href="Cfamilies.htm#CharlesM02">Charles Myron Vining</a>   b. 23 February 1903   Waterloo, Iowa   -   m. ca. 1928   Erma Rose Aldrich
+  
+  <a href="Msources/MyronH01doc.htm">documentation and notes</a>
