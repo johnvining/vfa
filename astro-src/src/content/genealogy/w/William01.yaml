@@ -1,4 +1,5 @@
 id: William01
+sequence: 57
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,19 +14,41 @@ head:
   death:
     date: 9 September 1867
     place: "Worthington, Ohio"
+  burial:
+    place: "Walnut Grove Cemetery   Worthington, Ohio"
 marriages:
   - spouse:
       givenName: "[1?] Phoebe"
       surname: "[...]"
+  - date: "[2?] 1803"
+    spouse:
+      givenName: Huldah
+      surname: Pinney
+      parents: "(dau. of Abner Pinney and Ruth Gillett)"
+      birth:
+        date: 5 April 1780
+        place: "Simsbury, Connecticut"
+      death:
+        date: 19 July 1847
+        place: "Worthington, Ohio"
       burial:
         place: "Saint Johns Episcopal Church Cemetery   Worthington, Ohio"
 childrenGroups:
-  - spouseRef: Huldah Pinney
+  - headingText: "child by [Phoebe [...]?]"
+    children:
+      - name: Frances Vining
+        marriages:
+          - date: "[...] Spring"
+  - headingText: children by Huldah Pinney
     children:
       - name: Huldah May Vining
         birth:
           date: 3 August 1804
           place: "Worthington, Ohio"
+        marriages:
+          - date: 23 August 1825
+            place: "Worthington, Ohio"
+            spouse: Harvey Skeels
         death:
           date: 8 June 1869
           place: "Mansfield, Illinois"

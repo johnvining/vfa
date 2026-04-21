@@ -1,4 +1,5 @@
 id: WilliamS02
+sequence: 134
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -10,10 +11,16 @@ head:
     date: 18 January 1898
   death:
     date: 11 November 1963
+  burial:
+    place: "Bonaventure Cemetery   Savannah, Georgia"
 marriages:
   - spouse:
       givenName: Effie
       surname: Chambers
+      death:
+        date: 6 December 1982
+      burial:
+        place: "Bonaventure Cemetery   Savannah, Georgia"
 childrenGroups:
   - children:
       - name: William Sitz Vining Jr.

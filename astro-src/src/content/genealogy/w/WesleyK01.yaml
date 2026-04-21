@@ -1,4 +1,5 @@
 id: WesleyK01
+sequence: 42
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: "[...]"
       surname: Marion
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Cecilia Vining
+        birth:
+          date: ca. 1927
+          place: Florida
 raw: |-
   <a name="WesleyK01"></a><font size=+2>Wesley Keith Vining</font>
      (son of <a href="Cfamilies.htm#CecilL01">Cecil Leo Vining and Myra K. Beech</a>)

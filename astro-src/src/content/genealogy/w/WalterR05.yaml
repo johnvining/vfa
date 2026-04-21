@@ -1,4 +1,5 @@
 id: WalterR05
+sequence: 19
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,8 +14,13 @@ head:
     place: "Pasco, Franklin County, Washington"
 marriages:
   - spouse:
-      givenName: Jessie Evelyn Reeves (she m. (2) Fred A.
-      surname: Olson)
+      givenName: "Jessie Evelyn Reeves (she m. (2) Fred A. Olson)"
+      birth:
+        date: 24 August 1884
+        place: Washington
+      death:
+        date: 3 January 1959
+        place: "Colville, Stevens County, Washington"
 childrenGroups:
   - children:
       - name: Arthur Ray Vining

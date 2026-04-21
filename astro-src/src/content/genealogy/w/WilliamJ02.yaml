@@ -1,4 +1,5 @@
 id: WilliamJ02
+sequence: 111
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,10 @@ marriages:
   - spouse:
       givenName: Mercy Turner
       surname: Bates
+      parents: "(dau. of Thomas Merit Bates and Sylvia Wing)"
+      birth:
+        date: 25 December 1826
+        place: "Hanover, Plymouth County, Massachusetts"
 childrenGroups:
   - children:
       - name: Georgeanna Vining

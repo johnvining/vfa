@@ -1,4 +1,5 @@
 id: WalterR04
+sequence: 18
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,10 @@ marriages:
   - spouse:
       givenName: Barbara C.
       surname: Stankus
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Walter K. Vining
 docsUrl: Wsources/WalterR04doc.htm
 raw: |-
   <a name="WalterR04"></a><font size=+2>Walter R. Vining</font>

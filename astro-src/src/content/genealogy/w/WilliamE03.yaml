@@ -1,4 +1,5 @@
 id: WilliamE03
+sequence: 86
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 14 July 1961
     place: "Alto, Texas"
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
 marriages:
   - date: 25 October 1896
     place: "Rusk, Cherokee County, Texas"
     spouse:
       givenName: Laura Kieffer
       surname: Tannery
+      parents: "(dau. of John Asbury Tannery and Harriet Matilda Addis)"
       birth:
         date: 19 February 1879
         place: Texas

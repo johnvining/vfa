@@ -1,4 +1,5 @@
 id: WinfieldS01
+sequence: 151
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,9 @@ marriages:
   - spouse:
       givenName: Estelle
       surname: Miles
+      birth:
+        date: May 1846
+        place: New York
 childrenGroups:
   - children:
       - name: Arthur F. Vining

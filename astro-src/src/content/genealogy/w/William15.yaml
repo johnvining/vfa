@@ -1,4 +1,5 @@
 id: William15
+sequence: 66
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: Ohio
   death:
     date: "1941"
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
 marriages:
   - date: 24 June 1906
     spouse:
       givenName: Orpha Mae
       surname: Webster
+      parents: "(dau. of E. Wellington Webster and Sarah Elizabeth [Sparon or Spohn ?])"
       birth:
         date: 14 December 1881
         place: Ohio

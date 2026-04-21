@@ -1,4 +1,5 @@
 id: WalterC01
+sequence: 6
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,27 @@ head:
   death:
     date: 18 April 2011
     place: "Yuma, Yuma County, Arizona"
+  burial:
+    place: "Desert Lawn Memorial Park   Yuma, Yuma County, Arizona"
 marriages:
   - spouse:
       givenName: Josephine
       surname: Creighton
+      parents: "(dau. of Joseph Creighton and Osa […])"
+      birth:
+        date: 2 August 1918
+        place: "Siloam Springs, Benton County, Arkansas"
+      death:
+        date: "9 June 2011"
+        place: "Yuma, Yuma County. Arizona"
+      burial:
+        place: "Desert Lawn Memorial Park   Yuma, Yuma County, Arizona"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Joseph Clifford Vining
+        marriages:
+          - spouse: "Deborah […]"
 raw: |-
   <a name="WalterC01"></a><font size=+2>Walter Clifford Vining</font>
      (son of <a href="#WalterL01">Walter Lonnie Vining and Lorena Grubbs</a>)

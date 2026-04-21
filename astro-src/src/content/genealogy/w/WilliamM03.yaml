@@ -1,4 +1,5 @@
 id: WilliamM03
+sequence: 122
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: "1975"
     place: Michigan
+  burial:
+    place: "Payne Cemetery   Maple Rapids, Clinton County, Michigan"
 marriages:
   - spouse:
       givenName: Florence Velda
       surname: Wonnacott
+      parents: "(dau. of George E. Wonnacott and Gertrude Maude Crosby)"
+      birth:
+        date: 30 July 1898
+        place: Michigan
+      death:
+        date: 4 January 1988
+        place: "Alma, Gratiot County, Michigan"
+      burial:
+        place: "Payne Cemetery   Maple Rapids, Clinton County, Michigan"
 childrenGroups:
   - children:
       - name: Ronald Vining

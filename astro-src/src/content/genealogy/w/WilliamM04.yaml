@@ -1,4 +1,5 @@
 id: WilliamM04
+sequence: 123
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,9 @@ marriages:
   - spouse:
       givenName: Eva
       surname: "[&#8230;]"
+      birth:
+        date: age 29 y. as of 1920 census
+        place: New Jersey
 childrenGroups:
   - children:
       - name: William Vining Jr.

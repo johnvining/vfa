@@ -1,4 +1,5 @@
 id: WalterE02
+sequence: 11
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 4 November 2002
     place: "Osage, Mitchell County, Iowa"
+  burial:
+    place: "Osage Cemetery   Osage, Mitchell County, Iowa"
 marriages:
   - spouse:
       givenName: Marie C.
       surname: Buffington
+      parents: "(dau. of Phillip Ilo Buffington and Alice M. Stevens)"
+      birth:
+        date: 8 May 1906
+        place: "Zearing, Iowa"
+      death:
+        date: 9 April 1988
+        place: "Osage, Mitchell County, Iowa"
+      burial:
+        place: "Osage Cemetery   Osage, Iowa"
 childrenGroups:
   - children:
       - name: Joy Vining

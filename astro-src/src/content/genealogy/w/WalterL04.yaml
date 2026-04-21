@@ -1,4 +1,5 @@
 id: WalterL04
+sequence: 16
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 24 March 1970
     place: "Dallas, Dallas County, Texas"
+  burial:
+    place: "Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas"
 marriages:
   - spouse:
       givenName: Betty M.
       surname: "[&#8230;]"
+      birth:
+        date: "1910"
+        place: Texas
+      death:
+        date: "1994"
+      burial:
+        place: "Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas"
 childrenGroups:
   - children:
       - name: Walter Anthony Vining

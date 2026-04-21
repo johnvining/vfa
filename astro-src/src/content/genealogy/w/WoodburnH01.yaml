@@ -1,4 +1,5 @@
 id: WoodburnH01
+sequence: 153
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -19,6 +20,9 @@ marriages:
     spouse:
       givenName: Donna Jean
       surname: Gesleman
+      parents: "(dau. of Clifford Gesleman and Etta Terwilliger)"
+      birth:
+        date: 16 June 1938
       death:
         date: 4 March 1994
         place: "Crystal, Michigan"
@@ -26,6 +30,15 @@ marriages:
         place: "Crystal Cemetery   Crystal, Michigan"
   - number: 2
     date: 20 December 1997
+    spouse:
+      givenName: Sheila Kay
+      surname: Carson
+      parents: "(dau. of Rick Carson and Dixie Opdycke)"
+      birth:
+        date: 29 May 1961
+        place: "Alma, Michigan"
+      death:
+        date: 11 May 2021
 childrenGroups:
   - spouseRef: Donna Jean Gesleman
     children:

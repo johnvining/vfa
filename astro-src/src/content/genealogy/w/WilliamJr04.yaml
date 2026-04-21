@@ -1,4 +1,5 @@
 id: WilliamJr04
+sequence: 71
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -7,8 +8,21 @@ head:
   givenName: William Jr.
 marriages:
   - spouse:
-      givenName: "Sally Ann Farmer [her second"
-      surname: "marriage]"
+      givenName: "Sally Ann Farmer [her second marriage]"
+      parents: "(dau, of Hugh Farmer and Lizzie Bell)"
+      birth:
+        date: 5 November 1938
+      death:
+        date: 14 September 2016
+      burial:
+        place: "Westside Cemetery   Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Vining III
+        entryId: WilliamIII01
+        marriages:
+          - date: "Janet Roxanne […]"
 raw: |-
   <a name="WilliamJr04"></a><font size=+2>William Vining Jr.</font>
      (son of [?])

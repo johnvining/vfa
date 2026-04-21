@@ -1,4 +1,5 @@
 id: WilliamF01
+sequence: 91
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,11 +12,14 @@ head:
   death:
     date: "1943"
     place: "Needham, Norfolk County, Massachusetts"
+  burial:
+    place: "Spring Grove Cemetery   Florence, Massachusetts"
 marriages:
   - date: 13 y. as of 1900 census
     spouse:
       givenName: Catherine
       surname: McDonald
+      parents: "(dau. of Simon McDonald and Elizabeth Kennedy)"
       birth:
         date: March 1868
         place: "Pictou, Nova Scotia, Canada"

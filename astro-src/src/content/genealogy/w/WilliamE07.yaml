@@ -1,4 +1,5 @@
 id: WilliamE07
+sequence: 88
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,20 @@ head:
   death:
     date: 19 March 2010
     place: "Green Pond, Bibb County, Alabama"
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 marriages:
   - spouse:
       givenName: Bertie Louise
       surname: Finch
+      parents: "(dau. of Dewey Finch and Dessie George)"
+      birth:
+        date: 12 July 1933
+      death:
+        date: 20 March 2021
+        place: "Green Pond, Bibb County, Alabama"
+      burial:
+        place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 childrenGroups:
   - children:
       - name: Ronnie Vining

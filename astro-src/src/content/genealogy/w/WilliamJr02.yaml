@@ -1,4 +1,5 @@
 id: WilliamJr02
+sequence: 69
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 7 October 1898
     place: "Rockland, Massachusetts"
+  burial:
+    place: "Mount Pleasant Cemetery   Rockland, Massachusetts"
 marriages:
   - date: 22 September 1861
     spouse:
       givenName: Lucy Turner (Mann)
       surname: Dunham
+      parents: "(dau. of John Mann and Harriet Turner)"
       birth:
         date: 4 August 1828
         place: "Hanover, Massachusetts"

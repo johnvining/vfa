@@ -1,4 +1,5 @@
 id: WilliamD03
+sequence: 81
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 15 October 1997
     place: "Port Reading, Middlesex County, New Jersey"
+  burial:
+    place: "Saint James Cemetery   Woodbridge, New Jersey"
 marriages:
   - spouse:
       givenName: Concetta Marie
       surname: Russo
+      parents: "(dau. of Joseph Anthony Russo and Sarah Lombardi)"
+      birth:
+        date: 29 November 1933
+        place: "Jersey City, Hudson County, New Jersey"
+      death:
+        date: 23 December 2009
+        place: "Neptune City, Monmouth County, New Jersey"
+      burial:
+        place: "St. James Cemetery   Woodbridge, New Jersey"
 childrenGroups:
   - children:
       - name: John W. Vining

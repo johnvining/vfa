@@ -1,4 +1,5 @@
 id: WilliamT01
+sequence: 137
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 7 July 1866
     place: "Cumberland County, Kentucky"
+  burial:
+    place: "Vining Cemetery   Cumberland County, Kentucky"
 marriages:
   - spouse:
       givenName: Jane
       surname: Hunter
+      parents: "(dau. of Micajah Sutton Hunter and Nancy Weatherly)"
+      birth:
+        date: 21 March 1832
+        place: "Cumberland County, Kentucky"
+      death:
+        date: 17 July 1869
+        place: "Burkesville, Cumberland County, Kentucky"
+      burial:
+        place: "Vining Cemetery   Cumberland County, Kentucky"
 childrenGroups:
   - children:
       - name: "Micajah Sutton &#8220;Cage&#8221; Vining"

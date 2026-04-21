@@ -1,4 +1,5 @@
 id: WalterE01
+sequence: 10
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,10 +18,28 @@ marriages:
   - number: 1
     date: "1885"
     spouse:
-      givenName: "divorced ca. 1893   Alexandra, Victoria,"
-      surname: Australia
+      givenName: Louisa Mary
+      surname: Wright
+    note: "divorced ca. 1893   Alexandra, Victoria, Australia"
   - number: 2
     date: "1897"
+    spouse:
+      givenName: Emily
+      surname: Dreger
+      parents: "(dau. of Henry Harman Dreger and Louisa Maryy Ann Freeman)"
+      birth:
+        date: 15 October 1866
+        place: "Collingwood, Victoria, Australia"
+      death:
+        date: "1931"
+        place: "Collingwood, Victoria, Victoria, Australia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Henry Richard Edmund Vining
+        birth:
+          date: "1900"
+          place: "Alexandra, Victoria, Australia"
 raw: |-
   <a name="WalterE01"></a><font size=+2>Walter Edmund Vining</font>
      (son of <a href="Rfamilies.htm#RichardJ02">Richard John Vining and Eliza Morgan</a>)

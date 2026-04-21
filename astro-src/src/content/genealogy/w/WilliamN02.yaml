@@ -1,4 +1,5 @@
 id: WilliamN02
+sequence: 125
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Eliza J.
       surname: "[...]"
+      birth:
+        date: January 1846
+        place: Mississippi
 childrenGroups:
   - children:
       - name: Columbus T. Vining

@@ -1,4 +1,5 @@
 id: Warren01
+sequence: 28
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,19 @@ marriages:
     spouse:
       givenName: Mary Ann
       surname: Page
+      death:
+        date: "1830"
+  - number: 2
+    date: 2 April 1831
+    spouse:
+      givenName: Sophronia
+      surname: Lowell
+  - number: 3
+    date: 29 July 1832
+    spouse:
+      givenName: Octavia
+      surname: Frith
+      parents: "(dau. of Joseph Frith and Margaret [...])"
       birth:
         date: "age 60 y., 3 m., 6 d. at death"
         place: "Wiscasset, Maine"
@@ -36,6 +50,9 @@ childrenGroups:
       - name: Benjamin Leavitt Vining
         birth:
           date: 13 November 1829
+  - spouseRef: Octavia Frith
+    headingText: child by Octavia Frith
+    children:
       - name: Harriet Frances Vining
         birth:
           date: "1843"

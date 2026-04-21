@@ -1,4 +1,5 @@
 id: WillieH01
+sequence: 145
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,34 @@ head:
   death:
     date: 18 October 1985
     place: "Plainview, Texas"
+  burial:
+    place: "Plainview Memorial Park   Plainview, Texas"
 marriages:
   - spouse:
       givenName: Winnie Ola
       surname: Creamer
+      birth:
+        date: 19 February 1897
+      death:
+        date: 14 September 1985
+      burial:
+        place: "Plainview Memorial Park   Plainview, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Lois Jo. Vining
+        birth:
+          date: 28 April 1924
+          place: "Chalk, Texas"
+        marriages:
+          - date: 3 February 1946
+            place: "Wichita Falls, Texas"
+            spouse: Jay Dean Kirkpatrick
+        death:
+          date: 14 March 2014
+          place: "Wichita Falls, Texas"
+        burial:
+          place: "Crestview Memorial Park   Wichita Falls, Texas"
 raw: |-
   <a name="WillieH01"></a><font size=+2>Willie Homer Vining</font>
      (son of <a href="Jfamilies.htm#JosephM01">Joseph Morrison Vining and Arah Belle Haley</a>)

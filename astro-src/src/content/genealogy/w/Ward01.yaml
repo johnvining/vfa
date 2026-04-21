@@ -1,4 +1,5 @@
 id: Ward01
+sequence: 25
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "[Southwick, Massachusetts ?]"
   death:
     date: 28 April 1900
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
 marriages:
   - date: "[2 August 1845 or 10 July 1845"
     place: "Granby, Connecticut?]"
     spouse:
       givenName: Jane Cecelia
       surname: Reed
+      parents: "(dau. of Willis Reed and Amaret Moore)"
       birth:
         date: 25 March 1825
         place: "Granby, Connecticut"
@@ -53,6 +57,9 @@ childrenGroups:
       - name: Mortimer Jay Vining
         entryId: MortimerJ01
         entryLetter: M
+        birth:
+          date: 22 October 1849
+          place: Massachusetts
         marriages:
           - date: "October [1873 or 1872?]"
             spouse: Mary A. Thompson

@@ -1,4 +1,5 @@
 id: WillisD01
+sequence: 147
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,13 +13,19 @@ head:
     place: "Wilsey, Kansas"
   death:
     date: 6 February 2009
+  burial:
+    place: "Woodlawn Cemetery   Pomona, Kansas"
 marriages:
   - number: 1
     date: Lois Murphy
   - number: 2
     date: Ruthann H. VanDeVeer
+    spouse:
+      birth:
+        date: 15 February 1936
 childrenGroups:
-  - children:
+  - headingText: "children [by Lois Murphy?]"
+    children:
       - name: Deborah Vining
         birth:
           date: 26 February 1954

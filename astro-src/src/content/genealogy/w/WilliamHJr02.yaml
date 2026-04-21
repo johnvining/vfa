@@ -1,4 +1,5 @@
 id: WilliamHJr02
+sequence: 108
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,10 @@ marriages:
     date: Daunine Mae Hagman
   - number: 2
     date: "[...] Kamile"
+childrenGroups:
+  - headingText: child by Daunine Mae Hagman
+    children:
+      - name: William Henry Vining III
 raw: |-
   <a name="WilliamHJr02"></a><font size=+2>William Henry Vining Jr.</font>
      (son of <a href="#WilliamH07">William Henry Vining and Ruth Emily Barnes</a>)

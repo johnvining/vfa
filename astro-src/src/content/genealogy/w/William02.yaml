@@ -1,4 +1,5 @@
 id: William02
+sequence: 58
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,9 @@ marriages:
   - spouse:
       givenName: Nancy
       surname: Ragoon
+      birth:
+        date: 15 May 1800
+        place: "[St. Stephen, New Brunswick or Calais, Maine?]"
 childrenGroups:
   - children:
       - name: Mary Jane Vining

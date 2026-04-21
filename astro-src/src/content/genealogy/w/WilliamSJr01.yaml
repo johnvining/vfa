@@ -1,4 +1,5 @@
 id: WilliamSJr01
+sequence: 135
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,19 @@ head:
   death:
     date: 11 September 2009
     place: "Houston, Texas"
+  burial:
+    place: "Bonaventure Cemetery   Savannah, Georgia"
 marriages:
   - date: 46 y. as of 2009
     spouse:
       givenName: Jean
       surname: Wingate
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ashley Vining
+        marriages:
+          - date: Curtis Hillier
 docsUrl: Wsources/WilliamSJr01doc.htm
 raw: |-
   <a name="WilliamSJr01"></a><font size=+2>William Sitz Vining Jr.</font>

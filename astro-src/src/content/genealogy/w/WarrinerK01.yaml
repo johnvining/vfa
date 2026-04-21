@@ -1,4 +1,5 @@
 id: WarrinerK01
+sequence: 37
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 24 September 1913
     place: "Arlington, Vermont"
+  burial:
+    place: "Bozrah Cemetery   Hawley, Massachusetts"
 marriages:
   - number: 1
     date: 21 September 1868
@@ -32,7 +35,7 @@ marriages:
       givenName: Rosie Belle
       surname: Hubbard
 childrenGroups:
-  - spouseRef: Emily Jane Harwood
+  - headingText: children by Emily Jane Harwood
     children:
       - name: Clarence Vining
       - name: Lillian May Vining
@@ -65,6 +68,8 @@ childrenGroups:
       - name: Cheri Emily Vining
         marriages:
           - date: "[...] Dadmun"
+  - headingText: child by Rosie Belle Hubbard
+    children:
       - name: Doris Elizabeth Vining
         marriages:
           - number: 1

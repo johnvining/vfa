@@ -1,4 +1,5 @@
 id: WarnerH01
+sequence: 27
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,18 @@ head:
   death:
     date: 28 October 2010
     place: "Monticello, Arkansas"
+  burial:
+    place: "Union Ridge Cemetery   Monticello, Arkansas"
 marriages:
   - spouse:
       givenName: Ruby Myrl
       surname: Brantley
+      birth:
+        date: 5 January 1923
+      death:
+        date: 20 November 1989
+      burial:
+        place: "Union Ridge Cemetery   Monticello, Arkansas"
 childrenGroups:
   - children:
       - name: Kathy D. Vining

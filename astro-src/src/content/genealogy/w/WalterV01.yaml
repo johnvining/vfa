@@ -1,4 +1,5 @@
 id: WalterV01
+sequence: 24
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,19 @@ head:
     place: New York
   death:
     date: "1964"
+  burial:
+    place: "Windham Cemetery   Windham, New York"
 marriages:
   - spouse:
       givenName: Grace B.
       surname: Cheeseman
+      birth:
+        date: "1888"
+        place: New York
+      death:
+        date: "1927"
+      burial:
+        place: "Windham Cemetery   Windham, New York"
 childrenGroups:
   - children:
       - name: Walter Willard Vining
@@ -27,6 +37,8 @@ childrenGroups:
         death:
           date: 31 October 1969
           place: "Albany, New York"
+        burial:
+          description: "[bur. Windham Cemetery   Windham, New York?]"
       - name: Paul Samuel Vining
         birth:
           date: 25 December 1920

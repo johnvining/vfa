@@ -1,4 +1,5 @@
 id: WilliamJr03
+sequence: 70
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,16 @@ marriages:
   - spouse:
       givenName: Mary
       surname: "[&#8230;]"
+      birth:
+        date: "age 25 y. as of 1940 census"
+        place: Pennsylvania
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Vining
+        birth:
+          date: "age [illegible] as of 1940 census"
+          place: Pennsylvania
 docsUrl: Wsources/WilliamJr03doc.htm
 raw: |-
   <a name="WilliamJr03"></a><font size=+2>William Vining Jr.</font>

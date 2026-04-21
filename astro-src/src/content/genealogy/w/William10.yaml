@@ -1,10 +1,26 @@
 id: William10
+sequence: 54
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
 parentDesc: "[?]"
 head:
   givenName: William
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Benjamin Vining
+        entryId: Benjamin07
+        entryLetter: B
+        birth:
+          date: "1685"
+        marriages:
+          - number: 1
+            date: "Ann [...]"
+          - number: 2
+            date: Mary Middleton
+        death:
+          date: "1735"
 raw: |-
   <a name="William10"></a><font size=+2>William Vining</font>
      (son of [?])

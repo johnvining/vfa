@@ -1,4 +1,5 @@
 id: WymanL01
+sequence: 156
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 26 October 1927
     place: "Cooper, Maine"
+  burial:
+    place: "Cooper, Maine"
 marriages:
   - date: 25 April 1903
     place: "Cooper, Maine"
     spouse:
       givenName: Adeline Rachel
       surname: Ireland
+      parents: "(dau. of Abram Ireland and Sarah A. Pottle)"
       birth:
         date: 17 June 1884
         place: "Cooper, Maine"

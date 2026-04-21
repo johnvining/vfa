@@ -1,4 +1,5 @@
 id: WillardD01
+sequence: 53
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,18 @@ head:
   death:
     date: 14 November 1999
     place: "Etna Green, Indiana"
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
 marriages:
   - spouse:
       givenName: Mary K.
       surname: Yocum
+      birth:
+        date: 13 April 1915
+      death:
+        date: 27 August 2003
+      burial:
+        place: "Etna Green Cemetery   Etna Green, Indiana"
 childrenGroups:
   - children:
       - name: Richard L. Vining

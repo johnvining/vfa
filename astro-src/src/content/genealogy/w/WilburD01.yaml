@@ -1,4 +1,5 @@
 id: WilburD01
+sequence: 44
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,16 +14,29 @@ head:
   death:
     date: June 1976
     place: "(last residence: Jackson, Michigan)"
+  burial:
+    place: "Oak Grove Cemetery   Napoleon, Michigan"
 marriages:
   - number: 1
     date: Minnie Gary
     spouse:
-      givenName: "b. age 21 y. as of 1920 census  "
-      surname: Michigan
+      parents: "(dau. of Hugh H. Gary and Minnie B. [...])"
+      birth:
+        date: "age 21 y. as of 1920 census"
+        place: Michigan
       death:
         date: "1939"
   - number: 2
     date: Dorothy Chamberlain
+childrenGroups:
+  - headingText: child by Minnie Gary
+    children:
+      - name: Marian Vining
+        birth:
+          date: 24 September 1919
+        marriages:
+          - date: 7 January 1942
+            spouse: Wayne Garrison
 docsUrl: Wsources/WilburD01doc.htm
 raw: |-
   <a name="WilburD01"></a><font size=+2>Wilbur Dale Vining</font>

@@ -1,4 +1,5 @@
 id: Willard01
+sequence: 50
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,20 @@ head:
     place: "Templeton, Massachusetts"
   death:
     date: "1849"
+  burial:
+    description: "bur. at sea"
 marriages:
   - date: 24 July 1843
     spouse:
       givenName: Miranda
       surname: Cody
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Fannie Marie Vining
+        birth:
+          date: 27 June 1844
+          place: "Webster, Massachusetts"
 raw: |-
   <a name="Willard01"></a><font size=+2>Willard Vining</font>
      (son of <a href="Jfamilies.htm#John07">John Vining and Fanny Richardson</a>)

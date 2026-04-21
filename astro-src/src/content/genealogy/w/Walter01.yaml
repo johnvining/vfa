@@ -1,4 +1,5 @@
 id: Walter01
+sequence: 3
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,19 @@ head:
     place: Minnesota
   death:
     date: 13 September 1948
+  burial:
+    place: "Maplewood Cemetery   Luverne, Minnesota"
 marriages:
   - spouse:
       givenName: Mabel
       surname: Bye
+      birth:
+        date: 5 February 1888
+        place: South Dakota
+      death:
+        date: 18 September 1947
+      burial:
+        place: "Maplewood Cemetery   Luverne, Minnesota"
 childrenGroups:
   - children:
       - name: Bruce Vining

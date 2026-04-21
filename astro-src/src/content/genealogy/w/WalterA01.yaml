@@ -1,4 +1,5 @@
 id: WalterA01
+sequence: 5
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     place: Texas
   death:
     date: 30 December 2014
+  burial:
+    place: "Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas"
 childrenGroups:
   - children:
       - name: child

@@ -1,4 +1,5 @@
 id: WilliamH07
+sequence: 104
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 24 October 1992
     place: "Stuart, Florida"
+  burial:
+    place: "Southwest Cemetery   Collinsville, Connecticut"
 marriages:
   - date: 12 September 1925
     place: "Unionville, Connecticut"
@@ -27,6 +30,16 @@ marriages:
         place: "Stuart, Florida"
       burial:
         place: "Southwest Cemetery   Collinsville, Connecticut"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Henry Vining Jr.
+        entryId: WilliamHJr02
+        marriages:
+          - number: 1
+            date: Daunine Mae Hagman
+          - number: 2
+            date: "[...] Kamile"
 docsUrl: Wsources/WilliamH07doc.htm
 raw: |-
   <a name="WilliamH07"></a><font size=+2>William Henry Vining</font>

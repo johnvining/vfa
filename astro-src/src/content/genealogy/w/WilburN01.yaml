@@ -1,4 +1,5 @@
 id: WilburN01
+sequence: 47
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,33 @@ head:
     place: "[Mississippi or Alabama?]"
   death:
     date: 8 April 1951
+  burial:
+    place: "Mount Olive Baptist Church Cemetery   Mississippi"
 marriages:
   - spouse:
       givenName: Myrtle B.
       surname: Gentry
+      birth:
+        date: "age 22 y. as of 1920 census"
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: Ruby Earlene Vining
+        birth:
+          date: "age 5 y. as of 1920 census"
+          place: Alabama
+      - name: John Floyd Vining
+        entryId: JohnF05
+        entryLetter: J
+        birth:
+          date: 31 August 1916
+          place: "Bibb County, Alabama"
+        marriages:
+          - date: "1938"
+            spouse: Nancy Louise Royal
+        death:
+          date: 10 December 1984
+          place: "Maylene, Alabama"
 docsUrl: Wsources/WilburN01doc.htm
 raw: |-
   <a name="WilburN01"></a><font size=+2>Wilbur Newman Vining</font>

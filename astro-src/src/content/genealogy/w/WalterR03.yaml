@@ -1,4 +1,5 @@
 id: WalterR03
+sequence: 21
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,14 @@ head:
     date: 21 September 1930
   death:
     date: 2 February 2001
+  burial:
+    place: "Kelvin Grove Cemetery   Palmerston North, Wanganui-Manawatu, New Zealand"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Roy Darren Vining
+        birth:
+          place: "New Zealand"
 raw: |-
   <a name="WalterR03"></a><font size=+2>Walter Roy Vining</font>
      (son of <a href="Gfamilies.htm#George05">George Vining and [&#8230;]</a>)

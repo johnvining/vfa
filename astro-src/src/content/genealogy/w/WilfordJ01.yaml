@@ -1,4 +1,5 @@
 id: WilfordJ01
+sequence: 49
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,10 +16,24 @@ head:
 marriages:
   - number: 1
     date: Aurora Helen Grunow
+    spouse:
+      parents: "(dau. of Martin Herman Grunow and Agnes Catherine Gensmer)"
+      birth:
+        date: 2 April 1916
+        place: "Horicon, Wisconsin"
   - number: 2
     date: Bobbie Ruth Cooper
 childrenGroups:
-  - spouseRef: Bobbie Ruth Cooper
+  - headingText: child by Aurora Helen Grunow
+    children:
+      - name: Michael Wilford Vining
+        entryId: MichaelW01
+        entryLetter: M
+        birth:
+          date: 8 August 1937
+        marriages:
+          - date: Shirley Lillian Totten
+  - headingText: children by Bobbie Ruth Cooper
     children:
       - name: Patricia Sue Vining
         birth:

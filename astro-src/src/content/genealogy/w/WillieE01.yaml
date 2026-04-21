@@ -1,4 +1,5 @@
 id: WillieE01
+sequence: 144
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 6 July 2009
     place: "Ruston, Lincoln Parish, Louisiana"
+  burial:
+    place: "Forest Lawn Memorial Park   Ruston, Louisiana"
 marriages:
   - spouse:
       givenName: Vyonnell
       surname: Brazzel
+      parents: "(dau. of John Nolan Brazzel and Nancy G. Smith)"
+      birth:
+        date: 18 May 1927
+      death:
+        date: 21 October 2009
+      burial:
+        place: "Forest Lawn Memorial Park   ruston, Louisiana"
 childrenGroups:
   - children:
       - name: Steven Earl Vining

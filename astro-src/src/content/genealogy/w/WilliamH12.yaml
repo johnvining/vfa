@@ -1,4 +1,5 @@
 id: WilliamH12
+sequence: 95
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 11 January 1925
     place: Mississippi
+  burial:
+    place: "Lone Oak Cemetery   Kossuth, Mississippi"
 marriages:
   - date: 31 January 1892
     place: Mississippi
     spouse:
       givenName: Nancy Ann
       surname: Horn
+      parents: "(dau. of Henry Hardy Horn and Martha Ann Bundy)"
       birth:
         date: January 1850
         place: Tennessee

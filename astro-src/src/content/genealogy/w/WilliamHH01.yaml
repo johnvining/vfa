@@ -1,4 +1,5 @@
 id: WilliamHH01
+sequence: 109
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,42 @@ head:
   death:
     date: 31 January 1889
     place: "Rockland, Plymouth County, Massachusetts"
+  burial:
+    place: "Maplewood Cemetery   Rockland, Plymouth County, Massachusetts"
 marriages:
   - spouse:
       givenName: Mary Elizabeth
       surname: Beal
+      birth:
+        date: November 1845
+        place: Massachusetts
+      death:
+        date: 4 February 1916
+      burial:
+        place: "Maplewood Cemetery   Rockland, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Grace A. Vining
+        birth:
+          date: August 1873
+          place: Massachusetts
+      - name: Mary L. Vining
+        birth:
+          date: age 10 y. as of 1880 census
+          place: Massachusetts
+      - name: William Vining
+        birth:
+          date: "age [5 or 6?] y. as of 1880 census"
+          place: Massachusetts
+      - name: Herbert Vining
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Massachusetts
+      - name: Charles Henry Vining
+        birth:
+          date: July 1884
+          place: Massachusetts
+docsUrl: Wsources/WilliamHH01doc.htm
 raw: |-
   <a name="WilliamHH01"></a><font size=+2>William Henry Harrison Vining</font>
      (son of <a href="Jfamilies.htm#Joseph05">Joseph Vining and Hannah Gardner</a>)

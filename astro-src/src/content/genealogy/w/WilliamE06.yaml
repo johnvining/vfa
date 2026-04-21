@@ -1,4 +1,5 @@
 id: WilliamE06
+sequence: 87
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,13 +10,8 @@ head:
     date: "1876"
     place: Ohio
 marriages:
-  - number: 1
-    date: "[1?]"
-    spouse:
-      givenName: "[?]"
-      surname: ""
-  - number: 2
-    date: "5 y. as of 1910 census"
+  - date: "[1?] [?]"
+  - date: "[2?] 5 y. as of 1910 census"
     spouse:
       givenName: Charlotte
       surname: Smith
@@ -50,6 +46,8 @@ childrenGroups:
           place: Connecticut
         marriages:
           - date: Grato A. Angiono
+        death:
+          date: ca. July 1965
       - name: Chancelor Livingston Vining
         birth:
           date: "1907"
@@ -69,6 +67,7 @@ childrenGroups:
           place: Cleveland Ohio
         marriages:
           - date: Dorothy Higgins
+        note: "d, 15 June 1990   New Haven, New Haven County, Connecticut"
       - name: Beatrice E. Vining
         birth:
           date: ca. 1915

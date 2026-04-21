@@ -1,4 +1,5 @@
 id: WilliamH03
+sequence: 98
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: Ohio
   death:
     date: 18 August 1907
+  burial:
+    place: "Deaver Cemetery   Precept, Nebraska"
 marriages:
   - date: 27 February 1877
     spouse:
       givenName: "Sarah Margaret &#8220;Sally&#8221;"
       surname: Ridenour
+      parents: "(dau. of Mathias Ridenour and Sarah Ann Cook)"
       birth:
         date: 20 December 1849
         place: "Robinson, Illinois"

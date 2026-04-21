@@ -1,4 +1,5 @@
 id: WilliamE02
+sequence: 90
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -18,6 +19,7 @@ marriages:
     spouse:
       givenName: Eleanor Maud
       surname: Burbank
+      parents: "(dau. of George Washington Burbank and Harriet Almira Hodge)"
       birth:
         date: 10 February 1881
         place: "Gorham, Coos County, New Hampshire"
@@ -26,11 +28,13 @@ marriages:
         place: "Rockland, Plymouth County, Massachusetts"
       burial:
         place: "Mount Pleasant Cemetery   Rockland, Plymouth County, Massachusetts"
+    note: divorced
   - number: 2
     date: 3 October 1930
     spouse:
       givenName: Gertrude May (Chase)
       surname: Ornvoll
+      parents: "(dau. of George G. Chase and Mary Clark)"
       birth:
         date: 4 September 1883
       death:

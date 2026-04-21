@@ -1,4 +1,5 @@
 id: WilliamW05
+sequence: 139
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: Georgia
   death:
     date: "[?]"
+  burial:
+    place: "Fellowship Baptist Church Cemetery   Upson County, Georgia"
 marriages:
   - date: 4 November 1845
     place: "Upson County, Georgia"
     spouse:
       givenName: Leacy
       surname: Woodson
+      parents: "(dau. of Hiram Harris Woodson and Elizabeth DeLoach)"
       birth:
         date: November 1828
         place: Georgia

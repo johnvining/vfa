@@ -1,4 +1,5 @@
 id: WalterD02
+sequence: 7
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 17 July 1973
     place: "Coweta, Georgia"
+  burial:
+    place: "Fincher Memorial Cemetery   Meansville, Pike County, Georgia"
 marriages:
   - spouse:
       givenName: Grace Jane
       surname: Reeves
+      parents: "(dau. of Robert Burke Reeves and Mary Elizabeth Harris)"
+      birth:
+        date: 29 May 1880
+        place: "Upson, Georgia"
+      death:
+        date: 8 December 1979
+        place: "Meansville, Pike County, Georgia"
+      burial:
+        place: "Fincher Memorial Cemetery   Meansville, Pike County, Georgia"
 childrenGroups:
   - children:
       - name: Robert McKenzie Vining

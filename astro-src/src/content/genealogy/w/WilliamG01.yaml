@@ -1,4 +1,5 @@
 id: WilliamG01
+sequence: 92
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: Margaret
       surname: "Ke[e?]b[b?]ell"
+      parents: "(dau. of George Ke[e?]b[b?]ell and [&#8230;])"
+      birth:
+        date: 21 May 1871
+        place: "Wellington, New Zealand"
+      death:
+        date: 15 November 1948
+        place: "Nelson, New Zealand"
 childrenGroups:
   - children:
       - name: Margaret Vera Vining

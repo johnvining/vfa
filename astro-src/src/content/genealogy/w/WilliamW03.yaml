@@ -1,4 +1,5 @@
 id: WilliamW03
+sequence: 143
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,13 @@ head:
   death:
     date: 23 January 1863
     place: "Bowling Green, Kentucky"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Nathan Vining
+        birth:
+          date: ca. 1867
+          place: "Berlinville, Ohio"
 raw: |-
   <a name="WilliamW03"></a><font size=+2>William Wilber Vining</font>
      (son of <a href="Efamilies.htm#Ebenezer02">Ebenezer Vining and Julia Gray</a>)

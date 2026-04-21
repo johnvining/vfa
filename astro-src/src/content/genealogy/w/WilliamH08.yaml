@@ -1,4 +1,5 @@
 id: WilliamH08
+sequence: 97
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: Ohio
   death:
     date: "1924"
+  burial:
+    place: "Ashley Union Cemetery   Ashley, Ohio"
 marriages:
   - date: 27 y. as of 1900 census
     spouse:
       givenName: Harriet
       surname: Caskey
+      parents: "(dau. of John Caskey and Margaret Ann Osborn)"
       birth:
         date: March 1858
         place: Ohio

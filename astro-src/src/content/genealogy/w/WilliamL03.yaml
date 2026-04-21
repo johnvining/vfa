@@ -1,4 +1,5 @@
 id: WilliamL03
+sequence: 118
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,14 @@ marriages:
   - spouse:
       givenName: Lula Worth
       surname: Morgan
+      birth:
+        date: 13 August 1868
+        place: "Bastrop County, Texas"
+      death:
+        date: 6 January 1918
+        place: "Austin, Texas"
+      burial:
+        place: "Oakwood Cemetery Annex   Austin, Texas"
 childrenGroups:
   - children:
       - name: Morgan Fisher Vining

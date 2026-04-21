@@ -1,4 +1,5 @@
 id: WalterL02
+sequence: 15
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 25 October 1967
     place: "Adel, Georgia"
+  burial:
+    place: "Tanner Baptist Church Cemetery   Douglas, Georgia"
 marriages:
   - date: 6 September 1930
     place: "Pearson, Georgia"
     spouse:
       givenName: Lela
       surname: Spivey
+      parents: "(dau. of Leonard Spivey and Leada Carver)"
       birth:
         date: 7 August 1911
         place: "Hoboken, Georgia"

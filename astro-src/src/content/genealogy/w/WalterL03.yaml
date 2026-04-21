@@ -1,4 +1,5 @@
 id: WalterL03
+sequence: 14
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,15 @@ marriages:
   - spouse:
       givenName: Arlene Kathleen
       surname: Visel
+      parents: "(dau. of Raymond Visel and Sarah Fitch)"
+      birth:
+        date: 4 January 1916
+        place: "Hamden, Connecticut"
+      death:
+        date: "8 Septmeber 2009"
+        place: "Cheshire, Connecticut"
+      burial:
+        place: "St Mary's Cemetery"
 childrenGroups:
   - children:
       - name: Paul A. Vining

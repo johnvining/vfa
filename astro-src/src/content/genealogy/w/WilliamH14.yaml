@@ -1,4 +1,5 @@
 id: WilliamH14
+sequence: 94
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,16 @@ head:
   birth:
     date: December 1854
     place: New Jersey
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Morris Vining
+        entryId: WilliamM04
+        birth:
+          date: 19 February 1889
+          place: "Salem, New Jersey"
+        marriages:
+          - date: "Eva [&#8230;]"
 raw: |-
   <a name="WilliamH14"></a><font size=+2>William H. Vining</font>
      (son of <a href="#WilliamH09">William H. Vining and Abigail H. [&#8230;]</a>)

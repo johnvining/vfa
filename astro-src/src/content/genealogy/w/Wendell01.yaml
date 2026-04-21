@@ -1,4 +1,5 @@
 id: Wendell01
+sequence: 40
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,7 @@ marriages:
     spouse:
       givenName: Mary
       surname: Mills
+      parents: "(dau. of Martin Mills and Tressa […])"
       birth:
         date: 22 December 1925
         place: Ohio

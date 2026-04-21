@@ -1,4 +1,5 @@
 id: William08
+sequence: 65
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,16 @@ marriages:
   - spouse:
       givenName: Anna
       surname: "[...]"
+      birth:
+        date: "age 22 y. as of 1870 census"
+        place: Pennsylvania
+childrenGroups:
+  - headingText: child
+    children:
+      - name: John Vining
+        birth:
+          date: "age 2 y. as of 1870 census"
+          place: Illinois
 docsUrl: Wsources/William08doc.htm
 raw: |-
   <a name="William08"></a><font size=+2>William Vining</font>

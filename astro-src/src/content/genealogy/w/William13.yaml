@@ -1,4 +1,5 @@
 id: William13
+sequence: 60
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Angeline S.
       surname: Dodge
+      birth:
+        date: "age 26 y. as of 1870 census"
+        place: Pennsylvania
 childrenGroups:
   - children:
       - name: Daniel J. Vining

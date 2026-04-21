@@ -1,4 +1,5 @@
 id: William16
+sequence: 64
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,18 @@ marriages:
       birth:
         date: June 1864
         place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Raymond C. Vining
+        birth:
+          date: "1887"
+        marriages:
+          - date: "Ethel J. […]"
+        death:
+          date: "1965"
+        burial:
+          place: "Hillcrest Park Cemetery   Springfield, Massachusetts"
 docsUrl: Wsources/William16doc.htm
 raw: |-
   <a name="William16"></a><font size=+2>William Vining</font>

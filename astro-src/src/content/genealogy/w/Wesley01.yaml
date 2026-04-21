@@ -1,4 +1,5 @@
 id: Wesley01
+sequence: 41
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ marriages:
   - spouse:
       givenName: Mary Van
       surname: Valin
+      birth:
+        date: 5 February 1940
 childrenGroups:
   - children:
       - name: Joyce Vining

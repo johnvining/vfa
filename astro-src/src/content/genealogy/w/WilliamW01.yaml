@@ -1,4 +1,5 @@
 id: WilliamW01
+sequence: 141
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Mame
       surname: Plummer
+      parents: "(dau. of L. B. Plummer and Mary Davis)"
       birth:
         date: "1862"
         place: "Central City, Iowa"
@@ -28,10 +30,23 @@ marriages:
     spouse:
       givenName: Elizabeth H.
       surname: Bainbridge
+      parents: "(dau. of George Bainbridge and Sarah Lowes)"
       birth:
         date: "1869"
         place: "Shellsburg, Wisconsin"
 childrenGroups:
+  - headingText: child by Mame Plummer
+    children:
+      - name: Virgil M. Vining
+        entryId: VirgilM01
+        entryLetter: V
+        birth:
+          date: "1896"
+          place: Iowa
+        marriages:
+          - date: Randy Mansager
+        death:
+          date: Jewell, Iowa
   - spouseRef: Elizabeth Bainbridge
     children:
       - name: Wilda Vining

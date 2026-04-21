@@ -1,4 +1,5 @@
 id: WilliamH01
+sequence: 96
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 26 August 1962
     place: "Farmington, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - date: 12 June 1909
     place: "Phillips, Maine"
     spouse:
       givenName: Flora Belle
       surname: Marson
+      parents: "(dau. of Elbridge Marson and Emma Goodwin)"
       birth:
         date: 12 March 1894
         place: "Gardiner, Maine"

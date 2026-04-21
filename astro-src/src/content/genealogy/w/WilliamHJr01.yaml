@@ -1,4 +1,5 @@
 id: WilliamHJr01
+sequence: 107
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 15 January 1921
     place: "Colebrook, Connecticut"
+  burial:
+    place: "Colebrook Center Cemetery   Colebrook, Connecticut"
 marriages:
   - date: 26 November 1867
     spouse:
       givenName: Jane Susanna
       surname: Hart
+      parents: "(dau. of Timothy Orson Hart and Margaret Wakefield)"
       birth:
         date: 15 August 1847
         place: "Millbrook, Connecticut"

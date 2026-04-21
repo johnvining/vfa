@@ -1,4 +1,5 @@
 id: WilburR02
+sequence: 46
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,16 @@ marriages:
   - spouse:
       givenName: "Charlotte &#8220;Lottie&#8221;"
       surname: Francis
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Shirley Francis Vining
+        birth:
+          date: 9 July 1921
+          place: "Toronto, Ontario"
+        death:
+          date: 9 July 1921
+          place: "Toronto, Ontario"
 docsUrl: Wsources/WilburR02doc.htm
 raw: |-
   <a name="WilburR02"></a><font size=+2>Wilbur Records Vining</font>

@@ -1,4 +1,5 @@
 id: WilliamH11
+sequence: 102
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 11 November 1943
     place: "Fort Wayne, Indiana"
+  burial:
+    place: "Lindenwood Cemetery   Fort Wayne, Indiana"
 marriages:
   - date: 29 July 1913
     place: "Allen County, Indiana"
     spouse:
       givenName: Leona G.
       surname: Kelker
+      parents: "(dau. of Samuel Kelker and Henrietta Stewart)"
       birth:
         date: 29 September 1883
         place: Indiana

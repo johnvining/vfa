@@ -1,4 +1,5 @@
 id: WilliamW04
+sequence: 140
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 27 April 1998
     place: "(last residence: Rusk, Cherokee County, Texas)"
+  burial:
+    place: "Alto City Cemetery   Alto, Texas"
 marriages:
   - date: 20 January 1929
     place: "Alto, Texas"
@@ -26,6 +29,20 @@ marriages:
         place: "Tyler, Texas"
       burial:
         place: "Alto City Cemetery   Alto, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Dorothy Louise Vining
+        birth:
+          date: 14 December 1929
+          place: "Alto, Texas"
+        marriages:
+          - date: Garland Morgan
+        death:
+          date: 19 March 2011
+          place: "Rusk, Cherokee County, Texas"
+        burial:
+          place: "Alto City Cemetery   Alto, Texas"
 docsUrl: Wsources/WilliamW04doc.htm
 raw: |-
   <a name="WilliamW04"></a><font size=+2>William Wade Vining</font>

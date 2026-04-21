@@ -1,4 +1,5 @@
 id: WilliamR02
+sequence: 132
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,14 @@ head:
     place: "Delaware County, Ohio"
   death:
     date: 3 March 1899
+  burial:
+    place: "Maple Grove Cemetery   Oregon, Holt County, Missouri"
 marriages:
-  - spouse:
-      givenName: "[16 or 17?] October"
-      surname: "1850"
+  - date: "[16 or 17?] October 1850"
+    spouse:
+      givenName: Martha G.
+      surname: May
+      parents: "(dau. of Asa May and Bernice Barker)"
       birth:
         date: 29 April 1826
         place: "[Ohio or Chenango County, New York?]"
@@ -46,6 +51,8 @@ childrenGroups:
         death:
           date: 26 October 1896
           place: "Corning, Kansas"
+        burial:
+          place: "Corning Cemetery   Corning, Kansas"
       - name: Lillian Martha Vining
         birth:
           date: 22 August 1857

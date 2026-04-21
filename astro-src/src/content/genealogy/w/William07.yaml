@@ -1,4 +1,5 @@
 id: William07
+sequence: 59
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 22 January 1857
     place: "Abington, Massachusetts"
+  burial:
+    place: "Maplewood Cemetery   Rockland, Massachusetts"
 marriages:
   - date: int. 1 December 1833
     place: "[Abington or Bridgewater?], Massachusetts"
     spouse:
       givenName: Hannah
       surname: Crocker
+      parents: "(dau. of Ensign Crocker and Hannah Munroe)"
       birth:
         date: 28 August 1812
         place: "East Bridgewater, Massachusetts"
@@ -72,6 +76,8 @@ childrenGroups:
           date: "1864"
         burial:
           place: "Maplewood Cemetery   Rockland, Massachusetts"
+  - headingText: "child?"
+    children:
       - name: Mary Ella Vining
         birth:
           date: 22 May 1852

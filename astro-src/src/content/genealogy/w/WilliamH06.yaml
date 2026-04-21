@@ -1,4 +1,5 @@
 id: WilliamH06
+sequence: 101
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "Simsbury, Connecticut"
   death:
     date: 10 June 1874
+  burial:
+    place: "Hop Meadow Cemetery   Simsbury, Connecticut"
 marriages:
   - date: 13 December 1831
     place: "Colebrook, Connecticut"
     spouse:
       givenName: Orpha
       surname: Hart
+      parents: "(dau. of Titus Hart and Lucy Johnson)"
       birth:
         date: 11 April 1802
         place: "Colebrook, Connecticut"

@@ -1,4 +1,5 @@
 id: WadeH01
+sequence: 1
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -19,11 +20,68 @@ marriages:
     spouse:
       givenName: Martha
       surname: Jones
+      parents: "(dau. of Thomas E. Jones and [?])"
       birth:
         date: age 55 y. as of 1850 census
         place: Virginia
       death:
         date: "Red River County, Texas"
+childrenGroups:
+  - children:
+      - name: William W. Vining
+        birth:
+          date: "1819"
+          place: "Limestone County, Alabama"
+        death:
+          date: "[25 or 26?] April 1847"
+          place: "Monterey, Mexico"
+      - name: John Jones Vining
+        birth:
+          date: "1820"
+          place: "[Limestone County, Alabama or Red River County, Texas?]"
+        death:
+          date: 11 April 1844
+          place: "Red River County, Texas"
+      - name: Leroy Vining
+        birth:
+          date: 10 September 1822
+          place: "Limestone County, Alabama"
+        death:
+          date: 27 April 1863
+          place: "Aurora, Mineral County, Nevada"
+      - name: Mary Jane Vining
+        birth:
+          date: 31 December 1824
+          place: "Limestone County, Alabama"
+        death:
+          date: "[30 or 24?] October 1857"
+          place: "Huntsville, Walker County, Texas"
+      - name: Thomas L. Vining
+        birth:
+          date: March 1827
+          place: "Limestone County, Alabama"
+        death:
+          date: 3 November 1851
+          place: "near Sonora, Tuolumne County, California"
+      - name: "[Milton Wade Vining"
+        birth:
+          date: "1830"
+          place: "Limestone, Alabama"
+        death:
+          date: "1864 [during Civil War]"
+          place: "Missouri?]"
+      - name: "[Martha W. Vining"
+        birth:
+          date: "1834"
+          place: "Limestone, Texas?]"
+      - name: Peyton W. Vining
+        entryId: PeytonW01
+        entryLetter: P
+        birth:
+          date: "1836"
+          place: "Red River County, Texas"
+        marriages:
+          - spouse: Frances Jones
 docsUrl: Wsources/WadeH01doc.htm
 raw: |-
   <a name="WadeH01"></a><font size=+2>Wade Hampton Vining</font>

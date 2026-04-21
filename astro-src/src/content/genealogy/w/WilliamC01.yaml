@@ -1,4 +1,5 @@
 id: WilliamC01
+sequence: 79
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,8 @@ marriages:
   - spouse:
       givenName: Jamie Lee
       surname: Holladay
+      birth:
+        date: 21 December 1990
 childrenGroups:
   - children:
       - name: Kendal Denise Vining

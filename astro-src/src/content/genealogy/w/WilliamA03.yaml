@@ -1,4 +1,5 @@
 id: WilliamA03
+sequence: 76
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: "Mary [Edna or Ellen?]"
       surname: Shaw
+      birth:
+        date: January 1843
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: Mary Lois Vining

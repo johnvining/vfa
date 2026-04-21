@@ -1,4 +1,5 @@
 id: WarrenH01
+sequence: 35
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,12 @@ marriages:
   - spouse:
       givenName: Priscilla J.
       surname: Carstensen
+      parents: "(dau. of Henry D. Carstensen and Clara F. Norwood)"
+      birth:
+        date: "age 82 y. at death"
+      death:
+        date: 24 June 2007
+        place: "Melrose, Massachusetts"
 childrenGroups:
   - children:
       - name: Dana S. Vining

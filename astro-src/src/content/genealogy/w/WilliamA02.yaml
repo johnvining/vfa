@@ -1,4 +1,5 @@
 id: WilliamA02
+sequence: 75
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "Binghamton, New York"
   death:
     date: 5 September 1978
+  burial:
+    place: "Grove Place Cemetery   Chili Center, New York"
 marriages:
   - date: 25 April 1951
     place: "Waterville, New York"
     spouse:
       givenName: Constance Mae
       surname: Bartlett
+      parents: "(Walter Bartlett and Nellie […]"
       birth:
         date: 24 May 1931
         place: "Waterville, New York"

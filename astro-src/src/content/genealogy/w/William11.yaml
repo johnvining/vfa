@@ -1,4 +1,5 @@
 id: William11
+sequence: 55
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,22 @@ marriages:
   - spouse:
       givenName: Abigail
       surname: Eldridge
+      parents: "(dau. of John Eldridge and Abigail Littlefield)"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Vining Jr.
+        entryId: WilliamJr01
+        birth:
+          date: 25 July 1700
+          place: "[?Marblehead], Massachusetts"
+        marriages:
+          - date: 18 October 1723
+            place: "Marblehead, Massachusetts"
+            spouse: Anna Nichols
+        death:
+          date: before February 1768
+          place: "Craven County, North Carolina"
 raw: |-
   <a name="William11"></a><font size=+2>William Vining</font>
      (son of [?])

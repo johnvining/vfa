@@ -1,4 +1,5 @@
 id: WilliamH09
+sequence: 93
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,8 +12,19 @@ head:
 marriages:
   - number: 1
     date: "Abigail H. [...]"
+    spouse:
+      birth:
+        date: 17 March 1817
+        place: "[New Jersey or Massachusetts]"
+      death:
+        date: 25 January 1862
+      burial:
+        place: "First Presbyterian Cemetery   Salem, New Jersey"
   - number: 2
     date: "Caroline [...]elford"
+    spouse:
+      birth:
+        date: age 36 as of 1870 census
 childrenGroups:
   - spouseRef: "Abigail H. [...]"
     children:

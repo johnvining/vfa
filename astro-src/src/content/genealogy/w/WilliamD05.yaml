@@ -1,4 +1,5 @@
 id: WilliamD05
+sequence: 80
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,20 @@ head:
     place: "Charles City, Iowa"
   death:
     date: 24 February 1992
+  burial:
+    place: "Riverside Cemetery   Charles City, Iowa"
 marriages:
   - number: 1
     date: Joan Elaine Lockwood
+    spouse:
+      birth:
+        date: 23 April 1940
+        place: "Marble Rock, Iowa"
   - number: 2
     date: "Susan M. [&#8230;]"
+    spouse:
+      birth:
+        date: 5 April 1944
 childrenGroups:
   - children:
       - name: Cindy Sue Vining

@@ -1,4 +1,5 @@
 id: WilliamD04
+sequence: 82
 letter: W
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 18 September 1935
     place: "Marvell, Phillips County, Arkansas"
+  burial:
+    place: "Cypert Cemetery   Cypert, Arkansas"
 marriages:
   - spouse:
       givenName: Minnie Belle
       surname: Fuller
+      parents: "(dau. of Louis B. Fuller and Malinda Collins Hilburn)"
+      birth:
+        date: 1 November 1885
+        place: "Vardaman, Mississippi"
+      death:
+        date: 18 November 1982
+        place: "Marvell, Phillips County, Arkansas"
+      burial:
+        place: "Cypert Cemetery   Cypert, Arkansas"
 childrenGroups:
   - children:
       - name: Velma Joyce Vining
