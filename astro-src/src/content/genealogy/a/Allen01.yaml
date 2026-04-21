@@ -1,0 +1,89 @@
+id: Allen01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Noah01
+parentLetter: N
+parentDesc: Noah Vining and Mary Leavitt Stoddard
+head:
+  givenName: Allen
+  birth:
+    date: 7 November 1808
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 4 February 1895
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: "5 October [1834 or 1836?]"
+    spouse:
+      givenName: Jane W.
+      surname: Bates
+      birth:
+        date: "1815"
+        place: Massachusetts
+      death:
+        date: "1890"
+childrenGroups:
+  - children:
+      - name: Jane Frances Vining
+        birth:
+          date: 15 June 1835
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: James Collier Stoddard
+        death:
+          date: "1901"
+      - name: Allen Vining Jr.
+        birth:
+          date: 27 July 1837
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: "[17 or 27?] September 1837"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Freeman Vining
+        birth:
+          date: 14 September 1838
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: "8 [or 7 or 6?] October 1838"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Harriet Maria Vining
+        birth:
+          date: 13 February 1841
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: "Bill [...]"
+      - name: Lois Bates Vining
+        birth:
+          date: 11 February 1842
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: George Holbrook
+      - name: Rosabella Vining
+        birth:
+          date: "age 7 m., 20 d. at death"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 17 September 1844
+          place: "Weymouth, Norfolk County, Massachusetts"
+docsUrl: Asources/Allen01doc.htm
+raw: |-
+  <a name="Allen01"></a><font size="+2">Allen Vining</font>
+     (son of <a href="Nfamilies.htm#Noah01">Noah Vining and Mary Leavitt Stoddard</a>)
+     b. 7 November 1808   Weymouth, Norfolk County, Massachusetts
+     m. 5 October [1834 or 1836?]
+           Jane W. Bates
+                 (dau. of [Warren Bates and Lois Blanchard?])
+                 b. 1815   Massachusetts
+                 d. 1890
+     d. 4 February 1895   Weymouth, Norfolk County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Jane Frances Vining   b. 15 June 1835   Weymouth, Norfolk County, Massachusetts   -   m. James Collier Stoddard   -   d. 1901
+     Allen Vining Jr.   b. 27 July 1837   Weymouth, Norfolk County, Massachusetts   -   d. [17 or 27?] September 1837   Weymouth, Norfolk County, Massachusetts
+     Freeman Vining   b. 14 September 1838   Weymouth, Norfolk County, Massachusetts   -   d. 8 [or 7 or 6?] October 1838   Weymouth, Norfolk County, Massachusetts
+     Harriet Maria Vining   b. 13 February 1841   Weymouth, Norfolk County, Massachusetts   -   m. Bill [...]
+     Lois Bates Vining   b. 11 February 1842   Weymouth, Norfolk County, Massachusetts   -   m. George Holbrook
+     Rosabella Vining   b. age 7 m., 20 d. at death   Weymouth, Norfolk County, Massachusetts   -   d. 17 September 1844   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Asources/Allen01doc.htm">documentation and notes</a>

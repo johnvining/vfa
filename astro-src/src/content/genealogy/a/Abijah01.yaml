@@ -1,0 +1,67 @@
+id: Abijah01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: SamuelJr01
+parentLetter: S
+parentDesc: Samuel Vining Jr. and Mary Elizabeth Gleason
+head:
+  givenName: Abijah
+  birth:
+    date: 11 April 1743
+    place: "Windsor, Hartford County, Connecticut"
+  death:
+    date: "[Pitcher or Wayne Township?], New York"
+marriages:
+  - spouse:
+      givenName: Connecticut
+      surname: Connecticut
+      birth:
+        date: "1751"
+      death:
+        date: 1 April 1811
+        place: "Pitcher, Chenango County, New York"
+childrenGroups:
+  - children:
+      - name: Thomas Philo Vining
+        entryId: ThomasP01
+        entryLetter: T
+        birth:
+          date: age 71 y. at death
+          place: "Windsor. Hartford County, Connecticut"
+        marriages:
+          - date: "Nancy A. [...]"
+        death:
+          date: 15 October 1851
+          place: "Taylor, Cortland County, New York"
+        burial:
+          place: "Potter Hill Cemetery   Taylor, Cortland County, New York"
+      - name: John Leeson Vining
+        entryId: JohnL01
+        entryLetter: J
+        birth:
+          date: 6 August 1791
+          place: Connecticut
+        marriages:
+          - date: "Elizabeth &#8220;Betsey&#8221; [...]"
+        death:
+          date: 11 November 1855
+        burial:
+          place: "Cincinnatus Cemetery   Cincinnatus, Cortland County, New York"
+docsUrl: Asources/Abijah01doc.htm
+raw: |-
+  <a name="Abijah01"></a><font size="+2">Abijah Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelJr01">Samuel Vining Jr. and Mary Elizabeth Gleason</a>)
+     b. 11 April 1743   Windsor, Hartford County, Connecticut
+     m. Connecticut
+           Rebecca Barton
+                 (dau. of Benjamin Barton and Mary Hale)
+                 b. 1751
+                 d. 1 April 1811   Pitcher, Chenango County, New York
+     d. [Pitcher or Wayne Township?], New York
+  
+  <font size="+1">children:</font>
+     <a href="Tfamilies.htm#ThomasP01">Thomas Philo Vining</a>   b. age 71 y. at death   Windsor. Hartford County, Connecticut   -   m. Nancy A. [...]   -    d. 15 October 1851   Taylor, Cortland County, New York   -   bur. Potter Hill Cemetery   Taylor, Cortland County, New York
+     <a href="Jfamilies.htm#JohnL01">John Leeson Vining</a>   b. 6 August 1791   Connecticut   -   m. Elizabeth &#8220;Betsey&#8221; [...]   -   d. 11 November 1855   -   bur. Cincinnatus Cemetery   Cincinnatus, Cortland County, New York
+  
+  <a href="Asources/Abijah01doc.htm">documentation and notes</a>

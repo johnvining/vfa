@@ -1,0 +1,44 @@
+id: Alvin03
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: HenryH02
+parentLetter: H
+parentDesc: Henry Horatio Vining and Emma Garecht
+head:
+  givenName: Alvin
+  birth:
+    date: age 5 y. as of 1910 census
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Ethel
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Beatrice Vining
+        birth:
+          date: "age 4 y., [6?] m. as of 1930 census"
+          place: Louisiana
+      - name: Mercedes Vining
+        birth:
+          date: "age 2 y., 1 m. as of 1930 census"
+          place: Louisiana
+      - name: Ethel Lee Vining
+        birth:
+          date: age 5 m. as of 1930 census
+          place: Louisiana
+docsUrl: Asources/Alvin03doc.htm
+raw: |-
+  <a name="Alvin03"></a><font size="+2">Alvin Vining</font>
+     (son of <a href="Hfamilies.htm#HenryH02">Henry Horatio Vining and Emma Garecht</a>)
+     b. age 5 y. as of 1910 census   Louisiana
+     m. Ethel [...]
+              b. age 20 y. as of 1930 census   Mississippi
+  
+  <font size="+1">children:</font>
+     Beatrice Vining   b. age 4 y., [6?] m. as of 1930 census   Louisiana
+     Mercedes Vining   b. age 2 y., 1 m. as of 1930 census   Louisiana
+     Ethel Lee Vining   b. age 5 m. as of 1930 census   Louisiana
+  
+  <a href="Asources/Alvin03doc.htm">documentation and notes</a>

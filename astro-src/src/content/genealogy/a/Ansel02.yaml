@@ -1,0 +1,69 @@
+id: Ansel02
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Luther01
+parentLetter: L
+parentDesc: Luther Vining and Sybil Webster
+head:
+  givenName: Ansel
+  birth:
+    date: 10 June 1835
+    place: "Morrow County, Ohio"
+  death:
+    date: 19 October 1902
+    place: "Waitsburg, Walla Walla County, Washington"
+marriages:
+  - date: 7 July 1867
+    place: "Boone, Boone County, Iowa"
+    spouse:
+      givenName: Charlotte Cara
+      surname: Cornwell
+      birth:
+        date: 30 March 1849
+        place: "Amhurstburg, Ontario, Canada"
+      death:
+        date: 4 June 1911
+        place: "Waitsburg, Walla Walla County, Washington"
+      burial:
+        place: "Waitsburg Cemetery   Waitsburg, Walla Walla County, Washington"
+childrenGroups:
+  - children:
+      - name: Ansel Vining Jr.
+        birth:
+          date: ca. 1870
+          place: "Little Sioux, Harrison County, Iowa"
+      - name: Frank Ernest Vining
+        entryId: FrankE01
+        entryLetter: F
+        birth:
+          date: 24 May 1872
+          place: "Little Sioux, Harrison County, Iowa"
+        marriages:
+          - date: age 29 y. at marriage
+            place: "Walla Walla, Walla Walla County, Washington"
+            spouse: Ida May Inman
+        death:
+          date: 26 February 1943
+          place: "Waitsburg, Walla Walla County, Washington"
+        burial:
+          place: "Waitsburg Cemetery   Waitsburg, Walla Walla County, Washington"
+docsUrl: Asources/Ansel02doc.htm
+raw: |-
+  <a name="Ansel02"></a><font size="+2">Ansel Vining</font>
+     (son of <a href="Lfamilies.htm#Luther01">Luther Vining and Sybil Webster</a>)
+     b. 10 June 1835   Morrow County, Ohio
+     m. 7 July 1867   Boone, Boone County, Iowa
+           Charlotte Cara Cornwell
+                 (dau. of John Hubble Cornwell and Lucinda Young)
+                 b. 30 March 1849   Amhurstburg, Ontario, Canada
+                 d. 4 June 1911   Waitsburg, Walla Walla County, Washington
+                       bur. Waitsburg Cemetery   Waitsburg, Walla Walla County, Washington
+     d. 19 October 1902   Waitsburg, Walla Walla County, Washington
+           bur. Waitsburg Cemetery   Waitsburg, Walla Walla County, Washington
+  
+  <font size="+1">children:</font>
+     Ansel Vining Jr.   b. ca. 1870   Little Sioux, Harrison County, Iowa
+     <a href="Ffamilies.htm#FrankE01">Frank Ernest Vining</a>   b. 24 May 1872   Little Sioux, Harrison County, Iowa   -   m. age 29 y. at marriage   Walla Walla, Walla Walla County, Washington   Ida May Inman   -   d. 26 February 1943   Waitsburg, Walla Walla County, Washington   -   bur. Waitsburg Cemetery   Waitsburg, Walla Walla County, Washington
+  
+  <a href="Asources/Ansel02doc.htm">documentation and notes</a>

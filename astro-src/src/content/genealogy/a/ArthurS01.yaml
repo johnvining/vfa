@@ -1,0 +1,99 @@
+id: ArthurS01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Elmer01
+parentLetter: E
+parentDesc: Elmer Vining and Sarah J. Clark
+head:
+  givenName: Arthur Scott
+  birth:
+    date: July 1852
+    place: "Worthington [County?], Ohio"
+  death:
+    date: 30 December 1941
+marriages:
+  - date: 12 October 1876
+    place: "Columbus, Ohio"
+    spouse:
+      givenName: "Ida Bell[e?]"
+      surname: Loy
+      birth:
+        date: 16 August 1857
+        place: "Clintonville, Franklin County, Ohio"
+      death:
+        date: 20 March 1931
+      burial:
+        place: "Mahaska Cemetery   Mahaska, Washington County, Kansas"
+childrenGroups:
+  - children:
+      - name: Gracie Vining
+        birth:
+          date: May 1879
+          place: Ohio
+      - name: Daniel M. Vining
+        birth:
+          date: 22 January 1882
+          place: Nebraska
+        death:
+          date: 7 April 1956
+        burial:
+          place: "Mahaska Cemetery   Mahaska, Washington County, Kansas"
+      - name: "Maud [M.?] Vining"
+        birth:
+          date: February 1884
+          place: Nebraska
+      - name: Harry Ray Vining
+        entryId: HarryR01
+        entryLetter: H
+        birth:
+          date: January 1887
+          place: Nebraska
+        marriages:
+          - date: "Kathryne A. &#8220;Kitty&#8221; Elliott"
+        death:
+          date: "1972"
+        burial:
+          place: "Lone Star Cemetery   Mountain Grove, Missouri"
+      - name: Calla S. Vining
+        birth:
+          date: October 1889
+          place: Nebraska
+      - name: Mark W. Vining
+        birth:
+          date: June 1894
+          place: Nebraska
+      - name: (child) Vining
+        death:
+          date: before 1900 census
+      - name: (child) Vining
+        death:
+          date: before 1900 census
+      - name: (child) Vining
+        death:
+          date: before 1900 census
+docsUrl: Asources/ArthurS01doc.htm
+raw: |-
+  <a name="ArthurS01"></a><font size="+2">Arthur Scott Vining</font>
+     (son of <a href="Efamilies.htm#Elmer01">Elmer Vining and Sarah J. Clark</a>)
+     b. July 1852   Worthington [County?], Ohio
+     m. 12 October 1876   Columbus, Ohio
+           Ida Bell[e?] Loy
+                 b. 16 August 1857   Clintonville, Franklin County, Ohio
+                 d. 20 March 1931
+                       bur. Mahaska Cemetery   Mahaska, Washington County, Kansas
+     d. 30 December 1941
+           bur. Mahaska Cemetery   Mahaska, Washington County, Kansas 
+  
+  <font size="+1">children:</font>
+     Gracie Vining   b. May 1879   Ohio
+     Daniel M. Vining   b. 22 January 1882   Nebraska   -   d. 7 April 1956   -   bur. Mahaska Cemetery   Mahaska, Washington County, Kansas
+     Maud [M.?] Vining   b. February 1884   Nebraska
+     <a href="Hfamilies.htm#HarryR01">Harry Ray Vining</a>   b. January 1887   Nebraska   -   m. Kathryne A. &#8220;Kitty&#8221; Elliott   -   d. 1972   -   bur. Lone Star Cemetery   Mountain Grove, Missouri
+     Calla S. Vining   b. October 1889   Nebraska
+     Mark W. Vining   b. June 1894   Nebraska
+     (child) Vining   d. before 1900 census
+     (child) Vining   d. before 1900 census 
+     (child) Vining   d. before 1900 census
+  
+  <a href="Asources/ArthurS01doc.htm">documentation and notes</a>

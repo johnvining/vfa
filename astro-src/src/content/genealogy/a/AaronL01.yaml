@@ -1,0 +1,65 @@
+id: AaronL01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JamesMJr01
+parentLetter: J
+parentDesc: James M. Vining Jr. and Eliza Jane Lindsley
+head:
+  givenName: Aaron Lee
+  birth:
+    date: 9 November 1877
+    place: "Newark, Wilson County, Kansas"
+  death:
+    date: "1957"
+    place: Kansas
+marriages:
+  - date: 25 December 1903
+    place: "Wilson County, Kansas"
+    spouse:
+      givenName: Carrie Cecil
+      surname: Carson
+      birth:
+        date: 16 October 1885
+        place: "Newark, Wilson County, Kansas"
+      death:
+        date: 17 January 1964
+        place: "Mesa, Maricopa County, Arizona"
+childrenGroups:
+  - children:
+      - name: Jennie C. Vining
+        birth:
+          date: 8 November 1904
+          place: "Neodesha, Wilson County, Kansas"
+        marriages:
+          - date: Albert Oscar Schoonover
+        death:
+          date: 14 April 1997
+          place: "Shawnee Mission, Johnson County, Kansas"
+      - name: Mary Ruth Vining
+        birth:
+          date: 28 July 1915
+          place: Kansas
+        marriages:
+          - date: John Sherman
+        death:
+          date: 30 May 1999
+docsUrl: Asources/AaronL01doc.htm
+raw: |-
+  <a name="AaronL01"></a><font size="+2">Aaron Lee Vining</font>
+     (son of <a href="Jfamilies.htm#JamesMJr01">James M. Vining Jr. and Eliza Jane Lindsley</a>)
+     b. 9 November 1877   Newark, Wilson County, Kansas
+     m. 25 December 1903   Wilson County, Kansas
+           Carrie Cecil Carson
+                 (dau. of George Carson and Lucy L. Stewart)
+                 b. 16 October 1885   Newark, Wilson County, Kansas
+                 d. 17 January 1964   Mesa, Maricopa County, Arizona
+                       cremated and ashes scattered in desert east of Mesa, Maricopa County, Arizona
+     d. 1957   Kansas
+           bur. Neodesha City Cemetery   Neodesha, Wilson County, Kansas
+  
+  <font size="+1">children:</font>
+     Jennie C. Vining   b. 8 November 1904   Neodesha, Wilson County, Kansas   -   m. Albert Oscar Schoonover   -   d. 14 April 1997   Shawnee Mission, Johnson County, Kansas
+     Mary Ruth Vining   b. 28 July 1915   Kansas   -   m. John Sherman   -   d. 30 May 1999
+  
+  <a href="Asources/AaronL01doc.htm">documentation and notes</a>

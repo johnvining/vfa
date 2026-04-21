@@ -1,0 +1,102 @@
+id: AlbertB01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Robert02
+parentLetter: R
+parentDesc: Robert Vining and Polly Waters
+head:
+  givenName: Albert Bela
+  birth:
+    date: 6 February 1833
+    place: New York
+  death:
+    date: 16 May 1903
+    place: "Woodbine, Harrison County, Iowa"
+marriages:
+  - date: 14 June 1857
+    place: Iowa
+    spouse:
+      givenName: Harriet
+      surname: Finch
+      birth:
+        date: 14 August 1839
+        place: New York
+      death:
+        date: "1925"
+      burial:
+        place: "Woodbine Cemetery   Woodbine, Harrison County, Iowa"
+childrenGroups:
+  - children:
+      - name: Mary Laduska Vining
+        birth:
+          date: 11 April 1858
+          place: New York
+        marriages:
+          - date: 14 March 1880
+            spouse: James Atherton
+        death:
+          date: 22 February 1936
+      - name: Myron Henry Vining
+        entryId: MyronH01
+        entryLetter: M
+        birth:
+          date: 28 December 1859
+          place: New York
+        marriages:
+          - date: Nettie Kays
+        death:
+          date: 16 January 1931
+          place: "Waterloo, Black Hawk County, Iowa"
+      - name: Albert B. Vining
+        birth:
+          date: 3 October 1861
+          place: New York
+        marriages:
+          - number: 1
+            date: "?"
+          - number: 2
+            date: "Janesville, Rock County, Wisconsin"
+            spouse: Minnie Louise (Pahl) Nelson
+        death:
+          date: 12 August 1937
+          place: "Fond Du Lac, Fond du Lac County, Wisconsin"
+      - name: "Laura Virginia &#8220;Jennie&#8221; Vining"
+        birth:
+          date: "[19 or 9?] April 1866"
+        marriages:
+          - date: "11 November 188[2 or 3?]"
+            place: "Dunlap, Harrison County, Iowa"
+            spouse: Charles Atherton
+        death:
+          date: 1 January 1953
+      - name: Robert S. Vining
+        birth:
+          date: "28 December 186[5 or 8?]"
+          place: Iowa
+        death:
+          date: "1923"
+        burial:
+          place: "Woodbine Cemetery   Woodbine, Harrison County, Iowa"
+docsUrl: Asources/AlbertB01doc.htm
+raw: |-
+  <a name="AlbertB01"></a><font size="+2">Albert Bela Vining</font>
+     (son of <a href="Rfamilies.htm#Robert02">Robert Vining and Polly Waters</a>)
+     b. 6 February 1833   New York
+     m. 14 June 1857   Iowa
+           Harriet Finch
+                 (dau. of Abraham Finch and Laura Merwin)
+                 b. 14 August 1839   New York
+                 d. 1925
+                       bur. Woodbine Cemetery   Woodbine, Harrison County, Iowa
+     d. 16 May 1903   Woodbine, Harrison County, Iowa
+           bur. Woodbine Cemetery   Woodbine, Harrison County, Iowa
+  
+  <font size="+1">children:</font>
+     Mary Laduska Vining   b. 11 April 1858   New York   -   m. 14 March 1880   James Atherton   -   d. 22 February 1936
+     <a href="Mfamilies.htm#MyronH01">Myron Henry Vining</a>   b. 28 December 1859   New York   -   m. Nettie Kays   -   d. 16 January 1931   Waterloo, Black Hawk County, Iowa
+     Albert B. Vining   b. 3 October 1861   New York   -   m. (1) ?;   (2) Janesville, Rock County, Wisconsin   Minnie Louise (Pahl) Nelson   -   d. 12 August 1937   Fond Du Lac, Fond du Lac County, Wisconsin
+     Laura Virginia &#8220;Jennie&#8221; Vining   b. [19 or 9?] April 1866   -   m. 11 November 188[2 or 3?]   Dunlap, Harrison County, Iowa   Charles Atherton   -   d. 1 January 1953
+     Robert S. Vining   b. 28 December 186[5 or 8?]   Iowa   -   d. 1923   -   bur. Woodbine Cemetery   Woodbine, Harrison County, Iowa
+  
+  <a href="Asources/AlbertB01doc.htm">documentation and notes</a>

@@ -1,0 +1,89 @@
+id: Adoniram01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Noah01
+parentLetter: N
+parentDesc: Noah Vining and Mary Leavitt Stoddard
+head:
+  givenName: Adoniram
+  birth:
+    date: 11 April 1814
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 18 May 1904
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 22 December 1836
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Lydia Tirrell
+      surname: Shaw
+      birth:
+        date: 8 December 1816
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 18 July 1886
+        place: "Weymouth, Norfolk County, Massachusetts"
+      burial:
+        place: "Mt. Hope Cemetery   South Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Margaret Ann Vining
+        birth:
+          date: 22 October 1838
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 1 November 1857
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Lysander Heald
+      - name: Adoniram Elliot Vining
+        entryId: AdoniramE01
+        birth:
+          date: 23 August 1840
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: Martha Anne White
+        death:
+          date: prior to 1910 census
+      - name: Lydia Arabella Vining
+        birth:
+          date: 8 April 1847
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: "[&#8230;] Pratt"
+      - name: child
+        birth:
+          date: 15 March 1849
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: "[24 or 26?] March 1849"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Wellman Eustis Vining
+        birth:
+          date: 23 January 1851
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 27 September 1879
+docsUrl: Asources/Adoniram01doc.htm
+raw: |-
+  <a name="Adoniram01"></a><font size="+2">Adoniram Vining</font>
+     (son of <a href="Nfamilies.htm#Noah01">Noah Vining and Mary Leavitt Stoddard</a>)
+     b. 11 April 1814   Weymouth, Norfolk County, Massachusetts
+     m. 22 December 1836   Weymouth, Norfolk County, Massachusetts
+           Lydia Tirrell Shaw
+                 (dau. of Nathaniel Shaw and Jane Tirrell)
+                 b. 8 December 1816   Weymouth, Norfolk County, Massachusetts
+                 d. 18 July 1886   Weymouth, Norfolk County, Massachusetts
+                       bur. Mt. Hope Cemetery   South Weymouth, Norfolk County, Massachusetts
+     d. 18 May 1904   Weymouth, Norfolk County, Massachusetts
+           bur. Mt. Hope Cemetery   South Weymouth, Norfolk County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Margaret Ann Vining   b. 22 October 1838   Weymouth, Norfolk County, Massachusetts   -   m. 1 November 1857   Weymouth, Norfolk County, Massachusetts   Lysander Heald
+     <a href="#AdoniramE01">Adoniram Elliot Vining</a>   b. 23 August 1840   Weymouth, Norfolk County, Massachusetts   -   m. Martha Anne White   -   d. prior to 1910 census
+     Lydia Arabella Vining   b. 8 April 1847   Weymouth, Norfolk County, Massachusetts   -   m. [&#8230;] Pratt
+     child   b. 15 March 1849   Weymouth, Norfolk County, Massachusetts   - d. [24 or 26?] March 1849   Weymouth, Norfolk County, Massachusetts
+     Wellman Eustis Vining   b. 23 January 1851   Weymouth, Norfolk County, Massachusetts   -   d. 27 September 1879
+  
+  <a href="Asources/Adoniram01doc.htm">documentation and notes</a>

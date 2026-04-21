@@ -1,0 +1,64 @@
+id: Andrew01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: London01
+parentLetter: L
+parentDesc: "London Vining and Millie [&#8230;]"
+head:
+  givenName: Andrew
+  birth:
+    date: August 1865
+    place: Texas
+marriages:
+  - date: 13 y. as of 1900 census
+    spouse:
+      givenName: Ellen
+      surname: "[&#8230;]"
+      birth:
+        date: May 1865
+        place: Texas
+childrenGroups:
+  - children:
+      - name: Eddie Vining
+        birth:
+          date: October 1887
+          place: Texas
+      - name: Ollie Vining
+        birth:
+          date: March 1889
+          place: Texas
+      - name: Bennie Vining
+        birth:
+          date: March 1891
+          place: Texas
+      - name: Fred Vining
+        birth:
+          date: August 1893
+          place: Texas
+      - name: Pinkie Vining
+        birth:
+          date: December 1896
+          place: Texas
+      - name: Bertha Vining
+        birth:
+          date: November 1898
+          place: Texas
+docsUrl: Asources/Andrew01doc.htm
+raw: |-
+  <a name="Andrew01"></a><font size="+2">Andrew Vining</font>
+     (son of <a href="Lfamilies.htm#London01">London Vining and Millie [&#8230;]</a>)
+     b. August 1865   Texas
+     m. 13 y. as of 1900 census
+           Ellen [&#8230;]
+                 b. May 1865   Texas
+  
+  <font size="+1">children:</font>
+     Eddie Vining   b. October 1887   Texas
+     Ollie Vining   b. March 1889   Texas
+     Bennie Vining   b. March 1891   Texas
+     Fred Vining   b. August 1893   Texas
+     Pinkie Vining   b. December 1896   Texas
+     Bertha Vining   b. November 1898   Texas
+  
+  <a href="Asources/Andrew01doc.htm">documentation and notes</a>

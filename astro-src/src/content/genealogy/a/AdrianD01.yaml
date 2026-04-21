@@ -1,0 +1,37 @@
+id: AdrianD01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: ReubenD02
+parentLetter: R
+parentDesc: Reuben DeWitt Vining and Bessie Langford
+head:
+  givenName: Adrian DeWitt
+  birth:
+    date: 13 June 1927
+    place: Florida
+  death:
+    date: "[28 or 30?] June 1979"
+    place: "San Diego, San Diego County, California"
+marriages:
+  - spouse:
+      givenName: Frances Helen
+      surname: Mitchell
+childrenGroups:
+  - children:
+      - name: Kathryn Lorena Vining
+      - name: Steven DeWitt Vining
+        birth:
+          date: 1 September 1945
+raw: |-
+  <a name="AdrianD01"></a><font size="+2">Adrian DeWitt Vining</font>
+     (son of <a href="Rfamilies.htm#ReubenD02">Reuben DeWitt Vining and Bessie Langford</a>)
+     b. 13 June 1927   Florida
+     m. Frances Helen Mitchell
+              (dau. of Byron Hadley Mitchell and Lucy Winifred Balcom)
+              b. 12 May 1926
+     d. [28 or 30?] June 1979   San Diego, San Diego County, California
+  
+  <font size="+1">children:</font>
+     Kathryn Lorena Vining
+     Steven DeWitt Vining   b. 1 September 1945

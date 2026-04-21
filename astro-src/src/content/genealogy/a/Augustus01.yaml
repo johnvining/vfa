@@ -1,0 +1,39 @@
+id: Augustus01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Jairus01
+parentLetter: J
+parentDesc: Jairus Vining and Mary Torrey Tirrell
+head:
+  givenName: Augustus
+  birth:
+    date: 17 June 1836
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Nancy
+      surname: Sprague
+childrenGroups:
+  - children:
+      - name: Elmer J. Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Massachusetts
+      - name: Lewis B. Vining
+        birth:
+          date: May 1870
+          place: Massachusetts
+docsUrl: Asources/Augustus01doc.htm
+raw: |-
+  <a name="Augustus01"></a><font size="+2">Augustus Vining</font>
+     (son of <a href="Jfamilies.htm#Jairus01">Jairus Vining and Mary Torrey Tirrell</a>)
+     b. 17 June 1836   Weymouth, Norfolk County, Massachusetts
+     m. Nancy Sprague
+              b. age 40 y. as of 1880 census   Massachusetts
+  
+  <font size="+1">children:</font>
+     Elmer J. Vining   b. age 9 y. as of 1870 census   Massachusetts
+     Lewis B. Vining   b. May 1870   Massachusetts
+  
+  <a href="Asources/Augustus01doc.htm">documentation and notes</a>

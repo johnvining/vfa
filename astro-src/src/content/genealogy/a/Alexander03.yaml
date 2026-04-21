@@ -1,0 +1,97 @@
+id: Alexander03
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Josiah04
+parentLetter: J
+parentDesc: Josiah Vining and Sally Reed
+head:
+  givenName: Alexander
+  birth:
+    date: age 38 y. as of 1860 census
+    place: Ohio
+  death:
+    date: between 1870 and 1880 censuses
+    place: Ohio
+marriages:
+  - date: 22 May 1859
+    place: "Franklin County, Ohio"
+    spouse:
+      givenName: Ann Mariah
+      surname: Houser
+      birth:
+        date: age 20 y. as of 1860 census
+        place: Ohio
+      death:
+        date: 14 April 1907
+        place: "Columbus, Franklin County, Ohio"
+childrenGroups:
+  - children:
+      - name: Sarah B. Vining
+        birth:
+          date: age 1 m. as of 1860 census
+          place: Ohio
+        marriages:
+          - number: 1
+            date: "[&#8230;] Hunter"
+          - number: 2
+            date: 17 February 1908
+            spouse: Joseph Corbin
+      - name: George Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Ohio
+        death:
+          date: 12 December 1934
+      - name: James Alexander Vining
+        birth:
+          date: 3 October 1864
+          place: "Dublin, Ohio"
+        death:
+          date: 6 August 1913
+          place: "Columbus, Franklin County, Ohio"
+      - name: Harriet Matilda Vining
+        birth:
+          date: 15 February 1867
+          place: "Dublin, Ohio"
+        marriages:
+          - date: Frank Shipman
+        death:
+          date: 24 February 1949
+          place: "Columbus, Franklin County, Ohio"
+        burial:
+          place: "Sunset Cemetery   Galloway, Ohio"
+      - name: Charles Vining
+        entryId: Charles12
+        entryLetter: C
+        birth:
+          date: August 1869
+          place: Ohio
+        marriages:
+          - date: 13 y. as of 1900 census
+            spouse: "Cora B. [&#8230;]"
+      - name: John T. Vining
+        birth:
+          date: 2 June 1872
+          place: "Washington [County?], Ohio"
+docsUrl: Asources/Alexander03doc.htm
+raw: |-
+  <a name="Alexander03"></a><font size="+2">Alexander Vining</font>
+     (son of <a href="Jfamilies.htm#Josiah04">Josiah Vining and Sally Reed</a>)
+     b. age 38 y. as of 1860 census   Ohio
+     m. 22 May 1859   Franklin County, Ohio
+           Ann Mariah Houser
+                 (dau. of George Hauser and Lucy Long)
+                 b. age 20 y. as of 1860 census   Ohio
+                 d. 14 April 1907   Columbus, Franklin County, Ohio
+     d. between 1870 and 1880 censuses   Ohio
+  
+  <font size="+1">children:</font>
+     Sarah B. Vining   b. age 1 m. as of 1860 census   Ohio   -   m. (1) [&#8230;] Hunter;   (2) 17 February 1908   Joseph Corbin
+     George Vining   b. age 8 y. as of 1870 census   Ohio   -   d. 12 December 1934
+     James Alexander Vining   b. 3 October 1864   Dublin, Ohio   -   d. 6 August 1913   Columbus, Franklin County, Ohio
+     Harriet Matilda Vining   b. 15 February 1867   Dublin, Ohio   -   m. Frank Shipman   -   d. 24 February 1949   Columbus, Franklin County, Ohio   -   bur. Sunset Cemetery   Galloway, Ohio
+     <a href="Cfamilies.htm#Charles12">Charles Vining</a>   b. August 1869   Ohio   -   m. 13 y. as of 1900 census   Cora B. [&#8230;]
+     John T. Vining   b. 2 June 1872   Washington [County?], Ohio
+  
+  <a href="Asources/Alexander03doc.htm">documentation and notes</a>

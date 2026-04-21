@@ -1,0 +1,42 @@
+id: AlbertJ02
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AlbertJ01
+parentDesc: Albert J. Vining and Beatrice C. Sherwood
+head:
+  givenName: Albert J.
+  birth:
+    date: age 63 y. at death
+    place: "Cincinnatus, Cortland County, New York"
+  death:
+    date: 7 August 2016
+    place: "Syracuse, Onondaga, New York"
+marriages:
+  - spouse:
+      givenName: Sharon
+      surname: Crowder
+childrenGroups:
+  - children:
+      - name: Julia Vining
+        marriages:
+          - date: "[&#8230;] Yando"
+      - name: Cynthia Vining
+        marriages:
+          - date: Don Cronin
+      - name: Thomas Vicat Vining
+docsUrl: Asources/AlbertJ02doc.htm
+raw: |-
+  <a name="AlbertJ02"></a><font size="+2">Albert J. Vining</font>
+     (son of <a href="#AlbertJ01">Albert J. Vining and Beatrice C. Sherwood</a>)
+     b. age 63 y. at death   Cincinnatus, Cortland County, New York
+     m. Sharon Crowder
+     d. 7 August 2016   Syracuse, Onondaga, New York
+           bur. Riverview Cemetery   Baldwinsville, Onondaga County, New York
+  
+  <font size="+1">children:</font>
+     Julia Vining   m. [&#8230;] Yando
+     Cynthia Vining   m. Don Cronin
+     Thomas Vicat Vining
+  
+  <a href="Asources/AlbertJ02doc.htm">documentation and notes</a>

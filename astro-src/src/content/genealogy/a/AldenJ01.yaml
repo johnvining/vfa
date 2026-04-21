@@ -1,0 +1,50 @@
+id: AldenJ01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: HenryW02
+parentLetter: H
+parentDesc: Henry William Vining and Christena Jackson
+head:
+  givenName: Alden J.
+  birth:
+    date: age 2 y. as of 1870 census
+    place: Ohio
+  death:
+    date: 23 March 1939
+marriages:
+  - number: 1
+    date: "[...]"
+  - number: 2
+    date: 3 y. as of 1910 census
+childrenGroups:
+  - children:
+      - name: Elwin M. Vining
+        birth:
+          date: "1893"
+          place: Ohio
+        death:
+          date: "1918"
+        burial:
+          place: "Fernciff Cemetery   Springfield, Clark County, Ohio"
+      - name: Rose Ellen Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Ohio
+docsUrl: Asources/AldenJ01doc.htm
+raw: |-
+  <a name="AldenJ01"></a><font size="+2">Alden J. Vining</font>
+     (son of <a href="Hfamilies.htm#HenryW02">Henry William Vining and Christena Jackson</a>)
+     b. age 2 y. as of 1870 census   Ohio
+     m. (1) [...]
+           (2) 3 y. as of 1910 census
+                    Catherine [&#8230;]
+                          b. age 41 y. as of 1910 census   Ohio
+     d. 23 March 1939
+           bur. Ferncliff Cemetery   Springfield, Clark County, Ohio
+  
+  <font size="+1">children:</font>
+     Elwin M. Vining   b. 1893   Ohio   -   d. 1918   -   bur. Fernciff Cemetery   Springfield, Clark County, Ohio
+     Rose Ellen Vining   b. age 7 y. as of 1910 census   Ohio
+  
+  <a href="Asources/AldenJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,76 @@
+id: Archie01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Arthur04
+parentDesc: "Arthur Vining and Mary [J.?] [...]"
+head:
+  givenName: Archie
+  birth:
+    date: March 1886
+    place: Texas
+marriages:
+  - spouse:
+      givenName: Alberta
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Richard Vining
+        birth:
+          date: 4 August 1926
+          place: Texas
+        death:
+          date: 12 March 1972
+        burial:
+          place: "Skyvue Memorial Gardens   Mansfield, Texas"
+      - name: Alice Lee Vining
+        birth:
+          date: age 2 y. as of 1930 census
+          place: Texas
+      - name: Elza Vining
+        birth:
+          date: 7 February 1931
+          place: Texas
+        death:
+          date: 29 April 1986
+        burial:
+          place: "Skyvue Memorial Gardens   Mansfield, Texas"
+      - name: Mary Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Texas
+      - name: Dale Vining
+        birth:
+          date: 2 May 1934
+          place: Texas
+        death:
+          date: 27 July 1979
+        burial:
+          place: "Skyvue Memorial Gardens   Mansfield, Texas"
+      - name: Wesley Vining
+        birth:
+          date: "1936"
+          place: Texas
+        death:
+          date: 8 February 1984
+        burial:
+          place: "Skyvue Memorial Gardens   Mansfield, Texas"
+docsUrl: Asources/Archie01doc.htm
+raw: |-
+  <a name="Archie01"></a><font size="+2">Archie Vining</font>
+     (son of <a href="#Arthur04">Arthur Vining and Mary [J.?] [...]</a>)
+     b. March 1886   Texas
+     m. Alberta [...]
+              b. 4 November 1898   Texas
+              d. 16 January 1991
+                    bur. Skyvue Memorial Gardens   Mansfield, Texas
+  
+  <font size="+1">children:</font>
+     Richard Vining   b. 4 August 1926   Texas   -   d. 12 March 1972   -   bur. Skyvue Memorial Gardens   Mansfield, Texas
+     Alice Lee Vining   b. age 2 y. as of 1930 census   Texas
+     Elza Vining   b. 7 February 1931   Texas   -   d. 29 April 1986   -   bur. Skyvue Memorial Gardens   Mansfield, Texas
+     Mary Vining   b. age 9 y. as of 1940 census   Texas
+     Dale Vining   b. 2 May 1934   Texas   -   d. 27 July 1979   -   bur. Skyvue Memorial Gardens   Mansfield, Texas
+     Wesley Vining   b. 1936   Texas   -   d. 8 February 1984   -   bur. Skyvue Memorial Gardens   Mansfield, Texas
+  
+  <a href="Asources/Archie01doc.htm">documentation and notes</a>

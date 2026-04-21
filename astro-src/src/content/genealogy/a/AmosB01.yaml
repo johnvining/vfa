@@ -1,0 +1,68 @@
+id: AmosB01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Arvine01
+parentDesc: Arvine Vining and Lola Miller
+head:
+  givenName: Amos Boyd
+  birth:
+    date: 9 February 1936
+    place: "Shelby County, Alabama"
+  death:
+    date: 3 March 1996
+    place: "Columbiana, Shelby County, Alabama"
+marriages:
+  - spouse:
+      givenName: Flora Mae
+      surname: McDonald
+childrenGroups:
+  - children:
+      - name: Margie Ann Vining
+        birth:
+          date: 19 January 1957
+        death:
+          date: 25 March 1966
+        burial:
+          place: "Hubbard Cemetery   Shelby County, Alabama"
+      - name: Tammy Darlene Vining
+        birth:
+          date: 12 July 1966
+        death:
+          date: 10 April 1989
+        burial:
+          place: "Hubbard Cemetery   Shelby County, Alabama"
+      - name: Clara Vining
+        marriages:
+          - date: "[...] Ingram"
+        death:
+          date: before 21 November 2010
+      - name: Rickey B. Vining
+        birth:
+          date: 29 March 1960
+        death:
+          date: 21 November 2010
+          place: "[Columbiana, Shelby County, Alabama?]"
+        burial:
+          place: "Hubbard Cemetery   Shelby County, Alabama"
+      - name: Betty Vining
+        marriages:
+          - date: Donnie Taylor
+docsUrl: Asources/AmosB01doc.htm
+raw: |-
+  <a name="AmosB01"></a><font size="+2">Amos Boyd Vining</font>
+     (son of <a href="#Arvine01">Arvine Vining and Lola Miller</a>)
+     b. 9 February 1936   Shelby County, Alabama
+     m. Flora Mae McDonald
+              b. 12 December 1938
+     d. 3 March 1996   Columbiana, Shelby County, Alabama
+           bur. Hubbard Cemetery   Shelby County, Alabama
+  
+  <font size="+1">children:</font>
+     Margie Ann Vining   b. 19 January 1957   -   d. 25 March 1966   -   bur. Hubbard Cemetery   Shelby County, Alabama
+     Tammy Darlene Vining   b. 12 July 1966   -   d. 10 April 1989   -   bur. Hubbard Cemetery   Shelby County, Alabama
+     Clara Vining   m. [...] Ingram   -   d. before 21 November 2010
+     Rickey B. Vining   b. 29 March 1960   -   d. 21 November 2010   [Columbiana, Shelby County, Alabama?]   -   bur. Hubbard Cemetery   Shelby County, Alabama
+     Betty Vining   m. Donnie Taylor
+  
+  <a href="Asources/AmosB01doc.htm">documentation and notes</a>

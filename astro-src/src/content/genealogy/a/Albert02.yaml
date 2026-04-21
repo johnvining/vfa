@@ -1,0 +1,44 @@
+id: Albert02
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JosephL01
+parentLetter: J
+parentDesc: "Joseph Lee Vining and Lois Faye [...]"
+head:
+  givenName: Albert
+marriages:
+  - spouse:
+      givenName: Bobbie
+      surname: "[Pipkin?]"
+childrenGroups:
+  - children:
+      - name: Brandon Lee Vining
+        marriages:
+          - date: "Shanna [...]"
+      - name: Brian Samuel Vining
+        marriages:
+          - date: "Erin [...]"
+      - name: Bradley William Vining
+        entryId: BradleyW01
+        entryLetter: B
+        birth:
+          date: 15 August 1980
+          place: "Monroe, Ouachita Parish, Louisiana"
+        marriages:
+          - date: "Daphne [...]"
+        death:
+          date: 8 August 2009
+          place: "Pioneer, West Carroll Parish, Louisiana"
+        burial:
+          place: "New Forest Cemetery   Forest, West Carroll, Louisiana"
+raw: |-
+  <a name="Albert02"></a><font size="+2">Albert Vining</font>
+     (son of <a href="Jfamilies.htm#JosephL01">Joseph Lee Vining and Lois Faye [...]</a>)
+     m. Bobbie [Pipkin?]
+              (dau. of [Robert William Pipkin and Bettie [...]?])
+  
+  <font size="+1">children:</font>
+     Brandon Lee Vining   m. Shanna [...]
+     Brian Samuel Vining   m. Erin [...]
+     <a href="Bfamilies.htm#BradleyW01">Bradley William Vining</a>   b. 15 August 1980   Monroe, Ouachita Parish, Louisiana   -   m. Daphne [...]   -   d. 8 August 2009   Pioneer, West Carroll Parish, Louisiana   -   bur. New Forest Cemetery   Forest, West Carroll, Louisiana

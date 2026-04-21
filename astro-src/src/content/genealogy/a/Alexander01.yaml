@@ -1,0 +1,128 @@
+id: Alexander01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: SamuelJr01
+parentLetter: S
+parentDesc: "Samuel Vining Jr. and Elizabeth Killiam?"
+head:
+  givenName: Alexander
+  birth:
+    date: 21 September 1751
+    place: "[Simsbury or Windsor ?], Hartford County, Connecticut"
+  death:
+    date: 22 April 1828
+    place: "East Windsor, Hartford County, Connecticut"
+marriages:
+  - number: 1
+    date: 19 September 1774
+    place: "Windsor, Hartford County, Connecticut"
+    spouse:
+      givenName: Olive Louisa
+      surname: Pease
+      birth:
+        date: 16 March 1756
+      death:
+        date: 29 May 1786
+      burial:
+        place: "Scantic Cemetery   East Windsor, Hartford County, Connecticut"
+  - number: 2
+    date: 22 November 1786
+    place: "Windsor, Hartford County, Connecticut"
+    spouse:
+      givenName: Lovice
+      surname: Pease
+      birth:
+        date: 8 December 1763
+        place: "Enfield, Hartford County, Connecticut"
+childrenGroups:
+  - spouseRef: Olive Louisa Pease
+    children:
+      - name: Roxanne Vining
+        birth:
+          date: 20 May 1775
+          place: "East Windsor, Hartford County, Connecticut"
+        marriages:
+          - number: 1
+            date: Levi Clark
+          - number: 2
+            date: Martin Denslow
+      - name: Elizabeth Vining
+        birth:
+          date: 27 December 1776
+          place: "East Windsor, Hartford County, Connecticut"
+        death:
+          date: ca. 1777
+          place: "East Windsor, Hartford County, Connecticut"
+      - name: Elkanah Vining
+        birth:
+          date: 27 December 1776
+          place: "East Windsor, Hartford County, Connecticut"
+        marriages:
+          - date: Catharine White
+        death:
+          date: 6 August 1807
+      - name: Elem Vining
+        entryId: Elem01
+        entryLetter: E
+        birth:
+          date: 25 December 1778
+          place: "East Windsor, Hartford County, Connecticut"
+        marriages:
+          - number: 1
+            date: Sarah Allen
+          - number: 2
+            date: Sarah Carter
+        death:
+          date: 10 January 1837
+          place: "Delaware [County?], Ohio"
+        burial:
+          place: "Oak Grove Cemetery   Delaware [County?], Ohio"
+      - name: Alexander Vining Jr.
+        birth:
+          date: 11 March 1781
+          place: "East Windsor, Hartford County, Connecticut"
+        marriages:
+          - date: 13 March 1807
+            spouse: Lovicy/Lovina Root
+        death:
+          date: 10 May 1859
+        burial:
+          place: "Scantic Cemetery   East Windsor, Hartford County, Connecticut"
+      - name: Alvin Vining
+        entryId: Alvin01
+        birth:
+          date: 20 May 1783
+          place: "East Windsor, Hartford County, Connecticut"
+        marriages:
+          - date: Sarah Stone
+        death:
+          date: 2 February 1847
+          place: "Longmeadow, Hampden County, Massachusetts"
+docsUrl: Asources/Alexander01doc.htm
+raw: |-
+  <a name="Alexander01"></a><font size="+2">Alexander Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelJr01">Samuel Vining Jr. and Elizabeth Killiam?</a>)
+     b. 21 September 1751   [Simsbury or Windsor ?], Hartford County, Connecticut
+     m. (1) 19 September 1774   Windsor, Hartford County, Connecticut
+                 Olive Louisa Pease
+                       (dau. of David Pease and Olive [...])
+                       b. 16 March 1756
+                       d. 29 May 1786
+                             bur. Scantic Cemetery   East Windsor, Hartford County, Connecticut
+           (2) 22 November 1786   Windsor, Hartford County, Connecticut
+                 Lovice Pease
+                       (dau. of Israel Pease and Ann [...])
+                       b. 8 December 1763   Enfield, Hartford County, Connecticut
+     d. 22 April 1828   East Windsor, Hartford County, Connecticut
+           bur. Scantic Cemetery   East Windsor, Hartford County, Connecticut
+  
+  <font size="+1">children by Olive Louisa Pease:</font>
+     Roxanne Vining   b. 20 May 1775   East Windsor, Hartford County, Connecticut   -   m. (1) Levi Clark;   (2) Martin Denslow
+     Elizabeth Vining   b. 27 December 1776   East Windsor, Hartford County, Connecticut   -   d. ca. 1777   East Windsor, Hartford County, Connecticut
+     Elkanah Vining   b. 27 December 1776   East Windsor, Hartford County, Connecticut   -   m. Catharine White   -   d. 6 August 1807
+     <a href="Efamilies.htm#Elem01">Elem Vining</a>   b. 25 December 1778   East Windsor, Hartford County, Connecticut   -   m. (1) Sarah Allen;   (2) Sarah Carter   -   d. 10 January 1837   Delaware [County?], Ohio   -   bur. Oak Grove Cemetery   Delaware [County?], Ohio
+     Alexander Vining Jr.   b. 11 March 1781   East Windsor, Hartford County, Connecticut   -   m. 13 March 1807   Lovicy/Lovina Root   -   d. 10 May 1859   -   bur. Scantic Cemetery   East Windsor, Hartford County, Connecticut
+     <a href="#Alvin01">Alvin Vining</a>   b. 20 May 1783   East Windsor, Hartford County, Connecticut   -   m. Sarah Stone   -   d. 2 February 1847   Longmeadow, Hampden County, Massachusetts
+  
+  <a href="Asources/Alexander01doc.htm">documentation and notes</a>

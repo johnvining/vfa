@@ -1,0 +1,182 @@
+id: AbnerB01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: TimothyB01
+parentLetter: T
+parentDesc: Timothy Birum Vining and Sina Jones
+head:
+  givenName: Abner B.
+  birth:
+    date: 19 July 1835
+    place: Ohio
+  death:
+    date: 28 March 1917
+    place: "The Dalles, Wasco County, Oregon"
+marriages:
+  - number: 1
+    date: 4 July 1858
+    place: "Meigs County, Ohio"
+    spouse:
+      givenName: Sophia A.
+      surname: Ralph
+      birth:
+        date: 24 September 1839
+        place: Ohio
+      death:
+        date: 27 February 1876
+  - number: 2
+    date: 12 January 1878
+    place: "Meigs County, Ohio"
+    spouse:
+      givenName: Almira
+      surname: Guess
+      birth:
+        date: age 35 y. as of 1880 census
+        place: Ohio
+  - number: 3
+    date: "1888"
+    place: Oregon (her second marriage)
+    spouse:
+      givenName: "Martha Florintine (n&#233;e Enyart)"
+      surname: Bartmess
+      birth:
+        date: 4 January 1860
+        place: "Forrestville, Sonoma County, Oregon"
+      death:
+        date: 6 June 1920
+      burial:
+        place: "Odd Fellows Cemetery   The Dalles, Wasco County, Oregon"
+childrenGroups:
+  - spouseRef: Sophia A. Ralph
+    children:
+      - name: Calvin Luther Vining
+        entryId: CalvinL01
+        entryLetter: C
+        birth:
+          date: March 1859
+          place: Ohio
+        marriages:
+          - date: 23 December 1880
+            place: Ohio
+            spouse: Caroline Sarah Price
+        death:
+          date: 1 February 1943
+        burial:
+          place: "Marysville Cemetery   Marysville, Snohomish County, Washington"
+      - name: Francis Vining
+        birth:
+          date: 26 January 1861
+          place: Ohio
+        death:
+          date: 18 June 1945
+          place: "Seattle, King County, Washington"
+      - name: Iva Florence Vining
+        birth:
+          date: age 7 y. as of 1870 census
+          place: Ohio
+        marriages:
+          - date: Royal D. Price
+        death:
+          date: "1955"
+        burial:
+          place: "Miles Cemetery   Rutland, Meigs County, Ohio"
+      - name: Charles A. Vining
+        entryId: CharlesA09
+        entryLetter: C
+        birth:
+          date: 19 December 1866
+          place: "Meigs County, Ohio   m. 17 August 1893   Cook County, Illinois   Mary Sauer"
+        death:
+          date: 8 March 1927
+          place: "Chicago, Cook County, Illinois"
+        burial:
+          place: "Mount Carmel Cemetery   Hillside, Cook County, Illinois"
+      - name: Mary Ida Vining
+        birth:
+          date: 19 September 1868
+          place: Ohio
+        marriages:
+          - date: Ellis Wilbur Hysell
+        death:
+          date: 23 July 1949
+          place: "Pomeroy, Meigs County, Ohio"
+        burial:
+          place: "Bradford Cemetery   Bradbury, Meigs County, Ohio"
+      - name: Ora Etta Vining
+        birth:
+          date: 19 June 1872
+          place: "Salisbury, Ohio"
+        death:
+          date: 27 December 1932
+          place: "Monroe, Washington"
+        burial:
+          place: "Marysville Cemetery   Marysville, Washington"
+  - spouseRef: "Martha Florintine (n&#233;e Enyart) Bartmess"
+    children:
+      - name: Ava Vining
+        birth:
+          date: 5 August 1891
+          place: Oregon
+        marriages:
+          - date: "1909"
+            spouse: Roy Workinger
+        death:
+          date: 29 April 1916
+          place: Oregon
+      - name: Martha C. Vining
+        birth:
+          date: 2 April 1894
+          place: Oregon
+        marriages:
+          - number: 1
+            date: Earl J. Titus
+          - number: 2
+            date: Henry Anthony Brauner
+        death:
+          date: 28 February 1977
+          place: Oregon
+      - name: Ardis Vining
+        birth:
+          date: 25 January 1904
+          place: Oregon
+        marriages:
+          - date: Chester Blodgett
+        death:
+          date: 27 June 1969
+          place: "Lane County, Oregon"
+docsUrl: Asources/AbnerB01doc.htm
+raw: |-
+  <a name="AbnerB01"></a><font size="+2">Abner B. Vining</font>
+     (son of <a href="Tfamilies.htm#TimothyB01">Timothy Birum Vining and Sina Jones</a>)
+     b. 19 July 1835   Ohio
+     m. (1) 4 July 1858   Meigs County, Ohio
+                 Sophia A. Ralph
+                       (dau. of John Irons Ralph and Hannah Spilman)
+                       b. 24 September 1839   Ohio
+                       d. 27 February 1876
+           (2) 12 January 1878   Meigs County, Ohio
+                 Almira Guess
+                       b. age 35 y. as of 1880 census   Ohio
+           (3) 1888   Oregon (her second marriage)
+                 Martha Florintine (n&#233;e Enyart) Bartmess
+                       (dau. of Peter Stephen Enyart and Isabella Morgan)
+                       b. 4 January 1860   Forrestville, Sonoma County, Oregon
+                       d. 6 June 1920
+                             bur. Odd Fellows Cemetery   The Dalles, Wasco County, Oregon
+     d. 28 March 1917   The Dalles, Wasco County, Oregon
+           bur. Odd Fellows Cemetery   The Dalles, Wasco County, Oregon
+  
+  <font size="+1">children by Sophia A. Ralph:</font>
+     <a href="Cfamilies.htm#CalvinL01">Calvin Luther Vining</a>   b. March 1859   Ohio   -   m. 23 December 1880   Ohio   Caroline Sarah Price   -   d. 1 February 1943   -   bur. Marysville Cemetery   Marysville, Snohomish County, Washington
+     Francis Vining   b. 26 January 1861   Ohio   -   d. 18 June 1945   Seattle, King County, Washington
+     Iva Florence Vining   b. age 7 y. as of 1870 census   Ohio   -   m. Royal D. Price   -   d. 1955   -   bur. Miles Cemetery   Rutland, Meigs County, Ohio
+     <a href="Cfamilies.htm#CharlesA09">Charles A. Vining</a>   b. 19 December 1866   Meigs County, Ohio   m. 17 August 1893   Cook County, Illinois   Mary Sauer   -   d. 8 March 1927   Chicago, Cook County, Illinois   -   bur. Mount Carmel Cemetery   Hillside, Cook County, Illinois
+     Mary Ida Vining   b. 19 September 1868   Ohio   -   m. Ellis Wilbur Hysell   -   d. 23 July 1949   Pomeroy, Meigs County, Ohio   -   bur. Bradford Cemetery   Bradbury, Meigs County, Ohio
+     Ora Etta Vining   b. 19 June 1872   Salisbury, Ohio   -   d. 27 December 1932   Monroe, Washington   -   bur. Marysville Cemetery   Marysville, Washington
+  <font size="+1">children by Martha Florintine (n&#233;e Enyart) Bartmess:</font>
+     Ava Vining   b. 5 August 1891   Oregon   -   m. 1909   Roy Workinger   -   d. 29 April 1916   Oregon
+     Martha C. Vining   b. 2 April 1894   Oregon   -   m. (1) Earl J. Titus;   (2) Henry Anthony Brauner   -   d. 28 February 1977   Oregon
+     Ardis Vining   b. 25 January 1904   Oregon   -   m. Chester Blodgett   -   d. 27 June 1969   Lane County, Oregon
+  
+  <a href="Asources/AbnerB01doc.htm">documentation and notes</a>

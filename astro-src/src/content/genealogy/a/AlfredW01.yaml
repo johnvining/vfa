@@ -1,0 +1,56 @@
+id: AlfredW01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: RoswellS01
+parentLetter: R
+parentDesc: Roswell S. Vining and Julia Vestina Hitchcock
+head:
+  givenName: Alfred William
+  birth:
+    date: 7 September 1908
+  death:
+    date: December 1982
+    place: "(last residence: Hensonville, Greene County, New York)"
+marriages:
+  - spouse:
+      givenName: Marie L.
+      surname: Dunham
+childrenGroups:
+  - children:
+      - name: Sally Julia Vining
+        birth:
+          date: 16 June 1941
+        marriages:
+          - date: Miles Nelson
+      - name: Donald Alfred Vining
+        entryId: DonaldA01
+        entryLetter: D
+        birth:
+          date: 29 August 1944
+          place: "Catskill, New York"
+        marriages:
+          - number: 1
+            date: Judith Passarelli
+          - number: 2
+            date: 4 y. as of 2018
+            spouse: "Elsie [&#8230;]"
+        death:
+          date: 9 May 2018
+docsUrl: Asources/AlfredW01doc.htm
+raw: |-
+  <a name="AlfredW01"></a><font size="+2">Alfred William Vining</font>
+     (son of <a href="Rfamilies.htm#RoswellS01">Roswell S. Vining and Julia Vestina Hitchcock</a>)
+     b. 7 September 1908
+     m. Marie L. Dunham
+              b. 16 October 1915
+              d. 5 April 2007
+                    bur. Pleasant Valley Cemetery   Ashland, New York
+     d. December 1982   (last residence: Hensonville, Greene County, New York)
+           bur. Pleasant Valley Cemetery   Ashland, New York
+  
+  <font size="+1">children:</font>
+     Sally Julia Vining   b. 16 June 1941   -   m. Miles Nelson
+     <a href="Dfamilies.htm#DonaldA01">Donald Alfred Vining</a>   b. 29 August 1944   Catskill, New York   -   m. (1) Judith Passarelli;   (2) 4 y. as of 2018   Elsie [&#8230;]   -   d. 9 May 2018
+  
+  <a href="Asources/AlfredW01doc.htm">documentation and notes</a>

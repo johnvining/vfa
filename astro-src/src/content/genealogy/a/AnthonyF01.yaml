@@ -1,0 +1,39 @@
+id: AnthonyF01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: ClintonM01
+parentLetter: C
+parentDesc: "Clinton M. Vining and Lucille G. [&#8230;]"
+head:
+  givenName: Anthony F.
+  birth:
+    date: April 1942
+marriages:
+  - spouse:
+      givenName: Marlyn T.
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Laura Vining
+        burial:
+          place: "West Hill Cemetery   Dalton, Whitfield County, Georgia"
+      - name: Amanda Vining
+        marriages:
+          - date: Greg Branch
+      - name: Leigh Ann Vining
+        marriages:
+          - date: John Massey
+docsUrl: Asources/AnthonyF01doc.htm
+raw: |-
+  <a name="AnthonyF01"></a><font size="+2">Anthony F. Vining</font>
+     (son of <a href="Cfamilies.htm#ClintonM01">Clinton M. Vining and Lucille G. [&#8230;]</a>)
+     b. April 1942
+     m. Marlyn T. [&#8230;]
+  
+  <font size="+1">children:</font>
+     Laura Vining   bur. West Hill Cemetery   Dalton, Whitfield County, Georgia
+     Amanda Vining   m. Greg Branch
+     Leigh Ann Vining   m. John Massey
+  
+  <a href="Asources/AnthonyF01doc.htm">documentation and notes</a>

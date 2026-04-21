@@ -1,0 +1,59 @@
+id: AverettW01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JamesB03
+parentLetter: J
+parentDesc: James Benjamin Vining and Clara Rosella Hand
+head:
+  givenName: Averett Wells
+  birth:
+    date: 23 March 1892
+    place: Georgia
+  death:
+    date: 19 April 1950
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Viola Mae
+      surname: Scott
+childrenGroups:
+  - children:
+      - name: James Averett Vining
+        entryId: JamesA05
+        entryLetter: J
+        birth:
+          date: 6 July 1927
+          place: Georgia
+        marriages:
+          - date: 48 y. at death
+            spouse: Wynell Williams
+        death:
+          date: 29 May 2010
+        burial:
+          place: "Oaklawn Cemetery   Fort Valley, Peach County, Georgia"
+      - name: Hollis F. Vining
+        birth:
+          date: 24 November 1929
+          place: Georgia
+        death:
+          date: 9 July 1930
+          place: Georgia
+        burial:
+          place: "Marshallville City Cemetery   Marshallville, Macon County, Georgia"
+docsUrl: Asources/AverettW01doc.htm
+raw: |-
+  <a name="AverettW01"></a><font size="+2">Averett Wells Vining</font>
+     (son of <a href="Jfamilies.htm#JamesB03">James Benjamin Vining and Clara Rosella Hand</a>)
+     b. 23 March 1892   Georgia
+     m. Viola Mae Scott
+              (dau. of Gordon Scott and Rilla [&#8230;])
+              b. age 28 y. as of 1830 census   Alabama
+     d. 19 April 1950   Georgia
+           bur. Marshallville City Cemetery   Marshallville, Macon County, Georgia
+  
+  <font size="+1">children:</font>
+     <a href="Jfamilies.htm#JamesA05">James Averett Vining</a>   b. 6 July 1927   Georgia   -   m. 48 y. at death   Wynell Williams   -   d. 29 May 2010   -   bur. Oaklawn Cemetery   Fort Valley, Peach County, Georgia
+     Hollis F. Vining   b. 24 November 1929   Georgia   -   d. 9 July 1930   Georgia   -   bur. Marshallville City Cemetery   Marshallville, Macon County, Georgia
+  
+  <a href="Asources/AverettW01doc.htm">documentation and notes</a>

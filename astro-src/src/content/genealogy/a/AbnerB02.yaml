@@ -1,0 +1,106 @@
+id: AbnerB02
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: RichardJr02
+parentLetter: R
+parentDesc: Richard Vining Jr. and Melinda Banning Robbins
+head:
+  givenName: Abner Banning
+  birth:
+    date: 4 September 1807
+    place: "Granby, Hartford County, Connecticut"
+  death:
+    date: 7 August 1882
+    place: Illinois
+marriages:
+  - number: 1
+    date: 10 October 1833
+    spouse:
+      givenName: Ellen C.
+      surname: Bester
+      birth:
+        date: age 40 y. as of 1850 census
+        place: Connecticut
+      death:
+        date: 30 December 1863
+  - number: 2
+    date: "Mrs. Sarah R. Tarbell (n&#233;e Kidder)"
+childrenGroups:
+  - spouseRef: Ellen C. Bester
+    children:
+      - name: Susan Vining
+        birth:
+          date: "age 80 y., 4 m., 12 d. at death"
+          place: Illinois
+        marriages:
+          - date: Almerin Herrick
+        death:
+          date: 13 December 1915
+        burial:
+          place: "Stewart Cemetery   Plainville, Adams County, Illinois"
+      - name: John B. Vining
+        entryId: JohnB07
+        entryLetter: J
+        birth:
+          date: age 12 y. as of 1850 census
+          place: Illinois
+        marriages:
+          - date: Lucinda Bone
+        death:
+          date: 20 January 1918
+        burial:
+          place: "Barkley Cemetery   New London, Ralls County, Missouri"
+      - name: Mary Ann Vining
+        birth:
+          date: age 8 y. as of 1850 census
+          place: Illinois
+        marriages:
+          - date: "[&#8230;] Clark"
+        death:
+          date: 23 September 1906
+        burial:
+          place: "Stewart Cemetery   Plainville, Adams County, Illinois"
+      - name: Malinda Vining
+        birth:
+          date: 19 November 1844
+          place: Illinois
+        marriages:
+          - date: John G. McKinney
+        death:
+          date: 3 May 1902
+        burial:
+          place: "Stewart Cemetery   Plainville, Adams Couinty, Illinois"
+      - name: Nancy J. Vining
+        birth:
+          date: "age 6 m., 17 d. at death"
+          place: Illinois
+        death:
+          date: 13 September 1850
+        burial:
+          place: "Stewart Cemetery   Plainville, Adams County, Illinois"
+docsUrl: Asources/AbnerB02doc.htm
+raw: |-
+  <a name="AbnerB02"></a><font size="+2">Abner Banning Vining</font>
+     (son of <a href="Rfamilies.htm#RichardJr02">Richard Vining Jr. and Melinda Banning Robbins</a>)
+     b. 4 September 1807   Granby, Hartford County, Connecticut
+     m. (1) 10 October 1833
+                 Ellen C. Bester
+                       (dau. of John Bester and Rosetta [...])
+                       b. age 40 y. as of 1850 census   Connecticut
+                       d. 30 December 1863
+           (2) Mrs. Sarah R. Tarbell (n&#233;e Kidder)
+                       b. 22 July 1823   Albion, Kennebec, Maine
+                       d. 10 August 1903
+                             bur. Stewart Cemetery   Plainville, Adams County, Illinois
+     d. 7 August 1882   Illinois
+           bur. Stewart Cemetery   Plainville, Adams County, Illinois
+  
+  <font size="+1">children by Ellen C. Bester:</font>
+     Susan Vining   b. age 80 y., 4 m., 12 d. at death   Illinois   -   m. Almerin Herrick   -   d. 13 December 1915   -   bur. Stewart Cemetery   Plainville, Adams County, Illinois
+     <a href="Jfamilies.htm#JohnB07">John B. Vining</a>   b. age 12 y. as of 1850 census   Illinois   -   m. Lucinda Bone   -   d. 20 January 1918   -   bur. Barkley Cemetery   New London, Ralls County, Missouri
+     Mary Ann Vining   b. age 8 y. as of 1850 census   Illinois   -   m. [&#8230;] Clark   -   d. 23 September 1906   -   bur. Stewart Cemetery   Plainville, Adams County, Illinois
+     Malinda Vining   b. 19 November 1844   Illinois   -   m. John G. McKinney   -   d. 3 May 1902   -   bur. Stewart Cemetery   Plainville, Adams Couinty, Illinois
+     Nancy J. Vining   b. age 6 m., 17 d. at death   Illinois   -   d. 13 September 1850   -   bur. Stewart Cemetery   Plainville, Adams County, Illinois
+  
+  <a href="Asources/AbnerB02doc.htm">documentation and notes</a>

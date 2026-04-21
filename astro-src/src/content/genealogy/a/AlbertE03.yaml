@@ -1,0 +1,52 @@
+id: AlbertE03
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: SolomonB01
+parentLetter: S
+parentDesc: Solomon Benjamin Vining and Ruby Whittington
+head:
+  givenName: Albert Edward
+  birth:
+    date: 14 April 1936
+    place: "Marshallville, Macon, Georgia"
+  death:
+    date: 21 November 1993
+    place: "Macon, Bibb County, Georgia"
+marriages:
+  - number: 1
+    date: Irene Anderson
+  - number: 2
+    date: "Betty [&#8230;]"
+childrenGroups:
+  - children:
+      - name: Roger Vining
+      - name: Albert Edward Vining Jr.
+        birth:
+          date: 51 y. at death
+        death:
+          date: 21 November 2009
+          place: "Fort Valley, Peach County, Georgia"
+        burial:
+          place: "Oaklawn Cemetery   Fort Valley, Peach County, Georgia"
+      - name: Joe Vining
+      - name: Pamela L. Vining
+        marriages:
+          - date: "[...] Amburn"
+docsUrl: Asources/AlbertE03doc.htm
+raw: |-
+  <a name="AlbertE03"></a><font size="+2">Albert Edward Vining</font>
+     (son of <a href="Sfamilies.htm#SolomonB01">Solomon Benjamin Vining and Ruby Whittington</a>)
+     b. 14 April 1936   Marshallville, Macon, Georgia
+     m. (1) Irene Anderson
+           (2) Betty [&#8230;]
+     d. 21 November 1993   Macon, Bibb County, Georgia
+           bur. Oaklawn Cemetery   Fort Valley, Peach County, Georgia
+  
+  <font size="+1">children:</font>
+     Roger Vining
+     Albert Edward Vining Jr.   b. 51 y. at death   -   d. 21 November 2009   Fort Valley, Peach County, Georgia   -   bur. Oaklawn Cemetery   Fort Valley, Peach County, Georgia
+     Joe Vining
+     Pamela L. Vining   m. [...] Amburn
+  
+  <a href="Asources/AlbertE03doc.htm">documentation and notes</a>

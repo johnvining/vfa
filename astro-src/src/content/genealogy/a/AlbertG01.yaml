@@ -1,0 +1,49 @@
+id: AlbertG01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: SalmonJr01
+parentLetter: S
+parentDesc: Salmon Vining Jr. and Esther F. Gourlay
+head:
+  givenName: Albert George
+  birth:
+    date: 1 June 1880
+    place: "Middlesex County, Ontario, Canada"
+  death:
+    date: "1956"
+marriages:
+  - spouse:
+      givenName: Hazel May
+      surname: Betts
+childrenGroups:
+  - children:
+      - name: Edward R. Vining
+        entryId: EdwardR01
+        entryLetter: E
+        birth:
+          date: 26 January 1911
+        marriages:
+          - date: Olive McAuley
+        death:
+          date: 1 March 1994
+        burial:
+          place: "Woodland Cemetery   London, Ontario, Canada"
+      - name: Audrey Grace Vining
+        birth:
+          date: 21 November 1916
+        marriages:
+          - date: 26 September 1936
+            spouse: "G. Francis &#8220;Frank&#8221; Henshaw"
+raw: |-
+  <a name="AlbertG01"></a><font size="+2">Albert George Vining</font>
+     (son of <a href="Sfamilies.htm#SalmonJr01">Salmon Vining Jr. and Esther F. Gourlay</a>)
+     b. 1 June 1880   Middlesex County, Ontario, Canada
+     m. Hazel May Betts
+              b. ca. 1891   Ontario, Canada
+              d. 1984
+     d. 1956
+  
+  <font size="+1">children</font>
+     <a href="Efamilies.htm#EdwardR01">Edward R. Vining</a>   b. 26 January 1911   -   m. Olive McAuley   -   d. 1 March 1994   -   bur. Woodland Cemetery   London, Ontario, Canada
+     Audrey Grace Vining   b. 21 November 1916   -   m. 26 September 1936   G. Francis &#8220;Frank&#8221; Henshaw

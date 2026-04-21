@@ -1,0 +1,80 @@
+id: ArthurR01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: FrankW01
+parentLetter: F
+parentDesc: "Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith"
+head:
+  givenName: Arthur Ray
+  birth:
+    date: 16 May 1892
+    place: "Limestone Township, Kankakee County, Illinois"
+  death:
+    date: 24 April 1964
+    place: "(last residence: Illinois)"
+marriages:
+  - spouse:
+      givenName: Eunice Olive
+      surname: Corbett
+childrenGroups:
+  - children:
+      - name: Kenneth Ray Vining
+        birth:
+          date: 7 December 1916
+          place: Illinois
+        marriages:
+          - date: Mildred Andrew
+        death:
+          date: July 1983
+          place: "(last residence: Manhattan, Will County, Illinois)"
+        burial:
+          place: "Wilton Center Cemetery   Wilton Center, Cill County, Illinois"
+      - name: Carl Austin Vining
+        entryId: CarlA01
+        entryLetter: C
+        birth:
+          date: 5 October 1919
+          place: Illinois
+        marriages:
+          - number: 1
+            date: "Bernice Rademacher,"
+            spouse: divorced
+          - number: 2
+            date: "Margaret Phelan,"
+            spouse: divorced
+          - number: 3
+            date: Mrs. Ha Mae Pope Baker
+      - name: Celia Eunice Vining
+        birth:
+          date: 1 March 1926
+          place: Illinois
+        marriages:
+          - date: Otto H. Decker
+      - name: Nina Ilene Vining
+        birth:
+          date: 7 November 1927
+          place: Illinois
+        death:
+          date: 21 December 1966
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
+docsUrl: Asources/ArthurR01doc.htm
+raw: |-
+  <a name="ArthurR01"></a><font size="+2">Arthur Ray Vining</font>
+     (son of <a href="Ffamilies.htm#FrankW01">Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith</a>)
+     b. 16 May 1892   Limestone Township, Kankakee County, Illinois
+     m. Eunice Olive Corbett
+              b. 1894   Illinois
+              d. 1956
+                    bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+     d. 24 April 1964   (last residence: Illinois)
+           bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+  
+  <font size="+1">children:</font>
+     Kenneth Ray Vining   b. 7 December 1916   Illinois   -   m. Mildred Andrew   -   d. July 1983   (last residence: Manhattan, Will County, Illinois)   -   bur. Wilton Center Cemetery   Wilton Center, Cill County, Illinois
+     <a href="Cfamilies.htm#CarlA01">Carl Austin Vining</a>   b. 5 October 1919   Illinois   -   m. (1) Bernice Rademacher,   divorced;   (2) Margaret Phelan,   divorced;   (3) Mrs. Ha Mae Pope Baker
+     Celia Eunice Vining   b. 1 March 1926   Illinois   -   m. Otto H. Decker
+     Nina Ilene Vining   b. 7 November 1927   Illinois   -   d. 21 December 1966   -   bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+  
+  <a href="Asources/ArthurR01doc.htm">documentation and notes</a>

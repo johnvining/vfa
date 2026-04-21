@@ -1,0 +1,79 @@
+id: AtwoodP01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: John09
+parentLetter: J
+parentDesc: John Vining and Adeliza Atwood
+head:
+  givenName: Atwood P.
+  birth:
+    date: August 1835
+    place: New York
+  death:
+    date: 31 March 1910
+marriages:
+  - date: 40 y. as of 1900 census
+    spouse:
+      givenName: Harriet
+      surname: Decker
+      birth:
+        date: August 1842
+        place: "Scranton, Luzerne County (in 1842), Pennsylvania"
+childrenGroups:
+  - children:
+      - name: Addie Vining
+        birth:
+          date: "1861"
+          place: Pennsylvania
+        marriages:
+          - date: "Hallstead, Susquehanna County, Pennsylvania"
+            spouse: Eli S. Stalker
+        death:
+          date: funeral on 6 December 1925
+          place: "Hallstead, Susquehanna County, Pennsylvania"
+        burial:
+          place: "Rose Hill Cemetery   Hallstead, Susquehanna County, Pennsylvania"
+      - name: daughter
+      - name: John Decker Vining
+        entryId: JohnD01
+        entryLetter: J
+        birth:
+          date: 19 April 1867
+          place: Pennsylvania
+        marriages:
+          - date: Julia Wilbur
+        death:
+          date: 29 June 1946
+          place: "Binghamton, Broome County, New York"
+        burial:
+          place: "Vestal Hills Memorial Park   Vestal, Broome County, New York"
+      - name: "Jane Leona &#8220;Jennie&#8221; Vining"
+        birth:
+          date: 19 January 1878
+          place: New York
+        marriages:
+          - date: Lewis Platt
+        death:
+          date: 17 February 1926
+          place: "Brackney, Susquehanna County, Pennsylvania"
+        burial:
+          place: "Conklin Cemetery   Conklin, Broome County, New York"
+docsUrl: Asources/AtwoodP01doc.htm
+raw: |-
+  <a name="AtwoodP01"></a><font size="+2">Atwood P. Vining</font>
+     (son of <a href="Jfamilies.htm#John09">John Vining and Adeliza Atwood</a>)
+     b. August 1835   New York
+     m. 40 y. as of 1900 census
+           Harriet Decker
+                 (dau. of George W. Decker and Catherine Snyder)
+                 b. August 1842   Scranton, Luzerne County (in 1842), Pennsylvania
+     d. 31 March 1910
+  
+  <font size="+1">children:</font>
+     Addie Vining   b. 1861   Pennsylvania   -   m. Hallstead, Susquehanna County, Pennsylvania   Eli S. Stalker   -   d. funeral on 6 December 1925   Hallstead, Susquehanna County, Pennsylvania   -   bur. Rose Hill Cemetery   Hallstead, Susquehanna County, Pennsylvania
+     daughter
+     <a href="Jfamilies.htm#JohnD01">John Decker Vining</a>   b. 19 April 1867   Pennsylvania   -   m. Julia Wilbur   -   d. 29 June 1946   Binghamton, Broome County, New York   -   bur. Vestal Hills Memorial Park   Vestal, Broome County, New York
+     Jane Leona &#8220;Jennie&#8221; Vining   b. 19 January 1878   New York   -   m. Lewis Platt   -   d. 17 February 1926   Brackney, Susquehanna County, Pennsylvania   -   bur. Conklin Cemetery   Conklin, Broome County, New York
+  
+  <a href="Asources/AtwoodP01doc.htm">documentation and notes</a>

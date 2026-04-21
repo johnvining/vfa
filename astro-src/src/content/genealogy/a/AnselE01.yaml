@@ -1,0 +1,58 @@
+id: AnselE01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Ansel01
+parentDesc: Ansel Vining and Clarissa Joslin
+head:
+  givenName: Ansel Emerson
+  birth:
+    date: 26 May 1837
+    place: "Plainfield, Hampshire County, Massachusetts"
+  death:
+    date: 19 December 1900
+marriages:
+  - spouse:
+      givenName: Mary P.
+      surname: Sturtevant
+childrenGroups:
+  - children:
+      - name: Charles E. Vining
+        birth:
+          date: age 7 y. as of 1870 census
+          place: Massachusetts
+        death:
+          date: "[before 1900?]"
+      - name: Frederick J. Vining
+        entryId: FrederickJ01
+        entryLetter: F
+        birth:
+          date: 7 October 1872
+          place: Massachusetts
+        marriages:
+          - number: 1
+            date: 3 y. as of 1900 census
+            spouse: Ella B. Moakler
+          - number: 2
+            date: Katherine F. Hogan
+        death:
+          date: 14 May 1931
+        burial:
+          place: "[High Street Cemetery or Saint Marys Assumption Cemetery ?]  Haydenville, Hampshire County, Massachusetts"
+docsUrl: Asources/AnselE01doc.htm
+raw: |-
+  <a name="AnselE01"></a><font size="+2">Ansel Emerson Vining</font>
+     (son of <a href="#Ansel01">Ansel Vining and Clarissa Joslin</a>)
+     b. 26 May 1837   Plainfield, Hampshire County, Massachusetts
+     m. Mary P. Sturtevant
+              b. 21 April 1840   Massachusetts
+              d. 28 October 1928
+                    bur. (probably) High Street Cemetery   Haydenville, Hampshire County, Massachusetts
+     d. 19 December 1900
+           bur. (probably) High Street Cemetery   Haydenville, Hampshire County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Charles E. Vining   b. age 7 y. as of 1870 census   Massachusetts   -   d. [before 1900?]
+     <a href="Ffamilies.htm#FrederickJ01">Frederick J. Vining</a>   b. 7 October 1872   Massachusetts   -   m. (1) 3 y. as of 1900 census   Ella B. Moakler;   (2) Katherine F. Hogan   -   d. 14 May 1931   -   bur. [High Street Cemetery or Saint Marys Assumption Cemetery ?]  Haydenville, Hampshire County, Massachusetts
+  
+  <a href="Asources/AnselE01doc.htm">documentation and notes</a>

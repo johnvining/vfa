@@ -1,0 +1,54 @@
+id: AlonzoM01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JosephA01
+parentLetter: J
+parentDesc: Joseph Alonzo Vining and (Mary) Emma Lindley
+head:
+  givenName: Alonzo Moulton
+  birth:
+    date: 4 January 1891
+  death:
+    date: 3 September 1935
+marriages:
+  - spouse:
+      givenName: Nellie
+      surname: Vance
+childrenGroups:
+  - children:
+      - name: Earle J. Vining
+        entryId: EarleJ01
+        entryLetter: E
+        birth:
+          date: 9 November 1925
+        marriages:
+          - date: 3 June 1950
+            spouse: Janice M. Jaques
+        death:
+          date: 4 March 2000
+      - name: Roy Howard Vining
+        entryId: RoyH01
+        entryLetter: R
+        birth:
+          date: 9 November 1925
+        marriages:
+          - date: Nancy J. Cliff
+        death:
+          date: 15 July 1996
+          place: "(last residence: West Chester, Chester County, Pennsylvania)"
+docsUrl: Asources/AlonzoM01doc.htm
+raw: |-
+  <a name="AlonzoM01"></a><font size="+2">Alonzo Moulton Vining</font>
+     (son of <a href="Jfamilies.htm#JosephA01">Joseph Alonzo Vining and (Mary) Emma Lindley</a>)
+     b. 4 January 1891
+     m. Nellie Vance
+              d. 1979
+     d. 3 September 1935
+           bur. Aultsville, Ontario, Canada; memorial stone in Vining Cemetery, Friendly Corners, Ontario, Canada
+  
+  <font size="+1">children:</font>
+     <a href="Efamilies.htm#EarleJ01">Earle J. Vining</a>   b. 9 November 1925   -   m. 3 June 1950   Janice M. Jaques   -   d. 4 March 2000
+     <a href="Rfamilies.htm#RoyH01">Roy Howard Vining</a>   b. 9 November 1925   -   m. Nancy J. Cliff   -   d. 15 July 1996   (last residence: West Chester, Chester County, Pennsylvania)
+  
+  <a href="Asources/AlonzoM01doc.htm">documentation and notes</a>

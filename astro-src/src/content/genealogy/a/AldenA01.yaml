@@ -1,0 +1,61 @@
+id: AldenA01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AlcideJ01
+parentDesc: Alcide Joseph Vining and Ophelia Breaux
+head:
+  givenName: Alden Adam
+  birth:
+    date: 3 August 1896
+    place: Louisiana
+  death:
+    date: 31 August 1988
+    place: "Houma, Terrebonne Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Delta
+      surname: Pennison
+childrenGroups:
+  - children:
+      - name: Lilly Vining
+        birth:
+          date: age 7 y. as of 1930 census
+        marriages:
+          - date: "[&#8230;] Fabre"
+      - name: "La[&#8230;] Vining"
+        birth:
+          date: age 6 y. as of 1930 census
+          place: Louisiana
+      - name: Archie Joseph Vining
+        entryId: ArchieJ01
+        birth:
+          date: 14 January 1928
+          place: Louisiana
+        marriages:
+          - date: Audrey Margie LaCoste
+        death:
+          date: 27 April 2018
+          place: "Angie, Washington Parish, Louisiana"
+        burial:
+          place: "Morgan City Cemetery   Morgan City, St, Mary Parish, Louisiana"
+      - name: Ruth Vining
+        marriages:
+          - date: Sidney Hebert
+docsUrl: Asources/AldenA01doc.htm
+raw: |-
+  <a name="AldenA01"></a><font size="+2">Alden Adam Vining</font>
+     (son of <a href="#AlcideJ01" < a>Alcide Joseph Vining and Ophelia Breaux</a>)
+     b. 3 August 1896   Louisiana
+     m. Delta Pennison
+              b. age 26 y. as of 1930 census   Louisiana
+     d. 31 August 1988   Houma, Terrebonne Parish, Louisiana
+           bur. Morgan City Cemetery and Mausoleum   Morgan City, St. Mary Parish, Louisiana
+  
+  <font size="+1">children:</font>
+     Lilly Vining   b. age 7 y. as of 1930 census   -   m. [&#8230;] Fabre
+     La[&#8230;] Vining   b. age 6 y. as of 1930 census   Louisiana
+     <a href="#ArchieJ01">Archie Joseph Vining</a>   b. 14 January 1928   Louisiana   -   m. Audrey Margie LaCoste   -   d. 27 April 2018   Angie, Washington Parish, Louisiana   -   bur. Morgan City Cemetery   Morgan City, St, Mary Parish, Louisiana
+     Ruth Vining   m. Sidney Hebert
+  
+  <a href="Asources/AldenA01doc.htm">documentation and notes</a>

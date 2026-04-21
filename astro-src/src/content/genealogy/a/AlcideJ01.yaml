@@ -1,0 +1,83 @@
+id: AlcideJ01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: John35
+parentLetter: J
+parentDesc: "John Vining and Aurelia [&#8230;]"
+head:
+  givenName: Alcide Joseph
+  birth:
+    date: "[15 January 1872 or 7 December 1983 ?]"
+    place: "Saint Martin Parish, Louisiana"
+  death:
+    date: "[27 March 1947 or 18 June 1957 ?]"
+    place: "Morgan City, Louisiana"
+marriages:
+  - spouse:
+      givenName: Rosalie Ophelia
+      surname: Breaux
+childrenGroups:
+  - children:
+      - name: Lorine Vining
+        birth:
+          date: July 1893
+          place: Louisiana
+      - name: Rowena Marie Vining
+        birth:
+          date: ca. 1894
+          place: Louisiana
+        death:
+          date: 8 April 1971
+          place: "Morgan City, Saint Mary Parish, Louisiana"
+      - name: Alden Adam Vining
+        entryId: AldenA01
+        birth:
+          date: 3 August 1896
+          place: "Saint Martin Parish, Louisiana"
+        marriages:
+          - date: Delta Pennison
+        death:
+          date: 31 August 1988
+          place: "[Houma, Terrebonne Parish or Morgan City, Saint Mary Parish ?], Louisiana"
+        burial:
+          place: "Morgan City Cemetery and Mausoleum   Morgan City, St. Mary Parish, Louisiana"
+      - name: Alton Vining
+        birth:
+          date: "1897"
+          place: Louisiana
+      - name: Rudolph Adam Vining
+        entryId: RudolphA02
+        entryLetter: R
+        birth:
+          date: 7 January 1899
+          place: "Napoleonville, Assumption Parish, Louisiana"
+        death:
+          date: 7 August 1990
+          place: Louisiana
+      - name: Pearl Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Louisiana
+docsUrl: Asources/AlcideJ01doc.htm
+raw: |-
+  <a name="AlcideJ01"></a><font size="+2">Alcide Joseph Vining</font>
+     (son of <a href="Jfamilies.htm#John35">John Vining and Aurelia [&#8230;]</a>)
+     b. [15 January 1872 or 7 December 1983 ?]   Saint Martin Parish, Louisiana
+     m. Rosalie Ophelia Breaux
+              (dau. of Louis Emile Breaux and Clementine Eulalie Barbier)
+              b. 16 December 1870   Canal, Assumption Parish, Louisiana
+              d. 8 July 1934
+                    bur. Saint Andrews Cemetery   Amelia, St. Mary Parish, Louisiana
+     d. [27 March 1947 or 18 June 1957 ?]   Morgan City, Louisiana
+           bur. Saint Andrews Cemetery   Amelia, St. Mary Parish, Louisiana
+  
+  <font size="+1">children:</font>
+     Lorine Vining   b. July 1893   Louisiana
+     Rowena Marie Vining   b. ca. 1894   Louisiana   -   d. 8 April 1971   Morgan City, Saint Mary Parish, Louisiana
+     <a href="#AldenA01">Alden Adam Vining</a>   b. 3 August 1896   Saint Martin Parish, Louisiana   -   m. Delta Pennison   -   d. 31 August 1988   [Houma, Terrebonne Parish or Morgan City, Saint Mary Parish ?], Louisiana   -   bur. Morgan City Cemetery and Mausoleum   Morgan City, St. Mary Parish, Louisiana
+     Alton Vining   b. 1897   Louisiana
+     <a href="Rfamilies.htm#RudolphA02">Rudolph Adam Vining</a>   b. 7 January 1899   Napoleonville, Assumption Parish, Louisiana   -   d. 7 August 1990   Louisiana
+     Pearl Vining   b. age 6 y. as of 1910 census   Louisiana
+  
+  <a href="Asources/AlcideJ01doc.htm">documentation and notes</a>

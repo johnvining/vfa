@@ -1,0 +1,30 @@
+id: ArthurJ01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: WilliamS01
+parentLetter: W
+parentDesc: William Shadrack Vining and Julia Thurmon
+head:
+  givenName: Arthur James
+  birth:
+    date: 10 January 1889
+    place: "Atlanta, Fulton County, Georgia"
+  death:
+    date: 12 October 1958
+    place: "Atlanta, Fulton County, Georgia"
+marriages:
+  - spouse:
+      givenName: Lillie
+      surname: "[...]"
+raw: |-
+  <a name="ArthurJ01"></a><font size="+2">Arthur James Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamS01">William Shadrack Vining and Julia Thurmon</a>)
+     b. 10 January 1889   Atlanta, Fulton County, Georgia
+     m. Lillie [...]
+              b. 1882   Georgia
+              d. 1958   Georgia
+     d. 12 October 1958   Atlanta, Fulton County, Georgia
+  
+  <font size="+1">child:</font>
+     Arthur Vining   b. 1916   Georgia   -   d. 1970   Georgia

@@ -1,0 +1,46 @@
+id: AlfredJ01
+letter: A
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JacksonL01
+parentLetter: J
+parentDesc: "Jackson Lafayette Vining and Sarah [...]"
+head:
+  givenName: Alfred Jackson
+  birth:
+    date: 2 February 1863
+    place: Georgia
+  death:
+    date: 28 November 1899
+    place: "Hatcher, Quitman County, Georgia"
+marriages:
+  - spouse:
+      givenName: Emma Delilah
+      surname: Jernigan
+childrenGroups:
+  - children:
+      - name: Myra L. Vining
+        birth:
+          date: April 1890
+          place: Georgia
+      - name: "Zi[&#8230;]le Vining"
+        birth:
+          date: October 1893
+          place: Georgia
+      - name: Virginia Vining   b April 1897   Alabama
+docsUrl: Asources/AlfredJ01doc.htm
+raw: |-
+  <a name="AlfredJ01"></a><font size="+2">Alfred Jackson Vining</font>
+     (son of <a href="Jfamilies.htm#JacksonL01">Jackson Lafayette Vining and Sarah [...])</a> 
+     b. 2 February 1863   Georgia
+     m. Emma Delilah Jernigan
+              b. December 1871   Georgia
+     d. 28 November 1899   Hatcher, Quitman County, Georgia
+           bur. Rose Hill Cemetery   Macon, Georgia
+  
+  <font size="+1">children:</font>
+     Myra L. Vining   b. April 1890   Georgia
+     Zi[&#8230;]le Vining   b. October 1893   Georgia
+     Virginia Vining   b April 1897   Alabama
+  
+  <a href="Asources/AlfredJ01doc.htm">documentation and notes</a>
