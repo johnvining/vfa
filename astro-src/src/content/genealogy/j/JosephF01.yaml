@@ -1,4 +1,5 @@
 id: JosephF01
+sequence: 310
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Leesie D.
       surname: Beard
+      birth:
+        date: August 1860
+        place: Georgia
 childrenGroups:
   - children:
       - name: Frank Whitten Vining

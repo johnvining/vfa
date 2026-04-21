@@ -1,4 +1,5 @@
 id: James08
+sequence: 20
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,16 @@ marriages:
   - spouse:
       givenName: Alice J.
       surname: "[&#8230;]"
+      birth:
+        date: May 1846
+        place: Maine
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: George H. Vining
+        birth:
+          date: January 1870
+          place: Maine
 docsUrl: Jsources/James08doc.htm
 raw: |-
   <a name="James08"></a><font size=+2>James Vining</font>

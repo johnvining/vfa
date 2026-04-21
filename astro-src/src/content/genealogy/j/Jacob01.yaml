@@ -1,4 +1,5 @@
 id: Jacob01
+sequence: 9
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,12 @@ marriages:
   - spouse:
       givenName: Mary J.
       surname: Ross
+      birth:
+        date: 11 December 1845
+        place: Missouri
+      death:
+        date: 17 February 1923
+        place: "Atlanta, Logan County, Illinois"
 childrenGroups:
   - children:
       - name: William Vining

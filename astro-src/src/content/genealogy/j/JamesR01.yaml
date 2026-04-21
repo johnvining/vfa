@@ -1,4 +1,5 @@
 id: JamesR01
+sequence: 92
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,8 +13,27 @@ head:
     place: Georgia
   death:
     date: 22 December 1950
+  burial:
+    place: "Covington City Cemetery   Covington, Georgia"
 marriages:
   - date: 23 y. as of 1930 census
+    spouse:
+      givenName: "Pinkie Lee"
+      surname: "[&#8230;]"
+      birth:
+        date: 28 July 1891
+        place: Georgia
+      death:
+        date: 7 September 1970
+      burial:
+        place: "Covington City Cemetery   Covington, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: William Marvin Vining
+        birth:
+          date: 6 y. as of 1920 census
+          place: Georgia
 docsUrl: Jsources/JamesR01doc.htm
 raw: |-
   <a name="JamesR01"></a><font size=+2>James Robert Vining</font>

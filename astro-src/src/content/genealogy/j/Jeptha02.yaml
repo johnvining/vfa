@@ -1,4 +1,5 @@
 id: Jeptha02
+sequence: 130
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,13 @@ marriages:
   - spouse:
       givenName: Elizabeth Ann
       surname: Valentine
+      parents: "[dau. of Thomas Valentine and Elizabeth [...]?]"
+      birth:
+        date: "1803"
+        place: South Carolina
+      death:
+        date: after 1870
+        place: "East Baton Rouge Parish, Louisiana"
 childrenGroups:
   - children:
       - name: "Mary Frances &#8220;Polly&#8221; Vining"

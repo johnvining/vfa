@@ -1,4 +1,5 @@
 id: JamesJ01
+sequence: 66
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,11 @@ marriages:
   - spouse:
       givenName: Dorothy F.
       surname: "[...]"
+      birth:
+        date: 13 July 1923
+        place: "Chicago, Illinois"
+      death:
+        date: 9 December 1992
 childrenGroups:
   - children:
       - name: Carol Vining

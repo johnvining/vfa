@@ -1,4 +1,5 @@
 id: JosephO01
+sequence: 318
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,20 @@ head:
   death:
     date: 10 February 1984
     place: "Apopka, Florida"
+  burial:
+    place: "Greenwood Cemetery   Orlando, Florida"
 marriages:
   - spouse:
       givenName: Ida Sue
       surname: Britt
+      birth:
+        date: 31 December 1903
+        place: Virginia
+      death:
+        date: 14 November 1973
+        place: "Houston, Texas"
+      burial:
+        place: "Greenwood Cemetery   Orlando, Florida"
 childrenGroups:
   - children:
       - name: Betty Jo Vining

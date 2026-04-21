@@ -1,4 +1,5 @@
 id: JeffersonL01
+sequence: 124
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Pearson, Georgia"
   death:
     date: 23 November 2017
+  burial:
+    place: "Jones Cemetery   Callahan, Florida"
 marriages:
   - spouse:
       givenName: Sarah Louise

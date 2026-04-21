@@ -1,4 +1,5 @@
 id: JohnE01
+sequence: 219
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,11 +18,26 @@ marriages:
     spouse:
       givenName: Darla Sue
       surname: Bruce
+    note: divorced 19 December 1997
   - number: 2
     date: 26 November 2003
     spouse:
       givenName: Ninfa R.
       surname: Munarriz
+childrenGroups:
+  - headingText: "child by Darla Sue Bruce"
+    children:
+      - name: Benjamin John Vining
+        entryId: BenjaminJ01
+        entryLetter: B
+        birth:
+          date: 22 December 1982
+          place: "Fairfield, Illinois"
+        marriages:
+          - date: 11 October 2014
+            spouse: Erica Jean Whitledge
+        death:
+          date: 22 December 2020
 raw: |-
   <a name="JohnE01"></a><font size=+2>John Edwin Vining</font>
      (son of <a href="Mfamilies.htm#MiltonW01">Milton Wayne Vining and Ruth Edna Conway</a>)

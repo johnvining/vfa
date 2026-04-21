@@ -1,4 +1,5 @@
 id: Jeremiah01
+sequence: 132
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,9 @@ marriages:
   - spouse:
       givenName: Susan Neal
       surname: Buffum
+      birth:
+        date: age 37 y. as of 1850 census
+        place: Maine
 childrenGroups:
   - children:
       - name: Maria Augusta Vining

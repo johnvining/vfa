@@ -1,4 +1,5 @@
 id: JamesT03
+sequence: 97
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -20,12 +21,19 @@ marriages:
     spouse:
       givenName: Mary Webb
       surname: Wellington
+      birth:
+        date: 21 December 1808
+        place: "Yeovil, Somerset, England"
+      death:
+        date: 27 August 1842
+        place: "Yeovil, Somerset, England"
   - number: 2
     date: 30 August 1843
     place: "Yeovil, Somerset, England"
     spouse:
       givenName: Emma
       surname: Mayo
+      parents: (dau. of George Mayo and Jane Randall)
       birth:
         date: "1820"
         place: "Yeovil, Somerset, England"

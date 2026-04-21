@@ -1,4 +1,5 @@
 id: JohnH02
+sequence: 233
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 24 July 2017
     place: "North Wilkesboro, North Carolina"
+  burial:
+    description: no burial - body donated for medical education and research
 marriages:
   - date: 2 November 1951
     spouse:
       givenName: Janie Rachel
       surname: Byrd
+      parents: (dau. of George Huey Byrd and Sarah Lavada Ingram)
       birth:
         date: 19 April 1934
         place: Mississippi
@@ -26,6 +30,7 @@ marriages:
         place: "Westminster, Colorada"
       burial:
         place: "Horan & McConaty Crematory"
+    note: divorced
 childrenGroups:
   - children:
       - name: Jeannie Patricia Vining

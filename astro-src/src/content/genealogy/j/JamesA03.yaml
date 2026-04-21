@@ -1,4 +1,5 @@
 id: JamesA03
+sequence: 29
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -10,10 +11,18 @@ head:
     date: 6 August 1868
   death:
     date: 7 August 1951
+  burial:
+    place: "Forest View Cemetery   Forest Grove, Oregon"
 marriages:
   - spouse:
       givenName: Mary Ella
       surname: Linebaugh
+      birth:
+        date: 9 December 1870
+      death:
+        date: 22 June 1954
+      burial:
+        place: "Forest View Cemetery   Forest Grove, Oregon"
 childrenGroups:
   - children:
       - name: Hazel Vining

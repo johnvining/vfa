@@ -1,4 +1,5 @@
 id: JohnW01
+sequence: 279
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,15 @@ marriages:
     spouse:
       givenName: Yvonne
       surname: Hayden
+childrenGroups:
+  - headingText: "adopted children"
+    children:
+      - name: Linda Ann Vining
+        birth:
+          date: 19 July 1960
+      - name: Ronald Edwin Vining
+        birth:
+          date: 31 August 1963
 raw: |-
   <a name="JohnW01"></a><font size=+2>John Wilson Vining</font>
      (son of <a href="Efamilies.htm#EdwinJ01">Edwin Johnson Vining and Miriam Estelle Starns</a>)

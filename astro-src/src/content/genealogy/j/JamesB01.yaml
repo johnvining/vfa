@@ -1,4 +1,5 @@
 id: JamesB01
+sequence: 37
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,35 @@ head:
   death:
     date: June 1862
     place: "Stauton, Virginia"
+  burial:
+    place: "University of Virginia Confederate Cemetery   Charlottesville, Virginia"
 marriages:
   - spouse:
       givenName: Nancy Katherine
       surname: Bahm
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John Uriah Vining
+        entryId: JohnU01
+        birth:
+          date: 16 August 1861
+          place: Louisiana
+        marriages:
+          - number: 1
+            date: 28 April 1887
+            place: Louisiana
+            spouse: Fannie F. Spring (d. 1893)
+          - number: 2
+            date: 17 November 1895
+            spouse: "Amelia Estelle &#8220;Abbie&#8221; Dillan (d. 1 March 1911)"
+          - number: 3
+            date: 18 December 1911
+            spouse: Annie Elizabeth Morgan
+        death:
+          date: 14 May 1928
+        burial:
+          place: "Amite, Louisiana"
 docsUrl: Jsources/JamesB01doc.htm
 raw: |-
   <a name="JamesB01"></a><font size=+2>James Blanchard Vining</font>
@@ -24,8 +50,8 @@ raw: |-
      m. Nancy Katherine Bahm
      d. June 1862   Stauton, Virginia
            bur. University of Virginia Confederate Cemetery   Charlottesville, Virginia
-  
+
   <font size=+1>child:</font>
      <a href="#JohnU01">John Uriah Vining</a>   b. 16 August 1861   Louisiana   -   m. (1) 28 April 1887   Louisiana   Fannie F. Spring (d. 1893);   (2) 17 November 1895   Amelia Estelle &#8220;Abbie&#8221; Dillan (d. 1 March 1911);   (3) 18 December 1911   Annie Elizabeth Morgan   -   d. 14 May 1928   -   bur. Amite, Louisiana
-  
+
   <a href="Jsources/JamesB01doc.htm">documentation and notes</a>

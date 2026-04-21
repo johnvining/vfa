@@ -1,4 +1,5 @@
 id: JoshuaC01
+sequence: 323
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,9 @@ marriages:
   - spouse:
       givenName: Ella E.
       surname: "[&#8230;]"
+      birth:
+        date: February 1856
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: Frank C. Vining

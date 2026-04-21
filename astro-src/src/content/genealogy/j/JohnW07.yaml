@@ -1,4 +1,5 @@
 id: JohnW07
+sequence: 276
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,14 @@ marriages:
   - number: 1
     date: 14 December 1991
     spouse:
-      givenName: divorced 25 September
-      surname: "2014"
+      givenName: Jennifer Monique
+      surname: Eubanks
+    note: divorced 25 September 2014
   - number: 2
     date: 18 May 2017
+    spouse:
+      givenName: Ratna
+      surname: Surjadi
 childrenGroups:
   - spouseRef: Jennifer Monique Eubanks
     children:

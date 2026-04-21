@@ -1,4 +1,5 @@
 id: James04
+sequence: 19
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 26 August 1922
     place: Georgia
+  burial:
+    place: "Mount Zion Baptist Church Cemetery   Axson, Georgia"
 marriages:
   - date: 14 May 1866
     place: Georgia
     spouse:
       givenName: Sarah
       surname: Brooker
+      parents: (dau. of Charles Brooker and Mary Sheffield)
       birth:
         date: 1 March 1845
         place: Georgia

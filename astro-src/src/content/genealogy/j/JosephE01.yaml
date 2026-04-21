@@ -1,4 +1,5 @@
 id: JosephE01
+sequence: 307
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,16 @@ head:
     place: "Ellicottville, New York"
 marriages:
   - date: 14 March 1813
+    spouse:
+      givenName: Sally
+      surname: Ashley
+      parents: "(dau. of Thomas Ashley and Sally [...])"
+      birth:
+        date: 22 October 1790
+        place: "Bennington, Vermont"
+      death:
+        date: 1 August 1854
+        place: "Rochester, New York"
 childrenGroups:
   - children:
       - name: Joseph Ashley Vining

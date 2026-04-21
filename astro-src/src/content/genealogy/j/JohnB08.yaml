@@ -1,4 +1,5 @@
 id: JohnB08
+sequence: 205
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,15 @@ marriages:
   - spouse:
       givenName: Sarah M.
       surname: Bradford
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Harriet C. Vining
+        birth:
+          date: November 1842
+          place: Deleware
+        death:
+          date: 11 June 1914
 raw: |-
   <a name="JohnB08"></a><font size=+2>John Beckley Vining</font>
      (son of <a href="Hfamilies.htm#Henry07">Henry Vining and Rebecca Lyle</a>)

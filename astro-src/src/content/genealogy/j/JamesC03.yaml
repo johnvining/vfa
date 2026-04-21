@@ -1,4 +1,5 @@
 id: JamesC03
+sequence: 42
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 20 May 1931
     place: "Whitfield County, Georgia"
+  burial:
+    place: "Dawnville Cemetery   Dawnville, Georgia"
 marriages:
   - date: 27 y. as of 1900 census
     spouse:

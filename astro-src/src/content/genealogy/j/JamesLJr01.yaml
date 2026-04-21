@@ -1,4 +1,5 @@
 id: JamesLJr01
+sequence: 71
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,12 @@ marriages:
     spouse:
       givenName: Gloria A.
       surname: Bragg
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Nancy Vining
+        marriages:
+          - date: "[...] Nelson"
 raw: |-
   <a name="JamesLJr01"></a><font size=+2>James LaForest Vining Jr.</font>
      (son of <a href="#JamesL02">James LaForest Vining and Harriet Fern Gray</a>)

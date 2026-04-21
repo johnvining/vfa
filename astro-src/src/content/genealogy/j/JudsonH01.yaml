@@ -1,4 +1,5 @@
 id: JudsonH01
+sequence: 332
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
   death:
     date: 16 July 1911
     place: "Lake Butler, Union County, Florida"
+  burial:
+    place: "Swift Creek Cemetery   Lake Butler, Florida"
 marriages:
   - spouse:
       givenName: Charlotte Elizabeth
       surname: Alcox
+      birth:
+        date: December 1845
+        place: Georgia
+      death:
+        date: 10 September 1932
+        place: "Union County, Florida"
+      burial:
+        place: "Swift Creek Cemetery   Lake Butler, Florida"
 childrenGroups:
   - children:
       - name: Susan Ella Vining
@@ -27,6 +38,7 @@ childrenGroups:
             spouse: Daniel Judson Shaw
         death:
           date: 21 March 1942
+          place: "Duval County, Florida"
       - name: John Colson Vining
         birth:
           date: July 1870

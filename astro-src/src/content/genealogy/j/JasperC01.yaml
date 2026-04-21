@@ -1,4 +1,5 @@
 id: JasperC01
+sequence: 116
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,30 @@ head:
     place: Tennessee
   death:
     date: 9 August 1997
+  burial:
+    place: "Maplewood Cemetery   Pulaski, Tennessee"
 marriages:
   - spouse:
       givenName: Jessie N.
       surname: Burnett
+      birth:
+        date: 25 February 1915
+        place: Alabama
+      death:
+        date: 6 March 1996
+      burial:
+        place: "Maplewood Cemetery   Pulaski, Tennessee"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Fred Stone Vining
+        birth:
+          date: age 5 y. as of 1940 census
+          place: Tennessee
+        marriages:
+          - date: 18 December 1980
+            place: "Robertson, Tennessee"
+            spouse: Judy Joyce Beddingfield
 docsUrl: Jsources/JasperC01doc.htm
 raw: |-
   <a name="JasperC01"></a><font size=+2>Jasper C. Vining</font>

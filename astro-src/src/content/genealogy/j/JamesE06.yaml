@@ -1,4 +1,5 @@
 id: JamesE06
+sequence: 52
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,14 @@ marriages:
   - spouse:
       givenName: Sue Doris
       surname: Partlow
+      parents: (dau. of Jack Preston Partlow and Clarice Parlee Harris)
+      birth:
+        date: 26 May 1936
+      death:
+        date: 28 October 2008
+        place: "Trussville, Jefferson County, Alabama"
+      burial:
+        place: "Trussville Cemetery   Trussville, Jefferson County, Alabama"
 childrenGroups:
   - children:
       - name: Trena Vining

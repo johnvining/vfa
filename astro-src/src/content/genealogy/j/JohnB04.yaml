@@ -1,4 +1,5 @@
 id: JohnB04
+sequence: 202
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,24 @@ marriages:
       birth:
         date: ca. 1838
         place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John A. Bradley Vining
+        entryId: JohnAB01
+        entryLetter: J
+        birth:
+          date: 16 April 1871
+          place: Ohio
+        marriages:
+          - date: 14 April 1897
+            place: Indiana
+            spouse: Sarah Jane Brown
+        death:
+          date: 26 December 1956
+          place: Indiana
+        burial:
+          place: "Beech Grove Cemetery   Muncie, Indiana"
 docsUrl: Jsources/JohnB04doc.htm
 raw: |-
   <a name="JohnB04"></a><font size=+2>John B. Vining</font>

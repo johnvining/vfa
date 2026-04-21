@@ -1,6 +1,11 @@
 id: JohnS02
+sequence: 265
 letter: J
 lastUpdated: 10 March 2023
+relationship: adopted son
+parentId: GaleM01
+parentLetter: G
+parentDesc: Gale Merle Vining and Gladys Ella Beckman
 head:
   givenName: John Sanford
   birth:
@@ -14,6 +19,7 @@ marriages:
       surname: Smith
       birth:
         date: 2 August 1946
+    note: divorced 1976   California
   - number: 2
     date: 14 January 1977
     place: "Carmichael, California"

@@ -1,4 +1,5 @@
 id: JamesW02
+sequence: 106
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,15 @@ head:
     place: Georgia
   death:
     date: 25 July 1887
+  burial:
+    place: "Fellowship Baptist Cemetery   Upson County, Georgia"
 marriages:
   - spouse:
       givenName: Mary Antoinette
       surname: Starling
+      birth:
+        date: age 22 y. as of 1880 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Lizzie Vining

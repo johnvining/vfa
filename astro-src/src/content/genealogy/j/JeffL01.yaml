@@ -1,4 +1,5 @@
 id: JeffL01
+sequence: 120
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,19 @@ head:
     place: Texas
   death:
     date: "1945"
+  burial:
+    place: "Austin Memorial Park Cemetery   Austin, Texas"
 marriages:
   - spouse:
       givenName: Bettie
       surname: Rees
+      birth:
+        date: Mary 1877
+        place: Texas
+      death:
+        date: "1941"
+      burial:
+        place: "Austin Memorial Park Cemetery   Austin, Texas"
 childrenGroups:
   - children:
       - name: child

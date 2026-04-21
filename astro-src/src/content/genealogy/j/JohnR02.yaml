@@ -1,4 +1,5 @@
 id: JohnR02
+sequence: 259
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -19,6 +20,13 @@ marriages:
       birth:
         date: age 34 y. as of 1860 census
         place: New Hampshire
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John Abner Vining
+        birth:
+          date: 23 May 1853
+          place: Massachusetts
 docsUrl: Jsources/JohnR02doc.htm
 raw: |-
   <a name="JohnR02"></a><font size=+2>John Randall Vining</font>

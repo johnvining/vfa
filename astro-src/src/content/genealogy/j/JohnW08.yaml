@@ -1,4 +1,5 @@
 id: JohnW08
+sequence: 277
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,13 @@ marriages:
   - spouse:
       givenName: Annie Lou
       surname: Ball
+      parents: (dau. of John Henry Austin Ball and Nancy Elizabeth Turner)
+      birth:
+        date: 8 September 1908
+        place: "Easonville, St. Clair County, Alabama"
+      death:
+        date: 24 June 1994
+        place: "Aberdeen Township, Monmouth County, New Jersey"
 childrenGroups:
   - children:
       - name: Johnnie Lou Vining

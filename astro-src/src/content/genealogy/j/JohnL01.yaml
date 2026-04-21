@@ -1,4 +1,5 @@
 id: JohnL01
+sequence: 245
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,15 @@ head:
     place: Connecticut
   death:
     date: "11 November [...]"
+  burial:
+    place: "Upper Cincy Cemetery   Cincinnatus, New York"
 marriages:
   - spouse:
       givenName: "Elizabeth &#8220;Betsey&#8221;"
       surname: "[...]"
+      birth:
+        date: age 48 y. as of 1850 census
+        place: New York
 childrenGroups:
   - children:
       - name: Mary J. Vining

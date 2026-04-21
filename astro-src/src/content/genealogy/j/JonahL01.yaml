@@ -1,4 +1,5 @@
 id: JonahL01
+sequence: 284
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 22 June 1961
     place: "Green Pond, Bibb County, Alabama"
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Alabama"
 marriages:
   - date: 6 y. as of 1910 census
     spouse:
@@ -45,6 +48,8 @@ childrenGroups:
           - date: "Hazel M. [&#8230;]"
         death:
           date: 13 March 1978
+        burial:
+          place: "Green Pond Presbyterian Churuch Cemetery   Green Pond, Alabama"
       - name: Charles Vining
         birth:
           date: "1911"
@@ -65,7 +70,7 @@ childrenGroups:
         death:
           date: 25 November 1958
         burial:
-          place: Green Pond Presbyterian Church Cemetery
+          place: "Green Pond Presbyterian Church Cemetery"
 docsUrl: Jsources/JonahL01doc.htm
 raw: |-
   <a name="JonahL01"></a><font size=+2>Jonah Lafayette Vining</font>

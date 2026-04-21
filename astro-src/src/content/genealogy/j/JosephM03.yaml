@@ -1,4 +1,5 @@
 id: JosephM03
+sequence: 316
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 14 February 1953
     place: "Orlando, Orange County, Florida"
+  burial:
+    place: "Lakeview Cemetery   Sanford, Seminole County, Florida"
 marriages:
   - date: 18 April 1932
     place: "Fernandina, Nassau County, Florida"
     spouse:
       givenName: Hazel Leota
       surname: Greer
+      parents: "(dau. of Benjamin Harrison Greer and Isable Leota Brooks)"
       birth:
         date: 5 October 1913
         place: "Geneva, Seminole County, Florida"

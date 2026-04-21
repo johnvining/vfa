@@ -1,4 +1,5 @@
 id: JosephA06
+sequence: 301
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,9 @@ marriages:
   - spouse:
       givenName: Delma
       surname: "[&#8230;]"
+      birth:
+        date: age 34 y. as of 1930 census
+        place: Florida
 childrenGroups:
   - children:
       - name: Edna Vining

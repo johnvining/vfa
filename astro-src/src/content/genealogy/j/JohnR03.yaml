@@ -1,4 +1,5 @@
 id: JohnR03
+sequence: 260
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,16 +13,21 @@ head:
   death:
     date: 1 February 1993
     place: "(last residence: Aberdeen, South Dakota)"
+  burial:
+    place: "Riverside Memorial Park   Aberdeen, South Dakota"
 marriages:
   - date: 13 January 1946
     place: "Aberdeen, Brown County, South Dakota"
     spouse:
       givenName: Ella Mae
       surname: Belseth
+      parents: (dau. of Casper Belseth and Olive Ricker)
       birth:
-        date: "12 May 1922.  Edmunds County, South Dakota"
+        date: 12 May 1922
+        place: "Edmunds County, South Dakota"
       death:
-        date: "11 October 2019.  Watertown, South Dakota"
+        date: 11 October 2019
+        place: "Watertown, South Dakota"
 childrenGroups:
   - children:
       - name: Virginia Kay Vining

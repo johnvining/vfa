@@ -1,4 +1,5 @@
 id: JosephC01
+sequence: 306
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,12 @@ marriages:
   - spouse:
       givenName: Helen Elizabeth Reynolds
       surname: Frankis
+      birth:
+        date: January 1838
+        place: "Bristol, Gloucestershire, England"
+      death:
+        date: July 1910
+        place: "Bristol, Gloucestershire, England"
 childrenGroups:
   - children:
       - name: Henry Percival Vining

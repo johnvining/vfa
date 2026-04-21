@@ -1,4 +1,5 @@
 id: Judson01
+sequence: 330
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,21 @@ head:
     place: "Abington, Plymouth County, Massachusetts"
   death:
     date: 4 November 1867
+  burial:
+    place: "Hanover Center Cemetery   Hanover, Massachusetts"
 marriages:
   - spouse:
       givenName: Sarah W.
       surname: Briggs
+      parents: "(dau. of Ezra Briggs and Lydia Southward)"
+      birth:
+        date: 3 September 1803
+        place: "Hanover, Plymouth County, Massachusetts"
+      death:
+        date: 28 December 1878
+        place: "Hanover, Plymouth County, Massachusetts"
+      burial:
+        place: "Hanover Center Cemetery   Hanover, Massachusetts"
 childrenGroups:
   - children:
       - name: William Judson Vining

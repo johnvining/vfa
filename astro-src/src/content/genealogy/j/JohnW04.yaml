@@ -1,4 +1,5 @@
 id: JohnW04
+sequence: 272
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,10 +10,21 @@ head:
     date: 1 May 1942
   death:
     date: 1 January 1986
+  burial:
+    place: "Oakland Cemetery   Waycross, Georgia"
 marriages:
   - spouse:
       givenName: Sylvia Ann
       surname: Minix
+      parents: (dau. of George Minix and Pauline Ball)
+      birth:
+        date: 3 September 1944
+        place: "Ben Hill County, Georgia"
+      death:
+        date: 12 January 2015
+        place: "Waycross, Georgia"
+      burial:
+        place: "Oakland Cemetery   Waycross, Georgia"
 childrenGroups:
   - children:
       - name: John Wayne Vining Jr.

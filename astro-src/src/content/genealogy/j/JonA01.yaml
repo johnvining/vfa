@@ -1,4 +1,5 @@
 id: JonA01
+sequence: 280
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,12 @@ marriages:
   - spouse:
       givenName: Cathy
       surname: Hollis
+childrenGroups:
+  - headingText: "stepchild"
+    children:
+      - name: "Nathan (Johnson) Vining"
+        birth:
+          date: 12 September 1975
 raw: |-
   <a name="JonA01"></a><font size=+2>Jon Andrew Vining</font>
      (son of <a href="Rfamilies.htm#RobertA01">Robert Andrew Vining and [Wynetta or Winnetta?] Tammings</a>)

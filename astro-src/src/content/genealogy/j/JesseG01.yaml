@@ -1,4 +1,5 @@
 id: JesseG01
+sequence: 140
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 7 November 1974
     place: "Dixfield, Maine"
+  burial:
+    place: "Lakeview Cemetery   Wilton, Maine"
 marriages:
   - date: 20 April 1940
     spouse:
       givenName: Elizabeth Iline
       surname: Hiscock
+      parents: "(dau. of Edward Hiscock and Addie K[...?])"
       birth:
         date: 24 October 1922
         place: "Wilton, Maine"

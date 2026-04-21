@@ -1,4 +1,5 @@
 id: JacksonL02
+sequence: 7
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,36 @@ head:
   death:
     date: 19 March 1963
     place: "Hartford, Connecticut"
+  burial:
+    place: "Fairview Cemetery   West Hartford, Connecticut"
 marriages:
   - spouse:
       givenName: Catherine Elizabeth
       surname: Harrison
+      birth:
+        date: 12 July 1912
+        place: "Fort Valley, Georgia"
+      death:
+        date: 30 June 2001
+        place: "Hartford, Connecticut"
+      burial:
+        place: "Fairview Cemetery   West Hartford, Connecticut"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Jack HarrisonVining
+        entryId: JackH01
+        birth:
+          date: 29 February 1932
+          place: "New Haven, Connecticut"
+        marriages:
+          - date: 12 July 1958
+            place: "Monticello, Florida"
+            spouse: Madge Burt Alexander
+        death:
+          date: 2 February 2019
+        burial:
+          place: "West Street Cemetery   Columbia, Connecticut"
 docsUrl: Jsources/JacksonL02doc.htm
 raw: |-
   <a name="JacksonL02"></a><font size=+2>Jackson L. Vining</font>
@@ -28,8 +55,8 @@ raw: |-
                     bur. Fairview Cemetery   West Hartford, Connecticut
      d. 19 March 1963   Hartford, Connecticut
            bur. Fairview Cemetery   West Hartford, Connecticut
-  
+
   <font size=+1>child:</font>
      <a href="#JackH01">Jack HarrisonVining</a>   b. 29 February 1932   New Haven, Connecticut   -   m. 12 July 1958   Monticello, Florida   Madge Burt Alexander   -   d. 2 February 2019   -   bur. West Street Cemetery   Columbia, Connecticut
-  
+
   <a href="Jsources/JacksonL02doc.htm">documentation and notes</a>

@@ -1,4 +1,5 @@
 id: JamesHJr01
+sequence: 65
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,18 @@ head:
     place: Georgia
   death:
     date: 4 September 2008
+  burial:
+    place: "Florida National Cemetery   Bushnell, Florida"
 marriages:
   - spouse:
       givenName: Jean
       surname: "[&#8230;]"
+      birth:
+        date: 26 January 1931
+      death:
+        date: 13 November 2014
+      burial:
+        place: "Florida National Cemetery   Bushnell, Florida"
 childrenGroups:
   - children:
       - name: James Hoyt Vining III

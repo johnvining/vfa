@@ -1,4 +1,5 @@
 id: John29
+sequence: 182
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,25 @@ marriages:
   - spouse:
       givenName: Ann
       surname: "[...]"
+      birth:
+        date: age 30 y. as of 1870 census
+        place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John Elmer Vining
+        entryId: JohnE02
+        birth:
+          date: 4 November 1863
+          place: Indiana
+        marriages:
+          - date: 18 y. as of 1900 census
+            spouse: Florence M. Payne
+        death:
+          date: 18 August 1942
+          place: "Fort Wayne, Indiana"
+        burial:
+          place: "Greenlawn Memorial Park   Fort Wayne, Indiana"
 docsUrl: Jsources/John29doc.htm
 raw: |-
   <a name="John29"></a><font size=+2>John Vining</font>

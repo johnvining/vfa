@@ -1,4 +1,5 @@
 id: JohnQA01
+sequence: 257
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,16 @@ marriages:
   - spouse:
       givenName: Julia
       surname: "[...]"
+      birth:
+        date: age 29 y. as of 1870 census
+        place: Maine
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Bernice Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Maine
 docsUrl: Jsources/JohnQA01doc.htm
 raw: |-
   <a name="JohnQA01"></a><font size=+2>John Q. A. Vining</font>

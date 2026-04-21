@@ -1,4 +1,5 @@
 id: JohnH03
+sequence: 231
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,21 @@ head:
   death:
     date: 26 January 1942
     place: "Athens, Alabama"
+  burial:
+    place: "Reunion Cemetery   Thach, Alabama"
 marriages:
   - spouse:
       givenName: Virgie Lorene
       surname: Holt
+      parents: (dau. of James David Holt and Maggie L. Smith)
+      birth:
+        date: 24 January 1884
+        place: "Athens, Alabama"
+      death:
+        date: 10 November 1960
+        place: "Athens, Alabama"
+      burial:
+        place: "Reunion Cemetery   Thach, Alabama"
 childrenGroups:
   - children:
       - name: Cephas Andrew Vining
@@ -101,7 +113,7 @@ childrenGroups:
         marriages:
           - date: Leonard Hasting
         death:
-          date: Kentucky
+          place: Kentucky
         burial:
           place: Kentucky
       - name: Evie Vining

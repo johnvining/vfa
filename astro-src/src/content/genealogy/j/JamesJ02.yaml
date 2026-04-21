@@ -1,4 +1,5 @@
 id: JamesJ02
+sequence: 68
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Edith Alfeld
       surname: Johnson
+      birth:
+        date: age 26 y. as of 1940
+        place: Missouri
 childrenGroups:
   - children:
       - name: James Rodford Vining
@@ -40,7 +44,8 @@ childrenGroups:
           place: "Kansas City, Missouri"
         marriages:
           - date: 22 August 1953
-            spouse: "Denver, Colorado   Laura M. Pressley"
+            place: "Denver, Colorado"
+            spouse: Laura M. Pressley
         death:
           date: 30 August 2020
           place: "Kansas City, Missouri"

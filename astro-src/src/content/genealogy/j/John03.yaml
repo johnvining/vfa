@@ -1,4 +1,5 @@
 id: John03
+sequence: 159
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,7 @@ marriages:
     spouse:
       givenName: Elizabeth
       surname: Richards
+      parents: (dau. of James Richards and Ruth Bicknell)
       birth:
         date: "Weymouth, Norfolk County, Massachusetts"
       death:

@@ -1,4 +1,5 @@
 id: JamesN01
+sequence: 84
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
   death:
     date: July 1986
     place: "(last residence: Celina, Ohio)"
+  burial:
+    place: "Willshire Cemetery   Willshire, Ohio"
 marriages:
   - spouse:
       givenName: Mildred Marcella
       surname: Carver
+      birth:
+        date: "1913"
+      death:
+        date: "2002"
+      burial:
+        place: "Willshire Cemetery   Willshire, Ohio"
 childrenGroups:
   - children:
       - name: Brenda Sue Vining

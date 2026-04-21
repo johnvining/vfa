@@ -1,4 +1,5 @@
 id: JesseH01
+sequence: 141
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,9 @@ marriages:
     date: "Tobitha Goodbread?"
   - number: 2
     date: 19 August 1890
+    spouse:
+      givenName: Georgia Loretta
+      surname: Rimer
 childrenGroups:
   - children:
       - name: Nellie Vining

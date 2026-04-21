@@ -1,4 +1,5 @@
 id: JohnS06
+sequence: 266
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,10 +10,20 @@ head:
     date: "1834"
   death:
     date: 9 August 1888
+  burial:
+    place: "Loyd Cemetery   Calhoun County, Mississippi"
 marriages:
   - spouse:
       givenName: Mary Jane
       surname: Beard
+      birth:
+        date: "1845"
+        place: Alabama
+      death:
+        date: 26 June 1926
+        place: "Athens, Alabama"
+      burial:
+        place: "Reunion Cemetery   Thach, Alabama"
 childrenGroups:
   - children:
       - name: Lucinda T Vining

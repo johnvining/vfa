@@ -1,4 +1,5 @@
 id: JosephE03
+sequence: 309
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,33 @@ head:
   death:
     date: 27 May 1929
     place: "Brooklyn, Michigan"
+  burial:
+    place: "Oak Grove Cemetery   Napoleon, Michigan"
 marriages:
   - date: 27 September 1882
     place: Michigan
-  - number: 1
-    date: Alwilda Russell
+    number: 1
+    spouse:
+      givenName: Alwilda
+      surname: Russell
+      birth:
+        date: August 1863
+        place: Michigan
+      death:
+        date: "1942"
+      burial:
+        place: "Oak Grove Cemetery   Napoleon, Michigan"
+  - number: 2
+    spouse:
+      givenName: "Mary Leo (Bartlett)"
+      surname: Pelham
+      parents: "(dau. of Fay Bartlett and Helen M. Crane)"
+      birth:
+        date: "1872"
+      death:
+        date: "1943"
+      burial:
+        place: "Highland Cemetery   Brooklyn, Michigan"
 childrenGroups:
   - children:
       - name: Fern Vining

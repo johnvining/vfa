@@ -1,4 +1,5 @@
 id: JohnB03
+sequence: 208
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 6 July 1969
     place: "Farmington, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - date: 15 May 1917
     place: "Freeman, Maine"
     spouse:
       givenName: Elsie May
       surname: Blackwell
+      parents: (dau. of Carroll Blackwell and Emma Childs)
       birth:
         date: 18 September 1896
         place: "Freeman, Maine"

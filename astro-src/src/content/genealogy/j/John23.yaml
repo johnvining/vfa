@@ -1,4 +1,5 @@
 id: John23
+sequence: 174
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Ann
       surname: "[...]"
+      birth:
+        date: age 23 y. as of 1860 census
+        place: Ohio
 childrenGroups:
   - children:
       - name: "William [H. or A.?] Vining"

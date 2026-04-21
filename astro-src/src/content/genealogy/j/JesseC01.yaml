@@ -1,4 +1,5 @@
 id: JesseC01
+sequence: 139
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,20 @@ head:
     place: Florida
   death:
     date: 9 April 1992
+  burial:
+    place: "Riverside Memorial Park   Jacksonville, Florida"
 marriages:
   - spouse:
       givenName: Hazel L.
       surname: "[&#8230;]"
+      birth:
+        date: 10 September 1928
+        place: "Jacksonville, Florida"
+      death:
+        date: 19 March 2010
+        place: "Jacksonville, Florida"
+      burial:
+        place: "Riverside Memorial Park   Jacksonville, Florida"
 childrenGroups:
   - children:
       - name: Jesse Cecil Vining Jr.

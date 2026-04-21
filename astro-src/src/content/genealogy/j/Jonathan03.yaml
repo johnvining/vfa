@@ -1,4 +1,5 @@
 id: Jonathan03
+sequence: 289
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,16 @@ marriages:
   - spouse:
       givenName: Nancy
       surname: "[...]"
+      birth:
+        date: age 30 y. as of 1870 census
+        place: New York
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Allie Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: New York
 docsUrl: Jsources/Jonathan03doc.htm
 raw: |-
   <a name="Jonathan03"></a><font size=+2>Jonathan Vining</font>

@@ -1,4 +1,5 @@
 id: JackW01
+sequence: 4
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,12 @@ marriages:
     spouse:
       givenName: Deborah Rosemary
       surname: Williams
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Ian John Vining
+        birth:
+          date: 29 March 1978
 raw: |-
   <a name="JackW01"></a><font size=+2>Jack Willis Vining</font>
      (son of <a href="Mfamilies.htm#MurrayF01">Murray Fraine Vining and Emma Gertrude Williamson</a>)

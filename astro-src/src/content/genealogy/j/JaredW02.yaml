@@ -1,4 +1,5 @@
 id: JaredW02
+sequence: 112
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,26 @@ head:
   death:
     date: December 1971
     place: "(last residence: East Orleans, Massachusetts)"
+  burial:
+    place: "Orleans Cemetery   East Orleans, Massachusetts"
 marriages:
   - spouse:
       givenName: Beatrice E.
       surname: Baker
+      birth:
+        date: "1886"
+        place: Massachusetts
+      death:
+        date: "1973"
+      burial:
+        place: "Orleans Cemetery   East Orleans, Massachusetts"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Virginia W. Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Massachusetts
 docsUrl: Jsources/JaredW02doc.htm
 raw: |-
   <a name="JaredW02"></a><font size=+2>Jared Whitman Vining</font>

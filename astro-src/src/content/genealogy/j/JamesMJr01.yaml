@@ -1,4 +1,5 @@
 id: JamesMJr01
+sequence: 76
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 9 January 1909
     place: "Vilas, Kansas"
+  burial:
+    place: "Pleasant Valley Cemetery   Kansas"
 marriages:
   - date: 28 January 1875
     place: "Fredonia, Kansas"
     spouse:
       givenName: "[Jane or Jennie]"
       surname: Lindsley
+      parents: (dau. of John A. Lindsley and Sara J. McFall)
       birth:
         date: 30 June 1848
         place: "Oscaloosa, Iowa"
@@ -93,6 +97,7 @@ childrenGroups:
         birth:
           date: 17 February 1883
           place: Kansas
+        middleNote: "[m. Pearl Biers?]"
         death:
           date: December 1964
           place: "Chanute, Kansas"

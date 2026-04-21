@@ -1,4 +1,5 @@
 id: JohnA01
+sequence: 199
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,22 @@ head:
   death:
     date: 20 October 1869
     place: "Walpole, Massachusetts"
+  burial:
+    place: "Vining Cemetery   Durham, Maine"
 marriages:
   - date: 9 June 1869
     spouse:
-      givenName: Letitia McMullen (of New
-      surname: York)
+      givenName: "Letitia McMullen (of New York)"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: son Vining
+        birth:
+          date: "1870"
+        death:
+          date: "1870"
+        burial:
+          place: "Vining Cemetery   Durham, Maine"
 docsUrl: Jsources/JohnA01doc.htm
 raw: |-
   <a name="JohnA01"></a><font size=+2>John A. Vining</font>

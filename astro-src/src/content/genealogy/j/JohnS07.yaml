@@ -1,4 +1,5 @@
 id: JohnS07
+sequence: 262
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Lena
       surname: Willamy
+      birth:
+        date: "1855"
+        place: New York
 childrenGroups:
   - children:
       - name: Florence May Vining

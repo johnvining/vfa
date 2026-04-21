@@ -1,4 +1,5 @@
 id: James13
+sequence: 17
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Mary
       surname: "[...]"
+      birth:
+        date: age 28 y. as of 1870 census
+        place: Canada
 childrenGroups:
   - children:
       - name: Nellie Vining

@@ -1,4 +1,5 @@
 id: JamesO04
+sequence: 87
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,15 @@ head:
   death:
     date: 20 January 1979
     place: "Seattle, Washington"
+  burial:
+    description: cremated
 marriages:
   - spouse:
       givenName: Katherine
       surname: Nantz
+      birth:
+        date: age 33 y. as of 1940 census
+        place: California
 childrenGroups:
   - children:
       - name: Carol Vining

@@ -1,4 +1,5 @@
 id: JohnA02
+sequence: 201
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 20 March 1923
     place: "Auburn, Maine"
+  burial:
+    place: "grave 6, lot 881, section MA   Mount Auburn Cemetery   Auburn, Maine"
 marriages:
   - number: 1
     date: 22 November 1899
@@ -20,6 +23,7 @@ marriages:
     spouse:
       givenName: Minnie Louise
       surname: Vining
+      parents: (dau. of Timothy W. Vining and Tryphena C. Dow)
       birth:
         date: 12 May 1878
         place: "Avon, Maine"
@@ -32,10 +36,10 @@ marriages:
     date: 24 November 1904
     place: "East Livermore, Maine"
     spouse:
-      givenName: "Augusta Eva Pike [She m. (2) 21 January 1923   Bertrand C."
-      surname: "Jillson]"
+      givenName: "Augusta Eva Pike [She m. (2) 21 January 1923   Bertrand C. Jillson]"
+      parents: (dau. of Jonathan Pike and Jennie [B. Bamford?])
       birth:
-        date: "East Livermore, Maine"
+        place: "East Livermore, Maine"
 childrenGroups:
   - spouseRef: Minnie Louise Vining
     children:

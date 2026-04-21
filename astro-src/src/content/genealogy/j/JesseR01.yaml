@@ -1,4 +1,5 @@
 id: JesseR01
+sequence: 149
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,16 @@ head:
     place: "West Cummington, Massachusetts"
   death:
     date: 14 October 1948
+  burial:
+    place: "Braman Cemetery   Newport, Rhode Island"
 marriages:
   - spouse:
       givenName: Angeline Martha
       surname: Dickinson
+      parents: "(dau. of Calvin Dickinson and Lucy Draper Comstock)"
+      death:
+        date: 28 April 1916
+        place: "Granby, Massachusetts"
 childrenGroups:
   - children:
       - name: Nellie Martha Vining

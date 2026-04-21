@@ -1,4 +1,5 @@
 id: JamesC01
+sequence: 40
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: "Nancy [T. or P.?]"
       surname: "[...]"
+      birth:
+        date: age 33 y. as of 1860 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Frances E. Vining

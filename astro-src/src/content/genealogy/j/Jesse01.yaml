@@ -1,4 +1,5 @@
 id: Jesse01
+sequence: 136
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,20 @@ head:
     date: before 1850
 marriages:
   - date: ca. 1830
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Elizabeth Eunice Vining
+        birth:
+          date: 30 December 1834
+          place: "East Feliciana Parish, Louisiana"
+        marriages:
+          - date: ca. 1854
+            place: "[East Baton Rouge Parish, Louisiana?]"
+            spouse: Ivy Cockerham
+        death:
+          date: before 18 December 1893
+          place: "Springfield, Louisiana"
 raw: |-
   <a name="Jesse01"></a><font size=+2>Jesse Vining</font>
      (son of <a href="#Joshua01">Joshua Vining and Elizabeth Valentine</a>)

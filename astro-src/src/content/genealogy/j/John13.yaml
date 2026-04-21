@@ -1,4 +1,5 @@
 id: John13
+sequence: 162
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -18,7 +19,8 @@ marriages:
     place: "Johnston, North Carolina"
     spouse:
       givenName: Sarah
-      surname: Ratcliff(e)
+      surname: "Ratcliff(e)"
+      parents: (dau. of John Benjamin Ratcliff and Sarah Fellows)
       birth:
         date: "172[5 or 7?]"
         place: "[Queens?], Talbot County, Maryland"

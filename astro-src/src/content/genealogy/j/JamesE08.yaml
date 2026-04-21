@@ -1,4 +1,5 @@
 id: JamesE08
+sequence: 48
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,9 +14,23 @@ head:
   death:
     date: 3 June 1953
     place: "Flint, Michigan"
+  burial:
+    place: "Oakhill Cemetery   Holly, Michigan"
 marriages:
   - date: 13 August 1907
     place: "Beaverton, Michigan"
+    spouse:
+      givenName: Lillie Belle
+      surname: Teboe
+      parents: (dau. of Jeremiah W. Teboe and Sarah Ellen Bone)
+      birth:
+        date: 21 May 1887
+        place: "Coldwater, Ohio"
+      death:
+        date: 6 July 1968
+        place: "Flint, Michigan"
+      burial:
+        place: "Oakhill Cemetery   Holly, Michigan"
 childrenGroups:
   - children:
       - name: Burt Vining

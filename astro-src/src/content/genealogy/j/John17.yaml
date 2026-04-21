@@ -1,4 +1,5 @@
 id: John17
+sequence: 161
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,12 +12,15 @@ head:
     date: "17[24 or 25?]"
   death:
     date: 13 November 1770
+  burial:
+    description: "[bur. Christ Episcopal Church Cemetery   Dover, Delaware ?]"
 marriages:
   - number: 1
     date: 28 April 1749
     spouse:
       givenName: Rachel
       surname: Ridgely
+      parents: (dau. of Nicholas Greenbury Ridgely and Sarah Worthington)
       birth:
         date: "7 February [1717 or 1715?]"
         place: "Anne Arundel County, Delaware"
@@ -39,7 +43,7 @@ childrenGroups:
         death:
           date: 21 November 1785
         burial:
-          place: Christ Episcopal Church Cemetery
+          place: "Christ Episcopal Church Cemetery   -   Dover, Delaware"
       - name: Nicholas Vining
   - spouseRef: Phoebe Wynkoop
     children:

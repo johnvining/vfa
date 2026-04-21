@@ -1,4 +1,5 @@
 id: JohnF03
+sequence: 222
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,11 +15,13 @@ head:
     date: 27 June 2006
     place: "Guilford, Connecticut"
 marriages:
-  - spouse:
-      givenName: "East Orange, New"
-      surname: Jersey
+  - place: "East Orange, New Jersey"
+    spouse:
+      givenName: Eugenia
+      surname: Swantic
+      parents: "(dau. of Frank Swantic and Sidonia [&#8230;])"
       birth:
-        date: "Danville, Pennsylvania"
+        place: "Danville, Pennsylvania"
       death:
         date: 22 May 2020
         place: "Alpharetta, Georgia"

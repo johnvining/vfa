@@ -1,4 +1,5 @@
 id: JesseL02
+sequence: 145
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 4 June 1993
     place: "Tempe, Arizona"
+  burial:
+    place: "Green Acres Memorial Park   Scottsdale, Arizona"
 marriages:
   - date: 18 November 1933  Kansas
     spouse:
       givenName: Pearl Adell
       surname: Williams
+      parents: "(dau. of William Alexander Williams and Bessie Bell Butts)"
       birth:
         date: 20 December 1915
         place: "Oswego, Kansas"

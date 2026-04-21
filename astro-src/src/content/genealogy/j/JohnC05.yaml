@@ -1,4 +1,5 @@
 id: JohnC05
+sequence: 214
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -24,7 +25,9 @@ childrenGroups:
           place: "Columbia County, Florida"
         marriages:
           - date: "Dora Delma W[&#8230;?]"
-            spouse: "d. 13 May 1951   Jacksonville, Duval County, Florida"
+        death:
+          date: 13 May 1951
+          place: "Jacksonville, Duval County, Florida"
       - name: Edward Judson Vining
         birth:
           date: April 1895

@@ -1,4 +1,5 @@
 id: JosephA05
+sequence: 303
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,10 +10,32 @@ head:
     date: 25 April 1884
   death:
     date: 20 August 1945
+  burial:
+    place: "Legg Cemetery   Leggtown, Limestone County, Alabama"
 marriages:
   - spouse:
       givenName: Flora
       surname: Bolin
+      birth:
+        date: 13 March 1891
+      death:
+        date: 23 October 1971
+      burial:
+        place: "Legg Cemetery   Leggtown, Limestone County, Alabama"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Jasper C. Vining
+        entryId: JasperC01
+        birth:
+          date: 2 April 1912
+          place: Tennessee
+        marriages:
+          - date: Jessie N. Burnett
+        death:
+          date: 9 August 1997
+        burial:
+          place: "Maplewood Cemetery   Pulaski, Tennessee"
 docsUrl: Jsources/JosephA05doc.htm
 raw: |-
   <a name="JosephA05"></a><font size=+2>Joseph Alonzo Vining</font>

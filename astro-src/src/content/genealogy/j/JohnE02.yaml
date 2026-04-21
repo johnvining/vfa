@@ -1,4 +1,5 @@
 id: JohnE02
+sequence: 220
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 18 August 1942
     place: "Fort Wayne, Indiana"
+  burial:
+    place: "Greenlawn Memorial Park   Fort Wayne, Indiana"
 marriages:
   - date: 18 y. as of 1900 census
     spouse:
       givenName: Florence M.
       surname: Payne
+      parents: (dau. of William Payne and Elizabeth Bailey)
       birth:
         date: 19 July 1865
         place: "Xenia, Ohio"

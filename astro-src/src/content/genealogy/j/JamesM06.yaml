@@ -1,4 +1,5 @@
 id: JamesM06
+sequence: 78
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,17 +14,26 @@ head:
   death:
     date: 28 November 2012
     place: "Vincennes, Indiana"
+  burial:
+    description: cremated
 marriages:
   - date: 65 y. as of 5 November 2010
     spouse:
       givenName: Willie
       surname: Maness
+      parents: (dau. of James Adam Maness and Mary Lee Martin)
       birth:
         date: 29 March 1917
         place: "Burlington, North Carolina"
       death:
         date: 5 November 2010
         place: "Burlington, North Carolina"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Martha Vining
+        marriages:
+          - date: Harry Meeks
 docsUrl: Jsources/JamesM06doc.htm
 raw: |-
   <a name="JamesM06"></a><font size=+2>James Madison Vining</font>

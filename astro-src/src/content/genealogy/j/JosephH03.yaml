@@ -1,4 +1,5 @@
 id: JosephH03
+sequence: 312
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,10 @@ marriages:
   - spouse:
       givenName: Alice M.
       surname: Leavitt
+      parents: "(dau. of [&#8230;] Leavitt and Rosa A. [&#8230;])"
+      birth:
+        date: September 1857
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: "Alma [L.?] Vining"

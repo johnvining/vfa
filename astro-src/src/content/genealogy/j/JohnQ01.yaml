@@ -1,4 +1,5 @@
 id: JohnQ01
+sequence: 256
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,7 +15,23 @@ marriages:
   - number: 1
     date: "[&#8230;]"
   - number: 2
-    date: "Sarah A. [&#8230;]"
+    spouse:
+      givenName: "Sarah A."
+      surname: "[&#8230;]"
+      birth:
+        date: December 1854
+        place: Massachusetts
+childrenGroups:
+  - headingText: "child by Sarah A. [&#8230;]"
+    children:
+      - name: Arthur W. Vining
+        entryId: ArthurW01
+        entryLetter: A
+        birth:
+          date: January 1879
+          place: New York
+        marriages:
+          - date: "Anne J. [&#8230;]"
 docsUrl: Jsources/JohnQ01doc.htm
 raw: |-
   <a name="JohnQ01"></a><font size=+2>John Quincy Vining</font>

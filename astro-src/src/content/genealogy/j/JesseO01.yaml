@@ -1,4 +1,5 @@
 id: JesseO01
+sequence: 147
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 19 April 1990
     place: "Nevada County, Caliornia"
+  burial:
+    place: "Arlington National Cemetery   Arlington, Virginia"
 marriages:
   - spouse:
       givenName: Audrey Mabel
       surname: Ballard
+      parents: "(dau. of Augustus Byron Ballard and Mable Queen Hauswirth)"
+      birth:
+        date: 13 November 1919
+        place: "Sacramento, Sacramento County, California"
+      death:
+        date: 3 September 2004
+        place: "Sacramento, Sacramento County, California"
 childrenGroups:
   - children:
       - name: Jay Vining

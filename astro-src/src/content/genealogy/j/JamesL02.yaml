@@ -1,4 +1,5 @@
 id: JamesL02
+sequence: 70
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 21 October 1965
     place: "Farmington, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - date: 3 May 1947
     place: "Farmington, Maine"
     spouse:
       givenName: Harriet Fern
       surname: Gray
+      parents: (dau. of Montell Gray and Bessie Morton)
       birth:
         date: "1922"
         place: "Farmington, Maine"

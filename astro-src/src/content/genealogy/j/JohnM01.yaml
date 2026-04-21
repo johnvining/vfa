@@ -1,4 +1,5 @@
 id: JohnM01
+sequence: 250
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,30 @@ head:
   death:
     date: 8 September 1968
     place: "North Fork, California"
+  burial:
+    place: "Canyon Hill Cemetery   Caldwell, Idaho"
 marriages:
   - spouse:
       givenName: Jean Louise
       surname: Keller
+      parents: (dau. of Furman Harry Keller and Gretta Margaret Clevegner)
+      birth:
+        date: 8 December 1928
+        place: "Caldwell, Idaho"
+      death:
+        date: "2013"
+        place: "San Diego, California"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Paul Vining
+        entryId: Paul01
+        entryLetter: P
+        birth:
+          date: 9 July 1952
+          place: "Wales, Alaska"
+        marriages:
+          - date: Martha Ellen Cozean
 docsUrl: Jsources/JohnM01doc.htm
 raw: |-
   <a name="JohnM01"></a><font size=+2>John Marcus Vining</font>

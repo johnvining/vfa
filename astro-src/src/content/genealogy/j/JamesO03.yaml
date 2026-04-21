@@ -1,4 +1,5 @@
 id: JamesO03
+sequence: 88
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,24 @@ head:
   death:
     date: 10 March 2013
     place: "Douglas, Georgia"
+  burial:
+    place: "Mount Pleasant Missionary Baptist Church Cemetery   Georgia"
 marriages:
   - spouse:
       givenName: Lillian
       surname: Chaney
+      birth:
+        date: 25 March 1935
+      death:
+        date: 27 September 1994
+      burial:
+        place: "Mount Pleasant Missionary Baptist Church Cemetery   Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: James Kevin Vining
+        marriages:
+          - date: "Kim [...]"
 docsUrl: Jsources/JamesO03doc.htm
 raw: |-
   <a name="JamesO03"></a><font size=+2>James Orval Vining</font>

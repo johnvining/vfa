@@ -1,4 +1,5 @@
 id: JohnAB01
+sequence: 200
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 26 December 1956
     place: Indiana
+  burial:
+    place: "Beech Grove Cemetery   Muncie, Indiana"
 marriages:
   - date: 14 April 1897
     place: Indiana
     spouse:
       givenName: Sarah Jane
       surname: Brown
+      parents: (dau. of Abraham Brown and Rebecca Runyon)
       birth:
         date: 17 September 1877
         place: Indiana

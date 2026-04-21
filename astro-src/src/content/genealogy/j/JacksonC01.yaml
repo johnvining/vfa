@@ -1,4 +1,5 @@
 id: JacksonC01
+sequence: 6
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
   death:
     date: 2 March 1936
     place: "Washington, District of Columbia"
+  burial:
+    place: "Fairmount Cemetery   Denver, Colorado"
 marriages:
   - number: 1
     date: 10 October 1886
@@ -18,6 +21,7 @@ marriages:
     spouse:
       givenName: Anetta Maud
       surname: Hoxworth
+      parents: (dau. of George Hoxworth and Martha Morgan)
       birth:
         date: 10 July 1868
         place: Ohio
@@ -34,8 +38,17 @@ marriages:
       birth:
         date: age 38 y. as of 1910 census
         place: Wisconsin
+    note: "divorced   1912"
   - number: 3
     date: Margaret Lula Warford
+    spouse:
+      parents: (dau. of Wilson Warford and Lucinda Lou Houseworth)
+      birth:
+        date: 12 May 1878
+        place: "Fort Scottt, Bourbon County, Kansas"
+      death:
+        date: 14 January 1936
+        place: "Los Angeles, California"
 childrenGroups:
   - spouseRef: Maud Hoxworth
     children:

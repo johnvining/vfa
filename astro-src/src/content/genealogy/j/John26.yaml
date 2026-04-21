@@ -1,4 +1,5 @@
 id: John26
+sequence: 176
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Catharine
       surname: "[...]"
+      birth:
+        date: age 34 y. as of 1850 census
+        place: Virginia
 childrenGroups:
   - children:
       - name: Sarah Vining

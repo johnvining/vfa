@@ -1,4 +1,5 @@
 id: JeffersonA01
+sequence: 122
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 1 December 1883
     place: "Eufaula, Barbour County, Alabama"
+  burial:
+    place: "McGee Cemetery   Barbour County, Alabama"
 marriages:
   - date: 9 May 1847
     spouse:
@@ -43,7 +46,9 @@ childrenGroups:
       - name: Addie Vining
         birth:
           date: December 1851
-          place: m. March 1874   William F. Shannon
+        marriages:
+          - date: March 1874
+            spouse: William F. Shannon
       - name: Macon Abner Vining
         entryId: MaconA01
         entryLetter: M

@@ -1,4 +1,5 @@
 id: JosephW01
+sequence: 321
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Leona
       surname: "[...]"
+      birth:
+        date: age 28 y. as of 1860 census
+        place: Tennessee
 childrenGroups:
   - children:
       - name: Lucilla Vining

@@ -1,4 +1,5 @@
 id: JamesA01
+sequence: 30
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,26 @@ head:
   death:
     date: 6 April 1994
     place: "Thomaston, Georgia"
+  burial:
+    place: "Southview Cemetery   Thomaston, Georgia"
 marriages:
   - spouse:
       givenName: Edna
       surname: Laury
+      birth:
+        date: 17 May 1912
+        place: "Ottawa, Kansas"
+      death:
+        date: 20 May 1994
+        place: Georgia
+      burial:
+        place: "Southview Cemetery   Thomaston, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Marie Vining
+        marriages:
+          - date: Clyde Pettet
 docsUrl: Jsources/JamesA01doc.htm
 raw: |-
   <a name="JamesA01"></a><font size=+2>James Anthony Vining</font>
@@ -28,8 +45,8 @@ raw: |-
                     bur. Southview Cemetery   Thomaston, Georgia
      d. 6 April 1994   Thomaston, Georgia
            bur. Southview Cemetery   Thomaston, Georgia
-  
+
   <font size=+1>child:</font>
      Marie Vining   m. Clyde Pettet
-  
+
   <a href="Jsources/JamesA01doc.htm">documentation and notes</a>

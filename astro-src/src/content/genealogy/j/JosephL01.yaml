@@ -1,4 +1,5 @@
 id: JosephL01
+sequence: 314
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 17 December 2009
     place: "Shreveport, Louisiana"
+  burial:
+    place: "New Forest Cemetery   Forest, Louisiana"
 marriages:
   - date: 8 September 1956
     spouse:
@@ -19,6 +22,10 @@ marriages:
       surname: Cleave
       birth:
         date: 4 July 1938
+      death:
+        date: 22 March 2007
+      burial:
+        place: "New Forest Cemetery   Forest, Louisiana"
 childrenGroups:
   - children:
       - name: Doris Vining

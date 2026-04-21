@@ -1,4 +1,5 @@
 id: JamesM01
+sequence: 79
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: Michigan
   death:
     date: 28 February 1928
+  burial:
+    place: "Lakeview Cemetery   Lakeview, Michigan"
 marriages:
   - spouse:
       givenName: Rose E.
       surname: Stevens
+      birth:
+        date: "1870"
+      death:
+        date: "1944"
+      burial:
+        place: "Lakeview Cemetery   Lakeview, Michigan"
 childrenGroups:
   - children:
       - name: Edna M. Vining

@@ -1,4 +1,5 @@
 id: JohnC01
+sequence: 212
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,17 @@ marriages:
   - spouse:
       givenName: Annie O.
       surname: Wicks
+      birth:
+        date: age 30 y. as of 1920 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Kathleen F. Vining
         birth:
           date: "age 3 y., 9 m. as of 1920 densus"
-          place: "Georgia   =   m. Carl Reich"
+          place: Georgia
+        marriages:
+          - date: Carl Reich
         death:
           date: before 2 December 1911
       - name: John Carl Vining

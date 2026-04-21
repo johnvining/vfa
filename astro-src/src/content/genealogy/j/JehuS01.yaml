@@ -1,4 +1,5 @@
 id: JehuS01
+sequence: 128
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 25 May 1894
     place: "Bibb County, Alabama"
+  burial:
+    place: "Acker Cemetery   Bibb County, Alabama"
 marriages:
   - date: 24 July 1810
     place: "Morgan County, Georgia"
@@ -22,6 +25,40 @@ marriages:
       birth:
         date: "1791"
         place: Georgia
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Shadrack Joshua Vining
+        entryId: ShadrackJ01
+        entryLetter: S
+        birth:
+          date: "1816"
+          place: "Jefferson County, Georgia"
+        death:
+          date: "1887"
+          place: "Bibb County, Alabama"
+      - name: Jane Vining
+        birth:
+          date: ca. 1818
+        marriages:
+          - date: ca. 1838
+            spouse: Charles Kimbrell
+      - name: Gabriel Vining
+        birth:
+          date: ca. 1820
+      - name: Peter Vining
+        birth:
+          date: ca. 1822
+        death:
+          date: "[?]"
+        burial:
+          place: "Acker Cemetery   Bibb County, Alabama"
+      - name: Jehu S. Vining Jr.
+        birth:
+          date: September 1826
+        death:
+          date: 25 May 1895
+          place: "Bibb County, Alabama"
 docsUrl: Jsources/JehuS01doc.htm
 raw: |-
   <a name="JehuS01"></a><font size=+2>Jehu S. Vining</font>

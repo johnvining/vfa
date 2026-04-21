@@ -1,4 +1,5 @@
 id: Joseph04
+sequence: 295
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Sarah
       surname: "[...]"
+      birth:
+        date: age 24 y. as of 1870 census
+        place: Ohio
 childrenGroups:
   - children:
       - name: Joanna Vining

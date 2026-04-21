@@ -1,4 +1,5 @@
 id: John15
+sequence: 167
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "[Anson County, North Carolina or Warren County, Georgia?]"
   death:
     date: "[18 October or September?] 1847"
+  burial:
+    place: "Wash Farm Cemetery   Kentucky"
 marriages:
   - number: 1
     date: "5 January 1809.  Upson County, Georgia"
     spouse:
       givenName: Polly
       surname: Hubert
+      parents: "(dau. of Mathew Hubert and Martha Wallace)"
       birth:
         date: 25 March 1782
         place: Georgia

@@ -1,4 +1,5 @@
 id: JohnT02
+sequence: 269
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,16 +12,21 @@ head:
     place: South Carolina
   death:
     date: 22 April 1905
+  burial:
+    place: "Oak Grove Cemetery   Wildwood, Florida"
 marriages:
   - date: 8 August 1850
     spouse:
       givenName: Catherine Elizabeth
       surname: Townsend
+      parents: (dau. of Jabish N. Townsend Jr. and Hester Ann Townsend)
       birth:
         date: 15 September 1839
         place: South Carolina
       death:
         date: 11 January 1907
+      burial:
+        place: "Oak Grove Cemetery   Wildwood, Florida"
 childrenGroups:
   - children:
       - name: Darius Townsend Vining

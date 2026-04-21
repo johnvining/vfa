@@ -1,4 +1,5 @@
 id: JamesMJr02
+sequence: 77
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,14 @@ marriages:
   - spouse:
       givenName: Naomi
       surname: Hooper
+      parents: (dau. of John Quincy Hooper and Linnie Lou Shaddock)
+      birth:
+        date: 8 March 1924
+      death:
+        date: 13 October 2005
+        place: "Roseville, California"
+      burial:
+        place: "Fresno Memorial Gardens   Fresno, California"
 childrenGroups:
   - children:
       - name: Eric Vining

@@ -1,4 +1,5 @@
 id: JamesW01
+sequence: 103
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,18 @@ head:
   death:
     date: 27 April 1988
     place: "Sumter, Sumter County, South Carolina"
+  burial:
+    place: "Evergreen Memorial Park   Sumter, Sumter County, South Carolina"
 marriages:
   - spouse:
       givenName: Mattie Maybelle
       surname: Blume
+      birth:
+        date: May 1899
+      death:
+        date: 19 May 1969
+      burial:
+        place: "Evergreen Memorial Park   Sumter, South Carolina"
 childrenGroups:
   - children:
       - name: Thomas Franklin Vining

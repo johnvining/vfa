@@ -1,4 +1,5 @@
 id: John02
+sequence: 158
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -18,6 +19,7 @@ marriages:
     spouse:
       givenName: Naomi
       surname: Bicknell
+      parents: (dau. of John Bicknell and Mary Shaw)
       birth:
         date: 21 June 1657
         place: "Weymouth, Norfolk County, Massachusetts"

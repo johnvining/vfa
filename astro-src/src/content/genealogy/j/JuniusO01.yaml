@@ -1,4 +1,5 @@
 id: JuniusO01
+sequence: 337
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,14 @@ marriages:
   - spouse:
       givenName: Lucille Rita
       surname: Giroir
+      parents: "(dau. of Elphebe Giroir and Odile LaJaunie)"
+      birth:
+        date: 25 July 1920
+      death:
+        date: 28 May 2005
+        place: "Jefferson, Louisiana"
+      burial:
+        place: "Morgan City Cemetery   Morgan City, Louisiana"
 childrenGroups:
   - children:
       - name: Lucille Vining

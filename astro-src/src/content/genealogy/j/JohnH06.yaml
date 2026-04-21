@@ -1,4 +1,5 @@
 id: JohnH06
+sequence: 237
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: Georgia
   death:
     date: 13 February 1958
+  burial:
+    place: "Pine Grove Cemetery   Eatonton, Georgia"
 marriages:
   - date: 2 May 1920
     spouse:
@@ -24,6 +27,14 @@ marriages:
         date: 14 November 1981
       burial:
         place: "Pine Grove Cemetery   Eatonton, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Hubert Adolphus Vining
+        birth:
+          date: "1923"
+        death:
+          date: "1997"
 docsUrl: Jsources/JohnH06doc.htm
 raw: |-
   <a name="JohnH06"></a><font size=+2>John Hubert Vining</font>

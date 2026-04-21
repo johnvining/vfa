@@ -1,4 +1,5 @@
 id: Joseph05
+sequence: 293
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,10 +10,21 @@ head:
     date: age 60 y. at death
   death:
     date: 16 February 1856
+  burial:
+    place: "Maplewood Cemetery   Rockland, Massachusetts"
 marriages:
   - spouse:
       givenName: Hannah
       surname: Gardner
+      parents: "(dau. of Caleb Gardner and Alethea Cha[i?]rd)"
+      birth:
+        date: 25 May 1785
+        place: "Abington, Massachusetts"
+      death:
+        date: 15 December 1877
+        place: "Hanover, Massachusetts"
+      burial:
+        place: "Maplewood Cemetery   Rockland, Massachusetts"
 childrenGroups:
   - children:
       - name: William Henry Harrison Vining
@@ -28,6 +40,13 @@ childrenGroups:
           place: "Rockland, Plymouth County, Massachusetts"
         burial:
           place: "Maplewood Cemetery   Rockland, Plymouth County, Massachusetts"
+      - name: Joseph Vining
+        birth:
+          date: "1828"
+        death:
+          date: 17 November 1910
+        burial:
+          place: "Maplewood Cemetery   Rockland, Massachusetts"
       - name: Levi Lincoln Vining
         birth:
           date: "1832"

@@ -1,6 +1,8 @@
 id: James06
+sequence: 13
 letter: J
 lastUpdated: 10 March 2023
+notes: "[possibly a son of a John Vining and Mary [...] of Wincanton, Somersetshire, England?]"
 head:
   givenName: James
   birth:
@@ -13,6 +15,21 @@ marriages:
     spouse:
       givenName: Elizabeth
       surname: Llewellyn
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Thomas Llewellyn Vining
+        entryId: ThomasL01
+        entryLetter: T
+        birth:
+          date: "1742"
+          place: "Bristol, England"
+        marriages:
+          - date: 12 February 1769
+            place: "Wincanton, Somersetshire, England"
+            spouse: Anne Thick
+        death:
+          date: 9 July 1824
 raw: |-
   <a name="James06"></a><font size=+2>James Vining</font>
      [possibly a son of a John Vining and Mary [...] of Wincanton, Somersetshire, England?]

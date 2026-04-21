@@ -1,4 +1,5 @@
 id: JeffreyD01
+sequence: 126
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,14 @@ marriages:
   - spouse:
       givenName: Vicki
       surname: Kimball
+      parents: "(dau. of Curtis Kimball and Diane [&#8230;])"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Jonathan Donald Vining
+        birth:
+          date: 9 February 1998
+          place: "Lewiston, Maine"
 docsUrl: Jsources/JeffreyD01doc.htm
 raw: |-
   <a name="JeffreyD01"></a><font size=+2>Jeffrey Donald Vining</font>

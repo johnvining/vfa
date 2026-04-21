@@ -1,4 +1,5 @@
 id: JamesW04
+sequence: 100
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,11 +12,36 @@ head:
     place: Massachusetts
   death:
     date: "1927"
+  burial:
+    place: "Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts"
 marriages:
   - number: 1
     date: "[14?] y. as of 1900 census"
+    spouse:
+      givenName: "Lillie A."
+      surname: "[&#8230;]"
+      birth:
+        date: March 1854
+        place: Massachusetts
+      death:
+        date: "1903"
+      burial:
+        place: "Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts"
   - number: 2
-    date: "Mabel F. [&#8230;]"
+    spouse:
+      givenName: "Mabel F."
+      surname: "[&#8230;]"
+      birth:
+        date: "1869"
+      death:
+        date: "1917"
+      burial:
+        place: "Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - spouseRef: "Lillie A. [&#8230;]"
+    headingText: "child by Lillie A. [&#8230;]"
+    children:
+      - name: child Vining
 docsUrl: Jsources/JamesW04doc.htm
 raw: |-
   <a name="JamesW04"></a><font size=+2>James W. Vining</font>

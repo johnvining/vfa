@@ -1,4 +1,5 @@
 id: JamesD01
+sequence: 47
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,18 @@ head:
   death:
     date: 6 October 1982
     place: "Marshfield, Wisconsin"
+  burial:
+    place: "Saint James Catholic Cemetery   Neshkoro, Wisconsin"
 marriages:
   - number: 1
     date: "[...] Gozinski"
   - number: 2
     date: "[...] Berry"
 childrenGroups:
+  - spouseRef: "[...] Gozinski"
+    headingText: "child by [...] Gozinski"
+    children:
+      - name: son
   - spouseRef: "[...] Berry"
     children:
       - name: son
@@ -32,11 +39,11 @@ raw: |-
            (2) [...] Berry
      d. 6 October 1982   Marshfield, Wisconsin
            bur. Saint James Catholic Cemetery   Neshkoro, Wisconsin
-  
+
   <font size=+1>child by [...] Gozinski:</font>
      son
   <font size=+1>children by [...] Berry:</font>
      son
      daughter
-  
+
   <a href="Jsources/JamesD01doc.htm">documentation and notes</a>

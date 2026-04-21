@@ -1,4 +1,5 @@
 id: JacobH01
+sequence: 10
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,25 @@ head:
   death:
     date: "[28 July or September?] 1893"
     place: "Richmond, Indiana"
+  burial:
+    place: "Earlham Cemetery   Richmond, Wayne County, Indiana"
 marriages:
   - number: 1
     date: "Catherine [...]"
+    spouse:
+      birth:
+        date: age 29 y. as of 1850 census
+        place: "[Massachusetts?]"
   - number: 2
     date: Lucy Weeks Dillingham
+    spouse:
+      parents: (dau. of Edward Dillingham and Hannah Weeks)
+      birth:
+        date: 30 May 1821
+        place: "Sidney, Kennebec County, Maine"
+      death:
+        date: 29 November 1885
+        place: "Leesburg, Lake County, Florida"
 childrenGroups:
   - spouseRef: "Catherine [...]"
     children:
@@ -31,6 +46,7 @@ childrenGroups:
         death:
           date: 10 January 1924
       - name: William A. Vining
+        middleNote: "d. 12 August 1851   Fall River, Bristol County, Massachusetts"
         death:
           date: 18 March 1854
           place: "Fall River, Bristol County, Massachusetts"
@@ -54,10 +70,10 @@ raw: |-
                     d. 29 November 1885   Leesburg, Lake County, Florida
      d. [28 July or September?] 1893   Richmond, Indiana
            bur. Earlham Cemetery   Richmond, Wayne County, Indiana
-  
+
   <font size=+1>children by Catherine [...]:</font>
      Alice A. Vining   b. [2 March or 27 April?] 1846   Fall River, Bristol County, Massachusetts   -   m. 11 August 1886   LaPorte, Indiana   Stephen Coffin Mendenhall   -   d. 10 January 1924
      William A. Vining   d. 12 August 1851   Fall River, Bristol County, Massachusetts   -   d. 18 March 1854   Fall River, Bristol County, Massachusetts
      Mary Louisa Vining   b. age 6 y. as of 1860 census   [Massachusetts or Maine?]   -   d. 1889   Richmond, Wayne County, Indiana
-  
+
   <a href="Jsources/JacobH01doc.htm">documentation and notes</a>

@@ -1,4 +1,5 @@
 id: John34
+sequence: 190
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,27 @@ marriages:
   - spouse:
       givenName: Hattie J.
       surname: Dow
+      parents: (dau. of Samuel Dow and Cyrena Dunlap)
+      birth:
+        date: "1859"
+        place: "Goffstown, New Hampshire"
+      death:
+        date: 5 November 1910
+        place: "Manchester, New Hampshire"
+      burial:
+        place: "Hillside Cemetery   Goffstown, New Hampshire"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: George A. Vining
+        birth:
+          date: 7 April 1899
+          place: "Goffstown, New Hampshire"
+        death:
+          date: 22 December 1928
+          place: "Manchester, New Hampshire"
+        burial:
+          place: "Hillside Cemetery   Goffstown, New Hampshire"
 raw: |-
   <a name="John34"></a><font size=+2>John Vining</font>
      (son of [?])

@@ -1,4 +1,5 @@
 id: JasperW01
+sequence: 117
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Southwick, Massachusetts"
   death:
     date: 13 April 1926
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
 marriages:
   - date: 4 April 1881
     place: "Springfield, Massachusetts"
@@ -25,6 +28,13 @@ marriages:
         date: 29 April 1915
       burial:
         place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Eliza B. Vining
+        birth:
+          date: April 1882
+          place: Massachusetts
 docsUrl: Jsources/JasperW01doc.htm
 raw: |-
   <a name="JasperW01"></a><font size=+2>Jasper Ward Vining</font>

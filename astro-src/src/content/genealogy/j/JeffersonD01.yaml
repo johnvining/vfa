@@ -1,4 +1,5 @@
 id: JeffersonD01
+sequence: 123
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,9 +13,18 @@ head:
   death:
     date: 17 April 1971
     place: Georgia
+  burial:
+    place: "Mount Zion Cemetery   Axson, Georgia"
 marriages:
   - number: 1
     date: Mamie Ratliff
+    spouse:
+      birth:
+        date: "1894"
+      death:
+        date: 16 February 1914
+      burial:
+        place: "Camp Branch Primitive Baptist Church Cemetery   Ware County, Georgia"
   - number: 2
     date: "1917"
     place: Georgia
@@ -28,6 +38,21 @@ marriages:
       burial:
         place: "Mount Zion Cemetery   Axson, Georgia"
 childrenGroups:
+  - headingText: "child by Mamie Ratliff"
+    children:
+      - name: George Vinson Vining
+        entryId: GeorgeV01
+        entryLetter: G
+        birth:
+          date: 6 February 1914
+          place: "Ware County, Georgia"
+        marriages:
+          - date: Myrtice Coreen Rowe
+        death:
+          date: 2 November 2005
+          place: "Jacksonville, Florida"
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
   - spouseRef: Cora Delk
     children:
       - name: Myrtice Vining

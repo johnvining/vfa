@@ -1,4 +1,5 @@
 id: JamesJ03
+sequence: 67
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -18,6 +19,7 @@ marriages:
     spouse:
       givenName: Ellen Catherine
       surname: Lee
+      parents: "(dau. of William Riley Lee and Fatima [&#8230;])"
       birth:
         date: 22 December 1859
         place: "Orange County, Florida"
@@ -25,9 +27,15 @@ marriages:
         date: "12 [September or August] 1903"
         place: "Orange County, Florida"
   - number: 2
-    date: Eva Marr Driggers
+    spouse:
+      givenName: Eva Marr
+      surname: Driggers
+      birth:
+        date: "1882"
+      death:
+        date: "1976"
 childrenGroups:
-  - spouseRef: Ellen Catherine Lee
+  - headingText: "children by Ellen Catherine Lee"
     children:
       - name: Mary Katherine Vining
         birth:
@@ -90,7 +98,7 @@ childrenGroups:
         death:
           date: 4 November 1943
           place: "Orlando, Orange County, Florida"
-  - spouseRef: Eva Marr Driggers
+  - headingText: "children by Eva Marr Driggers"
     children:
       - name: Edgar Rufus Vining
         birth:

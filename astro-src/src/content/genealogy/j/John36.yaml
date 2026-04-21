@@ -1,4 +1,5 @@
 id: John36
+sequence: 192
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Etta
       surname: "[&#8230;]"
+      birth:
+        date: January 1868
+        place: Florida
 childrenGroups:
   - children:
       - name: Joseph Allen Vining

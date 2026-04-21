@@ -1,4 +1,5 @@
 id: JohnL02
+sequence: 244
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 17 July 1895
     place: "Graham, Oklahoma"
+  burial:
+    place: "Oil Spring Cemetery   Healdton, Oklahoma"
 marriages:
   - number: 1
     date: 29 May 1841
@@ -20,6 +23,7 @@ marriages:
     spouse:
       givenName: Elizabeth Jane
       surname: Hadden
+      parents: "(dau. of William Hadden and Elizabeth Hannah [...])"
       birth:
         date: 10 April 1823
         place: Georgia

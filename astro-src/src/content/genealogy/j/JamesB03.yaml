@@ -1,4 +1,5 @@
 id: JamesB03
+sequence: 36
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 7 December 1935
     place: "Marshallville, Georgia"
+  burial:
+    place: "Marshallville City Cemetery   Marshallville, Georgia"
 marriages:
   - date: 31 May 1891
     place: "Garden Valley, Georgia"
     spouse:
       givenName: Clara Rosella
       surname: Hand
+      parents: (dau. of Joseph Ross Hand and Harriett Susannah Waters)
       birth:
         date: 14 November 1867
         place: "Garden Valley, Georgia"

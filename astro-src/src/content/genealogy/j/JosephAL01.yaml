@@ -1,4 +1,5 @@
 id: JosephAL01
+sequence: 299
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: "Jackson Parish, Louisiana"
   death:
     date: 27 February 1955
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Gracie Gustavia
       surname: Fryday
+      birth:
+        date: 12 March 1888
+      death:
+        date: 7 February 1967
+      burial:
+        place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Norman Lee Vining

@@ -1,4 +1,5 @@
 id: JuliusC01
+sequence: 335
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 11 March 1911
     place: "Caddo Mills, Texas"
+  burial:
+    place: "Odd Fellows Cemetery   Caddo Mills, Texas"
 marriages:
   - date: 25 December 1888
     place: "Thomaston, Georgia"
     spouse:
       givenName: Mattie Lee
       surname: Johnson
+      parents: "(dau. of John Lowery Johnson and Elizabeth Tallant)"
       birth:
         date: 3 September 1868
         place: "Thomaston, Georgia"

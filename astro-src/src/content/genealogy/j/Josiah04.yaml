@@ -1,4 +1,5 @@
 id: Josiah04
+sequence: 326
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,22 @@ marriages:
       death:
         date: "1837"
         place: "Dublin, Franklin County, Ohio"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Alexander Vining
+        entryId: Alexander03
+        entryLetter: A
+        birth:
+          date: age 38 y. as of 1860 census
+          place: Ohio
+        marriages:
+          - date: 22 May 1859
+            place: "Franklin County, Ohio"
+            spouse: Ann Mariah Houser
+        death:
+          date: between 1870 and 1880 censuses
+          place: Ohio
 raw: |-
   <a name="Josiah04"></a><font size=+2>Josiah Vining</font>
      (son of [?])

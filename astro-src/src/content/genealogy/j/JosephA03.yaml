@@ -1,4 +1,5 @@
 id: JosephA03
+sequence: 298
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,18 @@ head:
   death:
     date: 5 March 1972
     place: "Toronto, Ontario"
+  burial:
+    place: "Mount Hope Catholic Cemetery   Toronto, Ontario"
 marriages:
   - spouse:
       givenName: Beatrice A.
       surname: Curtis
+      birth:
+        date: 4 August 1910
+      death:
+        date: 1 September 1976
+      burial:
+        place: "Mount Hope Catholic Cemetery   Toronto, Ontario"
 childrenGroups:
   - children:
       - name: Linda J. Vining

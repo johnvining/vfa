@@ -1,4 +1,5 @@
 id: JoeJ01
+sequence: 153
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,22 @@ head:
   death:
     date: 16 August 1990
     place: "(last residence: Rusk, Texas)"
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Texas"
 marriages:
-  - spouse:
-      givenName: "(1?) [...]"
-      surname: Andrews
+  - date: "(1?) [...] Andrews"
+  - date: "(2?) 17 August 1923"
+    spouse:
+      givenName: Gladys
+      surname: Pierce
+      birth:
+        date: 11 April 1906
+      death:
+        date: 22 November 1998
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Texas"
 childrenGroups:
-  - spouseRef: Gladys Pierce
+  - headingText: "children by Gladys Pierce"
     children:
       - name: Maris Elton Vining
       - name: Lula Beth Vining

@@ -1,4 +1,5 @@
 id: JamesE07
+sequence: 50
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 17 May 1999
     place: "Newfane, New York"
+  burial:
+    place: "Huskey Cemetery   Niagara County, New York"
 marriages:
   - date: "[7 April 1956?]"
     place: "Newfane, New York"
     spouse:
       givenName: Margaret F.
       surname: Miller
+      parents: (dau. of George Ogden Miller and Roberta Wilson)
       birth:
         date: 14 May 1921
         place: "Niagara County, New York"

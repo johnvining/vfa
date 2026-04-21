@@ -1,4 +1,5 @@
 id: Jesse03
+sequence: 135
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,9 +14,10 @@ head:
     date: ca. 1821
     place: "St. Helena, Louisiana"
 marriages:
-  - spouse:
-      givenName: Georgia
-      surname: Georgia
+  - place: Georgia
+    spouse:
+      givenName: "Rebecca [Hering or Heritty?]"
+      surname: ""
 childrenGroups:
   - children:
       - name: Elizabeth Vining

@@ -1,4 +1,5 @@
 id: JohnJr03
+sequence: 198
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,13 @@ marriages:
   - spouse:
       givenName: Joyce
       surname: "[&#8230;]"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Daryl Scott Vining
+        marriages:
+          - date: 28 June 1991
+            spouse: April Michelle Foster
 docsUrl: Jsources/JohnJr03doc.htm
 raw: |-
   <a name="JohnJr03"></a><font size=+2>John Vining Jr.</font>

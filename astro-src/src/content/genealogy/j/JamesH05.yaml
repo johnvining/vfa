@@ -1,4 +1,5 @@
 id: JamesH05
+sequence: 63
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,9 +13,10 @@ head:
   death:
     date: 31 January 2018
 marriages:
-  - spouse:
-      givenName: June
-      surname: "1964"
+  - date: June 1964
+    spouse:
+      givenName: Linda Lee
+      surname: Williams
 childrenGroups:
   - children:
       - name: James Henry Vining Jr.

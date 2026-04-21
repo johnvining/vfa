@@ -1,0 +1,130 @@
+id: JosephM02
+sequence: 315
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesJ03
+parentDesc: James Jenkins Vining and Ellen Catherine Lee
+head:
+  givenName: Joseph Martin
+  birth:
+    date: 11 June 1883
+    place: "Winter Garden, Orange County, Florida"
+  death:
+    date: 22 June 1945
+    place: "Sanford, Seminole County, Florida"
+  burial:
+    place: "Lakeview Cemetery   Sanford, Seminole County, Florida"
+marriages:
+  - number: 1
+    date: 31 July 1910
+    place: "Yulee, Nassau County, Florida"
+    spouse:
+      givenName: Eleanor Rose
+      surname: Goodbread
+      parents: (dau. of Jacob Tapley Goodbread and Charlotte Lee Colson)
+      birth:
+        date: 30 July 1891
+        place: "Nassau County, Florida"
+      death:
+        date: 11 Deccember 1933
+        place: "Sanford, Seminole County, Florida"
+      burial:
+        place: "Lakeview Cemetery   Sanford, Seminole County, Florida"
+  - number: 2
+    date: "1943"
+    place: "Seminole County, Florida"
+    spouse:
+      givenName: Emma
+      surname: Warren
+      birth:
+        date: "1895"
+      death:
+        date: "1947"
+childrenGroups:
+  - children:
+      - name: Joseph Martyn Rufus Vining
+        entryId: JosephM03
+        birth:
+          date: 11 July 1911
+          place: "Fernandina, Nassau County, Florida"
+        marriages:
+          - date: 18 April 1932
+            place: "Fernandina, Nassau County, Florida"
+            spouse: Hazel Leota Greer
+        death:
+          date: 14 February 1953
+          place: "Orlando, Orange County, Florida"
+        burial:
+          place: "Lakeview Cemetery   Sanford, Seminole County, Florida"
+      - name: Eleanor Rose Gertrude Vining
+        birth:
+          date: 11 July 1913
+          place: "[Fernandina, Nassau County or Sanford, Seminole County ?], Florida"
+        marriages:
+          - date: James Edward Woods
+        death:
+          date: 26 February 1985
+          place: "Sanford, Seminole County, Florida"
+        burial:
+          description: "buried Sanford, Seminole Counnty, Florida"
+      - name: Carol Josephine Vining
+        birth:
+          date: 27 March 1916
+          place: "Sanford, Seminole County, Florida"
+        death:
+          date: 30 January 1953
+          place: "Sanford, Seminole County, Florida"
+      - name: Charles Andrew Vining
+        entryId: CharlesA06
+        entryLetter: C
+        birth:
+          date: 23 April 1924
+          place: "Sanford, Seminole County, Florida"
+        marriages:
+          - date: 13 June 1946
+            place: "Beaumont, Jefferson County, Texas"
+            spouse: Billie June Landry
+        death:
+          date: 10 August 2004
+          place: "Lake City, Columbia County, Florida"
+        burial:
+          description: "cremated, with ashes scattered at sea"
+      - name: Ethel Louise Vining
+        birth:
+          date: 31 March 1930
+          place: "Sanford, Seminole County, Florida"
+        marriages:
+          - date: Owen Reid Meredith
+        death:
+          date: 30 December 1981
+          place: "Sanford, Seminole County, Florida"
+        burial:
+          description: "buried Sanford, Seminole County, Florida"
+docsUrl: Jsources/JosephM02doc.htm
+raw: |-
+  <a name="JosephM02"</a><font size=+2>Joseph Martin Vining</font>
+     (son of <a href="#JamesJ03">James Jenkins Vining and Ellen Catherine Lee</a>)
+     b. 11 June 1883   Winter Garden, Orange County, Florida
+     m. 31 July 1910   Yulee, Nassau County, Florida
+           (1) 31 July 1910   Yulee, Nassau County, Florida
+                    Eleanor Rose Goodbread
+                       (dau. of Jacob Tapley Goodbread and Charlotte Lee Colson)
+                       b. 30 July 1891   Nassau County, Florida
+                       d. 11 Deccember 1933   Sanford, Seminole County, Florida
+                          bur. Lakeview Cemetery   Sanford, Seminole County, Florida
+               (2) 1943   Seminole County, Florida
+                     Emma Warren
+                           b. 1895
+                           d. 1947
+     d. 22 June 1945   Sanford, Seminole County, Florida
+           bur. Lakeview Cemetery   Sanford, Seminole County, Florida
+
+  <font size=+1>children:</font>
+     <a href="#JosephM03">Joseph Martyn Rufus Vining</a>   b. 11 July 1911   Fernandina, Nassau County, Florida   -   m. 18 April 1932   Fernandina, Nassau County, Florida   Hazel Leota Greer   -   d. 14 February 1953   Orlando, Orange County, Florida   -   bur. Lakeview Cemetery   Sanford, Seminole County, Florida
+     Eleanor Rose Gertrude Vining   b. 11 July 1913   [Fernandina, Nassau County or Sanford, Seminole County ?], Florida   -   m. James Edward Woods   -   d. 26 February 1985   Sanford, Seminole County, Florida   -   buried Sanford, Seminole Counnty, Florida
+     Carol Josephine Vining   b. 27 March 1916   Sanford, Seminole County, Florida   -   d. 30 January 1953   Sanford, Seminole County, Florida
+     <a href="Cfamilies.htm#CharlesA06">Charles Andrew Vining</a>   b. 23 April 1924   Sanford, Seminole County, Florida   -   m. 13 June 1946   Beaumont, Jefferson County, Texas   Billie June Landry   -   d. 10 August 2004   Lake City, Columbia County, Florida   -   cremated, with ashes scattered at sea
+     Ethel Louise Vining   b. 31 March 1930   Sanford, Seminole County, Florida   -   m. Owen Reid Meredith   -   d. 30 December 1981   Sanford, Seminole County, Florida   -   buried Sanford, Seminole County, Florida
+
+  <a href="Jsources/JosephM02doc.htm">documentation and notes</a>

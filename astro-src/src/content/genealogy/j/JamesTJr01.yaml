@@ -1,4 +1,5 @@
 id: JamesTJr01
+sequence: 99
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     place: Ohio
   death:
     date: 9 December 1924
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
 marriages:
   - date: 31 y. as of 1900 census
     spouse:
@@ -21,6 +24,8 @@ marriages:
         place: Ohio
       death:
         date: 1 February 1931
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
 childrenGroups:
   - children:
       - name: Charles Vining

@@ -1,4 +1,5 @@
 id: JamesA07
+sequence: 33
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 6 June 2017
     place: "Columbus, Ohio"
+  burial:
+    place: "Mansfield Cemetery   Mansfield, Ohio"
 marriages:
   - spouse:
       givenName: Esther

@@ -1,4 +1,5 @@
 id: JohnP02
+sequence: 254
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: Alabama
   death:
     date: 4 August 1961
+  burial:
+    place: "Hickman Chapel Cemetery   Tuscaloosa County, Alabama"
 marriages:
   - spouse:
       givenName: Cora L.
       surname: "[&#8230;]"
+      birth:
+        date: 25 August 1883
+      death:
+        date: 20 January 1954
+      burial:
+        place: "Hickman Chapel Cemetery   Tuscaloosa County, Alabama"
 childrenGroups:
   - children:
       - name: Callie Mae Vining
@@ -35,7 +44,8 @@ childrenGroups:
       - name: Estella Clara Vining
         birth:
           date: "1916"
-          place: "m. [&#8230;] Tyler"
+        marriages:
+          - date: "[&#8230;] Tyler"
         death:
           date: "1985"
 docsUrl: Jsources/JohnP02doc.htm

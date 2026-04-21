@@ -1,4 +1,5 @@
 id: JohnW02
+sequence: 278
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -19,6 +20,25 @@ marriages:
       birth:
         date: 31 July 1946
         place: "Maryville, Missouri"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Terry Lyn Vining
+        birth:
+          date: 25 January 1970
+          place: "Cheyenne, Wyoming"
+        marriages:
+          - number: 1
+            date: 26 May 1990
+            place: "Riverdale, Georgia"
+            spouse: "Karen Lawan Verner, divorced"
+          - number: 2
+            date: 3 August 2003
+            spouse: "Tanya Wadsworth, divorced"
+          - number: 3
+            date: 20 August 2005
+            place: "Jonesboro, Georgia"
+            spouse: Patricia Joy Moberly McGill
 raw: |-
   <a name="JohnW02"></a><font size=+2>John William Vining</font>
      (son of <a href="Pfamilies.htm#PercyF01">Percy Fayette Vining and Virginia Tillotson</a>)

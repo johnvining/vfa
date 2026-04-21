@@ -1,4 +1,5 @@
 id: JesseL01
+sequence: 143
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,13 @@ marriages:
   - spouse:
       givenName: Sarah Ann Nail
       surname: Alcox
+      parents: "(dau. of Churchwell Alcox and Susannah Parramore)"
+      birth:
+        date: 22 April 1838
+        place: Georgia
+      death:
+        date: 5 November 1915
+        place: "Mayo, Florida"
 childrenGroups:
   - children:
       - name: Jesse Henry Vining
@@ -28,7 +36,7 @@ childrenGroups:
             date: Tabitha Goodbread
           - number: 2
             date: 19 August 1890
-            place: Georgia Loretta Rimer
+            spouse: Georgia Loretta Rimer
         death:
           date: 5 November 1931
           place: "Fayettesville, North Carolina"

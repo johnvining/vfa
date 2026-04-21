@@ -1,4 +1,5 @@
 id: JohnS04
+sequence: 267
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: Louisiana
   death:
     date: "1931"
+  burial:
+    place: "Beulah Cemetery   Calhoun, Louisiana"
 marriages:
   - spouse:
       givenName: Mary
       surname: Geuin
+      birth:
+        date: "1863"
+      death:
+        date: "1925"
+      burial:
+        place: "Beulah Cemetery   Calhoun, Louisiana"
 childrenGroups:
   - children:
       - name: Clarence Vining

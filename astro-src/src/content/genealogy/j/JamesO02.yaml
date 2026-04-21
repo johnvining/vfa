@@ -1,4 +1,5 @@
 id: JamesO02
+sequence: 86
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,27 @@ head:
   death:
     date: 20 November 1950
     place: "Aiken, South Carolina"
+  burial:
+    place: "Bethany Cemetery   Aiken, South Carolina"
 marriages:
   - number: 1
     date: 9 y. as of 1910 census
     spouse:
       givenName: Mary Jane
       surname: "O&8217;Steen"
+      parents: "(dau. of Benjamin Harrison O'Steen and Mildred Herrin)"
+      birth:
+        date: 6 June 1880
+        place: "[Clinch County, Georgia or Florida)"
+      death:
+        date: 4 February 1915
+      burial:
+        place: "Chaney Cemetery   Georgia"
+  - number: 2
+    spouse:
+      givenName: Margaret
+      surname: Mitchell
+      parents: (dau. of Asa H. Mitchell and Emma S. Wooley)
       birth:
         date: 7 March 1885
         place: "Williston, South Carolina"
@@ -27,7 +43,7 @@ marriages:
       burial:
         place: "Bethany Cemetery   Aiken, South Carolina"
 childrenGroups:
-  - spouseRef: Mary Jane O'Steen
+  - spouseRef: "Mary Jane O'Steen"
     children:
       - name: Thelma Lucille Vining
         birth:

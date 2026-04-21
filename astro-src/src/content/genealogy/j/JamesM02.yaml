@@ -1,4 +1,5 @@
 id: JamesM02
+sequence: 81
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
   death:
     date: 24 March 1922
     place: Michigan
+  burial:
+    place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
 marriages:
   - spouse:
       givenName: Elizabeth
       surname: Cary
+      birth:
+        date: "1845"
+        place: "New York"
+      death:
+        date: 6 November 1873
+        place: Michigan
+      burial:
+        place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
 childrenGroups:
   - children:
       - name: Lillie E. Vining

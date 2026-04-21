@@ -1,4 +1,5 @@
 id: JamesT02
+sequence: 96
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,9 +15,27 @@ head:
 marriages:
   - number: 1
     date: Vicey Hines
+    spouse:
+      birth:
+        date: "1883"
   - number: 2
     date: Alma Hines
+    spouse:
+      birth:
+        date: "1882"
+      death:
+        date: "1948"
 childrenGroups:
+  - spouseRef: Vicey Hines
+    headingText: "child by Vicey Hines"
+    children:
+      - name: Bettie Vining
+        birth:
+          date: "1901"
+        marriages:
+          - date: Forrest Thomas
+        death:
+          date: "1984"
   - spouseRef: Alma Hines
     children:
       - name: Jesse M. Vining

@@ -1,4 +1,5 @@
 id: JoeA01
+sequence: 152
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 16 June 1993
     place: "Topeka, Kansas"
+  burial:
+    place: "Saint Leos Catholic Cemetery   Horton, Kansas"
 marriages:
   - date: 1 February 1949
     spouse:
       givenName: Lucy
       surname: Carig
+      parents: "(dau. of Karl Carig and Suzanna Katherine Zwenger)"
       birth:
         date: 18 June 1925
         place: "Horton, Kansas"

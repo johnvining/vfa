@@ -1,4 +1,5 @@
 id: JamesH02
+sequence: 61
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,18 @@ head:
     place: Florida
   death:
     date: "1938"
+  burial:
+    place: "Glenwood Cemetery   West Long Branch, New Jersey"
 marriages:
   - spouse:
       givenName: Jennie C.
       surname: Sherman
+      birth:
+        date: "1888"
+      death:
+        date: "1971"
+      burial:
+        place: "Glenwood Cemetery   West Long Branch, New Jersey"
 childrenGroups:
   - children:
       - name: Dorothy Rosalee Vining

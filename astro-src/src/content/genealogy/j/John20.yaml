@@ -1,4 +1,5 @@
 id: John20
+sequence: 177
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,7 @@ marriages:
     spouse:
       givenName: Julia
       surname: Fitzgerald
+      parents: "(dau. of Michael Fitzgerald and [...])"
       birth:
         date: ca. 1824
         place: "London, England"

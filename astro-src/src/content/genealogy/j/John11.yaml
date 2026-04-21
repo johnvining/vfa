@@ -1,4 +1,5 @@
 id: John11
+sequence: 183
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,8 +17,24 @@ head:
 marriages:
   - number: 1
     date: Lucinda E. Farber
+    spouse:
+      birth:
+        date: age 29 y. at death
+      death:
+        date: "29 November 18[6?]4"
+      burial:
+        place: "Etna Green Cemetery   Etna Green, Indiana"
   - number: 2
     date: Lydia M. Pellett
+    spouse:
+      parents: (dau. of Joseph Pellett and Sarah Holloway)
+      birth:
+        date: 16 March 1836
+        place: Ohio
+      death:
+        date: 9 August 1923
+      burial:
+        place: "Summit Chapel Cemetery   Bourbon, Indiana"
 childrenGroups:
   - spouseRef: Lucinda Farber
     children:

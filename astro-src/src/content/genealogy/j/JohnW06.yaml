@@ -1,4 +1,5 @@
 id: JohnW06
+sequence: 275
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,22 @@ head:
     place: Georgia
   death:
     date: 28 May 1987
-    place: "-   bur. Forsyth City Cemetery   Forsyth, Georgia"
+  burial:
+    place: "Forsyth City Cemetery   Forsyth, Georgia"
 marriages:
   - spouse:
       givenName: Georgia Mae
       surname: "[&#8230;]"
+      birth:
+        date: age 21 y. as of 1940 census
+        place: Georgia
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Beverly Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Georgia
 docsUrl: Jsources/JohnW06doc.htm
 raw: |-
   <a name="JohnW06"></a><font size=+2>John Wesley Vining</font>

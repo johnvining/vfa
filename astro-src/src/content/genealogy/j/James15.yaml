@@ -1,4 +1,5 @@
 id: James15
+sequence: 18
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,16 @@ marriages:
   - spouse:
       givenName: "[...]a"
       surname: "[...]"
+      birth:
+        date: "age [19?] y. as of 1870 census"
+        place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: "C[...] E. Vining [male]"
+        birth:
+          date: May 1870
+          place: Ohio
 docsUrl: Jsources/James15doc.htm
 raw: |-
   <a name="James15"></a><font size=+2>James Vining</font>
@@ -19,8 +30,8 @@ raw: |-
      b. age 31 y. as of 1870 census   Ohio
      m. [...]a [...]
               b. age [19?] y. as of 1870 census   Ohio
-  
+
   <font size=+1>child:</font>
      C[...] E. Vining [male]   b. May 1870   Ohio
-  
+
   <a href="Jsources/James15doc.htm">documentation and notes</a>

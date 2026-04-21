@@ -1,4 +1,5 @@
 id: Jack01
+sequence: 1
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,7 @@ marriages:
   - spouse:
       givenName: Georgia Lucille
       surname: Folsom
+      parents: (dau. of George W. Folsom and Juanita Statham)
 childrenGroups:
   - children:
       - name: Jack Vining Jr.

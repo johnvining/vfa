@@ -1,4 +1,5 @@
 id: JohnS03
+sequence: 264
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 23 June 1912
     place: "Thomaston, Georgia"
+  burial:
+    place: "Smith Cemetery   Upson County, Georgia"
 marriages:
   - date: 22 November 1849
     place: Georgia
     spouse:
       givenName: Elizabeth Louiza
       surname: Worthington
+      parents: (dau. of Julius Worthington and Penelope Hooks)
       birth:
         date: age 58 y. at death
         place: Georgia

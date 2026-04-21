@@ -1,4 +1,5 @@
 id: JamesL05
+sequence: 72
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,11 +15,14 @@ head:
     date: 3 October 2020
     place: "Garden City, Saint Mary Parish, Louisiana"
 marriages:
-  - spouse:
-      givenName: "[1 Audree Lynn Fonteneau"
-      surname: "?]"
+  - date: "[1 Audree Lynn Fonteneau ?]"
+  - date: "[2?] 43 y. at death"
+    spouse:
+      givenName: Roberta
+      surname: Robicheaux
 childrenGroups:
-  - children:
+  - headingText: "children [by Auudree Lynn Fonteneau ?]"
+    children:
       - name: Lyn Michael Vining
       - name: David Vining
         marriages:

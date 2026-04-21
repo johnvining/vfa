@@ -1,4 +1,5 @@
 id: JuliusH01
+sequence: 336
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,9 @@ marriages:
   - spouse:
       givenName: "Margaret &#8220;Maggie&#8221;"
       surname: Glenketchen
+      birth:
+        date: age 33 y. as of 1880 census
+        place: Connecticut
 childrenGroups:
   - children:
       - name: Alice Vining

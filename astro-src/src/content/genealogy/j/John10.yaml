@@ -1,4 +1,5 @@
 id: John10
+sequence: 173
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,31 @@ head:
     place: Maine
   death:
     date: 13 March 1889
+  burial:
+    place: "Vining Hill Cemetery   Avon, Maine"
 marriages:
   - number: 1
     date: int. 14 March 1835
+    spouse:
+      givenName: Mary
+      surname: Haines
+      birth:
+        date: 11 June 1817
+      death:
+        date: 4 October 1869
+      burial:
+        place: "Vining Hill Cemetery   Avon, Maine"
   - number: 2
-    date: Louisa T. Stevens
+    spouse:
+      givenName: Louisa T.
+      surname: Stevens
+      parents: (dau. of James Stevens and Mary Turner)
+      birth:
+        date: February 1830
+        place: "Strong, Maine"
+      death:
+        date: 27 February 1900
+        place: "Farmington, Maine"
 childrenGroups:
   - spouseRef: Mary Haines
     children:

@@ -1,4 +1,5 @@
 id: James12
+sequence: 22
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,14 +13,23 @@ marriages:
   - spouse:
       givenName: Ellen
       surname: "[&#8230;]"
+      birth:
+        date: December 1861
+        place: Florida
 childrenGroups:
   - children:
       - name: Mary Vining
         birth:
           date: July 1881
           place: Florida
-      - name: Joseph Vining   b June 1882   Florida
-      - name: Henry Vining   b September 1883   Florida
+      - name: Joseph Vining
+        birth:
+          date: June 1882
+          place: Florida
+      - name: Henry Vining
+        birth:
+          date: September 1883
+          place: Florida
       - name: child Vining
         death:
           date: before 1900 censuus

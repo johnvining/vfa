@@ -1,4 +1,5 @@
 id: Jason01
+sequence: 114
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -10,6 +11,10 @@ marriages:
   - spouse:
       givenName: Amy
       surname: "[...]"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Autumn Vining
 raw: |-
   <a name="Jason01"></a><font size=+2>Jason Vining</font>
      (son of <a href="#Jill01">Jill Vining and Mike Buchholz</a>)

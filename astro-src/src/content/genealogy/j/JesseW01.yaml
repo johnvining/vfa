@@ -1,4 +1,5 @@
 id: JesseW01
+sequence: 150
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,18 @@ head:
     place: "Sumter County, South Carolina"
   death:
     date: 2 July 2000
+  burial:
+    place: "Evergreen Memorial Park   Sumter, Sumter County, South Carolina"
 marriages:
   - spouse:
       givenName: Betty Shelby Jean
       surname: Boykin
+      birth:
+        date: 25 November 1939
+      death:
+        date: "[?]"
+      burial:
+        place: "Evergreen Memorial Park   Sumter, Sumter County, South Carolina"
 childrenGroups:
   - children:
       - name: Michael Vining

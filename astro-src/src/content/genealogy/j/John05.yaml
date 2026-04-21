@@ -1,4 +1,5 @@
 id: John05
+sequence: 163
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 27 October 1837
     place: "Durham, Maine"
+  burial:
+    place: "Old Town Cemetery   Durham, Maine"
 marriages:
   - date: 30 November 1786
     spouse:
       givenName: Mary
       surname: Goodwin
+      parents: (dau. of Samuel Goodwin and Elizabeth Libby)
       birth:
         date: 11 April 1765
         place: "[Freeport or Scarborough ?], Maine"

@@ -1,4 +1,5 @@
 id: JohnO01
+sequence: 253
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -10,10 +11,30 @@ head:
     place: Georgia
   death:
     date: 18 March 1970
+  burial:
+    place: "Covington City Cemetery   Covington, Georgia"
 marriages:
   - spouse:
       givenName: Lillie
       surname: "[&#8230;]"
+      birth:
+        date: 14 February 1887
+        place: Georgia
+      death:
+        date: 29 May 1968
+      burial:
+        place: "Covington City Cemetery   Covington, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Sanders Oliver Vining
+        birth:
+          date: 7 June 1909
+          place: Georgia
+        death:
+          date: 23 May 1980
+        burial:
+          place: "Covington City Cemetery   Covington, Georgia"
 docsUrl: Jsources/JohnO01doc.htm
 raw: |-
   <a name="JohnO01"></a><font size=+2>John Oliver Vining</font>

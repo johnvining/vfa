@@ -1,4 +1,5 @@
 id: JamesR02
+sequence: 93
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,11 +13,17 @@ head:
   death:
     date: 2 January 2013
     place: "St. Joseph, Missouri"
+  burial:
+    place: "Saint Joseph Memorial Park Cemetery   Saint Joseph, Missouri"
 marriages:
   - number: 1
     date: Margaret Beth Smith
+    note: divorced
   - number: 2
     date: 23 April 1994
+    spouse:
+      givenName: Carlene
+      surname: Royston
 childrenGroups:
   - children:
       - name: Karen Vining

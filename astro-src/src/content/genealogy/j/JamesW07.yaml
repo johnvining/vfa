@@ -1,4 +1,5 @@
 id: JamesW07
+sequence: 105
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,15 @@ head:
     place: "Jewett, Greene County, New York"
   death:
     date: 21 June 1882
+  burial:
+    place: "Hensonville Cemetery   New York"
 marriages:
   - spouse:
       givenName: Henrietta
       surname: "[...]"
+      birth:
+        date: age 29 y. as of 1880 census
+        place: "New York"
 childrenGroups:
   - children:
       - name: Cecelia Vining

@@ -1,4 +1,5 @@
 id: JamesM04
+sequence: 80
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,15 @@ head:
 marriages:
   - date: 4 October 1952
     place: "Brakpan, South Africa"
+    spouse:
+      givenName: Barbara Elizabeth
+      surname: Nel
+      birth:
+        date: 9 January 1933
+        place: "Brakpan, South Africa"
+      death:
+        date: 11 August 2016
+        place: "Benoni, South Africa"
 childrenGroups:
   - children:
       - name: Glynis Vining
@@ -36,7 +46,8 @@ childrenGroups:
           place: "Springs, South Africa"
         marriages:
           - date: 11 August 1979
-            spouse: "Pretoria, South Africa   Len&#233;l Strydom"
+            place: "Pretoria, South Africa"
+            spouse: "Len&#233;l Strydom"
       - name: John Marquardt Vining
         birth:
           date: 22 July 1963

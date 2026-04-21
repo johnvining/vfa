@@ -1,4 +1,5 @@
 id: JosiahH01
+sequence: 328
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 10 December 1905
     place: "Ocoee, Orange County, Florida"
+  burial:
+    place: "Ocoee Cemetery   Ocoee, Orange County, Florida"
 marriages:
   - date: 11 December 1856
     place: "Magnolia, Clinch County, Georgia"
@@ -56,12 +59,19 @@ childrenGroups:
         death:
           date: 15 April 1928
           place: "Orange County, Florida"
+      - name: "Kizzie Furleigh Vining"
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Georgia
       - name: Barlow Vining
         birth:
           date: age 3 y. as of 1870 census
           place: Georgia
       - name: Judson Bartow Vining
         entryId: JudsonB01
+        birth:
+          date: 28 June 1862
+          place: "Stockton, Clinch County, Georgia"
         marriages:
           - date: Francis Virginia Lee
         death:

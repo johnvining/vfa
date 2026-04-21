@@ -1,4 +1,5 @@
 id: Jonas01
+sequence: 285
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,21 @@ head:
   death:
     date: 25 May 1841
     place: Ohio
+  burial:
+    place: "Vining Cemetery   Bennington Township, Ohio"
 marriages:
   - spouse:
       givenName: Sarah
       surname: Page
+      parents: "(dau. of Isaac Page and Sarah Bradley)"
+      birth:
+        date: "1771"
+        place: Connecticut
+      death:
+        date: 9 November 1853
+        place: "Pagetown, Morrow County, Ohio"
+      burial:
+        place: "Vining Cemetery   Bennington Township, Ohio"
 childrenGroups:
   - children:
       - name: Betsey Vining

@@ -1,4 +1,5 @@
 id: JamesL04
+sequence: 69
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: "1853"
     place: California
+  burial:
+    place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
 marriages:
   - spouse:
       givenName: Margaret
       surname: Robinson
+      birth:
+        date: 30 January 1817
+        place: Delaware
+      death:
+        date: 13 August 1893
+      burial:
+        place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
 childrenGroups:
   - children:
       - name: Hestelena Vining

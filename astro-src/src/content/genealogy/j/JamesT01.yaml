@@ -1,4 +1,5 @@
 id: JamesT01
+sequence: 98
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,9 +15,11 @@ head:
     date: May 1850
     place: Ohio
 marriages:
-  - spouse:
-      givenName: "[7 March or 21 April?]"
-      surname: "1838"
+  - date: "[7 March or 21 April?] 1838"
+    spouse:
+      givenName: Philena
+      surname: Durfey
+      parents: (dau. of Ebenezer Durfey and Celinda Carter)
       birth:
         date: 7 March 1815
         place: Rhode Island
@@ -72,6 +75,9 @@ childrenGroups:
           date: 30 May 1844
         marriages:
           - date: William George Washington Anderson
+        death:
+          date: 4 May 1918
+          place: "Oskaloosa, Iowa"
       - name: Thomas Patterson Vining
         entryId: ThomasP02
         entryLetter: T

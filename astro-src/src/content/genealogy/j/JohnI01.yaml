@@ -1,4 +1,5 @@
 id: JohnI01
+sequence: 238
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,12 +12,30 @@ head:
     date: 17 August 1866
   death:
     date: 20 March 1895
+  burial:
+    place: "Mount Zion Baptist Church Cemetery   Axson, Georgia"
 marriages:
   - date: "1892"
     place: Georgia
     spouse:
       givenName: "Frances &#8220;Fannie&#8221;"
       surname: Carver
+      parents: (dau. of William B. Carver and Rhoda Carver)
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Oliver Vining
+        entryId: Oliver02
+        entryLetter: O
+        birth:
+          date: 1 July 1893
+        marriages:
+          - date: Arloe Wall
+        death:
+          date: 6 October 1968
+          place: "(last residence: Waycross, Georgia)"
+        burial:
+          place: "City Cemetery   Waycross, Georgia"
 docsUrl: Jsources/JohnI01doc.htm
 raw: |-
   <a name="JohnI01"></a><font size=+2>John Ivey Vining</font>

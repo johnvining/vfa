@@ -1,4 +1,5 @@
 id: JohnD03
+sequence: 215
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,19 @@ head:
     place: Alabama
   death:
     date: October 1952
+  burial:
+    place: "Taylor City Cemetery   Taylor, Texas"
 marriages:
   - spouse:
       givenName: Ever Lena
       surname: Bays
+      birth:
+        date: 1 June 1883
+      death:
+        date: 18 July 1931
+        place: "Grant Parish, Louisiana"
+      burial:
+        place: "Oak Grove Baptist Church Cemetery   Bentley, Louisiana"
 childrenGroups:
   - children:
       - name: Velma Vining

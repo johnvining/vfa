@@ -1,4 +1,5 @@
 id: Julian01
+sequence: 334
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,10 @@ marriages:
   - spouse:
       givenName: Addie Lee
       surname: Bryant
+      parents: "(dau. of Edmund Bryant and Addie [&#8230;])"
+      birth:
+        date: age 26 y. as of 1930 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Lennie Lee Vining

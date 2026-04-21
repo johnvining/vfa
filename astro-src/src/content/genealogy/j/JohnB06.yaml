@@ -1,4 +1,5 @@
 id: JohnB06
+sequence: 204
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,29 @@ marriages:
   - spouse:
       givenName: Hannah B.
       surname: "[...]"
+      birth:
+        date: March 1851
+        place: Delaware
+childrenGroups:
+  - children:
+      - name: "Joseph A[lbert?]. Vining"
+        birth:
+          date: November 1869
+          place: Delaware
+      - name: Mary E. Vining
+        birth:
+          date: October 1871
+          place: Delaware
+        marriages:
+          - date: James Shaw
+      - name: Clara C. Vining
+        birth:
+          date: July 1873
+          place: Delaware
+      - name: John B. Vining
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Delaware
 docsUrl: Jsources/JohnB06doc.htm
 raw: |-
   <a name="JohnB06"></a><font size=+2>John B. Vining</font>

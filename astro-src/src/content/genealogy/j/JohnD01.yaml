@@ -1,4 +1,5 @@
 id: JohnD01
+sequence: 217
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,10 +14,36 @@ head:
   death:
     date: 29 June 1946
     place: "Binghamton, Broome County, New York"
+  burial:
+    place: "Vestal Hills Memorial Park   Vestal, Broome County, New York"
 marriages:
   - spouse:
       givenName: Julia
       surname: Wilbur
+      birth:
+        date: "1869"
+        place: New York
+      death:
+        date: "1960"
+        place: "Binghamton, Broome County, New York"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Clair Wilbur Vining
+        entryId: ClairW01
+        entryLetter: C
+        birth:
+          date: 24 April 1893
+          place: New York
+        marriages:
+          - number: 1
+            date: Jennie Adelia Rose
+          - number: 2
+            date: "?"
+          - number: 3
+            date: "?"
+        death:
+          date: May 1958
 docsUrl: Jsources/JohnD01doc.htm
 raw: |-
   <a name="JohnD01"></a><font size=+2>John Decker Vining</font>

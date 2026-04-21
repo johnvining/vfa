@@ -1,4 +1,5 @@
 id: John31
+sequence: 156
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,22 @@ marriages:
   - spouse:
       givenName: Joane
       surname: Furneaux
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Robert Vining
+        entryId: Robert01
+        entryLetter: R
+        birth:
+          date: ca. 1610
+          place: "Wincanton, England"
+        marriages:
+          - date: ca. 1635
+            place: "Wincanton, England"
+            spouse: Mary Reade
+        death:
+          date: ca. 1672
+          place: "Wincanton, England"
 raw: |-
   <a name="John31"></a><font size=+2>John Vining</font>
      (son of <a href="Rfamilies.htm#Robert11">Robert Vining and Alice Stone</a>)

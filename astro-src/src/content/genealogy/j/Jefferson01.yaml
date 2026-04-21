@@ -1,4 +1,5 @@
 id: Jefferson01
+sequence: 121
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: November 1897
     place: "Kankakee, Kankakee County, Illinois"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois"
 marriages:
   - date: 13 March 1849
     place: Illinois
@@ -29,7 +32,10 @@ childrenGroups:
       - name: Clara M. Vining
         birth:
           date: 1 March 1850
-          place: "Kankakee [County?] Illinois   m. Grant Park, Illinois   Calvin C. Drayer"
+          place: "Kankakee [County?] Illinois"
+        marriages:
+          - place: "Grant Park, Illinois"
+            spouse: Calvin C. Drayer
         death:
           date: 16 July 1925
           place: "Momence, Kankakee County, Illinois"
@@ -101,9 +107,9 @@ childrenGroups:
           place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois"
       - name: William P. Vining
         birth:
-          date: "Kankakee, Illinois"
+          place: "Kankakee, Illinois"
         death:
-          date: "Portland, Multnomah County, Oregon"
+          place: "Portland, Multnomah County, Oregon"
 docsUrl: Jsources/Jefferson01doc.htm
 raw: |-
   <a name="Jefferson01"></a><font size=+2>Jefferson Vining</font>

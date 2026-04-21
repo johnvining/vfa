@@ -1,4 +1,5 @@
 id: JohnF05
+sequence: 221
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -18,12 +19,26 @@ marriages:
     spouse:
       givenName: Nancy Louise
       surname: Royal
+      parents: (dau. of Eugene Casson Royal and Della E. Castleberry)
       birth:
         date: 22 July 1922
         place: "Attalla, Alabama"
       death:
         date: 22 February 1995
         place: "Madison, Wisconsin"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Stanley Alvis Vining
+        entryId: StanleyA01
+        entryLetter: S
+        birth:
+          date: 23 September 1941
+        marriages:
+          - date: "Cheryl [&#8230;]"
+        death:
+          date: 7 June 2017
+          place: "Birmingham, Alabama"
 raw: |-
   <a name="JohnF05"></a><font size=+2>John Floyd Vining</font>
      (son of <a href="Wfamilies.htm#WilburN01">Wilbur Newman Vining and Myrte B. Gentry</a>)

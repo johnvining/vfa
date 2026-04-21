@@ -1,4 +1,5 @@
 id: JosephA01
+sequence: 302
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,14 +12,26 @@ head:
     date: 12 June 1857
   death:
     date: 5 April 1927
+  burial:
+    place: "Vining Cemetery   Friendly Corners, Middlesex County, Ontario"
 marriages:
   - number: 1
-    date: (Mary) Emma Lindley
+    date: "(Mary) Emma Lindley"
+    spouse:
+      birth:
+        date: 20 January 1863
+      death:
+        date: 2 April 1911
+      burial:
+        place: "Vining Cemetery   Friendly Corners, Middlesex County, Ontario"
   - number: 2
     date: 5 September 1914
     spouse:
       givenName: Eliza (Lindley)
       surname: Agur
+      parents: "(dau. of William Lindley and Harriet Dry)"
+      birth:
+        date: age 55 y. at marriage to Joseph Alonzo Vining
 childrenGroups:
   - spouseRef: (Mary) Emma Lindley
     children:
@@ -59,7 +72,8 @@ childrenGroups:
       - name: Harriet Jean Vining
         birth:
           date: 12 July 1895
-          place: m. Freeman J. Duffin
+        marriages:
+          - date: Freeman J. Duffin
       - name: William Henry Vining
         birth:
           date: 24 February 1898
@@ -68,6 +82,8 @@ childrenGroups:
         death:
           date: 7 April 1971
           place: "(last residence: Niagara Falls, New York)"
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario"
       - name: Alice Beatrice Vining
         birth:
           date: 19 June 1900

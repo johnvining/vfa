@@ -1,4 +1,5 @@
 id: JamesC02
+sequence: 39
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,6 +16,13 @@ marriages:
   - spouse:
       givenName: Abigail
       surname: Willoughby
+      parents: (dau. of Elijah Willoughby and Lucia Caswell)
+      birth:
+        date: 15 February 1821
+        place: "Tioga, Tioga County, Pennsylvania"
+      death:
+        date: 4 December 1880
+        place: "Norton, Kansas"
 childrenGroups:
   - children:
       - name: Martha Alameda Vining

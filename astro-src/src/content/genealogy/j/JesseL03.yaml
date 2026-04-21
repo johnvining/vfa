@@ -1,4 +1,5 @@
 id: JesseL03
+sequence: 142
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -15,16 +16,14 @@ head:
 marriages:
   - number: 1
     date: Lulu Hewitt
-    spouse:
-      givenName: divorced
-      surname: divorced
+    note: "divorced"
   - number: 2
     date: 13 October 1942
     spouse:
       givenName: Regina
       surname: Thill
 childrenGroups:
-  - spouseRef: Lulu Hewitt
+  - headingText: "children by Lulu Hewitt"
     children:
       - name: Laura Violet Vining
         birth:

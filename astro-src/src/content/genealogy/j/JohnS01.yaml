@@ -1,4 +1,5 @@
 id: JohnS01
+sequence: 268
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,19 @@ head:
     place: Alabama
   death:
     date: 21 September 1907
+  burial:
+    place: "Georgetown Cemetery   Georgetown, Georgia"
 marriages:
   - spouse:
       givenName: Emma
       surname: Sparks
+      birth:
+        date: 30 March 1860
+        place: Alabama
+      death:
+        date: 6 July 1935
+      burial:
+        place: "Georgetown Cemetery   Georgetown, Georgia"
 childrenGroups:
   - children:
       - name: Walter D. Vining

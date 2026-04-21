@@ -1,4 +1,5 @@
 id: JonasN01
+sequence: 286
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -14,6 +15,14 @@ head:
 marriages:
   - number: 1
     date: Malinda Bowen
+    spouse:
+      birth:
+        date: 1 July 1841
+        place: Ohio
+      death:
+        date: 31 December 1891
+      burial:
+        place: "Buxton Cemetery   Franklin County, Virginia"
   - number: 2
     date: "1894"
     spouse:
@@ -23,7 +32,13 @@ marriages:
         date: August 1855
         place: Ohio
 childrenGroups:
-  - spouseRef: "Sarah A. &#8220;Nancy&#8221; Columbes"
+  - headingText: "child by Malinda Bowen"
+    children:
+      - name: Edith M. Vining
+        birth:
+          date: 17 July 1873
+          place: Ohio
+  - headingText: "children by Sarah A. &#8220;Nancy&#8221; Columbes"
     children:
       - name: Leo Nelson Vining
         entryId: LeoN01

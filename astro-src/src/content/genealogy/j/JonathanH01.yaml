@@ -1,4 +1,5 @@
 id: JonathanH01
+sequence: 184
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,11 +12,14 @@ head:
     date: age 28 y. as of 1860 census
     place: Georgia
   death:
-    date: "Kerr, Texas"
+    place: "Kerr, Texas"
 marriages:
   - spouse:
       givenName: Elizabeth
       surname: Stratford
+      birth:
+        date: age 27 y. as of 1860 census
+        place: Germany
 childrenGroups:
   - children:
       - name: Nancy Vining

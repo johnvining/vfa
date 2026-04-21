@@ -1,4 +1,5 @@
 id: John08
+sequence: 170
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     date: age 69 y. at death
   death:
     date: 11 November 1866
+  burial:
+    place: "William Ganong Cemetery   Westland, Michigan"
 marriages:
   - spouse:
       givenName: Abigail

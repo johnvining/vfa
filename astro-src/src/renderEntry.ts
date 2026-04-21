@@ -237,6 +237,7 @@ export function renderEntry(data: EntryData): string {
     const rel = data.relationship === 'adopted dau.' ? 'adopted dau.'
       : data.relationship === 'adopted son' ? 'adopted son'
       : data.relationship === 'dau.' ? 'dau.'
+      : data.relationship === 'daughter' ? 'daughter'
       : 'son';
     const closeParen = data.noCloseParen ? '' : ')';
     if (data.parentId) {

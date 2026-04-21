@@ -1,4 +1,5 @@
 id: JohnA03
+sequence: 197
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -16,6 +17,16 @@ head:
 marriages:
   - date: "[8 or 16?] January 1840"
     place: "Patterson, Louisiana"
+    spouse:
+      givenName: Adele Margaret
+      surname: Comeaux
+      parents: "(dau. of Alexandre Alexis Simon Comeau[x?] and Marguerite Anne Blanchard)"
+      birth:
+        date: 2 April 1812
+        place: "Patterson, Saint Mary Parish, Louisiana"
+      death:
+        date: "1849"
+        place: "Patterson, Saint Mary Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Mary Leonide Vining

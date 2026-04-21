@@ -1,4 +1,5 @@
 id: JamesA06
+sequence: 26
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,27 @@ head:
     place: Indiana
   death:
     date: 25 November 1964
+  burial:
+    place: "Lindenwood Cemetery   Fort Wayne, Indiana"
 marriages:
   - spouse:
       givenName: Elaine
       surname: Lehner
+      birth:
+        date: 22 April 1912
+        place: Indiana
+      death:
+        date: 6 December 2004
+        place: "Fort Wayne, Indiana"
+      burial:
+        place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Dolores Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Indiana
 docsUrl: Jsources/JamesA06doc.htm
 raw: |-
   <a name="JamesA06"></a><font size=+2>James A. Vining</font>
@@ -27,8 +45,8 @@ raw: |-
                     bur. Lindenwood Cemetery   Fort Wayne, Indiana
      d. 25 November 1964
            bur. Lindenwood Cemetery   Fort Wayne, Indiana
-  
+
   <font size=+1>child:</font>
      Dolores Vining   b. age 2 y. as of 1940 census   Indiana
-  
+
   <a href="Jsources/JamesA06doc.htm">documentation and notes</a>

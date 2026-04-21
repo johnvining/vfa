@@ -1,4 +1,5 @@
 id: JamesE01
+sequence: 49
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,6 +18,12 @@ marriages:
   - spouse:
       givenName: Caroline M.
       surname: Engelmann
+      birth:
+        date: 23 April 1912
+      death:
+        date: 6 September 1975
+      burial:
+        place: "Garden of Memories Cemetery   Tampa, Florida"
 childrenGroups:
   - children:
       - name: Carolyn Elizabeth Vining

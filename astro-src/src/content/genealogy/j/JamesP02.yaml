@@ -1,4 +1,5 @@
 id: JamesP02
+sequence: 89
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: Ohio
   death:
     date: 8 July 1925
+  burial:
+    place: "Saint Mary Cemetery   Delaware, Ohio"
 marriages:
   - date: 28 July 1881
     place: "Crawford, Ohio"
@@ -21,6 +24,14 @@ marriages:
       birth:
         date: December 1860
         place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: child Vining
+        birth:
+          date: between 1900 and 1910 census
+        death:
+          date: between 1900 and 1910 census
 docsUrl: Jsources/JamesP02doc.htm
 raw: |-
   <a name="JamesP02"></a><font size=+2>James P. Vining</font>

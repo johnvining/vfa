@@ -1,4 +1,5 @@
 id: JosephH02
+sequence: 313
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 17 February 2001
     place: "Loganville, Georgia"
+  burial:
+    place: "Arlington Memorial Park   Atlanta, Fulton County, Georgia"
 marriages:
   - date: 12 December 1930
     place: "Atlanta, Fulton County, Georgia"
     spouse:
       givenName: Willie Frances
       surname: Brown
+      parents: "(dau. of Nathaniel Tolerford Brown and Clara Estelle Ireland)"
       birth:
         date: "1910"
         place: "Atlanta, Fulton County, Georgia"

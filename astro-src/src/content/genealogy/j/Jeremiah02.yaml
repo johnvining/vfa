@@ -1,4 +1,5 @@
 id: Jeremiah02
+sequence: 133
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,10 +12,20 @@ head:
   death:
     date: 10 November 1904
     place: "Mount Pleasant, Isabella County, Michigan"
+  burial:
+    place: "Chippewa Township Cemetery   Mount Pleasant, Isabella County, Michigan"
 marriages:
   - spouse:
       givenName: Emily
       surname: Lacock
+      birth:
+        date: 1 January 1820
+        place: "[Ohio or New Jersey]"
+      death:
+        date: 8 January 1892
+        place: "Mount Pleasant, Isabella County, Michigan"
+      burial:
+        place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
 childrenGroups:
   - children:
       - name: Sarah Elizabeth Vining

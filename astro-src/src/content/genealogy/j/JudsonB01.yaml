@@ -1,4 +1,5 @@
 id: JudsonB01
+sequence: 331
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -6,6 +7,9 @@ parentId: JosiahH01
 parentDesc: "Josiah Henry Vining and Mary &#8220;Polly&#8221; Skinner"
 head:
   givenName: Judson Bartow
+  birth:
+    date: 28 June 1862
+    place: "Stockton, Clinch County, Georgia"
   death:
     date: 21 March 1906
     place: "Ocoee, Florida"
@@ -13,6 +17,13 @@ marriages:
   - spouse:
       givenName: Francis Virginia
       surname: Lee
+      parents: "(dau. of William Riley Lee and Virginia Fatima Johns)"
+      birth:
+        date: ca. 1868
+        place: Florida
+      death:
+        date: July 1958
+        place: "Jacksonville, Florida"
 childrenGroups:
   - children:
       - name: Ida May Vining

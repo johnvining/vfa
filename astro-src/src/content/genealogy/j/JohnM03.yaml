@@ -1,4 +1,5 @@
 id: JohnM03
+sequence: 249
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,19 @@ head:
   death:
     date: 28 December 1907
     place: "Romulus, Wayne County, Michigan"
+  burial:
+    place: "Romulus Memorial Cemetery   Romulus, Wayne County, Michigan"
 marriages:
   - spouse:
       givenName: Emily M.
       surname: Collard
+      parents: (dau. of Michael Collard and Ester Whitehead)
+      birth:
+        date: August 1847
+        place: Michigan
+      death:
+        date: 21 February 1940
+        place: "Wayne, Wayne County, Michigan"
 childrenGroups:
   - children:
       - name: Jessie I. Vining

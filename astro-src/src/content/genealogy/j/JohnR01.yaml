@@ -1,4 +1,5 @@
 id: JohnR01
+sequence: 258
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -17,7 +18,8 @@ marriages:
       givenName: Rachel
       surname: "[...]"
 childrenGroups:
-  - children:
+  - headingText: "children?"
+    children:
       - name: John Vining
         entryId: John07
         birth:
@@ -34,7 +36,7 @@ childrenGroups:
         birth:
           date: "15 May (1784&#8211;1789 ?)"
         death:
-          date: "New Lebanon, New York"
+          place: "New Lebanon, New York"
       - name: Rachel Vining
         birth:
           date: 24 November 1794

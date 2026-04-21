@@ -1,4 +1,5 @@
 id: JamesL03
+sequence: 73
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -9,6 +10,13 @@ head:
   givenName: James Lee
   birth:
     date: 2 September 1950
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Jason Christopher Vining
+        birth:
+          date: 16 December 1979
+          place: "Charlotte, North Carolina"
 raw: |-
   <a name="JamesL03"></a><font size=+2>James Lee Vining</font>
      (son of <a href="Gfamilies.htm#GuyEJr01">Guy Ellsworth Vining and Irene Townsend</a>)

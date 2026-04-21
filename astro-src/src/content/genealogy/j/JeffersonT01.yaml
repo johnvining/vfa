@@ -1,4 +1,5 @@
 id: JeffersonT01
+sequence: 125
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,10 +13,30 @@ head:
     place: Texas
   death:
     date: 22 November 1953
+  burial:
+    place: "Masonic Cemetery   McMinnville, Oregon"
 marriages:
   - spouse:
       givenName: Sarah
       surname: Young
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: George Robert Vining
+        entryId: GeorgeR01
+        entryLetter: G
+        birth:
+          date: 6 August 1897
+          place: "Portland, Oregon"
+        marriages:
+          - date: March 1928
+            place: "Vancouver, Washington"
+            spouse: Fidella Emmaline Galladay
+        death:
+          date: 23 May 1983
+          place: "McMinnville, Oregon"
+        burial:
+          place: "Masonic Cemetery   McMinnville, Oregon"
 docsUrl: Jsources/JeffersonT01doc.htm
 raw: |-
   <a name="JeffersonT01"></a><font size=+2>Jefferson T. Vining</font>

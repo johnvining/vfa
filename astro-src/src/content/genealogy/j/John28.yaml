@@ -1,4 +1,5 @@
 id: John28
+sequence: 186
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,16 @@ marriages:
   - spouse:
       givenName: "Mary [J.?]"
       surname: "[...]"
+      birth:
+        date: age 25 y. as of 1870 census
+        place: Alabama
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Lucinda Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Alabama
 docsUrl: Jsources/John28doc.htm
 raw: |-
   <a name="John28"></a><font size=+2>John Vining</font>

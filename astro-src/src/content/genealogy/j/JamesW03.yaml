@@ -1,4 +1,5 @@
 id: JamesW03
+sequence: 104
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,39 @@ head:
   death:
     date: 9 November 1901
     place: "St. Joseph Township, Indiana"
+  burial:
+    place: "Lindenwood Cemetery   Fort Wayne, Indiana"
 marriages:
-  - spouse:
-      givenName: "[1?]"
-      surname: "[&#8230;]"
+  - date: "[1?] [&#8230;]"
+  - date: "[2?] 16 March 1861"
+    spouse:
+      givenName: Katherine
+      surname: Buettner
+      birth:
+        date: "1842"
+        place: Indiana
+      death:
+        date: 10 March 1905
+        place: "Fort Wayne, Indiana"
+      burial:
+        place: "Lindenwood Cemetery   Fort Wayne, Indiana"
 childrenGroups:
+  - spouseRef: "[&#8230;]"
+    headingText: "child by [&#8230;]"
+    children:
+      - name: Alexander Vining
+        entryId: Alexander05
+        entryLetter: A
+        birth:
+          date: "1853"
+          place: "New York"
+        marriages:
+          - date: Alice Edwards
+        death:
+          date: 2 June 1926
+          place: "Athens, New York"
+        burial:
+          place: "Athens Rural Cemetery   Athens, New York"
   - spouseRef: Katherine Buettner
     children:
       - name: Carrie Vining

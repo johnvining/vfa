@@ -1,4 +1,5 @@
 id: James02
+sequence: 16
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 25 January 1904
     place: "Lewiston, Maine"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Maine"
 marriages:
   - date: 21 August 1869
     spouse:
       givenName: Susan D.
       surname: Clark
+      parents: (dau. of James Clark and Susan Dyer)
       birth:
         date: "1834"
         place: "Wales, Maine"

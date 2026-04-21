@@ -1,4 +1,5 @@
 id: JamesW06
+sequence: 101
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -12,6 +13,22 @@ marriages:
   - spouse:
       givenName: Florence
       surname: "[&#8230;]"
+      birth:
+        date: age 40 y. as of 1910 census
+        place: England
+      death:
+        date: between 1910 and 1920 censuses
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Emmett A. Vining
+        entryId: EmmettA01
+        entryLetter: E
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Louisiana
+        marriages:
+          - date: "Catherine V. [&#8230;]"
 docsUrl: Jsources/JamesW06doc.htm
 raw: |-
   <a name="JamesW06"></a><font size=+2>James W. Vining</font>

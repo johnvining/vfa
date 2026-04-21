@@ -1,4 +1,5 @@
 id: JamesP01
+sequence: 90
 letter: J
 lastUpdated: 10 March 2023
 relationship: son
@@ -11,6 +12,13 @@ marriages:
   - spouse:
       givenName: Frances Louise
       surname: Vernon
+      parents: (dau. of Edgar Vernon and Theo Perry)
+      birth:
+        date: 27 September 1932
+      death:
+        date: 19 January 2011
+      burial:
+        place: "Scottsville Cemetery   Scottsville, Alabama"
 childrenGroups:
   - children:
       - name: Lisa Vining
@@ -30,6 +38,8 @@ childrenGroups:
           - date: John Stiles
       - name: James P. Vining Jr.
         entryId: JamesPJr01
+        marriages:
+          - date: "Tina [...]"
 raw: |-
   <a name="JamesP01"></a><font size=+2>James P. Vining</font>
      (son of [?])
