@@ -237,7 +237,7 @@ function parseEntry(block, letter) {
   if (!idMatch) return null;
   const id = idMatch[1];
 
-  const nameMatch = headerLine.match(/<font size=["']?\+2["']?>([^<]+)<\/font>/i);
+  const nameMatch = headerLine.match(/<font size=["']?\+2["']?>([^<]+)(?:<\/[^>]*>)*/i);
   // Remove "Vining" suffix and trailing space
   let fullName = nameMatch ? nameMatch[1].replace(/\s+Vining\s*$/, '').trim() : '';
   // Handle "Vining Jr." etc.
@@ -602,7 +602,7 @@ function serializeEntry(entry) {
 }
 
 function serializeGivenName(name) {
-  return `  givenName: ${yamlStr(name)}\n`;
+  return `  givenName: ${yamlStr(name || '[?]')}\n`;
 }
 
 function yamlStr(v) {
