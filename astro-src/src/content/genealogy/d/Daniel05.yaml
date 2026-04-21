@@ -1,4 +1,5 @@
 id: Daniel05
+sequence: 10
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -6,15 +7,19 @@ parentId: BillyJ01
 parentLetter: B
 parentDesc: Billy Joe Vinning
 head:
-  givenName: Daniel Vinning
+  givenName: Daniel
+  surname: Vinning
 marriages:
   - spouse:
-      givenName: Jeanita
-      surname: "[&#8230;]"
+      givenName: "Jeanita [&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Chad Vinning
 raw: |-
   <a name="Daniel05"></a><font size=+2>Daniel Vinning</font>
      (son of <a href="Bfamilies.htm#BillyJ01">Billy Joe Vinning</a>)
      m. Jeanita [&#8230;]
-  
+
   <font size=+1>child:</font>
      Chad Vinning

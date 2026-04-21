@@ -1,4 +1,5 @@
 id: DavidW01
+sequence: 59
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 12 July 1887
     place: "Lewiston, Idaho"
+  burial:
+    place: "Normal Hill Cemetery   Lewiston, Idaho"
 marriages:
   - date: 8 March 1842
     place: "Lynn, Massachusetts"
     spouse:
       givenName: Caroline M.
       surname: Weed
+      parents: "(dau. of George Weed and Desire Roundy)"
       birth:
         date: 11 March 1822
         place: "Bristol, Rhode Island"
@@ -47,7 +51,10 @@ childrenGroups:
         birth:
           date: age 8 y. as of 1860 census
           place: Massachusetts
-      - name: Carrie D. Vining   b age 4 y. as of 1860 census   Massachusetts
+      - name: Carrie D. Vining
+        birth:
+          date: "age 4 y. as of 1860 census"
+          place: Massachusetts
 docsUrl: Dsources/DavidW01doc.htm
 raw: |-
   <a name="DavidW01"></a><font size=+2>David W. Vining</font>

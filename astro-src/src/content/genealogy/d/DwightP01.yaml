@@ -1,4 +1,5 @@
 id: DwightP01
+sequence: 98
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -36,7 +37,10 @@ childrenGroups:
           place: "Swannanoa, North Carolina"
         marriages:
           - date: 27 October 1956
-            spouse: "Braintree, England   Joan Kirk"
+            place: "Braintree, England"
+            spouse: Joan Kirk
+  - headingText: "adopted child"
+    children:
       - name: Patricia Ann Vining
         birth:
           date: 5 March 1949

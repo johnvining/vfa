@@ -1,4 +1,5 @@
 id: DouglasH01
+sequence: 93
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     date: 30 June 1925
   death:
     date: 16 June 2001
+  burial:
+    place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
 marriages:
   - spouse:
       givenName: Netye
@@ -19,13 +22,13 @@ childrenGroups:
   - children:
       - name: Joyce Vining
         marriages:
-          - date: "[...] Lawrence"
+          - spouse: "[...] Lawrence"
       - name: Patricia S. Vining
         marriages:
-          - date: "[...] Stevenson"
+          - spouse: "[...] Stevenson"
       - name: Peggy S. Vining
         marriages:
-          - date: "[...] Jarrell"
+          - spouse: "[...] Jarrell"
       - name: Gary Vining
       - name: Ronald Vining
       - name: "Jeffrey Sylvest[er?] [Vining?]"

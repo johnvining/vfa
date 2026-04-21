@@ -56,6 +56,7 @@ interface EntryData {
   parentId?: string;
   parentLetter?: string;
   parentDesc?: string;
+  noCloseParen?: boolean;
   head: {
     givenName: string;
     surname?: string;
@@ -81,7 +82,7 @@ function dp(field: DatePlace): string {
 // and should not receive an additional b. or d. prefix
 function hasSelfPrefix(date: string | undefined): boolean {
   if (!date) return false;
-  return /^(bapt\.|int\.|chr\.|baptized|christened|n\.|\[b\.)/.test(date);
+  return /^(bapt\.|int\.|chr\.|baptized|christened|n\.|\[b\.|b,)/.test(date);
 }
 
 function bur(b: Burial, indent: number): string[] {
@@ -207,10 +208,11 @@ function renderChildLine(child: Child): string {
     }
   }
 
-  if (child.note) segments.push(child.note);
+  if (child.note && !child.death) segments.push(child.note);
   if (child.death) segments.push('d. ' + dp(child.death));
   if (child.burial?.place) segments.push('bur. ' + child.burial.place);
   else if (child.burial?.description) segments.push(child.burial.description);
+  if (child.note && child.death) segments.push(child.note);
 
   const segStr = segments.join('   -   ');
   return '   ' + (segStr ? nameStr + '   ' + segStr : nameStr);
@@ -230,13 +232,14 @@ export function renderEntry(data: EntryData): string {
       : data.relationship === 'adopted son' ? 'adopted son'
       : data.relationship === 'dau.' ? 'dau.'
       : 'son';
+    const closeParen = data.noCloseParen ? '' : ')';
     if (data.parentId) {
       const href = data.parentLetter
         ? `${data.parentLetter}families.htm#${data.parentId}`
         : `#${data.parentId}`;
-      lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>)`);
+      lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>${closeParen}`);
     } else {
-      lines.push(`   (${rel} of ${data.parentDesc})`);
+      lines.push(`   (${rel} of ${data.parentDesc}${closeParen}`);
     }
   }
 
@@ -263,7 +266,11 @@ export function renderEntry(data: EntryData): string {
       if (first.place) mLine += (first.date ? '   ' : '') + first.place;
       lines.push(mLine);
       lines.push(...renderNumberedSpouseBlock(first));
-      if (first.note) lines.push('         ' + first.note);
+      if (first.note) {
+        for (const noteLine of first.note.split('\n')) {
+          lines.push('               ' + noteLine);
+        }
+      }
 
       // Subsequent numbered marriages: "(2) DATE   PLACE"
       for (const m of marriages.slice(1)) {
@@ -272,7 +279,11 @@ export function renderEntry(data: EntryData): string {
         if (m.place) mLine += (m.date ? '   ' : '') + m.place;
         lines.push(mLine);
         lines.push(...renderNumberedSpouseBlock(m));
-        if (m.note) lines.push('         ' + m.note);
+        if (m.note) {
+          for (const noteLine of m.note.split('\n')) {
+            lines.push('               ' + noteLine);
+          }
+        }
       }
     } else {
       // Unnumbered marriages
@@ -312,10 +323,14 @@ export function renderEntry(data: EntryData): string {
 
   // Children groups
   for (const group of (data.childrenGroups as any[]) ?? []) {
-    if (group.spouseRef) {
+    if (group.headingText) {
+      if (group.headingText.toLowerCase() !== 'children') {
+        lines.push(`<font size="+1">${group.headingText}:</font>`);
+      } else {
+        lines.push('<font size="+1">children:</font>');
+      }
+    } else if (group.spouseRef) {
       lines.push(`<font size="+1">children by ${group.spouseRef}:</font>`);
-    } else if (group.headingText && group.headingText.toLowerCase() !== 'children') {
-      lines.push(`<font size="+1">${group.headingText}:</font>`);
     } else {
       lines.push('<font size="+1">children:</font>');
     }

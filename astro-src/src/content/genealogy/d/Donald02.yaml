@@ -1,4 +1,5 @@
 id: Donald02
+sequence: 70
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -11,6 +12,7 @@ marriages:
     spouse:
       givenName: Judith
       surname: Dark
+      parents: "(dau. of Richard Dark and Shirley [&#8230;])"
       birth:
         date: 12 March 1958
         place: "West Covina, California"
@@ -21,17 +23,17 @@ childrenGroups:
   - children:
       - name: Barbara Vining
         marriages:
-          - date: Bill Golden
+          - spouse: Bill Golden
       - name: Kristee Vining
       - name: Bridget Vining
         marriages:
-          - date: Joe Garcia
+          - spouse: Joe Garcia
       - name: Jennifer Vining
         marriages:
-          - date: "[&#8230;] Mulliken"
+          - spouse: "[&#8230;] Mulliken"
       - name: Daniel Vining
         marriages:
-          - date: "Audrey [&#8230;]"
+          - spouse: "Audrey [&#8230;]"
 docsUrl: Dsources/Donald02doc.htm
 raw: |-
   <a name="Donald02"></a><font size=+2>Donald Vining</font>

@@ -1,4 +1,5 @@
 id: Daniel04
+sequence: 9
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 13 December 1912
     place: "Cohasset, Norfolk County, Massachusetts"
+  burial:
+    place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
 marriages:
   - number: 1
     date: 10 May 1857
@@ -19,6 +22,7 @@ marriages:
     spouse:
       givenName: Elizabeth Ann
       surname: Field
+      parents: "(dau. of William Field and Louisa Dickerman)"
       birth:
         date: 12 May 1836
         place: "Quincy, Norfolk County, Massachusetts"
@@ -39,6 +43,41 @@ marriages:
         date: "[?]"
       burial:
         place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - headingText: child by Elizabeth Ann Field
+    children:
+      - name: Elmer Howard Vining
+        entryId: ElmerH01
+        entryLetter: E
+        birth:
+          date: 13 February 1858
+          place: "Quincy, Norfolk County, Massachusetts"
+        marriages:
+          - date: 23 December 1882
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Mariah Louise DesLauriers
+        death:
+          date: 28 May 1939
+          place: "Brockton, Plymouth County, Massachusetts"
+        burial:
+          place: "Melrose Cemetery   Brockton, Plymouth County, Massachusetts"
+  - headingText: child by Lydia Whelpdale
+    children:
+      - name: Robert Edward Vining
+        birth:
+          date: 22 August 1901
+          place: "Hull, Plymouth County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 1 y. as of 1930 census
+            spouse: "Lydia E. [...]"
+          - number: 2
+            spouse: "Silvia [...]"
+        death:
+          date: 11 October 1949
+          place: "Santa Clara [County?], California"
+        burial:
+          place: "Golden Gate National Cemetery   San Bruno, San Mateo County, California"
 docsUrl: Dsources/Daniel04doc.htm
 raw: |-
   <a name="Daniel04"></a><font size=+2>Daniel Vining</font>
@@ -57,10 +96,10 @@ raw: |-
                              bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
      d. 13 December 1912   Cohasset, Norfolk County, Massachusetts
            bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
-  
+
   <font size=+1>child by Elizabeth Ann Field:</font>
      <a href="Efamilies.htm#ElmerH01">Elmer Howard Vining</a>   b. 13 February 1858   Quincy, Norfolk County, Massachusetts   -   m. 23 December 1882   Weymouth, Norfolk County, Massachusetts   Mariah Louise DesLauriers   -   d. 28 May 1939   Brockton, Plymouth County, Massachusetts   -   bur. Melrose Cemetery   Brockton, Plymouth County, Massachusetts
   <font size=+1>child by Lydia Whelpdale:</font>
      Robert Edward Vining   b. 22 August 1901   Hull, Plymouth County, Massachusetts   -   m. (1) 1 y. as of 1930 census   Lydia E. [...];   (2) Silvia [...]   -   d. 11 October 1949   Santa Clara [County?], California   -   bur. Golden Gate National Cemetery   San Bruno, San Mateo County, California
-  
+
   <a href="Dsources/Daniel04doc.htm">documentation and notes</a>

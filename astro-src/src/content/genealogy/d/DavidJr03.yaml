@@ -1,4 +1,5 @@
 id: DavidJr03
+sequence: 35
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,26 @@ marriages:
   - spouse:
       givenName: Cynthia A.
       surname: Cobb
+      birth:
+        date: age 20 y. as of 1850 census
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Howard C. Vining
+        entryId: HowardC01
+        entryLetter: H
+        birth:
+          date: age 8 m. as of 1850 census
+          place: Massachusetts
+        marriages:
+          - number: 1
+            date: 28 November 1872
+            place: "Brewster, Massachusetts"
+            spouse: M. Emma Small
+          - number: 2
+            date: "14 y. as of 1900 census"
+            spouse: "Lottie J. [&#8230;]"
 docsUrl: Dsources/DavidJr03doc.htm
 raw: |-
   <a name="DavidJr03"></a><font size=+2>David Vining Jr.</font>

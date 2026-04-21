@@ -1,4 +1,5 @@
 id: DavidB02
+sequence: 40
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,14 @@ marriages:
   - spouse:
       givenName: Vicki
       surname: Waan
+      birth:
+        date: 22 March 1952
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Michele Ashley Vining
+        birth:
+          date: 2 January 1970
 raw: |-
   <a name="DavidB02"></a><font size=+2>David Bland Vining</font>
      (son of <a href="Gfamilies.htm#GeorgeMJr01">George Matthew Vining Jr. and Deleslyn Bland</a>)

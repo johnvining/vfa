@@ -1,4 +1,5 @@
 id: DavidB01
+sequence: 41
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,12 @@ marriages:
   - spouse:
       givenName: Beatrice
       surname: Orins
+      birth:
+        date: "1936"
+      death:
+        date: October 1998
+      burial:
+        place: "Restlawn Memory Gardens   Huron, South Dakota"
 childrenGroups:
   - children:
       - name: Keith Burchim Vining
@@ -21,7 +28,7 @@ childrenGroups:
         birth:
           date: 27 March 1956
         marriages:
-          - date: "Vickie [...]"
+          - spouse: "Vickie [...]"
         death:
           date: 7 June 1991
         burial:
@@ -32,7 +39,7 @@ childrenGroups:
         birth:
           date: 26 July 1957
         marriages:
-          - date: "Luann [...]"
+          - spouse: "Luann [...]"
 docsUrl: Dsources/DavidB01doc.htm
 raw: |-
   <a name="DavidB01"></a><font size=+2>David Burchim Vining</font>

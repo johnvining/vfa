@@ -1,4 +1,5 @@
 id: DavidH01
+sequence: 45
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 5 August 1894
     place: "Lake City, Minnesota"
+  burial:
+    place: "Vining Cemetery   Florence, Minnesota"
 marriages:
   - number: 1
     date: 1 June 1839
@@ -66,7 +69,7 @@ childrenGroups:
           date: 27 February 1847
           place: "Palmyra, Pennsylvania"
         marriages:
-          - date: Martha Harrison Chapman
+          - spouse: Martha Harrison Chapman
         death:
           date: 19 November 1885
         burial:

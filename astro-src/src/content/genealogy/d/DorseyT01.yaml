@@ -1,4 +1,5 @@
 id: DorseyT01
+sequence: 90
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 4 January 1941
     place: "Opelika, Alabama"
+  burial:
+    place: "Rosemere Cemetery   Opelika, Alabama"
 marriages:
   - date: 29 August 1916
     place: "Houston County, Georgia"
@@ -40,13 +43,15 @@ childrenGroups:
         death:
           date: 21 January 2009
           place: "Oak Island, Brunswick County, North Carolina"
+        burial:
+          description: "cremated, ashes distributed to various individuals"
       - name: Pearlie J. Vining
         birth:
           date: "age 1 y., 6 m. at of 1930 census"
           place: Georgia
       - name: Pat Vining
         marriages:
-          - date: "[...] Hullett"
+          - spouse: "[...] Hullett"
 docsUrl: Dsources/DorseyT01doc.htm
 raw: |-
   <a name="DorseyT01"></a><font size=+2>Dorsey T. Vining</font>

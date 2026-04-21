@@ -1,4 +1,5 @@
 id: DavidJ04
+sequence: 49
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
   death:
     date: 17 July 1967
     place: "Greenville, Texas"
+  burial:
+    place: "Royse City Cemetery   Royse City, Texas"
 marriages:
   - spouse:
       givenName: Bessie
       surname: Smith
+      birth:
+        date: 3 May 1906
+        place: "Hunt County, Texas"
+      death:
+        date: 2 April 1995
+        place: "Garland, Texas"
+      burial:
+        place: "Royse City Cemetery   Royse City, Texas"
 childrenGroups:
   - children:
       - name: Isabel Marie Vining

@@ -1,4 +1,5 @@
 id: DonaldC01
+sequence: 74
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -24,12 +25,12 @@ childrenGroups:
         birth:
           date: 2 November 1941
         marriages:
-          - date: Barbara Ann Hovancik
+          - spouse: Barbara Ann Hovancik
       - name: Donita Christine Vining
         birth:
           date: 6 November 1946
         marriages:
-          - date: Norman Rogers Jr.
+          - spouse: Norman Rogers Jr.
 docsUrl: Dsources/DonaldC01doc.htm
 raw: |-
   <a name="DonaldC01"></a><font size=+2>Donald Clair Vining</font>

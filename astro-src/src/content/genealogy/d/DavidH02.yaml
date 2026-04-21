@@ -1,8 +1,11 @@
 id: DavidH02
+sequence: 46
 letter: D
 lastUpdated: 25 February 2023
-relationship: dau.
-parentDesc: Hans Johnson Mork and Kristine Larson
+relationship: son
+parentId: EdwardM01
+parentLetter: E
+parentDesc: "Edward Milton Vining and [Adelia or Adella?] D. Garrity"
 head:
   givenName: David Hewitt
   birth:
@@ -11,10 +14,13 @@ head:
   death:
     date: 23 February 1935
     place: "[Carrington or McHenry?], North Dakota"
+  burial:
+    place: "McHenry, North Dakota"
 marriages:
-  - spouse:
-      givenName: "[2 or 22 or 23?] February"
-      surname: "1902"
+  - date: "[2 or 22 or 23?] February 1902"
+    spouse:
+      givenName: "Johanna Laura Marie &#8220;Jennie&#8221; Johnson-Mork"
+      parents: "(dau. of Hans Johnson Mork and Kristine Larson)"
       birth:
         date: 3 April 1874
         place: "Frontenac, Minnesota"
@@ -54,7 +60,8 @@ childrenGroups:
           place: "McHenry, North Dakota"
         marriages:
           - date: 17 November 1927
-            spouse: "Carrington, North Dakota   Rutherford Dewey Short"
+            place: "Carrington, North Dakota"
+            spouse: Rutherford Dewey Short
         death:
           date: 8 January 2002
           place: "Devils Lake, North Dakota"
@@ -66,7 +73,7 @@ childrenGroups:
           date: 1 January 1912
           place: "McHenry, North Dakota"
         marriages:
-          - date: "Carrington, North Dakota"
+          - place: "Carrington, North Dakota"
             spouse: Mildred L. Syverson
         death:
           date: 31 December 1987
@@ -91,7 +98,7 @@ childrenGroups:
           date: 26 June 1919
           place: "McHenry, North Dakota"
         marriages:
-          - date: Vernon Sowden
+          - spouse: Vernon Sowden
 docsUrl: Dsources/DavidH02doc.htm
 raw: |-
   <a name="DavidH02"></a><font size=+2>David Hewitt Vining</font>
@@ -105,7 +112,7 @@ raw: |-
                        bur. McHenry, North Dakota
      d. 23 February 1935   [Carrington or McHenry?], North Dakota
            bur. McHenry, North Dakota
-  
+
   <font size=+1>children:</font>
      child   d. prior to 1910 census
      Florence Marie Vining   b. 23 February 1903   McHenry, North Dakota   -   m. 8 July 1925   Aubrey Niles Short   -   d. 21 December 2003   -   bur. Pelican Rapids, Minnesota
@@ -114,5 +121,5 @@ raw: |-
      <a href="#DickH01">Dick Howard Vining</a>   b. 1 January 1912   McHenry, North Dakota   -   m. Carrington, North Dakota   Mildred L. Syverson   -   d. 31 December 1987   McHenry, North Dakota   -   bur. McHenry, North Dakota
      <a href="Lfamilies.htm#LawrenceC01">Lawrence Claude Vining</a>   b. [21 or 2?] November 1914   McHenry, North Dakota   -   m. 17 January 1940   Lake City, Minnesota   Martha Ernestina Hielscher   -   d. [22 or 20?] May 1991   Lake City, Minnesota
      Ruth June Vining   b. 26 June 1919   McHenry, North Dakota   -   m. Vernon Sowden
-  
+
   <a href="Dsources/DavidH02doc.htm">documentation and notes</a>

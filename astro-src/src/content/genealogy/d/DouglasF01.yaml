@@ -1,4 +1,5 @@
 id: DouglasF01
+sequence: 92
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Alcena Kaye
       surname: Lybyer
+      parents: "(dau. of Chauncy Lybyer and Cleta Viola Dobbs)"
       birth:
         date: 16 April 1942
         place: "Yakima, Yakima County, Washington"
@@ -32,7 +34,7 @@ childrenGroups:
         entryLetter: R
       - name: Jonell Vining
         marriages:
-          - date: Robby Arrington
+          - spouse: Robby Arrington
 docsUrl: Dsources/DouglasF01doc.htm
 raw: |-
   <a name="DouglasF01"></a><font size=+2>Douglas Frederick Vining</font>

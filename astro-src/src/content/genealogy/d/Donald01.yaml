@@ -1,4 +1,5 @@
 id: Donald01
+sequence: 68
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 25 March 1984
     place: "(last residence: Independence, Kansas)"
+  burial:
+    place: "Mount Hope Cemetery   Independence, Kansas"
 marriages:
   - date: 31 December 1944
     spouse:
       givenName: Helen Louise
       surname: Hunt
+      parents: "(dau. of Harvey Bryan Hunt and Gladys Marie McCrady)"
       birth:
         date: 7 December 1924
         place: "Harper, Kansas"
@@ -30,7 +34,7 @@ childrenGroups:
         birth:
           date: 9 February 1951
         marriages:
-          - date: Bruce Peters
+          - spouse: Bruce Peters
       - name: Steve C. Vining
         birth:
           date: 18 May 1954

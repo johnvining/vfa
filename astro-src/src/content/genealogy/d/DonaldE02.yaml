@@ -1,4 +1,5 @@
 id: DonaldE02
+sequence: 78
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,6 +13,12 @@ head:
     place: "Columbia, South Carolina"
   death:
     date: 17 April 2014
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Scott Vining
+        marriages:
+          - spouse: "Tiffany [...]"
 docsUrl: Dsources/DonaldE02doc.htm
 raw: |-
   <a name="DonaldE02"></a><font size=+2>Donald E. Vining</font>

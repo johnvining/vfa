@@ -1,4 +1,5 @@
 id: Daniel01
+sequence: 7
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,10 +14,13 @@ head:
   death:
     date: 11 September 1846
     place: "Salem, Franklin County, Maine"
+  burial:
+    place: "Lakeview Cemetery   Wilton, Franklin County, Maine"
 marriages:
-  - spouse:
-      givenName: int. 10 September
-      surname: "1812"
+  - date: "int. 10 September 1812"
+    spouse:
+      givenName: Deborah
+      surname: Waters
       birth:
         date: age 59 y. as of 1850 census
         place: "[New Hampshire or Pownalborough, Lincoln County, Maine?)"
@@ -46,7 +50,7 @@ childrenGroups:
           date: 9 December 1814
           place: "Malta [now Windsor], Kennebec County, Maine"
         marriages:
-          - date: Mary Ann Briggs
+          - spouse: Mary Ann Briggs
         death:
           date: 16 November 1877
           place: "Augusta, Kennebec County, Maine"
@@ -57,7 +61,7 @@ childrenGroups:
           date: 26 July 1817
           place: "Chesterville, Franklin County, Maine"
         marriages:
-          - date: Joshua Blake Green
+          - spouse: Joshua Blake Green
       - name: David W. Vining
         entryId: DavidW01
         birth:
@@ -108,7 +112,7 @@ childrenGroups:
           date: 8 January 1828
           place: "Salem, Franklin County, Maine"
         marriages:
-          - date: Charles Rount
+          - spouse: Charles Rount
       - name: Ezra A. Vining
         entryId: EzraA01
         entryLetter: E
@@ -116,7 +120,7 @@ childrenGroups:
           date: age 37 y. as of 1870 census
           place: "Salem, Franklin County, Maine"
         marriages:
-          - date: Mary Jane Wells
+          - spouse: Mary Jane Wells
         death:
           date: "1898"
           place: "Lowell, Middlesex County, Massachusetts"
@@ -125,7 +129,7 @@ childrenGroups:
           date: ca. 1838
           place: "Salem, Franklin County, Maine"
         marriages:
-          - date: "[...] Peck"
+          - spouse: "[...] Peck"
         death:
           date: ca. 1925
 docsUrl: Dsources/Daniel01doc.htm
@@ -140,7 +144,7 @@ raw: |-
                        bur. Lakeview Cemetery   Wilton, Franklin County, Maine
      d. 11 September 1846   Salem, Franklin County, Maine
            bur. Lakeview Cemetery   Wilton, Franklin County, Maine
-  
+
   <font size=+1>children:</font>
      <a href="Mfamilies.htm#MosesP01">Moses P. Vining</a>   b. 22 January 1811   Malta [now Windsor], Kennebec County, Maine   -   m. (1) 8 July 1839   Reliance T. Soule;   (2) 15 March 1862   Clarinda [Briggs?]   -   d. 9 November 1883
      Daniel Waters Vining   b. 9 December 1814   Malta [now Windsor], Kennebec County, Maine   -   m. Mary Ann Briggs   -   d. 16 November 1877   Augusta, Kennebec County, Maine   -   bur. Mount Pleasant Cemetery   Augusta, Kennebec County, Maine
@@ -153,5 +157,5 @@ raw: |-
      Hannah Vining   b. 8 January 1828   Salem, Franklin County, Maine   -   m. Charles Rount
      <a href="Efamilies.htm#EzraA01">Ezra A. Vining</a>   b. age 37 y. as of 1870 census   Salem, Franklin County, Maine   -   m. Mary Jane Wells   -   d. 1898   Lowell, Middlesex County, Massachusetts
      Deborah Augusta Vining   b. ca. 1838   Salem, Franklin County, Maine   -   m. [...] Peck   -   d. ca. 1925
-  
+
   <a href="Dsources/Daniel01doc.htm">documentation and notes</a>

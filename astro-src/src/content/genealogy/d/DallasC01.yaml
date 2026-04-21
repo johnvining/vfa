@@ -1,4 +1,5 @@
 id: DallasC01
+sequence: 4
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: New York
   death:
     date: 12 October 1969
+  burial:
+    place: "Seneca Cemetery   Seneca, Thomas County, Nebraska"
 marriages:
   - date: 13 y. as of 1930 census
     spouse:
       givenName: Harriet Euterpe
       surname: Nash
+      parents: "(dau. of Jesse E. Nash and Lina M. [...])"
       birth:
         date: "1898"
         place: "Silverton, San Juan County, Colorado"
@@ -31,7 +35,7 @@ childrenGroups:
           date: 18 March 1918
           place: Nebraska
         marriages:
-          - date: Margaret Allene Bordenkircher
+          - spouse: Margaret Allene Bordenkircher
         death:
           date: 7 September 1990
       - name: Barbara Gay Vining
@@ -39,7 +43,7 @@ childrenGroups:
           date: 8 September 1919
           place: "Litchfield, Sherman County, Nebraska"
         marriages:
-          - date: Frederick Chittenden
+          - spouse: Frederick Chittenden
         death:
           date: 7 December 2006
           place: "Idaho Falls, Bonneville County, Idaho"
@@ -50,7 +54,7 @@ childrenGroups:
           date: 5 December 1920
           place: Nebraska
         marriages:
-          - date: Wilma L. Diels
+          - spouse: Wilma L. Diels
         death:
           date: 22 January 2001
 docsUrl: Dsources/DallasC01doc.htm
@@ -66,10 +70,10 @@ raw: |-
                        bur. Seneca Cemetery   Seneca, Thomas County, Nebraska
      d. 12 October 1969
            bur. Seneca Cemetery   Seneca, Thomas County, Nebraska
-  
+
   <font size=+1>children:</font>
      Glenn Dallas Vining    b. 18 March 1918   Nebraska   -   m. Margaret Allene Bordenkircher   -   d. 7 September 1990
      Barbara Gay Vining   b. 8 September 1919   Litchfield, Sherman County, Nebraska   -   m. Frederick Chittenden   -   d. 7 December 2006   Idaho Falls, Bonneville County, Idaho
      <a href="Lfamilies.htm#LaverneB01">Laverne Burley Vining</a>   b. 5 December 1920   Nebraska   -   m. Wilma L. Diels   -   d. 22 January 2001
-  
+
   <a href="Dsources/DallasC01doc.htm">documentation and notes</a>

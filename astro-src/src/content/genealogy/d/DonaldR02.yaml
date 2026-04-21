@@ -1,4 +1,5 @@
 id: DonaldR02
+sequence: 85
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 2 July 2009
     place: "Chanute, Kansas"
+  burial:
+    place: "Harrison Cemetery   Thayer, Kansas"
 marriages:
   - date: 26 November 1960
     place: "Las Vegal, Nevada"
@@ -43,19 +46,19 @@ childrenGroups:
           place: "Harrison Cemetery   Wilson County, Kansas"
       - name: Anthony J. Vining
         marriages:
-          - date: "Tammy [&#8230;]"
+          - spouse: "Tammy [&#8230;]"
       - name: Donald F. Vining
         marriages:
-          - date: "Mindy [&#8230;]"
+          - spouse: "Mindy [&#8230;]"
       - name: William M. Vining
         marriages:
-          - date: "Amy [&#8230;]"
+          - spouse: "Amy [&#8230;]"
       - name: Bettina J. Vining
         marriages:
-          - date: Stan Wheeler
+          - spouse: Stan Wheeler
       - name: Brenda J. Vining
         marriages:
-          - date: Kevin Cox
+          - spouse: Kevin Cox
 docsUrl: Dsources/DonaldR02doc.htm
 raw: |-
   <a name="DonaldR02"></a><font size=+2>Donald R. Vining</font>

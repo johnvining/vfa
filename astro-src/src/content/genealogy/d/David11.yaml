@@ -1,4 +1,5 @@
 id: David11
+sequence: 32
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -9,12 +10,15 @@ head:
   givenName: David
 marriages:
   - spouse:
-      givenName: "Sue [Bunnie?]"
-      surname: "[&#8230;]"
+      givenName: "Sue [Bunnie?] [&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Haley Karina Vining
 raw: |-
   <a name="David11"></a><font size=+2>David Vining</font>
      (son of <a href="Bfamilies.htm#BobbyF01">Bobby Frank Vining and Ruby Ann Simpkins</a>)
      m. Sue [Bunnie?] [&#8230;]
-  
+
   <font size=+1>child:</font>
      Haley Karina Vining

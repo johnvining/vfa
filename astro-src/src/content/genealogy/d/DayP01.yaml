@@ -1,4 +1,5 @@
 id: DayP01
+sequence: 60
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 16 October 1928
     place: "Daytona Beach, Florida"
+  burial:
+    place: "St. John's Catholic Cemetery   Jackson, Michigan"
 marriages:
   - date: 17 July 1901
     spouse:
@@ -72,8 +75,7 @@ childrenGroups:
           - date: 27 November 1948
             spouse: Elizabeth Kline
         death:
-          date: 1 August 1979
-          place: "bur. St. John's Catholic Cemetery   Jackson, Michigan"
+          date: "1 August 1979   bur. St. John's Catholic Cemetery   Jackson, Michigan"
       - name: Robert Eugene Vining
         entryId: RobertE02
         entryLetter: R

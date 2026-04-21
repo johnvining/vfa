@@ -1,4 +1,5 @@
 id: DavidT01
+sequence: 58
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 18 February 1888
     place: "Conway, Massachusetts"
+  burial:
+    place: "Howland Cemetery   Conway, Massachusetts"
 marriages:
   - date: 18 April 1849
     spouse:
       givenName: Emily Harriett
       surname: Sears
+      parents: "(dau. of [...] Sears and Sally [...])"
       birth:
         date: age 41 y. as of 1860 census
         place: Massachusetts

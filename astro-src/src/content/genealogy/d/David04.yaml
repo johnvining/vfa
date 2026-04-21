@@ -1,4 +1,5 @@
 id: David04
+sequence: 25
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 20 August 1862
     place: "Leyden, Massachusetts"
+  burial:
+    place: "East Hawley Cemetery   Hawley, Franklin County, Massachusetts"
 marriages:
   - date: "1820"
     spouse:

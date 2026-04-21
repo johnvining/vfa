@@ -1,4 +1,5 @@
 id: David06
+sequence: 27
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -11,11 +12,12 @@ head:
     date: 15 January 1802
   death:
     date: 29 June 1852
+  burial:
+    place: "Village Cemetery   Strong, Franklin County, Maine"
 marriages:
   - date: 22 October 1829
     spouse:
-      givenName: "Jane C. Thomas (of Strong, Franklin County,"
-      surname: Maine)
+      givenName: "Jane C. Thomas (of Strong, Franklin County, Maine)"
       birth:
         date: age 76 y. at death
       death:
@@ -51,7 +53,7 @@ childrenGroups:
           date: age 18 y. as of 1850 census
           place: Maine
         marriages:
-          - date: "Frances [...]"
+          - spouse: "Frances [...]"
       - name: Nancy T. Vining
         birth:
           date: 2 May 1835
@@ -103,7 +105,7 @@ raw: |-
                        bur. Village Cemetery   Strong, Franklin County, Maine
      d. 29 June 1852
            bur. Village Cemetery   Strong, Franklin County, Maine
-  
+
   <font size=+1>children:</font>
      <a href="Cfamilies.htm#CharlesH01">Charles H. Vining</a>   b. age 19 y. as of 1850 census   Maine   -   m. (1) Carolyn Hunter (of Strong, Franklin County, Maine);   (2) int. 15 March 1872   Ella J. Hunter;   (3) 19 June 1879   Farmington, Franklin County, Maine   Mrs. Anne J. Learned   -   d. 28 July 1895   -   bur. Village Cemetery   Strong, Franklin County, Maine
      <a href="Mfamilies.htm#MunziesR01">Munzies R. Vining</a>   b. age 18 y. as of 1850 census   Maine   -   m. Frances [...]
@@ -112,5 +114,5 @@ raw: |-
      Frances Ellen Vining   b. 10 July 1838   Strong, Franklin County, Maine   -   m. 21 October 1865   Albert Elisha Jones   -   d. 1 November 1897
      S. Adelade Vining   b. age 3 y., 7 m. at death   -   d. 7 April 1844   -   bur. Village Cemetery   Strong, Franklin County, Maine
      <a href="Mfamilies.htm#MillardF01">Millard F. Vining</a>   b. March 1848   Maine   -   m. 16 October 1869   Emma A. Gilkey
-  
+
   <a href="Dsources/David06doc.htm">documentation and notes</a>

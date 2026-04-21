@@ -1,4 +1,5 @@
 id: DonaldW01
+sequence: 88
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,18 +14,26 @@ head:
   death:
     date: 28 December 2019
     place: "Haverhill, Massachusetts"
+  burial:
+    place: "Ridgewood Cemetery   North Andover, Massachuusetts"
 marriages:
   - spouse:
       givenName: Carol Lee
       surname: Rowe
+      birth:
+        date: age 80 y. at death
+        place: "Malden, Massachusetts"
+      death:
+        date: 2 May 2020
+        place: "Winchester, Massachusetts"
 childrenGroups:
   - children:
       - name: Steven E. Vining
         marriages:
-          - date: "Donna [&#8230;]"
+          - spouse: "Donna [&#8230;]"
       - name: Brian P. Vining
         marriages:
-          - date: "Cheryl [&#8230;]"
+          - spouse: "Cheryl [&#8230;]"
 docsUrl: Dsources/DonaldW01doc.htm
 raw: |-
   <a name="DonaldW01"></a><font size=+2>Donald W. Vining</font>

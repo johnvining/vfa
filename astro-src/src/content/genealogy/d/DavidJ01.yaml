@@ -1,4 +1,5 @@
 id: DavidJ01
+sequence: 48
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 27 January 1928
     place: Florida
+  burial:
+    place: "Oak Grove Baptist Church Cemetery   Lake City, Florida"
 marriages:
   - date: 3 y. as of 1900
     spouse:
@@ -35,13 +38,13 @@ childrenGroups:
           date: "1899"
           place: Florida
         marriages:
-          - date: Gordon Keene
+          - spouse: Gordon Keene
       - name: Columbus Vining
         birth:
           date: "1902"
           place: Florida
         marriages:
-          - date: Ludia Harris
+          - spouse: Ludia Harris
         death:
           date: "1971"
       - name: William Lacy Vining
@@ -49,7 +52,7 @@ childrenGroups:
           date: "1904"
           place: Florida
         marriages:
-          - date: Lela Edna Durrance
+          - spouse: Lela Edna Durrance
         death:
           date: "1964"
       - name: "Hezekiah &#8220;Kie&#8221; Vining"
@@ -67,10 +70,10 @@ childrenGroups:
           place: "Lake City, Florida"
       - name: Eddie Vining
         birth:
-          date: "age [6?] y. as of 1920 census"
+          date: "1915   -   b. age [6?] y. as of 1920 census"
           place: Florida
         marriages:
-          - date: Natalie Wilder
+          - spouse: Natalie Wilder
         death:
           date: "1971"
       - name: Fred N. Vining
@@ -79,7 +82,7 @@ childrenGroups:
         birth:
           date: 10 March 1915 Florida
         marriages:
-          - date: Delma Box
+          - spouse: Delma Box
         death:
           date: 6 September 1982
         burial:
@@ -89,7 +92,7 @@ childrenGroups:
           date: 30 June 1918
           place: Florida
         marriages:
-          - date: Isabella Johnson
+          - spouse: Isabella Johnson
         death:
           date: 11 October 1972
         burial:

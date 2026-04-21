@@ -1,4 +1,5 @@
 id: DonaldD01
+sequence: 75
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -9,27 +10,34 @@ marriages:
   - spouse:
       givenName: Peggy Sue
       surname: Caudle
+      parents: "(dau. of Clayton Caudle and Winnie Mae Moore)"
+      birth:
+        date: 4 March 1929
+        place: "Greenfield, Tennessee"
+      death:
+        date: 26 November 2017
 childrenGroups:
   - children:
       - name: Suzanne Vining
         marriages:
-          - date: John Kunkel
+          - spouse: John Kunkel
       - name: Kathy Vining
         birth:
           date: 18 October 1952
           place: "Lake Village, Arkansas"
         marriages:
-          - date: Herb DeLone
+          - spouse: Herb DeLone
         death:
           date: 4 June 2024
           place: "Little Rock, Arkansas"
+        note: "[see <a href=\"https://www.smithfamilycares.com/obituaries/kathy-delone\" target=\"_blank\">obituary</a>]"
       - name: Vicky Vining
         marriages:
-          - date: Ron Crawley
+          - spouse: Ron Crawley
       - name: Donald D. Vining Jr.
       - name: Cheri Lynn Vining
         marriages:
-          - date: Ray Hayes
+          - spouse: Ray Hayes
 docsUrl: Dsources/DonaldD01doc.htm
 raw: |-
   <a name="DonaldD01"></a><font size=+2>Donald D. Vining</font>

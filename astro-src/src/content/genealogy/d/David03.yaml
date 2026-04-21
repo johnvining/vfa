@@ -1,4 +1,5 @@
 id: David03
+sequence: 24
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Abington, Plymouth County, Massachusetts"
   death:
     date: 11 September 1859
+  burial:
+    place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
 marriages:
   - number: 1
     date: 8 November 1821
@@ -19,6 +22,7 @@ marriages:
     spouse:
       givenName: Mary C.
       surname: Curtis
+      parents: "(dau. of Abner Curtis and Lydia Bowker)"
       birth:
         date: "1795"
       death:
@@ -30,6 +34,7 @@ marriages:
     spouse:
       givenName: Martha
       surname: Briggs
+      parents: "(dau. of Ezra Briggs and Lydia Southward)"
       birth:
         date: 22 December 1806
         place: Massachusetts
@@ -53,7 +58,7 @@ childrenGroups:
           date: 7 April 1824
           place: Massachusetts
         marriages:
-          - date: Cynthia A. Cobb
+          - spouse: Cynthia A. Cobb
   - spouseRef: Martha Briggs
     children:
       - name: Martha A. Vining
@@ -112,7 +117,7 @@ raw: |-
                              bur. Union Cemetery   Abington, Plymouth County, Massachusetts
      d. 11 September 1859
            bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
-  
+
   <font size=+1>children by Mary C. Curtis:</font>
      Mary S. Vining   b. 29 July 1822   -   m. 1 November 1846   Abington, Plymouth County, Massachusetts   Charles Thomas Jr. (of Hanover, Plymouth County, Massachusetts)
      <a href="#DavidJr03">David Vining Jr.</a>   b. 7 April 1824   Massachusetts   -   m. Cynthia A. Cobb
@@ -122,5 +127,5 @@ raw: |-
      Hannah B. Vining   b. 5 September 1835
      Charles [C. or E.?] Vining   b. 7 December 1838   Massachusetts
      <a href="Afamilies.htm#AsaphD01">Asaph Davis Vining</a>   b. 1 August 1842   Massachusetts   -   m. 18 April 1869   Mary Anne Studley   -   d. 26 July 1906   -   bur. Hanover Center Cemetery   Hanover, Plymouth County, Massachusetts
-  
+
   <a href="Dsources/David03doc.htm">documentation and notes</a>

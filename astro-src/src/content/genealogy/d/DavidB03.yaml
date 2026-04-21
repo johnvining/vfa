@@ -1,4 +1,5 @@
 id: DavidB03
+sequence: 39
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,10 +14,26 @@ head:
   death:
     date: 5 March 1915
     place: "Windham, New York"
+  burial:
+    place: "Maplecrest Cemetery   Windham, New York"
 marriages:
   - spouse:
       givenName: Lucy
       surname: Gordon
+      birth:
+        date: "1838"
+        place: New York
+      death:
+        date: "1913"
+      burial:
+        place: "Maplecrest Cemetery   Windham, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Elnora Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: New York
 docsUrl: Dsources/DavidB03doc.htm
 raw: |-
   <a name="DavidB03"></a><font size=+2>David B. Vining</font>

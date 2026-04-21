@@ -1,0 +1,49 @@
+id: DonaldP01
+sequence: 82
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ClarenceR01
+parentLetter: C
+parentDesc: Clarence Russell Vining and Myrtle Ella Tomblin
+head:
+  givenName: Donald Preston
+  birth:
+    date: 10 September 1940
+    place: "Marshallville, Georgia"
+marriages:
+  - spouse:
+      givenName: Bobbie Jean
+      surname: Beasley
+      birth:
+        date: 2 October 1940
+        place: "Phenix City, Alabama"
+childrenGroups:
+  - children:
+      - name: Donald Preston Vining Jr.
+        entryId: DonaldPJr01
+        birth:
+          date: age 51 y. at death
+          place: "Columbus, Georgia"
+        marriages:
+          - spouse: Sherri Kimbro
+        death:
+          date: 1 August 2014
+          place: Georgia
+      - name: Phil Vining
+        marriages:
+          - spouse: "Denise [&#8230;]"
+      - name: Lindi Vining
+        marriages:
+          - spouse: Jon Dodds
+raw: |-
+  <a name="DonaldP01"><a><font size=+2>Donald Preston Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceR01">Clarence Russell Vining and Myrtle Ella Tomblin</a>)
+     b. 10 September 1940   Marshallville, Georgia
+     m. Bobbie Jean Beasley
+              b. 2 October 1940   Phenix City, Alabama
+
+  <font size=+1>children:</font>
+     <a href="#DonaldPJr01">Donald Preston Vining Jr.</a>   b. age 51 y. at death   Columbus, Georgia   -   m. Sherri Kimbro   -   d. 1 August 2014   Georgia
+     Phil Vining   m. Denise [&#8230;]
+     Lindi Vining   m. Jon Dodds

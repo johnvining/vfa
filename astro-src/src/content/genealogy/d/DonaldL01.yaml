@@ -1,4 +1,5 @@
 id: DonaldL01
+sequence: 80
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -16,9 +17,7 @@ head:
 marriages:
   - number: 1
     date: Elizabeth Kraft
-    spouse:
-      givenName: divorced
-      surname: divorced
+    note: divorced
   - number: 2
     date: 15 October 1975
     spouse:
@@ -31,12 +30,12 @@ childrenGroups:
         birth:
           date: 23 November 1956
         marriages:
-          - date: Owen Bridgeman
+          - spouse: Owen Bridgeman
       - name: "Victoria &#8220;Vicki&#8221; Vining"
         birth:
           date: 6 April 1958
         marriages:
-          - date: Bob Cooper
+          - spouse: Bob Cooper
         death:
           date: before 4 December 2009
       - name: Wade A. Vining

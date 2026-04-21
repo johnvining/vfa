@@ -1,4 +1,5 @@
 id: DavidM01
+sequence: 54
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
     place: Georgia
   death:
     date: 2 April 1915
+  burial:
+    place: "Oakland Cemetery   Atlanta, Georgia"
 marriages:
   - spouse:
       givenName: Mary Jane
       surname: Tuggle
+      parents: "(dau. of Pinkney Jackson Tuggle and Sarah Battle Carter)"
+      birth:
+        date: 22 February 1849
+        place: Georgia
+      death:
+        date: 25 January 1922
+      burial:
+        place: "Oakland Cemetery   Atlanta, Georgia"
 childrenGroups:
   - children:
       - name: Albert Edwin Vining
@@ -43,10 +54,10 @@ childrenGroups:
           place: "Oakland Cemetery   Atlanta, Georgia"
       - name: Blanch Vining
         marriages:
-          - date: J. E. W. Fields
+          - spouse: J. E. W. Fields
       - name: Betty Vining
         marriages:
-          - date: Harry Morrill
+          - spouse: Harry Morrill
       - name: Cecil Benjamin Vining
         birth:
           date: 30 March 1887

@@ -1,0 +1,47 @@
+id: DonavonN01
+sequence: 89
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ClarenceE01
+parentLetter: C
+parentDesc: "Clarence E. &#8220;Pete&#8221; Vining and Kay Smith"
+noCloseParen: true
+head:
+  givenName: Donavon N.
+  birth:
+    date: 17 June 1963
+  death:
+    date: 26 September 2003
+    place: "(last residence: Saginaw, Michigan)"
+marriages:
+  - spouse:
+      givenName: Lu Ann
+      surname: Bradley
+      parents: "(dau. of Harold Bradley and Betty [&#8230;])"
+childrenGroups:
+  - children:
+      - name: Alisha Vining
+      - name: Aaron Noel Vining
+        birth:
+          date: 13 December 1993
+          place: "Saginaw, Michigan"
+        death:
+          date: 7 May 2012
+          place: "[Sandusky?], Michigan"
+      - name: Alison Vining
+        birth:
+          date: 13 December 1993
+          place: "Saginaw, Michigan"
+raw: |-
+  <a name="DonavonN01"><font size=+2>Donavon N. Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceE01">Clarence E. &#8220;Pete&#8221; Vining and Kay Smith</a>
+     b. 17 June 1963
+     m. Lu Ann Bradley
+              (dau. of Harold Bradley and Betty [&#8230;])
+     d. 26 September 2003   (last residence: Saginaw, Michigan)
+
+  <font size=+1>children:</font>
+     Alisha Vining
+     Aaron Noel Vining   b. 13 December 1993   Saginaw, Michigan   -   d. 7 May 2012   [Sandusky?], Michigan
+     Alison Vining   b. 13 December 1993   Saginaw, Michigan

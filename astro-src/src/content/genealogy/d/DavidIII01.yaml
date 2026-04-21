@@ -1,4 +1,5 @@
 id: DavidIII01
+sequence: 36
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -15,12 +16,27 @@ marriages:
     spouse:
       givenName: "Lucy [Eldredge or Eldridge?]"
       surname: White
+      parents: "(dau. of Jonathan White and Mary &#8220;Polly&#8221; Loud)"
       birth:
         date: 9 April 1806
         place: "Weymouth, Norfolk County, Massachusetts"
       death:
         date: "1875"
         place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Sarah Jackson Vining
+        birth:
+          date: 4 July 1836
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 22 November 1852
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Lorenzo Poole
+        death:
+          date: "[16 or 10?] May 1876"
+          place: "Weymouth, Norfolk County, Massachusetts"
 docsUrl: Dsources/DavidIII01doc.htm
 raw: |-
   <a name="DavidIII01"></a><font size=+2>David Vining III</font>

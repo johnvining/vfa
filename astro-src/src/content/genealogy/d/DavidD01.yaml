@@ -1,4 +1,5 @@
 id: DavidD01
+sequence: 44
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -14,6 +15,12 @@ marriages:
     spouse:
       givenName: Carleen
       surname: Owen
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Mark Dillan Vining
+        birth:
+          date: 16 March 1967
 raw: |-
   <a name="DavidD01"></a><font size=+2>David Dillan Vining</font>
      (son of <a href="Efamilies.htm#EdwinJ01">Edwin Johnson Vining and Miriam Estelle Starns</a>)

@@ -1,4 +1,5 @@
 id: DanielJ02
+sequence: 13
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -15,8 +16,13 @@ head:
     place: (Ontario or Michigan)
 marriages:
   - spouse:
-      givenName: "[Diantha or Dorothy?]"
-      surname: "[&#8230;]"
+      givenName: "[Diantha or Dorothy?] [&#8230;]"
+      birth:
+        date: 13 March 1784
+        place: "Chesterfield, Hampshire County, Massachusetts"
+      death:
+        date: December 1859
+        place: "Jackson [County?], Michigan"
 childrenGroups:
   - children:
       - name: Ebenezer Willard Vining
@@ -59,7 +65,7 @@ childrenGroups:
           date: "1822"
           place: "Chesterfield, Hampshire County, Massachusetts"
         marriages:
-          - date: "[...] Bir[t]ch"
+          - spouse: "[...] Bir[t]ch"
       - name: Pamelia Sarah Vining
         birth:
           date: 10 April 1826
@@ -75,7 +81,7 @@ childrenGroups:
           date: "1832"
           place: "Verona, New York"
         marriages:
-          - date: Alexander Conley
+          - spouse: Alexander Conley
         death:
           date: 16 May 1899
 raw: |-
@@ -86,7 +92,7 @@ raw: |-
               b. 13 March 1784   Chesterfield, Hampshire County, Massachusetts
               d. December 1859   Jackson [County?], Michigan
      d. 1871   (Ontario or Michigan)
-  
+
   <font size=+1>children:</font>
      <a href="Efamilies.htm#EbenezerW01">Ebenezer Willard Vining</a>   b. 12 January 1814   Connecticut   -   m. 4 October 1847   Kane County, Illinois   Amelia Catherine Heath
      <a href="Cfamilies.htm#CorneliusW01">Cornelius Wright Vining</a>   b. 1817   Sweden, Monroe County, New York   -   m. 9 May 1838   Cattaraugus County, New York   Zipporah Clarke   -   d. 4 February 1883   Liberty Township, Jackson County, Michigan

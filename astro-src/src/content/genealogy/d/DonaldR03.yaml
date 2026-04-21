@@ -1,4 +1,5 @@
 id: DonaldR03
+sequence: 84
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -9,6 +10,16 @@ marriages:
   - spouse:
       givenName: Betty Jean
       surname: "[&#8230;]"
+      birth:
+        date: 23 March 1930
+      death:
+        date: 24 April 2006
+      burial:
+        place: "Tennessee State Veterans Cemetery   Knoxville, Tennessee"
+childrenGroups:
+  - headingText: "child(ren?)"
+    children:
+      - name: "child(ren?) Vining"
 docsUrl: Dsources/DonaldR03doc.htm
 raw: |-
   <a name="DonaldR03"></a><font size=+2>Donald R. Vining</font>

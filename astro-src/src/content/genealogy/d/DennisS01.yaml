@@ -1,4 +1,5 @@
 id: DennisS01
+sequence: 64
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 18 September 1953
     place: "Atlanta, Georgia"
+  burial:
+    place: "Hollywood Cemetery   Atlanta, Georgia"
 marriages:
   - date: 10 y. as of 1910 census
     spouse:
@@ -72,7 +75,7 @@ childrenGroups:
           date: 23 August 1926
           place: Georgia
         marriages:
-          - date: Harmel Upchurch
+          - spouse: Harmel Upchurch
         death:
           date: 19 February 1981
         burial:

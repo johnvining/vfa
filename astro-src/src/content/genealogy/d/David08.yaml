@@ -1,4 +1,5 @@
 id: David08
+sequence: 28
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Hannah L.
       surname: Green
+      birth:
+        date: age 21 y. as of 1850 census
+        place: New York
 childrenGroups:
   - children:
       - name: "Charles [J. or E.?] Vining"
@@ -25,13 +29,13 @@ childrenGroups:
           date: age 9 y. as of 1860 census
           place: "Ellington, Chatauqua County, New York"
         marriages:
-          - date: Jennie Brown
+          - spouse: Jennie Brown
       - name: Sarah Ann Vining
         birth:
           date: 9 January 1852
           place: "Saratoga [County?], New York"
         marriages:
-          - date: James Clark Remore
+          - spouse: James Clark Remore
         death:
           date: 9 March 1928
           place: "Bay City, Bay County, Michigan"

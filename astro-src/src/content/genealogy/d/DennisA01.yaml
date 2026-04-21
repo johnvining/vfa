@@ -1,4 +1,5 @@
 id: DennisA01
+sequence: 63
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -16,6 +17,14 @@ marriages:
   - spouse:
       givenName: Mona L.
       surname: Griffin
+childrenGroups:
+  - children:
+      - name: Stephen A. Vining
+        marriages:
+          - spouse: "Sara [...]"
+      - name: Paula A. Vining
+        marriages:
+          - spouse: Eric Parent
 docsUrl: Dsources/DennisA01doc.htm
 raw: |-
   <a name="DennisA01"></a><font size=+2>Dennis A. Vining</font>

@@ -1,4 +1,5 @@
 id: DavidC01
+sequence: 42
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -20,12 +21,14 @@ marriages:
     spouse:
       givenName: "Caroline Elizabeth &#8220;Carrie&#8221;"
       surname: Beck
+      parents: "(dau. of William James Beck and Mary Jane McEntire)"
       birth:
         date: 15 January 1868
         place: Georgia
       death:
         date: 14 July 1952
         place: "Tyler, Texas"
+    note: "separated 1893\ndivorced 1895   Texas"
   - number: 2
     date: 15 December 1895
     place: "Cherokee County, Texas"

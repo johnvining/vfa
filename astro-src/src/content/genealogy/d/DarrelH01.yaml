@@ -1,4 +1,5 @@
 id: DarrelH01
+sequence: 19
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -11,12 +12,15 @@ head:
     place: "Courtney, Stutsman County, North Dakota"
   death:
     date: 15 February 1993
+  burial:
+    place: "Sunset Memorial Gardens   Jamestown, Stutsman County, North Dakota"
 marriages:
   - date: 4 June 1958
     place: "Kensal, Stutsman County, North Dakota"
     spouse:
       givenName: Marlys
       surname: Holm
+      parents: "(dau. of Gilbert Holm and Violet Bean)"
       birth:
         date: 8 August 1937
         place: "Kensal, Stutsman County, North Dakota"
@@ -34,12 +38,12 @@ childrenGroups:
           date: 6 March 1959
         marriages:
           - date: "1978"
-            spouse: Cynthia Bischoff;   divorced 1984
+            spouse: "Cynthia Bischoff;   divorced 1984"
         death:
           date: 20 December 2020
       - name: Tami Vining
         marriages:
-          - date: Gary Rumer
+          - spouse: Gary Rumer
 docsUrl: Dsources/DarrelH01doc.htm
 raw: |-
   <a name="DarrelH01"></a><font size=+2>Darrel Harley Vining</font>
@@ -53,9 +57,9 @@ raw: |-
                        bur. Sunset Memorial Gardens   Jamestown, Stutsman County, North Dakota
      d. 15 February 1993
            bur. Sunset Memorial Gardens   Jamestown, Stutsman County, North Dakota
-  
+
   <font size=+1>children:</font>
      <a href="Hfamilies.htm#Harlan01">Harlan Vining</a>   b. 6 March 1959   -   m. 1978   Cynthia Bischoff;   divorced 1984   -   d. 20 December 2020
      Tami Vining   m. Gary Rumer
-  
+
   <a href="Dsources/DarrelH01doc.htm">documentation and notes</a>

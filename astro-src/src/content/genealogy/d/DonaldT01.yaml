@@ -1,4 +1,5 @@
 id: DonaldT01
+sequence: 87
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,23 +14,32 @@ head:
   death:
     date: 24 June 1988
     place: "Delaware County, Indiana"
+  burial:
+    place: "Elm Ridge Memorial Park   Muncie, Indiana"
 marriages:
   - spouse:
       givenName: Joan A.
       surname: Letcher
+      parents: "(dau. of James Letcher and Margaret [&#8230;])"
+      birth:
+        date: 26 January 1933
+        place: "Hazelton, Pennsylvania"
+      death:
+        date: 18 October 2017
+        place: "[Muncie?], Indiana"
 childrenGroups:
   - children:
       - name: Denise Vining
         marriages:
-          - date: Timothy Short
+          - spouse: Timothy Short
       - name: Donald Thomas Vining Jr.
       - name: Robert Allen Vining
         marriages:
-          - date: "Mary [&#8230;]"
+          - spouse: "Mary [&#8230;]"
       - name: Beverly Ann Vining
         marriages:
-          - date: William Sass
-      - name: "son   [b. and?] d. 19 April 1955"
+          - spouse: William Sass
+      - name: "son   [b. and?] d. 19 April 1955   -   bur. Elm Ridge Cemetery   Muncie, Indiana"
       - name: David Wayne Vining
 docsUrl: Dsources/DonaldT01doc.htm
 raw: |-

@@ -1,4 +1,5 @@
 id: DonaldDA01
+sequence: 76
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 1 October 1976
     place: "Muncie, Indiana"
+  burial:
+    place: "Elm Ridge Memorial Park   Muncie, Indiana"
 marriages:
   - date: 28 December 1928
     place: "Muncie, Indiana"
     spouse:
       givenName: Martha Elizabeth
       surname: Gurley
+      parents: "(dau. of Lucian A. Gurley and Margaret Tarrant)"
       birth:
         date: 10 January 1911
         place: "Indianapolis, Indiana"
@@ -31,7 +35,7 @@ childrenGroups:
   - children:
       - name: Patti Vining
         marriages:
-          - date: Eugene Estes
+          - spouse: Eugene Estes
       - name: Jack LaRue Vining
         birth:
           date: 4 August 1929
@@ -47,7 +51,7 @@ childrenGroups:
           date: 8 March 1933
           place: "Muncie, Indiana"
         marriages:
-          - date: Joan A. Letcher
+          - spouse: Joan A. Letcher
         death:
           date: 24 June 1988
           place: "Delaware County, Indiana"
@@ -60,7 +64,7 @@ childrenGroups:
           date: 20 October 1938
           place: "Muncie, Indiana"
         marriages:
-          - date: Rebecca Sue Carbaugh
+          - spouse: Rebecca Sue Carbaugh
         death:
           date: 10 June 1983
           place: "Muncie, Indiana"

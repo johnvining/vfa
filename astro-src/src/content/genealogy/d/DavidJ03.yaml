@@ -1,4 +1,5 @@
 id: DavidJ03
+sequence: 47
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,10 +13,34 @@ head:
     place: Texas
   death:
     date: "1941"
+  burial:
+    place: "Royse City Cemetery   Royse City, Texas"
 marriages:
   - spouse:
       givenName: Nettie I.
       surname: Kimbrell
+      birth:
+        date: "1875"
+      death:
+        date: "1971"
+      burial:
+        place: "Royse City Cemetery   Royse City, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: David Jarod Vining
+        entryId: DavidJ04
+        entryLetter: D
+        birth:
+          date: 17 May 1902
+          place: "Hunt County, Texas"
+        marriages:
+          - spouse: Bessie Smith
+        death:
+          date: 17 July 1967
+          place: "Greenville, Texas"
+        burial:
+          place: "Royse City Cemetery   Royse City, Texas"
 docsUrl: Dsources/DavidJ03doc.htm
 raw: |-
   <a name="DavidJ03"></a><font size=+2>David J. Vining</font>

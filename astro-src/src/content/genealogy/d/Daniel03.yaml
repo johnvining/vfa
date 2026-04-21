@@ -1,4 +1,5 @@
 id: Daniel03
+sequence: 8
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -12,12 +13,35 @@ head:
     place: "Windsor, Kennebec County, Maine"
   death:
     date: 10 February 1890
+  burial:
+    place: "Windsor Neck Cemetery   Windsor, Kennebec County, Maine"
 marriages:
   - number: 1
-    date: "Old Town, Maine"
+    place: "Old Town, Maine"
+    spouse:
+      givenName: Sarah
+      surname: Esterbrook
+      birth:
+        date: age 28 y. at death
+      death:
+        date: 24 December 1849
+        place: "Windsor, Kennebec County, Maine"
+      burial:
+        place: "Windsor Neck Cemetery   Windsor, Kennebec County, Maine"
   - number: 2
     date: 19 July 1851
     place: Windsor
+    spouse:
+      givenName: Eliza
+      surname: Choate
+      birth:
+        date: 17 November 1821
+        place: "Windsor, Kennebec County, Maine"
+      death:
+        date: 7 December 1861
+        place: "Windsor, Kennebec County, Maine"
+      burial:
+        place: "Windsor Neck Cemetery   Windsor, Kennebec County, Maine"
 childrenGroups:
   - spouseRef: Sarah Esterbrook
     children:
@@ -30,13 +54,13 @@ childrenGroups:
           date: age 11 y. as of 1850 census
           place: Maine
         marriages:
-          - date: Ambrose Webster
+          - spouse: Ambrose Webster
       - name: Adaline Vining
         birth:
           date: age 19 y. as of 1860 census
           place: Maine
         marriages:
-          - date: Charles E. Richardson
+          - spouse: Charles E. Richardson
       - name: Marcellus Vining
         birth:
           date: age 9 y. as of 1850 census
@@ -74,7 +98,7 @@ childrenGroups:
           date: age 7 y. as of 1860 census
           place: Maine
         marriages:
-          - date: William Coburn
+          - spouse: William Coburn
       - name: Mary E. Vining
         birth:
           date: "age 22 y., 10 m. at death"
@@ -88,13 +112,13 @@ childrenGroups:
           date: age 3 y. as of 1860 census
           place: Maine
         marriages:
-          - date: E. P. Cutler
+          - spouse: E. P. Cutler
       - name: Julia A. Vining
         birth:
           date: age 2 y. as of 1860 census
           place: Maine
         marriages:
-          - date: W. L. Linton
+          - spouse: W. L. Linton
       - name: "Minerva &#8220;Minnie&#8221; Vining"
         birth:
           date: age 5 m. as of 1860 census
@@ -104,7 +128,7 @@ childrenGroups:
           date: age 8 y. as of 1870 census
           place: Maine
         marriages:
-          - date: Oscar G. Smart
+          - spouse: Oscar G. Smart
 docsUrl: Dsources/Daniel03doc.htm
 raw: |-
   <a name="Daniel03"></a><font size=+2>Daniel Vining</font>
@@ -122,7 +146,7 @@ raw: |-
                                bur. Windsor Neck Cemetery   Windsor, Kennebec County, Maine
      d. 10 February 1890
            bur. Windsor Neck Cemetery   Windsor, Kennebec County, Maine
-  
+
   <font size=+1>children by Sarah Esterbrook:</font>
      Sarah [A. or R.?] Vining   b. age 13 y. as of 1850 census   Maine
      Angeline Vining   b. age 11 y. as of 1850 census   Maine   -   m. Ambrose Webster
@@ -138,5 +162,5 @@ raw: |-
      Julia A. Vining   b. age 2 y. as of 1860 census   Maine   -   m. W. L. Linton
      Minerva &#8220;Minnie&#8221; Vining   b. age 5 m. as of 1860 census   Maine
      Alice L. Vining   b. age 8 y. as of 1870 census   Maine   -   m. Oscar G. Smart
-  
+
   <a href="Dsources/Daniel03doc.htm">documentation and notes</a>

@@ -1,4 +1,5 @@
 id: DavidC02
+sequence: 43
 letter: D
 lastUpdated: 25 February 2023
 relationship: son
@@ -11,10 +12,29 @@ head:
     date: 21 December 1924
   death:
     date: 2 February 1957
+  burial:
+    place: "Larissa Cemetery   Mount Selman, Texas"
 marriages:
   - spouse:
       givenName: Inez
       surname: Brown
+      parents: "(dau. of G. Brown and [...])"
+      birth:
+        date: 18 August 1931
+      death:
+        date: 2 February 1957
+      burial:
+        place: "Larissa Cemetery   Mount Selman, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Clay Vining
+        birth:
+          date: 14 December 1948
+        death:
+          date: 2 February 1957
+        burial:
+          place: "Larissa Cemetery   Mount Selman, Texas"
 docsUrl: Dsources/DavidC02doc.htm
 raw: |-
   <a name="DavidC02"></a><font size=+2>David C. Vining</font>
