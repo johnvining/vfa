@@ -19,18 +19,21 @@ marriages:
     spouse:
       givenName: Elsie L.
       surname: Burkholder
+      parents: "(dau. of Jesse W. Burkholder and Millie Hoyer)"
       birth:
         date: 6 November 1899
         place: "Dunlap Township, Iowa"
       death:
         date: 4 February 1982
         place: "Woodbine, Iowa"
+    note: divorced
   - number: 2
     date: "1926"
     place: Iowa
     spouse:
       givenName: Esther Jane
       surname: Lewis
+      parents: "(dau. of Charles William Lewis and Minnie Dahl Page)"
       birth:
         date: 25 June 1900
         place: Iowa
@@ -39,6 +42,19 @@ marriages:
         place: "Omaha, Nebraska"
       burial:
         place: "Woodbine, Iowa"
+childrenGroups:
+  - headingText: "child by Elsie L. Burkholder"
+    children:
+      - name: Edwin Patrick &#8220;Ted&#8221; Vining
+        entryId: EdwinP01
+        entryLetter: E
+        birth:
+          date: 11 October 1921
+        marriages:
+          - date: Velma Walker
+        death:
+          date: 18 November 2003
+          place: "(last residence: Portland, Oregon)"
 docsUrl: Psources/PercivalL01doc.htm
 raw: |-
   <a name="Percival01"></a><font size=+2>Percival Lyman Vining</font>

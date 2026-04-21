@@ -13,6 +13,10 @@ head:
   death:
     date: 1 April 2011
     place: "Farmington, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ambrosia Vining
 docsUrl: Msources/MartinR01doc.htm
 raw: |-
   <a name="MartinR01"></a><font size=+2>Martin Rene Vining</font>

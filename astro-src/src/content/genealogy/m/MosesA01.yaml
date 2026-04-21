@@ -17,6 +17,11 @@ marriages:
   - spouse:
       givenName: Eliza Ann
       surname: Brown
+      birth:
+        date: 9 August 1834
+      death:
+        date: 22 March 1898
+        place: "New Orleans, Louisiana"
 childrenGroups:
   - children:
       - name: Dora Brown Vining

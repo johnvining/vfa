@@ -13,11 +13,14 @@ head:
   death:
     date: 8 October 1991
     place: "Nelson, New Zealand"
+  burial:
+    place: "Marsden Cemetery   Nelson, New Zealand"
 marriages:
   - date: "1928"
     spouse:
       givenName: Hannah
       surname: Taylor
+      parents: "(dau. of Thomas Taylor and Edith May Armitage)"
       birth:
         date: 6 August 1904
         place: "Meltam, England"

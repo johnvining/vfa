@@ -17,6 +17,12 @@ marriages:
   - spouse:
       givenName: Sarah
       surname: Henry
+      birth:
+        date: 21 October 1921
+        place: "Moultrie, Georgia"
+      death:
+        date: 3 November 1996
+        place: "Lakeland, Florida"
 childrenGroups:
   - children:
       - name: C. Geoffrey Vining

@@ -12,10 +12,13 @@ head:
     place: Massachusetts
   death:
     date: "1924"
+  burial:
+    place: "Windsorville Cemetery   Windsorville, Connecticut"
 marriages:
-  - spouse:
-      givenName: "October [1873 or"
-      surname: "1872?]"
+  - date: "October [1873 or 1872?]"
+    spouse:
+      givenName: Mary A.
+      surname: Thompson
       birth:
         date: July 1854
         place: Connecticut

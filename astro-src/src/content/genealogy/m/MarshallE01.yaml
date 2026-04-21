@@ -19,12 +19,20 @@ marriages:
     spouse:
       givenName: Eva
       surname: Fleming
+      parents: "(dau. of Norris Fleming and Tennessee Davis)"
       birth:
         date: 18 January 1906
         place: "Crawford, Georgia"
       death:
         date: 30 April 1995
         place: "Augusta, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Louise Vining
+        birth:
+          date: "1923"
+          place: "Atlanta, Georgia"
 docsUrl: Msources/MarshallE01doc.htm
 raw: |-
   <a name="MarshallE01"></a><font size=+2>Marshall Edwin Vining</font>

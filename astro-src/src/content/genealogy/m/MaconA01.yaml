@@ -19,12 +19,36 @@ marriages:
     spouse:
       givenName: Sarah Emma
       surname: Averett
+      parents: "(dau. of Vinson Lafayette Averett and Rosannah Elizabeth Stephens)"
       birth:
         date: 9 April 1854
         place: Georgia
   - number: 2
     date: Mary Belle Jones
+    spouse:
+      parents: "(dau. of Joseph Jones and Mattie Parker)"
+      birth:
+        date: 27 October 1867
+        place: "Eufaula, Alabama"
+      death:
+        date: 8 April 1926
+        place: "Eufaula, Alabama"
+      burial:
+        place: "Fairview Cemetery   Eufaula, Alabama"
 childrenGroups:
+  - headingText: "child by Emma Averett"
+    children:
+      - name: Dovia Vining
+        birth:
+          date: 2 February 1880
+          place: "Eufaula, Alabama"
+        marriages:
+          - date: 27 September 1902
+            place: Alabama
+            spouse: James Thad Standley
+        death:
+          date: 20 October 1962
+          place: Alabama
   - spouseRef: Mary Belle Jones
     children:
       - name: Seth Macon Vining

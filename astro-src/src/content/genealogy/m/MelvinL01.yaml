@@ -19,6 +19,19 @@ marriages:
       birth:
         date: age 30 y. as of 1860 census
         place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Albert Edward Vining
+        entryId: AlbertE02
+        entryLetter: A
+        birth:
+          date: June 1854
+          place: Massachusetts
+        marriages:
+          - date: "1875"
+            place: "Cheshire, Massachusetts"
+            spouse: "Estelle A. [Keybold?]"
 docsUrl: Msources/MelvinL01doc.htm
 raw: |-
   <a name="MelvinL01"></a><font size=+2>Melvin Latham Vining</font>

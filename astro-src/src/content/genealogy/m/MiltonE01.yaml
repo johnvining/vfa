@@ -12,10 +12,18 @@ head:
   death:
     date: 29 April 2001
     place: "Winder, Georgia"
+  burial:
+    place: "Barrow Memorial Gardens   Winder, Georgia"
 marriages:
   - spouse:
       givenName: Janette
       surname: Greenway
+      birth:
+        date: 19 June 1938
+      death:
+        date: 7 March 2008
+      burial:
+        place: "Barrow Memorial Gardens   Winder, Georgia"
 childrenGroups:
   - children:
       - name: Kathy Vining

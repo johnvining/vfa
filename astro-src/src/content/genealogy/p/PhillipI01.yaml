@@ -15,6 +15,12 @@ marriages:
   - spouse:
       givenName: Cheri
       surname: "O&#8217;Banion"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Amy Vining
+        marriages:
+          - date: Brandon Goll
 docsUrl: Psources/PhillipI01doc.htm
 raw: |-
   <a name="PhillipI01"></a><font size=+2>Phillip Irby Vining</font>

@@ -13,10 +13,21 @@ head:
   death:
     date: 10 December 2000
     place: "(last residence: Saginaw, Michigan)"
+  burial:
+    place: "Johnson Cemetery   Michigan"
 marriages:
   - spouse:
       givenName: Lois Marjorie
       surname: Potter
+      parents: "(dau. of Russel Marshall Potter and Flora Eva Lothrop)"
+      birth:
+        date: 14 January 1931
+        place: "Marlette, Michigan"
+      death:
+        date: 19 January 1995
+        place: Florida
+      burial:
+        place: "Johnson Cemetery   Michigan"
 childrenGroups:
   - children:
       - name: Russel Vining

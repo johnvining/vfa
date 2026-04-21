@@ -13,6 +13,8 @@ head:
   death:
     date: 14 October 1946
     place: "Milwaukee, Wisconsin"
+  burial:
+    place: "Wood National Cemetery   Milwaukee. Wisconsin"
 marriages:
   - number: 1
     date: 13 January 1906
@@ -20,14 +22,17 @@ marriages:
     spouse:
       givenName: Hazel
       surname: Elliott
+      parents: "(dau. of Ernest Elliott and Gertrude Bugbee)"
       birth:
         date: "1888"
+    note: divorced
   - number: 2
     date: 8 April 1912
     place: "Skowhegan, Maine"
     spouse:
       givenName: Emeline
       surname: Barnes
+      parents: "(dau. of William Barnes and Lucy Ogden)"
       birth:
         date: "1883"
         place: England
@@ -37,7 +42,27 @@ marriages:
         place: "North Burial Ground   Providence, Rhode Island"
   - number: 3
     date: Olga Maria Laine
+    spouse:
+      birth:
+        date: "[15 or 20?] September [1890 or 1889?]"
+        place: Finland
+      death:
+        date: 22 September 1973
+      burial:
+        place: "Wood National Cemetery   Milwaukee. Wisconsin"
 childrenGroups:
+  - headingText: "child [by Hazel Elliott ?]"
+    children:
+      - name: Dorothy E. Vining
+        birth:
+          date: age 9 y. as of 1920 census
+          place: "[Rhode Island ?]"
+  - headingText: "child by Emeline Barnes"
+    children:
+      - name: Esther A. Vining
+        birth:
+          date: 1 October 1913
+          place: "Skowhegan, Maine"
   - spouseRef: Olga Maria Laine
     children:
       - name: Kenwood Wesley Vining

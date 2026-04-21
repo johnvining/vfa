@@ -28,6 +28,8 @@ marriages:
         place: Maine
       death:
         date: 13 May 1894
+      burial:
+        place: "Riverside Cemetery   Farmington, Maine"
 childrenGroups:
   - spouseRef: Reliance T. Soule
     children:
@@ -35,6 +37,39 @@ childrenGroups:
         birth:
           date: age 8 y. as of 1850 census
           place: "Salem, Maine"
+      - name: Charles Vining
+        birth:
+          date: "age 19 y., 9 m. at death [see &#8220;documentation and notes&#8221; below]"
+          place: "Salem, Maine"
+        death:
+          date: 4 December 1862
+        burial:
+          place: "Riverside Cemetery   Farmington, Maine"
+      - name: Ella E. Vining
+        birth:
+          date: July 1853
+          place: "Salem, Maine"
+        marriages:
+          - date: 5 December 1880
+            place: "Chesterville, Maine"
+            spouse: Charles A. Hardy
+  - headingText: "child by Clarinda [Briggs?]"
+    children:
+      - name: Charles Ernest Lindel Vining
+        entryId: CharlesEL01
+        entryLetter: C
+        birth:
+          date: 21 December 1867
+          place: "West Gardiner, Maine"
+        marriages:
+          - date: 9 January 1890
+            spouse: Jennie Louise Marston
+        death:
+          date: 14 February 1921
+          place: "Farmington, Maine"
+        burial:
+          place: "Wilton, Maine"
+docsUrl: Msources/MosesP01doc.htm
 raw: |-
   <a name="MosesP01"></a><font size=+2>Moses P. Vining</font>
      (son of <a href="Dfamilies.htm#Daniel01">Daniel Vining and Deborah Waters</a>)

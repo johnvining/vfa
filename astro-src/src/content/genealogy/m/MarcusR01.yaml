@@ -13,10 +13,19 @@ head:
   death:
     date: 14 June 1912
     place: "Adams, Massachusetts"
+  burial:
+    place: "West Cummington Cemetery   West Cummington, Massachusetts"
 marriages:
   - spouse:
       givenName: Elizabeth
       surname: Maguire
+      birth:
+        date: 13 August 1828
+        place: Ireland
+      death:
+        date: 8 April 1899
+      burial:
+        place: "West Cummington Cemetery   West Cummington, Massachusetts"
 childrenGroups:
   - children:
       - name: Louis H. Vining

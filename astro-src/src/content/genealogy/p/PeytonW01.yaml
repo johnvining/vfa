@@ -14,6 +14,21 @@ marriages:
   - spouse:
       givenName: Frances
       surname: Jones
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Payton Edward Vining
+        entryId: PaytonE01
+        birth:
+          date: 5 May 1860
+          place: "Qutman, Texas"
+        marriages:
+          - date: Lucy Jones Blaire
+        death:
+          date: 16 October 1926
+          place: "Dallas, Texas"
+        burial:
+          place: "Dallas, Texas"
 raw: |-
   <a name="PeytonW01"></a><font size=+2>Peyton W. Vining</font>
      (son of <a href="Wfamilies.htm#WadeH01">Wade Hampton Vining and Martha Jones</a>)

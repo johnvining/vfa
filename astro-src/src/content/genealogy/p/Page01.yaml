@@ -12,10 +12,13 @@ head:
     place: Maine
   death:
     date: 11 February 1875
+  burial:
+    place: "Center Hill Cemetery   Weld, Maine"
 marriages:
-  - spouse:
-      givenName: int. 19 August
-      surname: "1821"
+  - date: int. 19 August 1821
+    spouse:
+      givenName: Margaret E.
+      surname: Ring
       birth:
         date: 29 March 1803
         place: Maine
@@ -23,6 +26,56 @@ marriages:
         date: 13 November 1890
       burial:
         place: "Center Hill Cemetery   Weld, Maine"
+childrenGroups:
+  - children:
+      - name: George W. Vining
+        entryId: GeorgeW02
+        entryLetter: G
+        birth:
+          date: June 1828
+          place: "Weld, Maine"
+        marriages:
+          - date: "Katharine A. &#8220;Kate&#8221; Rollins"
+        death:
+          date: 7 June 1908
+          place: "Weld, Maine"
+      - name: Sarah Vining
+        birth:
+          date: July 1831
+          place: Maine
+        marriages:
+          - number: 1
+            date: 21 May 1861
+            spouse: Stephen Holt (of Weld, Maine)
+          - number: 2
+            spouse: "[...] Kennedy"
+      - name: Samuel E. Vining
+        birth:
+          date: age 16 y. as of 1850 census
+          place: Maine
+        death:
+          date: 25 February 1895
+          place: "Sandy River Plantation, Maine"
+      - name: John Q. A. Vining
+        entryId: JohnQA01
+        entryLetter: J
+        birth:
+          date: age 12 y. as of 1850 census
+          place: Maine
+        marriages:
+          - date: "Julia [&#8230;]"
+      - name: Llewelyn C. Vining
+        birth:
+          date: age 8 y. as of 1850 census
+          place: Maine
+        marriages:
+          - date: 28 September 1862
+            spouse: Sarah Jane Stevens (of Livermore, Maine)
+      - name: Charles E. Vining
+        birth:
+          date: age 5 y. as of 1850 census
+          place: Maine
+docsUrl: Psources/Page01doc.htm
 raw: |-
   <a name="Page01"></a><font size=+2>Page Vining</font>
      (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)

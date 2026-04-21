@@ -13,10 +13,18 @@ head:
   death:
     date: 20 April 1946
     place: "Flint, Michigan"
+  burial:
+    place: "Gracelawn Cemetery   Flint, Michigan"
 marriages:
   - spouse:
       givenName: Lilly
       surname: DeLille
+      birth:
+        date: 13 March 1876
+      death:
+        date: 22 October 1918
+      burial:
+        place: "Gracelawn Cemetery   Flint, Michigan"
 childrenGroups:
   - children:
       - name: Edna Vining
@@ -45,6 +53,8 @@ childrenGroups:
         death:
           date: 25 January 1967
           place: "Flint, Michigan"
+        burial:
+          description: Gracelawn Cemetery   Flint, Michigan
       - name: Sara Vining
         birth:
           date: "1895"
@@ -108,7 +118,12 @@ childrenGroups:
           place: "Flint, Michigan"
         burial:
           place: "Gracelawn Cemetery   Flint, Michigan"
-      - name: "Roy Vining   stillborn 4 October 1918   Flint, Michigan"
+      - name: Roy Vining
+        birth:
+          date: stillborn 4 October 1918
+          place: "Flint, Michigan"
+        burial:
+          place: "Gracelawn Cemetery   Flint, Michigan"
 docsUrl: Msources/Murray01doc.htm
 raw: |-
   <a name="Murray01"></a><font size=+2>Murray Vining</font>

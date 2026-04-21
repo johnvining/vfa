@@ -13,10 +13,20 @@ head:
   death:
     date: 21 April 1993
     place: "Kitsap County, Washington"
+  burial:
+    place: "Saint Barnabas Episcopal Church Cemetery   Bainbridge, Kitsap County, Washington"
 marriages:
   - spouse:
       givenName: Dorothea Helen
       surname: Pratt
+      birth:
+        date: 22 April 1908
+        place: "Seattle, Washington"
+      death:
+        date: 31 January 1989
+        place: "Kitsap County, Washington"
+      burial:
+        place: "Saint Barnabas Episcopal Church Cemetery   Bainbridge, Kitsap County, Washington"
 childrenGroups:
   - children:
       - name: Virginia Vining

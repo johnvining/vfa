@@ -12,10 +12,29 @@ head:
     place: Indiana
   death:
     date: 25 October 1937
+  burial:
+    place: "IOOF Cemetery   Bourbon, Indiana"
 marriages:
   - spouse:
       givenName: Emma F.
       surname: Dillingham
+      birth:
+        date: "1873"
+      death:
+        date: "1946"
+      burial:
+        place: "IOOF Cemetery   Bourbon, Indiana"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Edna L. Vining
+        birth:
+          date: 9 October 1895
+        death:
+          date: 6 April 1968
+          place: "(last residence: Bourbon, Indiana)"
+        burial:
+          place: "IOOF Cemetery   Bourbon, Indiana"
 docsUrl: Msources/MinorS01doc.htm
 raw: |-
   <a name="MinorS01"></a><font size=+2>Minor Simon/Simeon Vining</font>

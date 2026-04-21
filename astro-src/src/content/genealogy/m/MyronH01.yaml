@@ -13,6 +13,8 @@ head:
   death:
     date: 16 January 1931
     place: "Waterloo, Iowa"
+  burial:
+    place: "Fontana Cemetery   Hazelton, Iowa"
 marriages:
   - date: 7 y. as of 1900 census (her second marriage)
     spouse:
@@ -25,6 +27,12 @@ marriages:
       burial:
         place: "Fontana Cemetery   Hazelton, Iowa"
 childrenGroups:
+  - headingText: "stepchild [adopted?]"
+    children:
+      - name: James Vining
+        birth:
+          date: August 1892
+          place: Iowa
   - children:
       - name: Viola A. Vining
         birth:

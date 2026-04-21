@@ -12,6 +12,8 @@ head:
     place: "Weymouth, Massachusetts"
   death:
     date: 10 May 1883
+  burial:
+    place: "Chatham Township Cemetery   Chatham, Ohio"
 marriages:
   - number: 1
     date: 12 October 1826
@@ -33,6 +35,43 @@ marriages:
       birth:
         date: age 45 y. as of 1860 census
         place: Connecticut
+childrenGroups:
+  - spouseRef: Hannah Stowell
+    children:
+      - name: Hannah Pamelia Vining
+        birth:
+          date: 23 May 1828
+          place: "Plainfield, Massachusetts"
+        death:
+          date: "1888"
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+      - name: Mary Jane Vining
+        birth:
+          date: 8 February 1830
+          place: Massachusetts
+        marriages:
+          - date: Garry H. Cole
+        death:
+          date: "1890"
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+      - name: Clarissa Vining
+        birth:
+          date: 7 September 1834
+          place: Massachusetts
+        death:
+          date: 9 March 1835
+          place: Massachusetts
+      - name: Ann Elisa Vining
+        birth:
+          date: "1837"
+          place: Massachusetts
+        death:
+          date: "1910"
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+docsUrl: Msources/MinotT01doc.htm
 raw: |-
   <a name="MinotT01"></a><font size=+2>Minot T. Vining</font>
      (son of <a href="Jfamilies.htm#JosephJr01">Joseph Vining Jr. and Sarah Porter</a>)

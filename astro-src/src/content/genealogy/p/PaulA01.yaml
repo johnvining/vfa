@@ -13,6 +13,8 @@ head:
   death:
     date: 10 December 1996
     place: "(last residence: Strongsville, Ohio)"
+  burial:
+    place: "Strongsville Cemetery   Strongsville, Ohio"
 marriages:
   - number: 1
     date: 12 September 1959
@@ -25,6 +27,19 @@ marriages:
         date: September 2005
   - number: 2
     date: Sandra C. Smith
+    spouse:
+      birth:
+        date: 24 June 1943
+      death:
+        date: 3 March 2006
+      burial:
+        place: "Strongsville Cemetery   Strongsville, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Cathy Vining
+        marriages:
+          - date: Alan Bucy
 docsUrl: Psources/PaulA01doc.htm
 raw: |-
   <a name="PaulA01"></a><font size=+2>Paul Allen Vining</font>

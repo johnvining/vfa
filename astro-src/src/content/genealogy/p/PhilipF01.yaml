@@ -12,12 +12,15 @@ marriages:
     spouse:
       givenName: Cheryl Ann
       surname: Morgan
+      parents: "(dau. of Kenneth Morgan and Barbara [...])"
       birth:
         date: 26 November 1954
         place: "Seattle, Washington"
       death:
         date: 30 October 2013
         place: "Darrington, Washington"
+      burial:
+        description: ashes spread on Whitehorse Mountain
 childrenGroups:
   - children:
       - name: Clinton Thomas Vining

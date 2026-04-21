@@ -13,10 +13,14 @@ head:
   death:
     date: 10 January 2001
     place: "Oak Grove, West Carroll Parish, Louisiana"
+  burial:
+    place: "Epps, West Carroll Parish, Louisiana"
 marriages:
-  - spouse:
-      givenName: Louisiana
-      surname: Louisiana
+  - date: Louisiana
+    spouse:
+      givenName: Stella Dixie
+      surname: Oldham
+      parents: "(dau. of Robert Wright Oldham and [Ida Owens?])"
       birth:
         date: 21 September 1911
         place: "Darnell, West Carroll Parish, Louisiana"

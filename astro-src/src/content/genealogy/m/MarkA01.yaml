@@ -14,6 +14,13 @@ marriages:
     spouse:
       givenName: Ruth Maureen
       surname: Whipple
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: "Michael Dale Vining (n&#233; Franklin)"
+  - headingText: child
+    children:
+      - name: Alley Vining
 raw: |-
   <a name="MarkA01"></a><font size=+2>Mark Andrew Vining</font>
      (son of <a href="Lfamilies.htm#LarryL01">Larry Lee Vining and Rebecca Sue Carbaugh</a>)

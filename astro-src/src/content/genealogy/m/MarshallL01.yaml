@@ -12,6 +12,8 @@ head:
     place: Georgia
   death:
     date: 3 June 1962
+  burial:
+    place: "Forsyth City Cemetery   Forsyth, Georgia"
 marriages:
   - number: 1
     date: license 23 September 1905
@@ -29,6 +31,14 @@ marriages:
         place: "Forsyth City Cemetery   Forsyth, Georgia"
   - number: 2
     date: "Bela M. [&#8230;]"
+    spouse:
+      birth:
+        date: 15 September 1902
+        place: Georgia
+      death:
+        date: 21 October 1985
+      burial:
+        place: "Macon Memorial Park   Macon, Georgia"
 childrenGroups:
   - spouseRef: Lula Bishop
     children:

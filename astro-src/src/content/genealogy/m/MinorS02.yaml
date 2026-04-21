@@ -12,6 +12,8 @@ head:
     place: Ohio
   death:
     date: 9 February 1892
+  burial:
+    place: "Summit Chapel Cemetery   Bourbon, Indiana"
 marriages:
   - date: 24 December 1865
     spouse:
@@ -55,7 +57,10 @@ childrenGroups:
       - name: "Susan[na?] Vining"
         birth:
           date: 17 June 1876
-          place: m. 12 October 1902   Indiana   Noah Yoder
+        marriages:
+          - date: 12 October 1902
+            place: Indiana
+            spouse: Noah Yoder
         death:
           date: 14 September 1942
       - name: Bentley Vining

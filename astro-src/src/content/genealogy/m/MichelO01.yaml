@@ -14,11 +14,28 @@ head:
     date: 11 September 1960
     place: "Terrebonne Parish, Louisiana"
 marriages:
-  - spouse:
-      givenName: "[1?] Clara"
-      surname: Clark
+  - date: "[1?] Clara Clark"
+    spouse:
+      parents: "(dau. of Charles R. Clark and Hattie [&#8230;])"
+      birth:
+        date: 28 September 1896
+        place: "Police Jury Ward 10, Louisiana"
+      death:
+        date: 16 March 1991
+        place: "Morgan City, Louisiana"
+  - date: "[2?] Pauline Ethel [&#8230;]"
+    spouse:
+      birth:
+        date: age 75 y. at death
+        place: Louisiana
+      death:
+        date: December 1983
+        place: "Berwick, Louisiana"
+      burial:
+        place: Willow Grove Cemetery
 childrenGroups:
-  - children:
+  - headingText: "children [by ?]"
+    children:
       - name: Mildred Dorothy Vining
         birth:
           date: 26 August 1920

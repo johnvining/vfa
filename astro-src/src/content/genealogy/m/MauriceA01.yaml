@@ -13,11 +13,14 @@ head:
   death:
     date: 23 September 1912
     place: "Decatur, Michigan"
+  burial:
+    place: "Lakeside Cemetery   Decatur, Michigan"
 marriages:
   - date: 24 September 1884
     spouse:
       givenName: Mary Grace
       surname: Morris
+      parents: "(dau. of Amos Morris and Martha Biteley)"
       birth:
         date: 7 February 1864
         place: "Decatur, Michigan"

@@ -13,12 +13,15 @@ head:
   death:
     date: 19 March 1985
     place: "Lewiston, Maine"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Maine"
 marriages:
   - date: 5 June 1912
     place: "Lewiston, Maine"
     spouse:
       givenName: Margaret Elise
       surname: Wilson
+      parents: "(dau. of Hiram C. Wilson and Ida A. Bailey)"
       birth:
         date: 5 November 1891
         place: "Bloomington, Illinois"
@@ -27,6 +30,16 @@ marriages:
         place: "Auburn, Maine"
       burial:
         place: "Mount Auburn Cemetery   Auburn, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Glenna Elise Vining
+        birth:
+          date: 27 May 1915
+          place: "Auburn, Maine"
+        marriages:
+          - date: 3 July 1941
+            spouse: Robert D. Albro
 docsUrl: Msources/MertonL01doc.htm
 raw: |-
   <a name="MertonL01"></a><font size=+2>Merton Linwood Vining</font>

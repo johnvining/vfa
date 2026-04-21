@@ -13,10 +13,20 @@ head:
   death:
     date: 27 August 1992
     place: "Ash Flat, Arkansas"
+  burial:
+    place: "Oaklawn Cemetery   Cherokee Village, Arkansas"
 marriages:
   - spouse:
       givenName: Virginia Elizabeth
       surname: Tillotson
+      birth:
+        date: 5 December 1923
+        place: "Nevada, Iowa"
+      death:
+        date: 28 December 2005
+        place: "Hot Springs, Arkansas"
+      burial:
+        place: "Oaklawn Cemetery   Cherokee Village, Arkansas"
 childrenGroups:
   - children:
       - name: John William Vining
@@ -32,10 +42,16 @@ childrenGroups:
       - name: James David Vining
         entryId: JamesD03
         entryLetter: J
+        leadingDash: true
+        birth:
+          date: 5 October 1950
+          place: "Nevada, Iowa"
         marriages:
           - date: 17 June 1972
             place: "Memphis, Tennessee"
             spouse: Carolyn Toshlog
+  - headingText: "adopted child"
+    children:
       - name: "Joy Lee (n&#233;e Tillotson) Vining"
         birth:
           date: 24 September 1943

@@ -12,10 +12,19 @@ head:
     place: Massachusetts
   death:
     date: "1952"
+  burial:
+    place: "Forest Glade Cemetery   Wakefield, Middlesex County, Massachusetts"
 marriages:
   - spouse:
       givenName: Louise
       surname: "[&#8230;]"
+      birth:
+        date: "1900"
+        place: "New Jersey"
+      death:
+        date: "1972"
+      burial:
+        place: "Forest Glade Cemetery   Wakefield, Middlesex County, Massachusetts"
 childrenGroups:
   - children:
       - name: Donald W. Vining

@@ -17,6 +17,11 @@ marriages:
   - spouse:
       givenName: Sarah Maria
       surname: Hicks
+      birth:
+        date: age 26 y. as of 1850 census
+        place: New York
+      death:
+        date: 23 October 1904
 childrenGroups:
   - children:
       - name: William Henry Vining
@@ -51,6 +56,39 @@ childrenGroups:
           date: 21 June 1882
         burial:
           place: Hensonville Cemetery   New York
+      - name: "[Carolyn Vining   b. 9 January 1853   -   d. 28 February 1894 ? - see &#8220;documentation and notes&#8221; below]"
+      - name: Jeptha Peter Vining
+        entryId: JepthaP01
+        entryLetter: J
+        birth:
+          date: April 1856
+          place: New York
+        marriages:
+          - date: 3 February 1880
+            spouse: Etta F. Hitchcock
+        death:
+          date: 16 March 1909
+      - name: "Philip [E. or L.?] Vining"
+        entryId: PhilipE01
+        birth:
+          date: October 1859
+          place: New York
+        marriages:
+          - date: 16 y. as of 1900 census
+            spouse: "Mahalia [&#8230;]"
+        death:
+          date: between 1930 and 1940 censuses
+      - name: Cornelia S. Vining
+        birth:
+          date: age 9 y. as of 1870 census
+      - name: Alace M. Vining
+        birth:
+          date: 30 September 1862
+        death:
+          date: 5 April 1864
+        burial:
+          place: "Hensonville Cemetery   Greene County, New York"
+docsUrl: Psources/PeterS01doc.htm
 raw: |-
   <a name="PeterS01"></a><font size=+2>Peter Smith Vining</font>
      (son of <a href="Dfamilies.htm#DavidJr02">David Vining Jr. and Hannah Husted</a>)

@@ -12,10 +12,20 @@ head:
     place: "Pine Bluff, Arkansas"
   death:
     date: 23 July 2006
+  burial:
+    place: "Memory Gardens of Fairhope   Fairhope, Alabama"
 marriages:
   - spouse:
       givenName: Florence
       surname: Haynes
+      parents: "(dau. of Richard Haynes and Mary Louise [&#8230;])"
+      birth:
+        date: 16 February 1921
+        place: "Beaumont, Texas"
+      death:
+        date: 27 June 2016
+      burial:
+        place: "Memory Gardens of Fairhope   Fairhope, Alabama"
 childrenGroups:
   - children:
       - name: Frances Vining

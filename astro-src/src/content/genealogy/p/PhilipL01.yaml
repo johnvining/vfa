@@ -13,6 +13,21 @@ head:
   death:
     date: 29 April 1991
     place: "Yarmouth, Cumberland County, Maine"
+  burial:
+    place: "Riverside Cemetery   Yarmouth, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Charles M. Vining
+        entryId: CharlesM04
+        entryLetter: C
+        marriages:
+          - number: 1
+            date: 21 June 1958
+            place: Maine
+            spouse: Virginia M. MacVane
+          - number: 2
+            spouse: "Caroline [&#8230;]"
 raw: |-
   <a name="PhilipL01"></a><font size=+2>Philip Loring Vining</font>
      (son of <a href="Cfamilies.htm#CharlesEL01">Charles Ernest Lindel Vining and Jennie Louise Marston</a>)

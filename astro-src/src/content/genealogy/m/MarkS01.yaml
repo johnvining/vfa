@@ -19,9 +19,17 @@ marriages:
     spouse:
       givenName: Katherine Elizabeth
       surname: Barth
+      parents: "(dau. of Robert Lloyd Barth and Melva Lucille Bowden)"
       birth:
         date: 28 December 1954
         place: "Hemet, California"
+childrenGroups:
+  - headingText: "child of Katherine Elizabeth Barth"
+    children:
+      - name: Erik Sutherland Vining
+        birth:
+          date: 16 May 1996
+          place: California
 raw: |-
   <a name="MarkS01"></a><font size=+2>Mark Sutherland Vining</font>
      (son of <a href="Wfamilies.htm#WarrenCJr01">Warren Clifford Vining Jr. and Elizabeth Ruth Gustafson</a>)

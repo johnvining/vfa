@@ -12,6 +12,8 @@ head:
     place: Alabama
   death:
     date: 6 November 1933
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 marriages:
   - date: 18 y. as of 1900 census
     spouse:
@@ -24,6 +26,16 @@ marriages:
         date: 28 October 1933
       burial:
         place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "Rosabelle [B.?] Vining"
+        birth:
+          date: "J[anuary?] 1887"
+          place: Alabama
+        marriages:
+          - date: 4 y. as of 1910 census
+            spouse: Jim Carroll
 docsUrl: Psources/PeterL01doc.htm
 raw: |-
   <a name="PeterL01"></a><font size=+2>Peter Lafayette Vining</font>

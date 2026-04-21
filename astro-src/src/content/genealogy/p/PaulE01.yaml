@@ -13,6 +13,8 @@ head:
   death:
     date: 18 April 1997
     place: "Coffeyville, Kansas"
+  burial:
+    place: "Mount Hope Cemetery   Webb City, Missouri"
 marriages:
   - number: 1
     date: 13 January 1935
@@ -20,6 +22,7 @@ marriages:
     spouse:
       givenName: Lucille Marie
       surname: King
+      parents: "(dau. of Clyde L. King and Blanche Marie Leatherman)"
       birth:
         date: 16 January 1917
         place: "Wann, Oklahoma"
@@ -28,6 +31,7 @@ marriages:
         place: "Webb City, Missouri"
       burial:
         place: "Webb City, Missouri"
+    note: divorced
   - number: 2
     date: "Goldie [...]"
 childrenGroups:
@@ -57,6 +61,8 @@ childrenGroups:
         death:
           date: 29 June 1993
           place: "Long Beach, California"
+        burial:
+          description: ashes scattered at sea
 docsUrl: Psources/PaulE01doc.htm
 raw: |-
   <a name="PaulE01"></a><font size=+2>Paul Edward Vining</font>
