@@ -1,0 +1,101 @@
+id: IsraelL01
+letter: I
+lastUpdated: 9 March 2021
+relationship: son
+parentId: David03
+parentLetter: D
+parentDesc: David Vining and Martha Briggs
+head:
+  givenName: Israel L.
+  birth:
+    date: 8 October 1830
+    place: "Hanover, Plymouth County, Massachusetts"
+  death:
+    date: 13 February 1897
+    place: "Norwell, Plymouth County, Massachusetts"
+marriages:
+  - date: 12 November 1851
+    spouse:
+      givenName: Nancy J.
+      surname: Matthews
+      birth:
+        date: 25 June 1831
+      death:
+        date: 12 October 1898
+      burial:
+        place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Henry L. Vining
+      - name: Annie W. Vining
+      - name: Asa L. Vining
+        entryId: AsaL01
+        entryLetter: A
+        birth:
+          date: April 1853
+          place: Massachusetts
+        marriages:
+          - date: 25 y. as of 1900 census
+            spouse: "Emma D. [...]"
+      - name: Joseph Henry Vining
+        birth:
+          date: October 1855
+          place: Massachusetts
+        marriages:
+          - date: Alice M. Leavitt
+        death:
+          date: between 1920 and 1930 censuses
+      - name: William E. Vining
+        birth:
+          date: February 1856
+          place: Massachusetts
+        marriages:
+          - date: "Emma F. [&#8230;]"
+      - name: Mary J. Vining
+        birth:
+          date: age 2 y. as of 1860 census
+          place: Massachusetts
+      - name: Edward A. Vining
+        birth:
+          date: age 6 m. as of 1860 census
+          place: Massachusetts
+      - name: Francis M. Vining
+        birth:
+          date: 1 April 1866
+          place: Massachusetts
+        marriages:
+          - date: "Lena S. [&#8230;]"
+        death:
+          date: 12 February 1936
+        burial:
+          place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+      - name: Amanda T. Vining
+        birth:
+          date: age 3 m. as of 1870 census
+          place: Massachusetts
+docsUrl: Isources/IsraelL01doc.htm
+raw: |-
+  <a name="IsraelL01"></a><font size=+2>Israel L. Vining</font>
+     (son of <a href="Dfamilies.htm#David03">David Vining and Martha Briggs</a>)
+     b. 8 October 1830   Hanover, Plymouth County, Massachusetts
+     m. 12 November 1851
+           Nancy J. Matthews
+                 (dau. of Joseph Matthews and Jane [&#8230;])
+                 b. 25 June 1831
+                 d. 12 October 1898
+                       bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+     d. 13 February 1897   Norwell, Plymouth County, Massachusetts
+           bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Henry L. Vining
+     Annie W. Vining
+     <a href="Afamilies.htm#AsaL01">Asa L. Vining</a>   b. April 1853   Massachusetts   -   m. 25 y. as of 1900 census   Emma D. [...]
+     <a href="Jfamilies.htm#JosephH03"</a>Joseph Henry Vining</a>   b. October 1855   Massachusetts   -   m. Alice M. Leavitt   -   d. between 1920 and 1930 censuses
+     William E. Vining   b. February 1856   Massachusetts   -   m. Emma F. [&#8230;]
+     Mary J. Vining   b. age 2 y. as of 1860 census   Massachusetts
+     Edward A. Vining   b. age 6 m. as of 1860 census   Massachusetts
+     Francis M. Vining   b. 1 April 1866   Massachusetts   -   m. Lena S. [&#8230;]   -   d. 12 February 1936   -   bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+     Amanda T. Vining   b. age 3 m. as of 1870 census   Massachusetts
+  
+  <a href="Isources/IsraelL01doc.htm">documentation and notes</a>

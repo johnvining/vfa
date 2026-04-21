@@ -1,0 +1,83 @@
+id: IsaacE02
+letter: I
+lastUpdated: 9 March 2021
+relationship: son
+parentId: Calvin01
+parentLetter: C
+parentDesc: Calvin Vining and Mary Ann Noe
+head:
+  givenName: Isaac Edwin
+  birth:
+    date: 21 February 1850
+    place: "Bennington, Morrow County, Ohio"
+  death:
+    date: 16 May 1920
+    place: "Clinton, Clinton County, Iowa"
+marriages:
+  - date: 24 October 1871
+    place: "Morrow [County?], Ohio"
+    spouse:
+      givenName: Mary Elizabeth
+      surname: Osborn
+      birth:
+        date: 20 January 1852
+        place: "Cardington, Morrow County, Ohio"
+      death:
+        date: 12 October 1928
+        place: "Clinton, Clinton County, Iowa"
+      burial:
+        place: "Springdale Cemetery   Clinton, Clinton County, Iowa"
+childrenGroups:
+  - children:
+      - name: Ella Vining
+        birth:
+          date: 9 May 1874
+          place: "Worthington, Nobles County, Minnesota"
+        death:
+          date: 15 December 1902
+          place: "Tallapoosa, Hamilton County, Georgia"
+      - name: Clyde F. Vining
+        entryId: ClydeF01
+        entryLetter: C
+        birth:
+          date: 3 September 1878
+          place: "New Sharon, Mahaska County, Iowa"
+        marriages:
+          - date: 2 December 1902
+            spouse: Abbie Draughn
+        death:
+          date: 23 March 1905
+          place: "Fort Collins, Larimer County, Colorado"
+        burial:
+          place: "Grandview Cemetery   Fort Collins, Larimer County, Colorado"
+      - name: Henry Calvin Vining
+        entryId: HenryC02
+        entryLetter: H
+        birth:
+          date: 7 February 1883
+          place: "Mt. Gilead, Morrow County, Ohio"
+        marriages:
+          - date: 23 February 1904
+            spouse: Gertrude Delia Mewherter
+        death:
+          date: 10 May 1947
+          place: "Clinton, Clinton County, Iowa"
+docsUrl: Isources/IsaacE02doc.htm
+raw: |-
+  <a name="IsaacE02"></a><font size=+2>Isaac Edwin Vining</font>
+     (son of <a href="Cfamilies.htm#Calvin01">Calvin Vining and Mary Ann Noe</a>)
+     b. 21 February 1850   Bennington, Morrow County, Ohio
+     m. 24 October 1871   Morrow [County?], Ohio
+           Mary Elizabeth Osborn
+                 b. 20 January 1852   Cardington, Morrow County, Ohio
+                 d. 12 October 1928   Clinton, Clinton County, Iowa
+                       bur. Springdale Cemetery   Clinton, Clinton County, Iowa
+     d. 16 May 1920   Clinton, Clinton County, Iowa
+           bur. Springdale Cemetery   Clinton, Clinton County, Iowa
+  
+  <font size=+1>children:</font>
+     Ella Vining   b. 9 May 1874   Worthington, Nobles County, Minnesota   -   d. 15 December 1902   Tallapoosa, Hamilton County, Georgia
+     <a href="Cfamilies.htm#ClydeF01">Clyde F. Vining</a>   b. 3 September 1878   New Sharon, Mahaska County, Iowa   -   m. 2 December 1902   Abbie Draughn   -   d. 23 March 1905   Fort Collins, Larimer County, Colorado   -   bur. Grandview Cemetery   Fort Collins, Larimer County, Colorado
+     <a href="Hfamilies.htm#HenryC02">Henry Calvin Vining</a>   b. 7 February 1883   Mt. Gilead, Morrow County, Ohio   -   m. 23 February 1904   Gertrude Delia Mewherter   -   d. 10 May 1947   Clinton, Clinton County, Iowa
+  
+  <a href="Isources/IsaacE02doc.htm">documentation and notes</a>
