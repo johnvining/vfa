@@ -13,10 +13,26 @@ head:
   death:
     date: 13 October 1983
     place: "Colorado City, Colorado"
+  burial:
+    place: "Mountain View Cemetery   Pueblo, Colorado"
 marriages:
   - spouse:
       givenName: Olive Florine
       surname: Dochter
+      parents: "(dau. of Ray C. Dochter and Margaret C. Herlyck)"
+      birth:
+        date: "1914"
+        place: Colorado
+      death:
+        date: 2 July 1985
+      burial:
+        place: "Mountain View Cemetery   Pueblo, Colorado"
+childrenGroups:
+  - children:
+      - name: Florene M. Vining
+        birth:
+          date: age [?] as of 1940 census
+          place: Colorado
 docsUrl: Vsources/VictorH01doc.htm
 raw: |-
   <a name="VictorH01"></a><font size=+2>Victor Henry Vining</font>
@@ -29,8 +45,8 @@ raw: |-
                     bur. Mountain View Cemetery   Pueblo, Colorado
      d. 13 October 1983   Colorado City, Colorado
            bur. Mountain View Cemetery   Pueblo, Colorado
-  
+
   <font size=+1>child:</font>
      Florene M. Vining   b. age [?] as of 1940 census   Colorado
-  
+
   <a href="Vsources/VictorH01doc.htm">documentation and notes</a>

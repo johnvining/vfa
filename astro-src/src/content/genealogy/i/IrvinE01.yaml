@@ -13,12 +13,15 @@ head:
   death:
     date: 9 May 1955
     place: "Celina, Mercer County, Ohio"
+  burial:
+    place: "Crown View Cemetery   Sheridan, Hamilton County, Indiana"
 marriages:
   - date: 26 November 1907
     place: Indiana
     spouse:
       givenName: Mary Zada
       surname: Bragg
+      parents: "(dau. of Alfred Bragg and [Sarah?] Moore)"
       birth:
         date: 20 September 1874
         place: "Sheridan, Hamilton County, Indiana"
@@ -27,6 +30,18 @@ marriages:
         place: "Liberty, Butler County, Ohio"
       burial:
         place: "Crown View Cemetery   Sheridan, Hamilton County, Indiana"
+childrenGroups:
+  - children:
+      - name: Ruby Ellen Vining
+        birth:
+          date: "1906"
+          place: Indiana
+        marriages:
+          - date: John C. Linkhart
+        death:
+          date: "1950"
+        burial:
+          place: "Crown View Cemetery   Sheridan, Hamilton County, Indiana"
 docsUrl: Isources/IrvinE01doc.htm
 raw: |-
   <a name="IrvinE01"></a><font size=+2>Irvin Elonidus Vining</font>
@@ -40,8 +55,8 @@ raw: |-
                        bur. Crown View Cemetery   Sheridan, Hamilton County, Indiana
      d. 9 May 1955   Celina, Mercer County, Ohio
            bur. Crown View Cemetery   Sheridan, Hamilton County, Indiana
-  
+
   <font size=+1>child:</font>
      Ruby Ellen Vining   b. 1906   Indiana   -   m. John C. Linkhart   -   d. 1950   -   bur. Crown View Cemetery   Sheridan, Hamilton County, Indiana
-  
+
   <a href="Isources/IrvinE01doc.htm">documentation and notes</a>

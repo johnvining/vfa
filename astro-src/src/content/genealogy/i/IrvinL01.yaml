@@ -13,10 +13,17 @@ head:
   death:
     date: 27 September 2000
     place: "Harbour Heights, Charlotte County, Florida"
+  burial:
+    place: "Morse Cemetery   Bedico, Tangipahoa Parish, Louisiana"
 marriages:
   - spouse:
       givenName: Barbara G.
       surname: "[...]"
+      birth:
+        date: 1 November 1937
+        place: Louisiana
+      death:
+        date: 29 August 2011
 childrenGroups:
   - children:
       - name: Jeffrey Vining
@@ -34,10 +41,10 @@ raw: |-
               d. 29 August 2011
      d. 27 September 2000   Harbour Heights, Charlotte County, Florida
            bur. Morse Cemetery   Bedico, Tangipahoa Parish, Louisiana
-  
+
   <font size=+1>children:</font>
      Jeffrey Vining
      Ronald Vining
      Pamela Vining   m. [...] Melton
-  
+
   <a href="Isources/IrvinL01doc.htm">documentation and notes</a>

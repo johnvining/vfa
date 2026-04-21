@@ -25,6 +25,7 @@ marriages:
     spouse:
       givenName: Persis
       surname: Harris
+      parents: "(dau. of Lemuel Harris and Persis [...])"
       birth:
         date: age 48 y. as of 1850 census
         place: "Huntington, Hampshire County, Massachusetts"
@@ -34,7 +35,8 @@ marriages:
       burial:
         place: "Warwick Cemetery   Warwick, Franklin County, Massachusetts"
 childrenGroups:
-  - children:
+  - headingText: "children [by Persis Harris ?]"
+    children:
       - name: Edward R. Vining
         birth:
           date: October 1829

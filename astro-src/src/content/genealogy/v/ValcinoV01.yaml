@@ -13,10 +13,29 @@ head:
   death:
     date: 11 February 1950
     place: Wray. Colorado
+  burial:
+    place: "Armel Cemetery   Armel, Colorado"
 marriages:
   - spouse:
       givenName: Libby Lois
       surname: Giles
+      birth:
+        date: 28 July 1876
+        place: "Rutland, Ohio"
+      death:
+        date: "1958"
+      burial:
+        place: "Armel Cemetery   Armel, Colorado"
+childrenGroups:
+  - children:
+      - name: Arthur F. Vining
+        entryId: ArthurF02
+        entryLetter: A
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Ohio
+        marriages:
+          - date: "Edna […]"
 docsUrl: Vsources/ValcinoV01doc.htm
 raw: |-
   <a name="ValcinoV01"></a><font size=+2>Valcino Vernon Vining</font>
@@ -28,8 +47,8 @@ raw: |-
                     bur. Armel Cemetery   Armel, Colorado
      d. 11 February 1950   Wray. Colorado
            bur. Armel Cemetery   Armel, Colorado
-  
+
   <font size=+1>child:</font>
      <a href="Afamilies.htm#ArthurF02">Arthur F. Vining</a>   b. age 4 y. as of 1910 census   Ohio   -   m. Edna [&#8230;]
-  
+
   <a href="Vsources/ValcinoV01doc.htm">documentation and notes</a>

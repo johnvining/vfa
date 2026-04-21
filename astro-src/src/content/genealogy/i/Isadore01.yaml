@@ -12,12 +12,35 @@ marriages:
   - spouse:
       givenName: "[Zeliah or Zelline?]"
       surname: Dubois
+      birth:
+        date: ca. 1850
+        place: "St. Elen, Canada"
+childrenGroups:
+  - children:
+      - name: Phillip H. Vining
+        entryId: PhillipH01
+        entryLetter: P
+        birth:
+          date: January 1867
+          place: "Three Rivers, Quebec, Canada"
+        marriages:
+          - number: 1
+            date: 18 October 1885
+            place: "Boston, Suffolk County, Massachusetts"
+            spouse: "Mary Elizabeth LeSage (d. before 1924)"
+          - number: 2
+            date: 23 January 1926
+            place: "Lakeport, Belknap County, New Hampshire."
+            spouse: Clara Hammond
+        death:
+          date: "1941"
+          place: "Somerville, Middlesex County, Massachusetts"
 raw: |-
   <a name="Isadore01"></a><font size=+2>Isadore Vining</font>
      (son of [?])
      b. ca. 1840   Windsor, Ontario, Canada
      m. [Zeliah or Zelline?] Dubois
               b. ca. 1850   St. Elen, Canada
-  
+
   <font size=+1>chlld:</font>
      <a href="Pfamilies.htm#PhillipH01">Phillip H. Vining</a>   b. January 1867   Three Rivers, Quebec, Canada   -   m. (1) 18 October 1885   Boston, Suffolk County, Massachusetts   Mary Elizabeth LeSage   (d. before 1924);   (2) 23 January 1926   Lakeport, Belknap County, New Hampshire.  Clara Hammond   -   d. 1941   Somerville, Middlesex County, Massachusetts

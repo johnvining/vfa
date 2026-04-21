@@ -14,6 +14,12 @@ marriages:
   - spouse:
       givenName: Marlene
       surname: Kristofferson
+      birth:
+        date: 29 August 1949
+      death:
+        date: 22 January 2008
+      burial:
+        place: "Odd Fellows Cemetery   Bayou La Batre, Mobile County, Alabama"
 childrenGroups:
   - children:
       - name: Vernon Dale Vining Jr.

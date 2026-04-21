@@ -14,9 +14,11 @@ head:
     date: 30 August 2005
     place: "Livermore Falls, Maine"
 marriages:
-  - spouse:
-      givenName: "[1?] Auugust"
-      surname: "1965"
+  - date: "[1?] Auugust 1965"
+    spouse:
+      givenName: Carmella E.
+      surname: Friend
+    note: "[2?] Betty Aube"
 childrenGroups:
   - children:
       - name: Martin Rene Vining
@@ -42,7 +44,7 @@ raw: |-
                  Carmella E. Friend
            [2?] Betty Aube
      d. 30 August 2005   Livermore Falls, Maine
-  
+
   <font size=+1>children:</font>
      <a href="Mfamilies.htm#MartinR01">Martin Rene Vining</a>   b. 10 June 1969   Lewiston, Maine   -   d. 1 April 2011   Farmington, Maine
      Tracy Vining   m. Kevin Woods

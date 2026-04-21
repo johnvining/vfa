@@ -14,6 +14,9 @@ marriages:
   - spouse:
       givenName: Henrietta
       surname: "[...]"
+      birth:
+        date: 17 December 1868
+        place: England
 childrenGroups:
   - children:
       - name: Cyril Hughes Vining

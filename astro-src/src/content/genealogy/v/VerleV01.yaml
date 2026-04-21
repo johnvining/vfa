@@ -12,12 +12,15 @@ head:
   death:
     date: 11 November 2004
     place: "Neshkoro, Wisconsin"
+  burial:
+    place: "Saint James Cemetery   Neshkoro, Wisconsin"
 marriages:
   - date: 10 May 1947
     place: "Princeton, Wisconsin"
     spouse:
       givenName: Alice Ruth
       surname: Bednarek
+      parents: "(dau. of Joseph D. Bednarek and Rose M. Fromholtz)"
       birth:
         date: 11 August 1925
         place: "Neshkoro, Wisconsin"

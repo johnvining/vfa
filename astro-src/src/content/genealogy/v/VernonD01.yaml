@@ -13,10 +13,19 @@ head:
   death:
     date: 14 May 1961
     place: "Munising, Michigan"
+  burial:
+    place: "Maple Grove Cemetery   Munising, Alger County, Michigan"
 marriages:
   - spouse:
       givenName: Elinor Van
       surname: Alla
+      birth:
+        date: "1904"
+        place: Michigan
+      death:
+        date: "[?]"
+      burial:
+        place: "Maple Grove Cemetery   Munising, Alger County, Michigan"
 childrenGroups:
   - children:
       - name: Joyce Vining
@@ -41,9 +50,9 @@ raw: |-
                     bur. Maple Grove Cemetery   Munising, Alger County, Michigan
      d. 14 May 1961   Munising, Michigan
            bur. Maple Grove Cemetery   Munising, Alger County, Michigan
-  
+
   <font size=+1>children:</font>
      Joyce Vining   b. age 3 y., [8?] m. as of 1930 census   Michigan
      Leslie Vining   b. 17 September 1928   Michigan   -   d. 23 February 2005   Michigan
-  
+
   <a href="Vsources/VernonD01doc.htm">documentation and notes</a>

@@ -13,11 +13,14 @@ head:
   death:
     date: 13 December 1957
     place: "Palestine, Anderson County, Texas"
+  burial:
+    place: "Palestine City Cemetery   Palestine, Anderson County, Texas"
 marriages:
   - date: "1911"
     spouse:
       givenName: Lena Jo
       surname: Martin
+      parents: "(dau. of John Martin and Jo Anderson)"
       birth:
         date: 19 December 1892
         place: "Bullard, Texas"

@@ -15,8 +15,31 @@ head:
 marriages:
   - number: 1
     date: 5 y. as of 1900 census
+    spouse:
+      givenName: "Delia"
+      surname: "[...]"
+      birth:
+        date: June 1865
+        place: New York
   - number: 2
     date: 1 y. as of 1910 census
+    spouse:
+      givenName: Minnie M.
+      surname: Pelton
+      birth:
+        date: age 34 y. as of 1910 census
+        place: New York
+childrenGroups:
+  - spouseRef: "Delia [...]"
+    children:
+      - name: Ethel Mae Vining
+        birth:
+          date: September 1897
+          place: Nebraska
+        marriages:
+          - date: 17 April 1923
+            place: "Los Angeles, California"
+            spouse: Lawrence A. Barnes
 docsUrl: Isources/IrvingN01doc.htm
 raw: |-
   <a name="IrvingN01"></a><font size=+2>Irving N. Vining</font>
@@ -29,8 +52,8 @@ raw: |-
                     Minnie M. Pelton
                           b. age 34 y. as of 1910 census   New York
      d. between 1920 and 1930 censuses
-  
+
   <font size=+1>child by Delia [...]:</font>
      Ethel Mae Vining   b. September 1897   Nebraska   -   m. 17 April 1923   Los Angeles, California   Lawrence A. Barnes
-  
+
   <a href="Isources/IrvingN01doc.htm">documentation and notes</a>
