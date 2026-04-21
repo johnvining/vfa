@@ -1,0 +1,148 @@
+id: FrancisE01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: PhillipH01
+parentLetter: P
+parentDesc: Phillip H. Vining and Mary Elizabeth LeSage
+head:
+  givenName: Francis Earl
+  birth:
+    date: 18 October 1886
+    place: "Boston, Massachusetts"
+  death:
+    date: 5 December 1934
+marriages:
+  - number: 1
+    date: 30 May 1909
+    spouse:
+      givenName: Frances J.
+      surname: Bullock
+      birth:
+        date: 17 April 1890
+        place: "Boston, Massachusetts"
+      death:
+        date: 9 February 1920
+        place: Massachusetts
+  - number: 2
+    date: 1 April 1921
+    spouse:
+      givenName: Elizabeth Mary
+      surname: Denny
+      birth:
+        date: 18 February 1893
+childrenGroups:
+  - spouseRef: Frances J. Bullock
+    children:
+      - name: Francis Earl Vining Jr.
+        entryId: FrancisEJr01
+        birth:
+          date: 15 May 1910
+          place: "Boston, Massachusetts"
+        marriages:
+          - date: 9 July 1939
+            place: "Charlestown, Massachusetts"
+            spouse: Sara Lee McDaniel
+        death:
+          date: 26 December 1975
+          place: "East Boston, Massachusetts"
+        burial:
+          place: "Oak Grove Cemetery   Medford, Massachusetts"
+      - name: Arthur Leonard Vining
+        birth:
+          date: 24 May 1912
+      - name: Thelma Cleo. Vining
+        birth:
+          date: 23 January 1914
+      - name: Irma May Vining
+        birth:
+          date: "1915"
+        death:
+          date: 7 February 1920
+      - name: George Kenneth Vining
+        birth:
+          date: 5 June 1917
+      - name: Philip Vining
+        birth:
+          date: 8 January 1919
+        death:
+          date: 8 January 1919
+      - name: Thomas Vining
+        birth:
+          date: 8 January 1919
+        death:
+          date: 8 January 1919
+      - name: John Milford Vining
+        birth:
+          date: 5 February 1920
+  - spouseRef: Elizabeth Mary Denny
+    children:
+      - name: William J. Vining
+        entryId: WilliamJ05
+        entryLetter: W
+        birth:
+          date: 19 February 1922
+          place: "Everett, Massachusetts"
+        marriages:
+          - date: November 1942
+            spouse: Gloria A. Dugas
+        death:
+          date: 24 April 2020
+          place: "Beverly, Massachusetts"
+      - name: Richard Morris Vining
+        entryId: RichardM01
+        entryLetter: R
+        birth:
+          date: 4 March 1924
+        marriages:
+          - date: Josephine V. Terrio
+        death:
+          date: 5 June 1997
+          place: "Medford, Massachusetts"
+        burial:
+          place: "Oak Grove Cemetery   Medford, Massachusetts"
+      - name: Robert Henry Vining
+        entryId: RobertH02
+        entryLetter: R
+        birth:
+          date: 30 March 1926
+          place: "Everett, Massachusetts"
+        marriages:
+          - date: Catherine Keddy
+        death:
+          date: 9 October 2004
+          place: "Boston, Massachusetts"
+      - name: Frances A. Vining
+        birth:
+          date: age 8 y. as of 1940 census
+          place: Massachusetts
+docsUrl: Fsources/FrancisE01doc.htm
+raw: |-
+  <a name="FrancisE01"></a><font size=+2>Francis Earl Vining</font>
+     (son of <a href="Pfamilies.htm#PhillipH01">Phillip H. Vining and Mary Elizabeth LeSage</a>)
+     b. 18 October 1886   Boston, Massachusetts
+     m. (1) 30 May 1909
+                 Frances J. Bullock
+                       b. 17 April 1890   Boston, Massachusetts
+                       d. 9 February 1920   Massachusetts
+           (2) 1 April 1921
+                 Elizabeth Mary Denny
+                       b. 18 February 1893
+     d. 5 December 1934
+  
+  <font size=+1>children by Frances J. Bullock:</font>
+     <a href="#FrancisEJr01">Francis Earl Vining Jr.</a>   b. 15 May 1910   Boston, Massachusetts   -   m. 9 July 1939   Charlestown, Massachusetts   Sara Lee McDaniel   -   d. 26 December 1975   East Boston, Massachusetts   -   bur. Oak Grove Cemetery   Medford, Massachusetts
+     Arthur Leonard Vining   b. 24 May 1912
+     Thelma Cleo. Vining   b. 23 January 1914
+     Irma May Vining   b. 1915   -   d. 7 February 1920
+     George Kenneth Vining   b. 5 June 1917
+     Philip Vining   b. 8 January 1919   -   d. 8 January 1919
+     Thomas Vining   b. 8 January 1919   -   d. 8 January 1919
+     John Milford Vining   b. 5 February 1920
+  <font size=+1>children by Elizabeth Mary Denny:</font>
+     <a href="Wfamilies.htm#WilliamJ05">William J. Vining</a>   b. 19 February 1922   Everett, Massachusetts   -   m. November 1942   Gloria A. Dugas   -   d. 24 April 2020   Beverly, Massachusetts
+     <a href="Rfamilies.htm#RichardM01">Richard Morris Vining</a>   b. 4 March 1924   -   m. Josephine V. Terrio   -   d. 5 June 1997   Medford, Massachusetts   -   bur. Oak Grove Cemetery   Medford, Massachusetts
+     <a href="Rfamilies.htm#RobertH02">Robert Henry Vining</a>   b. 30 March 1926   Everett, Massachusetts   -   m. Catherine Keddy   -   d. 9 October 2004   Boston, Massachusetts
+     Frances A. Vining   b. age 8 y. as of 1940 census   Massachusetts
+  
+  <a href="Fsources/FrancisE01doc.htm">documentation and notes</a>

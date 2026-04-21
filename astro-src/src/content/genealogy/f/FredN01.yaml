@@ -1,0 +1,82 @@
+id: FredN01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: JamesMJr01
+parentLetter: J
+parentDesc: "James M. Vining Jr. and [Jane or Jeannie] Lindsley"
+head:
+  givenName: Fred Nathaniel
+  birth:
+    date: 20 December 1881
+    place: "Neodesha, Kansas"
+  death:
+    date: 26 September 1973
+    place: "Oswego, Kansas"
+marriages:
+  - date: 25 December 1910
+    spouse:
+      givenName: Inez Blanche
+      surname: Wise
+      birth:
+        date: 20 August 1882
+        place: "Chetopa, Kansas"
+      death:
+        date: 21 October 1971
+        place: "Oswego, Kansas"
+      burial:
+        place: "Elm Grove Cemetery   Edna, Kansas"
+childrenGroups:
+  - children:
+      - name: Bernice Irene Vining
+        birth:
+          date: 26 August 1912
+        marriages:
+          - date: Raymond Harold Johnson
+      - name: James Sylvester Vining
+        entryId: JamesS01
+        entryLetter: J
+        birth:
+          date: 2 January 1915
+          place: "Valeda, Kansas"
+        marriages:
+          - date: 18 August 1936
+            spouse: Glessie Marie Richardson
+        death:
+          date: 14 January 2005
+          place: "Crane, Missouri"
+        burial:
+          place: "Patton Cemetery   Pyatt, Arkansas"
+      - name: Bertha Lorene Vining
+        birth:
+          date: 15 October 1917
+        marriages:
+          - date: Frank Brown
+      - name: Mildred Naomi Vining
+        birth:
+          date: 17 February 1919
+        death:
+          date: 10 May 1927
+        burial:
+          place: "Elm Grove Cemetery   Edna, Kansas"
+docsUrl: Fsources/FredN01doc.htm
+raw: |-
+  <a name="FredN01"></a><font size=+2>Fred Nathaniel Vining</font>
+     (son of <a href="Jfamilies.htm#JamesMJr01">James M. Vining Jr. and [Jane or Jeannie] Lindsley</a>)
+     b. 20 December 1881   Neodesha, Kansas
+     m. 25 December 1910
+           Inez Blanche Wise
+                 (dau. of Sylvester J. Wise and Hattie Lasley)
+                 b. 20 August 1882   Chetopa, Kansas
+                 d. 21 October 1971   Oswego, Kansas
+                       bur. Elm Grove Cemetery   Edna, Kansas
+     d. 26 September 1973   Oswego, Kansas
+           bur. Elm Grove Cemetery   Edna, Kansas
+  
+  <font size=+1>children:</font>
+     Bernice Irene Vining   b. 26 August 1912   -   m. Raymond Harold Johnson
+     <a href="Jfamilies.htm#JamesS01">James Sylvester Vining</a>   b. 2 January 1915   Valeda, Kansas   -   m. 18 August 1936   Glessie Marie Richardson   -   d. 14 January 2005   Crane, Missouri   -   bur. Patton Cemetery   Pyatt, Arkansas
+     Bertha Lorene Vining   b. 15 October 1917   -   m. Frank Brown
+     Mildred Naomi Vining   b. 17 February 1919   -   d. 10 May 1927   -   bur. Elm Grove Cemetery   Edna, Kansas
+  
+  <a href="Fsources/FredN01doc.htm">documentation and notes</a>

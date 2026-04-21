@@ -1,0 +1,89 @@
+id: Frank01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Frank
+  birth:
+    date: age 50 y. as of 1880 census
+    place: "Saint Helena [Parish?], Louisiana"
+  death:
+    date: "1900"
+    place: "Saint Helena Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Martha
+      surname: Green
+childrenGroups:
+  - children:
+      - name: "[Eizabeth Vining"
+        birth:
+          date: "1855"
+          place: "Saint Helena Parish, Louisiana ?]"
+      - name: Allen Vining
+        birth:
+          date: age 16 y. as of 1880 census
+          place: "[Montpelier or Greensburg?], Saint Helena Parish, Louisiana"
+        marriages:
+          - number: 1
+            date: Rosa Hart
+          - number: 2
+            date: Phoebe Self
+        death:
+          date: 27 October 1928
+          place: "Amite, Tangipahoa Parish, Louisiana"
+      - name: Judia Vining
+        birth:
+          date: "1869"
+          place: "Saint Helena Parish, Louisiana"
+        death:
+          date: "Montpelier, Louisiana"
+      - name: Caleb Vining
+        birth:
+          date: "1871"
+          place: "Saint Helena Parish, Louisiana"
+        marriages:
+          - number: 1
+            date: Edna Dyward
+          - number: 2
+            date: Pauline Woodridge
+        death:
+          date: 11 Apri 1924
+      - name: Sarah Vining
+        birth:
+          date: "1874"
+          place: "Saint Helena Parish, Louisiana"
+        marriages:
+          - date: Charles Chas Morris
+        death:
+          date: "1952"
+          place: "Amite, Louisiana"
+      - name: Frank Vining
+        entryId: Frank02
+        birth:
+          date: age 4 y. as of 1880 census
+          place: "Saint Helena Parish, Louisiana"
+        marriages:
+          - date: "[Alice or Allie] Bean"
+        death:
+          date: "Saint Helena Parish, Louisiana"
+docsUrl: Fsources/Frank01doc.htm
+raw: |-
+  <a name="Frank01"></a><font size=+2>Frank Vining</font>
+     (son of [?])
+     b. age 50 y. as of 1880 census   Saint Helena [Parish?], Louisiana
+     m. Martha Green
+              b. March 1826   Saint Helena Parish, Louisiana
+              d. Saint Helena Parish, Louisiana
+     d. 1900   Saint Helena Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     [Eizabeth Vining   b. 1855   Saint Helena Parish, Louisiana ?]
+     Allen Vining   b. age 16 y. as of 1880 census   [Montpelier or Greensburg?], Saint Helena Parish, Louisiana   -   m. (1) Rosa Hart;   (2) Phoebe Self   -   d. 27 October 1928   Amite, Tangipahoa Parish, Louisiana
+     Judia Vining   b. 1869   Saint Helena Parish, Louisiana   -   d. Montpelier, Louisiana
+     Caleb Vining   b. 1871   Saint Helena Parish, Louisiana   -   m. (1) Edna Dyward;   (2) Pauline Woodridge   -   d. 11 Apri 1924
+     Sarah Vining   b. 1874   Saint Helena Parish, Louisiana   -   m. Charles Chas Morris   -   d. 1952   Amite, Louisiana
+     <a href="#Frank02">Frank Vining</a>   b. age 4 y. as of 1880 census   Saint Helena Parish, Louisiana   -   m. [Alice or Allie] Bean   -   d. Saint Helena Parish, Louisiana
+  
+  <a href="Fsources/Frank01doc.htm">documentation and notes</a>

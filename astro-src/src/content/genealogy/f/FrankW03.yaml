@@ -1,0 +1,58 @@
+id: FrankW03
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: LorenzoD01
+parentLetter: L
+parentDesc: Lorenzo Devaro Vining and Marietta Ellis
+head:
+  givenName: Frank W.
+  birth:
+    date: 23 February 1860
+    place: "Erie County, Ohio"
+  death:
+    date: "25 [April or March?] 1937"
+    place: "Lorain, Lorain County, Ohio"
+marriages:
+  - spouse:
+      givenName: Nellie E.
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Roy Ellis Vining
+        entryId: RoyE02
+        entryLetter: R
+        birth:
+          date: 27 June 1886
+          place: "Toledo, Lucas County, Ohio"
+        marriages:
+          - date: 4 y. as of 1910 census
+            spouse: Hazel N. Cash
+        death:
+          date: 29 March 1965
+          place: "Toledo, Lucas County, Ohio"
+      - name: Vera Hazel Vining
+        birth:
+          date: "December [1895 or 1896?]"
+          place: Ohio
+        death:
+          date: 30 March 1982
+        burial:
+          place: "Elmwood Cemetery   Lorain, Ohio"
+docsUrl: Fsources/FrankW03doc.htm
+raw: |-
+  <a name="FrankW03"></a><font size=+2>Frank W. Vining</font>
+     (son of <a href="Lfamilies.htm#LorenzoD01">Lorenzo Devaro Vining and Marietta Ellis</a>)
+     b. 23 February 1860   Erie County, Ohio
+     m. Nellie E. [&#8230;]
+              b. December 1874   Ohio
+              d. 1959
+                    bur. Elmwood Cemetery   Lorain, Lorain County, Ohio
+     d. 25 [April or March?] 1937   Lorain, Lorain County, Ohio
+           bur. Elmwood Cemetery   Lorain, Lorain County, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RoyE02">Roy Ellis Vining</a>   b. 27 June 1886   Toledo, Lucas County, Ohio   -   m. 4 y. as of 1910 census   Hazel N. Cash   -   d. 29 March 1965   Toledo, Lucas County, Ohio
+     Vera Hazel Vining   b. December [1895 or 1896?]   Ohio   -   d. 30 March 1982   -   bur. Elmwood Cemetery   Lorain, Ohio
+  
+  <a href="Fsources/FrankW03doc.htm">documentation and notes</a>

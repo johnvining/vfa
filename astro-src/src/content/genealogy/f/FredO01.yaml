@@ -1,0 +1,48 @@
+id: FredO01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: FelixJ01
+parentDesc: Felix Joseph Vining and Sarah Elizabeth Cain
+head:
+  givenName: Fred Osborn
+  birth:
+    date: 6 April 1892
+    place: "Spring Place, Murray County, Georgia"
+  death:
+    date: 18 July 1949
+    place: "San Joaquin, Sacramento County, California"
+marriages:
+  - spouse:
+      givenName: May Eugenia
+      surname: Richards
+childrenGroups:
+  - children:
+      - name: Felix Barrett Vining
+        birth:
+          date: 5 November 1917
+          place: "Dalton, Whitfield County, Georgia"
+        death:
+          date: March 1930
+          place: "Sacramento County, California"
+      - name: "Jesse Osborn Vining   b. 1 November 1919   Dalton, Whitfield County, Georgia   -   m. Audrey Mabel Ballard"
+        entryId: JesseO01
+        entryLetter: J
+        burial:
+          place: "Arlington National Cemetery   Arlington, Virginia"
+docsUrl: Fsources/FredO01doc.htm
+raw: |-
+  <a name="FredO01"></a><font size=+2>Fred Osborn Vining</font>
+     (son of <a href="#FelixJ01">Felix Joseph Vining and Sarah Elizabeth Cain</a>)
+     b. 6 April 1892   Spring Place, Murray County, Georgia
+     m. May Eugenia Richards
+              (dau. of William Martin Richards and Mary Safrona Hawkins)
+              b. 4 May 1895   Murray County, Georgia
+              d. 8 September 1959   Sacramento, Sacramento County, California
+     d. 18 July 1949   San Joaquin, Sacramento County, California
+  
+  <font size=+1>children:</font>
+     Felix Barrett Vining   b. 5 November 1917   Dalton, Whitfield County, Georgia   -   d. March 1930   Sacramento County, California
+     <a href="Jfamilies.htm#JesseO01">Jesse Osborn Vining   b. 1 November 1919   Dalton, Whitfield County, Georgia   -   m. Audrey Mabel Ballard</a>   -   d. 19 April 1990   Nevada County, California   -   bur. Arlington National Cemetery   Arlington, Virginia
+  
+  <a href="Fsources/FredO01doc.htm">documentation and notes</a>

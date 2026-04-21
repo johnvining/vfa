@@ -1,0 +1,70 @@
+id: Floyd01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: SamuelJ01
+parentLetter: S
+parentDesc: "Samuel Jehue Vining and Mary Lucretia &#8220;Lucy&#8221; Chesser"
+head:
+  givenName: Floyd
+  birth:
+    date: 15 December 1915
+    place: "Masena, Alabama"
+  death:
+    date: 31 October 1994
+    place: "Birmingham, Alabama"
+marriages:
+  - date: 14 September 1940
+    place: "Elmore County, Alabama"
+    spouse:
+      givenName: Mildred Jeannette
+      surname: Williams
+      birth:
+        date: 27 August 1918
+        place: "Eclectic, Elmore County, Alabama"
+      death:
+        date: 13 January 2011
+        place: "Woodstock, Bibb County, Alabama"
+      burial:
+        place: "Highland Memorial Gardens   Bessemer, Jefferson County, Alabama"
+childrenGroups:
+  - children:
+      - name: Mildred Jeanette Vining
+        marriages:
+          - date: "[...] Webster"
+        death:
+          date: before 13 January 2011
+      - name: Dianne Vining
+        marriages:
+          - date: "[...] Bassett"
+      - name: Samuel Joshua Vining
+        entryId: SamuelJ03
+        entryLetter: S
+        birth:
+          date: 30 July 1953
+        marriages:
+          - date: "Rebecca Jane [&#8230;]"
+        death:
+          date: 2 January 2021
+        burial:
+          place: "Highland Memorial Gardens   Bessemer, Alabama"
+docsUrl: Fsources/Floyd01doc.htm
+raw: |-
+  <a name="Floyd01"></a><font size=+2>Floyd Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelJ01">Samuel Jehue Vining and Mary Lucretia &#8220;Lucy&#8221; Chesser</a>)
+     b. 15 December 1915   Masena, Alabama
+     m. 14 September 1940   Elmore County, Alabama
+           Mildred Jeannette Williams
+                 (dau. of Ira Dateman Williams and Florine Jackson)
+                 b. 27 August 1918   Eclectic, Elmore County, Alabama
+                 d. 13 January 2011   Woodstock, Bibb County, Alabama
+                       bur. Highland Memorial Gardens   Bessemer, Jefferson County, Alabama
+     d. 31 October 1994   Birmingham, Alabama
+           bur. Highland Memorial Gardens   Bessemer, Jefferson County, Alabama
+  
+  <font size=+1>children:</font>
+     Mildred Jeanette Vining   m. [...] Webster   -   d. before 13 January 2011
+     Dianne Vining   m. [...] Bassett
+     <a href="Sfamilies.htm#SamuelJ03">Samuel Joshua Vining</a>   b. 30 July 1953   -   m. Rebecca Jane [&#8230;]   -   d. 2 January 2021   -   bur. Highland Memorial Gardens   Bessemer, Alabama
+  
+  <a href="Fsources/Floyd01doc.htm">documentation and notes</a>

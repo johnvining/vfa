@@ -1,0 +1,55 @@
+id: FredL01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Fred Leroy
+  birth:
+    date: 29 May 1886
+    place: "Haverhill, Essex County, Massachusetts"
+  death:
+    date: April 1975
+    place: "East Kingston, Rockingham County, New Hampshire"
+marriages:
+  - date: 4 y. as of 1910 census
+    spouse:
+      givenName: Nina Claire
+      surname: Vincent
+      birth:
+        date: 22 September 1881
+        place: "Haverhill, Essex County, Massachusetts"
+      death:
+        date: 5 July 1952
+        place: "Raymond, New Hampshire"
+childrenGroups:
+  - children:
+      - name: Vera Vincent Vining
+        birth:
+          date: 9 July 1906
+          place: "Methuen, Massachusetts"
+      - name: Essex Abbott Vining
+        entryId: EssexA01
+        entryLetter: E
+        birth:
+          date: 18 July 1908
+          place: "Haverhill, Massachusetts"
+        marriages:
+          - date: Miriam E. French
+docsUrl: Fsources/FredL01doc.htm
+raw: |-
+  <a name="FredL01"></a><font size=+2>Fred Leroy Vining</font>
+     (son of [?])
+     b. 29 May 1886   Haverhill, Essex County, Massachusetts
+     m. 4 y. as of 1910 census
+           Nina Claire Vincent
+                 (dau. of Harry C. Vincent and Lillian S. Barron)
+                 b. 22 September 1881   Haverhill, Essex County, Massachusetts
+                 d. 5 July 1952   Raymond, New Hampshire
+     d. April 1975   East Kingston, Rockingham County, New Hampshire
+  
+  <<font size=+1>children:</font>
+     Vera Vincent Vining   b. 9 July 1906   Methuen, Massachusetts
+     <a href="Efamilies.htm#EssexA01">Essex Abbott Vining</a>   b. 18 July 1908   Haverhill, Massachusetts   -   m. Miriam E. French
+  
+  <a href="Fsources/FredL01doc.htm">documentation and notes</a>

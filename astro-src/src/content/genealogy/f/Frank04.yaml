@@ -1,0 +1,39 @@
+id: Frank04
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Fred02
+parentDesc: Fred Vining and Gertrude Ervin
+head:
+  givenName: Frank
+  birth:
+    date: 4 April 1893
+  death:
+    date: April 1950
+marriages:
+  - spouse:
+      givenName: Myrtle
+      surname: Henderson
+childrenGroups:
+  - children:
+      - name: Gertie Vining
+        birth:
+          date: 16 March 1942
+        marriages:
+          - date: Will Clyde Robinson Jr.
+      - name: Fred Vining
+        entryId: Fred03
+        birth:
+          date: 8 September 1943
+        marriages:
+          - date: Barbara Carolyn Rhodes
+raw: |-
+  <a name="Frank04"></a><font size=+2>Frank Vining</font>
+     (son of <a href="#Fred02">Fred Vining and Gertrude Ervin</a>)
+     b. 4 April 1893
+     m. Myrtle Henderson
+     d. April 1950
+  
+  <font size=+1>children:</font>
+     Gertie Vining   b. 16 March 1942   -   m. Will Clyde Robinson Jr.
+     <a href="#Fred03">Fred Vining</a>   b. 8 September 1943   -   m. Barbara Carolyn Rhodes

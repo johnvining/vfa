@@ -1,0 +1,57 @@
+id: FrancisEJr01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: FrancisE01
+parentDesc: Francis Earl Vining and Frances J. Bullock
+head:
+  givenName: Francis Earl Jr.
+  birth:
+    date: 15 May 1910
+    place: "Boston, Massachusetts"
+  death:
+    date: 26 December 1975
+    place: "East Boston, Massachusetts"
+marriages:
+  - date: 9 July 1939
+    place: "Charlestown, Massachusetts"
+    spouse:
+      givenName: Sara Lee
+      surname: McDaniel
+childrenGroups:
+  - children:
+      - name: Francis Earl Vining III
+        birth:
+          date: 23 August 1940
+          place: "Brighton, Massachusetts"
+        marriages:
+          - number: 1
+            date: "Alice [...]"
+          - number: 2
+            date: "Priscilla [...]"
+        death:
+          date: 8 October 2005
+          place: "Wareham, Massachusetts"
+      - name: Linda Lee Vining
+        birth:
+          date: 18 February 1943
+          place: "Brighton, Massachusetts"
+        marriages:
+          - date: 24 April 1965
+            spouse: "Stephen Lane Mason,   divorced 2001"
+docsUrl: Fsources/FrancisEJr01doc.htm
+raw: |-
+  <a name="FrancisEJr01"></a><font size=+2>Francis Earl Vining Jr.</font>
+     (son of <a href="#FrancisE01">Francis Earl Vining and Frances J. Bullock</a>)
+     b. 15 May 1910   Boston, Massachusetts	
+     m. 9 July 1939   Charlestown, Massachusetts
+           Sara Lee McDaniel
+                 (dau. of George H. McDaniel and Sarah Helly)
+     d. 26 December 1975   East Boston, Massachusetts
+           bur. Oak Grove Cemetery   Medford, Massachusetts
+  
+  <font size=+1>children:</font>
+     Francis Earl Vining III   b. 23 August 1940   Brighton, Massachusetts   -   m. (1) Alice [...];   (2) Priscilla [...]   -   d. 8 October 2005   Wareham, Massachusetts
+     Linda Lee Vining   b. 18 February 1943   Brighton, Massachusetts   -   m. 24 April 1965   Stephen Lane Mason,   divorced 2001
+  
+  <a href="Fsources/FrancisEJr01doc.htm">documentation and notes</a>

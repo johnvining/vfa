@@ -1,0 +1,35 @@
+id: Fred03
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Frank04
+parentDesc: Frank Vining and Myrtle Henderson
+head:
+  givenName: Fred
+  birth:
+    date: 8 September 1943
+marriages:
+  - spouse:
+      givenName: Barbara Carolyn
+      surname: Rhodes
+childrenGroups:
+  - children:
+      - name: Arlene Vining
+        birth:
+          date: 28 November 1963
+      - name: Linda Vining
+        birth:
+          date: 28 January 1965
+      - name: Leslie Glen Vining
+        birth:
+          date: 14 May 1970
+raw: |-
+  <a name="Fred03"></a><font size=+2>Fred Vining</font>
+     (son of <a href="#Frank04">Frank Vining and Myrtle Henderson</a>)
+     b. 8 September 1943
+     m. Barbara Carolyn Rhodes
+  
+  <font size=+1>children:</font>
+     Arlene Vining   b. 28 November 1963
+     Linda Vining   b. 28 January 1965
+     Leslie Glen Vining   b. 14 May 1970

@@ -1,0 +1,43 @@
+id: Frank02
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Frank01
+parentDesc: Frank Vining and Martha Green
+head:
+  givenName: Frank
+  birth:
+    date: age 4 y. as of 1880 census
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Alice
+      surname: "[&#8230;])"
+childrenGroups:
+  - children:
+      - name: "[Luther or Lucy ?] Vining"
+        birth:
+          date: age 2 y. as of 1910 census
+          place: Louisiana
+      - name: G. W. Vining
+        birth:
+          date: age 7 y as of 1920 census
+          place: Louisiana
+      - name: Lara Vining
+        birth:
+          date: "age 3 y., 1 n, as if 1920 census"
+          place: Louisiana
+docsUrl: Fsources/Frank02doc.htm
+raw: |-
+  <a name="Frank02"></a><font size=+2>Frank Vining</font>
+     (son of <a href="#Frank01">Frank Vining and Martha Green</a>)
+     b. age 4 y. as of 1880 census   Louisiana
+     m. Alice [&#8230;])
+              b. age 30 y. as of 1910 census   Louisiana
+  
+  <font size=+1>children:</font>
+     [Luther or Lucy ?] Vining   b. age 2 y. as of 1910 census   Louisiana
+     G. W. Vining   b. age 7 y as of 1920 census   Louisiana
+     Lara Vining   b. age 3 y., 1 n, as if 1920 census   Louisiana
+  
+  <a href="Fsources/Frank02doc.htm">documentation and notes</a>

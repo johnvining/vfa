@@ -1,0 +1,43 @@
+id: FrankA01
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: RogerE01
+parentLetter: R
+parentDesc: Roger Earl Vining and Dolores Arlene Croff
+head:
+  givenName: Frank Alan
+  birth:
+    date: 3 August 1952
+    place: "Lakeview, Michigan"
+marriages:
+  - spouse:
+      givenName: Bonnie Sue
+      surname: McClurken
+childrenGroups:
+  - children:
+      - name: Tara Lynne Vining
+        birth:
+          date: 3 October 1971
+      - name: Brandi Leigh Vining
+        birth:
+          date: 15 March 1973
+      - name: Jeanie Marie Vining
+        birth:
+          date: 17 November 1977
+      - name: Stephanie Michele Vining
+        birth:
+          date: 30 June 1979
+raw: |-
+  <a name="FrankA01"></a><font size=+2>Frank Alan Vining</font>
+     (son of <a href="Rfamilies.htm#RogerE01">Roger Earl Vining and Dolores Arlene Croff</a>)
+     b. 3 August 1952   Lakeview, Michigan
+     m. Bonnie Sue McClurken
+              b. age 51 y. at death
+              d. 13 January 2004
+  
+  <font size=+1>children:</font>
+     Tara Lynne Vining   b. 3 October 1971
+     Brandi Leigh Vining   b. 15 March 1973
+     Jeanie Marie Vining   b. 17 November 1977
+     Stephanie Michele Vining   b. 30 June 1979
