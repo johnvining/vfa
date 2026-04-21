@@ -256,16 +256,28 @@ function parseEntry(block, letter) {
 
   // Parse body: lines after header, before children/docs
   const headerIdx = lines.indexOf(headerLine);
-  const childrenIdx = lines.findIndex(l => /<font size=\+1>children:<\/font>/i.test(l));
+  const childrenIdx = lines.findIndex(l => /<font size=["+]1>children/i.test(l));
   const docsIdx = lines.findIndex(l => /documentation and notes/.test(l));
 
   const bodyLines = lines.slice(headerIdx + 1, childrenIdx !== -1 ? childrenIdx : (docsIdx !== -1 ? docsIdx : lines.length));
 
-  // Parse head birth/death/burial and marriages from body lines
+  // Parse head birth/death/burial and marriages from body lines.
+  // Indentation conventions:
+  //   Unnumbered m.: spouse at mIndent+6, spouse details at mIndent+12, spouse bur at mIndent+18
+  //   Numbered m.(1) at indent 3: spouse at 15 (3+12), details at 21, bur at 27
+  //   Continuation (N) at indent 9: spouse at 15 (9+6), details at 21, bur at 27
   let headBirth, headDeath, headBurial;
   const marriages = [];
   let currentMarriage = null;
   let inSpouseBlock = false;
+  let expectedSpouseIndent = 9;  // adjusted when marriage format changes
+  let isNumberedMarriage = false;
+
+  function startMarriage(m) {
+    currentMarriage = m;
+    inSpouseBlock = true;
+    marriages.push(currentMarriage);
+  }
 
   for (const line of bodyLines) {
     if (!line.trim()) continue;
@@ -282,109 +294,124 @@ function parseEntry(block, letter) {
         inSpouseBlock = false;
         currentMarriage = null;
       } else if (content.startsWith('m.')) {
-        currentMarriage = {};
-        inSpouseBlock = true;
-        // Parse number if present: "m. (1) ..."
+        const m = {};
         const numMatch = content.match(/^m\.\s+\((\d+)\)\s*/);
         if (numMatch) {
-          currentMarriage.number = parseInt(numMatch[1]);
+          // Numbered marriage: m. (1) DATE — spouse will be at indent 15
+          m.number = parseInt(numMatch[1]);
           const rest = content.slice(numMatch[0].length).trim();
           const dp = parseDatePlace(rest);
-          if (dp) { currentMarriage.date = dp.date; currentMarriage.place = dp.place; }
+          if (dp) { m.date = dp.date; m.place = dp.place; }
+          isNumberedMarriage = true;
+          expectedSpouseIndent = 15;
         } else {
           const rest = content.slice(2).trim();
-          // If inline spouse (no triple-space after short text), e.g. "m. Eunice Nugent"
           const triIdx = rest.indexOf('   ');
           if (triIdx === -1) {
-            // Check if it looks like just a name (no date pattern)
             if (/^\d|^ca\./.test(rest)) {
-              // It's a date (no place/spouse)
-              currentMarriage.date = rest;
+              m.date = rest;
             } else {
-              // It's a spouse name inline
-              currentMarriage.spouse = { givenName: rest.split(' ').slice(0, -1).join(' ') || rest, surname: rest.split(' ').pop() };
+              // Inline spouse name (no date)
+              const parts = rest.split(' ');
+              m.spouse = { givenName: parts.slice(0, -1).join(' ') || rest, surname: parts[parts.length - 1] };
               inSpouseBlock = false;
             }
           } else {
-            const date = rest.slice(0, triIdx).trim();
+            m.date = rest.slice(0, triIdx).trim();
             const afterDate = rest.slice(triIdx).trim();
-            currentMarriage.date = date;
             const tri2 = afterDate.indexOf('   ');
             if (tri2 !== -1) {
-              currentMarriage.place = afterDate.slice(0, tri2).trim();
-              // anything after is inline spouse
-              const inlineSpouse = afterDate.slice(tri2).trim();
-              if (inlineSpouse) {
-                const parts = inlineSpouse.split(' ');
-                currentMarriage.inlineSpouse = inlineSpouse;
-              }
+              m.place = afterDate.slice(0, tri2).trim();
             } else {
-              currentMarriage.place = afterDate;
+              m.place = afterDate;
             }
           }
+          isNumberedMarriage = false;
+          expectedSpouseIndent = 9;
         }
-        marriages.push(currentMarriage);
+        startMarriage(m);
       } else if (content.startsWith('bur.')) {
         headBurial = parseBurialLine(content);
       }
-    } else if (indent === 9 && inSpouseBlock && currentMarriage) {
-      // Spouse name line or head burial after death
-      if (content.startsWith('bur.')) {
+    } else if (indent === 9) {
+      if (inSpouseBlock && /^\(\d+\)\s/.test(content)) {
+        // Numbered marriage continuation: (2) DATE   PLACE
+        const m = {};
+        const numMatch = content.match(/^\((\d+)\)\s+/);
+        m.number = parseInt(numMatch[1]);
+        const rest = content.slice(numMatch[0].length).trim();
+        const dp = parseDatePlace(rest);
+        if (dp) { m.date = dp.date; m.place = dp.place; }
+        isNumberedMarriage = true;
+        expectedSpouseIndent = 15;
+        startMarriage(m);
+      } else if (inSpouseBlock && content.startsWith('bur.')) {
         headBurial = parseBurialLine(content);
         inSpouseBlock = false;
-      } else if (!currentMarriage.spouse) {
-        // Spouse name
-        const spouseParts = content.split(' ');
-        const surname = spouseParts[spouseParts.length - 1];
-        const givenParts = spouseParts.slice(0, -1);
-        currentMarriage.spouse = { givenName: givenParts.join(' '), surname };
+      } else if (inSpouseBlock && currentMarriage && !currentMarriage.spouse && expectedSpouseIndent === 9) {
+        // Unnumbered marriage: spouse name at indent 9
+        const parts = content.split(' ');
+        currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
       }
-    } else if (indent === 15 && currentMarriage && currentMarriage.spouse) {
-      if (/^\(dau\. of|^\(son of/i.test(content)) {
-        currentMarriage.spouse.parents = content.replace(/^\(dau\. of\s*|\(son of\s*/i, '').replace(/\)$/, '').trim();
-      } else if (content.startsWith('b.')) {
+    } else if (indent === 15 && inSpouseBlock && currentMarriage) {
+      if (!currentMarriage.spouse) {
+        // Numbered marriage: spouse name at indent 15
+        const parts = content.split(' ');
+        currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
+      } else {
+        // Spouse details
+        if (/^\(dau\. of|^\(son of/i.test(content)) {
+          currentMarriage.spouse.parents = content.replace(/^\(dau\. of\s*|\(son of\s*/i, '').replace(/\)$/, '').trim();
+        } else if (content.startsWith('b.')) {
+          currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('d.')) {
+          currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('m.')) {
+          if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
+        }
+      }
+    } else if (indent === 21 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
+      if (content.startsWith('b.')) {
         currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
       } else if (content.startsWith('d.')) {
         currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
-      } else if (content.startsWith('m.')) {
-        // Spouse had a previous marriage
-        if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
+      } else if (content.startsWith('bur.')) {
+        currentMarriage.spouse.burial = parseBurialLine(content);
       }
-    } else if (indent === 21 && currentMarriage && currentMarriage.spouse) {
+    } else if (indent === 27 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
       if (content.startsWith('bur.')) {
         currentMarriage.spouse.burial = parseBurialLine(content);
       }
     }
   }
 
-  // Parse children
+  // Parse children — handle multiple groups ("children by X:")
   let childrenGroups = [];
-  if (childrenIdx !== -1) {
-    const childLines = lines.slice(childrenIdx + 1, docsIdx !== -1 ? docsIdx : lines.length);
-    const children = [];
-    let currentSpouseRef = null;
+  const endIdx = docsIdx !== -1 ? docsIdx : lines.length;
+  let scanIdx = childrenIdx !== -1 ? childrenIdx : -1;
 
-    for (const line of childLines) {
-      if (!line.trim()) continue;
-      // Check for "with SPOUSE:" group header (some entries have multiple groups)
-      const groupMatch = line.match(/^\s*\(with ([^)]+)\)/i);
-      if (groupMatch) {
-        if (children.length > 0) {
-          childrenGroups.push({ spouseRef: currentSpouseRef, children: [...children] });
-          children.length = 0;
-        }
-        currentSpouseRef = groupMatch[1].trim();
-        continue;
-      }
-      if (countLeadingSpaces(line) >= 3 && line.trim()) {
-        children.push(parseChildLine(line.trim()));
-      }
-    }
+  while (scanIdx !== -1 && scanIdx < endIdx) {
+    const headingLine = lines[scanIdx];
+    // Extract spouse ref from "children by X:" or "children with X:"
+    const byMatch = headingLine.match(/<font[^>]+>children (?:by|with) ([^<:]+)/i);
+    const spouseRef = byMatch ? byMatch[1].trim() : undefined;
+
+    // Find the next children heading or end
+    const nextHeadingIdx = lines.findIndex((l, i) => i > scanIdx && /<font size=["+]1>children/i.test(l));
+    const groupEnd = nextHeadingIdx !== -1 && nextHeadingIdx < endIdx ? nextHeadingIdx : endIdx;
+
+    const groupLines = lines.slice(scanIdx + 1, groupEnd);
+    const children = groupLines
+      .filter(l => countLeadingSpaces(l) >= 3 && l.trim() && !/<font/.test(l))
+      .map(l => parseChildLine(l.trim()));
+
     if (children.length > 0) {
       const group = { children };
-      if (currentSpouseRef) group.spouseRef = currentSpouseRef;
+      if (spouseRef) group.spouseRef = spouseRef;
       childrenGroups.push(group);
     }
+
+    scanIdx = nextHeadingIdx !== -1 && nextHeadingIdx < endIdx ? nextHeadingIdx : -1;
   }
 
   // Parse docs URL
@@ -492,13 +519,7 @@ function serializeEntry(entry) {
   const simpleFields = ['id', 'letter', 'lastUpdated', 'relationship', 'parentId', 'parentLetter', 'parentDesc'];
   for (const f of simpleFields) {
     if (entry[f] !== undefined) {
-      const v = entry[f];
-      const needsQuotes = typeof v === 'string' && (/[:#\[\]{},&*?|<>=!%@`]/.test(v) || v.startsWith(' '));
-      if (needsQuotes) {
-        yaml += `${f}: "${v.replace(/"/g, '\\"')}"\n`;
-      } else {
-        yaml += `${f}: ${v}\n`;
-      }
+      yaml += `${f}: ${yamlStr(entry[f])}\n`;
     }
   }
 
@@ -516,10 +537,8 @@ function serializeEntry(entry) {
       yaml += '  -';
       let first = true;
       const addField = (k, v) => {
-        const needsQuotes = typeof v === 'string' && (/[:#\[\]{},&*?|<>=!%@`]/.test(v) || v.startsWith(' ') || v === 'true' || v === 'false');
-        const val = needsQuotes ? `"${v.replace(/"/g, '\\"')}"` : v;
-        if (first) { yaml += ` ${k}: ${val}\n`; first = false; }
-        else yaml += `    ${k}: ${val}\n`;
+        if (first) { yaml += ` ${k}: ${yamlStr(v)}\n`; first = false; }
+        else yaml += `    ${k}: ${yamlStr(v)}\n`;
       };
       if (m.number !== undefined) addField('number', m.number);
       if (m.date) addField('date', m.date);
@@ -529,16 +548,11 @@ function serializeEntry(entry) {
         if (first) { yaml += ` spouse:\n`; first = false; }
         else yaml += `    spouse:\n`;
         const s = m.spouse;
-        const addSpouseField = (k, v) => {
-          const needsQuotes = typeof v === 'string' && (/[:#\[\]{},&*?|<>=!%@`]/.test(v) || v.startsWith(' '));
-          const val = needsQuotes ? `"${v.replace(/"/g, '\\"')}"` : v;
-          yaml += `      ${k}: ${val}\n`;
-        };
-        if (s.givenName) addSpouseField('givenName', s.givenName);
-        if (s.surname) addSpouseField('surname', s.surname);
-        if (s.nee) addSpouseField('nee', s.nee);
-        if (s.widowOf) addSpouseField('widowOf', s.widowOf);
-        if (s.parents) addSpouseField('parents', s.parents);
+        if (s.givenName) yaml += `      givenName: ${yamlStr(s.givenName)}\n`;
+        if (s.surname) yaml += `      surname: ${yamlStr(s.surname)}\n`;
+        if (s.nee) yaml += `      nee: ${yamlStr(s.nee)}\n`;
+        if (s.widowOf) yaml += `      widowOf: ${yamlStr(s.widowOf)}\n`;
+        if (s.parents) yaml += `      parents: ${yamlStr(s.parents)}\n`;
         if (s.birth) yaml += serializeDatePlace('birth', s.birth, 6);
         if (s.death) yaml += serializeDatePlace('death', s.death, 6);
         if (s.burial) yaml += serializeBurial(s.burial, 6);
@@ -553,9 +567,7 @@ function serializeEntry(entry) {
       yaml += '  -';
       let groupFirst = true;
       if (group.spouseRef) {
-        const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(group.spouseRef);
-        const val = needsQuotes ? `"${group.spouseRef.replace(/"/g, '\\"')}"` : group.spouseRef;
-        yaml += ` spouseRef: ${val}\n`;
+        yaml += ` spouseRef: ${yamlStr(group.spouseRef)}\n`;
         groupFirst = false;
       }
       if (groupFirst) yaml += ` children:\n`;
@@ -585,48 +597,40 @@ function serializeEntry(entry) {
 }
 
 function serializeGivenName(name) {
-  const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(name) || /^\d/.test(name);
-  const val = needsQuotes ? `"${name.replace(/"/g, '\\"')}"` : name;
-  return `  givenName: ${val}\n`;
+  return `  givenName: ${yamlStr(name)}\n`;
+}
+
+function yamlStr(v) {
+  if (typeof v !== 'string') return String(v);
+  const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(v)
+    || v.startsWith(' ') || v.endsWith(' ')
+    || /^\d+$/.test(v)  // pure number string
+    || v === 'true' || v === 'false' || v === 'null';
+  return needsQuotes ? `"${v.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"` : v;
 }
 
 function serializeDatePlace(field, dp, indent) {
   const pad = ' '.repeat(indent);
   let out = `${pad}${field}:\n`;
-  if (dp.date) {
-    const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(dp.date) || /^\d/.test(dp.date);
-    const val = needsQuotes ? `"${dp.date.replace(/"/g, '\\"')}"` : dp.date;
-    out += `${pad}  date: ${val}\n`;
-  }
-  if (dp.place) {
-    const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(dp.place);
-    const val = needsQuotes ? `"${dp.place.replace(/"/g, '\\"')}"` : dp.place;
-    out += `${pad}  place: ${val}\n`;
-  }
-  if (dp.lastResidence) {
-    out += `${pad}  lastResidence: ${dp.lastResidence}\n`;
-  }
+  if (dp.date) out += `${pad}  date: ${yamlStr(dp.date)}\n`;
+  if (dp.place) out += `${pad}  place: ${yamlStr(dp.place)}\n`;
+  if (dp.lastResidence) out += `${pad}  lastResidence: ${yamlStr(dp.lastResidence)}\n`;
   return out;
 }
 
 function serializeBurial(b, indent) {
   const pad = ' '.repeat(indent);
   let out = `${pad}burial:\n`;
-  if (b.place) {
-    const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(b.place);
-    const val = needsQuotes ? `"${b.place.replace(/"/g, '\\"')}"` : b.place;
-    out += `${pad}  place: ${val}\n`;
-  }
-  if (b.description) out += `${pad}  description: ${b.description}\n`;
+  if (b.place) out += `${pad}  place: ${yamlStr(b.place)}\n`;
+  if (b.description) out += `${pad}  description: ${yamlStr(b.description)}\n`;
   return out;
 }
 
 function serializeChild(child) {
   let yaml = '      - ';
   let first = true;
-  const addField = (k, v, forceQuotes = false) => {
-    const needsQuotes = forceQuotes || (typeof v === 'string' && (/[:#\[\]{},&*?|<>=!%@`]/.test(v) || v.startsWith(' ')));
-    const val = needsQuotes ? `"${String(v).replace(/"/g, '\\"')}"` : v;
+  const addField = (k, v) => {
+    const val = typeof v === 'boolean' ? v : yamlStr(String(v));
     if (first) { yaml += `${k}: ${val}\n`; first = false; }
     else yaml += `        ${k}: ${val}\n`;
   };
@@ -641,8 +645,7 @@ function serializeChild(child) {
       yaml += '          -';
       let mFirst = true;
       const addM = (k, v) => {
-        const needsQuotes = typeof v === 'string' && (/[:#\[\]{},&*?|<>=!%@`]/.test(v) || v.startsWith(' '));
-        const val = needsQuotes ? `"${v.replace(/"/g, '\\"')}"` : v;
+        const val = typeof v === 'number' ? v : yamlStr(String(v));
         if (mFirst) { yaml += ` ${k}: ${val}\n`; mFirst = false; }
         else yaml += `            ${k}: ${val}\n`;
       };

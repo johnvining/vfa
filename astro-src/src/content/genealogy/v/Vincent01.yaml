@@ -1,0 +1,114 @@
+id: Vincent01
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentId: Owen01
+parentLetter: O
+parentDesc: Owen Vining and Edith Ann Ivey
+head:
+  givenName: Vincent
+  birth:
+    date: 2 May 1863
+    place: Georgia
+  death:
+    date: 15 July 1899
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: "[1883 or"
+      surname: "1884?]"
+      birth:
+        date: 1 March 1866
+        place: Georgia
+      death:
+        date: 12 April 1956
+        place: Georgia
+      burial:
+        place: "Mount Zion Cemetery   Axson, Georgia"
+childrenGroups:
+  - children:
+      - name: Jasper Leon Vining   25 June 1884
+        death:
+          date: 4 October 1935
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
+      - name: Christopher Columbus Vining
+        birth:
+          date: 10 October 1885
+        death:
+          date: 13 August 1909
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
+      - name: Florida Arlo Vining
+        birth:
+          date: "[28 February 1887 ?]"
+          place: "Ware County, Georgia"
+        marriages:
+          - date: Henry Morgan
+        death:
+          date: 16 October 1979
+        burial:
+          place: "Prospect Primitive Baptist Cemetery   White Springs, Florida"
+      - name: Owen Green Vining
+        entryId: OwenG01
+        entryLetter: O
+        birth:
+          date: "[20 April 1887 ?]"
+          place: Georgia
+        marriages:
+          - date: Mary Eula Reiner
+        death:
+          date: 25 January 1951
+        burial:
+          place: "Willacoochee City  Cemetery   Willacoochee, Atkinson County, Georgia"
+      - name: Jefferson Davis Vining
+        entryId: JeffersonD01
+        entryLetter: J
+        birth:
+          date: 28 March 1890
+          place: Georgia
+        marriages:
+          - number: 1
+            date: Mamie Ratliff (d. ca. 1916)
+          - number: 2
+            date: "1917"
+            place: Georgia
+            spouse: Cora Delk
+        death:
+          date: 17 April 1971
+          place: Georgia
+      - name: Zilpha Jane Vining
+        death:
+          date: 15 April 1893
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
+      - name: John Vincent Vining
+        birth:
+          date: 14 March 1898
+        death:
+          date: 14 October 1898
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
+docsUrl: Vsources/Vincent01doc.htm
+raw: |-
+  <a name="Vincent01"></a><font size=+2>Vincent Vining</font>
+     (son of <a href="Ofamilies.htm#Owen01">Owen Vining and Edith Ann Ivey</a>)
+     b. 2 May 1863   Georgia
+     m. [1883 or 1884?]
+           Malinda Abigail May
+                 b. 1 March 1866   Georgia
+                 d. 12 April 1956   Georgia
+                       bur. Mount Zion Cemetery   Axson, Georgia
+     d. 15 July 1899   Georgia
+           bur. Mount Zion Cemetery   Axson, Georgia
+  
+  <font size=+1>children:</font>
+     Jasper Leon Vining   25 June 1884   -   m. Frances Gillian White   -   d. 4 October 1935   -   bur. Mount Zion Cemetery   Axson, Georgia
+     Christopher Columbus Vining   b. 10 October 1885   -   d. 13 August 1909   -   bur. Mount Zion Cemetery   Axson, Georgia
+     Florida Arlo Vining   b. [28 February 1887 ?]   Ware County, Georgia   -   m. Henry Morgan   -   d. 16 October 1979   -   bur. Prospect Primitive Baptist Cemetery   White Springs, Florida
+     <a href="Ofamilies.htm#OwenG01">Owen Green Vining</a>   b. [20 April 1887 ?]   Georgia   -   m. Mary Eula Reiner   -   d. 25 January 1951   -   bur. Willacoochee City  Cemetery   Willacoochee, Atkinson County, Georgia
+     <a href="Jfamilies.htm#JeffersonD01">Jefferson Davis Vining</a>   b. 28 March 1890   Georgia   -   m. (1) Mamie Ratliff (d. ca. 1916);   (2) 1917   Georgia   Cora Delk   -   d. 17 April 1971   Georgia
+     Zilpha Jane Vining   -   b. 8 December 1891   -   d. 15 April 1893   -   bur. Mount Zion Cemetery   Axson, Georgia
+     John Vincent Vining   b. 14 March 1898   -   d. 14 October 1898   -   bur. Mount Zion Cemetery   Axson, Georgia
+  
+  <a href="Vsources/Vincent01doc.htm">documentation and notes</a>

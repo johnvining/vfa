@@ -1,0 +1,62 @@
+id: VivianC01
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentId: FrederickE01
+parentLetter: F
+parentDesc: Frederick Elmer Vining and Louise Conant McKenney
+head:
+  givenName: Vivian Clifton
+  birth:
+    date: 30 April 1901
+    place: "Durham, Maine"
+  death:
+    date: 9 April 1952
+    place: "Great Bend, New York"
+marriages:
+  - date: 10 September 1938
+    spouse:
+      givenName: Gertrude
+      surname: Gray
+      birth:
+        date: "1905"
+      death:
+        date: "1982"
+      burial:
+        place: "Sunnyside Cemetery   Great Bend, New York"
+childrenGroups:
+  - children:
+      - name: Janice Louise Vining
+        birth:
+          date: 22 July 1941
+          place: "Watertown, New York"
+        marriages:
+          - date: 6 October 1967
+            place: "Dothan, Alabama"
+            spouse: Bobby G. Byrd
+      - name: Karen Frances Vining
+        birth:
+          date: 9 April 1944
+          place: "Watertown, New York"
+        marriages:
+          - number: 1
+            date: 30 May 1967
+            spouse: Charles Gagliano
+          - number: 2
+            date: 30 August 1974
+            spouse: Carl J. Plemmons
+raw: |-
+  <a name="VivianC01"></a><font size=+2>Vivian Clifton Vining</font>
+     (son of <a href="Ffamilies.htm#FrederickE01">Frederick Elmer Vining and Louise Conant McKenney</a>)
+     b. 30 April 1901   Durham, Maine
+     m. 10 September 1938
+           Gertrude Gray
+                 b. 1905
+                 d. 1982
+                       bur. Sunnyside Cemetery   Great Bend, New York
+     d. 9 April 1952   Great Bend, New York
+           bur. Sunnyside Cemetery   Great Bend, New York
+  
+  <font size=+1>children:</font>
+     Janice Louise Vining   b. 22 July 1941   Watertown, New York   -   m. 6 October 1967   Dothan, Alabama   Bobby G. Byrd
+     Karen Frances Vining   b. 9 April 1944   Watertown, New York   -   m. (1) 30 May 1967   Charles Gagliano;   (2) 30 August 1974   Carl J. Plemmons
