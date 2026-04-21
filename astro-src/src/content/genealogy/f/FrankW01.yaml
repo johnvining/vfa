@@ -88,7 +88,11 @@ childrenGroups:
       - name: "Jeanette L. &#8220;Nettie&#8221; Vining"
         birth:
           date: 25 April 1889
-          place: - m. (1) T. A. Peters;   (2) Bert Russell
+        marriages:
+          - number: 1
+            date: T. A. Peters
+          - number: 2
+            date: Bert Russell
       - name: Arthur Ray Vining
         entryId: ArthurR01
         entryLetter: A
