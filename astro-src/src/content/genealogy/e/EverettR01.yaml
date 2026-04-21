@@ -1,4 +1,5 @@
 id: EverettR01
+sequence: 133
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,11 +14,19 @@ head:
   death:
     date: 14 March 1909
     place: "Henderson, Nebraska"
+  burial:
+    place: "Woodbine, Iowa"
 marriages:
   - date: "1888"
     spouse:
       givenName: Lillie
       surname: Coulter
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "&#8220;Jo&#8221; Vining"
+        marriages:
+          - spouse: "ca. 1915?   Henry M. Hiebert"
 raw: |-
   <a name="EverettR01"></a><font size=+2>Everett Robert Vining</font>
      (son of <a href="Lfamilies.htm#Lewis01">Lewis Vining and Adaline Orinda Winter</a>)

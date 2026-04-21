@@ -1,4 +1,5 @@
 id: EdwardH01
+sequence: 32
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,18 +14,29 @@ head:
   death:
     date: 21 September 1964
     place: "Marshalltown, Iowa"
+  burial:
+    place: "Fairview Cemetery   Cedar Falls, Iowa"
 marriages:
   - number: 1
     date: Mary Ella Chapman
     spouse:
-      givenName: "b. [29 or 19?] November 1888   Cedar Falls,"
-      surname: Iowa
+      parents: (dau. of Millard Penfield Chapman and Johanna Marie Mork)
+      birth:
+        date: "[29 or 19?] November 1888"
+        place: "Cedar Falls, Iowa"
+      death:
+        date: 21 October 1960
+        place: "Marshalltown, Iowa"
+      burial:
+        place: "Fairview Cemetery   Cedar Falls, Iowa"
+    note: divorced
+  - number: 2
+    date: Lillian Dudley
+    spouse:
       birth:
         date: "1893"
       death:
         date: 28 June 1982
-      burial:
-        place: "Fairview Cemetery   Cedar Falls, Iowa"
 childrenGroups:
   - spouseRef: Mary Ella Chapman
     children:
@@ -69,7 +81,7 @@ childrenGroups:
           date: 29 September 1912
           place: "Mason City, Cerro Gordo County, Iowa"
         marriages:
-          - date: Pauline Doris Chinnery
+          - spouse: Pauline Doris Chinnery
         death:
           date: 28 September 1977
           place: "Charles City, Floyd County, Iowa"
@@ -101,7 +113,7 @@ childrenGroups:
           date: 12 December 1918
           place: "Fox Lake, Minnesota"
         marriages:
-          - date: Wayne Franklin Lantz
+          - spouse: Wayne Franklin Lantz
         death:
           date: 25 March 1997
           place: "Campbell, California"

@@ -1,4 +1,5 @@
 id: EltonC01
+sequence: 98
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 22 April 1960
     place: "Willshire, Ohio"
+  burial:
+    place: "Willshire Cemetery   Willshire, Ohio"
 marriages:
   - number: 1
     date: 31 January 1912
     spouse:
       givenName: Anna
       surname: Banta
+      parents: (dau. James D. Banta and Mary C. Exline)
       birth:
         date: 12 August 1890
       death:
@@ -26,7 +30,79 @@ marriages:
       burial:
         place: "Willshire Cemetery   Willshire, Ohio"
   - number: 2
-    date: Lou Weimer (Ellis)
+    spouse:
+      givenName: Lou
+      surname: "Weimer (Ellis)"
+      birth:
+        date: 10 April 1891
+        place: "Willshire, Ohio"
+      death:
+        date: 3 March 1966
+        place: "Lima, Ohio"
+      burial:
+        place: "Willshire Cemetery   Willshire, Ohio"
+childrenGroups:
+  - headingText: "chldren: by Anna Banta"
+    children:
+      - name: James N. Vining
+        entryId: JamesN01
+        entryLetter: J
+        birth:
+          date: 17 August 1913
+        marriages:
+          - spouse: Mildred Marcella Carver
+        death:
+          date: July 1986
+          place: "(last residence: Celina, Ohio)"
+        burial:
+          place: "Willshire Cemetery   Willshire, Ohio"
+      - name: Beatrice Delores Vining
+        birth:
+          date: 6 December 1915
+        marriages:
+          - spouse: Woodrow Rogers
+        death:
+          date: "1997"
+      - name: Eugene F. Vining
+        entryId: EugeneF01
+        birth:
+          date: 18 October 1917
+          place: "Van Wert County, Ohio"
+        marriages:
+          - date: 20 February 1943
+            spouse: Rosella L. Dull
+        death:
+          date: 25 October 1999
+          place: "Van Wert, Ohio"
+        burial:
+          place: "Willshire Cemetery   Willshire, Ohio"
+      - name: Velma Anzina Vining
+        birth:
+          date: 19 July 1919
+        marriages:
+          - date: 19 October 1941
+            spouse: Robert F. Hoffman
+        death:
+          date: "1990"
+      - name: Lois N. Vining
+        birth:
+          date: 30 May 1921
+        marriages:
+          - spouse: Robert Merinar
+        death:
+          date: "1974"
+      - name: Carl D. Vining
+        entryId: CarlD01
+        entryLetter: C
+        birth:
+          date: 5 September 1928
+        marriages:
+          - spouse: JoAnn Secrest
+        death:
+          date: 10 July 1999
+          place: "(last residence: Fort Wayne, Indiana)"
+        burial:
+          place: "Covington Memorial Gardens   Fort Wayne, Indiana"
 docsUrl: Esources/EltonC01doc.htm
 raw: |-
   <a name="EltonC01"></a><font size=+2>Elton Cassius Vining</font>

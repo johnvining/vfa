@@ -1,4 +1,5 @@
 id: ErnestW02
+sequence: 118
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -14,6 +15,14 @@ marriages:
   - spouse:
       givenName: May Louise
       surname: Crocker
+      parents: "(dau. of [&#8230;] Crocker and Olive A. [&#8230;])"
+      birth:
+        date: April 1878
+        place: Connecticut
+      death:
+        date: "1961"
+      burial:
+        place: "Mountain View Memorial Park   Lakewood, Washington"
 childrenGroups:
   - children:
       - name: Julius C. Vining

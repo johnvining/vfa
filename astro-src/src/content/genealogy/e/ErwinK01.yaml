@@ -1,4 +1,5 @@
 id: ErwinK01
+sequence: 124
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,10 +14,37 @@ head:
   death:
     date: 5 Octobr 1932
     place: "Brooklyn, New York"
+  burial:
+    place: "The Evergreens Cemetery   Brooklyn, New York"
 marriages:
   - spouse:
       givenName: Mattie Jane
       surname: McCain
+      parents: (dau. of William Harvey McCain and Susannah S. Stephenson)
+      birth:
+        date: 25 September 1871
+        place: "Shelby County, Iowa"
+      death:
+        date: 15 July 1922
+        place: "Brooklyn, New York"
+      burial:
+        place: "The Evergreens Cemetery   Brooklyn, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Charles Elmer Vining
+        entryId: CharlesE06
+        entryLetter: C
+        birth:
+          date: 20 August 1889
+          place: "Omoha, Nebraska"
+        marriages:
+          - spouse: Isabella Jane Johnston
+        death:
+          date: 14 July 1929
+          place: "Inwood, New York"
+        burial:
+          place: "Oakland Cemetery   Philadelphia, Pennsylvania"
 raw: |-
   <a name="ErwinK01"></a><font size=+2>Erwin K. Vining</font>
      (son of <a href="Cfamilies.htm#Charles13">Charles Vining and Louise M. Gray</a>)

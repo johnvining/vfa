@@ -1,4 +1,5 @@
 id: Elem01
+sequence: 70
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,17 +14,22 @@ head:
   death:
     date: 10 January 1837
     place: "Delaware, Ohio"
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
 marriages:
   - number: 1
-    date: Sarah Allen
     spouse:
-      givenName: d.
-      surname: "1806"
+      givenName: Sarah
+      surname: Allen
+      death:
+        date: "1806"
   - number: 2
-    date: Sarah Carter
     spouse:
-      givenName: "b. 1785  "
-      surname: Virginia
+      givenName: Sarah
+      surname: Carter
+      birth:
+        date: "1785"
+        place: Virginia
 childrenGroups:
   - spouseRef: Sarah Allen
     children:
@@ -47,7 +53,7 @@ childrenGroups:
           date: "1805"
           place: "Berkshire, Ohio"
         marriages:
-          - date: Andrew Patterson
+          - spouse: Andrew Patterson
         death:
           date: "15 April [1839 or 1838?]"
         burial:
@@ -61,7 +67,7 @@ childrenGroups:
           place: "Delaware, Ohio"
         marriages:
           - date: "1835"
-            place: Sarah Newport
+            spouse: Sarah Newport
         death:
           date: 31 October 1899
         burial:
@@ -104,7 +110,7 @@ childrenGroups:
         birth:
           date: "1821"
         marriages:
-          - date: "[...] Sprague"
+          - spouse: "[...] Sprague"
         death:
           date: 22 March 1891
         burial:

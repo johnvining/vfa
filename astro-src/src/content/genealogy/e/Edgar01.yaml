@@ -1,4 +1,5 @@
 id: Edgar01
+sequence: 17
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,9 +14,10 @@ head:
   death:
     date: 14 December 1939
 marriages:
-  - spouse:
-      givenName: July
-      surname: "1891"
+  - date: July 1891
+    spouse:
+      givenName: Mary
+      surname: Kelly
       birth:
         date: age 49 y. as of 1920 census
         place: Michigan
@@ -34,12 +36,12 @@ childrenGroups:
         birth:
           date: 11 May 1896
         marriages:
-          - date: Floyd Bunyard
+          - spouse: Floyd Bunyard
       - name: Elizabeth Vining
         birth:
           date: 20 April 1898
         marriages:
-          - date: Frank Putnam
+          - spouse: Frank Putnam
       - name: Norman Vining
         entryId: Norman01
         entryLetter: N
@@ -47,7 +49,7 @@ childrenGroups:
           date: 4 February 1900
           place: Michigan
         marriages:
-          - date: Clara Windoft
+          - spouse: Clara Windoft
         death:
           date: March 1963
           place: "(last residence: Michigan)"
@@ -55,7 +57,7 @@ childrenGroups:
         birth:
           date: 2 December 1902
         marriages:
-          - date: Stanley Hartt
+          - spouse: Stanley Hartt
       - name: Charlotte G. Vining
         birth:
           date: 16 February 1904
@@ -73,7 +75,7 @@ childrenGroups:
           date: 7 May 1906
           place: Michigan
         marriages:
-          - date: Iva Travis
+          - spouse: Iva Travis
         death:
           date: June 1980
           place: "(last residence: Snover, Michigan)"
@@ -87,7 +89,7 @@ childrenGroups:
           date: 10 September 1910
           place: Michigan
         marriages:
-          - date: Grover Ulysses
+          - spouse: Grover Ulysses
       - name: Merle C. Vining
         birth:
           date: 23 April 1913

@@ -1,4 +1,5 @@
 id: EldonL01
+sequence: 68
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,11 +14,21 @@ head:
   death:
     date: 20 November 2018
     place: "Gallipolis, Gallia County, Ohio"
+  burial:
+    place: "Miles Cemetery   Rutland, Meigs County, Ohio"
 marriages:
   - date: 20 August 1956
     spouse:
       givenName: Wanda
       surname: Graham
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "Vickie Vining   [b. and?]"
+        death:
+          date: 1 November 1956
+        burial:
+          place: "Miles Cemetery   Rutland, Ohio"
 docsUrl: Esources/EldonL01doc.htm
 raw: |-
   <a name="EldonL01"></a><font size=+2>Eldon Lowell Vining</font>

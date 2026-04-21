@@ -1,4 +1,5 @@
 id: EdwardC02
+sequence: 28
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,10 +12,19 @@ head:
     place: Florida
   death:
     date: 11 June 1964
+  burial:
+    place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
 marriages:
   - spouse:
       givenName: Pearl Mae
       surname: Edwards
+      birth:
+        date: 19 July 1905
+        place: Florida
+      death:
+        date: 7 May 1992
+      burial:
+        place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
 childrenGroups:
   - children:
       - name: Edward Clyde Vining Jr.
@@ -32,12 +42,12 @@ childrenGroups:
           date: 9 May 1938
           place: "Miami, Florida"
         marriages:
-          - date: Beverly Wirch
+          - spouse: Beverly Wirch
         death:
           date: 7 April 2016
       - name: Trez Vining
         marriages:
-          - date: "Susan [&#8230;]"
+          - spouse: "Susan [&#8230;]"
 docsUrl: Esources/EdwardC02doc.htm
 raw: |-
   <a name="EdwardC02"></a><font size=+2>Edward Clyde Vining</font>

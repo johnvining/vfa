@@ -1,4 +1,5 @@
 id: ElbridgeC01
+sequence: 64
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -25,6 +26,16 @@ marriages:
       birth:
         date: December 1822
         place: New Hampshire
+childrenGroups:
+  - headingText: "child by Mary Bunker"
+    children:
+      - name: Abbie C. Vining
+        birth:
+          date: November 1863
+          place: "[Maine or New Hampshire]"
+        marriages:
+          - date: 15 y. as of 1900 census
+            spouse: Fred Foss
 docsUrl: Esources/ElbridgeC01doc.htm
 raw: |-
   <a name="ElbridgeC01"></a><font size=+2>Elbridge C. Vining</font>

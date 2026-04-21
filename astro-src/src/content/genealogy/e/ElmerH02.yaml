@@ -1,4 +1,5 @@
 id: ElmerH02
+sequence: 91
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -18,12 +19,31 @@ marriages:
     spouse:
       givenName: Bernice Marguerite
       surname: Foye
+      parents: (dau. of Lewis Melvin Foye and Maude Frances Pittsley)
       birth:
         date: 22 January 1898
         place: "Brockton, Massachusetts"
       death:
         date: 28 October 1968
         place: "Stoughton, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Melvin Howard Vining
+        entryId: MelvinH01
+        entryLetter: M
+        birth:
+          date: 27 October 1921
+          place: "Brockton, Massachusetts"
+        marriages:
+          - date: 10 January 1943
+            place: "Trenton, New Jersey"
+            spouse: Jean Marie Breen
+        death:
+          date: 2 March 2008
+          place: "Falls Township, Pennsylvania"
+        burial:
+          place: "North Weymouth Cemetery   Weymouth, Massachusetts"
 docsUrl: Esources/ElmerH02doc.htm
 raw: |-
   <a name="ElmerH02"></a><font size=+2>Elmer Harold Vining</font>

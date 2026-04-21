@@ -1,4 +1,5 @@
 id: EdwardS01
+sequence: 50
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: "1936"
     place: "Pinellas County, Florida"
+  burial:
+    place: "Oak Grove Cemetery   Wildwood, Florida"
 marriages:
   - date: 10 October 1893
     spouse:
@@ -41,7 +44,7 @@ childrenGroups:
           date: 8 March 1899
           place: Florida
         marriages:
-          - date: Pearl Edwards
+          - spouse: Pearl Edwards
         death:
           date: 11 June 1964
         burial:

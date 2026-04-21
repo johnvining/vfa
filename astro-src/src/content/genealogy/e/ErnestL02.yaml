@@ -1,4 +1,5 @@
 id: ErnestL02
+sequence: 115
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 23 October 1945
     place: "Phoenix, Arizona"
+  burial:
+    place: "Greenwood Memory Lawn Cemetery   Phoenix, Arizona"
 marriages:
   - date: 22 February 1903
     spouse:
       givenName: Lou Purl
       surname: Hopkins
+      parents: (dau of Solomon Hopkins and Sarah Emma Albright)
       birth:
         date: 8 November 1885
         place: "Rudy, Arkansas"
@@ -33,8 +37,7 @@ childrenGroups:
           date: 1 December 1903
           place: "Neodesha, Kansas"
         marriages:
-          - date: "[1?] Florence [...];"
-            spouse: "[2?] Iva [...]"
+          - spouse: "[1?] Florence [...];   [2?] Iva [...]"
         death:
           date: 10 July 1964
           place: "Glendale, Arizona"
@@ -60,7 +63,8 @@ childrenGroups:
           date: 25 May 1908
           place: "Vilas, Kansas"
         marriages:
-          - date: 18 November 1933  Kansas
+          - date: 18 November 1933
+            place: Kansas
             spouse: Pearl Adell Williams
         death:
           date: 4 June 1993
@@ -74,7 +78,7 @@ childrenGroups:
           date: 26 June 1918
           place: "Neodesha, Kansas"
         marriages:
-          - date: "[...] Pennington"
+          - spouse: "[...] Pennington"
         death:
           date: 2 July 2003
           place: "(last residence: Prescott Valley, Arizona)"
@@ -83,8 +87,7 @@ childrenGroups:
           date: 14 September 1920
           place: "Neodesha, Kansas"
         marriages:
-          - date: "Jim Sullivan,"
-            spouse: divorced 18 March 1953
+          - spouse: "Jim Sullivan,   divorced 18 March 1953"
 raw: |-
   <a name="ErnestL02"></a><font size=+2>Ernest Lester Vining</font>
      (son of <a href="Jfamilies.htm#JamesMJr01">James M. Vining Jr. and [Jane or Jeannie] Lindsley</a>)

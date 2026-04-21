@@ -1,4 +1,5 @@
 id: EdwardJ01
+sequence: 34
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -10,6 +11,21 @@ marriages:
   - spouse:
       givenName: Elizabeth
       surname: Mooney
+      death:
+        date: December 1956
+childrenGroups:
+  - headingText: child
+    children:
+      - name: James Edward Vining
+        entryId: JamesE01
+        entryLetter: J
+        birth:
+          date: 1 October 1902
+          place: "St. Louis, Missouri"
+        marriages:
+          - spouse: Caroline M. Engelmann
+        death:
+          date: 8 August 1956
 raw: |-
   <a name="EdwardJ01"></a><font size=+2>Edward James Vining</font>
      (son of <a href="#Edward03">Edward Vining and [...]</a>)

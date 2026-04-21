@@ -1,4 +1,5 @@
 id: ElmerE01
+sequence: 89
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 7 October 1908
     place: "Horton, Kansas"
+  burial:
+    place: "Horton Cemetery   Horton, Kansas"
 marriages:
   - date: 12 y. as of 1900 census
     spouse:
       givenName: Eva Leota
       surname: Hamilton
+      parents: (dau. of George Hamilton and Hannah Rosetta Bunker)
       birth:
         date: 16 December 1870
         place: "[Kansas or Iowa?]"
@@ -33,7 +37,7 @@ childrenGroups:
           date: 5 September 1889
           place: "Kennekuk, Kansas"
         marriages:
-          - date: Margueritte LaVere Johnson
+          - spouse: Margueritte LaVere Johnson
         death:
           date: 9 November 1961
           place: "Horten, Kansas"

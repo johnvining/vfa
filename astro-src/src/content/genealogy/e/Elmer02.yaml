@@ -1,4 +1,5 @@
 id: Elmer02
+sequence: 85
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -18,7 +19,9 @@ marriages:
       givenName: Sally
       surname: McLean
   - number: 2
-    date: Sarah Goodwin
+    spouse:
+      givenName: Sarah
+      surname: Goodwin
 childrenGroups:
   - spouseRef: "?"
     children:

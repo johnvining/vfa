@@ -1,4 +1,5 @@
 id: EdwardC01
+sequence: 27
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Harriet
       surname: "[...]"
+      birth:
+        date: age 42 y. as of 1850 census
+        place: Connecticut
 childrenGroups:
   - children:
       - name: Laura Vining

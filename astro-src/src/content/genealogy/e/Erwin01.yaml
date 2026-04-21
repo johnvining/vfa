@@ -1,4 +1,5 @@
 id: Erwin01
+sequence: 122
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -33,7 +34,7 @@ childrenGroups:
           date: 16 June 1908
           place: Kansas
         marriages:
-          - date: "[&#8230;] Edwards"
+          - spouse: "[&#8230;] Edwards"
       - name: Charlotte Blanche Vining
         birth:
           date: 31 January 1910
@@ -48,7 +49,7 @@ childrenGroups:
           date: 23 May 1912
           place: Kansas
         marriages:
-          - date: Mildred Blanche Harriman
+          - spouse: Mildred Blanche Harriman
         death:
           date: 13 March 1963
           place: "Crescent City, California"
@@ -61,7 +62,7 @@ childrenGroups:
           date: 21 February 1914
           place: Kansas
         marriages:
-          - date: Gladys Opal Carter
+          - spouse: Gladys Opal Carter
         death:
           date: June 1984
         burial:

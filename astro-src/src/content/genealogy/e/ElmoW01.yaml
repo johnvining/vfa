@@ -1,4 +1,5 @@
 id: ElmoW01
+sequence: 97
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 22 April 1951
     place: "Osage, Mitchell County, Iowa"
+  burial:
+    place: "Osage Cemetery   Osage, Mitchell County, Iowa"
 marriages:
   - date: 3 y. as of 1900 census
     spouse:
       givenName: Jennie M.
       surname: Courtney
+      parents: (dau. of William Courtney and Anna Lynch)
       birth:
         date: April 1877
         place: "[Michigan or Iowa?]"
@@ -43,7 +47,7 @@ childrenGroups:
           date: 14 February 1912
           place: "Mitchell County, Iowa"
         marriages:
-          - date: Marie C. Buffington
+          - spouse: Marie C. Buffington
         death:
           date: 4 November 2002
           place: "Osage, Iowa"

@@ -1,4 +1,5 @@
 id: EdwardJJr01
+sequence: 37
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -10,18 +11,29 @@ head:
     date: 26 May 1922
   death:
     date: 3 March 2013
+  burial:
+    place: "Riverside Memorial Park   Jacksonville, Florida"
 marriages:
   - spouse:
       givenName: Pauline
       surname: Dekle
+      parents: "(dau of Ernest Dekle and Bruce Wenona [...])"
+      birth:
+        date: 27 August 1924
+        place: "Jacksonville, Florida"
+      death:
+        date: 31 January 2010
+        place: "Jacksonville, Florida"
+      burial:
+        place: "Riverside Memorial Park   Jacksonville, Florida"
 childrenGroups:
   - children:
       - name: "[Judy or Judee?] Vining"
         marriages:
-          - date: "[...] Suber"
+          - spouse: "[...] Suber"
       - name: Elaine Vining
         marriages:
-          - date: Ted Sills
+          - spouse: Ted Sills
 docsUrl: Esources/EdwardJJr01doc.htm
 raw: |-
   <a name="EdwardJJr01"></a><font size=+2>Edward Judson Vining Jr.</font>

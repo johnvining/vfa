@@ -1,4 +1,5 @@
 id: ElbridgeWJr01
+sequence: 67
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -22,13 +23,13 @@ childrenGroups:
   - children:
       - name: Jane Vining
         marriages:
-          - date: "[&#8230;] Beliveau"
+          - spouse: "[&#8230;] Beliveau"
       - name: David Vining
         marriages:
-          - date: "Robin [&#8230;]"
+          - spouse: "Robin [&#8230;]"
       - name: Sharon Vining
         marriages:
-          - date: Tim Hewett
+          - spouse: Tim Hewett
 docsUrl: Esources/ElbridgeWJr01doc.htm
 raw: |-
   <a name="ElbridgeWJr01"></a><font size=+2>Elbridge Winfield Vining Jr.</font>

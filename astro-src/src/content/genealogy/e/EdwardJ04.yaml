@@ -1,4 +1,5 @@
 id: EdwardJ04
+sequence: 36
 letter: E
 lastUpdated: 23 February 2023
 head:
@@ -15,7 +16,7 @@ childrenGroups:
         birth:
           date: age 84 y. at death
         marriages:
-          - date: "Bettie [&#8230;]"
+          - spouse: "Bettie [&#8230;]"
         death:
           date: 7 February 2009
       - name: Edward Judson Vining Jr.
@@ -23,7 +24,7 @@ childrenGroups:
         birth:
           date: 26 May 1922
         marriages:
-          - date: Pauline Dekle
+          - spouse: Pauline Dekle
         death:
           date: 3 March 2013
         burial:

@@ -1,4 +1,5 @@
 id: EverettL02
+sequence: 132
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 27 February 2009
     place: "Farmington, Maine"
+  burial:
+    place: "Fairview Cemetery   Farmington, Maine"
 marriages:
   - date: 27 November 1955
     place: "Farmington, Maine"
     spouse:
       givenName: Olive Helen
       surname: Getchell
+      parents: (dau. of Albert Ervin Getchell and Helen M. Seavey)
       birth:
         date: 21 August 1932
 childrenGroups:
@@ -41,7 +45,7 @@ childrenGroups:
             place: "Farmington, Maine"
             spouse: "Richard D. Brown,   [divorced?]"
           - number: 2
-            date: Mike Fortunato
+            spouse: Mike Fortunato
       - name: Kevin Leon Vining
         birth:
           date: 2 March 1960

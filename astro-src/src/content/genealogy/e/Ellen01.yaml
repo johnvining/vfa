@@ -1,4 +1,5 @@
 id: Ellen01
+sequence: 82
 letter: E
 lastUpdated: 23 February 2023
 relationship: dau.
@@ -13,6 +14,37 @@ head:
   death:
     date: "1918"
     place: Georgia
+  burial:
+    place: "Mt. Zion Baptist Church Cemetery   Axson, Georgia"
+childrenGroups:
+  - headingText: "child by [...] Beckum"
+    children:
+      - name: Charles Vining
+        birth:
+          date: January 1876
+          place: Georgia
+        death:
+          date: 27 January 1949
+          place: Georgia
+        burial:
+          place: "Franklin Baptist Church Cemetery   Douglas, Coffee County, Georgia"
+  - headingText: "child by Hezekiah Ponder Williams"
+    children:
+      - name: Owen Franklin Vining
+        entryId: OwenF01
+        entryLetter: O
+        birth:
+          date: 11 September 1878
+          place: "Axson, Georgia"
+        marriages:
+          - date: 13 January 1907
+            place: Georgia
+            spouse: Pearl Woodard
+        death:
+          date: 10 January 1955
+          place: "Douglas, Coffee County, Georgia"
+        burial:
+          place: "Franklin Baptist Church Cemetery   Douglas, Coffee County, Georgia"
 docsUrl: Esources/Ellen01doc.htm
 raw: |-
   <a name="Ellen01"></a><font size=+2>Ellen Vining</font>

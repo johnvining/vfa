@@ -1,4 +1,5 @@
 id: EdwardM02
+sequence: 44
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: Michigan
   death:
     date: "1931"
+  burial:
+    place: "Glenwood Cemetery   Wayne, Michigan"
 marriages:
   - date: 7 y. as of 1910 census
     place: "Wayne, Michigan"
@@ -25,6 +28,17 @@ marriages:
         date: 21 October 1948
       burial:
         place: "Glenwood Cemetery   Wayne, Michigan"
+childrenGroups:
+  - children:
+      - name: Margaret Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: "Michigan [but see documentation and notes]"
+      - name: Elizabeth Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: "Michigan [but see documentation and notes]"
+docsUrl: Esources/EdwardM02doc.htm
 raw: |-
   <a name="EdwardM02"></a><font size=+2>Edward Minnick Vining</font>
      (son of <a href="Wfamilies.htm#WilliamO01">William Oscar Vining and Ann B. Arzend</a>)

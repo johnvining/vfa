@@ -1,4 +1,5 @@
 id: EarlE01
+sequence: 4
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,9 +12,10 @@ head:
     date: "1899"
     place: Louisiana
 marriages:
-  - spouse:
-      givenName: prior to 1920
-      surname: census
+  - date: prior to 1920 census
+    spouse:
+      givenName: Ada
+      surname: Lodrigue
       birth:
         date: age 17 y. as of 1920 census
         place: Louisiana
@@ -29,7 +31,7 @@ childrenGroups:
           date: 27 August 1925
           place: Louisiana
         marriages:
-          - date: Una Marie Toups
+          - spouse: Una Marie Toups
         death:
           date: 13 October 1983
         burial:

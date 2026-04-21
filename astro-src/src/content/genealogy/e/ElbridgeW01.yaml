@@ -1,4 +1,5 @@
 id: ElbridgeW01
+sequence: 65
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,10 +14,21 @@ head:
   death:
     date: 31 December 1933
     place: "Strong, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - spouse:
       givenName: Elvira W.
       surname: Keene
+      parents: (dau. of John Keene and Fannie Kempton)
+      birth:
+        date: 9 June 1860
+        place: Maine
+      death:
+        date: 1 September 1937
+        place: "Augusta, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
 childrenGroups:
   - children:
       - name: Hervey E. Vining
@@ -47,7 +59,8 @@ childrenGroups:
           place: "Farmington, Maine"
         burial:
           place: "Village Cemetery   Strong, Maine"
-  - children:
+  - headingText: "children?"
+    children:
       - name: Mary F. Vining
         birth:
           date: 15 October 1881

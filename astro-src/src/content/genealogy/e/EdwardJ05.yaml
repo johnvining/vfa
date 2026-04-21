@@ -1,4 +1,5 @@
 id: EdwardJ05
+sequence: 35
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,10 +12,18 @@ head:
     date: 1 August 1886
   death:
     date: 16 May 1961
+  burial:
+    place: "Hollywood Cemetery   Atlanta, Georgia"
 marriages:
   - spouse:
       givenName: Annie Mae
       surname: Dennis
+      birth:
+        date: 13 September 1889
+      death:
+        date: 9 October 1972
+      burial:
+        place: "Hollywood Cemetery   Atlanta, Georgia"
 childrenGroups:
   - children:
       - name: Ruby L. Vining

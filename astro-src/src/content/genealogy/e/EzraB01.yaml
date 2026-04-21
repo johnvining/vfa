@@ -1,4 +1,5 @@
 id: EzraB01
+sequence: 137
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: Maine
   death:
     date: "1922"
+  burial:
+    place: "Millville Cemetery   Millville, New York"
 marriages:
   - date: 3 September 1881
     place: "Conway, Massachusetts"
     spouse:
       givenName: Alice Gould
       surname: Page
+      parents: (dau. of Elijah Page and Kezia Foster Bardwell)
       birth:
         date: November 1852
         place: "[Conway?], Massachusetts"
@@ -25,6 +29,16 @@ marriages:
         date: "1938"
       burial:
         place: "Millville Cemetery   Millville, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Mary Kezia Vining
+        birth:
+          date: 4 May 1883
+          place: "Conway, Massachusetts"
+        death:
+          date: 18 February 1928
+          place: "Chicago, Illinois"
 docsUrl: Esources/EzraB01doc.htm
 raw: |-
   <a name="EzraB01"></a><font size=+2>Ezra Bonney Vining</font>

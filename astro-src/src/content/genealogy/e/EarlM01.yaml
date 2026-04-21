@@ -1,4 +1,5 @@
 id: EarlM01
+sequence: 7
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,10 +12,19 @@ head:
     place: Louisiana
   death:
     date: 13 October 1983
+  burial:
+    place: "Saint Joseph Church Cemetery   Galliano, Louisiana"
 marriages:
   - spouse:
       givenName: Una Marie
       surname: Toups
+      parents: (dau. of Manuel Pierre Toups and Viola Marie Adams)
+      birth:
+        date: 4 May 1931
+      death:
+        date: 18 March 1991
+      burial:
+        place: "Saint Joseph Church Cemetery   Galliano, Louisiana"
 childrenGroups:
   - children:
       - name: Danny Joseph Vining

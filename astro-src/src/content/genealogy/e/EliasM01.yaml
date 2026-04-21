@@ -1,4 +1,5 @@
 id: EliasM01
+sequence: 74
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,9 +12,10 @@ head:
     date: age 26 y. as of 1850 census
     place: Ohio
 marriages:
-  - spouse:
-      givenName: January
-      surname: "1846"
+  - date: January 1846
+    spouse:
+      givenName: Jane
+      surname: Bunker
       birth:
         date: age 33 y. as of 1860 census
         place: Virginia

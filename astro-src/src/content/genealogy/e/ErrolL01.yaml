@@ -1,4 +1,5 @@
 id: ErrolL01
+sequence: 121
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 31 August 2015
     place: "Holland, Michigan"
+  burial:
+    place: "Lakeside Cemetery   Decatur, Michigan"
 marriages:
   - date: 11 February 1961
     place: "Kalamazoo, Michigan"
@@ -23,14 +26,14 @@ childrenGroups:
   - children:
       - name: Heather Vining
         marriages:
-          - date: "[&#8230;] Edsall"
+          - spouse: "[&#8230;] Edsall"
       - name: Keith Christopher Vining
         entryId: KeithC01
         entryLetter: K
         birth:
           date: 10 January 1968
         marriages:
-          - date: Eva Clark
+          - spouse: Eva Clark
 docsUrl: Esources/ErrolL01doc.htm
 raw: |-
   <a name="ErrolL01"></a><font size=+2>Errol Lynn Vining</font>

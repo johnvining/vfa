@@ -1,4 +1,5 @@
 id: ElmerLJr01
+sequence: 95
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,12 +13,16 @@ head:
     place: Georgia
 marriages:
   - number: 1
-    date: Christine Hudson
     spouse:
-      givenName: "b. 26 April 1933  "
-      surname: Georgia
+      givenName: Christine
+      surname: Hudson
+      birth:
+        date: 26 April 1933
+        place: Georgia
   - number: 2
-    date: "Ruby [&#8230;]"
+    spouse:
+      givenName: "Ruby"
+      surname: "[&#8230;]"
 childrenGroups:
   - children:
       - name: "Elmer Leon &#8220;Skip&#8221; Vining III"

@@ -1,4 +1,5 @@
 id: EdwardK01
+sequence: 40
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 7 February 1914
     place: "Portage, Wisconsin"
+  burial:
+    place: "Rock Hill Cemetery   Kingston, Wisconsin"
 marriages:
   - number: 1
     date: 14 December 1858
     spouse:
       givenName: Nancy O.
       surname: Blatchley
+      parents: (dau. of Harlow Blatchley and Phebe Woodruff)
       birth:
         date: 6 March 1839
         place: New York

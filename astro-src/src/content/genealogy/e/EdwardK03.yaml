@@ -1,4 +1,5 @@
 id: EdwardK03
+sequence: 38
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,10 +14,14 @@ head:
   death:
     date: 25 February 2002
     place: "Biloxi, Mississippi"
+  burial:
+    place: "Collins Cemetery   Ponchatoula, Louisiana"
 marriages:
-  - spouse:
-      givenName: "(1?) Betty June Sheppard (m. (2?) [&#8230;]"
-      surname: Koch)
+  - number: 1
+    date: "Betty June Sheppard (m. (2?) [&#8230;] Koch)"
+  - number: 2
+    date: Charlotte Ester Lafuria
+    spouse:
       birth:
         date: 8 August 1937
       death:
@@ -29,14 +34,14 @@ childrenGroups:
       - name: Diane Vining
       - name: Cathy Vining
         marriages:
-          - date: Levi Church
+          - spouse: Levi Church
       - name: Clarence Kevlin Vining
         entryId: ClarenceK01
         entryLetter: C
         birth:
           date: 17 April 1954
         marriages:
-          - date: "Jan [&#8230;]"
+          - spouse: "Jan [&#8230;]"
         death:
           date: 8 July 2017
           place: Mississippi
@@ -44,10 +49,10 @@ childrenGroups:
         entryId: Bobby01
         entryLetter: B
         marriages:
-          - date: "Lisa [&#8230;]"
+          - spouse: "Lisa [&#8230;]"
       - name: Daniel Vining
         marriages:
-          - date: "Tammy [&#8230;]"
+          - spouse: "Tammy [&#8230;]"
 docsUrl: Esources/EdwardK03doc.htm
 raw: |-
   <a name="EdwardK03"></a><font size=+2>Edward Kevlin Vining</font>

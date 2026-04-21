@@ -1,4 +1,5 @@
 id: EmmettF01
+sequence: 103
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: Arkansas
   death:
     date: 13 October 1936
+  burial:
+    place: "Green Hill Cemetery   Green Hill, Arkansas"
 marriages:
   - date: 16 February 1916
     place: Arkansas
     spouse:
       givenName: Irene Clementine
       surname: Loveless
+      parents: (dau. of Benjamin W. Loveless and Louisa C. Knowles)
       birth:
         date: 15 December 1898
         place: Arkansas
@@ -35,7 +39,7 @@ childrenGroups:
           date: 8 March 1917
           place: Arkansas
         marriages:
-          - date: Ruby Merle Brantley
+          - spouse: Ruby Merle Brantley
         death:
           date: 28 October 2010
           place: "Monticello, Arkansas"
@@ -52,7 +56,8 @@ childrenGroups:
           date: 22 September 1921
         marriages:
           - date: 1 January 1937
-            spouse: "Lake Village, Arkansas   Robert Weslie Hamil Jr."
+            place: "Lake Village, Arkansas"
+            spouse: Robert Weslie Hamil Jr.
         death:
           date: September 1937
       - name: Herman H. Vining

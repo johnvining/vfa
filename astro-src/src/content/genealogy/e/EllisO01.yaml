@@ -1,4 +1,5 @@
 id: EllisO01
+sequence: 84
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,18 +14,28 @@ head:
   death:
     date: 12 January 1897
     place: "Bennington Township, Ohio"
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
 marriages:
   - date: 4 September 1884
     place: "Morrow County, Ohio"
     spouse:
       givenName: Lillie
       surname: Morton
+      parents: "(dau. of [&#8230;]) Morton and Laura [&#8230;])"
       birth:
         date: April 1861
       death:
         date: "1936"
       burial:
         place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Alice Vining
+        birth:
+          date: 18 September 1886
+          place: "Pagetown, Ohio"
 docsUrl: Esources/EllisO01doc.htm
 raw: |-
   <a name="EllisO01"></a><font size=+2>Ellis O. Vining</font>

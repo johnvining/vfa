@@ -1,4 +1,5 @@
 id: ElbridgeW02
+sequence: 66
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 20 June 1975
     place: "Skowhegan, Maine"
+  burial:
+    place: "Saint Sebastian Cemetery   Madison, Maine"
 marriages:
   - date: 30 December 1930
     place: "Madison, Maine"
     spouse:
       givenName: Mary Elizabeth
       surname: Devault
+      parents: (dau. of Joseph Devault and Catherine Kondas)
       birth:
         date: 8 April 1909
         place: "Anson, Maine"
@@ -42,13 +46,13 @@ childrenGroups:
           date: 29 April 1933
           place: "Avon, Maine"
         marriages:
-          - date: "[&#8230;] McKenney"
+          - spouse: "[&#8230;] McKenney"
       - name: Joanne Vining
         birth:
           date: 29 January 1935
           place: "Avon, Maine"
         marriages:
-          - date: "[&#8230;] Wing"
+          - spouse: "[&#8230;] Wing"
       - name: Elbridge Winfield Vining Jr.
         entryId: ElbridgeWJr01
         birth:
@@ -66,37 +70,37 @@ childrenGroups:
           date: 28 July 1938
           place: "Avon, Maine"
         marriages:
-          - date: "[&#8230;] Stevens"
+          - spouse: "[&#8230;] Stevens"
       - name: Mariane Vining
         birth:
           date: 23 October 1939
           place: "Avon, Maine"
         marriages:
-          - date: "[&#8230;] Luce"
+          - spouse: "[&#8230;] Luce"
       - name: William Francis Vining
         birth:
           date: 5 December 1941
           place: "Anson, Maine"
         marriages:
-          - date: "Carolyn [&#8230;]"
+          - spouse: "Carolyn [&#8230;]"
       - name: John Albert Vining
         birth:
           date: 30 March 1943
           place: "Anson, Maine"
         marriages:
-          - date: "Joan [&#8230;]"
+          - spouse: "Joan [&#8230;]"
       - name: Richard Michael Vining
         birth:
           date: 4 December 1948
           place: "Skowhegan, Maine"
         marriages:
-          - date: "Betty [&#8230;]"
+          - spouse: "Betty [&#8230;]"
       - name: Kathryn Jean Vining
         birth:
           date: 20 March 1950
           place: "Skowhegan, Maine"
         marriages:
-          - date: Lincoln Stevens
+          - spouse: Lincoln Stevens
 docsUrl: Esources/ElbridgeW02doc.htm
 raw: |-
   <a name="ElbridgeW02"></a><font size=+2>Elbridge Winfield Vining</font>

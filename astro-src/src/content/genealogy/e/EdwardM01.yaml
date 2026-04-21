@@ -1,4 +1,5 @@
 id: EdwardM01
+sequence: 43
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: "1904 [3 October"
     place: "McHenry, North Dakota ?]"
+  burial:
+    place: "Lakewood Cemetery   Lake City, Minnesota"
 marriages:
   - date: 25 December 1866
     place: "Redwing, Minnesota"
@@ -33,7 +36,7 @@ childrenGroups:
           date: 16 November 1868
           place: "Florence, Minnesota"
         marriages:
-          - date: "Lake City, Minnesota"
+          - place: "Lake City, Minnesota"
             spouse: William Halliday Thomson
         death:
           date: 8 October 1851
@@ -102,7 +105,7 @@ childrenGroups:
           date: 13 February 1876
           place: "Florence, Minnesota"
         marriages:
-          - date: William Murray
+          - spouse: William Murray
       - name: Dorothy Grace Vining
         birth:
           date: 26 March 1877

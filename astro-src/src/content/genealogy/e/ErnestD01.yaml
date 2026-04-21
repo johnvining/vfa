@@ -1,4 +1,5 @@
 id: ErnestD01
+sequence: 109
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,31 +14,36 @@ head:
   death:
     date: 13 September 2001
     place: "Jacksonville, Florida"
+  burial:
+    place: "Riverside Memorial Park   Jacksonville, Florida"
 marriages:
   - spouse:
       givenName: "[1?] Thelma Pearl"
       surname: Davis
+      parents: (dau. of Richard Wilbur Davis and Ida Estelee Houston)
       birth:
         date: 25 January 1910
       death:
         date: 17 February 1960
       burial:
         place: "Riverside Memorial Park   Jacksonville, Florida"
+  - spouse:
+      givenName: "[2?] Mary Adams"
+      surname: "[&#8230;]"
 childrenGroups:
   - spouseRef: Thelma Pearl Davis
     children:
       - name: Eugene L. Vining
         birth:
-          date: "Jacksonville, Florida"
+          place: "Jacksonville, Florida"
         death:
-          date: "Jacksonville, Florida"
+          place: "Jacksonville, Florida"
       - name: Caroline Vining
         birth:
           date: 9 November 1935
           place: "Jacksonville, Florida"
         marriages:
-          - date: Eli P. Becker
-            spouse: b. 1935
+          - spouse: "Eli P. Becker   b. 1935"
         death:
           date: 22 January 2009
           place: Florida

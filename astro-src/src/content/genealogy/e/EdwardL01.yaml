@@ -1,4 +1,5 @@
 id: EdwardL01
+sequence: 41
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
   death:
     date: 17 October 1972
     place: "Lewiston, Maine"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Maine"
 marriages:
   - number: 1
     date: 24 June 1931
@@ -19,14 +22,17 @@ marriages:
     spouse:
       givenName: Marjorie E.
       surname: Newcomb
+      parents: (dau. of Mark W. Newcomb and Mary McClearn)
       birth:
         date: "Corning, New Hampshire"
+    note: divorced 1935
   - number: 2
     date: 25 June 1939
     place: "Lewiston, Maine"
     spouse:
       givenName: Ruth Elizabeth
       surname: Morrill
+      parents: (dau. of John Randall Morrill and Gladys M. Moore)
       birth:
         date: 17 February 1915
         place: "Auburn, Maine"
@@ -73,6 +79,8 @@ childrenGroups:
         death:
           date: 22 October 2011
           place: "Lewiston, Maine"
+        burial:
+          description: "Megquier Hill Cemetery   Poland, Maine"
   - spouseRef: Ruth Elizabeth Morrill
     children:
       - name: Laurel Ann Vining

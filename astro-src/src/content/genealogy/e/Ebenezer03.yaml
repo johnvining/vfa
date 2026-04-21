@@ -1,4 +1,5 @@
 id: Ebenezer03
+sequence: 15
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "West Nissouri Township, Ontario"
   death:
     date: 15 December 1953
+  burial:
+    place: "Vining Cemetery   Thorndale, Ontario"
 marriages:
   - date: 2 January 1905
     place: "St. Mary's, Ontario"
     spouse:
       givenName: Clara Beatrice
       surname: Delmage
+      parents: (dau. of James Delmage and Mary Jane Rutherford)
       birth:
         date: 29 September 1869
         place: "St. Mary's, Ontario"

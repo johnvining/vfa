@@ -1,4 +1,5 @@
 id: ErnestJT01
+sequence: 111
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 20 July 1924
     place: "White Plains, Westchester County, New York"
+  burial:
+    place: "Kensico Cemetery   Valhalla, New York"
 marriages:
   - date: 5 October 1890
     place: "Lockport, New York"
     spouse:
       givenName: Emma Grace
       surname: Clark
+      parents: (dau. of Benjamihn Wheaton Clark and Emma Griswold Wakeman)
       birth:
         date: 1 November 1874
         place: "Lockport, New York"
@@ -34,7 +38,7 @@ childrenGroups:
           date: 22 September 1899
           place: "White Plains, Westchester County, New York"
         marriages:
-          - date: Edward Genung Nichols
+          - spouse: Edward Genung Nichols
         death:
           date: 10 January 1985
           place: "Wellesley, Norfolk County, Massachusetts"

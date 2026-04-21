@@ -1,4 +1,5 @@
 id: ElmerJ01
+sequence: 94
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,8 +14,20 @@ head:
   death:
     date: 25 September 1928
     place: "Marengo, Ohio"
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
 marriages:
   - date: 14 y. as of 1900 census
+    spouse:
+      givenName: Emma A.
+      surname: Steward
+      birth:
+        date: "1859"
+        place: Ohio
+      death:
+        date: "1944"
+      burial:
+        place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
 childrenGroups:
   - children:
       - name: child Vining

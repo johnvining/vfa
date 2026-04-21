@@ -1,4 +1,5 @@
 id: Earl01
+sequence: 1
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: Kansas
   death:
     date: November 1929
+  burial:
+    place: "Hays, Ellis County, Kansas"
 marriages:
   - spouse:
       givenName: Inez
       surname: Foster
+      birth:
+        date: 16 March 1893
+      death:
+        date: 1 November 1913
+      burial:
+        place: "Neodesha City Cemetery   Neodesha, Wilson County, Kansas"
 childrenGroups:
   - children:
       - name: Donna Gertrude Vining

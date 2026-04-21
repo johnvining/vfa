@@ -1,4 +1,5 @@
 id: EdwardJ03
+sequence: 33
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,10 +14,33 @@ head:
   death:
     date: 21 December 2007
     place: "Ashland, Ashland County, Ohio"
+  burial:
+    place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
 marriages:
   - spouse:
       givenName: Nettie Charlene
       surname: Bridges
+      parents: (dau. of Lesley Harold Bridges and Mae Elizabeth Aby)
+      birth:
+        date: 17 May 1937
+        place: "Mansfield, Richland County, Ohio"
+      death:
+        date: 22 September 1981
+        place: "Columbus, Franklin County, Ohio"
+      burial:
+        place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Carl Edward Vining
+        birth:
+          date: 19 December 1956
+          place: "Mansfield, Richland County, Ohio"
+        death:
+          date: 21 September 1979
+          place: "Mansfield, Richland County, Ohio"
+        burial:
+          place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
 docsUrl: Esources/EdwardJ03doc.htm
 raw: |-
   <a name="EdwardJ03"></a><font size=+2>Edward Junior Vining</font>

@@ -1,4 +1,5 @@
 id: ErnestF01
+sequence: 110
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -16,6 +17,19 @@ marriages:
   - spouse:
       givenName: "[...]"
       surname: Pennington
+      parents: (dau. of Arch Pennington and Vada B. Vining)
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ernest Edwin Vining
+        birth:
+          date: 30 June 1959
+        marriages:
+          - spouse: "[...] Greco"
+        death:
+          date: 7 February 1998
+        burial:
+          place: "Dewey, Arizona"
 raw: |-
   <a name="ErnestF01"></a><font size=+2>Ernest Franklin Vining</font>
      (son of <a href="#ErnestL02">Ernest Lester Vining and Lou Purl Hopkins</a>)

@@ -1,4 +1,5 @@
 id: EdwardR01
+sequence: 49
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,10 +12,28 @@ head:
     date: 26 January 1911
   death:
     date: 1 March 1994
+  burial:
+    place: "Woodland Cemetery   London, Ontario, Canada"
 marriages:
   - spouse:
       givenName: Olive
       surname: McAuley
+      birth:
+        date: 10 February 1910
+      death:
+        date: 17 August 2001
+      burial:
+        place: "Woodland Cemetery   London, Ontario, Canada"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Carole Diane Vining
+        birth:
+          date: age 22 m. at death
+        death:
+          date: 6 August 1948
+        burial:
+          place: "Woodland Cemetery   London, Ontario, Canada"
 docsUrl: Esources/EdwardR01doc.htm
 raw: |-
   <a name="EdwardR01"></a><font size=+2>Edward R. &#8220;Ted&#8221; Vining</font>

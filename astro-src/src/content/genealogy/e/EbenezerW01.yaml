@@ -1,4 +1,5 @@
 id: EbenezerW01
+sequence: 16
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -16,6 +17,7 @@ marriages:
     spouse:
       givenName: Amelia Catherine
       surname: Heath
+      parents: "(dau of Josiah Heath and Mary Winters)"
       birth:
         date: 19 May 1821
         place: New York
@@ -23,6 +25,37 @@ marriages:
         date: 25 September 1898
       burial:
         place: "Dundee Township Cemetery West   West Dundee, Kane County, Illinois"
+childrenGroups:
+  - headingText: "(adopted?) children from first marriage, to Norman Wells)"
+    headingNote: "[see documentation and notes]"
+    children:
+      - name: James M. Vining
+        birth:
+          date: age 9 y. as of 1850 census
+          place: New York
+      - name: Laura Ann Vining
+        birth:
+          date: age 6 y. as of 1850 census
+          place: New York
+  - children:
+      - name: Pamelia Melvina Vining
+        birth:
+          date: 9 February 1850
+          place: "East Dundee, Illinois"
+        marriages:
+          - date: 21 February 1871
+            place: "Dundee, Illinois"
+            spouse: John Scott Monger
+        death:
+          date: 8 November 1940
+          place: "[Brenton or Kalamazoo ?], Michigan q"
+        burial:
+          place: "Crystal Springs Cemetery   Brenton Harbor, Michigan"
+      - name: Smith Bodwell Vining
+        birth:
+          date: 31 March 1858
+          place: "Dundee, Illinois"
+docsUrl: Esources/EbenezerW01doc.htm
 raw: |-
   <a name="EbenezerW01"></a><font size=+2>Ebenezer Willard Vining</font>
      (son of <a href="Dfamilies.htm#DanielJ02">Daniel Josiah Vining and [Diantha or Dorothy?]</a>)

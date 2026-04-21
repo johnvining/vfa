@@ -1,4 +1,5 @@
 id: EliasJr01
+sequence: 73
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,15 +12,24 @@ head:
     place: "Simsbury, Connecticut"
   death:
     date: 14 April 1852
+  burial:
+    place: "Powel Cemetery   Liberty, Ohio"
 marriages:
   - spouse:
       givenName: Orpha
       surname: Powel
+      birth:
+        date: age 75 y. as of 1850 census
+        place: Connecticut
+      death:
+        date: 6 May 1853
+      burial:
+        place: "Powel Cemetery   Liberty, Ohio"
 childrenGroups:
   - children:
       - name: Lucy Vining
         marriages:
-          - date: "Rinman? Richards"
+          - spouse: "Rinman? Richards"
       - name: Orpha Almira Vining
         birth:
           date: 30 October 1800

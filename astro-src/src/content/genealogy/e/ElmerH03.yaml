@@ -1,4 +1,5 @@
 id: ElmerH03
+sequence: 92
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -14,6 +15,13 @@ marriages:
   - spouse:
       givenName: Elizabeth Eldora Shaw
       surname: Barrows
+      parents: (dau. of Alfred Barrows and Eleanore Gardner Torrence)
+      birth:
+        date: 29 January 1849
+        place: "Pembroke, Massachusetts"
+      death:
+        date: "1870"
+        place: Massachusetts
 childrenGroups:
   - children:
       - name: Nellie Florence Vining

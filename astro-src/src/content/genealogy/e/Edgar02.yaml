@@ -1,4 +1,5 @@
 id: Edgar02
+sequence: 18
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -10,15 +11,25 @@ head:
   death:
     date: 2 December 2000
     place: "Stormont, Ontario, Canada"
+  burial:
+    place: "Woodlawn Cemetery   Cornwall, Stormont, Ontario, Canada"
 marriages:
   - spouse:
       givenName: Elizabeth Janet
       surname: Smith
+      parents: (dau. of George Smith and Florence Maltman)
+      birth:
+        date: 6 July 1928
+      death:
+        date: 7 October 2008
+        place: "Stormont, Ontario, Canada"
+      burial:
+        place: "Woodlawn Cemetery   Cornwall, Stormont, Ontario, Canada"
 childrenGroups:
   - children:
       - name: John Vining
         marriages:
-          - date: "Pam [...]"
+          - spouse: "Pam [...]"
       - name: Lois Vining
 docsUrl: Esources/Edgar02doc.htm
 raw: |-

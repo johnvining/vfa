@@ -1,4 +1,5 @@
 id: EzraA01
+sequence: 136
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -17,6 +18,29 @@ marriages:
   - spouse:
       givenName: Mary Jane
       surname: Wells
+      birth:
+        date: age 34 y. as of 1870 census
+        place: "New Hampshire"
+      death:
+        date: "1909"
+        place: "Lowell, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Minnie E. Vining
+        birth:
+          date: "1860"
+          place: "Lowell, Massachusetts"
+        death:
+          date: "1886"
+          place: "Lowell, Massachusetts"
+      - name: Roscoe A. Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Massachusetts
+        death:
+          date: "1874"
+          place: "Lowell, Massachusetts"
 docsUrl: Esources/EzraA01doc.htm
 raw: |-
   <a name="EzraA01"></a><font size=+2>Ezra A. Vining</font>

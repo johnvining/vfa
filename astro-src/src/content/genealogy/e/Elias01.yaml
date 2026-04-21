@@ -1,4 +1,5 @@
 id: Elias01
+sequence: 71
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -19,6 +20,7 @@ marriages:
     spouse:
       givenName: Eunice
       surname: Case
+      parents: (dau. of Thomas Case and Elizabeth Woodford)
       birth:
         date: 29 February 1747/48
         place: "Simsbury, Connecticut"
@@ -33,7 +35,7 @@ childrenGroups:
           date: 16 October 1772/73
           place: "Simsbury, Connecticut"
         marriages:
-          - date: Orpha Powel
+          - spouse: Orpha Powel
         death:
           date: 14 April 1852
         burial:
@@ -45,7 +47,7 @@ childrenGroups:
           date: 12 August 1774
           place: "Simsbury, Connecticut"
         marriages:
-          - date: Rhoda Pettibone
+          - spouse: Rhoda Pettibone
         death:
           date: 13 June 1828
           place: "Southwick, Massachusetts"
@@ -54,7 +56,7 @@ childrenGroups:
           date: 23 October 1776
           place: "Simsbury, Connecticut"
         marriages:
-          - date: Isaiah Ensign
+          - spouse: Isaiah Ensign
         death:
           date: 11 May 1817
           place: "Simsbury, Connecticut"
@@ -78,8 +80,7 @@ childrenGroups:
           date: 23 October 1779
           place: "Simsbury, Connecticut"
         marriages:
-          - date: "[1?] Phoebe [...];"
-            spouse: "[2?] 1803   Worthington, Ohio   Huldah Pinney"
+          - spouse: "[1?] Phoebe [...];   [2?] 1803   Worthington, Ohio   Huldah Pinney"
         death:
           date: 9 September 1867
           place: "Worthington, Ohio"

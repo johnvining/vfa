@@ -1,4 +1,5 @@
 id: EarnestW01
+sequence: 10
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,10 +13,22 @@ head:
     place: Georgia
   death:
     date: 25 May 1971
+  burial:
+    place: "Big Horse Creek Cemetery   Jenkins County, Georgia"
 marriages:
   - spouse:
       givenName: Pauline
       surname: "[&#8230;]"
+      birth:
+        date: age 20 y. as of 1930 census
+        place: Georgia
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Cora M. Vining
+        birth:
+          date: age 3 m. as of 1930 census
+          place: Georgia
 docsUrl: Esources/EarnestW01doc.htm
 raw: |-
   <a name="EarnestW01"></a><font size=+2>Earnest Willie Vining</font>

@@ -1,4 +1,5 @@
 id: EarlJ01
+sequence: 5
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,11 +12,16 @@ head:
     place: "Monroe, Michigan"
   death:
     date: 5 March 2013
+  burial:
+    place: "Woodland Cemetery   Monroe, Michigan"
 marriages:
   - number: 1
-    date: Charlotte Jean Whitaker
+    spouse:
+      givenName: Charlotte Jean
+      surname: Whitaker
   - number: 2
-    date: "Easter Johnson (n&#233;e Russell)"
+    spouse:
+      givenName: "Easter Johnson (n&#233;e Russell)"
 childrenGroups:
   - spouseRef: Charlotte Jean Whitaker
     children:
@@ -25,8 +31,7 @@ childrenGroups:
       - name: Mark Keith Vining
       - name: Kevin John Vining
         marriages:
-          - date: "(1?) Cherly [&#8230;];"
-            spouse: "(2?) Bonnie [&#8230;]"
+          - spouse: "(1?) Cherly [&#8230;];   (2?) Bonnie [&#8230;]"
       - name: Eric Dean Vining
         birth:
           date: 22 May 1959
@@ -36,12 +41,11 @@ childrenGroups:
           place: "Detroit, Michigan"
       - name: Robert Scott Vining
         marriages:
-          - date: "Laura [&#8230;]"
+          - spouse: "Laura [&#8230;]"
       - name: Brian Oliver Vining
       - name: Kimberly Joann Vining
         marriages:
-          - date: "(1?) [&#8230;] McGhee;"
-            spouse: "(2?) [&#8230;] Bell"
+          - spouse: "(1?) [&#8230;] McGhee;   (2?) [&#8230;] Bell"
 docsUrl: Esources/EarlJ01doc.htm
 raw: |-
   <a name="EarlJ01"></a><font size=+2>Earl Jerome Vining</font>

@@ -1,4 +1,5 @@
 id: EssexA01
+sequence: 125
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -17,6 +18,9 @@ marriages:
   - spouse:
       givenName: Miriam C.
       surname: French
+      birth:
+        date: age 35 y. as of 1940 census
+        place: "New Hampshire"
 childrenGroups:
   - children:
       - name: Robert R. Vining
@@ -30,7 +34,7 @@ childrenGroups:
           date: 25 March 1933
           place: New Hampshire
         marriages:
-          - date: "Shirley [&#8230;]"
+          - spouse: "Shirley [&#8230;]"
         death:
           date: 8 December 2020
 docsUrl: Esources/EssexA01doc.htm

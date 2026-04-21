@@ -1,4 +1,5 @@
 id: ElamC01
+sequence: 63
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     place: "Delaware, Ohio"
   death:
     date: 31 October 1899
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
 marriages:
   - date: "1835"
     spouse:
@@ -55,16 +58,18 @@ childrenGroups:
       - name: Fannie Vining
         birth:
           date: "1845"
+        marriages:
+          - spouse: "[...] Greene"
       - name: Anna Vining
         birth:
           date: "1846"
         marriages:
-          - date: A. E. Clark
+          - spouse: A. E. Clark
       - name: Emmalette Vining
         birth:
           date: "1847"
         marriages:
-          - date: Antonius Arrighi
+          - spouse: Antonius Arrighi
       - name: Sarah Belle Vining
         birth:
           date: "1848"

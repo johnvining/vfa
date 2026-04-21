@@ -1,4 +1,5 @@
 id: ErnestD02
+sequence: 107
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -15,9 +16,34 @@ head:
     place: "McAllen, Hidalgo County, Texas"
 marriages:
   - number: 1
-    date: Lydia Clyde Alexander
+    spouse:
+      givenName: Lydia Clyde
+      surname: Alexander
+      parents: (dau. of James Alexander and Harriet Hattie Van Valy)
+      birth:
+        date: 16 June 1876
+        place: "Barlow, Washington County, Ohio"
+      death:
+        date: 23 September 1963
+        place: "Cuba, Republic County, Kansas"
   - number: 2
-    date: Elizabeth Bella Cavazos
+    spouse:
+      givenName: Elizabeth Bella
+      surname: Cavazos
+      parents: "(dau. of [&#8230] and Viviana [&#8230;]"
+      birth:
+        date: ca. 1906
+        place: "China, Nuevo Leon, Mexico"
+childrenGroups:
+  - headingText: "child by Elizabeth Bella Cavazos"
+    children:
+      - name: Ernest Delong Vining Jr.
+        birth:
+          date: 3 October 1934
+          place: "McAllen, Hidalgo County, Texas"
+        death:
+          date: 25 April 2007
+          place: "Pharr, Hidalgo County, Texas"
 raw: |-
   <a name="ErnestD02"></a><font size=+2>Ernest Delong Vining</font>
      (son of <a href="Rfamilies.htm#RobertH03">Robert Henry Vining and Martha Jane Oliver</a>)

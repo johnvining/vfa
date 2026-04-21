@@ -1,4 +1,5 @@
 id: ErnestL01
+sequence: 113
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 16 May 1919
     place: "Alice, North Dakota"
+  burial:
+    place: "Watson Cemetery   Leonard, North Dakota"
 marriages:
   - date: 10 October 1900
     spouse:
       givenName: Hattie M.
       surname: Schoessow
+      parents: (dau. of Henrich J. Schoessow and Amellia Voigt)
       birth:
         date: 20 January 1883
         place: North Dakota
@@ -53,7 +57,7 @@ childrenGroups:
           date: 26 March 1905
           place: "Chaffee, North Dakota"
         marriages:
-          - date: William Pontell
+          - spouse: William Pontell
         death:
           date: 11 June 1974
           place: "Milwaukee, Wisconsin"
@@ -66,7 +70,8 @@ childrenGroups:
           place: "Walburg Township, North Dakota"
         marriages:
           - date: 27 July 1927
-            spouse: "Fargo, North Dakota   Frances O'Bleness"
+            place: "Fargo, North Dakota"
+            spouse: "Frances O'Bleness"
         death:
           date: 1 April 1984
           place: "Casseltn, Cass County, North Dakota"
@@ -91,7 +96,7 @@ childrenGroups:
           date: 12 May 1910
           place: "Walburg Township, North Dakota"
         marriages:
-          - date: "[...] Howe"
+          - spouse: "[...] Howe"
         death:
           date: 23 August 1965
           place: "Oroville, Washington"

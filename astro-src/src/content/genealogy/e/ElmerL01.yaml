@@ -1,4 +1,5 @@
 id: ElmerL01
+sequence: 96
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -24,6 +25,16 @@ marriages:
       death:
         date: May 1981
         place: "Watertown, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ray LeRoy Vining
+        birth:
+          date: 10 June 1921
+          place: "Glen Park, New York"
+        marriages:
+          - date: 30 November 1946
+            spouse: Janice Ellen Cummings
 raw: |-
   <a name="ElmerL01"></a><font size=+2>Elmer LeRoy Vining</font>
      (son of <a href="Ffamilies.htm#FrederickE01">Frederick Elmer Vining and Louise Conant McKenney</a>)

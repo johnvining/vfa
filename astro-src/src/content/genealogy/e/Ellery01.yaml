@@ -1,4 +1,5 @@
 id: Ellery01
+sequence: 83
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,6 +13,14 @@ head:
     place: Indiana
   death:
     date: October 1969
+  burial:
+    place: "L'Anse Township Cemetery   L'Anse, Michigan"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Elmer Vining
+        birth:
+          place: "Etna Green, Indiana"
 docsUrl: Esources/Ellery01doc.htm
 raw: |-
   <a name="Ellery01"></a><font size=+2>Ellery Vining</font>

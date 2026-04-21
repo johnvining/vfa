@@ -1,4 +1,5 @@
 id: Edmond01
+sequence: 19
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -16,9 +17,35 @@ head:
 marriages:
   - number: 1
     date: Mary M. Cathcart
+    spouse:
+      birth:
+        date: age 34 y. as of 1910 census
+        place: Minnesota
+      death:
+        date: "1918"
   - number: 2
     date: Minnie Ellen Argo
+    spouse:
+      birth:
+        date: age 30 y. as of 1920 census
+        place: Iowa
+      death:
+        date: "1963"
 childrenGroups:
+  - headingText: "child by Mary M. Cathcart"
+    children:
+      - name: LeRoy T. C. Vining
+        entryId: LeRoyTC01
+        entryLetter: L
+        birth:
+          date: 28 February 1903
+          place: "Baltic, South Dakota"
+        marriages:
+          - date: "1927"
+            spouse: Flora E. Argo
+        death:
+          date: 26 July 1992
+          place: "(last residence: Bremerton, Washington)"
   - spouseRef: Minnie Ellen Argo
     children:
       - name: Dorothy M. Vining
@@ -49,7 +76,7 @@ childrenGroups:
         birth:
           date: 15 March 1925
         marriages:
-          - date: "Arthur &#8220;Joe&#8221; Blair"
+          - spouse: "Arthur &#8220;Joe&#8221; Blair"
       - name: Fern Irene Vining
         birth:
           date: 13 November 1926
@@ -63,7 +90,7 @@ childrenGroups:
         birth:
           date: 18 July 1928
         marriages:
-          - date: James Scobey
+          - spouse: James Scobey
       - name: Paul Edmond Vining
         entryId: PaulE02
         entryLetter: P
@@ -71,7 +98,7 @@ childrenGroups:
           date: 5 August 1934
           place: "Bemidji, Minnesota"
         marriages:
-          - date: Glenda Gail Stevens
+          - spouse: Glenda Gail Stevens
 docsUrl: Esources/Edmond01doc.htm
 raw: |-
   <a name="Edmond01"></a><font size=+2>Edmond Vining</font>

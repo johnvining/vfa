@@ -1,4 +1,5 @@
 id: Elmer03
+sequence: 87
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Anna L.
       surname: "[&#8230;]"
+      birth:
+        date: age 34 y. as of 1940 census
+        place: Alabama
 childrenGroups:
   - children:
       - name: Elmer Vining
@@ -29,7 +33,7 @@ childrenGroups:
           date: age 10 y. as of 1940 census
           place: Michigan
         marriages:
-          - date: "[...] Marshall"
+          - spouse: "[...] Marshall"
       - name: "Calvin &#8220;Cordie&#8221; Vining"
         birth:
           date: age 9 y. as of 1940 census
@@ -40,7 +44,7 @@ childrenGroups:
           date: 29 July 1932
           place: "Monroe, Michigan"
         marriages:
-          - date: "Easter [...]"
+          - spouse: "Easter [...]"
         death:
           date: 5 March 2013
         burial:
@@ -50,7 +54,7 @@ childrenGroups:
           date: age 3 y. as of 1940 census
           place: Michigan
         marriages:
-          - date: "[...] Brown"
+          - spouse: "[...] Brown"
       - name: Kenneth Vining
 docsUrl: Esources/Elmer03doc.htm
 raw: |-

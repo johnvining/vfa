@@ -1,4 +1,5 @@
 id: ElijahH02
+sequence: 78
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 22 January 1876
     place: Georgia
+  burial:
+    place: "Pine Grove Cemetery   Eatonton, Georgia"
 marriages:
   - date: 2 December 1866
     place: Georgia
@@ -38,7 +41,7 @@ childrenGroups:
           date: 14 June 1869
           place: Georgia
         marriages:
-          - date: Cynthia Emma Alford
+          - spouse: Cynthia Emma Alford
         death:
           date: 14 May 1940
           place: Georgia

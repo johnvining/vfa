@@ -1,4 +1,5 @@
 id: EdwinJ01
+sequence: 55
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: Louisiana
   death:
     date: 1 October 1952
+  burial:
+    place: "Mulberry Street Cemetery   Amite, Louisiana"
 marriages:
   - date: 4 June 1924
     spouse:
       givenName: Miriam Estelle
       surname: Starns
+      parents: (dau. of Alonzo Warren Starns and Amanda Corena Hinson)
       birth:
         date: 17 October 1902
         place: Louisiana
@@ -62,7 +66,8 @@ childrenGroups:
           place: Louisiana
         marriages:
           - date: 19 December 1956
-            spouse: Alaska   Harry Vallance
+            place: Alaska
+            spouse: Harry Vallance
       - name: Juanita Vining
         birth:
           date: 31 December 1932
@@ -84,7 +89,7 @@ childrenGroups:
           date: 8 September 1937
           place: Louisiana
         marriages:
-          - date: Grace Pfleeger
+          - spouse: Grace Pfleeger
         death:
           date: April 1992
       - name: Virgie Corean Vining

@@ -1,4 +1,5 @@
 id: ErastusC01
+sequence: 106
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 12 March 1906
     place: Missouri
+  burial:
+    place: "Evergreen Cemetery   Branson, Missouri"
 marriages:
   - date: 13 July 1865
     spouse:
@@ -25,7 +28,7 @@ childrenGroups:
           date: age 8 m. as of 1870 census
           place: Kansas
         marriages:
-          - date: George Boraker
+          - spouse: George Boraker
       - name: Walter James Vining
         entryId: WalterJ01
         entryLetter: W
@@ -33,7 +36,7 @@ childrenGroups:
           date: age 8 y. as of 1880 census
           place: Kansas
         marriages:
-          - date: "Minnie [&#8230;]"
+          - spouse: "Minnie [&#8230;]"
       - name: Edwin F. Vining
         birth:
           date: age 5 y. as of 1880 census

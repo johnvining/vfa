@@ -1,4 +1,5 @@
 id: EdwardCJr01
+sequence: 29
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,12 +12,14 @@ head:
     place: Florida
   death:
     date: 4 November 2003
+  burial:
+    place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
 childrenGroups:
   - children:
       - name: Valerie Vining
       - name: Lisa Vining
         marriages:
-          - date: Michael Mahaffey
+          - spouse: Michael Mahaffey
       - name: Brett Vining
 docsUrl: Esources/EdwardCJr01doc.htm
 raw: |-

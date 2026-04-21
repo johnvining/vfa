@@ -1,4 +1,5 @@
 id: EdmundPJr01
+sequence: 24
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 19 September 1959
     place: "Bloomington, Illinois"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee Ilinois"
 marriages:
   - date: 3 July 1925
     spouse:
       givenName: Iona Helen
       surname: Jensen
+      parents: (dau. of John Jensen and Marie Helena Sonne)
       birth:
         date: 9 June 1904
         place: Illinois
@@ -32,7 +36,7 @@ childrenGroups:
           date: 21 March 1927
           place: Illinois
         marriages:
-          - date: Natalie Ann Kremer
+          - spouse: Natalie Ann Kremer
         death:
           date: 31 March 1996
           place: "(last residence: Aurora, Illinois)"
@@ -41,7 +45,7 @@ childrenGroups:
           date: age 9 y. as of 1940 census
           place: Illinois
         marriages:
-          - date: Robert E. Smith
+          - spouse: Robert E. Smith
 docsUrl: Esources/EdmundPJr01doc.htm
 raw: |-
   <a name="EdmundPJr01"></a><font size=+2>Edmund Pendleton Vining Jr.</font>

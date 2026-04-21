@@ -1,4 +1,5 @@
 id: EdwardT02
+sequence: 52
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 24 September 1972
     place: "Bakersfield, California"
+  burial:
+    place: "Union Cemetery   Bakersfield, California"
 marriages:
   - date: 7 February 1953
     place: "Miami, Florida"
     spouse:
       givenName: Dorothy May
       surname: Sanborn
+      parents: (dau. of Kenneth Otis Sanborn and Edith Mabel Corbett)
       birth:
         date: 17 June 1929
         place: "Boston, Massachusetts"
@@ -28,6 +32,8 @@ marriages:
 childrenGroups:
   - children:
       - name: Darryl L. Vining
+        entryId: DarrylL02
+        entryLetter: D
         birth:
           date: age 67 y. at death
         marriages:
@@ -39,10 +45,10 @@ childrenGroups:
           place: "Middle Tennessee State Veterans Cemetery   Nashville, Tennessee"
       - name: Debra Vining
         marriages:
-          - date: "[...] Coven"
+          - spouse: "[...] Coven"
       - name: Cyndy Lou Vining
         marriages:
-          - date: "[...] Dean"
+          - spouse: "[...] Dean"
 docsUrl: Esources/EdwardT02doc.htm
 raw: |-
   <a name="EdwardT02"></a><font size=+2>Edward Thomas Vining</font>

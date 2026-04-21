@@ -1,4 +1,5 @@
 id: ErnestW03
+sequence: 120
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -23,7 +24,7 @@ childrenGroups:
       - name: Mike Vining
       - name: Cheryl Vining
         marriages:
-          - date: Matt Morgan
+          - spouse: Matt Morgan
 docsUrl: Esources/ErnestW03doc.htm
 raw: |-
   <a name="ErnestW03"></a><font size=+2>Ernest William Vining</font>

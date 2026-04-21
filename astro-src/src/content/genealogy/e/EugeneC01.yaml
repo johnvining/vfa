@@ -1,4 +1,5 @@
 id: EugeneC01
+sequence: 126
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 7 July 1953
     place: "Billerica, Massachusetts"
+  burial:
+    place: "North Cemetery   Billerica, Massachusetts"
 marriages:
   - date: "[19 or 10?] August 1903"
     place: "Boston, Massachusetts"
     spouse:
       givenName: Ellen Blanchard
       surname: Ewell
+      parents: (dau. of John Ewell and Irene Rebecca Blanchard)
       birth:
         date: 21 January 1872
         place: "Boston, Massachusetts"
@@ -27,6 +31,22 @@ marriages:
         place: "Billerica, Massachusetts"
       burial:
         place: "North Cemetery   Billerica, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Blanchard Richards Vining
+        entryId: BlanchardR01
+        entryLetter: B
+        birth:
+          date: 3 July 1910
+          place: "Woburn, Massachusetts"
+        marriages:
+          - date: 18 May 1935
+            place: "Portland, Maine"
+            spouse: Eleanor Frances Brown
+        death:
+          date: 12 February 1974
+          place: "Sarasota, Florida"
 docsUrl: Esources/EugeneC01doc.htm
 raw: |-
   <a name="EugeneC01"></a><font size=+2>Eugene Conrad Vining</font>

@@ -1,4 +1,5 @@
 id: EarlA01
+sequence: 3
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 1 April 1984
     place: "[Fargo or Casselton?], North Dakota"
+  burial:
+    place: "Casselton Cemetery   Casselton, Cass County, North Dakota"
 marriages:
   - date: 27 July 1927
     place: "Fargo, Cass County, North Dakota"
     spouse:
       givenName: Frances
       surname: O'Bleness
+      parents: (dau. of John Erwin O'Bleness and Roseanne Keyes)
       birth:
         date: 28 November 1907
         place: "Casseltn, Cass County, North Dakota"
@@ -45,7 +49,7 @@ childrenGroups:
           place: "Casselton Cemetery   Casselton, Cass County, North Dakota"
       - name: Roger J. Vining
         marriages:
-          - date: "Beatrice [...]"
+          - spouse: "Beatrice [...]"
         death:
           date: 1 January 2019
           place: "Fargo, Cass County, North Dakota"

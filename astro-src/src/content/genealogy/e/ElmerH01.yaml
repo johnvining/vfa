@@ -1,4 +1,5 @@
 id: ElmerH01
+sequence: 93
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 28 May 1939
     place: "Brockton, Massachusetts"
+  burial:
+    place: "Melrose Cemetery   Brockton, Massachusetts"
 marriages:
   - date: 23 December 1882
     place: "Weymouth, Massachusetts"
     spouse:
       givenName: Mariah Louise
       surname: DesLauriers
+      parents: "(dau. of Laurent DesLauriers and Osite-Angelique Lawlor [also known as Ellen Lawlor])"
       birth:
         date: 24 May 1861
         place: "Tracadie, Nova Scotia"
@@ -34,7 +38,7 @@ childrenGroups:
           date: 9 July 1884
           place: "East Weymouth, Massachusetts"
         marriages:
-          - date: "Holbrook, Massachusetts"
+          - place: "Holbrook, Massachusetts"
             spouse: Effie Eliza Bates
         death:
           date: 7 April 1950

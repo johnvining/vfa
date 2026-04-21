@@ -1,4 +1,5 @@
 id: ErnestJ01
+sequence: 112
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -16,6 +17,23 @@ marriages:
   - spouse:
       givenName: Emma Louise
       surname: Curtis
+      parents: (dau. of Robert Curtis and Mary Ann Foulkes)
+      birth:
+        date: ca. 1850
+      death:
+        date: "1977"
+        place: "Cheltenham, Victoria"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: John William Robert Vining
+        birth:
+          date: ca. 1900
+        marriages:
+          - spouse: "[...] Absalom"
+        death:
+          date: "1977"
+          place: "Kew, Victoria"
 raw: |-
   <a name="ErnestJ01"></a><font size=+2>Ernest James Vining</font>
      (son of <a href="Rfamilies.htm#RichardJ02">Richard John Vining and Eliza Morgan</a>)

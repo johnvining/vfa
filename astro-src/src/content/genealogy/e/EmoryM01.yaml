@@ -1,4 +1,5 @@
 id: EmoryM01
+sequence: 104
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 18 January 1952
     place: Colorado
+  burial:
+    place: "Mountain View Cemetery   Pueblo, Colorado"
 marriages:
   - date: 4 y. as of 1900 census
     spouse:
@@ -25,6 +28,13 @@ marriages:
         date: 2 July 1940
       burial:
         place: "Mountain View Cemetery   Pueblo, Colorado"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "Marion [Z.?] Vining"
+        birth:
+          date: age 16 y. as of 1920 census
+          place: Iowa
 docsUrl: Esources/EmoryM01doc.htm
 raw: |-
   <a name="EmoryM01"></a><font size=+2>Emory M. Vining</font>

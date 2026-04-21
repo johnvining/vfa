@@ -1,4 +1,5 @@
 id: ElishaJr01
+sequence: 80
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -17,12 +18,27 @@ marriages:
     spouse:
       givenName: Deborah
       surname: Fullerton
+      parents: (dau. of John Fullerton and Ruth Samson)
       birth:
         date: age 80 y. at death
         place: "Marshfield, Plymouth County, Massachusetts"
       death:
         date: 21 December 1822
         place: "Abington, Plymouth County, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Deborah Vining
+        birth:
+          date: 7 August 1766
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 30 September 1795
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Snow House
+        death:
+          date: 11 March 1852
+          place: "Abington, Plymouth County, Massachusetts"
 docsUrl: Esources/ElishaJr01doc.htm
 raw: |-
   <a name="ElishaJr01"></a><font size=+2>Elisha Vining Jr.</font>

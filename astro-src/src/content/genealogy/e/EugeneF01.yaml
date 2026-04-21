@@ -1,4 +1,5 @@
 id: EugeneF01
+sequence: 127
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
   death:
     date: 25 October 1999
     place: "Van Wert, Ohio"
+  burial:
+    place: "Willshire Cemetery   Willshire, Ohio"
 marriages:
   - date: 20 February 1943
     spouse:
       givenName: Rosella L.
       surname: Dull
+      parents: (dau. of Merrill Dull and Mary Erwin)
       birth:
         date: 26 July 1920
         place: "Bloomfield, Indiana"
@@ -31,7 +35,7 @@ childrenGroups:
         birth:
           date: 27 September 1944
         marriages:
-          - date: Kenneth Fetters
+          - spouse: Kenneth Fetters
       - name: Robert Vining
         entryId: Robert05
         entryLetter: R
@@ -39,7 +43,7 @@ childrenGroups:
           date: 20 November 1946
           place: "Van Wert, Ohio"
         marriages:
-          - date: Martha White
+          - spouse: Martha White
         death:
           date: 17 October 2006
           place: "Celina, Ohio"
@@ -49,7 +53,7 @@ childrenGroups:
         birth:
           date: 6 March 1955
         marriages:
-          - date: "Teresa [...]"
+          - spouse: "Teresa [...]"
 docsUrl: Esources/EugeneF01doc.htm
 raw: |-
   <a name="EugeneF01"></a><font size=+2>Eugene F. Vining</font>

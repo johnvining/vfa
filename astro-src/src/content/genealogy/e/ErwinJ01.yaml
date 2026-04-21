@@ -1,4 +1,5 @@
 id: ErwinJ01
+sequence: 123
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -16,9 +17,17 @@ marriages:
     spouse:
       givenName: Lizzie Louisa
       surname: Hazen
+      parents: (dau. of Josephus Barbour Hazen and Louisa Sutton)
       birth:
         date: 21 May 1881
         place: "Bay City, Michigan"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Nettie Louisa Vining
+        birth:
+          date: 5 January 1903
+          place: "Sanford, Michigan"
 raw: |-
   <a name="ErwinJ01"></a><font size=+2>Erwin Josiah Vining</font>
      (son of <a href="Jfamilies.htm#Jared03">Jared Vining and Mary Lumetta Firman</a>)

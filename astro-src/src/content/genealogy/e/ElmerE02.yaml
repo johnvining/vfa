@@ -1,4 +1,5 @@
 id: ElmerE02
+sequence: 90
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 13 February 1929
     place: "Dunkirk, Indiana"
+  burial:
+    place: "Beech Grove Cemetery   Pomeroy, Ohio"
 marriages:
   - date: 11 y. as of 1900 census
     spouse:
@@ -30,7 +33,7 @@ childrenGroups:
           date: 22 March 1890
           place: "Rutland, Ohio"
         marriages:
-          - date: Ammi Pearl Whitmer
+          - spouse: Ammi Pearl Whitmer
         death:
           date: 10 December 1976
           place: "Dayton, Ohio"

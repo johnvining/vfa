@@ -1,4 +1,5 @@
 id: ErnestM01
+sequence: 116
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     date: 21 February 1923
   death:
     date: 16 August 1995
+  burial:
+    place: "Ebenezer Pentecostal Holiness Church Cemetery   West Columbia, South Carolina"
 marriages:
   - spouse:
       givenName: Alice

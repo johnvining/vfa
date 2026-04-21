@@ -1,4 +1,5 @@
 id: ElijahF01
+sequence: 75
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: "1897"
     place: Ohio
+  burial:
+    place: "Howell Hill Cemetery   Salisbury Township, Ohio"
 marriages:
   - date: 19 June 1869
     place: "Meigs County, Ohio"
     spouse:
       givenName: Avaline V.
       surname: Bailey
+      parents: (dau. of William Bailey and Phebe [&#8230;])
       birth:
         date: age 27 y. as of 1870 census
         place: Ohio

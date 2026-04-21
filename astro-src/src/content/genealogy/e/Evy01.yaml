@@ -1,4 +1,5 @@
 id: Evy01
+sequence: 134
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Mary
       surname: Giroir
+      birth:
+        date: age 21 y. as of 1920 census
+        place: Louisiana
 childrenGroups:
   - children:
       - name: Mabel Vining
@@ -19,7 +23,7 @@ childrenGroups:
           date: age 3 y. as of 1920 census
           place: Louisiana
         marriages:
-          - date: "[&#8230;] Pousson"
+          - spouse: "[&#8230;] Pousson"
       - name: Augusten Vining
         birth:
           date: age 2 y. as of 1920 census
@@ -39,7 +43,7 @@ childrenGroups:
           date: 1 March 1924
           place: Louisiana
         marriages:
-          - date: Agnes Dorothy Dontay
+          - spouse: Agnes Dorothy Dontay
       - name: Raymond John Vining
         entryId: RaymondJ01
         entryLetter: R
@@ -50,7 +54,10 @@ childrenGroups:
           date: 17 May 2011
         burial:
           place: Morgan City Cemetery
-      - name: Coleman Vining   b age 2 y. as of 1930 census   Louisiana
+      - name: Coleman Vining
+        birth:
+          date: "age 2 y. as of 1930 census"
+          place: Louisiana
 docsUrl: Esources/Evy01doc.htm
 raw: |-
   <a name="Evy01"></a><font size=+2>Evy Vining</font>

@@ -1,4 +1,5 @@
 id: ElmerC01
+sequence: 88
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 6 November 1940
     place: "Corinna, Penobscot County, Maine"
+  burial:
+    place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
 marriages:
   - date: 4 June 1908
     place: "Corinna, Penobscot County, Maine"
     spouse:
       givenName: Lelia Madge
       surname: Day
+      parents: (dau. of Frank Edward Day and Mercy Ann McCard)
       birth:
         date: 11 January 1889
         place: "Corinna, Penobscot County, Maine"

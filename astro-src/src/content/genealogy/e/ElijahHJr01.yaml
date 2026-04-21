@@ -1,4 +1,5 @@
 id: ElijahHJr01
+sequence: 77
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,6 +12,8 @@ head:
     place: Georgia
   death:
     date: before 1910 census
+  burial:
+    place: "Southview Cemetery   Covington, Georgia"
 marriages:
   - date: 16 y. as of 1900 census
     spouse:
@@ -50,7 +53,7 @@ childrenGroups:
           place: Georgia
         marriages:
           - date: 18 y. as of 1930 census
-            place: "Georgia Evelyn [...]"
+            spouse: "Georgia Evelyn [...]"
         death:
           date: 13 April 1951
         burial:

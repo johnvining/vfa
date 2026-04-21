@@ -1,4 +1,5 @@
 id: EdwardL02
+sequence: 42
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: Tennessee
   death:
     date: 17 July 1958
+  burial:
+    place: "Leesville Cemetery   Leesville, Louisiana"
 marriages:
   - spouse:
       givenName: Elvira D.
       surname: "[&#8230;]"
+      birth:
+        date: 29 January 1888
+      death:
+        date: 14 March 1974
+      burial:
+        place: "Leesville Cemetery   Leesville, Louisiana"
 childrenGroups:
   - children:
       - name: Margrette Vining
@@ -34,7 +43,7 @@ childrenGroups:
           date: 11 August 1920
           place: "Leesville, Louisiana"
         marriages:
-          - date: Myra Lee Stephens
+          - spouse: Myra Lee Stephens
         death:
           date: 21 March 1948
           place: "Leesville, Louisiana"

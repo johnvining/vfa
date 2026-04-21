@@ -1,4 +1,5 @@
 id: EdmundP03
+sequence: 22
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -16,16 +17,25 @@ marriages:
   - spouse:
       givenName: Natalie Ann
       surname: Kremer
+      parents: (dau. of George Kremer and Emma Husfeldt)
+      birth:
+        date: 9 May 1925
+        place: "West Chicago, Illinois"
+      death:
+        date: 2 August 2002
+        place: "Aurora, Illinois"
+      burial:
+        place: "Saint Pauls Lutheran Cemetery   Montgomery, Illinois"
 childrenGroups:
   - children:
       - name: Christine Vining
         marriages:
-          - date: Michael Crouch
+          - spouse: Michael Crouch
       - name: Stephen Vining
         entryId: Stephen01
         entryLetter: S
         marriages:
-          - date: "Sheila [...]"
+          - spouse: "Sheila [...]"
 docsUrl: Esources/EdmundP03doc.htm
 raw: |-
   <a name="EdmundP03"></a><font size=+2>Edmund P. Vining</font>

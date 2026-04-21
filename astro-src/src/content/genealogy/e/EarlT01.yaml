@@ -1,4 +1,5 @@
 id: EarlT01
+sequence: 8
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
     place: "Blackcreek, Ohio"
   death:
     date: "1952"
+  burial:
+    place: "Lindenwood Cemetery   Fort Wayne, Allen County, Indiana"
 marriages:
   - spouse:
       givenName: Ermal Pauline
       surname: Wilson
+      birth:
+        date: 6 August 1898
+        place: Ohio
+      death:
+        date: 17 December 1945
+        place: "Dayton, Montgomery County, Ohio"
+      burial:
+        place: "Swamp College Cemetery   Celina, Mercer County, Ohio"
 childrenGroups:
   - children:
       - name: Wanda Vining
@@ -23,7 +34,7 @@ childrenGroups:
           date: "1920"
           place: Ohio
         marriages:
-          - date: "[&#8230;] McGriff"
+          - spouse: "[&#8230;] McGriff"
         death:
           date: "1977"
         burial:

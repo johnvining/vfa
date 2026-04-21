@@ -1,4 +1,5 @@
 id: EftonH01
+sequence: 60
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 9 October 2014
     place: "Independence, Kansas"
+  burial:
+    place: "Pratt Cemetery   Montgomery County, Kansas"
 marriages:
   - date: 22 December 1948
     place: "Pleasantview, Colorado"
     spouse:
       givenName: Margaret Lucille
       surname: Murphy
+      parents: (dau. of Ezra Lee Murphy and Ruth Baungartner)
       birth:
         date: 25 August 1924
         place: "Lockney, Texas"
@@ -36,13 +40,13 @@ childrenGroups:
           date: 1 August 1965
       - name: Eileen Vining
         marriages:
-          - date: "[&#8230;] Farnsworth"
+          - spouse: "[&#8230;] Farnsworth"
       - name: David Vining
         entryId: David07
         entryLetter: D
       - name: Margaret Vining
         marriages:
-          - date: "[&#8230;] Hoffmeister"
+          - spouse: "[&#8230;] Hoffmeister"
 docsUrl: Esources/EftonH01doc.htm
 raw: |-
   <a name="EftonH01"></a><font size=+2>Efton Howard Vining</font>

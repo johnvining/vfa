@@ -1,4 +1,5 @@
 id: ErnestW01
+sequence: 119
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -17,6 +18,22 @@ marriages:
       surname: "[&#8230;]"
       birth:
         date: age 22 y. as of 1910 census
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Reginald W. Vining
+        entryId: ReginaldW01
+        entryLetter: R
+        birth:
+          date: 1 July 1909
+          place: "Ithaca, New York"
+        marriages:
+          - spouse: Frances Elizabeth Ackley
+        death:
+          date: 22 September 1990
+          place: "Rochester, New York"
+        burial:
+          place: "Mount Hope Cemetery   Norwich, New York"
 docsUrl: Esources/ErnestW01doc.htm
 raw: |-
   <a name="ErnestW01"></a><font size=+2>Ernest W. Vining</font>

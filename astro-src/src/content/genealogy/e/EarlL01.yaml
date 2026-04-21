@@ -1,4 +1,5 @@
 id: EarlL01
+sequence: 6
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ marriages:
   - spouse:
       givenName: Carol
       surname: Hapner
+      birth:
+        date: 15 January 1939
 childrenGroups:
   - children:
       - name: Gregory Carl Vining
@@ -33,7 +36,7 @@ childrenGroups:
           date: 20 April 1966
           place: "[Kalamazoo, Michigan ?]"
         marriages:
-          - date: Jodi Lynn Hudson
+          - spouse: Jodi Lynn Hudson
 raw: |-
   <a name="EarlL01"></a><font size=+2>Earl Lee Vining</font>
      (son of <a href="Kfamilies.htm#KamitaE01">Kamita Earl Vining and Elizabeth Volenski</a>)

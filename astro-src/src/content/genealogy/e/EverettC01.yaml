@@ -1,4 +1,5 @@
 id: EverettC01
+sequence: 130
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -11,11 +12,20 @@ head:
     date: "1911"
   death:
     date: "1975"
+  burial:
+    place: "Oakwood Cemetery   Joliet, Illinois"
 marriages:
   - number: 1
-    date: Josephine Middleton
+    note: divorced
+    spouse:
+      givenName: Josephine
+      surname: Middleton
   - number: 2
-    date: Geraldine McGee
+    spouse:
+      givenName: Geraldine
+      surname: McGee
+      birth:
+        date: "1919"
 childrenGroups:
   - spouseRef: Josephone Middleton
     children:
@@ -23,7 +33,7 @@ childrenGroups:
         birth:
           date: 18 February 1933
         marriages:
-          - date: Kathy Donahue
+          - spouse: Kathy Donahue
         death:
           date: 27 May 1994
       - name: Ronald Lee Vining
@@ -33,7 +43,7 @@ childrenGroups:
           date: 7 September 1936
           place: "Joliet, Illinois"
         marriages:
-          - date: Ann Dolnak
+          - spouse: Ann Dolnak
         death:
           date: 28 July 2010
       - name: Jack Curtis Vining
@@ -42,7 +52,7 @@ childrenGroups:
         birth:
           date: 20 January 1939
         marriages:
-          - date: Loretta Mowrer
+          - spouse: Loretta Mowrer
         death:
           date: 15 October 1994
           place: "(last residence: Joliet, Illinois)"
@@ -52,8 +62,9 @@ childrenGroups:
         birth:
           date: 20 January 1939
         marriages:
-          - date: "Patricia Altiery,"
-            spouse: divorced
+          - spouse: "Patricia Altiery,   divorced"
+  - headingText: child by Geraldine McGee
+    children:
       - name: Gerald Curtis Vining
         birth:
           date: 24 December 1950

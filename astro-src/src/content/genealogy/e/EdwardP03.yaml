@@ -1,4 +1,5 @@
 id: EdwardP03
+sequence: 48
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
   death:
     date: 28 September 1977
     place: "Charles City, Floyd County, Iowa"
+  burial:
+    place: "Riverside Cemetery   Charles City, Floyd County, Iowa"
 marriages:
   - spouse:
       givenName: Pauline Doris
       surname: Chinnery
+      birth:
+        date: 30 May 1918
+        place: "Charles City, Floyd County, Iowa"
+      death:
+        date: 29 May 1993
+        place: "Charles City, Floyd County, Iowa"
+      burial:
+        place: "Riverside Cemetery   Charles City, Floyd County, Iowa"
 childrenGroups:
   - children:
       - name: William Dale Vining

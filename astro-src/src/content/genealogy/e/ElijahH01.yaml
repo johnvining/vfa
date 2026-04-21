@@ -1,4 +1,5 @@
 id: ElijahH01
+sequence: 76
 letter: E
 lastUpdated: 23 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 5 August 1887
     place: "Porterdale, Georgia"
+  burial:
+    place: "Liberty Cemetery   Porterdale, Georgia"
 marriages:
   - number: 1
     date: "[21 or 24?] September 1854"
@@ -52,6 +55,10 @@ childrenGroups:
         birth:
           date: 20 October 1858
           place: "Newton County, Georgia"
+        marriages:
+          - date: 24 December 1882
+            place: Geogia
+            spouse: Mary Smith
         death:
           date: 19 April 1910
         burial:
@@ -131,7 +138,7 @@ childrenGroups:
           date: 3 July 1882
           place: "Bay Creek, Georgia"
         marriages:
-          - date: Susan E. Stallsworth
+          - spouse: Susan E. Stallsworth
         death:
           date: 14 October 1917
           place: "[Porterdale, Georgia?]"
