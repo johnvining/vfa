@@ -1,0 +1,58 @@
+id: PhilipF01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: CecilF01
+parentLetter: C
+parentDesc: "Cecil Frank Vining and [...] Howe"
+head:
+  givenName: Philip Frank
+marriages:
+  - date: 28 May 1976
+    spouse:
+      givenName: Cheryl Ann
+      surname: Morgan
+      birth:
+        date: 26 November 1954
+        place: "Seattle, Washington"
+      death:
+        date: 30 October 2013
+        place: "Darrington, Washington"
+childrenGroups:
+  - children:
+      - name: Clinton Thomas Vining
+        entryId: ClintonT01
+        entryLetter: C
+        birth:
+          date: 3 November 1978
+        marriages:
+          - date: 18 August 2007
+            spouse: Hawley Corrine McLaughlin
+      - name: Melissa Rae Vining
+        birth:
+          date: 11 April 1980
+        marriages:
+          - date: 28 December 2008
+            spouse: Murat Shamanov
+      - name: Jacob Paul Vining
+        birth:
+          date: 29 March 1982
+        marriages:
+          - date: Renea McMurrin
+docsUrl: Psources/PhilipF01doc.htm
+raw: |-
+  <a name="PhilipF01"></a><font size=+2>Philip Frank Vining</font>
+     (son of <a href="Cfamilies.htm#CecilF01">Cecil Frank Vining and [...] Howe</a>)
+     m. 28 May 1976
+           Cheryl Ann Morgan
+                 (dau. of Kenneth Morgan and Barbara [...])
+                 b. 26 November 1954   Seattle, Washington
+                 d. 30 October 2013   Darrington, Washington
+                       ashes spread on Whitehorse Mountain
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ClintonT01">Clinton Thomas Vining</a>   b. 3 November 1978   -   m. 18 August 2007   Hawley Corrine McLaughlin
+     Melissa Rae Vining   b. 11 April 1980   -   m. 28 December 2008   Murat Shamanov
+     Jacob Paul Vining   b. 29 March 1982   -   m. Renea McMurrin
+  
+  <a href="Psources/PhilipF01doc.htm">documentation and notes</a>

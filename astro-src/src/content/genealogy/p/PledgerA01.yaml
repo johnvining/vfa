@@ -1,0 +1,43 @@
+id: PledgerA01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: WilliamP01
+parentLetter: W
+parentDesc: William P. Vining and Andora Lee
+head:
+  givenName: Pledger Arline
+  birth:
+    date: 22 September 1887
+    place: Florida
+marriages:
+  - spouse:
+      givenName: Daisy M.
+      surname: Ray
+childrenGroups:
+  - children:
+      - name: Wilfred E. Vining
+        birth:
+          date: age 6 y. as of 1920 census
+          place: Florida
+      - name: Doris M. Vining
+        birth:
+          date: "age 3 y., 10 m. as of 1920 census"
+          place: Florida
+      - name: Bobby M. Vining
+        birth:
+          date: ca. 1924
+docsUrl: Psources/PledgerA01doc.htm
+raw: |-
+  <a name="PledgerA01"></a><font size=+2>Pledger Arline Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamP01">William P. Vining and Andora Lee</a>)
+     b. 22 September 1887   Florida
+     m. Daisy M. Ray
+              b. age 31 y. as of 1920 census   Winter Garden, Florida
+  
+  <font size=+1>children:</font>
+     Wilfred E. Vining   b. age 6 y. as of 1920 census   Florida
+     Doris M. Vining   b. age 3 y., 10 m. as of 1920 census   Florida
+     Bobby M. Vining   b. ca. 1924
+  
+  <a href="Psources/PledgerA01doc.htm">documentation and notes</a>

@@ -1,0 +1,42 @@
+id: PaytonE01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: PeytonW01
+parentDesc: Peyton W. Vining and Frances Jones
+head:
+  givenName: Payton Edward
+  birth:
+    date: 5 May 1860
+    place: "Qutman, Texas"
+  death:
+    date: 16 October 1926
+    place: "Dallas, Texas"
+marriages:
+  - spouse:
+      givenName: Lucy Jones
+      surname: Blaire
+childrenGroups:
+  - children:
+      - name: Estelle Vining
+        birth:
+          date: 26 January 1900
+          place: Texas
+        death:
+          date: 14 May 1982
+          place: "Dallas, Dallas County, Texas"
+      - name: Ernest Vining
+        birth:
+          date: ca. 1903
+          place: Texas
+raw: |-
+  <a name="PaytonE01"></a><font size=+2>Payton Edward Vining</font>
+     (son of <a href="#PeytonW01">Peyton W. Vining and Frances Jones</a>)
+     b. 5 May 1860   Qutman, Texas
+     m. Lucy Jones Blaire
+     d. 16 October 1926   Dallas, Texas
+           bur. Dallas, Texas
+  
+  <font size=+1>children:</font>
+     Estelle Vining   b. 26 January 1900   Texas   -   d. 14 May 1982   Dallas, Dallas County, Texas
+     Ernest Vining   b. ca. 1903   Texas

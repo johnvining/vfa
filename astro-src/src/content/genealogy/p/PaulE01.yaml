@@ -1,0 +1,82 @@
+id: PaulE01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: "Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins"
+head:
+  givenName: Paul Edward
+  birth:
+    date: 8 September 1909
+    place: "Hasque, Oklahoma"
+  death:
+    date: 18 April 1997
+    place: "Coffeyville, Kansas"
+marriages:
+  - number: 1
+    date: 13 January 1935
+    place: "Independence, Kansas"
+    spouse:
+      givenName: Lucille Marie
+      surname: King
+      birth:
+        date: 16 January 1917
+        place: "Wann, Oklahoma"
+      death:
+        date: 5 October 1992
+        place: "Webb City, Missouri"
+      burial:
+        place: "Webb City, Missouri"
+  - number: 2
+    date: "Goldie [...]"
+childrenGroups:
+  - children:
+      - name: daughter
+        birth:
+          date: 6 October 1935
+        death:
+          date: 6 October 1935
+        burial:
+          place: "Robbins Cemetery   Coffeyville, Kansas"
+      - name: Francis Dale Vining
+        birth:
+          date: 1 February 1937
+          place: Oklahoma
+        marriages:
+          - date: "Aileen [...]"
+        death:
+          date: 10 March 2009
+        burial:
+          place: "Mount Hope Cemetery   Web City, Missouri"
+      - name: Terry Vining +
+      - name: Gerald Lynn Vining
+        birth:
+          date: 16 September 1952
+          place: "Independence, Kansas"
+        death:
+          date: 29 June 1993
+          place: "Long Beach, California"
+docsUrl: Psources/PaulE01doc.htm
+raw: |-
+  <a name="PaulE01"></a><font size=+2>Paul Edward Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins</a>)
+     b. 8 September 1909   Hasque, Oklahoma
+     m. (1) 13 January 1935   Independence, Kansas
+                 Lucille Marie King
+                       (dau. of Clyde L. King and Blanche Marie Leatherman)
+                       b. 16 January 1917   Wann, Oklahoma
+                       d. 5 October 1992   Webb City, Missouri
+                       bur. Webb City, Missouri
+                 divorced
+           (2) Goldie [...]
+     d. 18 April 1997   Coffeyville, Kansas
+           bur. Mount Hope Cemetery   Webb City, Missouri
+  
+  <font size=+1>children:</font>
+     daughter   b. 6 October 1935   -   d. 6 October 1935   -   bur. Robbins Cemetery   Coffeyville, Kansas
+     Francis Dale Vining   b. 1 February 1937   Oklahoma   -   m. Aileen [...]   -   d. 10 March 2009   -   bur. Mount Hope Cemetery   Web City, Missouri
+     Terry Vining +
+     Gerald Lynn Vining   b. 16 September 1952   Independence, Kansas   -   d. 29 June 1993   Long Beach, California   -   ashes scattered at sea
+  
+  <a href="Psources/PaulE01doc.htm">documentation and notes</a>

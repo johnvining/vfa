@@ -1,0 +1,78 @@
+id: PerlieH01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: FrankA03
+parentLetter: F
+parentDesc: "Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft"
+head:
+  givenName: "Perlie H. &#8220;Paul&#8221;"
+  birth:
+    date: July 1894
+    place: Connecticut
+  death:
+    date: 16 January 1954
+marriages:
+  - date: 12 y. as of 1930 census
+    spouse:
+      givenName: Louise J.
+      surname: Doherty
+      birth:
+        date: age 38 y. as of 1930 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Paul H. Vining
+        birth:
+          date: "1918"
+        death:
+          date: "1922"
+        burial:
+          place: "Saint Marys Cemetery   Hamden, Connecticut"
+      - name: Robert B. Vining
+        birth:
+          date: age 10 y. as of 1930 census
+          place: Connecticut
+      - name: "Thomas Vining [b. and?] d. 1926"
+      - name: Richard J. Vining
+        entryId: RichardJ03
+        entryLetter: R
+        birth:
+          date: "age 2 y., 10 m. as of 1930 census"
+          place: Connecticut
+        marriages:
+          - date: Mary Jean Hurley
+      - name: Russell Edward Vining
+        entryId: RussellE01
+        entryLetter: R
+        birth:
+          date: 21 July 1930
+          place: "New Haven, Connecticut"
+        marriages:
+          - date: Ann Molloy
+        death:
+          date: 3 October 1992
+          place: "Hamden, New Haven County, Connecticut"
+      - name: Mary L. Vining
+        birth:
+          date: "age [5?] y. as of 1940 census"
+          place: Connecticut
+docsUrl: Psources/PerlieH01doc.htm
+raw: |-
+  <a name="PerlieH01"></a><font size=+2>Perlie H. &#8220;Paul&#8221; Vining</font>
+     (son of <a href="Ffamilies.htm#FrankA03">Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft</a>)
+     b. July 1894   Connecticut
+     m. 12 y. as of 1930 census
+           Louise J. Doherty
+                 b. age 38 y. as of 1930 census   Massachusetts
+     d. 16 January 1954
+  
+  <font size=+1>children:</font>
+     Paul H. Vining   b. 1918   -   d. 1922   -   bur. Saint Marys Cemetery   Hamden, Connecticut
+     Robert B. Vining   b. age 10 y. as of 1930 census   Connecticut
+     Thomas Vining [b. and?] d. 1926   -   bur. Saint Marys Cemetery   Hamden, Connecticut
+     <a href="Rfamilies.htm#RichardJ03">Richard J. Vining</a>   b. age 2 y., 10 m. as of 1930 census   Connecticut   -   m. Mary Jean Hurley
+     <a href="Rfamilies.htm#RussellE01">Russell Edward Vining</a>   b. 21 July 1930   New Haven, Connecticut   -   m. Ann Molloy   -   d. 3 October 1992   Hamden, New Haven County, Connecticut
+     Mary L. Vining   b. age [5?] y. as of 1940 census   Connecticut
+  
+  <a href="Psources/PerlieH01doc.htm">documentation and notes</a>

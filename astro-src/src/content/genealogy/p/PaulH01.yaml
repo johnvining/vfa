@@ -1,0 +1,62 @@
+id: PaulH01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: HowardH01
+parentLetter: H
+parentDesc: Howard Herman Vining and Fern Ione Alexander
+head:
+  givenName: Paul Howard
+  birth:
+    date: 16 April 1941
+    place: "Ramsey County, Minnesota"
+marriages:
+  - number: 1
+    date: 4 November 1961
+    place: "West St. Paul, Minnesota"
+    spouse:
+      givenName: Mary Lou
+      surname: Metcalf
+  - number: 2
+    date: 5 December 1997
+    place: "West St. Paul, Minnesota"
+    spouse:
+      givenName: Cheryl
+      surname: Neumann
+childrenGroups:
+  - spouseRef: Mary Lou Metcalf
+    children:
+      - name: Jean Louise Vining
+        birth:
+          date: 4 May 1962
+        marriages:
+          - date: "2004"
+            spouse: Gary Springer
+      - name: Michael Paul Vining
+        entryId: MichaelP01
+        entryLetter: M
+        birth:
+          date: 5 February 1964
+          place: "St. Paul, Minnesota"
+        marriages:
+          - date: 2 April 1999
+            spouse: "Little Rock, Arkansas   Summer Miller"
+      - name: Pamela Sue Vining
+        birth:
+          date: 15 November 1966
+        marriages:
+          - date: "1992"
+            spouse: Cory Myers
+raw: |-
+  <a name="PaulH01"></a><font size=+2>Paul Howard Vining</font>
+     (son of <a href="Hfamilies.htm#HowardH01">Howard Herman Vining and Fern Ione Alexander</a>)
+     b. 16 April 1941   Ramsey County, Minnesota
+     m. (1) 4 November 1961   West St. Paul, Minnesota
+                 Mary Lou Metcalf
+           (2) 5 December 1997   West St. Paul, Minnesota
+                 Cheryl Neumann
+  
+  <font size=+1>children by Mary Lou Metcalf:</font>
+     Jean Louise Vining   b. 4 May 1962   -   m. 2004   Gary Springer
+     <a href="Mfamilies.htm#MichaelP01">Michael Paul Vining</a>   b. 5 February 1964   St. Paul, Minnesota   -   m. 2 April 1999   Little Rock, Arkansas   Summer Miller
+     Pamela Sue Vining   b. 15 November 1966   -   m. 1992   Cory Myers

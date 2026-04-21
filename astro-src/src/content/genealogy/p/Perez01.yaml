@@ -1,0 +1,81 @@
+id: Perez01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: DavidJr01
+parentLetter: D
+parentDesc: David Vining Jr. and Lydia Hunt
+head:
+  givenName: Perez
+  birth:
+    date: 18 December 1798
+    place: "Abington, Massachusetts"
+  death:
+    date: 22 June 1850
+marriages:
+  - date: 2 May 1822
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Mary
+      surname: Dyer
+      birth:
+        date: 19 January 1802
+        place: "Weymouth, Massachusetts"
+      death:
+        date: 26 November 1872
+        place: "Weymouth, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Betsey Hunt Vining
+        birth:
+          date: 26 October 1823
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 18 January 1848
+            place: "Weymouth, Massachusetts"
+            spouse: John A. E. Loud
+        death:
+          date: 5 September 1881
+          place: "Weymouth, Massachusetts"
+      - name: Benjamin Dyer Vining
+        birth:
+          date: 18 May 1825
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 5 November 1846
+            place: "Weymouth, Massachusetts"
+            spouse: Lois Bates
+        death:
+          date: 27 January 1866
+          place: "Weymouth, Massachusetts"
+      - name: Mary J. Vining
+        birth:
+          date: age 7 m. at death
+        death:
+          date: 27 October 1828
+          place: "Weymouth, Massachusetts"
+      - name: Perez S. Vining
+        birth:
+          date: age 5 m. at death
+        death:
+          date: 7 August 1829
+          place: "Weymouth, Massachusetts"
+docsUrl: Psources/Perez01doc.htm
+raw: |-
+  <a name="Perez01"></a><font size=+2>Perez Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJr01">David Vining Jr. and Lydia Hunt</a>)
+     b. 18 December 1798   Abington, Massachusetts
+     m. 2 May 1822   Weymouth, Massachusetts
+           Mary Dyer
+                 (dau. of John Dyer and Polly Holbrook)
+                 b. 19 January 1802   Weymouth, Massachusetts
+                 d. 26 November 1872   Weymouth, Massachusetts
+     d. 22 June 1850
+  
+  <font size=+1>children:</font>
+     Betsey Hunt Vining   b. 26 October 1823   Weymouth, Massachusetts   -   m. 18 January 1848   Weymouth, Massachusetts   John A. E. Loud   -   d. 5 September 1881   Weymouth, Massachusetts
+     Benjamin Dyer Vining   b. 18 May 1825   Weymouth, Massachusetts   -   m. 5 November 1846   Weymouth, Massachusetts   Lois Bates   -   d. 27 January 1866   Weymouth, Massachusetts
+     Mary J. Vining   b. age 7 m. at death   -   d. 27 October 1828   Weymouth, Massachusetts
+     Perez S. Vining   b. age 5 m. at death   -   d. 7 August 1829   Weymouth, Massachusetts
+  
+  <a href="Psources/Perez01doc.htm">documentation and notes</a>

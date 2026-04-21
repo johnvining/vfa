@@ -1,0 +1,46 @@
+id: Page01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: Page
+  birth:
+    date: "[28 or 29? - see &#8220;documentation and notes&#8221; below] March 1803"
+    place: Maine
+  death:
+    date: 11 February 1875
+marriages:
+  - spouse:
+      givenName: int. 19 August
+      surname: "1821"
+      birth:
+        date: 29 March 1803
+        place: Maine
+      death:
+        date: 13 November 1890
+      burial:
+        place: "Center Hill Cemetery   Weld, Maine"
+raw: |-
+  <a name="Page01"></a><font size=+2>Page Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. [28 or 29? - see &#8220;documentation and notes&#8221; below] March 1803   Maine
+     m. int. 19 August 1821
+           Margaret E. Ring
+                 b. 29 March 1803   Maine
+                 d. 13 November 1890
+                       bur. Center Hill Cemetery   Weld, Maine
+     d. 11 February 1875
+           bur. Center Hill Cemetery   Weld, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GeorgeW02">George W. Vining</a>   b. June 1828   Weld, Maine   -   m. Katharine A. &#8220;Kate&#8221; Rollins   -   d. 7 June 1908   Weld, Maine
+     Sarah Vining   b. July 1831   Maine   -   m. (1) 21 May 1861   Stephen Holt (of Weld, Maine);   (2) [...] Kennedy
+     Samuel E. Vining   b. age 16 y. as of 1850 census   Maine   -   d. 25 February 1895   Sandy River Plantation, Maine
+     <a href="Jfamilies.htm#JohnQA01">John Q. A. Vining</a>   b. age 12 y. as of 1850 census   Maine   -   m. Julia [&#8230;]
+     Llewelyn C. Vining   b. age 8 y. as of 1850 census   Maine   -   m. 28 September 1862   Sarah Jane Stevens (of Livermore, Maine)
+     Charles E. Vining   b. age 5 y. as of 1850 census   Maine
+  
+  <a href="Psources/Page01doc.htm">documentation and notes</a>

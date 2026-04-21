@@ -1,0 +1,47 @@
+id: PaulA01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: DonaldE01
+parentLetter: D
+parentDesc: Donald Erhart Vining and Mildred Agnes Banks
+head:
+  givenName: Paul Allen
+  birth:
+    date: 21 May 1938
+    place: Ohio
+  death:
+    date: 10 December 1996
+    place: "(last residence: Strongsville, Ohio)"
+marriages:
+  - number: 1
+    date: 12 September 1959
+    spouse:
+      givenName: Nancy Lu
+      surname: Barrett
+      birth:
+        date: age 68 y. at death
+      death:
+        date: September 2005
+  - number: 2
+    date: Sandra C. Smith
+docsUrl: Psources/PaulA01doc.htm
+raw: |-
+  <a name="PaulA01"></a><font size=+2>Paul Allen Vining</font>
+     (son of <a href="Dfamilies.htm#DonaldE01">Donald Erhart Vining and Mildred Agnes Banks</a>)
+     b. 21 May 1938   Ohio
+     m. (1) 12 September 1959
+                 Nancy Lu Barrett
+                       b. age 68 y. at death
+                       d. September 2005
+           (2) Sandra C. Smith
+                       b. 24 June 1943
+                       d. 3 March 2006
+                             bur. Strongsville Cemetery   Strongsville, Ohio
+     d. 10 December 1996   (last residence: Strongsville, Ohio)
+           bur. Strongsville Cemetery   Strongsville, Ohio
+  
+  <font size=+1>child:</font>
+     Cathy Vining   m. Alan Bucy
+  
+  <a href="Psources/PaulA01doc.htm">documentation and notes</a>
