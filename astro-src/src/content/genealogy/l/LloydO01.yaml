@@ -1,4 +1,5 @@
 id: LloydO01
+sequence: 66
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,10 +14,20 @@ head:
   death:
     date: 13 July 1963
     place: "Sunbury, Delaware County, Ohio"
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
 marriages:
   - spouse:
       givenName: Esther Huldah
       surname: Printz
+      birth:
+        date: 17 September 1907
+        place: "Union County, Ohio"
+      death:
+        date: 6 August 1982
+        place: "Massillon, Stark County, Ohio"
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
 childrenGroups:
   - children:
       - name: Leo Earl Vining

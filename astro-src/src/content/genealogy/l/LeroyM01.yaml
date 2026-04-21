@@ -1,4 +1,5 @@
 id: LeroyM01
+sequence: 48
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "[Waterloo or Dunlap?], Iowa"
   death:
     date: 14 July 1961
+  burial:
+    place: "Missoula Cemetery   Missoula, Montana"
 marriages:
   - date: 4 August 1918
     place: "Waterloo, Iowa"
     spouse:
       givenName: Mabel M.
       surname: Grover
+      parents: (dau. of Robert E. Grover and Jennie Sloper)
       birth:
         date: 28 y. as of 1930 census
         place: Iowa

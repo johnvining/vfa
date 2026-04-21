@@ -1,4 +1,5 @@
 id: LesterR01
+sequence: 55
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,11 +14,41 @@ head:
   death:
     date: 9 June 1958
     place: "Morley, Michigan"
+  burial:
+    place: "Higbee Cemetery   Deerfield Township, Mecosta County, Michigan"
 marriages:
   - spouse:
       givenName: Laurel Vivian
       surname: Ladner
+      parents: (dau. of Fred I. Ladner and Clare Bell Knettles)
+      birth:
+        date: 23 November 1902
+        place: "Big Rapids, Michigan"
+      death:
+        date: 8 September 1976
+        place: "Stanwood, Michigan"
+      burial:
+        place: "Ladner Cemetery   Stanwood, Michigan"
 childrenGroups:
+  - headingText: child
+    children:
+      - name: Monroe Marion Vining
+        entryId: MonroeM01
+        entryLetter: M
+        birth:
+          date: 22 December 1920
+        marriages:
+          - date: "Helen Parker,   divorced"
+        death:
+          date: July 1986
+          place: "(last residence: Umatilla, Florida)"
+  - headingText: "adopted child"
+    children:
+      - name: Alice June Vining
+        birth:
+          date: 22 June 1925
+        marriages:
+          - date: Fred Nutkins
   - children:
       - name: Lester Raymond Vining Jr.
         entryId: LesterRJr01
@@ -32,6 +63,8 @@ childrenGroups:
         death:
           date: 17 April 2013
           place: "Pagosa Springs, Colorado"
+        burial:
+          description: cremated
       - name: Roger Earl Vining
         entryId: RogerE01
         entryLetter: R

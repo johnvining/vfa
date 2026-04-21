@@ -1,4 +1,5 @@
 id: LeoR01
+sequence: 36
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 16 June 1979
     place: "Orange, California"
+  burial:
+    place: "Fairhaven Memorial Park   Santa Ana, California"
 marriages:
   - date: 1 June 1915
     place: "Los Angeles, California"
@@ -27,6 +30,23 @@ marriages:
         place: "Orange, California"
       burial:
         place: "Fairhaven Memorial Park   Santa Ana, California"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Leo Warren Vining
+        entryId: LeoW01
+        birth:
+          date: 22 April 1916
+          place: "Los Angeles, California"
+        marriages:
+          - number: 1
+            date: "[...]"
+          - number: 1
+            date: 14 February 1949
+            spouse: Dorothy Reba Anderson
+        death:
+          date: 9 September 1994
+          place: "Houston, Texas"
 docsUrl: Lsources/LeoR01doc.htm
 raw: |-
   <a name="LeoR01"></a><font size=+2>Leo Roy Vining</font>

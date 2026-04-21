@@ -1,0 +1,41 @@
+id: LouisH01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: MarcusR01
+parentLetter: M
+parentDesc: Marcus Richard Vining and Elizabeth Maguire
+head:
+  givenName: Louis H.
+  birth:
+    date: 24 May 1851
+    place: Massachusetts
+  death:
+    date: 14 June 1916
+    place: "South Haven, Michigan"
+  burial:
+    place: "Covert Cemetery   Covert, Michigan"
+marriages:
+  - date: 22 July 1908
+    place: "St. Joseph, Michigan"
+    spouse:
+      givenName: Fannie
+      surname: Smith
+      birth:
+        date: age 43 y. as of marriage
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Robert L. Vining
+raw: |-
+  <a href="LouisH01"></a><font size=+2>Louis H. Vining</font>
+     (son of <a href="Mfamilies.htm#MarcusR01">Marcus Richard Vining and Elizabeth Maguire</a>)
+     b. 24 May 1851   Massachusetts
+     m. 22 July 1908   St. Joseph, Michigan
+           Fannie Smith
+                 b. age 43 y. as of marriage
+     d. 14 June 1916   South Haven, Michigan
+           bur. Covert Cemetery   Covert, Michigan
+
+  <font size=+1>child</font>
+     Robert L. Vining

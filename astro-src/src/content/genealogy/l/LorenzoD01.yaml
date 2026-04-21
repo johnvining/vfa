@@ -1,4 +1,5 @@
 id: LorenzoD01
+sequence: 69
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -20,6 +21,7 @@ marriages:
     spouse:
       givenName: Marietta
       surname: Ellis
+      parents: "(dau. of Smith A. Ellis and Elizabeth [&#8230;]"
       birth:
         date: age 25 y. as of 1860 census
         place: Pennsylvania
@@ -35,6 +37,31 @@ marriages:
         date: Ohio
       death:
         date: Ohio
+childrenGroups:
+  - headingText: "child by Marietta Ellis"
+    children:
+      - name: Frank W. Vining
+        entryId: FrankW03
+        entryLetter: F
+        birth:
+          date: 23 February 1860
+          place: "Erie County, Ohio"
+        marriages:
+          - date: "Nellie E. [&#8230;]"
+        death:
+          date: "25 [April or March?] 1937"
+          place: "Lorain, Lorain County, Ohio"
+        burial:
+          place: "Elmwood Cemetery   Lorain, Lorain County, Ohio"
+  - headingText: "child by Rebecca G. &#8220;Nettie&#8221; Smith"
+    children:
+      - name: William W. Vining
+        birth:
+          date: April 1868
+          place: Ohio
+        death:
+          date: 23 April 1920
+          place: California
 docsUrl: Lsources/LorenzoD01doc.htm
 raw: |-
   <a name="LorenzoD01"></a><font size=+2>Lorenzo Devaro Vining</font>

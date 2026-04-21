@@ -1,4 +1,5 @@
 id: LloydH01
+sequence: 63
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,13 +14,31 @@ head:
   death:
     date: 9 November 1990
     place: "Portland, Indiana"
+  burial:
+    place: "Beech Grove Cemetery   Muncie, Indiana"
 marriages:
   - number: 1
     date: Elizabeth Pierce
+    spouse:
+      birth:
+        date: 16 June 1921
+        place: "Muncie, Indiana"
+      death:
+        date: 22 July 1994
+        place: "Portland, Indiana"
+      burial:
+        place: "Green Park Cemetery   Portland, Indiana"
   - number: 2
     date: "Esther [...]"
   - number: 3
     date: Geraldine Stanley
+    spouse:
+      birth:
+        date: "1930"
+      death:
+        date: "2009"
+      burial:
+        place: "Beech Grove Cemetery   Muncie, Indiana"
 childrenGroups:
   - spouseRef: Elizabeth Pierce
     children:
@@ -47,6 +66,8 @@ childrenGroups:
         death:
           date: 31 July 2004
           place: "Lorain, Ohio"
+        burial:
+          description: cremated
       - name: Linda Lou Vining
         birth:
           date: 6 March 1944

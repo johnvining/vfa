@@ -1,4 +1,5 @@
 id: LloydN01
+sequence: 65
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,10 +14,18 @@ head:
   death:
     date: 19 April 2010
     place: "Ostrander, Ohio"
+  burial:
+    place: "Fairview Cemetery   Ostrander, Ohio"
 marriages:
   - spouse:
       givenName: Betty Lou
       surname: Firman
+      birth:
+        date: 11 August 1930
+      death:
+        date: 18 February 2004
+      burial:
+        place: "Fairview Cemetery   Ostrander, Ohio"
 childrenGroups:
   - children:
       - name: Donna Lynn Vining

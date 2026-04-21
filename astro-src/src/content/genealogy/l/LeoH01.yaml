@@ -1,4 +1,5 @@
 id: LeoH01
+sequence: 33
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -16,6 +17,7 @@ head:
 marriages:
   - number: 1
     date: "1916"
+    note: "divorced 1920"
     spouse:
       givenName: Florence Nightengale
       surname: Jones
@@ -46,6 +48,8 @@ childrenGroups:
           date: 26 February 1980
         burial:
           place: "Ivy Hill Cemetery   Alexandria, Virginia"
+  - headingText: "child by ?"
+    children:
       - name: Jerry Vining
 docsUrl: Lsources/LeoH01doc.htm
 raw: |-

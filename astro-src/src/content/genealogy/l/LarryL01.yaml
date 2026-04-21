@@ -1,4 +1,5 @@
 id: LarryL01
+sequence: 7
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,10 +14,15 @@ head:
   death:
     date: 10 June 1983
     place: "Muncie, Indiana"
+  burial:
+    place: "Elm Ridge Memorial Park   Muncie, Indiana"
 marriages:
   - spouse:
       givenName: Rebecca Sue
       surname: Carbaugh
+      birth:
+        date: 5 July 1939
+      widowOf: "(2) 1989   Harvey Michael Shrack"
 childrenGroups:
   - children:
       - name: Charlotte Marie Vining

@@ -1,4 +1,5 @@
 id: LawrenceH01
+sequence: 15
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 12 September 2013
     place: Illinois
+  burial:
+    place: "Kankakee Memorial Gardens and Chapel Mausoleum   Kankakee, Illinois"
 marriages:
   - date: 2 August 1947
     place: "Kankakee, Illinois"
     spouse:
       givenName: Mary Eleanor
       surname: Eastman
+      parents: (dau. of Earl Eastman and Mary Kime)
       birth:
         date: 30 June 1927
         place: "Dwight, Illinois"

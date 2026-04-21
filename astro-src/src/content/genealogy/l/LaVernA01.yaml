@@ -1,4 +1,5 @@
 id: LaVernA01
+sequence: 11
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 31 May 1999
     place: "Bradley, Kankakee County, Illinois"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois"
 marriages:
   - number: 1
     date: 25 February 1938
@@ -26,6 +29,7 @@ marriages:
     spouse:
       givenName: Joan H.
       surname: Rimke
+      parents: (daughter of Charles Rimke and Esther Sing)
       birth:
         date: 9 June 1927
         place: "Rockdale, Illinois"
@@ -42,7 +46,8 @@ childrenGroups:
           place: "Joliet, Will County, Illinois"
         marriages:
           - date: 14 February 1970
-            place: "Chicago, Illinois"
+            place: "Chicago, Illinois   -"
+            spouse: Glenna M. Davis
         death:
           date: 26 May 2013
           place: "Westmont, DuPage County, Illinois"

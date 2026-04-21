@@ -1,4 +1,5 @@
 id: London01
+sequence: 68
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,6 +13,9 @@ marriages:
   - spouse:
       givenName: Millie
       surname: "[...]"
+      birth:
+        date: age 45 y. as of 1870 census
+        place: Georgia
 childrenGroups:
   - children:
       - name: Elizabeth Vining

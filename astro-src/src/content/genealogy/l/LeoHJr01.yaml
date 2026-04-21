@@ -1,4 +1,5 @@
 id: LeoHJr01
+sequence: 34
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,9 +13,12 @@ head:
     place: Missouri
   death:
     date: 26 February 1980
+  burial:
+    place: "Ivy Hill Cemetery   Alexandria, Virginia"
 marriages:
   - number: 1
     date: "1941"
+    note: divorced
     spouse:
       givenName: Dorothy Helen
       surname: Deschamps
@@ -23,6 +27,7 @@ marriages:
     spouse:
       givenName: Josephine Primrose
       surname: Gundry
+      parents: "(dau. of Jesse K. H. Gundry and Alice P. [&#8230;])"
       birth:
         date: 5 July 1925
         place: "Baltimore, Maryland"

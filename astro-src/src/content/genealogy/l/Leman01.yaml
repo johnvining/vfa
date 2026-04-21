@@ -1,4 +1,5 @@
 id: Leman01
+sequence: 26
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: "Plainfield, Massachusetts"
   death:
     date: 30 September 1857
+  burial:
+    place: "Main Street Cemetery   Dalton, Massachusetts"
 marriages:
   - date: "1842"
     spouse:
       givenName: Elizabeth B.
       surname: Wheeler
+      parents: (dau. of Joseph Bishop Wheeler and Elizabeth Campbell)
       birth:
         date: 15 December 1828
         place: "Rowe, Massachusetts"

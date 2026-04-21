@@ -1,4 +1,5 @@
 id: LouisF01
+sequence: 73
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -16,6 +17,12 @@ marriages:
   - spouse:
       givenName: Tillie
       surname: Patapchuk
+      birth:
+        date: 10 July 1922
+        place: "New York City, New York"
+      death:
+        date: 7 September 2014
+        place: "Sacramento, California"
 childrenGroups:
   - children:
       - name: Gary Edward Vining

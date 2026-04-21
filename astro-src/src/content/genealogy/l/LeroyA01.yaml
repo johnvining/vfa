@@ -1,4 +1,5 @@
 id: LeroyA01
+sequence: 46
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -16,9 +17,29 @@ head:
 marriages:
   - number: 1
     date: Clara Catherine Allard
+    spouse:
+      birth:
+        date: "1906"
+        place: "Lakeville, Minnesota"
+      death:
+        date: 29 July 1931
+        place: "Eureka, Minnesota"
   - number: 2
     date: Edna Mae Allard
+    spouse:
+      birth:
+        date: 2 February 1910
+        place: "Roosevelt, Minnesota"
+      death:
+        date: 9 February 1992
+        place: "Forest Lake, Minnesota"
 childrenGroups:
+  - headingText: "child by Clara Catherine Allard"
+    children:
+      - name: Veta Jannette Vining
+        birth:
+          date: 22 March 1930
+          place: "Lakeville, Minnesota"
   - spouseRef: Edna Mae Allard
     children:
       - name: "[unnamed?] Vining"
@@ -37,6 +58,7 @@ childrenGroups:
             date: "[&#8230;]"
           - number: 2
             date: "[&#8230;]"
+        note: "24 May 2010   Daleville, Alabama"
       - name: Robert Francis Vining
         birth:
           date: 26 December 1935

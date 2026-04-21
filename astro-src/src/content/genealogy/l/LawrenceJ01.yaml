@@ -1,4 +1,5 @@
 id: LawrenceJ01
+sequence: 16
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -18,6 +19,12 @@ marriages:
     spouse:
       givenName: Myrtle
       surname: Menchel
+childrenGroups:
+  - headingText: "[adopted?] child"
+    children:
+      - name: Gilbert Vining
+        birth:
+          date: "2 April [...]"
 raw: |-
   <a name="LawrenceJ01"></a><font size=+2>Lawrence James Vining</font>
      (son of <a href="Jfamilies.htm#JamesMJr01">James M. Vining Jr. and [Jane or Jeannie] Lindsley</a>)

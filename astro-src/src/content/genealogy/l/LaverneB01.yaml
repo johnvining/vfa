@@ -1,4 +1,5 @@
 id: LaverneB01
+sequence: 12
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -11,10 +12,28 @@ head:
     date: 5 December 1920
   death:
     date: 22 January 2001
+  burial:
+    place: "Hopewell Cemetery   DeKalb County, Missouri"
 marriages:
   - spouse:
       givenName: Wilma L.
       surname: Diels
+      birth:
+        date: "1919"
+      death:
+        date: "1999"
+      burial:
+        place: "Hopewell Cemetery   DeKalb County, Missouri"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: David Eugene Vining
+        birth:
+          date: 16 July 1945
+        death:
+          date: 16 July 1945
+        burial:
+          place: "Hopewell Cemetery   DeKalb County, Missouri"
 docsUrl: Lsources/LaverneB01doc.htm
 raw: |-
   <a name="LaverneB01"></a><font size=+2>Laverne Burley Vining</font>

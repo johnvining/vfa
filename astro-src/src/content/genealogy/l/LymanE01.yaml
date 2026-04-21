@@ -1,4 +1,5 @@
 id: LymanE01
+sequence: 82
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -11,10 +12,14 @@ head:
     date: 7 July 1915
   death:
     date: August 1975
+  burial:
+    place: "Greenwood Cemetery   Brookings, South Dakota"
 marriages:
   - spouse:
       givenName: Margaret
       surname: Wood
+      birth:
+        date: "1914"
 childrenGroups:
   - children:
       - name: John St. Clair Vining

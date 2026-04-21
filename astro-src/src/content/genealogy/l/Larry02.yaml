@@ -1,4 +1,5 @@
 id: Larry02
+sequence: 4
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -9,6 +10,15 @@ marriages:
   - spouse:
       givenName: Connie Rae
       surname: Shackleford
+      parents: (dau. of Charles Ray Shackelford and Jacqueline Dixon)
+      birth:
+        date: 10 May 1956
+        place: "Spalding County, Georgia"
+      death:
+        date: 29 February 2008
+        place: "Griffin, Georgia"
+      burial:
+        place: "West Sunny Side Community Church Cemetery   Spalding County, Georgia"
 docsUrl: Lsources/Larry02doc.htm
 raw: |-
   <a name="Larry02"></a><font size=+2>Larry Vining</font>

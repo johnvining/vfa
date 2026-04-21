@@ -1,4 +1,5 @@
 id: LeanderO01
+sequence: 18
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Ellicottville, New York"
   death:
     date: 9 March 1865
+  burial:
+    place: "Arlington National Cemetery, Arlington, Virginia"
 marriages:
   - date: "18 February 1857 [B. Angeline (Hillyard) Vining m. (2) Lyman Monroe]"
     spouse:
@@ -20,6 +23,21 @@ marriages:
       birth:
         date: age 23 y. as of 1860 census
         place: Ohio
+childrenGroups:
+  - headingText: child
+    children:
+      - name: George Melvin Vining
+        entryId: GeorgeM02
+        entryLetter: G
+        birth:
+          date: 7 May 1861
+          place: "Arlington, Michigan"
+        middleNote: Martha May Empson
+        death:
+          date: 27 April 1928
+          place: "Lawrence, Michigan"
+        burial:
+          place: "Hill Cemetery   Lawrence, Michigan"
 docsUrl: Lsources/LeanderO01doc.htm
 raw: |-
   <a name="LeanderO01"></a><font size=+2>Leander Otis Vining</font>

@@ -1,4 +1,5 @@
 id: LarryW01
+sequence: 8
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -14,9 +15,8 @@ head:
     date: 23 November 2007
     place: North Carolina
 marriages:
-  - spouse:
-      givenName: Margaret
-      surname: Schofield
+  - date: Margaret Schofield
+    note: divorced
 childrenGroups:
   - children:
       - name: Thyra Vining

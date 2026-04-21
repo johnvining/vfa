@@ -1,4 +1,5 @@
 id: LawrenceL01
+sequence: 17
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -11,10 +12,18 @@ head:
     date: "1936"
   death:
     date: "1977"
+  burial:
+    place: "Oak Grove Cemetery   Lawton, Michigan"
 marriages:
   - spouse:
       givenName: Carol
       surname: "[&#8230]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Lawrence William Vining
+        birth:
+          date: 9 December 1970
 docsUrl: Lsources/LawrenceL01doc.htm
 raw: |-
   <a name="LawrenceL01"></a><font size=+2>Lawrence Lee Vining</font>

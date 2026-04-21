@@ -1,4 +1,5 @@
 id: LeonardJ01
+sequence: 43
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,11 +13,24 @@ head:
   death:
     date: October 1976
     place: "(last residence: Maplecrest, New York)"
+  burial:
+    place: "Maplecrest Cemetery   Windham, New York"
 marriages:
   - number: 1
     date: Louise Chatfield
+    spouse:
+      birth:
+        date: "1900"
+      death:
+        date: "1938"
   - number: 2
     date: Marguerite Frasier
+    spouse:
+      birth:
+        date: 13 February 1922
+      death:
+        date: 3 May 1997
+        place: "(last residence: Maplecrest, New York)"
 childrenGroups:
   - spouseRef: Louise Chatfield
     children:

@@ -1,4 +1,5 @@
 id: LawrenceA01
+sequence: 13
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -11,10 +12,20 @@ head:
   death:
     date: 5 June 1998
     place: "Krotz Springs, Saint Landry Parish, Louisiana"
+  burial:
+    place: "Bayou Rouge Pentecostal Church Cemetery   Palmetto, Louisiana"
 marriages:
   - spouse:
       givenName: Leanore Josephine
       surname: Hohensee
+      birth:
+        date: 14 December 1913
+        place: Louisiana
+      death:
+        date: 15 November 1977
+        place: "Palmetto, Saint Landry Parish, Louisiana"
+      burial:
+        place: "Bayou Rouge Pentecostal Church Cemetery   Palmetto, Louisiana"
 childrenGroups:
   - children:
       - name: Betty Jane Vining

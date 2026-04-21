@@ -1,4 +1,5 @@
 id: LynnR01
+sequence: 83
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 1 July 2011
     place: "Midland, Michigan"
+  burial:
+    place: "Pine Grove Cemetery   Ithaca, Michigan"
 marriages:
   - date: 20 October 2001
     spouse:
@@ -20,6 +23,10 @@ marriages:
       surname: "[&#8230;]"
       birth:
         date: "1952"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Scott Vining
 docsUrl: Lsources/LynnR01doc.htm
 raw: |-
   <a name="LynnR01"></a><font size=+2>Lynn R. Vining</font>

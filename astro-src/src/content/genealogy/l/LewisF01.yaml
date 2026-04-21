@@ -1,4 +1,5 @@
 id: LewisF01
+sequence: 61
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -11,10 +12,19 @@ head:
   death:
     date: 14 May 1994
     place: "Saint Marys, Auglaize County, Ohio"
+  burial:
+    place: "Resthaven Memorial Gardens   Saint Marys, Ohio"
 marriages:
   - spouse:
       givenName: Darlene
       surname: Cross
+      parents: (dau. of Clarence Cross and Lesta Siebert)
+      birth:
+        date: 14 September 1931
+      death:
+        date: 28 December 2008
+      burial:
+        place: "Resthaven Memorial Gardens   Saint Marys, Ohio"
 childrenGroups:
   - children:
       - name: Logan Merrill Vining

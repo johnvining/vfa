@@ -1,4 +1,5 @@
 id: LeslieA01
+sequence: 50
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,13 +13,17 @@ head:
     place: "Avon, Maine"
   death:
     date: "1956"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
 marriages:
   - number: 1
     date: 24 June 1893
     place: "Farmington, Maine"
+    note: "divorced (Della m. (2) Frank A. Reed)"
     spouse:
       givenName: Della J.
       surname: McKenney
+      parents: (dau. of John McKenney and Maggie A. Orr)
       birth:
         date: age 17 y. at marriage
         place: "Phillips, Maine"
@@ -28,6 +33,7 @@ marriages:
     spouse:
       givenName: Ella Amelia
       surname: Winter
+      parents: (dau. of Solomon Isaac Winter and Charity F. Luce)
       birth:
         date: 8 August 1880
         place: "New Portland, Maine"
@@ -36,6 +42,36 @@ marriages:
         place: "Strong, Maine"
       burial:
         place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - headingText: "child by Della J. McKenney"
+    children:
+      - name: Clyde V. Vining
+        birth:
+          date: 1 July 1896
+          place: "Strong, Maine"
+        marriages:
+          - date: 18 August 1924
+            place: "Bangor, Maine"
+            spouse: Dorothy Smith
+        death:
+          date: 3 October 1937
+          place: "Owls Head, Maine"
+        burial:
+          place: "Achorn Cemetery   Rockland, Maine"
+  - headingText: "child by Ella Amelia Winter"
+    children:
+      - name: Christie Vining
+        birth:
+          date: 21 March 1910
+          place: "Strong, Maine"
+        marriages:
+          - date: 28 November 1935
+            spouse: Reginald S. Pingree
+        death:
+          date: 10 February 2004
+          place: "Kingfield, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
 docsUrl: Lsources/LeslieA01doc.htm
 raw: |-
   <a name="LeslieA01"></a><font size=+2>Leslie Alvin Vining</font>

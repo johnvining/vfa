@@ -1,4 +1,5 @@
 id: LelandC01
+sequence: 23
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,10 +14,18 @@ head:
   death:
     date: 28 January 2001
     place: "Auburndale, Florida"
+  burial:
+    place: "Union City Cemetery   Union City, Indiana"
 marriages:
   - spouse:
       givenName: Ruth E.
       surname: Coby
+      birth:
+        date: "[...?]"
+      death:
+        date: 12 December 2010
+      burial:
+        place: "Union City Cemetery   Union City, Indiana"
 childrenGroups:
   - children:
       - name: Anne Vining

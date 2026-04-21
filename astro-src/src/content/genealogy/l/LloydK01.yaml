@@ -1,4 +1,5 @@
 id: LloydK01
+sequence: 64
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 31 August 1953
     place: "Ogden, Utah"
+  burial:
+    place: "Washington Heights Memorial Park   Ogden, Utah"
 marriages:
   - spouse:
       givenName: Clara
       surname: Coates
+      birth:
+        date: 17 January 1896
+        place: England
+      death:
+        date: 18 February 1972
+      burial:
+        place: "Washington Heights Memorial Park   Ogden, Utah"
 childrenGroups:
   - children:
       - name: Lloyd Richard Vining

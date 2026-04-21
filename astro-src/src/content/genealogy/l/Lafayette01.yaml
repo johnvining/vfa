@@ -1,4 +1,5 @@
 id: Lafayette01
+sequence: 1
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -17,6 +18,12 @@ marriages:
   - spouse:
       givenName: Phebe
       surname: Rinehart
+      parents: (dau. of Lewis S. Rinehart and Elizabeth Noffsinger)
+      birth:
+        date: 18 October 1832
+        place: "Rich Hill, Knox County, Ohio"
+      death:
+        date: 28 May 1894
 childrenGroups:
   - children:
       - name: Manford Lewis Vining

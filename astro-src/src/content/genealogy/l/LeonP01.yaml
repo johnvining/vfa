@@ -1,4 +1,5 @@
 id: LeonP01
+sequence: 40
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -11,6 +12,18 @@ marriages:
   - number: 2
     date: Ida Lewis
 childrenGroups:
+  - headingText: "child by Hattie Hayes"
+    children:
+      - name: Leola Vining
+        birth:
+          date: age 76 y. at death
+        marriages:
+          - date: James Frank
+        death:
+          date: 24 March 2003
+          place: "New Orleans, Louisiana"
+        burial:
+          place: Providence Park
   - spouseRef: "[?]"
     children:
       - name: Leon Percy Vining Jr.
@@ -21,6 +34,8 @@ childrenGroups:
           - date: "[&#8230;] Duplessis"
       - name: Johnny Vining
       - name: Joseph Vining
+  - headingText: "child by Ida Lewis"
+    children:
       - name: Isaiah Vining
         entryId: Isaiah01
         entryLetter: I

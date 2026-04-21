@@ -1,4 +1,5 @@
 id: LenleyL01
+sequence: 30
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 7 May 1993
     place: "Walburg Township, North Dakota"
+  burial:
+    place: "Watson Cemetery   Leonard, North Dakota"
 marriages:
   - date: 28 December 1926
     place: "Moorhead, Minnesota"
     spouse:
       givenName: Marion
       surname: O'Bleness
+      parents: "(dau. of John Erwin O'Bleness and Rose Ann Keyes)"
       birth:
         date: 3 November 1900
         place: "Amenia, North Dakota"

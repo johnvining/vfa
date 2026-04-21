@@ -1,4 +1,5 @@
 id: Luther01
+sequence: 79
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 12 May 1857
     place: "Bloomfield, Indiana"
+  burial:
+    place: "Bloomfield Cemetery   Bloomfield, Indiana"
 marriages:
   - date: 2 October 1814
     place: "Washington County, Ohio"
@@ -82,6 +85,7 @@ childrenGroups:
         birth:
           date: age 10 y. as of 1850 census
           place: "Morrow County, Ohio"
+        note: "1867   Morengo, Ohio"
 docsUrl: Lsources/Luther01doc.htm
 raw: |-
   <a name="Luther01"></a><font size=+2>Luther Vining</font>

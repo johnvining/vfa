@@ -1,4 +1,5 @@
 id: LeslieD01
+sequence: 52
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -17,6 +18,15 @@ marriages:
   - spouse:
       givenName: Teresa Lynn
       surname: Stubbs
+      parents: "(dau. of Merle Stubbs and Patricia Rath)"
+      birth:
+        date: 6 January 1949
+        place: "Hillsboro, Kansas"
+      death:
+        date: 12 August 2007
+        place: "Topeka, Shawnee County, Kansas"
+      burial:
+        place: "Sterling Cemetery   Sterling, Kansas"
 childrenGroups:
   - children:
       - name: Jennifer Vining

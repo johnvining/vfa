@@ -1,4 +1,5 @@
 id: LeoE01
+sequence: 32
 letter: L
 lastUpdated: 26 July 2022
 relationship: son
@@ -12,9 +13,11 @@ head:
 marriages:
   - number: 1
     date: "1947"
+    note: "divorced 20 October 1970   Delaware County, Ohio"
     spouse:
       givenName: Alberta Jane
       surname: Herriott
+      parents: (dau. of Paul Virgil Herriott and Cecil Lucille Yoder)
       birth:
         date: 18 December 1928
         place: "Delaware County, Ohio"
