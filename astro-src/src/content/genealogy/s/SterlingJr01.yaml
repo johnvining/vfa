@@ -11,6 +11,7 @@ marriages:
     spouse:
       givenName: Barbara
       surname: Estay
+      parents: "dau. of Charleston J. Estay Sr. and Delores Gagneaux"
       birth:
         date: 17 November 1936
         place: "Morgan City, Louisiana"
@@ -19,6 +20,14 @@ marriages:
         place: "Bayou Vista, Louisiana"
       burial:
         place: "Morgan City Cemetery   Morgan City, Louisiana"
+childrenGroups:
+  - children:
+      - name: Terry Michael Vining
+        birth:
+          date: 25 January 1959
+          place: "Morgan City, Louisiana"
+        death:
+          date: 1 April 2020
 docsUrl: Ssources/SterlingJr01doc.htm
 raw: |-
   <a name="SterlingJr01"></a><font size=+2>Sterling Vining Jr.</font>

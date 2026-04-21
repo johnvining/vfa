@@ -13,11 +13,28 @@ head:
   death:
     date: 10 September 1963
     place: "Sherburne, New York"
+  burial:
+    place: "Sherburne, New York"
 marriages:
   - number: 1
-    date: Grace Sherwood
+    spouse:
+      givenName: Grace
+      surname: Sherwood
+      death:
+        date: 24 April 1942
+        place: "Greenport, New York"
   - number: 2
-    date: Alice Elma Bliss
+    spouse:
+      givenName: Alice Elma
+      surname: Bliss
+      birth:
+        date: 31 October 1906
+        place: "Scott, New York"
+      death:
+        date: 31 July 1984
+        place: "Cortland, New York"
+      burial:
+        place: "Truxton Cemetery   Truxton, New York"
 childrenGroups:
   - spouseRef: Grace Sherwood
     children:

@@ -18,6 +18,7 @@ marriages:
     spouse:
       givenName: Mary Amelia
       surname: Pringle
+      parents: "dau. of Benjamin Pringle and Catherine Rosencrants"
       birth:
         date: November 1840
         place: "Delaware County, Ohio"
@@ -27,7 +28,8 @@ marriages:
       burial:
         place: "Olin Cemetery   Olin, Iowa"
 childrenGroups:
-  - children:
+  - headingText: "children?"
+    children:
       - name: "[Frank or Franklin?] E. Vining"
         birth:
           date: age 2 y. as of 1860 census

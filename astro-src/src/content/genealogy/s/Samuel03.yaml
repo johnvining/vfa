@@ -1,5 +1,6 @@
 id: Samuel03
 letter: S
+sequence: 2
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Jonathan01
@@ -11,10 +12,18 @@ head:
     date: 12 October 1770
   death:
     date: 24 May 1841
+  burial:
+    place: "Vining Cemetery   Bennington Township, Morrow County, Ohio"
 marriages:
   - spouse:
       givenName: Rebekah
       surname: "[...]"
+      birth:
+        date: "age [72?] y., 3 m., 2 d. at death"
+      death:
+        date: 28 August 1842
+      burial:
+        place: "Vining Cemetery   Bennington Township, Morrow County, Ohio"
 childrenGroups:
   - children:
       - name: Abijah Vining

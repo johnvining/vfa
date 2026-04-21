@@ -12,10 +12,13 @@ head:
   death:
     date: 15 March 1979
     place: "(last residence: McCalla, Jefferson County, Alabama)"
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
 marriages:
-  - spouse:
-      givenName: October
-      surname: "1912"
+  - date: October 1912
+    spouse:
+      givenName: "Mary Lucretia &#8220;Lucy&#8221;"
+      surname: Chesser
       birth:
         date: 16 March 1897
         place: Alabama

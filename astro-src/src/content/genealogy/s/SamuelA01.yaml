@@ -17,6 +17,12 @@ marriages:
   - spouse:
       givenName: Eliza Ann
       surname: White
+      birth:
+        date: July 1818
+        place: Massachusetts
+      death:
+        date: "1907"
+        place: "Holbrook, Massachusetts"
 childrenGroups:
   - children:
       - name: Abby E. Vining
@@ -39,6 +45,7 @@ childrenGroups:
         birth:
           date: age 16 y. as of 1860 census
           place: Massachusetts
+        note: "[m. January 1868   Elijah Morse?]"
       - name: Ellen W. Vining
         birth:
           date: age 14 y. as of 1860 census

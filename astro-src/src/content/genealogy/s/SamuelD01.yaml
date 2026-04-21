@@ -17,6 +17,10 @@ marriages:
   - spouse:
       givenName: Lovinia
       surname: Niles
+      parents: "William Niles and Lucy Sherman"
+      birth:
+        date: age 42 y. as of 1860 census
+        place: New York
 childrenGroups:
   - children:
       - name: Matilda Vining

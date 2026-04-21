@@ -13,10 +13,14 @@ head:
   death:
     date: 11 January 1895
     place: "Strong, Franklin County, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Franklin County, Maine"
 marriages:
-  - spouse:
-      givenName: int. 3 June
-      surname: "1850"
+  - date: int. 3 June 1850
+    spouse:
+      givenName: Roxanna F.
+      surname: Purrington
+      parents: "dau. of G[...] Purrington and Abigail Farmer"
       birth:
         date: 18 April 1832
         place: "Skowhegan, Somerset County, Maine"

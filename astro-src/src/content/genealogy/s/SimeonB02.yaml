@@ -11,10 +11,20 @@ head:
     place: Ohio
   death:
     date: 6 April 1920
+  burial:
+    place: "Ashley Union Cemetery   Ashley, Ohio"
 marriages:
   - spouse:
       givenName: Ella
       surname: Cramer
+      parents: "dau. of Jesse Cramer and Cynthia Martin"
+      birth:
+        date: 19 September 1852
+        place: Ohio
+      death:
+        date: 15 September 1902
+      burial:
+        place: "Ashley Union Cemetery   Ashley, Ohio"
 childrenGroups:
   - children:
       - name: John Byrum Vining

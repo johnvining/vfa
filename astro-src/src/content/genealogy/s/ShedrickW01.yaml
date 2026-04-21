@@ -11,10 +11,19 @@ head:
     place: Alabama
   death:
     date: 8 August 1918
+  burial:
+    place: "Acker Cemetery   Woodstock, Bibb County, Alabama"
 marriages:
   - spouse:
       givenName: Virginia Fay
       surname: Hewett
+      birth:
+        date: 20 May 1856
+        place: Alabama
+      death:
+        date: 28 July 1925
+      burial:
+        place: "Acker Cemetery   Woodstock, Bibb County, Alabama"
 childrenGroups:
   - children:
       - name: John P. Vining

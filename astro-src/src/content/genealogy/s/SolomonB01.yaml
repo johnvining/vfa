@@ -13,10 +13,19 @@ head:
   death:
     date: 5 July 1980
     place: "(last residence: Fort Valley, Georgia)"
+  burial:
+    place: "Oaklawn Cemetery   Fort Valley, Georgia"
 marriages:
   - spouse:
       givenName: Ruby
       surname: Whittington
+      birth:
+        date: 8 September 1901
+        place: Georgia
+      death:
+        date: 16 June 1968
+      burial:
+        place: "Oaklawn Cemetery   Fort Valley, Georgia"
 childrenGroups:
   - children:
       - name: Clara Vining

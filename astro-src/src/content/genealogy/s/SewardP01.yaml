@@ -11,10 +11,14 @@ head:
     date: 8 February 1805
   death:
     date: 4 February 1894
+  burial:
+    place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
 marriages:
-  - spouse:
-      givenName: int. 4 October
-      surname: "1833"
+  - date: int. 4 October 1833
+    spouse:
+      givenName: Martha Clark
+      surname: Thomas
+      parents: "dau. of Nelson Thomas and Susan Burnham"
       birth:
         date: "age 69 y., 3 m. at death"
         place: "Strong, Franklin County, Maine"

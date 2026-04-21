@@ -13,14 +13,35 @@ head:
   death:
     date: 9 December 1844
     place: "Belleville, Michigan"
+  burial:
+    place: "Soop-Pleasantview Cemetery   Belleville, Michigan"
 marriages:
   - number: 1
     date: 1 June 1816
     place: "West Greenfield, New York"
+    spouse:
+      givenName: Priscilla
+      surname: Burton
+      birth:
+        date: "1799"
+      death:
+        date: 26 November 1823
+        place: "West Greenfield, New York"
+      burial:
+        place: "Sand Lake, [Michigan?]"
   - number: 2
     date: "?"
   - number: 3
     date: ca. 1833
+    spouse:
+      givenName: "Isabella [Deyo/De Voe?]"
+      birth:
+        date: "age 77 y. at death"
+      death:
+        date: 11 November 1866
+        place: "Wayne, Michigan"
+      burial:
+        place: "Soop-Pleasantview Cemetery   Belleville, Michigan"
 childrenGroups:
   - spouseRef: Priscilla Burton
     children:
@@ -72,6 +93,8 @@ childrenGroups:
         death:
           date: 15 December 1875
           place: "Ypsilanti, Michigan"
+  - spouseRef: "Isabella [Deyo/DeVoe?]"
+    children:
       - name: William Oscar Vining
         entryId: WilliamO01
         entryLetter: W

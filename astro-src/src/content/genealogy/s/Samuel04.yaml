@@ -1,5 +1,6 @@
 id: Samuel04
 letter: S
+sequence: 3
 lastUpdated: 25 February 2023
 relationship: son
 parentId: Elias01
@@ -13,10 +14,20 @@ head:
   death:
     date: 13 June 1828
     place: "Southwick, Hampden County, Massachusetts"
+  burial:
+    place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
 marriages:
   - spouse:
       givenName: Rhoda
       surname: Pettibone
+      parents: "dau. of Abijah Pettibone and Dorcus Cornish"
+      birth:
+        date: 14 March 1777
+        place: "Simsbury, Hartford County, Connecticut"
+      death:
+        date: 3 November 1820
+      burial:
+        place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
 childrenGroups:
   - children:
       - name: Samuel Truman Vining

@@ -13,10 +13,20 @@ head:
   death:
     date: 11 January 1987
     place: "(last residence: Tryon, North Carolina)"
+  burial:
+    place: "Polk Memorial Gardens   Columbus, North Carolina"
 marriages:
   - spouse:
       givenName: Gladys
       surname: Gibbs
+      parents: "dau. of Lorenco Cornelius Gibbs and Martha Emeline Ruppe"
+      birth:
+        date: 17 August 1899
+        place: "North Carolina"
+      death:
+        date: 3 August 1999
+      burial:
+        place: "Polk Memorial Gardens   Columbus, North Carolina"
 childrenGroups:
   - children:
       - name: Seth Macon Vining Jr.

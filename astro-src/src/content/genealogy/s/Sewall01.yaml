@@ -13,8 +13,21 @@ head:
 marriages:
   - number: 1
     date: "1831"
+    spouse:
+      givenName: Hepzibah D.
+      surname: Blanchard
+      birth:
+        date: "age 35 y. at death"
+      death:
+        date: 17 September 1849
+      burial:
+        place: "Strout Cemetery   Durham, Androscoggin County, Maine"
   - number: 2
-    date: Mrs. Mary Randall
+    spouse:
+      givenName: "Mrs. Mary Randall"
+      birth:
+        date: "age 59 y. as of 1870 census"
+        place: Maine
 childrenGroups:
   - spouseRef: Hepzibah D. Blanchard
     children:

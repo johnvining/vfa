@@ -13,12 +13,15 @@ head:
   death:
     date: 15 February 1894
     place: "Weymouth, Norfolk County, Massachusetts"
+  burial:
+    place: "Highland Cemetery   Weymouth, Norfolk County, Massachusetts"
 marriages:
   - date: 15 August 1847
     place: "Weymouth, Norfolk County, Massachusetts"
     spouse:
       givenName: Louisa
       surname: Holbrook
+      parents: "dau. of Minot Holbrook and Lavinia Littlefield"
       birth:
         date: 24 February 1830
 childrenGroups:

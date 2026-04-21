@@ -10,10 +10,19 @@ head:
     place: "Springfield, Massachusetts"
   death:
     date: 10 October 2017
+  burial:
+    place: "[New?] Hazardville Cemetery   Hazardville, Connecticut"
 marriages:
   - spouse:
       givenName: Janet
       surname: Jones
+childrenGroups:
+  - children:
+      - name: Michelle Vining
+        marriages:
+          - date: Joey Lenares
+      - name: Andrew Vining
+      - name: Paul Vining
 docsUrl: Ssources/ScottP01doc.htm
 raw: |-
   <a name="ScottP01"></a><font size=+2>Scott P. Vining</font>

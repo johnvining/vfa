@@ -12,11 +12,24 @@ head:
   death:
     date: 26 April 1762
     place: "[East?] Windsor, Hartford County, Connecticut"
+  burial:
+    place: "possibly in Scantic Cemetery   East Windsor, Hartford County, Connecticut"
 marriages:
   - number: 1
     date: 10 August 1727
+    spouse:
+      givenName: Mary
+      surname: Gleason
+      parents: "dau. of John Gleason and Hannah Woolworth"
+      birth:
+        date: 10 October 1709
+        place: "Enfield, Hartford County, Connecticut"
+      death:
+        date: "1746"
+        place: "Windsor, Hartford County, Connecticut"
   - number: 2
-    date: "Elizabeth Killiam?"
+    spouse:
+      givenName: "Elizabeth Killiam?"
 childrenGroups:
   - children:
       - name: Richard Vining
@@ -82,7 +95,8 @@ childrenGroups:
             spouse: Eunice Case
         death:
           date: 12 March 1825
-  - children:
+  - spouseRef: "Elizabeth Killiam?"
+    children:
       - name: Lucy Vining
         birth:
           date: 22 April 1750

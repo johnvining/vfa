@@ -16,6 +16,13 @@ marriages:
   - spouse:
       givenName: Jennie
       surname: Showers
+      birth:
+        date: 25 March 1856
+        place: "New York"
+      death:
+        date: 18 August 1897
+      burial:
+        place: "San Jacinto, California"
 childrenGroups:
   - children:
       - name: Irving R. Vining

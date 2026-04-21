@@ -16,6 +16,9 @@ marriages:
   - spouse:
       givenName: Lillian
       surname: Eggers
+      birth:
+        date: "age 38 y. as of 1940 census"
+        place: New York
 childrenGroups:
   - children:
       - name: Scott Ernest Vining
@@ -41,6 +44,8 @@ childrenGroups:
         birth:
           date: 11 January 1930
           place: New York
+        marriages:
+          - date: Donald Peterson
       - name: Betty Vining
         birth:
           date: 28 April 1938

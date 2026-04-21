@@ -13,10 +13,26 @@ head:
   death:
     date: 21 September 1911
     place: "Mount Gilead, Ohio"
+  burial:
+    place: "Rivercliff Cemetery   Mount Gilead, Ohio"
 marriages:
   - spouse:
       givenName: Ellen B.
       surname: "[...]"
+      birth:
+        date: 1 February 1846
+        place: "Cardington, Ohio"
+      death:
+        date: 27 February 1927
+        place: "Mount Gilead, Ohio"
+      burial:
+        place: "Rivercliff Cemetery   Mount Gilead, Ohio"
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        birth:
+          date: June 1869
+          place: Ohio
 docsUrl: Ssources/SamuelW01doc.htm
 raw: |-
   <a name="SamuelW01"></a><font size=+2>Samuel Wesley Vining</font>

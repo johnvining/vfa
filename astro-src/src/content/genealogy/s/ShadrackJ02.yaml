@@ -1,5 +1,6 @@
 id: ShadrackJ02
 letter: S
+sequence: 101
 lastUpdated: 25 February 2023
 relationship: son
 parentDesc: "[?]"
@@ -15,6 +16,14 @@ marriages:
   - spouse:
       givenName: Nancy Martha
       surname: Clifton
+      parents: "dau. of George Kirk Clifton and Mary Ann Owen"
+      birth:
+        date: "age 23 y. as of 1860 census"
+        place: "Montevallo, Shelby County, Alabama"
+      death:
+        date: "1900"
+      burial:
+        place: "Acker Cemetery   Woodstock, Alabama"
 childrenGroups:
   - children:
       - name: Mary Ann Vining
@@ -26,6 +35,8 @@ childrenGroups:
         death:
           date: 8 November 1915
           place: Mississippi
+        burial:
+          description: "Shiloh Independent Methodist Church Cemetery   Ripley, Tippah County, Mississippi"
       - name: Ruth Jane Vining
         birth:
           date: "[February or May ?] 1850"

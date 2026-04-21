@@ -12,10 +12,19 @@ head:
     place: "Southwick, Massachusetts"
   death:
     date: 18 May 1875
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
 marriages:
   - spouse:
       givenName: Mary
       surname: Steere
+      parents: "dau. of Elisha Steere and Mary [&#8230;]"
+      birth:
+        date: "1794"
+      death:
+        date: 11 September 1878
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
 childrenGroups:
   - children:
       - name: Rhoda Vining

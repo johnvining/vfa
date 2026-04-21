@@ -1,0 +1,80 @@
+id: SimeonF01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Murray01
+parentLetter: M
+parentDesc: Murray Vining and Lilly DeLille
+head:
+  givenName: Simeon Frank
+  birth:
+    date: 16 December 1893
+    place: "Elmer, Michigan"
+  death:
+    date: 25 January 1967
+    place: "Flint, Michigan"
+  burial:
+    place: "Gracelawn Cemetery   Flint, Michigan"
+marriages:
+  - date: 2 June 1914
+    place: "Flint, Michigan"
+    spouse:
+      givenName: Maggie Lena
+      surname: Farrow
+      birth:
+        date: 23 July 1894
+        place: Canada
+      death:
+        date: 28 July 1974
+      burial:
+        place: "Gracelawn Cemetery   Flint, Michigan"
+childrenGroups:
+  - children:
+      - name: Agnes Lillian Vining
+        birth:
+          date: 6 September 1916
+          place: Michigan
+        marriages:
+          - date: William Allen Ginger
+        death:
+          date: 24 March 2009
+          place: "Lapeer, Michigan"
+        burial:
+          place: "Mt. Hope Cemetery   Lapeer, Michigan"
+      - name: Joyce W. Vining
+        birth:
+          date: 17 April 1918
+          place: Michigan
+        marriages:
+          - date: Harold G. Prosch
+        death:
+          date: 6 February 2016
+      - name: Helena Mae Vining
+        birth:
+          date: 17 November 1922
+          place: Michigan
+        marriages:
+          - date: Henry Herr Smith
+        death:
+          date: 31 December 2006
+        burial:
+          place: "Mt. Hope Cemetery   Lapeer, Michigan"
+docsUrl: Ssources/SimeonF01doc.htm
+raw: |-
+  <a name="SimeonF01"><a><font size=+2>Simeon Frank Vining</font>
+     (son of <a href="Mfamilies.htm#Murray01">Murray Vining and Lilly DeLille</a>)
+     b. 16 December 1893   Elmer, Michigan
+     m. 2 June 1914   Flint, Michigan
+           Maggie Lena Farrow
+                 b. 23 July 1894   Canada
+                 d. 28 July 1974
+                       bur. Gracelawn Cemetery   Flint, Michigan
+     d. 25 January 1967   Flint, Michigan
+           bur. Gracelawn Cemetery   Flint, Michigan
+
+  <font size=+1>children:</font>
+     Agnes Lillian Vining   b. 6 September 1916   Michigan   -   m. William Allen Ginger   -   d. 24 March 2009   Lapeer, Michigan   -   bur. Mt. Hope Cemetery   Lapeer, Michigan
+     Joyce W. Vining   b. 17 April 1918   Michigan   -   m. Harold G. Prosch   -   d. 6 February 2016
+     Helena Mae Vining   b. 17 November 1922   Michigan   -   m. Henry Herr Smith   -   d. 31 December 2006   -   bur. Mt. Hope Cemetery   Lapeer, Michigan
+
+  <a href="Ssources/SimeonF01doc.htm">documentation and notes</a>
