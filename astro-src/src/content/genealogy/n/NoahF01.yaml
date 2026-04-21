@@ -1,0 +1,81 @@
+id: NoahF01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: NoahJr01
+parentDesc: Noah Vining Jr. and Sarah Curtis
+head:
+  givenName: Noah Franklin
+  birth:
+    date: 10 December 1843
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 29 March 1908
+    place: "Weymouth, Massachusetts"
+marriages:
+  - number: 1
+    date: 22 November 1868
+    place: "Weymouth, Massachusetts"
+  - number: 2
+    date: 31 May 1873
+childrenGroups:
+  - spouseRef: Lydia Emeline Gowell
+    children:
+      - name: Samuel Albert Vining
+        entryId: SamuelA02
+        entryLetter: S
+        birth:
+          date: 13 October 1873
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: "Mary [&#8230;]"
+      - name: Fannie M. Vining
+        birth:
+          date: March 1875
+          place: Massachusetts
+        marriages:
+          - date: "[...] Wakeman"
+      - name: Robert McAllister Vining
+        birth:
+          date: 8 October 1876
+          place: "Weymouth, Massachusetts"
+      - name: Louisa E. Vining
+        birth:
+          date: September 1886
+          place: Massachusetts
+      - name: Mary Arabel Vining
+        birth:
+          date: June 1888
+          place: Massachusetts
+        death:
+          date: "1960"
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Massachusetts"
+docsUrl: Nsources/NoahF01doc.htm
+raw: |-
+  <a name="NoahF01"></a><font size=+2>Noah Franklin Vining</font>
+     (son of <a href="#NoahJr01">Noah Vining Jr. and Sarah Curtis</a>)
+     b. 10 December 1843   Weymouth, Massachusetts
+     m. (1) 22 November 1868   Weymouth, Massachusetts
+                    Fannie Maria Burrell
+                          b. 29 January 1849   Weymouth, Massachusetts
+                          d. 1870   Weymouth, Massachusetts
+                                bur. Mount Hope Cemetery   Weymouth, Massachusetts
+           (2) 31 May 1873
+                    Lydia Emeline Gowell
+                          b. February 1851   Maine
+                          d. 1949
+                                bur. Mount Hope Cemetery   Weymouth, Massachusetts
+     d. 29 March 1908   Weymouth, Massachusetts
+           bur. Mount Hope Cemetery   Weymouth, Massachusetts
+  
+  <font size=+1>child by Fannie M. Burrell:</font>
+     <a href="Jfamilies.htm#JohnF02">John Franklin Vining</a>   b. 24 April 1870   Weymouth, Massachusetts   -   m. 28 October 1896   Weymouth, Massachusetts   Gertrude Anna Packard   -   d. 11 August 1952   Weymouth, Massachusetts
+  <font size=+1>children by Lydia Emeline Gowell:</font>
+     <a href="Sfamilies.htm#SamuelA02">Samuel Albert Vining</a>   b. 13 October 1873   Weymouth, Massachusetts   -   m. Mary [&#8230;]
+     Fannie M. Vining   b. March 1875   Massachusetts   -   m. [...] Wakeman
+     Robert McAllister Vining   b. 8 October 1876   Weymouth, Massachusetts
+     Louisa E. Vining   b. September 1886   Massachusetts
+     Mary Arabel Vining   b. June 1888   Massachusetts   -   d. 1960   -   bur. Mount Hope Cemetery   Weymouth, Massachusetts
+  
+  <a href="Nsources/NoahF01doc.htm">documentation and notes</a>

@@ -1,0 +1,47 @@
+id: NelsonE01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: SewardP01
+parentLetter: S
+parentDesc: Seward P. Vining and Martha C. Thomas
+head:
+  givenName: Nelson Eugene
+  birth:
+    date: August 1849
+    place: Maine
+  death:
+    date: 5 September 1913
+    place: "Avon, Maine"
+marriages:
+  - number: 1
+    date: Alice C. Preston
+  - number: 2
+    date: "Almira W. &#8220;Myra&#8221; Cook"
+childrenGroups:
+  - spouseRef: Alice C. Preston
+    children:
+      - name: infant sons
+      - name: "bur. Evergreen Cemetery   Phillips, Maine"
+docsUrl: Nsources/NelsonE01doc.htm
+raw: |-
+  <a name="NelsonE01"></a><font size=+2>Nelson Eugene Vining</font>
+     (son of <a href="Sfamilies.htm#SewardP01">Seward P. Vining and Martha C. Thomas</a>)
+     b. August 1849   Maine
+     m. (1) Alice C. Preston
+                    b. 1851
+                    d. 1885
+                          bur. Evergreen Cemetery   Phillips, Maine
+           (2) Almira W. &#8220;Myra&#8221; Cook
+                    (dau. of Hiram Cook and Margaret Bates)
+                    b. 18 October 1853
+                    d. 21 August 1922   Phillips, Maine
+                          bur. Evergreen Cemetery   Phillips, Maine
+     d. 5 September 1913   Avon, Maine
+           bur. Evergreen Cemetery   Phillips, Maine
+  
+  <font size=+1>children by Alice C. Preston:</font>
+     infant sons
+        bur. Evergreen Cemetery   Phillips, Maine
+  
+  <a href="Nsources/NelsonE01doc.htm">documentation and notes</a>

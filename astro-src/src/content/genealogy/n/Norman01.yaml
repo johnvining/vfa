@@ -1,0 +1,59 @@
+id: Norman01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: Edgar01
+parentLetter: E
+parentDesc: "Edgar &#8220;Dutch&#8221; Vining and Mary Kelly"
+head:
+  givenName: Norman
+  birth:
+    date: 4 February 1900
+    place: Michigan
+  death:
+    date: March 1963
+    place: "(last residence: Michigan)"
+marriages:
+  - spouse:
+      givenName: Clara
+      surname: Windoft
+childrenGroups:
+  - children:
+      - name: Norman Vining Jr.
+        entryId: NormanJr01
+        entryLetter: N
+        birth:
+          date: 28 December 1922
+          place: "Ypsilanti, Michigan"
+        marriages:
+          - date: Julia Ann Billings
+        death:
+          date: 19 November 1961
+          place: "Santa Ana, California"
+      - name: Shirley Helen Vining
+        birth:
+          date: 21 May 1925
+          place: Michigan
+        marriages:
+          - number: 1
+            date: "Yoland Gaskin,"
+            spouse: divorced
+          - number: 2
+            date: "?"
+        death:
+          date: 23 March 1992
+          place: "(last residence: San Diego, California)"
+docsUrl: Nsources/Norman01doc.htm
+raw: |-
+  <a name="Norman01"></a><font size=+2>Norman Vining</font>
+     (son of <a href="Efamilies.htm#Edgar01">Edgar &#8220;Dutch&#8221; Vining and Mary Kelly</a>)
+     b. 4 February 1900   Michigan
+     m. Clara Windoft
+              b. age 28 y. as of 1930 census   Michigan
+     d. March 1963   (last residence: Michigan)
+  
+  <font size=+1>children:</font>
+     <a href="Nfamilies.htm#NormanJr01">Norman Vining Jr.</a>   b. 28 December 1922   Ypsilanti, Michigan   -   m. Julia Ann Billings   -   d. 19 November 1961   Santa Ana, California
+     Shirley Helen Vining   b. 21 May 1925   Michigan   -   m. (1) Yoland Gaskin,   divorced;   (2) ?   -   d. 23 March 1992   (last residence: San Diego, California)
+  
+  <a href="Nsources/Norman01doc.htm">documentation and notes</a>

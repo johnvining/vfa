@@ -1,0 +1,51 @@
+id: NormanA01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: JohnL05
+parentLetter: J
+parentDesc: John Leonard Vining and Phoebe Giles
+head:
+  givenName: Norman Arthur
+  birth:
+    date: 7 March 1911
+    place: Connecticut
+  death:
+    date: 1 November 1988
+    place: "Springfield, Massachusetts"
+marriages:
+  - date: 29 September 1933
+    spouse:
+      givenName: Frances
+      surname: Rockwell
+childrenGroups:
+  - children:
+      - name: Jon Rockwell Vining
+        entryId: JonR01
+        entryLetter: J
+        birth:
+          date: 22 February 1939
+        marriages:
+          - date: 21 June 1964
+            spouse: Paula Louise Carlson
+      - name: Cynthia Grace Vining
+        birth:
+          date: 18 September 1941
+        marriages:
+          - date: 26 May 1963
+            spouse: Roy Carleton Macdonald
+docsUrl: Nsources/NormanA01doc.htm
+raw: |-
+  <a name="NormanA01"></a><font size=+2>Norman Arthur Vining</font>
+     (son of <a href="Jfamilies.htm#JohnL05">John Leonard Vining and Phoebe Giles</a>)
+     b. 7 March 1911   Connecticut
+     m. 29 September 1933
+           Frances Rockwell
+     d. 1 November 1988   Springfield, Massachusetts
+           bur. Fairview Cemetery   New Britain, Connecticut
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JonR01">Jon Rockwell Vining</a>   b. 22 February 1939   -   m. 21 June 1964   Paula Louise Carlson
+     Cynthia Grace Vining   b. 18 September 1941   -   m. 26 May 1963   Roy Carleton Macdonald
+  
+  <a href="Nsources/NormanA01doc.htm">documentation and notes</a>

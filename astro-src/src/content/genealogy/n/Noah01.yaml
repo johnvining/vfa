@@ -1,0 +1,133 @@
+id: Noah01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: David01
+parentLetter: D
+parentDesc: David Vining and Lydia Torrey
+head:
+  givenName: Noah
+  birth:
+    date: 30 July 1781
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 1 November 1860
+    place: "Weymouth, Massachusetts"
+marriages:
+  - date: 16 July 1806
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Mary Leavitt
+      surname: Stoddard
+      birth:
+        date: 30 July 1783
+        place: "Weymouth, Massachusetts"
+      death:
+        date: 24 December 1868
+        place: "Weymouth, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Noah Vining Jr.
+        entryId: NoahJr01
+        entryLetter: N
+        birth:
+          date: 13 June 1807
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 15 August 1838
+            place: "[Weymouth or Abington?], Massachusetts"
+            spouse: Sarah Curtis
+        death:
+          date: 3 January 1892
+          place: "Weymouth, Massachusetts"
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
+      - name: Allen Vining
+        entryId: Allen01
+        entryLetter: A
+        birth:
+          date: 7 November 1808
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: "5 October [1834 or 1836]"
+            place: "Weymouth, Massachusetts"
+            spouse: Jane W. Bates
+        death:
+          date: 4 February 1895
+          place: "Weymouth, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 1 April 1810
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 27 November 1828
+            place: "Weymouth, Massachusetts"
+            spouse: Jonathan White Jr.
+        death:
+          date: 19 September 1836
+      - name: Samuel Albert Vining
+        entryId: SamuelA01
+        entryLetter: S
+        birth:
+          date: 19 June 1812
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: Eliza Ann White
+        death:
+          date: 22 May 1898
+      - name: Adoniram Vining
+        entryId: Adoniram01
+        entryLetter: A
+        birth:
+          date: 11 April 1814
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 22 December 1836
+            place: "Weymouth, Massachusetts"
+            spouse: Lydia Tirrell Shaw
+        death:
+          date: 18 May 1904
+          place: "Weymouth, Massachusetts"
+        burial:
+          place: "Mt. Hope Cemetery   South Weymouth, Massachusetts"
+      - name: Harriet Newell Vining
+        birth:
+          date: 11 June 1816
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 27 November 1834
+            place: "Weymouth, Massachusetts"
+            spouse: Warren Bates Jr.
+        death:
+          date: 11 September 1907
+          place: "Cohasset, Massachusetts"
+      - name: Catharine M. Vining
+        birth:
+          date: 10 March 1819
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 27 November 1845
+            place: "Weymouth, Massachusetts"
+            spouse: Erastus R. Rand
+docsUrl: Nsources/Noah01doc.htm
+raw: |-
+  <a name="Noah01"></a><font size=+2>Noah Vining</font>
+     (son of <a href="Dfamilies.htm#David01">David Vining and Lydia Torrey</a>)
+     b. 30 July 1781   Weymouth, Massachusetts
+     m. 16 July 1806   Weymouth, Massachusetts
+           Mary Leavitt Stoddard
+                 (dau. of Obadiah Stoddard and Celia Vining)
+                 b. 30 July 1783   Weymouth, Massachusetts
+                 d. 24 December 1868   Weymouth, Massachusetts
+     d. 1 November 1860   Weymouth, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Nfamilies.htm#NoahJr01">Noah Vining Jr.</a>   b. 13 June 1807   Weymouth, Massachusetts   -   m. 15 August 1838   [Weymouth or Abington?], Massachusetts   Sarah Curtis   -   d. 3 January 1892   Weymouth, Massachusetts   -   bur. Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts
+     <a href="Afamilies.htm#Allen01">Allen Vining</a>   b. 7 November 1808   Weymouth, Massachusetts   -   m. 5 October [1834 or 1836]   Weymouth, Massachusetts   Jane W. Bates   -   d. 4 February 1895   Weymouth, Massachusetts
+     Mary Vining   b. 1 April 1810   Weymouth, Massachusetts   -   m. 27 November 1828   Weymouth, Massachusetts   Jonathan White Jr.   -   d. 19 September 1836
+     <a href="Sfamilies.htm#SamuelA01">Samuel Albert Vining</a>   b. 19 June 1812   Weymouth, Massachusetts   -   m. Eliza Ann White   -   d. 22 May 1898
+     <a href="Afamilies.htm#Adoniram01">Adoniram Vining</a>   b. 11 April 1814   Weymouth, Massachusetts   -   m. 22 December 1836   Weymouth, Massachusetts   Lydia Tirrell Shaw   -   d. 18 May 1904   Weymouth, Massachusetts   -   bur. Mt. Hope Cemetery   South Weymouth, Massachusetts
+     Harriet Newell Vining   b. 11 June 1816   Weymouth, Massachusetts   -   m. 27 November 1834   Weymouth, Massachusetts   Warren Bates Jr.   -   d. 11 September 1907   Cohasset, Massachusetts
+     Catharine M. Vining   b. 10 March 1819   Weymouth, Massachusetts   -   m. 27 November 1845   Weymouth, Massachusetts   Erastus R. Rand
+  
+  <a href="Nsources/Noah01doc.htm">documentation and notes</a>

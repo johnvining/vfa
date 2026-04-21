@@ -1,0 +1,115 @@
+id: NoahJr01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: Noah01
+parentLetter: N
+parentDesc: Noah Vining and Mary Leavitt Stoddard
+head:
+  givenName: Noah Jr.
+  birth:
+    date: 13 June 1807
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 3 January 1892
+    place: "Weymouth, Massachusetts"
+marriages:
+  - date: 15 August 1838
+    place: "[Weymouth or Abington?], Massachusetts"
+    spouse:
+      givenName: Sarah
+      surname: Curtis
+      birth:
+        date: 19 March 1811
+        place: "Weymouth, Massachusetts"
+      death:
+        date: 24 December 1891
+        place: "Weymouth, Massachusetts"
+      burial:
+        place: "Mount Hope Cemetery   Weymouth,  Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: child
+        death:
+          date: 14 November 1839
+          place: "Weymouth, Massachusetts"
+      - name: Sophia Louise Vining
+        birth:
+          date: March 1842
+          place: New York
+        death:
+          date: "1920"
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
+      - name: Noah Franklin Vining
+        entryId: NoahF01
+        birth:
+          date: 10 December 1843
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - number: 1
+            date: 22 November 1868
+            spouse: Weymouth   Fannie Maria Burrell
+          - number: 2
+            date: 31 May 1873
+            spouse: Lydia Emeline Gowell
+        death:
+          date: 29 March 1908
+          place: "Weymouth, Massachusetts"
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Massachusetts"
+      - name: Sarah Maria Vining
+        birth:
+          date: 22 February 1846
+          place: "Weymouth, Massachusetts"
+        death:
+          date: 16 November 1847
+          place: "Weymouth, Massachusetts"
+      - name: Seth Curtis Vining
+        entryId: SethC01
+        entryLetter: S
+        birth:
+          date: 12 December 1847
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 15 y. as of 1900 census
+            spouse: "Lizette C. [...]"
+      - name: Allen Bradford Vining
+        birth:
+          date: 19 February 1850
+          place: "Weymouth, Massachusetts"
+        death:
+          date: 11 March 1925
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
+      - name: Sarah Catherine Vining
+        birth:
+          date: October 1852
+          place: Massachusetts
+        death:
+          date: 8 August 1900
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
+docsUrl: Nsources/NoahJr01doc.htm
+raw: |-
+  <a name="NoahJr01"></a><font size=+2>Noah Vining Jr.</font>
+     (son of <a href="Nfamilies.htm#Noah01">Noah Vining and Mary Leavitt Stoddard</a>)
+     b. 13 June 1807   Weymouth, Massachusetts
+     m. 15 August 1838   [Weymouth or Abington?], Massachusetts
+           Sarah Curtis
+                 b. 19 March 1811   Weymouth, Massachusetts
+                 d. 24 December 1891   Weymouth, Massachusetts
+                       bur. Mount Hope Cemetery   Weymouth,  Norfolk County, Massachusetts
+     d. 3 January 1892   Weymouth, Massachusetts
+           bur. Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     child   d. 14 November 1839   Weymouth, Massachusetts
+     Sophia Louise Vining   b. March 1842   New York   -   d. 1920   -   bur. Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts
+     <a href="#NoahF01">Noah Franklin Vining</a>   b. 10 December 1843   Weymouth, Massachusetts   -   m. (1) 22 November 1868   Weymouth   Fannie Maria Burrell;   (2) 31 May 1873   Lydia Emeline Gowell   -   d. 29 March 1908   Weymouth, Massachusetts   -   bur. Mount Hope Cemetery   Weymouth, Massachusetts
+     Sarah Maria Vining   b. 22 February 1846   Weymouth, Massachusetts   -   d. 16 November 1847   Weymouth, Massachusetts
+     <a href="Sfamilies.htm#SethC01">Seth Curtis Vining</a>   b. 12 December 1847   Weymouth, Massachusetts   -   m. 15 y. as of 1900 census   Lizette C. [...]
+     Allen Bradford Vining   b. 19 February 1850   Weymouth, Massachusetts   -   d. 11 March 1925   -   bur. Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts
+     Sarah Catherine Vining   b. October 1852   Massachusetts   -   d. 8 August 1900   -   bur. Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Nsources/NoahJr01doc.htm">documentation and notes</a>
