@@ -1,5 +1,5 @@
 import { readFileSync } from 'fs';
-import { diffLines } from 'diff';
+import { diffWords } from 'diff';
 
 function extractText(html) {
   return html
@@ -11,11 +11,10 @@ function extractText(html) {
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
-    .replace(/&mdash;|&#8212;/g, '—')
-    .replace(/&ldquo;|&#8220;/g, '"')
-    .replace(/&rdquo;|&#8221;/g, '"')
-    .replace(/&#8230;/g, '…')
-    .replace(/&#146;/g, "'")
+    .replace(/&#(\d+);?/g, (_, n) => String.fromCodePoint(parseInt(n, 10)))
+    .replace(/&mdash;/g, '—')
+    .replace(/&ldquo;/g, '"')
+    .replace(/&rdquo;/g, '"')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -34,7 +33,7 @@ if (text1 === text2) {
   process.exit(0);
 }
 
-const changes = diffLines(text1, text2, { ignoreWhitespace: true });
+const changes = diffWords(text1, text2);
 let hasDiff = false;
 for (const part of changes) {
   if (part.added || part.removed) {
