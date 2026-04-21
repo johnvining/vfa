@@ -1,0 +1,74 @@
+id: LloydK01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: RichardB03
+parentLetter: R
+parentDesc: Richard Buchanan Vining and Mary Kelly
+head:
+  givenName: Lloyd Kelly
+  birth:
+    date: 3 October 1892
+    place: "Norton, Kansas"
+  death:
+    date: 31 August 1953
+    place: "Ogden, Utah"
+marriages:
+  - spouse:
+      givenName: Clara
+      surname: Coates
+childrenGroups:
+  - children:
+      - name: Lloyd Richard Vining
+        birth:
+          date: "age 2 y., 9 m. as of 1920 census"
+          place: Utah
+      - name: Glenna A. Vining
+        birth:
+          date: age 9 m. as of 1920 census
+          place: Utah
+      - name: Dale Kelly Vining
+        entryId: DaleK01
+        entryLetter: D
+        birth:
+          date: 25 March 1926
+          place: Utah
+        marriages:
+          - date: Patty Ellen Montgomery
+        death:
+          date: 16 June 1997
+        burial:
+          place: "Ben Lomond Cemetery   North Ogden, Utah"
+      - name: Clarice Vining
+        birth:
+          date: "age 2 y., 6 m. as of 1930 census"
+          place: Utah
+      - name: Jack Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Utah
+      - name: James Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Utah
+docsUrl: Lsources/LloydK01doc.htm
+raw: |-
+  <a name="LloydK01"></a><font size=+2>Lloyd Kelly Vining</font>
+     (son of <a href="Rfamilies.htm#RichardB03">Richard Buchanan Vining and Mary Kelly</a>)
+     b. 3 October 1892   Norton, Kansas
+     m. Clara Coates
+              b. 17 January 1896   England
+              d. 18 February 1972
+                    bur. Washington Heights Memorial Park   Ogden, Utah
+     d. 31 August 1953   Ogden, Utah
+           bur. Washington Heights Memorial Park   Ogden, Utah
+  
+  <font size=+1>children:</font>
+     Lloyd Richard Vining   b. age 2 y., 9 m. as of 1920 census   Utah
+     Glenna A. Vining   b. age 9 m. as of 1920 census   Utah
+     <a href="Dfamilies.htm#DaleK01">Dale Kelly Vining</a>   b. 25 March 1926   Utah   -   m. Patty Ellen Montgomery   -   d. 16 June 1997   -   bur. Ben Lomond Cemetery   North Ogden, Utah
+     Clarice Vining   b. age 2 y., 6 m. as of 1930 census   Utah
+     Jack Vining   b. age 9 y. as of 1940 census   Utah
+     James Vining   b. age 2 y. as of 1940 census   Utah
+  
+  <a href="Lsources/LloydK01doc.htm">documentation and notes</a>

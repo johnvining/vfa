@@ -1,0 +1,42 @@
+id: LouisF01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: FrankJ01
+parentLetter: F
+parentDesc: Frank J. Vining and Anna May Haas
+head:
+  givenName: Louis Franklin
+  birth:
+    date: 3 March 1905
+    place: Ohio
+  death:
+    date: "1975"
+marriages:
+  - spouse:
+      givenName: Tillie
+      surname: Patapchuk
+childrenGroups:
+  - children:
+      - name: Gary Edward Vining
+        birth:
+          date: 23 June 1947
+        marriages:
+          - date: "Julia [...]"
+      - name: Janet Marie Vining
+        birth:
+          date: 27 October 1949
+        marriages:
+          - date: "Eric [...]"
+raw: |-
+  <a name="LouisF01"></a><font size=+2>Louis Franklin Vining</font>
+     (son of <a href="Ffamilies.htm#FrankJ01">Frank J. Vining and Anna May Haas</a>)
+     b. 3 March 1905   Ohio
+     m. Tillie Patapchuk
+              b. 10 July 1922   New York City, New York
+              d. 7 September 2014   Sacramento, California
+     d. 1975
+  
+  <font size=+1>children:</font>
+     Gary Edward Vining   b. 23 June 1947   -   m. Julia [...]
+     Janet Marie Vining   b. 27 October 1949   -   m. Eric [...]

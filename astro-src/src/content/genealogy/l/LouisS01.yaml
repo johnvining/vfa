@@ -1,0 +1,49 @@
+id: LouisS01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LouisD02
+parentDesc: Louis Dozier Vining and Grace Haines
+head:
+  givenName: Louis Scott
+  birth:
+    date: 19 November 1943
+    place: "Pottstown, Pennsylvania"
+marriages:
+  - date: 18 December 1965
+    place: "Harrisburg, Pennsylvania"
+    spouse:
+      givenName: Faith Ann
+      surname: Snyder
+      birth:
+        date: 18 January 1944
+        place: "Hellertown, Pennsylvania"
+childrenGroups:
+  - children:
+      - name: Hope Lurray Vining
+        birth:
+          date: 4 August 1969
+        marriages:
+          - date: Stephen Mooney
+      - name: Heather Lee Vining
+        birth:
+          date: 4 August 1969
+        marriages:
+          - date: James Morris
+      - name: Joy Alison Vining
+        birth:
+          date: 4 March 1976
+        marriages:
+          - date: Steven Crozier
+raw: |-
+  <a name="LouisS01"></a><font size=+2>Louis Scott Vining</font>
+     (son of <a href="#LouisD02">Louis Dozier Vining and Grace Haines</a>)
+     b. 19 November 1943   Pottstown, Pennsylvania
+     m. 18 December 1965   Harrisburg, Pennsylvania
+           Faith Ann Snyder
+                 b. 18 January 1944   Hellertown, Pennsylvania
+  
+  <font size=+1>children:</font>
+     Hope Lurray Vining   b. 4 August 1969   -   m. Stephen Mooney
+     Heather Lee Vining   b. 4 August 1969   -   m. James Morris
+     Joy Alison Vining   b. 4 March 1976   -   m. Steven Crozier

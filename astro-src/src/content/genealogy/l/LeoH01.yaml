@@ -1,0 +1,70 @@
+id: LeoH01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: SamuelJ02
+parentLetter: S
+parentDesc: "Samuel Joseph Vining and Sarah Adeline &#8220;Addie&#8221; Ellsworth"
+head:
+  givenName: Leo Heath
+  birth:
+    date: 24 October 1893
+    place: "Celina, Ohio"
+  death:
+    date: February 1968
+    place: "Owensboro, Kentucky"
+marriages:
+  - number: 1
+    date: "1916"
+    spouse:
+      givenName: Florence Nightengale
+      surname: Jones
+      birth:
+        date: age 24 y. as of 1920 census
+        place: Ohio
+  - number: 2
+    date: "Johnnie L. [...]"
+  - number: 3
+    date: Priscilla Margaret Henning
+childrenGroups:
+  - spouseRef: Florence Nightengale Jones
+    children:
+      - name: Samuel Vining
+      - name: Leo Heath Vining Jr.
+        entryId: LeoHJr01
+        entryLetter: L
+        birth:
+          date: 7 January 1920
+          place: Missouri
+        marriages:
+          - number: 1
+            date: "1941"
+            spouse: "Dorothy Helen Deschamps,   divorced"
+          - number: 2
+            date: Josephine Primrose Gundry
+        death:
+          date: 26 February 1980
+        burial:
+          place: "Ivy Hill Cemetery   Alexandria, Virginia"
+      - name: Jerry Vining
+docsUrl: Lsources/LeoH01doc.htm
+raw: |-
+  <a name="LeoH01"></a><font size=+2>Leo Heath Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelJ02">Samuel Joseph Vining and Sarah Adeline &#8220;Addie&#8221; Ellsworth</a>)
+     b. 24 October 1893   Celina, Ohio
+     m. (1) 1916
+                 Florence Nightengale Jones
+                       b. age 24 y. as of 1920 census   Ohio
+                 divorced 1920
+           (2) Johnnie L. [...]
+           (3) Priscilla Margaret Henning
+     d. February 1968   Owensboro, Kentucky
+  
+  <font size=+1>children by Florence Nightengale Jones:</font>
+     Samuel Vining
+     <a href="Lfamilies.htm#LeoHJr01">Leo Heath Vining Jr.</a>   b. 7 January 1920   Missouri   -   m. (1) 1941   Dorothy Helen Deschamps,   divorced;   (2) Josephine Primrose Gundry   -   d. 26 February 1980   -   bur. Ivy Hill Cemetery   Alexandria, Virginia
+  
+  <font size=+1>child by ?:</font>
+     Jerry Vining
+  
+  <a href="Lsources/LeoH01doc.htm">documentation and notes</a>

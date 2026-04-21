@@ -1,0 +1,56 @@
+id: LouisD02
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: WilliamM04
+parentLetter: W
+parentDesc: "William Morris Vining and Eva [&#8230;]"
+head:
+  givenName: Louis Dozier
+  birth:
+    date: 21 April 1916
+    place: New Jersey
+  death:
+    date: 26 May 1966
+marriages:
+  - spouse:
+      givenName: Grace Lillie
+      surname: Haines
+childrenGroups:
+  - children:
+      - name: Barry L. Vining
+        entryId: BarryL01
+        entryLetter: B
+        birth:
+          date: 5 January 1940
+          place: "Pottstown, Montgomery County, Pennsylvania"
+        marriages:
+          - date: 11 March 1961
+            place: "Spring City, Pennsylvania"
+            spouse: Carol Jean Haltemann
+        death:
+          date: 2 March 1922
+          place: "East Coventry Township, Chester County, Pennsylvania"
+        burial:
+          place: "Zion Lutheran Church Cemetery   Spring City, Chester County, Pennsylvania"
+      - name: Louis Scott Vining
+        entryId: LouisS01
+        marriages:
+          - date: 18 December 1965
+            place: "Harrisburg, Pennsylvania"
+            spouse: Faith Ann Snyder
+raw: |-
+  <a name="LouisD02"></a><font size=+2>Louis Dozier Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamM04">William Morris Vining and Eva [&#8230;]</a>)
+     b. 21 April 1916   New Jersey
+     m. Grace Lillie Haines
+              (dau. of John Franklin Haines and Lillie Mae Miller)
+              b. 21 July 1918   Royersford, Montgomery County, Pennsylvania
+              d. 9 February 1993   Phoenixville, Chester County, Pennsylvania
+                    bur. Fernwood Cemetery   Royersford, Montgomery County, Pennsylvania
+     d. 26 May 1966
+           bur. Fernwood Cemetery   Royersford, Montgomery County, Pennsylvania
+  
+  <font size=+1>children:</font>
+     <a href="Bfamilies.htm#BarryL01">Barry L. Vining</a>   b. 5 January 1940   Pottstown, Montgomery County, Pennsylvania   -   m. 11 March 1961   Spring City, Pennsylvania   Carol Jean Haltemann   -   d. 2 March 1922   East Coventry Township, Chester County, Pennsylvania   -   bur. Zion Lutheran Church Cemetery   Spring City, Chester County, Pennsylvania
+     <a href="#LouisS01">Louis Scott Vining</a>   -   b. 19 November 1943   Pottstown, Pennsylvania   -   m. 18 December 1965   Harrisburg, Pennsylvania   Faith Ann Snyder

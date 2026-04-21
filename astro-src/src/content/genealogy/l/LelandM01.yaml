@@ -1,0 +1,47 @@
+id: LelandM01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: ThomasC01
+parentLetter: T
+parentDesc: Thomas Clifford Vining and Esther F. Hoadley
+head:
+  givenName: Leland Mason
+  birth:
+    date: 31 January 1939
+    place: "Kalispel, Montana"
+marriages:
+  - spouse:
+      givenName: Gloy E.
+      surname: Korkla
+childrenGroups:
+  - children:
+      - name: Thomas Lee Vining
+        birth:
+          date: 16 October 1962
+        death:
+          date: 18 January 2009
+      - name: Elizabeth Gay Vining
+        birth:
+          date: 25 October 1966
+        marriages:
+          - date: June 2003
+            spouse: Christopher Cerutti
+      - name: Carrie Lee Vining
+        entryId: CarrieL01
+        entryLetter: C
+        birth:
+          date: 10 October 1969
+docsUrl: Lsources/LelandM01doc.htm
+raw: |-
+  <a name="LelandM01"></a><font size=+2>Leland Mason Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasC01">Thomas Clifford Vining and Esther F. Hoadley</a>)
+     b. 31 January 1939   Kalispel, Montana
+     m. Gloy E. Korkla
+  
+  <font size=+1>children:</font>
+     Thomas Lee Vining   b. 16 October 1962   -   d. 18 January 2009
+     Elizabeth Gay Vining   b. 25 October 1966   -   m. June 2003   Christopher Cerutti
+     <a href="Cfamilies.htm#CarrieL01">Carrie Lee Vining</a>   b. 10 October 1969
+  
+  <a href="Lsources/LelandM01doc.htm">documentation and notes</a>

@@ -1,0 +1,101 @@
+id: Leavitt01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Israel01
+parentLetter: I
+parentDesc: Israel Vining and Abia Dunbar
+head:
+  givenName: Leavitt
+  birth:
+    date: 1 July 1783
+  death:
+    date: "1860"
+marriages:
+  - date: 14 May 1807
+    place: "Windsor, Massachusetts"
+    spouse:
+      givenName: Ophronia
+      surname: Swift
+      birth:
+        date: "1789"
+        place: Vermont
+      death:
+        date: "1862"
+childrenGroups:
+  - children:
+      - name: "Aletha Vining   bapt. 3 July 1808   Windsor, Massachusetts"
+      - name: "Alden Dunbar Vining   bapt. 14 October 1810   Windsor, Massachusetts"
+      - name: Susan Vining
+        birth:
+          date: age 33 y. as of 1850 census
+          place: Massachusetts
+        marriages:
+          - date: Henry Manchester
+      - name: David A. Vining
+        birth:
+          date: age 39 y. as of 1860 census
+          place: Massachusetts
+        marriages:
+          - date: "Clarissa [...]"
+      - name: Oliver Smith Vining
+        entryId: OliverS01
+        entryLetter: O
+        birth:
+          date: "age 49 y., 8 m. at death"
+        marriages:
+          - date: "1850"
+            place: "Deerfield, Massachusetts"
+            spouse: Elizabeth Helen Muzzy
+        death:
+          date: 14 June 1875
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+      - name: John H. Vining
+        entryId: JohnH04
+        entryLetter: J
+        birth:
+          date: age 35 y. as of 1860 census
+          place: Massachusetts
+        marriages:
+          - date: "Clarissa W. [&#8230;]"
+        death:
+          date: 12 June 1864
+          place: "District of Columbia, District of Columbia"
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+      - name: Heman Vining
+      - name: Mary Vining
+        marriages:
+          - date: "[...] Atkinson"
+      - name: Theron Vining
+        birth:
+          date: "age 22 y., 4 m. at death"
+        death:
+          date: 17 November 1853
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+docsUrl: Lsources/Leavitt01doc.htm
+raw: |-
+  <a name="Leavitt01"></a><font size=+2>Leavitt Vining</font>
+     (son of <a href="Ifamilies.htm#Israel01">Israel Vining and Abia Dunbar</a>)
+     b. 1 July 1783
+     m. 14 May 1807   Windsor, Massachusetts
+           Ophronia Swift
+                 b. 1789   Vermont
+                 d. 1862
+     d. 1860
+           bur. North Hatfield Cemetery   North Hatfield, MA
+  
+  <font size=+1>children:</font>
+     Aletha Vining   bapt. 3 July 1808   Windsor, Massachusetts
+     Alden Dunbar Vining   bapt. 14 October 1810   Windsor, Massachusetts
+     Susan Vining   b. age 33 y. as of 1850 census   Massachusetts   -   m. Henry Manchester
+     David A. Vining   b. age 39 y. as of 1860 census   Massachusetts   -   m. Clarissa [...]
+     <a href="Ofamilies.htm#OliverS01">Oliver Smith Vining</a>   b. age 49 y., 8 m. at death   -   m. 1850   Deerfield, Massachusetts   Elizabeth Helen Muzzy   -   d. 14 June 1875   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     <a href="Jfamilies.htm#JohnH04">John H. Vining</a>   b. age 35 y. as of 1860 census   Massachusetts   -   m. Clarissa W. [&#8230;]   -   d. 12 June 1864   District of Columbia, District of Columbia   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     Heman Vining
+     Mary Vining   m. [...] Atkinson
+     Theron Vining   b. age 22 y., 4 m. at death   -   d. 17 November 1853   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+  
+  <a href="Lsources/Leavitt01doc.htm">documentation and notes</a>

@@ -1,0 +1,71 @@
+id: LesterR02
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: CharlesA03
+parentLetter: C
+parentDesc: "Charles Augustus Vining and [...]"
+head:
+  givenName: Lester Richard
+  birth:
+    date: 17 April 1912
+    place: "Garbor, Missouri"
+  death:
+    date: 26 January 1998
+    place: "(last residence: Branson, Missouri)"
+marriages:
+  - date: 8 January 1934
+    place: "Reed's Spring, Missouri"
+    spouse:
+      givenName: Mabel Lois
+      surname: Lewallen
+      birth:
+        date: 5 May 1916
+        place: "Branson, Missouri"
+      death:
+        date: 20 September 1995
+        place: "Branson, Missouri"
+      burial:
+        place: "Evergreen Cemetery   Branson, Missouri"
+childrenGroups:
+  - children:
+      - name: Vera Elizabeth Vining
+        birth:
+          date: 24 December 1934
+          place: "Branson, Missouri"
+        death:
+          date: 13 November 1946
+        burial:
+          place: "Evergreen Cemetery   Branson, Missouri"
+      - name: Jimmie Dale Vining
+        birth:
+          date: 14 November 1938
+          place: "Garibaldi, Oregon"
+        death:
+          date: 13 January 1950
+        burial:
+          place: "Evergreen Cemetery   Branson, Missouri"
+      - name: daughter
+        marriages:
+          - date: "[...] Rantz"
+      - name: daughter
+docsUrl: Lsources/LesterR02doc.htm
+raw: |-
+  <a name="LesterR02"></a><font size=+2>Lester Richard Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesA03">Charles Augustus Vining and [...]</a>)
+     b. 17 April 1912   Garbor, Missouri
+     m. 8 January 1934   Reed's Spring, Missouri
+           Mabel Lois Lewallen
+                 b. 5 May 1916   Branson, Missouri
+                 d. 20 September 1995   Branson, Missouri
+                       bur. Evergreen Cemetery   Branson, Missouri
+     d. 26 January 1998   (last residence: Branson, Missouri)
+           bur. Evergreen Cemetery   Branson, Missouri
+  
+  <font size=+1>children:</font>
+     Vera Elizabeth Vining   b. 24 December 1934   Branson, Missouri   -   d. 13 November 1946   -   bur. Evergreen Cemetery   Branson, Missouri
+     Jimmie Dale Vining   b. 14 November 1938   Garibaldi, Oregon   -   d. 13 January 1950   -   bur. Evergreen Cemetery   Branson, Missouri
+     daughter   m. [...] Rantz
+     daughter
+  
+  <a href="Lsources/LesterR02doc.htm">documentation and notes</a>

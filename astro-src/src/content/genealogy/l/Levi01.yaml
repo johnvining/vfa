@@ -1,0 +1,76 @@
+id: Levi01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Francis02
+parentLetter: F
+parentDesc: "Francis &#8220;Frank&#8221; Vining and Harriet Joiner"
+head:
+  givenName: Levi
+  birth:
+    date: August 1870
+    place: Louisiana
+marriages:
+  - date: 18 y. as of 1910 census
+    spouse:
+      givenName: Harriet F.
+      surname: "[...]"
+      birth:
+        date: January 1878
+        place: Louisiana
+childrenGroups:
+  - children:
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: Clarence Edgar Vining
+        entryId: ClarenceE03
+        entryLetter: C
+        birth:
+          date: 9 March 1904
+          place: Louisiana
+        marriages:
+          - date: Katie Margaret Cooper
+        death:
+          date: 19 June 1953
+        burial:
+          place: "Collins Cemetery   Ponchatoula, Louisiana"
+      - name: Charles Ray Vining
+        entryId: CharlesR02
+        entryLetter: C
+        birth:
+          date: 4 August 1906
+          place: Louisiana
+        marriages:
+          - date: Corine Perrilloux
+        death:
+          date: 13 July 1966
+        burial:
+          place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
+docsUrl: Lsources/Levi01doc.htm
+raw: |-
+  <a name="Levi01"></a><font size=+2>Levi Vining</font>
+     (son of <a href="Ffamilies.htm#Francis02">Francis &#8220;Frank&#8221; Vining and Harriet Joiner</a>)
+     b. August 1870   Louisiana
+     m. 18 y. as of 1910 census
+           Harriet F. [...]
+                 b. January 1878   Louisiana
+  
+  <font size=+1>children:</font>
+     child Vining   d. before 1910 census
+     child Vining   d. before 1910 census
+     child Vining   d. before 1910 census
+     child Vining   d. before 1910 census
+     <a href="Cfamilies.htm#ClarenceE03">Clarence Edgar Vining</a>   b. 9 March 1904   Louisiana   -   m. Katie Margaret Cooper   -   d. 19 June 1953   -   bur. Collins Cemetery   Ponchatoula, Louisiana
+     <a href="Cfamilies.htm#CharlesR02">Charles Ray Vining</a>   b. 4 August 1906   Louisiana   -   m. Corine Perrilloux   -   d. 13 July 1966   -   bur. Ponchatoula Cemetery   Ponchatoula, Louisiana
+  
+  <a href="Lsources/Levi01doc.htm">documentation and notes</a>

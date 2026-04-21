@@ -1,0 +1,105 @@
+id: LeoHJr01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LeoH01
+parentLetter: L
+parentDesc: Leo Heath Vining and Florence Nightengale Jones
+head:
+  givenName: Leo Heath Jr.
+  birth:
+    date: 7 January 1920
+    place: Missouri
+  death:
+    date: 26 February 1980
+marriages:
+  - number: 1
+    date: "1941"
+    spouse:
+      givenName: Dorothy Helen
+      surname: Deschamps
+  - number: 2
+    date: "1947"
+    spouse:
+      givenName: Josephine Primrose
+      surname: Gundry
+      birth:
+        date: 5 July 1925
+        place: "Baltimore, Maryland"
+      death:
+        date: 18 October 2013
+childrenGroups:
+  - spouseRef: Dorothy Helen Deschamps
+    children:
+      - name: Leo Heath Vining III
+        birth:
+          date: "1942"
+      - name: Hart Gibson Vining
+        birth:
+          date: "1942"
+  - spouseRef: Josephine Primrose Gundry
+    children:
+      - name: Richard Neil Vining
+        entryId: RichardN01
+        entryLetter: R
+        birth:
+          date: 5 October 1948
+          place: "Baltimore, Maryland"
+        marriages:
+          - number: 1
+            date: "1968"
+            spouse: Helen Ridgely Lyon Van Ness
+          - number: 2
+            date: "1988"
+            spouse: Peggy Sue Zerkel
+      - name: Harrison Foster Vining
+        entryId: HarrisonF01
+        entryLetter: H
+        birth:
+          date: 5 March 1950
+          place: "Baltimore, Maryland"
+        marriages:
+          - number: 1
+            date: "1969"
+            spouse: "Jo Ann Strickland,   divorced 1978"
+          - number: 2
+            date: "1987"
+            spouse: Leslie Ann Welch
+      - name: Josephine Primrose Vining
+        birth:
+          date: 2 September 1951
+          place: "Baltimore, Maryland"
+        marriages:
+          - date: David Sheatsley
+      - name: Robert Edward Vining
+        birth:
+          date: 22 September 1953
+          place: "Newport News, Virginia"
+        marriages:
+          - date: "Kathryn [&#8230;]"
+docsUrl: Lsources/LeoHJr01doc.htm
+raw: |-
+  <a name="LeoHJr01"></a><font size=+2>Leo Heath Vining Jr.</font>
+     (son of <a href="Lfamilies.htm#LeoH01">Leo Heath Vining and Florence Nightengale Jones</a>)
+     b. 7 January 1920   Missouri
+     m. (1) 1941
+                 Dorothy Helen Deschamps
+                 divorced
+           (2) 1947
+                 Josephine Primrose Gundry
+                       (dau. of Jesse K. H. Gundry and Alice P. [&#8230;])
+                       b. 5 July 1925   Baltimore, Maryland
+                       d. 18 October 2013
+     d. 26 February 1980
+           bur. Ivy Hill Cemetery   Alexandria, Virginia
+  
+  <font size=+1>children by Dorothy Helen Deschamps:</font>
+     Leo Heath Vining III   b. 1942
+     Hart Gibson Vining   b. 1942
+  <font size=+1>children by Josephine Primrose Gundry:</font>
+     <a href="Rfamilies.htm#RichardN01">Richard Neil Vining</a>   b. 5 October 1948   Baltimore, Maryland   -   m. (1) 1968   Helen Ridgely Lyon Van Ness;   (2) 1988   Peggy Sue Zerkel
+     <a href="Hfamilies.htm#HarrisonF01">Harrison Foster Vining</a>   b. 5 March 1950   Baltimore, Maryland   -   m. (1) 1969   Jo Ann Strickland,   divorced 1978;   (2) 1987   Leslie Ann Welch
+     Josephine Primrose Vining   b. 2 September 1951   Baltimore, Maryland   -   m. David Sheatsley
+     Robert Edward Vining   b. 22 September 1953   Newport News, Virginia   -   m. Kathryn [&#8230;]
+  
+  <a href="Lsources/LeoHJr01doc.htm">documentation and notes</a>

@@ -1,0 +1,105 @@
+id: LeoW01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LeoR01
+parentDesc: Leo Roy Vining and Adree Marian Day
+head:
+  givenName: Leo Warren
+  birth:
+    date: 22 April 1916
+    place: "Los Angeles, California"
+  death:
+    date: 9 September 1994
+    place: "Houston, Texas"
+marriages:
+  - number: 1
+    date: "[...]"
+  - number: 2
+    date: 14 February 1949
+    spouse:
+      givenName: Dorothy Reba
+      surname: Anderson
+      birth:
+        date: 20 November 1929
+      death:
+        date: 17 January 2007
+      burial:
+        place: "Dayton Memorial Park Cemetery   Dayton, Ohio"
+childrenGroups:
+  - spouseRef: Dorothy Reba Anderson
+    children:
+      - name: Danny Warren Vining
+        birth:
+          date: 1 May 1950
+          place: California
+        death:
+          date: 27 July 1961
+          place: "Trucky, California"
+        burial:
+          place: "Fairhaven Memorial Park   Santa Ana, California"
+      - name: Reta Lynn Vining
+        birth:
+          date: 12 June 1952
+          place: North Burbank California
+        marriages:
+          - date: 17 November 1970
+            spouse: "Reno, Nevada   Gary Duffy,   divorced 17 November 1987   Klamath Falls, Oregon"
+      - name: Jackie Roy Vining
+        entryId: JackieR01
+        entryLetter: J
+        birth:
+          date: 26 December 1953
+        marriages:
+          - date: 13 September 1975
+            place: "Eugene, Oregon"
+            spouse: Paula Leonard
+      - name: Melodee Kay Vining
+        birth:
+          date: 20 April 1956
+        marriages:
+          - number: 1
+            date: "Rogue River, Oregon"
+            spouse: Robert Badley
+          - number: 2
+            date: "Delbert Luft,"
+            place: "divorced Grants Pass, Oregon"
+      - name: Freddie Lee Vining
+        entryId: FreddieL01
+        entryLetter: F
+        birth:
+          date: 22 August 1960
+        marriages:
+          - date: "Patty [...]"
+      - name: Jill Dannell Vining
+        birth:
+          date: 11 September 1962
+        marriages:
+          - date: Mike Pabst
+      - name: Leo Warren Vining Jr.
+        birth:
+          date: 19 December 1969
+docsUrl: Lsources/LeoW01doc.htm
+raw: |-
+  <a name="LeoW01"></a><font size=+2>Leo Warren Vining</font>
+     (son of <a href="#LeoR01">Leo Roy Vining and Adree Marian Day</a>)
+     b. 22 April 1916   Los Angeles, California
+     m. (1) [...]
+           (2) 14 February 1949
+                 Dorothy Reba Anderson
+                       b. 20 November 1929
+                       d. 17 January 2007
+                             bur. Dayton Memorial Park Cemetery   Dayton, Ohio
+     d. 9 September 1994   Houston, Texas
+           bur. Dayton Memorial Park Cemetery   Dayton, Ohio
+  
+  <font size=+1>children by Dorothy Reba Anderson</font>
+     Danny Warren Vining   b. 1 May 1950   California   -   d. 27 July 1961   Trucky, California   -   bur. Fairhaven Memorial Park   Santa Ana, California
+     Reta Lynn Vining   b. 12 June 1952   North Burbank California   -   m. 17 November 1970   Reno, Nevada   Gary Duffy,   divorced 17 November 1987   Klamath Falls, Oregon
+     <a href="Jfamilies.htm#JackieR01">Jackie Roy Vining</a>   b. 26 December 1953   -   m. 13 September 1975   Eugene, Oregon   Paula Leonard
+     Melodee Kay Vining   b. 20 April 1956   -   m. (1) Rogue River, Oregon   Robert Badley;   (2) Delbert Luft,   divorced Grants Pass, Oregon
+     <a href="Ffamilies.htm#FreddieL01">Freddie Lee Vining</a>   b. 22 August 1960   -   m. Patty [...]
+     Jill Dannell Vining   b. 11 September 1962   -   m. Mike Pabst
+     Leo Warren Vining Jr.   b. 19 December 1969
+  
+  <a href="Lsources/LeoW01doc.htm">documentation and notes</a>

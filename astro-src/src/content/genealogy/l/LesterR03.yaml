@@ -1,0 +1,98 @@
+id: LesterR03
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Ward01
+parentLetter: W
+parentDesc: Ward Vining and Jane Cecelia Reed
+head:
+  givenName: Lester Reed
+  birth:
+    date: 27 November 1852
+    place: "Southwick, Massachusetts"
+  death:
+    date: 13 April 1938
+    place: "Southwick, Massachusetts"
+marriages:
+  - date: 11 November 1874
+    place: "Southwick, Massachusetts"
+    spouse:
+      givenName: Clara L.
+      surname: Warner
+      birth:
+        date: August 1855
+        place: Massachusetts
+      death:
+        date: "1911"
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Porter Vining
+        birth:
+          date: 4 May 1875
+          place: "Southwick, Massachusetts"
+        death:
+          date: 12 May 1881
+      - name: Orpha Vining
+        birth:
+          date: 28 August 1878
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: "[&#8230;] Porter"
+        death:
+          date: "1930"
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: child
+        birth:
+          date: 29 September 1880
+          place: "Southwick, Massachusetts"
+        death:
+          date: 19 October 1880
+      - name: Claude L. Vining
+        entryId: ClaudeL01
+        entryLetter: C
+        birth:
+          date: 25 June 1882
+          place: Connecticut
+        marriages:
+          - date: 1 y. as of 1910 census
+            spouse: Florence Marshall
+        death:
+          date: September 1962
+          place: "(last residence: Colorado)"
+        burial:
+          place: "Crown Hill Cemetery   Wheat Ridge, Colorado"
+      - name: Martha Eloise Vining
+        birth:
+          date: 20 October 1887
+          place: "Southwick, Massachusetts"
+      - name: Elva A. Vining
+        birth:
+          date: 29 October 1891
+          place: Massachusetts
+        marriages:
+          - date: "[&#8230;] Long"
+docsUrl: Lsources/LesterR03doc.htm
+raw: |-
+  <a name="LesterR03"></a><font size=+2>Lester Reed Vining</font>
+     (son of <a href="Wfamilies.htm#Ward01">Ward Vining and Jane Cecelia Reed</a>)
+     b. 27 November 1852   Southwick, Massachusetts
+     m. 11 November 1874   Southwick, Massachusetts
+           Clara L. Warner
+                 b. August 1855   Massachusetts
+                 d. 1911
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 13 April 1938   Southwick, Massachusetts
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>children:</font>
+     Porter Vining   b. 4 May 1875   Southwick, Massachusetts   -   d. 12 May 1881
+     Orpha Vining   b. 28 August 1878   Southwick, Massachusetts   -   m. [&#8230;] Porter   -   d. 1930   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     child   b. 29 September 1880   Southwick, Massachusetts   -   d. 19 October 1880
+     <a href="Cfamilies.htm#ClaudeL01">Claude L. Vining</a>   b. 25 June 1882   Connecticut   -   m. 1 y. as of 1910 census   Florence Marshall   -   d. September 1962   (last residence: Colorado)   -   bur. Crown Hill Cemetery   Wheat Ridge, Colorado
+     Martha Eloise Vining   b. 20 October 1887   Southwick, Massachusetts
+     Elva A. Vining   b. 29 October 1891   Massachusetts   -   m. [&#8230;] Long
+  
+  <a href="Lsources/LesterR03doc.htm">documentation and notes</a>

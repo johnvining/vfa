@@ -1,0 +1,55 @@
+id: LeoH02
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: HarryL01
+parentLetter: H
+parentDesc: Harry Leavitt Vining and Etta E. Creamer
+head:
+  givenName: Leo Harry
+  birth:
+    date: 2 March 1921
+    place: "Embden, Maine"
+  death:
+    date: 30 January 1999
+    place: "Embden, Maine"
+marriages:
+  - date: 4 March 1944
+    place: "Farmington, Maine"
+    spouse:
+      givenName: Katherine E.
+      surname: Libby
+      birth:
+        date: age 17 years as of 4 March 1944
+        place: "Carrabassett, Maine"
+childrenGroups:
+  - children:
+      - name: Vinson Leo Vining
+        entryId: VinsonL01
+        entryLetter: V
+        birth:
+          date: 17 February 1946
+          place: "Anson, Maine"
+        marriages:
+          - date: "[1?] August 1965"
+            spouse: Carmella E. Friend
+        death:
+          date: 30 August 2005
+          place: "Livermore Falls, Maine"
+      - name: Louise Jean Vining
+        birth:
+          date: 3 October 1948
+          place: "Anson, Maine"
+raw: |-
+  <a name="LeoH02"></a><font size=+2>Leo Harry Vining</font>
+     (son of <a href="Hfamilies.htm#HarryL01">Harry Leavitt Vining and Etta E. Creamer</a>)
+     b. 2 March 1921   Embden, Maine
+     m. 4 March 1944   Farmington, Maine
+           Katherine E. Libby
+                 (dau. of Melvin G. Libby and Gladys E. Moores)
+                 b. age 17 years as of 4 March 1944   Carrabassett, Maine
+     d. 30 January 1999   Embden, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Vfamilies.htm#VinsonL01">Vinson Leo Vining</a>   b. 17 February 1946   Anson, Maine   -   m. [1?] August 1965   Carmella E. Friend   -   d. 30 August 2005   Livermore Falls, Maine
+     Louise Jean Vining   b. 3 October 1948   Anson, Maine

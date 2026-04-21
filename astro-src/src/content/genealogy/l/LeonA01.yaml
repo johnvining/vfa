@@ -1,0 +1,33 @@
+id: LeonA01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: ThomasR03
+parentLetter: T
+parentDesc: "Thomas Roan Vining and Frances D. [...]"
+head:
+  givenName: Leon A.
+  birth:
+    date: March 1891
+    place: New Jersey
+marriages:
+  - spouse:
+      givenName: Bertha
+      surname: Catts
+childrenGroups:
+  - children:
+      - name: Bernard Vining
+        entryId: Bernard01
+        entryLetter: B
+        marriages:
+          - date: Mary Elizabeth Norton
+      - name: Bernice Vining
+raw: |-
+  <a name="LeonA01"></a><font size=+2>Leon A. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasR03">Thomas Roan Vining and Frances D. [...]</a>)
+     b. March 1891   New Jersey
+     m. Bertha Catts
+  
+  <font size=+1>children:</font>
+     <a href="Bfamilies.htm#Bernard01">Bernard Vining</a>   m. Mary Elizabeth Norton
+     Bernice Vining

@@ -1,0 +1,55 @@
+id: Leon02
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: OwenF01
+parentLetter: O
+parentDesc: Owen Franklin Vining and Pearl Woodard
+head:
+  givenName: Leon
+  birth:
+    date: 26 October 1912
+    place: Georgia
+  death:
+    date: 8 July 1996
+    place: "Ambrose, Georgia"
+marriages:
+  - number: 1
+    date: Gladys Grantham
+  - number: 2
+    date: Dorothy Little
+childrenGroups:
+  - spouseRef: Gladys Grantham
+    children:
+      - name: Annette Vining
+        birth:
+          date: 31 December 1936
+          place: Georgia
+        marriages:
+          - date: "[...] Story"
+        death:
+          date: 13 May 1998
+          place: Georgia
+        burial:
+          place: "Bethany Baptist Church Cemetery   Ambrose, Georgia"
+      - name: Robert Vining
+        birth:
+          date: ca. 1938
+docsUrl: Lsources/Leon02doc.htm
+raw: |-
+  <a name="Leon02"></a><font size=+2>Leon Vining</font>
+     (son of <a href="Ofamilies.htm#OwenF01">Owen Franklin Vining and Pearl Woodard</a>)
+     b. 26 October 1912   Georgia
+     m. (1) Gladys Grantham
+                    b. 7 September 1916   Georgia
+                    d. 2 May 1983   Helena, Georgia
+                          bur. Bethany Baptist Church Cemetery   Ambrose, Georgia
+           (2) Dorothy Little
+     d. 8 July 1996   Ambrose, Georgia
+           bur. Bethany Baptist Church Cemetery   Ambrose, Georgia
+  
+  <font size=+1>children by Gladys Grantham:</font>
+     Annette Vining   b. 31 December 1936   Georgia   -   m. [...] Story   -   d. 13 May 1998   Georgia   -   bur. Bethany Baptist Church Cemetery   Ambrose, Georgia
+     Robert Vining   b. ca. 1938
+  
+  <a href="Lsources/Leon02doc.htm">documentation and notes</a>

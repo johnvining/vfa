@@ -1,0 +1,46 @@
+id: LeoR01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: HerbertL01
+parentLetter: H
+parentDesc: Herbert L. Vining and Mary Anderson
+head:
+  givenName: Leo Roy
+  birth:
+    date: 11 July 1895
+    place: "Cheyenne, Wyoming"
+  death:
+    date: 16 June 1979
+    place: "Orange, California"
+marriages:
+  - date: 1 June 1915
+    place: "Los Angeles, California"
+    spouse:
+      givenName: Adree Marian
+      surname: Day
+      birth:
+        date: 13 October 1899
+        place: California
+      death:
+        date: 10 February 1960
+        place: "Orange, California"
+      burial:
+        place: "Fairhaven Memorial Park   Santa Ana, California"
+docsUrl: Lsources/LeoR01doc.htm
+raw: |-
+  <a name="LeoR01"></a><font size=+2>Leo Roy Vining</font>
+     (son of <a href="Hfamilies.htm#HerbertL01">Herbert L. Vining and Mary Anderson</a>)
+     b. 11 July 1895   Cheyenne, Wyoming
+     m. 1 June 1915   Los Angeles, California
+           Adree Marian Day
+                 b. 13 October 1899   California
+                 d. 10 February 1960   Orange, California
+                       bur. Fairhaven Memorial Park   Santa Ana, California
+     d. 16 June 1979   Orange, California
+           bur. Fairhaven Memorial Park   Santa Ana, California
+  
+  <font size=+1>child:</font>
+     <a href="#LeoW01">Leo Warren Vining</a>   b. 22 April 1916   Los Angeles, California   -   m. (1) [...];   (1) 14 February 1949   Dorothy Reba Anderson   -   d. 9 September 1994   Houston, Texas
+  
+  <a href="Lsources/LeoR01doc.htm">documentation and notes</a>

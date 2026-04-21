@@ -1,0 +1,44 @@
+id: LarryW01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Woodard01
+parentLetter: W
+parentDesc: Woodard Vining and Evelyn Tanner
+head:
+  givenName: Larry Woodard
+  birth:
+    date: 25 February 1948
+    place: "Fort Pierce, Florida"
+  death:
+    date: 23 November 2007
+    place: North Carolina
+marriages:
+  - spouse:
+      givenName: Margaret
+      surname: Schofield
+childrenGroups:
+  - children:
+      - name: Thyra Vining
+        marriages:
+          - date: "[...] Richardson"
+      - name: Dorcia Vining
+      - name: Desiree Vining
+      - name: Nicholas Vining
+      - name: Merrissa Vining
+      - name: Racheal Vining
+raw: |-
+  <a name="LarryW01"></a><font size=+2>Larry Woodard Vining</font>
+     (son of <a href="Wfamilies.htm#Woodard01">Woodard Vining and Evelyn Tanner</a>)
+     b. 25 February 1948   Fort Pierce, Florida
+     m. Margaret Schofield
+           divorced
+     d. 23 November 2007   North Carolina
+  
+  <font size=+1>children:</font>
+     Thyra Vining   m. [...] Richardson
+     Dorcia Vining
+     Desiree Vining
+     Nicholas Vining
+     Merrissa Vining
+     Racheal Vining

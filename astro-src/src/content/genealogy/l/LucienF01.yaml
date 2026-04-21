@@ -1,0 +1,52 @@
+id: LucienF01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: JohnN01
+parentLetter: J
+parentDesc: John Newell Vining and Roxanna Tripp
+head:
+  givenName: Lucien Freeman
+  birth:
+    date: 3 March 1863
+    place: "Conklin Forks, New York"
+  death:
+    date: age 79 y. at death
+marriages:
+  - date: 12 y. as of 1900 census
+    place: "Coudersport, Pennsylvania"
+    spouse:
+      givenName: Alice
+      surname: Wandover
+      birth:
+        date: November 1870
+        place: Pennsylvania
+childrenGroups:
+  - children:
+      - name: Flossie Vining
+        birth:
+          date: 21 January 1889
+          place: Pennsylvania
+        marriages:
+          - date: Elmer Spaford
+      - name: Minnie May Vining
+        birth:
+          date: 27 March 1891
+          place: New York
+        marriages:
+          - date: Lynn Place
+docsUrl: Lsources/LucienF01doc.htm
+raw: |-
+  <a name="LucienF01"></a><font size=+2>Lucien Freeman Vining</font>
+     (son of <a href="Jfamilies.htm#JohnN01">John Newell Vining and Roxanna Tripp</a>)
+     b. 3 March 1863   Conklin Forks, New York
+     m. 12 y. as of 1900 census   Coudersport, Pennsylvania
+           Alice Wandover
+                 b. November 1870   Pennsylvania
+     d. age 79 y. at death
+  
+  <font size=+1>children:</font>
+     Flossie Vining   b. 21 January 1889   Pennsylvania   -   m. Elmer Spaford
+     Minnie May Vining   b. 27 March 1891   New York   -   m. Lynn Place
+  
+  <a href="Lsources/LucienF01doc.htm">documentation and notes</a>

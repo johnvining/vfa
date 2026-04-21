@@ -1,0 +1,57 @@
+id: LouisD01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: CharlesB03
+parentLetter: C
+parentDesc: "Charles B. Vining and Jane [&#8230;]"
+head:
+  givenName: Louis D.
+  birth:
+    date: July 1894
+    place: Kansas
+  death:
+    date: "1948"
+marriages:
+  - spouse:
+      givenName: Mae A.
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Louise Vining
+        birth:
+          date: age 8 y. as of 1930 census
+          place: Kansas
+      - name: Alberta Lou Vining
+        birth:
+          date: 12 June 1928
+          place: "Aurora, Nebraska"
+        marriages:
+          - date: Ronald Harding
+        death:
+          date: 18 November 2015
+          place: "Lone Tree, Iowa"
+        burial:
+          place: "Lone Tree Cemetery   Lone Tree, Iowa"
+      - name: Louis D. Vining Jr.
+        birth:
+          date: age 7 y. as of 1940 census
+          place: Illinois
+docsUrl: Lsources/LouisD01doc.htm
+raw: |-
+  <a name="LouisD01"></a><font size=+2>Louis D. Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesB03">Charles B. Vining and Jane [&#8230;]</a>)
+     b. July 1894   Kansas
+     m. Mae A. [&#8230;]
+              b. 1898
+              d. 1975
+                    bur. New Altoona Cemetery   Altoona, Iowa
+     d. 1948
+           bur. New Altoona Cemetery   Altoona, Iowa
+  
+  <font size=+1>children:</font>
+     Louise Vining   b. age 8 y. as of 1930 census   Kansas
+     Alberta Lou Vining   b. 12 June 1928   Aurora, Nebraska   -   m. Ronald Harding   -   d. 18 November 2015   Lone Tree, Iowa   -   bur. Lone Tree Cemetery   Lone Tree, Iowa
+     Louis D. Vining Jr.   b. age 7 y. as of 1940 census   Illinois
+  
+  <a href="Lsources/LouisD01doc.htm">documentation and notes</a>

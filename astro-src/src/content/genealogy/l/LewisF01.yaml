@@ -1,0 +1,55 @@
+id: LewisF01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Lewis Frederick
+  birth:
+    date: 7 March 1918
+    place: "Saint Marys, Auglaize County, Ohio"
+  death:
+    date: 14 May 1994
+    place: "Saint Marys, Auglaize County, Ohio"
+marriages:
+  - spouse:
+      givenName: Darlene
+      surname: Cross
+childrenGroups:
+  - children:
+      - name: Logan Merrill Vining
+        birth:
+          date: "1947"
+        death:
+          date: "2009"
+      - name: Janet Vining
+        marriages:
+          - date: "[...] Baker"
+      - name: Sharon Vining
+      - name: Goldie Vining
+        marriages:
+          - date: Robert Eshleman
+      - name: Tammy Vining
+        marriages:
+          - date: Dave Kanorr
+docsUrl: Lsources/LewisF01doc.htm
+raw: |-
+  <a name="LewisF01"></a><font size=+2>Lewis Frederick Vining</font>
+     (son of [?])
+     b. 7 March 1918   Saint Marys, Auglaize County, Ohio
+     m. Darlene Cross
+              (dau. of Clarence Cross and Lesta Siebert)
+              b. 14 September 1931
+              d. 28 December 2008
+                    bur. Resthaven Memorial Gardens   Saint Marys, Ohio
+     d. 14 May 1994   Saint Marys, Auglaize County, Ohio
+           bur. Resthaven Memorial Gardens   Saint Marys, Ohio
+  
+  <font size=+1>children:</font>
+     Logan Merrill Vining   b. 1947   -   d. 2009
+     Janet Vining   m. [...] Baker
+     Sharon Vining
+     Goldie Vining   m. Robert Eshleman
+     Tammy Vining   m. Dave Kanorr
+  
+  <a href="Lsources/LewisF01doc.htm">documentation and notes</a>

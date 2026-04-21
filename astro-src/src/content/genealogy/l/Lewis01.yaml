@@ -1,0 +1,88 @@
+id: Lewis01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Robert02
+parentLetter: R
+parentDesc: Robert Vining and Polly Waters
+head:
+  givenName: Lewis
+  birth:
+    date: 21 September 1831
+    place: New York
+  death:
+    date: 24 August 1877
+    place: "Woodbine, Iowa"
+marriages:
+  - date: 20 November 1858
+    spouse:
+      givenName: Adaline Orinda Winter (she m. (2) Stephen M.
+      surname: Woodworth)
+      birth:
+        date: 17 April 1844
+        place: New York
+      death:
+        date: 4 August 1921
+        place: Iowa
+childrenGroups:
+  - children:
+      - name: Everett Robert Vining
+        entryId: EverettR01
+        entryLetter: E
+        birth:
+          date: 11 December 1859
+          place: Iowa
+        marriages:
+          - date: "1888"
+            spouse: Lillie Coulter
+        death:
+          date: 14 March 1909
+          place: "Henderson, Nebraska"
+        burial:
+          place: "Woodbine, Iowa"
+      - name: "Harriet E. &#8220;Hattie&#8221; Vining"
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Iowa
+        marriages:
+          - date: before 1880 census
+            spouse: P. P. Clayton
+        death:
+          date: 6 May 1890
+      - name: Irving N. Vining
+        entryId: IrvingN01
+        entryLetter: I
+        birth:
+          date: November 1862
+          place: Iowa
+        marriages:
+          - number: 1
+            date: 5 y. as of 1900 census
+            spouse: "Delia [...]"
+          - number: 2
+            date: 1 y. as of 1910 census
+            spouse: Minnie M. Pelton
+      - name: Lydia Vining
+        birth:
+          date: age 5 y. as of 1870 census
+          place: Iowa
+        marriages:
+          - date: E. T. Clayton
+docsUrl: Lsources/Lewis01doc.htm
+raw: |-
+  <a name="Lewis01"></a><font size=+2>Lewis Vining</font>
+     (son of <a href="Rfamilies.htm#Robert02">Robert Vining and Polly Waters</a>)
+     b. 21 September 1831   New York
+     m. 20 November 1858
+           Adaline Orinda Winter (she m. (2) Stephen M. Woodworth)
+                 b. 17 April 1844   New York
+                 d. 4 August 1921   Iowa
+     d. 24 August 1877   Woodbine, Iowa
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EverettR01">Everett Robert Vining</a>   b. 11 December 1859   Iowa   -   m. 1888   Lillie Coulter   -   d. 14 March 1909   Henderson, Nebraska   -   bur. Woodbine, Iowa
+     Harriet E. &#8220;Hattie&#8221; Vining   b. age 9 y. as of 1870 census   Iowa   -   m. before 1880 census   P. P. Clayton   -   d. 6 May 1890
+     <a href="Ifamilies.htm#IrvingN01">Irving N. Vining</a>   b. November 1862   Iowa   -   m. (1) 5 y. as of 1900 census   Delia [...];   (2) 1 y. as of 1910 census   Minnie M. Pelton
+     Lydia Vining   b. age 5 y. as of 1870 census   Iowa   -   m. E. T. Clayton
+  
+  <a href="Lsources/Lewis01doc.htm">documentation and notes</a>

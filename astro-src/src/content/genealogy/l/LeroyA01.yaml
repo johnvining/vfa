@@ -1,0 +1,66 @@
+id: LeroyA01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: HarryL02
+parentLetter: H
+parentDesc: Harry Leroy Vining and Veta L. Turcott
+head:
+  givenName: Leroy Albert
+  birth:
+    date: 14 July 1902
+    place: "Minneapolis, Minnesota"
+  death:
+    date: 5 October 1937
+    place: "Napa County, California"
+marriages:
+  - number: 1
+    date: Clara Catherine Allard
+  - number: 2
+    date: Edna Mae Allard
+childrenGroups:
+  - spouseRef: Edna Mae Allard
+    children:
+      - name: "[unnamed?] Vining"
+        birth:
+          date: "1932"
+          place: "Plymouth, Minnesota"
+        death:
+          date: 21 October 1932
+          place: "Plymouth, Minnesota"
+      - name: "Harry Leroy &#8220;Tex&#8221; Vining"
+        birth:
+          date: 18 December 1933
+          place: "Colusa, California"
+        marriages:
+          - number: 1
+            date: "[&#8230;]"
+          - number: 2
+            date: "[&#8230;]"
+      - name: Robert Francis Vining
+        birth:
+          date: 26 December 1935
+          place: "Colusa, California"
+        marriages:
+          - date: Colleen F. Hall
+        death:
+          date: 19 July 2004
+          place: "Los Lunas, New Mexico"
+raw: |-
+  <a name="LeroyA01"></a><font size=+2>Leroy Albert Vining</font>
+     (son of <a href="Hfamilies.htm#HarryL02">Harry Leroy Vining and Veta L. Turcott</a>)
+     b. 14 July 1902   Minneapolis, Minnesota
+     m. (1) Clara Catherine Allard
+                    b. 1906   Lakeville, Minnesota
+                    d. 29 July 1931   Eureka, Minnesota
+           (2) Edna Mae Allard
+                    b. 2 February 1910   Roosevelt, Minnesota
+                    d. 9 February 1992   Forest Lake, Minnesota
+     d. 5 October 1937   Napa County, California
+  
+  <font size=+1>child by Clara Catherine Allard:</font>
+     Veta Jannette Vining   b. 22 March 1930   Lakeville, Minnesota
+  <font size=+1>children by Edna Mae Allard:</font>
+     [unnamed?] Vining   b. 1932   Plymouth, Minnesota   -   d. 21 October 1932   Plymouth, Minnesota
+     Harry Leroy &#8220;Tex&#8221; Vining   b. 18 December 1933   Colusa, California   -  m. (1) [&#8230;];   (2) [&#8230;]   -   24 May 2010   Daleville, Alabama
+     Robert Francis Vining   b. 26 December 1935   Colusa, California   -   m. Colleen F. Hall   -   d. 19 July 2004   Los Lunas, New Mexico

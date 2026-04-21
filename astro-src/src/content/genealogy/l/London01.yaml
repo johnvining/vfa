@@ -1,0 +1,72 @@
+id: London01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: London
+  birth:
+    date: age 45 y. as of 1870 census
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: Millie
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Elizabeth Vining
+        birth:
+          date: age 16 y. as of 1870 census
+          place: Georgia
+      - name: Margaret Vining
+        birth:
+          date: age 15 y. as of 1870 census
+          place: Georgia
+      - name: Henry Vining
+        birth:
+          date: age 15 y. as of 1870 census
+          place: Texas
+      - name: Ella Vining
+        birth:
+          date: age 12 y. as of 1870 census
+          place: Texas
+      - name: Adeline Vining
+        birth:
+          date: age 12 y. as of 1870 census
+          place: Texas
+      - name: Ann Vining
+        birth:
+          date: age 10 y. as of 1870 census
+          place: Texas
+      - name: Susan Vining
+        birth:
+          date: age 10 y. as of 1870 census
+          place: Texas
+      - name: Andrew Vining
+        entryId: Andrew01
+        entryLetter: A
+        birth:
+          date: "[August 1865"
+          place: "Texas ?]"
+        marriages:
+          - date: "[13 y. as of 1900 census"
+            spouse: "Ellen [&#8230;] ?]"
+docsUrl: Lsources/London01doc.htm
+raw: |-
+  <a name="London01"></a><font size=+2>London Vining</font>
+     (son of [?])
+     b. age 45 y. as of 1870 census   Alabama
+     m. Millie [...]
+              b. age 45 y. as of 1870 census   Georgia
+  
+  <font size=+1>children:</font>
+     Elizabeth Vining   b. age 16 y. as of 1870 census   Georgia
+     Margaret Vining   b. age 15 y. as of 1870 census   Georgia
+     Henry Vining   b. age 15 y. as of 1870 census   Texas
+     Ella Vining   b. age 12 y. as of 1870 census   Texas
+     Adeline Vining   b. age 12 y. as of 1870 census   Texas
+     Ann Vining   b. age 10 y. as of 1870 census   Texas
+     Susan Vining   b. age 10 y. as of 1870 census   Texas
+     <a href="Afamilies.htm#Andrew01">Andrew Vining</a>   b. [August 1865   Texas ?]   -   m. [13 y. as of 1900 census   Ellen [&#8230;] ?] 
+  
+  <a href="Lsources/London01doc.htm">documentation and notes</a>

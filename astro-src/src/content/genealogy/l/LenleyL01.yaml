@@ -1,0 +1,88 @@
+id: LenleyL01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: ErnestL01
+parentLetter: E
+parentDesc: Ernest L. Vining and Hattie M. Schoessow
+head:
+  givenName: Lenley Loren
+  birth:
+    date: 29 May 1903
+    place: "[Chaffee or Walburg Township?], North Dakota"
+  death:
+    date: 7 May 1993
+    place: "Walburg Township, North Dakota"
+marriages:
+  - date: 28 December 1926
+    place: "Moorhead, Minnesota"
+    spouse:
+      givenName: Marion
+      surname: O'Bleness
+      birth:
+        date: 3 November 1900
+        place: "Amenia, North Dakota"
+      death:
+        date: 19 February 1983
+        place: North Dakota
+      burial:
+        place: "Watson Cemetery   Leonard, North Dakota"
+childrenGroups:
+  - children:
+      - name: William Myron L. Vining
+        entryId: WilliamML01
+        entryLetter: W
+        birth:
+          date: 2 September 1927
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: 24 May 1952
+            spouse: "Fargo, North Dakota   Naomi Albina Greapp"
+      - name: John Keith Vining
+        entryId: JohnK01
+        entryLetter: J
+        birth:
+          date: 30 August 1928
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: 11 May 1954
+            spouse: "Edmonton, Canada   Eva Hromick"
+        death:
+          date: 13 December 2013
+          place: "Leonard, North Dakota"
+        burial:
+          place: "Watson Cemetery   Leonard, North Dakota"
+      - name: Clifford Ray Vining
+        entryId: CliffordR01
+        entryLetter: C
+        birth:
+          date: 3 August 1929
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: 21 June 1957
+            spouse: "Durbin, North Dakota   Dorleen Schimming"
+        death:
+          date: 20 April 2016
+          place: "Fargo, North Dakota"
+        burial:
+          place: Godshen Moravian Cemetery
+docsUrl: Lsources/LenleyL01doc.htm
+raw: |-
+  <a name="LenleyL01"></a><font size=+2>Lenley Loren Vining</font>
+     (son of <a href="Efamilies.htm#ErnestL01">Ernest L. Vining and Hattie M. Schoessow</a>)
+     b. 29 May 1903   [Chaffee or Walburg Township?], North Dakota
+     m. 28 December 1926   Moorhead, Minnesota
+           Marion O'Bleness
+                 (dau. of John Erwin O'Bleness and Rose Ann Keyes)
+                 b. 3 November 1900   Amenia, North Dakota
+                 d. 19 February 1983   North Dakota
+                       bur. Watson Cemetery   Leonard, North Dakota
+     d. 7 May 1993   Walburg Township, North Dakota
+           bur. Watson Cemetery   Leonard, North Dakota
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamML01">William Myron L. Vining</a>   b. 2 September 1927   Fargo, North Dakota   -   m. 24 May 1952   Fargo, North Dakota   Naomi Albina Greapp
+     <a href="Jfamilies.htm#JohnK01">John Keith Vining</a>   b. 30 August 1928   Fargo, North Dakota   -   m. 11 May 1954   Edmonton, Canada   Eva Hromick   -   d. 13 December 2013   Leonard, North Dakota   -   bur. Watson Cemetery   Leonard, North Dakota
+     <a href="Cfamilies.htm#CliffordR01">Clifford Ray Vining</a>   b. 3 August 1929   Fargo, North Dakota   -   m. 21 June 1957   Durbin, North Dakota   Dorleen Schimming   -   d. 20 April 2016   Fargo, North Dakota   -   bur. Godshen Moravian Cemetery
+  
+  <a href="Lsources/LenleyL01doc.htm">documentation and notes</a>

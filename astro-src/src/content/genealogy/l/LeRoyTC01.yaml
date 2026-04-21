@@ -1,0 +1,76 @@
+id: LeRoyTC01
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Edmond01
+parentLetter: E
+parentDesc: Edmond Vining and Mary M. Cathcart
+head:
+  givenName: LeRoy Tilden C.
+  birth:
+    date: 28 February 1903
+    place: "Baltic, South Dakota"
+  death:
+    date: 26 July 1992
+    place: "Belmont, Washington"
+marriages:
+  - date: "1927"
+    spouse:
+      givenName: Flora E.
+      surname: Argo
+      death:
+        date: before 4 December 2009
+childrenGroups:
+  - children:
+      - name: Ruth A. Vining
+        birth:
+          date: 21 November 1928
+        marriages:
+          - date: Lamar J. Campbell
+        death:
+          date: before 4 December 2009
+      - name: Alice M. Vining
+        birth:
+          date: 9 August 1930
+        marriages:
+          - date: Harland E. Merrill
+        death:
+          date: before 4 December 2009
+      - name: Donald L. Vining
+        entryId: DonaldL01
+        entryLetter: D
+        birth:
+          date: 1 September 1933
+          place: "Bemidji, Minnesota"
+        marriages:
+          - number: 1
+            date: "Elizabeth Kraft,"
+            spouse: divorced
+          - number: 2
+            date: 15 October 1975
+            spouse: Blanche Delvo
+        death:
+          date: 4 December 2009
+          place: "Green Valley, Arizona"
+      - name: Ronald J. Vining
+        birth:
+          date: 11 July 1937
+        death:
+          date: "1946"
+docsUrl: Lsources/LeRoyTC01doc.htm
+raw: |-
+  <a name="LeRoyTC01"></a><font size=+2>LeRoy Tilden C. Vining</font>
+     (son of <a href="Efamilies.htm#Edmond01">Edmond Vining and Mary M. Cathcart</a>)
+     b. 28 February 1903   Baltic, South Dakota
+     m. 1927
+           Flora E. Argo
+                 d. before 4 December 2009
+     d. 26 July 1992   Belmont, Washington
+  
+  <font size=+1>children:</font>
+     Ruth A. Vining   b. 21 November 1928   -   m. Lamar J. Campbell   -   d. before 4 December 2009
+     Alice M. Vining   b. 9 August 1930   -   m. Harland E. Merrill   -   d. before 4 December 2009
+     <a href="Dfamilies.htm#DonaldL01">Donald L. Vining</a>   b. 1 September 1933   Bemidji, Minnesota   -   m. (1) Elizabeth Kraft,   divorced;   (2) 15 October 1975   Blanche Delvo   -   d. 4 December 2009   Green Valley, Arizona
+     Ronald J. Vining   b. 11 July 1937   -   d. 1946
+  
+  <a href="Lsources/LeRoyTC01doc.htm">documentation and notes</a>
