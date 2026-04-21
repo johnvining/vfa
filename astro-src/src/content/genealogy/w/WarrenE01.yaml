@@ -1,0 +1,51 @@
+id: WarrenE01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WarrenG01
+parentDesc: Warren G. Vining and Theresa Ferro
+head:
+  givenName: Warren E.
+  birth:
+    date: age 67 y. at death
+    place: Kingston
+  death:
+    date: 21 February 2014
+marriages:
+  - date: 44 y. at death
+    spouse:
+      givenName: Teresa
+      surname: Godfrey
+childrenGroups:
+  - children:
+      - name: Melissa Vining
+        marriages:
+          - date: Joseph Sweeney
+      - name: Todd Vining
+        marriages:
+          - date: "Narkis [...]"
+      - name: Kristy Vining
+        marriages:
+          - number: 1
+            date: "[...] Mitchell"
+      - name: Teresa Vining
+        marriages:
+          - date: Jason Carlucci
+      - name: Heather Vining
+docsUrl: Wsources/WarrenE01doc.htm
+raw: |-
+  <a name="WarrenE01"></a><font size=+2>Warren E. Vining</font>
+     (son of <a href="#WarrenG01">Warren G. Vining and Theresa Ferro</a>)
+     b. age 67 y. at death   Kingston
+     m. 44 y. at death
+           Teresa Godfrey
+     d. 21 February 2014
+  
+  <font size=+1>children:</font>
+     Melissa Vining   m. Joseph Sweeney
+     Todd Vining   m. Narkis [...]
+     Kristy Vining   m. (1) [...] Mitchell
+     Teresa Vining   m. Jason Carlucci
+     Heather Vining
+  
+  <a href="Wsources/WarrenE01doc.htm">documentation and notes</a>

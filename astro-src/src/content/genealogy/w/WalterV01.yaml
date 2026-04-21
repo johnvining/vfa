@@ -1,0 +1,60 @@
+id: WalterV01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JepthaP01
+parentLetter: J
+parentDesc: Jeptha Peter Vining and Etta F. Hitchcock
+head:
+  givenName: Walter V.
+  birth:
+    date: July 1893
+    place: New York
+  death:
+    date: "1964"
+marriages:
+  - spouse:
+      givenName: Grace B.
+      surname: Cheeseman
+childrenGroups:
+  - children:
+      - name: Walter Willard Vining
+        birth:
+          date: 1 June 1917
+          place: "Windham, New York"
+        marriages:
+          - date: Theresa Esposito
+        death:
+          date: 31 October 1969
+          place: "Albany, New York"
+      - name: Paul Samuel Vining
+        birth:
+          date: 25 December 1920
+        death:
+          date: 9 December 1935
+      - name: Alice Vining
+        birth:
+          date: 3 November 1922
+        marriages:
+          - number: 1
+            date: William J. Bulmer
+          - number: 2
+            date: Arthur North
+docsUrl: Wsources/WalterV01doc.htm
+raw: |-
+  <a name="WalterV01"></a><font size=+2>Walter V. Vining</font>
+     (son of <a href="Jfamilies.htm#JepthaP01">Jeptha Peter Vining and Etta F. Hitchcock</a>)
+     b. July 1893   New York
+     m. Grace B. Cheeseman
+              b. 1888   New York
+              d. 1927
+                    bur. Windham Cemetery   Windham, New York
+     d. 1964
+           bur. Windham Cemetery   Windham, New York
+  
+  <font size=+1>children:</font>
+     Walter Willard Vining   b. 1 June 1917   Windham, New York   -   m. Theresa Esposito   -   d. 31 October 1969   Albany, New York   -   [bur. Windham Cemetery   Windham, New York?]
+     Paul Samuel Vining   b. 25 December 1920   -   d. 9 December 1935
+     Alice Vining   b. 3 November 1922   -   m. (1) William J. Bulmer;   (2) Arthur North
+  
+  <a href="Wsources/WalterV01doc.htm">documentation and notes</a>

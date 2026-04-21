@@ -1,0 +1,40 @@
+id: WilburC01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnB02
+parentLetter: J
+parentDesc: John Blake Vining and Martha A. Dwinells
+head:
+  givenName: Wilbur C.
+  birth:
+    date: May 1874
+    place: "Rowley, Massachusetts"
+  death:
+    date: 5 July 1945
+    place: "Plum Island, Massachusetts"
+marriages:
+  - date: 0 y. as of 1900 census
+    spouse:
+      givenName: Carrie
+      surname: "C.[...]"
+      birth:
+        date: February 1869
+        place: North Carolina
+      death:
+        date: between 1930 and 1940 censuses
+docsUrl: Wsources/WilburC01doc.htm
+raw: |-
+  <a name="WilburC01"></a><font size=+2>Wilbur C. Vining</font>
+     (son of <a href="Jfamilies.htm#JohnB02">John Blake Vining and Martha A. Dwinells</a>)
+     b. May 1874   Rowley, Massachusetts
+     m. 0 y. as of 1900 census
+           Carrie C.[...]
+                 b. February 1869   North Carolina
+                 d. between 1930 and 1940 censuses
+     d. 5 July 1945   Plum Island, Massachusetts
+  
+  <font size=+1>child:</font>
+     <a href="Jfamilies.htm#JohnC04">John Carver Vining</a>   b. 1901   Massachusetts   -   m. Kathryn V[&#8230;]
+  
+  <a href="Wsources/WilburC01doc.htm">documentation and notes</a>

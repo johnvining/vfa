@@ -1,0 +1,53 @@
+id: WillisD01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: BryantO01
+parentLetter: B
+parentDesc: Bryant Oliver Vining and Margaret Francetta Hinshaw
+head:
+  givenName: Willis Dean
+  birth:
+    date: 4 May 1926
+    place: "Wilsey, Kansas"
+  death:
+    date: 6 February 2009
+marriages:
+  - number: 1
+    date: Lois Murphy
+  - number: 2
+    date: Ruthann H. VanDeVeer
+childrenGroups:
+  - children:
+      - name: Deborah Vining
+        birth:
+          date: 26 February 1954
+        marriages:
+          - date: "[...] Edwards"
+      - name: Leslie Dean Vining
+        entryId: LeslieD01
+        entryLetter: L
+        birth:
+          date: 19 January 1957
+          place: "Topeka, Shawnee County, Kansas"
+        marriages:
+          - date: Teresa Lynn Stubbs
+        death:
+          date: 6 February 2014
+          place: "Topeka, Shawnee County, Kansas"
+docsUrl: Wsources/WillisD01doc.htm
+raw: |-
+  <a name="WillisD01"></a><font size=+2>Willis Dean Vining</font>
+     (son of <a href="Bfamilies.htm#BryantO01">Bryant Oliver Vining and Margaret Francetta Hinshaw</a>)
+     b. 4 May 1926   Wilsey, Kansas
+     m. (1) Lois Murphy
+           (2) Ruthann H. VanDeVeer
+                    b. 15 February 1936
+     d. 6 February 2009
+           bur. Woodlawn Cemetery   Pomona, Kansas
+  
+  <font size=+1>children [by Lois Murphy?]:</font>
+     Deborah Vining   b. 26 February 1954   -   m. [...] Edwards 
+     <a href="Lfamilies.htm#LeslieD01">Leslie Dean Vining</a>   b. 19 January 1957   Topeka, Shawnee County, Kansas   -   m. Teresa Lynn Stubbs   -   d. 6 February 2014   Topeka, Shawnee County, Kansas
+  
+  <a href="Wsources/WillisD01doc.htm">documentation and notes</a>

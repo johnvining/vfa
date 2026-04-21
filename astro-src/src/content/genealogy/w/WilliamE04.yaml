@@ -1,0 +1,65 @@
+id: WilliamE04
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WalterT01
+parentDesc: Walter Todd Vining and Mary Jane Morgan
+head:
+  givenName: William E.
+  birth:
+    date: age 7 y. as of 1880 census
+    place: Illinois
+marriages:
+  - date: 21 January 1896
+    spouse:
+      givenName: Glennie
+      surname: Albright
+      birth:
+        date: January 1875
+        place: Illinois
+childrenGroups:
+  - children:
+      - name: Howard Vining
+        entryId: Howard02
+        entryLetter: H
+        birth:
+          date: December 1896
+          place: Illinois
+        marriages:
+          - number: 1
+            date: Rose Gross
+          - number: 2
+            date: Hulda Anderson
+        death:
+          date: 6 January 1978
+          place: Illinois
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Illinois"
+      - name: Dewey T. Vining
+        birth:
+          date: May 1898
+          place: Illinois
+      - name: Walter V. Vining
+        birth:
+          date: age 10 m. as of 1910 census
+          place: Illinois
+      - name: Charlotte M. Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Illinois
+docsUrl: Wsources/WilliamE04doc.htm
+raw: |-
+  <a name="WilliamE04"></a><font size=+2>William E. Vining</font>
+     (son of <a href="#WalterT01">Walter Todd Vining and Mary Jane Morgan</a>)
+     b. age 7 y. as of 1880 census   Illinois
+     m. 21 January 1896
+           Glennie Albright
+                 b. January 1875   Illinois
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#Howard02">Howard Vining</a>   b. December 1896   Illinois   -   m. (1) Rose Gross;   (2) Hulda Anderson   -   d. 6 January 1978   Illinois   -   bur. Limestone Cemetery   West Kankakee, Illinois
+     Dewey T. Vining   b. May 1898   Illinois
+     Walter V. Vining   b. age 10 m. as of 1910 census   Illinois
+     Charlotte M. Vining   b. age 5 y. as of 1920 census   Illinois
+  
+  <a href="Wsources/WilliamE04doc.htm">documentation and notes</a>

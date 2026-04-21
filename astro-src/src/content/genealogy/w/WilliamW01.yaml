@@ -1,0 +1,71 @@
+id: WilliamW01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: StephenW02
+parentLetter: S
+parentDesc: Stephen W. Vining and Mary Amelia Pringle
+head:
+  givenName: William Warline
+  birth:
+    date: "1867"
+  death:
+    date: "1944"
+    place: "Central City, Iowa"
+marriages:
+  - number: 1
+    date: 24 December 1889
+    place: "Central City, Iowa"
+    spouse:
+      givenName: Mame
+      surname: Plummer
+      birth:
+        date: "1862"
+        place: "Central City, Iowa"
+  - number: 2
+    date: 10 November 1903
+    place: "Elkhorn Township, Iowa"
+    spouse:
+      givenName: Elizabeth H.
+      surname: Bainbridge
+      birth:
+        date: "1869"
+        place: "Shellsburg, Wisconsin"
+childrenGroups:
+  - spouseRef: Elizabeth Bainbridge
+    children:
+      - name: Wilda Vining
+        marriages:
+          - date: Fred Wingert
+      - name: Frank Arnold Vining
+        entryId: FrankA02
+        entryLetter: F
+        birth:
+          date: "1912"
+          place: Iowa
+        marriages:
+          - date: 21 August 1929
+            spouse: "Wynola M. &#8220;Hoby&#8221; Clark"
+        death:
+          date: 31 August 1977
+        burial:
+          place: "Kingsley Cemetery   Kingsley, Iowa"
+raw: |-
+  <a name="WilliamW01"></a><font size=+2>William Warline Vining</font>
+     (son of <a href="Sfamilies.htm#StephenW02">Stephen W. Vining and Mary Amelia Pringle</a>)
+     b. 1867
+     m. (1) 24 December 1889   Central City, Iowa
+                 Mame Plummer
+                       (dau. of L. B. Plummer and Mary Davis)
+                       b. 1862   Central City, Iowa
+           (2) 10 November 1903   Elkhorn Township, Iowa
+                 Elizabeth H. Bainbridge
+                       (dau. of George Bainbridge and Sarah Lowes)
+                       b. 1869   Shellsburg, Wisconsin
+     d. 1944   Central City, Iowa
+  
+  <font size=+1>child by Mame Plummer:</font>
+     <a href="Vfamilies.htm#VirgilM01">Virgil M. Vining</a>   b. 1896   Iowa   -   m. Randy Mansager   -   d. Jewell, Iowa
+  <font size=+1>children by Elizabeth Bainbridge:</font>
+     Wilda Vining   m. Fred Wingert
+     <a href="Ffamilies.htm#FrankA02">Frank Arnold Vining</a>   b. 1912   Iowa   -   m. 21 August 1929   Wynola M. &#8220;Hoby&#8221; Clark   -   d. 31 August 1977   -   bur. Kingsley Cemetery   Kingsley, Iowa

@@ -1,0 +1,87 @@
+id: WarrenD01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: AsaphD01
+parentLetter: A
+parentDesc: Asaph Davis Vining and Mary Anne Studley
+head:
+  givenName: Warren Davis
+  birth:
+    date: 13 December 1884
+    place: "Hanover, Massachusetts"
+  death:
+    date: January 1968
+    place: "(last residence: Marshfield, Massachusetts)"
+marriages:
+  - date: 10 November 1915
+    place: "Portland, Maine"
+    spouse:
+      givenName: Ethel Linwood
+      surname: Joseph
+      birth:
+        date: 15 October 1885
+        place: "[South Scituate or Norwell?], Massachusetts"
+childrenGroups:
+  - children:
+      - name: Thelma Alexina Vining
+        birth:
+          date: 2 March 1916
+        marriages:
+          - date: 10 April 1939
+            spouse: Leo Joseph Beland
+        death:
+          date: 26 June 2003
+          place: "(last residence: Scituate, Massachusetts)"
+      - name: Eleanor Dorothy Vining
+        birth:
+          date: 5 April 1920
+        marriages:
+          - date: 5 June 1950
+            spouse: Paul Francis Young
+      - name: Kenneth Warren Vining
+        birth:
+          date: 28 May 1922
+        death:
+          date: 10 February 1999
+          place: "(last residence: Scituate, Massachusetts)"
+      - name: Joseph Perry Vining
+        entryId: JosephP01
+        entryLetter: J
+        birth:
+          date: 20 May 1924
+        marriages:
+          - date: Elizabeth Marie Fleming
+        death:
+          date: 17 January 2002
+          place: "(last residence: Marshfield, Massachusetts)"
+      - name: William David Vining
+        birth:
+          date: 25 July 1928
+          place: "Whitman, Massachusetts"
+        marriages:
+          - date: 28 July 1953
+            place: "Portland, Maine"
+            spouse: "[1?] Clara Cushman Manning;   [2?] G. Diana [&#8230;]"
+        death:
+          date: 2 November 1994
+          place: "Ocala, Florida"
+docsUrl: Wsources/WarrenD01doc.htm
+raw: |-
+  <a name="WarrenD01"></a><font size=+2>Warren Davis Vining</font>
+     (son of <a href="Afamilies.htm#AsaphD01">Asaph Davis Vining and Mary Anne Studley</a>)
+     b. 13 December 1884   Hanover, Massachusetts
+     m. 10 November 1915   Portland, Maine
+           Ethel Linwood Joseph
+                 (dau. of Emanuel Perry Joseph and Nettie May Perry)
+                 b. 15 October 1885   [South Scituate or Norwell?], Massachusetts
+     d. January 1968   (last residence: Marshfield, Massachusetts)
+  
+  <font size=+1>children:</font>
+     Thelma Alexina Vining   b. 2 March 1916   -   m. 10 April 1939   Leo Joseph Beland   -   d. 26 June 2003   (last residence: Scituate, Massachusetts)
+     Eleanor Dorothy Vining   b. 5 April 1920   -   m. 5 June 1950   Paul Francis Young
+     Kenneth Warren Vining   b. 28 May 1922   -   d. 10 February 1999   (last residence: Scituate, Massachusetts)
+     <a href="Jfamilies.htm#JosephP01">Joseph Perry Vining</a>   b. 20 May 1924   -   m. Elizabeth Marie Fleming   -   d. 17 January 2002   (last residence: Marshfield, Massachusetts)
+     William David Vining   b. 25 July 1928   Whitman, Massachusetts   -   m. 28 July 1953   Portland, Maine   [1?] Clara Cushman Manning;   [2?] G. Diana [&#8230;]   -   d. 2 November 1994   Ocala, Florida
+  
+  <a href="Wsources/WarrenD01doc.htm">documentation and notes</a>

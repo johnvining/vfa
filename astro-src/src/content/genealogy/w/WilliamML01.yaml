@@ -1,0 +1,67 @@
+id: WilliamML01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LenleyL01
+parentLetter: L
+parentDesc: Lenley Loren Vining and Marion O'Bleness
+head:
+  givenName: William Myron L.
+  birth:
+    date: 2 September 1927
+    place: "Fargo, North Dakota"
+marriages:
+  - date: 24 May 1952
+    place: "Fargo, North Dakota"
+    spouse:
+      givenName: Naomi Albina
+      surname: Graepp
+      birth:
+        date: 6 October 1928
+        place: "Fargo, North Dakota"
+      death:
+        date: 2 December 2017
+        place: "Fargo, North Dakota"
+childrenGroups:
+  - children:
+      - name: Stephen D. Vining
+        birth:
+          date: 5 March 1954
+          place: "Ararillo, Texas"
+        marriages:
+          - date: "Sandra [&#8230;]"
+      - name: Mark L. Vining
+        birth:
+          date: 29 June 1955
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: Janel Messmer
+      - name: Timothy W. Vining
+        birth:
+          date: 27 September 1956
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: "Sandra [&#8230;]"
+      - name: Anne Louise Vining
+        birth:
+          date: 22 August 1962
+          place: "Fargo, North Dakota"
+        marriages:
+          - date: David Barlow
+docsUrl: Wsources/WilliamML01doc.htm
+raw: |-
+  <a name="WilliamML01"></a><font size=+2>William Myron L. Vining</font>
+     (son of <a href="Lfamilies.htm#LenleyL01">Lenley Loren Vining and Marion O'Bleness</a>)
+     b. 2 September 1927   Fargo, North Dakota
+     m. 24 May 1952   Fargo, North Dakota
+           Naomi Albina Graepp
+                 b. 6 October 1928   Fargo, North Dakota
+                 d. 2 December 2017   Fargo, North Dakota
+  
+  <font size=+1>children:</font>
+     Stephen D. Vining   b. 5 March 1954   Ararillo, Texas   -   m. Sandra [&#8230;]
+     Mark L. Vining   b. 29 June 1955   Fargo, North Dakota   -   m. Janel Messmer
+     Timothy W. Vining   b. 27 September 1956   Fargo, North Dakota   -   m. Sandra [&#8230;]
+     Anne Louise Vining   b. 22 August 1962   Fargo, North Dakota   -   m. David Barlow
+  
+  <a href="Wsources/WilliamML01doc.htm">documentation and notes</a>

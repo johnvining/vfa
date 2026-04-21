@@ -1,0 +1,38 @@
+id: WilliamC01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: CraigE02
+parentLetter: C
+parentDesc: Craig Eugene Vining
+head:
+  givenName: William Cory
+  birth:
+    date: 29 May 1991
+    place: "Sumter County, South Carolina"
+marriages:
+  - spouse:
+      givenName: Jamie Lee
+      surname: Holladay
+childrenGroups:
+  - children:
+      - name: Kendal Denise Vining
+        birth:
+          date: 29 June 2012
+      - name: Marley Jade Vining
+        birth:
+          date: 4 February 2014
+      - name: William Alexander Vining
+        birth:
+          date: 19 September 2019
+raw: |-
+  <a name="WilliamC01"></a><font size=+2>William Cory Vining</font>
+     (son of <a href="Cfamilies.htm#CraigE02">Craig Eugene Vining</a>)
+     b. 29 May 1991   Sumter County, South Carolina
+     m. Jamie Lee Holladay
+              b. 21 December 1990
+  
+  <font size=+1>children:</font>
+     Kendal Denise Vining   b. 29 June 2012
+     Marley Jade Vining   b. 4 February 2014
+     William Alexander Vining   b. 19 September 2019

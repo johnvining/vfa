@@ -1,0 +1,37 @@
+id: WilliamMJr01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamM02
+parentDesc: William Macon Vining and Eddie B. Roark
+head:
+  givenName: William Macon Jr.
+  birth:
+    date: 19 December 1947
+    place: "Jacksonville, Cherokee County, Texas"
+marriages:
+  - date: 27 July 1985
+    spouse:
+      givenName: Tonya Jo
+      surname: Kallsen
+      birth:
+        date: 12 November 1956
+childrenGroups:
+  - children:
+      - name: William Macon Vining III
+        birth:
+          date: 13 January 1991
+      - name: Theodore John Peter Vining
+        birth:
+          date: 8 June 1994
+raw: |-
+  <a name="WilliamMJr01"></a><font size=+2>William Macon Vining Jr.</font>
+     (son of <a href="#WilliamM02">William Macon Vining and Eddie B. Roark</a>)
+     b. 19 December 1947   Jacksonville, Cherokee County, Texas
+     m. 27 July 1985
+           Tonya Jo Kallsen
+                 b. 12 November 1956
+  
+  <font size=+1>children:</font>
+     William Macon Vining III   b. 13 January 1991
+     Theodore John Peter Vining   b. 8 June 1994

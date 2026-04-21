@@ -1,0 +1,101 @@
+id: WarrinerK01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Leman01
+parentLetter: L
+parentDesc: Leman Vining and Elizabeth B. Wheeler
+head:
+  givenName: Warriner King
+  birth:
+    date: 9 July 1848
+    place: "West Hawley, Massachusetts"
+  death:
+    date: 24 September 1913
+    place: "Arlington, Vermont"
+marriages:
+  - number: 1
+    date: 21 September 1868
+    spouse:
+      givenName: Emily Jane
+      surname: Harwood
+      birth:
+        date: "1846"
+      death:
+        date: "1891"
+      burial:
+        place: "Bozrah Cemetery   Hawley, Massachusetts"
+  - number: 2
+    date: 9 September 1894
+    place: "Plainfield, Massachusetts"
+    spouse:
+      givenName: Rosie Belle
+      surname: Hubbard
+childrenGroups:
+  - spouseRef: Emily Jane Harwood
+    children:
+      - name: Clarence Vining
+      - name: Lillian May Vining
+      - name: Edith Estella Vining
+      - name: Flora Amelia Vining
+        marriages:
+          - date: "[...] Arms"
+      - name: Rose Belle Vining
+        marriages:
+          - date: "[...] Tabor"
+      - name: Florence Clara Vining
+        birth:
+          date: "1878"
+        marriages:
+          - date: 24 December 1898
+            place: "Pownal, Vermont"
+            spouse: Edward Barbour
+        death:
+          date: "1964"
+        burial:
+          place: "Bozrah Cemetery   Hawley, Massachusetts"
+      - name: Jessie Lee Vining
+        birth:
+          date: 5 August 1880
+          place: "Hawley, Massachusetts"
+        death:
+          date: "1954"
+        burial:
+          place: "Bozrah Cemetery   Hawley, Massachusetts"
+      - name: Cheri Emily Vining
+        marriages:
+          - date: "[...] Dadmun"
+      - name: Doris Elizabeth Vining
+        marriages:
+          - number: 1
+            date: "[...] Bliss"
+          - number: 2
+            date: "[...] Norris"
+docsUrl: Wsources/WarrinerK01doc.htm
+raw: |-
+  <a name="WarrinerK01"></a><font size=+2>Warriner King Vining</font>
+     (son of <a href="Lfamilies.htm#Leman01">Leman Vining and Elizabeth B. Wheeler</a>)
+     b. 9 July 1848   West Hawley, Massachusetts
+     m. (1) 21 September 1868
+                 Emily Jane Harwood
+                       b. 1846
+                       d. 1891
+                             bur. Bozrah Cemetery   Hawley, Massachusetts
+           (2) 9 September 1894   Plainfield, Massachusetts
+                 Rosie Belle Hubbard
+     d. 24 September 1913   Arlington, Vermont
+           bur. Bozrah Cemetery   Hawley, Massachusetts
+  
+  <font size=+1>children by Emily Jane Harwood:</font>
+     Clarence Vining
+     Lillian May Vining
+     Edith Estella Vining
+     Flora Amelia Vining   m. [...] Arms
+     Rose Belle Vining   m. [...] Tabor
+     Florence Clara Vining   b. 1878   -   m. 24 December 1898   Pownal, Vermont   Edward Barbour   -   d. 1964   -   bur. Bozrah Cemetery   Hawley, Massachusetts
+     Jessie Lee Vining   b. 5 August 1880   Hawley, Massachusetts   -   d. 1954   -   bur. Bozrah Cemetery   Hawley, Massachusetts
+     Cheri Emily Vining   m. [...] Dadmun
+  <font size=+1>child by Rosie Belle Hubbard:</font>
+     Doris Elizabeth Vining   m. (1) [...] Bliss;   (2) [...] Norris
+  
+  <a href="Wsources/WarrinerK01doc.htm">documentation and notes</a>

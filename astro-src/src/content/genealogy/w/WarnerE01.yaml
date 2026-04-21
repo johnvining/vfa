@@ -1,0 +1,81 @@
+id: WarnerE01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Samuel10
+parentLetter: S
+parentDesc: Samuel Vining and Lucy Cooley
+head:
+  givenName: Warner Emerson
+  birth:
+    date: 6 March 1847
+    place: "Morrow County, Ohio"
+  death:
+    date: 26 August 1920
+    place: "Ashley, Ohio"
+marriages:
+  - spouse:
+      givenName: Lydia Anna
+      surname: Bowsher
+childrenGroups:
+  - children:
+      - name: Bertie May Vining
+        birth:
+          date: 26 May 1874
+          place: Ohio
+        marriages:
+          - date: 5 November 1892
+            place: "Delaware, Ohio"
+            spouse: Chesley S. Clark
+        death:
+          date: 24 June 1958
+          place: "Delaware, Delaware County, Ohio"
+        burial:
+          place: "Ashley, Delaware County, Ohio"
+      - name: William Vining
+        birth:
+          date: May 1875
+          place: Ohio
+        death:
+          date: 6 March 1927
+          place: "Columbus, Franklin County, Ohio"
+      - name: Lola Belle Vining
+        birth:
+          date: 2 October 1877
+          place: Ohio
+        death:
+          date: 26 March 1910
+          place: "Niles, Trumbull County, Ohio"
+      - name: Guy Ernest Vining
+        birth:
+          date: 4 August 1885
+          place: "Delaware, Delaware County, Ohio"
+        death:
+          date: 4 January 1974
+          place: "Brown, Delaware County, Ohio"
+        burial:
+          place: "Ashley, Delaware County, Ohio"
+      - name: child Vining
+        death:
+          date: before 1900 census
+docsUrl: Wsources/WarnerE01doc.htm
+raw: |-
+  <a name="WarnerE01"></a><font size=+2>Warner Emerson Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel10">Samuel Vining and Lucy Cooley</a>)
+     b. 6 March 1847   Morrow County, Ohio
+     m. Lydia Anna Bowsher
+              (dau. of Israel Bowsher and Elizabeth Rupert)
+              b. 18 December 1850   Shawnee, Allen County, Ohio
+              d. 3 May 1917   Delaware County, Ohio
+                    bur. Ashley Union Cemetery   Ashley, Delaware County, Ohio
+     d. 26 August 1920   Ashley, Ohio
+           bur. Ashley Union Cemetery   Ashley, Delaware County, Ohio
+  
+  <font size=+1>children:</font>
+     Bertie May Vining   b. 26 May 1874   Ohio   -   m. 5 November 1892   Delaware, Ohio   Chesley S. Clark   -   d. 24 June 1958   Delaware, Delaware County, Ohio   -   bur. Ashley, Delaware County, Ohio
+     William Vining   b. May 1875   Ohio   -   d. 6 March 1927   Columbus, Franklin County, Ohio
+     Lola Belle Vining   b. 2 October 1877   Ohio   -   d. 26 March 1910   Niles, Trumbull County, Ohio
+     Guy Ernest Vining   b. 4 August 1885   Delaware, Delaware County, Ohio   -   d. 4 January 1974   Brown, Delaware County, Ohio   -   bur. Ashley, Delaware County, Ohio
+     child Vining   d. before 1900 census
+  
+  <a href="Wsources/WarnerE01doc.htm">documentation and notes</a>

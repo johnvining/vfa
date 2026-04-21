@@ -1,0 +1,28 @@
+id: WesleyK01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: CecilL01
+parentLetter: C
+parentDesc: Cecil Leo Vining and Myra K. Beech
+head:
+  givenName: Wesley Keith
+  birth:
+    date: 8 December 1905
+    place: New York
+  death:
+    date: 4 February 1984
+    place: Florida
+marriages:
+  - spouse:
+      givenName: "[...]"
+      surname: Marion
+raw: |-
+  <a name="WesleyK01"></a><font size=+2>Wesley Keith Vining</font>
+     (son of <a href="Cfamilies.htm#CecilL01">Cecil Leo Vining and Myra K. Beech</a>)
+     b. 8 December 1905   New York
+     m. [...] Marion
+     d. 4 February 1984   Florida
+  
+  <font size=+1>child:</font>
+     Cecilia Vining   b. ca. 1927   Florida

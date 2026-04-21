@@ -1,0 +1,56 @@
+id: WilliamA03
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Martin01
+parentLetter: M
+parentDesc: Martin Vining and Lucy Allen
+head:
+  givenName: William Allen
+  birth:
+    date: 17 October 1839
+    place: "Weymouth, Massachusetts"
+marriages:
+  - spouse:
+      givenName: "Mary [Edna or Ellen?]"
+      surname: Shaw
+childrenGroups:
+  - children:
+      - name: Mary Lois Vining
+        birth:
+          date: June 1869
+          place: Massachusetts
+        marriages:
+          - date: "1897"
+            spouse: John Hamilton Walker
+      - name: William Vining
+        birth:
+          date: March 1874
+          place: Massachusetts
+      - name: Herbert Allen Vining
+        entryId: HerbertA01
+        entryLetter: H
+        birth:
+          date: March 1877
+          place: "Hingham, Massachusetts"
+        marriages:
+          - date: Mae Harlow
+      - name: Maude E. Vining
+        birth:
+          date: July 1881
+          place: Massachusetts
+docsUrl: Wsources/WilliamA03doc.htm
+raw: |-
+  <a name="WilliamA03"></a><font size=+2>William Allen Vining</font>
+     (son of <a href="Mfamilies.htm#Martin01">Martin Vining and Lucy Allen</a>)
+     b. 17 October 1839   Weymouth, Massachusetts
+     m. Mary [Edna or Ellen?] Shaw
+              b. January 1843   Massachusetts
+  
+  <font size=+1>children:</font>
+     Mary Lois Vining   b. June 1869   Massachusetts   -   m. 1897   John Hamilton Walker
+     William Vining   b. March 1874   Massachusetts
+     <a href="Hfamilies.htm#HerbertA01">Herbert Allen Vining</a>   b. March 1877   Hingham, Massachusetts   -   m. Mae Harlow
+     Maude E. Vining   b. July 1881   Massachusetts
+  
+  <a href="Wsources/WilliamA03doc.htm">documentation and notes</a>

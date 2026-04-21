@@ -1,0 +1,72 @@
+id: WillardB01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WinfieldS01
+parentDesc: Winfield Scott Vining and Estelle Miles
+head:
+  givenName: Willard B.
+  birth:
+    date: 4 January 1876
+    place: New York
+  death:
+    date: 9 July 1957
+marriages:
+  - spouse:
+      givenName: Jessie A.
+      surname: Hitchcock
+childrenGroups:
+  - children:
+      - name: Leonard John Vining
+        entryId: LeonardJ01
+        entryLetter: L
+        birth:
+          date: 17 September 1903
+        marriages:
+          - number: 1
+            date: Louise Chatfield
+          - number: 2
+            date: Marguerite Frasier
+        death:
+          date: October 1976
+          place: "(last residence: Maplecrest, New York)"
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+      - name: Viola Vining
+        birth:
+          date: 30 November 1905
+        marriages:
+          - date: Kenneth Stewart
+        death:
+          date: "1964"
+          place: "Maplecrest, New York"
+      - name: Lemuel B. Vining
+        entryId: LemuelB01
+        entryLetter: L
+        birth:
+          date: 5 June 1908
+        marriages:
+          - date: Thelma A. Swanker
+        death:
+          date: 18 September 2003
+          place: "(last residence: Maplecrest, New York)"
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+docsUrl: Wsources/WillardB01doc.htm
+raw: |-
+  <a name="WillardB01"></a><font size=+2>Willard B. Vining</font>
+     (son of <a href="#WinfieldS01">Winfield Scott Vining and Estelle Miles</a>)
+     b. 4 January 1876   New York
+     m. Jessie A. Hitchcock
+              b. 1876
+              d. 1960
+                    bur. Maplecrest Cemetery   Windham, New York
+     d. 9 July 1957
+           bur. Maplecrest Cemetery   Windham, New York
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LeonardJ01">Leonard John Vining</a>   b. 17 September 1903   -   m. (1) Louise Chatfield;   (2) Marguerite Frasier   -   d. October 1976   (last residence: Maplecrest, New York)   -   bur. Maplecrest Cemetery   Windham, New York
+     Viola Vining   b. 30 November 1905   -   m. Kenneth Stewart   -   d. 1964   Maplecrest, New York
+     <a href="Lfamilies.htm#LemuelB01">Lemuel B. Vining</a>   b. 5 June 1908   -   m. Thelma A. Swanker   -   d. 18 September 2003   (last residence: Maplecrest, New York)   -   bur. Maplecrest Cemetery   Windham, New York
+  
+  <a href="Wsources/WillardB01doc.htm">documentation and notes</a>

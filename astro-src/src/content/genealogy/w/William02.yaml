@@ -1,0 +1,110 @@
+id: William02
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Bela01
+parentLetter: B
+parentDesc: Bela Vining and Thankful Millbanks
+head:
+  givenName: William
+  birth:
+    date: 20 July 1791
+    place: "Durham, Maine"
+  death:
+    date: 26 December 1863
+    place: "Durham, Maine"
+marriages:
+  - spouse:
+      givenName: Nancy
+      surname: Ragoon
+childrenGroups:
+  - children:
+      - name: Mary Jane Vining
+        birth:
+          date: 25 November 1818
+          place: "Durham, Maine"
+        death:
+          date: 3 April 1894
+          place: "Portland, Maine"
+      - name: Caroline Vining
+        birth:
+          date: 17 November 1820
+          place: "Durham, Maine"
+      - name: Elizabeth A. Vining
+        birth:
+          date: 4 December 1824
+          place: "Durham, Maine"
+      - name: Emily Vining
+        birth:
+          date: 13 November 1826
+          place: "Durham, Maine"
+      - name: Bela A. Vining
+        entryId: BelaA01
+        entryLetter: B
+        birth:
+          date: 18 January 1832
+          place: "Durham, Maine"
+        marriages:
+          - date: 17 September 1863
+            place: Vermont
+            spouse: Lucretia Ann Lyman
+        death:
+          date: 10 January 1911
+          place: "Orchard, Mitchell County, Iowa"
+        burial:
+          place: "Osage Cemetery   Osage, MItchell County, Iowa"
+      - name: James E. Vining
+        birth:
+          date: 27 January 1830
+          place: "Durham, Maine"
+        death:
+          date: "(20 or 22) [see note below] April 1849"
+          place: "Durham, Maine"
+        burial:
+          place: "Sawyer Cemetery   Durham, Maine"
+      - name: "Frances A. &#8220;Fannie&#8221; Vining"
+        birth:
+          date: 14 April 1832
+          place: "Durham, Maine"
+      - name: Sarah D. Vining
+        birth:
+          date: 12 May 1839
+          place: "Durham, Maine"
+        death:
+          date: (14 or 17) May 1840
+          place: "Durham, Maine"
+        burial:
+          place: "Sawyer Cemetery   Durham, Maine"
+      - name: Sarah Vining
+        birth:
+          date: (16 or 17) June 1841
+          place: "Durham, Maine"
+docsUrl: Wsources/William02doc.htm
+raw: |-
+  <a name="William02"></a><font size=+2>William Vining</font>
+     (son of <a href="Bfamilies.htm#Bela01">Bela Vining and Thankful Millbanks</a>)
+     b. 20 July 1791   Durham, Maine
+     m. Nancy Ragoon
+              b. 15 May 1800   [St. Stephen, New Brunswick or Calais, Maine?]
+     d. 26 December 1863   Durham, Maine
+  
+  <font size=+1>children:</font>   (<a href="Wsources/William02doc.htm">family record from Durham, Maine, town records</a>)
+     Mary Jane Vining   b. 25 November 1818   Durham, Maine   -   d. 3 April 1894   Portland, Maine
+     Caroline Vining   b. 17 November 1820   Durham, Maine
+     Elizabeth A. Vining   b. 4 December 1824   Durham, Maine
+     Emily Vining   b. 13 November 1826   Durham, Maine
+     <a href="Bfamilies.htm#BelaA01">Bela A. Vining</a>   b. 18 January 1832   Durham, Maine   -   m. 17 September 1863   Vermont   Lucretia Ann Lyman   -   d. 10 January 1911   Orchard, Mitchell County, Iowa   -   bur. Osage Cemetery   Osage, MItchell County, Iowa
+     James E. Vining   b. 27 January 1830   Durham, Maine   -   d. (20 or 22) [see note below] April 1849   Durham, Maine   -   bur. Sawyer Cemetery   Durham, Maine
+     Frances A. &#8220;Fannie&#8221; Vining   b. 14 April 1832   Durham, Maine
+     Sarah D. Vining   b. 12 May 1839   Durham, Maine   -   d. (14 or 17) May 1840   Durham, Maine   -   bur. Sawyer Cemetery   Durham, Maine
+     Sarah Vining   b. (16 or 17) June 1841   Durham, Maine
+  
+  <a href="Wsources/William02doc.htm">documentation and notes</a>
+  
+  <table width="100%">
+     <tr>
+        <td>
+  Note: James E. Vining's death date was reported as 20 April 1849 in the town records and 22 April 1849 on his gravestone.
+        </td>
+     </tr>
+  </table>

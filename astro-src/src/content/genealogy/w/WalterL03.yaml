@@ -1,0 +1,55 @@
+id: WalterL03
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrankA03
+parentLetter: F
+parentDesc: "Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft"
+head:
+  givenName: Walter L.
+  birth:
+    date: "1912"
+  death:
+    date: November 1953
+marriages:
+  - spouse:
+      givenName: Arlene Kathleen
+      surname: Visel
+childrenGroups:
+  - children:
+      - name: Paul A. Vining
+        death:
+          date: before 8 September 2009
+      - name: James L. Vining
+      - name: Wendy A. Vining
+        birth:
+          date: 29 August 1939
+          place: "New Haven, Connecticut"
+      - name: Walter R. Vining
+        entryId: WalterR04
+        birth:
+          date: 29 August 1939
+          place: "New Haven, Connecticut"
+        marriages:
+          - date: Barbara C. Stankus
+        death:
+          date: 24 December 2016
+docsUrl: Wsources/WalterL03doc.htm
+raw: |-
+  <a name="WalterL03"></a><font size=+2>Walter L. Vining</font>
+     (son of <a href="Ffamilies.htm#FrankA03">Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft</a>)
+     b. 1912
+     m. Arlene Kathleen Visel
+              (dau. of Raymond Visel and Sarah Fitch)
+              b. 4 January 1916   Hamden, Connecticut
+              d. 8 Septmeber 2009   Cheshire, Connecticut
+                    bur. St Mary's Cemetery
+     d. November 1953
+  
+  <font size=+1>children:</font>
+     Paul A. Vining   d. before 8 September 2009
+     James L. Vining
+     Wendy A. Vining   b. 29 August 1939   New Haven, Connecticut
+     <a href="#WalterR04">Walter R. Vining</a>   b. 29 August 1939   New Haven, Connecticut   -   m. Barbara C. Stankus   -   d. 24 December 2016
+  
+  <a href="Wsources/WalterL03doc.htm">documentation and notes</a>

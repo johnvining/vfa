@@ -1,0 +1,61 @@
+id: WalterR01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ChurchA01
+parentLetter: C
+parentDesc: Church Abijah Vining and Edith Rachel Case
+head:
+  givenName: Walter Ray
+  birth:
+    date: 27 June 1905
+  death:
+    date: 18 November 1963
+marriages:
+  - date: 8 June 1932
+    place: "Odebolt, Iowa"
+    spouse:
+      givenName: Alice Marie
+      surname: Anderson
+      birth:
+        date: 28 December 1908
+        place: Iowa
+      death:
+        date: 10 August 2008
+        place: "Forest Lake, Minnesota"
+      burial:
+        place: "New Ulm City Cemetery   New Ulm, Minnesota"
+childrenGroups:
+  - children:
+      - name: Warren Richard Vining
+        entryId: WarrenR01
+        birth:
+          date: 26 July 1934
+        marriages:
+          - number: 1
+            date: Patsy Stanfill (d. 15 June 1996)
+          - number: 2
+            date: 15 October 2000
+            spouse: Juanita Clark (nee Stanfill)
+      - name: David Burchim Vining
+        entryId: DavidB01
+        entryLetter: D
+        birth:
+          date: 11 October 1935
+        marriages:
+          - date: Beatrice Orins
+raw: |-
+  <a name="WalterR01"></a><font size=+2>Walter Ray Vining</font>
+     (son of <a href="Cfamilies.htm#ChurchA01">Church Abijah Vining and Edith Rachel Case</a>)
+     b. 27 June 1905
+     m. 8 June 1932   Odebolt, Iowa
+           Alice Marie Anderson
+                 (dau. of August Anderson and Etta Weideman)
+                 b. 28 December 1908   Iowa
+                 d. 10 August 2008   Forest Lake, Minnesota
+                       bur. New Ulm City Cemetery   New Ulm, Minnesota
+     d. 18 November 1963
+  
+  <font size=+1>children:</font>
+     <a href="#WarrenR01">Warren Richard Vining</a>   b. 26 July 1934   -   m. (1) Patsy Stanfill (d. 15 June 1996);   (2) 15 October 2000   Juanita Clark (nee Stanfill)
+     <a href="Dfamilies.htm#DavidB01">David Burchim Vining</a>   b. 11 October 1935   -   m. Beatrice Orins

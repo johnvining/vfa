@@ -1,0 +1,73 @@
+id: WalterL02
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: OwenF01
+parentLetter: O
+parentDesc: Owen Franklin Vining and Pearl Woodard
+head:
+  givenName: Walter Laffette
+  birth:
+    date: 4 May 1909
+    place: "Willacoochee, Georgia"
+  death:
+    date: 25 October 1967
+    place: "Adel, Georgia"
+marriages:
+  - date: 6 September 1930
+    place: "Pearson, Georgia"
+    spouse:
+      givenName: Lela
+      surname: Spivey
+      birth:
+        date: 7 August 1911
+        place: "Hoboken, Georgia"
+      death:
+        date: 25 March 2006
+        place: "Douglas, Georgia"
+      burial:
+        place: "City Cemetery   Douglas, Georgia"
+childrenGroups:
+  - children:
+      - name: Gene Laffette Vining
+        entryId: GeneL01
+        entryLetter: G
+        birth:
+          date: 24 July 1931
+          place: "Kirkland, Georgia"
+        marriages:
+          - date: Joanne Farmer
+        death:
+          date: 5 February 1992
+          place: "Atlanta, Georgia"
+        burial:
+          place: "Douglasville City Cemetery   Douglasville, Georgia"
+      - name: Betty Nell Vining
+        birth:
+          date: 7 November 1935
+          place: "Broxton, Georgia"
+        marriages:
+          - number: 1
+            date: "James Curtis Treadwell,"
+            spouse: divorced
+          - number: 2
+            date: Domingo Layton Stewart
+docsUrl: Wsources/WalterL02doc.htm
+raw: |-
+  <a name="WalterL02"></a><font size=+2>Walter Laffette Vining</font>
+     (son of <a href="Ofamilies.htm#OwenF01">Owen Franklin Vining and Pearl Woodard</a>)
+     b. 4 May 1909   Willacoochee, Georgia
+     m. 6 September 1930   Pearson, Georgia
+           Lela Spivey
+                 (dau. of Leonard Spivey and Leada Carver)
+                 b. 7 August 1911   Hoboken, Georgia
+                 d. 25 March 2006   Douglas, Georgia
+                       bur. City Cemetery   Douglas, Georgia
+     d. 25 October 1967   Adel, Georgia
+           bur. Tanner Baptist Church Cemetery   Douglas, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GeneL01">Gene Laffette Vining</a>   b. 24 July 1931   Kirkland, Georgia   -   m. Joanne Farmer   -   d. 5 February 1992   Atlanta, Georgia   -   bur. Douglasville City Cemetery   Douglasville, Georgia
+     Betty Nell Vining   b. 7 November 1935   Broxton, Georgia   -   m. (1) James Curtis Treadwell,   divorced;   (2) Domingo Layton Stewart
+  
+  <a href="Wsources/WalterL02doc.htm">documentation and notes</a>

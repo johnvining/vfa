@@ -1,0 +1,102 @@
+id: Willard02
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EdwardK01
+parentLetter: E
+parentDesc: Edward Kent Vining and Nancy O. Blatchley
+head:
+  givenName: Willard
+  birth:
+    date: 6 August 1860
+    place: "[Marcellon or Scott?], Wisconsin"
+  death:
+    date: 16 August 1928
+    place: Wisconsin
+marriages:
+  - date: 12 January 1886
+    place: "New Lisbon, Wisconsin"
+    spouse:
+      givenName: Josephine
+      surname: Brownell
+      birth:
+        date: "1859"
+        place: "Sullivan, Wisconsin"
+      death:
+        date: "1898"
+childrenGroups:
+  - children:
+      - name: Eva Muriel Vining
+        birth:
+          date: 28 March 1887
+          place: South Dakota
+        marriages:
+          - date: "Pardeeville, Wisconsin"
+            spouse: David Beahm
+        death:
+          date: 14 August 1927
+      - name: Wilford Benjamin Vining
+        entryId: WilfordB01
+        birth:
+          date: 19 September 1888
+          place: Wisconsin
+        marriages:
+          - date: Edna Peters
+        death:
+          date: January 1916
+      - name: Philemon Vining
+        entryId: Philemon01
+        entryLetter: P
+        birth:
+          date: 16 November 1889
+          place: "Clark, South Dakota"
+        marriages:
+          - date: 22 August 1917
+            spouse: Eva Mae Peterson
+        death:
+          date: 28 September 1963
+          place: "(last residence: Wisconsin)"
+        burial:
+          place: "Sunset Memorial Park   Coos Bay, Oregon"
+      - name: Vern Terrence Vining
+        entryId: VernT01
+        entryLetter: V
+        birth:
+          date: 6 February 1891
+          place: South Dakota
+        marriages:
+          - number: 1
+            date: 14 December 1914
+            spouse: Myrtle Maynard
+          - number: 2
+            date: 27 October 1961
+            spouse: Mrs. Irene Robinson
+        death:
+          date: 26 November 1977
+          place: "(last residence: Commerce City, Colorado)"
+      - name: Celestia Parrisade Vining
+        birth:
+          date: 4 January 1894
+          place: "Elmore, Minnesota"
+        death:
+          date: 13 March 1918
+          place: Wisconsin
+docsUrl: Wsources/Willard02doc.htm
+raw: |-
+  <a name="Willard02"></a><font size=+2>Willard Vining</font>
+     (son of <a href="Efamilies.htm#EdwardK01">Edward Kent Vining and Nancy O. Blatchley</a>)
+     b. 6 August 1860   [Marcellon or Scott?], Wisconsin
+     m. 12 January 1886   New Lisbon, Wisconsin
+           Josephine Brownell
+                 b. 1859   Sullivan, Wisconsin
+                 d. 1898
+     d. 16 August 1928   Wisconsin
+  
+  <font size=+1>children:</font>
+     Eva Muriel Vining   b. 28 March 1887   South Dakota   -   m. Pardeeville, Wisconsin   David Beahm   -   d. 14 August 1927
+     <a href="#WilfordB01">Wilford Benjamin Vining</a>   b. 19 September 1888   Wisconsin   -   m. Edna Peters   -   d. January 1916
+     <a href="Pfamilies.htm#Philemon01">Philemon Vining</a>   b. 16 November 1889   Clark, South Dakota   -   m. 22 August 1917   Eva Mae Peterson   -   d. 28 September 1963   (last residence: Wisconsin)   -   bur. Sunset Memorial Park   Coos Bay, Oregon
+     <a href="Vfamilies.htm#VernT01">Vern Terrence Vining</a>   b. 6 February 1891   South Dakota   -   m. (1) 14 December 1914   Myrtle Maynard;   (2) 27 October 1961   Mrs. Irene Robinson   -   d. 26 November 1977   (last residence: Commerce City, Colorado)
+     Celestia Parrisade Vining   b. 4 January 1894   Elmore, Minnesota   -   d. 13 March 1918   Wisconsin
+  
+  <a href="Wsources/Willard02doc.htm">documentation and notes</a>

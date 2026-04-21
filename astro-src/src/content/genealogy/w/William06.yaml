@@ -1,0 +1,74 @@
+id: William06
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John13
+parentLetter: J
+parentDesc: John Vining and Sarah Ratcliff(e)
+head:
+  givenName: William
+  birth:
+    date: ca. 1757
+    place: North Carolina
+  death:
+    date: Georgia
+marriages:
+  - date: ca. 1778
+    spouse:
+      givenName: Nancy
+      surname: "[...]"
+      birth:
+        date: ca. 1760
+      death:
+        date: ca. 1815
+        place: "[Georgia?]"
+childrenGroups:
+  - children:
+      - name: Abraham Vining
+        entryId: Abraham01
+        entryLetter: A
+        birth:
+          date: ca. 1780
+          place: "[North Carolina?]"
+        marriages:
+          - date: ca. 1806
+            place: "[Georgia?]"
+            spouse: "[Elinor or Elanora?] [...]"
+      - name: Nancy Vining
+        marriages:
+          - date: 2 April 1829
+            spouse: "[...] Simpson"
+      - name: Susannah Vining
+        marriages:
+          - date: 9 August 1812
+            spouse: John Earnest
+      - name: Rachel Vining
+        birth:
+          date: 14 December 1799
+          place: Georgia
+        marriages:
+          - date: 23 June 1814
+            place: Georgia
+            spouse: William Livingston
+        death:
+          date: 22 July 1848
+          place: Georgia
+      - name: John Vining
+      - name: daughter
+raw: |-
+  <a name="William06"></a><font size=+2>William Vining</font>
+     (son of <a href="Jfamilies.htm#John13">John Vining and Sarah Ratcliff(e)</a>)
+     b. ca. 1757   North Carolina
+     m. ca. 1778
+           Nancy [...]
+                 b. ca. 1760
+                 d. ca. 1815   [Georgia?]
+     d. Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#Abraham01">Abraham Vining</a>   b. ca. 1780   [North Carolina?]   -   m. ca. 1806   [Georgia?]   [Elinor or Elanora?] [...]
+     Nancy Vining   m. 2 April 1829   [...] Simpson
+     Susannah Vining   m. 9 August 1812   John Earnest
+     Rachel Vining   b. 14 December 1799   Georgia   -   m. 23 June 1814   Georgia   William Livingston   -   d. 22 July 1848   Georgia
+     John Vining
+     daughter

@@ -1,0 +1,64 @@
+id: WilliamA02
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: GuyE01
+parentLetter: G
+parentDesc: Guy Ellsworth Vining and Flora M. Davis
+head:
+  givenName: William Albert
+  birth:
+    date: 1 January 1928
+    place: "Binghamton, New York"
+  death:
+    date: 5 September 1978
+marriages:
+  - date: 25 April 1951
+    place: "Waterville, New York"
+    spouse:
+      givenName: Constance Mae
+      surname: Bartlett
+      birth:
+        date: 24 May 1931
+        place: "Waterville, New York"
+      death:
+        date: 26 November 2021
+        place: "Chili, New York"
+childrenGroups:
+  - children:
+      - name: Tracy Lee Vining
+        birth:
+          date: 21 August 1961
+        marriages:
+          - date: David Eckstrand
+      - name: Kimberly Anne Vining
+        birth:
+          date: 13 January 1963
+        death:
+          date: before 26 November 2021
+      - name: William Vining
+        marriages:
+          - date: Kathy Kosciolek
+      - name: Robin Vining
+        marriages:
+          - date: Peter Nowak
+docsUrl: Wsources/WilliamA02doc.htm
+raw: |-
+  <a name="WilliamA02"></a><font size=+2>William Albert Vining</font>
+     (son of <a href="Gfamilies.htm#GuyE01">Guy Ellsworth Vining and Flora M. Davis</a>)
+     b. 1 January 1928   Binghamton, New York
+     m. 25 April 1951   Waterville, New York
+           Constance Mae Bartlett
+                 (Walter Bartlett and Nellie [&#8230;]
+                 b. 24 May 1931   Waterville, New York
+                 d. 26 November 2021   Chili, New York
+     d. 5 September 1978
+           bur. Grove Place Cemetery   Chili Center, New York
+  
+  <font size=+1>children:</font>
+     Tracy Lee Vining   b. 21 August 1961   -   m. David Eckstrand
+     Kimberly Anne Vining   b. 13 January 1963   -   d. before 26 November 2021
+     William Vining   m. Kathy Kosciolek
+     Robin Vining   m. Peter Nowak
+  
+  <a href="Wsources/WilliamA02doc.htm">documentation and notes</a>

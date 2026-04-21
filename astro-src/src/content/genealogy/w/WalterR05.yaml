@@ -1,0 +1,53 @@
+id: WalterR05
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]; adopted by A. Dumbleton and Sarah McGuire"
+head:
+  givenName: Walter Ray
+  birth:
+    date: 6 April 1879
+    place: Kansas
+  death:
+    date: 18 June 1938
+    place: "Pasco, Franklin County, Washington"
+marriages:
+  - spouse:
+      givenName: Jessie Evelyn Reeves (she m. (2) Fred A.
+      surname: Olson)
+childrenGroups:
+  - children:
+      - name: Arthur Ray Vining
+        entryId: ArthurR03
+        entryLetter: A
+        birth:
+          date: 17 August 1903
+          place: "Waha, Nez Perce County, Idaho"
+        marriages:
+          - date: 19 January 1929
+            place: "Yakima, Yakima County, Washington"
+            spouse: Charlotte Oletta Wood
+        death:
+          date: 18 February 1988
+          place: "Colville, Stevens County, Washington"
+        burial:
+          place: "Mountain View Cemetery   Colville, Stevens County, Washington"
+      - name: Edna Vining
+        birth:
+          date: 25 February 1906
+          place: Idaho
+        death:
+          date: 26 March 1947
+          place: "Santa Clara, California"
+raw: |-
+  <a name="WalterR05"></a><font size=+2>Walter Ray Vining</font>
+     (son of [?]; adopted by A. Dumbleton and Sarah McGuire)
+     b. 6 April 1879   Kansas
+     m. Jessie Evelyn Reeves (she m. (2) Fred A. Olson)
+              b. 24 August 1884   Washington
+              d. 3 January 1959   Colville, Stevens County, Washington
+     d. 18 June 1938   Pasco, Franklin County, Washington
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#ArthurR03">Arthur Ray Vining</a>   b. 17 August 1903   Waha, Nez Perce County, Idaho   -   m. 19 January 1929   Yakima, Yakima County, Washington   Charlotte Oletta Wood   -   d. 18 February 1988   Colville, Stevens County, Washington   -   bur. Mountain View Cemetery   Colville, Stevens County, Washington
+     Edna Vining   b. 25 February 1906   Idaho   -   d. 26 March 1947   Santa Clara, California

@@ -1,0 +1,70 @@
+id: WilliamJ05
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisE01
+parentLetter: F
+parentDesc: Francis Earl Vining and Elizabeth Mary Denny
+head:
+  givenName: William J.
+  birth:
+    date: 19 February 1922
+    place: "Everett, Massachusetts"
+  death:
+    date: 24 April 2020
+    place: "Beverly, Massachusetts"
+marriages:
+  - date: 29 November 1942
+    spouse:
+      givenName: Gloria A.
+      surname: Dugas
+      birth:
+        date: 20 January 1927
+        place: "Merrimack, Massachusetts"
+      death:
+        date: 30 August 2018
+        place: "Peabody, Massachusetts"
+childrenGroups:
+  - children:
+      - name: James Vining
+        marriages:
+          - date: "Joanne [&#8230;]"
+      - name: Arlene Vining
+        marriages:
+          - date: Hugh Hairston
+      - name: William Vining
+        marriages:
+          - date: "Meredith [&#8230;]"
+      - name: John Vining
+        marriages:
+          - date: "Laura [^#8230;]"
+      - name: Dennis A. Vining
+        entryId: DennisA01
+        entryLetter: D
+        birth:
+          date: 12 October 1950
+          place: "Malden, Massachusetts"
+        marriages:
+          - date: Mona L. Griffin
+        death:
+          date: 5 December 2014
+docsUrl: Wsources/WilliamJ05doc.htm
+raw: |-
+  <a name="WilliamJ05"></a><font size=+2>William J. Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisE01">Francis Earl Vining and Elizabeth Mary Denny</a>)
+     b. 19 February 1922   Everett, Massachusetts
+     m. 29 November 1942
+           Gloria A. Dugas
+                 (dau. of Romeo Dugas and Evelyn Lemire)
+                 b. 20 January 1927   Merrimack, Massachusetts
+                 d. 30 August 2018   Peabody, Massachusetts
+     d. 24 April 2020   Beverly, Massachusetts
+  
+  <font size=+1>children:</font>
+     James Vining   m. Joanne [&#8230;]
+     Arlene Vining   m. Hugh Hairston
+     William Vining   m. Meredith [&#8230;]
+     John Vining   m. Laura [^#8230;]
+     <a href="Dfamilies.htm#DennisA01">Dennis A. Vining</a>   b. 12 October 1950   Malden, Massachusetts   -   m. Mona L. Griffin   -   d. 5 December 2014
+  
+  <a href="Wsources/WilliamJ05doc.htm">documentation and notes</a>

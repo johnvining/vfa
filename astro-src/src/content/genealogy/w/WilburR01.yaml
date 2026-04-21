@@ -1,0 +1,55 @@
+id: WilburR01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jared01
+parentLetter: J
+parentDesc: Jared Vining and Charlotte Bodwell
+head:
+  givenName: Wilbur Records
+  birth:
+    date: 22 November 1819
+    place: New York
+  death:
+    date: 6 January 1892
+    place: "London, Ontario"
+marriages:
+  - date: "1854"
+    spouse:
+      givenName: Margaret
+      surname: Molloy
+childrenGroups:
+  - children:
+      - name: Sarah M. Vining
+        birth:
+          date: October 1855
+        death:
+          date: 3 June 1865
+      - name: James Bodwell Vining
+        entryId: JamesB02
+        entryLetter: J
+        birth:
+          date: 9 July 1857
+        marriages:
+          - date: 17 September 1879
+            spouse: "London, Ontario   Margaret Elizabeth Quinn"
+        death:
+          date: 2 February 1902
+      - name: Francis W. Vining
+        birth:
+          date: March 1871
+docsUrl: Wsources/WilburR01doc.htm
+raw: |-
+  <a name="WilburR01"></a><font size=+2>Wilbur Records Vining</font>
+     (son of <a href="Jfamilies.htm#Jared01">Jared Vining and Charlotte Bodwell<a>)
+     b. 22 November 1819   New York
+     m. 1854
+           Margaret Molloy
+     d. 6 January 1892   London, Ontario
+  
+  <font size=+1>children:</font>
+     Sarah M. Vining   b. October 1855   -   d. 3 June 1865
+     <a href="Jfamilies.htm#JamesB02">James Bodwell Vining</a>   b. 9 July 1857   -   m. 17 September 1879   London, Ontario   Margaret Elizabeth Quinn   -   d. 2 February 1902
+     Francis W. Vining   b. March 1871
+  
+  <a href="Wsources/WilburR01doc.htm">documentation and notes</a>

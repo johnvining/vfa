@@ -1,0 +1,39 @@
+id: WalterE01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RichardJ02
+parentLetter: R
+parentDesc: Richard John Vining and Eliza Morgan
+head:
+  givenName: Walter Edmund
+  birth:
+    date: "1864"
+    place: "Newbridge, Alexandra, Victoria, Australia"
+  death:
+    date: "1947"
+    place: "Northcoate, Melbourne, Victoria, Australia"
+marriages:
+  - number: 1
+    date: "1885"
+    spouse:
+      givenName: "divorced ca. 1893   Alexandra, Victoria,"
+      surname: Australia
+  - number: 2
+    date: "1897"
+raw: |-
+  <a name="WalterE01"></a><font size=+2>Walter Edmund Vining</font>
+     (son of <a href="Rfamilies.htm#RichardJ02">Richard John Vining and Eliza Morgan</a>)
+     b. 1864   Newbridge, Alexandra, Victoria, Australia
+     m. (1) 1885
+                    Louisa Mary Wright
+                 divorced ca. 1893   Alexandra, Victoria, Australia
+           (2) 1897
+                    Emily Dreger
+                          (dau. of Henry Harman Dreger and Louisa Maryy Ann Freeman)
+                          b. 15 October 1866   Collingwood, Victoria, Australia
+                          d. 1931   Collingwood, Victoria, Victoria, Australia
+     d. 1947   Northcoate, Melbourne, Victoria, Australia
+  
+  <font size=+1>child:</font>
+     Henry Richard Edmund Vining   b. 1900   Alexandra, Victoria, Australia

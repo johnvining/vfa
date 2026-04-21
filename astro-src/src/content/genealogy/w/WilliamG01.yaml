@@ -1,0 +1,54 @@
+id: WilliamG01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesT03
+parentLetter: J
+parentDesc: James Tally Vining and Emma Mayo
+head:
+  givenName: William Graham Malone
+  birth:
+    date: January 1865
+    place: "Forest Hill, London Borough of Lewisham, Greater London, England"
+  death:
+    date: 18 October 1948
+    place: "Nelson, New Zealand"
+marriages:
+  - spouse:
+      givenName: Margaret
+      surname: "Ke[e?]b[b?]ell"
+childrenGroups:
+  - children:
+      - name: Margaret Vera Vining
+        birth:
+          date: "1896"
+          place: "Nelson, New Zealand"
+        death:
+          date: 28 February 1984
+      - name: Philip Mayo Vining
+        entryId: PhilipM01
+        entryLetter: P
+        birth:
+          date: 4 July 1902
+          place: "Nelson, New Zealand"
+        marriages:
+          - date: "1928"
+            spouse: Hannah Taylor
+        death:
+          date: 8 October 1991
+          place: "Nelson, New Zealand"
+        burial:
+          place: "Marsden Cemetery   Nelson, New Zealand"
+raw: |-
+  <a name="WilliamG01"></a><font size=+2>William Graham Malone Vining</font>
+     (son of <a href="Jfamilies.htm#JamesT03">James Tally Vining and Emma Mayo</a>)
+     b. January 1865   Forest Hill, London Borough of Lewisham, Greater London, England
+     m. Margaret Ke[e?]b[b?]ell
+              (dau. of George Ke[e?]b[b?]ell and [&#8230;])
+              b. 21 May 1871   Wellington, New Zealand
+              d. 15 November 1948   Nelson, New Zealand
+     d. 18 October 1948   Nelson, New Zealand
+  
+  <font size=+1>children:</font>
+     Margaret Vera Vining   b. 1896   Nelson, New Zealand   -   d. 28 February 1984
+     <a href="Pfamilies.htm#PhilipM01">Philip Mayo Vining</a>   b. 4 July 1902   Nelson, New Zealand   -   m. 1928   Hannah Taylor   -   d. 8 October 1991   Nelson, New Zealand   -   bur. Marsden Cemetery   Nelson, New Zealand

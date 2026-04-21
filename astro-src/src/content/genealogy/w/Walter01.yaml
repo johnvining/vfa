@@ -1,0 +1,57 @@
+id: Walter01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Almond01
+parentLetter: A
+parentDesc: Almond Vining and Minnie Kathrin Bruce
+head:
+  givenName: Walter
+  birth:
+    date: 8 April 1890
+    place: Minnesota
+  death:
+    date: 13 September 1948
+marriages:
+  - spouse:
+      givenName: Mabel
+      surname: Bye
+childrenGroups:
+  - children:
+      - name: Bruce Vining
+        entryId: Bruce01
+        entryLetter: B
+        birth:
+          date: 5 March 1914
+          place: South Dakota
+        marriages:
+          - date: 6 April 1938
+            spouse: "Sioux Falls, South Dakota   Thelma Mae Kienast"
+        death:
+          date: 21 July 1991
+      - name: Margaret Vining
+        birth:
+          date: 16 June 1916
+          place: South Dakota
+        marriages:
+          - date: 2 January 1941
+            spouse: Russell Poff
+        death:
+          date: 29 October 1962
+docsUrl: Wsources/Walter01doc.htm
+raw: |-
+  <a name="Walter01"></a><font size=+2>Walter Vining</font>
+     (son of <a href="Afamilies.htm#Almond01">Almond Vining and Minnie Kathrin Bruce</a>)
+     b. 8 April 1890   Minnesota
+     m. Mabel Bye
+              b. 5 February 1888   South Dakota
+              d. 18 September 1947
+                    bur. Maplewood Cemetery   Luverne, Minnesota
+     d. 13 September 1948
+           bur. Maplewood Cemetery   Luverne, Minnesota
+  
+  <font size=+1>children:</font>
+     <a href="Bfamilies.htm#Bruce01">Bruce Vining</a>   b. 5 March 1914   South Dakota   -   m. 6 April 1938   Sioux Falls, South Dakota   Thelma Mae Kienast   -   d. 21 July 1991
+     Margaret Vining   b. 16 June 1916   South Dakota   -   m. 2 January 1941   Russell Poff   -   d. 29 October 1962
+  
+  <a href="Wsources/Walter01doc.htm">documentation and notes</a>

@@ -1,0 +1,80 @@
+id: WarrenC01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrederickE01
+parentLetter: F
+parentDesc: Frederick Elmer Vining and Louise Conant McKenney
+head:
+  givenName: Warren Clifford
+  birth:
+    date: 12 July 1893
+    place: "Lisbon, Maine"
+  death:
+    date: 9 April 1936
+    place: "Wheaton, Illinois"
+marriages:
+  - date: 22 August 1917
+    spouse:
+      givenName: Elizabeth Rosie
+      surname: Vogel
+      birth:
+        date: age 25 y. as of 1920 census
+        place: California
+childrenGroups:
+  - children:
+      - name: Warren Clifford Vining Jr.
+        entryId: WarrenCJr01
+        birth:
+          date: 26 October 1918
+          place: "Chicago, Illinois"
+        marriages:
+          - date: 4 October 1941
+            place: "New Castle, Pennsylvania"
+            spouse: Elizabeth Ruth Gustafson
+        death:
+          date: 21 July 1999
+        burial:
+          place: "Mission Garden of Memories   Clovis, New Mexico"
+      - name: Carl Louis Vining
+        entryId: CarlL01
+        entryLetter: C
+        birth:
+          date: 4 September 1920
+          place: "Wheaton, Illinois"
+        marriages:
+          - date: 6 October 1945
+            spouse: Astrid Emma Strom
+        death:
+          date: 7 August 2014
+          place: "Hamilton, Ohio"
+        burial:
+          place: "Arlington Memorial Gardens   Mount Healthy, Ohio"
+      - name: Elizabeth Louise Vining
+        birth:
+          date: 12 October 1925
+          place: "Chicago, Illinois"
+        marriages:
+          - number: 1
+            date: 25 August 1945
+            spouse: "Allen Kent Breed,   divorced"
+          - number: 2
+            date: 20 July 1962
+            spouse: David McCarthy
+docsUrl: Wsources/WarrenC01doc.htm
+raw: |-
+  <a name="WarrenC01"></a><font size=+2>Warren Clifford Vining</font>
+     (son of <a href="Ffamilies.htm#FrederickE01">Frederick Elmer Vining and Louise Conant McKenney</a>)
+     b. 12 July 1893   Lisbon, Maine
+     m. 22 August 1917
+           Elizabeth Rosie Vogel
+                 b. age 25 y. as of 1920 census   California
+     d. 9 April 1936   Wheaton, Illinois
+           bur. Arlington National Cemetery   Arlington, Virginia
+  
+  <font size=+1>children:</font>
+     <a href="#WarrenCJr01">Warren Clifford Vining Jr.</a>   b. 26 October 1918   Chicago, Illinois   -   m. 4 October 1941   New Castle, Pennsylvania   Elizabeth Ruth Gustafson   -   d. 21 July 1999   -   bur. Mission Garden of Memories   Clovis, New Mexico
+     <a href="Cfamilies.htm#CarlL01">Carl Louis Vining</a>   b. 4 September 1920   Wheaton, Illinois   -   m. 6 October 1945   Astrid Emma Strom   -   d. 7 August 2014   Hamilton, Ohio   -   bur. Arlington Memorial Gardens   Mount Healthy, Ohio
+     Elizabeth Louise Vining   b. 12 October 1925   Chicago, Illinois   -   m. (1) 25 August 1945   Allen Kent Breed,   divorced;   (2) 20 July 1962   David McCarthy
+  
+  <a href="Wsources/WarrenC01doc.htm">documentation and notes</a>

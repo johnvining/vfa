@@ -1,0 +1,85 @@
+id: WilliamB01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: MosesA01
+parentLetter: M
+parentDesc: Moses Andrew Vining and Eliza Ann Brown
+head:
+  givenName: William Brown
+  birth:
+    date: 12 November 1862
+    place: Massachusetts
+  death:
+    date: 22 November 1949
+marriages:
+  - date: 28 June 1899
+    spouse:
+      givenName: Harriet Emma
+      surname: Price
+      birth:
+        date: 20 July 1869
+        place: Missouri
+      death:
+        date: 23 May 1956
+      burial:
+        place: "Tonganoxie Cemetery   Tonganoxie, Kansas"
+childrenGroups:
+  - children:
+      - name: Dwight Price Vining
+        entryId: DwightP01
+        entryLetter: D
+        birth:
+          date: 29 May 1901
+          place: "Swannanoa, North Carolina"
+        marriages:
+          - date: 2 June 1928
+            spouse: Allie B. Phillips
+        death:
+          date: 23 January 1999
+          place: "(last residence: Lexington, North Carolina)"
+      - name: William Brown Vining Jr.
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Kansas
+        marriages:
+          - date: "Evalin [&#8230;]"
+      - name: Charles Price Vining
+        birth:
+          date: 15 May 1908
+          place: "Kansas City, Missouri"
+        death:
+          date: 8 June 1978
+          place: "Leavenworth County, Kansas"
+        burial:
+          place: "Tonganoxie Cemetery   Tonganoxie, Kansas"
+      - name: Howard R. Vining
+        birth:
+          date: 20 March 1911
+          place: Kansas
+        marriages:
+          - date: 1954 Nadine Love
+        death:
+          date: 25 February 1999
+        burial:
+          place: "Tonganoxie Cemetery   Tonganoxie, Kansas"
+docsUrl: Wsources/WilliamB01doc.htm
+raw: |-
+  <a name="WilliamB01"></a><font size=+2>William Brown Vining</font>
+     (son of <a href="Mfamilies.htm#MosesA01">Moses Andrew Vining and Eliza Ann Brown</a>)
+     b. 12 November 1862   Massachusetts
+     m. 28 June 1899
+           Harriet Emma Price
+                 b. 20 July 1869   Missouri
+                 d. 23 May 1956
+                       bur. Tonganoxie Cemetery   Tonganoxie, Kansas
+     d. 22 November 1949
+           bur. Tonganoxie Cemetery   Tonganoxie, Kansas
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DwightP01">Dwight Price Vining</a>   b. 29 May 1901   Swannanoa, North Carolina   -   m. 2 June 1928   Allie B. Phillips   -   d. 23 January 1999   (last residence: Lexington, North Carolina)
+     William Brown Vining Jr.   b. age 6 y. as of 1910 census   Kansas   -   m. Evalin [&#8230;]
+     Charles Price Vining   b. 15 May 1908   Kansas City, Missouri   -   d. 8 June 1978   Leavenworth County, Kansas   -   bur. Tonganoxie Cemetery   Tonganoxie, Kansas
+     Howard R. Vining   b. 20 March 1911   Kansas   -   m. 1954 Nadine Love   -   d. 25 February 1999   -   bur. Tonganoxie Cemetery   Tonganoxie, Kansas
+  
+  <a href="Wsources/WilliamB01doc.htm">documentation and notes</a>

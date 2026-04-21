@@ -1,0 +1,50 @@
+id: WarnerH01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EmmettF01
+parentLetter: E
+parentDesc: Emmett Fred Vining and Irene Clementine Loveless
+head:
+  givenName: Warner Harris
+  birth:
+    date: 8 March 1917
+    place: "Drew County, Arkansas"
+  death:
+    date: 28 October 2010
+    place: "Monticello, Arkansas"
+marriages:
+  - spouse:
+      givenName: Ruby Myrl
+      surname: Brantley
+childrenGroups:
+  - children:
+      - name: Kathy D. Vining
+        birth:
+          date: 31 January 1949
+        death:
+          date: 3 September 2000
+        burial:
+          place: "Union Ridge Cemetery   Monticello, Arkansas"
+      - name: Robert Vining
+        marriages:
+          - date: "Judith [...]"
+      - name: Chuck Vining
+docsUrl: Wsources/WarnerH01doc.htm
+raw: |-
+  <a name="WarnerH01"></a><font size=+2>Warner Harris Vining</font>
+     (son of <a href="Efamilies.htm#EmmettF01">Emmett Fred Vining and Irene Clementine Loveless</a>)
+     b. 8 March 1917   Drew County, Arkansas
+     m. Ruby Myrl Brantley
+              b. 5 January 1923
+              d. 20 November 1989
+                    bur. Union Ridge Cemetery   Monticello, Arkansas
+     d. 28 October 2010   Monticello, Arkansas
+           bur. Union Ridge Cemetery   Monticello, Arkansas
+  
+  <font size=+1>children:</font>
+     Kathy D. Vining   b. 31 January 1949   -   d. 3 September 2000   -   bur. Union Ridge Cemetery   Monticello, Arkansas
+     Robert Vining   m. Judith [...]
+     Chuck Vining
+  
+  <a href="Wsources/WarnerH01doc.htm">documentation and notes</a>

@@ -1,0 +1,56 @@
+id: WilfordJ01
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilfordB01
+parentDesc: Wilford Benjamin Vining and Edna Peters
+head:
+  givenName: Wilford Jesse
+  birth:
+    date: 27 October 1915
+    place: "Pardeeville, Wisconsin"
+  death:
+    date: 14 June 1994
+    place: "Brownsville, Texas"
+marriages:
+  - number: 1
+    date: Aurora Helen Grunow
+  - number: 2
+    date: Bobbie Ruth Cooper
+childrenGroups:
+  - spouseRef: Bobbie Ruth Cooper
+    children:
+      - name: Patricia Sue Vining
+        birth:
+          date: "1947"
+        marriages:
+          - number: 1
+            date: Ray Kophf
+          - number: 2
+            date: Rick Stearns
+      - name: Theresa Katherine Ann Vining
+        birth:
+          date: "1948"
+        marriages:
+          - date: Pat Myers
+      - name: Joan Edna Vining
+        birth:
+          date: "1949"
+        marriages:
+          - date: Ronald Lee Spicer
+raw: |-
+  <a name="WilfordJ01"></a><font size=+2>Wilford Jesse Vining</font>
+     (son of <a href="#WilfordB01">Wilford Benjamin Vining and Edna Peters</a>)
+     b. 27 October 1915   Pardeeville, Wisconsin
+     m. (1) Aurora Helen Grunow
+                    (dau. of Martin Herman Grunow and Agnes Catherine Gensmer)
+                    b. 2 April 1916   Horicon, Wisconsin
+           (2) Bobbie Ruth Cooper
+     d. 14 June 1994   Brownsville, Texas
+  
+  <font size=+1>child by Aurora Helen Grunow:</font>
+     <a href="Mfamilies.htm#MichaelW01">Michael Wilford Vining</a>   b. 8 August 1937   -   m. Shirley Lillian Totten
+  <font size=+1>children by Bobbie Ruth Cooper:</font>
+     Patricia Sue Vining   b. 1947   -   m. (1) Ray Kophf;   (2) Rick Stearns
+     Theresa Katherine Ann Vining   b. 1948   -   m. Pat Myers
+     Joan Edna Vining   b. 1949   -   m. Ronald Lee Spicer

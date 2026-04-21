@@ -1,0 +1,43 @@
+id: WilliamH13
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamH05
+parentDesc: William Henry Vining and Sarah Louella Kitchen (adopted as Louella Wescott)
+head:
+  givenName: William Howard
+  birth:
+    date: 6 August 1924
+    place: "Munising, Michigan"
+marriages:
+  - date: 20 October 1950
+    place: "Grand Rapids, Michigan"
+    spouse:
+      givenName: Betty Jean
+      surname: Scott
+childrenGroups:
+  - children:
+      - name: William Scott Vining
+        birth:
+          date: 8 July 1953
+      - name: James Thomas Vining
+        birth:
+          date: 19 June 1955
+      - name: Nancy Lorraine Vining
+        birth:
+          date: 8 November 1956
+      - name: David Brian Vining
+        birth:
+          date: 13 May 1963
+raw: |-
+  <a name="WilliamH13"></a><font size=+2>William Howard Vining</font>
+     (son of <a href="#WilliamH05">William Henry Vining and Sarah Louella Kitchen (adopted as Louella Wescott)</a>)
+     b. 6 August 1924   Munising, Michigan
+     m. 20 October 1950   Grand Rapids, Michigan
+           Betty Jean Scott
+  
+  <font size=+1>children:</font>
+     William Scott Vining   b. 8 July 1953
+     James Thomas Vining   b. 19 June 1955
+     Nancy Lorraine Vining   b. 8 November 1956
+     David Brian Vining   b. 13 May 1963

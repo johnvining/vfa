@@ -1,0 +1,61 @@
+id: William18
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William
+  birth:
+    date: 7 July 1859
+    place: Georgia
+  death:
+    date: 11 September 1951
+marriages:
+  - date: 26 y. as of 1910 census
+    spouse:
+      givenName: Carrie E.
+      surname: "[&#8230;]"
+      birth:
+        date: 12 May 1867
+        place: Georgia
+      death:
+        date: 4 July 1948
+      burial:
+        place: "Lovejoy Cemetery   Newton County, Georgia"
+childrenGroups:
+  - children:
+      - name: child Vining
+      - name: child Vining
+      - name: George F. Vining
+        birth:
+          date: age 25 y. as of 1910 census
+          place: Georgia
+      - name: "[?] Vining"
+        birth:
+          date: age 15 y. as of 1910 census
+          place: Georgia
+      - name: William P. Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Georgia
+docsUrl: Wsources/William18doc.htm
+raw: |-
+  <a name="William18"></a><font size=+2>William Vining</font>
+     (son of [?])
+     b. 7 July 1859   Georgia
+     m. 26 y. as of 1910 census
+           Carrie E. [&#8230;]
+                 b. 12 May 1867   Georgia
+                 d. 4 July 1948
+                       bur. Lovejoy Cemetery   Newton County, Georgia
+     d. 11 September 1951
+           bur. Lovejoy Cemetery   Newton County, Georgia
+  
+  <font size=+1>children:</font>
+     child Vining
+     child Vining
+     George F. Vining   b. age 25 y. as of 1910 census   Georgia
+     [?] Vining   b. age 15 y. as of 1910 census   Georgia
+     William P. Vining   b. age 7 y. as of 1910 census   Georgia
+  
+  <a href="Wsources/William18doc.htm">documentation and notes</a>

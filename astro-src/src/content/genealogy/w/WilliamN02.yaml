@@ -1,0 +1,73 @@
+id: WilliamN02
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William N.
+  birth:
+    date: April 1846
+    place: Mississippi
+marriages:
+  - spouse:
+      givenName: Eliza J.
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Columbus T. Vining
+        entryId: ColumbusT01
+        entryLetter: C
+        birth:
+          date: December 1868
+          place: Arkansas
+        marriages:
+          - date: 9 y. as of 1900 census
+            spouse: "Alice [L. or D.?] [...]"
+      - name: George Vining
+        birth:
+          date: age 9 y. as of 1880 census
+          place: Arkansas
+      - name: Samuel E. Vining
+        birth:
+          date: May 1878
+          place: Arkansas
+      - name: Rosie L. Vining
+        birth:
+          date: age 1 m. as of 1880 census
+          place: Arkansas
+      - name: Henry C. Vining
+        birth:
+          date: April 1883
+          place: Arkansas
+      - name: Emmett Fred Vining
+        entryId: EmmettF01
+        entryLetter: E
+        birth:
+          date: 17 November 1885
+          place: Arkansas
+        marriages:
+          - date: 16 February 1916
+            spouse: Arkansas   Irene Clementine Loveless
+        death:
+          date: 13 October 1936
+        burial:
+          place: "Green Hill Cemetery   Green Hill, Arkansas"
+      - name: child Vining
+docsUrl: Wsources/WilliamN02doc.htm
+raw: |-
+  <a name="WilliamN02"></a><font size=+2>William N. Vining</font>
+     (son of [?])
+     b. April 1846   Mississippi
+     m. Eliza J. [...]
+              b. January 1846   Mississippi
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ColumbusT01">Columbus T. Vining</a>   b. December 1868   Arkansas   -   m. 9 y. as of 1900 census   Alice [L. or D.?] [...]
+     George Vining   b. age 9 y. as of 1880 census   Arkansas
+     Samuel E. Vining   b. May 1878   Arkansas
+     Rosie L. Vining   b. age 1 m. as of 1880 census   Arkansas
+     Henry C. Vining   b. April 1883   Arkansas
+     <a href="Efamilies.htm#EmmettF01">Emmett Fred Vining</a>   b. 17 November 1885   Arkansas   -   m. 16 February 1916   Arkansas   Irene Clementine Loveless   -   d. 13 October 1936   -   bur. Green Hill Cemetery   Green Hill, Arkansas
+     child Vining
+  
+  <a href="Wsources/WilliamN02doc.htm">documentation and notes</a>

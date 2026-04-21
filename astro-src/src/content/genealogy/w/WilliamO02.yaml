@@ -1,0 +1,81 @@
+id: WilliamO02
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Alvin01
+parentLetter: A
+parentDesc: "Alvin Vining and Sarah [...]"
+head:
+  givenName: William Otis
+  birth:
+    date: 13 August 1813
+    place: "Suffield, Connecticut"
+  death:
+    date: between 1870 and 1880 censuses
+marriages:
+  - date: 27 January 1840
+    spouse:
+      givenName: Eunice Horton
+      surname: Dwight
+      birth:
+        date: 15 April 1820
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: William Dwight Vining
+        entryId: WilliamD01
+        birth:
+          date: 15 May 1842
+          place: Massachusetts
+        marriages:
+          - date: 31 y. as of 1900 census
+            spouse: "Emma C. [...]"
+      - name: Henry Alvin Vining
+        birth:
+          date: 23 November 1846
+        death:
+          date: 12 July 1849
+      - name: George Otis Vining
+        entryId: GeorgeO01
+        entryLetter: G
+        birth:
+          date: 22 October 1848
+          place: Massachusetts
+        marriages:
+          - date: Abbie Maria Knowlton
+        death:
+          date: 21 July 1883
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+      - name: Helen Henrietta Vining
+        birth:
+          date: 23 March 1852
+          place: Massachusetts
+      - name: Flora Maria Vining
+        birth:
+          date: 6 August 1855
+          place: Massachusetts
+      - name: Frank Edward Vining
+        birth:
+          date: 24 March 1859
+          place: Massachusetts
+docsUrl: Wsources/WilliamO02doc.htm
+raw: |-
+  <a name="WilliamO02"></a><font size=+2>William Otis Vining</font>
+     (son of <a href="Afamilies.htm#Alvin01">Alvin Vining and Sarah [...]</a>)
+     b. 13 August 1813   Suffield, Connecticut
+     m. 27 January 1840
+           Eunice Horton Dwight
+                 (dau. of Oliver Dwight and [...])
+                 b. 15 April 1820   Massachusetts
+     d. between 1870 and 1880 censuses
+  
+  <font size=+1>children:</font>
+     <a href="#WilliamD01">William Dwight Vining</a>   b. 15 May 1842   Massachusetts   -   m. 31 y. as of 1900 census   Emma C. [...]
+     Henry Alvin Vining   b. 23 November 1846   -   d. 12 July 1849
+     <a href="Gfamilies.htm#GeorgeO01">George Otis Vining</a>   b. 22 October 1848   Massachusetts   -   m. Abbie Maria Knowlton   -   d. 21 July 1883   -   bur. Springfield Cemetery   Springfield, Massachusetts
+     Helen Henrietta Vining   b. 23 March 1852   Massachusetts
+     Flora Maria Vining   b. 6 August 1855   Massachusetts
+     Frank Edward Vining   b. 24 March 1859   Massachusetts
+  
+  <a href="Wsources/WilliamO02doc.htm">documentation and notes</a>
