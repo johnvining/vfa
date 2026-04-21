@@ -136,7 +136,7 @@ function parseChildLine(rawLine) {
   }
 
   // Split remaining by "   -   "
-  const segments = rest ? rest.split(/\s{3}-\s{3}/) : [];
+  const segments = rest ? rest.split(/\s{3}-\s+/) : [];
 
   let birth, death, burial;
   const marriages = [];
@@ -237,7 +237,7 @@ function parseEntry(block, letter) {
   if (!idMatch) return null;
   const id = idMatch[1];
 
-  const nameMatch = headerLine.match(/<font size=\+2>([^<]+)<\/font>/i);
+  const nameMatch = headerLine.match(/<font size=["']?\+2["']?>([^<]+)<\/font>/i);
   // Remove "Vining" suffix and trailing space
   let fullName = nameMatch ? nameMatch[1].replace(/\s+Vining\s*$/, '').trim() : '';
   // Handle "Vining Jr." etc.
@@ -256,7 +256,7 @@ function parseEntry(block, letter) {
 
   // Parse body: lines after header, before children/docs
   const headerIdx = lines.indexOf(headerLine);
-  const childrenIdx = lines.findIndex(l => /<font size=["+]1>children/i.test(l));
+  const childrenIdx = lines.findIndex(l => /<font size=["']?\+1["']?>children/i.test(l));
   const docsIdx = lines.findIndex(l => /documentation and notes/.test(l));
 
   const bodyLines = lines.slice(headerIdx + 1, childrenIdx !== -1 ? childrenIdx : (docsIdx !== -1 ? docsIdx : lines.length));
@@ -397,12 +397,15 @@ function parseEntry(block, letter) {
     const spouseRef = byMatch ? byMatch[1].trim() : undefined;
 
     // Find the next children heading or end
-    const nextHeadingIdx = lines.findIndex((l, i) => i > scanIdx && /<font size=["+]1>children/i.test(l));
+    const nextHeadingIdx = lines.findIndex((l, i) => i > scanIdx && /<font size=["']?\+1["']?>children/i.test(l));
     const groupEnd = nextHeadingIdx !== -1 && nextHeadingIdx < endIdx ? nextHeadingIdx : endIdx;
 
     const groupLines = lines.slice(scanIdx + 1, groupEnd);
     const children = groupLines
-      .filter(l => countLeadingSpaces(l) >= 3 && l.trim() && !/<font/.test(l))
+      .filter(l => {
+        const t = l.trim();
+        return countLeadingSpaces(l) >= 3 && t && !/<font/.test(l) && !/^</.test(t);
+      })
       .map(l => parseChildLine(l.trim()));
 
     if (children.length > 0) {
@@ -604,6 +607,7 @@ function yamlStr(v) {
   if (typeof v !== 'string') return String(v);
   const needsQuotes = /[:#\[\]{},&*?|<>=!%@`]/.test(v)
     || v.startsWith(' ') || v.endsWith(' ')
+    || v === '-' || v.startsWith('- ')  // bare dash = YAML list indicator
     || /^\d+$/.test(v)  // pure number string
     || v === 'true' || v === 'false' || v === 'null';
   return needsQuotes ? `"${v.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"` : v;
