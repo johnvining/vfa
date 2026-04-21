@@ -1,4 +1,5 @@
 id: FrankE01
+sequence: 32
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,10 +14,13 @@ head:
   death:
     date: 26 February 1943
     place: "Waitsburg, Washington"
+  burial:
+    place: "Waitsburg Cemetery   Waitsburg, Washington"
 marriages:
-  - spouse:
-      givenName: age 29 y. at
-      surname: marriage
+  - date: age 29 y. at marriage
+    spouse:
+      givenName: Ida May
+      surname: Inman
       birth:
         date: 30 July 1882
         place: "[Walla Walla?], Washington"

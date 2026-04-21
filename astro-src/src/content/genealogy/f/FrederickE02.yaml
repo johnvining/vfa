@@ -1,4 +1,5 @@
 id: FrederickE02
+sequence: 61
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 12 April 1930
     place: "Heber Springs, Cleburne County, Arkansas"
+  burial:
+    place: "Oaklawn Cemetery   Brinkley, Monroe County, Arkansas"
 marriages:
   - date: 13 September 1913
     place: "Brinkley, Monroe County, Arkansas"
     spouse:
       givenName: Julia Agnes
       surname: Hale
+      parents: Joseph William Hale and Myrtie Eliza Locke
       birth:
         date: 8 February 1893
         place: "Brinkley, Monroe County, Arkansas"

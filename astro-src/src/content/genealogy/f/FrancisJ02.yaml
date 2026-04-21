@@ -1,4 +1,5 @@
 id: FrancisJ02
+sequence: 15
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -17,6 +18,13 @@ marriages:
   - spouse:
       givenName: Alice Martha
       surname: Maurer
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Kathleen Janet Vining
+        birth:
+          date: 26 June 1945
+          place: "Ramsey County, Minnesota"
 docsUrl: Fsources/FrancisJ02doc.htm
 raw: |-
   <a name="FrancisJ02"></a><font size=+2>Francis Joseph Vining</font>

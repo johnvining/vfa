@@ -1,4 +1,5 @@
 id: FranklinE02
+sequence: 44
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,10 +13,21 @@ head:
     place: Kansas
   death:
     date: June 1984
+  burial:
+    place: "Harrison Cemetery   Thayer, Kansas"
 marriages:
   - spouse:
       givenName: Gladys Opal
       surname: Carter
+      parents: Luther Burlingham Carter and Amy Myrtle Henderson
+      birth:
+        date: 4 May 1917
+        place: "Geraldine, Montana"
+      death:
+        date: 8 March 2006
+        place: "Chanute, Kansas"
+      burial:
+        place: "Harrison Cemetery   Thayer, Kansas"
 childrenGroups:
   - children:
       - name: Franklin Vining

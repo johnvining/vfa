@@ -1,4 +1,5 @@
 id: Frank03
+sequence: 25
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,6 +13,21 @@ marriages:
   - spouse:
       givenName: Annie
       surname: "[&#8230;]"
+      birth:
+        date: age 30 y. as of 1930 census
+        place: Louisiana
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Eugene Frank Vining
+        birth:
+          date: 21 December 1924
+          place: "Montpelier, Louisiana"
+        death:
+          date: 2 August 2001
+          place: Michigan
+        burial:
+          place: "Mount Zion and Great Refuge Temple   Montpelier, Lousiana"
 docsUrl: Fsources/Frank03doc.htm
 raw: |-
   <a name="Frank03"></a><font size=+2>Frank Vining</font>

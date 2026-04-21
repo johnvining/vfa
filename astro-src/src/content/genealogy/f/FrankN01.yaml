@@ -1,4 +1,5 @@
 id: FrankN01
+sequence: 38
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 26 May 1919
     place: "St. Albans, Maine"
+  burial:
+    place: "St. Albans, Maine"
 marriages:
   - date: 23 October 1907
     place: "St. Albans, Maine"
     spouse:
       givenName: "Clara Belle &#8220;Carrie&#8221;"
       surname: Hanson
+      parents: "Charles E. Hanson and Dora [...]"
       birth:
         date: 14 March 1878
         place: "Ripley, Maine"
@@ -27,6 +31,22 @@ marriages:
         place: "Hartland, Maine"
       burial:
         place: "Village Cemetery   St. Albans, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Nathaniel Hanson Vining
+        entryId: NathanielH02
+        entryLetter: N
+        birth:
+          date: 2 March 1909
+          place: Maine
+        marriages:
+          - date: 27 December 1930
+            place: "Pittsfield, Maine"
+            spouse: "Elsie Baird,   divorced"
+        death:
+          date: 16 June 1971
+          place: "Pittsfield, Maine"
 docsUrl: Fsources/FrankN01doc.htm
 raw: |-
   <a name="FrankN01"></a><font size=+2>Frank Newell Vining</font>

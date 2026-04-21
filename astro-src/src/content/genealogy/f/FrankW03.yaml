@@ -1,4 +1,5 @@
 id: FrankW03
+sequence: 39
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: "25 [April or March?] 1937"
     place: "Lorain, Lorain County, Ohio"
+  burial:
+    place: "Elmwood Cemetery   Lorain, Lorain County, Ohio"
 marriages:
   - spouse:
       givenName: Nellie E.
       surname: "[&#8230;]"
+      birth:
+        date: December 1874
+        place: Ohio
+      death:
+        date: "1959"
+      burial:
+        place: "Elmwood Cemetery   Lorain, Lorain County, Ohio"
 childrenGroups:
   - children:
       - name: Roy Ellis Vining

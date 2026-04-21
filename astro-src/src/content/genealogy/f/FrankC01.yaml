@@ -1,4 +1,5 @@
 id: FrankC01
+sequence: 31
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: "Mary A. [Scuttle or Cosgrove"
       surname: "?]"
+      birth:
+        date: November 1849
+        place: Ireland
 childrenGroups:
   - children:
       - name: Thomas Vining

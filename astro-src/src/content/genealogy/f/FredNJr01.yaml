@@ -1,4 +1,5 @@
 id: FredNJr01
+sequence: 54
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,6 +13,15 @@ marriages:
   - spouse:
       givenName: Gloria Jean
       surname: Bailey
+      parents: Clarence G. Bailey and Esther Graham
+      birth:
+        date: 9 November 1946
+        place: "Lake City, Florida"
+      death:
+        date: 5 April 1992
+        place: "Lake City, Florida"
+      burial:
+        place: "Philippi Baptist Church Cemetery   Mikesville, Florida"
 childrenGroups:
   - children:
       - name: Staci Vining

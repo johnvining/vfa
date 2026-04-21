@@ -1,4 +1,5 @@
 id: FreddieL01
+sequence: 58
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
       givenName: Patty
       surname: "[...]"
 childrenGroups:
+  - headingText: adopted child
+    children:
+      - name: "Rachel Vining (daughter of Patty [...])"
   - children:
       - name: Crystal Vining
       - name: Warren Vining

@@ -1,4 +1,5 @@
 id: FredP01
+sequence: 57
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: Massachusetts
   death:
     date: 28 September 1924
+  burial:
+    place: "Pine Grove Cemetery   Lynn, Massachusetts"
 marriages:
   - date: 11 y. as of 1900 census
     spouse:
@@ -20,6 +23,19 @@ marriages:
       birth:
         date: January 1868
         place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Edward P. Vining
+        entryId: EdwardP02
+        entryLetter: E
+        birth:
+          date: January 1891
+          place: "Lynn, Massachusetts"
+        marriages:
+          - date: 21 February 1913
+            place: "Portland, Maine"
+            spouse: Eleanor B. Berrett
 docsUrl: Fsources/FredP01doc.htm
 raw: |-
   <a name="FredP01"></a><font size=+2>Fred P. Vining</font>

@@ -1,4 +1,5 @@
 id: FrankA01
+sequence: 26
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -14,6 +15,10 @@ marriages:
   - spouse:
       givenName: Bonnie Sue
       surname: McClurken
+      birth:
+        date: age 51 y. at death
+      death:
+        date: 13 January 2004
 childrenGroups:
   - children:
       - name: Tara Lynne Vining

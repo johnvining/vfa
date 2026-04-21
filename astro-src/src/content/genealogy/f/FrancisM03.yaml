@@ -1,4 +1,5 @@
 id: FrancisM03
+sequence: 18
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,10 +13,20 @@ head:
     place: Alabama
   death:
     date: 6 July 1928
+  burial:
+    place: "Rose Hill Cemetery   Macon, Georgia"
 marriages:
   - spouse:
       givenName: Mary Leah
       surname: Harris
+      birth:
+        date: 26 May 1872
+        place: Georgia
+      death:
+        date: 8 September 1954
+        place: "Southern Pines, North Carolina"
+      burial:
+        place: "Rose Hill Cemetery   Macon, Georgia"
 childrenGroups:
   - children:
       - name: James Myloe Vining

@@ -1,4 +1,5 @@
 id: Frank01
+sequence: 21
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -15,6 +16,11 @@ marriages:
   - spouse:
       givenName: Martha
       surname: Green
+      birth:
+        date: March 1826
+        place: "Saint Helena Parish, Louisiana"
+      death:
+        place: "Saint Helena Parish, Louisiana"
 childrenGroups:
   - children:
       - name: "[Eizabeth Vining"

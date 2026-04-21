@@ -1,4 +1,5 @@
 id: FranklinE01
+sequence: 43
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "East Windsor, Connecticut"
   death:
     date: "1927"
+  burial:
+    place: "Weakley Cemetery   New Albany, Kansas"
 marriages:
   - date: 5 February 1878
     place: "Wilson, Kansas"
     spouse:
       givenName: Alice Flossie
       surname: Lindsley
+      parents: John A. Lindsley and Sarah Jane McFall
       birth:
         date: 21 August 1857
         place: Iowa

@@ -1,4 +1,5 @@
 id: FrederickJ01
+sequence: 64
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: Massachusetts
   death:
     date: 14 May 1931
+  burial:
+    place: "[High Street Cemetery or Saint Marys Assumption Cemetery ?]  Haydenville, Massachusetts"
 marriages:
   - number: 1
     date: 3 y. as of 1900 census
@@ -27,6 +30,21 @@ marriages:
         place: "Saint Marys Assumption Cemetery   Haydenville, Massachusetts"
   - number: 2
     date: Katherine F. Hogan
+    spouse:
+      birth:
+        date: "1885"
+        place: Massachusetts
+      death:
+        date: "1941"
+      burial:
+        place: "Saint Marys Assumption Cemetery   Haydenville, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "Ella [C. or K.?] Vining"
+        birth:
+          date: "age 1 y., 6 m. as of 1920 census"
+          place: Massachusetts
 docsUrl: Fsources/FrederickJ01doc.htm
 raw: |-
   <a name="FrederickJ01"></a><font size=+2>Frederick J. Vining</font>

@@ -1,4 +1,5 @@
 id: FrankA02
+sequence: 28
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,11 +13,14 @@ head:
     place: Iowa
   death:
     date: 31 August 1977
+  burial:
+    place: "Kingsley Cemetery   Kingsley, Iowa"
 marriages:
   - date: 21 August 1929
     spouse:
       givenName: "Wynola M. &#8220;Hoby&#8221;"
       surname: Clark
+      parents: William D. Clark and Frances Koon
       birth:
         date: 22 November 1910
         place: "Moville, Iowa"

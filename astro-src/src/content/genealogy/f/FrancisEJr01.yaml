@@ -1,4 +1,5 @@
 id: FrancisEJr01
+sequence: 12
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 26 December 1975
     place: "East Boston, Massachusetts"
+  burial:
+    place: "Oak Grove Cemetery   Medford, Massachusetts"
 marriages:
   - date: 9 July 1939
     place: "Charlestown, Massachusetts"
     spouse:
       givenName: Sara Lee
       surname: McDaniel
+      parents: George H. McDaniel and Sarah Helly
 childrenGroups:
   - children:
       - name: Francis Earl Vining III

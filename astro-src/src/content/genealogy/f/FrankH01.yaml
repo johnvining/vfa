@@ -1,4 +1,5 @@
 id: FrankH01
+sequence: 33
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -7,6 +8,7 @@ parentLetter: H
 parentDesc: Harry C. Vining and Ada Eversoll
 head:
   givenName: Frank Harry
+  headingNote: "[see note below]"
   birth:
     date: age 33 y. as of 16 November 1946
     place: "Chicago, IL"
@@ -17,6 +19,10 @@ marriages:
   - spouse:
       givenName: Irene Mary
       surname: Neumann
+      birth:
+        date: age 22 y. as of 16 November 1946
+      death:
+        date: missing as of 23 October 1953 at age 31 y.
 childrenGroups:
   - children:
       - name: Rose Edith Russell

@@ -1,4 +1,5 @@
 id: FrankW01
+sequence: 42
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -18,6 +19,7 @@ marriages:
     spouse:
       givenName: "Jeanette &#8220;Nettie&#8221;"
       surname: Smith
+      parents: William G. Smith and Esstell Braosee
       birth:
         date: 16 March 1852
         place: "Rutland, Vermont"

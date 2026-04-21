@@ -1,4 +1,5 @@
 id: FrederickE01
+sequence: 62
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,6 +14,8 @@ head:
   death:
     date: 12 February 1934
     place: "Deferiet, New York"
+  burial:
+    place: "Hillside Cemetery   Lisbon, Maine"
 marriages:
   - date: 1 June 1889
     place: "Lisbon, Maine"
@@ -65,6 +68,9 @@ childrenGroups:
       - name: Carl Merton Vining
         entryId: CarlM01
         entryLetter: C
+        birth:
+          date: 4 September 1897
+          place: "Lisbon, Maine"
         marriages:
           - date: 3 August 1922
             place: "Wheaton, Illinois"

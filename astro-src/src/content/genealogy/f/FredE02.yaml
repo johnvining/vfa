@@ -1,4 +1,5 @@
 id: FredE02
+sequence: 49
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: Massachusetts
   death:
     date: "1923"
+  burial:
+    place: "Melrose Cemetery   Brockton, Massachusetts"
 marriages:
   - date: 21 December 1887
     place: "Middleborough, Massachusetts"
     spouse:
       givenName: Mary A.
       surname: Williams
+      parents: "Samuel Williams and Elva A. [&#8230;]"
       birth:
         date: September 1869
         place: Massachusetts

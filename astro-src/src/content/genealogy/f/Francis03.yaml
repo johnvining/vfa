@@ -1,4 +1,5 @@
 id: Francis03
+sequence: 9
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -14,6 +15,9 @@ marriages:
   - spouse:
       givenName: Elitha
       surname: "[...]"
+      birth:
+        date: age 27 y. as of 1860 census
+        place: Virginia
 childrenGroups:
   - children:
       - name: Emma Vining

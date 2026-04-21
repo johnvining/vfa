@@ -1,4 +1,5 @@
 id: FloydR01
+sequence: 5
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,10 +14,19 @@ head:
   death:
     date: 19 February 1995
     place: "Elkmont, Limestone County, Alabama"
+  burial:
+    place: "Antioch Cemetery   Elkmont, Limestone County, Alabama"
 marriages:
   - spouse:
       givenName: Pearlie Mae
       surname: Brooks
+      birth:
+        date: 27 July 1908
+        place: Alabama
+      death:
+        date: 4 January 1995
+      burial:
+        place: "Antioch Cemetery   Elkmont, Limestone County, Alabama"
 childrenGroups:
   - children:
       - name: James Monroe Vining

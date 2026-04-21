@@ -1,4 +1,5 @@
 id: FrancisM02
+sequence: 16
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -14,6 +15,10 @@ marriages:
   - spouse:
       givenName: Lydia
       surname: Smith
+      parents: "[&#8230;] Smith and Mary [&#8230;]"
+      birth:
+        date: age 28 y. as of 1870 census
+        place: Ohio
 childrenGroups:
   - children:
       - name: Emory M. Vining

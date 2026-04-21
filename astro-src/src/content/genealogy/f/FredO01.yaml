@@ -1,4 +1,5 @@
 id: FredO01
+sequence: 56
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -16,6 +17,13 @@ marriages:
   - spouse:
       givenName: May Eugenia
       surname: Richards
+      parents: William Martin Richards and Mary Safrona Hawkins
+      birth:
+        date: 4 May 1895
+        place: "Murray County, Georgia"
+      death:
+        date: 8 September 1959
+        place: "Sacramento, Sacramento County, California"
 childrenGroups:
   - children:
       - name: Felix Barrett Vining
@@ -28,6 +36,9 @@ childrenGroups:
       - name: "Jesse Osborn Vining   b. 1 November 1919   Dalton, Whitfield County, Georgia   -   m. Audrey Mabel Ballard"
         entryId: JesseO01
         entryLetter: J
+        death:
+          date: 19 April 1990
+          place: "Nevada County, California"
         burial:
           place: "Arlington National Cemetery   Arlington, Virginia"
 docsUrl: Fsources/FredO01doc.htm

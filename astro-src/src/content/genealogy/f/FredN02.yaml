@@ -1,4 +1,5 @@
 id: FredN02
+sequence: 53
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,10 +13,18 @@ head:
     place: Florida
   death:
     date: 6 September 1982
+  burial:
+    place: "Forest Lawn Memorial Gardens   Lake City, Florida"
 marriages:
   - spouse:
       givenName: Delma
       surname: Box
+      birth:
+        date: 7 March 1917
+      death:
+        date: 16 February 2006
+      burial:
+        place: "Forest Lawn Memorial Gardens   Lake City, Florida"
 childrenGroups:
   - children:
       - name: Virginia Vining
@@ -27,6 +36,7 @@ childrenGroups:
         death:
           date: 26 August 2025
           place: "Lake City, Florida"
+        note: "[see <a href=\"https://www.legacy.com/us/obituaries/lakecityreporter/name/virginia-miles-obituary?id=59305501\" target=\"_blank\">obituary</a>]"
       - name: Fred N. Vining Jr.
         entryId: FredNJr01
         birth:

@@ -1,4 +1,5 @@
 id: FrancisMJr01
+sequence: 19
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
   death:
     date: 3 September 1906
     place: "Pioneer, West Carroll Parish, Louisiana"
+  burial:
+    place: "[Old] Forest Cemetery   Forest, Louisiana"
 marriages:
   - date: 30 December 1883
     place: "Lincoln Parish, Louisiana"
     spouse:
       givenName: Mary Dora
       surname: Kinman
+      parents: Joseph M. Kinman and Elizabeth Frances McPherson
       birth:
         date: 14 January 1866
         place: "Jackson Parish, Louisiana"

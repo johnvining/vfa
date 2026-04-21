@@ -1,4 +1,5 @@
 id: FrankB01
+sequence: 29
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -17,6 +18,10 @@ marriages:
   - spouse:
       givenName: Ruth
       surname: Stickel
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Frank Booth Vining Jr.
 raw: |-
   <a name="FrankB01"></a><font size=+2>Frank Booth Vining</font>
      (son of <a href="Sfamilies.htm#SamuelE01">Samuel E. Vining and Harriet A. Booth<a>)

@@ -1,4 +1,5 @@
 id: FrederickH01
+sequence: 63
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Cooper, Maine"
   death:
     date: 8 May 1920
+    place: "West Lubec, Maine"
+  burial:
     place: "West Lubec, Maine"
 marriages:
   - date: 15 November 1879
@@ -84,7 +87,8 @@ childrenGroups:
         death:
           date: December 1977
           place: "Manchester, New Hampshire"
-  - children:
+  - headingText: "children?"
+    children:
       - name: George H. Vining
         birth:
           date: 23 April 1897

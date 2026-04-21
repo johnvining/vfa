@@ -1,4 +1,5 @@
 id: FredN01
+sequence: 55
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,11 +14,14 @@ head:
   death:
     date: 26 September 1973
     place: "Oswego, Kansas"
+  burial:
+    place: "Elm Grove Cemetery   Edna, Kansas"
 marriages:
   - date: 25 December 1910
     spouse:
       givenName: Inez Blanche
       surname: Wise
+      parents: Sylvester J. Wise and Hattie Lasley
       birth:
         date: 20 August 1882
         place: "Chetopa, Kansas"

@@ -1,4 +1,5 @@
 id: FayA01
+sequence: 1
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -17,6 +18,9 @@ marriages:
   - spouse:
       givenName: Fern L.
       surname: Schultz
+      birth:
+        date: age 24 y. as of 1930 census
+        place: Michigan
 childrenGroups:
   - children:
       - name: Cleo Jean Vining

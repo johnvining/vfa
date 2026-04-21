@@ -1,4 +1,5 @@
 id: FestusG01
+sequence: 3
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,12 +13,15 @@ head:
     place: "Otto, Kankakee County, Illinois"
   death:
     date: "1942"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois"
 marriages:
   - date: 2 y. as of 1870 census
     place: "Kankakee, Kankakee County, Illinois"
     spouse:
       givenName: Almira B.
       surname: Dennison
+      parents: James H. Dennison and Ann E. Harrison
       birth:
         date: June 1874
         place: "Otto, Illinois"
@@ -26,6 +30,12 @@ marriages:
         place: "Kankakee, Kankakee County, Illinois"
       burial:
         place: "Mount Grove Cemetery   Kankakee, Kankakee County, Illinois"
+childrenGroups:
+  - headingText: "child by Almira B. Dennison"
+    children:
+      - name: Winnie F. Vining
+        birth:
+          place: "Otto, Kankakee County, Illinois"
 docsUrl: Fsources/FestusG01doc.htm
 raw: |-
   <a name="FestusG01"></a><font size=+2>Festus G. Vining</font>

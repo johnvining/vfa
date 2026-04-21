@@ -1,4 +1,5 @@
 id: FelixJ01
+sequence: 2
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -13,12 +14,15 @@ head:
   death:
     date: 9 July 1933
     place: Georgia
+  burial:
+    place: "Dawnville Cemetery   Dawnville, Whitfield County, Georgia"
 marriages:
   - date: 27 March 1879
     place: Georgia
     spouse:
       givenName: Sarah Elizabeth
       surname: Cain
+      parents: George Washington Cain and Nancy Boyd
       birth:
         date: 26 April 1861
         place: Georgia
@@ -93,6 +97,8 @@ childrenGroups:
         marriages:
           - date: approx. 4 y. as of 1930 census
             spouse: Lois Quinn Davis
+        death:
+          date: 5 April 1969
         burial:
           place: "Whitfield Memorial Gardens   Dalton, Whitfield County, Georgia"
 docsUrl: Fsources/FelixJ01doc.htm

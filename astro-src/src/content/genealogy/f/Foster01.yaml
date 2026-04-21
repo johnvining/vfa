@@ -1,4 +1,5 @@
 id: Foster01
+sequence: 7
 letter: F
 lastUpdated: 26 February 2023
 relationship: son
@@ -12,6 +13,8 @@ head:
     place: "Southwick, Massachusetts"
   death:
     date: "1939"
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
 marriages:
   - date: 28 March 1888
     spouse:
@@ -24,6 +27,10 @@ marriages:
         date: "1945"
       burial:
         place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: child Vining
 docsUrl: Fsources/Foster01doc.htm
 raw: |-
   <a name="Foster01"></a><font size=+2>Foster Vining</font>
