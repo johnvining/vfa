@@ -1,0 +1,72 @@
+id: EugeneF01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EltonC01
+parentDesc: Elton Cassius Vining and Anna Banta
+head:
+  givenName: Eugene F.
+  birth:
+    date: 18 October 1917
+    place: "Van Wert County, Ohio"
+  death:
+    date: 25 October 1999
+    place: "Van Wert, Ohio"
+marriages:
+  - date: 20 February 1943
+    spouse:
+      givenName: Rosella L.
+      surname: Dull
+      birth:
+        date: 26 July 1920
+        place: "Bloomfield, Indiana"
+      death:
+        date: 15 March 2009
+        place: "Celina, Ohio"
+      burial:
+        place: "Willshire Cemetery   Willshire, Ohio"
+childrenGroups:
+  - children:
+      - name: Marianna Vining
+        birth:
+          date: 27 September 1944
+        marriages:
+          - date: Kenneth Fetters
+      - name: Robert Vining
+        entryId: Robert05
+        entryLetter: R
+        birth:
+          date: 20 November 1946
+          place: "Van Wert, Ohio"
+        marriages:
+          - date: Martha White
+        death:
+          date: 17 October 2006
+          place: "Celina, Ohio"
+        burial:
+          place: "Willshire Cemetery   Willshire, Ohio"
+      - name: John Eric Vining
+        birth:
+          date: 6 March 1955
+        marriages:
+          - date: "Teresa [...]"
+docsUrl: Esources/EugeneF01doc.htm
+raw: |-
+  <a name="EugeneF01"></a><font size=+2>Eugene F. Vining</font>
+     (son of <a href="#EltonC01">Elton Cassius Vining and Anna Banta</a>)
+     b. 18 October 1917   Van Wert County, Ohio
+     m. 20 February 1943
+           Rosella L. Dull
+                 (dau. of Merrill Dull and Mary Erwin)
+                 b. 26 July 1920   Bloomfield, Indiana
+                 d. 15 March 2009   Celina, Ohio
+                       bur. Willshire Cemetery   Willshire, Ohio
+     d. 25 October 1999   Van Wert, Ohio
+           bur. Willshire Cemetery   Willshire, Ohio
+  
+  <font size=+1>children:</font>
+     Marianna Vining   b. 27 September 1944   -   m. Kenneth Fetters
+     <a href="Rfamilies.htm#Robert05">Robert Vining</a>   b. 20 November 1946   Van Wert, Ohio   -   m. Martha White   -   d. 17 October 2006   Celina, Ohio   -   bur. Willshire Cemetery   Willshire, Ohio
+     John Eric Vining   b. 6 March 1955   -   m. Teresa [...]
+  
+  <a href="Esources/EugeneF01doc.htm">documentation and notes</a>

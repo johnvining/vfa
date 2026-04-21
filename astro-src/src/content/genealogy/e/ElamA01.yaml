@@ -1,0 +1,100 @@
+id: ElamA01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Elem01
+parentDesc: Elem Vining and Sarah Allen
+head:
+  givenName: Elam Allen
+  birth:
+    date: 14 February 1804
+    place: "Hartford, Connecticut"
+  death:
+    date: 27 February 1870
+marriages:
+  - number: 1
+    date: Hannah Palmer
+  - number: 2
+    date: "1864"
+    spouse:
+      givenName: Mrs. Mary Elizabeth
+      surname: Sackett
+childrenGroups:
+  - spouseRef: Hannah Palmer
+    children:
+      - name: Mary Elizabeth Vining
+        birth:
+          date: "1828"
+          place: "Berlin Township, Delaware, Ohio"
+        marriages:
+          - date: 8 October 1845
+            spouse: Obadiah R. May
+      - name: William Reynolds Vining
+        entryId: WilliamR02
+        entryLetter: W
+        birth:
+          date: 5 April 1829
+          place: "Delaware County, Ohio"
+        marriages:
+          - date: "[16 or 17?] October 1850"
+            spouse: Martha G. May
+      - name: Harriet Almira Vining
+        birth:
+          date: "1832"
+        marriages:
+          - date: 26 October 1854
+            spouse: George Bigelow
+      - name: Reuben D. Vining
+        entryId: ReubenD01
+        entryLetter: R
+        birth:
+          date: "1835"
+          place: "[New York?]"
+        marriages:
+          - date: 30 March 1858
+            spouse: "Clarinda &#8220;Clara&#8221; May"
+        death:
+          date: 15 August 1871
+      - name: Benjamin Allen Vining
+        birth:
+          date: "1839"
+          place: Ohio
+        marriages:
+          - number: 1
+            date: "1861"
+            spouse: Cordelia Gregg (d. 1864)
+          - number: 2
+            date: Susan Dunin
+        death:
+          date: 24 March 1897
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: Caroline E. Vining
+        birth:
+          date: "1844"
+          place: Ohio
+        marriages:
+          - date: 3 November 1863
+            spouse: Gabriel May
+docsUrl: Esources/ElamA01doc.htm
+raw: |-
+  <a name="ElamA01"></a><font size=+2>Elam Allen Vining</font>
+     (son of <a href="#Elem01">Elem Vining and Sarah Allen</a>)
+     b. 14 February 1804   Hartford, Connecticut
+     m. (1) Hannah Palmer
+                    b. age 48 y. as of 1860 census   New Jersey
+                    d. 1863
+           (2) 1864
+                 Mrs. Mary Elizabeth Sackett
+     d. 27 February 1870
+           bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <font size=+1>children by Hannah Palmer:</font>
+     Mary Elizabeth Vining   b. 1828   Berlin Township, Delaware, Ohio   -   m. 8 October 1845   Obadiah R. May
+     <a href="Wfamilies.htm#WilliamR02">William Reynolds Vining</a>   b. 5 April 1829   Delaware County, Ohio   -   m. [16 or 17?] October 1850   Martha G. May
+     Harriet Almira Vining   b. 1832   -   m. 26 October 1854   George Bigelow
+     <a href="Rfamilies.htm#ReubenD01">Reuben D. Vining</a>   b. 1835   [New York?]   -   m. 30 March 1858   Clarinda &#8220;Clara&#8221; May   -   d. 15 August 1871
+     Benjamin Allen Vining   b. 1839   Ohio   -   m. (1) 1861   Cordelia Gregg (d. 1864);   (2) Susan Dunin   -   d. 24 March 1897   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     Caroline E. Vining   b. 1844   Ohio   -   m. 3 November 1863   Gabriel May
+  
+  <a href="Esources/ElamA01doc.htm">documentation and notes</a>

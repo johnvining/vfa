@@ -1,0 +1,63 @@
+id: EarlM01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EarlE01
+parentDesc: Earl Eugene Vining and Ada Lodrigue
+head:
+  givenName: Earl Marvin
+  birth:
+    date: 27 August 1925
+    place: Louisiana
+  death:
+    date: 13 October 1983
+marriages:
+  - spouse:
+      givenName: Una Marie
+      surname: Toups
+childrenGroups:
+  - children:
+      - name: Danny Joseph Vining
+        entryId: DannyJ01
+        entryLetter: D
+        birth:
+          date: 1 March 1950
+          place: "Lafourche Parish, Louisiana"
+        marriages:
+          - number: 1
+            date: Emily Eymard
+          - number: 2
+            date: 37 y. at death
+            spouse: Kathleen Daigle
+        death:
+          date: 26 May 2011
+          place: "Lafayette, Lafayette Parish, Louisiana"
+        burial:
+          place: "Greenlawn Memorial Park   Lafayette, Louisiana"
+      - name: Marvin Vining
+      - name: Joey Vining
+      - name: Tim Vining
+      - name: Diane Marie Vining
+        birth:
+          date: 29 February 1960
+docsUrl: Esources/EarlM01doc.htm
+raw: |-
+  <a name="EarlM01"></a><font size=+2>Earl Marvin Vining</font>
+     (son of <a href="#EarlE01">Earl Eugene Vining and Ada Lodrigue</a>)
+     b. 27 August 1925   Louisiana
+     m. Una Marie Toups
+              (dau. of Manuel Pierre Toups and Viola Marie Adams)
+              b. 4 May 1931
+              d. 18 March 1991
+                    bur. Saint Joseph Church Cemetery   Galliano, Louisiana
+     d. 13 October 1983
+           bur. Saint Joseph Church Cemetery   Galliano, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DannyJ01">Danny Joseph Vining</a>   b. 1 March 1950   Lafourche Parish, Louisiana   -   m. (1) Emily Eymard;   (2) 37 y. at death   Kathleen Daigle   -   d. 26 May 2011   Lafayette, Lafayette Parish, Louisiana   -   bur. Greenlawn Memorial Park   Lafayette, Louisiana
+     Marvin Vining
+     Joey Vining
+     Tim Vining
+     Diane Marie Vining   b. 29 February 1960
+  
+  <a href="Esources/EarlM01doc.htm">documentation and notes</a>

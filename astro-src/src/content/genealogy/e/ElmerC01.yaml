@@ -1,0 +1,78 @@
+id: ElmerC01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Thomas04
+parentLetter: T
+parentDesc: Thomas Vining and Releaf S. Walker
+head:
+  givenName: Elmer Chandler
+  birth:
+    date: 16 January 1871
+    place: "Avon, Franklin County, Maine"
+  death:
+    date: 6 November 1940
+    place: "Corinna, Penobscot County, Maine"
+marriages:
+  - date: 4 June 1908
+    place: "Corinna, Penobscot County, Maine"
+    spouse:
+      givenName: Lelia Madge
+      surname: Day
+      birth:
+        date: 11 January 1889
+        place: "Corinna, Penobscot County, Maine"
+      death:
+        date: 13 July 1983
+        place: "Biddeford, York County, Maine"
+      burial:
+        place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Mildred Enid Vining
+        birth:
+          date: 4 May 1912
+          place: "Solon, Somerset County, Maine"
+        marriages:
+          - date: 25 June 1933
+            place: "Boothbay Harbor, Lincoln County, Maine"
+            spouse: Charles Elucippe Bolduc
+        death:
+          date: 2 March 1997
+          place: "Skowhegan, Somerset County, Maine"
+        burial:
+          place: "St. Francis Catholic Cemetery   Waterville, Kennebec County, Maine"
+      - name: Thomas Frank Vining
+        entryId: ThomasF02
+        entryLetter: T
+        birth:
+          date: 9 January 1920
+          place: "Boothbay Harbor, Lincoln County, Maine"
+        marriages:
+          - date: 1 June 1946
+            place: "Saco, York County, Maine"
+            spouse: Phyllis May Boothby
+        death:
+          date: 7 March 2007
+          place: "Lewiston, Androscoggin County, Maine"
+        burial:
+          place: "Maine Veterans' Memorial Cemetery   Mount Vernon Road   Augusta, Kennebec County, Maine"
+docsUrl: Esources/ElmerC01doc.htm
+raw: |-
+  <a name="ElmerC01"></a><font size=+2>Elmer Chandler Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas04">Thomas Vining and Releaf S. Walker</a>)
+     b. 16 January 1871   Avon, Franklin County, Maine
+     m. 4 June 1908   Corinna, Penobscot County, Maine
+           Lelia Madge Day
+                 (dau. of Frank Edward Day and Mercy Ann McCard)
+                 b. 11 January 1889   Corinna, Penobscot County, Maine
+                 d. 13 July 1983   Biddeford, York County, Maine
+                       bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     d. 6 November 1940   Corinna, Penobscot County, Maine
+           bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Mildred Enid Vining   b. 4 May 1912   Solon, Somerset County, Maine   -   m. 25 June 1933   Boothbay Harbor, Lincoln County, Maine   Charles Elucippe Bolduc   -   d. 2 March 1997   Skowhegan, Somerset County, Maine   -   bur. St. Francis Catholic Cemetery   Waterville, Kennebec County, Maine
+     <a href="Tfamilies.htm#ThomasF02">Thomas Frank Vining</a>   b. 9 January 1920   Boothbay Harbor, Lincoln County, Maine   -   m. 1 June 1946   Saco, York County, Maine   Phyllis May Boothby   -   d. 7 March 2007   Lewiston, Androscoggin County, Maine   -   bur. Maine Veterans' Memorial Cemetery   Mount Vernon Road   Augusta, Kennebec County, Maine
+  
+  <a href="Esources/ElmerC01doc.htm">documentation and notes</a>

@@ -1,0 +1,48 @@
+id: ErrolL01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: KamitaE01
+parentLetter: K
+parentDesc: Kamita Earl Vining and Mabel Dailey
+head:
+  givenName: Errol Lynn
+  birth:
+    date: 24 September 1938
+    place: "Kalamazoo, Michigan"
+  death:
+    date: 31 August 2015
+    place: "Holland, Michigan"
+marriages:
+  - date: 11 February 1961
+    place: "Kalamazoo, Michigan"
+    spouse:
+      givenName: JoAnn
+      surname: Troccko
+childrenGroups:
+  - children:
+      - name: Heather Vining
+        marriages:
+          - date: "[&#8230;] Edsall"
+      - name: Keith Christopher Vining
+        entryId: KeithC01
+        entryLetter: K
+        birth:
+          date: 10 January 1968
+        marriages:
+          - date: Eva Clark
+docsUrl: Esources/ErrolL01doc.htm
+raw: |-
+  <a name="ErrolL01"></a><font size=+2>Errol Lynn Vining</font>
+     (son of <a href="Kfamilies.htm#KamitaE01">Kamita Earl Vining and Mabel Dailey</a>)
+     b. 24 September 1938   Kalamazoo, Michigan
+     m. 11 February 1961   Kalamazoo, Michigan
+           JoAnn Troccko
+     d. 31 August 2015   Holland, Michigan
+           bur. Lakeside Cemetery   Decatur, Michigan
+  
+  <font size=+1>children:</font>
+     Heather Vining   m. [&#8230;] Edsall
+     <a href="Kfamilies.htm#KeithC01">Keith Christopher Vining</a>   b. 10 January 1968   -   m. Eva Clark
+  
+  <a href="Esources/ErrolL01doc.htm">documentation and notes</a>

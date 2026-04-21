@@ -1,0 +1,56 @@
+id: EdwinC01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: HenryC02
+parentLetter: H
+parentDesc: Henry Calvin Vining and Gertrude Delia Mewherter
+head:
+  givenName: Edwin Calvin
+  birth:
+    date: 3 January 1906
+    place: "Clinton, Iowa"
+  death:
+    date: 18 March 1987
+    place: "Clinton, Iowa"
+marriages:
+  - date: 25 September 1930
+    spouse:
+      givenName: Alice Angeline
+      surname: Wells
+      birth:
+        date: 25 June 1909
+        place: "Sanger, North Dakota"
+      death:
+        date: 21 July 1996
+        place: "Clinton, Iowa"
+childrenGroups:
+  - children:
+      - name: Eugene Henry Vining
+        entryId: EugeneH01
+        birth:
+          date: 9 November 1933
+          place: "Clinton, Iowa"
+        marriages:
+          - date: 4 August 1956
+            spouse: Joyce Alice Mills
+      - name: Mildred Sue Vining
+        birth:
+          date: 11 April 1936
+          place: "Clinton, Iowa"
+        marriages:
+          - date: 22 August 1964
+            spouse: Jerry Wilson
+raw: |-
+  <a name="EdwinC01"></a><font size=+2>Edwin Calvin Vining</font>
+     (son of <a href="Hfamilies.htm#HenryC02">Henry Calvin Vining and Gertrude Delia Mewherter</a>)
+     b. 3 January 1906   Clinton, Iowa
+     m. 25 September 1930
+           Alice Angeline Wells
+                 b. 25 June 1909   Sanger, North Dakota
+                 d. 21 July 1996   Clinton, Iowa
+     d. 18 March 1987   Clinton, Iowa
+  
+  <font size=+1>children:</font>
+     <a href="#EugeneH01">Eugene Henry Vining</a>   b. 9 November 1933   Clinton, Iowa   -   m. 4 August 1956   Joyce Alice Mills
+     Mildred Sue Vining   b. 11 April 1936   Clinton, Iowa   -   m. 22 August 1964   Jerry Wilson

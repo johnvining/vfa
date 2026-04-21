@@ -1,0 +1,63 @@
+id: EdmundPJr01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdmundP04
+parentDesc: Edmund Pendleton Vining and Sarah Louise Havens
+head:
+  givenName: Edmund Pendleton Jr.
+  birth:
+    date: 31 January 1898
+    place: "Kankakee, Illinois"
+  death:
+    date: 19 September 1959
+    place: "Bloomington, Illinois"
+marriages:
+  - date: 3 July 1925
+    spouse:
+      givenName: Iona Helen
+      surname: Jensen
+      birth:
+        date: 9 June 1904
+        place: Illinois
+      death:
+        date: 22 August 1991
+      burial:
+        place: Mound Grove Cemetery   Kankakee Ilinois
+childrenGroups:
+  - children:
+      - name: Edmund P. Vining
+        entryId: EdmundP03
+        birth:
+          date: 21 March 1927
+          place: Illinois
+        marriages:
+          - date: Natalie Ann Kremer
+        death:
+          date: 31 March 1996
+          place: "(last residence: Aurora, Illinois)"
+      - name: Valerie Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Illinois
+        marriages:
+          - date: Robert E. Smith
+docsUrl: Esources/EdmundPJr01doc.htm
+raw: |-
+  <a name="EdmundPJr01"></a><font size=+2>Edmund Pendleton Vining Jr.</font>
+     (son of <a href="#EdmundP04">Edmund Pendleton Vining and Sarah Louise Havens</a>)
+     b. 31 January 1898   Kankakee, Illinois
+     m. 3 July 1925
+           Iona Helen Jensen
+                 (dau. of John Jensen and Marie Helena Sonne)
+                 b. 9 June 1904   Illinois
+                 d. 22 August 1991
+                       bur. Mound Grove Cemetery   Kankakee Ilinois
+     d. 19 September 1959   Bloomington, Illinois
+           bur. Mound Grove Cemetery   Kankakee Ilinois
+  
+  <font size=+1>children:</font>
+     <a href="#EdmundP03">Edmund P. Vining</a>   b. 21 March 1927   Illinois   -   m. Natalie Ann Kremer   -   d. 31 March 1996   (last residence: Aurora, Illinois)
+     Valerie Vining   b. age 9 y. as of 1940 census   Illinois   -   m. Robert E. Smith
+  
+  <a href="Esources/EdmundPJr01doc.htm">documentation and notes</a>

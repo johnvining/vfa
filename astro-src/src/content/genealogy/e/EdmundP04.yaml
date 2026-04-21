@@ -1,0 +1,118 @@
+id: EdmundP04
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Jefferson01
+parentLetter: J
+parentDesc: "Jefferson Vining and Elizabeth M. Fraser [Frazer?]"
+head:
+  givenName: Edmund Pendleton
+  birth:
+    date: 11 April 1855
+    place: "Kankakee, Illinois"
+  death:
+    date: 22 January 1928
+    place: "Kankakee, Illinois"
+marriages:
+  - number: 1
+    date: 30 May 1877
+    place: "Kankakee, Illinois"
+    spouse:
+      givenName: "[Elizabeth or Mary?]"
+      surname: Marsteller
+      death:
+        date: "East Otto, Illinois"
+  - number: 2
+    date: 7 April 1887
+    place: "Kankakee, Illinois"
+    spouse:
+      givenName: Sarah Louise
+      surname: Havens
+      birth:
+        date: 29 September 1867
+        place: "Kankakee, Illinois"
+      death:
+        date: September 1945
+        place: "Kankakee, Illinois"
+childrenGroups:
+  - spouseRef: Sarah Louise Havens
+    children:
+      - name: Chauncey Havens Vining
+        birth:
+          date: 27 February 1889
+          place: "Kankakee, Illinois"
+        death:
+          date: 17 October 1912
+          place: "Kankakee, Illinois"
+        burial:
+          place: "Mound Grove Cemetery   Kankakee, Illinois"
+      - name: Robert Jefferson Vining
+        entryId: RobertJ02
+        entryLetter: R
+        birth:
+          date: 6 March 1895
+          place: "Kankakee, Illinois"
+        marriages:
+          - number: 1
+            date: ca. 1916
+            spouse: "Margaurite [&#8230;]"
+          - number: 2
+            date: 15 May 1943
+            place: "Kankakee, Illinois"
+            spouse: Mrs. Lillian B. Daugherty Butler Cheffer
+        death:
+          date: 18 June 1984
+          place: "Kankakee, Illinois"
+        burial:
+          place: "Mound Grove Cemetery   Kankakee, Illinois"
+      - name: Edmund Pendleton Vining Jr.
+        entryId: EdmundPJr01
+        birth:
+          date: 31 January 1898
+          place: "Kankakee, Illinois"
+        marriages:
+          - date: 3 July 1925
+            spouse: Iona Helen Jensen
+        death:
+          date: 19 September 1959
+          place: "Bloomington, Illinois"
+      - name: Clifford Frazer Vining
+        entryId: CliffordF01
+        entryLetter: C
+        birth:
+          date: 4 August 1907
+          place: "Kankakee, Illinois"
+        marriages:
+          - date: 1 March 1941
+            place: "Seattle, Washington"
+            spouse: Olive Scott Pennington
+        death:
+          date: 11 July 1995
+          place: "Vancouver, Washington"
+        burial:
+          place: "Saint Luke's Episcopal Church Columbarium   Vancouver, Washington"
+docsUrl: Esources/EdmundP04doc.htm
+raw: |-
+  <a name="EdmundP04"></a><font size=+2>Edmund Pendleton Vining</font>
+     (son of <a href="Jfamilies.htm#Jefferson01">Jefferson Vining and Elizabeth M. Fraser [Frazer?]</a>)
+     b. 11 April 1855   Kankakee, Illinois
+     m. (1) 30 May 1877   Kankakee, Illinois
+                 [Elizabeth or Mary?] Marsteller
+                       d. East Otto, Illinois
+           (2) 7 April 1887   Kankakee, Illinois
+                 Sarah Louise Havens
+                       (dau. of Robert Havens and Jane Vincent)
+                       b. 29 September 1867   Kankakee, Illinois
+                       d. September 1945   Kankakee, Illinois
+     d. 22 January 1928   Kankakee, Illinois
+           bur. Mound Grove Cemetery   Kankakee, Illinois
+  
+  <font size=+1>child by Elizabeth Marsteller:</font>
+     Wilkie Leroy Vining   b. 1878   East Otto, Illinois   -   d. 1898   Cuba   -   bur. Mount Grove Cemetery   Kankakee, Illinois
+  <font size=+1>children by Sarah Louise Havens:</font>
+     Chauncey Havens Vining   b. 27 February 1889   Kankakee, Illinois   -   d. 17 October 1912   Kankakee, Illinois   -   bur. Mound Grove Cemetery   Kankakee, Illinois
+     <a href="Rfamilies.htm#RobertJ02">Robert Jefferson Vining</a>   b. 6 March 1895   Kankakee, Illinois   -   m. (1) ca. 1916   Margaurite [&#8230;];   (2) 15 May 1943   Kankakee, Illinois   Mrs. Lillian B. Daugherty Butler Cheffer    -   d. 18 June 1984   Kankakee, Illinois   -   bur. Mound Grove Cemetery   Kankakee, Illinois
+     <a href="#EdmundPJr01">Edmund Pendleton Vining Jr.</a>   b. 31 January 1898   Kankakee, Illinois   -   m. 3 July 1925   Iona Helen Jensen   -   d. 19 September 1959   Bloomington, Illinois
+     <a href="Cfamilies.htm#CliffordF01">Clifford Frazer Vining</a>   b. 4 August 1907   Kankakee, Illinois   -   m. 1 March 1941   Seattle, Washington   Olive Scott Pennington   -   d. 11 July 1995   Vancouver, Washington   -   bur. Saint Luke's Episcopal Church Columbarium   Vancouver, Washington
+  
+  <a href="Esources/EdmundP04doc.htm">documentation and notes</a>

@@ -1,0 +1,48 @@
+id: Elza01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Abraham01
+parentLetter: A
+parentDesc: "Abraham Vining and Elanora [...]"
+head:
+  givenName: Elza
+  birth:
+    date: 22 April 1816
+    place: "Warren County, Georgia"
+  death:
+    date: "Polk County, Texas"
+marriages:
+  - number: 1
+    date: "1841"
+    place: Georgia
+    spouse:
+      givenName: Falby
+      surname: Usry
+      birth:
+        date: "182[6 or 4?]"
+        place: "Warren County, Georgia"
+      death:
+        date: "1892"
+        place: "Glascock County, Georgia"
+  - number: 2
+    date: 4 June 1854
+    place: Texasd
+    spouse:
+      givenName: Nancy Amanda
+      surname: Parsons
+raw: |-
+  <a name="Elza01"></a><font size=+2>Elza Vining</font>
+     (son of <a href="Afamilies.htm#Abraham01">Abraham Vining and Elanora [...]</a>)
+     b. 22 April 1816   Warren County, Georgia
+     m. (1) 1841   Georgia
+                 Falby Usry
+                       (dau. of Anthony Carroll Usry and Elizabeth Ann Story)
+                       b. 182[6 or 4?]   Warren County, Georgia
+                       d. 1892   Glascock County, Georgia
+           (2) 4 June 1854   Texasd
+                 Nancy Amanda Parsons
+     d. Polk County, Texas
+  
+  <font size=+1>child by Falby Usry:</font>
+     Martha Savannah Vining   b. 29 December 184[1 or 2?]   Warren County, Georgia   -   m.   Jashua Harley Conner   -   d. 5 March 1902   Altus, Oklahoma

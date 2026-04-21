@@ -1,0 +1,31 @@
+id: EugeneR01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: RalphS01
+parentLetter: R
+parentDesc: Ralph Spellman Vining and Lura Baker
+head:
+  givenName: Eugene Ralph
+marriages:
+  - spouse:
+      givenName: Joyce
+      surname: Yetter
+childrenGroups:
+  - children:
+      - name: Stephen Vining
+      - name: John Vining
+        birth:
+          date: "1962"
+      - name: Julie Vining
+        birth:
+          date: "1963"
+raw: |-
+  <a name="EugeneR01"></a><font size=+2>Eugene Ralph Vining</font>
+     (son of <a href="Rfamilies.htm#RalphS01">Ralph Spellman Vining and Lura Baker</a>)
+     m. Joyce Yetter
+  
+  <font size=+1>children:</font>
+     Stephen Vining
+     John Vining   b. 1962
+     Julie Vining   b. 1963

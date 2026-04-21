@@ -1,0 +1,49 @@
+id: EssexA01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: FredL01
+parentLetter: F
+parentDesc: "Fred Leroy Vining and Nina C. [&#8230;]"
+head:
+  givenName: Essex Abbott
+  birth:
+    date: 18 July 1908
+    place: "Haverhill, Massachusetts"
+  death:
+    date: 19 November 1977
+    place: "New Port Richey, Pasco County, Florida"
+marriages:
+  - spouse:
+      givenName: Miriam C.
+      surname: French
+childrenGroups:
+  - children:
+      - name: Robert R. Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: New Hampshire
+      - name: Walter Dean Vining
+        entryId: WalterD03
+        entryLetter: W
+        birth:
+          date: 25 March 1933
+          place: New Hampshire
+        marriages:
+          - date: "Shirley [&#8230;]"
+        death:
+          date: 8 December 2020
+docsUrl: Esources/EssexA01doc.htm
+raw: |-
+  <a name="EssexA01"></a><font size=+2>Essex Abbott Vining</font>
+     (son of <a href="Ffamilies.htm#FredL01">Fred Leroy Vining</a> and Nina C. [&#8230;])
+     b. 18 July 1908   Haverhill, Massachusetts
+     m. Miriam C. French
+              b. age 35 y. as of 1940 census    New Hampshire
+     d. 19 November 1977   New Port Richey, Pasco County, Florida
+  
+  <font size=+1>children:</font>
+     Robert R. Vining   b. age 2 y. as of 1940 census   New Hampshire
+     <a href="Wfamilies.htm#WalterD03">Walter Dean Vining</a>   b. 25 March 1933   New Hampshire   -   m. Shirley [&#8230;]   -   d.  8 December 2020
+  
+  <a href="Esources/EssexA01doc.htm">documentation and notes</a>

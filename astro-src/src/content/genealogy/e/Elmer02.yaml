@@ -1,0 +1,44 @@
+id: Elmer02
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Elias01
+parentDesc: Elias Vining and Eunice Case
+head:
+  givenName: Elmer
+  birth:
+    date: 3 October 1781
+    place: "Simsbury, Connecticut"
+  death:
+    date: "[11 or 13?] November 1848"
+marriages:
+  - number: 1
+    date: "1806"
+    spouse:
+      givenName: Sally
+      surname: McLean
+  - number: 2
+    date: Sarah Goodwin
+childrenGroups:
+  - spouseRef: "?"
+    children:
+      - name: child
+      - name: child
+      - name: child
+      - name: child
+      - name: child
+raw: |-
+  <a name="Elmer02"></a><font size=+2>Elmer Vining</font>
+     (son of <a href="#Elias01">Elias Vining and Eunice Case</a>)
+     b. 3 October 1781   Simsbury, Connecticut
+     m. (1) 1806
+                 Sally McLean
+           (2) Sarah Goodwin
+     d. [11 or 13?] November 1848
+  
+  <font size=+1>children by ?:</font>
+     child
+     child
+     child
+     child
+     child

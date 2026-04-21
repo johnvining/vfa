@@ -1,0 +1,66 @@
+id: EftonH01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: Francis Henry Vining and Alice Lenora Hawkins
+head:
+  givenName: Efton Howard
+  birth:
+    date: 15 October 1919
+    place: "Wann, Oklahoma"
+  death:
+    date: 9 October 2014
+    place: "Independence, Kansas"
+marriages:
+  - date: 22 December 1948
+    place: "Pleasantview, Colorado"
+    spouse:
+      givenName: Margaret Lucille
+      surname: Murphy
+      birth:
+        date: 25 August 1924
+        place: "Lockney, Texas"
+      death:
+        date: 20 February 2012
+        place: "Independence, Kansas"
+      burial:
+        place: "Pratt Cemetery   Montgomery County, Kansas"
+childrenGroups:
+  - children:
+      - name: Lee Vining
+        birth:
+          date: 3 April 1951
+        death:
+          date: 1 August 1965
+      - name: Eileen Vining
+        marriages:
+          - date: "[&#8230;] Farnsworth"
+      - name: David Vining
+        entryId: David07
+        entryLetter: D
+      - name: Margaret Vining
+        marriages:
+          - date: "[&#8230;] Hoffmeister"
+docsUrl: Esources/EftonH01doc.htm
+raw: |-
+  <a name="EftonH01"></a><font size=+2>Efton Howard Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice Lenora Hawkins</a>)
+     b. 15 October 1919   Wann, Oklahoma
+     m. 22 December 1948   Pleasantview, Colorado
+           Margaret Lucille Murphy
+                 (dau. of Ezra Lee Murphy and Ruth Baungartner)
+                 b. 25 August 1924   Lockney, Texas
+                 d. 20 February 2012   Independence, Kansas
+                       bur. Pratt Cemetery   Montgomery County, Kansas
+     d. 9 October 2014   Independence, Kansas
+           bur. Pratt Cemetery   Montgomery County, Kansas
+  
+  <font size=+1>children:</font>
+     Lee Vining   b. 3 April 1951   -   d. 1 August 1965
+     Eileen Vining   m. [&#8230;] Farnsworth
+     <a href="Dfamilies.htm#David07">David Vining</a>
+     Margaret Vining   m. [&#8230;] Hoffmeister
+  
+  <a href="Esources/EftonH01doc.htm">documentation and notes</a>

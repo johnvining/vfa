@@ -1,0 +1,46 @@
+id: EarleJ01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: AlonzoM01
+parentLetter: A
+parentDesc: "Alonzo Moulton &#8220;Lon&#8221; Vining and Nellie Vance"
+head:
+  givenName: Earle J.
+  birth:
+    date: 9 November 1925
+  death:
+    date: 4 March 2000
+marriages:
+  - date: 3 June 1950
+    spouse:
+      givenName: Janice M.
+      surname: Jaques
+childrenGroups:
+  - children:
+      - name: Lon Vining
+        birth:
+          date: 17 June 1952
+      - name: Lovel C. J. Vining
+        entryId: LovelCJ01
+        entryLetter: L
+        birth:
+          date: 4 January 1954
+        marriages:
+          - date: 4 May 1991
+            spouse: Joanne Elizabeth Shea
+      - name: Cynthia Mary Vining
+        birth:
+          date: 22 May 1959
+raw: |-
+  <a name="EarleJ01"></a><font size=+2>Earle J. Vining</font>
+     (son of <a href="Afamilies.htm#AlonzoM01">Alonzo Moulton &#8220;Lon&#8221; Vining and Nellie Vance</a>)
+     b. 9 November 1925
+     m. 3 June 1950
+           Janice M. Jaques
+     d. 4 March 2000
+  
+  <font size=+1>children:</font>
+     Lon Vining   b. 17 June 1952
+     <a href="Lfamilies.htm#LovelCJ01">Lovel C. J. Vining</a>   b. 4 January 1954   -   m. 4 May 1991   Joanne Elizabeth Shea
+     Cynthia Mary Vining   b. 22 May 1959

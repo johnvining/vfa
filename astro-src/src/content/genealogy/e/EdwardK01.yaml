@@ -1,0 +1,84 @@
+id: EdwardK01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Edward01
+parentDesc: "Edward Vining and [Catherine or Katharine] Haines"
+head:
+  givenName: Edward Kent
+  birth:
+    date: 30 May 1838
+    place: Maine
+  death:
+    date: 7 February 1914
+    place: "Portage, Wisconsin"
+marriages:
+  - number: 1
+    date: 14 December 1858
+    spouse:
+      givenName: Nancy O.
+      surname: Blatchley
+      birth:
+        date: 6 March 1839
+        place: New York
+      death:
+        date: 12 October 1893
+      burial:
+        place: "Rock Hlll Cemetery   Kingston, Wisconsin"
+  - number: 2
+    date: 20 January 1895
+    spouse:
+      givenName: Mattie
+      surname: Stinson
+      birth:
+        date: June 1853
+        place: Canada
+childrenGroups:
+  - spouseRef: Nancy O. Blatchley
+    children:
+      - name: Willard Vining
+        entryId: Willard02
+        entryLetter: W
+        birth:
+          date: 6 August 1860
+          place: "[Marcellon or Scott?], Wisconsin"
+        marriages:
+          - date: 12 January 1886
+            place: "New Lisbon, Wisconsin"
+            spouse: Josephine Brownell
+        death:
+          date: 16 August 1928
+          place: Wisconsin
+      - name: Jane Parrisade Vining
+        birth:
+          date: 26 March 1862
+          place: "Buffalo, Wisconsin"
+        marriages:
+          - date: 27 March 1884
+            spouse: E. D. Kerwin
+        death:
+          date: 1 November 1893
+        burial:
+          place: "Rock Hill Cemetery   Kingston, Wisconsin"
+docsUrl: Esources/EdwardK01doc.htm
+raw: |-
+  <a name="EdwardK01"></a><font size=+2>Edward Kent Vining</font>
+     (son of <a href="#Edward01">Edward Vining and [Catherine or Katharine] Haines</a>)
+     b. 30 May 1838   Maine
+     m. (1) 14 December 1858
+                 Nancy O. Blatchley
+                       (dau. of Harlow Blatchley and Phebe Woodruff)
+                       b. 6 March 1839   New York
+                       d. 12 October 1893
+                             bur. Rock Hlll Cemetery   Kingston, Wisconsin
+           (2) 20 January 1895
+                 Mattie Stinson
+                       b. June 1853   Canada
+     d. 7 February 1914   Portage, Wisconsin
+           bur. Rock Hill Cemetery   Kingston, Wisconsin
+  
+  <font size=+1>children by Nancy O. Blatchley:</font>
+     <a href="Wfamilies.htm#Willard02">Willard Vining</a>   b. 6 August 1860   [Marcellon or Scott?], Wisconsin   -   m. 12 January 1886   New Lisbon, Wisconsin   Josephine Brownell   -   d. 16 August 1928   Wisconsin
+     Jane Parrisade Vining   b. 26 March 1862   Buffalo, Wisconsin   -   m. 27 March 1884   E. D. Kerwin   -   d. 1 November 1893   -   bur. Rock Hill Cemetery   Kingston, Wisconsin
+  
+  <a href="Esources/EdwardK01doc.htm">documentation and notes</a>

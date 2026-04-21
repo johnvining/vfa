@@ -1,0 +1,64 @@
+id: EarlJ01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Elmer03
+parentDesc: "Elmer Vining and Anna L. [&#8230;]"
+head:
+  givenName: Earl Jerome
+  birth:
+    date: 29 July 1932
+    place: "Monroe, Michigan"
+  death:
+    date: 5 March 2013
+marriages:
+  - number: 1
+    date: Charlotte Jean Whitaker
+  - number: 2
+    date: "Easter Johnson (n&#233;e Russell)"
+childrenGroups:
+  - spouseRef: Charlotte Jean Whitaker
+    children:
+      - name: Earl Jerome Vining Jr.
+        death:
+          date: before 5 March 2013
+      - name: Mark Keith Vining
+      - name: Kevin John Vining
+        marriages:
+          - date: "(1?) Cherly [&#8230;];"
+            spouse: "(2?) Bonnie [&#8230;]"
+      - name: Eric Dean Vining
+        birth:
+          date: 22 May 1959
+          place: "Monroe, Michigan"
+        death:
+          date: 29 January 2018
+          place: "Detroit, Michigan"
+      - name: Robert Scott Vining
+        marriages:
+          - date: "Laura [&#8230;]"
+      - name: Brian Oliver Vining
+      - name: Kimberly Joann Vining
+        marriages:
+          - date: "(1?) [&#8230;] McGhee;"
+            spouse: "(2?) [&#8230;] Bell"
+docsUrl: Esources/EarlJ01doc.htm
+raw: |-
+  <a name="EarlJ01"></a><font size=+2>Earl Jerome Vining</font>
+     (son of <a href="#Elmer03">Elmer Vining and Anna L. [&#8230;]</a>)
+     b. 29 July 1932   Monroe, Michigan
+     m. (1) Charlotte Jean Whitaker
+           (2) Easter Johnson (n&#233;e Russell)
+     d. 5 March 2013
+           bur. Woodland Cemetery   Monroe, Michigan
+  
+  <font size=+1>children by Charlotte Jean Whitaker:</font>
+     Earl Jerome Vining Jr.   d. before 5 March 2013
+     Mark Keith Vining
+     Kevin John Vining   m. (1?) Cherly [&#8230;];   (2?) Bonnie [&#8230;]
+     Eric Dean Vining   b. 22 May 1959   Monroe, Michigan   -   d. 29 January 2018   Detroit, Michigan
+     Robert Scott Vining   m. Laura [&#8230;]
+     Brian Oliver Vining
+     Kimberly Joann Vining   m. (1?) [&#8230;] McGhee;   (2?) [&#8230;] Bell
+  
+  <a href="Esources/EarlJ01doc.htm">documentation and notes</a>

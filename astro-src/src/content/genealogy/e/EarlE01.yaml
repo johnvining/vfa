@@ -1,0 +1,55 @@
+id: EarlE01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: HenryH02
+parentLetter: H
+parentDesc: Henry Horatio Vining and Emma Garecht
+head:
+  givenName: Earl Eugene
+  birth:
+    date: "1899"
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: prior to 1920
+      surname: census
+      birth:
+        date: age 17 y. as of 1920 census
+        place: Louisiana
+childrenGroups:
+  - children:
+      - name: Henrietta Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: Louisiana
+      - name: Earl Marvin Vining
+        entryId: EarlM01
+        birth:
+          date: 27 August 1925
+          place: Louisiana
+        marriages:
+          - date: Una Marie Toups
+        death:
+          date: 13 October 1983
+        burial:
+          place: "Saint Joseph Church Cemetery   Galliano, Louisiana"
+      - name: Patsy Vining
+        birth:
+          date: "age [?] y. as of 1940 census"
+          place: Louisiana
+docsUrl: Esources/EarlE01doc.htm
+raw: |-
+  <a name="EarlE01"></a><font size=+2>Earl Eugene Vining</font>
+     (son of <a href="Hfamilies.htm#HenryH02">Henry Horatio Vining and Emma Garecht</a>)
+     b. 1899   Louisiana
+     m. prior to 1920 census
+           Ada Lodrigue
+                 b. age 17 y. as of 1920 census   Louisiana
+  
+  <font size=+1>children:</font>
+     Henrietta Vining   b. age 9 y. as of 1930 census   Louisiana
+     <a href="#EarlM01">Earl Marvin Vining</a>   b. 27 August 1925   Louisiana   -   m. Una Marie Toups   -   d. 13 October 1983   -   bur. Saint Joseph Church Cemetery   Galliano, Louisiana
+     Patsy Vining   b. age [?] y. as of 1940 census   Louisiana
+  
+  <a href="Esources/EarlE01doc.htm">documentation and notes</a>

@@ -1,0 +1,71 @@
+id: EdwardK03
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ClarenceE03
+parentLetter: C
+parentDesc: Clarence Edgar vining and Katie Margaret Cooper
+head:
+  givenName: Edward Kevlin
+  birth:
+    date: 9 March 1928
+    place: Louisiana
+  death:
+    date: 25 February 2002
+    place: "Biloxi, Mississippi"
+marriages:
+  - spouse:
+      givenName: "(1?) Betty June Sheppard (m. (2?) [&#8230;]"
+      surname: Koch)
+      birth:
+        date: 8 August 1937
+      death:
+        date: 3 December 1998
+      burial:
+        place: "Collins Cemetery   Ponchatoula, Louisiana"
+childrenGroups:
+  - spouseRef: "(?)"
+    children:
+      - name: Diane Vining
+      - name: Cathy Vining
+        marriages:
+          - date: Levi Church
+      - name: Clarence Kevlin Vining
+        entryId: ClarenceK01
+        entryLetter: C
+        birth:
+          date: 17 April 1954
+        marriages:
+          - date: "Jan [&#8230;]"
+        death:
+          date: 8 July 2017
+          place: Mississippi
+      - name: Bobby Vining
+        entryId: Bobby01
+        entryLetter: B
+        marriages:
+          - date: "Lisa [&#8230;]"
+      - name: Daniel Vining
+        marriages:
+          - date: "Tammy [&#8230;]"
+docsUrl: Esources/EdwardK03doc.htm
+raw: |-
+  <a name="EdwardK03"></a><font size=+2>Edward Kevlin Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceE03">Clarence Edgar vining and Katie Margaret Cooper</a>)
+     b. 9 March 1928   Louisiana
+     m. (1?) Betty June Sheppard (m. (2?) [&#8230;] Koch)
+           (2?) Charlotte Ester Lafuria
+                       b. 8 August 1937
+                       d. 3 December 1998
+                             bur. Collins Cemetery   Ponchatoula, Louisiana
+     d. 25 February 2002   Biloxi, Mississippi
+           bur. Collins Cemetery   Ponchatoula, Louisiana
+  
+  <font size=+1>children by (?):</font>
+     Diane Vining
+     Cathy Vining   m. Levi Church
+     <a href="Cfamilies.htm#ClarenceK01">Clarence Kevlin Vining</a>   b. 17 April 1954   -   m. Jan [&#8230;]   -   d. 8 July 2017   Mississippi
+     <a href="Bfamilies.htm#Bobby01">Bobby Vining</a>   m. Lisa [&#8230;]
+     Daniel Vining   m. Tammy [&#8230;]
+  
+  <a href="Esources/EdwardK03doc.htm">documentation and notes</a>

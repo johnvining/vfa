@@ -1,0 +1,40 @@
+id: ErnestW03
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JesseL02
+parentLetter: J
+parentDesc: Jesse Lee Vining and Pearl Adell Williams
+head:
+  givenName: Ernest William
+  birth:
+    date: 30 May 1942
+    place: "Tempe, Arizona"
+  death:
+    date: 11 January 2018
+marriages:
+  - date: 24 July 1976
+    place: "Tucson, Arizona"
+    spouse:
+      givenName: Connie
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Mike Vining
+      - name: Cheryl Vining
+        marriages:
+          - date: Matt Morgan
+docsUrl: Esources/ErnestW03doc.htm
+raw: |-
+  <a name="ErnestW03"></a><font size=+2>Ernest William Vining</font>
+     (son of <a href="Jfamilies.htm#JesseL02">Jesse Lee Vining and Pearl Adell Williams</a>)
+     b. 30 May 1942   Tempe, Arizona
+     m. 24 July 1976   Tucson, Arizona
+           Connie [&#8230;]
+     d. 11 January 2018
+  
+  <font size=+1>children:</font>
+     Mike Vining
+     Cheryl Vining   m. Matt Morgan
+  
+  <a href="Esources/ErnestW03doc.htm">documentation and notes</a>

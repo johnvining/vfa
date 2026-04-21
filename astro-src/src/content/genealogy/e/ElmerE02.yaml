@@ -1,0 +1,57 @@
+id: ElmerE02
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: FrancisM02
+parentLetter: F
+parentDesc: Francis M. Vining and Lydia Smith
+head:
+  givenName: Elmer E.
+  birth:
+    date: 24 September 1869
+    place: Ohio
+  death:
+    date: 13 February 1929
+    place: "Dunkirk, Indiana"
+marriages:
+  - date: 11 y. as of 1900 census
+    spouse:
+      givenName: Elizabeth E.
+      surname: Greenler
+      birth:
+        date: "Movember 186[4 or 7?]"
+        place: "Dayton, Ohio"
+      death:
+        date: "1908"
+childrenGroups:
+  - children:
+      - name: Bertha Avaletta Vining
+        birth:
+          date: 22 March 1890
+          place: "Rutland, Ohio"
+        marriages:
+          - date: Ammi Pearl Whitmer
+        death:
+          date: 10 December 1976
+          place: "Dayton, Ohio"
+      - name: Babe Vining
+        birth:
+          date: November 1895
+          place: "Dayton, Ohio"
+docsUrl: Esources/ElmerE02doc.htm
+raw: |-
+  <a name="ElmerE02"></a><font size=+2>Elmer E. Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisM02">Francis M. Vining and Lydia Smith</a>)
+     b. 24 September 1869   Ohio
+     m. 11 y. as of 1900 census
+           Elizabeth E. Greenler
+                 b. Movember 186[4 or 7?]   Dayton, Ohio
+                 d. 1908
+     d. 13 February 1929   Dunkirk, Indiana
+           bur. Beech Grove Cemetery   Pomeroy, Ohio
+  
+  <font size=+1>children:</font>
+     Bertha Avaletta Vining   b. 22 March 1890   Rutland, Ohio   -   m. Ammi Pearl Whitmer   -   d. 10 December 1976   Dayton, Ohio
+     Babe Vining   b. November 1895   Dayton, Ohio
+  
+  <a href="Esources/ElmerE02doc.htm">documentation and notes</a>

@@ -1,0 +1,197 @@
+id: EdwinR01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Reuben01
+parentLetter: R
+parentDesc: Reuben Vining and Mercy Lunt
+head:
+  givenName: Edwin R.
+  birth:
+    date: 22 February 1850
+    place: "Durham, Maine"
+  death:
+    date: 17 May 1929
+    place: "Auburn, Maine"
+marriages:
+  - number: 1
+    date: 1 January 1873
+    place: "Bangor, Maine"
+    spouse:
+      givenName: Ada L.
+      surname: Morse
+      birth:
+        date: 22 January 1854
+        place: "Bangor, Maine"
+      death:
+        date: 22 February 1904
+        place: "Auburn, Maine"
+      burial:
+        place: "Mount Auburn Cemetery   Auburn, Maine"
+  - number: 2
+    date: 7 November 1907
+    place: "Auburn, Maine"
+    spouse:
+      givenName: Flora (McFadden) Hutchinson   (her 3rd
+      surname: marriage)
+      birth:
+        date: 31 December 1856
+        place: "Bath, Maine"
+      death:
+        date: 16 December 1922
+        place: "Lewiston, Maine"
+      burial:
+        place: "Bath, Maine"
+childrenGroups:
+  - spouseRef: Ada L. Morse
+    children:
+      - name: John Albion Vining
+        entryId: JohnA02
+        entryLetter: J
+        birth:
+          date: 7 December 1873
+          place: "Durham, Maine"
+        marriages:
+          - number: 1
+            date: 22 November 1899
+            place: "Phillips, Maine"
+            spouse: Minnie Louise Vining
+          - number: 2
+            date: 24 November 1904
+            place: "East Livermore, Maine"
+            spouse: Augusta Eva Pike
+        death:
+          date: 20 March 1923
+          place: "Auburn, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Everett L. Vining
+        entryId: EverettL01
+        birth:
+          date: "[10 or 12?] December 1874"
+          place: "Durham, Maine"
+        marriages:
+          - date: 17 August 1899
+            place: "Livermore Falls, Maine"
+            spouse: Ida May Thompson
+        death:
+          date: 1 December 1954
+          place: "Lewiston, Maine"
+        burial:
+          place: "grave 1, lot 128, section SS   Mount Auburn Cemetery   Auburn, Maine"
+      - name: Willis Josiah Vining
+        entryId: WillisJ01
+        entryLetter: W
+        birth:
+          date: 17 July 1877
+          place: "Durham, Maine"
+        marriages:
+          - date: 23 June 1909
+            place: "Skowhegan, Maine"
+            spouse: Helen Sawyer Fraine
+        death:
+          date: 2 October 1963
+          place: "St. John, New Brunswick"
+        burial:
+          place: "St. Peter's Church Cemetery   Woodman's Point, New Brunswick"
+      - name: Emory Warren Vining
+        birth:
+          date: 6 January 1880
+          place: "Durham, Maine"
+        death:
+          date: 20 March 1881
+          place: "Durham, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Hiram Murray Vining
+        birth:
+          date: 12 October 1882
+          place: "Durham, Maine"
+        death:
+          date: 29 July 1905
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Addie Pride Vining
+        birth:
+          date: 29 September 1885
+          place: "Durham, Maine"
+        marriages:
+          - date: 24 January 1912
+            spouse: Francis J. Moore
+        death:
+          date: 23 November 1982
+      - name: Merton Linwood Vining
+        entryId: MertonL01
+        entryLetter: M
+        birth:
+          date: 10 January 1888
+          place: "Durham, Maine"
+        marriages:
+          - date: 5 June 1912
+            place: "Lewiston, Maine"
+            spouse: Margaret Elise Wilson
+        death:
+          date: 19 March 1985
+          place: "Lewiston, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Albert Edwin Vining
+        entryId: AlbertE01
+        entryLetter: A
+        birth:
+          date: 31 May 1892
+          place: "Durham, Maine"
+        marriages:
+          - date: 24 May 1928
+            place: "Lewiston, Maine"
+            spouse: Nora Gertrude Stevens
+        death:
+          date: 4 November 1943
+          place: "East Concord, Vermont"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: "son   stillborn 22 January 1898   Auburn, Maine"
+      - name: Mildred Louise Vining
+        birth:
+          date: 9 November 1899
+          place: "Auburn, Maine"
+        marriages:
+          - number: 1
+            date: 25 December 1920
+            spouse: Ralph Warren Webster
+          - number: 2
+            date: 29 March 1952
+            spouse: C. Percy Morrison
+docsUrl: Esources/EdwinR01doc.htm
+raw: |-
+  <a name="EdwinR01"></a><font size=+2>Edwin R. Vining</font>
+     (son of <a href="Rfamilies.htm#Reuben01">Reuben Vining and Mercy Lunt</a>)
+     b. 22 February 1850   Durham, Maine
+     m. (1) 1 January 1873   Bangor, Maine
+                 Ada L. Morse
+                       (dau. of George E. Morse and Emma H. Sargent)
+                       b. 22 January 1854   Bangor, Maine
+                       d. 22 February 1904   Auburn, Maine
+                             bur. Mount Auburn Cemetery   Auburn, Maine
+           (2) 7 November 1907   Auburn, Maine
+                 Flora (McFadden) Hutchinson   (her 3rd marriage)
+                       (dau. of Thomas McFadden and Sarah Parshley)
+                       b. 31 December 1856   Bath, Maine
+                       d. 16 December 1922   Lewiston, Maine
+                             bur. Bath, Maine
+     d. 17 May 1929   Auburn, Maine
+           bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>children by Ada L. Morse:</font>
+     <a href="Jfamilies.htm#JohnA02">John Albion Vining</a>   b. 7 December 1873   Durham, Maine   -   m. (1) 22 November 1899   Phillips, Maine   Minnie Louise Vining; (2) 24 November 1904   East Livermore, Maine   Augusta Eva Pike   -   d. 20 March 1923   Auburn, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     <a href="#EverettL01">Everett L. Vining</a>   b. [10 or 12?] December 1874   Durham, Maine   -   m. 17 August 1899   Livermore Falls, Maine   Ida May Thompson   -   d. 1 December 1954   Lewiston, Maine   -   bur. grave 1, lot 128, section SS   Mount Auburn Cemetery   Auburn, Maine
+     <a href="Wfamilies.htm#WillisJ01">Willis Josiah Vining</a>   b. 17 July 1877   Durham, Maine   -   m. 23 June 1909   Skowhegan, Maine   Helen Sawyer Fraine   -   d. 2 October 1963   St. John, New Brunswick   -   bur. St. Peter's Church Cemetery   Woodman's Point, New Brunswick
+     Emory Warren Vining   b. 6 January 1880   Durham, Maine   -   d. 20 March 1881   Durham, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     Hiram Murray Vining   b. 12 October 1882   Durham, Maine   -   d. 29 July 1905   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     Addie Pride Vining   b. 29 September 1885   Durham, Maine   -   m. 24 January 1912   Francis J. Moore   -   d. 23 November 1982
+     <a href="Mfamilies.htm#MertonL01">Merton Linwood Vining</a>   b. 10 January 1888   Durham, Maine   -   m. 5 June 1912   Lewiston, Maine   Margaret Elise Wilson   -   d. 19 March 1985   Lewiston, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     <a href="Afamilies.htm#AlbertE01">Albert Edwin Vining</a>   b. 31 May 1892   Durham, Maine   -   m. 24 May 1928   Lewiston, Maine   Nora Gertrude Stevens   -   d. 4 November 1943   East Concord, Vermont   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     son   stillborn 22 January 1898   Auburn, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     Mildred Louise Vining   b. 9 November 1899   Auburn, Maine   -   m. (1) 25 December 1920   Ralph Warren Webster;   (2) 29 March 1952   C. Percy Morrison
+  
+  <a href="Esources/EdwinR01doc.htm">documentation and notes</a>

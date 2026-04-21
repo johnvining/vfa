@@ -1,0 +1,66 @@
+id: Elmer01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: William01
+parentLetter: W
+parentDesc: William Vining and Huldah Pinney
+head:
+  givenName: Elmer
+  birth:
+    date: 16 April 1813
+    place: "Worthington, Ohio"
+  death:
+    date: 5 December 1871
+    place: "Worthington, Ohio"
+marriages:
+  - spouse:
+      givenName: Sarah Jane
+      surname: Clark
+childrenGroups:
+  - children:
+      - name: Arthur Scott Vining
+        entryId: ArthurS01
+        entryLetter: A
+        birth:
+          date: July 1852
+          place: Ohio
+        marriages:
+          - date: 12 October 1876
+            place: "Columbus, Ohio"
+            spouse: "Ida Bell[e?] Loy"
+        death:
+          date: 30 December 1941
+        burial:
+          place: "Mahaska Cemetery   Mahaski, Kansas"
+      - name: "L[...?] May Vining"
+        birth:
+          date: age 6 y. as of 1860 census
+          place: Ohio
+      - name: "[Eunice T. or Estell[e?]?] Vining"
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Ohio
+      - name: George Vining
+        birth:
+          date: May 1870
+          place: Ohio
+docsUrl: Esources/Elmer01doc.htm
+raw: |-
+  <a name="Elmer01"></a><font size=+2>Elmer Vining</font>
+     (son of <a href="Wfamilies.htm#William01">William Vining and Huldah Pinney</a>)
+     b. 16 April 1813   Worthington, Ohio
+     m. Sarah Jane Clark
+              b. 1829   New York
+              d. 1901
+                    bur. Mahaska Cemetery   Mahaska, Kansas
+     d. 5 December 1871   Worthington, Ohio
+           bur. Walnut Grove Cemetery   Worthington, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#ArthurS01">Arthur Scott Vining</a>   b. July 1852   Ohio   -   m. 12 October 1876   Columbus, Ohio   Ida Bell[e?] Loy   -   d. 30 December 1941   -   bur. Mahaska Cemetery   Mahaski, Kansas
+     L[...?] May Vining   b. age 6 y. as of 1860 census   Ohio
+     [Eunice T. or Estell[e?]?] Vining   b. age 3 y. as of 1860 census   Ohio
+     George Vining   b. May 1870   Ohio 
+  
+  <a href="Esources/Elmer01doc.htm">documentation and notes</a>

@@ -1,0 +1,128 @@
+id: EdwardL01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EverettL01
+parentDesc: Everett L. Vining and Ida May Thompson
+head:
+  givenName: Edward Leander
+  birth:
+    date: 20 May 1906
+    place: "Livermore Falls, Maine"
+  death:
+    date: 17 October 1972
+    place: "Lewiston, Maine"
+marriages:
+  - number: 1
+    date: 24 June 1931
+    place: "Mechanic Falls, Maine"
+    spouse:
+      givenName: Marjorie E.
+      surname: Newcomb
+      birth:
+        date: "Corning, New Hampshire"
+  - number: 2
+    date: 25 June 1939
+    place: "Lewiston, Maine"
+    spouse:
+      givenName: Ruth Elizabeth
+      surname: Morrill
+      birth:
+        date: 17 February 1915
+        place: "Auburn, Maine"
+      death:
+        date: 12 May 1995
+        place: "Lewiston, Maine"
+      burial:
+        place: "Mount Auburn Cemetery   Auburn, Maine"
+childrenGroups:
+  - spouseRef: Marjorie E. Newcomb
+    children:
+      - name: Kenneth Everett Vining
+        entryId: KennethE01
+        entryLetter: K
+        birth:
+          date: 26 June 1932
+          place: "Auburn, Maine"
+        marriages:
+          - number: 1
+            date: 8 February 1955
+            place: "Leeds, Maine"
+            spouse: Carolyn Fay Child
+          - number: 2
+            date: 7 December 1985
+            spouse: Norma E. Gates
+        death:
+          date: 29 February 2004
+          place: "Poland Spring, Maine"
+      - name: Ronald Winston Vining
+        entryId: RonaldW01
+        entryLetter: R
+        birth:
+          date: 31 October 1934
+          place: "Auburn, Maine"
+        marriages:
+          - number: 1
+            date: 9 July 1953
+            place: "Auburn, Maine"
+            spouse: Helen R. Dubois
+          - number: 2
+            date: 29 October 1955
+            place: "Turner Center, Maine"
+            spouse: Joyce C. Schmieks
+        death:
+          date: 22 October 2011
+          place: "Lewiston, Maine"
+  - spouseRef: Ruth Elizabeth Morrill
+    children:
+      - name: Laurel Ann Vining
+        birth:
+          date: 5 February 1942
+          place: "Lewiston, Maine"
+        marriages:
+          - number: 1
+            date: 24 December 1960
+            place: "Auburn, Maine"
+            spouse: "Robert David King,   divorced 1980"
+          - number: 2
+            date: 10 June 1983
+            spouse: "Thomas Christopher Addison,   divorced March 1990"
+      - name: Jean Elizabeth Vining
+        birth:
+          date: 25 February 1944
+          place: "Lewiston, Maine"
+        marriages:
+          - number: 1
+            date: 10 May 1963
+            place: "Minot, Maine"
+            spouse: "Daniel Gerard Blanchard,   divorced 19 August 1975"
+          - number: 2
+            date: 27 August 1976
+            spouse: "Joseph William Marsden,   divorced 19 August 1980"
+docsUrl: Esources/EdwardL01doc.htm
+raw: |-
+  <a name="EdwardL01"></a><font size=+2>Edward Leander Vining</font>
+     (son of <a href="#EverettL01">Everett L. Vining and Ida May Thompson</a>)
+     b. 20 May 1906   Livermore Falls, Maine
+     m. (1) 24 June 1931   Mechanic Falls, Maine
+                 Marjorie E. Newcomb
+                       (dau. of Mark W. Newcomb and Mary McClearn)
+                       b. Corning, New Hampshire
+                 divorced 1935
+           (2) 25 June 1939   Lewiston, Maine
+                 Ruth Elizabeth Morrill
+                       (dau. of John Randall Morrill and Gladys M. Moore)
+                       b. 17 February 1915   Auburn, Maine
+                       d. 12 May 1995   Lewiston, Maine
+                             bur. Mount Auburn Cemetery   Auburn, Maine
+     d. 17 October 1972   Lewiston, Maine
+           bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>children by Marjorie E. Newcomb:</font>
+     <a href="Kfamilies.htm#KennethE01">Kenneth Everett Vining</a>   b. 26 June 1932   Auburn, Maine   -   m. (1) 8 February 1955   Leeds, Maine   Carolyn Fay Child;   (2) 7 December 1985   Norma E. Gates   -   d. 29 February 2004   Poland Spring, Maine
+     <a href="Rfamilies.htm#RonaldW01">Ronald Winston Vining</a>   b. 31 October 1934   Auburn, Maine   -   m. (1) 9 July 1953   Auburn, Maine   Helen R. Dubois;   (2) 29 October 1955   Turner Center, Maine   Joyce C. Schmieks   -   d. 22 October 2011   Lewiston, Maine   -   Megquier Hill Cemetery   Poland, Maine 
+  <font size=+1>children by Ruth Elizabeth Morrill:</font>
+     Laurel Ann Vining   b. 5 February 1942   Lewiston, Maine   -   m. (1) 24 December 1960   Auburn, Maine   Robert David King,   divorced 1980;   (2) 10 June 1983   Thomas Christopher Addison,   divorced March 1990
+     Jean Elizabeth Vining   b. 25 February 1944   Lewiston, Maine   -   m. (1) 10 May 1963   Minot, Maine   Daniel Gerard Blanchard,   divorced 19 August 1975;   (2) 27 August 1976   Joseph William Marsden,   divorced 19 August 1980
+  
+  <a href="Esources/EdwardL01doc.htm">documentation and notes</a>

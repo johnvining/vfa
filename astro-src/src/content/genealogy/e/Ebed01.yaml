@@ -1,0 +1,137 @@
+id: Ebed01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Elisha01
+parentDesc: Elisha Vining and Mary Leavitt
+head:
+  givenName: Ebed
+  birth:
+    date: 14 December 1762
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 1 November 1844
+    place: "Abington, Plymouth County, Massachusetts"
+marriages:
+  - date: 29 October 1785
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: "Abigail &#8220;Nabby&#8221;"
+      surname: Curtis
+      birth:
+        date: age 65 y. at death
+      death:
+        date: 26 January 1831
+        place: "Abington, Plymouth County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Nabby Vining
+        birth:
+          date: 3 October 1786
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 3 October 1792
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Ebed Vining Jr.
+        entryId: EbedJr01
+        birth:
+          date: 3 August 1788
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 30 October 1811
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Sally Hobart
+        death:
+          date: "1856"
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Sally Vining
+        birth:
+          date: 21 September 1790
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Nabby Vining
+        birth:
+          date: 20 April 1793
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 15 April 1797
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: David Vining
+        entryId: David03
+        entryLetter: D
+        birth:
+          date: 27 December 1797
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 8 November 1821
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Mary C. Curtis
+          - number: 2
+            date: 4 May 1828
+            spouse: Martha Briggs
+        death:
+          date: 11 September 1859
+        burial:
+          place: "Union Cemetery   Hanover, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 19 March 1800
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Judson Vining
+        entryId: Judson01
+        entryLetter: J
+        birth:
+          date: "15 March [1804 or 1805?]"
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 24 April 1825
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Sarah W. Briggs
+        death:
+          date: 3 November 1867
+      - name: Marilla Vining
+        birth:
+          date: 17 June 1807
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: int. 19 August 1827
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Job Curtis Jr.
+      - name: William Vining
+        entryId: William07
+        entryLetter: W
+        birth:
+          date: 9 September 1811
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: int. 1 December 1833
+            place: "[Abington or Bridgewater?], Massachusetts"
+            spouse: "Hannah Crocker (of East Bridgewater, Massachusetts)"
+        death:
+          date: 22 January 1857
+          place: "Abington, Plymouth County, Massachusetts"
+docsUrl: Esources/Ebed01doc.htm
+raw: |-
+  <a name="Ebed01"></a><font size=+2>Ebed Vining</font>
+     (son of <a href="#Elisha01">Elisha Vining and Mary Leavitt</a>)
+     b. 14 December 1762   Abington, Plymouth County, Massachusetts
+     m. 29 October 1785   Abington, Plymouth County, Massachusetts
+           Abigail &#8220;Nabby&#8221; Curtis
+                 (dau. of Joshua Curtis and Abigail House)
+                 b. age 65 y. at death
+                 d. 26 January 1831   Abington, Plymouth County, Massachusetts
+     d. 1 November 1844   Abington, Plymouth County, Massachusetts
+           bur. Maplewood Cemetery   Rockland, Massachusetts
+  
+  <font size=+1>children:</font>
+     Nabby Vining   b. 3 October 1786   Abington, Plymouth County, Massachusetts   -   d. 3 October 1792   Abington, Plymouth County, Massachusetts
+     <a href="#EbedJr01">Ebed Vining Jr.</a>   b. 3 August 1788   Abington, Plymouth County, Massachusetts   -   m. 30 October 1811   Abington, Plymouth County, Massachusetts   Sally Hobart   -   d. 1856   Abington, Plymouth County, Massachusetts
+     Sally Vining   b. 21 September 1790   Abington, Plymouth County, Massachusetts
+     Nabby Vining   b. 20 April 1793   Abington, Plymouth County, Massachusetts   -   d. 15 April 1797   Abington, Plymouth County, Massachusetts
+     <a href="Dfamilies.htm#David03">David Vining</a>   b. 27 December 1797   Abington, Plymouth County, Massachusetts   -   m. (1) 8 November 1821   Abington, Plymouth County, Massachusetts   Mary C. Curtis;   (2) 4 May 1828   Martha Briggs   -   d. 11 September 1859   -   bur. Union Cemetery   Hanover, Massachusetts
+     Mary Vining   b. 19 March 1800   Abington, Plymouth County, Massachusetts
+     <a href="Jfamilies.htm#Judson01">Judson Vining</a>   b. 15 March [1804 or 1805?]   Abington, Plymouth County, Massachusetts   -   m. 24 April 1825   Abington, Plymouth County, Massachusetts   Sarah W. Briggs   -   d. 3 November 1867
+     Marilla Vining   b. 17 June 1807   Abington, Plymouth County, Massachusetts   -   m. int. 19 August 1827   Abington, Plymouth County, Massachusetts   Job Curtis Jr.
+     <a href="Wfamilies.htm#William07">William Vining</a>   b. 9 September 1811   Abington, Plymouth County, Massachusetts   -   m. int. 1 December 1833   [Abington or Bridgewater?], Massachusetts   Hannah Crocker (of East Bridgewater, Massachusetts)   -   d. 22 January 1857   Abington, Plymouth County, Massachusetts
+  
+  <a href="Esources/Ebed01doc.htm">documentation and notes</a>

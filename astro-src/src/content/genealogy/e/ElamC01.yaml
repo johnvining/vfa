@@ -1,0 +1,98 @@
+id: ElamC01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Elem01
+parentDesc: Elem Vining and Sarah Carter
+head:
+  givenName: Elam Carter
+  birth:
+    date: 9 March 1811
+    place: "Delaware, Ohio"
+  death:
+    date: 31 October 1899
+marriages:
+  - date: "1835"
+    spouse:
+      givenName: Sarah
+      surname: Newport
+      birth:
+        date: 15 November 1814
+      death:
+        date: 6 January 1892
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
+childrenGroups:
+  - children:
+      - name: Marie Vining
+        birth:
+          date: "1836"
+        death:
+          date: "1837"
+      - name: Jesse S. Vining
+        birth:
+          date: "1837"
+        death:
+          date: 4 September 1837
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: William Henry Vining
+        birth:
+          date: 25 May 1839
+        death:
+          date: 28 November 1839
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: Florence May Vining
+        birth:
+          date: 17 May 1841
+      - name: Mary Elizabeth Vining
+        birth:
+          date: "1843"
+        marriages:
+          - date: 22 December 1869
+            spouse: Survetust Achor
+      - name: Fannie Vining
+        birth:
+          date: "1845"
+      - name: Anna Vining
+        birth:
+          date: "1846"
+        marriages:
+          - date: A. E. Clark
+      - name: Emmalette Vining
+        birth:
+          date: "1847"
+        marriages:
+          - date: Antonius Arrighi
+      - name: Sarah Belle Vining
+        birth:
+          date: "1848"
+        marriages:
+          - date: 14 December 1864
+            spouse: John O. Smith
+docsUrl: Esources/ElamC01doc.htm
+raw: |-
+  <a name="ElamC01"></a><font size=+2>Elam Carter Vining</font>
+     (son of <a href="#Elem01">Elem Vining and Sarah Carter</a>)
+     b. 9 March 1811   Delaware, Ohio
+     m. 1835
+           Sarah Newport
+                 b. 15 November 1814
+                 d. 6 January 1892
+                       bur. Oak Grove Cemetery   Delaware, Ohio
+     d. 31 October 1899
+           bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <font size=+1>children:</font>
+     Marie Vining   b. 1836   -   d. 1837
+     Jesse S. Vining   b. 1837   -   d. 4 September 1837   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     William Henry Vining   b. 25 May 1839   -   d. 28 November 1839   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     Florence May Vining   b. 17 May 1841
+     Mary Elizabeth Vining   b. 1843   -   m. 22 December 1869   Survetust Achor
+     Fannie Vining   b. 1845   -   [...] Greene
+     Anna Vining   b. 1846   -   m. A. E. Clark
+     Emmalette Vining   b. 1847   -   m. Antonius Arrighi
+     Sarah Belle Vining   b. 1848   -   m. 14 December 1864   John O. Smith
+  
+  <a href="Esources/ElamC01doc.htm">documentation and notes</a>

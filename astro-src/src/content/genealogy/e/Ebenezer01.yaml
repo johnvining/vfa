@@ -1,0 +1,190 @@
+id: Ebenezer01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Josiah01
+parentLetter: J
+parentDesc: Josiah Vining and Hannah Abigail Dawes
+head:
+  givenName: Ebenezer
+  birth:
+    date: 5 October 1754
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 24 August 1843
+    place: "Gates [a portion of which is now Rochester?], New York"
+marriages:
+  - date: 24 April 1777
+    place: "Ellicottville, New York"
+    spouse:
+      givenName: Abigail
+      surname: Eason
+      birth:
+        date: 28 May 1757
+        place: "Ellicott[ville?], New York"
+      death:
+        date: 9 September 1832
+        place: "Ellicott[villle?], New York"
+childrenGroups:
+  - children:
+      - name: Hannah Vining
+        birth:
+          date: 18 February 1778
+          place: "Leyden, Massachusetts"
+        marriages:
+          - date: 19 January 1797
+            place: "Goshen, Massachusetts"
+            spouse: Oliver Thayer
+        death:
+          date: 25 August 1825
+          place: "Sweden, New York"
+      - name: Josiah Vining
+        birth:
+          date: 1 May 1781
+          place: "Leyden, Massachusetts"
+        death:
+          date: 14 September 1781
+      - name: Lydia Vining
+        birth:
+          date: 2 July 1782
+          place: "Leyden, Massachusetts"
+        marriages:
+          - date: int. 4 October 1801
+            spouse: Royal Bryant
+        death:
+          date: 1 November 1808
+          place: "Brookfield, New York"
+      - name: Ebenezer Vining Jr.
+        birth:
+          date: 8 July 1784
+          place: "Leyden, Massachusetts"
+        death:
+          date: 25 January 1807
+          place: "Bridgewater, New York"
+      - name: Records Wilber Vining
+        entryId: RecordsW01
+        entryLetter: R
+        birth:
+          date: 14 May 1786
+          place: "Leyden, Massachusetts"
+        marriages:
+          - date: Lydia Williams
+        death:
+          date: age 80 y. at death
+          place: Indiana
+      - name: Joseph Eason Vining
+        entryId: JosephE01
+        entryLetter: J
+        birth:
+          date: 29 January 1788
+          place: "Leyden, Massachusetts"
+        marriages:
+          - date: 14 March 1813
+            spouse: Sally Ashley
+        death:
+          date: 29 March 1831
+          place: "Ellicottville, New York"
+      - name: Jared Vining
+        entryId: Jared01
+        entryLetter: J
+        birth:
+          date: 21 March 1789
+          place: "Chesterfield, Massachusetts"
+        marriages:
+          - number: 1
+            date: "1810"
+            place: "Bridgewater, New York"
+            spouse: Louise Morgan
+          - number: 2
+            date: "1816"
+            place: "Sweden, New York"
+            spouse: Charlotte Bodwell
+        death:
+          date: 8 September 1858
+          place: "West Nissouri Township, Ontario"
+      - name: Daniel Vining
+        entryId: Daniel02
+        entryLetter: D
+        birth:
+          date: 11 May 1791
+          place: "Chesterfield, Massachusetts"
+        marriages:
+          - date: "Lydia? [...]"
+        death:
+          date: 18(6 or 7)1
+          place: "(Ontario or Michigan ?)"
+      - name: Mary Vining
+        birth:
+          date: 16 May 1793
+          place: "Chesterfield, Massachusetts"
+        marriages:
+          - date: "Royal Bryant [widower of her sister, Lydia]"
+      - name: Mabel Vining
+        birth:
+          date: 30 October 1795
+          place: "Chesterfield, Massachusetts"
+        death:
+          date: 25 July 1803
+          place: "Bridgewater, New York"
+      - name: Salmon Vining
+        entryId: Salmon01
+        entryLetter: S
+        birth:
+          date: 17 September 1797
+          place: "Chesterfield, Massachusetts"
+        marriages:
+          - date: 31 March 1819
+            place: "Sweden, New York"
+            spouse: Mariah Bodwell
+        death:
+          date: 28 April 1879
+          place: "West Nissouri Township, Ontario"
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario"
+      - name: Abigail Vining
+        birth:
+          date: 17 December 1800
+          place: "Chesterfield, Massachusetts"
+        marriages:
+          - date: "1819"
+            place: "Sweden, New York"
+            spouse: James Bodwell
+        death:
+          date: 13 December 1883
+          place: "Mt. Elgin, Ontario"
+      - name: daughter
+        birth:
+          date: 22 February 1807
+          place: "Bridgwater, New York"
+        death:
+          date: 22 February 1807
+          place: "Bridgewater, New York"
+docsUrl: Esources/Ebenezer01doc.htm
+raw: |-
+  <a name="Ebenezer01"></a><font size=+2>Ebenezer Vining</font>
+     (son of <a href="Jfamilies.htm#Josiah01">Josiah Vining and Hannah Abigail Dawes</a>)
+     b. 5 October 1754   Abington, Plymouth County, Massachusetts
+     m. 24 April 1777   Ellicottville, New York
+           Abigail Eason
+                 (dau. of Richard Eason and Mary Pashow)
+                 b. 28 May 1757   Ellicott[ville?], New York
+                 d. 9 September 1832   Ellicott[villle?], New York
+     d. 24 August 1843   Gates [a portion of which is now Rochester?], New York
+           bur. Mount Hope Cemetery   Rochester, New York
+  
+  <font size=+1>children:</font>
+     Hannah Vining   b. 18 February 1778   Leyden, Massachusetts   -   m. 19 January 1797   Goshen, Massachusetts   Oliver Thayer   -   d. 25 August 1825   Sweden, New York
+     Josiah Vining   b. 1 May 1781   Leyden, Massachusetts   -   d. 14 September 1781
+     Lydia Vining   b. 2 July 1782   Leyden, Massachusetts   -   m. int. 4 October 1801   Royal Bryant   -   d. 1 November 1808   Brookfield, New York
+     Ebenezer Vining Jr.   b.  8 July 1784   Leyden, Massachusetts   -   d. 25 January 1807   Bridgewater, New York
+     <a href="Rfamilies.htm#RecordsW01">Records Wilber Vining</a>   b. 14 May 1786   Leyden, Massachusetts   -   m. Lydia Williams   -   d. age 80 y. at death   Indiana
+     <a href="Jfamilies.htm#JosephE01">Joseph Eason Vining</a>   b. 29 January 1788   Leyden, Massachusetts   -   m. 14 March 1813   Sally Ashley   -   d. 29 March 1831   Ellicottville, New York
+     <a href="Jfamilies.htm#Jared01">Jared Vining</a>   b. 21 March 1789   Chesterfield, Massachusetts   -   m. (1) 1810   Bridgewater, New York   Louise Morgan;   (2) 1816   Sweden, New York   Charlotte Bodwell   -   d. 8 September 1858   West Nissouri Township, Ontario
+     <a href="Dfamilies.htm#Daniel02">Daniel Vining</a>   b. 11 May 1791   Chesterfield, Massachusetts   -   m. Lydia? [...]   -   d. 18(6 or 7)1   (Ontario or Michigan ?)
+     Mary Vining   b. 16 May 1793   Chesterfield, Massachusetts   -   m. Royal Bryant [widower of her sister, Lydia]
+     Mabel Vining   b. 30 October 1795   Chesterfield, Massachusetts   -   d. 25 July 1803   Bridgewater, New York
+     <a href="Sfamilies.htm#Salmon01">Salmon Vining</a>   b. 17 September 1797   Chesterfield, Massachusetts   -   m. 31 March 1819   Sweden, New York   Mariah Bodwell   -   d. 28 April 1879   West Nissouri Township, Ontario   -   bur. Vining Cemetery   Thorndale, Ontario
+     Abigail Vining   b. 17 December 1800   Chesterfield, Massachusetts   -   m. 1819   Sweden, New York   James Bodwell   -   d. 13 December 1883   Mt. Elgin, Ontario
+     daughter   b. 22 February 1807   Bridgwater, New York   -   d. 22 February 1807   Bridgewater, New York
+  
+  <a href="Esources/Ebenezer01doc.htm">documentation and notes</a>

@@ -1,0 +1,64 @@
+id: EdwardT02
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Cleveland01
+parentLetter: C
+parentDesc: Cleveland Vining and Lottie Wallace
+head:
+  givenName: Edward Thomas
+  birth:
+    date: 19 November 1927
+    place: "Madison County, Alabama"
+  death:
+    date: 24 September 1972
+    place: "Bakersfield, California"
+marriages:
+  - date: 7 February 1953
+    place: "Miami, Florida"
+    spouse:
+      givenName: Dorothy May
+      surname: Sanborn
+      birth:
+        date: 17 June 1929
+        place: "Boston, Massachusetts"
+      death:
+        date: 22 June 1996
+        place: "San Bernardino County, California"
+childrenGroups:
+  - children:
+      - name: Darryl L. Vining
+        birth:
+          date: age 67 y. at death
+        marriages:
+          - date: 46 y. at death
+            spouse: "Chere [...]"
+        death:
+          date: 11 February 2023
+        burial:
+          place: "Middle Tennessee State Veterans Cemetery   Nashville, Tennessee"
+      - name: Debra Vining
+        marriages:
+          - date: "[...] Coven"
+      - name: Cyndy Lou Vining
+        marriages:
+          - date: "[...] Dean"
+docsUrl: Esources/EdwardT02doc.htm
+raw: |-
+  <a name="EdwardT02"></a><font size=+2>Edward Thomas Vining</font>
+     (son of <a href="Cfamilies.htm#Cleveland01">Cleveland Vining and Lottie Wallace</a>)
+     b. 19 November 1927   Madison County, Alabama
+     m. 7 February 1953   Miami, Florida
+           Dorothy May Sanborn
+                 (dau. of Kenneth Otis Sanborn and Edith Mabel Corbett)
+                 b. 17 June 1929   Boston, Massachusetts
+                 d. 22 June 1996   San Bernardino County, California
+     d. 24 September 1972   Bakersfield, California
+           bur. Union Cemetery   Bakersfield, California
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DarrylL02">Darryl L. Vining<a>   b. age 67 y. at death   -   m. 46 y. at death   Chere [...]   -   d. 11 February 2023   -   bur. Middle Tennessee State Veterans Cemetery   Nashville, Tennessee
+     Debra Vining   m. [...] Coven
+     Cyndy Lou Vining   m. [...] Dean
+  
+  <a href="Esources/EdwardT02doc.htm">documentation and notes</a>

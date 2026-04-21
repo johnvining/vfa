@@ -1,0 +1,70 @@
+id: EarlA01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ErnestL01
+parentDesc: Ernest L. Vining and Hattie M. Schoessow
+head:
+  givenName: Earl Arthur
+  birth:
+    date: 3 December 1906
+    place: "Walburg Township, Cass County, North Dakota"
+  death:
+    date: 1 April 1984
+    place: "[Fargo or Casselton?], North Dakota"
+marriages:
+  - date: 27 July 1927
+    place: "Fargo, Cass County, North Dakota"
+    spouse:
+      givenName: Frances
+      surname: O'Bleness
+      birth:
+        date: 28 November 1907
+        place: "Casseltn, Cass County, North Dakota"
+      death:
+        date: 15 April 2011
+        place: "Fargo, North Dakota"
+      burial:
+        place: "Casselton Cemetery   Casselton, Cass County, North Dakota"
+childrenGroups:
+  - children:
+      - name: Lorry E. Vining
+        entryId: LorryE01
+        entryLetter: L
+        birth:
+          date: 6 March 1930
+          place: "Fargo, Cass County, North Dakota"
+        marriages:
+          - date: 13 December 1953
+            place: "Casselton, Cass County, North Dakota"
+            spouse: Harriet Priewe
+        death:
+          date: 30 September 2014
+          place: "Fargo, Cass County, North Dakota"
+        burial:
+          place: "Casselton Cemetery   Casselton, Cass County, North Dakota"
+      - name: Roger J. Vining
+        marriages:
+          - date: "Beatrice [...]"
+        death:
+          date: 1 January 2019
+          place: "Fargo, Cass County, North Dakota"
+docsUrl: Esources/EarlA01doc.htm
+raw: |-
+  <a name="EarlA01"></a><font size=+2>Earl Arthur Vining</font>
+     (son of <a href="#ErnestL01">Ernest L. Vining and Hattie M. Schoessow</a>)
+     b. 3 December 1906   Walburg Township, Cass County, North Dakota
+     m. 27 July 1927   Fargo, Cass County, North Dakota
+           Frances O'Bleness
+                 (dau. of John Erwin O'Bleness and Roseanne Keyes)
+                 b. 28 November 1907   Casseltn, Cass County, North Dakota
+                 d. 15 April 2011   Fargo, North Dakota
+                       bur. Casselton Cemetery   Casselton, Cass County, North Dakota
+     d. 1 April 1984   [Fargo or Casselton?], North Dakota
+           bur. Casselton Cemetery   Casselton, Cass County, North Dakota
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LorryE01">Lorry E. Vining</a>   b. 6 March 1930   Fargo, Cass County, North Dakota   -   m. 13 December 1953   Casselton, Cass County, North Dakota   Harriet Priewe   -   d. 30 September 2014   Fargo, Cass County, North Dakota   -   bur. Casselton Cemetery   Casselton, Cass County, North Dakota
+     Roger J. Vining   m. Beatrice [...]   -   d. 1 January 2019   Fargo, Cass County, North Dakota
+  
+  <a href="Esources/EarlA01doc.htm">documentation and notes</a>

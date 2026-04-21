@@ -1,0 +1,84 @@
+id: Ezra01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Richard02
+parentLetter: R
+parentDesc: Richard Vining and Susannah Pratt
+head:
+  givenName: Ezra
+  birth:
+    date: 16 May 1798
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: "1871"
+marriages:
+  - date: 3 October 1821
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: "Asenath &#8220;Anna&#8221;"
+      surname: Humphrey
+      birth:
+        date: "1802"
+        place: Massachusetts
+      death:
+        date: 18 October 1884
+      burial:
+        place: "Fairmount Cemetery   Weymouth, Massachusetts"
+childrenGroups:
+  - spouseRef: "Asenath &#8220;Anna&#8221; Humphrey"
+    children:
+      - name: "Elizabeth [F. or T.?] Vining"
+        birth:
+          date: "1823"
+          place: Massachusetts
+        marriages:
+          - date: 8 February 1843
+            place: "Weymouth, Massachusetts"
+            spouse: David Powers
+      - name: James H. Vining
+        entryId: JamesH01
+        entryLetter: J
+        birth:
+          date: "1825"
+          place: Massachusetts
+        marriages:
+          - date: 1 June 1847
+            place: "Weymouth, Massachusetts"
+            spouse: Mary A. P. Richards
+        death:
+          date: 4 May 1903
+          place: "Weymouth, Massachusetts"
+        burial:
+          place: "Fairmount Cemetery   Weymouth, Massachusetts"
+      - name: Ezra Webster Vining
+        entryId: EzraW01
+        entryLetter: E
+        birth:
+          date: 28 May 1833
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 15 May 1853
+            spouse: Martha Brooks Williamson
+        death:
+          date: 29 October 1860
+          place: "Weymouth, Massachusetts"
+docsUrl: Esources/Ezra01doc.htm
+raw: |-
+  <a name="Ezra01"></a><font size=+2>Ezra Vining</font>
+     (son of <a href="Rfamilies.htm#Richard02">Richard Vining and Susannah Pratt</a>)
+     b. 16 May 1798   Abington, Plymouth County, Massachusetts
+     m. 3 October 1821   Weymouth, Massachusetts
+           Asenath &#8220;Anna&#8221; Humphrey
+                 b. 1802   Massachusetts
+                 d. 18 October 1884
+                       bur. Fairmount Cemetery   Weymouth, Massachusetts
+     d. 1871
+           bur. Fairmount Cemetery   Weymouth, Massachusetts
+  
+  <font size=+1>children by Asenath &#8220;Anna&#8221; Humphrey:</font>
+     Elizabeth [F. or T.?] Vining   b. 1823   Massachusetts   -   m. 8 February 1843   Weymouth, Massachusetts   David Powers
+     <a href="Jfamilies.htm#JamesH01">James H. Vining</a>   b. 1825   Massachusetts   -   m. 1 June 1847   Weymouth, Massachusetts   Mary A. P. Richards   -   d. 4 May 1903   Weymouth, Massachusetts   -   bur. Fairmount Cemetery   Weymouth, Massachusetts
+     <a href="Efamilies.htm#EzraW01">Ezra Webster Vining</a>   b. 28 May 1833   Weymouth, Massachusetts   -   m. 15 May 1853   Martha Brooks Williamson   -   d. 29 October 1860   Weymouth, Massachusetts
+  
+  <a href="Esources/Ezra01doc.htm">documentation and notes</a>

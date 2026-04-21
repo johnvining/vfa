@@ -1,0 +1,138 @@
+id: Edward01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: Edward
+  birth:
+    date: 17 May 1809
+    place: Maine
+  death:
+    date: 19 October 1891
+    place: Wisconsin
+marriages:
+  - date: 6 December 1832
+    spouse:
+      givenName: "[Katharine or Catherine]"
+      surname: Haines
+      birth:
+        date: 2 February 1814
+        place: "Avon, Maine"
+      death:
+        date: 1 April 1901
+        place: Wisconsin
+      burial:
+        place: "Marcellon Cemetery   Pardeeville, Wisconsin"
+childrenGroups:
+  - children:
+      - name: Henry C. Vining
+        birth:
+          date: 29 May 1834
+          place: Maine
+        death:
+          date: 29 April 1835
+      - name: Eliza Jane Vining
+        birth:
+          date: 14 April 1836
+          place: "Avon, Maine"
+        marriages:
+          - date: 4 July 1857
+            spouse: George A. Taylor
+        death:
+          date: 4 December 1893
+          place: "Elmore, Minnesota"
+      - name: Edward Kent Vining
+        entryId: EdwardK01
+        birth:
+          date: 30 May 1838
+          place: Maine
+        marriages:
+          - number: 1
+            date: 14 December 1858
+            spouse: Nancy O. Blatchley
+          - number: 2
+            date: 20 January 1895
+            spouse: Mattie Stinson
+        death:
+          date: 7 February 1914
+          place: "Portage, Wisconsin"
+        burial:
+          place: "Rock Hill Cemetery   Kingston, Wisconsin"
+      - name: William Harrison Vining
+        entryId: WilliamH02
+        entryLetter: W
+        birth:
+          date: "[21 or 22?] May 1840"
+          place: Maine
+        marriages:
+          - date: 3 July 1862
+            place: "Fort Scott, Kansas"
+            spouse: Ruth Ann Smart
+        death:
+          date: 4 December 1891
+        burial:
+          place: "Blue Earth, Minnesota"
+      - name: Ben H. Vining
+        birth:
+          date: "[Maine?]"
+        death:
+          date: 18 October 1852
+          place: "[Wisconsin?]"
+      - name: Celinda Vining
+        birth:
+          date: 2 March 1845
+          place: Maine
+        marriages:
+          - date: 2 July 1863
+            spouse: William Livingston Sims
+        death:
+          date: 9 January 1917
+      - name: Thomas Vining
+        entryId: Thomas05
+        entryLetter: T
+        birth:
+          date: 10 November 1849
+          place: "Milwaukee, Wisconsin"
+        marriages:
+          - date: "1872"
+            place: "Marcellon Township, Wisconsin"
+            spouse: Lucretia Peckham
+        death:
+          date: "[10 March 1925 or 24 March 1927?]"
+      - name: Mary A. Vining
+        birth:
+          date: 26 June 1853
+          place: Wisconsin
+        marriages:
+          - date: 4 July 1873
+            place: Wisconsin
+            spouse: Alexander Hamilton
+        death:
+          date: 16 November 1923
+docsUrl: Esources/Edward01doc.htm
+raw: |-
+  <a name="Edward01"></a><font size=+2>Edward Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. 17 May 1809   Maine
+     m. 6 December 1832
+           [Katharine or Catherine] Haines
+                 b. 2 February 1814   Avon, Maine
+                 d. 1 April 1901   Wisconsin
+                       bur. Marcellon Cemetery   Pardeeville, Wisconsin
+     d. 19 October 1891   Wisconsin
+           bur. Marcellon Cemetery   Pardeeville, Wisconsin
+  
+  <font size=+1>children:</font>
+     Henry C. Vining   b. 29 May 1834   Maine   -   d. 29 April 1835
+     Eliza Jane Vining   b. 14 April 1836   Avon, Maine   -   m. 4 July 1857   George A. Taylor   -   d. 4 December 1893   Elmore, Minnesota
+     <a href="#EdwardK01">Edward Kent Vining</a>   b. 30 May 1838   Maine   -   m. (1) 14 December 1858   Nancy O. Blatchley;   (2) 20 January 1895   Mattie Stinson   -   d. 7 February 1914   Portage, Wisconsin   -   bur. Rock Hill Cemetery   Kingston, Wisconsin
+     <a href="Wfamilies.htm#WilliamH02">William Harrison Vining</a>   b. [21 or 22?] May 1840   Maine   -   m. 3 July 1862   Fort Scott, Kansas   Ruth Ann Smart   -   d. 4 December 1891   -   bur. Blue Earth, Minnesota
+     Ben H. Vining   b. [Maine?]   -   d. 18 October 1852   [Wisconsin?]
+     Celinda Vining   b. 2 March 1845   Maine   -   m. 2 July 1863   William Livingston Sims   -   d. 9 January 1917
+     <a href="Tfamilies.htm#Thomas05">Thomas Vining</a>   b. 10 November 1849   Milwaukee, Wisconsin   -   m. 1872   Marcellon Township, Wisconsin   Lucretia Peckham   -   d. [10 March 1925 or 24 March 1927?]
+     Mary A. Vining   b. 26 June 1853   Wisconsin   -   m. 4 July 1873   Wisconsin   Alexander Hamilton   -   d. 16 November 1923
+  
+  <a href="Esources/Edward01doc.htm">documentation and notes</a>

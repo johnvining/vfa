@@ -1,0 +1,136 @@
+id: Elem01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Alexander01
+parentLetter: A
+parentDesc: Alexander Vining and Olive Pease
+head:
+  givenName: Elem
+  birth:
+    date: 25 December 1778
+    place: "East Windsor, Connecticut"
+  death:
+    date: 10 January 1837
+    place: "Delaware, Ohio"
+marriages:
+  - number: 1
+    date: Sarah Allen
+    spouse:
+      givenName: d.
+      surname: "1806"
+  - number: 2
+    date: Sarah Carter
+    spouse:
+      givenName: "b. 1785  "
+      surname: Virginia
+childrenGroups:
+  - spouseRef: Sarah Allen
+    children:
+      - name: Elam Allen Vining
+        entryId: ElamA01
+        birth:
+          date: 14 February 1804
+          place: "Hartford, Connecticut"
+        marriages:
+          - number: 1
+            date: Hannah Palmer
+          - number: 2
+            date: "1864"
+            spouse: Mrs. Mary Elizabeth Sackett
+        death:
+          date: 27  February 1870
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: Roxanna Vining
+        birth:
+          date: "1805"
+          place: "Berkshire, Ohio"
+        marriages:
+          - date: Andrew Patterson
+        death:
+          date: "15 April [1839 or 1838?]"
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+  - spouseRef: Sarah Carter
+    children:
+      - name: Elam Carter Vining
+        entryId: ElamC01
+        birth:
+          date: 9 March 1811
+          place: "Delaware, Ohio"
+        marriages:
+          - date: "1835"
+            place: Sarah Newport
+        death:
+          date: 31 October 1899
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: James Thomas Vining
+        entryId: JamesT01
+        entryLetter: J
+        birth:
+          date: "[1814 or 1815?]"
+          place: "Delaware, Ohio"
+        marriages:
+          - date: "[7 March or 21 April?] 1838"
+            spouse: Philena Durfey
+        death:
+          date: May 1850
+          place: Ohio
+      - name: Sarah A. Vining
+        birth:
+          date: "1816"
+        marriages:
+          - date: 3 May 1831
+            spouse: Nimrod B. Spurgeon
+      - name: Emily Mariah Vining
+        birth:
+          date: "1818"
+        marriages:
+          - date: 21 April 1841
+            spouse: Reuben Durfey
+        death:
+          date: 27 March 1874
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: Elizabeth W. Vining
+        birth:
+          date: "1820"
+        marriages:
+          - date: 4 December 1833
+            spouse: Charles C. Miller
+      - name: Mary A. Vining
+        birth:
+          date: "1821"
+        marriages:
+          - date: "[...] Sprague"
+        death:
+          date: 22 March 1891
+        burial:
+          place: Fairview Cemetery
+      - name: daughter
+        birth:
+          date: "1822"
+raw: |-
+  <a name="Elem01"></a><font size=+2>Elem Vining</font>
+     (son of <a href="Afamilies.htm#Alexander01">Alexander Vining and Olive Pease</a>)
+     b. 25 December 1778   East Windsor, Connecticut
+     m. (1) Sarah Allen
+                 d. 1806
+           (2) Sarah Carter
+                 b. 1785   Virginia
+     d. 10 January 1837   Delaware, Ohio
+           bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <font size=+1>children by Sarah Allen:</font>
+     <a href="#ElamA01">Elam Allen Vining</a>   b. 14 February 1804   Hartford, Connecticut   -   m. (1) Hannah Palmer;   (2) 1864   Mrs. Mary Elizabeth Sackett   -   d. 27  February 1870   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     Roxanna Vining   b. 1805   Berkshire, Ohio   -   m. Andrew Patterson   -   d. 15 April [1839 or 1838?]   -   bur. Oak Grove Cemetery   Delaware, Ohio
+  <font size=+1>children by Sarah Carter:</font>
+     <a href="#ElamC01">Elam Carter Vining</a>   b. 9 March 1811   Delaware, Ohio   -   m. 1835   Sarah Newport   -   d. 31 October 1899   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     <a href="Jfamilies.htm#JamesT01">James Thomas Vining</a>   b. [1814 or 1815?]   Delaware, Ohio   -   m. [7 March or 21 April?] 1838   Philena Durfey   -   d. May 1850   Ohio
+     Sarah A. Vining   b. 1816   -   m. 3 May 1831   Nimrod B. Spurgeon
+     Emily Mariah Vining   b. 1818   -   m. 21 April 1841   Reuben Durfey   -   d. 27 March 1874   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     Elizabeth W. Vining   b. 1820   -   m. 4 December 1833   Charles C. Miller
+     Mary A. Vining   b. 1821   -   m. [...] Sprague   -   d. 22 March 1891   -   bur. Fairview Cemetery
+     daughter   b. 1822

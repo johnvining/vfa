@@ -1,0 +1,44 @@
+id: EdwinP01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Percival01
+parentLetter: P
+parentDesc: "Percival L. Vining and ?"
+head:
+  givenName: "Edwin Patrick &#8220;Ted&#8221;"
+  birth:
+    date: 11 October 1921
+  death:
+    date: 18 November 2003
+    place: "(last residence: Portland, Oregon)"
+marriages:
+  - spouse:
+      givenName: Velma
+      surname: Walker
+childrenGroups:
+  - children:
+      - name: Edwin Patrick Vining Jr.
+        entryId: EdwinPJr01
+        entryLetter: E
+        birth:
+          date: 14 November 1942
+        marriages:
+          - date: Lynda Rockham
+      - name: Dale Michael Vining
+        birth:
+          date: 21 April 1949
+      - name: Kay Lorene Vining
+        birth:
+          date: 12 February 1959
+raw: |-
+  <a name="EdwinP01"></a><font size=+2>Edwin Patrick &#8220;Ted&#8221; Vining</font>
+     (son of <a href="Pfamilies.htm#Percival01">Percival L. Vining and ?</a>)
+     b. 11 October 1921
+     m. Velma Walker
+     d. 18 November 2003   (last residence: Portland, Oregon)
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EdwinPJr01">Edwin Patrick Vining Jr.</a>   b. 14 November 1942   -   m. Lynda Rockham
+     Dale Michael Vining   b. 21 April 1949
+     Kay Lorene Vining   b. 12 February 1959

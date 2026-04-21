@@ -1,0 +1,45 @@
+id: EdmundP03
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdmundPJr01
+parentDesc: Edmund Pendleton Vining Jr. and Iona Helen Jensen
+head:
+  givenName: Edmund P.
+  birth:
+    date: 21 March 1927
+    place: Illinois
+  death:
+    date: 31 March 1996
+    place: "(last residence: Aurora, Illinois)"
+marriages:
+  - spouse:
+      givenName: Natalie Ann
+      surname: Kremer
+childrenGroups:
+  - children:
+      - name: Christine Vining
+        marriages:
+          - date: Michael Crouch
+      - name: Stephen Vining
+        entryId: Stephen01
+        entryLetter: S
+        marriages:
+          - date: "Sheila [...]"
+docsUrl: Esources/EdmundP03doc.htm
+raw: |-
+  <a name="EdmundP03"></a><font size=+2>Edmund P. Vining</font>
+     (son of <a href="#EdmundPJr01">Edmund Pendleton Vining Jr. and Iona Helen Jensen</a>)
+     b. 21 March 1927   Illinois
+     m. Natalie Ann Kremer
+              (dau. of George Kremer and Emma Husfeldt)
+              b. 9 May 1925   West Chicago, Illinois
+              d. 2 August 2002   Aurora, Illinois
+                    bur. Saint Pauls Lutheran Cemetery   Montgomery, Illinois
+     d. 31 March 1996   (last residence: Aurora, Illinois)
+  
+  <font size=+1>children:</font>
+     Christine Vining   m. Michael Crouch
+     <a href="Sfamilies.htm#Stephen01">Stephen Vining</a>   m. Sheila [...]
+  
+  <a href="Esources/EdmundP03doc.htm">documentation and notes</a>

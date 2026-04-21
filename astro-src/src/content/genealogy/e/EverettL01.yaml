@@ -1,0 +1,77 @@
+id: EverettL01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwinR01
+parentDesc: Edwin R. Vining and Ada L. Morse
+head:
+  givenName: Everett L.
+  birth:
+    date: "[10 or 12?] December 1874"
+    place: "Durham, Maine"
+  death:
+    date: 1 December 1954
+    place: "Lewiston, Maine"
+marriages:
+  - date: 17 August 1899
+    place: "Livermore Falls, Maine"
+    spouse:
+      givenName: Ida May
+      surname: Thompson
+      birth:
+        date: 18 August 1882
+        place: "Livermore Falls, Maine"
+      death:
+        date: 4 September 1969
+        place: "Winthrop, Maine"
+      burial:
+        place: "grave 2, lot 128, section SS   Mount Auburn Cemetery   Auburn, Maine"
+childrenGroups:
+  - children:
+      - name: Kenneth T. Vining
+        birth:
+          date: 28 August 1903
+          place: "East Livermore, Maine"
+        death:
+          date: 7 August 1924
+          place: "Auburn, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Edward Leander Vining
+        entryId: EdwardL01
+        birth:
+          date: 20 May 1906
+          place: "Livermore Falls, Maine"
+        marriages:
+          - number: 1
+            date: 24 June 1931
+            place: "Mechanic Falls, Maine"
+            spouse: "Marjorie E. Newcomb,   divorced"
+          - number: 2
+            date: 25 June 1939
+            place: "Lewiston, Maine"
+            spouse: Ruth Elizabeth Morrill
+        death:
+          date: 17 October 1972
+          place: "Lewiston, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+docsUrl: Esources/EverettL01doc.htm
+raw: |-
+  <a name="EverettL01"></a><font size=+2>Everett L. Vining</font>
+     (son of <a href="#EdwinR01">Edwin R. Vining and Ada L. Morse</a>)
+     b. [10 or 12?] December 1874   Durham, Maine
+     m. 17 August 1899   Livermore Falls, Maine
+           Ida May Thompson
+                 (dau. of D. S. Thompson and Elizabeth E. Hersey)
+                 b. 18 August 1882   Livermore Falls, Maine
+                 d. 4 September 1969   Winthrop, Maine
+                       bur. grave 2, lot 128, section SS   Mount Auburn Cemetery   Auburn, Maine
+     d. 1 December 1954   Lewiston, Maine
+           bur. grave 1, lot 128, section SS   Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>children:</font>
+     Kenneth T. Vining   b. 28 August 1903   East Livermore, Maine   -   d. 7 August 1924   Auburn, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     <a href="#EdwardL01">Edward Leander Vining</a>   b. 20 May 1906   Livermore Falls, Maine   -   m. (1) 24 June 1931   Mechanic Falls, Maine   Marjorie E. Newcomb,   divorced;   (2) 25 June 1939   Lewiston, Maine   Ruth Elizabeth Morrill   -   d. 17 October 1972   Lewiston, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <a href="Esources/EverettL01doc.htm">documentation and notes</a>

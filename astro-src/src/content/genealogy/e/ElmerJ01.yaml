@@ -1,0 +1,49 @@
+id: ElmerJ01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Lafayette01
+parentLetter: L
+parentDesc: Lafayette Vining and Phebe Rinehart
+head:
+  givenName: Elmer John
+  birth:
+    date: 3 April 1860
+    place: Ohio
+  death:
+    date: 25 September 1928
+    place: "Marengo, Ohio"
+marriages:
+  - date: 14 y. as of 1900 census
+childrenGroups:
+  - children:
+      - name: child Vining
+        death:
+          date: prior to 1910 census
+      - name: Delbert D. Vining
+        birth:
+          date: 29 January 1892
+          place: Ohio
+        death:
+          date: 13 January 1937
+          place: "Marengo, Ohio"
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+docsUrl: Esources/ElmerJ01doc.htm
+raw: |-
+  <a name="ElmerJ01"></a><font size=+2>Elmer John Vining</font>
+     (son of <a href="Lfamilies.htm#Lafayette01">Lafayette Vining and Phebe Rinehart</a>)
+     b. 3 April 1860   Ohio
+     m. 14 y. as of 1900 census
+              Emma A. Steward
+                    b. 1859   Ohio
+                    d. 1944
+                          bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     d. 25 September 1928   Marengo, Ohio
+           bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+  
+  <font size=+1>children:</font>
+     child Vining   d. prior to 1910 census
+     Delbert D. Vining   b. 29 January 1892   Ohio   -   d. 13 January 1937   Marengo, Ohio   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+  
+  <a href="Esources/ElmerJ01doc.htm">documentation and notes</a>

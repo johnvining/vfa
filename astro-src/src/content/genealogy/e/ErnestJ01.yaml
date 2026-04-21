@@ -1,0 +1,30 @@
+id: ErnestJ01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: RichardJ02
+parentLetter: R
+parentDesc: Richard John Vining and Eliza Morgan
+head:
+  givenName: Ernest James
+  birth:
+    date: ca. 1879
+  death:
+    date: "1947"
+    place: "Caulfield, Victoria"
+marriages:
+  - spouse:
+      givenName: Emma Louise
+      surname: Curtis
+raw: |-
+  <a name="ErnestJ01"></a><font size=+2>Ernest James Vining</font>
+     (son of <a href="Rfamilies.htm#RichardJ02">Richard John Vining and Eliza Morgan</a>)
+     b. ca. 1879
+     m. Emma Louise Curtis
+              (dau. of Robert Curtis and Mary Ann Foulkes)
+              b. ca. 1850
+              d. 1977   Cheltenham, Victoria
+     d. 1947   Caulfield, Victoria
+  
+  <font size=+1>child:</font>
+     John William Robert Vining   b. ca. 1900   -   m. [...] Absalom   -   d. 1977   Kew, Victoria

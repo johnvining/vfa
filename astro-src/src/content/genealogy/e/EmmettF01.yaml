@@ -1,0 +1,90 @@
+id: EmmettF01
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: WilliamN02
+parentLetter: W
+parentDesc: "William N. Vining and Eliza J. [...]"
+head:
+  givenName: Emmett Fred
+  birth:
+    date: 17 November 1885
+    place: Arkansas
+  death:
+    date: 13 October 1936
+marriages:
+  - date: 16 February 1916
+    place: Arkansas
+    spouse:
+      givenName: Irene Clementine
+      surname: Loveless
+      birth:
+        date: 15 December 1898
+        place: Arkansas
+      death:
+        date: 29 July 1997
+        place: "(last residence: Monticello, Arkansas)"
+      burial:
+        place: "Green Hill Cemetery   Green Hill, Arkansas"
+childrenGroups:
+  - children:
+      - name: Warner Harris Vining
+        entryId: WarnerH01
+        entryLetter: W
+        birth:
+          date: 8 March 1917
+          place: Arkansas
+        marriages:
+          - date: Ruby Merle Brantley
+        death:
+          date: 28 October 2010
+          place: "Monticello, Arkansas"
+      - name: Davis Vining
+        birth:
+          date: 24 January 1919
+          place: Arkansas
+        death:
+          date: 2 October 1937
+        burial:
+          place: "Green Hill Cemetery   Green Hill, Arkansas"
+      - name: Maudell Christine Vining
+        birth:
+          date: 22 September 1921
+        marriages:
+          - date: 1 January 1937
+            spouse: "Lake Village, Arkansas   Robert Weslie Hamil Jr."
+        death:
+          date: September 1937
+      - name: Herman H. Vining
+        birth:
+          date: 11 August 1924
+        death:
+          date: 12 July 1944
+        burial:
+          place: "Green Hill Cemetery   Green Hill, Arkansas"
+      - name: Emmett Fred Vining Jr.
+        birth:
+          date: ca. 1930
+        death:
+          date: October 1936
+      - name: daughter
+raw: |-
+  <a name="EmmettF01"></a><font size=+2>Emmett Fred Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamN02">William N. Vining and Eliza J. [...]</a>)
+     b. 17 November 1885   Arkansas
+     m. 16 February 1916   Arkansas
+           Irene Clementine Loveless
+                 (dau. of Benjamin W. Loveless and Louisa C. Knowles)
+                 b. 15 December 1898   Arkansas
+                 d. 29 July 1997   (last residence: Monticello, Arkansas)
+                       bur. Green Hill Cemetery   Green Hill, Arkansas
+     d. 13 October 1936
+           bur. Green Hill Cemetery   Green Hill, Arkansas
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WarnerH01">Warner Harris Vining</a>   b. 8 March 1917   Arkansas   -   m. Ruby Merle Brantley   -   d. 28 October 2010   Monticello, Arkansas
+     Davis Vining   b. 24 January 1919   Arkansas   -   d. 2 October 1937   -   bur. Green Hill Cemetery   Green Hill, Arkansas
+     Maudell Christine Vining   b. 22 September 1921   -   m. 1 January 1937   Lake Village, Arkansas   Robert Weslie Hamil Jr.   -   d. September 1937
+     Herman H. Vining   b. 11 August 1924   -   d. 12 July 1944   -   bur. Green Hill Cemetery   Green Hill, Arkansas
+     Emmett Fred Vining Jr.   b. ca. 1930   -   d. October 1936
+     daughter

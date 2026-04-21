@@ -1,0 +1,86 @@
+id: EdwardP05
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: GeorgeW01
+parentLetter: G
+parentDesc: "George Whit[e?]field Vining and Emily Holland"
+head:
+  givenName: Edward Payson
+  birth:
+    date: 14 January 1847
+    place: "Belchertown, Massachusetts"
+  death:
+    date: 31 December 1920
+    place: "Manhattan, New York City, New York"
+marriages:
+  - number: 1
+    date: 22 May 1867
+    spouse:
+      givenName: Annabel
+      surname: Bodwell
+      birth:
+        date: 27 July 1846
+        place: "Fowlersville, New York"
+      death:
+        date: 11 July 1887
+        place: "Chicago, Illinois"
+  - number: 2
+    date: 14 November 1895
+    spouse:
+      givenName: Agnes E.
+      surname: Brooks
+      birth:
+        date: "1852"
+        place: Massachusetts
+childrenGroups:
+  - spouseRef: Annabel Bodwell
+    children:
+      - name: Belle Vining
+        birth:
+          date: 30 March 1869
+          place: "Grand Rapids, Michigan"
+        death:
+          date: 4 October 1872
+      - name: Edward Vining
+        birth:
+          date: 2 October 1873
+          place: "Omaha, Nebraska"
+        death:
+          date: 2 October 1873
+          place: "Omaha, Nebraska"
+      - name: Annabel Bodwell Vining
+        birth:
+          date: 15 March 1877
+          place: "Omaha, Nebraska"
+        marriages:
+          - date: Charles Otis
+        death:
+          date: 5 December 1931
+        burial:
+          place: "Woodlawn Cemetery   Bronx, New York"
+      - name: Ellen Pauline Vining
+        birth:
+          date: 15 March 1877
+          place: "Omaha, Nebraska"
+docsUrl: Esources/EdwardP05doc.htm
+raw: |-
+  <a name="EdwardP05"></a><font size=+2>Edward Payson Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeW01">George Whit[e?]field Vining and Emily Holland</a>)
+     b. 14 January 1847   Belchertown, Massachusetts
+     m. (1) 22 May 1867
+                 Annabel Bodwell
+                       b. 27 July 1846   Fowlersville, New York
+                       d. 11 July 1887   Chicago, Illinois
+           (2) 14 November 1895
+                 Agnes E. Brooks
+                       b. 1852   Massachusetts
+     d. 31 December 1920   Manhattan, New York City, New York
+  
+  <font size=+1>children by Annabel Bodwell:</font>
+     Belle Vining   b. 30 March 1869   Grand Rapids, Michigan   -   d. 4 October 1872
+     Edward Vining   b. 2 October 1873   Omaha, Nebraska   -   d. 2 October 1873   Omaha, Nebraska
+     Annabel Bodwell Vining   b. 15 March 1877   Omaha, Nebraska   -   m. Charles Otis   -   d. 5 December 1931   -   bur. Woodlawn Cemetery   Bronx, New York
+     Ellen Pauline Vining   b. 15 March 1877   Omaha, Nebraska
+  
+  <a href="Esources/EdwardP05doc.htm">documentation and notes</a>
