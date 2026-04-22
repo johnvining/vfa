@@ -48,7 +48,8 @@ childrenGroups:
           place: "Bristol, England"
         death:
           date: 26 September 1886
-  - children:
+  - headingText: "children?"
+    children:
       - name: Frederick Vining
         entryId: Frederick01
         entryLetter: F

@@ -233,21 +233,25 @@ export function renderEntry(data: EntryData): string {
   lines.push(`<a name="${data.id}"></a><font size="+2">${headingName}</font>${headingNote}`);
 
   // Parent reference
-  if (data.relationship && data.parentDesc) {
-    const relMap: Record<string, string> = {
-      'son': 'son', 'dau.': 'dau.', 'daughter': 'daughter',
-      'adopted son': 'adopted son', 'adopted dau.': 'adopted dau.',
-      '[adopted?] son': '[adopted?] son', '[adopted?] dau.': '[adopted?] dau.',
-    };
-    const rel = relMap[data.relationship!] ?? 'son';
-    const closeParen = data.noCloseParen ? '' : ')';
-    if (data.parentId) {
-      const href = data.parentLetter
-        ? `${data.parentLetter}families.htm#${data.parentId}`
-        : `#${data.parentId}`;
-      lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>${closeParen}`);
+  if (data.parentDesc) {
+    if (data.relationship) {
+      const relMap: Record<string, string> = {
+        'son': 'son', 'dau.': 'dau.', 'daughter': 'daughter',
+        'adopted son': 'adopted son', 'adopted dau.': 'adopted dau.',
+        '[adopted?] son': '[adopted?] son', '[adopted?] dau.': '[adopted?] dau.',
+      };
+      const rel = relMap[data.relationship!] ?? 'son';
+      const closeParen = data.noCloseParen ? '' : ')';
+      if (data.parentId) {
+        const href = data.parentLetter
+          ? `${data.parentLetter}families.htm#${data.parentId}`
+          : `#${data.parentId}`;
+        lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>${closeParen}`);
+      } else {
+        lines.push(`   (${rel} of ${data.parentDesc}${closeParen}`);
+      }
     } else {
-      lines.push(`   (${rel} of ${data.parentDesc}${closeParen}`);
+      lines.push(`   ${data.parentDesc}`);
     }
   }
 
