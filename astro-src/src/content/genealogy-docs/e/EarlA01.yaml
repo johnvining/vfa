@@ -1,0 +1,57 @@
+id: EarlA01
+title: Earl A. Vining - Frances O'Bleness
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Earl A. Vining
+          values:
+            - "23"
+            - "33"
+        - label: Frances (O'Bleness) Vining
+          values:
+            - "22"
+            - "32"
+        - label: Lorry E. Vining
+          values:
+            - 1 m.
+            - "10"
+          indent: true
+        - label: Roger J. Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Casselton Township, Cass County, North Dakota. In 1930, Earl A. Vinng and his wife and son were living in the
+          household of his wife's parents.
+        images:
+          - src: EarlA01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Casselton Township, Cass County, North Dakota. Also living in this household in 1940 was hired man Lynn Jones
+          (36 y., b. Iowa).
+        images:
+          - src: EarlA01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Frances (O'Bleness) Vining:"
+        images:
+          - src: EarlA01wifeobituary.jpg
+      - caption: >-
+          Gravestones for Earl A. Vining and Frances (O'Bleness) Vining, in Casselton Cemetery, Casselton, Cass County,
+          North Dakota (source: Find A Grave):
+        images:
+          - src: EarlA01andwifegravestones.jpg
+      - caption: "Roger J. Vining:"
+        images:
+          - src: EarlA01sonRogerimage.jpg
+      - caption: "Obituary for Roger J. Vining, son of Earl A. Vining and Frances (O'Bleness) Vining:"
+        images:
+          - src: EarlA01sonRogerobituarya.jpg
+          - src: EarlA01sonRogerobituaryb.jpg

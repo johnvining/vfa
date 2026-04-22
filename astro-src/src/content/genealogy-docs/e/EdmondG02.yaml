@@ -1,0 +1,121 @@
+id: EdmondG02
+title: Edmond Green Vining - Sarah Ann Stringer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Edmond Green Vining
+          values:
+            - "38"
+            - "50"
+            - "?"
+            - "69"
+            - "?"
+            - "?"
+        - label: Sarah Ann (Stringer) Vining
+          values:
+            - "25"
+            - "32"
+            - "?"
+            - "53"
+            - "?"
+            - "?"
+        - label: Mary L. Vining
+          values:
+            - "1"
+            - "13"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Katie J. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Lucinda Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: George Martin Vining
+          values:
+            - ""
+            - 1 m.
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edith Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nellie Sue Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Baton Rouge (ward 1), East Baton Rouge Parish, Louisiana - dwelling 297, family 306. Also living in this
+          household in 1870 was Louisa Stringer (17 y., b. Mississippi, seamstress), likely a younger sister of Sarah
+          Ann (Stringer) Vining.
+        images:
+          - src: EdmondG02census1870.jpg
+      - year: "1880"
+        caption: District 103, Milam County, Texas - dwelling 343, family 343
+        images:
+          - src: EdmondG02census1880.jpg
+      - year: "1900"
+        caption: Commissioner’s Precinct 2, Tom Green County, Texas - dwelling 119, family 127
+        images:
+          - src: EdmondG02census1900a.jpg
+          - src: EdmondG02census1900b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Sarah Ann (Stringer) Vining, in Junction Cemetery, Junction, Kimble County, Texas (from Find A
+          Grave):
+        images:
+          - src: EdmondG02wifegravestone.jpg
+      - caption: >-
+          Gravestone for George Martin Vining, son of Edmond Green Vining and Sarah Ann (Stringer) Vining, in Hill
+          Cemetery, Lawrence, Van Buren County, Michigan (from Find A Grave):
+        images:
+          - src: EdmondG02sonGeorgegravestone.jpg

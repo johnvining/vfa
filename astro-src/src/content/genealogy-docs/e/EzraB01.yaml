@@ -1,0 +1,56 @@
+id: EzraB01
+title: Ezra Bonney Vining - Alice Gould Page
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ezra Bonney Vining
+          values:
+            - "47"
+            - "58"
+            - "68"
+            - dead
+            - ""
+        - label: Alice Gould (Page) Vining
+          values:
+            - "47"
+            - "57"
+            - "67"
+            - |-
+              77
+              [see note below]
+            - dead
+        - label: Mary Kezia Vining
+          values:
+            - "17"
+            - "26"
+            - "33"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Chicago (ward 32, Hyde Park Township), Cook County, Illinois - no dwelling number, family 131
+        images:
+          - src: EzraB01census1900.jpg
+      - year: "1910"
+        caption: Chicago (ward 3), Cook County, Illinois - dwelling 160, family 266
+        images:
+          - src: EzraB01census1910.jpg
+      - year: "1920"
+        caption: Chicago (ward 3), Cook County, Illinois - dwelling number illegible, family 158
+        images:
+          - src: EzraB01census1920a.jpg
+          - src: EzraB01census1920b.jpg
+      - year: "1930"
+        caption: >-
+          Ridgeway, Orleans County, New York - dwelling 179, family 179. In 1930, the widowed Alice Gould (Page) Vining
+          was living in the household of a cousin.
+        images:
+          - src: EzraB01census1930.jpg

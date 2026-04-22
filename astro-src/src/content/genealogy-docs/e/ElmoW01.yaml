@@ -1,0 +1,77 @@
+id: ElmoW01
+title: Elmo William Vining - Jennie Courtney
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Elmo William Vining
+          values:
+            - "29"
+            - "39"
+            - "48"
+            - "59"
+            - "69"
+        - label: Jennie (Courtney) Vining
+          values:
+            - "23"
+            - "32"
+            - "40"
+            - "53"
+            - "63"
+        - label: Glenn William Vining
+          values:
+            - "2"
+            - "11"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: daughter Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Walter E. Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "18"
+            - "28"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          West Lincoln Township, Mitchell County, Iowa - dwelling 13, family 13. Elmo William Vining and family (wife
+          Lucretia and son Glenn) were living in same household as his parents Bela Vining and Lucretia A. (Lyman)
+          Vining.
+        images:
+          - src: ElmoW01census1900a.jpg
+          - src: ElmoW01census1900b.jpg
+      - year: "1910"
+        caption: West Lincoln Township, Mitchell County, Iowa - dwelling 7, family 7
+        images:
+          - src: ElmoW01census1910.jpg
+      - year: "1920"
+        caption: >-
+          West Lincoln Township, Mitchell County, Iowa - dwelling 48, family 48. Also living in this household in 1920
+          was Lucretia Vining (widowed mother of Elmo William Vining, 80 y., b. New Hampshire).
+        images:
+          - src: ElmoW01census1920.jpg
+      - year: "1930"
+        caption: West Lincoln Township, Mitchell County, Iowa - dwelling 56, family 56
+        images:
+          - src: ElmoW01census1930.jpg
+      - year: "1940"
+        caption: Burr Oak Township, Mitchell County, Iowa. In 1940, Walter E. Vining was listed as head of household.
+        images:
+          - src: ElmoW01census1940.jpg

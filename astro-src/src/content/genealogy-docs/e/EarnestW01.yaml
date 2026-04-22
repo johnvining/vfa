@@ -1,0 +1,27 @@
+id: EarnestW01
+title: Earnest Willie Vining - Pauline [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Earnest Willie Vining
+          values:
+            - "25"
+            - "?"
+        - label: Pauline ([…]) Vining
+          values:
+            - "20"
+            - "?"
+        - label: Cora M. Vining
+          values:
+            - 3 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Militia District 561, Upson County, Georgia - dwelling 138, family 149
+        images:
+          - src: EarnestW01census1930.jpg

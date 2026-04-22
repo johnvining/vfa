@@ -1,0 +1,112 @@
+id: Ebenezer02
+title: Ebenezer Vining - Julia Gray
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Ebenezer Vining
+          values:
+            - "?"
+            - "40"
+            - "51"
+            - "?"
+            - "?"
+            - dead
+        - label: Julia (Gray) Vining
+          values:
+            - "?"
+            - "30"
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lorenzo Devaro Vining
+          values:
+            - "?"
+            - "13"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Julia Maria Vining
+          values:
+            - "?"
+            - "11"
+            - living in separate household
+            - "?"
+            - dead
+            - ""
+          indent: true
+        - label: Alonzo Ludovico Vining
+          values:
+            - "?"
+            - "9"
+            - living in separate household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: William Wilber Vining
+          values:
+            - ""
+            - "7"
+            - "16"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: John Wesley Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nathan Gray Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Marion Mortimer Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - married, [living in separate household?]
+            - "?"
+          indent: true
+        - label: Elmer Alphonzo Vining
+          values:
+            - ""
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Townsend Township, Huron County, Ohio - dwelling 873, family 892. Also living in this household in 1850 was
+          Daniel Roe (33 y., b. New York).
+        images:
+          - src: Ebenezer02census1850.jpg
+      - year: "1860"
+        caption: Townsend Township, Huron County, Ohio - dwelling 881, family 882
+        images:
+          - src: Ebenezer02census1860.jpg

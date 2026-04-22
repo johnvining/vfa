@@ -1,0 +1,102 @@
+id: EdwardK01
+title: Edward Kent Vining - (1) Nancy O. Blatchley, (2) Mattie Stinson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Edward Kent Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "?"
+            - "62"
+            - "71"
+            - dead
+        - label: Nancy O. (Blatchley) Vining
+          values:
+            - "21"
+            - "31"
+            - "41"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Mattie (Stinson) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "46"
+            - "56"
+            - "66"
+        - label: Willard Vining
+          values:
+            - ""
+            - "9"
+            - "20"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jane Parrisade Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Scott, Columbia County, Wisconsin - dwelling 269, family 265
+        images:
+          - src: EdwardK01census1860.jpg
+      - year: "1870"
+        caption: Buffalo, Marquette County, Wisconsin - dwelling 5, family 4
+        images:
+          - src: EdwardK01census1870.jpg
+      - year: "1880"
+        caption: Buffalo, Marquette County, Wisconsin - no dwelling number, family 58
+        images:
+          - src: EdwardK01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Pardeeville, Columbia County, Wisconsin - dwelling 5, family 5. Three grandchildren (children of their son
+          Willard) were living in this household in 1900.
+        images:
+          - src: EdwardK01census1900.jpg
+      - year: "1910"
+        caption: Wyocena, Columbia County, Wisconsin - dwelling 139, family 140
+        images:
+          - src: EdwardK01census1910.jpg
+      - year: "1920"
+        caption: Wyocena, Columbia County, Wisconsin - dwelling 132, family 134
+        images:
+          - src: EdwardK01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument for Edward Kent Vining and wife Nancy O. Blatchley, and gravestone for Edward Kent Vining, in Rock
+          Hill Cemetery, Kingston, Green Lake County, Wisconsin (from Find A Grave):
+        images:
+          - src: EdwardK01andwifeNancymonument.jpg
+          - src: EdwardK01gravestone.jpg
+        inline: true
+      - caption: >-
+          Monument side for Jane Parrisade (Vining) Kerwin, daughter of Edward Kent Vining and Nancy O. Blatchley, in
+          Rock Hill Cemetery, Kingston, Green Lake County, Wisconsin (from Find A Grave):
+        images:
+          - src: EdwardK01dauJanemonumentside.jpg

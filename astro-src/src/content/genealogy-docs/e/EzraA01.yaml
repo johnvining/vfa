@@ -1,0 +1,65 @@
+id: EzraA01
+title: Ezra A. Vining - Mary Jane Wells
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Ezra A. Vining
+          values:
+            - "?"
+            - "37"
+            - "48"
+            - "?"
+            - dead
+            - ""
+        - label: Mary Jane (Wells) Vining
+          values:
+            - "?"
+            - "34"
+            - "44"
+            - "?"
+            - "[65?]"
+            - dead
+        - label: Minnie E. Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Roscoe A. Vining
+          values:
+            - ""
+            - "8"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Lowell (ward 1), Middlesex County, Massachusetts - dwelling 312, family 348. Also living with this family in
+          1870 was Sarah Vining (75 y., b. Maine, keeping house).
+        images:
+          - src: EzraA01census1870.jpg
+      - year: "1880"
+        caption: Lowell, Middlesex County, Massachusetts - dwelling 72, family 82
+        images:
+          - src: EzraA01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Lowell (ward [2?]), Middlesex County, Massachusetts - dwelling 104, family 109 (renumbering of this family to
+          109 on the census record is outside the range of the image below). Also living in this household in 1900 was
+          Fred Wells (nephew of Mary Jane (Wells) Vining).
+        images:
+          - src: EzraA01census1900.jpg

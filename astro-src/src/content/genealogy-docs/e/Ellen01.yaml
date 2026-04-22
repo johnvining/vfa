@@ -1,0 +1,51 @@
+id: Ellen01
+title: Ellen Vining -
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Ellen Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charles Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Owen Frank Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          District 1130, Coffee County, Georgia. Also living in this household in 1880 was Roda Ivey (an aunt to Ellen
+          Vining, presumably her mother's sister; 50 y., b. Georgia).
+        images:
+          - src: Ellen01census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Ellen Vining:"
+        images:
+          - src: Ellen01gravestone.jpg

@@ -1,0 +1,73 @@
+id: EarlT01
+title: Earl Theodore Vining - Ermal Pauline Wilson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Earl Theodore Vining
+          values:
+            - "33"
+            - "44"
+        - label: Ermal Pauline (Wilson) Vining
+          values:
+            - "31"
+            - |-
+              living in separate household
+              [see note below]
+        - label: Wanda Vining
+          values:
+            - "9"
+            - "19"
+          indent: true
+        - label: Rex Richard Vining
+          values:
+            - "7"
+            - |-
+              17
+              [see note below]
+          indent: true
+        - label: Shirley Ann Vining
+          values:
+            - ""
+            - |-
+              4
+              [see note below]
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Flint, Genesee County, Michigan - dwelling 90, family 111
+        images:
+          - src: EarlT01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Liberty, Mercer County, Ohio. In 1940, Ermal Pauline (Wilson) Vining (42 y.) was a patient in the Dayton State
+          Hospital (Dayton, Ohio), and two of their children (Rex Richard Vining and Shirley Ann Vining) were living
+          with their maternal grandparents, in Liberty, Mercer County, Ohio.
+        images:
+          - src: EarlT01census1940.jpg
+          - src: EarlT01childrencensus1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Earl Theodore Vining, in Lindenwood Cemetery, Fort Wayne, Allen County, Indiana (from Find A
+          Grave):
+        images:
+          - src: EarlT01gravestone.jpg
+      - caption: >-
+          Gravestone for Ermal Pauline (Wilson) Vining, in Swamp College Cemetery, Celina, Mercer County, Ohio (from
+          Find A Grave):
+        images:
+          - src: EarlT01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Wanda (Vining) McGriff, daughter of Earl Theodore Vining and Ermal Pauline (Wilson) Vining, in
+          West Memory Gardens Cemetery, Dayton, Montgomery County, Ohio (from Find A Grave):
+        images:
+          - src: EarlT01dauWandagravestone.jpg
+      - caption: >-
+          Gravestone for Rex Richard Vining, son of Earl Theodore Vining and Ermal Pauline (Wilson) Vining, in Southern
+          Nevada Veterans Memorial Cemetery, Boulder City, Clark County, Nevada (from Find A Grave):
+        images:
+          - src: EarlT01sonRexgravestone.jpg

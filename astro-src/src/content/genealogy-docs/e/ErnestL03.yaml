@@ -1,0 +1,44 @@
+id: ErnestL03
+title: Ernest L. Vining - Hazel M. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ernest L. Vining
+          values:
+            - "21"
+            - "?"
+        - label: Hazel M. ([…]) Vining
+          values:
+            - "20"
+            - "?"
+        - label: Margaret L. Vining
+          values:
+            - 4 y., [?] m.
+            - "?"
+          indent: true
+        - label: Glenn Vining
+          values:
+            - 2 y., [?] m.
+            - "?"
+          indent: true
+        - label: William Lee Vining
+          values:
+            - ""
+            - dead
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Kingdom (precinct 1), Bibb County, Alabama - dwelling 80, family 85
+        images:
+          - src: ErnestL03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Ernest L. Vining and Hazel M. ([...]) Vining, in Green Pond Presbyterian Church Cemetery, Green
+          Pond, Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: ErnestL03andwifeheadstone.jpg

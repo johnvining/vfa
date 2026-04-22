@@ -1,0 +1,47 @@
+id: EdmundPJr01
+title: Edmund Pendleton Vining Jr. - Iona Helen Jensen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edmund Pendleton Vining Jr.
+          values:
+            - "32"
+            - "42"
+        - label: Iona Helen (Jensen) Vining
+          values:
+            - "[25?]"
+            - "35"
+        - label: Edmund P. Vining
+          values:
+            - 3 y., 1 m.
+            - "13"
+          indent: true
+        - label: Valerie Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Kankakee (ward 6), Kankakee County, Illinois - dwelling 109, family 126. Also living in this household in 1930
+          was Sarah Louise (Havens) Vining (62 y., b. Illinois), the widowed mother of Edmund Pendleton Vining Jr.
+        images:
+          - src: EdmundPJr01census1930.jpg
+      - year: "1940"
+        caption: Bloomington, McLean County, Illinois
+        images:
+          - src: EdmundPJr01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Edmund Pendleton Vining Jr. and Iona Helen (Jensen) Vining, in Mound Grove Cemetery, Kankakee,
+          Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: EdmundPJr01gravestone.jpg
+          - src: EdmundPJr01wifegravestone.jpg
+        inline: true

@@ -1,0 +1,31 @@
+id: EmmettA01
+title: Emmett A. Vining - Catherine V. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Emmett A. Vining
+          values:
+            - "23"
+            - "33"
+        - label: Catherine V. ([…]) Vining
+          values:
+            - "20"
+            - "?"
+        - label: Willa J. Vining
+          values:
+            - 1 y., 5 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Francis, Pontotoc County, Oklahoma - dwelling 197, family 112
+        images:
+          - src: EmmettA01census1930.jpg
+      - year: "1940"
+        caption: Okemah, Okfuskee County, Oklahoma
+        images:
+          - src: EmmettA01census1940.jpg

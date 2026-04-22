@@ -1,0 +1,61 @@
+id: EdwardC01
+title: Edward C. Vining - Harriet [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Edward C. Vining
+          values:
+            - "44"
+            - "55"
+            - "65"
+            - "74"
+        - label: Harriet ([…]) Vining
+          values:
+            - "42"
+            - "52"
+            - "63"
+            - "72"
+        - label: Laura Vining
+          values:
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Hattie Vining
+          values:
+            - "12"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Simsbury, Hartford County, Connecticut - dwelling 240, family 249. Also living in this household in 1850 was
+          Allen Eno (59 y., b. Connecticut).
+        images:
+          - src: EdwardC01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 128, family 129. Also living in this household in 1860 was
+          John Vining (age 39 y., b. Connecticut).
+        images:
+          - src: EdwardC01census1860.jpg
+      - year: "1870"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 57, family 59
+        images:
+          - src: EdwardC01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 5, family 5. Research is needed to determine if the Edwin
+          A. Vining of 1880 is the same person as Edward C. Vining of 1860 and 1870. The age, birthplace, and wife's
+          name are the same.
+        images:
+          - src: EdwardC01census1880.jpg

@@ -1,0 +1,61 @@
+id: EdwardS01
+title: Edward Sumner Vining - Daisy Mildred Olive
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward Sumner Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Daisy Mildred (Olive) Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Edith Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Edward Clyde Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Wildwood (precinct 3), Sumter County, Florida - dwelling 312, family 317
+        images:
+          - src: EdwardS01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Edward Sumner Vining and Daisy Mildred (Olive) Vining, in Oak Grove Cemetery, Wildwood, Sumter
+          County, Florida (from Find A Grave):
+        images:
+          - src: EdwardS01gravestone.jpg
+          - src: EdwardS01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Edith Vining, daughter of Edward Sumner Vining and Daisy Mildred (Olive) Vining, in Oak Grove
+          Cemetery, Wildwood, Sumter County, Florida (from Find A Grave):
+        images:
+          - src: EdwardS01dauEdithgravestone.jpg

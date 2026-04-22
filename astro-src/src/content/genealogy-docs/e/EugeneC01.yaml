@@ -1,0 +1,63 @@
+id: EugeneC01
+title: Eugene Conrad Vining - Ellen Blanchard Elwell
+sections:
+  - type: birth
+    items:
+      - caption: "Copies of birth record for Eugene Conrad Vining (from Maine State Archives):"
+        images:
+          - src: EugeneC01birthrecord1.jpg
+          - src: EugeneC01birthrecord2.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Eugene Conrad Vining
+          values:
+            - "25"
+            - "?"
+            - "45"
+            - "?"
+            - "65"
+        - label: Sarah Jane (Ewell) Vining
+          values:
+            - ""
+            - "?"
+            - "46"
+            - "?"
+            - "67"
+        - label: Blanchard Richards Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Boston, Essex County, Massachusetts - Perkins Institution and Massachusetts School for the Blind
+        images:
+          - src: EugeneC01census1900.jpg
+      - year: "1920"
+        caption: >-
+          Billerica, Middlesex County, Massachusetts - dwelling 279, family 292. Also living in this household in 1920
+          were the mothers of Eugene Conrad Vining and Ellen Blanchard (Elwell) Vining.
+        images:
+          - src: EugeneC01census1920.jpg
+      - year: "1940"
+        caption: Billerica, Middlesex County, Massachusetts
+        images:
+          - src: EugeneC01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Eugene Conrad Vining and Ellen Blanchard (Elwell) Vining, in North Cemetery, Billerica,
+          Middlesex County, Massachusetts (from Find A Grave):
+        images:
+          - src: EugeneC01andwifeheadstone.jpg

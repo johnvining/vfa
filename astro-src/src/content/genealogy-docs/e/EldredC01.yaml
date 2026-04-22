@@ -1,0 +1,38 @@
+id: EldredC01
+title: Eldred C. Vining - Virginia F. Cook
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Eldred Claver Vining
+          values:
+            - "27"
+        - label: Virginia F. (Cook) Vining
+          values:
+            - "27"
+        - label: Richard Clarence Vining
+          values:
+            - 10 m.
+          indent: true
+        - label: Robert Vernon Vining
+          values:
+            - ""
+          indent: true
+        - label: George Eldred Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Margaretville, Middleton Township, Delaware County, New York
+        images:
+          - src: EldredC01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Eldred C. Vining and Virginia F. (Cook) Vining, in Clovesville Cemetery, Delaware County, New
+          York (from Find A Grave):
+        images:
+          - src: EldredC01andwifeheadstone.jpg

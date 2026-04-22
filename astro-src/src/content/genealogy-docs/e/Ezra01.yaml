@@ -1,0 +1,94 @@
+id: Ezra01
+title: Ezra Vining - Asenath "Anna" Humphrey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Ezra Vining
+          values:
+            - "?"
+            - "?"
+            - "53"
+            - "61"
+            - |-
+              72
+              [see note below]
+            - dead
+            - ""
+        - label: Asenath "Anna" (Humphrey) Vining
+          values:
+            - "?"
+            - "?"
+            - "48"
+            - 5[7?]
+            - "?"
+            - "?"
+            - dead
+        - label: Elizabeth [F. or T.?] Vining
+          values:
+            - "?"
+            - "?"
+            - living in separate household
+            - "[37?], married [see note below]"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James H. Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ezra W. Vining
+          values:
+            - "?"
+            - "?"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 382, family 489
+        images:
+          - src: Ezra01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 449, family 506. Elizabeth [F. or T.?] (Vining) Powers was
+          living with her husband, their son, and a person who may have been her brother-in-law, in the same dwelling
+          (449), but listed as family 507.
+        images:
+          - src: Ezra01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Worcester (ward 3), Worcester County, Massachusetts - dwelling 459, family 1009. In 1870, Ezra Vining was
+          reported to be "insane" and was in an institution.
+        images:
+          - src: Ezra01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ezra Vining and Asenath "Anna" (Humphrey) Vining, in Fairmount Cemetery, Weymouth, Norfolk
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: Ezra01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Asenath "Anna" (Humphrey) Vining, in Fairmount Cemetery, Weymouth, Norfolk County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: Ezra01wifegravestone.jpg

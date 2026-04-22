@@ -1,0 +1,69 @@
+id: EdwardH01
+title: Edward Harrison Vining - (1) Mary Ella Chapman, (2) Lillian Dudley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward Harrison Vining
+          values:
+            - "?"
+            - "38"
+            - "?"
+            - "?"
+        - label: Mary Ella Chapman
+          values:
+            - "?"
+            - "31"
+            - "?"
+            - "?"
+        - label: Lillian Dudley
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+        - label: Mary Ella Vining
+          values:
+            - "?"
+            - "10"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: "[Eliza R. or Ruth Ann?] Vining"
+          values:
+            - ""
+            - "9"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: Edward Penfield Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rosa Louise Vining
+          values:
+            - ""
+            - 2-1/2
+            - "?"
+            - "?"
+          indent: true
+        - label: Alice Mae Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Fox Lake Township, Martin County, Minnesota - dwelling 124, family 132
+        images:
+          - src: EdwardH01census1920.jpg

@@ -1,0 +1,95 @@
+id: Edmond01
+title: Edmond Vining - (1) Mary M. Cathcart, (2) Minnie Ellen Argo
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edmond Vining
+          values:
+            - "34"
+            - "44"
+            - "54"
+            - "64"
+        - label: Mary M. Cathcart
+          values:
+            - "34"
+            - ""
+            - ""
+            - ""
+        - label: Minnie Ellen Argo
+          values:
+            - ""
+            - "30"
+            - "40"
+            - "50"
+        - label: Leroy T. C. Vining
+          values:
+            - "7"
+            - "16"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Dorothy M. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - living in separate household
+          indent: true
+        - label: DeWitt Allen Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: Edna Grace Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+          indent: true
+        - label: Fern Irene Vining
+          values:
+            - ""
+            - ""
+            - 3 y., 4 m.
+            - "13"
+          indent: true
+        - label: Hazel Elaine Vining
+          values:
+            - ""
+            - ""
+            - 1 y., [8?] m.
+            - "11"
+          indent: true
+        - label: Paul Edmond Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "5"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Kennedy Township, Walworth County, South Dakota - dwelling 131, family 132
+        images:
+          - src: Edmond01census1910.jpg
+      - year: "1920"
+        caption: Glenham Township, Walworth County, South Dakota - dwelling 16, family 16
+        images:
+          - src: Edmond01census1920.jpg
+      - year: "1930"
+        caption: Jones Township, Beltrami County, Minnesota - dwelling 43, family 43
+        images:
+          - src: Edmond01census1930.jpg
+      - year: "1940"
+        caption: Helga Township, Hubbard County, Minnesota
+        images:
+          - src: Edmond01census1940.jpg

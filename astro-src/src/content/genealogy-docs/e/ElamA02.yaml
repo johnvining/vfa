@@ -1,0 +1,49 @@
+id: ElamA02
+title: Elam Allen Vining - Frances E. Shade
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Elam Allen Vining
+          values:
+            - "41"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frances E. (Shade) Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+        - label: Celia Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: (child) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: May F. Vining
+          values:
+            - "8"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Delaware Township, Delaware County, Ohio - dwelling 127, family 129
+        images:
+          - src: ElamA02census1900.jpg

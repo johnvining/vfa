@@ -1,0 +1,100 @@
+id: ErnestJT01
+title: Ernest James Tally Vining - Emma Grace Clark
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ernest James Tally Vining
+          values:
+            - "28"
+            - "38"
+            - "47"
+            - dead
+            - ""
+        - label: Emma Grace (Clark) Vining
+          values:
+            - "24"
+            - "35"
+            - "45"
+            - "55"
+            - "65"
+        - label: Grace Mary Vining
+          values:
+            - 8 m.
+            - "10"
+            - "20"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Willard Clark Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Ernest Wheaton Vining
+          values:
+            - ""
+            - "2"
+            - 11 y., 11 m.
+            - living in separate household
+            - "32"
+          indent: true
+        - label: Margaret Vining
+          values:
+            - ""
+            - ""
+            - 8 y., [7?] m.
+            - "18"
+            - "[living? in separate household]"
+          indent: true
+        - label: Hubert M. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1900"
+        caption: White Plains, Westchester County, New York - dwelling 117, family 132
+        images:
+          - src: ErnestJT01census1900.jpg
+      - year: "1910"
+        caption: White Plains, Westchester County, New York - dwelling 50, family 50
+        images:
+          - src: ErnestJT01census1910a.jpg
+          - src: ErnestJT01census1910b.jpg
+      - year: "1920"
+        caption: White Plains, Westchester County, New York - dwelling 180, family 208
+        images:
+          - src: ErnestJT01census1920.jpg
+      - year: "1930"
+        caption: White Plains, Westchester County, New York - dwelling 295, family 354
+        images:
+          - src: ErnestJT01census1930.jpg
+      - year: "1940"
+        caption: White Plains (ward 2), Westchester County, New York
+        images:
+          - src: ErnestJT01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Willard Clark Vining, son of Ernest James Tally Vining and Emma Grace (Clark) Vining, in
+          Kensico Cemetery, Valhalla, Westchester County, New York (from Find A Grave):
+        images:
+          - src: ErnestJT01sonWillardgravestone.jpg
+      - caption: >-
+          Gravestone for Hubert M. Vining, son of Ernest James Tally Vining and Emma Grace (Clark) Vining, in Hingham
+          Cemetery, Hingham, Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: ErnestJT01sonHubertgravestone.jpg

@@ -1,0 +1,90 @@
+id: ElamA01
+title: Elam Allen Vining - (1) Hannah Palmer, (2) Mrs. Mary Elizabeth Sackett
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: Elam Allen Vining
+          values:
+            - "?"
+            - "?"
+            - "46"
+            - "45"
+            - dead
+        - label: Hannah (Palmer) Vining
+          values:
+            - "?"
+            - "?"
+            - "44"
+            - "48"
+            - dead
+        - label: Mary Elizabeth ([...]) (Sackett) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "?"
+        - label: Mary Elizabeth Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: William Reynolds Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Harriet Almira Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Reuben D. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Benjamin Allen Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "21"
+            - married and living in own household
+          indent: true
+        - label: Caroline E. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "14"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Berlin Township, Delaware County, Ohio - dwelling 1998, family 2010
+        images:
+          - src: ElamA01census1850.jpg
+      - year: "1860"
+        caption: Berlin Township, Delaware County, Ohio - dwelling 939, family 948
+        images:
+          - src: ElamA01census1860.jpg

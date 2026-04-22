@@ -1,0 +1,56 @@
+id: EdwardC02
+title: Edward Clyde Vining - Pearl Mae Edwards
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward Clyde Vining
+          values:
+            - "30"
+            - "41"
+        - label: Pearl Mae (Edwards) Vining
+          values:
+            - "24"
+            - "35"
+        - label: Edward Clyde Vining Jr.
+          values:
+            - 2 y., [3?] m.
+            - "12"
+          indent: true
+        - label: Bruce Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Donald Q. Vining
+          values:
+            - ""
+            - "2"
+          indent: true
+        - label: Trez Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Miami (precinct 54), Dade County, Florida. Also living in this household in 1930 was Melbourne Martin (21 y.,
+          b. Florida), a cousin of Edward Clyde Vining.
+        images:
+          - src: EdwardC02census1930.jpg
+      - year: "1940"
+        caption: Miami (precinct 10), Dade County, Florida
+        images:
+          - src: EdwardC02census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Don Q. Vining, son of E. Clyde Vining and Pearl Mae (Edwards) Vining:"
+        images:
+          - src: EdwardC02sonDonaldobituarya.jpg
+          - src: EdwardC02sonDonaldobituaryb.jpg
+          - src: EdwardC02sonDonaldobituaryc.jpg
+      - caption: \

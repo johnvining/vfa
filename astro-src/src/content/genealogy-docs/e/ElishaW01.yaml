@@ -1,0 +1,128 @@
+id: ElishaW01
+title: Elisha W. Vining - Adaline Drew
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Elisha W. Vining
+          values:
+            - "?"
+            - "33"
+            - "43"
+            - "53"
+            - "63"
+            - "?"
+            - dead
+        - label: Adaline (Drew) Vining
+          values:
+            - "?"
+            - "31"
+            - "41"
+            - "50"
+            - "61"
+            - dead
+            - ""
+        - label: Phoebe C. Vining
+          values:
+            - "?"
+            - "13"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jonathan D. Vining
+          values:
+            - "?"
+            - "10"
+            - "19"
+            - not living in this household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Imogene Vining
+          values:
+            - ""
+            - "8"
+            - "17"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Isaac W. Vining
+          values:
+            - ""
+            - "6"
+            - "15"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+            - "22"
+            - "33"
+            - "?"
+            - "?"
+          indent: true
+        - label: Philip Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "14"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Cairo, Greene County, New York - dwelling [1263?], family [1280?]
+        images:
+          - src: ElishaW01census1850.jpg
+      - year: "1860"
+        caption: Coxsackie, Greene County, New York - dwelling 922, family 1021
+        images:
+          - src: ElishaW01census1860.jpg
+      - year: "1870"
+        caption: Covert, Seneca County, New York - dwelling 233, family 243
+        images:
+          - src: ElishaW01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Covert, Seneca County, New York. Also living in this household in 1880 were grandson William Finch (14 y., b.
+          New York) and granddaughter Adaline Finch (15 y., b. New York).
+        images:
+          - src: ElishaW01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Elisha W. Vining and Adaline (Drew) Vining, in Grove Cemetery, Trumansburg, Tompkins County, New
+          York (from Find A Grave):
+        images:
+          - src: ElishaW01andwifeheadstone.jpg

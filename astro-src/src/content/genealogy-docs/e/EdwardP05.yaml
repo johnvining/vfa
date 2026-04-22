@@ -1,0 +1,125 @@
+id: EdwardP05
+title: Edward Payson Vining - (1) Annabel Bodwell; (2) Agnes E. Brooks
+intro:
+  - caption: Thank you to Vivi Wagner for her contributions to this page.
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward Payson Vining
+          values:
+            - "33"
+            - "?"
+            - "53"
+            - "63"
+            - "[72?]"
+            - dead
+            - ""
+        - label: Annabel (Bodwell) Vining
+          values:
+            - "33"
+            - "?"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Agnes E. (Brooks) Vining
+          values:
+            - ""
+            - "?"
+            - "48"
+            - "58"
+            - "67"
+            - "?"
+            - "?"
+        - label: Annabelle Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Edward Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Annabel Bodwell Vining
+          values:
+            - "3"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ellen Pauline Vining
+          values:
+            - "3"
+            - "?"
+            - "23"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Omaha, Douglas County, Nebraska - dwelling 261, family 268
+        images:
+          - src: EdwardP05census1880.jpg
+      - year: "1900"
+        caption: San Francisco (Assembly District 41), San Francisco County, California - dwelling 206, family 221
+        images:
+          - src: EdwardP05census1900.jpg
+      - year: "1910"
+        caption: Brookline, Norfolk County, Massachusetts - dwelling 114, family 152
+        images:
+          - src: EdwardP05census1910.jpg
+      - year: "1920"
+        caption: Brookline, Norfolk County, Massachusetts - dwelling 31, family 89
+        images:
+          - src: EdwardP05census1920.jpg
+  - type: family
+    items:
+      - caption: >-
+          Photographs of Edward Payson Vining, author of An Inglorious Columbus (book cover shown below with an
+          autograph from one of the copies):
+        images:
+          - src: EdwardP05photographs.jpg
+          - src: EdwardP05bookcover.jpg
+          - src: EdwardP05autograph.jpg
+        inline: true
+      - caption: "Photograph of twins Ellen Pauline Vining (left) and Annabel Bodwell Vining (right):"
+        images:
+          - src: EdwardP05dausEllenAnnabel.jpg
+      - caption: "Photograph of Annabel Bodwell (Vining) Otis and her signature:"
+        images:
+          - src: EdwardP05dauAnnabel.jpg
+          - src: EdwardP05dauAnnabelsignature.jpg
+        inline: true
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Annabel (Vining) Otis, daughter of Edward Payson Vining and Annabel (Bodwell) Vining, in
+          Woodlawn Cemetery, Bronx, Bronx County, New York:
+        images:
+          - src: EdwardP05dauAnnabelgravestone.jpg

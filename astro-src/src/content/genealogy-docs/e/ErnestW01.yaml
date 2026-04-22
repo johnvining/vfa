@@ -1,0 +1,35 @@
+id: ErnestW01
+title: Ernest W. Vining - Catherine [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ernest W. Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+        - label: Catherine ([…]) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+        - label: Reginald W. Vining
+          values:
+            - 9 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Hanover Township, Chautauqua County, New York - dwelling 175, family 187
+        images:
+          - src: ErnestW01census1910.jpg

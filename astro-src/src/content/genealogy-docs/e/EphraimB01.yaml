@@ -1,0 +1,99 @@
+id: EphraimB01
+title: Ephraim Bernard Vining - (1) Ann R. Pike, (2) Amanda Maxim
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth record for Ernest Ward Vining, son of Ephraim Bernard Vining and Amanda (Maxim) Vining (from Maine State
+          Archives):
+        images:
+          - src: EphraimB01sonErnestbirthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1920"
+      rows:
+        - label: Ephraim Bernard Vining
+          values:
+            - "26"
+            - "36"
+            - "?"
+            - "56"
+            - "66"
+            - "76"
+            - dead
+        - label: Ann R. (Pike) Vining
+          values:
+            - "24"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Amanda (Maxim) Vining
+          values:
+            - ""
+            - "31"
+            - "?"
+            - "51"
+            - "61"
+            - "71"
+            - dead
+        - label: Mabel Eugenia Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Grace E. Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ernest Ward Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "21"
+            - "31"
+            - "40"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Avon, Franklin County, Maine - dwelling 72, family 75
+        images:
+          - src: EphraimB01census1870.jpg
+      - year: "1880"
+        caption: Norway, Oxford County, Maine - dwelling 438, family 552
+        images:
+          - src: EphraimB01census1880.jpg
+      - year: "1900"
+        caption: Strong, Franklin County, Maine - dwelling 21, family 22
+        images:
+          - src: EphraimB01census1900.jpg
+      - year: "1910"
+        caption: Strong, Franklin County, Maine - dwelling 17, family 18
+        images:
+          - src: EphraimB01census1910.jpg
+      - year: "1920"
+        caption: Farmington, Franklin County, Maine - dwelling 581, family 701
+        images:
+          - src: EphraimB01census1920.jpg

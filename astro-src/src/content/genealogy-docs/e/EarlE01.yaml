@@ -1,0 +1,53 @@
+id: EarlE01
+title: Earl Eugene Vining - Ada Lodrigue
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Earl Eugene Vining
+          values:
+            - "20"
+            - "29"
+            - "42"
+        - label: Ada (Lodrigue) Vining
+          values:
+            - "17"
+            - "27"
+            - "37"
+        - label: Henrietta Vining
+          values:
+            - ""
+            - "9"
+            - "[living? in separate household]"
+          indent: true
+        - label: Earl Marvin Vining
+          values:
+            - ""
+            - 4 y., 8 m.
+            - "14"
+          indent: true
+        - label: Patsy Vining
+          values:
+            - ""
+            - ""
+            - "[?]"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Wax Bayou, St. Mary Parish, Louisiana - dwelling 8, family 9. In 1920, Earl Eugene Vining and wife Ada were
+          living in the household of his parents.
+        images:
+          - src: EarlE01census1920.jpg
+      - year: "1930"
+        caption: Berwick, St. Mary Parish, Louisiana - dwelling 324, family 331
+        images:
+          - src: EarlE01census1930.jpg
+      - year: "1940"
+        caption: Berwick, St. Mary Parish, Louisiana
+        images:
+          - src: EarlE01census1940.jpg
