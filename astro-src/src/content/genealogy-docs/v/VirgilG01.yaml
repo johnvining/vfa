@@ -1,0 +1,36 @@
+id: VirgilG01
+title: Virgil Gordon Vining - Mary E. Thomas
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Virgil Gordon Vining
+          values:
+            - "24"
+            - "34"
+        - label: Mary E. (Thomas) Vining
+          values:
+            - "22"
+            - "32"
+        - label: Wendell Vining
+          values:
+            - ""
+            - "7"
+          indent: true
+        - label: Richard Thomas Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Cleveland Heights, Cuyahoga County, Ohio - dwelling 36, family 42
+        images:
+          - src: VirgilG01census1930.jpg
+      - year: "1940"
+        caption: Wadsworth (ward 4), Medina County, Ohio
+        images:
+          - src: VirgilG01census1940.jpg

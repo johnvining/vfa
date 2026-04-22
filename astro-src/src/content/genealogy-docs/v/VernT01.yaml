@@ -1,0 +1,59 @@
+id: VernT01
+title: Vern Terrence Vining - (1) Myrtle Maynard, (2) Mrs. Irene Robinson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Vern Terrence Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+        - label: Myrtle (Maynard) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+        - label: Irene (Robinson) Vining
+          values:
+            - ""
+            - ""
+            - ""
+        - label: William Henry Vining
+          values:
+            - 1 y., 8 m.
+            - "12"
+            - "22"
+          indent: true
+        - label: Verle Vernon Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Wausaukee, Marinette County, Wisconsin - dwelling 282, family 283. Also living in this household in 1920 was
+          Willard Vining (59 y., b. Wisconsin, widowed), father of Vern Terrence Vining.
+        images:
+          - src: VernT01census1920.jpg
+      - year: "1930"
+        caption: Marcellon Township (Cross Road), Columbia County, Wisconsin - dwelling 95, family 96
+        images:
+          - src: VernT01census1930.jpg
+      - year: "1940"
+        caption: Buffalo, Marquette County, Wisconsin
+        images:
+          - src: VernT01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Vern Terrence Vining and Myrtle (Maynard) Vining, in North Marcellon Cemetery, Marcellon,
+          Columbia County, Wisconsin (from Find A Grave):
+        images:
+          - src: VernT01andwifeMyrtleheadstone.jpg

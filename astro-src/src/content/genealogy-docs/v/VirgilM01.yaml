@@ -1,0 +1,63 @@
+id: VirgilM01
+title: Virgil M. Vining - Randy Mansager
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Virgil M. Vining
+          values:
+            - "29"
+            - "39"
+            - "47"
+        - label: Randy (Mansager) Vining
+          values:
+            - "31"
+            - "43"
+            - "[living? in separate household]"
+        - label: Harold Wesley Vining
+          values:
+            - "5"
+            - "15"
+            - "26"
+          indent: true
+        - label: Curtis L. Vining
+          values:
+            - "4"
+            - "14"
+            - living in separate household
+          indent: true
+        - label: Glen William Vining
+          values:
+            - "[?]"
+            - "12"
+            - living in separate household
+          indent: true
+        - label: Robert Vernon Vining
+          values:
+            - "[?]"
+            - "10"
+            - "20"
+          indent: true
+        - label: Gale Merle Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Sioux City (precinct 8), Woodbury County, Iowa - dwelling 458, family 502
+        images:
+          - src: VirgilM01census1920.jpg
+      - year: "1930"
+        caption: Lyon Township, Hamilton County, Iowa - dwelling 28, family 28
+        images:
+          - src: VirgilM01census1930.jpg
+      - year: "1940"
+        caption: Lyon Township, Hamilton County, Iowa
+        images:
+          - src: VirgilM01census1940.jpg
