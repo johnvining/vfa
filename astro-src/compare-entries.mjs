@@ -42,7 +42,9 @@ function extractEntries(html) {
   const entries = new Map();
   const blocks = html.split(/<hr[^>]*people-divider[^>]*\/?>/i);
   for (const block of blocks) {
-    const match = block.match(/<a\s+name="([^"]+)"\s*>/i);
+    // Handle malformed anchors: missing quotes, href instead of name, missing closing >
+    // ID must start with uppercase (excludes mailto:, http:// etc.)
+    const match = block.match(/<a\s+(?:name|href)=["']?([A-Z][A-Za-z0-9]*\d[A-Za-z0-9]*)/);
     if (!match) continue;
     // Only compare content from the anchor onwards, ignoring page header/nav
     const content = block.slice(match.index);

@@ -1,7 +1,7 @@
 ENTRY DIFF REPORT
 =================
-In new only:  8
-Different:    21
+In new only:  0
+Different:    23
 In old only:  0
 
 Case, punctuation-only, and whitespace-only differences are suppressed.
@@ -10,18 +10,14 @@ Case, punctuation-only, and whitespace-only differences are suppressed.
 ═══════════════════════════════════════════
   IN NEW ONLY  (not present in old site)
 ═══════════════════════════════════════════
-  [ArthurL01]  (A)
-  [ArthurL04]  (A)
-  [BryantR01]  (B)
-  [HarryL03]  (H)
-  [JosephM02]  (J)
-  [LouisH01]  (L)
-  [RoscoeD01]  (R)
-  [Thomas14]  (T)
+  (none)
 
 ═══════════════════════════════════════════
   DIFFERENT  (exist in both, content differs)
 ═══════════════════════════════════════════
+  [ArthurL04]  (A)
+    old: chldren
+    new: children
   [BryantO01]  (B)
     old: b
     new: bur
@@ -51,6 +47,8 @@ Case, punctuation-only, and whitespace-only differences are suppressed.
   [JohnH07]  (J)
     old: d
     new: bur
+  [JosephM02]  (J)
+    old: 31 july 1910 yulee nassau county florida
   [Olin01]  (O)
     new: b
   [RichardJ03]  (R)
