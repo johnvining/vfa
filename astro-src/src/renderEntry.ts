@@ -58,7 +58,6 @@ interface EntryData {
   parentId?: string;
   parentLetter?: string;
   parentDesc?: string;
-  noCloseParen?: boolean;
   head: {
     givenName: string;
     surname?: string;
@@ -241,14 +240,13 @@ export function renderEntry(data: EntryData): string {
         '[adopted?] son': '[adopted?] son', '[adopted?] dau.': '[adopted?] dau.',
       };
       const rel = relMap[data.relationship!] ?? 'son';
-      const closeParen = data.noCloseParen ? '' : ')';
       if (data.parentId) {
         const href = data.parentLetter
           ? `${data.parentLetter}families.htm#${data.parentId}`
           : `#${data.parentId}`;
-        lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>${closeParen}`);
+        lines.push(`   (${rel} of <a href="${href}">${data.parentDesc}</a>)`);
       } else {
-        lines.push(`   (${rel} of ${data.parentDesc}${closeParen}`);
+        lines.push(`   (${rel} of ${data.parentDesc})`);
       }
     } else {
       lines.push(`   ${data.parentDesc}`);

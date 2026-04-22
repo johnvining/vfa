@@ -81,7 +81,6 @@ const genealogy = defineCollection({
     parentId: z.string().optional(),
     parentLetter: z.string().optional(),
     parentDesc: z.string().optional(),
-    noCloseParen: z.boolean().optional(),
     head: z.object({
       givenName: z.string(),
       surname: z.string().optional(),   // override when surname is non-standard (e.g. "Vinning")
