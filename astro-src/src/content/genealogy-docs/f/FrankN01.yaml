@@ -1,0 +1,44 @@
+id: FrankN01
+title: Frank Newell Vining - Clara Belle "Carrie" Hanson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Newell Vining
+          values:
+            - "38"
+            - dead
+            - ""
+            - ""
+        - label: Clara Belle "Carrie" (Hanson) Vining
+          values:
+            - "32"
+            - "41"
+            - "?"
+            - "?"
+        - label: Nathaniel Hanson Vining
+          values:
+            - "1"
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          St. Albans, Somerset County, Maine - dwelling 165, family 169. Also living in this household in 1910 was
+          "hired man" Earle [Earl in 1900 census] Buker (21 y., b. Maine, single)
+        images:
+          - src: FrankN01census1910.jpg
+      - year: "1920"
+        caption: >-
+          St. Albans, Somerset County, Maine - dwelling 248, family 253. Also living in this household in 1920 were
+          Florence Chisholm (43 y., b. Maine, widowed sister of Frank Newell Vining) and her son Clifford Chisholm (16
+          y., b. Maine, single), and Annie L. Vining (73 y., b. Maine, widowed mother of Frank Newell Vining).
+        images:
+          - src: FrankN01census1920.jpg

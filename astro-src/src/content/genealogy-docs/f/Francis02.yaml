@@ -1,0 +1,111 @@
+id: Francis02
+title: Francis Vining - Harriet Joiner
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Francis Vining
+          values:
+            - "?"
+            - "?"
+            - "63"
+            - "?"
+        - label: Harriet (Joiner) Vining
+          values:
+            - "38"
+            - "?"
+            - "58"
+            - "?"
+        - label: Annie Vining
+          values:
+            - "15"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Martha Vining
+          values:
+            - "13"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: "[Redman?] Vining"
+          values:
+            - "11"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Levi Vining
+          values:
+            - "9"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Angeline Vining
+          values:
+            - "3"
+            - "?"
+            - "23"
+            - "?"
+          indent: true
+        - label: Olen Marshall Vining
+          values:
+            - "1"
+            - "?"
+            - "21"
+            - "?"
+          indent: true
+        - label: Willis Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: 8th ward, Tangipahoa County, Louisiana - dwelling [not given], family [not given]
+        images:
+          - src: Francis02census1880.jpg
+      - year: "1900"
+        caption: >-
+          8th ward, Tangipahoa County, Louisiana - dwelling 391, family 391. According to the 1900 census, Harriet
+          (Joiner) Vining had given birth to 11 children, 7 of whom were living as of the 1900 census.
+        images:
+          - src: Francis02census1900.jpg

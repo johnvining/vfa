@@ -1,0 +1,96 @@
+id: FrederickA01
+title: Frederick Augustus Vining - Eliza A. Sampson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Frederick Augustus Vining
+          values:
+            - "27"
+            - "37"
+            - "?"
+            - "57"
+            - "66"
+            - dead
+        - label: Eliza A. (Sampson) Vining
+          values:
+            - "26"
+            - "36"
+            - "?"
+            - "56"
+            - "66"
+            - dead
+        - label: Herbert Wilson Vining
+          values:
+            - "3"
+            - "13"
+            - "?"
+            - "33"
+            - "43"
+            - married and living in separate household
+          indent: true
+        - label: Carrie Isabel Vining
+          values:
+            - 3 months
+            - "10"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Ada Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "25"
+            - "34"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 89, family 92. Also living in this household in 1870 were Thomas
+          Vining and Jemima Vining, parents of Frederick Augustus Vining.
+        images:
+          - src: FrederickA01census1870.jpg
+      - year: "1880"
+        caption: Avon, Franklin County, Maine - dwelling 85, famiy 91
+        images:
+          - src: FrederickA01census1880.jpg
+      - year: "1900"
+        caption: Avon, Franklin County, Maine - dwelling 14, family 14
+        images:
+          - src: FrederickA01census1900.jpg
+      - year: "1910"
+        caption: Avon, Franklin County, Maine - dwelling 25, family 28
+        images:
+          - src: FrederickA01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Frederick Augustus Vining and Eliza A. (Sampson) Vining, in Evergreen Cemetery, Phillips,
+          Franklin County, Maine (from Find A Grave):
+        images:
+          - src: FrederickA01andwifeheadstone.jpg
+      - caption: >-
+          Gravestones for Herbert Wilson Vining, Carrie Isabel (Vining) Hight, and Ada (Vining) Lee, children of
+          Frederick Augustus Vining and Eliza A. (Sampson) Vining, in Evergreen Cemetery, Phillips, Franklin County,
+          Maine (from Find A Grave):
+        images:
+          - src: FrederickA01sonHerbertgravestone.jpg
+          - src: FrederickA01dauCarriegravestone.jpg
+          - src: FrederickA01dauAdagravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for C. Nellie (Parker; née Quimby) Vining, wife of Herbert Wilson Vining, in Evergreen Cemetery,
+          Phillips, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: FrederickA01dauinlawgravestone.jpg

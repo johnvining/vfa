@@ -1,0 +1,120 @@
+id: FrankW01
+title: Frank Winslow Vining - Jeanette "Nettie" Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Frank Winslow Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Jeanette “Nettie” (Smith) Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Josie Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Emory F. Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+        - label: Etta Vining
+          values:
+            - 8 m.
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Samuel E. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Austin James Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harry C. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jeanette L. “Nettie” Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: (Arthur) Ray Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Custer, Will County, Illinois - no dwelling number, no family number
+        images:
+          - src: FrankW01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Frank Winslow Vining and Jeanette “Nettie” Smith, in Limestone Cemetery, West Kankakee,
+          Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: FrankW01gravestone.jpg
+          - src: FrankW01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Emory F. Vining, son of Frank Winslow Vining and Jeanette "Nettie" (Smith) Vining, in Limestone
+          Cemetery, West Kankakee, Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: FrankW01sonEmorygravestone.jpg

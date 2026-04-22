@@ -1,0 +1,52 @@
+id: Francis03
+title: Francis Vining - Elitha [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Francis Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elitha ([...]) Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Emma Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ida Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Jackson Township, Jay County, Indiana - dwelling 737, family 749
+        images:
+          - src: Francis03census1860.jpg

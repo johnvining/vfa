@@ -1,0 +1,42 @@
+id: FrankA02
+title: Frank Arnold Vining - Wynola M. Clark
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Frank Arnold Vining
+          values:
+            - "28"
+        - label: Wynola M. “Hoby” (Clark) Vining
+          values:
+            - "29"
+        - label: Wyman A. Vining
+          values:
+            - "10"
+          indent: true
+        - label: Darla Vining
+          values:
+            - ""
+          indent: true
+        - label: Penny Vining
+          values:
+            - ""
+          indent: true
+        - label: Terry Dale Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Elkhorn Township, Plymouth County, Iowa
+        images:
+          - src: FrankA02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Frank Arnold Vining and Wynola M. (Clark) Vining, in Kingsley Cemetery, Kingsley, Plymouth
+          County, Iowa (from Find A Grave):
+        images:
+          - src: FrankA02andwifeheadstone.jpg

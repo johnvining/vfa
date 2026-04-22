@@ -1,0 +1,79 @@
+id: Frank01
+title: Frank Vining - Martha Green
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Frank Vining
+          values:
+            - "?"
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+        - label: Martha (Green) Vining
+          values:
+            - "?"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Allen Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Judia Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Caleb Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frank Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Ward 3, St. Helena Parish, Louisiana - dwelling 132, family 132
+        images:
+          - src: Frank01census1880.jpg

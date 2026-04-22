@@ -1,0 +1,133 @@
+id: FrancisE01
+title: Francis Earl Vining - (1) Frances J. Bullock; (2) Elizabeth M. Denny
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Francis Earl Vining
+          values:
+            - "24"
+            - "33"
+            - "43"
+            - dead
+        - label: Frances J. (Bullock) Vining
+          values:
+            - "21"
+            - "29"
+            - dead
+            - ""
+        - label: Elizabeth Mary (Denny) Vining
+          values:
+            - ""
+            - ""
+            - "38"
+            - "47"
+        - label: Francis Earl Vining Jr.
+          values:
+            - ""
+            - "9"
+            - "19"
+            - married and living in separate household
+          indent: true
+        - label: Arthur Leonard Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+          indent: true
+        - label: Thelma Cleo. Vining
+          values:
+            - ""
+            - "5"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+        - label: Irma May Vining
+          values:
+            - ""
+            - 4 y., 4 m.
+            - dead
+            - ""
+          indent: true
+        - label: George Kenneth Vining
+          values:
+            - ""
+            - 3 y., 6 m.
+            - "12"
+            - "[living? in separate household]"
+          indent: true
+        - label: Philip Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: John Milford Vining
+          values:
+            - ""
+            - ""
+            - "10"
+            - "20"
+          indent: true
+        - label: William J. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Richard Morris Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: Robert Henry Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "14"
+          indent: true
+        - label: Frances A. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Boston (Ward 4-5), Suffolk County, Massachusetts - dwelling [...], family 274
+        images:
+          - src: FrancisE01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Everett (Ward 1), Middlesex County, Massachusetts - dwelling 14, famiy 30. Also living in this household in
+          1920 were lodgers Elizabeth Denny (26 y., b. Massachusetts), who would become Francis Earl Vining's second
+          wife, and Margaret Denny (35 y., b. Massachusetts).
+        images:
+          - src: FrancisE01census1920.jpg
+      - year: "1930"
+        caption: Malden (Ward 6), Middlesex County, Massachusetts - dwelling 177, family 200
+        images:
+          - src: FrancisE01census1930.jpg
+      - year: "1940"
+        caption: Malden, Middlesex County, Massachusetts
+        images:
+          - src: FrancisE01census1940.jpg

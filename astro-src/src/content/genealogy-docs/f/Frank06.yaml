@@ -1,0 +1,66 @@
+id: Frank06
+title: Frank Vining - Lucinda Hankins
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Vining
+          values:
+            - "44"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+        - label: Lucinda (Hankins) Vining
+          values:
+            - "30"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+        - label: William Leonard Vining
+          values:
+            - "8"
+            - |-
+              18
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Florence Louisa Vining
+          values:
+            - 3 m.
+            - |-
+              10
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Moro Township, Bradley County, Arkansas - dwelling 49, family 50
+        images:
+          - src: Frank06census1900.jpg
+      - year: "1910"
+        caption: >-
+          Pennington Township, Bradley County, Arkansas - dwelling 120, family 124. In 1910, William Leonard Vining and
+          Florence Louisa Vining were living in the household of their uncle (their mother's brother).
+        images:
+          - src: Frank06census1910a.jpg
+          - src: Frank06census1910b.jpg

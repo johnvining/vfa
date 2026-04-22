@@ -1,0 +1,61 @@
+id: FranklinI01
+title: Franklin Isaac Vining - (1) Alta Julian;   (2) Leona Schooley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Franklin Isaac Vining
+          values:
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Alta (Julian) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Leona (Schooley) Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: infant Vining
+          values:
+            - dead
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ellery Vining
+          values:
+            - 3 m.
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 226, family 230
+        images:
+          - src: FranklinI01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Franklin Isaac Vining, wife Alta (Julian) Vining, and infant, in Summit Chapel Cemetery,
+          Bourbon, Marshall County, Indiana (from Find A Grave):
+        images:
+          - src: FranklinI01familyheadstone.jpg

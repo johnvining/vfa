@@ -1,0 +1,165 @@
+id: FranklinE01
+title: Franklin E. Vining - Alice Flossie Lindsley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Franklin E. Vining
+          values:
+            - "25"
+            - "?"
+            - "46"
+            - "55"
+            - "66"
+            - dead
+            - ""
+        - label: Alice Flossie (Lindsley) Vining
+          values:
+            - "22"
+            - "?"
+            - "42"
+            - "51"
+            - "62"
+            - "?"
+            - dead
+        - label: Erwin Vining
+          values:
+            - "3"
+            - "?"
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nelson C. Vining
+          values:
+            - "1"
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ralph Warren Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ethyl E. Vining
+          values:
+            - ""
+            - "?"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Clyde L. Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Nellie A. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - |-
+              18
+              [see note below]
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Elmira A. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "14"
+            - "23"
+            - "?"
+            - "?"
+          indent: true
+        - label: Flossie E. Vining
+          values:
+            - ""
+            - ""
+            - "1"
+            - "12"
+            - "21"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nevada B. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Osage, Labette County, Kansas - dwelling 61, family 61
+        images:
+          - src: FranklinE01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Fall River Township, Wilson County, Kansas - dwelling 156, family 156. According to the 1900 census, Alice had
+          6 living children out of 9.
+        images:
+          - src: FranklinE01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Fall River Township, Wilson County, Kansas - dwelling 157, family 166. In 1910, Nellie A. Vining was listed in
+          the household of her parents (image below) as well as in the household of older brother Ralph Warren Vining
+          (in Guilford Township, Wilson County, Kansas).
+        images:
+          - src: FranklinE01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Fall River Township, Wilson County, Kansas - dwelling 17, family 17. Also living in this household in 1920 was
+          Franklin Vining (5 y., b. Kansas, a nephew's son).
+        images:
+          - src: FranklinE01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Franklin E. Vining and Alice Flossie (Lindsley) Vining, in Weakley Cemetery, New Albany, Wilson
+          County, Kansas (from Find A Grave):
+        images:
+          - src: FranklinE01andwifeheadstone.jpg

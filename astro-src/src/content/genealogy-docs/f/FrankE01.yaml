@@ -1,0 +1,63 @@
+id: FrankE01
+title: Frank Ernest Vining - Ida May Inman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Ernest Vining
+          values:
+            - "38"
+            - "47"
+            - "57"
+            - "67"
+        - label: Ida May (Inman) Vining
+          values:
+            - "28"
+            - "37"
+            - "47"
+            - "57"
+        - label: Craig E. Vining
+          values:
+            - "6"
+            - "15"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Ned Ansel Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Waitsburg, Walla Walla County, Washington - dwelling 135, family 138. Also living in this household in 1910
+          was Frank Ernest Vining's mother, Charlotte C. Vining (61 y., b. Canada).
+        images:
+          - src: FrankE01census1910.jpg
+      - year: "1920"
+        caption: Walla Walla, Washington (Waitsburg County?) - dwelling 293, family 297
+        images:
+          - src: FrankE01census1920.jpg
+      - year: "1930"
+        caption: Waitsburg (west part), Walla Walla County, Washington - dwelling 107, family 107
+        images:
+          - src: FrankE01census1930.jpg
+      - year: "1940"
+        caption: Waitsburg (west part), Walla Walla County, Washington
+        images:
+          - src: FrankE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Frank Ernest Vining and Ida May (Inman) Vining, in Waitsburg Cemetery, Waitsburg, Walla Walla
+          County, Washington:
+        images:
+          - src: FrankE01andwifeheadstone.jpg
