@@ -1,0 +1,51 @@
+id: JosephB02
+title: Joseph Barrett Vining - Lois Quinn Davis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Joseph Barrett Vining
+          values:
+            - "28"
+            - "38"
+        - label: Lois Quinn (Davis) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Dorothy Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Wayne Vining
+          values:
+            - 4 y., 10 m.
+            - "14"
+          indent: true
+        - label: Nina Joe Vining
+          values:
+            - 2 y., 4 m.
+            - "12"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          9th Militia District 631, Whitfield County, Georgia - dwelling 148, family 158. Also living in this household
+          in 1930 was Joseph Barrett Vining's father, Felix J. Vining (72 y., b. Georgia).
+        images:
+          - src: JosephB02census1930a.jpg
+          - src: JosephB02census1930b.jpg
+      - year: "1940"
+        caption: 9th township, Whitfield County, Georgia
+        images:
+          - src: JosephB02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Joseph Barrett Vining and Lois Quinn (Davis) Vining, in Whitfield Memorial Gardens, Dalton,
+          Whitfield County, Georgia (from Find A Grave):
+        images:
+          - src: JosephB02andwifeheadstone.jpg

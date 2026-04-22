@@ -1,0 +1,47 @@
+id: James08
+title: James Vining - Alice J. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: James Vining
+          values:
+            - "20"
+            - "?"
+            - "?"
+            - "50"
+            - "?"
+        - label: Alice J. (…) Vining
+          values:
+            - "23"
+            - "?"
+            - "?"
+            - "54"
+            - "?"
+        - label: George H. Vining
+          values:
+            - 4 m.
+            - "?"
+            - "?"
+            - "30"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 496, family 594. In 1870, James Vining and family were
+          living in the household of his parents.
+        images:
+          - src: James08census1870.jpg
+      - year: "1900"
+        caption: >-
+          Weymouth (ward 3), Norfolk County, Massachusetts - dwelling 500, family 522. Also living in this household in
+          1880 were Ida Blomquist (31 y., b. Sweden) and Estha Blomquist (5 y., b. Massachusetts).
+        images:
+          - src: James08census1900.jpg

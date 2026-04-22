@@ -1,0 +1,57 @@
+id: JamesW05
+title: James W. Vining - Eula [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James W. Vining
+          values:
+            - "32"
+            - "[dead?]"
+            - ""
+            - ""
+        - label: Eula ([…]) Vining
+          values:
+            - "36"
+            - "46"
+            - "?"
+            - "66"
+        - label: James D. Vining
+          values:
+            - "5"
+            - "15"
+            - "?"
+            - married and living in separate household
+          indent: true
+        - label: Pruitt W. Vining
+          values:
+            - 7 m.
+            - "10"
+            - "?"
+            - "30"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Militia District 1374, Colquitt County, Georgia - dwelling 246, family 246
+        images:
+          - src: JamesW05census1910.jpg
+      - year: "1920"
+        caption: Omega, Tift County, Georgia - dwelling 28, family 28
+        images:
+          - src: JamesW05census1920.jpg
+      - year: "1940"
+        caption: Columbus, Muscogee County, Georgia
+        images:
+          - src: JamesW05census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Pruitt W. Vining, son of James W. Vining and Eula ([…]) Vining, in Parkhill Cemetery, Columbus,
+          Muscogee County, Georgia (from Find A Grave):
+        images:
+          - src: JamesW05sonPruittgravestone.jpg

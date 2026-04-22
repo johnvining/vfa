@@ -1,0 +1,67 @@
+id: JohnC01
+title: John Chester Vining - Annie O. Wicks
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Chester Vining
+          values:
+            - "?"
+            - "31"
+            - "42"
+            - "?"
+        - label: Annie O. (Wicks) Vining
+          values:
+            - "?"
+            - "30"
+            - "40"
+            - "?"
+        - label: Kathleen F. Vining
+          values:
+            - ""
+            - 3 y., 9 m.
+            - "16"
+            - "?"
+          indent: true
+        - label: John Carl Vining
+          values:
+            - ""
+            - 2 y., 6 m.
+            - "12"
+            - "?"
+          indent: true
+        - label: Harmon R[ummell?]. Vining
+          values:
+            - ""
+            - "[illegible]"
+            - "11"
+            - "?"
+          indent: true
+        - label: William Howell Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "?"
+          indent: true
+        - label: Gordon Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Atlanta (ward 3), Fulton County, Georgia - dwelling 191, family 207
+        images:
+          - src: JohnC01census1920.jpg
+      - year: "1930"
+        caption: Atlanta (ward 2), Fulton County, Georgia - dwelling 190, family 242
+        images:
+          - src: JohnC01census1930.jpg

@@ -1,0 +1,47 @@
+id: JohnO01
+title: John Oliver Vining - Lillie Irby
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Oliver Vining
+          values:
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lillie (Irby) Vining
+          values:
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sanders Oliver Vining
+          values:
+            - 10 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Covington, Newton County, Georgia - dwelling 274, family 284
+        images:
+          - src: JohnO01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for John Oliver Vining and Lillie (Irby) Vining, in Covington City Cemetery, Covington, Newton
+          County, Georgia (from Find A Grave):
+        images:
+          - src: JohnO01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Sanders Oliver Vining, son of John Oliver Vining and Lillie ([…]) Vining, in Covington City
+          Cemetery, Covington, Newton County, Georgia (from Find A Grave):
+        images:
+          - src: JohnO01sonSandersgravestone.jpg

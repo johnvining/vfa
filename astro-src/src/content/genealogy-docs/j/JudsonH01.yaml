@@ -1,0 +1,61 @@
+id: JudsonH01
+title: Judson H. Vining - Charlotte Elizabeth Alcox
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Judson H. Vining
+          values:
+            - "?"
+            - "?"
+            - "59"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Charlotte Elizabeth (Alcox) Vining
+          values:
+            - "?"
+            - "?"
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Jesse W. Vining
+          values:
+            - "?"
+            - "?"
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Palestine (precinct 3), Bradford County, Florida - dwelling 288, family 288
+        images:
+          - src: JudsonH01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Judson H. Vining and Charlotte Elizabeth (Alcox) Vining, in Swift Creek Cemetery, Lake Butler,
+          Union County, Florida (from Find A Grave):
+        images:
+          - src: JudsonH01gravestone.jpg
+          - src: JudsonH01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Headstone for Jesse W. Vining and Kate (Green) Vining, son and daughter-in-law of Judson H. Vining and
+          Elizabeth (Alcox) Vining, in South Prong Cemetery, Sanderson, Baker County, Florida (from Find A Grave):
+        images:
+          - src: JudsonH01sonJesseandwifeheadstone.jpg

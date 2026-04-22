@@ -1,0 +1,89 @@
+id: JacksonC01
+title: Jackson Clarence Vining - (1) Maud Hoxworth, (2) Elizabeth Moran, (3) Margaret Warford
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jackson Clarence Vining
+          values:
+            - "?"
+            - "43"
+            - "51"
+            - "63"
+            - dead
+        - label: Maud (Hoxworth) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Elizabeth (Moran) Vining
+          values:
+            - ""
+            - "38"
+            - ""
+            - ""
+            - ""
+        - label: Margaret (Warford) Vining
+          values:
+            - ""
+            - ""
+            - "40"
+            - "50"
+            - dead
+        - label: Nellie Vinita Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Roy Newport Vining
+          values:
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Grace Irene Vining
+          values:
+            - "?"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Denver (ward 8), Denver County, Colorado - dwelling 335, family 343
+        images:
+          - src: JacksonC01census1910.jpg
+      - year: "1920"
+        caption: Arcadia City / Pasadena Township, Los Angeles County, California - dwelling 276, family 303
+        images:
+          - src: JacksonC01census1920.jpg
+      - year: "1930"
+        caption: Washington (precinct 14, Washington, District of Columbia - dwelling number not given, family 83
+        images:
+          - src: JacksonC01census1930.jpg
+  - type: death
+    items:
+      - caption: "Headstone for Jackson Clarence Vining, in Fairmount Cemetery, Denver, Colorado:"
+        images:
+          - src: JacksonC01headstone.jpg
+      - caption: >-
+          Monument sides for first wife Maud (Hoxworth) Vining and their daughter Nellie Vinita Vining, in Fairmount
+          Cemetery, Denver, Colorado:
+        images:
+          - src: JacksonC01wifeMaudheadstone.jpg
+          - src: JacksonC01dauNelliemonumentside.jpg
+        inline: true

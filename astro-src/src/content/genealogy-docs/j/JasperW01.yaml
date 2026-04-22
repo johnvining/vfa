@@ -1,0 +1,52 @@
+id: JasperW01
+title: Jasper Ward Vining - Ella M. Brown
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jasper Ward Vining
+          values:
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ella M. (Brown) Vining
+          values:
+            - "?"
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Eliza B. Vining
+          values:
+            - "?"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 84, family 87
+        images:
+          - src: JasperW01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Jasper Ward Vining and Ella M. (Brown) Vining, in Southwick Cemetery, Southwick, Hampden
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: JasperW01gravestone.jpg
+          - src: JasperW01wifegravestone.jpg
+        inline: true

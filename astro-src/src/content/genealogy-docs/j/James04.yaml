@@ -1,0 +1,191 @@
+id: James04
+title: James Vining - Sarah Brooker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James Vining
+          values:
+            - "25"
+            - "34"
+            - "?"
+            - "54"
+            - "64"
+            - "74"
+            - dead
+            - ""
+        - label: Sarah (Brooker) Vining
+          values:
+            - "25"
+            - "35"
+            - "?"
+            - "55"
+            - "65"
+            - "74"
+            - "?"
+            - dead
+        - label: William Lee Vining
+          values:
+            - "3"
+            - "13"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George W. Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary Jane Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sara Ellen Vining
+          values:
+            - ""
+            - "7"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Anna Laura Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James O. Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Carrie Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Christian Eva Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "18"
+            - |-
+              28
+              [see note below]
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Joel P. Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Arlow Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: 31st Division, Homerville post office, Coffee County, Georgia - dwelling 54, family 54
+        images:
+          - src: James04census1870.jpg
+      - year: "1880"
+        caption: Militia District 1130, Coffee County, Georgia - dwelling 494, family 513
+        images:
+          - src: James04census1880a.jpg
+          - src: James04census1880b.jpg
+      - year: "1900"
+        caption: 10 District, G. M., Willacoochee, Coffee County, Georgia - dwelling 428, family 431
+        images:
+          - src: James04census1900.jpg
+      - year: "1910"
+        caption: >-
+          Broxton (ward 3), Coffee County, Georgia - dwelling 134, family 148. Also living in this household in 1910 was
+          granddaughter Cora Dedge (18 y., b. Georgia.) By 1910, Christian Eva Vining was married again, this time to
+          Thomas M. Cady, and she and her family were living in the same building, although different household, as her
+          parents.
+        images:
+          - src: James04census1910.jpg
+      - year: "1920"
+        caption: >-
+          Broxton (ward 3), Coffee County, Georgia - dwelling 116, family 118. Also living in this household in 1920 was
+          granddaughter Hazel Cady (11 y., b. Georgia.)
+        images:
+          - src: James04census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones of James Vining and Sarah (Brooker) Vining, in Mount Zion Baptist Church Cemetery, Axson, Atkinson
+          County, Georgia:
+        images:
+          - src: James04gravestone.jpg
+          - src: James04wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestones for Joel P. Vining and Arlow Vining, children of James Vining and Sarah (Brooker) Vining, in Mount
+          Zion Baptist Church Cemetery, Axson, Atkinson County, Georgia (from Find A Grave):
+        images:
+          - src: James04sonJoelgravestone.jpg
+          - src: James04dauArlowgravestone.jpg
+        inline: true

@@ -1,0 +1,106 @@
+id: JamesC03
+title: James Clinton Vining - Alice Henley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James Clinton Vining
+          values:
+            - "27"
+            - "?"
+            - "47"
+            - "?"
+            - "?"
+            - |-
+              78
+              [see note below]
+            - dead
+        - label: Alice (Henley) Vining
+          values:
+            - "23"
+            - "?"
+            - "45"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Robert Shorter Vining
+          values:
+            - "4"
+            - "?"
+            - "[married?] and living in separate household"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Augustus J. Vining
+          values:
+            - "2"
+            - "?"
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Zelura Vining
+          values:
+            - 3 m.
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Leonard E. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Shuck Pen, Murray County, Georgia - dwelling 46, family 46
+        images:
+          - src: JamesC03census1880a.jpg
+          - src: JamesC03census1880b.jpg
+      - year: "1900"
+        caption: Dalton, Whitfield County, Georgia - dwelling 18, family 19
+        images:
+          - src: JamesC03census1900.jpg
+      - year: "1930"
+        caption: In 1930, James Clinton Vining was living in the household of son Robert Shorter Vining.

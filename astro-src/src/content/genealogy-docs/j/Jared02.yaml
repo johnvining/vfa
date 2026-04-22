@@ -1,0 +1,126 @@
+id: Jared02
+title: Jared Vining - (1) Charlotte Stetson, (2) Emily Churchill
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Jared Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "69"
+            - |-
+              79
+              [see note below]
+        - label: Charlotte (Stetson) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Emily (Churchill) Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "50"
+            - "?"
+        - label: Solon Augustus Vining
+          values:
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Lucy Ann Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Emma Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Alonzo Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Jefferson Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: George Henry Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - not living in this household [see note below]
+            - married and living in separate household
+          indent: true
+        - label: James Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - 20 [see note below]
+            - "?"
+          indent: true
+        - label: Laura Frances Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "14"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 496, family 594. Also living in this household in 1870 were
+          Alice J. Vining (23 y., b. Maine) and George H. Vining (4 m., b. Maine), the wife and child of James Vining.
+          George Henry Vining was living in San Francisco (ward 1), San Francisco County, California, dwelling 571,
+          family 609.
+        images:
+          - src: Jared02census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 362, family 448. In 1880, Jared Vining was living in the
+          household of son Alonzo.
+        images:
+          - src: Jared02census1880.jpg

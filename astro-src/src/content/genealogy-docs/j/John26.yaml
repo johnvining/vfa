@@ -1,0 +1,100 @@
+id: John26
+title: John Vining - Catharine [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: John Vining
+          values:
+            - "32"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Catharine ([...]) Vining
+          values:
+            - "34"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah Vining
+          values:
+            - "17"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Carol[ten?] Vining
+          values:
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jacob Vining
+          values:
+            - "8"
+            - "18"
+            - |-
+              28
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Jane Vining
+          values:
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Vining
+          values:
+            - "5"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Adeline Vining
+          values:
+            - "3"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Tazewell County, Illinois - dwelling 155, family 155
+        images:
+          - src: John26census1850a.jpg
+          - src: John26census1850b.jpg
+      - year: "1860"
+        caption: Washington, Tazewell County, Illinois - dwelling 164, family 155
+        images:
+          - src: John26census1860a.jpg
+          - src: John26census1860b.jpg
+      - year: "1870"
+        caption: >-
+          In 1870, Jacob Vining was living with a Wagner family in Quincy (Ward 3), Adams County, Illinois (dwelling
+          555, family 673).

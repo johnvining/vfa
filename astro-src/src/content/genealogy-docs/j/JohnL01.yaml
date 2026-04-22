@@ -1,0 +1,58 @@
+id: JohnL01
+title: John Leeson Vining - Elizabeth [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: John Leeson Vining
+          values:
+            - "59"
+            - "[dead?]"
+            - ""
+            - ""
+        - label: Elizabeth ([...]) Vining
+          values:
+            - "48"
+            - "57"
+            - "65"
+            - "[dead?]"
+        - label: Mary J. Vining
+          values:
+            - "28"
+            - "[38?]"
+            - "45"
+            - "?"
+          indent: true
+        - label: Polly Vining
+          values:
+            - "18"
+            - "[28?]"
+            - "32"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: German, Chenango County, New York - dwelling 1675, family 1716
+        images:
+          - src: JohnL01census1850a.jpg
+          - src: JohnL01census1850b.jpg
+      - year: "1860"
+        caption: Cincinnatus, Cortland County, New York - dwelling 354, family 359
+        images:
+          - src: JohnL01census1860.jpg
+      - year: "1870"
+        caption: Cincinnatus, Cortland County, New York - dwelling 207, family 215
+        images:
+          - src: JohnL01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for John Leeson Vining and family, in Cincinnatus Cemetery, Cincinnatus, Cortlnd County, New York
+          (from Find A Grave):
+        images:
+          - src: JohnL01andfamilyheadstone.jpg

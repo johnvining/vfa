@@ -1,0 +1,67 @@
+id: JohnF04
+title: John Franklin Vining - Angie L. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Franklin Vining
+          values:
+            - "26"
+            - "36"
+            - "45"
+            - "55"
+            - "?"
+        - label: Angie L. ([...]) Vining
+          values:
+            - "25"
+            - "36"
+            - "45"
+            - "[living? in separate household]"
+            - ""
+        - label: Kenneth E. Vining
+          values:
+            - 2 months
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Carl Harrison Vining
+          values:
+            - ""
+            - "6"
+            - "15"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Edna B. Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Oxford Township, Delaware County, Ohio - dwelling 191, family 211
+        images:
+          - src: JohnF04census1900.jpg
+      - year: "1910"
+        caption: Oxford Township, Delaware County, Ohio - dwelling 48, family 48
+        images:
+          - src: JohnF04census1910.jpg
+      - year: "1920"
+        caption: Brown Township, Delaware County, Ohio - dwelling 82, family 82
+        images:
+          - src: JohnF04census1920.jpg
+      - year: "1930"
+        caption: Brown Township, Delaware County, Ohio - dwelling 122, family 131
+        images:
+          - src: JohnF04census1930.jpg

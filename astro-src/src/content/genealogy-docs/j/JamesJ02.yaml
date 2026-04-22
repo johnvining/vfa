@@ -1,0 +1,47 @@
+id: JamesJ02
+title: James John Vining - Edith Alfeld Johnson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: James John Vining
+          values:
+            - "34"
+            - "43"
+        - label: Edith Alfeld (Johnson) Vining
+          values:
+            - "26"
+            - "36"
+        - label: James Rodford Vining
+          values:
+            - 19 months
+            - "11"
+          indent: true
+        - label: Charles Evan Vining
+          values:
+            - ""
+            - "7"
+          indent: true
+        - label: Larry Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Kansas City, Wyandotte County, Kansas - dwelling 366, family 381
+        images:
+          - src: JamesJ02census1930.jpg
+      - year: "1940"
+        caption: Shawnee Township, Wyandotte County, Kansas - 408 8th Street
+        images:
+          - src: JamesJ02census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Larry Vining (from website of Mt. Moriah, Newcomer and Freeman Funeral Home):"
+        images:
+          - src: JamesJ02sonLarryobituarya.jpg
+          - src: JamesJ02sonLarryobituaryb.jpg

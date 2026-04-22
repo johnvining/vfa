@@ -1,0 +1,109 @@
+id: JacksonL01
+title: Jackson La-Fayette Vining - Sarah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Jackson La-Fayette Vining
+          values:
+            - "25"
+            - "36"
+            - "46"
+            - "?"
+            - dead
+            - ""
+        - label: Sarah ([...]) Vining
+          values:
+            - "27"
+            - "38"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+        - label: Hester ([...]) Vining
+          values:
+            - ""
+            - ""
+            - "30"
+            - "?"
+            - "66"
+            - ""
+        - label: Francis M. Vining
+          values:
+            - "3"
+            - "13"
+            - "21"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Alfred Jackson Vining
+          values:
+            - ""
+            - "7"
+            - "15"
+            - "?"
+            - dead
+            - ""
+          indent: true
+        - label: Ellender A. Vining [female]
+          values:
+            - "[1?]"
+            - "4"
+            - "14"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Newton Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Vineville District (Macon post office), Bibb County, Georgia - dwelling 1215, family 1256
+        images:
+          - src: JacksonL01census1860.jpg
+      - year: "1870"
+        caption: Hawkinsville post office (east of the river), Pulaski County, Georgia
+        images:
+          - src: JacksonL01census1870.jpg
+      - year: "1880"
+        caption: Macon, Bibb County, Georgia - dwelling 250, family 424
+        images:
+          - src: JacksonL01census1880.jpg
+      - year: "1900"
+        caption: "Militia District #481, Bibb County, Georgia - dwelling 276, family 306"
+        images:
+          - src: JacksonL01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Jackson La-Fayette Vining, in Rose Hill Cemetery, Macon, Bibb County, Alabama (from Find A
+          Grave):
+        images:
+          - src: JacksonL01gravestone.jpg
+  - type: notes
+    heading: Note
+    text: Much work is needed to clarify the data for this family.

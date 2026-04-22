@@ -1,0 +1,87 @@
+id: JesseL04
+title: Jesse Lawrence Vining - Mell V. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jesse Lawrence Vining
+          values:
+            - "32"
+            - "43"
+            - dead
+            - ""
+            - ""
+        - label: Mell V. ([...]) Vining
+          values:
+            - "26"
+            - "33"
+            - "46"
+            - "?"
+            - "?"
+        - label: Eugene L. Vining
+          values:
+            - "6"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mattie L. Vining
+          values:
+            - "4"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eva Mildred Vining
+          values:
+            - "1"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Nellie P. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ernest DeWitt Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Macclenny, Baker County, Florida - dwelling 21, family 21
+        images:
+          - src: JesseL04census1900.jpg
+      - year: "1910"
+        caption: Macclenny, Baker County, Florida - dwelling 42, family 42
+        images:
+          - src: JesseL04census1910.jpg
+      - year: "1920"
+        caption: Macclenny, Baker County, Florida - dwelling 63, family 66
+        images:
+          - src: JesseL04census1920.jpg

@@ -1,0 +1,147 @@
+id: JamesB03
+title: James Benjamin Vining - Clara Rosella Hand
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James Benjamin Vining
+          values:
+            - "35"
+            - "45"
+            - "55"
+            - "65"
+            - dead
+        - label: Clara Rosella (Hand) Vining
+          values:
+            - "32"
+            - "42"
+            - "52"
+            - dead
+            - ""
+        - label: Averett Wells Vining
+          values:
+            - "8"
+            - "18"
+            - "27"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: James Usher Vining
+          values:
+            - "7"
+            - "17"
+            - "26"
+            - dead
+            - ""
+          indent: true
+        - label: Clarence Russell Vining
+          values:
+            - "6"
+            - "16"
+            - "25"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Cosby Evans Vining
+          values:
+            - "4"
+            - "14"
+            - "24"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Solomon Benjamin Vining
+          values:
+            - "3"
+            - "13"
+            - "22"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Clara Estelle Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Jessie Vining
+          values:
+            - ""
+            - "8"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: James Benjamin Vining Jr.
+          values:
+            - ""
+            - "6"
+            - "26"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: David Minton Vining
+          values:
+            - ""
+            - "3"
+            - "23"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Rosella Kathleen Vining
+          values:
+            - ""
+            - 3 m.
+            - "[9?]"
+            - "20"
+            - "?"
+          indent: true
+        - label: Frances Haber Vining
+          values:
+            - ""
+            - ""
+            - living in separate household
+            - "16"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Militia District [543?] excluding Marshallville Village, Macon County, Georgia - dwelling 294, family 294.
+          Also living in this household in 1900 was Evelyn Elizabeth (Routh) Vining (70 y., b. Georgia), the widowed
+          mother of James Benjamin Vining.
+        images:
+          - src: JamesB03census1900.jpg
+      - year: "1910"
+        caption: Militia District 543, Macon County, Georgia - dwelling 312, family 321
+        images:
+          - src: JamesB03census1910.jpg
+      - year: "1920"
+        caption: Militia District 543, Macon County, Georgia - dwelling 50, family 53
+        images:
+          - src: JamesB03census1920a.jpg
+          - src: JamesB03census1920b.jpg
+      - year: "1930"
+        caption: Militia District 543, Macon County, Georgia - dwelling 308, family 310
+        images:
+          - src: JamesB03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for James Benjamin Vining and Clara Rosella (Hand) Vining, in Marshallville City Cemetery,
+          Marshallville, Macon County, Georgia (from Find A Grave):
+        images:
+          - src: JamesB03gravestone.jpg
+          - src: JamesB03wifegravestone.jpg
+        inline: true
+      - caption: Obituary for James Usher Vining, son of James Benjamin Vining and Clara Rosella Hand"
+        images:
+          - src: JamesB03sonJamesUsherobituary.jpg

@@ -1,0 +1,47 @@
+id: JohnR02
+title: John Randall Vining - Martha A. Clough
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: John Randall Vining
+          values:
+            - "49"
+            - "60"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Martha A. (Clough) Vining
+          values:
+            - "34"
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John Abner Vining
+          values:
+            - "7"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Woburn, Middlesex County, Massachusetts - dwelling 2545, family 3293
+        images:
+          - src: JohnR02census1860.jpg
+      - year: "1870"
+        caption: Woburn, Middlesex County, Massachusetts - dwelling 1044, family 1271
+        images:
+          - src: JohnR02census1870.jpg

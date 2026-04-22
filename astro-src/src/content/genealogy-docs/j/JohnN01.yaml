@@ -1,0 +1,71 @@
+id: JohnN01
+title: John Newell Vining - Roxanna Tripp
+sections:
+  - type: family
+    items:
+      - caption: >-
+          Minnie May Vining (daughter of John Newell Vining and Roxanna Tripp), and Minnie May with husband Cicero
+          Finch. [Photos courtesy of Carolyn Sick]
+        images:
+          - src: JohnN01dauMinnie2.jpg
+          - src: JohnN01dauMinnie1.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Newell Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Roxanna (Tripp) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: William Albert Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lucien Freeman Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Minnie May Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Conklin, Broome County, New York - dwelling 18, family 18
+  - type: death
+    items:
+      - caption: "Gravestone for John Newell Vining, in Conklin Cemetery, Conklin, Broome County, New York (from Find A Grave):"

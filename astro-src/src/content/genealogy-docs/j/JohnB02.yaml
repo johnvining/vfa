@@ -1,0 +1,115 @@
+id: JohnB02
+title: John Blake Vining - (1) Mary Elizabeth Weed, (2) Martha A. Dwinells
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for John Blake Vining and Mary Elizabeth Weed:"
+        images:
+          - src: JohnB02marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: John Blake Vining
+          values:
+            - "35"
+            - "45"
+            - "52"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Elizabeth (Weed) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Martha A. (Dwinells) Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frank Melvin Vining
+          values:
+            - "6"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Emma Vining
+          values:
+            - "2"
+            - "[see note below]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Fred P. Vining
+          values:
+            - ""
+            - "6"
+            - "15"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Emma D. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Florence E. Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Wilbur C. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Lynn (ward 4), Essex County, Massachusetts - dwelling 1624, family 2173. Also living in this household in 1860
+          was Abigail Weed (52 y., b. Massachusetts, thought to be the mother of John Blake Vining's first wife).
+        images:
+          - src: JohnB02census1860.jpg
+      - year: "1870"
+        caption: >-
+          Lynn (ward 5), Essex County, Massachusetts - dwelling 1037, family 1285. The Emma who was age 2 in the 1860
+          census was apparently dead by the 1870 census, given the existence of a three-year-old Emma D. in this census.
+        images:
+          - src: JohnB02census1870.jpg
+      - year: "1880"
+        caption: >-
+          Lynn, Essex County, Massachusetts - dwelling 175, family 263. Also living in this household in 1880 was
+          Jonathan Vining (brother of John Blake Vining, 52 y., b. Massachusetts).
+        images:
+          - src: JohnB02census1880.jpg

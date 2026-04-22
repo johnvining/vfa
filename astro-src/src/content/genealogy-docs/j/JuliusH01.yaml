@@ -1,0 +1,63 @@
+id: JuliusH01
+title: Julius Hart Vining - Margaret "Maggie" Glenketchen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Julius Hart Vining
+          values:
+            - "?"
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Margaret "Maggie" (Glenketchen) Vining
+          values:
+            - "?"
+            - "33"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Alice Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Carlton Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ernest W. Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Simsbury, Hartford County, Connecticut - dwelling 210, family 225. Also living in this household in 1880 was
+          Wilgot Swartz (28 y., b. Connecticut).
+        images:
+          - src: JuliusH01census1880.jpg

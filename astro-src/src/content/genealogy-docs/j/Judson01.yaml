@@ -1,0 +1,70 @@
+id: Judson01
+title: Judson Vining - Sarah W. Briggs
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Judson Vining
+          values:
+            - "?"
+            - "?"
+            - "47"
+            - "56"
+            - dead
+            - ""
+        - label: Sarah W. (Briggs) Vining
+          values:
+            - "?"
+            - "?"
+            - "47"
+            - "56"
+            - "66"
+            - dead
+        - label: Thomas J. Vining
+          values:
+            - "?"
+            - "?"
+            - "22"
+            - "31"
+            - dead
+            - ""
+          indent: true
+        - label: Sally B. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "26"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Lydia S. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "22"
+            - "35"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 84, family 103. Also living in this household in 1850 was
+          Sybil [H.?] B[...?] (24 y., b. Massachusetts).
+      - year: "1860"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 1602, family 283
+      - year: "1870"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 362, family 375
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Judson Vining, Sarah W. (Briggs) Vining, and two of their children, in Hanover Center Cemetery,
+          Hanover, Plymouth County, Massachusetts (from Find A Grave):

@@ -1,0 +1,144 @@
+id: JohnL02
+title: John Lee Vining - (1) Elizabeth Jane Hadden; (2) Gracie Cain
+intro:
+  - caption: Thank you to Victor Vining for his contributions to this page.
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage license and certificate for John Lee Vining and Gracie Cain:"
+        images:
+          - src: JohnL02marriagecertificate2.jpg
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: John Lee Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+            - "60"
+            - "?"
+            - dead
+        - label: Elizabeth Jane (Hadden) Vining
+          values:
+            - "27"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Gracie (Cain) Vining
+          values:
+            - ""
+            - "22"
+            - "32"
+            - "42"
+            - "?"
+            - "?"
+        - label: William Ebenezer Vining
+          values:
+            - "8"
+            - "17"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary Jane Vining
+          values:
+            - "5"
+            - "15"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Millard Filmore Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Jasper Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Margaret Vining
+          values:
+            - ""
+            - 4 m.
+            - "10"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Webster Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Cicero Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eldora Lee Vining
+          values:
+            - ""
+            - ""
+            - "1"
+            - "11"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: District 48, Jefferson County, Georgia - dwelling 314, family 314
+        images:
+          - src: JohnL02census1850a.jpg
+          - src: JohnL02census1850b.jpg
+      - year: "1860"
+        caption: District 1041, Cassville Post Office, Cass County, Georgia - dwelling 14, family 14
+        images:
+          - src: JohnL02census1860.jpg
+      - year: "1870"
+        caption: Gibson Post Office, Glascock County, Georgia - dwelling 196, family 196
+        images:
+          - src: JohnL02census1870.jpg
+      - year: "1880"
+        caption: 37th Enumeration District, Kaufman County, Texas - dwelling 327, family 343
+        images:
+          - src: JohnL02census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for John Lee Vining, in Oil Spring Cemetery, Healdton, Carter County, Oklahoma (from Find A Grave):"
+        images:
+          - src: JohnL02gravestone.jpg
+      - caption: >-
+          Gravestone for Gracie (Cain) Vining, in Drake-Nebo Cemetery, Drake, Murray County, Oklahoma (from Find A
+          Grave):
+        images:
+          - src: JohnL02wifeGraciegravestone.jpg

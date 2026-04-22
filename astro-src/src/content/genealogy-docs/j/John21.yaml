@@ -1,0 +1,74 @@
+id: John21
+title: John Vining - Julia A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Vining
+          values:
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Julia A. ([...]) Vining
+          values:
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John H. Vining
+          values:
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alice Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Arthur Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary J. Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Precinct No. 4, Fort Worth post office, Tarrant County, Texas - dwelling 722, family 724. Also living in this
+          household in 1870 were [L?]illa Bottles (75 y., b. Texas) and Della Wright (18 y., b. Virginia, house
+          servant).
+        images:
+          - src: John21census1870a.jpg
+          - src: John21census1870b.jpg

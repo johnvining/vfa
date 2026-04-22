@@ -1,0 +1,48 @@
+id: JamesW04
+title: James W. Vining - (1) Lillie A. [...], (2) Mabel F. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: James W. Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - dead
+        - label: Lillie A. ([…]) Vining
+          values:
+            - "46"
+            - dead
+            - ""
+            - ""
+        - label: Mabel F. ([…]) Vining
+          values:
+            - ""
+            - "?"
+            - dead
+            - ""
+        - label: child Vining
+          values:
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Weymouth (precinct 6), Norfolk County, Massachusetts - dwelling 170, family [180?]
+        images:
+          - src: JamesW04census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument for James W. Vining and wives Lillie A. […] and Mabel F. […], in Fairmount Cemetery, Weymouth,
+          Norfolk County, Massachusetts (from Find A Grave):
+        images:
+          - src: JamesW04andwivesmonument.jpg

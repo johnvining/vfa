@@ -1,0 +1,89 @@
+id: JohnH03
+title: John Henry Vining - Virgie L. Holt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Henry Vining
+          values:
+            - "46"
+            - "56"
+            - "?"
+        - label: Virgie Lorene (Holt) Vining
+          values:
+            - "36"
+            - "46"
+            - "?"
+        - label: Cephas Andrew Vining
+          values:
+            - "14"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Cecile Ester Vining
+          values:
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Floyd R. Vining
+          values:
+            - "11"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Artie Vining
+          values:
+            - "10"
+            - "20"
+            - "?"
+          indent: true
+        - label: Allen Vining
+          values:
+            - "6"
+            - "17"
+            - "?"
+          indent: true
+        - label: Eunice Vining
+          values:
+            - "[unclear from microfilm]"
+            - "14"
+            - "?"
+          indent: true
+        - label: Odell Vining
+          values:
+            - 2 y., 5 m.
+            - "12"
+            - "?"
+          indent: true
+        - label: Evie Vining
+          values:
+            - ""
+            - "10"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Sand Springs (precinct 3), Limestone County, Alabama - dwelling 550, family 551
+        images:
+          - src: JohnH03census1920.jpg
+      - year: "1930"
+        caption: Sand Springs (precinct 3, south part), Limestone County, Alabama - dwelling 173, family 174
+        images:
+          - src: JohnH03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for John Henry Vining and gravestone for Virgie Lorene (Holt) Vining, in Reunion Cemetery, Thach,
+          Alabama (Source: Find A Grave):
+        images:
+          - src: JohnH03gravestonea.jpg
+          - src: JohnH03gravestoneb.jpg
+          - src: JohnH03wifegravestone.jpg
+      - caption: "Headstone for Artie Vining, son of John Henry Vining and Virgie Lorene (Holt) Vining (Source: Find A Grave):"
+        images:
+          - src: JohnH03sonArtieheadstone.jpg

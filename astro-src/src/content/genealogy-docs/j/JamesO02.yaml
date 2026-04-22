@@ -1,0 +1,89 @@
+id: JamesO02
+title: James O. Vining - (1) Mary Jane O'Steen;   (2) Margaret Mitchell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James O. Vining
+          values:
+            - "32"
+            - "40"
+            - "?"
+            - "?"
+        - label: Mary Jane (O'Steen) Vining
+          values:
+            - "30"
+            - dead
+            - ""
+            - ""
+        - label: Margaret (Mitchell) Vining
+          values:
+            - ""
+            - "34"
+            - "?"
+            - "?"
+        - label: Thelma Lucille Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: Myrtle Vining
+          values:
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Chandler Vining
+          values:
+            - "2"
+            - |-
+              iving in separare household
+              [see note below]
+            - "?"
+            - dead
+          indent: true
+        - label: Maude Vining
+          values:
+            - ""
+            - "[illegible]"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: "Whitehead District #1620, Jeff Davis County, Georgia - dwelling 173, family 174"
+        images:
+          - src: JamesO02census1910.jpg
+      - year: "1920"
+        caption: >-
+          Douglas, Coffee County, Georgia - dwelling 79, family 82. Also living in this household in 1920 were four
+          individuals listed as sons and daughters, but they carry a different surname, possibly children of James O.
+          Vining's second wife by her first marriage. Also there were many boarders in the household. In 1920, following
+          the death of his mother, James Chandler Vining was living with his maternal grandmother.
+        images:
+          - src: JamesO02census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for James O. Vining and Margaret (Mitchell) Vining, in Bethany Cemetery, Aiken, Aiken County,
+          South Carolina (from Find A Grave):
+        images:
+          - src: JamesO02gravestone.jpg
+          - src: JamesO02wifeMargaretgravestone.jpg
+        inline: true
+      - caption: "Gravestone for Mary Jane (O'Steen) Vining, in Chaney Cemetery, Coffee County, Georgia (from Find A Grave):"
+        images:
+          - src: JamesO02wifeMarygravestone.jpg
+      - caption: >-
+          Gravestone for James Chandler Vining, son of James O. Vining and Mary Jane (O'Steen) Vining, in Chaney
+          Cemetery, Coffee County, Georgia (from Find A Grave):
+        images:
+          - src: JamesO02sonJamesgravestone.jpg

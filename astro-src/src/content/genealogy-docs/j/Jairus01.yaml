@@ -1,0 +1,105 @@
+id: Jairus01
+title: Jairus Vining - Mary Torrey Tirrell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Jairus Vining
+          values:
+            - M 30–40
+            - "42"
+            - "50"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Mary Torrey (Tirrell) Vining
+          values:
+            - F 20–30
+            - "40"
+            - "47"
+            - |-
+              56
+              [see note below]
+            - |-
+              69
+              [see note below]
+            - "?"
+            - dead
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James Henry Vining
+          values:
+            - M 5–10
+            - "15"
+            - "25"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Augustus Vining
+          values:
+            - M under 5
+            - "12"
+            - "23"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Caroline Vining
+          values:
+            - ""
+            - not living in this household
+            - "19"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1840"
+        caption: Weymouth, Norfolk County, Massachusetts - Also living in this household in 1840 was a female 10–15.
+        images:
+          - src: Jairus01census1840.jpg
+      - year: "1850"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 281, family 342. Also living in this household in 1850 was
+          Martha A. Holliday (18 y., b. Nova Scotia).
+        images:
+          - src: Jairus01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1121, family 1308. Also living in this household in 1860
+          was Nancy (Sprague) Vining (20 y., b. Massachusetts), wife of Augustus Vining.
+        images:
+          - src: Jairus01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1614, family 1966. In 1870, Mary Torrey (Tirrell) Vining
+          was living in the household of Albert Tirrell.
+        images:
+          - src: Jairus01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 607, family 702. In 1880, Mary Torrey (Tirrell) Vining was
+          living in the household of son Augustus Vining.
+        images:
+          - src: Jairus01census1880.jpg

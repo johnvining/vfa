@@ -1,0 +1,73 @@
+id: JoshuaC01
+title: Joshua Cushman Vining - Ella E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Joshua Cushman Vining
+          values:
+            - "28"
+            - "?"
+            - "50"
+            - "?"
+            - "69"
+            - dead
+            - ""
+        - label: Ella E. (…) Vining
+          values:
+            - "24"
+            - "?"
+            - "44"
+            - "?"
+            - "63"
+            - "74"
+            - "84"
+        - label: Frank C. Vining
+          values:
+            - "3"
+            - "?"
+            - "23"
+            - "?"
+            - "38"
+            - "53"
+            - "63"
+          indent: true
+        - label: Albert E. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "?"
+            - "38"
+            - "49"
+            - "59"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Templeton, Worcester County, Massachusetts - dwelling 192, family 229
+        images:
+          - src: JoshuaC01census1880.jpg
+      - year: "1900"
+        caption: Chelsea (ward 5), Suffolk County, Massachusetts - dwelling 101, family 133
+        images:
+          - src: JoshuaC01census1900.jpg
+      - year: "1920"
+        caption: Seattle, King County, Washington - dwelling 64, family 67
+        images:
+          - src: JoshuaC01census1920.jpg
+      - year: "1930"
+        caption: Seattle, King County, Washington - dwelling 266A, family 287A
+        images:
+          - src: JoshuaC01census1930.jpg
+      - year: "1930"
+        caption: Seattle, King County, Washington
+        images:
+          - src: JoshuaC01census1940.jpg

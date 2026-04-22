@@ -1,0 +1,94 @@
+id: JeffL01
+title: Jeff Lee Vining - Bettie Rees
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jeff Lee Vining
+          values:
+            - "36"
+            - "46"
+            - "55"
+            - "65"
+            - "76"
+        - label: Bettie (Rees) Vining
+          values:
+            - "23"
+            - "33"
+            - "42"
+            - "52"
+            - "62"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Harma C. Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Bessie Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Lucie E. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Jeff Lee Vining Jr.
+          values:
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Kerrville, Kerr County, Texas - dwelling 83, family 83
+        images:
+          - src: JeffL01census1900.jpg
+      - year: "1910"
+        caption: Kerrville (justice precinct 1), Kerr County, Texas - dwelling 278, family 285
+        images:
+          - src: JeffL01census1910.jpg
+      - year: "1920"
+        caption: Mercedes, Hidalgo County, Texas - [dwelling or family ?] 217
+        images:
+          - src: JeffL01census1920.jpg
+      - year: "1930"
+        caption: Mercedes, Hidalgo County, Texas - dwelling 26, family 30
+        images:
+          - src: JeffL01census1930.jpg
+      - year: "1940"
+        caption: Austin (precinct 3), Travis County, Texas
+        images:
+          - src: JeffL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Jeff Lee Vining and Bettie (Rees) Vining, in Austin Memorial Park Cemetery, Austin, Travis
+          County, Texas (from Find A Grave):
+        images:
+          - src: JeffL01andwifeheadstone.jpg

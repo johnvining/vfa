@@ -1,0 +1,106 @@
+id: Jeremiah02
+title: Jeremiah Vining - Emily Lacock
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Jeremiah Vining
+          values:
+            - "?"
+            - "?"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Emily (Lacock) Vining
+          values:
+            - "?"
+            - "?"
+            - "50"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Sarah Elizabeth Vining
+          values:
+            - "?"
+            - "?"
+            - "[married? and living in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James Monroe Vining
+          values:
+            - "?"
+            - "?"
+            - "[married? and living in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Minor Vining
+          values:
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John Vining
+          values:
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Clarissa Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jacob Jay
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Huron, Wayne County, Michigan - dwelling 26, family 25. Also living in this household in 1870 was Abigail
+          Vining (70 y., b. New York, retired housekeeper), likely the mother of Jeremiah Vining.
+        images:
+          - src: Jeremiah02census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Jacob Jay Vining, son of Jeremiah Vining and Emily Lacock, in Chippewa Township Cemetery, Mount
+          Pleasant, Isabella County, Michigan (from Find A Grave):
+        images:
+          - src: Jeremiah02sonJacobgravestone.jpg

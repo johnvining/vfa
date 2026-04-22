@@ -1,0 +1,99 @@
+id: JosephE03
+title: Joseph Easton Vining - (1) Alwilda Russell;   (2) Mary Leo (Bartlett) Pelham
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Joseph Easton Vining
+          values:
+            - "?"
+            - "41"
+            - "51"
+            - "60"
+            - dead
+            - ""
+        - label: Alwilda (Russell) Vining
+          values:
+            - "?"
+            - "38"
+            - "48"
+            - "?"
+            - "68"
+            - "?"
+        - label: Mary Leo (Bartlett) (Pelham) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "47"
+            - "?"
+            - "?"
+        - label: Fern Vining
+          values:
+            - "?"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Neva Belle Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Wilbur Dale Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Glenn Russell Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Napoleon Township, Jackson County, Michigan - dwelling 231, family 232
+        images:
+          - src: JosephE03census1900.jpg
+      - year: "1910"
+        caption: Napoleon Township, Jackson County, Michigan - dwelling 191, family 191
+        images:
+          - src: JosephE03census1910.jpg
+      - year: "1920"
+        caption: Columbus Township, Jackson County, Michigan - dwelling 106, family 109
+        images:
+          - src: JosephE03census1910.jpg
+      - year: "1930"
+        caption: Napoleon Township, Jackson County, Michigan - dwelling 127, family 129
+        images:
+          - src: JosephE03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Joseph Easton Vining and Alwilda (Russell) Vining, in Oak Grove Cemetery, Napoleon, Jackson
+          County, Michigan (from Find A Grave):
+        images:
+          - src: JosephE03gravestone.jpg
+          - src: JosephE03wifegravestone.jpg
+        inline: true

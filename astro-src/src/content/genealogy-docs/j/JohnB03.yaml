@@ -1,0 +1,61 @@
+id: JohnB03
+title: John Burbank Vining - Elsie May Blackwell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Burbank Vining
+          values:
+            - "30"
+            - "41"
+            - "50"
+        - label: Elsie May (Blackwell) Vining
+          values:
+            - "23"
+            - "33"
+            - "43"
+        - label: Carroll Edward Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: Everett Leon Vining
+          values:
+            - ""
+            - ""
+            - "7"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Strong, Franklin County, Maine - dwelling 49, family 69
+        images:
+          - src: JohnB03census1920.jpg
+      - year: "1930"
+        caption: >-
+          Freeman, Franklin County, Maine - dwelling 4, family 4. Also living in this household in 1930 was Edward C.
+          Vining (13 y., b. Maine), a nephew of John Burbank Vining (and son of John's brother Clinton E. Vining).
+        images:
+          - src: JohnB03census1930.jpg
+      - year: "1940"
+        caption: Farmington, Franklin County, Maine
+        images:
+          - src: JohnB03census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for John Burbank Vining and Elsie May (Blackwell) Vining, in Village Cemetery, Strong, Franklin
+          County, Maine (from Find A Grave):
+        images:
+          - src: JohnB03andwifeheadstone.jpg
+      - caption: >-
+          Gravestones for John Burbank Vining and Elsie May (Blackwell) Vining, in Village Cemetery, Strong, Franklin
+          County, Maine (from Find A Grave):
+        images:
+          - src: JohnB03gravestone.jpg
+          - src: JohnB03wifegravestone.jpg
+        inline: true

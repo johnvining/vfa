@@ -1,0 +1,44 @@
+id: JamesW06
+title: James W. Vining - Florence [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James W. Vining
+          values:
+            - "39"
+            - "46"
+            - "60"
+            - "?"
+        - label: Florence ([…]) Vining
+          values:
+            - "40"
+            - dead
+            - ""
+            - ""
+        - label: Emmett A. Vining
+          values:
+            - "3"
+            - "14"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Hot Springs, Garland County, Arkansas - dwelling 447, family 447
+        images:
+          - src: JamesW06census1910.jpg
+      - year: "1920"
+        caption: Sapulpa Township, Creek County, Arkansas - dwelling 215, family 229
+        images:
+          - src: JamesW06census1920.jpg
+      - year: "1930"
+        caption: Weleetka, Okfuskee County, Oklahoma - dwelling 69, family 72
+        images:
+          - src: JamesW06census1930a.jpg
+          - src: JamesW06census1930b.jpg

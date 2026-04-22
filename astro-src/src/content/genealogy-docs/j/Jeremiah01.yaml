@@ -1,0 +1,107 @@
+id: Jeremiah01
+title: Jeremiah Vining - Susan Neal Buffum
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Jeremiah Vining
+          values:
+            - "?"
+            - "37"
+            - "50"
+            - "60"
+            - "?"
+            - "?"
+        - label: Susan Neal (Buffum) Vining
+          values:
+            - "?"
+            - "30"
+            - "43"
+            - "53"
+            - "?"
+            - "?"
+        - label: Maria Augusta Vining
+          values:
+            - ""
+            - "13"
+            - "23"
+            - "35"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah Elizabeth Vining
+          values:
+            - ""
+            - "11"
+            - "18"
+            - "29"
+            - "?"
+            - "?"
+          indent: true
+        - label: Albion B. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles A. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles A. Vining
+          values:
+            - ""
+            - 2 m.
+            - "10"
+            - "20"
+            - "?"
+            - "?"
+          indent: true
+        - label: child
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Palermo, Waldo County, Maine - dwelling 411, family 416
+        images:
+          - src: Jeremiah01census1850.jpg
+      - year: "1860"
+        caption: >-
+          St. Albans, Somerset County, Maine - dwelling 2, family 2. Living in the same dwelling in 1860 but listed as a
+          separate family was Esther Vining (72 y., b. Maine, mother of Jeremiah Vining).
+        images:
+          - src: Jeremiah01census1860.jpg
+      - year: "1870"
+        caption: St. Albans, Somerset County, Maine - dwelling 193, family 197
+        images:
+          - src: Jeremiah01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Albion B. Vining and the first Charles A. Vining, sons of Jeremiah Vining and Susan Neal
+          (Buffum) Vining, in Branch Mills Cemetery, China, Kennebec County, Maine (from Find A Grave):
+        images:
+          - src: Jeremiah01sonAlbiongravestone.jpg
+          - src: Jeremiah01sonCharles1gravestone.jpg
+        inline: true

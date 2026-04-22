@@ -1,0 +1,68 @@
+id: Jasper01
+title: Jasper Vining - Mary Willis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Jasper Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Mary (Willis) Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Susan A. Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Maria Lula Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jasper L. Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: District 77, Bethany post office, Jefferson County, Georgia - dwelling 48, family 65
+        images:
+          - src: Jasper01census1870a.jpg
+          - src: Jasper01census1870b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Mary (Willis) Vining, in Stapleton Baptist Church Cemetery, Stapleton, Jefferson County,
+          Georgia (from Find A Grave):
+        images:
+          - src: Jasper01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Jasper L. Vining, son of Jasper Vining and Mary (Willis) Vining, in Stapleton Baptist Church
+          Cemetery, Stapleton, Jefferson City, Georgia (from Find A Grave):
+        images:
+          - src: Jasper01sonJaspergravestone.jpg

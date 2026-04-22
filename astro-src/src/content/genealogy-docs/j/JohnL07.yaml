@@ -1,0 +1,59 @@
+id: JohnL07
+title: John L. Vining - Abbie F. Bamford
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John L. Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Abbie F. (Bamford) Vining
+          values:
+            - "28"
+            - "39"
+            - "?"
+            - "?"
+            - "?"
+        - label: Marian S. Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Shirley R. Vining
+          values:
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sidney R. Vining
+          values:
+            - "4"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Danvers, Essex County, Massachusetts - dwelling 360, family 393
+        images:
+          - src: JohnL07census1900.jpg
+      - year: "1910"
+        caption: Pelham Township, Hillsboro County, New Hampshire - dwelling 170, family 183
+        images:
+          - src: JohnL07census1910b.jpg

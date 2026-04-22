@@ -1,0 +1,30 @@
+id: JacksonL02
+title: Jackson L. Vining - Catherine Elizabeth Harrison
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Jackson L. Vining
+          values:
+            - "32"
+        - label: Catherine Elizabeth (Harrison) Vining
+          values:
+            - "27"
+        - label: Jack Harrison Vining
+          values:
+            - "8"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: New Britain, Hartford County, Connecticut
+        images:
+          - src: JacksonL02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Jackson L. Vining and Catherine Elizabeth (Harrison) Vining, in Fairview Cemetery, West
+          Hartford, Hartford County, Connecticut (from Find A Grave):
+        images:
+          - src: JacksonL02andwifeheadstone.jpg

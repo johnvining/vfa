@@ -1,0 +1,88 @@
+id: Joseph03
+title: Joseph Vining - Elizabeth Hayes
+sections:
+  - type: census
+    table:
+      columns:
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Joseph Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "80"
+            - dead
+            - ""
+        - label: Elizabeth (Hayes) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "76"
+            - |-
+              86
+              [see note below]
+            - dead
+        - label: Timothy Birum Vining
+          values:
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Joseph Vining Jr.
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Rutland Township, Meigs County, Ohio - dwelling 424, family 398
+        images:
+          - src: Joseph03census1860.jpg
+      - year: "1870"
+        caption: >-
+          Rutland Township, Meigs County, Ohio - dwelling 415, family 418. In 1870, Elizabeth (Hayes) Vining was living
+          in the household of son Timothy Birum Vining.
+        images:
+          - src: Joseph03census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Joseph Vining and Elizabeth (Hayes) Vining, in Howell Hill Cemetery, Rutland, Meigs County, Ohio
+          (from Find A Grave):
+        images:
+          - src: Joseph03andwifeheadstone.jpg

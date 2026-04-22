@@ -1,0 +1,100 @@
+id: JacobW01
+title: Jacob Winslow Vining - (1) Cecelia M. Gilman;   (2) Florence A. Ryder
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jacob Winslow Vining
+          values:
+            - "31"
+            - "?"
+            - "51"
+            - "60"
+            - "71"
+            - "?"
+            - "?"
+        - label: Cecelia M. (Gilman) Vining
+          values:
+            - "27"
+            - "?"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Florence A. (Ryder) Vining
+          values:
+            - ""
+            - ""
+            - "29"
+            - "39"
+            - "49"
+            - "?"
+            - "?"
+        - label: David Miller Vining
+          values:
+            - "3"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Winnifred C. Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Philip Broks Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - |-
+              18
+              [see second 1920 entry below]
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Boston, Suffolk County, Massachusetts - dwelling 37, family 60. Also living in this household in 1880 was
+          Bessie Gilman (60 y., b. Scotland), the mother of Cecelia M. (Gilman) Vining.
+        images:
+          - src: JacobW01census1880.jpg
+      - year: "1900"
+        caption: Stoneham, Middlesex County, Massachusetts - dwelling 225, family 247
+        images:
+          - src: JacobW01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Wakefield, Middlesex County, Massachusetts - dwelling 16, family 17. In 1910, Jacob W. Vining, his wife, and
+          their two children (his two youngest) were living in the household of his wife’s mother.
+        images:
+          - src: JacobW01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Wakefield, Middlesex County, Massachusetts - dwelling 11, family 12. Also living in this household in 1920 was
+          Florence A. Ryder (73 y., b. Massachusetts), the mother of Florence A. (Ryder) Vining.
+        images:
+          - src: JacobW01census1920.jpg
+      - year: "1920"
+        caption: Marine Detachment Camaguez, Cuba
+        images:
+          - src: JacobW01census1920b.jpg

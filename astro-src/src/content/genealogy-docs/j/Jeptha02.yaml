@@ -1,0 +1,52 @@
+id: Jeptha02
+title: Jeptha Vining - Elizabeth [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Jeptha Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "63"
+            - "?"
+            - "?"
+        - label: Elizabeth ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "56"
+            - "?"
+            - "?"
+        - label: Polly F. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Cintha A. R. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Baton Rouge, East Baton Rouge Parish, Louisiana - dwelling 1003, family 1003
+        images:
+          - src: Jeptha02census1860.jpg

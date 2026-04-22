@@ -1,0 +1,71 @@
+id: JohnS07
+title: John S. Vining - Lena Willamy
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: John S. Vining
+          values:
+            - "32"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Lena (Willamy) Vining
+          values:
+            - "26"
+            - "?"
+            - "45"
+            - "55"
+            - "?"
+            - "?"
+        - label: Florence M. Vining
+          values:
+            - "3"
+            - "?"
+            - "23"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: John Leonard Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "25"
+            - "?"
+            - "?"
+          indent: true
+        - label: Arthur Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - "22"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: New Britain, Hartford County, Connecticut - dwelling 14, family 19
+        images:
+          - src: JohnS07census1880.jpg
+      - year: "1900"
+        caption: New Britain, Hartford County, Connecticut - dwelling 134, family 217
+        images:
+          - src: JohnS07census1900.jpg
+      - year: "1910"
+        caption: >-
+          New Britain, Hartford County, Connecticut - dwelling 128, family 240. Also living in this household in 1910
+          was Pheobe [sic] Vining, wife of John Leonard Vining.
+        images:
+          - src: JohnS07census1910.jpg

@@ -1,0 +1,52 @@
+id: JohnH04
+title: John H. Vining - Clarissa W. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: John H. Vining
+          values:
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Clarissa W. ([...]) Vining
+          values:
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Fred I. Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Hatfield, Hampshire County, Massachusetts - dwelling 5, family 5
+        images:
+          - src: JohnH04census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for John H. Vining and Clarissa W. ([…]) Vining, in North Hatfield Cemetery, North Hatfield,
+          Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: JohnH04gravestone.jpg
+          - src: JohnH04wifegravestone.jpg
+        inline: true

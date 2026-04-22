@@ -1,0 +1,52 @@
+id: John23
+title: John Vining - Ann [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: John Vining
+          values:
+            - "?"
+            - "?"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ann ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+        - label: William [H. or A.?] Vining
+          values:
+            - "?"
+            - "?"
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alexander Vining
+          values:
+            - "?"
+            - "?"
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Darby Township, Madison County, Ohio - dwelling 80, family 90
+        images:
+          - src: John23census1860.jpg

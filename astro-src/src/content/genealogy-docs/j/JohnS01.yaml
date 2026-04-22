@@ -1,0 +1,81 @@
+id: JohnS01
+title: John Solon Vining - Emma Sparks
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John S. Vining
+          values:
+            - "?"
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Emma (Sparks) Vining
+          values:
+            - "?"
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Walter Vining
+          values:
+            - "?"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ola Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: B[…?] Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Oak Grove, Quitman County, Georgia - dwelling 400, family 399. Also living in this household in 1900 was
+          lodger Clate McE[…?] (50 y., b. Georgia).
+        images:
+          - src: JohnS01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for John Solon Vining and Emma (Sparks) Vining, in Georgetown Cemetery, Georgetown, Quitman
+          County, Georgia (from Find A Grave):
+        images:
+          - src: JohnS01gravestone.jpg
+          - src: JohnS01wifegravestone.jpg
+        inline: true

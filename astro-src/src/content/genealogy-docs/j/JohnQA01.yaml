@@ -1,0 +1,48 @@
+id: JohnQA01
+title: John Q. A. Vining - Julia [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Q. A. Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Julia ([...]) Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Bernice Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          It is possible that the John Vining above was reported to be living with a Reynolds family (dwelling 103,
+          family 120) in their 1860 Canton, Oxford County, Maine, household in addition to being reported as a member of
+          his parents' household.
+      - year: "1870"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 35, family 35. Also living in this household in 1870 was Sy[l]vanus
+          Rowell Jr. (14 y., b. Maine, farm laborer).
