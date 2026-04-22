@@ -1,0 +1,107 @@
+id: Asa01
+title: Asa Vining - Sarah Hunt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+      rows:
+        - label: Asa Vining
+          values:
+            - M 26-44
+            - |-
+              M 45 and over
+              [see note below]
+            - M 45 and over
+            - M 60-70
+            - M 70-80
+            - "81"
+            - dead
+        - label: Sarah (Hunt) Vining
+          values:
+            - F 26-44
+            - F 26-44
+            - F 45 and over
+            - F 60-70
+            - 70-80
+            - dead
+            - ""
+        - label: Martin Vining
+          values:
+            - M under 10
+            - M 10-15
+            - M 16-25
+            - M 30-40
+            - M 40-50
+            - "54"
+            - |-
+              63
+              see note below
+          indent: true
+        - label: David Vining
+          values:
+            - M under 10
+            - M 10-15
+            - M 16-25
+            - M 30-40; married and living in this household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - F under 10
+            - F 10-16
+            - F 20-30
+            - F 30-40
+            - "41"
+            - "?"
+          indent: true
+    entries:
+      - year: "1800"
+        caption: >-
+          Abington, Plymouth County, Massachusetts. The age of each member of this family in 1800 matches the expected
+          age category in the 1800 census report.
+        images:
+          - src: Asa01census1800.jpg
+      - year: "1810"
+        caption: >-
+          Hawley, Hampshire County, Massachusetts. Except for the erroneous report of the age of Asa as being “M 45 and
+          over” [he was 41], the age of each other member of this family in 1810 matches the expected age category in
+          the 1810 census report.
+        images:
+          - src: Asa01census1810.jpg
+      - year: "1820"
+        caption: >-
+          Hawley, Franklin County, Massachusetts. The age of each member of this family in 1820 matches the expected age
+          category in the 1820 census report.
+        images:
+          - src: Asa01census1820.jpg
+      - year: "1830"
+        caption: >-
+          Hawley, Franklin County, Massachusetts. Also living in this household in 1830 were two males under 5, a male
+          5-10, a female under 5, a female 5-10, and a female 30-40 (likely David's wife).
+        images:
+          - src: Asa01census1830.jpg
+      - year: "1840"
+        caption: Hawley, Franklin County, Massachusetts
+        images:
+          - src: Asa01census1840.jpg
+      - year: "1850"
+        caption: Hawley, Franklin County, Massachusetts - dwelling 117, family 130
+        images:
+          - src: Asa01census1850.jpg
+      - year: "1860"
+        caption: "- In 1860 Martin was living in the household of David Vining, his brother."
+  - type: death
+    items:
+      - caption: "Gravestone for Asa Vining, in Doane Cemetery, Hawley, Franklin County, Massachusetts (from Find A Grave):"
+        images:
+          - src: Asa01gravestone.jpg

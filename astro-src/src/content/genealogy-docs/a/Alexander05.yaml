@@ -1,0 +1,100 @@
+id: Alexander05
+title: Alexander Vining - Alice Edwards
+sections:
+  - type: research
+    text: >-
+      Research is needed to determine the mother of Alexander Vining. In 1855, Alexander was living in a household with
+      presumed father James Washington Vining, James’s mother (Hannah (Husted) Vining), and a Polly Brown. James
+      Vining’s obituary mentions only three daughters as offspring, and none of James’s brothers seems to have had a son
+      named Alexander.
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Alexander Vining
+          values:
+            - "17"
+            - "25"
+            - "?"
+            - living in separate household
+            - "56"
+            - "65"
+            - dead
+        - label: Alice (Edwards) Vining
+          values:
+            - ""
+            - ""
+            - "23"
+            - "?"
+            - "43"
+            - "54"
+            - "63"
+            - "?"
+        - label: Minnie E. Vining
+          values:
+            - ""
+            - ""
+            - 1 m.
+            - "?"
+            - |-
+              21
+              [see note below]
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: James M. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "13"
+            - "22"
+            - "[living? in separate househol]"
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Athens, Greene County, New York - dwelling 371, family 465
+        images:
+          - src: Alexander05census1870a.jpg
+          - src: Alexander05census1870b.jpg
+      - year: "1880"
+        caption: Athens, Greene County, New York - dwelling 135, family 169
+        images:
+          - src: Alexander05census1880.jpg
+      - year: "1900"
+        caption: >-
+          Athens, Greene County, New York - dwelling 125, family 159. By 1900, Minnie Vining was married, to Charles
+          Garrison, and she, Charles, and daughter Ethel C. were living in the household of her mother.
+        images:
+          - src: Alexander05census1900a.jpg
+          - src: Alexander05census1900b.jpg
+      - year: "1910"
+        caption: >-
+          Athens, Greene County, New York - dwelling 340, family 381. According to the 1910 census, James M. Vining had
+          been married for three years by 1910, but no mention is made of his wife. Also, following the death of Minnie
+          (Vining) Garrison, her daughter (Ethel) was reported as having the surname Vining. Research is needed to
+          determine if she (Ethel) was adopted by her grandparents.
+        images:
+          - src: Alexander05census1910.jpg
+      - year: "1920"
+        caption: Athens, Greene County, New York - dwelling 16, family 16
+        images:
+          - src: Alexander05census1920a.jpg
+          - src: Alexander05census1920b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument for Alexander Vining, Alice (Edwards) Vining, daughter Minnie and son-in-law, in Athens Rural
+          Cemetery, Athens, Greene County, New York (from Find A Grave):
+        images:
+          - src: Alexander05andfamilyheadstone.jpg

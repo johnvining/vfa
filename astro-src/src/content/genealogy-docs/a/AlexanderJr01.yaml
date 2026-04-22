@@ -1,0 +1,79 @@
+id: AlexanderJr01
+title: Alexander Vining Jr. - Fannie Margaret Raymond
+sections:
+  - type: notes
+    heading: Note
+    text: Alexander Vining Jr. was a descendant, through his mother, of Mayflower passenger Thomas Rogers.
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Alexander Vining Jr.
+          values:
+            - "?"
+            - "43"
+            - "53"
+            - "62"
+            - dead
+            - ""
+        - label: Fannie Margaret (Raymond) Vining
+          values:
+            - "?"
+            - "27"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Floretta Vining
+          values:
+            - "?"
+            - "11"
+            - "21"
+            - "29"
+            - "?"
+            - "?"
+          indent: true
+        - label: Cora Hortense Vining
+          values:
+            - ""
+            - "4"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Hull, Plymouth County, Massachusetts - dwelling 3, family 3. Also living in this household (a hotel) in 1860
+          were Rosa Dolan (40 y., b. Ireland), Margaret McGuire (18 y., b. Ireland), Thomas Dolan (17 y., b. Ireland),
+          and Henry [S[c]ranton?] (17 y., b. Massachusetts).
+        images:
+          - src: AlexanderJr01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Hull, Plymouth County, Massachusetts - dwelling 100, family 55. Also living in this household (a hotel) in
+          1870 were Hollis Lovelock ([41? y.], b. Massachusetts), [...] Lovelock (40 y., b. Ireland), and Kate
+          "Kallerher" (54 y., b. Ireland).
+        images:
+          - src: AlexanderJr01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Quincy, Norfolk County, Massachusetts - dwelling 298, family 486. Also living in this household in 1880 were
+          Mary Marrisey (29 y., b. Ireland), Mary Faley (19 y., b. Ireland), Edwin Alpaugh (29 y., b. Massachusetts),
+          Frank Malony (20 y., b. Nova Scotia), Joseph Hagan (39 y., b. Massachusetts), Ella M. Hagan (38 y., b.
+          Massachusetts), George A. Hagan (15 y., b. Massachusetts), Addison C. Hagan (6 y., b. Massachusetts), and
+          Maggie McKenna (20 y., b. Ireland).
+        images:
+          - src: AlexanderJr01census1880.jpg
+  - type: death
+    items:
+      - caption: "Family headstone, in Union Cemetery, Hanover, Plymouth County, Massachusetts (from Find A Grave):"
+        images:
+          - src: AlexanderJr01familyheadstone.jpg

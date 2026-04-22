@@ -1,0 +1,39 @@
+id: ArthurL03
+title: Arthur Lee Vining - Fannie Harding
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Arthur Lee Vining
+          values:
+            - "49"
+            - "?"
+            - "68"
+        - label: Fannie (Harding) Vining
+          values:
+            - "40"
+            - "?"
+            - "61"
+        - label: Lela Ruth Vining
+          values:
+            - "9"
+            - "?"
+            - |-
+              29
+              [see note below]
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Little Rock, Pulaski County, Arkansas - dwelling 158, family 160
+        images:
+          - src: ArthurL03census1920.jpg
+      - year: "1940"
+        caption: >-
+          Little Rock, Pulaski County, Arkansas. By 1940, Lela Ruth was married, to John Custer, and she and he and
+          their daughter were living in the household of her parents.
+        images:
+          - src: ArthurL03census1940.jpg

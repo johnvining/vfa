@@ -1,0 +1,74 @@
+id: ArthurL01
+title: Arthur L. Vining - Agnes J. “Addie” Webster
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record of Arthur L. Vining and Agnes J. Webster:"
+        images:
+          - src: ArthurL01marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Arthur L. Vining
+          values:
+            - "?"
+            - "34"
+            - "51"
+            - |-
+              ?
+              [see note below]
+            - dead
+        - label: Agnes J. “Addie” (Webster) Vining
+          values:
+            - "?"
+            - "35"
+            - "44"
+            - "48"
+            - "?"
+        - label: Walter L. Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - "22"
+            - "34"
+          indent: true
+        - label: Delmar T. Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "21"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Waterford, Saratoga County, New York - dwelling 190, family 217
+        images:
+          - src: ArthurL01census1910.jpg
+      - year: "1920"
+        caption: Russia, Herkimer County, New York - dwelling 129, family 134
+        images:
+          - src: ArthurL01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Springfield, Hampden County, Massachusetts - dwelling 48a, family 121. In 1930, Arthur Vining was listed in
+          the “Cohoes and Waterford [New York] Directory For Year Ending August 1930” as “master mechanic 465 Saratoga
+          res 115 Mohawk”.
+        images:
+          - src: ArthurL01census1930.jpg
+      - year: "1940"
+        caption: Springfield, Hampden County, Massachusetts - State Isolation Hospital
+        images:
+          - src: ArthurL01census1940.jpg
+  - type: death
+    items:
+      - caption: "Death certificate for Arthur L. Vining:"
+        images:
+          - src: ArthurL01deathcert.jpg

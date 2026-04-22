@@ -1,0 +1,140 @@
+id: Alexander01
+title: Alexander Vining - (1) Olive Pease, (2) Lovice Pease
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+      rows:
+        - label: Alexander Vining
+          values:
+            - M 16 and upward
+            - M 45 and over
+            - M 45 and over
+            - M 45 and over
+            - dead
+        - label: Olive (Pease) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Lovice (Pease) Vining
+          values:
+            - F
+            - F 45 and over
+            - F 45 and over
+            - F 45 and over
+            - |-
+              F 60–70
+              [see note below]
+        - label: Roxanne Vining
+          values:
+            - F
+            - "[F 16–26?]"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elkanah Vining
+          values:
+            - M under 16
+            - |-
+              [not living in this household?]
+              [see note below]
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Elem Vining
+          values:
+            - M under 16
+            - |-
+              [not living in this household?]
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Alexander Vining Jr.
+          values:
+            - M under 16
+            - |-
+              M 16–26
+              [see note below]
+            - |-
+              M 26–45
+              married [and living in this household?]
+              [see note below]
+            - |-
+              M 26–45
+              married [and living in this household?]
+              [see note below]
+            - married and living in separate household
+          indent: true
+        - label: Alvin Vining
+          values:
+            - M under 16
+            - |-
+              M 16–26
+              [see note below]
+            - M 26–45
+            - |-
+              [not living in this household?]
+              [see note below]
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          East Windsor, Hartford County, Connecticut. The age of each member of this family in 1790 matches the expected
+          age category in the 1790 census report.
+      - year: "1810"
+        caption: >-
+          Windsor, Hartford County, Connecticut - The presence of a male under 10 and a female under 10 as well as a
+          second male 26–45—Alvin was probably the other—suggests that Alexander Jr., who married in 1807, and his
+          family (but not his wife) were living in this household. Consistent with this hypothesis is that in 1830, two
+          years after the death of Alexander Sr., a household headed by an "Alexander Vining" (likely Alexander Jr.) was
+          still in East Windsor, Connecticut, and in that household was a female 60–70 (probably the widow of Alexander
+          Sr.).
+        images:
+          - src: Alexander01census1810.jpg
+      - year: "1820"
+        caption: >-
+          East Windsor, Hartford County, Connextixut. The hypothesis here is that Alexander Jr. and his family were
+          living in this household and that Alvin (age 37) was living elsewhere.
+        images:
+          - src: Alexander01census1820.jpg
+      - year: "1830"
+        caption: >-
+          East Windsor, Hartford County, Connecticut. Following the death of Alexander Sr. in 1828, Alexander Jr. was
+          listed in the 1830 census as the "head" of the household. Consequently, a new census table for Alexander Jr.'s
+          family begins with the 1830 census, and he is artificially reported above to be "married and living in
+          separate household" even though that household is really a seamless continuation of the one above.
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Alexander Vining and Olive (Pease) Vining, in Scantic Cemetery, East Windsor, Hartford County,
+          Connecticut (from Find A Grave):
+        images:
+          - src: Alexander01gravestone.jpg
+          - src: Alexander01wifeOlivegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Alexander Vining, son of Alexander Vining and Olive (Pease) Vining, in Scantic Cemetery, East
+          Windsor, Hartford County, Connecticut (from Find A Grave):
+        images:
+          - src: Alexander01sonAlexandergravestone.jpg

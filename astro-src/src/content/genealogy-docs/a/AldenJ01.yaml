@@ -1,0 +1,63 @@
+id: AldenJ01
+title: Alden J. Vining - (1) [...];   (2) Catherine [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alden J. Vining
+          values:
+            - "?"
+            - "42"
+            - "?"
+            - "?"
+            - dead
+        - label: "[...] ([...]) Vining"
+          values:
+            - "?"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+        - label: Catherine ([...]) Vining
+          values:
+            - "?"
+            - "41"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elwin M. Vining
+          values:
+            - "?"
+            - "16"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Rose Ellen Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Jackson Township, Champaign County, Ohio - dwelling 104, family 104. Also living in this household in 1910 was
+          Mabel Musselman (13 y., b. Ohio), Catherine's daughter by her first marriage.
+        images:
+          - src: AldenJ01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Elwin M. Vining, son of Alden J. Vining and Catherine ([...]) Vining, in Ferncliff Cemetery,
+          Springfield, Clark County, Ohio (from Find A Grave):
+        images:
+          - src: AldenJ01sonElwingravestone.jpg

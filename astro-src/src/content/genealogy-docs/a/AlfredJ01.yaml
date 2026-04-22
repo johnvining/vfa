@@ -1,0 +1,60 @@
+id: AlfredJ01
+title: Alfred Jackson Vining - Emma Delilah Jernigan
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1930"
+      rows:
+        - label: Alfred Jackson Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Emma Delilah (Jernigan) Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Myra L. Vining
+          values:
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Zi[…]le Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Virginia Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: No. 481 Militia, Bibb County, Georgia - dwelling 17, family 22
+        images:
+          - src: AlfredJ01census1900.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Alfred Jackson Vining, in Rose Hill Cemetery, Macon, Bibb County, Georgia (from Find A Grave):"
+        images:
+          - src: AlfredJ01gravestone.jpg

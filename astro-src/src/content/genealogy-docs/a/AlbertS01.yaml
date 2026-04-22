@@ -1,0 +1,98 @@
+id: AlbertS01
+title: Albert Scott Vining - Mary Haase
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Albert Scott Vining
+          values:
+            - "48"
+            - dead
+            - ""
+            - ""
+        - label: Mary (Haase) Vining
+          values:
+            - "33"
+            - "43"
+            - "53"
+            - "?"
+        - label: Hazel Vining
+          values:
+            - "10"
+            - "19"
+            - not living in this household
+            - ""
+          indent: true
+        - label: James L. Vining
+          values:
+            - "8"
+            - |-
+              single and living in separate household
+              [see census record below]
+            - ""
+            - ""
+          indent: true
+        - label: Edna Vining
+          values:
+            - "5"
+            - "15"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Rhea A. Vining
+          values:
+            - "3"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Albert Dewey Vining
+          values:
+            - "1"
+            - "11"
+            - single and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: "Big Rapids, Mecosta County, Michigan - dwelling 302, family 319. Address: 302 Warren Avenue."
+        images:
+          - src: AlbertS01census1900.jpg
+      - year: "1910"
+        caption: "Big Rapids (Ward 2), Mecosta County, Michigan - dwelling 85, family 95. Address: [323?] North Warren Avenue."
+        images:
+          - src: AlbertS01census1910.jpg
+          - src: AlbertS01sonJamesLcensus1910.jpg
+        inline: true
+      - year: "1920"
+        caption: Big Rapids (Ward 2), Mecosta County, Michigan - dwelling 119, family 123
+        images:
+          - src: AlbertS01census1920.jpg
+      - year: "1920"
+        caption: Saginaw (Ward 3), Saginaw County, Michigan - dwelling 231, family 285
+        images:
+          - src: Albertxxcensus1920.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Albert Scott Vining:"
+        images:
+          - src: AlbertS01obituary.jpg
+      - caption: >-
+          Gravestones for Albert Scott Vining and Mary (Haase) Vining, in Highland View Cemetery, Big Rapids, Mecosta
+          County, Michigan (from Find A Grave):
+        images:
+          - src: AlbertS01gravestone.jpg
+          - src: AlbertS01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestones for James L. Vining and Rhea A. Vining, children of Albert Scott Vining and Mary (Haase) Vining,
+          in Highland View Cemetery, Big Rapids, Mecosta County, Michigan (from Find A Grave):
+        images:
+          - src: AlbertS01sonJamesgravestone.jpg
+          - src: AlbertS01dauRheagravestone.jpg
+        inline: true

@@ -1,0 +1,44 @@
+id: AverettW01
+title: Averett Wells Vining - Viola Mae Scott
+sections:
+  - type: military
+    items:
+      - caption: "World War I registration card for Averett Wells Vining:"
+        images:
+          - src: AverettW01WWIregistrationcarda.jpg
+          - src: AverettW01WWIregistrationcardb.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Averett Wells Vining
+          values:
+            - "38"
+            - "48"
+        - label: Viola Mae (Scott) Vining
+          values:
+            - "28"
+            - "38"
+        - label: James Averett Vining
+          values:
+            - 2 y., 10 m.
+            - "12"
+          indent: true
+        - label: Hollis F. Vining
+          values:
+            - 5 m.
+            - dead
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Marshallville Militia District 543, Macon County, Georgia - dwelling 301, family 304
+        images:
+          - src: AverettW01census1930a.jpg
+          - src: AverettW01census1930b.jpg
+      - year: "1940"
+        caption: Marshallville Militia District 543, Macon County, Georgia
+        images:
+          - src: AverettW01census1940.jpg

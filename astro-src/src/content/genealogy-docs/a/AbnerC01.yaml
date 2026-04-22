@@ -1,0 +1,50 @@
+id: AbnerC01
+title: Abner Calhoun Vining - Georgia Evelyn [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Abner Calhoun Vining
+          values:
+            - "29"
+            - "39"
+            - "49"
+        - label: Georgia Evelyn ([...]) Vining
+          values:
+            - "26"
+            - "36"
+            - "46"
+        - label: Herbert Hampton Vining
+          values:
+            - "8"
+            - "18"
+            - "27"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Covington, Newton County, Georgia - dwelling 69, family 84
+        images:
+          - src: AbnerC01census1920a.jpg
+          - src: AbnerC01census1920b.jpg
+      - year: "1930"
+        caption: Covington, Newton County, Georgia - dwelling 82, family 93
+        images:
+          - src: AbnerC01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Covington, Newton County, Georgia - household 34. Also living in this household in 1940 was Margaret Vining,
+          the wife of Herbert Hampton Vining.
+        images:
+          - src: AbnerC01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Abner Calhoun Vining and Georgia Evelyn [...], in Southview Cemetery, Covington, Georgia (from
+          Find A Grave):
+        images:
+          - src: AbnerC01gravestone.jpg
+          - src: AbnerC01wifegravestone.jpg

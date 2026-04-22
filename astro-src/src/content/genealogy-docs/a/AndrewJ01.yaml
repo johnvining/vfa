@@ -1,0 +1,60 @@
+id: AndrewJ01
+title: Andrew J. Vining - Josephine [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Andrew J. Vining
+          values:
+            - "35"
+            - "?"
+            - "55"
+            - "65"
+            - "?"
+            - "?"
+        - label: Josephine ([...]) Vining
+          values:
+            - "31"
+            - "?"
+            - "51"
+            - "60"
+            - "?"
+            - "?"
+        - label: Lucy M. Vining
+          values:
+            - "4"
+            - "?"
+            - "24"
+            - "32"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          San Francisco, San Francisco County, California - dwelling 197, family 210. Also living in this household in
+          1880 was Lucy Vining (70, b. Massachusetts), the mother of Andrew J. Vining.
+        images:
+          - src: AndrewJ01census1880.jpg
+      - year: "1900"
+        caption: San Francisco (assembly district 40), San Francisco County, California - dwelling 23, family 26
+        images:
+          - src: AndrewJ01census1900.jpg
+      - year: "1910"
+        caption: San Francisco (assembly district 40, precinct 6), San Francisco County, California - dwelling 23, family 32
+        images:
+          - src: AndrewJ01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone of Andrew Jackson Vining, in San Francisco National Cemetery, San Francisco, San Francisco County,
+          California (from Find A Grave):
+        images:
+          - src: AndrewJ01gravestone.jpg

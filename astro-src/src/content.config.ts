@@ -107,4 +107,51 @@ const letters = defineCollection({
   }),
 });
 
-export const collections = { news, genealogy, letters };
+const genealogyDocs = defineCollection({
+  loader: glob({ pattern: '**/*.yaml', base: './src/content/genealogy-docs' }),
+  schema: z.object({
+    id: z.string(),
+    title: z.string(),
+    intro: z.array(z.object({
+      caption: z.string().optional(),
+      images: z.array(z.object({
+        src: z.string(),
+        height: z.number().optional(),
+      })).optional(),
+      inline: z.boolean().optional(),
+    })).optional(),
+    sections: z.array(z.object({
+      type: z.string(),
+      heading: z.string().optional(),
+      headingLarge: z.boolean().optional(),
+      table: z.object({
+        columns: z.array(z.string()),
+        rows: z.array(z.object({
+          label: z.string(),
+          indent: z.boolean().optional(),
+          values: z.array(z.string()),
+        })),
+      }).optional(),
+      entries: z.array(z.object({
+        year: z.string(),
+        caption: z.string().optional(),
+        images: z.array(z.object({
+          src: z.string(),
+          height: z.number().optional(),
+        })).optional(),
+        inline: z.boolean().optional(),
+      })).optional(),
+      items: z.array(z.object({
+        caption: z.string().optional(),
+        images: z.array(z.object({
+          src: z.string(),
+          height: z.number().optional(),
+        })).optional(),
+        inline: z.boolean().optional(),
+      })).optional(),
+      text: z.string().optional(),
+    })).optional(),
+  }),
+});
+
+export const collections = { news, genealogy, letters, genealogyDocs };

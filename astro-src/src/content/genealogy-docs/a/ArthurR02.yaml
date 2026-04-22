@@ -1,0 +1,48 @@
+id: ArthurR02
+title: Arthur R. Vining - Agnes [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Arthur R. Vining
+          values:
+            - "31"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Agnes ([...]) Vining
+          values:
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Maud Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Limestone, Kankakee County, Illinois - dwelling 56, family 63
+        images:
+          - src: ArthurR02census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestone of Arthur R. Vining, in the Limestone Cemetery, West Kankakee, Kankakee County, Illinois:"
+        images:
+          - src: ArthurR02gravestone.jpg

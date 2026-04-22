@@ -1,0 +1,80 @@
+id: AlcideJ01
+title: Alcide Joseph Vining - Ophelia Breaux
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alcide Joseph Vining
+          values:
+            - "28"
+            - "37"
+            - "48"
+            - "?"
+            - "?"
+        - label: Ophelia (Breaux) Vining
+          values:
+            - "28"
+            - "37"
+            - "48"
+            - "?"
+            - "?"
+        - label: Lorine Vining
+          values:
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Alden Adam Vining
+          values:
+            - "3"
+            - "14"
+            - "23"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rudolph Adam Vining
+          values:
+            - "1"
+            - "10"
+            - "21"
+            - "?"
+            - "?"
+          indent: true
+        - label: Pearl Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Police Jury Ward 2, Saint Martin Parish, Louisiana - dwelling 223, family 227
+        images:
+          - src: AlcideJ01census1900.jpg
+      - year: "1910"
+        caption: Police Jury Ward 2, Saint Martin Parish, Louisiana - dwelling 307, family 307
+        images:
+          - src: AlcideJ01census1910.jpg
+      - year: "1920"
+        caption: Police Jury Ward 2, Saint Martin Parish, Louisiana - dwelling 405, family 429
+        images:
+          - src: AlcideJ01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Alcide Joseph Vining and Ophelia (Breaux) Vining, in Saint Andrews Cemetery, Amelia, St. Mary
+          Parish, Louisiana (from Find A Grave):
+        images:
+          - src: AlcideJ01gravestone.jpg
+          - src: AlcideJ01wifegravestone.jpg
+        inline: true

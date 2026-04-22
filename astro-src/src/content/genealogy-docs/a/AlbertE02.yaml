@@ -1,0 +1,75 @@
+id: AlbertE02
+title: Albert Edward Vining - Estelle A. [Keybold?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Albert Edward Vining
+          values:
+            - "31"
+            - "?"
+            - "45"
+            - "54"
+            - "?"
+            - "75"
+        - label: Estelle A. ([Raybold?]) Vining
+          values:
+            - "27"
+            - "?"
+            - "45"
+            - "56"
+            - "?"
+            - dead
+        - label: child Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Carrie Vining
+          values:
+            - "3"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Melvin L. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Winchester, Litchfield County, Connecticut - dwelling 266, family 349
+        images:
+          - src: AlbertE02census1880.jpg
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: Providence, Providence County, Rhode Island - dwelling 222, family 341
+        images:
+          - src: AlbertE02census1900.jpg
+      - year: "1910"
+        caption: Providence (ward 5), Providence County, Rhode Island - dwelling 15, family 22
+        images:
+          - src: AlbertE02census1910.jpg
+      - year: "1930"
+        caption: Springfield (ward 4), Hampden County, Massachusetts - dwelling 27, family 71
+        images:
+          - src: AlbertE02census1930.jpg

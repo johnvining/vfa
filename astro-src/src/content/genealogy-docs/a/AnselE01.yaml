@@ -1,0 +1,86 @@
+id: AnselE01
+title: Ansel Emerson Vining - Mary P. Sturtevant
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Ansel Emerson Vining
+          values:
+            - "33"
+            - "43"
+            - "?"
+            - "63"
+            - dead
+            - ""
+            - ""
+        - label: Mary P. (Sturtevant) Vining
+          values:
+            - "31"
+            - "40"
+            - "?"
+            - "61"
+            - "70"
+            - "80"
+            - dead
+        - label: Charles E. Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Frederick J. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Windsor, Berkshire County, Massachusetts - dwelling 4, family 4
+        images:
+          - src: Ansel01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Windsor, Berkshire County, Massachusetts - dwelling 109, family 121. Also living in this household in 1880 was
+          Clarissa Vining (72, b. MA), mother of Ansel Emerson Vining.
+        images:
+          - src: AnselE01census1880.jpg
+      - year: "1900"
+        caption: Williamsburg, Hampshire County, Massachusetts - dwelling 265, family 293
+        images:
+          - src: AnselE01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Williamsburg, Hampshire County, Massachusetts - dwelling 187, family 198. This census reported that Mary P.
+          had only 1 child (vs. 2 above) and that that 1 child was living as of the 1910 census.
+        images:
+          - src: AnselE01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Williamsburg, Hampshire County, Massachusetts - dwelling 74, family 79. Mary P. was living with son Frederick
+          J. Vining in 1920.
+        images:
+          - src: AnselE01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ansel Emerson Vining, Mary P. (Sturtevant) Vining, and Fred J. Vining, (probably) in High Street
+          Cemetery, Haydenville, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: AnselE01familyheadstone.jpg

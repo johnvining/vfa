@@ -1,0 +1,138 @@
+id: AlbertB01
+title: Albert Bela Vining - Harriet Finch
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Albert Bela Vining
+          values:
+            - "27"
+            - "37"
+            - "?"
+            - "?"
+            - "67"
+            - dead
+            - ""
+            - ""
+        - label: Harriet (Finch) Vining
+          values:
+            - "20"
+            - "30"
+            - "?"
+            - "?"
+            - "60"
+            - |-
+              70
+              [see note below]
+            - |-
+              79
+              [see note below]
+            - dead
+        - label: Mary Laduska Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Myron Henry Vining
+          values:
+            - 4 months
+            - "10"
+            - "?"
+            - "?"
+            - "[married and?] living in a separate household"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Albert B. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "[married and?] living in a separate household"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Laura Virginia &#8220Jennie” Vining
+          values:
+            - ""
+            - living in separate household
+            - "?"
+            - married [and living in a separate household?]
+            - ""
+            - |-
+              44
+              [see note below]
+            - |-
+              54
+              [see note below]
+            - ""
+          indent: true
+        - label: Robert S. Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Jewett, Greene County, New York - dwelling 804, family 832
+        images:
+          - src: AlbertB01census1860a.jpg
+          - src: AlbertB01census1860b.jpg
+      - year: "1870"
+        caption: Harrison Township, Harrison County, Iowa - dwelling 6, family 7
+        images:
+          - src: AlbertB01census1870a.jpg
+          - src: AlbertB01census1870b.jpg
+      - year: "1900"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 388, family 398
+        images:
+          - src: AlbertB01census1900.jpg
+      - year: "1910"
+        caption: >-
+          South Ontario Precinct, Malheur County, Oregon - dwelling 144, family 152. In 1910, Harriet (Finch) Vining was
+          living in the household of daughter Laura Virginia “Jennie” (Vining) Atherton.
+        images:
+          - src: AlbertB01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Ontario (Precinct 3), Malheur County, Oregon - dwelling 299, family 331. In 1920, Harriet (Finch) Vining was
+          living in the household of daughter Laura Virginia “Jennie” (Vining) Atherton.
+        images:
+          - src: AlbertB01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Albert Bela Vining and Harriet Finch, in the Woodbine Cemetery, Woodbine, Iowa (source: Find A
+          Grave):
+        images:
+          - src: AlbertB01gravestone.jpg
+          - src: AlbertB01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Robert S. Vining, son of Albert Bela Vining and Harriet Finch, in the Woodbine Cemetery,
+          Woodbine, Iowa (source: Find A Grave):
+        images:
+          - src: AlbertB01sonRobertgravestone.jpg

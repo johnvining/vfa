@@ -1,0 +1,101 @@
+id: Alexander03
+title: Alexander Vining - Ann Mariah Houser
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage Record of Alexander Vining and Ann Mariah Houser:"
+        images:
+          - src: Alexander03marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Alexander Vining
+          values:
+            - "38"
+            - "49"
+            - dead
+            - "?"
+            - "?"
+            - "?"
+        - label: Ann Mariah (Houser) Vining
+          values:
+            - "20"
+            - "29"
+            - "39"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah B. Vining
+          values:
+            - 1 m.
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Alexander Vining
+          values:
+            - ""
+            - "5"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harriet Matilda Vining
+          values:
+            - ""
+            - "3"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - 6 m.
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John T. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Washington Township, Franklin County, Ohio - dwelling 335, family 320
+        images:
+          - src: Alexander03census1860.jpg
+      - year: "1870"
+        caption: Jerome Township, Union County, Ohio - dwelling 78, family 78
+        images:
+          - src: Alexander03census1870.jpg
+      - year: "1880"
+        caption: Dublin Village, Washington Township, Franklin County, Ohio - dwelling 30, family 33
+        images:
+          - src: Alexander03census1880.jpg

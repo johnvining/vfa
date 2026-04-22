@@ -1,0 +1,65 @@
+id: AlverN01
+title: Alver Nathaniel Vining - Mary Alice Bock
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alver Nathaniel Vining
+          values:
+            - "42"
+            - "52"
+        - label: Mary Alice (Bock) Vining
+          values:
+            - "37"
+            - "47"
+        - label: Nathan Felix Vining
+          values:
+            - "8"
+            - "18"
+          indent: true
+        - label: Charlotte M. Vining
+          values:
+            - "7"
+            - "17"
+          indent: true
+        - label: Dorothy J. Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Betty [R.?] Vining
+          values:
+            - 2 y., 9 m.
+            - "12"
+          indent: true
+        - label: Kenneth E. Vining
+          values:
+            - 6 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Hapeville, Fulton County, Georgia - dwelling 384, family 398
+        images:
+          - src: AlverN01census1930.jpg
+      - year: "1940"
+        caption: Orchard Hill, Spalding County, Georgia
+        images:
+          - src: AlverN01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Alver Nathaniel Vining and Mary Alice (Bock) Vining, in Oak Hill Cemetery, Griffin, Spalding
+          County, Georgia (from Find A Grave):
+        images:
+          - src: AlverN01gravestone.jpg
+          - src: AlverN01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Nathan Felix Vining, son of Alver Nathaniel Vining and Mary Alice (Bock) Vining, in Oak Hill
+          Cemetery, Griffin, Spalding County, Georgia (from Find A Grave):
+        images:
+          - src: AlverN01sonNathangravestone.jpg

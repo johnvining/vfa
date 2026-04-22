@@ -1,0 +1,118 @@
+id: AustinS01
+title: Austin Shorter Vining - Jane A. Patterson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Austin Shorter Vining
+          values:
+            - "32"
+            - "43"
+            - "52"
+            - "?"
+            - dead
+        - label: Jane A. (Patterson) Vining
+          values:
+            - "28"
+            - "39"
+            - "48"
+            - dead
+            - ""
+        - label: James Clinton Vining
+          values:
+            - "7"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Felix J. Vining
+          values:
+            - "2"
+            - "12"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Elizabeth B. Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+        - label: Benjamin E. Vining
+          values:
+            - ""
+            - "5"
+            - "14"
+            - "?"
+            - married and living in separate household
+          indent: true
+        - label: Albert Helon Vining
+          values:
+            - ""
+            - "2"
+            - "11"
+            - "?"
+            - married and living in separate household
+          indent: true
+        - label: David W. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary E. R. J. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Woodlawn (post office), Murray County, Georgia - dwelling 216, family 216. Also living in this household in
+          1860 was Robert Patterson (17, b. Georgia), possibly a younger brother of Jane A. (Patterson) Vining.
+        images:
+          - src: AustinS01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Spring Place (post office), Murray County, Georgia - dwelling 114, family 114. Also living in this household
+          in 1870 was Adelia Crumley (19, b. Georgia, "No occupation").
+        images:
+          - src: AustinS01census1870.jpg
+      - year: "1880"
+        caption: Shuck Pen, Murray County, Georgia - dwelling 178, family 178
+        images:
+          - src: AustinS01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Austin Shorter Vining and Jane A. (Patterson) Vining, in Center Valley Cemetery, Chatsworth,
+          Murray County, Georgia (from Find A Grave):
+        images:
+          - src: AustinS01gravestone.jpg
+          - src: AustinS01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Elizabeth B. Vining, daughter of Austin Shorter Vining and Jane A. (Patterson) Vining, in the
+          McAlister Cemetery in Overbrook, Oklahoma:
+        images:
+          - src: AustinS01dauElizabethgrave.jpg
+      - caption: >-
+          Gravestone for David William Vining, son of Austin Shorter Vining and Jane A. (Patterson) Vining, in Rose Hill
+          Cemetery, Ardmore, Carter County, Oklahoma (from Find A Grave):
+        images:
+          - src: AustinS01sonDavidgravestone.jpg

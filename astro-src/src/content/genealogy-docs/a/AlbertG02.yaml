@@ -1,0 +1,155 @@
+id: AlbertG02
+title: Albert Gallatin Vining - Elizabeth Ann
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Albert Gallatin Vining
+          values:
+            - "?"
+            - M 30–39
+            - "44"
+            - dead
+            - ""
+            - ""
+        - label: Elizabeth Ann [Jarrard or Gerrard?]
+          values:
+            - "?"
+            - F 30–39
+            - "41"
+            - "51"
+            - "61"
+            - "?"
+        - label: Cosby Littleberry Vining
+          values:
+            - "?"
+            - M 10–14
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Austin Shorter Vining
+          values:
+            - "?"
+            - M 10–14
+            - "22"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Berry Vining
+          values:
+            - "?"
+            - M 10–14
+            - "20"
+            - not living in this household
+            - not living in this household
+            - married and living in separate household
+          indent: true
+        - label: Benjamin Franklin Vining
+          values:
+            - ""
+            - M 5–9
+            - "18"
+            - not living in this household
+            - not living in this household
+            - married and living in separate household
+          indent: true
+        - label: Henry Clay Vining
+          values:
+            - ""
+            - M 5–9
+            - "16"
+            - not living in this household
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Mary E. J. Vining
+          values:
+            - ""
+            - F under 5
+            - "14"
+            - not living in this household
+            - not living in this household
+            - "?"
+          indent: true
+        - label: David Minton Vining
+          values:
+            - ""
+            - M under 5
+            - "11"
+            - not living in this household
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Albert L. Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Martha [Ann or M.?] Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Reuben Alexander Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "14"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: William Simmons Vining
+          values:
+            - ""
+            - ""
+            - "1"
+            - "10"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Augustus Gallatin Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "7"
+            - "17"
+            - "?"
+          indent: true
+    entries:
+      - year: "1840"
+        caption: District 824, Murray County, Georgia. To be determined is the identity of a second male under 5.
+      - year: "1850"
+        caption: Murray County, Georgia - dwelling 1739, family 1739
+        images:
+          - src: AlbertG02census1850a.jpg
+          - src: AlbertG02census1850b.jpg
+      - year: "1860"
+        caption: Woodlawn (post office), Murray County, Georgia - dwelling 215, family 215
+        images:
+          - src: AlbertG02census1860.jpg
+      - year: "1870"
+        caption: >-
+          Spring Place (post office), Murray County, Georgia - dwelling 115, family 115. Also living in this household
+          in 1870 were Georgia [C.?] Vining (11 y., b. Tennessee) and Virginia Vining (9 y., b. Tennessee).
+        images:
+          - src: AlbertG02census1870.jpg

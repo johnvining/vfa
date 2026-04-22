@@ -1,0 +1,66 @@
+id: AldenB01
+title: Alden Barr Vining - Philomela F. Reed
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Alden Barr Vining
+          values:
+            - "31"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Philomela F. (Reed) Vining
+          values:
+            - "26"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mark Reed Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Alden Reed Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Charlemont, Franklin County, Massachusetts - dwelling 25, family 35
+        images:
+          - src: AldenB01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Boston (ward 12), Suffolk County, Massachusetts - dwelling 1117, family 1462. In 1860, the widow Philomela F.
+          (Reed) Vining and her son (Alden Reed Vining), were living in the household of a Samuel W. Reed (possibly
+          Philomela's brother).
+        images:
+          - src: AldenB01census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Mark Reed Vining, son of Alden Barr Vining and Philomela F. (Reed) Vining, in Hilltop Cemetery,
+          Plainfield, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: AldenB01sonMarkgravestone.jpg

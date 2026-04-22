@@ -1,0 +1,62 @@
+id: AsaphD01
+title: Asaph Davis Vining - Mary Anne Studley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Asaph Davis Vining
+          values:
+            - "?"
+            - "37"
+            - "?"
+            - "57"
+            - dead
+            - ""
+        - label: Mary Anne (Studley) Vining
+          values:
+            - "?"
+            - "33"
+            - "?"
+            - "53"
+            - "63"
+            - "73"
+        - label: Warren Davis Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "15"
+            - "25"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 421, family 452
+        images:
+          - src: AsaphD01census1880.jpg
+      - year: "1900"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 241, family 254
+        images:
+          - src: AsaphD01census1900.jpg
+      - year: "1910"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 305, family 327
+        images:
+          - src: AsaphD01census1910.jpg
+      - year: "1920"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 110, family 121
+        images:
+          - src: AsaphD01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Asaph Davis Vining asnd Mary Anne (Studley) Vining, in Hanover Center Cemetery, Hanover,
+          Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: AsaphD01andwifeheadstone.jpg

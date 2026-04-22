@@ -1,0 +1,88 @@
+id: AdoniramE01
+title: Adoniram Elliot Vining - Martha Anne White
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Adoniram Elliot Vining
+          values:
+            - "30"
+            - "39"
+            - "?"
+            - "59"
+            - dead
+            - ""
+        - label: Martha Anne (White) Vining
+          values:
+            - "29"
+            - "39"
+            - "?"
+            - "59"
+            - |-
+              67
+              [see note below]
+            - "[dead?]"
+        - label: Carrie E. Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Mary E. Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "29"
+            - "?"
+            - "?"
+          indent: true
+        - label: Herbert F. Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "26"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 1612, family 1964
+        images:
+          - src: AdoniramE01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 5, family 6 - Also living in this household in 1880 were
+          William C. Demsha (23, b. VT) and Mary E. Demsha (22, b. VT).
+        images:
+          - src: AdoniramE01census1880.jpg
+      - year: "1900"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 425, family 460
+        images:
+          - src: AdoniramE01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 392, family 438. Martha Anne (White) Vining was living in
+          the household of her son, Herbert F. Vining, in 1910.
+        images:
+          - src: AdoniramE01census1910.jpg

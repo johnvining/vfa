@@ -1,0 +1,60 @@
+id: ArthurS03
+title: Arthur S. Vining - Irene Quinn
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Arthur S. Vining
+          values:
+            - "32"
+            - "40"
+            - "52"
+        - label: Irene (Quinn) Vining
+          values:
+            - "29"
+            - "38"
+            - "47"
+        - label: Ethel R. Vining
+          values:
+            - 2 y., 11 m.
+            - "13"
+            - "23"
+          indent: true
+        - label: Irene V. Vining
+          values:
+            - 1 y., 5 m.
+            - "11"
+            - "21"
+          indent: true
+        - label: Arthur S. Vining Jr.
+          values:
+            - 0 m.
+            - "9"
+            - "20"
+          indent: true
+        - label: Kenneth Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Bridgeport, Fairfield County, Connecticut - dwelling 206, family 422
+        images:
+          - src: Arthur02census1920.jpg
+      - year: "1930"
+        caption: Bridgeport (Ward 9), Fairfield County, Connecticut - dwelling 176, family [292?]
+        images:
+          - src: Arthur02census1930.jpg
+      - year: "1930"
+        caption: >-
+          Bridgeport (Ward 10), Fairfield County, Connecticut. Also living in this household in 1940 were lodgers Mary
+          Quinn (72 y., b. Conneticut) and Ethel Quinn (38 y., b. Connecticut).
+        images:
+          - src: Arthur02census1940a.jpg
+          - src: Arthur02census1940b.jpg

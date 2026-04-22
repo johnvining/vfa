@@ -1,0 +1,53 @@
+id: AldenA01
+title: Alden Adam Vining - Delta Pennison
+intro:
+  - caption: "Alden Adam Vining:"
+    images:
+      - src: AldenA01image.jpg
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alden Adam Vining
+          values:
+            - "33"
+            - "?"
+        - label: Delta (Pennison) Vining
+          values:
+            - "26"
+            - "?"
+        - label: Lilly Vining Vining
+          values:
+            - "7"
+            - "?"
+          indent: true
+        - label: La[…?] Vining Vining
+          values:
+            - "6"
+            - "?"
+          indent: true
+        - label: Archie Joseph Vining
+          values:
+            - "2"
+            - "?"
+          indent: true
+        - label: Ruth Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Ward 2, St. Martin Parish, Louisiana - dwelling 145, family 145
+        images:
+          - src: AldenA01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          gravestones for Alden Adam Vining and Delta (Pennison) Vining, in Morgan City Cemetery and Mausoleum, Morgan
+          City, Saint Mary Parish, Louisiana (from Find A Grave):
+        images:
+          - src: AldenA01andwifegravestones.jpg

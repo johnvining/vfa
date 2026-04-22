@@ -1,0 +1,133 @@
+id: Ammi02
+title: Ammi Vining - Betsey Strout
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth records for Harriet S. Vining and Mary Angelia Vining, daughtera of Ammi Vining and Betsey (Strout)
+          Vining (from Maine State Archives):
+        images:
+          - src: Ammi02dauHarrietbirthrecord.jpg
+          - src: Ammi02dauMarybirthrecord.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Ammi Vining
+          values:
+            - M 16–25
+            - "?"
+            - "?"
+            - |-
+              dead
+              (lost at sea)
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Betsey (Strout) Vining
+          values:
+            - F 16–25
+            - "?"
+            - "?"
+            - "?"
+            - "62"
+            - "71"
+            - "?"
+            - "?"
+            - dead
+        - label: Harriet S. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Harrison S. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah S. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Betsey S. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - |-
+              38
+              [see note below]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary Angelia Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - |-
+              28
+              [see note below]
+            - |-
+              37
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: >-
+          Lisbon, Lincoln County, Maine [Lisbon is now in Androscoggin County.] The age of each member of this family in
+          1820 matches the expected age category in the 1820 census report.
+      - year: "1870"
+        caption: >-
+          Brooklyn (Ward 10), Kings County, New York - dwelling 465, family 688. In 1870, Betsey (Strout) Vining was
+          living in the household of daughter Mary Angelia (Vining) Witham and son-in-law Joseph C. Witham.
+        images:
+          - src: Ammi02census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ammi Vining and Betsey (Strout) Vining, in Evergreen Cemetery, Portland, Cumberland County,
+          Mqine (from Find A Grave):
+        images:
+          - src: Ammi02andwifeheadstone.jpg

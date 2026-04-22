@@ -1,0 +1,143 @@
+id: AbnerB02
+title: Abner Banning Vining - (1) Ellen C. Bester;   (2) Mrs. Sarah R. Tarbell (nee Kidder)
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Abner Banning Vining
+          values:
+            - M 30–39
+            - "43"
+            - "52"
+            - "64"
+            - "72"
+            - dead
+            - ""
+            - ""
+        - label: Ellen C. (Bester) Vining
+          values:
+            - F 30–39
+            - "40"
+            - "49"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Sarah R. (Kidder) (Tarbell) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "46"
+            - "56"
+            - "?"
+            - "76"
+            - dead
+        - label: Susan Vining
+          values:
+            - F under 5
+            - "14"
+            - "24"
+            - "34"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John B. Vining
+          values:
+            - M under 5
+            - "12"
+            - "22"
+            - "30"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary A. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: M[a or e?]linda Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nancy J. Vining
+          values:
+            - ""
+            - 4 months
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1840"
+        caption: >-
+          Quincy, Adams County, Illinois. The age of each member of this family in 1840 matches the expeted age category
+          in the 1840 census report.
+      - year: "1850"
+        caption: >-
+          Payson, Adams County, Illinois - dwelling 194, family 202. Also living in this household in 1850 were laborers
+          [Wilford?] Jackson (23, b. Virginia) and James Hudson (26, b. Tennessee).
+        images:
+          - src: AbnerB02census1850.jpg
+      - year: "1860"
+        caption: >-
+          Payson, Adams County, Illinois - dwelling 1075, family 1082. Also living in this household in 1860 were
+          laborers Solomon Cosby (19, b. New York) and Peter Johnson (19, b. Sweden).
+        images:
+          - src: AbnerB02census1860.jpg
+      - year: "1870"
+        caption: Payson Township, Adams County, Illinois - dwelling 306, family 288
+        images:
+          - src: AbnerB02census1870.jpg
+      - year: "1880"
+        caption: Plainville in Payson Township, Adams County, Illinois - dwelling 142, family 149
+        images:
+          - src: AbnerB02census1880.jpg
+      - year: "1900"
+        caption: Payson Township, Adams County, Illinois - dwelling 51, family 52
+        images:
+          - src: AbnerB02census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Abner Banning Vining and second wife Mrs. Sarah R. Tarbell (née Kidder), in Stewart Cemetery,
+          Plainville, Adams County, Illinois (from Find A Grave):
+        images:
+          - src: AbnerB02gravestone.jpg
+          - src: AbnerB02wifeSarahgravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Nancy J. Vining, daughter of Abner Banning Vining and Ellen C. Bester, in Stewart Cemetery,
+          Plainville, Adams County, Illinois (from Find A Grave):
+        images:
+          - src: AbnerB02dauNancygravestone.jpg

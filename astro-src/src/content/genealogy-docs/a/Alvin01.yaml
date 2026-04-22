@@ -1,0 +1,52 @@
+id: Alvin01
+title: Alvin Vining - Sarah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+      rows:
+        - label: Alvin Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "[dead?]"
+        - label: Sarah ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - |-
+              72
+              [see note below]
+        - label: William Otis Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Longmeadow, Hampden County, Massachusetts - dwelling 607, family 643. In 1860, Sarah Vining was living in the
+          household of son William Otis Vining.
+        images:
+          - src: Alvin01census1860.jpg
+  - type: research
+    heading: Research Question
+    text: >-
+      Is this Alvin Vining the Alvin who was the son of Alexander Vining and was born 20 May 1783 in East Windsor,
+      Connecticut?

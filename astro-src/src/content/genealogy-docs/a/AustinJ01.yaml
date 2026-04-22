@@ -1,0 +1,56 @@
+id: AustinJ01
+title: Austin James Vining - Fanny Darby
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Austin James Vining
+          values:
+            - "?"
+            - "45"
+            - "55"
+        - label: Fanny (Darby) Vining
+          values:
+            - "?"
+            - "32"
+            - "42"
+        - label: "[LaVern Avery Vining?]"
+          values:
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Austin James Vining Jr.
+          values:
+            - ""
+            - "4"
+            - "14"
+          indent: true
+        - label: Richard Emerson Vining
+          values:
+            - ""
+            - 7 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Custer Township, Winn County, Illinois - dwelling 6, family 6. Also living in this household in 1930 was Amy
+          Darby (70 y., b. Illinois), the widowed mother of Fanny (Darby) Vining.
+        images:
+          - src: AustinJ01census1930.jpg
+      - year: "1940"
+        caption: Salina Township, Kankakee County, Illinois
+        images:
+          - src: AustinJ01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Austin James Vining, in Custer Township Cemetery, Custer Park, Will County, Illinois (from Find
+          A Grave):
+        images:
+          - src: AustinJ01gravestone.jpg

@@ -1,0 +1,67 @@
+id: AlbertE01
+title: Albert Edwin Vining - Nora Gertrude Stevens
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Albert Edwin Vining:"
+        images:
+          - src: AlbertE01birthrecord.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage record for Albert Edwin Vining and Nora Gertrude Stevens:"
+        images:
+          - src: AlbertE01marriagerecord1.jpg
+          - src: AlbertE01marriagerecord2.jpg
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Albert Edwin Vining
+          values:
+            - "38"
+            - "47"
+        - label: Nora Gertrude (Stevens) Vining
+          values:
+            - "24"
+            - "32"
+        - label: Milton Wayne Vining
+          values:
+            - 11 m.
+            - "10"
+          indent: true
+        - label: Ada Carolyn Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Mildred Carol Vining
+          values:
+            - ""
+            - 6 m.
+          indent: true
+        - label: David Stevens Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Poland, Androscoggin County, Maine - dwelling 173, family 190
+        images:
+          - src: AlbertE01census1930a.jpg
+          - src: AlbertE01census1930b.jpg
+      - year: "1940"
+        caption: Auburn, Androscoggin County, Maine
+        images:
+          - src: AlbertE01census1940a.jpg
+          - src: AlbertE01census1940b.jpg
+  - type: death
+    items:
+      - caption: "Obituary (newspaper not identified) for Nora Gertrude (Stevens) Vining:"
+        images:
+          - src: AlbertE01wifeobituary.jpg
+          - src: AlbertE01andwifecemeterylot.jpg
+          - src: AlbertE01gravestone.jpg
+          - src: AlbertE01wifegravestone.jpg
