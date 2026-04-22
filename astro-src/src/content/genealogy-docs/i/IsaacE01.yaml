@@ -1,0 +1,75 @@
+id: IsaacE01
+title: Isaac Elbridge "Ike" Vining - Lena J. Martin
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Isaac Elbridge “Ike” Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+        - label: Lena J. (Martin) Vining
+          values:
+            - "26"
+            - "36"
+            - "46"
+        - label: Edwin C. Vining
+          values:
+            - "6"
+            - "16"
+            - dead
+          indent: true
+        - label: Frank Pittman “Tex” Vining
+          values:
+            - 3 years, [4?] months
+            - "13"
+            - living in separate household
+          indent: true
+        - label: Josie E. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Billie L. Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+          indent: true
+        - label: Robert Vining
+          values:
+            - ""
+            - ""
+            - "[illegible]"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Palestine, Anderson County, Texas - dwelling 176, family 211
+        images:
+          - src: IsaacE01census1920.jpg
+      - year: "1930"
+        caption: Palestine (ward 2), Anderson County, Texas - dwelling 188, family 270
+        images:
+          - src: IsaacE01census1930.jpg
+      - year: "1940"
+        caption: Palestine, Anderson County, Texas
+        images:
+          - src: IsaacE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Isaac Elbridge Vining and Lena J. (Martin) Vining, in Palestine City Cemetery. Palestine,
+          Anderson County, Texas (from Find A Grave):
+        images:
+          - src: IsaacE01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Edwin C. Vining, son of Isaac Elbridge Vining and Lena J. (Martin) Vining, in Palestine City
+          Cemetery. Palestine, Anderson County, Texas (from Find A Grave):
+        images:
+          - src: IsaacE01sonEdwingravestone.jpg

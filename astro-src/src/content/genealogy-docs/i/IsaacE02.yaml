@@ -1,0 +1,78 @@
+id: IsaacE02
+title: Isaac Edwin Vining - Mary Elizabeth Osborn
+intro:
+  - caption: "Isaac Edwin Vining and Mary Elizabeth (Osborn) Vining:"
+    images:
+      - src: IsaacE02andwifephoto1.jpg
+      - src: IsaacE02andwifephoto2.jpg
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Isaac Edwin Vining
+          values:
+            - "30"
+            - "?"
+            - "50"
+            - "60"
+            - "69"
+            - dead
+        - label: Mary Elizabeth (Osborn) Vining
+          values:
+            - "28"
+            - "?"
+            - "48"
+            - "58"
+            - "67"
+            - dead
+        - label: Ella Vining
+          values:
+            - "6"
+            - "?"
+            - not living in this household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Clyde Vining
+          values:
+            - "1"
+            - "?"
+            - not living in this household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Henry Calvin Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Sharon, Mahaska County, Iowa - dwelling 285, family 291
+        images:
+          - src: IsaacE02census1880.jpg
+      - year: "1900"
+        caption: Tallapoosa, Haralson County, Georgia - dwelling 59, family 60
+        images:
+          - src: IsaacE02census1900.jpg
+      - year: "1910"
+        caption: Clinton (ward 5), Clinton County, Iowa - dwelling 234, family 241
+        images:
+          - src: IsaacE02census1910.jpg
+      - year: "1920"
+        caption: Clinton (ward 5), Clinton County, Iowa - dwelling 129, family 134
+        images:
+          - src: IsaacE02census1920.jpg

@@ -1,0 +1,61 @@
+id: IrvinE01
+title: Irvin E. Vining - Mary Zada Bragg
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Irvin E. Vining and Mary Zada Bragg:"
+        images:
+          - src: IrvinE01marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Irvin E. Vining
+          values:
+            - "?"
+            - "38"
+            - "49"
+            - |-
+              59
+              [see note below]
+        - label: Mary Zada (Bragg) Vining
+          values:
+            - "?"
+            - "44"
+            - "54"
+            - dead
+        - label: Ruby Ellen Vining
+          values:
+            - "?"
+            - "13"
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Indianapolis (ward 8), Marion County, Indiana - dwelling 21, family 20
+        images:
+          - src: IrvinE01census1920.jpg
+      - year: "1930"
+        caption: Indianapolis (ward 1), Marion County, Indiana - dwelling 29, family 21
+        images:
+          - src: IrvinE01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Liberty, Mercer County, Ohio. In 1940, the widowed Irvin E. Vining was living in the household of a Fred
+          Bollenbacher family.
+        images:
+          - src: IrvinE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Irvin E. Vining and Mary Zada (Bragg) Vining, in Crown View Cemetery, Sheridan, Hamilton
+          County, Indiana (from Find A Grave):
+        images:
+          - src: IrvinE01gravestone.jpg
+          - src: IrvinE01wifegravestone.jpg
+        inline: true

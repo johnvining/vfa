@@ -1,0 +1,123 @@
+id: IsraelL01
+title: Israel L. Vining - Nancy J. Matthews
+sections:
+  - type: notes
+    heading: Note
+    text: >-
+      Research is needed to determine why Israel L. Vining's name was reported as Ezra in the 1870 census. One
+      hypothesis is that the similarity in sound of the two names was misunderstood by the census taker.
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Israel L. Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+            - "?"
+            - dead
+        - label: Nancy J. (Matthews) Vining
+          values:
+            - "28"
+            - "38"
+            - "48"
+            - "?"
+            - dead
+        - label: Henry L. Vining
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Annie W. Vining
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Asa L. Vining
+          values:
+            - "7"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Joseph Henry Vining
+          values:
+            - "5"
+            - "17"
+            - "24"
+            - married and [living in separate household?]
+            - ""
+          indent: true
+        - label: William E. Vining
+          values:
+            - "3"
+            - "13"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary J. Vining
+          values:
+            - "2"
+            - "9"
+            - "21"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edward A. Vining
+          values:
+            - 6 months
+            - "11"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Francis M. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+        - label: Amanda T. Vining
+          values:
+            - ""
+            - 3 m.
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: South Scituate, Plymouth County, Massachusetts - dwelling 1357, family 1392
+        images:
+          - src: IsraelL01census1860.jpg
+      - year: "1870"
+        caption: South Scituate (South Marshfield post office), Plymouth County, Massachusetts - dwelling 347, family 365
+        images:
+          - src: IsraelL01census1870.jpg
+      - year: "1880"
+        caption: South Scituate, Plymouth County, Massachusetts - dwelling 372, family 396
+        images:
+          - src: IsraelL01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Israel L. Vining, Nancy J. (Matthews) Vining, and several children, in Union Cemetery, Hanover,
+          Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: IsraelL01andfamilyheadstone.jpg

@@ -1,0 +1,62 @@
+id: IrvingN01
+title: Irving N. Vining - (1) [...], (2) Minnie M. Pelton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Irving N. Vining
+          values:
+            - "37"
+            - "47"
+            - "57"
+            - dead
+            - ""
+        - label: Delia ([...]) Vining
+          values:
+            - "34"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Minnie M. (Pelton) Vining
+          values:
+            - ""
+            - "34"
+            - "45"
+            - "54"
+            - "?"
+        - label: Ethel Mae Vining
+          values:
+            - "2"
+            - "12"
+            - "22"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Stanton Precinct, Stanton County, Nebraska - dwelling 168, family 172
+        images:
+          - src: IrvingN01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Stanton (Ward 2), Stanton County, Nebraska - dwelling 242 (unnumbered), family 246 (unnumbered). Also living
+          in this household in 1910 were Hezekiah P. Pelton (78 y., b. New York) and Edward F. Pelton (48 y., b. New
+          York), Irving N. Vining's father-in-law and brother-in-law, respectively, and servant Minnie Heinold (22 y.,
+          b. Nebraska).
+        images:
+          - src: IrvingN01census1910.jpg
+      - year: "1920"
+        caption: Long Beach Township (precinct 23), Los Angeles County, California - dwelling 16, family 17
+        images:
+          - src: IrvingN01census1920.jpg
+      - year: "1930"
+        caption: Long Beach, Los Angeles County, California - dwelling 6, family 14
+        images:
+          - src: IrvingN01census1930.jpg
