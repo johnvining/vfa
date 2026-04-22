@@ -359,6 +359,9 @@ function parseEntry(block, letter) {
       } else if (inSpouseBlock && content.startsWith('bur.')) {
         headBurial = parseBurialLine(content);
         inSpouseBlock = false;
+      } else if (inSpouseBlock && currentMarriage && isNumberedMarriage && !content.startsWith('bur.') && !content.startsWith('b.') && !content.startsWith('d.') && !/^\(\d+\)/.test(content)) {
+        // Divorce note or similar after a numbered marriage spouse block at indent 9
+        if (currentMarriage) currentMarriage.note = content;
       } else if (inSpouseBlock && currentMarriage && expectedSpouseIndent === 9) {
         if (!currentMarriage.spouse) {
           // Unnumbered marriage: spouse name at indent 9
@@ -371,18 +374,45 @@ function parseEntry(block, letter) {
           currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
         }
       }
-    } else if (indent === 12 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
-      // Inline marriage spouse details (spouse was set on same line as m.)
-      if (/^\(dau\. of|^\(son of/i.test(content)) {
-        currentMarriage.spouse.parents = content.trim();
-      } else if (content.startsWith('b.')) {
-        currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
-      } else if (content.startsWith('d.')) {
-        currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
-      } else if (content.startsWith('bur.')) {
-        currentMarriage.spouse.burial = parseBurialLine(content);
-      } else if (content.startsWith('m.')) {
-        if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
+    } else if ((indent === 6) && inSpouseBlock) {
+      if (/^\(\d+\)\s/.test(content)) {
+        // C-family numbered marriage continuation at indent 6
+        const m = {};
+        const numMatch = content.match(/^\((\d+)\)\s+/);
+        m.number = parseInt(numMatch[1]);
+        const rest = content.slice(numMatch[0].length).trim();
+        if (/^\d|^ca\.|^\[/.test(rest)) {
+          const dp = parseDatePlace(rest);
+          if (dp) { m.date = dp.date; m.place = dp.place; }
+        } else if (rest) {
+          m.date = rest;
+          m.spouse = {};
+        }
+        isNumberedMarriage = true;
+        expectedSpouseIndent = 12;
+        startMarriage(m);
+      } else if (currentMarriage && isNumberedMarriage && !content.startsWith('bur.') && !content.startsWith('b.') && !content.startsWith('d.') && !/^\(\d+\)/.test(content)) {
+        // Divorce note at indent 6
+        if (currentMarriage) currentMarriage.note = content;
+      }
+    } else if (indent === 12 && inSpouseBlock && currentMarriage) {
+      if (!currentMarriage.spouse && isNumberedMarriage) {
+        // C-family: numbered marriage spouse name at indent 12
+        const parts = content.split(' ');
+        currentMarriage.spouse = { givenName: parts.slice(0, -1).join(' ') || content, surname: parts[parts.length - 1] };
+      } else if (currentMarriage.spouse) {
+        // Inline marriage spouse details (spouse was set on same line as m.)
+        if (/^\(dau\. of|^\(son of/i.test(content)) {
+          currentMarriage.spouse.parents = content.trim();
+        } else if (content.startsWith('b.')) {
+          currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('d.')) {
+          currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('bur.')) {
+          currentMarriage.spouse.burial = parseBurialLine(content);
+        } else if (content.startsWith('m.')) {
+          if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
+        }
       }
     } else if (indent === 15 && inSpouseBlock && currentMarriage) {
       if (!currentMarriage.spouse) {
@@ -403,12 +433,32 @@ function parseEntry(block, letter) {
         }
       }
     } else if (indent === 18 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
-      // Inline marriage spouse burial/continuation at indent 18
+      if (isNumberedMarriage) {
+        // C-family: numbered marriage spouse details at indent 18 (same logic as indent 21)
+        if (/^\(dau\. of|^\(son of/i.test(content)) {
+          currentMarriage.spouse.parents = content.trim();
+        } else if (content.startsWith('b.')) {
+          currentMarriage.spouse.birth = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('d.')) {
+          currentMarriage.spouse.death = parseDatePlace(content.slice(2).trim());
+        } else if (content.startsWith('bur.')) {
+          currentMarriage.spouse.burial = parseBurialLine(content);
+        } else if (content.startsWith('m.')) {
+          if (!currentMarriage.spouse.widowOf) currentMarriage.spouse.widowOf = content.slice(2).trim();
+        }
+      } else {
+        // Inline marriage spouse burial/continuation at indent 18
+        if (content.startsWith('bur.')) {
+          currentMarriage.spouse.burial = parseBurialLine(content);
+        } else {
+          if (!currentMarriage.spouse.burial) currentMarriage.spouse.burial = {};
+          currentMarriage.spouse.burial.description = content;
+        }
+      }
+    } else if (indent === 24 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
+      // C-family: numbered marriage spouse burial at indent 24
       if (content.startsWith('bur.')) {
         currentMarriage.spouse.burial = parseBurialLine(content);
-      } else {
-        if (!currentMarriage.spouse.burial) currentMarriage.spouse.burial = {};
-        currentMarriage.spouse.burial.description = content;
       }
     } else if (indent === 21 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
       if (isNumberedMarriage) {
@@ -435,6 +485,11 @@ function parseEntry(block, letter) {
     } else if (indent === 27 && inSpouseBlock && currentMarriage && currentMarriage.spouse) {
       if (content.startsWith('bur.')) {
         currentMarriage.spouse.burial = parseBurialLine(content);
+      }
+    } else if (inSpouseBlock && currentMarriage && isNumberedMarriage && indent > 3) {
+      // Catch-all: note text (e.g. "divorced") at non-standard indent within a numbered marriage
+      if (!content.startsWith('bur.') && !content.startsWith('b.') && !content.startsWith('d.') && !/^\(\d+\)/.test(content) && !/^\(dau\. of|^\(son of/i.test(content)) {
+        if (!currentMarriage.note) currentMarriage.note = content;
       }
     }
   }
