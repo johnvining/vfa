@@ -1,0 +1,69 @@
+id: GeorgeW03
+title: George Washington Vining - Mary Edna Lucas
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth record for Ruth Winnifred Vining, daughter of George Washington Vining and Mary Edna (Lucas) Vining
+          (from Maine State Archives):
+        images:
+          - src: GeorgeW03dauRuthbirthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: George Washington Vining
+          values:
+            - "32"
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Edna (Lucas) Vining
+          values:
+            - "20"
+            - "?"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ruth Winnifred Vining
+          values:
+            - 2 m.
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harold Luther Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          St. Albans, Somerset County, Maine - In 1880 this family was living in the household (dwelling 58, family 58)
+          of Henry A. Lucas and Mary [...], parents of Mary Edna (Lucas) Vining.
+        images:
+          - src: GeorgeW03census1880.jpg
+      - year: "1890"
+        caption: Census data unavailable.
+      - year: "1900"
+        caption: >-
+          Seattle (ward 1), King County, Washington - dwelling 157, family 335. Also living in this household was the
+          family of Seldon J. Vining.
+        images:
+          - src: GeorgeW03census1900.jpg

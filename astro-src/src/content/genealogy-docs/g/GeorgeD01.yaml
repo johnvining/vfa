@@ -1,0 +1,27 @@
+id: GeorgeD01
+title: George Dewey Vining - MInnie Garner
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: George Dewey Vining
+          values:
+            - "?"
+            - "38"
+        - label: Minnie (Garner) Vining
+          values:
+            - "?"
+            - dead
+        - label: James Edward Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Jefferson County, Alabama
+        images:
+          - src: GeorgeD01census1940.jpg

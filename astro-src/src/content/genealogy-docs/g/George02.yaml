@@ -1,0 +1,148 @@
+id: George02
+title: George Vining - Abigail Alden
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: George Vining
+          values:
+            - M 16 and upward
+            - M 45 and over
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Abigail (Alden) Vining
+          values:
+            - F
+            - F 26–45
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Polly Vining
+          values:
+            - F
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Freeman Vining
+          values:
+            - M under 16
+            - M 16–26
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Melvin Vining
+          values:
+            - M under 16
+            - M 16–26
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nabby Vining
+          values:
+            - F
+            - F 10–16
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Scott Vining
+          values:
+            - M under 16
+            - M 10–16
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: George Vining Jr.
+          values:
+            - M under 16
+            - M 10–16
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Marcus Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ruth Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+          indent: true
+        - label: Leah Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Cullen Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Rebekah Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Plainfield, Hampshire County, Massachusetts. The age of each member of this family in 1790 matches the
+          expected age category in the 1790 census report.
+        images:
+          - src: George02census1790.jpg
+      - year: "1800"
+        caption: Plainfield, Hampshire County, Massachusetts
+        images:
+          - src: George02census1800.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for George Vining and Abigail (Alden) Vining, in West Hill Cemetery, Plainfield, Hampshire County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: George02gravestone.jpg
+          - src: George02wifegravestone.jpg
+        inline: true

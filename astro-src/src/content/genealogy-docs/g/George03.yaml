@@ -1,0 +1,91 @@
+id: George03
+title: George Vining - Martha B. Emery
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: George Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Martha B. (Emery) Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+            - "59"
+            - "?"
+            - "?"
+            - dead
+        - label: Fanny Vining
+          values:
+            - "3"
+            - "13"
+            - "23"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Martha Vining
+          values:
+            - "3"
+            - "13"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George Luther Vining
+          values:
+            - ""
+            - "8"
+            - not living in this household
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Templeton, Worcester County, Massachusetts - dwelling 159, family 204
+        images:
+          - src: George03census1850.jpg
+      - year: "1860"
+        caption: >-
+          Templeton, Worcester County, Massachusetts - dwelling 130, family 165. Also living in this household in 1860
+          was Fanny R. Vining (mother of George Vining, 81 y., b. Massachusetts).
+        images:
+          - src: George03census1860.jpg
+      - year: "1870"
+        caption: Templeton, Worcester County, Massachusetts - dwelling 100, family 122
+        images:
+          - src: George03census1870.jpg
+      - year: "1880"
+        caption: Templeton, Worcester County, Massachusetts - dwelling 83, family 95
+        images:
+          - src: George03census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for George Vining and Martha B. (Emery) Vining, in Pine Grove Cemetery Templeton, Worcester
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: George03andwifegravestones.jpg
+          - src: George03gravestone.jpg
+          - src: George03wifegravestone.jpg
+        inline: true

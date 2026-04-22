@@ -1,0 +1,92 @@
+id: GeorgeO01
+title: George Otis Vining - Abbie Maria Knowlton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: George Otis Vining
+          values:
+            - "32"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Abbie Maria (Knowlton) Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Henry Dwight Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Orrin W. Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+          indent: true
+        - label: Louis E. Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles H. Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Springfield, Hampden County, Massachusetts - dwelling 4, family 6
+        images:
+          - src: GeorgeO01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for George Otis Vining and Abbie Maria (Knowlton) and son Lewis E. Vining, in Springfield Cemetery,
+          Springfield, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: GeorgeO01andwifeheadstone.jpg
+      - caption: >-
+          Gravestones for Henry Dwight Vining and Grace (Bradford) Vining, son and daughter-in-law of George Otis Vining
+          and Abbie Maria (Knowlton) Vining, in Springfield Cemetery, Springfield, Hampden County, Massachusetts (from
+          Find A Grave):
+        images:
+          - src: GeorgeO01sonHenrygravestone.jpg
+          - src: GeorgeO01dauinlawGracegravestone.jpg
+        inline: true

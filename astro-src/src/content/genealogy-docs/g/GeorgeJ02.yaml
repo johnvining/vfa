@@ -1,0 +1,54 @@
+id: GeorgeJ02
+title: George J. Vining - Belinda [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: George J. Vining
+          values:
+            - "?"
+            - "?"
+            - "58"
+            - "?"
+            - "?"
+            - "?"
+        - label: Belinda ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "54"
+            - "?"
+            - "?"
+            - "?"
+        - label: Georgeana Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edward A. Vining
+          values:
+            - "?"
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Brooklyn (ward 3), Kings County, New York - dwelling 128, family 164. Also living in this household in 1860
+          were Kate Mulvihill (servant, 28 y., b. Ireland) and Ann Mulvihill (servant, 18 y., b. Ireland).
+        images:
+          - src: GeorgeJ02census1860.jpg

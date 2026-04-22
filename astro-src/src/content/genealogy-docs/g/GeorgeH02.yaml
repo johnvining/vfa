@@ -1,0 +1,108 @@
+id: GeorgeH02
+title: George Henry Vining - (1) Elizabeth May Morgan;   (2) Antis Adwilda Babcock;   (3) Martha Strauss
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: George Henry Vining
+          values:
+            - "27"
+            - "40"
+            - "52"
+            - "?"
+            - "?"
+        - label: Elizabeth May (Morgan) Vining
+          values:
+            - "[?]"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Antis Adwilda (Babcock) Vining
+          values:
+            - ""
+            - "41"
+            - 5-?
+            - "?"
+            - "?"
+        - label: Martha (Strauss) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "?"
+        - label: Clarence Vining
+          values:
+            - "2"
+            - "[living in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Walter Vining
+          values:
+            - 7 m.
+            - "[living in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Alfred Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lucea Delpena Vining
+          values:
+            - ""
+            - "[living in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Richard Bruce Vining
+          values:
+            - ""
+            - 0 m.
+            - "9"
+            - "?"
+            - "?"
+          indent: true
+        - label: Victor Henry Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Salem, Pierce County, Wisconsin - dwelling 83, family 93
+        images:
+          - src: GeorgeH02census1900.jpg
+      - year: "1910"
+        caption: School District 5, Custer County, Montana - dwelling 83, family 82
+        images:
+          - src: GeorgeH02census1910.jpg
+      - year: "1920"
+        caption: School District 87, Richland County, Montana - dwelling 45, family 45
+        images:
+          - src: GeorgeH02census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Antis Adwilda (Babcock) Vining, in Monte Vista Cemetery, Monte Vista, Rio Grande County,
+          Colorado (from Find A Grave):
+        images:
+          - src: GeorgeH02wifeAntisgravestone.jpg

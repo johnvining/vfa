@@ -1,0 +1,87 @@
+id: George11
+title: George Vining - Elizabeth [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: George Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth ([...]) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Susan Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sylvia Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Richard Vining
+          values:
+            - ""
+            - "[4?] m."
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: White Springs post office ("outside of Jasper"), Hamilton County, Florida - dwelling 3, family 3
+        images:
+          - src: George11census1870.jpg

@@ -1,0 +1,111 @@
+id: GeorgeJr01
+title: George Vining Jr. - Susan Woods
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: George Vining Jr.
+          values:
+            - M 26–45
+            - M 40–50
+            - M 50–60
+            - "60"
+            - "70"
+            - "80"
+            - dead
+        - label: Susan (Woods) Vining
+          values:
+            - F 16–26
+            - F 30–40
+            - F 40–50
+            - "52"
+            - "62"
+            - dead
+            - ""
+        - label: Alden Barr Vining
+          values:
+            - M under 10
+            - M 10–15
+            - M 20–30
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Calcina Catharine Vining
+          values:
+            - F under 10
+            - F 10–15
+            - F 20–30
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George Whitfield Vining
+          values:
+            - ""
+            - "[see note below]"
+            - M 20–30 [see note below]
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jonathan Edwards Vining
+          values:
+            - ""
+            - "[see note below]"
+            - M 15–20
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: Plainfield, Hampshire County, Massachusetts
+        images:
+          - src: GeorgeJr01census1820.jpg
+      - year: "1830"
+        caption: Plainfield, Hampshire County, Massachusetts - Only 1 male 5–10 was reported for 1830.
+        images:
+          - src: GeorgeJr01census1830.jpg
+      - year: "1840"
+        caption: >-
+          Plainfield, Hampshire County, Massachusetts - It appears that George Whitfield Vining (b. 1822) was reported
+          to be 20–30 rather than 15–20. Alternatively, the male 20–30 could have been a hired hand, George Whitfield
+          could have been the male 15–20, and Jonathan Edwards could have been dead or living in another household.
+        images:
+          - src: GeorgeJr01census1840.jpg
+      - year: "1850"
+        caption: >-
+          Plainfield, Hampshire County, Massachusetts - dwelling 12, family 14. Also living in this household in 1850
+          was John Downing (laborer, 55 y., b. St. Domingo).
+        images:
+          - src: GeorgeJr01census1850.jpg
+      - year: "1860"
+        caption: Plainfield, Hampshire County, Massachusetts - dwelling 1930, family 1953
+        images:
+          - src: GeorgeJr01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Waterford Township, Camden County, New Jersey - dwelling 403, family 388. In 1870, George Vining Jr. was a
+          boarder in the household of son-in-law William Robinson.
+        images:
+          - src: GeorgeJr01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Jonathan Edwards Vining, son of George Vining Jr. and Susan (Woods) Vining, in West Hill
+          Cemetery, Plainfield, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: GeorgeJr01sonJonathangravestone.jpg

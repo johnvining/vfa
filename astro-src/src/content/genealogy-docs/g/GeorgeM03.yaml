@@ -1,0 +1,128 @@
+id: GeorgeM03
+title: George M. Vining - Mary Mays
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: George M. Vining
+          values:
+            - "32"
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary (Mays) Vining
+          values:
+            - "32"
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: William Vining
+          values:
+            - "10"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George M. Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Edwin or Edward ?] Vining"
+          values:
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frederick Vining
+          values:
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ida Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harry Vining
+          values:
+            - ""
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Hattie Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Croney Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Elmore, Ottawa County, Ohio - dwelling 165, family 165
+        images:
+          - src: GeorgeM03census1870.jpg
+      - year: "1880"
+        caption: Oak Harbor, Ottawa County, Ohio - dwelling 255, family 262
+        images:
+          - src: GeorgeM03census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Croney Vining, son of George M. Vining and Mary ([…]) Vining, in Veterans Memorial Grove
+          Cemetery, Yountville, Napa County, California (from Find A Grave):
+        images:
+          - src: GeorgeM03sonCroneygravestone.jpg

@@ -1,0 +1,138 @@
+id: GeorgeJ01
+title: George Joseph Vining - (1) Cornelia Aldridge, (2) Amelia R. Schwind
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: George Joseph Vining
+          values:
+            - "34"
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Cornelia (Aldridge) Vining
+          values:
+            - "25"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Amelia R. (Schwind) Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Thomas Vining
+          values:
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Ellen "Nellie" Vining
+          values:
+            - "4"
+            - "14"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Frances Cornelia "Fannie" Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: George Joseph Vining Jr.
+          values:
+            - 10 m.
+            - "10"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Arthur Lee Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Victor Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Fred Earnest Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Thomas Freelin "Nuse" Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: John Vera Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Mattoon Township, Coles County, Illinois - dwelling 685, family 668. Also living in this household in 1870 was
+          John Masongill (12 y., b. AR).
+        images:
+          - src: GeorgeJ01census1870.jpg
+      - year: "1880"
+        caption: Mattoon, Coles County, Illinois - dwelling 195, family 203
+        images:
+          - src: GeorgeJ01census1880.jpg
+      - year: "1890"
+        caption: Census data unavailable.
+  - type: death
+    items:
+      - caption: >-
+          Gravestone of George Joseph Vining, in Bellwood Cemetery, Pine Bluff, Jefferson County, Arkansas (from Find A
+          Grave):
+        images:
+          - src: GeorgeJ01gravestone.jpg

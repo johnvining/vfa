@@ -1,0 +1,132 @@
+id: GliddenB01
+title: Glidden Bodwell Vining - Rebecca Gleason
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Glidden Bodwell Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "60"
+            - dead
+        - label: Rebecca (Gleason) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Lois Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "20"
+            - "[married, and living in separate household?]"
+          indent: true
+        - label: Franklin Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "19"
+            - "?"
+          indent: true
+        - label: Tirzah Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "17"
+            - "?"
+          indent: true
+        - label: Fred Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "15"
+            - "?"
+          indent: true
+        - label: George Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "14"
+            - "?"
+          indent: true
+        - label: Whalen Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "14"
+            - "?"
+          indent: true
+        - label: Murray Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "12"
+            - "?"
+          indent: true
+        - label: Cordelia Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Edward Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "?"
+          indent: true
+        - label: Edgar "Dutch" Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "?"
+          indent: true
+        - label: Jael Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - "?"
+          indent: true
+        - label: Edna Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "5"
+            - dead
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Marlette, Sanilac County, Michigan - dwelling 22, family 22. Also living in this household in 1880 were Hiram
+          Kelley (boarder, 17 y., b. Michigan), William Ellis (boarder, 22 y., b. Canada), and Maggie Hamilton (servant,
+          17 y., b. Michigan).
+        images:
+          - src: GliddenB01census1880.jpg
+      - year: "1890"
+        caption: Census data unavailable.

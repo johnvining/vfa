@@ -1,0 +1,127 @@
+id: GT01
+title: G. T. Vining - Mary H. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: G. T. Vining
+          values:
+            - "30"
+            - "41"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Mary H. ([...]) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "?"
+            - "62"
+            - |-
+              72
+              [see note below]
+        - label: Kate Vining
+          values:
+            - "2"
+            - "11"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Amelia Vining
+          values:
+            - 8 months
+            - "10"
+            - "20"
+            - "?"
+            - not living in this household
+            - ""
+          indent: true
+        - label: Frank Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - not living in this household
+            - ""
+          indent: true
+        - label: Willie [female] Vining
+          values:
+            - ""
+            - "6"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ralph Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - not living in this household
+            - ""
+          indent: true
+        - label: "[Emily or Emma] Vining"
+          values:
+            - ""
+            - "2"
+            - "11"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Robert Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - not living in this household
+            - ""
+          indent: true
+        - label: Irving E. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "?"
+            - "24"
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Slate Creek Precinct, Josephine County, Oregon - dwelling 209, family 193
+        images:
+          - src: GT01census1860a.jpg
+          - src: GT01census1860b.jpg
+      - year: "1870"
+        caption: Puyallup Valley (Franklin post office), Pierce County, Washington - dwelling 281, family 226
+        images:
+          - src: GT01census1870.jpg
+      - year: "1880"
+        caption: Ashland, Jackson County, Oregon - dwelling 62, family 72
+        images:
+          - src: GT01census1880.jpg
+      - year: "1900"
+        caption: East Ashland Precinct, Jackson County, Oregon - dwelling 100, family 103
+        images:
+          - src: GT01census1900.jpg
+      - year: "1910"
+        caption: >-
+          South Ashland, Jackson County, Oregon - dwelling 331, family 337. Mary H. was living in the household of her
+          daughter (Emma) and son-in-law (R. A. Minkler) in 1910.
+        images:
+          - src: GT01census1910.jpg
