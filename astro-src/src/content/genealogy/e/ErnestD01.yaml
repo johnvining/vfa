@@ -27,9 +27,7 @@ marriages:
         date: 17 February 1960
       burial:
         place: "Riverside Memorial Park   Jacksonville, Florida"
-  - spouse:
-      givenName: "[2?] Mary Adams"
-      surname: "[&#8230;]"
+    note: "[2?] Mary Adams [&#8230;]"
 childrenGroups:
   - spouseRef: Thelma Pearl Davis
     children:

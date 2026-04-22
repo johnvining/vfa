@@ -16,7 +16,7 @@ interface Spouse {
 }
 
 interface Marriage {
-  number?: number;
+  number?: number | string;
   date?: string;
   place?: string;
   note?: string;
@@ -24,7 +24,7 @@ interface Marriage {
 }
 
 interface ChildMarriage {
-  number?: number;
+  number?: number | string;
   date?: string;
   place?: string;
   spouse?: string;

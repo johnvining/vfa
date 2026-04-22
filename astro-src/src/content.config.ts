@@ -34,7 +34,7 @@ const spouseSchema = z.object({
 });
 
 const childMarriage = z.object({
-  number: z.number().optional(),
+  number: z.union([z.number(), z.string()]).optional(),
   date: z.string().optional(),
   place: z.string().optional(),
   spouse: z.string().optional(),
@@ -57,7 +57,7 @@ const child = z.object({
 });
 
 const marriage = z.object({
-  number: z.number().optional(),
+  number: z.union([z.number(), z.string()]).optional(),
   date: z.string().optional(),
   place: z.string().optional(),
   note: z.string().optional(),        // "her second marriage" etc.
