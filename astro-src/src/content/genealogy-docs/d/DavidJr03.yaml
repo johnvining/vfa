@@ -1,0 +1,59 @@
+id: DavidJr03
+title: David Vining Jr. - Cynthia A. Cobb
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: David Vining Jr.
+          values:
+            - "26"
+            - "[36 or 38?]"
+            - "45"
+            - "56"
+            - "?"
+            - "?"
+        - label: Cynthia A. (Cobb) Vining
+          values:
+            - "20"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Howard C. Vining
+          values:
+            - 8 m.
+            - "10"
+            - living in separate household
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Middleborough, Plymouth County, Massachusetts - dwelling 515, family 610
+        images:
+          - src: DavidJr03census1850.jpg
+      - year: "1860"
+        caption: Middleborough, Plymouth County, Massachusetts - dwelling 326, family 410
+        images:
+          - src: DavidJr03census1860.jpg
+      - year: "1870"
+        caption: >-
+          Middleborough, Plymouth County, Massachusetts - dwelling 423, family 490. In 1870, David Vining Jr. was living
+          in the household of a John C. Perkins.
+        images:
+          - src: DavidJr03census1870.jpg
+      - year: "1880"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 400, family 428. In 1880, David Vining Jr. was living in
+          the household of sister Mary S. (Vining) Thomas.
+        images:
+          - src: DavidJr03census1880.jpg

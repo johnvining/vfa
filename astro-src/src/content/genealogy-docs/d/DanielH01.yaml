@@ -1,0 +1,111 @@
+id: DanielH01
+title: Daniel Hervey Vining - (1) Anna Binney; (2) Lydia J. Holbrook
+intro:
+  - caption: Thank you to Judi Vining for her contributions to this page.
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Daniel Hervey Vining
+          values:
+            - "?"
+            - "36"
+            - "47"
+            - "55"
+            - "66"
+            - dead
+            - ""
+        - label: Anna (Binney) Vining
+          values:
+            - "?"
+            - "40"
+            - "52"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Lydia J. (Holbrook) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "50"
+            - "61"
+            - "?"
+            - dead
+        - label: Anna Maria Vining
+          values:
+            - "?"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Harriet Newell Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Daniel Vining
+          values:
+            - "?"
+            - "11"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Harriet Vining
+          values:
+            - ""
+            - ""
+            - "11"
+            - "19"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 657, family 838
+        images:
+          - src: DanielH01census1850.jpg
+      - year: "1860"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 67, family 76
+        images:
+          - src: DanielH01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 755, family 886. In 1870, Daniel Hervey Vining, wife Lydia,
+          and daughter Harriet ("Hattie") were living in the household of a Charles and Anne Burgess. The age and first
+          name of Anne Burgess suggest that she may have been Daniel Hervey Vining's oldest daughter.
+        images:
+          - src: DanielH01census1870.jpg
+      - year: "1880"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 119, family 136
+        images:
+          - src: DanielH01census1880.jpg
+  - type: death
+    items:
+      - caption: "Death record for Daniel Hervey Vining:"
+        images:
+          - src: DanielH01deathrecord.jpg
+      - caption: "Death record for Lydia J. (Holbrook) Vining:"
+        images:
+          - src: DanielH01wifeLydiadeathrecord.jpg

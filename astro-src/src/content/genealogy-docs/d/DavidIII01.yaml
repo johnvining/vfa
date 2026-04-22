@@ -1,0 +1,57 @@
+id: DavidIII01
+title: David Vining III - Lucy [Eldredge or Eldridge?] White
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: David Vining III
+          values:
+            - "?"
+            - "43"
+            - dead?
+            - ""
+            - ""
+        - label: Lucy [Eldredge or Eldridge?] (White) Vining
+          values:
+            - "?"
+            - "43"
+            - |-
+              53
+              [see note below]
+            - |-
+              60
+              [see note below]
+            - dead
+        - label: Sarah Jackson Vining
+          values:
+            - "?"
+            - "13"
+            - |-
+              24
+              [see note below]
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 323, family 404
+        images:
+          - src: DavidIII01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 704, family 802. In 1860, Lucy Vining was living in the
+          household of married daughter Sarah J. (Vining) Poole.
+        images:
+          - src: DavidIII01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1266, family 1524. In 1870, Lucy Vining was living in the
+          household of married daughter Sarah J. (Vining) Poole.
+        images:
+          - src: DavidIII01census1870.jpg

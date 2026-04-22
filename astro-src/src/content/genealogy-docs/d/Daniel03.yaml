@@ -1,0 +1,192 @@
+id: Daniel03
+title: Daniel Vining - (1) Sarah Esterbrook, (2) Eliza Choate
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Daniel Vining
+          values:
+            - "?"
+            - "39"
+            - "50"
+            - "58"
+            - "68"
+            - dead
+        - label: Sarah (Esterbrook) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Eliza (Choate) Vining
+          values:
+            - ""
+            - ""
+            - "39"
+            - dead
+            - ""
+            - ""
+        - label: Sarah A. Vining
+          values:
+            - "?"
+            - "13"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Angeline Vining
+          values:
+            - "?"
+            - "11"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Adaline Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Marcellus Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Eleanor M. Vining
+          values:
+            - ""
+            - "7"
+            - "16"
+            - "20"
+            - dead
+            - ""
+          indent: true
+        - label: Reuben Vining
+          values:
+            - ""
+            - "3"
+            - "14"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Daniel Vining Jr.
+          values:
+            - ""
+            - "1"
+            - "10"
+            - "20"
+            - "32"
+            - "?"
+          indent: true
+        - label: Marcia/Marsha Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Mary/May E. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "15"
+            - dead
+            - ""
+          indent: true
+        - label: Alfreda Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "[10?]"
+            - "24"
+            - "?"
+          indent: true
+        - label: Julia A. Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "22"
+            - "?"
+          indent: true
+        - label: Minerva "Minnie" Vining
+          values:
+            - ""
+            - ""
+            - 5 months
+            - "10"
+            - "20"
+            - "?"
+          indent: true
+        - label: Alice L. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Windsor, Kennebec County, Maine - dwelling 163, family 180. In 1850, widower Daniel Vining and his family were
+          living in the household of his parents.
+        images:
+          - src: Daniel03census1850.jpg
+      - year: "1860"
+        caption: Windsor, Kennebec County, Maine - dwelling 109, family 109
+        images:
+          - src: Daniel03census1860a.jpg
+          - src: Daniel03census1860b.jpg
+      - year: "1870"
+        caption: Windsor, Kennebec County, Maine - dwelling 209, family 256
+        images:
+          - src: Daniel03census1870a.jpg
+          - src: Daniel03census1870b.jpg
+      - year: "1880"
+        caption: >-
+          Windsor, Kennebec County, Maine - Also living in this household in 1880 was a Willie D. Brown (15 y., b.
+          Maine).
+        images:
+          - src: Daniel03census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Cemetery lot of Daniel Vining's family. The large headstone in back belongs to Daniel Vining and his wives
+          Sarah and Eliza, and the smaller stones in front, from left to right, belong to daughters Mary E. Vining and
+          El[ea]nor [sic] M. Vining, and to sons Marcellus Vining and, on the back of Marcellus's stone, Reuben Vining.
+          Following the image of the cemetery lot are images of the individual gravestones. These stones are in the
+          Windsor Neck Cemetery in Windsor, Maine.
+        images:
+          - src: Daniel03cemeterylot.jpg
+          - src: Daniel03andwivesgravestone.jpg
+          - src: Daniel03dauMaryEgravestone.jpg
+          - src: Daniel03dauElnorMgravestone.jpg
+          - src: Daniel03sonMarcellusgravest.jpg
+          - src: Daniel03sonReubengravestone.jpg

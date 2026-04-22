@@ -1,0 +1,42 @@
+id: DavidM03
+title: David Miller Vining - Ada Emma Wilkinson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: David Miller Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ada Emma (Wilkinson) Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+        - label: Harry Winslow Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Guy W. Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Beverly (ward 5), Essex County, Massachusetts - dwelling 92, family 149
+        images:
+          - src: DavidM03census1910.jpg

@@ -1,0 +1,110 @@
+id: David04
+title: David Vining - Gratia/Gracia K. Taylor
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: David Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "51"
+            - "61"
+            - dead
+        - label: Gratia/Gracia K. (Taylor) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "52"
+            - "62"
+            - dead
+        - label: David Taylor Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Gratia Kelley Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Spencer Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Ann Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "22"
+            - dead
+            - ""
+          indent: true
+        - label: Edwin Lothrop Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Ashfield, Franklin County, Massachusetts - dwelling 438, family 456. Also living in this household in 1850 was
+          sawyer Josiah Cross (27 y., b. Massachusetts).
+        images:
+          - src: David04census1850a.jpg
+          - src: David04census1850b.jpg
+      - year: "1860"
+        caption: >-
+          Hawley, Franklin County, Massachusetts - dwelling 64, family 66. Also living in this household in 1860 were
+          David's older brother Martin Vining (63 y., b. Massachusetts, "Idiotic") and (listed as "family 67") David's
+          younger sister Sarah Vining (50 y., b. Massachusetts).
+        images:
+          - src: David04census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for David Vining, in East Hawley Cemetery, Hawley, Franklin County, Massachusetts (from Find A
+          Grave):
+        images:
+          - src: David04gravestone.jpg
+      - caption: >-
+          Gravestone for Edwin Lothrop Vining, son of David Vining and Gratia/Gracia K. (Taylor) Vining, in East Hawley
+          Cemetery, Hawley, Franklin County, Massachusetts (from Find A Grave):
+        images:
+          - src: David04sonEdwingravestone.jpg

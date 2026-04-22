@@ -1,0 +1,123 @@
+id: DennisS01
+title: Dennis Shefford Vining - Grace O. Welborn
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Dennis Shefford Vining
+          values:
+            - 35 [sic]
+            - "35"
+            - "43"
+            - "54"
+        - label: Grace O. (Welborn) Vining
+          values:
+            - 30 [sic]
+            - "30"
+            - "39"
+            - "50"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ethel Louise Vining
+          values:
+            - "5"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Nellie M. Vining
+          values:
+            - "2"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Hattie I. Vining
+          values:
+            - ""
+            - "9"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: James Dennis Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - "28"
+          indent: true
+        - label: Clifford Manget Vining
+          values:
+            - ""
+            - 3 y., 4 m.
+            - "12"
+            - "24"
+          indent: true
+        - label: "[Eva A. or Vasser L. ?] Vining"
+          values:
+            - ""
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Emma L. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: William W. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "13"
+          indent: true
+        - label: Jesse Fred Vining
+          values:
+            - ""
+            - ""
+            - 1 y., 2 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Atlanta (ward 1), Fulton County, Georgia - dwelling 87, family 105
+        images:
+          - src: DennisS01census1910.jpg
+      - year: "1920"
+        caption: Atlanta (ward 5), Fulton County, Georgia - dwelling 113, family 125
+        images:
+          - src: DennisS01census1920.jpg
+      - year: "1930"
+        caption: Etoway, McMinn County, Tennessee - dwelling 339, family 359
+        images:
+          - src: DennisS01census1930.jpg
+      - year: "1940"
+        caption: Douglasville, Douglas County, Georgia
+        images:
+          - src: DennisS01census1940a.jpg
+          - src: DennisS01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Dennis Shefford Vining and Grace O. (Welborn) Vining, in Hollywood Cemetery, Atlanta, Fulton
+          County, Georgia (from Find A Grave):
+        images:
+          - src: DennisS01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Ethel Louise Vining, daughter of Dennis Shefford Vining and Grace O. (Welborn) Vining, in
+          Hollywood Cemetery, Atlanta, Fulton County, Georgia (from Find A Grave):
+        images:
+          - src: DennisS01dauEthelgravestone.jpg

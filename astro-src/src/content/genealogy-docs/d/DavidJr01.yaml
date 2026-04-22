@@ -1,0 +1,59 @@
+id: DavidJr01
+title: David Vining Jr. - Lydia Hunt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: David Vining Jr.
+          values:
+            - dead
+            - ""
+            - ""
+        - label: Lydia (Hunt) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+        - label: Perez Vining
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+          indent: true
+        - label: Lydia Torrey Vining
+          values:
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Roxa Vining
+          values:
+            - "?"
+            - "?"
+            - |-
+              66
+              [see note below]
+          indent: true
+        - label: David Vining III
+          values:
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Laura Vining
+          values:
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1266, family 1524. In 1870, Roxa Vining was living in the
+          household of brother David Vining III's daughter Sarah J. (Vining) Poole.
+        images:
+          - src: DavidJr01census1870.jpg

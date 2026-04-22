@@ -1,0 +1,55 @@
+id: DonaldE01
+title: Donald Erhart Vining - Mildred Agnes Banks
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Donald Erhart Vining
+          values:
+            - "28"
+            - "38"
+        - label: Mildred Agnes (Banks) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Donald William Vining
+          values:
+            - "1"
+            - "11"
+          indent: true
+        - label: Joann Charlotte Vining
+          values:
+            - "0"
+            - "10"
+          indent: true
+        - label: Thomas Bernard Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Paul Allen Vining
+          values:
+            - ""
+            - "1"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Lorain, Lorain County, Ohio - dwelling 90, family 102
+        images:
+          - src: DonaldE01census1930.jpg
+      - year: "1940"
+        caption: Mill Township (Dennison Village), Tuscarawas County, Ohio
+        images:
+          - src: DonaldE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Donald Erhart Vining and Mildred Agnes (Banks) Vining, in Strongsville Cemetery, Strongsville,
+          Cuyahoga County, Ohio (from Find A Grave):
+        images:
+          - src: DonaldE01gravestone.jpg
+          - src: DonaldE01wifegravestone.jpg
+        inline: true

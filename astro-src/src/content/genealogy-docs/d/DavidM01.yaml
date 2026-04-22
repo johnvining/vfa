@@ -1,0 +1,129 @@
+id: DavidM01
+title: David Minton Vining - Mary Jane Tuggle
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: David Minton Vining
+          values:
+            - "40"
+            - "?"
+            - "62"
+            - "?"
+            - dead
+            - ""
+        - label: Mary Jane (Tuggle) Vining
+          values:
+            - "30"
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+            - dead
+        - label: Albert Edwin Vining
+          values:
+            - "2"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John C. Vining
+          values:
+            - 9 months
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: David B. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "?"
+            - dead
+            - ""
+          indent: true
+        - label: Lillian Blanche Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Betty Vining
+          values:
+            - ""
+            - "?"
+            - living in separate household
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Cecil Benjamin Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joseph Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Augustus Gilmer Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Atlanta (ward 4), Fulton County, Georgia - dwelling 4, family 6
+        images:
+          - src: DavidM01census1880.jpg
+      - year: "1900"
+        caption: Atlanta (ward 4), Fulton County, Georgia - dwelling 349, family 568
+        images:
+          - src: DavidM01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for David Minton Vining and Mary Jane (Tuggle) Vining, in Oakland Cemetery, Atlanta, Fulton
+          County, Georgia (source: Find A Grave):
+        images:
+          - src: DavidM01gravestone.jpg
+          - src: DavidM01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestones for Albert Edwin Vining, John C. Vining, David B. Vining, and Cecil Benjamin Vining, sons of David
+          Minton Vining and Mary Jane (Tuggle) Vining, in Oakland Cemetery, Atlanta, Fulton County, Georgia (source:
+          Find A Grave):
+        images:
+          - src: DavidM01sonAlbertgravestone.jpg
+          - src: DavidM01sonJohngravestone.jpg
+          - src: DavidM01sonDavidgravestone.jpg
+          - src: DavidM01sonCecilgravestone.jpg
+        inline: true

@@ -1,0 +1,185 @@
+id: David01
+title: David Vining - (1) Lydia Torrey, (2) Mary Vining
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: David Vining
+          values:
+            - M 16 and upward
+            - M 45 and over
+            - M 45 and over
+            - M 45 and older
+            - "?"
+            - dead
+        - label: Lydia (Torrey) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Mary (Vining) Vining
+          values:
+            - F
+            - F 45 and over
+            - F 45 and over
+            - F 45 and older
+            - dead
+            - ""
+        - label: (Bashti or Vashti) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Olive Vining
+          values:
+            - "[see note below]"
+            - F 26–45
+            - "[see note below]"
+            - |-
+              F 45 and older
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Richard Vining
+          values:
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Asa Vining
+          values:
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: David Vining Jr.
+          values:
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sally Vining
+          values:
+            - "[dead?]"
+            - "[see note below]"
+            - "[see note below]"
+            - "[dead?]"
+            - ""
+            - ""
+          indent: true
+        - label: Bela Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Bela Vining
+          values:
+            - M under 16
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John Vining
+          values:
+            - M under 16
+            - M 16–26
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Noah Vining
+          values:
+            - M under 16
+            - M 16–26
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lydia Vining
+          values:
+            - "[see note below]"
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Warren Vining
+          values:
+            - M under 16
+            - "[see note below]"
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Polly Vining
+          values:
+            - "[see note below]"
+            - F 10–16
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Weymouth, Suffolk County [Weymouth is now in Norfolk County], Massachusetts - Only 3 males over 16 were
+          reported for this household in the 1790 census. Only 4 females were reported for this household in the 1790
+          census.
+        images:
+          - src: David01census1790.jpg
+      - year: "1800"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - Warren (15 y.) was not reported for this household in 1800. Only one
+          female 16–26 was reported. If Sally were dead, this would be Lydia (17 y.).
+        images:
+          - src: David01census1800.jpg
+      - year: "1810"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - Only one male 45 and over and one female 45 and over were reported
+          for this household in 1810.
+        images:
+          - src: David01census1810.jpg
+      - year: "1820"
+        caption: Weymouth, Norfolk County, Massachusetts - Did Olive return home to care for her aging parents?
+        images:
+          - src: David01census1820.jpg
+  - type: death
+    items:
+      - caption: "Death record for Olive Vining, daughter of David Vining and Lydia (Torrey) Vining:"
+        images:
+          - src: David01dauOlivedeathrecord.jpg

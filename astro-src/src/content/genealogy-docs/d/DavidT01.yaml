@@ -1,0 +1,68 @@
+id: DavidT01
+title: David Taylor Vining - Harriett Emily Sears
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: David Taylor Vining
+          values:
+            - "?"
+            - "38"
+            - "49"
+            - "58"
+            - dead
+        - label: Emily Harriett (Sears) Vining
+          values:
+            - "?"
+            - "41"
+            - "54"
+            - dead
+            - ""
+        - label: Harriet E. Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary [Emma or A.] Vining
+          values:
+            - "?"
+            - "1"
+            - "11"
+            - "21"
+            - "[married and living in separate household?]"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Conway, Franklin County, Massachusetts - dwelling 264, family 276. Also living in this household in 1860 was
+          Sally Sears (mother of Emily Harriet (Sears) Vining?, 66 y., b. Massachusetts).
+        images:
+          - src: DavidT01census1860.jpg
+      - year: "1870"
+        caption: Conway, Franklin County, Massachusetts - dwelling 15, family 15
+        images:
+          - src: DavidT01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Conway, Franklin County, Massachusetts - Also living in this household in 1880 were Laura Dickinson (38 y., b.
+          Massachusetts) and Anna Dickinson (12 y., b. Massachusetts).
+        images:
+          - src: DavidT01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for David Taylor Vining and Harriett Emily (Sears) Vining, in Howland Cemetery, Conway, Franklin
+          County, Massachusetts (Thank you to William Maxam for providing these images.):
+        images:
+          - src: DavidT01andwifeheadstone.jpg
+          - src: DavidT01andwifeheadstoneclose.jpg
+        inline: true

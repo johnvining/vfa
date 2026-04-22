@@ -1,0 +1,28 @@
+id: DwightP01
+title: Dwight Price Vining - Allie B. Phillips
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Dwight Price Vining
+          values:
+            - "38"
+        - label: Allie B. (Phillips) Vining
+          values:
+            - "35"
+        - label: Elizabeth Addieline Vining
+          values:
+            - "8"
+          indent: true
+        - label: Charles Phillips Vining
+          values:
+            - "4"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Swannanoa Township, Buncombe County, North Carolina
+        images:
+          - src: DwightP01census1940a.jpg
+          - src: DwightP01census1940b.jpg

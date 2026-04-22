@@ -1,0 +1,61 @@
+id: DorseyT01
+title: Dorsey T. Vining - Bertha J. Pritchard
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage certificate for Dorsey T. Vining and Bertha J. Pritchard:"
+        images:
+          - src: DorseyT01marriagecertificate.jpg
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Dorsey T. Vining
+          values:
+            - "26"
+            - "38"
+            - "?"
+        - label: Bertha J. (Pritchard)
+          values:
+            - "19"
+            - "28"
+            - "?"
+        - label: Dorsey Mae Vining
+          values:
+            - 10 m.
+            - "11"
+            - "?"
+          indent: true
+        - label: Thomas F. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+          indent: true
+        - label: Pearlie J. Vining
+          values:
+            - ""
+            - 1 y., 6 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Sanders District, Jones County, Georgia - dwelling 154, family [unnumbered]. Also living in this household in
+          1920 were Dorsey T. Vining's mother, two sisters, and brother.
+        images:
+          - src: DorseyT01census1920.jpg
+      - year: "1930"
+        caption: Thomaston, Upson County, Georgia - dwelling 109, family 123
+        images:
+          - src: DorseyT01census1930.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card:"
+        images:
+          - src: DorseyT01WWIregistrationcarda.jpg
+          - src: DorseyT01WWIregistrationcardb.jpg
+        inline: true

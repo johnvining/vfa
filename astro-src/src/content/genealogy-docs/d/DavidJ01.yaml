@@ -1,0 +1,118 @@
+id: DavidJ01
+title: David Jacob Vining - Laura Hines
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: David Jacob Vining
+          values:
+            - "29"
+            - "35"
+            - "49"
+            - dead
+            - ""
+        - label: Laura (Hines) Vining
+          values:
+            - "22"
+            - "29"
+            - 31 [sic]
+            - "54"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mezelle Vining
+          values:
+            - 11 m.
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Columbus Vining
+          values:
+            - ""
+            - "8"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: William Lacy Vining
+          values:
+            - ""
+            - |-
+              6
+              [see note below]
+            - "16"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Hezekiah “Kie” Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Eddie Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "14"
+            - "?"
+          indent: true
+        - label: Fred Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "14"
+            - "?"
+          indent: true
+        - label: R. Bee Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Precinct 3, Columbia County, Florida - dwelling 306, family 306
+        images:
+          - src: DavidJ01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Suwanee Shoals, Columbia County, Florida - dwelling 188, family 188. Leatha Vining, who was reported to be a
+          daughter in this census, was William Lacy Vining in the 1920 census.
+        images:
+          - src: DavidJ01census1910.jpg
+      - year: "1920"
+        caption: Suwanee Shoals, Columbia County, Florida - dwelling 194, family 195
+        images:
+          - src: DavidJ01census1920.jpg
+      - year: "1930"
+        caption: Suwanee Shoals, Columbia County, Florida - dwelling [number not given], family 123
+        images:
+          - src: DavidJ01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for R. Bee Vining and wife Isabel J. ([…]) Vining, son and daughter-in-law of David Jacob Vining and
+          Laura (Hines) Vining, in Woodlawn Cemetery, Macclenny, Baker County, Florida (from Find A Grave):
+        images:
+          - src: DavidJ01sonBeeandwifeheadstone.jpg

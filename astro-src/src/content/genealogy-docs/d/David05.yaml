@@ -1,0 +1,104 @@
+id: David05
+title: David Vining - Betsey Smith
+sections:
+  - type: marriage
+    items:
+      - caption: >-
+          Marriage intentions of David Vining and Betsey Smith, from Lisbon, Maine, town records. The dashed diagonal
+          lines in the marriage intentions record are placed there by the town of Lisbon to show that it is not a
+          certified record.
+        images:
+          - src: David05andwifemarriageint.jpg
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: David Vining
+          values:
+            - "?"
+            - "49"
+            - "59"
+            - dead
+            - ""
+            - ""
+        - label: Betsey (Smith) Vining
+          values:
+            - "?"
+            - "43"
+            - "53"
+            - "63"
+            - "73"
+            - dead
+        - label: James Vining
+          values:
+            - "?"
+            - "16"
+            - "26"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mahala S. Vining
+          values:
+            - "?"
+            - "14"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Maria C. Vining
+          values:
+            - "?"
+            - "14"
+            - 24, married and living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: David Appleton Vining
+          values:
+            - ""
+            - "7"
+            - 26 [sic]
+            - "26"
+            - "37"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Lewiston, Lincoln County, Maine - dwelling 461, family 519. Lewiston is now in Androscoggin County.
+        images:
+          - src: David05census1850.jpg
+      - year: "1860"
+        caption: >-
+          Lewiston, Androscoggin County, Maine - dwelling 213, family 227. Also living in this household in 1860 was
+          Emma M. Perley (2 y., b. Maine), likely the daughter of Maria C. (Vining) Perley.
+        images:
+          - src: David05census1860a.jpg
+          - src: David05census1860b.jpg
+      - year: "1870"
+        caption: >-
+          Lewiston (Ward 7), Androscoggin County, Maine - dwelling 20, family 22. Also living in this household in 1860
+          was Sally S. Vining (62 y., b. Maine), likely the unmarried sister of David Vining.
+        images:
+          - src: David05census1870.jpg
+      - year: "1880"
+        caption: Lewiston, Androscoggin County, Maine - In 1880 David Appleton Vining was listed as head of household.
+        images:
+          - src: David05census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones of David Vining and Betsey (Smith) Vining, in the Lisbon Cemetery, Lisbon, Androscoggin County,
+          Maine:
+        images:
+          - src: David05gravestone.jpg
+          - src: David05wifegravestone.jpg
+          - src: David05sonDavidgravestone.jpg

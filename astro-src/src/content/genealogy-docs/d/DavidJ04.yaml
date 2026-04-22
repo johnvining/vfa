@@ -1,0 +1,48 @@
+id: DavidJ04
+title: David Jarod Vining - Bessie Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: David Jarod Vining
+          values:
+            - "27"
+            - "37"
+        - label: Bessie (Smith) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Isabel Marie Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Samuel David Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Precinct 7, Hunt County, Texas - dwelling 73, family 74
+        images:
+          - src: DavidJ04census1930.jpg
+      - year: "1940"
+        caption: Precinct 7, Hunt County, Texas
+        images:
+          - src: DavidJ04census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for David Jarod Vining and Bessie (Smith) Vining, in Royse City Cemetery, Royse City, Rockwall
+          County, Texas (from Find A Grave):
+        images:
+          - src: DavidJ04andwifeheadstone.jpg
+      - caption: >-
+          Headstone for Isabel Marie Vining and Samuel David Vining, children of David Jarod Vining and Bessie (Smith)
+          Vining, in Royse City Cemetery, Royse City, Rockwall County, Texas (from Find A Grave):
+        images:
+          - src: DavidJ04childrenheadstone.jpg
