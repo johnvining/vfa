@@ -69,6 +69,8 @@ function cleanBlock(html) {
 }
 
 function extractImages(html) {
+  // Normalize malformed <img> tags missing closing > (e.g. <img src="file.jpg"<br>)
+  html = html.replace(/(<img\s[^<>]*?)(?=\s*<(?!img\s)|\s*$)/gi, '$1>');
   const images = [];
   const re = /<img\s([^>]+)>/gi;
   let m;
@@ -191,14 +193,28 @@ function parseCensusEntries(html) {
     // Check if this chunk starts with a year entry
     const yearM = stripped.match(/^<font\s+size=\+1><b>(\d{4}[a-z]?)<\/b><\/font>([\s\S]*)$/i);
     if (!yearM) {
-      // Orphan image chunk (e.g. second image for the same year, separated by triple-br)
-      // Attach to previous entry if the chunk contains only images
+      // Orphan image chunk — attach to previous entry if images-only
       const orphanImages = extractImages(stripped);
       const textOnly = stripped.replace(/<img[^>]*>/gi, '').replace(/<br\s*\/?>/gi, '').trim();
       if (orphanImages.length > 0 && !textOnly && entries.length > 0) {
         const prev = entries[entries.length - 1];
         if (!prev.images) prev.images = [];
         prev.images.push(...orphanImages);
+      } else if (stripped && (orphanImages.length > 0 || textOnly)) {
+        // Non-year content with text or images — store as trailing item on a special key
+        if (!entries._trailing) entries._trailing = [];
+        const imgIdx = stripped.search(/<img/i);
+        const item = {};
+        if (imgIdx >= 0) {
+          const cap = cleanInline(stripped.slice(0, imgIdx));
+          if (cap) item.caption = cap.replace(/:\s*$/, '').trim();
+          item.images = orphanImages;
+          if (isInlineImages(stripped) && orphanImages.length > 1) item.inline = true;
+        } else {
+          const cap = cleanInline(stripped);
+          if (cap) item.caption = cap;
+        }
+        if (Object.keys(item).length > 0) entries._trailing.push(item);
       }
       continue;
     }
@@ -366,11 +382,13 @@ function parseDocFile(html, personId) {
         const afterTable = sec.content.slice(sec.content.indexOf(tableM[0]) + tableM[0].length);
         const entries = parseCensusEntries(afterTable);
         if (entries.length > 0) result.entries = entries;
+        if (entries._trailing && entries._trailing.length > 0) result.items = entries._trailing;
       } else {
         // No table, just year entries
         const entries = parseCensusEntries(sec.content);
-        if (entries.length > 0) {
-          result.entries = entries;
+        if (entries.length > 0 || entries._trailing) {
+          if (entries.length > 0) result.entries = entries;
+          if (entries._trailing && entries._trailing.length > 0) result.items = entries._trailing;
         } else {
           // No year entries either — mislabeled heading; treat as items (e.g. gravestone under "Census Data")
           const items = parseItemsContent(sec.content);
