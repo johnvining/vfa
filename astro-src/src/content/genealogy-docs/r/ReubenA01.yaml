@@ -1,0 +1,67 @@
+id: ReubenA01
+title: Reuben Alexander Ratcliff Vining - Elizabeth [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Reuben Alexander Ratcliff Vining
+          values:
+            - "24"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary ([...]) Vining
+          values:
+            - "26"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Virginia Vining
+          values:
+            - "8"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Minnie C. Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frederick Eastman Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Rutledge Village, Morgan County, Georgia - dwelling 21, family 21
+        images:
+          - src: ReubenA01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Fayetteville (District No. 8), Lincoln County, Tennessee - dwelling 269, family 278. Also living in this
+          household in 1880 was Jennie Vining, a niece of Reuben Alexander Ratcliff Vining.
+        images:
+          - src: ReubenA01census1880.jpg

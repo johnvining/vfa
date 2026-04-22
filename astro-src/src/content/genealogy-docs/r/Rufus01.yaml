@@ -1,0 +1,114 @@
+id: Rufus01
+title: Rufus Vining - Almira Doughty
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Rufus Vining
+          values:
+            - "?"
+            - "?"
+            - "50"
+            - "58"
+            - "69"
+            - dead
+        - label: Almira (Doughty) Vining
+          values:
+            - "?"
+            - "?"
+            - "46"
+            - "56"
+            - "66"
+            - dead
+        - label: Hannah Vining
+          values:
+            - "?"
+            - "?"
+            - "23"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Lafayette Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Philena Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Stephen Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Stephen W. Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Americus Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "23"
+            - "33"
+            - "?"
+          indent: true
+        - label: Agustus Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "23"
+            - "33"
+            - "?"
+          indent: true
+        - label: Mary Jane Vining
+          values:
+            - ""
+            - ""
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Porter Township, Delaware County, Ohio - dwelling 3045, family 3059
+        images:
+          - src: Rufus01census1850.jpg
+      - year: "1860"
+        caption: Porter Township, Delaware County, Ohio - dwelling 1337, family 1343
+        images:
+          - src: Rufus01census1860.jpg
+      - year: "1870"
+        caption: Porter Township, Delaware County, Ohio - dwelling 11, family 11
+        images:
+          - src: Rufus01census1870.jpg

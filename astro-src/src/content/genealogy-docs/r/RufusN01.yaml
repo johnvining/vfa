@@ -1,0 +1,33 @@
+id: RufusN01
+title: Rufus Vining - Theo [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Rufus Vining
+          values:
+            - "24"
+        - label: Theo ([…]) Vining
+          values:
+            - "20"
+        - label: Ronald Rufus Vining
+          values:
+            - 10 m.
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Porterdale Township, Newton County, Georgias
+        images:
+          - src: Rufus03census1940.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Theo ([…]) Vining, in Liberty Cemetery, Porterdale, Newton County, Georgia (from Find A Grave):"
+        images:
+          - src: Rufus03wifegravestone.jpg
+      - caption: >-
+          Gravestone for Ronald Rufus Vining, in Liberty Cemetery, Porterdale, Newton County, Georgia (from Find A
+          Grave):
+        images:
+          - src: Rufus03sonRonaldgravestone.jpg

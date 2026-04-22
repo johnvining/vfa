@@ -1,0 +1,79 @@
+id: Robert07
+title: Robert Vining - Marietta [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Robert Vining
+          values:
+            - "?"
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Marietta ([...]) Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Flora Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Minnie Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Genett Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Annette Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Robert G. Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Brooklyn (ward 5), Kings County, New York - dwelling 692, family 2048
+        images:
+          - src: Robert07census1870.jpg

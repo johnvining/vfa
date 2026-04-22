@@ -1,0 +1,145 @@
+id: Robert02
+title: Robert Vining - (1) Polly Waters, (2) Elizabeth [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Robert Vining
+          values:
+            - "?"
+            - "?"
+            - "38"
+            - "54"
+            - "?"
+            - "?"
+        - label: Polly (Waters) Vining
+          values:
+            - "?"
+            - "?"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Elizabeth ([...]) Vining
+          values:
+            - ""
+            - ""
+            - "28"
+            - "46"
+            - "?"
+            - "?"
+        - label: Richard Vining
+          values:
+            - "?"
+            - "?"
+            - "22"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Rachel Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Lewis Vining
+          values:
+            - ""
+            - "?"
+            - "[18?]"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Albert Bela Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: David B. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "20"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Stephen T. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+        - label: Winfield Scott Vining
+          values:
+            - ""
+            - ""
+            - "1"
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+        - label: Leonard Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - "?"
+            - dead
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Jewett, Greene County, New York - dwelling 197, family 203. Also living in this household in 1850 was Rebecca
+          Pack (65 y., b. New York)
+        images:
+          - src: Robert02census1850.jpg
+      - year: "1860"
+        caption: Jewett, Greene County, New York - dwelling 803, family 831
+        images:
+          - src: Robert02census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for David B. Vining and wife Lucy Gordon, son and daughter-in-law of Robert Vining and Polly Waters,
+          in Maplecrest Cemetery, Windham, Greene County, New York (from Find A Grave):
+        images:
+          - src: Robert02sonDavidBheadstone.jpg

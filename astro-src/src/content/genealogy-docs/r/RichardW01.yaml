@@ -1,0 +1,96 @@
+id: RichardW01
+title: Richard W. Vining - Eleanor Dupont
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Richard W. Vining
+          values:
+            - "?"
+            - "50"
+            - "61"
+            - dead
+        - label: Eleanor (Dupont) Vining
+          values:
+            - "?"
+            - "40"
+            - dead
+            - ""
+        - label: Hilda Vining
+          values:
+            - "?"
+            - "16"
+            - "26"
+            - "?"
+          indent: true
+        - label: Helen L. Vining
+          values:
+            - "?"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Harriet M. Vining
+          values:
+            - "?"
+            - "12"
+            - "23"
+            - "?"
+          indent: true
+        - label: Richard Willie Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+            - married and living in separate household
+          indent: true
+        - label: Irene Edna Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+          indent: true
+        - label: Carl Anderson Vining
+          values:
+            - ""
+            - 4 y., 2 m.
+            - "14"
+            - "?"
+          indent: true
+        - label: Nellie C. Vining
+          values:
+            - ""
+            - 9 m.
+            - "11"
+            - "?"
+          indent: true
+        - label: Katie M. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Police Jury Ward 8 (precinct 2), Tangipahoa Parish, Louisiana - dwelling 67, family 67
+        images:
+          - src: RichardW01census1920.jpg
+      - year: "1930"
+        caption: Police Jury Ward 8, Tangipahoa Parish, Louisiana - dwelling 46, family 46
+        images:
+          - src: RichardW01census1930a.jpg
+          - src: RichardW01census1930b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Richard W. Vining and Eleanor (Dupont) Vining, in Collins Cemetery, Ponchatoula, Tangipahoa
+          Parish, Louisiana (from Find A Grave):
+        images:
+          - src: RichardW01andwifeheadstone.jpg

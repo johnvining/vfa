@@ -1,0 +1,36 @@
+id: ReginaldA01
+title: Reginald Arthur “Rex” Vining - Julia Patrick
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Reginald Arthur “Rex” Vining
+          values:
+            - "29"
+            - "39"
+        - label: Julia (Patrick) Vining
+          values:
+            - "26"
+            - "36"
+        - label: Jean Vining
+          values:
+            - 1 y, 4 m.
+            - "11"
+          indent: true
+        - label: Kenneth Arthur Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Atlanta (ward 12), Fulton County, Georgia - dwelling 160, family 174
+        images:
+          - src: ReginaldA01census1930.jpg
+      - year: "1940"
+        caption: Atlanta (ward 2), Fulton County, Georgia
+        images:
+          - src: ReginaldA01census1940.jpg

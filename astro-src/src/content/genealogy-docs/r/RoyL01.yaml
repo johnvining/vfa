@@ -1,0 +1,83 @@
+id: RoyL01
+title: Roy Lee Vining - Ruby Lee Whitten
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roy Lee Vining
+          values:
+            - "35"
+            - "44"
+        - label: Ruby Lee (Whitten) Vining
+          values:
+            - "25"
+            - "35"
+        - label: Emma Lola Vining
+          values:
+            - "7"
+            - "17"
+          indent: true
+        - label: Roy Lee Vining Jr.
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Ruby Roberta Vining Vining
+          values:
+            - "2"
+            - "12"
+          indent: true
+        - label: Sarah Virginia Vining
+          values:
+            - "1"
+            - "11"
+          indent: true
+        - label: William Elijah Vining
+          values:
+            - ""
+            - "7"
+          indent: true
+        - label: Hugh Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Ruth Vining
+          values:
+            - ""
+            - "2"
+          indent: true
+        - label: Jennie Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Polly Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Bert Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Tompkins, Putnam County, Georgia - dwelling 21, family 22
+        images:
+          - src: RoyL01census1930.jpg
+      - year: "1940"
+        caption: Tompkins, Putnam County, Georgia
+        images:
+          - src: RoyL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Roy Lee Vining, in Crestlawn Memorial Gardens, Linchburg/Eatonton, Putnam County, Georgia (from
+          Find A Grsve):
+        images:
+          - src: RoyL01gravestone.jpg

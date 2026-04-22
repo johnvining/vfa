@@ -1,0 +1,71 @@
+id: RoyalA01
+title: Royal Albert Vining - Mary Wetmore
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Royal Albert Vining
+          values:
+            - "29"
+            - "38"
+            - "?"
+            - "59"
+            - "69"
+            - "?"
+        - label: Mary (Wetmore) Vining
+          values:
+            - "21"
+            - "31"
+            - "?"
+            - "51"
+            - "61"
+            - "?"
+        - label: James Manley "Jason" Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Ida Mabel Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - married and living in this household
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Cato Township (Greenville post office), Montcalm County, Michigan - dwelling 53, family 56. Also living in
+          this household in 1870 was [Samuel] Gustavus Vining (27 y., b. Michigan, a brother of [Royal] Albert).
+        images:
+          - src: RoyalA01census1870.jpg
+      - year: "1880"
+        caption: Hinton, Mecosta County, Michigan - dwelling 252, family 255
+        images:
+          - src: RoyalA01census1880.jpg
+      - year: "1900"
+        caption: Cato Township, Montcalm County, Michigan - dwelling 210, family 210
+        images:
+          - src: RoyalA01census1900.jpg
+      - year: "1910"
+        caption: Cato Township (Lakeview Village), Montcalm County, Michigan - dwelling 130, family 130
+        images:
+          - src: RoyalA01census1910.jpg
+  - type: notes
+    heading: Note
+    text: >-
+      Both the 1900 and 1910 censuses reported that Mary (Wetmore) Vining was the mother of two children, both of whom
+      were living as of those censuses.

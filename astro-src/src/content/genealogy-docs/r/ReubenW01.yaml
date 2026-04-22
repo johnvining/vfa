@@ -1,0 +1,109 @@
+id: ReubenW01
+title: Reuben William Vining - Mary Elizabeth Bowes
+intro:
+  - caption: Reuben William Vining, a watch maker, immigrated into the United States in 1853 and became a naturalized citizen.
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Reuben William Vining
+          values:
+            - "35"
+            - "49"
+            - "58"
+            - "?"
+            - "77"
+            - dead
+        - label: Mary Elizabeth (Bowes) Vining
+          values:
+            - "31"
+            - "46"
+            - "50"
+            - "?"
+            - dead
+            - ""
+        - label: Olivia Annie Vining
+          values:
+            - "9"
+            - "20"
+            - married and living in separate houshold
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary “Mollie” Vining
+          values:
+            - "5"
+            - "15"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elizabeth Louise “Lizzie” Vining
+          values:
+            - "5"
+            - "15"
+            - "20"
+            - "?"
+            - |-
+              44
+              [see note below]
+            - ""
+          indent: true
+        - label: William Lincoln Vining
+          values:
+            - ""
+            - "9"
+            - "[married?] and living in separate household"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nelly Vining
+          values:
+            - ""
+            - "3"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          New Orleans (ward 1), Orleans Parish, Louisiana - dwelling 1899, family 2274. Also living in this household in
+          1860 was Catherine Blaney (16 y., b. Ireland).
+        images:
+          - src: ReubenW01census1860.jpg
+      - year: "1870"
+        caption: New Orleans (ward 10), Orleans Parish, Louisiana - dwelling 632, family 627
+        images:
+          - src: ReubenW01census1870.jpg
+      - year: "1880"
+        caption: Georgetown, Williamson County, Texas - dwelling [?], family 11
+        images:
+          - src: ReubenW01census1880.jpg
+      - year: "1900"
+        caption: >-
+          San Jacinto Street, Austin (ward 8), Travis County, Texas - dwelling 3, family 3. In 1900, Reuben William
+          Vining’s widowed daughter Elizabeth Louise (Vining) Walker and her daughter Hannah Walker were living in the
+          same household.
+        images:
+          - src: ReubenW01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument side and close-up of monument side for Mary Elizabeth (Bowes) Vining, in Odd Fellows Cemetery,
+          Georgetown, Williamson County, Texas (from Find A Grave):
+        images:
+          - src: ReubenW01wifemonumentside.jpg
+          - src: ReubenW01wifemonumentsideclose.jpg
+        inline: true

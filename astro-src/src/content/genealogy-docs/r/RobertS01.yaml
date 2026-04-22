@@ -1,0 +1,110 @@
+id: RobertS01
+title: Robert Shorter Vining - Leona Leonard
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Robert Shorter Vining
+          values:
+            - "36"
+            - "45"
+            - "57"
+            - "?"
+        - label: Leona (Leonard) Vining
+          values:
+            - "26"
+            - "38"
+            - "49"
+            - "?"
+        - label: Reginald Arthur “Rex” Vining
+          values:
+            - "9"
+            - "19"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Louis D. Vining
+          values:
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Bertha O. Vining
+          values:
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Clinton Mark Vining
+          values:
+            - "3"
+            - "13"
+            - "22"
+            - "?"
+          indent: true
+        - label: Robert Luke Vining
+          values:
+            - "[9?] m."
+            - "10"
+            - "20"
+            - "?"
+          indent: true
+        - label: Mary A. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+          indent: true
+        - label: Annie D. Vining
+          values:
+            - ""
+            - "5"
+            - "16"
+            - "?"
+          indent: true
+        - label: Stella Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "?"
+          indent: true
+        - label: Lucy E. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Dalton (ward 6), Whitfield County, Georgia - dwelling 161, family 179
+        images:
+          - src: RobertS01census1910.jpg
+      - year: "1920"
+        caption: Dalton (ward 6), Whitfield County, Georgia - dwelling 30, family 34
+        images:
+          - src: RobertS01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Dalton (ward 3), Whitfield County, Georgia - dwelling 225, family 247. Also living in this household in 1930
+          was James C. Vining (78 y., b. Georgia), the widowed father of Robert Shorter Vining.
+        images:
+          - src: RobertS01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Robert Shorter Vining and Leona (Leonard) Vining, in West Hill Cemetery, Dalton, Whitfield
+          County, Georgia (from Find A Grave):
+        images:
+          - src: RobertS01gravestone.jpg
+          - src: RobertS01wifegravestone.jpg
+        inline: true

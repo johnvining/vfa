@@ -1,0 +1,121 @@
+id: Reuben01
+title: Reuben Vining - Mercy Lunt
+sections:
+  - type: family
+    items:
+      - caption: >-
+          The town of Durham, Androscoggin County, Maine, has photocopied its vital record books, and those photocopies
+          are available for public viewing. Unfortunately, much of the photocopied material is very difficult to
+          impossible to read. Below is the page (greatly enlarged) recording the family of Reuben Vining and Mercy Lunt.
+          The information on this page was entered by what appears to be three individuals. The earliest (and lightest)
+          entries were made on 27 February 1865 by James Strout Jr., the town clerk, and recorded events that occurred
+          from a decade to more than 60 years earlier.
+        images:
+          - src: Reuben01Durhamrecordsp418.jpg
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Reuben Vining
+          values:
+            - "?"
+            - "51"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Mercy (Lunt) Vining
+          values:
+            - "?"
+            - "39"
+            - "49"
+            - "59"
+            - "69"
+            - "?"
+        - label: Martha R. Vining
+          values:
+            - "?"
+            - "11"
+            - "22"
+            - "32"
+            - "42"
+            - "?"
+          indent: true
+        - label: John A. Vining
+          values:
+            - ""
+            - "9"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Josiah L. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "27"
+            - living in separate household
+            - ""
+          indent: true
+        - label: George H. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "23"
+            - "33"
+            - "?"
+          indent: true
+        - label: Edwin R. Vining
+          values:
+            - ""
+            - 4 m.
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Durham, Cumberland County [Durham is now in Androscoggin County], Maine - dwelling 9, family 11
+        images:
+          - src: Reuben01census1850.jpg
+      - year: "1860"
+        caption: Durham, Androscoggin County, Maine - dwelling 301, family 315
+        images:
+          - src: Reuben01census1860.jpg
+      - year: "1870"
+        caption: Durham, Maine (Androscoggin County) - dwelling 278, family 288 [but misnumbered as 287]
+        images:
+          - src: Reuben01census1870a.jpg
+          - src: Reuben01census1870b.jpg
+      - year: "1880"
+        caption: >-
+          Durham, Androscoggin County, Maine - dweling 280, family 304. In 1880 George H. Vining was listed as head of
+          the household.
+        images:
+          - src: Reuben01census1880.jpg
+  - type: death
+    items:
+      - caption: "Headstone for Reuben Vining and Mercy (Lunt) Vining, in Vining Cemetery, Durham, Androscoggin County, Maine:"
+        images:
+          - src: Reuben01gravestone.jpg
+      - caption: >-
+          Gravestone for Martha R. Vining, daughter of Reuben Vining and Mercy (Lunt) Vining, in Vining Cemetery,
+          Durham, Androscoggin County, Maine:
+        images:
+          - src: Reuben01daughtergravestone.jpg
+      - caption: "Death record for George H. Vining:"
+        images:
+          - src: Reuben01sonGeorgeHdeathrec.jpg
+      - caption: "Headstone for Josiah L. Vining and George H. Vining, in Vining Cemetery, Durham, Androscoggin County, Maine:"
+        images:
+          - src: Reuben01sonsgravestone.jpg

@@ -1,0 +1,49 @@
+id: RobertJ02
+title: Robert Jefferson Vining - (1) Margaurite [...], (2) Mrs. Lillian B. Daugherty Butler Cheffer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Robert Jefferson Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+        - label: Margaurite ([…]) Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+        - label: Mrs. Lillian B. (Daugherty) Butler Cheffer Vining
+          values:
+            - ""
+            - ""
+            - "?"
+        - label: Miriam Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+          indent: true
+        - label: Virginia Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Kankakee, Kankakee County, Illinois - dwelling 178, family 178
+        images:
+          - src: RobertJ02census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Robert Jefferson Vining and Mrs. Lillian B. Daugherty Butler Cheffer, in Mound Grove Cemetery,
+          Kankakee, Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: RobertJ02andwifeLillianheadstone.jpg

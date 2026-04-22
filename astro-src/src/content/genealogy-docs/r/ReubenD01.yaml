@@ -1,0 +1,65 @@
+id: ReubenD01
+title: Reuben D. Vining - Clarinda "Clara" May
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Reuben D. Vining
+          values:
+            - "25"
+            - "35"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Clarinda "Clara" (May) Vining
+          values:
+            - "18"
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elam Allen Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: George C. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Berlin Township, Delaware County, Ohio - dwelling 936, family 944. Living in the same dwelling but in a
+          separate household were Elizabeth (Vining) May (a sister of Reuben D. Vining) and her children.
+        images:
+          - src: ReubenD01census1860.jpg
+      - year: "1870"
+        caption: Berlin Township, Delaware County, Ohio - dwelling 229, family 221
+        images:
+          - src: ReubenD01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for George C. Vining and Drusilla A. ([…]) Vining, son and daughter-in-law of Reuben D. Vining and
+          Clarinda "Clara" (May) Vining, in Oak Grove Cemetery, Delaware, Delaware County, Ohio (from Find A Grave):
+        images:
+          - src: ReubenD01sonGeorgeandwifeheadstone.jpg

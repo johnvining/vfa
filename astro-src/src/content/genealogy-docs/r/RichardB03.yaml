@@ -1,0 +1,48 @@
+id: RichardB03
+title: Richard Buchanan Vining - Mary Ellen Kelly
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Richard Buchanan Vining
+          values:
+            - "41"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Mary Ellen (Kelly) Vining
+          values:
+            - "33"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lloyd Kelly Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Thomas Creek Precinct 1, Lake County, Oregon - dwelling 18, family 18. In 1900 Richard Buchanan Vining was a
+          boarder who was reported to be “S”ingle.
+        images:
+          - src: RichardB03selfcensus1900.jpg
+      - year: "1900"
+        caption: >-
+          Eden Precinct, Weber County, Utah - dwelling 204, family 204. In 1900 Mary Ellen (Kelly) Vining was a boarder
+          who was reported to have been “M”arried for 13 years, and to have given birth to one child, who was living
+          with her.
+        images:
+          - src: RichardB03wifecensus1900.jpg

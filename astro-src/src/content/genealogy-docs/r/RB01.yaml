@@ -1,0 +1,61 @@
+id: RB01
+title: R. B. Vining - Nancy [Averatt or Avera?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: R. B. Vining
+          values:
+            - "?"
+            - "27"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+        - label: "[L?]enia Vining"
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frances E. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[?]iety Vining"
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Division 20, Crawford County, Georgia - dwelling [illegible], family [illegible]. In 1850, R. B. Vining was
+          living in a household of Waltons.
+        images:
+          - src: RB01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Knoxville District, Crawford County, Georgia - dwelling 420, family 410. Also living in this household in 1860
+          was George B. Vining (20 y., b. Georgia, silversmith).
+        images:
+          - src: RB01census1860.jpg

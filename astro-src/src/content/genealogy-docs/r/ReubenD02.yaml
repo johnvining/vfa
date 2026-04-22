@@ -1,0 +1,60 @@
+id: ReubenD02
+title: Reuben DeWitt Vining and Betty Genevieve Langford
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Reuben DeWitt Vining
+          values:
+            - "23"
+            - "32"
+            - "[43?]"
+            - "52"
+        - label: Betty Genevieve (Langford) Vining
+          values:
+            - ""
+            - "30"
+            - "42"
+            - "48"
+        - label: Robert DeWitt Vining
+          values:
+            - ""
+            - ""
+            - "10"
+            - "20"
+          indent: true
+        - label: Adrian Vining
+          values:
+            - ""
+            - ""
+            - 2 y., [?] m.
+            - "13"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Pensacola (precinct 13), Escambia County, Florida - dwelling 624, family 624
+      - year: "1920"
+        caption: Washington (district 271), District of Columbia - dwelling [...], family 247
+        images:
+          - src: ReubenD02census1920.jpg
+      - year: "1930"
+        caption: Washington (precinct 3), District of Columbia - dwelling [...], family 613
+        images:
+          - src: ReubenD02census1930.jpg
+      - year: "1940"
+        caption: Washington, District of Columbia - household 271
+        images:
+          - src: ReubenD02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Reuben DeWitt Vining and Betty Genevieve Langford, in Oak Hill Burial Park, Lakeland, Florida
+          (from Find A Grave):
+        images:
+          - src: ReubenD02gravestone.jpg
+          - src: ReubenD02wifegravestone.jpg
