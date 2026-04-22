@@ -171,6 +171,8 @@ function parseCensusTable(tableHtml) {
 // ─── Census year entries ──────────────────────────────────────────────────────
 
 function parseCensusEntries(html) {
+  // Strip HTML comments (they sometimes contain <br><br><br> which breaks splitting)
+  html = html.replace(/<!--[\s\S]*?-->/g, '');
   // Remove leading/trailing <br> clutter
   html = html.replace(/^(\s*<br\s*\/?>\s*)+/i, '').trim();
 
