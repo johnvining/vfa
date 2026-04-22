@@ -72,10 +72,14 @@ sections:
     entries:
       - year: "1870"
         caption: Dover Township, Union County, Ohio - dwelling 32, family 33
+        images:
+          - src: JonasN01census1870.jpg
       - year: "1880"
         caption: >-
           Peoria, Franklin County, Kansas - Also living in this household in 1880 was Benjamin F. Beck (44 y., b. Ohio),
           a cousin of Jonas N. Vining.
+        images:
+          - src: JonasN01census1880.jpg
       - year: "1900"
         caption: >-
           Scioto Township, Delaware County, Ohio - dwelling 270, family 272. Also living in this household in 1900 were
@@ -88,4 +92,8 @@ sections:
   - type: death
     items:
       - caption: "Gravestone for Jonas N. Vining, in Oakdale Cemetery, Marysville, Union County, Ohio (from Find A Grave):"
+        images:
+          - src: JonasN01gravestone.jpg
       - caption: "Gravestone for Malinda (Bowen) Vining, in Buxton Cemetery, Franklin County, Virginia (from Find A Grave):"
+        images:
+          - src: JonasN01wifeMalindagravestone.jpg

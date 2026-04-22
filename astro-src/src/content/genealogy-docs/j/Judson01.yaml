@@ -59,12 +59,20 @@ sections:
         caption: >-
           Hanover, Plymouth County, Massachusetts - dwelling 84, family 103. Also living in this household in 1850 was
           Sybil [H.?] B[...?] (24 y., b. Massachusetts).
+        images:
+          - src: Judson01census1850.jpg
       - year: "1860"
         caption: Hanover, Plymouth County, Massachusetts - dwelling 1602, family 283
+        images:
+          - src: Judson01census1860.jpg
       - year: "1870"
         caption: Hanover, Plymouth County, Massachusetts - dwelling 362, family 375
+        images:
+          - src: Judson01census1870.jpg
   - type: death
     items:
       - caption: >-
           Headstone for Judson Vining, Sarah W. (Briggs) Vining, and two of their children, in Hanover Center Cemetery,
           Hanover, Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: Judson01andfamilyheadstone.jpg

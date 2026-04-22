@@ -54,9 +54,17 @@ sections:
     entries:
       - year: "1880"
         caption: Auburn (4th ward), Cayuga County, New York - dwelling 91, family 109
+        images:
+          - src: JohnQ01census1880.jpg
       - year: "1900"
         caption: South Braintree, Norfolk County, Massachusetts - dwelling 239, family 271
+        images:
+          - src: JohnQ01census1900.jpg
       - year: "1910"
         caption: Braintree, Norfolk County, Massachusetts - dwelling 76, family 87
+        images:
+          - src: JohnQ01census1910.jpg
       - year: "1920"
         caption: Holbrook, Norfolk County, Massachusetts - dwelling 409, family 455
+        images:
+          - src: JohnQ01census1920.jpg
