@@ -1,0 +1,59 @@
+id: WilburC01
+title: Wilbur C. Vining - Carrie C. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Wilbur C. Vining
+          values:
+            - "26"
+            - "35"
+            - "45"
+            - "56"
+            - |-
+              65
+              [see note below]
+        - label: Carrie C. ([...]) Vining
+          values:
+            - "31"
+            - "41"
+            - "49"
+            - "61"
+            - dead
+        - label: John Carver Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - "29"
+            - |-
+              39
+              [see note below]
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Gloucester (ward 5), Essex County, Massachusetts - dwelling 225, family 275
+        images:
+          - src: WilburC01census1900.jpg
+      - year: "1910"
+        caption: Lynn (ward 5), Essex County, Massachusetts - dwelling [99?], family 159
+        images:
+          - src: WilburC01census1910.jpg
+      - year: "1920"
+        caption: Lynn (ward 5), Essex County, Massachusetts - dwelling [119?], family [?]
+        images:
+          - src: WilburC01census1920.jpg
+      - year: "1930"
+        caption: Lynn, Essex County, Massachusetts - dwelling 241, family 548
+        images:
+          - src: WilburC01census1930.jpg
+      - year: "1940"
+        caption: >-
+          In 1940, John Carver was married and living in his own household with his wife and son. He father was living
+          with them.

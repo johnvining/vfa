@@ -1,0 +1,37 @@
+id: WilburN01
+title: Wilbur Newman Vining - Myrtle B. Gentry
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Wilbur Newman Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+        - label: Myrtle B. (Gentry) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+        - label: Ruby Earlene Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Floyd Vining
+          values:
+            - 2 y., 3 m.
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Beat 5, Shelby County, Alabama - dwelling 15, family 15
+        images:
+          - src: WilburN01census1920.jpg

@@ -1,0 +1,66 @@
+id: WilliamO01
+title: William Oscar Vining - Ann B. Arzeno
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: William Oscar Vining
+          values:
+            - "34"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Ann B. (Arzeno) Vining
+          values:
+            - "29"
+            - "39"
+            - "?"
+            - "?"
+            - dead
+        - label: "[Louise or Estelle ?] Vining"
+          values:
+            - 6 [Louise]
+            - 16 [Estelle]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Mary or Effie ?] Vining"
+          values:
+            - 4 [Mary]
+            - 14 [Effie]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edward Minnick Vining
+          values:
+            - "1"
+            - "10"
+            - "?"
+            - "?"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Nankin, Wayne County, Michigan - dwelling 52, family 51. Also living in this household in 1870 was Mary Dean
+          (22 y., b. Delaware, domestic servant, "M"ulatto).
+        images:
+          - src: WilliamO01census1870.jpg
+      - year: "1880"
+        caption: Wayne, Wayne County, Michigan - dwelling 543, family 595
+        images:
+          - src: WilliamO01census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Ann (Arzeno) Vining, in Glenwood Cemetery, Wayne, Wayne County, Michigan (from Find A Grave):"
+        images:
+          - src: WilliamO01wifegravestone.jpg

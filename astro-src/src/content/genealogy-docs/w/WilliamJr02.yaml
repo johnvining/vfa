@@ -1,0 +1,56 @@
+id: WilliamJr02
+title: William Vining Jr. - Lucy T. (Mann) Dunham
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: William Vining Jr.
+          values:
+            - "37"
+            - "45"
+            - "?"
+            - dead
+            - ""
+        - label: Lucy T. (Mann) (Dunham) Vining
+          values:
+            - "40"
+            - "51"
+            - "?"
+            - "?"
+            - dead
+        - label: Edith Elwood Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Everett Vining
+          values:
+            - "6"
+            - "15"
+            - "?"
+            - "?"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 906, family 1133
+        images:
+          - src: WilliamJr02census1870.jpg
+      - year: "1880"
+        caption: Rockport, Plymouth County, Massachusetts
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Lucy T. (Mann) (Dunham) Vining, in Mount Pleasant Cemetery, Rockland, Plymouth County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: WilliamJr02wifegravestone.jpg

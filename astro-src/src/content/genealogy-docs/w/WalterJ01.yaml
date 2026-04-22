@@ -1,0 +1,69 @@
+id: WalterJ01
+title: Walter James Vining - Minnie [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Walter James Vining
+          values:
+            - "46"
+            - "56"
+            - dead
+        - label: Minnie ([...]) Vining
+          values:
+            - "32"
+            - "43"
+            - "52"
+        - label: Ralph Vining
+          values:
+            - "9"
+            - "20"
+            - "[living? in separate household]"
+          indent: true
+        - label: Truman J. Vining
+          values:
+            - "6"
+            - "16"
+            - married and living in separate household
+          indent: true
+        - label: Effie Vining
+          values:
+            - 4 y., 2 m.
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Ruby Vining
+          values:
+            - 1 y., 2 m.
+            - "11"
+            - "21"
+          indent: true
+        - label: Lula Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Daisy P. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Branson, Taney County, Missouri - dwelling 208, family 209
+        images:
+          - src: WalterJ01census1920.jpg
+      - year: "1930"
+        caption: Aurora Township (ward 2), Lawrence County, Missouri - dwelling 280, family 290
+        images:
+          - src: WalterJ01census1930.jpg
+      - year: "1940"
+        caption: Aurora Township (ward 2), Lawrence County, Missouri
+        images:
+          - src: WalterJ01census1940.jpg

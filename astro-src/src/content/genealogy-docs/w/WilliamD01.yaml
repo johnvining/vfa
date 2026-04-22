@@ -1,0 +1,52 @@
+id: WilliamD01
+title: William Dwight Vining - Emma C. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: William Dwight Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Emma C. ([...]) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mabel S. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Enfield, Hartford County, Connecticut - dwelling 840, family 1014
+        images:
+          - src: WilliamD01census1870.jpg

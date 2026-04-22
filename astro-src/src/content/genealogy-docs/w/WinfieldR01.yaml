@@ -1,0 +1,60 @@
+id: WinfieldR01
+title: Winfield R. Vining - (1) Elizabeth Hackett, (2) Nettie E. [Debeck or Buzzell?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Winfield R. Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "55"
+            - "?"
+        - label: (1) Elizabeth (Hackett) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - ""
+            - ""
+        - label: (2) Nettie E. ([Debeck or Buzzell?]) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "51"
+            - "?"
+        - label: Randall Othello Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "22"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 146, family 162. Also living in this household in 1900 was [Calvin
+          Gray?] (24 y., b. Maine, a boarder).
+        images:
+          - src: WinfieldR01census1900.jpg
+      - year: "1910"
+        caption: Strong, Franklin County, Maine - dwelling 31, family 32
+        images:
+          - src: WinfieldR01census1910.jpg
+      - year: "1920"
+        caption: Strong, Franklin County, Maine - dwelling 62, family 83
+        images:
+          - src: WinfieldR01census1920.jpg
+      - year: "1930"
+        caption: Strong, Franklin County, Maine - dwelling 89, family 100
+        images:
+          - src: WinfieldR01census1930.jpg

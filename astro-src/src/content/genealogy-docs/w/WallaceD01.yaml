@@ -1,0 +1,73 @@
+id: WallaceD01
+title: Wallace D. Vining - Elizabeth S. Evans
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Wallace D. Vining
+          values:
+            - "29"
+            - "?"
+            - "49"
+            - |-
+              59
+              [see note below]
+            - dead
+        - label: Elizabeth S. (Evans) Vining
+          values:
+            - "26"
+            - "?"
+            - "46"
+            - dead
+            - ""
+        - label: Valcino Vernon Vining
+          values:
+            - "3"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Mittie Cornelia Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Minnie A. Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - |-
+              22
+              [see note below]
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Rutland Township, Meigs County, Ohio - dwelling 25, family 25. Wallace D. and Elizabeth (Evans) were living in
+          the household of Wallace's parents (Timothy Birum Vining and Sina Jones).
+        images:
+          - src: WallaceD01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Rutland Township, Meigs County, Ohio - dwelling 140, family 144. Also living in this household in 1900 was
+          Beno[...] C. Evans (b. March 1832, Ohio), the father of Elizabeth S. (Evans) Vining.
+        images:
+          - src: WallaceD01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Pomeroy Village, Salisbury Township, Meigs County, Ohio - dwelling 233, family 243. In 1910, Wallace D. Vining
+          was living in the household of married daughter Minnie A.
+        images:
+          - src: WallaceD01census1910.jpg

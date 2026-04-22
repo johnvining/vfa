@@ -1,0 +1,91 @@
+id: WilliamR01
+title: William Reed Vining - Susan A. H. Whitman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: William Reed Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "54"
+            - "?"
+            - dead
+            - ""
+        - label: Susan A. H. (Whitman) Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "54"
+            - "?"
+            - "74"
+            - "84"
+        - label: Sarah Porter Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - |-
+              26, married and living in this household
+              [see note below]
+            - "?"
+            - living in separate household
+            - ""
+          indent: true
+        - label: William Whitman Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jared Augustus Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "23"
+            - "?"
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Abington, Plymouth County, Massachusetts - dwelling 536, family 667. Also living in this household in 1860 was
+          Cath[arine?] O. Brier (18 y., b. Ireland).
+        images:
+          - src: WilliamR01census1860.jpg
+      - year: "1880"
+        caption: >-
+          South Abington, Plymouth County, Massachusetts - dwelling 303, family 392. Also living in this household in
+          1880 were Frank N. Smith (28 y., b. Massachusetts, husband of Sarah Porter Vining) and Frank W. Smith (9 m.,
+          b. Massachusetts, son of Frank N. Smith and Sarah Porter Vining).
+        images:
+          - src: WilliamR01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Whitman Township, Plymouth County, Massachusetts - dwelling 285, family 319. Also living in this household in
+          1860 was Susie MacPharlin [sic] (servant, 26 y., b. Massachusetts).
+        images:
+          - src: WilliamR01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Whitman, Plymouth County, Massachusetts - dwelling [illegible], family 237. Also living in this household in
+          1910 were Susan W. Smith (granddaughter, 27 y., b. Massachusetts) and Susan McPharlin [sic] (servant, 26 y.,
+          b. Massachusetts).
+        images:
+          - src: WilliamR01census1910.jpg

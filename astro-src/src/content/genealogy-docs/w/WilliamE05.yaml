@@ -1,0 +1,58 @@
+id: WilliamE05
+title: William E. Vining - Charlotte [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William E. Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charlotte ([…]) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charlotte H. Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Hazel M. Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Chancellor L. Vining
+          values:
+            - 1 y., 6 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Orange, New Haven County, Connecticut - dwelling 113, family 124. Also living in this household in 1910 was
+          stepdaughter Helen Vining (14 y., b. Ohio).
+        images:
+          - src: WilliamE05census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Charcellor L. Vining, in Lakeview Cemetery, Bridgeport, Fairfield, Connecticut (from Find A
+          Grave):
+        images:
+          - src: WilliamE05sonCharcellorgravestone.jpg

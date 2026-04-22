@@ -1,0 +1,56 @@
+id: WoodsonP01
+title: Woodson P. Vining - Emma [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Woodson P. Vining
+          values:
+            - "?"
+            - "29"
+            - "?"
+            - "49"
+            - "?"
+            - "?"
+        - label: Emma ([...]) Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+            - "50"
+            - "?"
+            - "?"
+        - label: Agnes I. Vining
+          values:
+            - "?"
+            - "6"
+            - "?"
+            - "26"
+            - "?"
+            - "?"
+          indent: true
+        - label: William [T. or P.?] Vining
+          values:
+            - "?"
+            - "2"
+            - "?"
+            - "21"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Atlanta (ward [13?]), Fulton County, Georgia - dwelling 109, family 141
+        images:
+          - src: WoodsonP01census1900.jpg
+      - year: "1920"
+        caption: Savannah, Chatham County, Georgia - dwelling 174, family 270
+        images:
+          - src: WoodsonP01census1920.jpg

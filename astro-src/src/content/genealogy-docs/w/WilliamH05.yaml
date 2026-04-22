@@ -1,0 +1,75 @@
+id: WilliamH05
+title: William Henry Vining - Sarah Louella Kitchen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Henry Vining
+          values:
+            - "25"
+            - "36"
+            - "46"
+        - label: Sarah Louella (Kitchen) Vining
+          values:
+            - "21"
+            - "32"
+            - "41"
+        - label: Douglas Nathan Vining
+          values:
+            - 9 m.
+            - "11"
+            - "21"
+          indent: true
+        - label: Leonard Roslyn Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+          indent: true
+        - label: Hazel Gertrude Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+        - label: William Howard Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+          indent: true
+        - label: Ormand George Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+          indent: true
+        - label: Donald Lloyd Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+          indent: true
+        - label: Aubrey Vernon Vining
+          values:
+            - ""
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Bayfield, Bayfield County, Wisconsin - dwelling 293, family 307
+        images:
+          - src: WilliamH05census1920.jpg
+      - year: "1930"
+        caption: Paris Township, Kent County, Michigan - dwelling 12, family 12
+        images:
+          - src: WilliamH05census1930.jpg
+      - year: "1940"
+        caption: Wyoming Township, Kent County, Michigan
+        images:
+          - src: WilliamH05census1940.jpg

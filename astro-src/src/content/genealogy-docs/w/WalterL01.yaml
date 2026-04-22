@@ -1,0 +1,88 @@
+id: WalterL01
+title: Walter Lonnie Vining - Lorena Grubbs
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Walter Lonnie Vining
+          values:
+            - "?"
+            - "41"
+            - dead
+        - label: Lorena (Grubbs) Vining
+          values:
+            - "?"
+            - "31"
+            - "42"
+        - label: Walter Clifford Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Glen Gordon Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Alice Yvonne Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: Lonnie Gene Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+          indent: true
+        - label: Floyce Nelwyn Vining
+          values:
+            - ""
+            - 7 m.
+            - "10"
+          indent: true
+        - label: Francis Marvin Vining
+          values:
+            - ""
+            - ""
+            - "4"
+          indent: true
+        - label: William Vining
+          values:
+            - ""
+            - ""
+            - 10 m.
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Police Jury Ward 2, West Carroll County, Louisiana - dwelling 195, family 200
+        images:
+          - src: WalterL01census1930.jpg
+      - year: "1940"
+        caption: East Carroll County, Louisiana
+        images:
+          - src: WalterL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Walter Lonnie Vining and Lorena Grubbs, in New Forest Cemetery, Forest, West Carroll Parish,
+          Louisiana (from Find A Grave):
+        images:
+          - src: WalterL01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Glen Gordon Vining, in New Forest Cemetery, Forest, West Carroll Parish, Louisiana (from Find A
+          Grave):
+        images:
+          - src: WalterL01sonGlengravestone.jpg
+      - caption: >-
+          Gravestone for Alice Yvonne Vining, in New Forest Cemetery, Forest, West Carroll Parish, Louisiana (from Find
+          A Grave):
+        images:
+          - src: WalterL01dauAlicegravestone.jpg

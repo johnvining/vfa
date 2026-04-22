@@ -1,0 +1,43 @@
+id: William08
+title: William Vining - Anna [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: William Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Anna ([...]) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: La Prairie, Marshall County, Illinois - dwelling 222, family 225
+        images:
+          - src: William08census1870.jpg

@@ -1,0 +1,45 @@
+id: WilburD01
+title: Wilbur Dale Vining - (1) Minnie Gary, (2) Dorothy Chamberlain
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Wilbur Dale Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+        - label: Minnie (Gary) Vining
+          values:
+            - "21"
+            - "?"
+            - "?"
+        - label: Dorothy (Chamberlain) Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+        - label: Marian Vining
+          values:
+            - "[3 or 5?] months"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Jackson (ward 5), Jackson County, Michigan - dwelling 70, family 77. In 1920, Wilbur Dale Vining and his wife
+          and daughter were living in the household of her parents (Hugh H. Gary and Minnie B. […]).
+        images:
+          - src: WilburD01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Wilbur Dale Vining, in Oak Grove Cemetery, Napoleon, Jackson County, Michigan (from Find A
+          Grave):
+        images:
+          - src: WilburD01gravestone.jpg

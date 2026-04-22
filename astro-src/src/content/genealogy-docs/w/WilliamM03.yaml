@@ -1,0 +1,54 @@
+id: WilliamM03
+title: William Minor Vining - Florence Velda Wonnacott
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Minor Vining
+          values:
+            - "26"
+            - "36"
+            - "?"
+        - label: Florence Velda (Wonnacott) Vining
+          values:
+            - "21"
+            - "32"
+            - "?"
+        - label: Ronald M. Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+        - label: Randall M. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+          indent: true
+        - label: Desmond Lynn Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Coe Township, Isabella County, Michigan - dwelling 323, family 323
+        images:
+          - src: WilliamM03census1920.jpg
+      - year: "1930"
+        caption: Ithaca, Gratiola County, Michigan - dwelling 540, family 553
+        images:
+          - src: WilliamM03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for William Minor Vining and Florence Velda (Wonnacott) Vining, in Payne Cemetery, Maple Rapids,
+          Gratiot County, Michigan (from Find A Grave):
+        images:
+          - src: WilliamM03andwifeheadstone.jpg

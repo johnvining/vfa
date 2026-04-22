@@ -1,0 +1,152 @@
+id: WalterT01
+title: Walter Todd Vining - Mary Jane Morgan
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Walter Todd Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+            - "52"
+            - "62"
+            - dead
+        - label: Mary Jane (Morgan) Vining
+          values:
+            - "?"
+            - "27"
+            - "?"
+            - "47"
+            - "58"
+            - "67"
+        - label: Lucy Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - not living in this household
+            - not living in this household
+            - "49"
+          indent: true
+        - label: William E. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Iona N. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Burton D. Vining
+          values:
+            - ""
+            - 3 m.
+            - "?"
+            - "20"
+            - "30"
+            - |-
+              39
+              [see note below]
+          indent: true
+        - label: Jessie J. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "17"
+            - "27"
+            - "38"
+          indent: true
+        - label: Bertha A. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "14"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Winifred C. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Martha E. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Limestone, Kankakee County, Illinois - dwelling 55, family 62. Also living in this household in 1880 was
+          Mand[...] W. Arnold (18 y., b. Illinois), a servant.
+        images:
+          - src: WalterT01census1880.jpg
+      - year: "1900"
+        caption: Limestone, Kankakee County, Illinois - dwelling 93, family 93
+        images:
+          - src: WalterT01census1900.jpg
+      - year: "1910"
+        caption: Limestone, Kankakee County, Illinois - dwelling 7, family 7
+        images:
+          - src: WalterT01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Limestone, Kankakee County, Illinois - dwelling 66, family 66. Burton D. Vining was listed as "head" of the
+          household in 1920.
+  - type: notes
+    heading: "Note:"
+    text: >-
+      From a letter written by Bertha A. Vining on 17 October 1966:
+
+
+      “Taught school in 1st and 4th grades of Kankakee Illinois schools + took nurse's training in St. Luke's
+      (Episcopal) Hospital 14th & Michigan Ave., Chicago, — 1908 — graduated 1911. Practiced Registered Nursing as an
+      Industrial Nurse before retiring from Illinois Bell Telephone Company's medical department. Am a veteran of
+      U.S.A.N.C. in World War I. A member of the American Legion Post #270 of Chicago, Ill. — charter member — I served
+      in France.”
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Walter Todd Vining and Mary Jane (Morgan) Vining, in Limestone Cemetery, West Kankakee, Kankakee
+          County, Illinois (from Find A Grave):
+        images:
+          - src: WalterT01andwifeheadstone.jpg
+      - caption: >-
+          Gravestones for Walter Todd Vining and Mary Jane (Morgan) Vining, in Limestone Cemetery, West Kankakee,
+          Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: WalterT01gravestone.jpg
+          - src: WalterT01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Bertha A. Vining, daughter of Walter Todd Vining and Mary Jane (Morgan) Vining, in Limestone
+          Cemetery, West Kankakee, Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: WalterT01dauBerthagravestone.jpg

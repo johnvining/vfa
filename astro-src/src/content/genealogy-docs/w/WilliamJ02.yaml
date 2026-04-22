@@ -1,0 +1,84 @@
+id: WilliamJ02
+title: William J. Vining - Mercy T. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: William J. Vining
+          values:
+            - "24"
+            - "34"
+            - "50"
+            - "54"
+            - "?"
+            - "74"
+            - dead
+            - ""
+        - label: Mercy T. ([...]) Vining
+          values:
+            - "24"
+            - "33"
+            - "50"
+            - "53"
+            - "?"
+            - "73"
+            - "83"
+            - "?"
+        - label: Georgeanna Vining
+          values:
+            - "1"
+            - "9"
+            - "19"
+            - "30"
+            - "?"
+            - "49"
+            - "59"
+            - "?"
+          indent: true
+        - label: Luna F. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "23"
+            - "?"
+            - "43"
+            - "53"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 223, family 266
+        images:
+          - src: WilliamJ02census1850.jpg
+      - year: "1860"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 1476, family 140
+        images:
+          - src: WilliamJ02census1860.jpg
+      - year: "1870"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 125, family 127
+        images:
+          - src: WilliamJ02census1870.jpg
+      - year: "1880"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 122, family 137
+        images:
+          - src: WilliamJ02census1880.jpg
+      - year: "1900"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 256, family 271
+        images:
+          - src: WilliamJ02census1900.jpg
+      - year: "1910"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 474, family 509. Also living in this household in 1910 was
+          Evelyn M. Sartwell (10 y., b. New Hampshire, boarder).
+        images:
+          - src: WilliamJ02census1910.jpg

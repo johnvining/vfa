@@ -1,0 +1,91 @@
+id: WarnerE01
+title: Warner Emerson Vining - Lydia Anna Bowsher
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Warner Emerson Vining
+          values:
+            - "28"
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+            - dead
+        - label: Lydia Anne (Bowsher) Vining
+          values:
+            - "24"
+            - "?"
+            - "48"
+            - "?"
+            - dead
+            - ""
+        - label: Bertie May Vining
+          values:
+            - "7"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William Vining
+          values:
+            - "5"
+            - "?"
+            - "23"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+        - label: Lola Belle Vining
+          values:
+            - "4"
+            - "?"
+            - living in separate household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Guy Ernest Vining
+          values:
+            - ""
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Oxford Township, Delaware County, Ohio - dwelling 78, family 79
+        images:
+          - src: WarnerE01census1880.jpg
+      - year: "1900"
+        caption: Oxford Township, Delaware County, Ohio - dwelling 142, family 159
+        images:
+          - src: WarnerE01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Warner Emerson Vining and Lydia Anna Borsher, in Ashley Union Cemetery, Ashley, Delaware
+          County, Ohio (images from Find A Grave):
+        images:
+          - src: WarnerE01gravestone.jpg
+          - src: WarnerE01wifeLydiagravestone.jpg

@@ -1,0 +1,88 @@
+id: WalterD01
+title: Walter Davis Vining - Daisy Beatrice Clements
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Walter Davis Vining
+          values:
+            - "26"
+            - "36"
+            - "45"
+            - "56"
+            - "66"
+        - label: Daisy Beatrice (Clements) Vining
+          values:
+            - "25"
+            - "35"
+            - "40"
+            - "52"
+            - "65"
+        - label: James Hoyt Vining
+          values:
+            - 3 m.
+            - "10"
+            - "19"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Devona L. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Madison, Morgan County, Georgia - dwelling 274, family 287
+        images:
+          - src: WalterD01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Madison, Morgan County, Georgia - dwelling 202, family 215. Also living in this household in 1910 was Mary J.
+          Clements (90 y., b. Georgia), the mother-in-law of Walter Davis Vining.
+        images:
+          - src: WalterD01census1910.jpg
+      - year: "1920"
+        caption: Albany, Dougherty County, Georgia - dwelling 69, family 87
+        images:
+          - src: WalterD01census1920.jpg
+      - year: "1930"
+        caption: Albany, Dougherty County, Georgia - dwelling 146, family 164
+        images:
+          - src: WalterD01census1930.jpg
+      - year: "1940"
+        caption: Albany, Dougherty County, Georgia
+        images:
+          - src: WalterD01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I draft registration card:"
+        images:
+          - src: WalterD01WWIregistrationcarda.jpg
+          - src: WalterD01WWIregistrationcardb.jpg
+        inline: true

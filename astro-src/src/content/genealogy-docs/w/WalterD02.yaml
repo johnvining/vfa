@@ -1,0 +1,90 @@
+id: WalterD02
+title: Walter David Vining - Grace J. Reeves
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Walter David Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+            - "60"
+        - label: Grace J. (Reeves) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "52"
+        - label: McKenzie Vining
+          values:
+            - "5"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Albert Vining
+          values:
+            - "3"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Harrison Vining
+          values:
+            - "1"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Mary Grave Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - living in separate household
+          indent: true
+        - label: Pauline Vining
+          values:
+            - ""
+            - 4 y., 5 m.
+            - "14"
+            - "24"
+          indent: true
+        - label: Virginia [T.?] Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Redbone District, Upson County, Georgia - dwelling 223, family 228
+        images:
+          - src: WalterD02census1910.jpg
+      - year: "1920"
+        caption: Piedmont District, Pike County, Georgia - dwelling 96, family 100
+        images:
+          - src: WalterD02census1920a.jpg
+          - src: WalterD02census1920b.jpg
+      - year: "1930"
+        caption: Meansville District, Pike County, Georgia - dwelling 141, family 146
+        images:
+          - src: WalterD02census1930.jpg
+      - year: "1940"
+        caption: Meansville Township, Pike County, Georgia
+        images:
+          - src: WalterD02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Walter David Vining and Grace J. (Reeves) Vining, in Fincher Memorial Cemetery, Meansville,
+          Pike County, Georgia (from Find A Grave):
+        images:
+          - src: WalterD02andwifegravestones.jpg
