@@ -1,0 +1,52 @@
+id: KeatsK01
+title: Keats Kendall Vining - Lavesta Edgerly
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Keats Kendall Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+        - label: Lavesta (Edgerly) Vining
+          values:
+            - "29"
+            - "39"
+            - "49"
+        - label: Keats Kendall Vining Jr.
+          values:
+            - 1 year, 10 months
+            - "12"
+            - "22"
+          indent: true
+        - label: Jeane Marie Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Petoskey City (ward 2), Emmet County, Michigan - dwelling 91, family 95
+        images:
+          - src: KeatsK01census1920.jpg
+      - year: "1930"
+        caption: Grand Rapids (ward 3), Kent County, Michigan - dwelling 213, family 217
+        images:
+          - src: KeatsK01census1930.jpg
+      - year: "1940"
+        caption: Grand Rapids (ward 3; Bates Street, SE), Kent County, Michigan
+        images:
+          - src: KeatsK01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Keats Kendall Vining and Lavesta (Edgerly) Vining, in Lakeview Cemetery, Lakeview, Montcalm
+          County, Michigan (from Find A Grave):
+        images:
+          - src: KeatsK01andwifeheadstone.jpg

@@ -1,0 +1,47 @@
+id: KamitaE01
+title: Kamita Earl Vining - (1) Elizabeth Volenski;   (2) Mabel Dailey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Kamita Earl Vining
+          values:
+            - "21"
+        - label: Elizabeth (Volenski) Vining
+          values:
+            - "20"
+        - label: Mabel (Dailey) Vining
+          values:
+            - ""
+        - label: Earl Lee Vining
+          values:
+            - "1"
+          indent: true
+        - label: Errol Lynn Vining
+          values:
+            - "1"
+          indent: true
+        - label: Sherman Anthony Vining
+          values:
+            - "0"
+          indent: true
+        - label: Sharon Kay Vining
+          values:
+            - ""
+          indent: true
+        - label: Yvette Marie Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Comstock Township, Kalamazoo County, Michigan
+        images:
+          - src: KamitaE01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Kamita Earl Vining:"
+        images:
+          - src: KamitaE01obituary.jpg

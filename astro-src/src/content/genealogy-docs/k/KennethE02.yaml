@@ -1,0 +1,73 @@
+id: KennethE02
+title: Kenneth E. Vining - Rachel A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Kenneth E. Vining
+          values:
+            - "19"
+            - "30"
+            - "40"
+        - label: Rachel A. ([...]) Vining
+          values:
+            - ""
+            - "22"
+            - "33"
+        - label: Edward J. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+          indent: true
+        - label: "[Wi…ell] Vining"
+          values:
+            - ""
+            - ""
+            - "8"
+          indent: true
+        - label: John L. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+          indent: true
+        - label: Margaret A. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+          indent: true
+        - label: James A. Vining
+          values:
+            - ""
+            - ""
+            - "2"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Brown Township, Delaware County, Ohio - dwelling 103, family 103. In 1920, Kenneth E. Vining was a hired man,
+          living with a Bell family.
+        images:
+          - src: KennethE02census1920.jpg
+      - year: "1930"
+        caption: Brown Township, Delaware County, Ohio - dwelling 33, family 40
+        images:
+          - src: KennethE02census1930a.jpg
+          - src: KennethE02census1930b.jpg
+      - year: "1940"
+        caption: Troy, Richland County, Ohio
+        images:
+          - src: KennethE02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Kenneth E. Vining and Rachel A. ([…]) Vining, in Green Lawn Cemetery, Perrysville, Ohio (from:
+          Find A Grave):
+        images:
+          - src: KennethE02andwifeheadstone.jpg

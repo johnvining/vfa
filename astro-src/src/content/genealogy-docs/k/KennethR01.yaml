@@ -1,0 +1,28 @@
+id: KennethR01
+title: Kenneth R. Vining - Virginia Harmer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Kenneth R. Vining
+          values:
+            - "38"
+        - label: Virginia (Harmer) Vining
+          values:
+            - "25"
+        - label: Charles Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Saginaw City (ward 17; Adams Street), Saginaw County, Michigan
+        images:
+          - src: KennethR01census1940.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Kenneth R. Vining, in Woodland Cemetery, Jackson, Jackson County, Michigan (from Find A Grave):"
+        images:
+          - src: KennethR01gravestone.jpg
