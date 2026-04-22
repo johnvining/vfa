@@ -4,11 +4,18 @@ displayTitle: John Uriah Vining - (1) Fannie F. Spring; (2) Amelia Estelle Dilla
 sections:
   - type: notes
     heading: Note
-    text: >-
-      Gordon Francis Vining: Although the 1900 census reports his name as “Gordon” and the 1910 census reports his name
-      as “James G.”, his real name seems to be “Gordon Francis”. See his draft card below and also the application
-      (front and back) for his military gravestone. (Thank you to Cathy Cunningham for the following images and for her
-      information about Gordon Francis Vining's name.)
+    items:
+      - caption: >-
+          Gordon Francis Vining: Although the 1900 census reports his name as “Gordon” and the 1910 census reports his
+          name as “James G.”, his real name seems to be “Gordon Francis”. See his draft card below and also the
+          application (front and back) for his military gravestone. (Thank you to Cathy Cunningham for the following
+          images and for her information about Gordon Francis Vining's name.)
+        images:
+          - src: JohnU01sonGordondraftcard.jpg
+      - images:
+          - src: JohnU01sonGordongravestoneapplicationa.jpg
+          - src: JohnU01sonGordongravestoneapplicationb.jpg
+        inline: true
   - type: census
     table:
       columns:

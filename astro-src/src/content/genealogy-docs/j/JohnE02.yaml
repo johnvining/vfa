@@ -157,10 +157,13 @@ sections:
           - src: JohnE02andwifeheadstone.jpg
   - type: other
     heading: Myrtle J. (Vining) McNeal
-    text: >-
-      Oliver McNeal and Myrtle J. (Vining) McNeal:
-
-
-      In 1937, Myrtle’s niece Florence (Vining) Smith, a daughter of Myrtle’s brother William H. Vining, died the same
-      day she gave birth to David V. Smith. Myrtle and husband Oliver raised this baby. David’s wife says that “[s]he
-      was a good mom to David.”
+    items:
+      - caption: "Oliver McNeal and Myrtle J. (Vining) McNeal:"
+        images:
+          - src: JohnE02dauMyrtlephotographa.jpg
+          - src: JohnE02dauMyrtlephotographb.jpg
+        inline: true
+      - caption: >-
+          In 1937, Myrtle’s niece Florence (Vining) Smith, a daughter of Myrtle’s brother William H. Vining, died the
+          same day she gave birth to David V. Smith. Myrtle and husband Oliver raised this baby. David’s wife says that
+          “[s]he was a good mom to David.”

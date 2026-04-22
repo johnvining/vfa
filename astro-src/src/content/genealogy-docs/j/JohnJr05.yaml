@@ -137,7 +137,14 @@ sections:
           - src: JohnJr05census1880.jpg
   - type: other
     heading: Pension Data
-    text: "Pension claim for Ann S. (Carty) Vining:"
+    items:
+      - caption: "Pension claim for Ann S. (Carty) Vining:"
+        images:
+          - src: JohnJr05wifepensionclaim1.jpg
+      - images:
+          - src: JohnJr05wifepensionclaim2.jpg
+      - images:
+          - src: JohnJr05wifepensionclaim3.jpg
   - type: death
     items:
       - caption: >-
