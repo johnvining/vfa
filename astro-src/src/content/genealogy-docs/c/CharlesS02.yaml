@@ -1,0 +1,85 @@
+id: CharlesS02
+title: Charles S. Vining - Margaret Gray
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles S. Vining
+          values:
+            - "44"
+            - "54"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Margaret (Gray) Vining
+          values:
+            - "23"
+            - |-
+              23
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Lewis E. Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mildred [G.?] Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Grace F. Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Gorham, Coos County, New Hampshire - dwelling 67, family 86. Also living in this household in 1870 was Lucy
+          Ann Gray (25 y., b. Canada), likely an older sister of Margaret Vining.
+        images:
+          - src: CharlesS02census1870a.jpg
+          - src: CharlesS02census1870b.jpg
+      - year: "1880"
+        caption: >-
+          Gorham, Coos County, New Hampshire - dwelling 44, family 46. Based on the headstone information, Margaret
+          Vining's age as of the 1880 census was 33 y.
+        images:
+          - src: CharlesS02census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Charles S. Vining and Margaret (Gray) Vining, in Evans Cemetery, Gorham, Coos County, New
+          Hampshire (from Find A Grave):
+        images:
+          - src: CharlesS02andwifeheadstone.jpg

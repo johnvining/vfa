@@ -1,0 +1,116 @@
+id: CharlesO01
+title: Charles Oliver Vining - Susan M. Noland
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Oliver Vining
+          values:
+            - "25"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Susan M. (Noland) Vining
+          values:
+            - "23"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Myrtle M. Vining
+          values:
+            - "2"
+            - "?"
+            - |-
+              22
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Benjamin Leland Vining
+          values:
+            - ""
+            - "?"
+            - |-
+              17
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Carolyn Daisy Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Bryant Oliver Vining
+          values:
+            - ""
+            - "?"
+            - |-
+              12
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Julia Vining
+          values:
+            - ""
+            - ""
+            - living? in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: infant Vining
+          values:
+            - ""
+            - ""
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Lewis, Holt County, Missouri - dwelling 60, family 63
+        images:
+          - src: CharlesO01census1880.jpg
+      - year: "1900"
+        caption: >-
+          In 1900, Benjamin Leland Vining and Bryant Oliver Vining were living in the household of their brother-in-law
+          and sister, Sidney [...] and Myrtle M. (Vining) Harrison, in Illinois Township, Nemaha County, Kansas -
+          dwelling 182, family 182. Data on the headstone for Charles Oliver Vining and Susan M. (Noland) Vining and
+          "baby" suggest that Susan M. may have died in childbirth.
+        images:
+          - src: CharlesO01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone of Charles Oliver Vining and Susan M. Noland, in Corning Cemetery, Corning, Kansas: (source: Find A
+          Grave)
+        images:
+          - src: CharlesO01headstone.jpg
+      - caption: >-
+          Gravestone of Benjamin Leland Vining, son of Charles Oliver Vining and Susan M. Noland, in Corning Cemetery,
+          Corning, Kansas: (source: Find A Grave):
+        images:
+          - src: CharlesO01sonBenjamingravestone.jpg

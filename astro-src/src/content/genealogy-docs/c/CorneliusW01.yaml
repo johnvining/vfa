@@ -1,0 +1,128 @@
+id: CorneliusW01
+title: Cornelius W. Vining - Zipporah Clarke
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Cornelius W. Vining
+          values:
+            - "?"
+            - "33"
+            - "?"
+            - 53 [see note below]
+            - "62"
+            - dead
+        - label: Zipporah (Clarke) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+            - 52 [see note below]
+            - "61"
+            - "?"
+        - label: Daniel Devere Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Thaddeus Subsequie Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - 29, married [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Robert Emmett Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Frank Clarke Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "23"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Fournier Vining
+          values:
+            - ""
+            - 6 months
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Alice Cecelia Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "18"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Thomas Paine Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "13"
+            - 22, married and living in this household
+            - "?"
+          indent: true
+        - label: Joseph Eason Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "11"
+            - "20"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Springfield, LaGrange County, Indiana - dwelling 873, family 877
+        images:
+          - src: CorneliusW01census1850.jpg
+      - year: "1870"
+        caption: >-
+          Columbia, Jackson County, Michigan - dwelling 69, family 71. Listed at the beginning of this household were
+          Thaddeus Subsequie Vining, his wife (Hattie Lewis, 23, b. NH), and their son (Clarence, 5 m., b. Michigan).
+        images:
+          - src: CorneliusW01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Columbia, Jackson County, Michigan - dwelling 85, family 88. By 1880, Thomas Paine Vining was married, and he
+          and his wife (Viola) and daughter (Nina) were living in the household of his parents. Also living in this
+          household in 1880 was Charles Grace (24, b. Michigan, servant).
+        images:
+          - src: CorneliusW01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Cornelius W. Vining and Zipporah (Clarke) Vining, in East Liberty Cemetery, Liberty, Jackson
+          County, Michigan (from Find A Grave):
+        images:
+          - src: CorneliusW01gravestone.jpg
+          - src: CorneliusW01wifegravestone.jpg
+        inline: true

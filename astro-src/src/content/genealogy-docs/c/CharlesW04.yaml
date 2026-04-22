@@ -1,0 +1,74 @@
+id: CharlesW04
+title: Charles Warren Vining - Ollie Selman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Warren Vining
+          values:
+            - "34"
+            - "44"
+            - "?"
+            - dead
+        - label: Ollie (Selman) Vining
+          values:
+            - "19"
+            - "30"
+            - "?"
+            - dead
+        - label: George Dewey Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Ethel?] Vining"
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Lolie?] Vining"
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+          indent: true
+        - label: Arvine Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Kingdom (beat 1), Bibb County, Alabama - dwelling 590, family 604
+        images:
+          - src: CharlesW04census1900.jpg
+      - year: "1910"
+        caption: Precinct 41, Jefferson County, Alabama - dwelling 251, family 244
+        images:
+          - src: CharlesW04census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Charles Warren Vining and Ollie (Selman) Vining, in Quinn Cemetery, Chelsea, Shelby County,
+          Alabama (from Find A Grave):
+        images:
+          - src: CharlesW04gravestone.jpg
+          - src: CharlesW04wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for George Dewey Vining, son of Charles Warren Vining and Ollie (Selman) Vining, in Grace Community
+          Church Cemetery, Hoover, Jefferson County, Alabama (from Find A Grave):
+        images:
+          - src: CharlesW04sonGeorgegravestone.jpg

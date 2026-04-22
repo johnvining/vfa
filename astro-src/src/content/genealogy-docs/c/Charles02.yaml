@@ -1,0 +1,66 @@
+id: Charles02
+title: Charles Vining - Lucy A. Hoover
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Vining
+          values:
+            - "35"
+            - "?"
+            - "55"
+            - |-
+              65
+              [see note below]
+            - "?"
+            - dead
+        - label: Lucy A. (Hoover) Vining
+          values:
+            - "21"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Orpha M. Vining
+          values:
+            - 3 months
+            - "?"
+            - living in separate household
+            - |-
+              30
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: Henry Vining
+          values:
+            - ""
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Jewett, Greene County, New York - dwelling 6, family 6
+        images:
+          - src: Charles02census1880.jpg
+      - year: "1900"
+        caption: Jewett, Greene County, New York - dwelling 146, family 160
+        images:
+          - src: Charles02census1900.jpg
+      - year: "1910"
+        caption: >-
+          Windham, Greene County, New York - dwelling 236, family 243. In 1910 Charles Vining was living in the
+          household of his daughter (Orpha M.) and son-in-law.
+        images:
+          - src: Charles02census1910.jpg

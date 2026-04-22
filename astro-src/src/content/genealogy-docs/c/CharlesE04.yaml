@@ -1,0 +1,118 @@
+id: CharlesE04
+title: Charles E. Vining - Ione Augusta Singer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles E. Vining
+          values:
+            - "41"
+            - "52"
+            - "60"
+            - "?"
+            - "?"
+        - label: Ione Augusta (Singer) Vining
+          values:
+            - "32"
+            - "42"
+            - "49"
+            - "?"
+            - "?"
+        - label: "[son] Vining"
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Margaret R. Vining
+          values:
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Catherine E. Vining
+          values:
+            - "11"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: "[child] Vining"
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles [T.?] Vining
+          values:
+            - "8"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Louis D. Vining
+          values:
+            - "5"
+            - "15"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Thomas C. Vining
+          values:
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James John Vining
+          values:
+            - "3"
+            - "14"
+            - "23"
+            - "?"
+            - "?"
+          indent: true
+        - label: Leonard Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Paola, Miami County, Kansas - dwelling 338, family 346
+        images:
+          - src: CharlesE04census1900.jpg
+      - year: "1910"
+        caption: Paola (Ward 2), Miami County, Kansas - dwelling 341, family 363
+        images:
+          - src: CharlesE04census1910.jpg
+      - year: "1920"
+        caption: Kansas City (Ward 4), Jackson County, Missouri - dwelling 315, family 326
+        images:
+          - src: CharlesE04census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for infant son of Charles E. Vining and Ione Augusta (Singer) Vining, in Girard Cemetery, Girard,
+          Crawford County, Kansas (from Find A Grave):
+        images:
+          - src: CharlesE04infantsongravestone.jpg

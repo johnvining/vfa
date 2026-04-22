@@ -1,0 +1,47 @@
+id: CharlesP02
+title: Charles P. Vining - Hattie A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles P. Vining
+          values:
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Hattie A. ([...]) Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ruby L. Vining
+          values:
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Curtis C. Vining
+          values:
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Atchison (ward 4), Atchison County, Kansas - dwelling 123, family 136
+        images:
+          - src: CharlesP02census1900.jpg

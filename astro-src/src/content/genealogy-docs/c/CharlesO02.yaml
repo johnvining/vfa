@@ -1,0 +1,91 @@
+id: CharlesO02
+title: Charles Otis Vining - Edith S. Collamore
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth records of Delbert Lewis Vining and Charles Otis Vining, sons of Charles Otis Vining and Edith S.
+          Collamore (from Maine State Archives):
+        images:
+          - src: CharlesO02sonDelbertbirthrecord.jpg
+          - src: CharlesO02sonOtisbirthrecord.jpg
+        inline: true
+  - type: marriage
+    items:
+      - caption: "Marriage record of Charles Otis Vining and Edith S. Collamore (from Maine State Archives):"
+        images:
+          - src: CharlesO02marriagerecord1.jpg
+          - src: CharlesO02marriagerecord2.jpg
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Otis Vining
+          values:
+            - "46"
+            - "55"
+            - dead
+            - ""
+        - label: Edith S. (Collamore) Vining
+          values:
+            - "27"
+            - "38"
+            - "46"
+            - dead
+        - label: Delbert Lewis Vining
+          values:
+            - "6"
+            - "16"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Otis M. Vining
+          values:
+            - "4"
+            - "14"
+            - dead
+            - ""
+          indent: true
+        - label: Velma D. Vining
+          values:
+            - "2"
+            - "13"
+            - not living in this household
+            - ""
+          indent: true
+        - label: C[lau?]de E. Vining
+          values:
+            - ""
+            - "9"
+            - not living in this household
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Pittsfield, Somerset County, Maine - dwelling 99, family 115
+        images:
+          - src: CharlesO02census1900.jpg
+      - year: "1910"
+        caption: Pittsfield, Somerset County, Maine - dwelling 78, family 84
+        images:
+          - src: CharlesO02census1910.jpg
+      - year: "1920"
+        caption: Pittsfield, Somerset County, Maine - dwelling 296, family 418
+        images:
+          - src: CharlesO02census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Edith S. (Collamore) Vining, Otis M. Vining, and Velma D. (Vining) Cook, in Pittsfield Village
+          Cemetery, Pittsfield, Somerset County, Maine (from Find A Grave):
+        images:
+          - src: CharlesO02familyheadstone.jpg
+      - caption: >-
+          Gravestone for Otis M. Vining, son of Charles Otis Vining and Edith S. (Collamore) Vining, in Pittsfield
+          Village Cemetery, Pittsfield, Somerset County, Maine (from Find A Grave):
+        images:
+          - src: CharlesO02sonOtisgravestone.jpg

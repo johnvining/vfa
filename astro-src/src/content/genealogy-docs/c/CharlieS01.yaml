@@ -1,0 +1,55 @@
+id: CharlieS01
+title: Charlie S. Vining - Sarah H. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charlie S. Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah H. ([...]) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frankie Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ma[rrie?] Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Minnie Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Militia District 555, Upson County, Georgia - dwelling [...], family [...]
+        images:
+          - src: CharlieS01census1900.jpg

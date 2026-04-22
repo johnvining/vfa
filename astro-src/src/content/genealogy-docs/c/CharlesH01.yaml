@@ -1,0 +1,118 @@
+id: CharlesH01
+title: Charles H. Vining - (1) Carolyn Hunter, (2) Ella J. Hunter, (3) Annie J. Learned
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage intentions for Charles H. Vining and Annie J. Learned:"
+        images:
+          - src: CharlesH01marriageintentions3.jpg
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Charles H. Vining
+          values:
+            - "29"
+            - "39"
+            - "49"
+            - "?"
+            - dead
+        - label: Carolyn (Hunter) Vining
+          values:
+            - "24"
+            - "34"
+            - dead
+            - ""
+            - ""
+        - label: Ella J. (Hunter) Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+        - label: Annie J. (Learned) Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+        - label: Charles Alfred Vining
+          values:
+            - "3"
+            - "13"
+            - "23"
+            - "[married and living in separate household]"
+            - ""
+          indent: true
+        - label: Jennie H. Vining
+          values:
+            - "1"
+            - "11"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Ella H. "Nellie" Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "[married and living in separate household]"
+            - ""
+          indent: true
+        - label: Julia May Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Herbert H. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Strong, Franklin County, Maine - dwelling 344, family 348
+        images:
+          - src: CharlesH01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 140, family 150. Also living in this household in 1870 were Mary A.
+          Churchill (20, b. Maine), Charles A. Conant (21, b. Maine), and L[...] Stinchfield (35, b. Maine).
+        images:
+          - src: CharlesH01census1870a.jpg
+          - src: CharlesH01census1870b.jpg
+      - year: "1880"
+        caption: Strong, Franklin County, Maine - dwelling 155, family 168
+        images:
+          - src: CharlesH01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Charles H. Vining and wives Caroline (Hunter) Vining and Ella J. (Hunter) Vining, in Village
+          Cemetery, Strong, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: CharlesH01gravestone.jpg
+          - src: CharlesH01wifeCarolinegravestone.jpg
+          - src: CharlesH01wifeEllagravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestones for Julia May Vining and Herbert H. Vining, children of Charles H. Vining and Caroline (Hunter)
+          Vining, in Village Cemetery, Strong, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: CharlesH01dauJuliagravestone.jpg
+          - src: CharlesH01sonHerbertgravestone.jpg
+        inline: true

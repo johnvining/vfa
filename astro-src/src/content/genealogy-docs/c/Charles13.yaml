@@ -1,0 +1,102 @@
+id: Charles13
+title: Charles Vining - Louise M. Gray
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Charles Vining
+          values:
+            - "26"
+            - "38"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Louise M. (Gray) Vining
+          values:
+            - "19"
+            - "30"
+            - "40"
+            - "?"
+            - |-
+              60
+              [see note below]
+            - |-
+              69
+              [see note below]
+            - dead
+        - label: Erwin K. Vining
+          values:
+            - "1"
+            - "11"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elmer E. Vining
+          values:
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Wesley, Will County, Illinois - dwelling 1392, family 1306. Also living in this household in 1860 were Ann
+          Gray (32, b. NY), James Dowell (22, b. Scotland), and Louis Lapland (20, b. Il).
+        images:
+          - src: Charles13census1860.jpg
+      - year: "1870"
+        caption: Omaha (ward 5), Douglas County, Nebraska - dwelling 260, family 270
+        images:
+          - src: Charles13census1870.jpg
+      - year: "1880"
+        caption: Bloomington Point, Franklin County, Nebraska - dwelling 124, family 126
+        images:
+          - src: Charles13census1880.jpg
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: >-
+          Elk Point Township, Union County, South Dakota - dwelling 95, family 98. In 1900, the widowed Louise M. (Gray)
+          Vining was living in the household of her sister.
+        images:
+          - src: Charles13census1900.jpg
+      - year: "1910"
+        caption: >-
+          Elk Point City, Union County, South Dakota - dwelling 21, family 22. In 1910, the widowed Louise M. (Gray)
+          Vining was living in the household of her widowed sister.
+        images:
+          - src: Charles13census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Louise M. (Gray) Vining, in Elk Point Cemetery, Elk Point, Union County, South Dakota (from
+          Find A Grave):
+        images:
+          - src: Charles13wifegravestone.jpg

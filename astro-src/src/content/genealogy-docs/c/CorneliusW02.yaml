@@ -1,0 +1,86 @@
+id: CorneliusW02
+title: Cornelius Wright Vining - Genevieve Jenkins
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Cornelius Wright Vining
+          values:
+            - "36"
+            - "45"
+            - "57"
+        - label: Genevieve (Jenkins) Vining
+          values:
+            - "32"
+            - "44"
+            - "52"
+        - label: Damain Charles Vining
+          values:
+            - "8"
+            - "17"
+            - "28"
+          indent: true
+        - label: Jerome L. Vining
+          values:
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+        - label: Genevieve Vining
+          values:
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Nancy Vining
+          values:
+            - 3 years, 9 months
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Beulah May Vining
+          values:
+            - 9 months
+            - "11"
+            - "21"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Bennington, Wyoming County, New York - dwelling 214, family 216. Also living in this household in 1920 were
+          Cora E. Breyton (65 y., b. Michigan, widowed mother of Marie Pearl (Breyton) Vining), and Joseph Ka[e?]len (55
+          y., b. Switzerland, a "hired man").
+        images:
+          - src: CorneliusW02census1920.jpg
+      - year: "1930"
+        caption: Daytona Beach, Volusia County, Florida - dwelling 39, family 42
+        images:
+          - src: CorneliusW02census1930.jpg
+      - year: "1940"
+        caption: Daytona Beach, Volusia County, Florida. Also living in this household was Cora L., wife of Damain C. Vining.
+        images:
+          - src: CorneliusW02census1940.jpg
+  - type: marriage
+    items:
+      - caption: >-
+          Marriage license for Damain Charles Vining and Cora Lee Fussell, son and daughter-in-law of Cornelius Wright
+          Vining and Genevieve (Jenkins) Vining:
+        images:
+          - src: CorneliusW02sonDamainandwifemarriagelicense.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Cornelius Wright Vining and Genevieve Jenkins, in Daytona Memorial Park, Daytona Beach, Volusia
+          County, Florida (from Find A Grave):
+        images:
+          - src: CorneliusW02andwifeheadstone.jpg
+      - caption: >-
+          Headstone for Damain Charles Vining and Cora Lee (Fussell) Vining, son and daughter-in-law of Cornelius Wright
+          Vining and Genevieve (Jenkins) Vining, in Greenlawn Cemetery, Jacksonville, Duval County, Florida (from Find A
+          Grave):
+        images:
+          - src: CorneliusW02sonDamainandwifeheadstone.jpg

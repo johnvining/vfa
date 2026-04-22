@@ -1,0 +1,50 @@
+id: CharlesA09
+title: Charles A. Vining - Mary Sauer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles A. Vining
+          values:
+            - "33"
+            - "44"
+            - "53"
+            - dead
+        - label: Mary (Sauer) Vining
+          values:
+            - "26"
+            - "35"
+            - "45"
+            - "?"
+        - label: Florence Vining
+          values:
+            - "5"
+            - "15"
+            - "25"
+            - "?"
+          indent: true
+        - label: Loretta Vining
+          values:
+            - "1"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Chicago (ward 28), Cook County, Illinois - dwelling 126, family 190
+        images:
+          - src: CharlesA09census1900.jpg
+      - year: "1910"
+        caption: Chicago (ward 34), Cook County, Illinois - dwelling 150, family 222
+        images:
+          - src: CharlesA09census1910.jpg
+      - year: "1920"
+        caption: Chicago (ward 33), Cook County, Illinois - dwelling 129, family 186
+        images:
+          - src: CharlesA09census1920.jpg

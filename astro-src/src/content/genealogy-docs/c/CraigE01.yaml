@@ -1,0 +1,53 @@
+id: CraigE01
+title: Craig E. Vining - Lois Ellen Dixon
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Craig E. Vining
+          values:
+            - "25"
+            - "35"
+        - label: Lois Ellen (Dixon) Vining
+          values:
+            - "25"
+            - "35"
+        - label: Elizabeth Dean Vining
+          values:
+            - 1 y., 3 m.
+            - "11"
+          indent: true
+        - label: Inrz Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Dian Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Alto Precinct, Walla Walla County, Washington - dwelling 47, family 54
+        images:
+          - src: CraigE01census1930.jpg
+      - year: "1940"
+        caption: Waitsburg, Walla Walla County, Washington
+        images:
+          - src: CraigE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Lois Ellen (Dixon) Vining, in Waitsburg Cemetery, Waitsburg, Walla Walla County, Washington
+          (from Find A Grave):
+        images:
+          - src: CraigE01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Elizabeth Dean Vining, daughter of Craig E. Vining and Lois Ellen (Dixon) Vining, in Waitsburg
+          Cemetery, Waitsburg, Walla Walla County, Washington (from Find A Grave):
+        images:
+          - src: CraigE01dauElizabethgravestone.jpg

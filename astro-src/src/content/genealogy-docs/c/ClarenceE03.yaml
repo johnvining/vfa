@@ -1,0 +1,58 @@
+id: ClarenceE03
+title: Clarence Edgar Vining - Katie Margaret Cooper
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Clarence Edgar Vining
+          values:
+            - "26"
+            - "37"
+        - label: Katie Margaret (Cooper) Vining
+          values:
+            - "25"
+            - "37"
+        - label: Warren E. Vining
+          values:
+            - "3"
+            - "12"
+          indent: true
+        - label: Edward Kevlin Vining
+          values:
+            - "2"
+            - "10"
+          indent: true
+        - label: Ernestine Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Joyce Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+        - label: Carlene Vining
+          values:
+            - ""
+            - 9 m.
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Ward 8, Tangipahoa Parish, Louisiana - dwelling 48, family 48
+        images:
+          - src: ClarenceE03census1930.jpg
+      - year: "1940"
+        caption: Ward 8, Tangipahoa Parish, Louisiana
+        images:
+          - src: ClarenceE03census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Clarence Edgar Vining and Katie Margaret (Cooper), in Collins Cemetery, Ponchatoula, Tangipahoa
+          Parish, Louisiana (from Find A Grave):
+        images:
+          - src: ClarenceE03andwifeheadstone.jpg

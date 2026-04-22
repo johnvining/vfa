@@ -1,0 +1,82 @@
+id: CharlesR02
+title: Charles Ray Vining - Corine Perrilloux
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Ray Vining
+          values:
+            - "?"
+            - "33"
+        - label: Corine (Perrilloux) Vining
+          values:
+            - "?"
+            - "33"
+        - label: Douglas Herbert Vining
+          values:
+            - "?"
+            - "14"
+          indent: true
+        - label: Esther B. Vining
+          values:
+            - "?"
+            - "13"
+          indent: true
+        - label: Otto C. Vining
+          values:
+            - "?"
+            - "10"
+          indent: true
+        - label: Viola H. Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Alberta H. Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Walter Levi Vining
+          values:
+            - ""
+            - "2"
+          indent: true
+        - label: Kenneth Ray Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Dennis M. Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Gary Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Ward 8, Tangipahoa Parish, Louisiana
+        images:
+          - src: CharlesR02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Charles Ray Vining and Corine (Perrilloux) Vining, in Ponchatoula Cemetery, Ponchatoula,
+          Tangipahoa Parish, Louisiana (from Find A Grave):
+        images:
+          - src: CharlesR02andwifegravestones.jpg
+      - caption: >-
+          Gravestone for Otto S. Vining, son of Charles Ray Vining and Corine (Perrilloux) Vining, in Ponchatoula
+          Cemetery, Ponchatoula, Tangipahoa Parish, Louisiana (from Find A Grave):
+        images:
+          - src: CharlesR02sonOttogravestone.jpg
+      - caption: "Obituary for Viola (Vining) Guiffreda, daughter of Charles Ray Vining and Corine (Perrilloux) Vining:"
+        images:
+          - src: CharlesR02dauViolaobituary.jpg

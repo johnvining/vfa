@@ -1,0 +1,136 @@
+id: CharlesS01
+title: Charles Stewart Vining - Sara Harriet Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Stewart Vining
+          values:
+            - "31"
+            - "42"
+            - "50"
+            - "61"
+            - "71"
+        - label: Sara Harriet (Smith) Vining
+          values:
+            - "30"
+            - "42"
+            - "49"
+            - "60"
+            - "70"
+        - label: Frankie Dye Vining
+          values:
+            - "8"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Linda Allen Vining
+          values:
+            - "?"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Mamie Viola Vining
+          values:
+            - "5"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Winnie Davis Vining
+          values:
+            - "2"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Marion Elizabeth Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Charles Allen Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "[married and?] living in separate household"
+            - ""
+          indent: true
+        - label: Francis Joseph Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "[married and?] living in separate household"
+            - ""
+          indent: true
+        - label: James Anthony Vining
+          values:
+            - ""
+            - "1"
+            - "10"
+            - "20"
+            - "[married and?] living in separate household"
+          indent: true
+        - label: Hull Smith Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "[married and?] living in separate household"
+            - ""
+          indent: true
+        - label: Sarah Harriet Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "[married and?] living in separate household"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: 555th G.M., Upson County, Georgia - dwelling [238?], family [260?]
+        images:
+          - src: CharlesS01census1900.jpg
+      - year: "1910"
+        caption: Thomaston, Upson County, Georgia - dwelling 91, family 91
+        images:
+          - src: CharlesS01census1910a.jpg
+          - src: CharlesS01census1910b.jpg
+      - year: "1920"
+        caption: Thomaston, Upson County, Georgia - dwelling 98, family 103
+        images:
+          - src: CharlesS01census1920.jpg
+      - year: "1930"
+        caption: Thomaston, Upson County, Georgia - dwelling 39, family 46
+        images:
+          - src: CharlesS01census1930.jpg
+      - year: "1940"
+        caption: Thomaston, Upson County, Georgia
+        images:
+          - src: CharlesS01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone (front and back) for Linda Allen Vining, daughter of Charles Stewart Vining and Sara Harriet
+          (Smith) Vining, in Glenwood Cemetery, Thomaston, Upson County, Georgia (from Find A Grave):
+        images:
+          - src: CharlesS01dauLindagravestonefront.jpg
+          - src: CharlesS01dauLindagravestoneback.jpg

@@ -1,0 +1,53 @@
+id: ChesterC01
+title: Chester Calvin Vining - Amanda Jane Middleton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Chester Calvin Vining
+          values:
+            - "?"
+            - "32"
+            - "[34?]"
+        - label: Amanda Jane (Middleton) Vining
+          values:
+            - "?"
+            - "32"
+            - "[34?]"
+        - label: Anna Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+          indent: true
+        - label: Mary J. Vining
+          values:
+            - ""
+            - 10 m.
+            - "10"
+          indent: true
+        - label: daughter Vining
+          values:
+            - ""
+            - not living in this household
+            - ""
+          indent: true
+        - label: Chester I. Vining
+          values:
+            - ""
+            - ""
+            - "2"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Precinct 2, Cherokee County, Texas - dwelling 102, family 102
+        images:
+          - src: ChesterC01census1930.jpg
+      - year: "1940"
+        caption: Justice Precinct 1, Cherokee County, Texas
+        images:
+          - src: ChesterC01census1940.jpg

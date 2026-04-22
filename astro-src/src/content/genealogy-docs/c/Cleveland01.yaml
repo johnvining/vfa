@@ -1,0 +1,91 @@
+id: Cleveland01
+title: Cleveland Vining - Lottie Wallace
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Cleveland Vining:"
+        images:
+          - src: Cleveland01birthrecord.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage record for Cleveland Vining and Lottie Wallace:"
+        images:
+          - src: Cleveland01marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Cleveland Vining
+          values:
+            - "?"
+            - "40"
+            - "?"
+        - label: Lottie (Wallace) Vining
+          values:
+            - "?"
+            - "33"
+            - "?"
+        - label: Jennie S. Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+          indent: true
+        - label: Carty Cleveland Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+          indent: true
+        - label: Nancy L. Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+          indent: true
+        - label: Edward Thomas Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+        - label: James Randall Vining
+          values:
+            - ""
+            - 1 m.
+            - "?"
+          indent: true
+        - label: son Vining
+          values:
+            - ""
+            - "[dead?]"
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Madison Crossroads (precinct 10), Madison County, Alabama - dwelling 149, family 159
+        images:
+          - src: Cleveland01census1930.jpg
+  - type: death
+    items:
+      - caption: "Death certificate for Cleveland Vining:"
+        images:
+          - src: Cleveland01deathcertificate.jpg
+      - caption: "Obituary for Cleveland Vining, from Limestone Democrat, Athens, Alabama; Thursday, 3 February 1949:"
+        images:
+          - src: Cleveland01obituary.jpg
+      - caption: "Gravestone for Cleveland Vining, in Fowlkes Cemetery, Monrovia, Madison County, Alabama (from Find A Grave):"
+        images:
+          - src: Cleveland01gravestone.jpg
+      - caption: >-
+          Gravestone for Lottie (Wallace) Vining, in Maple Hill Cemetery, Huntsville, Madison County, Alabama (from Find
+          A Grave):
+        images:
+          - src: Cleveland01wifegravestone.jpg
+      - caption: >-
+          Gravestone for James Randall Vining, son of Cleveland Vining and Lottie (Wallace) Vining, in Houston National
+          Cemetery, Houston, Harris County, Texas (from Find A Grave):
+        images:
+          - src: Cleveland01sonJamesgravestone.jpg

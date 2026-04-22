@@ -1,0 +1,27 @@
+id: CarlH01
+title: Carl Horace Vining - Ethamarie Y. Wiley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Carl Horace Vining
+          values:
+            - "24"
+        - label: Ethamarie Y. (Wiley) Vining
+          values:
+            - "23"
+        - label: Diane Denise Vining
+          values:
+            - "2"
+          indent: true
+        - label: Terrence Wiley Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Detroit (ward 22), Wayne County, Michigan
+        images:
+          - src: CarlH01census1940.jpg

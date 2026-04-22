@@ -1,0 +1,59 @@
+id: ClaudeL01
+title: Claude L. Vining - Florence Marshall
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth record for Ward M. Vining, son of Claude L. Vining and Florence (Marshall) Vining (from Tolland,
+          Massachusetts, town records):
+        images:
+          - src: ClaudeL01sonWardbirthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Claude L. Vining
+          values:
+            - "?"
+            - "47"
+            - "?"
+        - label: Florence (Marshall) Vining
+          values:
+            - "?"
+            - "50"
+            - "?"
+        - label: Ward M. Vining
+          values:
+            - "?"
+            - "17"
+            - "?"
+          indent: true
+        - label: Lester R. Vining
+          values:
+            - "?"
+            - "15"
+            - "?"
+          indent: true
+        - label: Claudia M. Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Westfield, Hampden County, Massachusetts - dwelling 202, family 369
+        images:
+          - src: ClaudeL01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Claude L. Vining and Florence M. ([…]) Vining, in Crown Hill Cemetery, Wheat Ridge, Jefferson
+          County, Colorado (from Find A Grave):
+        images:
+          - src: ClaudeL01gravestone.jpg
+          - src: ClaudeL01wifegravestone.jpg
+        inline: true

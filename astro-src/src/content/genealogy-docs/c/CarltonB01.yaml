@@ -1,0 +1,45 @@
+id: CarltonB01
+title: Carlton Berry Vining - Louise Abercrombie
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Carlton Berry Vining
+          values:
+            - "29"
+            - "40"
+            - "?"
+        - label: Louise (Abercrombie) Vining
+          values:
+            - "28"
+            - "39"
+            - "?"
+        - label: Daisy Vining
+          values:
+            - "5"
+            - "16"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Social Circle, Walton County, Georgia - dwelling 201, family 222
+        images:
+          - src: CarltonB01census1920a.jpg
+          - src: CarltonB01census1920b.jpg
+      - year: "1930"
+        caption: Statesboro, Bullock County, Georgia - dwelling 146, family 150
+        images:
+          - src: CarltonB01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Carlton Berry Vining, in Circle View Cemetery, Social Circle, Walton County, Georgia (from
+          Find A Grave):
+        images:
+          - src: CarltonB01gravestone.jpg
+          - src: CarltonB01wifegravestone.jpg
+        inline: true

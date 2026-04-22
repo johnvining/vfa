@@ -1,0 +1,89 @@
+id: ChurchA01
+title: Church Abijah Vining - Edith Rachel Case
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Church Abijah Vining
+          values:
+            - "28"
+            - "38"
+            - "47"
+            - "?"
+            - "?"
+        - label: Edith Raches (Case) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "?"
+            - "?"
+        - label: Warren Oliver Vining
+          values:
+            - "3"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eva Mae Vining
+          values:
+            - "1"
+            - "10"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Estella Pearl Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alice Ruth Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: Walter Ray Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+        - label: Percy Fayette Vining
+          values:
+            - ""
+            - "1"
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Colfax, Pocahontas County, Iowa - dwelling 217, family 217. Also living in this household in 1900 was [...]
+          [...]ton (17, b. IA, laborer).
+        images:
+          - src: ChurchA01census1900.jpg
+      - year: "1910"
+        caption: Colfax, Pocahontas County, Iowa - dwelling 222, family 222
+        images:
+          - src: ChurchA01census1910.jpg
+      - year: "1920"
+        caption: Colfax, Pocahontas County, Iowa - dwelling 129, family 134
+        images:
+          - src: ChurchA01census1920.jpg

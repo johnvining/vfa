@@ -1,0 +1,37 @@
+id: CarlH02
+title: Carl Harrison Vining - Dorothy Grace Fegley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Carl Harrison Vining
+          values:
+            - "26"
+            - "36"
+        - label: Dorothy Grace (Fegley) Vining
+          values:
+            - "26"
+            - "36"
+        - label: Merlin D. Vining
+          values:
+            - 5 years, 6 months
+            - "15"
+          indent: true
+        - label: Grace L. Vining
+          values:
+            - 3 years, [5?] months
+            - "13"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Brown Township, Delaware County, Ohio - dwelling 108, family 117
+        images:
+          - src: CarlH02census1930.jpg
+      - year: "1940"
+        caption: Brown Township, Delaware County, Ohio
+        images:
+          - src: CarlH02census1940a.jpg
+          - src: CarlH02census1940b.jpg

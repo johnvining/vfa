@@ -1,0 +1,49 @@
+id: Caleb01
+title: Caleb Vining - Edna [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Caleb Vining
+          values:
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+        - label: Edna ([...]) Vining
+          values:
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+        - label: Murphy F. Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Susan Vining
+          values:
+            - 1 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Roy Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - dead
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Greensburg (ward 3), St. Helena Parish, Louisiana - dwelling 25, family 25
+        images:
+          - src: Caleb01census1900.jpg

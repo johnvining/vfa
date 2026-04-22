@@ -1,0 +1,57 @@
+id: ClarenceH01
+title: Clarence Herbert Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Clarence Herbert Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary ([...]) Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Leila A. Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harrison S. Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Brooklyn, Kings County, New York - dwelling 95, family 116
+        images:
+          - src: ClarenceH01census1880.jpg

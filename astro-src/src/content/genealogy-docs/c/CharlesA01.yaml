@@ -1,0 +1,119 @@
+id: CharlesA01
+title: Charles Alfred Vining - Ada Estella Mansfield
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth records for Marian Emma Vining, Howard Mansfield Vining, and Alfred Roland Vining, children of Charles
+          Alfred Vining and Ada Estella (Mansfield) Vining (from Maine State Archives):
+        images:
+          - src: CharlesA01dauMarianbirthrecord.jpg
+          - src: CharlesA01sonHowardbirthrecord.jpg
+          - src: CharlesA01sonAlfredbirthrecord.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Alfred Vining
+          values:
+            - "43"
+            - "54"
+            - "63"
+            - dead
+            - ""
+        - label: Ada Estelle (Mansfield) Vining
+          values:
+            - "39"
+            - "49"
+            - "59"
+            - "69"
+            - dead
+        - label: Marian Emma Vining
+          values:
+            - "15"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Howard Mansfield Vining
+          values:
+            - "13"
+            - |-
+              not living in this household
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Alfred Rowland Vining
+          values:
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Herbert Vining
+          values:
+            - "9"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: stelle Vining
+          values:
+            - 11 months
+            - "10"
+            - "20"
+            - |-
+              30
+              [see note below]
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Antrim, Hillsborough County, New Hampshire - dwelling 315, family 345
+        images:
+          - src: CharlesA01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Bolton, Worcester County, Massachusetts - dwelling 158, family 163. In 1910, Howard Mansfield Vining was a
+          "hired man" at the "State Industrial School for Girls" in Lancaster, Worcester County, Massachusetts and was
+          living there.
+        images:
+          - src: CharlesA01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Bolton, Worcester County, Massachusetts - dwelling 101, family 108. Boarding in this household in 1920 was
+          Clarence E. Kimball (29, b. Massachusetts).
+        images:
+          - src: CharlesA01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Hudson, Middlesex County, Massachusetts - dwelling 4, family 4. By 1930, Dorothy Estelle Vining was married,
+          to Harry Crawford, and Ada Estelle Vining, her mother, was living in their household.
+        images:
+          - src: CharlesA01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Charles Alfred Vining and Ada Estelle (Mansfield) Vining, in Village Cemetery, Strong,
+          Franklin County, Maine (from Find A Grave):
+        images:
+          - src: CharlesA01gravestone.jpg
+          - src: CharlesA01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Headstone for Alfred Roland Vining and Gertrude ([…]) Vining, son and daughter-in-law of Charles Alfred Vining
+          and Ada Estella (Mansfield) Vining, in Old South Burying Ground, Bolton, Worcester County, Massachusetts (from
+          Find A Grave):
+        images:
+          - src: CharlesA01sonAlfredandwifeheadstone.jpg

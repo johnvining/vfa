@@ -1,0 +1,43 @@
+id: CephasA01
+title: Cephas Andrew Vining - Nina Ruth Hargrove
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Cephas Andrew Vining
+          values:
+            - "25"
+            - "35"
+        - label: Nina Ruth (Hargrove) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Paul Vining
+          values:
+            - 3 y., 7 m.
+            - "13"
+          indent: true
+        - label: Lillian Vining
+          values:
+            - 1 y., 5 m.
+            - "11"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Sand Springs (3rd precinct, south part), Limestone County, Alabama - dwelling 94, family 95
+        images:
+          - src: CephasA01census1930.jpg
+      - year: "1940"
+        caption: Sand Springs, Limestone County, Alabama
+        images:
+          - src: CephasA01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone of Cephas Andrew Vining and Nina Ruth (Hargrove) Vining in Athens City Cemetery in Athens, Limestone
+          County, Alabama (from Find A Grave):
+        images:
+          - src: CephasA01andwifeheadstone.jpg

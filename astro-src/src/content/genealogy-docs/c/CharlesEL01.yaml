@@ -1,0 +1,81 @@
+id: CharlesEL01
+title: Charles Ernest Lindel Vining - Jennie Louise Marston
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          Birth records for Oena Gray Vining and Vance C. Vining, children of Charles Ernest Lindel Vining and Jennie
+          Louise (Marston) Vining (from Maine State Archives):
+        images:
+          - src: CharlesEL01dauOenabirthrecord.jpg
+          - src: CharlesEL01sonVancebirthrec.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Ernest Lindel Vining
+          values:
+            - "?"
+            - "32"
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+        - label: Jennie Louise (Marston) Vining
+          values:
+            - "?"
+            - "29"
+            - "38"
+            - "?"
+            - "?"
+            - "?"
+        - label: Oena Gray Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Vance C. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Philip Loring Vining
+          values:
+            - ""
+            - 11 m.
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Wilton, Franklin County, Maine - dwelling 273, family 288
+        images:
+          - src: CharlesEL01census1900.jpg
+      - year: "1910"
+        caption: Bangor (Ward 4), Penobscot County, Maine - dwelling 158, family 195 (173 Ohio Street)
+        images:
+          - src: CharlesEL01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Vance C. Vining, son of Charles Ernest Lindel Vining and Jennie Louise (Marston) Vining, in
+          Lakeview Cemetery, Wilton, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: CharlesEL01sonVancegravestone.jpg

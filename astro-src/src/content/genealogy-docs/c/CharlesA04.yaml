@@ -1,0 +1,56 @@
+id: CharlesA04
+title: Charles Albert Vining - Ada Alice Hall
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Albert Vining
+          values:
+            - "33"
+            - "45"
+            - "54"
+        - label: Ada Alice (Hall) Vining
+          values:
+            - "23"
+            - ""
+            - "44"
+        - label: Lottie ([…]) Vining
+          values:
+            - ""
+            - "42"
+            - ""
+        - label: Charles A. Vining
+          values:
+            - "5"
+            - "15"
+            - married and living in separate household
+          indent: true
+        - label: Lottie Alice Vining
+          values:
+            - 3 y., 10 m.
+            - "13"
+            - "[married and?] living in separate household]"
+          indent: true
+        - label: George Alfred Vining
+          values:
+            - 2 y., 3 m.
+            - "12"
+            - "22"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Kansas City (precinct 5), Jackson County, Missouri - dwelling 144, family 206
+        images:
+          - src: CharlesA04census1920.jpg
+      - year: "1930"
+        caption: Kansas City, Jackson County, Missouri - dwelling 254, family 268
+        images:
+          - src: CharlesA04census1930.jpg
+      - year: "1940"
+        caption: Brooking Township, Jackson County, Missouri
+        images:
+          - src: CharlesA04census1940.jpg

@@ -1,0 +1,61 @@
+id: CecilH01
+title: Cecil H. Vining - Beatrice Ila Loree
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Cecil H. Vining
+          values:
+            - "22"
+            - "32"
+        - label: Beatrice Ila (Loree) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Mary Aileen Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Cecil E. Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Kathryn Jane Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Hayes Township, Franklin County, Kansas - dwelling 63, family 63
+        images:
+          - src: CecilH01census1930.jpg
+      - year: "1940"
+        caption: Richmond Township, Franklin County, Kansas
+        images:
+          - src: CecilH01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Cecil H. Vining and Beatrice Ila (Loree) Vining, in Richmond Cemetery Richmond, Franklin County,
+          Kansas (from Find A Grave):
+        images:
+          - src: CecilH01andwifeheadstone.jpg
+      - caption: >-
+          Headstone for Cecil E. Vining and J. Sue ([…]) Vining, son and daughter-in-law of Cecil H. Vining and Beatrice
+          Ila (Loree) Vining, in Green Pond Presbyterian Church Cemetery, Green Pond, Bibb County, Alabama (from Find A
+          Grave):
+        images:
+          - src: CecilH01sonCecilandwifeheadstone.jpg
+      - caption: >-
+          Obituary for Kathryn Jane (Vining) Daniels, daughter of Cecil H. Vining and Beatrice Ila (Loree) Vining (from
+          website of Fraker Funeral Home Inc., Marshfield, Missouri):
+        images:
+          - src: CecilH01dauKathrynobituarya.jpg
+          - src: CecilH01dauKathrynobituaryb.jpg
+          - src: CecilH01dauKathrynobituaryc.jpg

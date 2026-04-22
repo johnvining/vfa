@@ -1,0 +1,86 @@
+id: CaryW01
+title: Cary Warren Vining - (1) May Kendall;   (2) Harriet A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Cary Warren Vining
+          values:
+            - "40"
+            - "50"
+            - "60"
+            - "70"
+            - dead
+        - label: May (Kendall) Vining
+          values:
+            - "33"
+            - "43"
+            - "53"
+            - dead
+            - ""
+        - label: Harriet A. ([…]) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "61"
+            - "71"
+        - label: Keats Kendall Vining
+          values:
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Marguerite M. Vining
+          values:
+            - "8"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Cato Township, Montcalm County, Michigan - dwelling 117, family 117. Also living in this household in 1900 was
+          Carrie Tompkins (20 y., b. Michigan, servant).
+        images:
+          - src: CaryW01census1900.jpg
+      - year: "1910"
+        caption: Cato Township, Montcalm County, Michigan - dwelling 109, family 109
+        images:
+          - src: CaryW01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Cato Township, Montcalm County, Michigan - dwelling 148, family 150. Also living in this household in 1920 was
+          Mary King (50 y., b. Pennsylvania).
+        images:
+          - src: CaryW01census1920.jpg
+      - year: "1930"
+        caption: Cato Township, Montcalm County, Michigan - dwelling 44, family 45
+        images:
+          - src: CaryW01census1930.jpg
+      - year: "1940"
+        caption: Cato Township, Montcalm County, Michigan
+        images:
+          - src: CaryW01census1940.jpg
+  - type: death
+    items:
+      - caption: "Death certificate for May (Kendall) Vining (from Find A Grave):"
+        images:
+          - src: CaryW01wifedeathcert.jpg
+      - caption: >-
+          Gravestones for Cary Warren Vining and May (Kendall) Vining, in Lakeview Cemetery, Lakeview, Montcalm County,
+          Michigan (from Find A Grave):
+        images:
+          - src: CaryW01gravestone.jpg
+          - src: CaryW01wifegravestone.jpg
+        inline: true
