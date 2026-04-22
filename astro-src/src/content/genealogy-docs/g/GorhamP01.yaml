@@ -130,10 +130,9 @@ sections:
         inline: true
   - type: notes
     heading: Note
-    text: >-
-      The “Gorham P. Vining House” (at 1590 Oakridge Road in Neenah, Winnebago County, Wisconsin) is listed on both the
-      National Register of Historic Places and the (Wisconsin) State Register.
-
-
-      It was built in 1848 in Greek Revival style and was added to in 1857. For more details about the house, visit
-      http://www.wisconsinhistory.org/Content.aspx?dsNav=Ny:True,Nrc:id-4-dynrank-disabled%7cid-518-dynrank-disabled,N:4294963828-4294963814&dsNavOnly=N:4294963828-4294963811&dsRecordDetails=R:HI68016.
+    items:
+      - caption: >-
+          The “Gorham P. Vining House” (at 1590 Oakridge Road in Neenah, Winnebago County, Wisconsin) is listed on both
+          the National Register of Historic Places and the (Wisconsin) State Register.
+        images:
+          - src: GorhamP01house.jpg
