@@ -4,9 +4,10 @@ interface Props {
   description?: string;
   keywords?: string;
   activePage?: string;
+  noHeader?: boolean;
 }
 
-const { title, description = '', keywords = '', activePage = '' } = Astro.props;
+const { title, description = '', keywords = '', activePage = '', noHeader = false } = Astro.props;
 
 const navItems = [
   { label: 'Home', href: '../index.htm' },
@@ -31,6 +32,8 @@ const navItems = [
 
 <body text="#000000" bgcolor="FFFFFF" link="#0000FF" vlink="#551A8B" alink="#FF0000">
 
+{!noHeader && (
+<Fragment>
 <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
    <tr>
       <td width="10%" align="center">
@@ -77,6 +80,8 @@ const navItems = [
 </p>
 
 <hr class="nav-divider" />
+</Fragment>
+)}
 
 <slot />
 
