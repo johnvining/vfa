@@ -1,0 +1,58 @@
+id: LeroyL01
+title: Leroy Leslie Vining - Jennie Worden
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Leroy Leslie Vining
+          values:
+            - "33"
+            - "42"
+            - "?"
+        - label: Jennie (Worden) Vining
+          values:
+            - "29"
+            - "39"
+            - "?"
+        - label: Richard Leroy Vining
+          values:
+            - "6"
+            - "16"
+            - "?"
+          indent: true
+        - label: Esther Louise Vining
+          values:
+            - "4"
+            - "14"
+            - "?"
+          indent: true
+        - label: Grace Virginia Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+          indent: true
+        - label: Robert William Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Windsor, Broome County, New York - dwelling 199, family 189. Also living in this household in 1920 were Alice
+          Worden (43 y., b. New York) and Virginia Worden (40 y., b. New York), sisters of Jennie (Worden) Vining.
+        images:
+          - src: LeroyL01census1920a.jpg
+          - src: LeroyL01census1920b.jpg
+      - year: "1930"
+        caption: >-
+          Windsor (southwest part), Broome County, New York - dwelling 55, family 56. Also living in this household in
+          1930 was Virginia Worden (50 y., b. New York), a sister of Jennie (Worden) Vining.
+        images:
+          - src: LeroyL01census1930.jpg

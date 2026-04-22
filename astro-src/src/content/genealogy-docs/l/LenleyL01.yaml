@@ -1,0 +1,52 @@
+id: LenleyL01
+title: Lenley Loren Vining - Marion O'Bleness
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Lenley Loren Vining
+          values:
+            - "26"
+            - "39"
+        - label: Marion (O'Bleness) Vining
+          values:
+            - "29"
+            - "39"
+        - label: William Myron L. Vining
+          values:
+            - 2 y., 7 m.
+            - "12"
+          indent: true
+        - label: John Keith Vining
+          values:
+            - 1 y., 7 m.
+            - "11"
+          indent: true
+        - label: Clifford Ray Vining
+          values:
+            - 8 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Walburg, Cass County, North Dakota. Also living in this household in 1930 were Cecil Frank Vining (19 y., b.
+          North Dakota) and Clair Vining (18 y., b. North Dakota), two brothers of Lenley Loren Vining.
+        images:
+          - src: LenleyL01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Walburg, Cass County, North Dakota. Also living in this household in 1940 were Cecil Frank Vining (31 y., b.
+          North Dakota) and Clair Vining (29 y., b. North Dakota), two brothers of Lenley Loren Vining.
+        images:
+          - src: LenleyL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Lenley Loren Vining and Marion (O'Bleness) Vining, Watson Cemetery, Leonard, Cass County, North
+          Dakota (from Find A Grave):
+        images:
+          - src: LenleyL01andwifeheadstone.jpg

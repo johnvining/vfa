@@ -1,0 +1,81 @@
+id: LeavittA01
+title: Leavitt A. Vining - Lucy Andrews
+sections:
+  - type: census
+    table:
+      columns:
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+      rows:
+        - label: Leavitt A. Vining
+          values:
+            - "?"
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lucy (Andrews) Vining
+          values:
+            - "?"
+            - F 26–45
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Leavitt Vining
+          values:
+            - "?"
+            - M 10–16
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harriet Vining
+          values:
+            - "?"
+            - F 10–16
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: daughter Vining
+          values:
+            - "?"
+            - F 10–16
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Samuel Vining
+          values:
+            - ""
+            - M under 10
+            - married
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Warren Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - married
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1810"
+        caption: Wiscasset, Lincoln County, Maine
+        images:
+          - src: LeavittA01census1810a.jpg
+          - src: LeavittA01census1810b.jpg
+          - src: LeavittA01census1810c.jpg

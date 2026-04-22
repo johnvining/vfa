@@ -1,0 +1,106 @@
+id: LesterR03
+title: Lester Reed Vining - Clara L. Warner
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Lester Reed Vining
+          values:
+            - "27"
+            - "?"
+            - "46"
+            - "?"
+            - "?"
+            - "[76 or 77?]"
+            - "?"
+        - label: Clara L. (Warner) Vining
+          values:
+            - "24"
+            - "?"
+            - "44"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Porter Vining
+          values:
+            - "5"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Orpha Vining
+          values:
+            - "1"
+            - "?"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Claude L. Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Martha E. Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Elva A. Vining
+          values:
+            - ""
+            - "?"
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Southwick, Hampden County, Massachusetts
+      - year: "1900"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 161, family 170
+      - year: "1930"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 225, family 244
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Lester Reed Vining, Clara L. (Warner) Vining, and daughter Orpha Vining, in Southwick Cemetery,
+          Southwick, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: LesterR03andfamilyheadstone.jpg

@@ -1,0 +1,101 @@
+id: Lewis01
+title: Lewis Vining - Adaline Orinda Winter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Lewis Vining
+          values:
+            - "28"
+            - "39"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Adaline Orinda (Winter) Vining
+          values:
+            - "16"
+            - "26"
+            - "36"
+            - "?"
+            - "56"
+            - "?"
+        - label: Everett R. Vining
+          values:
+            - "[7?] months"
+            - "11"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Harriet E. "Hattie" Vining
+          values:
+            - ""
+            - "9"
+            - |-
+              18
+              [see note below]
+            - "?"
+            - dead
+            - ""
+          indent: true
+        - label: Irving N. Vining
+          values:
+            - ""
+            - "7"
+            - |-
+              17
+              [see note below]
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Lydia Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - not living in this household
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 691, family 627
+        images:
+          - src: Lewis01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Boyer Township, Harrison County, Iowa - dwelling 85, family 86. Also living in this household in 1870 was
+          Horatio Br[...] (31 y., b. New York, a house carpenter).
+        images:
+          - src: Lewis01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Boyer Township, Harrison County, Iowa - dwelling 103, family 109. By 1880, Harriet E. "Hattie" Vining was
+          married but continued to live in this household. Irving N. Vining was reported to be "Maimed, Crippled,
+          Bedridden or otherwise disabled". Also living in this household in 1880 was J. E. Moore (21 y., b. Michigan, a
+          farm laborer).
+        images:
+          - src: Lewis01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Boyer Township / Woodbine Town, Harrison County, Iowa - dwelling 246, family 250. Also living in this
+          household in 1900 was Edna Clayton (b. November 1886 Iowa, granddaughter of Adaline Orinda Winter).
+        images:
+          - src: Lewis01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Lewis Vining and Adaline Orinda (Winter) Vining, in Woodbine Cemetery, Woodbine, Harrison
+          County, Iowa (from Find A Grave):
+        images:
+          - src: Lewis01andwifeheadstone.jpg

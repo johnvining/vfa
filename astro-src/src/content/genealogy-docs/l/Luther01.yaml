@@ -1,0 +1,146 @@
+id: Luther01
+title: Luther Vining - Sybil Webster
+sections:
+  - type: marriage
+    items:
+      - caption: >-
+          Marriage record for Luther Vining and Sybil Webster. The year for the entry immediately above this one was
+          1814, and “Ditto” was for “Obadiah Scott, JP” in the entry immediately above this one.
+        images:
+          - src: Luther01marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Luther Vining
+          values:
+            - "?"
+            - "?"
+            - "60"
+            - dead
+            - ""
+            - ""
+        - label: Sybil (Webster) Vining
+          values:
+            - "?"
+            - "?"
+            - "55"
+            - |-
+              65
+              [see note below]
+            - |-
+              74
+              [see note below]
+            - "?"
+        - label: child Vining
+          values:
+            - "?"
+            - "?"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - "?"
+            - "?"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Samantha Vining
+          values:
+            - "?"
+            - "?"
+            - "22"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Francis Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Marilla Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - |-
+              28
+              [see note below]
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Electa Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Ansel Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - |-
+              24
+              [see note below]
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Ausillus Orelas Vining
+          values:
+            - ""
+            - "?"
+            - "10"
+            - |-
+              20
+              [see note below]
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Bennington Township, Morrow County, Ohio - dwelling 605, family 614
+        images:
+          - src: Luther01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Bennington Township, Morrow County, Ohio - dwelling 201, family 200. In 1860, Marilla was married, to Benjamin
+          Wood, and her mother (Sybil Vining) and two siblings (Ansel and [Aurelius or Ausillus?]) were living with her
+          and her family.
+        images:
+          - src: Luther01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Bennington Township, Morrow County, Ohio - dwelling 78, family 79. In 1870, Sybil Vining was living with a
+          Horr family.
+        images:
+          - src: Luther01census1870.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Luther Vining, in Bloomfield Cemetery, Bloomfield, Jay County, Indiana (from Find A Grave):"
+        images:
+          - src: Luther01gravestone.jpg
+      - caption: >-
+          Gravestone for Marilla (Vining) Wood, daughter of Luther Vining and Sybil Webster, in Newaygo Cemetery,
+          Newaygo, Michigan (from Find A Grave):
+        images:
+          - src: Luther01dauMarillagravestone.jpg

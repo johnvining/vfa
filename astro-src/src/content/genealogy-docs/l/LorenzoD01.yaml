@@ -1,0 +1,56 @@
+id: LorenzoD01
+title: Lorenzo Vining - Marietta [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Lorenzo Vining
+          values:
+            - "24"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Marietta ([...]) Vining
+          values:
+            - "25"
+            - "[?]"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frank W. Vining
+          values:
+            - 4 m.
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[?] Vining"
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Townsend Township, Huron County, Ohio - dwelling 1083, family 1082
+        images:
+          - src: LorenzoD01census1860.jpg
+      - year: "1870"
+        caption: Berlin Township, Erie County, Ohio - dwelling 115, family 115
+        images:
+          - src: LorenzoD01census1870.jpg

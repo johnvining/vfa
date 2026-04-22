@@ -1,0 +1,94 @@
+id: Leman01
+title: Leman Vining - Elizabeth B. Wheeler
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Leman Vining
+          values:
+            - "26"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Elizabeth B. (Wheeler) Vining
+          values:
+            - "21"
+            - |-
+              31
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sydney Wales Vining
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Henry Vining
+          values:
+            - "6"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Warriner King Vining
+          values:
+            - "2"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Riley Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Flora Anna Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Hawley, Franklin County, Massachusetts - dwelling 53, family 61
+        images:
+          - src: Leman01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Adams, Berkshire County, Massachusetts - dwelling 1914, family 1919. Elizabeth B. (Wheeler) Vining married
+          Emery C. Wright after husband Leman Vining's death.
+        images:
+          - src: Leman01census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Leman Vining, in Main Street Cemetery, Dalton, Berkshire County, Massachusetts (from Find A
+          Grave):
+        images:
+          - src: Leman01gravestone.jpg

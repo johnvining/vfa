@@ -1,0 +1,54 @@
+id: LesterR04
+title: Lester Roy Vining - Marie E. Barnes
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Lester Roy Vining
+          values:
+            - "35"
+            - "45"
+            - "?"
+        - label: Marie E. (Barnes) Vining
+          values:
+            - "31"
+            - "41"
+            - "?"
+        - label: Earl B. Vining
+          values:
+            - "7"
+            - dead
+            - ""
+          indent: true
+        - label: Clifford L. Vining
+          values:
+            - 5 y., 7 m.
+            - dead
+            - ""
+          indent: true
+        - label: Norma A. Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+          indent: true
+        - label: Warren G. Vining
+          values:
+            - ""
+            - 4 y., 5 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Esopus, Ulster County, New York - dwelling 163, family 168
+        images:
+          - src: LesterR04census1920.jpg
+      - year: "1920"
+        caption: Esopus, Ulster County, New York - dwelling 157, family 158
+        images:
+          - src: LesterR04census1930a.jpg
+          - src: LesterR04census1930b.jpg

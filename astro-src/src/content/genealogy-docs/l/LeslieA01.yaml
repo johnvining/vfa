@@ -1,0 +1,93 @@
+id: LeslieA01
+title: Leslie Alvin Vining - (1) Della J. McKenney, (2) Ella A. Winter
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Leslie Alvin Vining (from Maine State Archives):"
+        images:
+          - src: LeslieA01birthrecord.jpg
+      - caption: "Birth record for Clyde V. Vining, son of Leslie Alvin Vining and Della McKenney (from Maine State Archives):"
+        images:
+          - src: LeslieA01sonClydeVbirthrecord.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage record for Leslie Alvin Vining and Della McKenney (from Maine State Archives):"
+        images:
+          - src: LeslieA01marriage1record1.jpg
+          - src: LeslieA01marriage1record2.jpg
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Leslie Alvin Vining
+          values:
+            - "28"
+            - "38"
+            - "47"
+            - "58"
+            - "?"
+        - label: (1) Della J. (McKenney) Vining
+          values:
+            - "24"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: (2) Ella A. (Winter) Vining
+          values:
+            - ""
+            - "29"
+            - "39"
+            - "49"
+            - "?"
+        - label: Clyde V. Vining
+          values:
+            - "3"
+            - "13"
+            - |-
+              23
+              [see note below]
+            - |-
+              33
+              [see note below]
+            - ""
+          indent: true
+        - label: Christie Vining
+          values:
+            - ""
+            - "0"
+            - "9"
+            - "20"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 107, family 119. Also living in this household in 1900 was Roxanna
+          F. (Purrington) Vining (69 y., the widowed mother of Leslie Alvin Vining), and a Nellie M. Will (21 y., a
+          boarder).
+        images:
+          - src: LeslieA01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 72, family 84. Also living in this household in 1910 was Roxanna F.
+          (Purrington) Vining (78 y., the widowed mother of Leslie Alvin Vining).
+        images:
+          - src: LeslieA01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 36, family 47. In 1920, Clyde V. was living with his mother (Della
+          J.) and her 2nd husband (Frank Reed) in Auburn, Androscoggin County, Maine, dwelling 20, family 34.
+        images:
+          - src: LeslieA01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 31, family 33. In 1930, Clyde V. was living with his mother (Della
+          J.) and her 2nd husband in Portland, Cumberland County, Maine.
+        images:
+          - src: LeslieA01census1930.jpg
