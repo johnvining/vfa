@@ -1,0 +1,99 @@
+id: BertrandG01
+title: Bertrand Guy Vining - Violet Marion Whitney
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Bertrand Guy Vining (from Maine State Archives):"
+        images:
+          - src: BertrandG01birthrecord.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage record for Bertrand Guy Vining and Violet Marion Whitney (from Maine State Archives):"
+        images:
+          - src: BertrandG01marriagerecord1.jpg
+          - src: BertrandG01marriagerecord2.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Bertrand Guy Vining
+          values:
+            - "32"
+            - "43"
+            - "54"
+        - label: Violet Marion (Whitney) Vining
+          values:
+            - "23"
+            - "32"
+            - "42"
+        - label: Shirley Nathalie Vining
+          values:
+            - "6"
+            - "16"
+            - married and living in separate household
+          indent: true
+        - label: Lenora Neva Vining
+          values:
+            - "4"
+            - "14"
+            - married and living in separate household
+          indent: true
+        - label: Jesse George Vining
+          values:
+            - 1 year, 6 months
+            - "11"
+            - "21"
+          indent: true
+        - label: Quentin Delmont Vining
+          values:
+            - ""
+            - "10"
+            - "20"
+          indent: true
+        - label: Hiram Bertrand Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+          indent: true
+        - label: Bernard Roy Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+          indent: true
+        - label: Douglas Laurel Vining
+          values:
+            - ""
+            - 2 years, 8 months
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Weld, Franklin County, Maine - dwelling 28, family 28
+        images:
+          - src: BertrandG01census1920.jpg
+      - year: "1930"
+        caption: Weld, Franklin County, Maine - dwelling 99, family 106
+        images:
+          - src: BertrandG01census1930.jpg
+      - year: "1940"
+        caption: Weld, Franklin County, Maine
+        images:
+          - src: BertrandG01census1940.jpg
+  - type: death
+    items:
+      - caption: "Death record for Bertrand Guy Vining (from Maine State Archives):"
+        images:
+          - src: BertrandG01deathrecord1.jpg
+          - src: BertrandG01deathrecord2.jpg
+        inline: true
+      - caption: >-
+          Headstone for Bertrand Guy Vining and Violet Marion (Whitney) Vining, in Center Hill Cemetery, Weld, Franklin
+          County, Maine.
+        images:
+          - src: BertrandG01andwifeheadstone.jpg

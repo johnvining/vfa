@@ -1,0 +1,99 @@
+id: Bela02
+title: Bela Vining - Content Pratt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+      rows:
+        - label: Bela Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - |-
+              73
+              [see note below]
+            - dead
+        - label: Content (Pratt) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Hervey Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eveline Lincoln Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eliza Ann Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Maria Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - |-
+              42
+              [see note below]
+            - ""
+          indent: true
+        - label: Daniel Hervey Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 658, family 839. The family number appears to be 837 in the
+          image, but a comparison with previous and following numbers confirms that this number is 839. In 1850, Bela
+          Vining was living in the household of daughter Maria (Vining) Salisbury.
+        images:
+          - src: Bela02census1850.jpg
+  - type: death
+    items:
+      - caption: "Death record of Bela Vining, from Weymouth, Norfolk County, Massachusetts:"
+        images:
+          - src: Bela02deathrecord.jpg

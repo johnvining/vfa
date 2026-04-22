@@ -1,0 +1,59 @@
+id: BenjaminJr02
+title: Benjamin Vining Jr. - Chloe Lane
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: Benjamin Vining Jr.
+          values:
+            - M 16 and upwards
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Chloe Lane
+          values:
+            - F
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Alexander Vining
+          values:
+            - M under 16
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Chloe Vining
+          values:
+            - F
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: Abington, Plymouth County, Massachusetts
+        images:
+          - src: BenjaminJr02census1790.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Chloe Vining, daughter of Benjamin Vining Jr. and Chloe (Lane) Vining, in Old Town Cemetery,
+          Rockland, Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: BenjaminJr02dauChloegravestone.jpg

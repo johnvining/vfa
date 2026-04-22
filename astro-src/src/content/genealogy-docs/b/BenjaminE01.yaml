@@ -1,0 +1,66 @@
+id: BenjaminE01
+title: Benjamin E. Vining - Mollie Agnes Perry
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Benjamin E. Vining
+          values:
+            - "34"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Mollie Agnes (Perry) Vining
+          values:
+            - "22"
+            - "33"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Lou Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Shorter David Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Clark Edwin Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Militisa District 1063, Garden County, Georgia - dwelling 143, family 143
+        images:
+          - src: BenjaminE01census1900.jpg
+      - year: "1910"
+        caption: Ringgold Militisa District, Catoosa County, Georgia - dwelling 83, family 83
+        images:
+          - src: BenjaminE01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Benjamin E. Vining, in Nathan Anderson Historic Cemetery, Ringgold, Catoosa County, Georgia
+          (from Find A Grave):
+        images:
+          - src: BenjaminE01gravestone.jpg

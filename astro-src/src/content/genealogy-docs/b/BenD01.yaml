@@ -1,0 +1,48 @@
+id: BenD01
+title: Ben David Vining - Bertha Mae Bunn
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ben David Vining
+          values:
+            - "37"
+            - "47"
+        - label: Bertha Mae (Bunn) Vining
+          values:
+            - "25"
+            - "35"
+        - label: Katherine Vining
+          values:
+            - "5"
+            - "14"
+          indent: true
+        - label: Jessie Mae Vining
+          values:
+            - 9 m.
+            - "10"
+          indent: true
+        - label: Bennie Edward Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Precinct 9, Jefferson County, Alabama - dwelling 321, family 334
+        images:
+          - src: BenD01census1930.jpg
+      - year: "1940"
+        caption: Precinct 9, Jefferson County, Alabama
+        images:
+          - src: BenD01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for Ben David Vining:"
+        images:
+          - src: BenD01WWIregistrationcarda.jpg
+          - src: BenD01WWIregistrationcardb.jpg
+        inline: true

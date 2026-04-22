@@ -1,0 +1,86 @@
+id: BenjaminF02
+title: Benjamin Franklin Vining - Sarah Jane Richards
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Benjamin Franklin Vining
+          values:
+            - "33"
+            - "44"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Sarah Jane (Richards) Vining
+          values:
+            - "27"
+            - "38"
+            - "?"
+            - "58"
+            - "?"
+            - |-
+              78
+              [see note below]
+            - dead
+        - label: Eugene Conrad Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ira R. Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "23"
+            - "?"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Durham, Androscoggin County, Maine - dwelling 275, family 284
+        images:
+          - src: BenjaminF02census1870.jpg
+      - year: "1880"
+        caption: Durham, Androscoggin County, Maine - dwelling 282, family 306
+        images:
+          - src: BenjaminF02census1880.jpg
+      - year: "1900"
+        caption: Freeport, Cumberland County, Maine - dwelling 118, family 129
+        images:
+          - src: BenjaminF02census1900.jpg
+      - year: "1920"
+        caption: >-
+          Billerica, Middlesex County, Massachusetts - dwelling 279, family 292. In 1920 Sarah Jane (Richards) Vining
+          was living in the household of son Eugene Conrad Vining.
+        images:
+          - src: BenjaminF02census1920.jpg
+  - type: death
+    items:
+      - caption: Certificate of Record of Death for Sarah Jane (Richards) Vining, wife of Benjamin Franklin Vining.
+        images:
+          - src: BenjaminF02wifedeathcert.jpg
+      - caption: Family headstone in Cedar Grove Cemetery, Durham, Androscoggin County, Maine.
+        images:
+          - src: BenjaminF02headstone.jpg
+  - type: research
+    heading: "Research Opportunity:"
+    text: >-
+      The 1900 census reported that Sarah J. Vining was the mother of 5 children, 4 of whom were living as of the 1910
+      census. If this is true, who are the other 3 children?

@@ -1,0 +1,63 @@
+id: Benjamin09
+title: Benjamin Vining - [Lula or Louise ?] [McDaniel or McDonald ?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Benjamin Vining
+          values:
+            - "?"
+            - "38"
+            - "?"
+            - "?"
+            - "?"
+        - label: "[Lula or Louise ?] ([McDaniel or McDonald ?]) Vining"
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+        - label: Floretta Vining
+          values:
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Benjamin Vining Jr.
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Walter Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Albert Major Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: New Orleans (ward 17), Orleans Parish, Louisiana - dwelling 209, family 219
+        images:
+          - src: Benjamin09census1910.jpg

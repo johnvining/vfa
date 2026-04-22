@@ -1,0 +1,61 @@
+id: Bentley01
+title: Bentley Vining - Mary [Julian?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Bentley Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary ([Julian?]) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Eva Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Floyd Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Franklin Township, Kosciusko County, Indiana - dwelling 217, family 217
+        images:
+          - src: Bentley01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Bentley Vining and Mary ([Julian?]) Vining, in Palestine Cemetery, Palestine, Kosciusko
+          County, Indiana (from Find A Grave):
+        images:
+          - src: Bentley01gravestone.jpg
+          - src: Bentley01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Floyd Vining, son of Bentley Vining and Mary ([Julian?]) Vining, in Palestine Cemetery,
+          Palestine, Kosciusko County, Indiana (from Find A Grave):
+        images:
+          - src: Bentley01sonFloydgravestone.jpg

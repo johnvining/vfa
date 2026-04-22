@@ -1,0 +1,87 @@
+id: BenjaminC01
+title: Benjamin Carty Vining - Frances Scott
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Benjamin Carty Vining
+          values:
+            - "?"
+            - "50"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Frances (Scott) Vining
+          values:
+            - "?"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Leland Scott Vining
+          values:
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Joseph Alonzo Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rutherford Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Vleveland Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Annie Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Sand Springs (Precinct 3), Limestone County, Alabama - dwelling 91, family 91
+        images:
+          - src: BenjaminC01census1900.jpg
+  - type: death
+    items:
+      - caption: "Death certificate for Benjamin Carty Vining:"
+        images:
+          - src: BenjaminC01deathcertificate.jpg
+          - src: BenjaminC01gravestone.jpg
+          - src: BenjaminC01wifegravestone.jpg
+        inline: true

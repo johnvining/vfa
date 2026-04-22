@@ -1,0 +1,124 @@
+id: Benjamin02
+title: Benjamin Vining - (1) Mehitabel Brooks; (2) Lydia Turner; (3) Bathsheba Davis
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Benjamin Vining (from Weymouth, Massachusetts, town office):"
+        images:
+          - src: Benjamin02birthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+      rows:
+        - label: Benjamin Vining
+          values:
+            - M 16 and upward
+            - M 45 and over
+            - M 45 and over
+            - dead
+        - label: Mehitabel Brooks
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Lydia Turner
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+        - label: Bathsheba Davis
+          values:
+            - F
+            - F 45 and over
+            - F 45 and over
+            - "?"
+        - label: John Vining
+          values:
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Benjamin Vining Jr.
+          values:
+            - M 16 and upward
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Bela Vining
+          values:
+            - M 16 and upward
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Lucinda Vining
+          values:
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hannah Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mehitabel Vining
+          values:
+            - F
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - F
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Reuben Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Josiah Vining
+          values:
+            - M under 16
+            - M of 16 and under 26
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Abigail Vining
+          values:
+            - F
+            - F of 16 and under 26
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine. The age of each member of this family
+          in 1790 matches the expected age category in the 1790 census record.
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Sarah Vining, daughter of Benjamin and Mehitabel (Brooks) Vining and wife of Jonathan Strout,
+          in Sawyer Cemetery, Durham, Androscoggin County, Maine.
+        images:
+          - src: Benjamin02dauSarahgravest1.jpg
+          - src: Benjamin02dauSarahgravest2.jpg
+        inline: true

@@ -1,0 +1,70 @@
+id: BF01
+title: B. F. Vining - M. E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: B. F. Vining
+          values:
+            - "?"
+            - "46"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: M. E. ([...]) Vining
+          values:
+            - "?"
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: M. L. Vining
+          values:
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: J. F. Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: J. W. Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: M. L. Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Jefferson, Marengo County, Alabama - dwelling 345, family 368
+        images:
+          - src: BF01census1880.jpg

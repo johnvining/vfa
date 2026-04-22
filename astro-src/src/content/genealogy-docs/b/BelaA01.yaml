@@ -1,0 +1,92 @@
+id: BelaA01
+title: Bela A. Vining - Lucretia Ann Lyman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Bela A. Vining
+          values:
+            - "?"
+            - "47"
+            - "?"
+            - |-
+              67
+              [see note below]
+            - "78"
+            - dead
+            - ""
+        - label: Lucretia A. (Lyman) Vining
+          values:
+            - "?"
+            - "39"
+            - "?"
+            - 5[...?]
+            - "70"
+            - |-
+              80
+              [see note below]
+            - dead
+        - label: Fred J. Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Diane Vining
+          values:
+            - "?"
+            - "13"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elmo William Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - |-
+              29
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Lincoln, Mitchell County, Iowa - no dwelling number, family 116. Fred Vining seems to have been listed twice
+          in the 1880 census: at home and as a "farm laborer" in the household of a [Boyd?] family.
+        images:
+          - src: Bela03census1880.jpg
+      - year: "1900"
+        caption: >-
+          Lincoln Towsnhip, Mitchell County, Iowa - dwelling 13, family 13. In 1900 Elmo was married and living (with
+          wife Jennie and son Glenn William) in the same household as his parents.
+        images:
+          - src: Bela03census1900a.jpg
+          - src: Bela03census1900b.jpg
+      - year: "1910"
+        caption: West Lincoln Township, Mitchell County, Iowa - dwelling 6, family 6.
+        images:
+          - src: Bela03census1910.jpg
+      - year: "1920"
+        caption: >-
+          West Lincoln Township, Mitchell County, Iowa - dwelling 48, family 48. In 1920, Lucretia Vining (widow) was
+          living in the household of son Elmo.
+        images:
+          - src: Bela03census1920.jpg

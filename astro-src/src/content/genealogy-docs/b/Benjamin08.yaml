@@ -1,0 +1,39 @@
+id: Benjamin08
+title: Benjamin Vining - Belma [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Benjamin Vining
+          values:
+            - "?"
+            - "33"
+            - "43"
+        - label: Belma ([…]) Vining
+          values:
+            - "?"
+            - "27"
+            - "37"
+        - label: Loretta Vining
+          values:
+            - "?"
+            - "11"
+            - |-
+              21
+              [see note below]
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Chicago (ward 2, block 60), Cook County, Illinois - dwelling 94, family 265
+        images:
+          - src: Benjamin08census1930.jpg
+      - year: "1940"
+        caption: >-
+          Chicago (ward 2, block 9), Cook County, Illinois. By 1940, Loretta Vining was married, and she and her
+          daughter were living with her parents.
+        images:
+          - src: Benjamin08census1940.jpg
