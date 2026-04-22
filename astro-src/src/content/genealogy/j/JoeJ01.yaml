@@ -17,16 +17,12 @@ head:
     place: "Cedar Hill Cemetery   Rusk, Texas"
 marriages:
   - date: "(1?) [...] Andrews"
-  - date: "(2?) 17 August 1923"
-    spouse:
-      givenName: Gladys
-      surname: Pierce
-      birth:
-        date: 11 April 1906
-      death:
-        date: 22 November 1998
-      burial:
-        place: "Cedar Hill Cemetery   Rusk, Texas"
+    note: |-
+      (2?) 17 August 1923
+            Gladys Pierce
+                  b. 11 April 1906
+                  d. 22 November 1998
+                        bur. Cedar Hill Cemetery   Rusk, Texas
 childrenGroups:
   - headingText: "children by Gladys Pierce"
     children:

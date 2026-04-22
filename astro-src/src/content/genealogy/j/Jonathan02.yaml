@@ -27,7 +27,8 @@ marriages:
       burial:
         place: "Windsor Neck Cemetery   Windsor, Maine"
 childrenGroups:
-  - children:
+  - headingText: "children (<a href=\"Jsources/Jonathan02fam.htm\">family record from Windsor, Maine, town records</a>)"
+    children:
       - name: Clarissa Vining
         birth:
           date: 20 January 1806

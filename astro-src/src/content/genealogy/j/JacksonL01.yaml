@@ -22,12 +22,9 @@ marriages:
       birth:
         date: age 27 y. as of 1860 census
         place: Georgia
-  - spouse:
-      givenName: "[2?] Hester"
-      surname: "[&#8230;]"
-      birth:
-        date: age 30 y. as of 1880 census
-        place: Georgia
+    note: |-
+      [2?] Hester [&#8230;]
+            b. age 30 y. as of 1880 census   Georgia
 childrenGroups:
   - spouseRef: "Sarah [&#8230;]"
     children:

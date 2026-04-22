@@ -28,7 +28,8 @@ marriages:
         date: 26 April 1801
         place: "Jefferson County, Georgia"
 childrenGroups:
-  - children:
+  - headingText: "children (in order of mention in father's will)"
+    children:
       - name: Sarah Vining
         birth:
           date: ca. 1751

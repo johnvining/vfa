@@ -18,18 +18,12 @@ head:
     place: "Lindenwood Cemetery   Fort Wayne, Indiana"
 marriages:
   - date: "[1?] [&#8230;]"
-  - date: "[2?] 16 March 1861"
-    spouse:
-      givenName: Katherine
-      surname: Buettner
-      birth:
-        date: "1842"
-        place: Indiana
-      death:
-        date: 10 March 1905
-        place: "Fort Wayne, Indiana"
-      burial:
-        place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+    note: |-
+      [2?] 16 March 1861
+            Katherine Buettner
+                  b. 1842   Indiana
+                  d. 10 March 1905   Fort Wayne, Indiana
+                        bur. Lindenwood Cemetery   Fort Wayne, Indiana
 childrenGroups:
   - spouseRef: "[&#8230;]"
     headingText: "child by [&#8230;]"

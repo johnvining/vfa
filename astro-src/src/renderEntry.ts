@@ -350,14 +350,14 @@ export function renderEntry(data: EntryData): string {
 
   lines.push('');
 
-  // Notes (e.g. surname change, adoption note — rendered after children, matching original layout)
-  if (data.notes) lines.push(`   ${data.notes}`);
-  if (data.notes) lines.push('');
-
   // Docs link
   if (data.docsUrl) {
     lines.push(`<a href="${data.docsUrl}">documentation and notes</a>`);
   }
+
+  // Notes (e.g. surname change, annotation — rendered after docs link, matching original layout)
+  if (data.notes) lines.push('');
+  if (data.notes) lines.push(`   ${data.notes}`);
 
   return lines.join('\n');
 }
