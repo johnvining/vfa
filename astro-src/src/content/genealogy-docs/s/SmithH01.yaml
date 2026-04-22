@@ -1,0 +1,42 @@
+id: SmithH01
+title: Smith H. Vining - Fannie D. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Smith H. Vining
+          values:
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Fannie D. ([...]) Vining
+          values:
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Thomas R. C. Vining
+          values:
+            - 1 m.
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Salem (west ward), Salem County, New Jersey - dwelling 202, family 204. In 1900, Smith H. Vining, his wife,
+          and their son were living in the household of his parents.
+        images:
+          - src: SmithH01census1900a.jpg
+          - src: SmithH01census1900b.jpg

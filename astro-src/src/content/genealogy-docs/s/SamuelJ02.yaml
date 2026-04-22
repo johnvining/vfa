@@ -1,0 +1,78 @@
+id: SamuelJ02
+title: Samuel Joseph Vining - Sarah Adeline "Addie" Ellsworth
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Samuel Joseph Vining
+          values:
+            - "?"
+            - "35"
+            - "45"
+            - dead
+            - ""
+            - ""
+        - label: Sarah Adeline "Addie" (Ellsworth) Vining
+          values:
+            - "?"
+            - "31"
+            - "41"
+            - "51"
+            - "?"
+            - dead
+        - label: Vernon Ellsworth Vining
+          values:
+            - "?"
+            - "12"
+            - "21"
+            - "31"
+            - "?"
+            - "?"
+          indent: true
+        - label: Valley Echo Vining
+          values:
+            - ""
+            - "9"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Leo Heath Vining
+          values:
+            - ""
+            - "6"
+            - 1[7?]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Jefferson Township, Mercer County, Ohio - dwelling 110, family 112
+        images:
+          - src: SamuelJ02census1900.jpg
+      - year: "1910"
+        caption: Celina Village of Jefferson Township, Mercer County, Ohio - dwelling 2, family 2
+        images:
+          - src: SamuelJ02census1910.jpg
+      - year: "1920"
+        caption: >-
+          Celina Village of Jefferson Township, Mercer County, Ohio - dwelling 184, family 185. Sarah Adeline "Addie"
+          (Ellsworth) Vining married (2) Charles M. [Crouch?]. Charles, Sarah, and (step)son Vernon were family 185.
+        images:
+          - src: SamuelJ02census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Samuel J. Vining and Sarah Adeline "Addie" Ellsworth, in North Grove Cemetery, Celina, Ohio
+          (from Find A Grave):
+        images:
+          - src: SamuelJ02andwifeheadstone.jpg

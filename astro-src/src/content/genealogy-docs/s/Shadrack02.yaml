@@ -1,0 +1,87 @@
+id: Shadrack02
+title: Shadrack Vining - Martha [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Shadrack Vining
+          values:
+            - "27"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Martha ([...]) Vining
+          values:
+            - "[28?]"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Robert Vining
+          values:
+            - "3"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ella Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rosa Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Township 2, Range 1 west, Madison County, Alabama - dwelling 186, family 186. Also living in this household in
+          1870 was Coleman Eason (19 y., b. Alabama, farm laborer).
+        images:
+          - src: Shadrack02census1870.jpg
+      - year: "1880"
+        caption: >-
+          District 185, Limestone County, Alabama - Also living in this household in 1880 were James Grey (17 y., b.
+          Tennessee) and Richard Grey (12 y., b. Tennessee), both nephews of Shadrack Vining.
+        images:
+          - src: Shadrack02census1880.jpg

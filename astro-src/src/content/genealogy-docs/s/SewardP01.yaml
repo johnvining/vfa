@@ -1,0 +1,200 @@
+id: SewardP01
+title: Seward P. Vining - Martha C. Thomas
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Seward P. Vining
+          values:
+            - "45"
+            - "55"
+            - "65"
+            - "75"
+            - "?"
+            - dead
+        - label: Martha C. (Thomas) Vining
+          values:
+            - "35"
+            - "45"
+            - "55"
+            - "65"
+            - dead
+            - ""
+        - label: Harriet A. "Hattie" Vining
+          values:
+            - "14"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Henry C. Vining
+          values:
+            - "12"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hannibal H. Vining
+          values:
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Albion L. Vining
+          values:
+            - "8"
+            - "18"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ephraim Bernard Vining
+          values:
+            - "6"
+            - "16"
+            - |-
+              26
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Martha J. Vining
+          values:
+            - "4"
+            - "14"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Frank William Vining
+          values:
+            - "3"
+            - "13"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nelson Eugene Vining
+          values:
+            - 11 months
+            - "10"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Addie Vining
+          values:
+            - ""
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah W. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Allie Helena Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Fremont Seward Vining
+          values:
+            - ""
+            - "5"
+            - "14"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Fred E. Vining
+          values:
+            - ""
+            - 8 months
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Avon, Franklin County, Maine - dwelling 124, family 130
+        images:
+          - src: SewardP01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 265, family 270. Henry C. Vining was a "farm laborer" for a Nourse
+          family in Westboro, Worcester County, Massachusetts.
+        images:
+          - src: SewardP01census1860a.jpg
+          - src: SewardP01census1860b.jpg
+      - year: "1870"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 72, family 75. Ephraim Bernard Vining was listed first in the census
+          of a household that included his wife (Ann) and child (Mabel) plus his parents (Seward and Martha) and three
+          of his siblings (Sarah, Allie, and Fremont Seward). Nelson Eugene Vining was a "farm laborer" for a Phinney
+          family in Wilton, Franklin County, Maine.
+        images:
+          - src: SewardP01census1870.jpg
+      - year: "1880"
+        caption: Avon, Franklin County, Maine - dwelling 41, family 44
+        images:
+          - src: SewardP01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Seward P. Vining and Martha C. (Thomas) Vining, in Evergreen Cemetery, Phillips, Franklin
+          County, Maine (from Find A Grave):
+        images:
+          - src: SewardP01gravestone.jpg
+          - src: SewardP01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Headstone for Hannibal H. Vining and Merie O. (Gould) Vining, son and daughter-in-law of Seward P. Vining and
+          Martha C. (Thomas) Vining, in Evergreen Cemetery, Phillips, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: SewardP01sonHannibalgravestone.jpg
+      - caption: >-
+          Gravestone for Fremont Seward Vining, son of Seward P. Vining and Martha C. (Thomas) Vining, in Evergreen
+          Cemetery, Phillips, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: SewardP01sonFremontgravestone.jpg
+      - caption: >-
+          Gravestone for Ada F. Willard, wife of Fremont Seward Vining (son of Seward P. Vining and Martha C. (Thomas)
+          Vining) in Evergreen Cemetery, Phillips, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: SewardP01dauinlawAdagravestone.jpg

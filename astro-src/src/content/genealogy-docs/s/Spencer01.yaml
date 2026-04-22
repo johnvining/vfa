@@ -1,0 +1,72 @@
+id: Spencer01
+title: Spencer Vining - Sarah E. Porter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Spencer Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "58"
+            - "68"
+            - "?"
+        - label: Sarah E. (Porter) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "57"
+            - "67"
+            - "?"
+        - label: William Reed Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Porter Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Spencer Vining Jr.
+          values:
+            - ""
+            - "?"
+            - "?"
+            - |-
+              26
+              [see note below]
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Abington, Plymouth County, Massachusetts - dwelling 545, family 677. By 1860 Spencer Vining Jr. was married
+          but was still living in the household of his parents. Also living in this household in 1860 were Nancy A.
+          Vining (wife of Spencer Vining Jr., 21 y., b. Massachusetts) and Sally Brown (52 y., b. Massachusetts).
+        images:
+          - src: Spencer01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Abington, Plymouth County, Massachusetts - dwelling 360, family 427. Also living in this household in 1870 was
+          Sallie Brown (61 y., b. Massachusetts, domestic servant).
+        images:
+          - src: Spencer01census1870.jpg

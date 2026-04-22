@@ -1,0 +1,88 @@
+id: StephenT01
+title: Stephen T. Vining - Jennie Showers
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Stephen T. Vining
+          values:
+            - "33"
+            - "?"
+            - "53"
+            - "63"
+            - dead
+            - ""
+        - label: Jennie (Showers) Vining
+          values:
+            - "24"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Irving R. Vining
+          values:
+            - "2"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Otis [L. or S.] Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Bertha E. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "25"
+            - "?"
+            - dead
+          indent: true
+        - label: Minga B. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - living in separate household
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Hensonville, Greene County, New York - dwelling 232, family 242
+        images:
+          - src: StephenT01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Hensonville, Greene County, New York - dwelling 145, family 165. Also living in this household in 1900 was
+          Roswell S. Vining (18 y., b. New York, nephew of Stephen T. Vining [son of Stephen's brother Winfield Scott
+          Vining]).
+        images:
+          - src: StephenT01census1900.jpg
+      - year: "1910"
+        caption: Hensonville, Greene County, New York - dwelling 45, family 53
+        images:
+          - src: StephenT01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Memorial stone for Jennie Showers and headstone for Bertha E. Vining, daughter of Stephen T. Vining and Jennie
+          Showers, in Maplewood Cemetery, Greene County, New York (from Find A Grave):
+        images:
+          - src: StephenT01familyheadstone.jpg

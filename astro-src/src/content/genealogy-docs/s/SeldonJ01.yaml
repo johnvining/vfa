@@ -1,0 +1,97 @@
+id: SeldonJ01
+title: Seldon J. Vining - Alice Lowenstein
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Seldon J. Vining
+          values:
+            - |-
+              32 / 33
+              [see note below]
+            - "42"
+            - "51"
+            - "62"
+            - "72"
+        - label: Alice (Lowenstein) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "55"
+            - "65"
+        - label: Marie Thelma Vining
+          values:
+            - "4"
+            - "14"
+            - "23"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Marjorie C. Vining
+          values:
+            - |-
+              4 months / 1 year
+              [see note below]
+            - "10"
+            - "19"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Genevieve Virginia Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Maurice Nathaniel Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "25"
+            - married and living in separate household
+          indent: true
+        - label: Lenore E. Vining
+          values:
+            - ""
+            - 11 months
+            - "10"
+            - "19"
+            - "30"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          In 1900, the family of Seldon J. Vining was listed twice in the census of Seattle, King County, Washington:
+          Ward 8 - dwelling [371?], family 425; and Ward 6 - dwelling 157, family 335. In the latter record, the family
+          was reported to be living in the household of George Washington Vining, Seldon J. Vining's uncle.
+        images:
+          - src: SeldonJ01census1900a.jpg
+      - year: "1910"
+        caption: >-
+          Seattle (Ward 3), King County, Washington - dwelling 111, family 110. Also living in this household in 1910
+          was Anna L. Vining, the mother of Seldon J. Vining.
+        images:
+          - src: SeldonJ01census1910.jpg
+      - year: "1920"
+        caption: Seattle (Precinct 88), King County, Washington - 1411 Eighth Avenue West
+        images:
+          - src: SeldonJ01census1920.jpg
+      - year: "1930"
+        caption: Seattle, King County, Washington - dwelling 326, family 359
+        images:
+          - src: SeldonJ01census1930a.jpg
+          - src: SeldonJ01census1930b.jpg
+      - year: "1940"
+        caption: Seattle, King County, Washington
+        images:
+          - src: SeldonJ01census1940.jpg

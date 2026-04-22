@@ -1,0 +1,110 @@
+id: SandersJ01
+title: Sanders J. Vining - Eliza[beth?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Sanders J. Vining
+          values:
+            - "?"
+            - "40"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+        - label: Eliza[beth?] ([...]) Vining
+          values:
+            - "?"
+            - "38"
+            - "43"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Jane Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Wesley Vining
+          values:
+            - "?"
+            - "14"
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James M. Vining
+          values:
+            - "?"
+            - "11"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lou Vining
+          values:
+            - ""
+            - ""
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah "Sallie" Vining
+          values:
+            - ""
+            - ""
+            - "16"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Julius Cornelius Vining
+          values:
+            - ""
+            - ""
+            - "14"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Ida Vining
+          values:
+            - ""
+            - ""
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mittie Lee Vining
+          values:
+            - ""
+            - ""
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Thomaston post office, Upson County, Georgia - dwelling 857, family 857
+        images:
+          - src: SandersJ01census1870.jpg
+      - year: "1880"
+        caption: Flint, Upson County, Georgia
+  - type: research
+    text: Is Sanders J. Vining the same person as John Sanders Vining?

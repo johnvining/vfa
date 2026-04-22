@@ -1,0 +1,68 @@
+id: SimeonB02
+title: Simeon B. Vining - Ella Cramer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Simeon B. Vining
+          values:
+            - "28"
+            - "?"
+            - "48"
+            - "?"
+            - dead
+        - label: Ella (Cramer) Vining
+          values:
+            - "28"
+            - "?"
+            - "48"
+            - dead
+            - ""
+        - label: John Byrum Vining
+          values:
+            - "6"
+            - "?"
+            - "26"
+            - "?"
+            - "?"
+          indent: true
+        - label: Francis B. Vining
+          values:
+            - "4"
+            - "?"
+            - "24"
+            - "?"
+            - "?"
+          indent: true
+        - label: O[l?]evie Vining
+          values:
+            - "3"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Lincoln Township, Morrow County, Ohio - dwelling 44, family 51
+        images:
+          - src: SimeonB02census1880.jpg
+      - year: "1900"
+        caption: Oxford Township, Delaware County, Ohio - dwelling 90, family 101
+        images:
+          - src: SimeonB02census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Simeon B. Vining and Ella (Cramer) Vining, in Ashley Union Cemetery, Ashley, Ohio (from Find A
+          Grave):
+        images:
+          - src: SimeonB02gravestone.jpg
+          - src: SimeonB02wifegravestone.jpg
+        inline: true

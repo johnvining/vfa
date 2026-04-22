@@ -1,0 +1,85 @@
+id: SamuelJ01
+title: Samuel Jehue Vining - Mary Lucretia "Lucy" Chesser
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Samuel Jehue Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+        - label: Mary Lucretia (“Lucy” (Chesser) Vining
+          values:
+            - "22"
+            - "33"
+            - "43"
+        - label: Lois Mae Vining
+          values:
+            - "6"
+            - "16"
+            - |-
+              26
+              [see note below]
+          indent: true
+        - label: Floyd Vining
+          values:
+            - 4 y., 6 m.
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Hugh Vining
+          values:
+            - ""
+            - "9"
+            - "[living? in separate household]"
+          indent: true
+        - label: Libur[…] J. Vining
+          values:
+            - ""
+            - "3"
+            - "19"
+          indent: true
+        - label: E. Louise Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+          indent: true
+        - label: Kenneth N[orman?] Vining
+          values:
+            - ""
+            - 1 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Kingdom, Bibb County, Alabama - dwelling 95, family 99
+        images:
+          - src: SamuelJ01census1920.jpg
+      - year: "1930"
+        caption: Beat 1, Jefferson County, Alabama - dwelling 144, family 133
+        images:
+          - src: SamuelJ01census1930.jpg
+      - year: "1940"
+        caption: McCalla, Jefferson County, Alabama
+        images:
+          - src: SamuelJ01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I draft registration card for Samuel Jehue Vining:"
+        images:
+          - src: SamuelJ01WWIregistrationcarda.jpg
+          - src: SamuelJ01WWIregistrationcardb.jpg
+        inline: true
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Samuel Jehue Vining and Mary Lucretia "Lucy" (Chesser) Vining, in Green Pond Presbyterian Church
+          Cemetery, Green Pond, Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: SamuelJ01andwifeheadstone.jpg

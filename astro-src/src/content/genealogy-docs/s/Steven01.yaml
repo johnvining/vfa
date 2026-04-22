@@ -1,0 +1,45 @@
+id: Steven01
+title: Steven Vining - (1) Grace Sherwood;   (2) Alice Elma Bliss
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Steven Vining
+          values:
+            - "27"
+            - "37"
+        - label: Grace (Sherwood) Vining
+          values:
+            - "28"
+            - "38"
+        - label: Alice Elma (Bliss) Vining
+          values:
+            - ""
+            - ""
+        - label: Helen Luellan Vining
+          values:
+            - "10"
+            - "[living? in separate household]"
+          indent: true
+        - label: Mildred G. Vining
+          values:
+            - "8"
+            - "[living? in separate household]"
+          indent: true
+        - label: Steven J. Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Cincinnatus, Cortland County, New York - dwelling [?], family 224
+        images:
+          - src: Steven01census1930.jpg
+      - year: "1940"
+        caption: Cortlandville, Cortland County, New York
+        images:
+          - src: Steven01census1940.jpg

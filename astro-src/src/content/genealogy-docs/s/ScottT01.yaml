@@ -1,0 +1,101 @@
+id: ScottT01
+title: Scott T. Vining - Mary A. McArthur
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Scott T. Vining
+          values:
+            - "25"
+            - "35"
+            - "44"
+            - "55"
+            - "?"
+        - label: Mary A. (McArthur) Vining
+          values:
+            - "22"
+            - "30"
+            - "40"
+            - "52"
+            - "?"
+        - label: Robert D. Vining
+          values:
+            - "2"
+            - "11"
+            - "21"
+            - "31"
+            - "?"
+          indent: true
+        - label: Audrey M. Vining
+          values:
+            - 7 months
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Scott M. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Dorothy M. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Bernice M. Vining
+          values:
+            - ""
+            - |-
+              [1?]
+              [see note below]
+            - "10"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Springfield, Hampden County, Massachusetts - dwelling 328, family 381. Also living in this household in 1900
+          was Margaret McArthur (b. [March?] 1885, Massachusetts, sister-in-law of Scott T. Vining).
+        images:
+          - src: ScottT01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Springfield (ward 7), Hampden County, Massachusetts - dwelling 56, family 69. By 1910, Mary A. [McCarthur]
+          Vining had given birth to 5 children, 4 of whom were living. Age of Bernice M. in 1910 is difficult to read
+          from the census microfilm.
+        images:
+          - src: ScottT01census1910.jpg
+      - year: "1920"
+        caption: Springfield (ward 7), Hampden County, Massachusetts - dwelling 49, family 61
+        images:
+          - src: ScottT01census1920.jpg
+      - year: "1930"
+        caption: >-
+          East Windsor Township, Hartford County, Connecticut - dwelling 185, family 211. Also living in this household
+          in 1930 was Carol[ene?] (28 y., b. Massachusetts, wife of Robert D. Vining).
+        images:
+          - src: ScottT01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Scott T. Vining, Mary A. (McArthur) Vining, and daughter Audrey M. Vining, in Springdale
+          Cemetery, East Windsor, Hartford County, Connecticut (from Find A Grave):
+        images:
+          - src: ScottT01andfamilyheadstone.jpg

@@ -1,0 +1,119 @@
+id: Samuel05
+title: Samuel Vining - Mary "Polly" Smith
+sections:
+  - type: marriage
+    items:
+      - caption: >-
+          Marriage intentions of Samuel Vining and Mary “Polly” Smith, from Lisbon, Maine, town records. The dashed
+          diagonal lines are placed there by the town of Lisbon to show that it is not a certified record.
+        images:
+          - src: Samuel05andwifemarriageint.jpg
+      - caption: >-
+          Marriage intentions of Mary A. Vining and Harvey Barrows, from Lisbon, Maine, town records. The dashed
+          diagonal lines are placed there by the town of Lisbon to show that it is not a certified record.
+        images:
+          - src: Samuel05dauMarymarriageint.jpg
+  - type: family
+    items:
+      - caption: >-
+          The town of Durham, Androscoggin County, Maine, has photocopied its vital record books, and those photocopies
+          are available for public viewing. Unfortunately, much of the photocopied material is very difficult to
+          impossible to read. Below is the page (greatly enlarged) recording the family of Samuel Vining and Mary
+          “Polly” Smith. The information on this page was entered by what appears to be at least two individuals, but
+          all the information on Samuel and Mary's family are by one person. These earliest (and lightest) entries were
+          made on 5 February 1865 by James Strout Jr., the town clerk, and recorded events that occurred from a decade
+          to nearly 70 years earlier.
+        images:
+          - src: Samuel05Durhamrecordsp415.jpg
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Samuel Vining
+          values:
+            - 30–40
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Mary “Polly” (Smith) Vining
+          values:
+            - 30–40
+            - "?"
+            - "55"
+            - "65"
+            - |-
+              76
+              [see note below]
+            - dead
+        - label: Mary A. Vining
+          values:
+            - under 5
+            - "?"
+            - "24"
+            - "34"
+            - |-
+              44
+              [see note below]
+            - dead
+          indent: true
+        - label: Otis S. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Martha Elizabeth Vining
+          values:
+            - ""
+            - "?"
+            - "14"
+            - "24"
+            - |-
+              34
+              [see note below]
+            - dead
+          indent: true
+    entries:
+      - year: "1830"
+        caption: Durham, Cumberland County [Durham is now in Androscoggin County], Maine
+        images:
+          - src: Samuel05census1830a.jpg
+          - src: Samuel05census1830b.jpg
+      - year: "1850"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - dwelling 7, family 9. Also living
+          with this family in 1850 was John A. Smith (13 y., b. Maine).
+        images:
+          - src: Samuel05census1850.jpg
+      - year: "1860"
+        caption: Durham, Androscoggin County, Maine - dwelling 303, family 317
+        images:
+          - src: Samuel05census1860.jpg
+      - year: "1870"
+        caption: >-
+          Lisbon, Androscoggin County, Maine - dwelling 105, family 115. Mary A. Vining was listed first in the 1870
+          census, with mother Mary and sister Martha Elizabeth (reported as "foolish") living in the household.
+        images:
+          - src: Samuel05census1870.jpg
+  - type: death
+    items:
+      - caption: "Gravestones for Samuel Vining and Mary “Polly” Smith, in Lisbon Cemetery, Lisbon, Androscoggin County, Maine:"
+        images:
+          - src: Samuel05gravestone.jpg
+          - src: Samuel05wifegravestone.jpg
+      - caption: >-
+          Gravestone for Martha Elizabeth Vining, daughter of Samuel Vining and Mary “Polly” Smith, in Lisbon Cemetery,
+          Lisbon, Androscoggin County, Maine:
+        images:
+          - src: Samuel05dauMarthagravestone.jpg

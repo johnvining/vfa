@@ -1,0 +1,77 @@
+id: ShirleyR01
+title: Shirley R. Vining - Beatrice M. Ham
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Shirley R. Vining
+          values:
+            - "26"
+            - "36"
+            - dead
+        - label: Beatrice M. (Ham) Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+        - label: Florence L. Vining
+          values:
+            - "3"
+            - "13"
+            - "[living? in separate household]"
+          indent: true
+        - label: Sidney Ellsworth Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+          indent: true
+        - label: Muriel S. Vining
+          values:
+            - ""
+            - "9"
+            - "[living? in separate household]"
+          indent: true
+        - label: Priscilla M. Vining
+          values:
+            - ""
+            - "6"
+            - "[living? in separate household]"
+          indent: true
+        - label: John E. Vining
+          values:
+            - ""
+            - 4 y., 1[1?] m.
+            - "15"
+          indent: true
+        - label: Warren H. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+          indent: true
+        - label: Judith A. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Pelham, Hillsborough County, New Hampshire - dwelling 71, family 83
+        images:
+          - src: ShirleyR01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Pelham, Hillsborough County, New Hampshire - dwelling 16, family 16. In 1930, this family was living in the
+          household of Edward Ham, father of Beatrice M. (Ham) Vining.
+        images:
+          - src: ShirleyR01census1930.jpg
+      - year: "1940"
+        caption: Pelham, Hillsborough County, New Hampshire
+        images:
+          - src: ShirleyR01census1940.jpg

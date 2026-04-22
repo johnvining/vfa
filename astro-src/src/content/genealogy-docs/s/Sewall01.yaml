@@ -1,0 +1,111 @@
+id: Sewall01
+title: Sewall Vining - (1) Hepzibah D. Blanchard, (2) Mrs. Mary Randall
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Sewall Vining
+          values:
+            - "?"
+            - "42"
+            - "50"
+            - "62"
+            - "72"
+            - "?"
+        - label: Hepzibah D. (Blanchard) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Mrs. Mary (Randall) Vining
+          values:
+            - ""
+            - ""
+            - "40"
+            - "59"
+            - "?"
+            - "?"
+        - label: Ellen Augusta Vining
+          values:
+            - "?"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William H. L. Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Edward Orville Vining
+          values:
+            - ""
+            - "7"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Henry Sewall Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Everard Augustus Vining
+          values:
+            - ""
+            - "4"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Durham, Cumberland County [Durham is now in Androscoggin County], Maine
+        images:
+          - src: Sewall01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Roxbury (ward 1), Norfolk County, Massachusetts - dwelling 255, family 400. Also living in this household in
+          1860 was George B. Randall (12 y., b. Maine).
+        images:
+          - src: Sewall01census1860.jpg
+      - year: "1870"
+        caption: Lisbon, Androscoggin County, Maine - dwelling 114, family 128
+        images:
+          - src: Sewall01census1870.jpg
+      - year: "1880"
+        caption: Lisbon, Androscoggin County, Maine - dwelling 360 [alms house], "family" 420
+        images:
+          - src: Sewall01census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestone of Hepzibah D. (Blanchard) Vining, in Strout Cemetery, Durham, Androscoggin County, Maine:"
+        images:
+          - src: Sewall01wifeHepzibahgravestone.jpg
+      - caption: >-
+          Gravestone of William H. L. Vining, son of Sewall Vining and Hepzibah D. Blanchard, in Strout Cemetery,
+          Durham, Androscoggin County, Maine:
+        images:
+          - src: Sewall01sonWilliamgravestone.jpg

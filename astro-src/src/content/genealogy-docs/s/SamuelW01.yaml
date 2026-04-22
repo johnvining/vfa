@@ -1,0 +1,52 @@
+id: SamuelW01
+title: Samuel Wesley Vining - Ellen B. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Samuel Wesley Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ellen B. ([...]) Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Vining
+          values:
+            - 11 m.
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Bennington Township, Morrow County, Ohio - dwelling 79, family 80
+        images:
+          - src: SamuelW01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Samuel Wesley Vining and Ellen B. ([...]), in Rivercliff Cemetery, Mount Gilead, Morrow
+          County, Ohio (from Find A Grave):
+        images:
+          - src: SamuelW01gravestone.jpg
+          - src: SamuelW01wifegravestone.jpg
+        inline: true

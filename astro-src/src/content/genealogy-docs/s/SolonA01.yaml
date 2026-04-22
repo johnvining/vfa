@@ -1,0 +1,85 @@
+id: SolonA01
+title: Solon Augustus Vining - Louisa Holbrook
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Solon Augustus Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "55"
+            - "?"
+            - dead
+        - label: Louisa (Holbrook) Vining
+          values:
+            - "20"
+            - "30"
+            - "40"
+            - "50"
+            - "?"
+            - "?"
+        - label: Ada Louise Vining
+          values:
+            - "2"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charlotte E. Vining
+          values:
+            - 4 m.
+            - "10"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lucy A. Vining
+          values:
+            - ""
+            - "8"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Carrie F. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 21, family 23
+        images:
+          - src: SolonA01census1850.jpg
+      - year: "1860"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 801, family 919
+        images:
+          - src: SolonA01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1385, family 1675. In 1870, another family (1676) was
+          living in the same dwelling. The two members of the family were Minot Holbrook (64 y., b. Massachusetts) and
+          Lavinia Holbrook (60 y., b. Massachusetts), parents of Louisa (Holbrook) Vining.
+        images:
+          - src: SolonA01census1870.jpg
+      - year: "1880"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 380, family 472
+        images:
+          - src: SolonA01census1880.jpg

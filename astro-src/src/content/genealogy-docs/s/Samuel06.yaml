@@ -1,0 +1,129 @@
+id: Samuel06
+title: Samuel Vining - Mary "Polly" Miller
+sections:
+  - type: family
+    items:
+      - caption: "Samuel Vining and Mary “Polly” Miller:"
+        images:
+          - src: Samuel06andwifephoto.jpg
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Samuel Vining
+          values:
+            - "?"
+            - "?"
+            - "48"
+            - "58"
+            - "67"
+            - dead
+        - label: Mary “Polly” (Miller) Vining
+          values:
+            - "?"
+            - "?"
+            - "45"
+            - "55"
+            - "65"
+            - "?"
+        - label: Abijah Vining
+          values:
+            - "?"
+            - "?"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Simeon Vining
+          values:
+            - ""
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Robert Miller Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "24"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Margaret Jane Vining
+          values:
+            - ""
+            - "?"
+            - "10"
+            - "19"
+            - "[married and living in separate household?]"
+            - ""
+          indent: true
+        - label: Minor Simeon Vining
+          values:
+            - ""
+            - ""
+            - |-
+              8
+              [see note below]
+            - "18"
+            - not living in this household
+            - ""
+          indent: true
+        - label: William Harmon Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "15"
+            - "24"
+            - "?"
+          indent: true
+        - label: Simon S. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "21"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Mississinawa Township, Darke County, Ohio - dwelling 28, family 28. In the 1850 census, there were entries for
+          "Miner Vining" (age 8 y.) and "Simon Vining" (age 8 y.). The entry for Simon followed the one for "Wm. Vining"
+          (age 5 y.).
+        images:
+          - src: Samuel06census1850.jpg
+      - year: "1860"
+        caption: Mississinawa Township, Darke County, Ohio - dwelling 383, family 386
+        images:
+          - src: Samuel06census1860.jpg
+      - year: "1870"
+        caption: Mississinawa Township, Darke County, Ohio - dwelling 79, family 79
+        images:
+          - src: Samuel06census1870.jpg
+  - type: death
+    items:
+      - caption: "Side of monument for Samuel Vining, in Pleasant Ridge Cemetery, Darke County, Ohio (from Find A Grave):"
+        images:
+          - src: Samuel06monumentside.jpg

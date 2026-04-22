@@ -1,0 +1,70 @@
+id: SimonS01
+title: Simon S. Vining - Mary Elenor Roush
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Simon S. Vining
+          values:
+            - "30"
+            - "?"
+            - "50"
+            - "60"
+            - "70"
+            - "?"
+        - label: Mary Elenor (Roush) Vining
+          values:
+            - "23"
+            - "?"
+            - "43"
+            - "53"
+            - "62"
+            - "?"
+        - label: "[Harmon Leonidist or Leandus or Alonzo H.] Vining"
+          values:
+            - "3"
+            - "?"
+            - "23"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Elva Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Cora Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Mississinawa, Darke County, Ohio.
+      - year: "1900"
+        caption: Mississinawa, Darke County, Ohio - dwelling 164, family 166.
+      - year: "1910"
+        caption: Mississinawa, Darke County, Ohio - dwelling 217, family 219.
+      - year: "1920"
+        caption: Mississinawa, Darke County, Ohio - dwelling 35, family 35.
+  - type: death
+    items:
+      - caption: "Obituary for Elva (Vining) Caupp, daughter of Simon S. Vining and Mary Elenor Roush:"
+        images:
+          - src: SimonS01dauElvaobituary.jpg

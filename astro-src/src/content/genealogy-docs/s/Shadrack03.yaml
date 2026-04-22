@@ -1,0 +1,41 @@
+id: Shadrack03
+title: Shadrack Vining - Virginia [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Shadrack Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Virginia ([...]) Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John P. Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Kingdom, Bibb County, Alabama
