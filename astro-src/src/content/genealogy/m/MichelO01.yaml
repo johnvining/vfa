@@ -24,16 +24,11 @@ marriages:
       death:
         date: 16 March 1991
         place: "Morgan City, Louisiana"
-  - date: "[2?] Pauline Ethel [&#8230;]"
-    spouse:
-      birth:
-        date: age 75 y. at death
-        place: Louisiana
-      death:
-        date: December 1983
-        place: "Berwick, Louisiana"
-      burial:
-        place: Willow Grove Cemetery
+    note: |-
+      [2?] Pauline Ethel [&#8230;]
+            b. age 75 y. at death   Louisiana
+            d. December 1983   Berwick, Louisiana
+                  bur. Willow Grove Cemetery
 childrenGroups:
   - headingText: "children [by ?]"
     children:
