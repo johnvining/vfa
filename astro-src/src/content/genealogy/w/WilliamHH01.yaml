@@ -28,7 +28,8 @@ marriages:
       burial:
         place: "Maplewood Cemetery   Rockland, Massachusetts"
 childrenGroups:
-  - children:
+  - headingText: "children [see documentation and notes]"
+    children:
       - name: Grace A. Vining
         birth:
           date: August 1873

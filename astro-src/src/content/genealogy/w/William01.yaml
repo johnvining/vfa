@@ -20,19 +20,13 @@ marriages:
   - spouse:
       givenName: "[1?] Phoebe"
       surname: "[...]"
-  - date: "[2?] 1803"
-    spouse:
-      givenName: Huldah
-      surname: Pinney
-      parents: "(dau. of Abner Pinney and Ruth Gillett)"
-      birth:
-        date: 5 April 1780
-        place: "Simsbury, Connecticut"
-      death:
-        date: 19 July 1847
-        place: "Worthington, Ohio"
-      burial:
-        place: "Saint Johns Episcopal Church Cemetery   Worthington, Ohio"
+    note: |-
+      [2?] 1803
+      Huldah Pinney
+      (dau. of Abner Pinney and Ruth Gillett)
+      b. 5 April 1780   Simsbury, Connecticut
+      d. 19 July 1847   Worthington, Ohio
+            bur. Saint Johns Episcopal Church Cemetery   Worthington, Ohio
 childrenGroups:
   - headingText: "child by [Phoebe [...]?]"
     children:

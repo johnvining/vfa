@@ -22,7 +22,8 @@ marriages:
         date: 15 May 1800
         place: "[St. Stephen, New Brunswick or Calais, Maine?]"
 childrenGroups:
-  - children:
+  - headingText: "children (<a href=\"Wsources/William02doc.htm\">family record from Durham, Maine, town records</a>)"
+    children:
       - name: Mary Jane Vining
         birth:
           date: 25 November 1818
@@ -84,6 +85,7 @@ childrenGroups:
           date: (16 or 17) June 1841
           place: "Durham, Maine"
 docsUrl: Wsources/William02doc.htm
+notes: "Note: James E. Vining's death date was reported as 20 April 1849 in the town records and 22 April 1849 on his gravestone."
 raw: |-
   <a name="William02"></a><font size=+2>William Vining</font>
      (son of <a href="Bfamilies.htm#Bela01">Bela Vining and Thankful Millbanks</a>)
