@@ -1,0 +1,56 @@
+id: MerrittA01
+title: Merritt Alfred Vining - Marian Monica Armstrong
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Merritt Alfred Vining
+          values:
+            - "39"
+            - "49"
+        - label: Marian Monica Armstrong
+          values:
+            - "33"
+            - "43"
+        - label: Rodney Merritt Vining
+          values:
+            - "6"
+            - "16"
+          indent: true
+        - label: Richard Alfred Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: William Joseph Vining
+          values:
+            - 1 y., 6 m.
+            - "11"
+          indent: true
+        - label: Patricia Jane Vining
+          values:
+            - ""
+            - "1"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Grand Rapids (ward 3), Kent County, Michigan - dwelling 10, family 10. Also living in this household in 1930
+          was Adeline Jane (Baker) Vining, widowed mother of Merritt Alfred Vining.
+        images:
+          - src: MerrittA01census1930.jpg
+      - year: "1940"
+        caption: Evansville, Vanderburgh County, Indiana
+        images:
+          - src: MerrittA01census1940a.jpg
+          - src: MerrittA01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument side for Merritt Alfred Vining and Marian Monica Armstrong, in North Hatfield Cemetery, North
+          Hatfield, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: MerrittA01andwifemonumentside.jpg

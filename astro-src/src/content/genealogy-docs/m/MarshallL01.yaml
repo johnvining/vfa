@@ -1,0 +1,116 @@
+id: MarshallL01
+title: Marshall Lee Vining - (1) Lula Bishop;   (2) Bela M. [...]
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage license for Marshall Lee Vining and Lula Bishop:"
+        images:
+          - src: MarshallL01marriagelicense.jpg
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Marshall Lee Vining
+          values:
+            - "24"
+            - "30"
+            - "43"
+            - "54"
+        - label: Lula (Bishop) Vining
+          values:
+            - 33 [sic]
+            - "32"
+            - "42"
+            - dead
+        - label: Bela M. ([…]) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "37"
+        - label: Bessie M. Vining
+          values:
+            - "3"
+            - "13"
+            - |-
+              23
+              [see note below]
+            - ""
+          indent: true
+        - label: Louella Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "[married and?] living in separate household"
+          indent: true
+        - label: John Wesley Vining
+          values:
+            - ""
+            - 3 y., [11?] m.
+            - "13"
+            - married and living in separate household
+          indent: true
+        - label: "[?] Vining"
+          values:
+            - ""
+            - "[?] m."
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Marshall Lee Vining Jr.
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Helen V. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Sanders (district 447), Jones County, Georgia - dwelling 70, family 90
+        images:
+          - src: MarshallL01census1910.jpg
+      - year: "1920"
+        caption: Middlebrook, Monroe County, Georgia - dwelling 65, family 66
+        images:
+          - src: MarshallL01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Forsyth, Monroe County, Georgia - dwelling 120, family 132. By 1930, Bessie M. Vining was married, to Roy
+          Laurence, and she and her husband were living in the household of her parents.
+        images:
+          - src: MarshallL01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Macon, Bibb County, Georgia. Also living in this household in 1940 was Lucy (Jenkins) Vining (74 y., b.
+          Georgia), the widowed mother of Marshall Lee Vining.
+        images:
+          - src: MarshallL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Marshall Lee Vining and Lula (Bishop) Vining, in Forsyth City Cemetery, Forsyth, Monroe
+          County, Georgia (from Find A Grave):
+        images:
+          - src: MarshallL01gravestone.jpg
+          - src: MarshallL01wifeLulagravestone.jpg
+        inline: true
+      - caption: "Gravestone for Bela M. ([…]) Vining, in Macon Memorial Park, Macon, Bibb County, Georgia (from Find A Grave):"
+        images:
+          - src: MarshallL01wifeBelagravestone.jpg
+      - caption: >-
+          Gravestone for Louella (Vining) Britt, daughter of Marshall Lee Vining and Lula (Bishop) Vining, in Forsyth
+          City Cemetery, Forsyth, Monroe County, Georgia (from Find A Grave):
+        images:
+          - src: MarshallL01dauLouellagravestone.jpg

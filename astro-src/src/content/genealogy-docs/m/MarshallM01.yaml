@@ -1,0 +1,73 @@
+id: MarshallM01
+title: Marshall M. Vining - Addie Swearingen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Marshall M. Vining
+          values:
+            - "40"
+            - "50"
+            - "60"
+            - "70"
+            - dead
+        - label: Addie (Swearingen) Vining
+          values:
+            - "36"
+            - "46"
+            - "55"
+            - "66"
+            - "76"
+        - label: Vera Francis Vining
+          values:
+            - "12"
+            - "22"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Percival Lyman Vining
+          values:
+            - "4"
+            - "13"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Boyer Township, Harrison County, Iowa - dwelling 222, family 226. Also living in this household in 1900 were
+          three boarders: Bernard Hurley (31 y., b. Wisconsin), James W. Nash (25 y., b. Kentucky), and Bertha T. Nash
+          (24 y., b. Indiana).
+        images:
+          - src: MarshallM01census1900.jpg
+      - year: "1910"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 342, family 345
+        images:
+          - src: MarshallM01census1910.jpg
+      - year: "1920"
+        caption: Boyer Township / Woodbine, Harrison County, Iowa - dwelling 45, family 46
+        images:
+          - src: MarshallM01census1920.jpg
+      - year: "1930"
+        caption: Boyer Township / Woodbine Town, Harrison County, Iowa - dwelling 123, family 127
+        images:
+          - src: MarshallM01census1930.jpg
+      - year: "1940"
+        caption: Boyer Township, Harrison County, Iowa
+        images:
+          - src: MarshallM01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Marshall M. Vining and Addie (Swearingen) Vining, in Woodbine Cemetery, Woodbine, Harrison
+          County, Iowa (from Find A Grave):
+        images:
+          - src: MarshallM01andwifeheadstone.jpg

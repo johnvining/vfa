@@ -1,0 +1,74 @@
+id: MauriceA01
+title: Maurice Alonzo Vining - Mary Grace Morris
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Maurice Alonzo Vining
+          values:
+            - "45"
+            - "55"
+            - dead
+            - ""
+            - ""
+        - label: Mary Grace (Morris) Vining
+          values:
+            - "[36?]"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+        - label: Otto Brooks Vining
+          values:
+            - "14"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Laura A. Vining
+          values:
+            - "[13?]"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary G. Vining
+          values:
+            - "11"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Carl?] Vining"
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Decatur Township, Van Buren County, Michigan - dwelling 303, family 312
+        images:
+          - src: MauriceA01census1900.jpg
+      - year: "1910"
+        caption: Antwerp Township, Van Buren County, Michigan - dwelling 262, family 269
+        images:
+          - src: MauriceA01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Maurice Alonzo Vining and Mary Grace (Morris) Vining, in Lakeside Cemetery, Decatur, Van Buren
+          County, Michigan (from Find A Grave):
+        images:
+          - src: MauriceA01andwifeheadstone.jpg

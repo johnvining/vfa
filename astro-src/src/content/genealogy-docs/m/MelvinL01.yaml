@@ -1,0 +1,43 @@
+id: MelvinL01
+title: Melvin Latham Vining - Elizabeth G. Pennell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Melvin Latham Vining
+          values:
+            - "?"
+            - "39"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth G. (Pennell) Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Albert Edward Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Cummington, Hampshire County, Massachusetts - dwelling 1680, family 1697
+        images:
+          - src: MelvinL01census1860.jpg

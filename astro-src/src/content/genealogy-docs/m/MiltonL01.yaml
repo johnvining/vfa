@@ -1,0 +1,61 @@
+id: MiltonL01
+title: Milton L. Vining - Catharine M. Hubbard
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Milton L. Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+            - dead
+            - ""
+            - ""
+        - label: Catharine M. (Hubbard) Vining
+          values:
+            - "31"
+            - "41"
+            - "50"
+            - "62"
+            - "?"
+            - "79"
+        - label: Ellen M. Vining
+          values:
+            - "5"
+            - "15"
+            - "24"
+            - "33"
+            - "?"
+            - "55"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Enfield, Hartford County, Connecticut - dwelling 73, family 81
+        images:
+          - src: MiltonL01census1850.jpg
+      - year: "1860"
+        caption: Enfield, Hartford County, Connecticut - dwelling 1560, family 1537
+        images:
+          - src: MiltonL01census1860.jpg
+      - year: "1870"
+        caption: Hartford (ward 3), Hartford County, Connecticut - dwelling [72?], family 137
+        images:
+          - src: MiltonL01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Enfield, Hartford County, Connecticut - dwelling 11, family 14. Also living in this household in 1880 was
+          Abbie A. Sherwood (74 y., b. Connecticut).
+        images:
+          - src: MiltonL01census1880.jpg
+      - year: "1900"
+        caption: Ansonia Township, New Haven County, Connecticut - dwelling 247, family 300
+        images:
+          - src: MiltonL01census1900.jpg

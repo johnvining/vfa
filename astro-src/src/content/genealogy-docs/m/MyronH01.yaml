@@ -1,0 +1,105 @@
+id: MyronH01
+title: Myron Henry Vining - Isabelle Nettie Kays
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Myron Henry Vining
+          values:
+            - "?"
+            - "?"
+            - "39"
+            - "49"
+            - "61"
+            - "?"
+        - label: Isabelle Nettie (Kays) Vining
+          values:
+            - ""
+            - ""
+            - "36"
+            - "46"
+            - "55"
+            - "?"
+        - label: James Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "16"
+            - not living in this household
+            - ""
+          indent: true
+        - label: Viola A. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "13"
+            - |-
+              22
+              [see note below]
+            - married and living in separate household
+          indent: true
+        - label: Roy Vining
+          values:
+            - ""
+            - ""
+            - 8 months
+            - "10"
+            - not living in this household
+            - ""
+          indent: true
+        - label: Theodore R. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "17"
+            - "?"
+          indent: true
+        - label: Charles M. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          East Waterloo Township, Black Hawk County, Iowa - dwelling 665, family 730. Also living in this household in
+          1900 were three of Isabelle Nettie Kays's children by her first marriage. James was also hers by that
+          marriage, but he was later reported with the last name Vining.
+        images:
+          - src: MyronH01census1900.jpg
+      - year: "1910"
+        caption: >-
+          East Waterloo Township, Black Hawk County, Iowa - dwelling 275, family 309. Also living in this household in
+          1910 were Ralph Tait (36 y., b. Kansas, a lodger) and Robert Vining (40 y., b. Iowa, a brother of Myron Henry
+          Vining).
+        images:
+          - src: MyronH01census1910.jpg
+      - year: "1920"
+        caption: >-
+          East Waterloo Township, Black Hawk County, Iowa - dwelling 185, family 278. Also living in this household in
+          1920 were Ralph R. Tate [sic] (45 y., b. Illinois [sic], a roomer) and Eadward Olds (54 y., b. Iowa, a roomer)
+          plus Viola A. (Vining) Tracy and her husband and daughter.
+        images:
+          - src: MyronH01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Myron Henry Vining and Isabelle Nettie (Kays) Vining, in Fontana Cemetery Hazelton, Iowa (from
+          Find A Grave):
+        images:
+          - src: MyronH01andwifeheadstone.jpg
