@@ -26,7 +26,8 @@ marriages:
       death:
         date: "1927"
 childrenGroups:
-  - children:
+  - headingText: "children [see note below]"
+    children:
       - name: James Manley Vining
         entryId: JamesM01
         entryLetter: J

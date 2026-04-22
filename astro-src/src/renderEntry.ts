@@ -54,7 +54,7 @@ interface ChildrenGroup {
 interface EntryData {
   id: string;
   letter: string;
-  relationship?: 'son' | 'dau.' | 'adopted son' | 'adopted dau.';
+  relationship?: 'son' | 'dau.' | 'daughter' | 'adopted son' | 'adopted dau.' | '[adopted?] son' | '[adopted?] dau.';
   parentId?: string;
   parentLetter?: string;
   parentDesc?: string;
@@ -234,11 +234,7 @@ export function renderEntry(data: EntryData): string {
 
   // Parent reference
   if (data.relationship && data.parentDesc) {
-    const rel = data.relationship === 'adopted dau.' ? 'adopted dau.'
-      : data.relationship === 'adopted son' ? 'adopted son'
-      : data.relationship === 'dau.' ? 'dau.'
-      : data.relationship === 'daughter' ? 'daughter'
-      : 'son';
+    const rel = data.relationship ?? 'son';
     const closeParen = data.noCloseParen ? '' : ')';
     if (data.parentId) {
       const href = data.parentLetter
