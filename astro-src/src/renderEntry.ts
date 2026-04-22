@@ -250,9 +250,6 @@ export function renderEntry(data: EntryData): string {
     }
   }
 
-  // Notes (e.g. name change, adoption note)
-  if (data.notes) lines.push(`   ${data.notes}`);
-
   // Head birth
   if (data.head.birth) {
     const prefix = hasSelfPrefix(data.head.birth.date) ? '   ' : '   b. ';
@@ -352,6 +349,10 @@ export function renderEntry(data: EntryData): string {
   }
 
   lines.push('');
+
+  // Notes (e.g. surname change, adoption note — rendered after children, matching original layout)
+  if (data.notes) lines.push(`   ${data.notes}`);
+  if (data.notes) lines.push('');
 
   // Docs link
   if (data.docsUrl) {
