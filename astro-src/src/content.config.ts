@@ -99,4 +99,12 @@ const genealogy = defineCollection({
   }),
 });
 
-export const collections = { news, genealogy };
+const letters = defineCollection({
+  loader: glob({ pattern: '**/*.yaml', base: './src/content/letters' }),
+  schema: z.object({
+    letter: z.string(),
+    thanks: z.string().optional(),
+  }),
+});
+
+export const collections = { news, genealogy, letters };

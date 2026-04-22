@@ -8,6 +8,9 @@ interface Props {
 }
 const { letter } = Astro.props;
 
+const allLetters = await getCollection('letters');
+const letterConfig = allLetters.find(l => l.data.letter === letter)?.data;
+
 const allEntries = await getCollection('genealogy');
 const entries = allEntries
   .filter(e => e.data.letter === letter)
@@ -61,7 +64,7 @@ const preInner = entries.map(e => renderEntry(e.data) + '\n' + DIVIDER).join('\n
 <p>
 
 <p>
-<b>A little work by each of us will save a lot of work for all of us.</b>
+<b>A little work by each of us will save a lot of work for all of us.</b>{letterConfig?.thanks && <><br />&nbsp;&nbsp;&nbsp;<Fragment set:html={letterConfig.thanks} /></>}
 <p>
 
 <br>
