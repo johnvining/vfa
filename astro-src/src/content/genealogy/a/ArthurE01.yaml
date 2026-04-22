@@ -22,16 +22,13 @@ marriages:
     spouse:
       givenName: Jennie C.
       surname: Clark
-  - date: "[2?] Blanche Delia Ross"
-  - date: "[3?] Myrtle Jeanie Witham"
-    spouse:
-      parents: "(dau. of Austin Witham and Harriet [&#8230;])"
-      birth:
-        date: 22 August 1894
-      death:
-        date: 15 November 1969
-        place: "Garner, Hancock County, Iowa"
-    note: divorced before 1930 census
+    note: |-
+      [2?] Blanche Delia Ross
+      [3?] Myrtle Jeanie Witham
+         (dau. of Austin Witham and Harriet [&#8230;])
+         b. 22 August 1894
+         d. 15 November 1969   Garner, Hancock County, Iowa
+      divorced before 1930 census
 childrenGroups:
   - spouseRef: "[?]"
     headingText: "children by [?]"

@@ -307,7 +307,9 @@ export function renderEntry(data: EntryData): string {
           if (s.death) lines.push('            d. ' + dp(s.death));
           if (s.widowOf) lines.push('            m. ' + s.widowOf);
           lines.push(...bur(s.burial, 18));
-          if (m.note) lines.push('         ' + m.note);
+          if (m.note) {
+            for (const noteLine of m.note.split('\n')) lines.push('         ' + noteLine);
+          }
         } else {
           // Normal unnumbered marriage (date and/or place on m. line, spouse block below)
           let mLine = '   m. ';
@@ -315,7 +317,9 @@ export function renderEntry(data: EntryData): string {
           if (m.place) mLine += (m.date ? '   ' : '') + m.place;
           lines.push(mLine);
           if (m.spouse) lines.push(...renderSpouseBlock(m, 9, 15, 21));
-          if (m.note) lines.push('         ' + m.note);
+          if (m.note) {
+            for (const noteLine of m.note.split('\n')) lines.push('         ' + noteLine);
+          }
         }
       }
     }
