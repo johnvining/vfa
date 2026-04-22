@@ -77,6 +77,7 @@ const genealogy = defineCollection({
     letter: z.string(),
     sequence: z.number().optional(),
     lastUpdated: z.string().optional(),
+    migrationNote: z.string().optional(),
     relationship: z.enum(['son', 'dau.', 'daughter', 'adopted son', 'adopted dau.', '[adopted?] son', '[adopted?] dau.']).optional(),
     parentId: z.string().optional(),
     parentLetter: z.string().optional(),

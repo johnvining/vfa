@@ -1,6 +1,7 @@
 id: ArthurL04
 letter: A
 lastUpdated: 1 February 2021
+migrationNote: "Original HTML had malformed anchor tag: <a name=\"ArthurL04\" < a> (garbled closing tag). Original HTML also had typo \"chldren\" (missing 'i') in children heading; corrected in new rendering."
 relationship: son
 parentId: WilliamM01
 parentLetter: W

@@ -2,6 +2,7 @@ id: FrankH01
 sequence: 33
 letter: F
 lastUpdated: 26 February 2023
+migrationNote: "Original HTML had \"Note: \" label prefix before the notes text; that prefix was dropped when migrating to the notes field in YAML (renderer does not add it back)."
 relationship: son
 parentId: HarryC01
 parentLetter: H

@@ -1,6 +1,7 @@
 id: ArthurL01
 letter: A
 lastUpdated: 1 February 2021
+migrationNote: "Original HTML had malformed anchor tag: <a name=\"ArthurL01\" < a> (garbled closing tag)."
 relationship: son
 parentId: Thomas04
 parentLetter: T

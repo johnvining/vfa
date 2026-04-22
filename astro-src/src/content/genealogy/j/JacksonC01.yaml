@@ -2,6 +2,7 @@ id: JacksonC01
 sequence: 6
 letter: J
 lastUpdated: 10 March 2023
+migrationNote: "Original HTML had \"Note: \" label prefix before the notes text; that prefix was dropped when migrating to the notes field in YAML (renderer does not add it back)."
 relationship: son
 parentDesc: "[?; see note below]"
 head:
