@@ -1,0 +1,68 @@
+id: ThomasE01
+title: Thomas Earl Vining - Myrtle McGraw
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Earl Vining
+          values:
+            - "29"
+            - "38"
+            - "49"
+            - dead
+        - label: Myrtle (McGraw) Vining
+          values:
+            - "29"
+            - "38"
+            - "50"
+            - "54"
+        - label: Ella N. Vining
+          values:
+            - "5"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Teresa Vining
+          values:
+            - ""
+            - 4 y., 2 m.
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Thomas Earl Vining Jr.
+          values:
+            - ""
+            - ""
+            - "4"
+            - "17"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Delaware City (ward 3), Delaware County, Ohio - dwelling 103, family 110
+        images:
+          - src: ThomasE01census1910.jpg
+      - year: "1920"
+        caption: Delaware City (ward 3), Delaware County, Ohio - dwelling 24, family 26
+        images:
+          - src: ThomasE01census1920.jpg
+      - year: "1930"
+        caption: Delaware City (ward 3), Delaware County, Ohio - dwelling 101, family 112
+        images:
+          - src: ThomasE01census1930.jpg
+      - year: "1940"
+        caption: Delaware (ward 3), Delaware County, Ohio
+        images:
+          - src: ThomasE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Thomas Earl Vining, in Saint Mary Cemetery, Delaware, Delaware County, Ohio (from Find A
+          Grave):
+        images:
+          - src: ThomasE01gravestone.jpg

@@ -1,0 +1,127 @@
+id: Thomas03
+title: Thomas Vining - Jemima Haines
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Thomas Vining
+          values:
+            - M 30–39
+            - M 40–49
+            - "50"
+            - "60"
+            - |-
+              70
+              [see note below]
+            - dead
+        - label: Jemima (Haines) Vining
+          values:
+            - F 20–29
+            - F 30–39
+            - "40"
+            - "52"
+            - |-
+              62
+              [see note below]
+            - dead
+        - label: Seward Vining
+          values:
+            - M under 5
+            - M 10–14
+            - "23"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Comfort F. Vining
+          values:
+            - F under 5
+            - F 10–14
+            - |-
+              married and living in separate household
+              [see Marriage Data below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jemima H. Vining
+          values:
+            - ""
+            - F 5–9
+            - "17"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - M 5–9
+            - "15"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah R. B. Vining
+          values:
+            - ""
+            - F under 5
+            - "12"
+            - "22"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Frederick Augustus Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+            - married and living in separate[?; see note below] household
+            - ""
+          indent: true
+    entries:
+      - year: "1830"
+        caption: >-
+          Avon, Somerset County, Maine [Avon is now in Franklin County]. The age of each member of this family in 1830
+          matches the expected age range in the 1830 census. Also living in this household in 1830 was a male 20–29.
+      - year: "1840"
+        caption: >-
+          Avon, Franklin County, Maine. The age of each member of this family in 1840 matches the expected age range in
+          the 1840 census.
+      - year: "1850"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 103, family 105. Also living in this household in 1850 was Roxanna
+          (Purrington) Vining (19 y., b. Maine), wife (married within year) of Seward Vining.
+        images:
+          - src: Thomas03census1850.jpg
+      - year: "1860"
+        caption: Avon, Franklin County, Maine - dwelling 242, family 246
+        images:
+          - src: Thomas03census1860.jpg
+      - year: "1870"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 89, family 92. Either Frederick Augustus moved into his own household
+          after his marriage and his parents also moved to live with him and his wife and children, or he continued to
+          live in the same dwelling with his parents but was simply listed first in the 1870 census of that household.
+        images:
+          - src: Thomas03census1870.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage of Comfort F. Vining (from Lowell, Massachusetts, Marriages - 1841–1915, page 287):"
+        images:
+          - src: Thomas03dauComfortLowellmarriagesp287.jpg
+  - type: death
+    items:
+      - caption: "Gravestones for Thomas Vining and Jemima Haines, in Mount Blue Cemetery, Avon, Franklin County, Maine:"
+        images:
+          - src: Thomas03gravestone.jpg
+          - src: Thomas03wifegravestone.jpg
+        inline: true

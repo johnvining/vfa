@@ -1,0 +1,113 @@
+id: ThaddeusS01
+title: Thaddeus Subsequie Vining - (1) Hattie Lewis, (2) Anna Greene
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Thaddeus Subsequie Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "58"
+            - "69"
+            - "78"
+            - dead
+        - label: Hattie (Lewis) Vining
+          values:
+            - "23"
+            - "?"
+            - "?"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Anna (Greene) Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "42"
+            - dead
+            - ""
+            - ""
+        - label: Clarence Vining
+          values:
+            - 5 months
+            - "?"
+            - "?"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Tina Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "11"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: George H. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - living in separate household
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Irene Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Columbia, Jackson County, Michigan - dwelling 69, family 71. Also living in this household were Conelius
+          Vining (53 y., b. New York), his wife (Zipporah (Clarke) Vining, 52 y., b. New York), and five of their
+          children: Frank (23 y., b. Indiana), Charles (21 y., b. Idiana), Alice (18 y., b. Michigan), Thomas (13 y., b.
+          Michigan), and Joseph (11 y., b. Michigan).
+        images:
+          - src: ThaddeusS01census1870.jpg
+      - year: "1900"
+        caption: >-
+          Chicago (ward 30), Cook County, Illinois - dwelling 62, family 111. Also living in this household in 1900 was
+          Syren[...] E. Davenport (b. September 1848, Tennessee, boarder).
+        images:
+          - src: ThaddeusS01census1900.jpg
+      - year: "1910"
+        caption: Danville Township, Vermilion County, Illinois - National Home [for] Disabled [Volunteer?] Soldiers, Company E
+        images:
+          - src: ThaddeusS01census1910.jpg
+      - year: "1920"
+        caption: Grand Rapids, Kent County, Michigan - Michigan Soldiers Home
+        images:
+          - src: ThaddeusS01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Thaddeus Subsequie Vining, in Woodland Cemetery, Jackson, Jackson County, Michigan (from Find
+          A Grave):
+        images:
+          - src: ThaddeusS01gravestone1.jpg
+          - src: ThaddeusS01gravestone2.jpg
+        inline: true

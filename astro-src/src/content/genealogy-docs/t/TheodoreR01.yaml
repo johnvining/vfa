@@ -1,0 +1,58 @@
+id: TheodoreR01
+title: Theodore Roosevelt Vining - Alice McNeal
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Theodore Roosevelt Vining
+          values:
+            - "27"
+            - "38"
+        - label: Alice (McNeal) Vining
+          values:
+            - "24"
+            - "34"
+        - label: Theodore William Vining
+          values:
+            - 2 y., 3 m.
+            - "12"
+          indent: true
+        - label: James Howard Vining
+          values:
+            - 0 m.
+            - dead
+          indent: true
+        - label: Viola Mae Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Betty J. Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+        - label: Joseph E. Vining
+          values:
+            - ""
+            - "4"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Swainsboro, Emanuel County, Georgia - dwelling 405, family 450
+        images:
+          - src: TheodoreR01census1930.jpg
+      - year: "1940"
+        caption: Waterloo, Black Hawk County, Iowa
+        images:
+          - src: TheodoreR01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Theodore Roosevelt Vining and Alice (McNeal) Vining, in Earthman Resthaven Cemetery, Houston,
+          Harris County, Texas (from Find A Grave):
+        images:
+          - src: TheodoreR01andwifeheadstone.jpg

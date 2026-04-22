@@ -1,0 +1,47 @@
+id: Thomas06
+title: Thomas Vining - Fannie Corbitt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+        - label: Fannie (Corbitt) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+        - label: Robert L. Vining
+          values:
+            - ""
+            - "8"
+            - dead
+          indent: true
+        - label: Lillian Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Militia District 1130, Atkinson County, Georgia - dwelling [?], family 15
+        images:
+          - src: Thomas06census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Thomas Vining, Fannie (Corbitt) Vining, and Robert L. Vining, in Red Bluff Cemetery, Pearson,
+          Atkinson County, Georgia (from Find A Grave). Given that Fannie (Corbitt) Vining was reported in the 1930
+          census (see above), her death year recorded on the headstone as 1929 is erroneous. A hypothesis is that all of
+          the birth and death dates on the headstone were engraved at the same time, no earlier than April 1950, and by
+          that time the death date of Fannie was recalled incorrectly.
+        images:
+          - src: Thomas06andfamilyheadstone.jpg

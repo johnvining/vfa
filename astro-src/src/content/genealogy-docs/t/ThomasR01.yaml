@@ -1,0 +1,64 @@
+id: ThomasR01
+title: Thomas Raymond Vining - Gertrude Michaelson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Raymond Vining
+          values:
+            - "32"
+            - "42"
+            - "52"
+        - label: Gertrude (Michaelson) Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+        - label: Mabel C. Vining
+          values:
+            - "8"
+            - "18"
+            - married and living in separate household
+          indent: true
+        - label: Raymond Harris Vining
+          values:
+            - "7"
+            - "17"
+            - married and living in separate household
+          indent: true
+        - label: Edward H. Vining
+          values:
+            - "6"
+            - "16"
+            - married and living in separate household
+          indent: true
+        - label: Charles L. Vining
+          values:
+            - 11 m.
+            - "11"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Prosper Township, Davison County, South Dakota - dwelling 33, family 34
+        images:
+          - src: ThomasR01census1920.jpg
+      - year: "1930"
+        caption: Worthen Township, Hanson County, South Dakota - dwelling 30, family 30
+        images:
+          - src: ThomasR01census1930.jpg
+      - year: "1940"
+        caption: Wayne Township, Hanson County, South Dakota
+        images:
+          - src: ThomasR01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Thomas Raymond Vining and Gertrude (Michaelson) Vining, in Ethan Hillcrest Cemetery, Ethan,
+          Davison County, South Dakota (from Find A Grave):
+        images:
+          - src: ThomasR01andwifeheadstone.jpg

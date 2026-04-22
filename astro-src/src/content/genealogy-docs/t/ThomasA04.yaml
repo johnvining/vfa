@@ -1,0 +1,61 @@
+id: ThomasA04
+title: Thomas A. Vining - Sarah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Thomas A. Vining
+          values:
+            - "?"
+            - "73"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah ([...]) Vining
+          values:
+            - "?"
+            - "54"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Della Vining
+          values:
+            - "?"
+            - "19"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Vining
+          values:
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Maria Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Red Hill, Marlboro County, South Carolina - dwelling 92, family 92
+        images:
+          - src: ThomasA04census1870.jpg

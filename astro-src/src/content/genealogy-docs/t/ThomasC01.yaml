@@ -1,0 +1,27 @@
+id: ThomasC01
+title: Thomas Clifford Vining - Esther F. Hoadley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Thomas Clifford Vining
+          values:
+            - "31"
+        - label: Esther F. (Hoadley) Vining
+          values:
+            - "29"
+        - label: Leland Mason Vining
+          values:
+            - "1"
+          indent: true
+        - label: Roger T. Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Flathead Township, Flathead County, Montana
+        images:
+          - src: ThomasC01census1940.jpg

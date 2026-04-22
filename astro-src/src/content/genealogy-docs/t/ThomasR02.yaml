@@ -1,0 +1,107 @@
+id: ThomasR02
+title: Thomas Reece Vining - Lydia Jane Pope
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Reece Vining
+          values:
+            - "38"
+            - "48"
+            - "58"
+            - dead
+            - ""
+        - label: Lydia Jane (Pope) Vining
+          values:
+            - "36"
+            - "46"
+            - "54"
+            - "64"
+            - "?"
+        - label: James Walter Vining
+          values:
+            - "6"
+            - "15"
+            - "25"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Charles Herman Vining
+          values:
+            - "5"
+            - "13"
+            - "24"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Horace Benjamin Vining
+          values:
+            - "3"
+            - "12"
+            - "22"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Thomas Manton Vining
+          values:
+            - "1"
+            - "11"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Jesse B. Vining
+          values:
+            - 3 m.
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Estelle Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ethel Lee Vining
+          values:
+            - ""
+            - "7"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Roberta May Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Red Hill, Marlboro County, South Carolina - dwelling 12, family 12
+        images:
+          - src: ThomasR02census1900.jpg
+      - year: "1910"
+        caption: Holt Township, Williamsburg County, South Carolina - dwelling 79, family 79
+        images:
+          - src: ThomasR02census1910.jpg
+      - year: "1920"
+        caption: Greeleyville, Williamsburg County, South Carolina - dwelling 544, family 549
+        images:
+          - src: ThomasR02census1920.jpg
+      - year: "1930"
+        caption: Hope Township, Williamsburg County, South Carolina - dwelling 170, family 170
+        images:
+          - src: ThomasR02census1930.jpg

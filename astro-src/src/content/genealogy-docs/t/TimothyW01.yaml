@@ -1,0 +1,87 @@
+id: TimothyW01
+title: Timothy W. Vining - Tryphena C. Dow
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Timothy W. Vining
+          values:
+            - "32"
+            - "42"
+            - dead
+            - ""
+            - ""
+        - label: Tryphena C. (Dow) Vining
+          values:
+            - "25"
+            - "35"
+            - "?"
+            - "?"
+            - dead
+        - label: Harry G. Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Blanche M. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - dead
+            - ""
+          indent: true
+        - label: Minnie Louise Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+        - label: F. Ardine Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 93, family 96. Also living in this household in 1870 was Elbridge W.
+          Vining (15 y.).
+        images:
+          - src: TimothyW01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Avon, Franklin County, Maine - Also living in this household in 1880 was Fred Richardson (17 y., b. Maine,
+          farm laborer).
+        images:
+          - src: TimothyW01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Timothy W. Vining and Tryphena C. (Dow) Vining, in Village Cemetery, Strong, Franklin County,
+          Maine (from Find A Grave):
+        images:
+          - src: TimothyW01gravestone.jpg
+          - src: TimothyW01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestones for Blanche M. Vining and F. Ardine Vining, children of Timothy W. Vining and Tryphena C. (Dow)
+          Vining, in Village Cemetery, Strong, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: TimothyW01dauBlanchegravestone.jpg
+          - src: TimothyW01sonFArdinegravestone.jpg
+        inline: true

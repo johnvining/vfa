@@ -1,0 +1,23 @@
+id: ThomasC02
+title: Thomas Cleburne Vining - Doretha Runnells
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Thomas Cleburne Vining
+          values:
+            - "33"
+        - label: Doretha (Runnels) Vining
+          values:
+            - "26"
+        - label: Thomas Cleburne Vining Jr.
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Bayou Macon, Chicot County, Arkansas
+        images:
+          - src: ThomasC02census1940.jpg

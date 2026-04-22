@@ -1,0 +1,41 @@
+id: ThomasB04
+title: Thomas Bernard Vining - Lillie Beverly
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Bernard Vining
+          values:
+            - "32"
+            - "?"
+            - "53"
+        - label: Lillie (Beverly) Vining
+          values:
+            - "34"
+            - "?"
+            - "55"
+        - label: Hilda Vining
+          values:
+            - 1 y., 2 m.
+            - "?"
+            - "20"
+          indent: true
+        - label: Mildred Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Reeves, Militia District 1336, Upson County, Georgia
+        images:
+          - src: ThomasB04census1920.jpg
+      - year: "1940"
+        caption: Thompson, Militia District 561, Upson County, Georgia
+        images:
+          - src: ThomasB04census1940.jpg

@@ -1,0 +1,42 @@
+id: Thomas12
+title: Thomas Vining - Mary A. Moring
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record of Thomas Vining and Mary A. Moring (from West Virginia Marriages 1780–1970):"
+        images:
+          - src: Thomas12marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Thomas Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+        - label: Mary A. (Moring) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+        - label: J. E. Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles E. Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Liberty Township, Schuyler County, Missouri - dwelling 45, family 45
+        images:
+          - src: Thomas12census1860.jpg

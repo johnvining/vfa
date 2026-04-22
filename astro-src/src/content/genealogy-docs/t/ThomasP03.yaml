@@ -1,0 +1,123 @@
+id: ThomasP03
+title: Thomas Paine Vining - Viola Adora Redner
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Thomas Paine Vining
+          values:
+            - "22"
+            - "?"
+            - "42"
+            - "52"
+            - dead
+            - ""
+        - label: Viola Adora (Redner) Vining
+          values:
+            - "17"
+            - "?"
+            - "36"
+            - "46"
+            - "?"
+            - "?"
+        - label: Nina May Vining
+          values:
+            - 1 m.
+            - "?"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Tina Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Leola Belle Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Francis Norene Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Vera Norene Vining
+          values:
+            - ""
+            - "?"
+            - "10"
+            - "[married? and living in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Edith Marie Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Kenneth R. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+        - label: Geraldine Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "5"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          Columbia, Jackson County, Michigan - dwelling 85, family 88. In 1880, Thomas and Viola were living in the
+          household of his parents.
+        images:
+          - src: ThomasP03census1880.jpg
+      - year: "1900"
+        caption: Liberty Township, Jackson County, Michigan - dwelling 158, family 167
+        images:
+          - src: ThomasP03census1900.jpg
+      - year: "1910"
+        caption: Jackson (ward 4), Jackson County, Michigan - dwelling 6, family 7
+        images:
+          - src: ThomasP03census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Viola Adora (Redner) Vining, in East Liberty Cemetery, Liberty, Jackson County, Michigan (from
+          Find A Grave):
+        images:
+          - src: ThomasP03wifegravestone.jpg

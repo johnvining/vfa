@@ -1,0 +1,39 @@
+id: ThomasB03
+title: Thomas B. Vining - Nola Mae Skeen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+        - "1945"
+      rows:
+        - label: Thomas B. Vining
+          values:
+            - "?"
+            - "32"
+        - label: Nola Mae (Skeen) Vining
+          values:
+            - "?"
+            - "30"
+        - label: Thomas Nathan Vining
+          values:
+            - "?"
+            - "9"
+          indent: true
+        - label: James Ronald Vining
+          values:
+            - ""
+            - "1"
+          indent: true
+    entries:
+      - year: "1945"
+        caption: Precinct 83, Dade County, Florida
+        images:
+          - src: ThomasB03census1945.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone of Nola May (Skeen) Vining, in Forest Lawn Memorial Gardens, Lake City, Columbia County, Florida
+          (from Find A Grave):
+        images:
+          - src: ThomasB03wifegravestone.jpg
