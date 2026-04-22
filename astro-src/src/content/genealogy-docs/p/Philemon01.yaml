@@ -1,0 +1,54 @@
+id: Philemon01
+title: Phillip Vining - Eva Mae Peterson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Phillip Vining
+          values:
+            - "21"
+            - "40"
+            - "49"
+        - label: Eva May (Peterson) Vining
+          values:
+            - "21"
+            - "31"
+            - "41"
+        - label: Dorothy Mae Vining
+          values:
+            - "1"
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Merwin Wilfred Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+        - label: Robert Andrew Vining
+          values:
+            - ""
+            - 4 y., 10 m.
+            - "14"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Hartford, Washington County, Wisconsin - dwelling 227, flat 21, family 262. Also living in this household in
+          1920 were lodgers S. J. Gehring (40 y., b. Wisconsin) and Claude Stroud (30 y., b. Wisconsin).
+        images:
+          - src: Philemon01census1920a.jpg
+          - src: Philemon01census1920b.jpg
+      - year: "1930"
+        caption: Hartford (ward 4), Washington County, Wisconsin - dwelling 99, family 108
+        images:
+          - src: Philemon01census1930.jpg
+      - year: "1940"
+        caption: Beaver Dam (ward 3), Dodge County, Wisconsin
+        images:
+          - src: Philemon01census1940.jpg

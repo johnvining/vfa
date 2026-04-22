@@ -1,0 +1,69 @@
+id: PeterS02
+title: Peter S. Vining - Mary Campion [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Peter S. Vining
+          values:
+            - "33"
+            - "42"
+            - "52"
+            - "63"
+        - label: Mary (Campion) Vining
+          values:
+            - "27"
+            - "37"
+            - "48"
+            - "58"
+        - label: Pierre Vining
+          values:
+            - "8"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Marie Vining
+          values:
+            - "2"
+            - "11"
+            - "22"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Jewett, Greene County, New York - dwelling 60, family 63. Also living in this household in 1910 was Muretta
+          Vining (widowed mother of Peter S., 57 y., b. New York).
+        images:
+          - src: PeterS02census1910.jpg
+      - year: "1920"
+        caption: >-
+          Dickinson, Franklin County, New York - dwelling 124, family 129. Also living in this household in 1920 was
+          [Mur?]etta Vining (widowed mother of Peter S., 68 y., b. New York).
+        images:
+          - src: PeterS02census1920.jpg
+      - year: "1930"
+        caption: >-
+          Sand Lake, Rensselaer County, New York - dwelling 23, family 28. Also living in this household in 1930 was
+          [Retta?] Vining (widowed mother of Peter S., 78 y., b. New York).
+        images:
+          - src: PeterS02census1930.jpg
+      - year: "1940"
+        caption: >-
+          Sand Lake, Rensselaer County, New York. Also living in this household in 1940 was Retta Vining (widowed mother
+          of Peter S., 89 y., b. New York).
+        images:
+          - src: PeterS02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Peter S. Vining and Mary Campion ([…]) Vining, in Sand Lake Union Cemetery, Sand Lake,
+          Rensselaer County, New York (from Find A Grave):
+        images:
+          - src: PeterS02andwifeheadstone.jpg

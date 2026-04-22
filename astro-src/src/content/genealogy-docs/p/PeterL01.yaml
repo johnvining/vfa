@@ -1,0 +1,67 @@
+id: PeterL01
+title: Peter L. Vining - Lou Candy Jane [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Peter L. Vining
+          values:
+            - 4[4?]
+            - "53"
+            - "63"
+            - "73"
+            - dead
+        - label: Lou Candy Jane ([...]) Vining
+          values:
+            - "37"
+            - "48"
+            - "57"
+            - "[68?]"
+            - dead
+        - label: Rosabelle [B.?] Vining
+          values:
+            - "13"
+            - |-
+              24
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Kingdom (beat 1), Bibb County, Alabama - dwelling 596, family 610
+        images:
+          - src: PeterL01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Kingdom (precinct 1), Bibb County, Alabama - dwelling 132, family 136. By 1910, Rosabelle [B.?] Vining was
+          married but still living with her parents. Also living in this household in 1910 were Jim Carroll (husband of
+          Rosabelle [B.?], 24 y., b. Alabama) and Ena Carroll (daughter of Jim Carroll and Rosabelle [B.?] (Vining)
+          Carroll, 2 y., b. Alabama).
+        images:
+          - src: PeterL01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Kingdom (precinct 1), Bibb County, Alabama - dwelling 65, family 67. It appears that Rosabelle [B.?]
+          remarried, to a James King, and although she and her family were not living in the same household as her
+          parents, they were in the same dwelling.
+        images:
+          - src: PeterL01census1920.jpg
+      - year: "1930"
+        caption: Kingdom (precinct 1), Bibb County, Alabama - dwelling 46, family 48
+        images:
+          - src: PeterL01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Peter Lafayette Vining and Lou Candy Jane ([...]), in Green Pond Presbyterian Church Cemetery,
+          Green Pond, Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: PeterL01andwifeheadstone.jpg

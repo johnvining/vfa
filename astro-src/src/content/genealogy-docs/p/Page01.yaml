@@ -1,0 +1,137 @@
+id: Page01
+title: Page Vining - Margaret Ring
+sections:
+  - type: notes
+    text: >-
+      The “Early Vital Records / 1741–1836” of Lewiston, Maine, reported the birth date of Page Vining to be “March 29th
+      1803&#8221, but the headstone that Page shares with his wife gives the date as “Mar. 28, 1803.” However, both of
+      these sources are from well after the date in question. Research is needed to determine the correct date.
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Page Vining
+          values:
+            - M 20–30
+            - M 30–40
+            - "47"
+            - "57"
+            - "67"
+            - dead
+            - ""
+        - label: Margaret (Ring) Vining
+          values:
+            - F 20–30
+            - F 30–40
+            - "47"
+            - "57"
+            - "67"
+            - |-
+              76
+              [see note below]
+            - dead
+        - label: George W. Vining
+          values:
+            - M under 5
+            - M 10–15
+            - "21"
+            - "32"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - F 5–10
+            - "18"
+            - "28"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Samuel E. Vining
+          values:
+            - ""
+            - M 5–10
+            - "16"
+            - "25"
+            - "36"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Q. A. Vining
+          values:
+            - ""
+            - M under 5
+            - "12"
+            - |-
+              22
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Llewelyn C. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Charles E. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "14"
+            - "24"
+            - living in household of George W. Vining, his brother
+            - ""
+          indent: true
+    entries:
+      - year: "1830"
+        caption: Avon, Somerset County, Maine
+        images:
+          - src: Page01census1830.jpg
+      - year: "1840"
+        caption: Phillips, Somerset County, Maine
+        images:
+          - src: Page01census1840.jpg
+      - year: "1850"
+        caption: Weld, Franklin County, Maine - dwelling 118, family 126
+        images:
+          - src: Page01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 87, family 83. Also living in this household in 1860 were Katharine A.
+          (Rollins) Vining and Clara E. Vining, the wife and daughter of George W. Vining. It is possible that the John
+          Vining in this household was also reported to be living with a Reynolds family (dwelling 103, family 120) in
+          their 1860 Canton, Oxford County, Maine, household.
+        images:
+          - src: Page01census1860.jpg
+      - year: "1870"
+        caption: Weld, Franklin County, Maine - dwelling 6, family 6
+        images:
+          - src: Page01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 24, family 29. In 1880, Margaret E. (Ring) Vining was living in the
+          household of Steven and Sarah (Vining) Holt, her son-in-law and daughter.
+        images:
+          - src: Page01census1880.jpg
+  - type: death
+    items:
+      - caption: "Headstone for Page Vining and Margaret (Ring) Vining, in Center Hill Cemetery, Weld, Franklin County, Maine:"
+        images:
+          - src: Page01andwifeheadstone.jpg

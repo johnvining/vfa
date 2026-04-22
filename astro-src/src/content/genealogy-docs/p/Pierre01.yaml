@@ -1,0 +1,41 @@
+id: Pierre01
+title: Pierre Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Pierre Vining
+          values:
+            - "28"
+            - "38"
+        - label: Mary ([…]) Vining
+          values:
+            - "28"
+            - "38"
+        - label: Pierre Vining Jr.
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Joan Vining
+          values:
+            - 5 m.
+            - "10"
+          indent: true
+        - label: Joyce Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Cobbleskill, Schoharie County, New York - dwelling [?], family [?]
+        images:
+          - src: Pierre01census1930.jpg
+      - year: "1940"
+        caption: Dickinson, Franklin County, New York
+        images:
+          - src: Pierre01census1940.jpg
