@@ -112,6 +112,7 @@ const genealogyDocs = defineCollection({
   schema: z.object({
     id: z.string(),
     title: z.string(),
+    displayTitle: z.string().optional(),
     intro: z.array(z.object({
       caption: z.string().optional(),
       images: z.array(z.object({

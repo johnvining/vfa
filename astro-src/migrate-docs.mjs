@@ -275,6 +275,15 @@ function parseDocFile(html, personId) {
   if (!bodyM) return { id: personId, title };
   let body = bodyM[1];
 
+  // Extract display title from center block before removing it
+  let displayTitle = null;
+  const centerM = body.match(/<center>([\s\S]*?)<\/center>/si);
+  if (centerM) {
+    const centerText = cleanInline(centerM[1]);
+    const docForM = centerText.match(/^Documentation\s+for\s+(.+)$/i);
+    if (docForM) displayTitle = docForM[1].trim();
+  }
+
   // Remove center title block
   body = body.replace(/<center>[\s\S]*?<\/center>/si, '');
 
@@ -357,6 +366,7 @@ function parseDocFile(html, personId) {
   });
 
   const doc = { id: personId, title };
+  if (displayTitle && displayTitle !== title) doc.displayTitle = displayTitle;
   if (introItems.length > 0) doc.intro = introItems;
   if (sections.length > 0) doc.sections = sections;
 
