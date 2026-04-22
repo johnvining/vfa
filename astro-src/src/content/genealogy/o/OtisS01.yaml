@@ -31,7 +31,8 @@ marriages:
       burial:
         place: "Hillside Cemetery   Lisbon, Maine"
 childrenGroups:
-  - children:
+  - headingText: "children (<a href=\"Osources/OtisS01doc.htm\">family record from Durham, Maine, town records</a>)"
+    children:
       - name: Melvina S. Vining
         birth:
           date: 4 September 1853
