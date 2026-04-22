@@ -1,0 +1,54 @@
+id: HoraceE01
+title: Horace Elvin Vining - Lula R. Harvey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Horace Elvin Vining
+          values:
+            - "34"
+            - "?"
+            - "54"
+            - "64"
+        - label: Lula R. (Harvey) Vining
+          values:
+            - "43"
+            - "?"
+            - "63"
+            - dead
+        - label: Constance Lucy Vining
+          values:
+            - "7"
+            - "?"
+            - |-
+              27
+              [see note below]
+            - "37"
+          indent: true
+        - label: Grace B. Vining
+          values:
+            - 2 y., 3 m.
+            - "?"
+            - "22"
+            - "32"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Garfield Township, Montgomery County, Iowa - dwelling 55, family 56
+        images:
+          - src: HoraceE01census1910.jpg
+      - year: "1930"
+        caption: >-
+          Cuyahoga Falls (ward 3), Summit County, Ohio - dwelling 25, family 25. By 1930, Constance Lucy Vining was
+          married, and she and her husband were living in the household of her parents.
+        images:
+          - src: HoraceE01census1930.jpg
+      - year: "1940"
+        caption: Cuyahoga Falls, Summit County, Ohio
+        images:
+          - src: HoraceE01census1940.jpg

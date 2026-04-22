@@ -1,0 +1,99 @@
+id: HenryW02
+title: Henry William Vining - Christena Jackson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Henry Vining
+          values:
+            - "32"
+            - "43"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Christena (Jackson) Vining
+          values:
+            - "26"
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charles Herbert Vining
+          values:
+            - "9"
+            - "19"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Eva E. Vining
+          values:
+            - "7"
+            - "[living? in separate hosehold]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah C. Vining
+          values:
+            - "5"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alden J. Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Ellen or Alice B.] Vining"
+          values:
+            - 1 [Ellen]
+            - 10 [Alice B.]
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Cordelia C. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Patterson Township, Darke County, Ohio - dwelling 92, family 92
+        images:
+          - src: HenryW02census1870.jpg
+      - year: "1880"
+        caption: Patterson, Darke County, Ohio - dwelling number not given, family 164
+        images:
+          - src: HenryW02census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Henry William Vining and Christena (Jackson) Vining, in Honey Creek Cemetery, Christiansburg,
+          Champaign County, Ohio (from Find A Grave):
+        images:
+          - src: HenryW02andwifeheadstone.jpg

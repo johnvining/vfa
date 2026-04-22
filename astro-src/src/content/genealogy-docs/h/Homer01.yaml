@@ -1,0 +1,32 @@
+id: Homer01
+title: Homer Vining - Odell [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Homer Vining
+          values:
+            - "24"
+        - label: Odell ([...]) Vining
+          values:
+            - "23"
+            - Homer Vining Jr.
+            - "4"
+        - label: Betty Jean Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Empire, Walker County, Alabama
+        images:
+          - src: Homer01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Homer Vining and Odell ([...]) Vining, in Green Pond Presbyterian Church Cemetery, Green Pond,
+          Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: Homer01andwifeheadstone.jpg

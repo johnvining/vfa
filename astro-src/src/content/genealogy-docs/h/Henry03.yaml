@@ -1,0 +1,99 @@
+id: Henry03
+title: Henry Vining - Lucy Calhoun
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Henry Vining
+          values:
+            - "?"
+            - "?"
+            - "33"
+            - "51"
+            - "63"
+        - label: Lucy (Calhoun) Vining
+          values:
+            - "?"
+            - "?"
+            - "28"
+            - "46"
+            - "52"
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: Mary L. Vining
+          values:
+            - ""
+            - "?"
+            - "[16 or 17?]"
+            - "24"
+            - "30"
+          indent: true
+        - label: Pearl B. Vining
+          values:
+            - ""
+            - ""
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Julian Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "16"
+            - "25"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Davisboro, Washington County, Georgia - dwelling 65, family 69. According to the 1900 census, by 1900 Lucy
+          (Calhoun) Vining had given birth to six children, three of whom were living. When they were born has not been
+          determined.
+        images:
+          - src: Henry03census1900.jpg
+      - year: "1910"
+        caption: Davisboro, Washington County, Georgia - dwelling 2, family 2
+        images:
+          - src: Henry03census1910.jpg
+      - year: "1920"
+        caption: >-
+          Davisboro, Washington County, Georgia - dwelling 107, family 117. Also living in this household was a
+          granddaughter Ella Mae Vining (7 y., b. Georgia). Because Julian’s marital status is listed as widowed, it is
+          presumed that Ella Mae was his daughter.
+        images:
+          - src: Henry03census1920.jpg

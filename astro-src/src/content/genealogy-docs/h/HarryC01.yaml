@@ -1,0 +1,66 @@
+id: HarryC01
+title: Harry C. Vining - Ada Eversoll
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harry C. Vining
+          values:
+            - "23"
+            - "33"
+            - "43"
+            - "53"
+        - label: Ada (Eversoll) Vining
+          values:
+            - "21"
+            - "30"
+            - "40"
+            - "50"
+        - label: Etta Vining
+          values:
+            - 10 months
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Frances [E.?] Vining
+          values:
+            - ""
+            - "10"
+            - "[20?]"
+            - "30"
+          indent: true
+        - label: Frank Harry Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Custer Township, Will County, Illinois - dwelling 112, family 114
+        images:
+          - src: HarryC01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Chicago (11th precinct), Cook County, Illinois - dwelling 239, family 450. Also living in this household in
+          1920 was Edward Cody (45 y., b. Illinois, roomer).
+        images:
+          - src: HarryC01census1920.jpg
+      - year: "1930"
+        caption: Chicago, Cook County, Illinois - dwelling 357, family 411
+        images:
+          - src: HarryC01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Chicago (ward 17), Cook County, Illinois. By 1940, Frances [E.?] Vining was married, to a Walsh, but was still
+          living in the household of her parents. Also living in this household was Marie Wales (4 y., b. Illinois,
+          daughter of Frances(Vining) Wales.
+        images:
+          - src: HarryC01census1940.jpg

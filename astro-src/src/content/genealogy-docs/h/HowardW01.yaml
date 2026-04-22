@@ -1,0 +1,35 @@
+id: HowardW01
+title: Howard W. Vining - Mildred Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Howard W. Vining
+          values:
+            - "27"
+        - label: Mildred (Smith) Vining
+          values:
+            - "25"
+        - label: Barbara E. Vining
+          values:
+            - "7"
+          indent: true
+        - label: Carolyn Vining
+          values:
+            - "5"
+          indent: true
+        - label: Sharon Vining
+          values:
+            - "2"
+          indent: true
+        - label: William Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Toledo (ward 20, block 22), Lucas County, Ohio
+        images:
+          - src: HowardW01census1940.jpg

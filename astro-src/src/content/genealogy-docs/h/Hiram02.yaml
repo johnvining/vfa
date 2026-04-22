@@ -1,0 +1,96 @@
+id: Hiram02
+title: Hiram Vining - [Abby or Margaret?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Hiram Vining
+          values:
+            - "24"
+            - "34"
+            - "52"
+            - "62"
+            - "?"
+        - label: "[Abby or Margaret?] ([...]) Vining"
+          values:
+            - ""
+            - "33"
+            - "53"
+            - "62"
+            - "?"
+        - label: Emma [V.?] Vining
+          values:
+            - ""
+            - "7"
+            - "27"
+            - not living in this household
+            - ""
+          indent: true
+        - label: William J[efferson?]. Vining
+          values:
+            - ""
+            - "4"
+            - "23"
+            - "33"
+            - |-
+              not living in this household
+              [see note below]
+          indent: true
+        - label: Gertrude V. Vining
+          values:
+            - ""
+            - ""
+            - "19"
+            - "29"
+            - |-
+              not living in this household
+              [see note below]
+          indent: true
+        - label: Bert J. Vining
+          values:
+            - ""
+            - ""
+            - "19"
+            - "29"
+            - |-
+              not living in this household
+              [see note below]
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Lowell (ward 5), Middlesex County, Massachusetts - dwelling 563, family 662. In 1870, Hiram Vining was living
+          in the household of Alonzo Haines Vining (his brother).
+        images:
+          - src: Hiram02census1870.jpg
+      - year: "1880"
+        caption: Lowell, Middlesex County, Massachusetts - dwelling 190, family 216
+        images:
+          - src: Hiram02census1880.jpg
+      - year: "1900"
+        caption: Lowell (ward 7), Middlesex County, Massachusetts - dwelling 64, family 68
+        images:
+          - src: Hiram02census1900.jpg
+      - year: "1910"
+        caption: Lowell (ward 7), Middlesex County, Massachusetts - dwelling 76, family 80
+        images:
+          - src: Hiram02census1910a.jpg
+          - src: Hiram02census1910b.jpg
+      - year: "1920"
+        caption: >-
+          Lowell (ward 7), Middlesex County, Massachusetts - dwelling 77, family 117. In 1910, William J[efferson?]. was
+          listed first in a household that included Gertrude V. Vining and Bert J. Vining (his sister and brother).

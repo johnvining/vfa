@@ -1,0 +1,116 @@
+id: HarryL01
+title: Harry Leavitt Vining - (1) Etta E. Creamer;   (2) Dorothy Blanche Flemming
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harry Leavitt Vining
+          values:
+            - "23"
+            - "34"
+            - "45"
+            - "55"
+        - label: Etta E. (Creamer) Vining
+          values:
+            - "26"
+            - "38"
+            - "48"
+            - dead
+        - label: Dorothy Blanche (Flemming) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Harold E. Vining
+          values:
+            - "9"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Hazel C. Vining
+          values:
+            - "3"
+            - "13"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Mabel M. Vining
+          values:
+            - 10 m.
+            - "10"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Lillian Frances Vining
+          values:
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Mildred Etta Vining
+          values:
+            - ""
+            - 4 y., 8 m.
+            - "14"
+            - married and living in separate household
+          indent: true
+        - label: Minnie Eva Vining
+          values:
+            - ""
+            - 1 y., 7 m.
+            - "11"
+            - married and living in separate household
+          indent: true
+        - label: Leo Harry Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - living in separate household
+          indent: true
+        - label: Agnes Lula Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - living in separate household
+          indent: true
+        - label: Edith Shirley Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "11"
+          indent: true
+        - label: Arlene June Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Embden, Somerset County, Maine - dwelling 86, family 86
+        images:
+          - src: HarryL01census1910.jpg
+      - year: "1920"
+        caption: Embden, Somerset County, Maine - dwelling 72, family 72
+        images:
+          - src: HarryL01census1920.jpg
+      - year: "1930"
+        caption: Lubec, Washington County, Maine - dwelling 141, family 148
+        images:
+          - src: HarryL01census1930.jpg
+      - year: "1940"
+        caption: Embden, Somerset County, Maine
+        images:
+          - src: HarryL01census1940.jpg

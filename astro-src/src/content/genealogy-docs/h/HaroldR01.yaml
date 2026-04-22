@@ -1,0 +1,34 @@
+id: HaroldR01
+title: Harold Reginald Vining - (1) Lois Hersom;   (2) Ida May Krischel
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Harold Reginald Vining
+          values:
+            - "27"
+        - label: Lois (Hersom) Vining
+          values:
+            - "26"
+        - label: Ida May (Krischel) Vining
+          values:
+            - ""
+        - label: Beverly Vining
+          values:
+            - "7"
+          indent: true
+        - label: Kenneth Vining
+          values:
+            - "5"
+          indent: true
+        - label: Pamela E. Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Rutland Township, Humboldt County, Iowa
+        images:
+          - src: HaroldR01census1940.jpg

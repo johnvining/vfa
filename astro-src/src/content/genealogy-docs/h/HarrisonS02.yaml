@@ -1,0 +1,83 @@
+id: HarrisonS02
+title: Harrison S. Vining - Elizabeth Lillian [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harrison S. Vining
+          values:
+            - "?"
+            - "32"
+            - "41"
+            - "?"
+            - "?"
+        - label: Elizabeth Lillian ([…]) Vining
+          values:
+            - "?"
+            - "32"
+            - "41"
+            - "?"
+            - "?"
+        - label: Harold Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - "?"
+            - "?"
+          indent: true
+        - label: Clarence Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+        - label: Helen Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Brooklyn (ward 8), Kings County, New York - dwelling 208, family 442
+        images:
+          - src: HarrisonS02census1910.jpg
+      - year: "1920"
+        caption: Brooklyn, Kings County, New York - dwelling 44, family 100
+        images:
+          - src: HarrisonS02census1920.jpg

@@ -1,0 +1,50 @@
+id: Herman01
+title: Herman Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Herman Vining
+          values:
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary ([...]) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: George Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Catharine Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Benicia, Solano County, California

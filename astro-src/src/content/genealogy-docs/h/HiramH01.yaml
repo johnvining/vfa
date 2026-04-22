@@ -1,0 +1,75 @@
+id: HiramH01
+title: Hiram Harrison Vining - Mary Cecilia Forward
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Hiram Harrison Vining
+          values:
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Cecilia (Forward) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: daughter Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: son Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Fanny E. Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 20, family 21. Also living in this household in 1850 were
+          Quartus Clapp (24 y., b. Massachusetts) and Mahstable Perkins (51 y., b. Massachusetts).
+  - type: death
+    items:
+      - caption: >-
+          Monument for Hiram Harrison Vining and family, in Southwick Cemetery, Southwick, Hampden County, Massachusetts
+          (from Find A Grave):
+        images:
+          - src: HiramH01andfamilymonument.jpg
+          - src: HiramH01andfamilymonumentclose.jpg
+        inline: true
+      - caption: >-
+          Monument side for infant daughter and infant son of Hiram Harrison Vining and Mary Cecilia (Forward) Vining,
+          in Southwick Cemetery, Southwick, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: HiramH01childrenmonument.jpg

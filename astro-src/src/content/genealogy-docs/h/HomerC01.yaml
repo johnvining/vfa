@@ -1,0 +1,113 @@
+id: HomerC01
+title: Homer C. Vining - Sarah Fowler
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Homer C. Vining
+          values:
+            - "34"
+            - "45"
+            - "53"
+            - "?"
+            - dead
+            - ""
+        - label: Sarah (Fowler) Vining
+          values:
+            - 2[9?]
+            - "40"
+            - "49"
+            - "?"
+            - "?"
+            - dead
+        - label: Allison A. Vining
+          values:
+            - "8"
+            - not living in this household
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Esther Vining
+          values:
+            - "6"
+            - "16"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lydia Maria Vining
+          values:
+            - "3"
+            - "14"
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Hiram H. Vining
+          values:
+            - 10 m.
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Samuel E. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Harry D. Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Bessie E. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 83, family 81
+        images:
+          - src: HomerC01census1860.jpg
+      - year: "1870"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 19, family 19
+        images:
+          - src: HomerC01census1870a.jpg
+          - src: HomerC01census1870b.jpg
+      - year: "1880"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 41, family 43
+        images:
+          - src: HomerC01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Homer C. Vining and Sarah (Fowler) Vining and their son Hiram H. Vining, in Southwick Cemetery,
+          Southwick, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: HomerC01andfamilyheadstone.jpg

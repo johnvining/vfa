@@ -1,0 +1,30 @@
+id: HowardC02
+title: Howard Carlton Vining - Ruth E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Howard Carlton Vining
+          values:
+            - "47"
+        - label: Ruth E. ([…]) Vining
+          values:
+            - "49"
+        - label: Meredith Vining
+          values:
+            - "9"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Brocton, Plymouth County, Massachusetts
+        images:
+          - src: HowardC02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Howard Carlton Vining, in Melrose Cemetery, Brockton, Plymouth County, Massachusetts (from Find
+          A Grave):
+        images:
+          - src: HowardC02gravestone.jpg

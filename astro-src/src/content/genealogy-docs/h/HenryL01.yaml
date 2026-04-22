@@ -1,0 +1,80 @@
+id: HenryL01
+title: Henry L. Vining - Elizabeth Little
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Henry L. Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth (Little) Vining
+          values:
+            - "[...?]"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Henry Vining
+          values:
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Eliza Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sa[muel?] Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Susan Vining
+          values:
+            - "[...?] m."
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: District 79, Jefferson County, Georgia - dwelling 605, family 704
+        images:
+          - src: HenryL01census1870a.jpg
+          - src: HenryL01census1870b.jpg

@@ -1,0 +1,56 @@
+id: Haskell01
+title: Haskell Vining - Jane Shank
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Haskell Vining
+          values:
+            - "?"
+            - "42"
+            - "52"
+            - "63"
+        - label: Jane (Shank) Vining
+          values:
+            - "?"
+            - "43"
+            - "53"
+            - dead
+        - label: Molle ([…]) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "66"
+        - label: Edna Vining
+          values:
+            - "?"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Celina, Jefferson Township, Mercer County, Ohio - dwelling 212, family 234
+        images:
+          - src: Haskell01census1920.jpg
+      - year: "1930"
+        caption: Center Township, Mercer County, Ohio - dwelling 134, family 134
+        images:
+          - src: Haskell01census1930.jpg
+      - year: "1940"
+        caption: Center, Mercer County, Ohio
+        images:
+          - src: Haskell01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Haskell Vining and Jane Shank, in Riverside Cemetery, Rockford, Mercer County, Ohio (from Find A
+          Grave):
+        images:
+          - src: Haskell01andwifeheadstone.jpg

@@ -1,0 +1,105 @@
+id: HarryG01
+title: Harry G. Vining - Ella Mae Conant
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harry G. Vining
+          values:
+            - "31"
+            - "40"
+            - "50"
+            - "60"
+            - dead
+        - label: Ella Mae (Conant) Vining
+          values:
+            - "24"
+            - "34"
+            - "44"
+            - "53"
+            - "64"
+        - label: daughter Vining
+          values:
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: son Vining
+          values:
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Minnie Louise Vining Jr. [adopted]
+          values:
+            - ""
+            - "8"
+            - "17"
+            - living in separate household
+            - dead
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          East Livermore, Androscoggin County, Maine - dwelling 250, family 328. The 1900 census reported that Ella Mae
+          (Conant) Vining had given birth to two children, neither of whom were living in 1900.
+        images:
+          - src: HarryG01census1900.jpg
+      - year: "1910"
+        caption: Auburn (ward 1), Androscoggin County, Maine - dwelling 193, family 257
+        images:
+          - src: HarryG01census1910.jpg
+      - year: "1920"
+        caption: Auburn (ward 2, Gamage Avenue), Androscoggin County, Maine - dwelling 182, family 201
+        images:
+          - src: HarryG01census1920.jpg
+      - year: "1930"
+        caption: Auburn (Gamage Avenue), Androscoggin County, Maine - dwelling 332, family 363
+        images:
+          - src: HarryG01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Minot, Androscoggin County, Maine. Also living in this household in 1940 were William A. Staples (77 y., b.
+          Maine, uncle of Ella Mae (Conant) Vining) and Lora F. Hildreth (81 y., b. Maine, boarder).
+        images:
+          - src: HarryG01census1940a.jpg
+          - src: HarryG01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Obituary for Ella Mae (Conant) Vining. Note the discrepancy in her birth date between her obituary and her
+          gravestone (below the obituary).
+        images:
+          - src: HarryG01wifeobituary.jpg
+      - caption: >-
+          Gravestones for Harry G. Vining and Ella Mae (Conant) Vining, in Mount Auburn Cemetery, Auburn, Androscoggin
+          County, Maine:
+        images:
+          - src: HarryG01gravestone.jpg
+          - src: HarryG01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Minnie Louise Vining Jr., adopted daughter of Harry G. Vining and Ella Mae Conant, in Mount
+          Auburn Cemetery, Auburn, Androscoggin County, Maine:
+        images:
+          - src: HarryG01dauMinniegravestone.jpg
+      - caption: >-
+          Obituary for Minnie Louise Vining Jr., adopted daughter of Harry G. Vining and Ella Mae Conant (from Lewiston
+          [Maine] Evening Journal, 31 May 1933, page 2, column 5):
+        images:
+          - src: HarryG01dauMinnieobituarya.jpg
+          - src: HarryG01dauMinnieobituaryb.jpg

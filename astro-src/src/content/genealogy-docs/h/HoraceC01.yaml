@@ -1,0 +1,85 @@
+id: HoraceC01
+title: Horace Case Vining - Sarah J. Case
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Horace Case Vining
+          values:
+            - "31"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Sarah J. (Case) Vining
+          values:
+            - "23"
+            - "[33 or 35?]"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Henry J. Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Clarence Ruggles Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles H. Vining
+          values:
+            - 1 m.
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary R. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Canton, Hartford County, Connecticut - dwelling 52, family 52
+        images:
+          - src: HoraceC01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Canton, Hartford County, Connecticut - dwelling 28, family 28. In 1870, this family was living with a Case
+          family.
+        images:
+          - src: HoraceC01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Horace Case Vining and Sarah J. (Case) Vining, in North Canton Cemetery, North Canton,
+          Hartford County, Connecticut (from Find A Grave):
+        images:
+          - src: HoraceC01gravestone.jpg
+          - src: HoraceC01wifegravestone.jpg
+        inline: true

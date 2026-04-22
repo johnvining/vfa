@@ -1,0 +1,80 @@
+id: HowardC01
+title: Howard C. Vining - (1) M. Emma Small;   (2) Lottie J. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Howard C. Vining
+          values:
+            - "30"
+            - "?"
+            - "50"
+            - "60"
+            - "68"
+            - "?"
+            - "?"
+        - label: M. Emma (Small) Vining
+          values:
+            - "32"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Lottie J. ([…]) Vining
+          values:
+            - ""
+            - ""
+            - "42"
+            - "52"
+            - "60"
+            - "?"
+            - "?"
+        - label: C. Adele Vining
+          values:
+            - "5"
+            - "?"
+            - "[married and?] living in separate household"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Brockton, Plymouth County, Massachusetts - dwelling 228, family 323
+        images:
+          - src: HowardC01census1880.jpg
+      - year: "1900"
+        caption: Brockton (ward 2), Plymouth County, Massachusetts - dwelling 57, family 83
+        images:
+          - src: HowardC01census1900.jpg
+      - year: "1910"
+        caption: Brockton (ward 2), Plymouth County, Massachusetts - dwelling 14, family 24
+        images:
+          - src: HowardC01census1910.jpg
+      - year: "1920"
+        caption: Brockton (ward 2), Plymouth County, Massachusetts - dwelling 72, family 128
+        images:
+          - src: HowardC01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for M. Emma (Small) Vining, in Brewster Cemetery, Brewster, Barnstable County, Massachusetts (from
+          Find A Grave):
+        images:
+          - src: HowardC01wifegravestone.jpg
+      - caption: >-
+          Gravestone for C. Adele (Vining) McCormack, daughter of Howard C. Vining and M. Emma (Small) Vining, in
+          Brewster Cemetery, Brewster, Barnstable County, Massachusetts (from Find A Grave):
+        images:
+          - src: HowardC01dauCAdelegravestone.jpg

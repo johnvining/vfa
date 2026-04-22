@@ -1,0 +1,98 @@
+id: HenryB01
+title: Henry Bentley Vining - Susan E. Stallsworth
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage certificate for Henry Bentley Vining and Susan E. Stallsworth:"
+        images:
+          - src: HenryB01marriagecertificate.jpg
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Henry Bentley Vining
+          values:
+            - "28"
+            - dead
+            - ""
+            - ""
+        - label: Susan E. (Stallsworth) Vining
+          values:
+            - "26"
+            - "35"
+            - "46"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Agnes M. Vining
+          values:
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Jennie Cordella Vining
+          values:
+            - "4"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Aubrey Lee Vining
+          values:
+            - 1 y., 6 m.
+            - "11"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: James Vining
+          values:
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Rufus N. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+          indent: true
+        - label: Henry Bentley Vining Jr.
+          values:
+            - ""
+            - 1 y., 10 m.
+            - "12"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Cedar Shoals, Newton County, Georgia - dwelling 108, family 109
+        images:
+          - src: HenryB01census1910.jpg
+      - year: "1920"
+        caption: Porterdale, Cedar Shoals District, Newton County, Georgia - dwelling 367, family 505
+        images:
+          - src: HenryB01census1920.jpg
+      - year: "1930"
+        caption: "Oak District #1446, Clayton County, Georgia - dwelling 196, family 201"
+        images:
+          - src: HenryB01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Henry Bentley Vining and Susan E. (Stallsworth) Vining, in Porterdale, Newton County, Georgia
+          (from Find A Grave):
+        images:
+          - src: HenryB01gravestone.jpg
+          - src: HenryB01wifegravestone.jpg

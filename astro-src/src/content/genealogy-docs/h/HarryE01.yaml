@@ -1,0 +1,51 @@
+id: HarryE01
+title: Harry Edward Vining - Selma Christine Peterson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harry Edward Vining
+          values:
+            - "26"
+            - "36"
+            - "46"
+        - label: Selma Christine (Peterson) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+        - label: Joyce Marvel Vining
+          values:
+            - ""
+            - "10"
+            - "[living? in separate household]"
+          indent: true
+        - label: Lilas June Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Curtis Harry Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Minneapolis (ward 10), Hennepin County, Minnesota - dwelling 80, family 90
+        images:
+          - src: HarryE01census1920.jpg
+      - year: "1930"
+        caption: Austin (ward 2), Mower County, Minnesota - dwelling 208, family 212
+        images:
+          - src: HarryE01census1930.jpg
+      - year: "1940"
+        caption: Minneapolis, Hennepin County, Minnesota
+        images:
+          - src: HarryE01census1940.jpg

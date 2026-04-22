@@ -1,0 +1,74 @@
+id: HarmonL01
+title: Harmon Leonidist Vining - Lissie Emmons
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harmon Leonidist Vining
+          values:
+            - "33"
+            - "43"
+            - "53"
+            - "62"
+        - label: Lissie (Emmons) Vining
+          values:
+            - "29"
+            - "39"
+            - "49"
+            - "59"
+        - label: Ralph Loyd Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Treva G. Vining
+          values:
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Leland Chester Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[married and?] living in separate household"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Mississinawa, Darke County, Ohio - dwelling 202, family 204
+        images:
+          - src: HarmonL01census1910.jpg
+      - year: "1920"
+        caption: Mississinawa, Darke County, Ohio - dwelling 34, family 34
+        images:
+          - src: HarmonL01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Mississinawa, Darke County, Ohio - dwelling 202, family 203. Also living in this household in 1930 was Dale
+          Kochersperger (5 y., b. Indiana), Harmon Leonidist and Lissie (Emmons) Vining's "foster son" and also their
+          nephew.
+        images:
+          - src: HarmonL01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Mississinawa, Darke County, Ohio. - dwelling 202, family 203. Also living in this household in 1940 was Dale
+          Kochersperger (15 y., b. Indiana), Harmon Leonidist and Lissie (Emmons) Vining's "foster son" and also their
+          nephew).
+        images:
+          - src: HarmonL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Harmon Leonidist Vining and Lissie Emmons, in Green Mound Cemetery, Fort Recovery, Mercer
+          County, Ohio (from Find A Grave):
+        images:
+          - src: HarmonL01andwifeheadstone.jpg
