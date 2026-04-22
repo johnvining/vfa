@@ -19,14 +19,29 @@ intro:
 sections:
   - type: other
     heading: Wedding Photographs
+    items:
+      - images:
+          - src: SimeonF01andwifeweddinga.jpg
+          - src: SimeonF01andwifeweddingb.jpg
+        inline: true
   - type: other
     heading: 40th Wedding Anniversary Photographs
+    items:
+      - images:
+          - src: SimeonF0140thanniversary.jpg
+            height: 400
+          - src: SimeonF01wifeLena40thanniversary.jpg
+            height: 400
+        inline: true
   - type: other
     heading: Draft Registration Cards
-    text: |-
-      World War I:
-
-      World War II:
+    items:
+      - caption: "World War I:"
+        images:
+          - src: SimeonF01WWIdraftregistration.jpg
+      - caption: "World War II:"
+        images:
+          - src: SimeonF01WWIIdraftregistration.jpg
   - type: census
     table:
       columns:
@@ -95,18 +110,15 @@ sections:
           - src: SimeonF01
   - type: other
     heading: Flint, Michigan, City Directory entries
-    text: |-
-      1915–1916:
-
-      1924:
-
-      1930:
-
-      1934:
-
-      1937:
-
-      1945:
+    items:
+      - caption: "1915–1916:"
+        images:
+          - src: SimeonF01FlintCityDirectory1915-16.jpg
+          - src: SimeonF01FlintCityDirectory1924.jpg
+          - src: SimeonF01FlintCityDirectory1930.jpg
+          - src: SimeonF01FlintCityDirectory1934.jpg
+          - src: SimeonF01FlintCityDirectory1937.jpg
+          - src: SimeonF01FlintCityDirectory1945.jpg
   - type: death
     items:
       - caption: "Cemetery lot for Simeon Frank Vining and Maggie Lena (Farrow) Vining, in Gracelawn Cemetery, Flint, Michigan:"

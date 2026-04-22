@@ -160,25 +160,22 @@ sections:
         inline: true
   - type: other
     heading: Descendants Data
-    text: >-
-      Thank you to Albert Nelson Vining Jr. for identifying people in this photograph that was in his possession as 19
-      June 2006. All of the people he named were descendants of Seward Vining and Roxanna F. (Purrington) Vining. His
-      identifications were expanded using full names from the online Vining family genealogy. Information in brackets is
-      also from the online genealogy.
-
-
-      Back row (standing, from left to right): ?, ?, ?, ?, Christie Vining [daughter of Leslie Alvin Vining], ?, ?, ?,
-      Albert Nelson Vining Jr. [son of Albert Nelson Vining], Helen Louise (Meserve) Vining [wife of Albert Nelson
-      Vining], Randall O. Vining [son of Winfield R. Vining], Chester C. Allen [second husband of Lizzie A. Vining; she
-      was the first child of Seward and Roxanna], Marcellus F. Will [husband of Abbie Evelyn Vining; she was the second
-      child of Seward and Roxanna], Albert Nelson Vining [fourth child of Seward and Roxanna], housekeeper of Winfield
-      R. Vining, ?, ?, Ella Amelia (Winter) Vining [wife of Leslie Alvin Vining], ?, ?, ?, ?, ?, Leslie Alvin Vining
-      [fifth child of Seward and Roxanna].
-
-
-      Middle row (seated in chairs, from left to right): ?, ? [seated on lap],?, Lizzie A. (Vining) Allen [wife of
-      Chester C. Allen], ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, Abbie Evelyn (Vining) Will, ?, ?, ?, ?, Winfield R.
-      Vining [sixth child of Seward and Roxanna].
-
-
-      Front row (seated/kneeling on ground, from left to right): all unknown to Albert Nelson Vining Jr.
+    items:
+      - caption: >-
+          Thank you to Albert Nelson Vining Jr. for identifying people in this photograph that was in his possession as
+          19 June 2006. All of the people he named were descendants of Seward Vining and Roxanna F. (Purrington) Vining.
+          His identifications were expanded using full names from the online Vining family genealogy. Information in
+          brackets is also from the online genealogy. Back row (standing, from left to right): ?, ?, ?, ?, Christie
+          Vining [daughter of Leslie Alvin Vining], ?, ?, ?, Albert Nelson Vining Jr. [son of Albert Nelson Vining],
+          Helen Louise (Meserve) Vining [wife of Albert Nelson Vining], Randall O. Vining [son of Winfield R. Vining],
+          Chester C. Allen [second husband of Lizzie A. Vining; she was the first child of Seward and Roxanna],
+          Marcellus F. Will [husband of Abbie Evelyn Vining; she was the second child of Seward and Roxanna], Albert
+          Nelson Vining [fourth child of Seward and Roxanna], housekeeper of Winfield R. Vining, ?, ?, Ella Amelia
+          (Winter) Vining [wife of Leslie Alvin Vining], ?, ?, ?, ?, ?, Leslie Alvin Vining [fifth child of Seward and
+          Roxanna]. Middle row (seated in chairs, from left to right): ?, ? [seated on lap],?, Lizzie A. (Vining) Allen
+          [wife of Chester C. Allen], ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, Abbie Evelyn (Vining) Will, ?, ?, ?, ?,
+          Winfield R. Vining [sixth child of Seward and Roxanna]. Front row (seated/kneeling on ground, from left to
+          right): all unknown to Albert Nelson Vining Jr.
+        images:
+          - src: Seward01descendantsreunionsmall.jpg
+          - src: Seward01descendantsreunioncomposite.jpg
