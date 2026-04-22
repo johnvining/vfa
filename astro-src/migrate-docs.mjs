@@ -362,8 +362,8 @@ function parseDocFile(html, personId) {
   // Parse intro
   const introItems = parseItemsContent(introHtml);
 
-  // Parse sections
-  const sections = rawSections.map(sec => {
+  // Parse sections — returns a flat array (census trailing content becomes a separate section)
+  const sections = rawSections.flatMap(sec => {
     const type = headingToType(sec.headingText);
     const result = { type };
 
@@ -382,13 +382,17 @@ function parseDocFile(html, personId) {
         const afterTable = sec.content.slice(sec.content.indexOf(tableM[0]) + tableM[0].length);
         const entries = parseCensusEntries(afterTable);
         if (entries.length > 0) result.entries = entries;
-        if (entries._trailing && entries._trailing.length > 0) result.items = entries._trailing;
+        if (entries._trailing && entries._trailing.length > 0) {
+          return [result, { type: 'other', items: entries._trailing }];
+        }
       } else {
         // No table, just year entries
         const entries = parseCensusEntries(sec.content);
         if (entries.length > 0 || entries._trailing) {
           if (entries.length > 0) result.entries = entries;
-          if (entries._trailing && entries._trailing.length > 0) result.items = entries._trailing;
+          if (entries._trailing && entries._trailing.length > 0) {
+            return [result, { type: 'other', items: entries._trailing }];
+          }
         } else {
           // No year entries either — mislabeled heading; treat as items (e.g. gravestone under "Census Data")
           const items = parseItemsContent(sec.content);
@@ -398,6 +402,7 @@ function parseDocFile(html, personId) {
           }
         }
       }
+      return [result];
     } else if (type === 'notes' || type === 'research' || type === 'other') {
       // If images are present, try items parsing first (preserves image+caption pairs)
       if (/<img/i.test(sec.content)) {
@@ -417,7 +422,7 @@ function parseDocFile(html, personId) {
       if (items.length > 0) result.items = items;
     }
 
-    return result;
+    return [result];
   });
 
   const doc = { id: personId, title };
