@@ -234,7 +234,12 @@ export function renderEntry(data: EntryData): string {
 
   // Parent reference
   if (data.relationship && data.parentDesc) {
-    const rel = data.relationship ?? 'son';
+    const relMap: Record<string, string> = {
+      'son': 'son', 'dau.': 'dau.', 'daughter': 'daughter',
+      'adopted son': 'adopted son', 'adopted dau.': 'adopted dau.',
+      '[adopted?] son': '[adopted?] son', '[adopted?] dau.': '[adopted?] dau.',
+    };
+    const rel = relMap[data.relationship!] ?? 'son';
     const closeParen = data.noCloseParen ? '' : ')';
     if (data.parentId) {
       const href = data.parentLetter
