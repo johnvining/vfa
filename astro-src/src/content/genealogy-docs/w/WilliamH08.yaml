@@ -103,10 +103,14 @@ sections:
         images:
           - src: WilliamH08sonDeweyandwifeheadstone.jpg
   - type: notes
-    text: >-
-      Dewey Theodore Vining was of medium height and medium build when he registered on 12 September 1918 for service in
-      World War I.
-
-
-      He later married Hilda A. […] and worked as an auto repair mechanic. No evidence has been found for their having
-      any children.
+    items:
+      - caption: >-
+          Dewey Theodore Vining was of medium height and medium build when he registered on 12 September 1918 for
+          service in World War I.
+        images:
+          - src: WilliamH08sonDeweyregistrationcarda.jpg
+          - src: WilliamH08sonDeweyregistrationcardb.jpg
+        inline: true
+      - caption: >-
+          He later married Hilda A. […] and worked as an auto repair mechanic. No evidence has been found for their
+          having any children.
