@@ -1,0 +1,47 @@
+id: Nehemiah01
+title: Nehemiah Vining - Deborah Ward
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: Nehemiah Vining
+          values:
+            - M 16 and upward
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Deborah (Ward) Vining
+          values:
+            - F
+            - F 26–44
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sally Vining
+          values:
+            - F
+            - F 10–15
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Weymouth, Suffolk County, Massachusetts. (Weymouth is now in Norfolk County.) The age of each member of this
+          family in 1790 matches the expected age category in the 1790 census record.
+      - year: "1800"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts. The age of each member of this family in 1800 matches the expected
+          age category in the 1800 census record.

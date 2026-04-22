@@ -1,0 +1,131 @@
+id: NathanielR01
+title: Nathaniel R. Vining - Louisa J. Worthley
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Nathaniel R. Vining
+          values:
+            - "37"
+            - "47"
+            - "57"
+            - dead
+            - ""
+            - ""
+        - label: Louisa J. (Worthley) Vining
+          values:
+            - "32"
+            - "42"
+            - "52"
+            - "62"
+            - "?"
+            - dead
+        - label: Sophronia Louisa Vining
+          values:
+            - "9"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ostinello Vining
+          values:
+            - "6"
+            - "17"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Jane "Sally" Vining
+          values:
+            - "4"
+            - "14"
+            - "24"
+            - |-
+              not living in this household
+              [see note below]
+            - "?"
+            - |-
+              54
+              [see note below]
+          indent: true
+        - label: Aroline K. Vining
+          values:
+            - "2"
+            - "12"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Emogene "Emma" Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Roxanna W. "Anna" Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "22"
+            - "?"
+            - |-
+              52
+              [see note below]
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Avon, Franklin County, Maine - dwelling 101, family 103
+        images:
+          - src: NathanielR01census1850.jpg
+      - year: "1860"
+        caption: Avon, Franklin County, Maine - dwelling 255, family 261
+        images:
+          - src: NathanielR01census1860.jpg
+      - year: "1870"
+        caption: Avon, Franklin County, Maine - dwelling 91, family 94
+        images:
+          - src: NathanielR01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 102, family 109. Also living in this household in 1880 were Asa Talbot
+          (boarder, 77 y., b. Maine) and Gardner Cates (son-in-law, 34 y., b. Maine). Note that Gardner Cates's wife,
+          Sarah Jane Vining, was not living in this household in 1880.
+        images:
+          - src: NathanielR01census1880.jpg
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 22, family 22. Sarah Jane (Vining) Cates and Roxanna W. Vining were
+          living together in 1900. The birth date and age of the latter is off by 10 years in this census record.
+        images:
+          - src: NathanielR01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for some family members of the family of Nathaniel R. Vining and Louisa J. (Worthley) Vining, in
+          Village Cemetery, Strong, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: NathanielR01familyheadstone.jpg
+      - caption: >-
+          Gravestone for Aroline K. Vining, dau. of Nathaniel R. Vining and Louisa J. (Worthley) Vining, in Pease
+          Cemetery, Avon, Franklin County, Maine (from Find A Grave). Aroline's name is also on a newer family headstone
+          (see above) in the Village Cemetery, Strong, Franklin County, Maine, but she is likely buried in the Pease
+          Cemetery in Avon, Maine.
+        images:
+          - src: NathanielR01dauArolinegravestone.jpg

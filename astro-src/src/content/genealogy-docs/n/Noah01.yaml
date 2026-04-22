@@ -1,0 +1,144 @@
+id: Noah01
+title: Noah Vining - Mary Leavitt Stoddard
+sections:
+  - type: census
+    table:
+      columns:
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: Noah Vining
+          values:
+            - M 26–44
+            - M 26–44
+            - M 40–49
+            - "?"
+            - "68"
+            - "79"
+            - dead
+        - label: Mary Leavitt (Stoddard) Vining
+          values:
+            - F 26–44
+            - F 26–44
+            - F 40–49
+            - "?"
+            - "66"
+            - "77"
+            - dead
+        - label: Noah Vining Jr.
+          values:
+            - M under 10
+            - M 10–15
+            - M 20–29
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Allen Vining
+          values:
+            - M under 10
+            - M 10–15
+            - M 20–29
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary Vining
+          values:
+            - F under 10
+            - F 10–15
+            - married, [living in this household?]
+            - "?"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Samuel Albert Vining
+          values:
+            - ""
+            - M under 10
+            - M 15–19
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Adoniram Vining
+          values:
+            - ""
+            - M under 10
+            - M 15–19
+            - married [and living separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Harriet Newell Vining
+          values:
+            - ""
+            - F under 10
+            - F 10–14
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Catharine M. Vining
+          values:
+            - ""
+            - F under 10
+            - F 10–14
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1810"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts. Each member of the family fits into the expected age category in the
+          1810 census record.
+      - year: "1820"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts. Each member of the family fits into the expected age category in the
+          1820 census record.
+      - year: "1830"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts. Each member of the family fits into the expected age category in the
+          1830 census record except Allen, who was 22 in 1830 and not 15–19. Mary appears to be living with her parents
+          in 1830 despite having been married in 1828. Given that there was no male of approximately Mary’s age in this
+          household, it needs to be determined if Mary had been widowed. Further, it is to be determined who the two
+          males (age 10–14 and age 80–89) were.
+      - year: "1850"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 320, family 398. Also living in this household in 1850 were
+          Olive Vining (85 y., b. Massachusetts), Charles V. White (15 y., b. Massachusetts, shoemaker), and Mary V.
+          White (13 y., b. Massachusetts), the latter two likely grandchildren of Noah and Mary (Stoddard) Vining.
+        images:
+          - src: Noah01census1850.jpg
+      - year: "1860"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 669, family 758
+        images:
+          - src: Noah01census1860.jpg
+  - type: birth
+    items:
+      - caption: "Birth certificate for Harriet Newell Vining, daughter of Noah Vining and Mary Leavitt Stoddard:"
+        images:
+          - src: Noah01daughterHarrietNbirthcert.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage certificate for Harriet Newell Vining, daughter of Noah Vining and Mary Leavitt Stoddard:"
+        images:
+          - src: Noah01daughterHarrietNmarrcert.jpg
+  - type: death
+    items:
+      - caption: "Death certificates for Harriet Newell Vining, daughter of Noah Vining and Mary Leavitt Stoddard:"
+        images:
+          - src: Noah01daughterHarrietNdeathcert.jpg

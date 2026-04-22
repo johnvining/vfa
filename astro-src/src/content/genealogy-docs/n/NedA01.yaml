@@ -1,0 +1,31 @@
+id: NedA01
+title: Ned Ansel Vining - Margaret Ann Neace
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Ned Ansel Vining
+          values:
+            - "27"
+        - label: Margaret Ann (Neace) Vining
+          values:
+            - "25"
+        - label: Nancy Ann Vining
+          values:
+            - "6"
+          indent: true
+        - label: Joan Lee Vining
+          values:
+            - "5"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Walla Walla, Walla Walla County, Washington - for Ned Ansel Vining and Margaret Ann (Neace) Vining
+        images:
+          - src: NedA01census1940a.jpg
+      - year: "1940"
+        caption: Covello, Columbia County, Washington - for Nancy Ann Vining and Joan Lee Vining
+        images:
+          - src: NedA01census1940b.jpg

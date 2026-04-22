@@ -1,0 +1,46 @@
+id: NelsonC01
+title: Nelson C. Vining - Lara B. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Nelson C. Vining
+          values:
+            - "31"
+            - "41"
+            - "?"
+            - "?"
+        - label: Laura B. ([...]) Vining
+          values:
+            - "25"
+            - "35"
+            - "?"
+            - "?"
+        - label: Carl C. Vining
+          values:
+            - "5"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+        - label: Leola M. Vining
+          values:
+            - 11 m.
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Vilas Village, Colfax Township, Wilson County, Kansas - dwelling 183, family 184
+        images:
+          - src: NelsonC01census1910.jpg
+      - year: "1920"
+        caption: Sherlock Township, Finney County, Kansas - dwelling 139, family 143
+        images:
+          - src: NelsonC01census1920.jpg
