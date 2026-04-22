@@ -13,13 +13,13 @@ head:
   death:
     date: 31 August 2017
 marriages:
-  - number: 1
+  - number: "1?"
     spouse:
       givenName: Mary
       surname: Meek
   - number: 2
     date: "Linda [&#8230;]"
-  - number: 3
+  - number: "3?"
     date: 12 April 1997
     place: "South Dakota"
     spouse:
