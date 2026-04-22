@@ -1,107 +1,78 @@
 ENTRY DIFF REPORT
 =================
-Entries with significant diffs: 25
-Total significant diff chunks:  36
-Entries missing in new site:    0
-Entries present only in new:    8
+In new only:  8
+Different:    21
+In old only:  0
 
-Significant = contains at least one alphanumeric character.
-Case differences, punctuation-only, and whitespace-only differences are suppressed.
+Case, punctuation-only, and whitespace-only differences are suppressed.
 
 
-=== A (3 entries with diffs) ===
-  [AB01]
-    - p. o. box 505 - yardley, pa 19067
-    - vining migration
-    + census records
-  [ArthurL01] PRESENT IN NEW SITE BUT NOT IN OLD
-  [ArthurL04] PRESENT IN NEW SITE BUT NOT IN OLD
+═══════════════════════════════════════════
+  IN NEW ONLY  (not present in old site)
+═══════════════════════════════════════════
+  [ArthurL01]  (A)
+  [ArthurL04]  (A)
+  [BryantR01]  (B)
+  [HarryL03]  (H)
+  [JosephM02]  (J)
+  [LouisH01]  (L)
+  [RoscoeD01]  (R)
+  [Thomas14]  (T)
 
-=== B (3 entries with diffs) ===
-  [BF01]
-    - vining migration
-    + census records
-  [BryantO01]
-    - b
-    + bur
-  [BryantR01] PRESENT IN NEW SITE BUT NOT IN OLD
+═══════════════════════════════════════════
+  DIFFERENT  (exist in both, content differs)
+═══════════════════════════════════════════
+  [BryantO01]  (B)
+    old: b
+    new: bur
+  [CharlesR02]  (C)
+    new: b
+  [ElamC01]  (E)
+    new: m
+  [FrankH01]  (F)
+    old: note
+  [GeorgeR01]  (G)
+    new: b
+  [Harlan01]  (H)
+    old: b
+    new: bur
+  [HaroldH01]  (H)
+    new: b
+  [HullS01]  (H)
+    new: bur
+  [JacksonC01]  (J)
+    old: note
+  [JamesR02]  (J)
+    new: bur
+  [JamesT03]  (J)
+    old: b
+  [JamesT01]  (J)
+    new: d
+  [JohnH07]  (J)
+    old: d
+    new: bur
+  [Olin01]  (O)
+    new: b
+  [RichardJ03]  (R)
+    old: sn
+    new: son
+  [RobertL01]  (R)
+    old: rdstown
+    new: hagerstown
+  [RudolphJ01]  (R)
+    new: b
+  [WalterT01]  (W)
+    old: f
+    new: d
+  [Ward01]  (W)
+    new: b
+  [William01]  (W)
+    new: m
+  [WilliamE06]  (W)
+    new: d
 
-=== C (1 entries with diffs) ===
-  [CharlesR02]
-    + b.
+═══════════════════════════════════════════
+  IN OLD ONLY  (missing from new site)
+═══════════════════════════════════════════
+  (none)
 
-=== E (1 entries with diffs) ===
-  [ElamC01]
-    + m.
-
-=== F (1 entries with diffs) ===
-  [FrankH01]
-    - note:
-
-=== G (1 entries with diffs) ===
-  [GeorgeR01]
-    + b.
-
-=== H (4 entries with diffs) ===
-  [Harlan01]
-    - b
-    + bur
-  [HaroldH01]
-    + b.
-  [HullS01]
-    + bur.
-  [HarryL03] PRESENT IN NEW SITE BUT NOT IN OLD
-
-=== J (7 entries with diffs) ===
-  [JackH01]
-    - harrisonvining
-    + harrison vining
-  [JacksonC01]
-    - note:
-  [JamesR02]
-    + bur.
-  [JamesT03]
-    - b.
-  [JamesT01]
-    + d.
-  [JohnH07]
-    - d
-    + bur
-  [JosephM02] PRESENT IN NEW SITE BUT NOT IN OLD
-
-=== L (1 entries with diffs) ===
-  [LouisH01] PRESENT IN NEW SITE BUT NOT IN OLD
-
-=== M (1 entries with diffs) ===
-  [MaconA01]
-    - newsletter archive vinings in 1790
-    + news and notes census records vining migration
-
-=== O (1 entries with diffs) ===
-  [Olin01]
-    + b.
-
-=== R (4 entries with diffs) ===
-  [RichardJ03]
-    - sn
-    + son
-  [RobertL01]
-    - rdstown
-    + hagerstown
-  [RudolphJ01]
-    + b.
-  [RoscoeD01] PRESENT IN NEW SITE BUT NOT IN OLD
-
-=== T (1 entries with diffs) ===
-  [Thomas14] PRESENT IN NEW SITE BUT NOT IN OLD
-
-=== W (4 entries with diffs) ===
-  [WalterT01]
-    - f
-    + d
-  [Ward01]
-    + b.
-  [William01]
-    + m.
-  [WilliamE06]
-    + d.
