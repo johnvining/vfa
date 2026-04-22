@@ -1,0 +1,91 @@
+id: Osmyn01
+title: Osmyn Vining - Caroline A. "Carrie" Dyer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Osmyn Vining
+          values:
+            - "?"
+            - "27"
+            - "?"
+            - "?"
+            - "57"
+            - "65"
+            - dead
+        - label: Caroline A. "Carrie" (Dyer) Vining
+          values:
+            - "?"
+            - "29"
+            - "?"
+            - "?"
+            - "59"
+            - "67"
+            - dead
+        - label: Mary Hortense Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ralph Spellman Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Osmyn Carl Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - |-
+              24
+              [see note below]
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Tyringham, Berkshire County, Massachusetts - dwelling 64, family 67
+        images:
+          - src: Osmyn01census1880.jpg
+      - year: "1890"
+        caption: Census data unavailable.
+      - year: "1910"
+        caption: >-
+          Kalamazoo Township, Kalamazoo County, Michigan - dwelling 66, family 68. Osmyn Carl Vining was married (3 y.
+          as of 1910 census) and still living in the household of his parents, along with wife Ora A. ([...]) Vining (22
+          y., b. Canada), and son Osmyn A. Vining (11 m., b. Michigan).
+        images:
+          - src: Osmyn01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Kalamazoo Township, Kalamazoo County, Michigan - dwelling 189, family 194. In 1920, Osmyn Vining and wife
+          Caroline A. "Carrie" (Dyer) Vining were living in the household of son Osmyn Carl Vining.
+        images:
+          - src: OsmynC01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Osmyn Vining and Caroline A. "Carrie" (Dyer) Vining and daughter Mary Hortense Vining, in West
+          Cummington Cemetery, West Cummington, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: Osmyn01familyheadstone.jpg

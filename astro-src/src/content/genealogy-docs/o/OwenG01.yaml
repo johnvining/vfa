@@ -1,0 +1,58 @@
+id: OwenG01
+title: Owen Green Vining - Mary Eula Reiner
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Owen Green Vining
+          values:
+            - "?"
+            - "43"
+            - "?"
+        - label: Mary Eula (Reiner) Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+        - label: Gertrude Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+          indent: true
+        - label: Thelma Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+        - label: Owen Green Vining Jr.
+          values:
+            - ""
+            - "5"
+            - "?"
+          indent: true
+        - label: Virginia Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Axson, Atkinson County, Georgia - dwelling 270, family 263
+        images:
+          - src: OwenG01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Owen Green Vining and Mary Eula (Reiner) Vining, in Willacoochee City Cemetery, Atkinson
+          County, Georgia (from Find A Grave):
+        images:
+          - src: OwenG01gravestone.jpg
+          - src: OwenG01wifegravestone.jpg
+        inline: true

@@ -1,0 +1,93 @@
+id: OI01
+title: O. Israel Fifield Vining - Elvira S. Thomas
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: O. Israel Fifield Vining
+          values:
+            - "34"
+            - "42"
+            - "53"
+            - "63"
+            - "?"
+            - dead
+        - label: Elvira S. (Thomas) Vining
+          values:
+            - "32"
+            - "41"
+            - "51"
+            - "61"
+            - "?"
+            - dead
+        - label: Susan Thomas Vining
+          values:
+            - "5"
+            - "15"
+            - |-
+              24
+              [see note below]
+            - |-
+              34
+              [see note below]
+            - "?"
+            - ""
+          indent: true
+        - label: Ezra Bonney Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "28"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: David Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Readfield, Kennebec County, Maine - dwelling 51, family 58. Also living in this household in 1850 was William
+          Thomas (20 y., b. Maine, house joiner).
+        images:
+          - src: OI01census1850.jpg
+      - year: "1860"
+        caption: Avon, Franklin County, Maine - dwelling 264, family 269
+        images:
+          - src: OI01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Wilton, Franklin County, Maine - dwelling 5, family 6. In 1870, Susan Thomas Vining was married but still
+          living in her parents' household.
+        images:
+          - src: OI01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Littleton, Middlesex County, Massachusetts - dwelling 88, family 96. Also living in this household in 1880
+          were Susan Thomas (Vining) Sawyer (daughter of O. Israel Fifield Vining and Elvira S. (Thomas) Vining), her
+          husband (Edward S. Sawyer) and their daughter (Mary V. Sawyer).
+        images:
+          - src: OI01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for O. Israel Fifield Vining and Elvira S. (Thomas) Vining, in Westlawn Cemetery, Littleton,
+          Middlesex County, Massachusetts (from Find A Grave):
+        images:
+          - src: OI01gravestone.jpg
+          - src: OI01wifegravestone.jpg
+        inline: true

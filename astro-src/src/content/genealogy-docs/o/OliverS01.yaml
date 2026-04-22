@@ -1,0 +1,95 @@
+id: OliverS01
+title: Oliver Smith Vining - Elizabeth Helen Muzzy
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Oliver Smith Vining
+          values:
+            - "30"
+            - "46"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Elizabeth Helen (Muzzy) Vining
+          values:
+            - "30"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ella Triphena Maria Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Martha A. Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles William Vining
+          values:
+            - "8"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Joseph Allen Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Martha E. "Mattie" Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Hatfield, Hampshire County, Massachusetts - dwelling 12, family 11
+        images:
+          - src: OliverS01census1860.jpg
+      - year: "1870"
+        caption: Whately, Franklin County, Massachusetts - dwelling 89, family 99
+        images:
+          - src: OliverS01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Oliver Smith Vining, in North Hatfield Cemetery North Hatfield, Massachusetts (from Find A
+          Grave):
+        images:
+          - src: OliverS01gravestone.jpg
+      - caption: >-
+          Headstone for Martha A. Vining and Charles William Vining, children of Oliver Smith Vining and Elizabeth Helen
+          Muzzy, in North Hatfield Cemetery, North Hatfield, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: OliverS01childrenMarthaCharlesheadstone.jpg

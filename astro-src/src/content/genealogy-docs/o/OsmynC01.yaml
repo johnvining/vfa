@@ -1,0 +1,97 @@
+id: OsmynC01
+title: Osmyn Carl Vining - Aurore A. "Ora" La Palm
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Osmyn Carl Vining
+          values:
+            - "24"
+            - "34"
+            - "44"
+            - "54"
+        - label: Aurore A. "Ora" (La Palm) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "52"
+        - label: Anna Marie Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Osmyn Arsene Vining
+          values:
+            - 11 m.
+            - "10"
+            - "20"
+            - living in separate household
+          indent: true
+        - label: Ralph Spellman Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - living in separate household
+          indent: true
+        - label: Carl Horace Vining
+          values:
+            - ""
+            - 4 y., 7 m.
+            - "14"
+            - married and living in separate household
+          indent: true
+        - label: Kamita Earl Vining
+          values:
+            - ""
+            - 1 y., 6 m.
+            - "11"
+            - married and living in separate household
+          indent: true
+        - label: Yvonne Jeanne "Bonnie" Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Kalamazoo Township, Kalamazoo County, Michigan - dwelling 66, family 68. By 1910, Osmyn Carl Vining was
+          married but was still living in the household of his parents.
+        images:
+          - src: Osmyn01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Kalamazoo Township, Kalamazoo County, Michigan - dwelling 189, family 194. Also living in this household in
+          1920 were the parents of Osmyn Carl Vining: Osmyn Vining and Caroline A. "Carrie" (Dyer) Vining.
+        images:
+          - src: OsmynC01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Kalamazoo Township, Kalamazoo County, Michigan - dwelling 231, family 234. Also living in this household in
+          1930 was Walter F. Harrison (25 y., b. Michigan).
+        images:
+          - src: OsmynC01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Kalamazoo Township, Kalamazoo County, Michigan. Also living in this household in 1940 was Arsene Vining (8 y.,
+          b. Michigan, grandson of Osmyn Carl Vining and Aurore A. "Ora" (La Palm) Vining).
+        images:
+          - src: OsmynC01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Osmyn Carl Vining and Aurore A. "Ora" (La Palm) Vining, in Mount Ever-Rest Memorial Park South,
+          Kalamazoo, Kalamazoo County, Michigan (from Find A Grave):
+        images:
+          - src: OsmynC01andwifeheadstone.jpg

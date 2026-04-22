@@ -1,0 +1,98 @@
+id: OlenM01
+title: Olen Marshall Vining - Ella Edwards
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Olen Marshall Vining
+          values:
+            - "?"
+            - "41"
+            - "52"
+            - "61"
+        - label: Ella (Edwards) Vining
+          values:
+            - "?"
+            - "32"
+            - "42"
+            - "[6?]3"
+        - label: Annie Vining
+          values:
+            - "?"
+            - "14"
+            - "25"
+            - "[living? in separate household]"
+          indent: true
+        - label: Gertrude Vining
+          values:
+            - "?"
+            - "13"
+            - "23"
+            - "[living? in separate household]"
+          indent: true
+        - label: Robert E. Vining
+          values:
+            - "?"
+            - "11"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Wilfred Elmo Vining
+          values:
+            - ""
+            - "9"
+            - "20"
+            - "30"
+          indent: true
+        - label: Inez Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "[living? in separate household]"
+          indent: true
+        - label: Olen M. Vining Jr.
+          values:
+            - ""
+            - ""
+            - "10"
+            - "20"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Beat 4, Pike County, Louisiana - dwelling 126, family [135?]
+        images:
+          - src: OlenM01census1920.jpg
+      - year: "1930"
+        caption: Police Jury Ward 8, Tangipahoa County, Louisiana - dwelling 92, family 92
+        images:
+          - src: OlenM01census1930.jpg
+      - year: "1940"
+        caption: "[no town reported], Tangipahoa County, Louisiana"
+        images:
+          - src: OlenM01census1940a.jpg
+          - src: OlenM01census1940b.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for Olen Marshall Vining:"
+        images:
+          - src: OlenM01WWIregistrationcarda.jpg
+          - src: OlenM01WWIregistrationcardb.jpg
+        inline: true
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Olen Marshall Vining and Ella (Edwards) Vining, in Collins Cemetery, Ponchatoula, Tangipahoa
+          Parish, Louisiana (from Find A Grave):
+        images:
+          - src: OlenM01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Wilfred Elmo Vining, son of Olen Marshall Vining and Ella (Edwards) Vining, in Collins
+          Cemetery, Ponchatoula, Tangipahoa Parish, Louisiana (from Find A Grave):
+        images:
+          - src: OlenM01sonWilfredgravestone.jpg

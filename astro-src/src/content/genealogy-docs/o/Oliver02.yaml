@@ -1,0 +1,103 @@
+id: Oliver02
+title: Oliver Vining - Arloe Wall
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Oliver Vining
+          values:
+            - "26"
+            - "37"
+            - "47"
+        - label: Arloe (Wall) Vining
+          values:
+            - "22"
+            - "33"
+            - "44"
+        - label: John Vining
+          values:
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+          indent: true
+        - label: James Harry Vining
+          values:
+            - "4"
+            - "14"
+            - living in separate household
+          indent: true
+        - label: Carleen Vining
+          values:
+            - "1"
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Valerie Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Louise Vining
+          values:
+            - ""
+            - "7"
+            - "16"
+          indent: true
+        - label: Oliver Vining Jr.
+          values:
+            - ""
+            - "5"
+            - "14"
+          indent: true
+        - label: Erma Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+          indent: true
+        - label: "[...nita] Vining"
+          values:
+            - ""
+            - "[1?] m."
+            - "[living? in separate household]"
+          indent: true
+        - label: Lois Vining
+          values:
+            - ""
+            - ""
+            - "10"
+          indent: true
+        - label: Leland Vining
+          values:
+            - ""
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Douglas (district 748), Coffee County, Georgia - dwelling 574, family 608
+        images:
+          - src: Oliver02census1920.jpg
+      - year: "1930"
+        caption: Axson, Atkinson County, Georgia - dwelling 281, family 277
+        images:
+          - src: Oliver02census1930.jpg
+      - year: "1940"
+        caption: Axson, Atkinson County, Georgia
+        images:
+          - src: Oliver02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Cemetery lot for Oliver Vining and Arloe (Wall) Vining, and below that are closer views of their individual
+          stones, in Oakland Cemetery, Waycross, Georgia:
+        images:
+          - src: Oliver02andwifecemeterylot.jpg
+          - src: Oliver02gravestone.jpg
+          - src: Oliver02wifegravestone.jpg
+        inline: true

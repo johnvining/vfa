@@ -1,0 +1,101 @@
+id: Oliver01
+title: Oliver Vining - Mary R. Burchim
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Oliver Vining
+          values:
+            - "42"
+            - "?"
+            - "61"
+            - "73"
+            - dead
+        - label: Mary R. (Burchim) Vining
+          values:
+            - "32"
+            - "?"
+            - "52"
+            - dead
+            - ""
+        - label: Gertrude Vining
+          values:
+            - "10"
+            - "?"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Church Abijah Vining
+          values:
+            - "8"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - "?"
+            - "[dead?]"
+            - ""
+            - ""
+          indent: true
+        - label: Alice M. Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - "28"
+            - "?"
+          indent: true
+        - label: Abbey P. Vining
+          values:
+            - ""
+            - "?"
+            - "14"
+            - "23"
+            - "?"
+          indent: true
+        - label: A. Burchim Vining
+          values:
+            - ""
+            - "?"
+            - "8"
+            - living in separate household
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Limestone, Kankakee County, Illinois - dwelling 144, family 144. Also living in this household in 1870 were
+          Alfred Bussey (32 y., b. Prussia, a farm laborer), Emeline Baker (44 y., b. New York, "insane"), [Mary R.?]
+          Alice Baker (18 y., b. Illinois), and Louisa Vining (30 [sic] y., b. New York, "insane").
+        images:
+          - src: Oliver01census1870.jpg
+      - year: "1880"
+        caption: Kankakee, Kankakee County, Illinois - dwelling 469, family 456
+        images:
+          - src: Oliver01census1880.jpg
+      - year: "1900"
+        caption: Aroma Township, Kankakee County, Illinois - dwelling 127, family 132
+        images:
+          - src: Oliver01census1900.jpg
+      - year: "1910"
+        caption: Kankakee (ward 6), Kankakee County, Illinois - dwelling 52, family 55
+        images:
+          - src: Oliver01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Oliver Vining and Mary R. (Burchim) Vining, in Mound Grove Cemetery, Kankakee, Kankakee County,
+          Illinois (from Find A Grave):
+        images:
+          - src: Oliver01andwifeheadstone.jpg
