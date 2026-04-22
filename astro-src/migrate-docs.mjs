@@ -184,12 +184,27 @@ function parseCensusEntries(html) {
     const trimmed = chunk.trim();
     if (!trimmed) continue;
 
+    // Strip any leading <br> tags (some entries are preceded by extra <br><br>)
+    const stripped = trimmed.replace(/^(\s*<br\s*\/?>\s*)+/i, '').trim();
+    if (!stripped) continue;
+
     // Check if this chunk starts with a year entry
-    const yearM = trimmed.match(/^<font\s+size=\+1><b>(\d{4}[a-z]?)<\/b><\/font>([\s\S]*)$/i);
-    if (!yearM) continue;
+    const yearM = stripped.match(/^<font\s+size=\+1><b>(\d{4}[a-z]?)<\/b><\/font>([\s\S]*)$/i);
+    if (!yearM) {
+      // Orphan image chunk (e.g. second image for the same year, separated by triple-br)
+      // Attach to previous entry if the chunk contains only images
+      const orphanImages = extractImages(stripped);
+      const textOnly = stripped.replace(/<img[^>]*>/gi, '').replace(/<br\s*\/?>/gi, '').trim();
+      if (orphanImages.length > 0 && !textOnly && entries.length > 0) {
+        const prev = entries[entries.length - 1];
+        if (!prev.images) prev.images = [];
+        prev.images.push(...orphanImages);
+      }
+      continue;
+    }
 
     const year = yearM[1];
-    const rest = yearM[2];
+    const rest = yearM[2]; // everything after </font>
 
     // Split caption from images at first <img>
     const imgIdx = rest.search(/<img/i);
@@ -354,11 +369,31 @@ function parseDocFile(html, personId) {
       } else {
         // No table, just year entries
         const entries = parseCensusEntries(sec.content);
-        if (entries.length > 0) result.entries = entries;
+        if (entries.length > 0) {
+          result.entries = entries;
+        } else {
+          // No year entries either — mislabeled heading; treat as items (e.g. gravestone under "Census Data")
+          const items = parseItemsContent(sec.content);
+          if (items.length > 0) {
+            result.type = 'other';
+            result.items = items;
+          }
+        }
       }
     } else if (type === 'notes' || type === 'research' || type === 'other') {
-      const text = parseTextContent(sec.content);
-      if (text) result.text = text;
+      // If images are present, try items parsing first (preserves image+caption pairs)
+      if (/<img/i.test(sec.content)) {
+        const items = parseItemsContent(sec.content);
+        if (items.some(i => i.images && i.images.length > 0)) {
+          result.items = items;
+        } else {
+          const text = parseTextContent(sec.content);
+          if (text) result.text = text;
+        }
+      } else {
+        const text = parseTextContent(sec.content);
+        if (text) result.text = text;
+      }
     } else {
       const items = parseItemsContent(sec.content);
       if (items.length > 0) result.items = items;
