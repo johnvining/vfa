@@ -5,9 +5,8 @@ import { renderEntry } from '../renderEntry';
 
 interface Props {
   letter: string;
-  thanks?: string;
 }
-const { letter, thanks } = Astro.props;
+const { letter } = Astro.props;
 
 const allEntries = await getCollection('genealogy');
 const entries = allEntries
@@ -62,7 +61,7 @@ const preInner = entries.map(e => renderEntry(e.data) + '\n' + DIVIDER).join('\n
 <p>
 
 <p>
-<b>A little work by each of us will save a lot of work for all of us.</b>{thanks && <><br />&nbsp;&nbsp;&nbsp;<Fragment set:html={thanks} /></>}
+<b>A little work by each of us will save a lot of work for all of us.</b>
 <p>
 
 <br>
