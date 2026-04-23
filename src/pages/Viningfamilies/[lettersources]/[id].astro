@@ -21,7 +21,7 @@ const { doc } = Astro.props;
 const { title, displayTitle, intro, sections } = doc.data;
 const headingTitle = displayTitle ?? title;
 const letter = doc.id.split('/')[0].toUpperCase();
-const imageBase = `/genealogy-images/${doc.id.split('/')[0]}`;
+const imageBase = `${import.meta.env.BASE_URL}/genealogy-images/${doc.id.split('/')[0]}`;
 
 function defaultHeading(type: string): string {
   const map: Record<string, string> = {
