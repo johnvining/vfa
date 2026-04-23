@@ -1,0 +1,79 @@
+id: PerlieH01
+title: Perlie H. “Paul” Vining - Louise J. Doherty
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Perlie H. “Paul” Vining
+          values:
+            - "26"
+            - "36"
+            - "47"
+        - label: Louise J. (Doherty) Vining
+          values:
+            - "28"
+            - "38"
+            - "48"
+        - label: Paul H. Vining
+          values:
+            - 1 y., [5?] m.
+            - dead
+            - ""
+          indent: true
+        - label: Robert B. Vining
+          values:
+            - "[4 m.?]"
+            - "10"
+            - "20"
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - dead
+            - ""
+          indent: true
+        - label: Richard J. Vining
+          values:
+            - ""
+            - 2 y., 10 m.
+            - "12"
+          indent: true
+        - label: Russell E. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+          indent: true
+        - label: Mary L. Vining
+          values:
+            - ""
+            - ""
+            - "[5?]"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Orange, New Haven County, Connecticut - dwelling 178, family 215
+        images:
+          - src: PerlieH01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Hamden, New Haven County, Connecticut - dwelling 243, family 293. Also living in this household in 1930 were
+          two brothers of Perlie H. “Paul” Vining: Robert B. Vining (28 y., b. Connecticut, m. 4 y. as of 1930 census)
+          and Walter L. Vining (15 y., b. Connecticut).
+        images:
+          - src: PerlieH01census1930.jpg
+      - year: "1940"
+        caption: Hamden, New Haven County, Connecticut
+        images:
+          - src: PerlieH01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Paul H. Vining and Thomas Vining, sons of Perlie H. “Paul” Vining and Louise J. (Doherty)
+          Vining, in Saint Marys Cemetery, Hamden, New Haven County, Connecticut (from Find A Grave):
+        images:
+          - src: PerlieH01sonsheadstone.jpg

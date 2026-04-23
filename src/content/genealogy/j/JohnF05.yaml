@@ -1,0 +1,54 @@
+id: JohnF05
+sequence: 221
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilburN01
+parentLetter: W
+parentDesc: Wilbur Newman Vining and Myrte B. Gentry
+head:
+  givenName: John Floyd
+  birth:
+    date: 31 August 1916
+    place: "Bibb County, Alabama"
+  death:
+    date: 10 December 1984
+    place: "Maylene, Alabama"
+marriages:
+  - date: "1938"
+    spouse:
+      givenName: Nancy Louise
+      surname: Royal
+      parents: (dau. of Eugene Casson Royal and Della E. Castleberry)
+      birth:
+        date: 22 July 1922
+        place: "Attalla, Alabama"
+      death:
+        date: 22 February 1995
+        place: "Madison, Wisconsin"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Stanley Alvis Vining
+        entryId: StanleyA01
+        entryLetter: S
+        birth:
+          date: 23 September 1941
+        marriages:
+          - date: "Cheryl [&#8230;]"
+        death:
+          date: 7 June 2017
+          place: "Birmingham, Alabama"
+raw: |-
+  <a name="JohnF05"></a><font size=+2>John Floyd Vining</font>
+     (son of <a href="Wfamilies.htm#WilburN01">Wilbur Newman Vining and Myrte B. Gentry</a>)
+     b. 31 August 1916   Bibb County, Alabama
+     m. 1938
+           Nancy Louise Royal
+                 (dau. of Eugene Casson Royal and Della E. Castleberry)
+                 b. 22 July 1922   Attalla, Alabama
+                 d. 22 February 1995   Madison, Wisconsin
+     d. 10 December 1984   Maylene, Alabama
+  
+  <font size=+1>child:</font>
+     <a href="Sfamilies.htm#StanleyA01">Stanley Alvis Vining</a>   b. 23 September 1941   -   m. Cheryl [&#8230;]   -   d. 7 June 2017   Birmingham, Alabama

@@ -1,0 +1,64 @@
+id: SimonS01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Samuel06
+parentDesc: "Samuel Vining and Mary &#8220;Polly&#8221; Miller"
+head:
+  givenName: Simon S.
+  birth:
+    date: 2 September 1849
+    place: Ohio
+marriages:
+  - date: 30 December 1875
+    spouse:
+      givenName: Mary Elenor
+      surname: Roush
+      birth:
+        date: January 1857
+        place: Indiana
+childrenGroups:
+  - children:
+      - name: "[Harmon Leonidist or Leandus or Alonzo H.] Vining"
+        entryId: HarmonL01
+        entryLetter: H
+        birth:
+          date: 4 January 1877
+          place: Ohio
+        marriages:
+          - date: "[Lucie or Lissie] Emmons"
+        death:
+          date: 3 July 1966
+          place: "(last residence: Chicago, Illinois)"
+      - name: Elva Vining
+        birth:
+          date: 7 November 1884
+          place: Ohio
+        marriages:
+          - date: William H. Caupp
+        death:
+          date: 15 May 1941
+          place: "Union City, [...]"
+      - name: Cora Vining
+        birth:
+          date: 26 December 1888
+          place: Ohio
+        marriages:
+          - date: Charles William Kochersperger
+        death:
+          date: 25 January 1925
+docsUrl: Ssources/SimonS01doc.htm
+raw: |-
+  <a name="SimonS01"></a><font size=+2>Simon S. Vining</font>
+     (son of <a href="#Samuel06">Samuel Vining and Mary &#8220;Polly&#8221; Miller</a>)
+     b. 2 September 1849   Ohio
+     m. 30 December 1875
+           Mary Elenor Roush
+                 b. January 1857   Indiana
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#HarmonL01">[Harmon Leonidist or Leandus or Alonzo H.] Vining</a>   b. 4 January 1877   Ohio   -   m. [Lucie or Lissie] Emmons   -   d. 3 July 1966   (last residence: Chicago, Illinois)
+     Elva Vining   b. 7 November 1884   Ohio   -   m. William H. Caupp   -   d. 15 May 1941   Union City, [...]
+     Cora Vining   b. 26 December 1888   Ohio   -   m. Charles William Kochersperger   -   d. 25 January 1925
+  
+  <a href="Ssources/SimonS01doc.htm">documentation and notes</a>

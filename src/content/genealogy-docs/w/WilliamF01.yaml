@@ -1,0 +1,91 @@
+id: WilliamF01
+title: William F. Vining - Catherine MacDonald
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William F. Vining
+          values:
+            - "?"
+            - "37"
+            - "47"
+            - "57"
+            - "67"
+            - "?"
+        - label: Catherine (MacDonald) Vining
+          values:
+            - "?"
+            - "42"
+            - "51"
+            - "[59?]"
+            - 62 [sic]
+            - dead
+        - label: child Vining
+          values:
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Clifford L. Vining
+          values:
+            - "?"
+            - "10"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Leslie Albert Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[27?]"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Verna M. Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Newton (ward 1), Middlesex County, Massachusetts - dwelling 27, family 28
+        images:
+          - src: WilliamF01census1900.jpg
+      - year: "1910"
+        caption: Newton (ward 1), Middlesex County, Massachusetts - dwelling 65, family 76
+        images:
+          - src: WilliamF01census1910.jpg
+      - year: "1920"
+        caption: Newton (ward 1), Middlesex County, Massachusetts - dwelling 33, family 55
+        images:
+          - src: WilliamF01census1920.jpg
+      - year: "1930"
+        caption: Waltham, Middlesex County, Massachusetts - dwelling 277, family 483
+        images:
+          - src: WilliamF01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for William F. Vining and Catherine (MacDonald) Vining, in Spring Grove Cemetery, Florence,
+          Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: WilliamF01gravestone.jpg
+          - src: WilliamF01wifegravestone.jpg
+        inline: true

@@ -1,0 +1,56 @@
+id: JohnB01
+title: John Bradley Vining - Sarah A. Doty
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Bradley Vining
+          values:
+            - "56"
+            - "[67?]"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah A. (Doty) Vining
+          values:
+            - "[...2]"
+            - "[...8]"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frank Vining
+          values:
+            - "16"
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Weldon Vining
+          values:
+            - "10"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: New Castle (S. D. No. 6), New Castle County, Delaware - dwelling 198, family 202
+        images:
+          - src: JohnB01census1870.jpg
+      - year: "1880"
+        caption: New Castle, New Castle County, Delaware - dwelling 171, family 180
+        images:
+          - src: JohnB01census1880.jpg

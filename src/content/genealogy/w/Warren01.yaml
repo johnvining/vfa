@@ -1,0 +1,88 @@
+id: Warren01
+sequence: 28
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LeavittA01
+parentLetter: L
+parentDesc: Leavitt A. Vining and Lucy Andrews
+head:
+  givenName: Warren
+  birth:
+    date: ca. 1802
+    place: "Wiscasset, Maine"
+marriages:
+  - number: 1
+    date: 18 September 1825
+    spouse:
+      givenName: Mary Ann
+      surname: Page
+      death:
+        date: "1830"
+  - number: 2
+    date: 2 April 1831
+    spouse:
+      givenName: Sophronia
+      surname: Lowell
+  - number: 3
+    date: 29 July 1832
+    spouse:
+      givenName: Octavia
+      surname: Frith
+      parents: "(dau. of Joseph Frith and Margaret [...])"
+      birth:
+        date: "age 60 y., 3 m., 6 d. at death"
+        place: "Wiscasset, Maine"
+      death:
+        date: 15 June 1876
+        place: "Fitchburg, Massachusetts"
+      burial:
+        place: "Laurel Hill Cemetery   Fitchburg, Massachusetts"
+childrenGroups:
+  - spouseRef: Mary Ann Pope
+    children:
+      - name: Washington Warren Vining
+        birth:
+          date: 23 February 1826
+          place: "Wiscasset, Maine"
+        death:
+          date: 28 March 1856
+      - name: Benjamin Leavitt Vining
+        birth:
+          date: 13 November 1829
+  - spouseRef: Octavia Frith
+    headingText: child by Octavia Frith
+    children:
+      - name: Harriet Frances Vining
+        birth:
+          date: "1843"
+          place: "Portland, Maine"
+        marriages:
+          - date: "1871"
+            spouse: Elijah Gibbs Spaulding
+        death:
+          date: 24 August 1930
+          place: "Newton, Massachusetts"
+        burial:
+          place: "Laurel Hill Cemetery   Fitchburg, Massachusetts"
+raw: |-
+  <a name="Warren01"></a><font size=+2>Warren Vining</font>
+     (son of <a href="Lfamilies.htm#LeavittA01">Leavitt A. Vining and Lucy Andrews</a>)
+     b. ca. 1802   Wiscasset, Maine
+     m. (1) 18 September 1825
+                 Mary Ann Page
+                       d. 1830
+          (2) 2 April 1831
+                 Sophronia Lowell
+          (3) 29 July 1832
+                 Octavia Frith
+                       (dau. of Joseph Frith and Margaret [...])
+                       b. age 60 y., 3 m., 6 d. at death   Wiscasset, Maine
+                       d. 15 June 1876   Fitchburg, Massachusetts
+                             bur. Laurel Hill Cemetery   Fitchburg, Massachusetts
+  
+  <font size=+1>children by Mary Ann Pope:</font>
+     Washington Warren Vining   b. 23 February 1826   Wiscasset, Maine   -   d. 28 March 1856
+     Benjamin Leavitt Vining   b. 13 November 1829
+  <font size=+1>child by Octavia Frith:</font>
+     Harriet Frances Vining   b. 1843   Portland, Maine   -   m. 1871   Elijah Gibbs Spaulding   -   d. 24 August 1930   Newton, Massachusetts   -   bur. Laurel Hill Cemetery   Fitchburg, Massachusetts

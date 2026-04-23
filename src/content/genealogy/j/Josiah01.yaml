@@ -1,0 +1,102 @@
+id: Josiah01
+sequence: 324
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Thomas01
+parentLetter: T
+parentDesc: Thomas Vining and Hannah Randall
+head:
+  givenName: Josiah
+  birth:
+    date: 8 December 1729
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: "1774"
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 31 January 1750
+    place: "Abington, Massachusetts"
+    spouse:
+      givenName: Hannah Abigail
+      surname: Dawes
+      birth:
+        date: 19 July 1728
+        place: "East Bridgewater, Massachusetts"
+      death:
+        date: Massachusetts
+childrenGroups:
+  - children:
+      - name: Dorothy Vining
+        birth:
+          date: 8 January 1752
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 18 November 1773
+            place: "Sharon, Massachusetts"
+            spouse: John Richardson
+        death:
+          date: "1780"
+          place: "Nelson, New Hampshire"
+      - name: Ebenezer Vining
+        entryId: Ebenezer01
+        entryLetter: E
+        birth:
+          date: "5 October 175[4 or 3?]"
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 24 April 1777
+            place: "Ellicottville, New York"
+            spouse: Abigail Arends Eason
+        death:
+          date: 24 August 1843
+          place: "Gates [a portion of which is now Rochester?], New York"
+        burial:
+          place: "Mount Hope Cemetery   Rochester, New York"
+      - name: Josiah Vining Jr.
+        birth:
+          date: 21 July 1759
+          place: "Norton, Massachusetts"
+        death:
+          date: "1760"
+          place: Massachusetts
+      - name: John Randall Vining
+        entryId: JohnR01
+        birth:
+          date: "[26 July or 30 August?] 1761"
+          place: "Norton, Massachusetts"
+        marriages:
+          - date: "Rachel [...]"
+        death:
+          date: 29 September 1827
+          place: "New Lebanon, New York"
+      - name: Sylvia Vining
+        birth:
+          date: "[16 January or 4 March?] 1764"
+          place: "Norton, Massachusetts"
+        death:
+          date: Massachusetts
+      - name: Abigail Vining
+        birth:
+          date: 2 January 1766
+          place: "Norton, Massachusetts"
+        death:
+          date: 26 January 1831
+          place: Massachusetts
+raw: |-
+  <a name="Josiah01"></a><font size=+2>Josiah Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas01">Thomas Vining and Hannah Randall</a>)
+     b. 8 December 1729   Weymouth, Norfolk County, Massachusetts
+     m. 31 January 1750   Abington, Massachusetts
+           Hannah Abigail Dawes
+                 b. 19 July 1728   East Bridgewater, Massachusetts
+                 d. Massachusetts
+     d. 1774   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Dorothy Vining   b. 8 January 1752   Abington, Massachusetts   -   m. 18 November 1773   Sharon, Massachusetts   John Richardson   -   d. 1780   Nelson, New Hampshire
+     <a href="Efamilies.htm#Ebenezer01">Ebenezer Vining</a>   b. 5 October 175[4 or 3?]   Abington, Massachusetts   -   m. 24 April 1777   Ellicottville, New York   Abigail Arends Eason   -   d. 24 August 1843   Gates [a portion of which is now Rochester?], New York   -   bur. Mount Hope Cemetery   Rochester, New York
+     Josiah Vining Jr.   b. 21 July 1759   Norton, Massachusetts   -   d. 1760   Massachusetts
+     <a href="#JohnR01">John Randall Vining</a>   b. [26 July or 30 August?] 1761   Norton, Massachusetts   -   m. Rachel [...]   -   d. 29 September 1827   New Lebanon, New York
+     Sylvia Vining   b. [16 January or 4 March?] 1764   Norton, Massachusetts   -   d. Massachusetts
+     Abigail Vining   b. 2 January 1766   Norton, Massachusetts   -   d. 26 January 1831   Massachusetts

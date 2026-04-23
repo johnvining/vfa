@@ -1,0 +1,67 @@
+id: Leavitt02
+title: Leavitt Vining - Hannah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: Leavitt Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "67"
+            - "?"
+            - "?"
+        - label: Hannah ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "65"
+            - "?"
+            - "?"
+        - label: Nathan Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - |-
+              37
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Eliza H. Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Almira G. Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Cooper, Washington County, Maine - dwelling 35, family 36. Also living in this household in 1850 were Nathan
+          Vining's wife, Mary Elizabeth "May" (Huntley) Vining (28 y., b. Maine), and their four children: Almira Helen
+          Vining (8 y., b. Maine), Percis Vining (5 y., b. Maine), Emma A. Vining (3 y., b. Maine), and Nathan Vining
+          Jr. (11 m., b. Maine).
+        images:
+          - src: Leavitt02census1850.jpg

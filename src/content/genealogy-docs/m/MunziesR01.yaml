@@ -1,0 +1,52 @@
+id: MunziesR01
+title: Munzies R. Vining - Frances [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Munzies R. Vining
+          values:
+            - "38"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frances ([...]) Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Fred Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Bayard Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Rochester (ward 2), Olmsted County, Minnesota - dwelling 156, family 163
+        images:
+          - src: MunziesR01census1870.jpg

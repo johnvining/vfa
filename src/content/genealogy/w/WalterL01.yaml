@@ -1,0 +1,109 @@
+id: WalterL01
+sequence: 17
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisMJr01
+parentLetter: F
+parentDesc: Francis Marion Vining Jr. and Mary Dora Kinman
+head:
+  givenName: Walter Lonnie
+  birth:
+    date: 19 January 1888
+  death:
+    date: 21 December 1939
+  burial:
+    place: "New Forest Cemetery   Forest, Louisiana"
+marriages:
+  - spouse:
+      givenName: Lorena
+      surname: Grubbs
+      birth:
+        date: "1898"
+        place: "Mendenhall, Mississippi"
+      death:
+        date: 21 November 1953
+        place: "Epps, Louisiana"
+      burial:
+        place: "New Forest Cemetery   Forest, Louisiana"
+childrenGroups:
+  - children:
+      - name: Walter Clifford Vining
+        entryId: WalterC01
+        birth:
+          date: 17 August 1920
+          place: "Forest, Louisiana"
+        marriages:
+          - date: Josephine Creighton
+        death:
+          date: 18 April 2011
+          place: "Yuma, Arizona"
+        burial:
+          place: "Desert Lawn Memorial Park   Yuma, Arizona"
+      - name: Glen Gordon Vining
+        birth:
+          date: 13 August 1921
+          place: Louisiana
+        death:
+          date: 30 March 1977
+        burial:
+          place: "New Forest Cemetery   Forest, Louisiana"
+      - name: Alice Yvonne
+        birth:
+          date: 3 March 1923
+          place: Louisiana
+        marriages:
+          - date: "[&#8230;] Orr"
+        death:
+          date: 14 April 1990
+        burial:
+          place: "New Forest Cemetery   Forest, Louisiana"
+      - name: Lonnie Gene Vining
+        birth:
+          date: age 2 y. as of 1930 census
+          place: Louisiana
+        note: "[m. […] Sessums ?]"
+      - name: Floyce Nelwyn Vining
+        birth:
+          date: 18 September 1929
+        marriages:
+          - date: "(1?) 9 February 1947"
+            spouse: "A. J. Hawsey;   (2?) [&#8230;] Roundtree"
+      - name: Francis Marvin Vining
+        entryId: FrancisM04
+        entryLetter: F
+        birth:
+          date: 2 April 1936
+          place: Louisiana
+        marriages:
+          - date: "Daphene [&#8230;]"
+        death:
+          date: 18 January 2004
+        burial:
+          place: "New Forest Cemetery   Forest, Louisiana"
+      - name: William Vining
+        birth:
+          date: age 10 m. as of 1940 census
+          place: Louisiana
+docsUrl: Wsources/WalterL01doc.htm
+raw: |-
+  <a name="WalterL01"></a><font size=+2>Walter Lonnie Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisMJr01">Francis Marion Vining Jr. and Mary Dora Kinman</a>)
+     b. 19 January 1888
+     m. Lorena Grubbs
+              b. 1898   Mendenhall, Mississippi
+              d. 21 November 1953   Epps, Louisiana
+                    bur. New Forest Cemetery   Forest, Louisiana
+     d. 21 December 1939
+           bur. New Forest Cemetery   Forest, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="#WalterC01">Walter Clifford Vining</a>   b. 17 August 1920   Forest, Louisiana   -   m. Josephine Creighton   -   d. 18 April 2011   Yuma, Arizona   -   bur. Desert Lawn Memorial Park   Yuma, Arizona
+     Glen Gordon Vining   b. 13 August 1921   Louisiana   -   d. 30 March 1977   -   bur. New Forest Cemetery   Forest, Louisiana
+     Alice Yvonne   b. 3 March 1923   Louisiana   -   m. [&#8230;] Orr   -   d. 14 April 1990   -   bur. New Forest Cemetery   Forest, Louisiana
+     Lonnie Gene Vining   b. age 2 y. as of 1930 census   Louisiana   -   [m. [&#8230;] Sessums ?]
+     Floyce Nelwyn Vining   b. 18 September 1929   -   m. (1?) 9 February 1947   A. J. Hawsey;   (2?) [&#8230;] Roundtree
+     <a href="Ffamilies.htm#FrancisM04">Francis Marvin Vining</a>   b. 2 April 1936   Louisiana   -   m. Daphene [&#8230;]   -   d. 18 January 2004   -   bur. New Forest Cemetery   Forest, Louisiana
+     William Vining   b. age 10 m. as of 1940 census   Louisiana
+  
+  <a href="Wsources/WalterL01doc.htm">documentation and notes</a>

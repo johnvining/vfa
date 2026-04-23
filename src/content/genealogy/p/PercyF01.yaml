@@ -1,0 +1,83 @@
+id: PercyF01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: ChurchA01
+parentLetter: C
+parentDesc: Church Abijah Vining and Edith Rachel Case
+head:
+  givenName: Percy Fayette
+  birth:
+    date: 25 April 1909
+    place: "Fonda, Iowa"
+  death:
+    date: 27 August 1992
+    place: "Ash Flat, Arkansas"
+  burial:
+    place: "Oaklawn Cemetery   Cherokee Village, Arkansas"
+marriages:
+  - spouse:
+      givenName: Virginia Elizabeth
+      surname: Tillotson
+      birth:
+        date: 5 December 1923
+        place: "Nevada, Iowa"
+      death:
+        date: 28 December 2005
+        place: "Hot Springs, Arkansas"
+      burial:
+        place: "Oaklawn Cemetery   Cherokee Village, Arkansas"
+childrenGroups:
+  - children:
+      - name: John William Vining
+        entryId: JohnW02
+        entryLetter: J
+        birth:
+          date: 1 January 1947
+          place: "Nevada, Iowa"
+        marriages:
+          - date: 26 April 1969
+            place: "Dora, Missouri"
+            spouse: Shirley June Freeman
+      - name: James David Vining
+        entryId: JamesD03
+        entryLetter: J
+        leadingDash: true
+        birth:
+          date: 5 October 1950
+          place: "Nevada, Iowa"
+        marriages:
+          - date: 17 June 1972
+            place: "Memphis, Tennessee"
+            spouse: Carolyn Toshlog
+  - headingText: "adopted child"
+    children:
+      - name: "Joy Lee (n&#233;e Tillotson) Vining"
+        birth:
+          date: 24 September 1943
+          place: "Ames, Iowa"
+        marriages:
+          - date: 26 May 1962
+            spouse: Gerald Sanders
+        death:
+          date: 13 February 2002
+          place: "Republic, Missouri"
+docsUrl: Psources/PercyF01doc.htm
+raw: |-
+  <a name="PercyF01"></a><font size=+2>Percy Fayette Vining</font>
+     (son of <a href="Cfamilies.htm#ChurchA01">Church Abijah Vining and Edith Rachel Case</a>)
+     b. 25 April 1909   Fonda, Iowa
+     m. Virginia Elizabeth Tillotson
+              b. 5 December 1923   Nevada, Iowa
+              d. 28 December 2005   Hot Springs, Arkansas
+                    bur. Oaklawn Cemetery   Cherokee Village, Arkansas
+     d. 27 August 1992   Ash Flat, Arkansas
+           bur. Oaklawn Cemetery   Cherokee Village, Arkansas
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JohnW02">John William Vining</a>   b. 1 January 1947   Nevada, Iowa   -   m. 26 April 1969   Dora, Missouri   Shirley June Freeman
+     <a href="Jfamilies.htm#JamesD03">James David Vining</a>   -   b. 5 October 1950   Nevada, Iowa   -   m. 17 June 1972   Memphis, Tennessee   Carolyn Toshlog
+  <font size=+1>adopted child:</font>
+     Joy Lee (n&#233;e Tillotson) Vining   b. 24 September 1943   Ames, Iowa   -   m. 26 May 1962   Gerald Sanders   -   d. 13 February 2002   Republic, Missouri
+  
+  <a href="Psources/PercyF01doc.htm">documentation and notes</a>

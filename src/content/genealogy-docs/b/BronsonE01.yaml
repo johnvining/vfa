@@ -1,0 +1,41 @@
+id: BronsonE01
+title: Bronson E. Vining - Margaret C. Walsh
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Bronson E. Vining
+          values:
+            - "23"
+            - "33"
+        - label: Margaret C. (Walsh) Vining
+          values:
+            - "26"
+            - "36"
+        - label: Jacqueline Vining
+          values:
+            - 5 y., [?] m.
+            - "14"
+          indent: true
+        - label: James B. Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Toledo, Lucas County, Ohio - dwelling 20, family 25
+        images:
+          - src: BronsonE01census1930.jpg
+      - year: "1940"
+        caption: Toledo (ward 20, block 10), Lucas County, Ohio
+        images:
+          - src: BronsonE01census1940.jpg
+  - type: death
+    items:
+      - caption: "Death certificate for Bronson E. Vining:"
+        images:
+          - src: BronsonE01deathcertificate.jpg

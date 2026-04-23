@@ -1,0 +1,154 @@
+id: Ward01
+sequence: 25
+letter: W
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML omitted b. birth marker before child Mortimer Jay Vining's birth date; added in new rendering."
+relationship: son
+parentId: SamuelT02
+parentLetter: S
+parentDesc: Samuel Truman Vining and Mary Steer
+head:
+  givenName: Ward
+  birth:
+    date: 31 December 1826
+    place: "[Southwick, Massachusetts ?]"
+  death:
+    date: 28 April 1900
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
+marriages:
+  - date: "[2 August 1845 or 10 July 1845"
+    place: "Granby, Connecticut?]"
+    spouse:
+      givenName: Jane Cecelia
+      surname: Reed
+      parents: "(dau. of Willis Reed and Amaret Moore)"
+      birth:
+        date: 25 March 1825
+        place: "Granby, Connecticut"
+      death:
+        date: 1 March 1894
+        place: "Southwick, Massachusetts"
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Gertrude Amaret Vining
+        birth:
+          date: 23 January 1846
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: "[7 March 1866"
+            place: "Granby, CT or Southwick, Massachusetts?]"
+            spouse: Hinman Abram Dibble
+      - name: Jasper Ward Vining
+        entryId: JasperW01
+        entryLetter: J
+        birth:
+          date: 18 May 1848
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: 4 April 1881
+            place: "Springfield, Massachusetts"
+            spouse: Ella M. Brown
+        death:
+          date: 13 April 1926
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: Mortimer Jay Vining
+        entryId: MortimerJ01
+        entryLetter: M
+        birth:
+          date: 22 October 1849
+          place: Massachusetts
+        marriages:
+          - date: "October [1873 or 1872?]"
+            spouse: Mary A. Thompson
+        death:
+          date: "1924"
+        burial:
+          place: "Windsorville Cemetery   Windsorville, Connecticut"
+      - name: Lester Reed Vining
+        entryId: LesterR03
+        entryLetter: L
+        birth:
+          date: 27 November 1852
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: 11 November 1874
+            place: "Southwick, Massachusetts"
+            spouse: Clara L. Warner
+        death:
+          date: 13 April 1938
+          place: "Southwick, Massachusetts"
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: Morton Moore Vining
+        birth:
+          date: 23 June 1855
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: 6 October 1881
+            spouse: Luella Skinner
+        death:
+          date: "1925"
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: "[Jennie or Jane?] Sarah Vining"
+        birth:
+          date: 24 January 1858
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: 10 October 1882
+            spouse: Edward Gillett
+      - name: Etta Cecelia Vining
+        birth:
+          date: 4 December 1859
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: 7 September 1882
+            place: "Westfield, Massachusetts"
+            spouse: Edward Hanlon Knott
+      - name: Foster Vining
+        entryId: Foster01
+        entryLetter: F
+        birth:
+          date: 6 April 1862
+          place: "Southwick, Massachusetts"
+        marriages:
+          - date: 28 March 1888
+            spouse: Ida Eliza Allen
+        death:
+          date: "1939"
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+      - name: Hattie May Vining
+        birth:
+          date: 23 September 1865
+          place: "Southwick, Massachusetts"
+docsUrl: Wsources/Ward01doc.htm
+raw: |-
+  <a name="Ward01"></a><font size=+2>Ward Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelT02">Samuel Truman Vining and Mary Steer</a>)
+     b. 31 December 1826   [Southwick, Massachusetts ?]
+     m. [2 August 1845 or 10 July 1845   Granby, Connecticut?]
+           Jane Cecelia Reed
+                 (dau. of Willis Reed and Amaret Moore)
+                 b. 25 March 1825   Granby, Connecticut
+                 d. 1 March 1894   Southwick, Massachusetts
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 28 April 1900
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>children:</font>
+     Gertrude Amaret Vining   b. 23 January 1846   Southwick, Massachusetts   -   m. [7 March 1866   Granby, CT or Southwick, Massachusetts?]   Hinman Abram Dibble
+     <a href="Jfamilies.htm#JasperW01">Jasper Ward Vining</a>   b. 18 May 1848   Southwick, Massachusetts   -   m. 4 April 1881   Springfield, Massachusetts   Ella M. Brown   -   d. 13 April 1926   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     <a href="Mfamilies.htm#MortimerJ01">Mortimer Jay Vining</a>   22 October 1849   Massachusetts   -   m. October [1873 or 1872?]   Mary A. Thompson   -   d. 1924   -   bur. Windsorville Cemetery   Windsorville, Connecticut
+     <a href="Lfamilies.htm#LesterR03">Lester Reed Vining</a>   b. 27 November 1852   Southwick, Massachusetts   -   m. 11 November 1874   Southwick, Massachusetts   Clara L. Warner   -   d. 13 April 1938   Southwick, Massachusetts   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     Morton Moore Vining   b. 23 June 1855   Southwick, Massachusetts   -   m. 6 October 1881   Luella Skinner   -   d. 1925   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     [Jennie or Jane?] Sarah Vining   b. 24 January 1858   Southwick, Massachusetts   -   m. 10 October 1882   Edward Gillett
+     Etta Cecelia Vining   b. 4 December 1859   Southwick, Massachusetts   -   m. 7 September 1882   Westfield, Massachusetts   Edward Hanlon Knott
+     <a href="Ffamilies.htm#Foster01">Foster Vining</a>   b. 6 April 1862   Southwick, Massachusetts   -   m. 28 March 1888   Ida Eliza Allen   -   d. 1939   -   bur. Southwick Cemetery   Southwick, Massachusetts
+     Hattie May Vining   b. 23 September 1865   Southwick, Massachusetts
+  
+  <a href="Wsources/Ward01doc.htm">documentation and notes</a>

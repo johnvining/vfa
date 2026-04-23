@@ -1,0 +1,85 @@
+id: JesseL04
+sequence: 144
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnT02
+parentDesc: John Thomas Vining and Catherine Elizabeth Townsend
+head:
+  givenName: Jesse Lawrence
+  birth:
+    date: 17 September 1867
+    place: Georgia
+  death:
+    date: 19 October 1918
+marriages:
+  - date: 10 y. as of 1900 census
+    place: Georgia
+    spouse:
+      givenName: Melvester V.
+      surname: "[...]"
+      birth:
+        date: "September [1873?]"
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Eugene L. Vining
+        birth:
+          date: June 1893
+          place: Georgia
+      - name: Mattie L. Vining
+        birth:
+          date: October 1985
+          place: Florida
+      - name: Eva Mildred Vining
+        birth:
+          date: 1 June 1898
+          place: Florida
+        marriages:
+          - date: 15 February 1917
+            place: Florida
+            spouse: Floyd Ray Null
+        death:
+          date: 11 December 1981
+        burial:
+          place: "Memorial Cemetery   Lake City, Florida"
+      - name: Nellie P. Vining
+        birth:
+          date: age 9 y. as of 1910 census
+          place: Florida
+      - name: Ernest DeWitt Vining
+        entryId: ErnestD01
+        entryLetter: E
+        birth:
+          date: 10 February 1912
+          place: "Macclenny, Florida"
+        marriages:
+          - date: "[1?] Thelma D. [&#8230;];"
+            spouse: "[2?] Mary Adams [&#8230;]"
+        death:
+          date: 13 September 2001
+          place: Florida
+        burial:
+          place: "Riverside Memorial Park   Jacksonville, Florida"
+      - name: child
+        death:
+          date: before 1910 census
+docsUrl: Jsources/JesseL04doc.htm
+raw: |-
+  <a name="JesseL04"></a><font size=+2>Jesse Lawrence Vining</font>
+     (son of <a href="#JohnT02">John Thomas Vining and Catherine Elizabeth Townsend</a>)
+     b. 17 September 1867   Georgia
+     m. 10 y. as of 1900 census   Georgia
+           Melvester V. [...]
+                 b. September [1873?]   Georgia
+     d. 19 October 1918
+  
+  <font size=+1>children:</font>
+     Eugene L. Vining   b. June 1893   Georgia
+     Mattie L. Vining   b. October 1985   Florida
+     Eva Mildred Vining   b. 1 June 1898   Florida   -   m. 15 February 1917   Florida   Floyd Ray Null   -   d. 11 December 1981   -   bur. Memorial Cemetery   Lake City, Florida
+     Nellie P. Vining   b. age 9 y. as of 1910 census   Florida
+     <a href="Efamilies.htm#ErnestD01">Ernest DeWitt Vining</a>   b. 10 February 1912   Macclenny, Florida   -   m. [1?] Thelma D. [&#8230;];   [2?] Mary Adams [&#8230;]   -   d. 13 September 2001   Florida   -   bur. Riverside Memorial Park   Jacksonville, Florida
+     child   d. before 1910 census
+  
+  <a href="Jsources/JesseL04doc.htm">documentation and notes</a>

@@ -1,0 +1,43 @@
+id: JamesW07
+title: James W. Vining - Henrietta [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: James W. Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Henrietta ([...]) Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Peter S. Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: New Britain, Hartford County, Connecticut - dwelling 13, family 16
+        images:
+          - src: JamesW07census1880.jpg

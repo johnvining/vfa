@@ -1,0 +1,29 @@
+id: CharlesWJr01
+letter: C
+sequence: 106
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesW01
+parentDesc: Charles Wendell Vining and Mary M. Whitker
+head:
+  givenName: Charles Wendell Jr.
+  birth:
+    date: 28 December 1949
+marriages:
+  - spouse:
+      givenName: Margaret
+      surname: Ray
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Sherry Ann Vining
+        birth:
+          date: 29 January 1966
+raw: |-
+  <a name="CharlesWJr01"></a><font size=+2>Charles Wendell Vining Jr.</font>
+    (son of <a href="#CharlesW01">Charles Wendell Vining and Mary M. Whitker</a>)
+     b. 28 December 1949
+     m. Margaret Ray
+  
+  <font size=+1>child:</font>
+     Sherry Ann Vining   b. 29 January 1966

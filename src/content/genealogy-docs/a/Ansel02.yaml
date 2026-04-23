@@ -1,0 +1,50 @@
+id: Ansel02
+title: Ansel Vining - Charlotte Cara Cornwell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Ansel Vining
+          values:
+            - "41"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charlotte Cara (Cornwell) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frank Ernest Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Greeley, Weld County, Colorado - dwelling 20, family 20
+        images:
+          - src: Ansel02census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone of Ansel Vining, in Waitsburg Cemetery, Waitsburg, Walla Walla County, Washington (photo courtesy
+          of Tammy Nolen):
+        images:
+          - src: Ansel02gravestone.jpg

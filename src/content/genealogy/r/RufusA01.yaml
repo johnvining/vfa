@@ -1,0 +1,107 @@
+id: RufusA01
+sequence: 174
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Reuben02
+parentDesc: Reuben Vining and Mrs. Maria Louisa Sackett
+head:
+  givenName: Rufus Allen
+  birth:
+    date: 5 February 1881
+    place: Iowa
+  death:
+    date: 23 July 1957
+    place: "Aberdeen, South Dakota"
+  burial:
+    place: "Riverside Memorial Park   Aberdeen, South Dakota"
+marriages:
+  - spouse:
+      givenName: Anna Marie
+      surname: Byers
+      birth:
+        date: "1884"
+        place: Iowa
+      death:
+        date: "1970"
+      burial:
+        place: "Riverside Memorial Park   Aberdeen, South Dakota"
+childrenGroups:
+  - children:
+      - name: Seth Stanley Vining
+        birth:
+          date: 7 January 1905
+        marriages:
+          - date: Elizabeth Mae Butterworth
+        death:
+          date: November 1977
+          place: "(last residence: Fort Worth, Texas)"
+      - name: Merle Edwin Vining
+        entryId: MerleE01
+        entryLetter: M
+        birth:
+          date: 23 October 1909
+        marriages:
+          - date: Edna Grace Snyder
+        death:
+          date: May 1987
+          place: "(last residence: Aberdeen, South Dakota)"
+      - name: Ray Allen Vining
+        entryId: RayA01
+        birth:
+          date: 8 March 1912
+        marriages:
+          - date: Srelda Elda Kienast
+        death:
+          date: January 1987
+          place: "(last residence: Aberdeen, South Dakota)"
+      - name: Lyman Erwin Vining
+        entryId: LymanE01
+        entryLetter: L
+        birth:
+          date: 7 July 1915
+        marriages:
+          - date: Margaret Wood
+        death:
+          date: August 1975
+        burial:
+          place: "Greenwood Cemetery   Brookings, South Dakota"
+      - name: Frances Louise Vining
+        birth:
+          date: 19 January 1919
+        marriages:
+          - date: Robert Earl Olsen
+        death:
+          date: "1953"
+      - name: John Reuben Vining
+        entryId: JohnR03
+        entryLetter: J
+        birth:
+          date: 30 October 1921
+        marriages:
+          - date: 13 January 1946
+            place: "Brown County, South Dakota"
+            spouse: Ella Mae Belseth
+        death:
+          date: 1 February 1993
+          place: "(last residence: Aberdeen, South Dakota)"
+        burial:
+          place: "Riverside Memorial Park   Aberdeen, South Dakota"
+raw: |-
+  <a name="RufusA01"></a><font size=+2>Rufus Allen Vining</font>
+     (son of <a href="#Reuben02">Reuben Vining and Mrs. Maria Louisa Sackett</a>)
+     b. 5 February 1881   Iowa
+     m. Anna Marie Byers
+              b. 1884   Iowa
+              d. 1970
+                    bur. Riverside Memorial Park   Aberdeen, South Dakota
+     d. 23 July 1957   Aberdeen, South Dakota
+           bur. Riverside Memorial Park   Aberdeen, South Dakota
+  
+  <font size=+1>children:</font>
+     Seth Stanley Vining   b. 7 January 1905   -   m. Elizabeth Mae Butterworth   -   d. November 1977   (last residence: Fort Worth, Texas)
+     <a href="Mfamilies.htm#MerleE01">Merle Edwin Vining</a>   b. 23 October 1909   -   m. Edna Grace Snyder   -   d. May 1987   (last residence: Aberdeen, South Dakota)
+     <a href="#RayA01">Ray Allen Vining</a>   b. 8 March 1912   -   m. Srelda Elda Kienast   -   d. January 1987   (last residence: Aberdeen, South Dakota)
+     <a href="Lfamilies.htm#LymanE01">Lyman Erwin Vining</a>   b. 7 July 1915   -   m. Margaret Wood   -   d. August 1975   -   bur. Greenwood Cemetery   Brookings, South Dakota
+     Frances Louise Vining   b. 19 January 1919   -   m. Robert Earl Olsen   -   d. 1953
+     <a href="Jfamilies.htm#JohnR03">John Reuben Vining</a>   b. 30 October 1921   -   m. 13 January 1946   Brown County, South Dakota   Ella Mae Belseth   -   d. 1 February 1993   (last residence: Aberdeen, South Dakota)   -   bur. Riverside Memorial Park   Aberdeen, South Dakota

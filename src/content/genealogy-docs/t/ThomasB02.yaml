@@ -1,0 +1,152 @@
+id: ThomasB02
+title: Thomas Berry Vining - Barbara Elizabeth Harris
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Thomas Berry Vining
+          values:
+            - "29"
+            - "40"
+            - "49"
+            - "?"
+            - "70"
+            - dead
+        - label: Barbara Elizabeth (Harris) Vining
+          values:
+            - "18"
+            - "26"
+            - "38"
+            - "?"
+            - "58"
+            - |-
+              68
+              [see note below]
+        - label: Margaret Ann "Maggie" Vining
+          values:
+            - 4 m.
+            - "9"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: David Clayton "Bud" Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: John Harris Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Georgia Emma Virginia Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - "?"
+            - "31"
+            - |-
+              40
+              [see note below]
+          indent: true
+        - label: Lucinda Elizabeth Melv[i]na Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: "[Miniard or Mainyard?] Vining"
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Dicy Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Dora Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Reuben DeWitt Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "13"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Center Valley post office, Murray County, Georgia - dwelling 239, family 239
+        images:
+          - src: ThomasB02census1860.jpg
+      - year: "1870"
+        caption: Militia District 1039, Murray County, Georgia - dwelling 11, family 11
+        images:
+          - src: ThomasB02census1870.jpg
+      - year: "1880"
+        caption: Shuck Pen / Militia District 1039, Murray County, Georgia - dwelling 184, family 184
+        images:
+          - src: ThomasB02census1880.jpg
+      - year: "1890"
+        caption: >-
+          Census data for 1890 are unavailable. 1900 Shuck Pen / Militia District 1039, Murray County, Georgia -
+          dwelling 71, family 71
+        images:
+          - src: ThomasB02census1900.jpg
+      - year: "1910"
+        caption: >-
+          Shuck Pen District 1039, Murray County, Georgia - dwelling 52, family 54. In 1910, Barbara Elizabeth (Harris)
+          Vining and daughter Georgia Emma Virginia Vining were living in the household of Lucinda Elizaeth Melv[i]na
+          (Vining) Bond (daughter of Barbara).
+        images:
+          - src: ThomasB02census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument side for Barbara Elizabeth (Harris) Vining, in Center Valley Cemetery, Chatsworth, Murray County,
+          Georgia (from Find A Grave):
+        images:
+          - src: ThomasB02wifemonumentside.jpg
+      - caption: >-
+          Gravestone for John Harris Vining, son of Thomas Berry Vining and Barbara Elizabeth (Harris) Vining, in Center
+          Valley Cemetery, Chatsworth, Murray County, Georgia (from Find A Grave):
+        images:
+          - src: ThomasB02sonJohngravestone.jpg

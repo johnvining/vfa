@@ -1,0 +1,50 @@
+id: PhilomanthesM01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: Elias01
+parentLetter: E
+parentDesc: Elias Vining and Eunice Case
+head:
+  givenName: Philomathes M.
+  birth:
+    date: 7 December 1783
+    place: "Simsbury, Connecticut"
+  death:
+    date: "[2 or 23?] September 1849"
+marriages:
+  - date: "1808"
+    spouse:
+      givenName: Sally
+      surname: Phelps
+childrenGroups:
+  - children:
+      - name: child
+        death:
+          date: 20 August 1809
+      - name: child
+        birth:
+          date: age 3 y. at death
+        death:
+          date: 10 March 1817
+      - name: child
+        birth:
+          date: age 1 y. at death
+        death:
+          date: 14 March 1817
+      - name: child
+        death:
+          date: 5 June 1825
+raw: |-
+  <a name="PhilomanthesM01"></a><font size=+2>Philomathes M. Vining</font>
+     (son of <a href="Efamilies.htm#Elias01">Elias Vining and Eunice Case</a>)
+     b. 7 December 1783   Simsbury, Connecticut
+     m. 1808
+           Sally Phelps
+     d. [2 or 23?] September 1849
+  
+  <font size=+1>children:</font>
+     child   d. 20 August 1809
+     child   b. age 3 y. at death   -   d. 10 March 1817
+     child   b. age 1 y. at death   -   d. 14 March 1817
+     child   d. 5 June 1825

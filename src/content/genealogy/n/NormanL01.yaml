@@ -1,0 +1,62 @@
+id: NormanL01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: JosephAL01
+parentLetter: J
+parentDesc: Joseph Alford Lee Vining and Gracie Gustavia Friday
+head:
+  givenName: Norman Lee
+  birth:
+    date: 14 August 1913
+    place: Louisiana
+  death:
+    date: 1 March 1971
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Pauline
+      surname: Owens
+      birth:
+        date: 29 November 1913
+        place: Louisiana
+      death:
+        date: 23 May 1965
+      burial:
+        place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: Joseph Lee Vining
+        entryId: JosephL01
+        entryLetter: J
+        birth:
+          date: 26 August 1937
+        marriages:
+          - date: 8 September 1956
+            spouse: Lois Faye Van Cleave
+        death:
+          date: 17 December 2009
+          place: "Oak Grove, Louisiana"
+        burial:
+          place: "New Forest Cemetery   Forest, Louisiana"
+      - name: Marilyn Vining
+        marriages:
+          - date: Noble Hatch
+docsUrl: Nsources/NormanL01doc.htm
+raw: |-
+  <a name="NormanL01"></a><font size=+2>Norman Lee Vining</font>
+     (son of <a href="Jfamilies.htm#JosephAL01">Joseph Alford Lee Vining and Gracie Gustavia Friday</a>)
+     b. 14 August 1913   Louisiana
+     m. Pauline Owens
+              b. 29 November 1913   Louisiana
+              d. 23 May 1965
+                    bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+     d. 1 March 1971
+           bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JosephL01">Joseph Lee Vining</a>   b. 26 August 1937   -   m. 8 September 1956   Lois Faye Van Cleave   -   d. 17 December 2009   Oak Grove, Louisiana   -   bur. New Forest Cemetery   Forest, Louisiana
+     Marilyn Vining   m. Noble Hatch
+  
+  <a href="Nsources/NormanL01doc.htm">documentation and notes</a>

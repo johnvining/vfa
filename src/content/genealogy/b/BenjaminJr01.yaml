@@ -1,0 +1,219 @@
+id: BenjaminJr01
+letter: B
+sequence: 23
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Benjamin02
+parentDesc: Benjamin Vining and Mehitabel Brooks
+head:
+  givenName: Benjamin Jr.
+  birth:
+    date: 3 August 1764
+    place: "New Casco [now Falmouth], Cumberland County, Maine"
+  death:
+    date: 9 September 1833
+    place: "Avon, Franklin County, Maine"
+  burial:
+    place: "Pease Cemetery   Avon, Franklin County, Maine"
+marriages:
+  - date: 23 March 1797
+    spouse:
+      givenName: "Sarah &#8220;Sally&#8221;"
+      surname: Ring
+      parents: (dau. of Batchelder Ring and Sarah Harrington)
+      birth:
+        date: 19 September 1777
+        place: "Royalsborough [now Durham], Androscoggin County, Maine"
+      death:
+        date: "26 January [1863 or 1868?]"
+        place: "Avon, Franklin County, Maine"
+      burial:
+        place: "Pease Cemetery    Avon, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Batchelder Ring Vining
+        birth:
+          date: 17 February 1798
+          place: "Durham, Androscoggin County, Maine"
+      - name: Benjamin Brooks Vining
+        entryId: BenjaminB01
+        birth:
+          date: 30 March 1799
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 18 February 1830
+            place: "Strong, Franklin County, Maine"
+            spouse: Lydia Thompson
+      - name: Thomas Vining
+        entryId: Thomas03
+        entryLetter: T
+        birth:
+          date: 31 March 1800
+        marriages:
+          - date: 30 November 1826
+            spouse: Jemima Haines
+        death:
+          date: 14 August 1877
+        burial:
+          place: "Mount Blue Cemetery   Avon, Franklin County, Maine"
+      - name: David Vining
+        entryId: David06
+        entryLetter: D
+        birth:
+          date: 15 January 1802
+        marriages:
+          - date: 22 October 1829
+            place: "Jane C. Thomas (of Strong, Franklin County, Maine)"
+        death:
+          date: 29 June 1852
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: Page Vining
+        entryId: Page01
+        entryLetter: P
+        birth:
+          date: "[28 or 29?] March 1803"
+          place: Maine
+        marriages:
+          - date: int. 19 August 1821
+            spouse: Margaret E. Ring
+        death:
+          date: 11 February 1875
+        burial:
+          place: "Center Hill Cemetery   Weld, Franklin County, Maine"
+      - name: Seward P. Vining
+        entryId: SewardP01
+        entryLetter: S
+        birth:
+          date: 8 February 1805
+        marriages:
+          - date: Martha C. Thomas
+        death:
+          date: 4 February 1894
+      - name: Converse Wing Vining
+        entryId: ConverseW01
+        entryLetter: C
+        birth:
+          date: "[27 or 24?] February 1807"
+          place: "North Yarmouth, Cumberland County, Maine"
+        marriages:
+          - date: Esther Hall Worthley
+        death:
+          date: 12 April 1887
+          place: "Avon, Franklin County, Maine"
+      - name: Edward Vining
+        entryId: Edward01
+        entryLetter: E
+        birth:
+          date: 17 May 1809
+          place: Maine
+        marriages:
+          - date: 6 December 1832
+            spouse: Katharine Haines
+        death:
+          date: 19 October 1891
+          place: Wisconsin
+        burial:
+          place: "Marcellon Cemetery   Pardeeville, Columbia County, Wisconsin"
+      - name: John Vining
+        entryId: John10
+        entryLetter: J
+        birth:
+          date: 2 May 1811
+          place: Maine
+        marriages:
+          - number: 1
+            date: Mary Haines
+          - number: 2
+            date: Louisa T. Stevens
+        death:
+          date: 13 March 1889
+        burial:
+          place: "Mount Blue Cemetery   Avon, Franklin County, Maine"
+      - name: Nathaniel R. Vining
+        entryId: NathanielR01
+        entryLetter: N
+        birth:
+          date: 16 March 1813
+        marriages:
+          - date: Louisa Jane Worthley
+        death:
+          date: "1878"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: "Sarah &#8220;Sally&#8221; Vining"
+        birth:
+          date: 8 September 1814
+        marriages:
+          - date: 5 May 1842
+            spouse: Joshua T. Thurston
+      - name: Keziah M. Vining
+        birth:
+          date: ca. 1816
+        marriages:
+          - number: 1
+            date: 23 March 1841
+            place: "Avon, Franklin County, Maine"
+            spouse: "Jeremiah R. Norton (of Strong, Franklin County, Maine)"
+          - number: 2
+            date: 6 November 1855
+            spouse: Nicholas Bates
+      - name: O. Israel Fifield Vining
+        entryId: OI01
+        entryLetter: O
+        birth:
+          date: 11 July 1816
+          place: Maine
+        marriages:
+          - date: 1 October 1844
+            spouse: Elvira S. Thomas
+        death:
+          date: "1892"
+          place: "Littleton, Middlesex County, Massachusetts"
+        burial:
+          place: "Westlawn Cemetery   Littleton, Middlesex County, Massachusetts"
+      - name: Hiram Vining
+        entryId: Hiram01
+        entryLetter: H
+        birth:
+          date: 11 December 1820
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 18 May 1848
+            spouse: Emmeline Heath
+        death:
+          date: 29 August 1896
+          place: "Weld, Franklin County, Maine"
+        burial:
+          place: "Center Hill Cemetery   Weld, Franklin County, Maine"
+docsUrl: Bsources/BenjaminJr01doc.htm
+raw: |-
+  <a name="BenjaminJr01"></a><font size=+2>Benjamin Vining Jr.</font>
+     (son of <a href="#Benjamin02">Benjamin Vining and Mehitabel Brooks</a>)
+     b. 3 August 1764   New Casco [now Falmouth], Cumberland County, Maine
+     m. 23 March 1797
+           Sarah &#8220;Sally&#8221; Ring
+                 (dau. of Batchelder Ring and Sarah Harrington)
+                 b. 19 September 1777   Royalsborough [now Durham], Androscoggin County, Maine
+                 d. 26 January [1863 or 1868?]   Avon, Franklin County, Maine
+                       bur. Pease Cemetery    Avon, Franklin County, Maine
+     d. 9 September 1833   Avon, Franklin County, Maine
+           bur. Pease Cemetery   Avon, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Batchelder Ring Vining   b. 17 February 1798   Durham, Androscoggin County, Maine
+     <a href="#BenjaminB01">Benjamin Brooks Vining</a>   b. 30 March 1799   Durham, Androscoggin County, Maine   -   m. 18 February 1830   Strong, Franklin County, Maine   Lydia Thompson
+     <a href="Tfamilies.htm#Thomas03">Thomas Vining</a>   b. 31 March 1800   -   m. 30 November 1826   Jemima Haines   -   d. 14 August 1877   -   bur. Mount Blue Cemetery   Avon, Franklin County, Maine
+     <a href="Dfamilies.htm#David06">David Vining</a>   b. 15 January 1802   -   m. 22 October 1829   Jane C. Thomas (of Strong, Franklin County, Maine)   -   d. 29 June 1852   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     <a href="Pfamilies.htm#Page01">Page Vining</a>   b. [28 or 29?] March 1803   Maine   -   m. int. 19 August 1821   Margaret E. Ring   -   d. 11 February 1875   -   bur. Center Hill Cemetery   Weld, Franklin County, Maine
+     <a href="Sfamilies.htm#SewardP01">Seward P. Vining</a>   b. 8 February 1805   -   m. Martha C. Thomas   -   d. 4 February 1894
+     <a href="Cfamilies.htm#ConverseW01">Converse Wing Vining</a>   b. [27 or 24?] February 1807   North Yarmouth, Cumberland County, Maine   -   m. Esther Hall Worthley   -   d. 12 April 1887   Avon, Franklin County, Maine
+     <a href="Efamilies.htm#Edward01">Edward Vining</a>   b. 17 May 1809   Maine   -   m. 6 December 1832   Katharine Haines   -   d. 19 October 1891   Wisconsin   -   bur. Marcellon Cemetery   Pardeeville, Columbia County, Wisconsin
+     <a href="Jfamilies.htm#John10">John Vining</a>   b. 2 May 1811   Maine   -   m. (1) Mary Haines;    (2) Louisa T. Stevens   -   d. 13 March 1889   -   bur. Mount Blue Cemetery   Avon, Franklin County, Maine
+     <a href="Nfamilies.htm#NathanielR01">Nathaniel R. Vining</a>   b. 16 March 1813   -   m. Louisa Jane Worthley   -   d. 1878   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     Sarah &#8220;Sally&#8221; Vining   b. 8 September 1814   -   m. 5 May 1842   Joshua T. Thurston
+     Keziah M. Vining   b. ca. 1816   -   m. (1) 23 March 1841   Avon, Franklin County, Maine   Jeremiah R. Norton (of Strong, Franklin County, Maine);   (2) 6 November 1855   Nicholas Bates
+     <a href="Ofamilies.htm#OI01">O. Israel Fifield Vining</a>   b. 11 July 1816   Maine   -   m. 1 October 1844   Elvira S. Thomas   -   d. 1892   Littleton, Middlesex County, Massachusetts   -   bur. Westlawn Cemetery   Littleton, Middlesex County, Massachusetts
+     <a href="Hfamilies.htm#Hiram01">Hiram Vining</a>   b. 11 December 1820   Avon, Franklin County, Maine   -   m. 18 May 1848   Emmeline Heath   -   d. 29 August 1896   Weld, Franklin County, Maine   -   bur. Center Hill Cemetery   Weld, Franklin County, Maine
+  
+  <a href="Bsources/BenjaminJr01doc.htm">documentation and notes</a>

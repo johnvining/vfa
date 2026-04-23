@@ -1,0 +1,173 @@
+id: Benjamin02
+letter: B
+sequence: 15
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Thomas01
+parentLetter: T
+parentDesc: Thomas Vining and Hannah Randall
+head:
+  givenName: Benjamin
+  birth:
+    date: 16 November 1738
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 12 August 1812
+    place: "Durham, Androscoggin County, Maine"
+marriages:
+  - number: 1
+    date: 22 October 1761
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Mehitabel
+      surname: Brooks
+      parents: (dau. of Taylor Brooks and Meriam Curtis)
+      birth:
+        date: "chr. 22 February 1740/41"
+        place: "Scituate, Plymouth, Massachusetts"
+      death:
+        date: 9 April 1774
+        place: "Durham, Androscoggin County, Maine"
+  - number: 2
+    date: 20 August 1776
+    spouse:
+      givenName: Lydia
+      surname: Turner
+  - number: 3
+    date: "1789"
+    spouse:
+      givenName: Bathsheba
+      surname: Davis
+childrenGroups:
+  - spouseRef: Mehitabel Brooks
+    headingText: children by Mehitabel Brooks
+    children:
+      - name: John Vining
+        entryId: John05
+        entryLetter: J
+        birth:
+          date: 5 September 1762
+        marriages:
+          - date: 30 November 1786
+            spouse: Mary Goodwin
+        death:
+          date: 27 October 1837
+          place: "Durham, Androscoggin County, Maine"
+        burial:
+          place: "Old Town Cemetery    Durham, Androscoggin County, Maine"
+      - name: Benjamin Vining Jr.
+        entryId: BenjaminJr01
+        birth:
+          date: 3 August 1764
+          place: "New Casco [now Falmouth], Cumberland County, Maine"
+        marriages:
+          - date: 23 March 1797
+            spouse: "Sarah &#8220;Sally&#8221; Ring"
+        death:
+          date: 9 September 1833
+          place: "Avon, Franklin County, Maine"
+        burial:
+          place: "Pease Cemetery   Avon, Franklin County, Maine"
+      - name: Bela Vining
+        entryId: Bela01
+        birth:
+          date: 12 November 1766
+          place: "[Durham, Androscoggin County, Maine?]"
+        marriages:
+          - date: 15 July 1790
+            spouse: Thankful Millbanks
+        death:
+          date: 17 February 1846
+          place: "Durham, Androscoggin County, Maine"
+        burial:
+          place: "Sawyer Cemetery   Durham, Androscoggin County, Maine"
+      - name: Lucinda Vining
+        birth:
+          date: 11 March 1769
+        marriages:
+          - date: 17 March 1789
+            spouse: Thomas Mitchell
+        death:
+          date: "1812"
+      - name: Hannah Vining
+        birth:
+          date: 10 June 1771
+        death:
+          date: 3 May 1774
+  - spouseRef: Lydia Turner
+    headingText: children by Lydia Turner
+    children:
+      - name: Mehitabel Vining
+        birth:
+          date: 17 February 1778
+        marriages:
+          - date: 6 December 1792
+            place: "Henry McKenny (of Durham, Androscoggin County, Maine)"
+        death:
+          date: "1812"
+      - name: Sarah Vining
+        birth:
+          date: 22 December 1779
+        marriages:
+          - date: 9 November 1797
+            spouse: Jonathan Strout
+        death:
+          date: 25 February 1863
+        burial:
+          place: "Sawyer Cemetery   Durham, Androscoggin County, Maine"
+      - name: Reuben Vining
+        birth:
+          date: 2 May 1782
+        death:
+          date: 21 January 1783
+      - name: Josiah Vining
+        entryId: Josiah02
+        entryLetter: J
+        birth:
+          date: "[15 May 1784 or 10 April 1783?]"
+          place: "Royalsborough [now Durham], Androscoggin County, Maine"
+        marriages:
+          - date: 24 May 1807
+            spouse: Esther Clough
+        death:
+          date: 14 February 1851
+      - name: Abigail Vining
+        birth:
+          date: 9 July 1786
+        marriages:
+          - number: 1
+            date: 3 March 1803
+            place: "Pejepscot, Maine"
+            spouse: "Daniel Jordan   (2) [...] Titcomb"
+        death:
+          date: "1863"
+docsUrl: Bsources/Benjamin02doc.htm
+raw: |-
+  <a name="Benjamin02"></a><font size=+2>Benjamin Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas01">Thomas Vining and Hannah Randall</a>)
+     b. 16 November 1738   Weymouth, Norfolk County, Massachusetts
+     m. (1) 22 October 1761   Abington, Plymouth County, Massachusetts
+                 Mehitabel Brooks
+                       (dau. of Taylor Brooks and Meriam Curtis)
+                       chr. 22 February 1740/41   Scituate, Plymouth, Massachusetts
+                       d. 9 April 1774   Durham, Androscoggin County, Maine
+           (2) 20 August 1776
+                 Lydia Turner
+           (3) 1789
+                 Bathsheba Davis
+     d. 12 August 1812   Durham, Androscoggin County, Maine
+  
+  <font size=+1>children by Mehitabel Brooks:</font>
+     <a href="Jfamilies.htm#John05">John Vining</a>   b. 5 September 1762   -   m. 30 November 1786   Mary Goodwin   -   d. 27 October 1837   Durham, Androscoggin County, Maine   -   bur. Old Town Cemetery    Durham, Androscoggin County, Maine
+     <a href="#BenjaminJr01">Benjamin Vining Jr.</a>   b. 3 August 1764   New Casco [now Falmouth], Cumberland County, Maine   -   m. 23 March 1797   Sarah &#8220;Sally&#8221; Ring   -   d. 9 September 1833   Avon, Franklin County, Maine   -   bur. Pease Cemetery   Avon, Franklin County, Maine
+     <a href="#Bela01">Bela Vining</a>   b. 12 November 1766   [Durham, Androscoggin County, Maine?]   -   m. 15 July 1790   Thankful Millbanks   -   d. 17 February 1846   Durham, Androscoggin County, Maine   -   bur. Sawyer Cemetery   Durham, Androscoggin County, Maine
+     Lucinda Vining   b. 11 March 1769   -   m. 17 March 1789   Thomas Mitchell   -   d. 1812
+     Hannah Vining   b. 10 June 1771   -   d. 3 May 1774
+  <font size=+1>children by Lydia Turner:</font>
+     Mehitabel Vining   b. 17 February 1778   -   m. 6 December 1792   Henry McKenny (of Durham, Androscoggin County, Maine)   -   d. 1812
+     Sarah Vining   b. 22 December 1779   -   m. 9 November 1797   Jonathan Strout   -   d. 25 February 1863   -   bur. Sawyer Cemetery   Durham, Androscoggin County, Maine
+     Reuben Vining   b. 2 May 1782   -   d. 21 January 1783
+     <a href="Jfamilies.htm#Josiah02">Josiah Vining</a>   b. [15 May 1784 or 10 April 1783?]   Royalsborough [now Durham], Androscoggin County, Maine   -   m. 24 May 1807   Esther Clough   -   d. 14 February 1851
+     Abigail Vining   b. 9 July 1786   -   m. (1) 3 March 1803   Pejepscot, Maine   Daniel Jordan   (2) [...] Titcomb   -   d. 1863
+  
+  <a href="Bsources/Benjamin02doc.htm">documentation and notes</a>

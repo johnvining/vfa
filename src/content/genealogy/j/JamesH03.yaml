@@ -1,0 +1,53 @@
+id: JamesH03
+sequence: 62
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James H.
+  birth:
+    date: 20 August 1909
+  death:
+    date: 28 January 1997
+  burial:
+    place: "Lawnwood Memorial Park   Covington, Georgia"
+marriages:
+  - spouse:
+      givenName: Viola G.
+      surname: "[...]"
+      birth:
+        date: 31 November 1911
+      death:
+        date: 22 March 1999
+      burial:
+        place: "Lawnwood Memorial Park   Covington, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Phylliss Jocquelyn Vining
+        birth:
+          date: 20 June 1933
+          place: "Porterdale, Georgia"
+        marriages:
+          - date: Zora Patty
+        death:
+          date: 16 October 2014
+        burial:
+          place: "Laurel Land Cemetery   Fort Worth, Texas"
+docsUrl: Jsources/JamesH03doc.htm
+raw: |-
+  <a name="JamesH03"></a><font size=+2>James H. Vining</font>
+     (son of [?])
+     b. 20 August 1909
+     m. Viola G. [...]
+              b. 31 November 1911
+              d. 22 March 1999
+                    bur. Lawnwood Memorial Park   Covington, Georgia
+     d. 28 January 1997
+           bur. Lawnwood Memorial Park   Covington, Georgia
+  
+  <font size=+1>child:</font>
+     Phylliss Jocquelyn Vining   b. 20 June 1933   Porterdale, Georgia   -   m. Zora Patty   -   d. 16 October 2014   -   bur. Laurel Land Cemetery   Fort Worth, Texas
+  
+  <a href="Jsources/JamesH03doc.htm">documentation and notes</a>

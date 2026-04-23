@@ -1,0 +1,97 @@
+id: MinotT01
+sequence: 47
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JosephJr01
+parentLetter: J
+parentDesc: Joseph Vining Jr. and Sarah Porter
+head:
+  givenName: Minot T.
+  birth:
+    date: 20 March 1804
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 10 May 1883
+  burial:
+    place: "Chatham Township Cemetery   Chatham, Ohio"
+marriages:
+  - number: 1
+    date: 12 October 1826
+    spouse:
+      givenName: Hannah
+      surname: Stowell
+      birth:
+        date: "1808"
+      death:
+        date: 8 June 1851
+      burial:
+        place: "probably Hill Top Cemetery   Plainfield, Massachusetts [see &#8220;documentation and notes&#8221; below]"
+  - number: 2
+    date: intentions 5 October 1852
+    place: "Amherst, Massachusetts"
+    spouse:
+      givenName: "Mrs. Emeline Smith (n&#233;e"
+      surname: Moore)
+      birth:
+        date: age 45 y. as of 1860 census
+        place: Connecticut
+childrenGroups:
+  - spouseRef: Hannah Stowell
+    children:
+      - name: Hannah Pamelia Vining
+        birth:
+          date: 23 May 1828
+          place: "Plainfield, Massachusetts"
+        death:
+          date: "1888"
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+      - name: Mary Jane Vining
+        birth:
+          date: 8 February 1830
+          place: Massachusetts
+        marriages:
+          - date: Garry H. Cole
+        death:
+          date: "1890"
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+      - name: Clarissa Vining
+        birth:
+          date: 7 September 1834
+          place: Massachusetts
+        death:
+          date: 9 March 1835
+          place: Massachusetts
+      - name: Ann Elisa Vining
+        birth:
+          date: "1837"
+          place: Massachusetts
+        death:
+          date: "1910"
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+docsUrl: Msources/MinotT01doc.htm
+raw: |-
+  <a name="MinotT01"></a><font size=+2>Minot T. Vining</font>
+     (son of <a href="Jfamilies.htm#JosephJr01">Joseph Vining Jr. and Sarah Porter</a>)
+     b. 20 March 1804   Weymouth, Massachusetts
+     m. (1) 12 October 1826
+                 Hannah Stowell
+                       b. 1808
+                       d. 8 June 1851
+                             bur. probably Hill Top Cemetery   Plainfield, Massachusetts [see &#8220;documentation and notes&#8221; below]
+           (2) intentions 5 October 1852   Amherst, Massachusetts
+                 Mrs. Emeline Smith (n&#233;e Moore)
+                       b. age 45 y. as of 1860 census   Connecticut
+     d. 10 May 1883
+           bur. Chatham Township Cemetery   Chatham, Ohio
+  
+  <font size=+1>children by Hannah Stowell:</font>
+     Hannah Pamelia Vining   b. 23 May 1828   Plainfield, Massachusetts   -   d. 1888   -   bur. Chatham Township Cemetery   Chatham, Ohio
+     Mary Jane Vining   b. 8 February 1830   Massachusetts   -   m. Garry H. Cole   -   d. 1890   -   bur. Chatham Township Cemetery   Chatham, Ohio
+     Clarissa Vining   b. 7 September 1834   Massachusetts   -   d. 9 March 1835   Massachusetts
+     Ann Elisa Vining   b. 1837   Massachusetts   -   d. 1910   -   bur. Chatham Township Cemetery   Chatham, Ohio
+  
+  <a href="Msources/MinotT01doc.htm">documentation and notes</a>

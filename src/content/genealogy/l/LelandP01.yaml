@@ -1,0 +1,34 @@
+id: LelandP01
+sequence: 25
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: GuyE01
+parentLetter: G
+parentDesc: Guy Ellsworth Vining and Flora M. Davis
+head:
+  givenName: Leland Paul
+  birth:
+    date: 15 June 1918
+    place: Nebraska
+  death:
+    date: September 1977
+marriages:
+  - spouse:
+      givenName: Isabel
+      surname: Walker
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Caroline Vining
+        birth:
+          date: 26 October 1942
+raw: |-
+  <a name="LelandP01"></a><font size=+2>Leland Paul Vining</font>
+     (son of <a href="Gfamilies.htm#GuyE01">Guy Ellsworth Vining and Flora M. Davis</a>)
+     b. 15 June 1918   Nebraska
+     m. Isabel Walker
+     d. September 1977
+  
+  <font size=+1>child:</font>
+     Caroline Vining   b. 26 October 1942

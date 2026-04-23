@@ -1,0 +1,155 @@
+id: Elias02
+sequence: 72
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: James01
+parentLetter: J
+parentDesc: James Vining and Lucy Cushing
+head:
+  givenName: Elias
+  birth:
+    date: 24 June 1802
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 13 September 1883
+    place: "Weymouth, Massachusetts"
+marriages:
+  - number: 1
+    date: int. 28 February 1824
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Nancy
+      surname: Tirrell
+      parents: (dau. of John Tirrell and Polly Cushing)
+      birth:
+        date: 4 October 1806
+        place: "Weymouth, Massachusetts"
+      death:
+        date: 22 December 1842
+        place: "Weymouth, Massachusetts"
+  - number: 2
+    date: int. 21 May 1843
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Harriet
+      surname: Ford
+      birth:
+        date: "1815"
+        place: "Pembroke, Massachusetts"
+      death:
+        date: "1895"
+        place: "Weymouth, Massachusetts"
+childrenGroups:
+  - spouseRef: Nancy Tirrell
+    children:
+      - name: James Reed Vining
+        birth:
+          date: 24 October 1824
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - spouse: "Nancy Jennie [...]"
+        death:
+          date: "1900"
+      - name: Emily Vining
+        birth:
+          date: 24 October 1824
+          place: "Weymouth, Massachusetts"
+        death:
+          date: "1828"
+      - name: child
+        birth:
+          date: age 4 y. at death
+          place: "Weymouth, Massachusetts"
+        death:
+          date: "1831"
+          place: "Weymouth, Massachusetts"
+      - name: Joseph H. Vining
+        entryId: JosephH01
+        entryLetter: J
+        birth:
+          date: 22 October 1830
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 19 July 1849
+            place: "Weymouth, Massachusetts"
+            spouse: "Ann[a?] Mehitable Holbrook"
+        death:
+          date: "1885"
+          place: "Weymouth, Massachusetts"
+      - name: Emily Frances Vining
+        birth:
+          date: 7 January 1833
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 1 January 1851
+            spouse: Noah W. Torrey
+        death:
+          date: 18 March 1917
+          place: "West Point, New York"
+      - name: Ellen Maria Vining
+        birth:
+          date: 30 November 1838
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - spouse: Joseph H. Burrell
+      - name: George Washington Vining
+        birth:
+          date: 1 April 1841
+          place: "Weymouth, Massachusetts"
+        death:
+          date: "1863"
+          place: "Gettysburg, Pennsylvania"
+  - spouseRef: Harriet Ford
+    children:
+      - name: Nancy Elizabeth Vining
+        birth:
+          date: 9 June 1846
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: after 1870 census
+            spouse: George L. Gardner
+      - name: "[Rosella or Rozilla or Rosilla?] Cobb Vining"
+        birth:
+          date: 9 September 1848
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: January 1870
+            spouse: George Francis Cushing
+      - name: Sarah Ford Vining
+        birth:
+          date: 18 September 1852
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 5 December 1878
+            spouse: Josiah Forrest Torrey
+docsUrl: Esources/Elias02doc.htm
+raw: |-
+  <a name="Elias02"></a><font size=+2>Elias Vining</font>
+     (son of <a href="Jfamilies.htm#James01">James Vining and Lucy Cushing</a>)
+     b. 24 June 1802   Weymouth, Massachusetts
+     m. (1) int. 28 February 1824   Weymouth, Massachusetts
+                 Nancy Tirrell
+                       (dau. of John Tirrell and Polly Cushing)
+                       b. 4 October 1806   Weymouth, Massachusetts
+                       d. 22 December 1842   Weymouth, Massachusetts
+           (2) int. 21 May 1843   Weymouth, Massachusetts
+                 Harriet Ford
+                       b. 1815   Pembroke, Massachusetts
+                       d. 1895   Weymouth, Massachusetts
+     d. 13 September 1883   Weymouth, Massachusetts
+  
+  <font size=+1>children by Nancy Tirrell:</font>
+     James Reed Vining   b. 24 October 1824   Weymouth, Massachusetts   -   m. Nancy Jennie [...]   -   d. 1900
+     Emily Vining   b. 24 October 1824   Weymouth, Massachusetts   -   d. 1828
+     child   b. age 4 y. at death   Weymouth, Massachusetts   -   d. 1831   Weymouth, Massachusetts
+     <a href="Jfamilies.htm#JosephH01">Joseph H. Vining</a>   b. 22 October 1830   Weymouth, Massachusetts   -   m. 19 July 1849   Weymouth, Massachusetts   Ann[a?] Mehitable Holbrook   -   d. 1885   Weymouth, Massachusetts
+     Emily Frances Vining   b. 7 January 1833   Weymouth, Massachusetts   -   m. 1 January 1851   Noah W. Torrey   -   d. 18 March 1917   West Point, New York
+     Ellen Maria Vining   b. 30 November 1838   Weymouth, Massachusetts   -   m. Joseph H. Burrell
+     George Washington Vining   b. 1 April 1841   Weymouth, Massachusetts   -   d. 1863   Gettysburg, Pennsylvania
+  <font size=+1>children by Harriet Ford:</font>
+     Nancy Elizabeth Vining   b. 9 June 1846   Weymouth, Massachusetts   -   m. after 1870 census   George L. Gardner
+     [Rosella or Rozilla or Rosilla?] Cobb Vining   b. 9 September 1848   Weymouth, Massachusetts   -   m. January 1870   George Francis Cushing
+     Sarah Ford Vining   b. 18 September 1852   Weymouth, Massachusetts   -   m. 5 December 1878   Josiah Forrest Torrey
+  
+  <a href="Esources/Elias02doc.htm">documentation and notes</a>

@@ -1,0 +1,114 @@
+id: AlonzoH01
+title: Alonzo Haines Vining - Mary A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Alonzo Haines Vining
+          values:
+            - "27"
+            - "38"
+            - "?"
+            - "55"
+            - dead
+            - ""
+            - ""
+        - label: Mary A. ([...]) Vining
+          values:
+            - "28"
+            - "38"
+            - "?"
+            - "55"
+            - "67"
+            - "77"
+            - dead
+        - label: Anna Vining
+          values:
+            - "3"
+            - "12"
+            - "?"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary E. Vining
+          values:
+            - ""
+            - "8"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Blanche F. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "17"
+            - living in separate household
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Lowell (ward 5), Middlesex County, Massachusetts - dwelling 563, family 662. Also living in this household in
+          1870 was Hiram Vining (24, b. Maine), a brother of Alonzo Haines Vining.
+        images:
+          - src: AlonzoH01census1870.jpg
+      - year: "1880"
+        caption: Lowell, Middlesex County, Massachusetts - dwelling 221, family 248
+        images:
+          - src: AlonzoH01census1880.jpg
+      - year: "1900"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 289, family 307
+        images:
+          - src: AlonzoH01census1900.jpg
+      - year: "1910"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 312, family 348
+        images:
+          - src: AlonzoH01census1910.jpg
+      - year: "1920"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 1299, family 1609
+        images:
+          - src: AlonzoH01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone (front and back) for family of Alonzo Haines Vining, in Saint Patrick Cemetery, Lowell, Middlesex
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: AlonzoH01headstonefront.jpg
+          - src: AlonzoH01headstoneback.jpg
+        inline: true

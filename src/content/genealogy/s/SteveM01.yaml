@@ -1,0 +1,32 @@
+id: SteveM01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Raymond01
+parentLetter: R
+parentDesc: Raymond Vining and Joyce Nelson
+head:
+  givenName: Steve Michael
+  birth:
+    date: 10 September 1962
+    place: "Mount Vernon, Ohio"
+  death:
+    date: 6 February 2020
+    place: "Ashland, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Stasha Vining
+        marriages:
+          - date: Gary Thomas
+docsUrl: Ssources/SteveM01doc.htm
+raw: |-
+  <a name="SteveM01"></a><font size=+2>Steve Michael Vining</font>
+     (son of <a href="Rfamilies.htm#Raymond01">Raymond Vining and Joyce Nelson</a>)
+     b. 10 September 1962   Mount Vernon, Ohio
+     d. 6 February 2020   Ashland, Ohio
+  
+  <font size=+1>child:</font>
+     Stasha Vining   m. Gary Thomas
+  
+  <a href="Ssources/SteveM01doc.htm">documentation and notes</a>

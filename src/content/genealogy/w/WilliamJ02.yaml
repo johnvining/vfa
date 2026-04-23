@@ -1,0 +1,49 @@
+id: WilliamJ02
+sequence: 111
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Judson01
+parentLetter: J
+parentDesc: Judson Vining and Sarah W. Briggs
+head:
+  givenName: William Judson
+  birth:
+    date: 2 April 1826
+    place: "Hanover, Plymouth County, Massachusetts"
+  death:
+    date: 20 April 1904
+    place: "Hanover, Plymouth County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Mercy Turner
+      surname: Bates
+      parents: "(dau. of Thomas Merit Bates and Sylvia Wing)"
+      birth:
+        date: 25 December 1826
+        place: "Hanover, Plymouth County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Georgeanna Vining
+        birth:
+          date: 15 July 1850
+          place: "Hanover, Plymouth County, Massachusetts"
+      - name: Leona F. Vining
+        birth:
+          date: 7 February 1857
+          place: "Hanover, Plymouth County, Massachusetts"
+docsUrl: Wsources/WilliamJ02doc.htm
+raw: |-
+  <a name="WilliamJ02"></a><font size=+2>William Judson Vining</font>
+     (son of <a href="Jfamilies.htm#Judson01">Judson Vining and Sarah W. Briggs</a>)
+     b. 2 April 1826   Hanover, Plymouth County, Massachusetts
+     m. Mercy Turner Bates
+              (dau. of Thomas Merit Bates and Sylvia Wing)
+              b. 25 December 1826   Hanover, Plymouth County, Massachusetts
+     d. 20 April 1904   Hanover, Plymouth County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Georgeanna Vining   b. 15 July 1850   Hanover, Plymouth County, Massachusetts
+     Leona F. Vining   b. 7 February 1857   Hanover, Plymouth County, Massachusetts
+  
+  <a href="Wsources/WilliamJ02doc.htm">documentation and notes</a>

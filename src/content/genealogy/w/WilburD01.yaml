@@ -1,0 +1,56 @@
+id: WilburD01
+sequence: 44
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JosephE03
+parentLetter: J
+parentDesc: Joseph Easton Vining and Alwilda Russell
+head:
+  givenName: Wilbur Dale
+  birth:
+    date: 13 December 1893
+    place: "Napoleon, Michigan"
+  death:
+    date: June 1976
+    place: "(last residence: Jackson, Michigan)"
+  burial:
+    place: "Oak Grove Cemetery   Napoleon, Michigan"
+marriages:
+  - number: 1
+    date: Minnie Gary
+    spouse:
+      parents: "(dau. of Hugh H. Gary and Minnie B. [...])"
+      birth:
+        date: "age 21 y. as of 1920 census"
+        place: Michigan
+      death:
+        date: "1939"
+  - number: 2
+    date: Dorothy Chamberlain
+childrenGroups:
+  - headingText: child by Minnie Gary
+    children:
+      - name: Marian Vining
+        birth:
+          date: 24 September 1919
+        marriages:
+          - date: 7 January 1942
+            spouse: Wayne Garrison
+docsUrl: Wsources/WilburD01doc.htm
+raw: |-
+  <a name="WilburD01"></a><font size=+2>Wilbur Dale Vining</font>
+     (son of <a href="Jfamilies.htm#JosephE03">Joseph Easton Vining and Alwilda Russell</a>)
+     b. 13 December 1893   Napoleon, Michigan
+     m. (1) Minnie Gary
+                 (dau. of Hugh H. Gary and Minnie B. [...])
+                 b. age 21 y. as of 1920 census   Michigan
+                 d. 1939
+           (2) Dorothy Chamberlain
+     d. June 1976   (last residence: Jackson, Michigan)
+           bur. Oak Grove Cemetery   Napoleon, Michigan
+  
+  <font size=+1>child by Minnie Gary:</font>
+     Marian Vining   b. 24 September 1919   -   m. 7 January 1942   Wayne Garrison
+  
+  <a href="Wsources/WilburD01doc.htm">documentation and notes</a>

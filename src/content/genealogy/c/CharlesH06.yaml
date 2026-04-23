@@ -1,0 +1,52 @@
+id: CharlesH06
+letter: C
+sequence: 75
+lastUpdated: 25 February 2023
+relationship: son
+parentId: HenryW02
+parentLetter: H
+parentDesc: Henry William Vining and Christena Jackson
+head:
+  givenName: Charles Herbert
+  birth:
+    date: 17 April 1861
+    place: "Cincinnati, Ohio"
+  death:
+    date: 15 July 1914
+    place: "Fort Wayne, Indiana"
+  burial:
+    place: "Parker Cemetery   Fort Wayne, Indiana"
+marriages:
+  - date: 10 y. as of 1900 census
+    spouse:
+      givenName: "[Sidonna or Florence ?]"
+      surname: "[...]"
+      birth:
+        date: April 1879
+        place: Indiana
+childrenGroups:
+  - children:
+      - name: Audrey Vining
+        birth:
+          date: August 1892
+          place: Indiana
+      - name: "Normalyn Vining [male]"
+        birth:
+          date: January 1894
+          place: Indiana
+docsUrl: Csources/CharlesH06doc.htm
+raw: |-
+  <a name="CharlesH06"></a><font size=+2>Charles Herbert Vining</font>
+     (son of <a href="Hfamilies.htm#HenryW02">Henry William Vining and Christena Jackson</a>)
+     b. 17 April 1861   Cincinnati, Ohio
+     m. 10 y. as of 1900 census
+           [Sidonna or Florence ?] [...]
+                 b. April 1879   Indiana
+     d. 15 July 1914   Fort Wayne, Indiana
+           bur. Parker Cemetery   Fort Wayne, Indiana
+  
+  <font size=+1>children:</font>
+     Audrey Vining   b. August 1892   Indiana
+     Normalyn Vining [male]   b. January 1894   Indiana
+  
+  <a href="Csources/CharlesH06doc.htm">documentation and notes</a>

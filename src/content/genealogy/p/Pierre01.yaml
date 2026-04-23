@@ -1,0 +1,52 @@
+id: Pierre01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: PeterS02
+parentDesc: "Peter S. Vining and Mary [&#8230;]"
+head:
+  givenName: Pierre
+  birth:
+    date: 6 October 1901
+    place: New York
+  death:
+    date: 10 May 1993
+    place: "Franklin County, New York"
+marriages:
+  - spouse:
+      givenName: Grace
+      surname: Ramsdell
+      parents: "(dau. of H[&#8230;] Ramsdell and Nettie Page)"
+      birth:
+        date: age 28 y. as of 1930 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Pierre Vining Jr.
+        birth:
+          date: age 5 y. as of 1930 census
+          place: New York
+      - name: Joan Vining
+        birth:
+          date: age 5 m. as of 1930 census
+          place: New York
+      - name: Joyce Vining
+        birth:
+          date: age 3 y. as of 1940 census
+          place: New York
+docsUrl: Psources/Pierre01doc.htm
+raw: |-
+  <a name="Pierre01"></a><font size=+2>Pierre Vining</font>
+     (son of <a href="#PeterS02">Peter S. Vining and Mary [&#8230;]</a>)
+     b. 6 October 1901   New York
+     m. Grace Ramsdell
+              (dau. of H[&#8230;] Ramsdell and Nettie Page)
+              b. age 28 y. as of 1930 census   New York
+     d. 10 May 1993   Franklin County, New York
+  
+  <font size=+1>children:</font>
+     Pierre Vining Jr.   b. age 5 y. as of 1930 census   New York
+     Joan Vining   b. age 5 m. as of 1930 census   New York
+     Joyce Vining   b. age 3 y. as of 1940 census   New York
+  
+  <a href="Psources/Pierre01doc.htm">documentation and notes</a>

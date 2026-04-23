@@ -1,0 +1,119 @@
+id: WalterT01
+sequence: 23
+letter: W
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML had f. where d. (death) was intended for child Winifred Catherine Vining (\"f. 2 December 1943\"); corrected in new rendering."
+relationship: son
+parentId: SamuelB01
+parentLetter: S
+parentDesc: Samuel B. Vining and Jane E. Smith
+head:
+  givenName: Walter Todd
+  birth:
+    date: January 1848
+    place: Illinois
+  death:
+    date: 11 July 1911
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Illinois"
+marriages:
+  - date: 3 July 1870
+    place: Illinois
+    spouse:
+      givenName: Mary Jane
+      surname: Morgan
+      birth:
+        date: 18 October 1852
+        place: Indiana
+      death:
+        date: 29 April 1933
+        place: "Kankakee County, Illinois"
+      burial:
+        place: "Limestone Cemetery   West Kankakee, Illinois"
+childrenGroups:
+  - children:
+      - name: Lucy Vining
+        birth:
+          date: age 9 y. as of 1880 census
+          place: Illinois
+        death:
+          date: "1959"
+        burial:
+          place: "Mount Calvary Cemetery and Mausoleum   Kankakee, Illinois"
+      - name: William E. Vining
+        entryId: WilliamE04
+        birth:
+          date: age 7 y. as of 1880 census
+          place: Illinois
+        marriages:
+          - date: 21 January 1896
+            spouse: Glennie Albright
+      - name: Iona N. Vining
+        birth:
+          date: 8 March 1876
+        death:
+          date: 5 October 1878
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Illinois"
+      - name: Burton Dole Vining
+        birth:
+          date: 7 March 1880
+          place: "Kankakee County, Illinois"
+        marriages:
+          - date: Margaret Florence Whisler
+        death:
+          date: 28 January 1962
+          place: "Chicago, Illinois"
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Illinois"
+      - name: Jessie J. Vining
+        birth:
+          date: October 1882
+          place: Illinois
+      - name: Bertha A. Vining
+        birth:
+          date: 18 July 1886
+          place: "Limestone Township, Kankakee County, Illinois"
+        death:
+          date: 3 August 1972
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Illinois"
+      - name: Winifred Catherine Vining
+        birth:
+          date: 10 June 1891
+          place: "Kankakee County, Illinois"
+        marriages:
+          - date: George H. Oster
+        death:
+          date: 2 December 1943
+          place: "Kankakee County, Illinois"
+        burial:
+          place: "Union Corners Cemetery   Grant Park, Illinois"
+      - name: Martha E. Vining
+        birth:
+          date: June 1893
+          place: Illinois
+docsUrl: Wsources/WalterT01doc.htm
+raw: |-
+  <a name="WalterT01"></a><font size=+2>Walter Todd Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelB01">Samuel B. Vining and Jane E. Smith</a>)
+     b. January 1848   Illinois
+     m. 3 July 1870   Illinois
+           Mary Jane Morgan
+                 b. 18 October 1852   Indiana
+                 d. 29 April 1933   Kankakee County, Illinois
+                       bur. Limestone Cemetery   West Kankakee, Illinois
+     d. 11 July 1911
+           bur. Limestone Cemetery   West Kankakee, Illinois
+  
+  <font size=+1>children:</font>
+     Lucy Vining   b. age 9 y. as of 1880 census   Illinois   -   d. 1959   -   bur. Mount Calvary Cemetery and Mausoleum   Kankakee, Illinois
+     <a href="#WilliamE04">William E. Vining</a>   b. age 7 y. as of 1880 census   Illinois   -   m. 21 January 1896   Glennie Albright
+     Iona N. Vining   b. 8 March 1876   -   d. 5 October 1878   -   bur. Limestone Cemetery   West Kankakee, Illinois
+     Burton Dole Vining   b. 7 March 1880   Kankakee County, Illinois   -   m. Margaret Florence Whisler   -   d. 28 January 1962   Chicago, Illinois   -   bur. Limestone Cemetery   West Kankakee, Illinois
+     Jessie J. Vining   b. October 1882   Illinois
+     Bertha A. Vining   b. 18 July 1886   Limestone Township, Kankakee County, Illinois   -   d. 3 August 1972   -   bur. Limestone Cemetery   West Kankakee, Illinois
+     Winifred Catherine Vining   b. 10 June 1891   Kankakee County, Illinois   -   m. George H. Oster   -   f. 2 December 1943   Kankakee County, Illinois   -   bur. Union Corners Cemetery   Grant Park, Illinois
+     Martha E. Vining   b. June 1893   Illinois
+  
+  <a href="Wsources/WalterT01doc.htm">documentation and notes</a>

@@ -1,0 +1,67 @@
+id: EdwardL02
+title: Edward Lee Vining - Elvira D. […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward Lee Vining
+          values:
+            - "47"
+            - "57"
+            - "67"
+        - label: Elvira D. ([…]) Vining
+          values:
+            - "31"
+            - "42"
+            - "52"
+        - label: Margrette Vining
+          values:
+            - "6"
+            - "16"
+            - "26"
+          indent: true
+        - label: Edward Lee Vining Jr.
+          values:
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: John Gilbert Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Leesville, Vernon Parish, Louisiana - dwelling 112, family [no number given]
+        images:
+          - src: EdwardL02census1920.jpg
+      - year: "1930"
+        caption: Leesville (ward 3), Vernon Parish, Louisiana - dwelling 45, family 51
+        images:
+          - src: EdwardL02census1930.jpg
+      - year: "1940"
+        caption: Leesville (ward 2), Vernon Parish, Louisiana
+        images:
+          - src: EdwardL02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Edward Lee Vining, wife Elvira D. ([…]) Vining, and son John Gilbert Vining, in Leesville
+          Cemetery, Leesville, Vernon Parish, Louisiana (from Find A Grave):
+        images:
+          - src: EdwardL02gravestone.jpg
+          - src: EdwardL02wifegravestone.jpg
+          - src: EdwardL02sonJohngravestone.jpg
+        inline: true

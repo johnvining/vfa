@@ -1,0 +1,60 @@
+id: ReginaldW01
+sequence: 28
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ErnestW01
+parentLetter: E
+parentDesc: "Ernest W. Vining and Catherine [&#8230;]"
+head:
+  givenName: Reginald W.
+  birth:
+    date: 1 July 1909
+    place: "Ithaca, Tompkins County, New York"
+  death:
+    date: 22 September 1990
+    place: "Rochester, Monroe County, New York"
+  burial:
+    place: "Mount Hope Cemetery   Norwich, Chenango County, New York"
+marriages:
+  - spouse:
+      givenName: Frances Elizabeth
+      surname: Ackley
+      parents: "(dau. of George William Ackley and Minnie Belle Barden)"
+      birth:
+        date: 22 March 1909
+        place: "Cortland, California"
+      death:
+        date: 23 August 1997
+        place: "Norwich, Chenango County, New York"
+      burial:
+        place: "Mount Hope Cemetery   Norwich, Chenango County, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Douglas Robert Vining
+        birth:
+          date: 31 December 1931
+          place: "Norwich, Chenango County, New York"
+        death:
+          date: 22 February 2008
+          place: "Boston, Suffolk County, Massachusetts"
+        burial:
+          place: "Wyoming Cemetery   Melrose, Middlesex County, Massachusetts"
+docsUrl: Rsources/ReginaldW01doc.htm
+raw: |-
+  <a name="ReginaldW01"></a><font size=+2>Reginald W. Vining</font>
+     (son of <a href="Efamilies.htm#ErnestW01">Ernest W. Vining and Catherine [&#8230;]</a>)
+     b. 1 July 1909   Ithaca, Tompkins County, New York
+     m. Frances Elizabeth Ackley
+              (dau. of George William Ackley and Minnie Belle Barden)
+              b. 22 March 1909   Cortland, California
+              d. 23 August 1997   Norwich, Chenango County, New York
+                    bur. Mount Hope Cemetery   Norwich, Chenango County, New York
+     d. 22 September 1990   Rochester, Monroe County, New York
+           bur. Mount Hope Cemetery   Norwich, Chenango County, New York
+  
+  <font size=+1>child:</font>
+     Douglas Robert Vining   b. 31 December 1931   Norwich, Chenango County, New York   -   d. 22 February 2008   Boston, Suffolk County, Massachusetts   -   bur. Wyoming Cemetery   Melrose, Middlesex County, Massachusetts
+  
+  <a href="Rsources/ReginaldW01doc.htm">documentation and notes</a>

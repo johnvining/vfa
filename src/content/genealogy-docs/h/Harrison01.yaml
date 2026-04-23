@@ -1,0 +1,50 @@
+id: Harrison01
+title: Harrison Vining - Marie Horejs
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harrison Vining
+          values:
+            - "28"
+            - dead
+            - ""
+            - ""
+        - label: Marie (Horejs) Vining
+          values:
+            - "[29?]"
+            - "36"
+            - "47"
+            - "?"
+        - label: Grace Ihrig Vining
+          values:
+            - "3"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Francis Joseph Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: St. Paul (Ward 8), Ramsey County, Minnesota - dwelling 114, family 134
+        images:
+          - src: Harrison01census1910.jpg
+      - year: "1920"
+        caption: St. Paul, Dakota County, Minnesota - dwelling 67, family 76
+        images:
+          - src: Harrison01census1920.jpg
+      - year: "1930"
+        caption: Los Angeles, Los Angeles County, California - dwelling 154, family 161
+        images:
+          - src: Harrison01census1930.jpg

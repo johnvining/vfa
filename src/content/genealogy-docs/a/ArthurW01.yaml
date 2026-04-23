@@ -1,0 +1,37 @@
+id: ArthurW01
+title: Arthur W. Vining - Anne J. [...]
+displayTitle: Arthur W. Vining - Anne J. […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+      rows:
+        - label: Arthur W. Vining
+          values:
+            - "40"
+            - "52"
+        - label: Anne J. ([…]) Vining
+          values:
+            - "31"
+            - "41"
+        - label: Ruth Vining
+          values:
+            - "8"
+            - "19"
+          indent: true
+        - label: Arthur W. Vining Jr.
+          values:
+            - "3"
+            - "13"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Stratford, Fairfield County, Connecticut - dwelling 60, family 644
+        images:
+          - src: ArthurW01census1920.jpg
+      - year: "1930"
+        caption: Newtown, Fairfield County, Connecticut - dwelling 280, family 284
+        images:
+          - src: ArthurW01census1930.jpg

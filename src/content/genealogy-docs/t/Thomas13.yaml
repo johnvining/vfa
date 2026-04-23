@@ -1,0 +1,31 @@
+id: Thomas13
+title: Thomas Vining - Virginia [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+        - label: Virginia ([...]) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+        - label: Mary L. Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Wilmington (ward 5), New Hanover County, North Carolina - dwelling 324, family 344
+        images:
+          - src: Thomas13census1920.jpg

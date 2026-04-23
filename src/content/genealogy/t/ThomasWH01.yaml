@@ -1,0 +1,114 @@
+id: ThomasWH01
+letter: T
+sequence: 60
+lastUpdated: 9 March 2023
+relationship: son
+parentId: UriahB01
+parentLetter: U
+parentDesc: Uriah Blanchard Vining and Eunice Nugent
+head:
+  givenName: Thomas Wade Hampton
+  birth:
+    date: 8 October 1814
+    place: "Wilkinson, Mississippi"
+  death:
+    date: 1 December 1870
+    place: "Drew, Chicot County, Arkansas"
+marriages:
+  - number: "1?"
+    date: 15 November 1838
+    place: "St. Helena Parish, Louisiana"
+    spouse:
+      givenName: Margaret Gaines Womack
+      surname: Smith
+      birth:
+        date: 11 February 1816
+        place: "Greensburg, St. Helena Parish, Louisiana"
+      death:
+        date: 29 April 1843
+        place: "St. Helena Parish, Louisiana"
+  - number: "2?"
+    date: 28 October 1843
+    place: "Copiah, Mississippi"
+    spouse:
+      givenName: "Elizabeth Ann Leach Allred [she m. (1) John Seaton Allred]"
+      birth:
+        date: "1812"
+        place: "South Carolina"
+  - number: "3?"
+    date: 21 January 1857
+    place: "Sunflower, Mississippi"
+    spouse:
+      givenName: Lavinia
+      surname: Daugherty
+childrenGroups:
+  - spouseRef: "[1?] Margaret Gaines Womack Smith"
+    children:
+      - name: Thomas Green Vining
+        entryId: ThomasG01
+        birth:
+          date: 12 September 1839
+          place: "[Louisiana or Tate, Georgia?]"
+        marriages:
+          - date: Julia Sabrina Wells
+        death:
+          date: 29 September 1916
+      - name: Jackson Fee Vining
+        birth:
+          date: 8 October 1841
+          place: "St. Helena Parish, Louisiana"
+        death:
+          date: 27 September 1842
+  - spouseRef: "[2?] Elizabeth Ann Leach Allred"
+    children:
+      - name: Oregon J. Vining
+        birth:
+          date: "1845"
+          place: Mississippi
+        death:
+          date: 22 June 1864
+          place: "Hanover, Virginia"
+      - name: Adaline E. Vining
+        birth:
+          date: 31 March 1846
+          place: "Copiah, Mississippi"
+        death:
+          date: 19 February 1870
+          place: "Chicot County, Arkansas"
+      - name: Theresa Vining
+        birth:
+          date: "1848"
+          place: Mississippi
+      - name: Cass C. Vining
+        birth:
+          date: "1849"
+          place: Mississippi
+        death:
+          date: April 1850
+          place: "Franklin County, Mississippi"
+docsUrl: Tsources/ThomasWH01doc.htm
+raw: |-
+  <a name="ThomasWH01"></a><font size=+2>Thomas Wade Hampton Vining</font>
+     (son of <a href="Ufamilies.htm#UriahB01">Uriah Blanchard Vining and Eunice Nugent</a>)
+     b. 8 October 1814   Wilkinson, Mississippi
+     m. [1?] 15 November 1838   St. Helena Parish, Louisiana
+                 Margaret Gaines Womack Smith
+                       b. 11 February 1816   Greensburg, St. Helena Parish, Louisiana
+                       d. 29 April 1843   St. Helena Parish, Louisiana
+           [2?] 28 October 1843   Copiah, Mississippi
+                    Elizabeth Ann Leach Allred [she m. (1) John Seaton Allred]
+                          b. 1812   South Carolina
+           [3?] 21 January 1857   Sunflower, Mississippi
+                    Lavinia Daugherty
+     d. 1 December 1870   Drew, Chicot County, Arkansas
+  
+  <font size=+1>children by [1?] Margaret Gaines Womack Smith:</font>
+     <a href="#ThomasG01">Thomas Green Vining</a>   b. 12 September 1839   [Louisiana or Tate, Georgia?]   -   m. Julia Sabrina Wells   -   d. 29 September 1916
+     Jackson Fee Vining   b. 8 October 1841   St. Helena Parish, Louisiana   -   d. 27 September 1842
+  <font size=+1>children by [2?] Elizabeth Ann Leach Allred:</font>
+     Oregon J. Vining   b. 1845   Mississippi   -   d. 22 June 1864   Hanover, Virginia
+     Adaline E. Vining   b. 31 March 1846   Copiah, Mississippi   -   d. 19 February 1870   Chicot County, Arkansas
+     Theresa Vining   b. 1848   Mississippi
+     Cass C. Vining   b. 1849   Mississippi   -   d. April 1850   Franklin County, Mississippi
+  
+  <a href="Tsources/ThomasWH01doc.htm">documentation and notes</a>

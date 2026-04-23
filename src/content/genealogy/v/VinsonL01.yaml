@@ -1,0 +1,51 @@
+id: VinsonL01
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentId: LeoH02
+parentLetter: L
+parentDesc: Leo Harry Vining and Katherine E. Libby
+head:
+  givenName: Vinson Leo
+  birth:
+    date: 17 February 1946
+    place: "Anson, Maine"
+  death:
+    date: 30 August 2005
+    place: "Livermore Falls, Maine"
+marriages:
+  - date: "[1?] Auugust 1965"
+    spouse:
+      givenName: Carmella E.
+      surname: Friend
+    note: "[2?] Betty Aube"
+childrenGroups:
+  - children:
+      - name: Martin Rene Vining
+        entryId: MartinR01
+        entryLetter: M
+        birth:
+          date: 10 June 1969
+          place: "Lewiston, Maine"
+        death:
+          date: 1 April 2011
+          place: "Farmington, Maine"
+      - name: Tracy Vining
+        marriages:
+          - date: Kevin Woods
+      - name: Bonnie Vining
+        marriages:
+          - date: Donald Bean
+raw: |-
+  <a name="VinsonL01"></a><font size=+2>Vinson Leo Vining</font>
+     (son of <a href="Lfamilies.htm#LeoH02">Leo Harry Vining and Katherine E. Libby</a>)
+     b. 17 February 1946   Anson, Maine
+     m. [1?] Auugust 1965
+                 Carmella E. Friend
+           [2?] Betty Aube
+     d. 30 August 2005   Livermore Falls, Maine
+
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MartinR01">Martin Rene Vining</a>   b. 10 June 1969   Lewiston, Maine   -   d. 1 April 2011   Farmington, Maine
+     Tracy Vining   m. Kevin Woods
+     Bonnie Vining   m. Donald Bean

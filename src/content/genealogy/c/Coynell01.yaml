@@ -1,0 +1,41 @@
+id: Coynell01
+letter: C
+sequence: 163
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FloydR01
+parentLetter: F
+parentDesc: Floyd R. Vining and Pearlie May Brooks
+head:
+  givenName: Coynell
+  birth:
+    date: 30 July 1938
+  death:
+    date: 1 October 2010
+    place: "Huntsville, Alabama"
+  burial:
+    place: "Faith Memorial Park   Madison, Alabama"
+marriages:
+  - spouse:
+      givenName: Alice
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Philip Vining
+        marriages:
+          - date: "Deborah [...]"
+      - name: Tonya Vining
+docsUrl: Csources/Coynell01doc.htm
+raw: |-
+  <a name="Coynell01"></a><font size=+2>Coynell Vining</font>
+     (son of <a href="Ffamilies.htm#FloydR01">Floyd R. Vining and Pearlie May Brooks</a>)
+     b. 30 July 1938
+     m. Alice [...]
+     d. 1 October 2010   Huntsville, Alabama
+           bur. Faith Memorial Park   Madison, Alabama
+  
+  <font size=+1>children:</font>
+     Philip Vining   m. Deborah [...]
+     Tonya Vining
+  
+  <a href="Csources/Coynell01doc.htm">documentation and notes</a>

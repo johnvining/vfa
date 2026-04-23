@@ -1,0 +1,65 @@
+id: HarrisonS01
+title: Harrison S. Vining - Lucy I. Simonton
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Harrison S. Vining (from Maine State Archives):"
+        images:
+          - src: HarrisonS01birthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Harrison S. Vining
+          values:
+            - "36"
+            - "?"
+            - "56"
+            - "?"
+            - "75"
+            - dead
+        - label: Lucy I. (Simonton) Vining
+          values:
+            - "36"
+            - "?"
+            - "56"
+            - "?"
+            - dead
+            - ""
+        - label: Clarence Vining
+          values:
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Helen Sherwood Vining
+          values:
+            - "5"
+            - "?"
+            - "25"
+            - "?"
+            - "44"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Brooklyn (district 3, ward 11), Kings County, New York - dwelling 757, family 907. Also living in this
+          household in 1860 was Elien Heffren (39 y., b. Ireland).
+        images:
+          - src: HarrisonS01census1860.jpg
+      - year: "1880"
+        caption: >-
+          Brooklyn (ward 22), Kings County, New York - Also living in this household in 1880 was Julia Hanson (32 y., b.
+          Norway).
+        images:
+          - src: HarrisonS01census1880.jpg

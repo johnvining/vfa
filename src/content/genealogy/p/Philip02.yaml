@@ -1,0 +1,62 @@
+id: Philip02
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: ElishaW01
+parentLetter: E
+parentDesc: Elisha W. Vining and Adaline Drew
+head:
+  givenName: Philip
+  birth:
+    date: August 1856
+    place: New York
+  death:
+    date: 21 October 1943
+  burial:
+    place: "Lake View Cemetery   Interlaken, New York"
+marriages:
+  - date: 22 y. as of 1900 census
+    spouse:
+      givenName: Louise
+      surname: Wixom
+      birth:
+        date: 31 October 1855
+        place: "Covert, New York"
+      death:
+        date: 2 May 1927
+        place: New York
+      burial:
+        place: "Lake View Cemetery   Interlaken, New York"
+childrenGroups:
+  - children:
+      - name: Ernest W. Vining
+        entryId: ErnestW01
+        entryLetter: E
+        birth:
+          date: April 1882
+          place: New York
+        marriages:
+          - date: 3 y. as of 1910 census
+            spouse: "Catherine [&#8230;]"
+      - name: Florence M. Vining
+        birth:
+          date: February 1891
+          place: New York
+docsUrl: Psources/Philip02doc.htm
+raw: |-
+  <a name="Philip02"></a><font size=+2>Philip Vining</font>
+     (son of <a href="Efamilies.htm#ElishaW01">Elisha W. Vining and Adaline Drew</a>)
+     b. August 1856   New York
+     m. 22 y. as of 1900 census
+           Louise Wixom
+                 b. 31 October 1855   Covert, New York
+                 d. 2 May 1927   New York
+                       bur. Lake View Cemetery   Interlaken, New York
+     d. 21 October 1943
+           bur. Lake View Cemetery   Interlaken, New York
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#ErnestW01">Ernest W. Vining</a>   b. April 1882   New York   -   m. 3 y. as of 1910 census   Catherine [&#8230;]
+     Florence M. Vining   b. February 1891   New York
+  
+  <a href="Psources/Philip02doc.htm">documentation and notes</a>

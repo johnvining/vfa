@@ -1,0 +1,41 @@
+id: HullS01
+letter: H
+lastUpdated: 30 July 2022
+migrationNote: "Original HTML omitted bur. burial marker before burial place; added in new rendering."
+relationship: son
+parentId: CharlesS01
+parentLetter: C
+parentDesc: Charles Stewart Vining and Sara Harriett Smith
+head:
+  givenName: Hull Smith
+  birth:
+    date: 27 February 1912
+    place: Georgia
+  death:
+    date: 26 February 1988
+  burial:
+    place: "Southview Cemetery   Thomaston, Georgia"
+marriages:
+  - spouse:
+      givenName: Beth
+      surname: "[&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Stewart Vining
+        entryId: WilliamS03
+        entryLetter: W
+        birth:
+          date: 5 November 1944
+        death:
+          date: 23 November 2010
+raw: |-
+  <a name="HullS01"></a><font size=+2>Hull Smith Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesS01">Charles Stewart Vining and Sara Harriett Smith</a>)
+     b. 27 February 1912   Georgia
+     m. Beth [&#8230;]
+     d. 26 February 1988
+           Southview Cemetery   Thomaston, Georgia
+  
+  <font size=+1>child:</font>
+     <a href="Wfamilies.htm#WilliamS03">William Stewart Vining<a>   b. 5 November 1944   -   d. 23 November 2010

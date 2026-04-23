@@ -1,0 +1,98 @@
+id: HarryL02
+letter: H
+sequence: 502
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Harry Leroy
+  birth:
+    date: 1 September 1874
+    place: "Oak Harbor, Ohio"
+  death:
+    date: 27 February 1934
+    place: "Hennepin County, Minnesota"
+marriages:
+  - number: 1
+    date: Veta L. Turcott
+    spouse:
+      parents: "(dau. of Gerge Turcott and Augusta Dudley)"
+      birth:
+        date: 6 June 1880
+        place: "Tallmadge, Michigan"
+      death:
+        date: 2 May 1909
+        place: "Hennepin County, Minnesota"
+  - number: 2
+    date: Lucy A. Allard
+    spouse:
+      birth:
+        date: 3 October 1886
+        place: Minnesota
+      death:
+        date: 23 April 1955
+        place: "Hennepin County, Minnesota"
+childrenGroups:
+  - spouseRef: Veta L. Turcott
+    children:
+      - name: Leroy Albert Vining
+        entryId: LeroyA01
+        entryLetter: L
+        birth:
+          date: 14 July 1902
+          place: "Minneapolis, Minnesota"
+        marriages:
+          - number: 1
+            date: Clara Catherine Allard
+          - number: 2
+            date: Edna Mae Allard
+        death:
+          date: 5 October 1937
+          place: "Napa County, California"
+      - name: Earl Francis Vining
+        birth:
+          date: 17 December 1904
+          place: "Minneapolis, Minnesota"
+        death:
+          date: 9 December 1952
+          place: "Santa Barbara, California"
+      - name: Laura Mae Vining
+        birth:
+          date: 18 July 1907
+          place: Minnesota
+        marriages:
+          - date: Francis J. Stelter
+        note: "26 February 1983   Ramsey, Minnesota"
+  - headingText: "child by Lucy A. Allard"
+    children:
+      - name: Charles Jabin Vining
+        birth:
+          date: 26 February 1912
+          place: "Byron, Minnesota"
+        marriages:
+          - date: "Dorothy M. [&#8230;]"
+        death:
+          date: 3 May 1942
+          place: "Minneapolis, Minnesota"
+docsUrl: Hsources/HarryL02doc.htm
+raw: |-
+  <a name="HarryL02"></a><font size=+2>Harry Leroy Vining</font>
+     (son of [?])
+     b. 1 September 1874   Oak Harbor, Ohio
+     m. (1) Veta L. Turcott
+                    (dau. of Gerge Turcott and Augusta Dudley)
+                    b. 6 June 1880   Tallmadge, Michigan
+                    d. 2 May 1909   Hennepin County, Minnesota
+           (2) Lucy A. Allard
+                    b. 3 October 1886   Minnesota
+                    d. 23 April 1955   Hennepin County, Minnesota
+     d. 27 February 1934   Hennepin County, Minnesota
+  
+  <font size=+1>children by Veta L. Turcott:</font>
+     <a href="Lfamilies.htm#LeroyA01">Leroy Albert Vining</a>   b. 14 July 1902   Minneapolis, Minnesota   -   m. (1) Clara Catherine Allard;   (2) Edna Mae Allard   -   d. 5 October 1937   Napa County, California
+     Earl Francis Vining   b. 17 December 1904   Minneapolis, Minnesota   -   d. 9 December 1952   Santa Barbara, California
+     Laura Mae Vining   b. 18 July 1907   Minnesota   -   m. Francis J. Stelter   -   26 February 1983   Ramsey, Minnesota
+  <font size=+1>child by Lucy A. Allard:</font>
+     Charles Jabin Vining   b. 26 February 1912   Byron, Minnesota   -  m. Dorothy M. [&#8230;]   -   d. 3 May 1942   Minneapolis, Minnesota
+  
+  <a href="Hsources/HarryL02doc.htm">documentation and notes</a>

@@ -1,0 +1,59 @@
+id: JohnC05
+sequence: 214
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: Judson Hale Vining and Charlotte Elizabeth Alcox
+head:
+  givenName: John Colson
+  birth:
+    date: July 1870
+    place: Florida
+  death:
+    date: 28 December 1925
+    place: Florida
+marriages:
+  - date: "1891"
+    spouse:
+      givenName: Antoinette Criftine
+      surname: Thomas
+childrenGroups:
+  - children:
+      - name: Joseph Allen Vining
+        birth:
+          date: 18 October 1892
+          place: "Columbia County, Florida"
+        marriages:
+          - date: "Dora Delma W[&#8230;?]"
+        death:
+          date: 13 May 1951
+          place: "Jacksonville, Duval County, Florida"
+      - name: Edward Judson Vining
+        birth:
+          date: April 1895
+          place: Florida
+        death:
+          date: "1930"
+          place: Florida
+      - name: Jesse Emerson Vining
+        birth:
+          date: 26 December 1896
+        marriages:
+          - date: "1938"
+            place: "Duval County, Florida"
+            spouse: June Bunce Smith
+        death:
+          date: 8 September 1965
+          place: "Jacksonville, Duval County, Florida"
+raw: |-
+  <a name="JohnC05"></a><font size=+2>John Colson Vining</font>
+     (son of <a href="JudsonH01">Judson Hale Vining and Charlotte Elizabeth Alcox</a>)
+     b. July 1870   Florida
+     m. 1891
+           Antoinette Criftine Thomas
+     d. 28 December 1925   Florida
+  
+  <font size=+1>children:</font>
+     Joseph Allen Vining   b. 18 October 1892   Columbia County, Florida   -   m. Dora Delma W[&#8230;?]   d. 13 May 1951   Jacksonville, Duval County, Florida
+     Edward Judson Vining   b. April 1895   Florida   -   d. 1930   Florida
+     Jesse Emerson Vining   b. 26 December 1896   -   m. 1938   Duval County, Florida   June Bunce Smith   -   d. 8 September 1965   Jacksonville, Duval County, Florida

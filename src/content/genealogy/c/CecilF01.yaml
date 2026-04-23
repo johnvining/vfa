@@ -1,0 +1,45 @@
+id: CecilF01
+letter: C
+sequence: 28
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ErnestL01
+parentLetter: E
+parentDesc: Ernest L. Vining and Hattie M. Schoessow
+head:
+  givenName: Cecil Frank
+  birth:
+    date: 12 May 1910
+    place: "Walburg Township, Cass County, North Dakota"
+  death:
+    date: 23 August 1965
+    place: "Oroville, Okanogan County, Washington"
+marriages:
+  - spouse:
+      givenName: "[...]"
+      surname: Howe
+childrenGroups:
+  - children:
+      - name: Philip Frank Vining
+        entryId: PhilipF01
+        entryLetter: P
+        marriages:
+          - date: 28 May 1976
+            spouse: Cheryl Ann Morgan
+      - name: Jill Vining
+        entryId: Jill01
+        entryLetter: J
+        marriages:
+          - date: Mike Buchholz
+      - name: Ben Vining
+raw: |-
+  <a name="CecilF01"></a><font size=+2>Cecil Frank Vining</font>
+     (son of <a href="Efamilies.htm#ErnestL01">Ernest L. Vining and Hattie M. Schoessow</a>)
+     b. 12 May 1910   Walburg Township, Cass County, North Dakota
+     m. [...] Howe
+     d. 23 August 1965   Oroville, Okanogan County, Washington
+  
+  <font size=+1>children:</font>
+     <a href="Pfamilies.htm#PhilipF01">Philip Frank Vining</a>   -   m. 28 May 1976   Cheryl Ann Morgan
+     <a href="Jfamilies.htm#Jill01">Jill Vining</a>   -   m. Mike Buchholz
+     Ben Vining

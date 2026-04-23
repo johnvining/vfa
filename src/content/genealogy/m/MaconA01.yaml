@@ -1,0 +1,126 @@
+id: MaconA01
+sequence: 1
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JeffersonA01
+parentLetter: J
+parentDesc: Jefferson Ashley Vining and Mary Elizabeth Fry
+head:
+  givenName: Macon Abner
+  birth:
+    date: 18 February 1854  Alabama
+  death:
+    date: 23 February 1914
+    place: "Eufaula, Alabama"
+marriages:
+  - number: 1
+    date: 31 January 1878
+    place: "Eufaula, Alabama"
+    spouse:
+      givenName: Sarah Emma
+      surname: Averett
+      parents: "(dau. of Vinson Lafayette Averett and Rosannah Elizabeth Stephens)"
+      birth:
+        date: 9 April 1854
+        place: Georgia
+  - number: 2
+    date: Mary Belle Jones
+    spouse:
+      parents: "(dau. of Joseph Jones and Mattie Parker)"
+      birth:
+        date: 27 October 1867
+        place: "Eufaula, Alabama"
+      death:
+        date: 8 April 1926
+        place: "Eufaula, Alabama"
+      burial:
+        place: "Fairview Cemetery   Eufaula, Alabama"
+childrenGroups:
+  - headingText: "child by Emma Averett"
+    children:
+      - name: Dovia Vining
+        birth:
+          date: 2 February 1880
+          place: "Eufaula, Alabama"
+        marriages:
+          - date: 27 September 1902
+            place: Alabama
+            spouse: James Thad Standley
+        death:
+          date: 20 October 1962
+          place: Alabama
+  - spouseRef: Mary Belle Jones
+    children:
+      - name: Seth Macon Vining
+        entryId: SethM01
+        entryLetter: S
+        birth:
+          date: 30 June 1899
+          place: Alabama
+        marriages:
+          - date: Gladys Gibbs
+        death:
+          date: 11January 1987
+          place: "(last residence: Tryon, North Carolina)"
+        burial:
+          place: "Polk Memorial Gardens   Columbus, North Carolina"
+      - name: Guy Henry Vining
+        entryId: GuyH01
+        entryLetter: G
+        birth:
+          date: 12 September 1901
+          place: Alabama
+        marriages:
+          - date: Sarah Caroline Persons
+        death:
+          date: 20 July 1986
+          place: "(last residence: Hurtsboro, Alabama)   bur. Hurtsboro Cemetery   Hurtsboro, Russell County, Alabama"
+      - name: Bama Elizabeth Vining
+        birth:
+          date: 7 October 1903
+          place: Alabama
+        marriages:
+          - date: Joel D. Wilkes
+      - name: Charles Boyd Vining
+        entryId: CharlesB01
+        entryLetter: C
+        birth:
+          date: 30 September 1906
+          place: Alabama
+        marriages:
+          - date: Nell Cody
+        death:
+          date: January 1982
+          place: "(last residence: Eufaula, Alabama)"
+      - name: Katie Jewell Vining
+        birth:
+          date: 2 October 1908
+        death:
+          date: 6 July 1909
+docsUrl: Msources/MaconA01doc.htm
+raw: |-
+  <a name="MaconA01"></a><font size=+2>Macon Abner Vining</font>
+     (son of <a href="Jfamilies.htm#JeffersonA01">Jefferson Ashley Vining and Mary Elizabeth Fry</a>)
+     b. 18 February 1854  Alabama
+     m. (1) 31 January 1878   Eufaula, Alabama
+                 Sarah Emma Averett
+                       (dau. of Vinson Lafayette Averett and Rosannah Elizabeth Stephens)
+                       b. 9 April 1854   Georgia
+           (2) Mary Belle Jones
+                       (dau. of Joseph Jones and Mattie Parker)
+                       b. 27 October 1867   Eufaula, Alabama
+                       d. 8 April 1926   Eufaula, Alabama
+                             bur. Fairview Cemetery   Eufaula, Alabama
+     d. 23 February 1914   Eufaula, Alabama
+  
+  <font size=+1>child by Emma Averett:</font>
+     Dovia Vining   b. 2 February 1880   Eufaula, Alabama   -   m. 27 September 1902   Alabama   James Thad Standley   -   d. 20 October 1962   Alabama
+  <font size=+1>children by Mary Belle Jones</font>
+     <a href="Sfamilies.htm#SethM01">Seth Macon Vining</a>   b. 30 June 1899   Alabama   -   m. Gladys Gibbs   -   d. 11January 1987   (last residence: Tryon, North Carolina)   -   bur. Polk Memorial Gardens   Columbus, North Carolina
+     <a href="Gfamilies.htm#GuyH01">Guy Henry Vining</a>   b. 12 September 1901   Alabama   -   m. Sarah Caroline Persons   -   d. 20 July 1986   (last residence: Hurtsboro, Alabama)   bur. Hurtsboro Cemetery   Hurtsboro, Russell County, Alabama
+     Bama Elizabeth Vining   b. 7 October 1903   Alabama   -   m. Joel D. Wilkes
+     <a href="Cfamilies.htm#CharlesB01">Charles Boyd Vining</a>   b. 30 September 1906   Alabama   -   m. Nell Cody   -   d. January 1982   (last residence: Eufaula, Alabama)
+     Katie Jewell Vining   b. 2 October 1908   -   d. 6 July 1909
+  
+  <a href="Msources/MaconA01doc.htm">documentation and notes</a>

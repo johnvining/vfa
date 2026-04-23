@@ -1,0 +1,117 @@
+id: London01
+title: London Vining - Millie [...]
+sections:
+  - type: notes
+    text: >-
+      Because this is a black family, the 1870 census is likely the first of the decennial censuses to report them.
+      Given the duplication of ages and arrangement of names in the census record, there may be two families here.
+      Consistent with this hypothesis is that Susan and Andrew were the sole members of a household in the 1880 census,
+      but their ages are lower that expected given the data of the 1870 census.
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: London Vining
+          values:
+            - "?"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Millie ([...]) Vining
+          values:
+            - "?"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Margaret Vining
+          values:
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Henry Vining
+          values:
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ella Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Adeline Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ann Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Susan Vining
+          values:
+            - "?"
+            - "10"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Andrew Vining
+          values:
+            - ""
+            - "7"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Red River Township, Little River County, Arkansas - dwelling 291, family 383
+        images:
+          - src: London01census1870a.jpg
+          - src: London01census1870b.jpg
+      - year: "1880"
+        caption: District 267, Sevier County, Arkansas - dwelling 53, family 60
+        images:
+          - src: London01census1880.jpg

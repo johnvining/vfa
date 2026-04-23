@@ -1,0 +1,56 @@
+id: George11
+letter: G
+sequence: 4
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George
+  birth:
+    date: age 35 y. as of 1870 census
+    place: South Carolina
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: "[...]"
+      birth:
+        date: age 32 y. as of 1870 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: John Vining
+        birth:
+          date: age 12 y. as of 1870 census
+          place: Florida
+      - name: Thomas Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Florida
+      - name: Susan Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Florida
+      - name: "Sylv[i]a Vining"
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Florida
+      - name: Richard Vining
+        birth:
+          date: May 1870
+          place: Florida
+docsUrl: Gsources/George11doc.htm
+raw: |-
+  <a name="George11"></a><font size=+2>George Vining</font>
+     (son of [?])
+     b. age 35 y. as of 1870 census   South Carolina
+     m. Elizabeth [...]
+              b. age 32 y. as of 1870 census   Georgia
+  
+  <font size=+1>children:</font>
+     John Vining   b. age 12 y. as of 1870 census   Florida
+     Thomas Vining   b. age 8 y. as of 1870 census   Florida
+     Susan Vining   b. age 4 y. as of 1870 census   Florida
+     Sylv[i]a Vining   b. age 2 y. as of 1870 census   Florida
+     Richard Vining   b. May 1870   Florida
+  
+  <a href="Gsources/George11doc.htm">documentation and notes</a>

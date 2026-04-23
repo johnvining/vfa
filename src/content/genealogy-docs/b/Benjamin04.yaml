@@ -1,0 +1,92 @@
+id: Benjamin04
+title: Benjamin Vining - (1) Hannah Merrill, (2) Rhoda Barnes
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: Benjamin Vining
+          values:
+            - M 26–45
+            - M 30–40
+            - M 40–50
+            - "56"
+            - "68"
+            - dead
+        - label: Hannah (Merrill) Vining
+          values:
+            - F 45 and older
+            - F 40–50
+            - "[see note below]"
+            - "58"
+            - "[dead?]"
+            - ""
+        - label: Rhoda (Barnes) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "60"
+            - |-
+              72
+              [see note below]
+        - label: John Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: Durham, Cumberland County [Durham is now in Androscoggin County], Maine
+        images:
+          - src: Benjamin04census1820.jpg
+      - year: "1830"
+        caption: Wales, Lincoln County [Wales is now in Androscoggin County], Maine
+        images:
+          - src: Benjamin04census1830.jpg
+      - year: "1840"
+        caption: >-
+          Wales, Kennebec County [Wales is now in Androscoggin County], Maine. Hannah (Merrill) Vining was either "F
+          20–30" or "F 50–60" in the 1840 census, likely the latter given her age reported in the 1850 census.
+        images:
+          - src: Benjamin04census1840.jpg
+      - year: "1850"
+        caption: Wales, Kennebec County [Wales is now in Androscoggin County], Maine - dwelling 94, family 103
+        images:
+          - src: Benjamin04census1850.jpg
+      - year: "1860"
+        caption: Wales, Androscoggin County, Maine - dwelling 215, family 224
+        images:
+          - src: Benjamin04census1860a.jpg
+          - src: Benjamin04census1860b.jpg
+      - year: "1870"
+        caption: >-
+          Wales, Androscoggin County, Maine - dwelling 24, family 25. In 1870, Rhoda Vining was a housekeeper in the
+          household of a William P. Bond and family.
+        images:
+          - src: Benjamin04census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Cemetery lot for Benjamin Vining's family, in Pond Cemetery, Wales, Maine. Left to right, the stones belong to
+          Rhoda (2nd wife), John (son), Hannah (1st wife), ? [a small rough natural stone], Benjamin, and George W.
+          Purington. Purington's stone was included in the picture because of its proximity to Benjamin's stone and
+          because it may be of genealogical importance. Following the image of the cemetery lot are images of the
+          individual gravestones (except for the natural stone and the stone of George W. Purington).
+        images:
+          - src: Benjamin04cemeterylot.jpg
+          - src: Benjamin04gravestone.jpg
+          - src: Benjamin04wifeHannahgravest.jpg
+          - src: Benjamin04wifeRhodagravest.jpg
+          - src: Benjamin04sonJohngravestone.jpg

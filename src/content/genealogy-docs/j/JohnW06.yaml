@@ -1,0 +1,31 @@
+id: JohnW06
+title: John Wesley Vining - Georgia Mae [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: John Wesley Vining
+          values:
+            - "23"
+        - label: Georgia Mae ([…]) Vining
+          values:
+            - "21"
+        - label: Beverly Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Macon, Bibb County, Georgia
+        images:
+          - src: JohnW06census1940.jpg
+  - type: census
+  - type: other
+    items:
+      - caption: >-
+          Gravestone for John Wesley Vining, in Forsyth City Cemetery, Forsyth, Monroe County, Georgia (from Find A
+          Grave)
+        images:
+          - src: JohnW06gravestone.jpg

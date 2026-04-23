@@ -1,0 +1,66 @@
+id: GeorgeT01
+letter: G
+sequence: 41
+lastUpdated: 22 July 2022
+relationship: son
+parentId: OtisS01
+parentLetter: O
+parentDesc: Otis Smith Vining and Minerva A. Stover
+head:
+  givenName: George Thomas
+  birth:
+    date: 2 December 1856
+    place: "Durham, Maine"
+  death:
+    date: 13 January 1896
+    place: "Jay, Maine"
+  burial:
+    place: "Jay Hill Cemetery   Jay, Maine"
+marriages:
+  - date: 12 May 1878
+    spouse:
+      givenName: Harriet T.
+      surname: Foster
+      birth:
+        date: 10 August 1852
+      death:
+        date: 2 April 1925
+      burial:
+        place: "Jay Hill Cemetery   Jay, Maine"
+childrenGroups:
+  - children:
+      - name: Annie B. Vining
+        birth:
+          date: age 1 y. as of 1880 census
+          place: Maine
+      - name: Alton Clayton Vining
+        birth:
+          date: "age 63 y., 6 m., 21 d. at death"
+          place: "Lisbon, Maine"
+        marriages:
+          - date: 28 May 1912
+            place: "Conway, New Hampshire"
+            spouse: Margaret G. Vaughan
+        death:
+          date: 21 May 1944
+          place: "Conway, New Hampshire"
+      - name: Sarah W. Vining
+docsUrl: Gsources/GeorgeT01doc.htm
+raw: |-
+  <a name="GeorgeT01"></a><font size=+2>George Thomas Vining</font>
+     (son of <a href="Ofamilies.htm#OtisS01">Otis Smith Vining and Minerva A. Stover</a>)
+     b. 2 December 1856   Durham, Maine
+     m. 12 May 1878
+           Harriet T. Foster
+                 b. 10 August 1852
+                 d. 2 April 1925
+                       bur. Jay Hill Cemetery   Jay, Maine
+     d. 13 January 1896   Jay, Maine
+           bur. Jay Hill Cemetery   Jay, Maine
+  
+  <font size=+1>children:</font>
+     Annie B. Vining   b. age 1 y. as of 1880 census   Maine
+     Alton Clayton Vining   b. age 63 y., 6 m., 21 d. at death   Lisbon, Maine   -   m. 28 May 1912   Conway, New Hampshire   Margaret G. Vaughan   -   d. 21 May 1944   Conway, New Hampshire
+     Sarah W. Vining
+  
+  <a href="Gsources/GeorgeT01doc.htm">documentation and notes</a>

@@ -1,0 +1,45 @@
+id: ClydeF01
+letter: C
+sequence: 148
+lastUpdated: 25 February 2023
+relationship: son
+parentId: IsaacE02
+parentLetter: I
+parentDesc: Isaac Edwin Vining and Mary Elizabeth Osborn
+head:
+  givenName: Clyde F.
+  birth:
+    date: 3 September 1878
+    place: "New Sharon, Iowa"
+  death:
+    date: 23 March 1905
+    place: "Fort Collins, Colorado"
+  burial:
+    place: "Grandview Cemetery   Fort Collins, Colorado"
+marriages:
+  - date: 2 December 1902
+    spouse:
+      givenName: Abbie
+      surname: Draughn
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Clyde F. Vining Jr.
+        birth:
+          date: 23 September 1904
+        death:
+          date: 19 March 1905
+docsUrl: Csources/ClydeF01doc.htm
+raw: |-
+  <a name="ClydeF01"></a><font size=+2>Clyde F. Vining</font>
+     (son of <a href="Ifamilies.htm#IsaacE02">Isaac Edwin Vining and Mary Elizabeth Osborn</a>)
+     b. 3 September 1878   New Sharon, Iowa
+     m. 2 December 1902
+           Abbie Draughn
+     d. 23 March 1905   Fort Collins, Colorado
+           bur. Grandview Cemetery   Fort Collins, Colorado
+  
+  <font size=+1>child:</font>
+     Clyde F. Vining Jr.   b. 23 September 1904   -   d. 19 March 1905
+  
+  <a href="Csources/ClydeF01doc.htm">documentation and notes</a>

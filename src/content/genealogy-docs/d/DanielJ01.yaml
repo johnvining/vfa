@@ -1,0 +1,60 @@
+id: DanielJ01
+title: Daniel J. Vining - (1) Edith [A. or B. ?] Springer, (2) Victoria [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Daniel J. Vining
+          values:
+            - "33"
+            - "42"
+            - "54"
+            - "65"
+            - "?"
+        - label: Edith [A. or B. ?] (Springer) Vining
+          values:
+            - "21"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Victoria ([...]) Vining
+          values:
+            - ""
+            - "19"
+            - "29"
+            - "?"
+            - "?"
+        - label: John J. Vining
+          values:
+            - "3"
+            - "14"
+            - living in separate household
+            - "33"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Perry Township, Putnam County, Ohio - dwelling 364, family 371
+        images:
+          - src: DanielJ01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Jackson Township, Putnam County, Ohio - dwelling 106, family 113. Also living in this household in 1910 was
+          Angeline L. Vining (66 y., b. Pennsylvania), the mother of Daniel J. Vining.
+        images:
+          - src: DanielJ01census1910.jpg
+      - year: "1920"
+        caption: St. Mary's (ward 4), Auglaize County, Ohio - dwelling 138, family 141
+        images:
+          - src: DanielJ01census1920.jpg
+      - year: "1930"
+        caption: Pleasant Township, Marion County, Ohio - dwelling 173, family 185
+        images:
+          - src: DanielJ01census1930.jpg

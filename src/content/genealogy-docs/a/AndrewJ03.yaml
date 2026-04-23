@@ -1,0 +1,62 @@
+id: AndrewJ03
+title: Andrew J. Vining - Rosace L. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Andrew J. Vining
+          values:
+            - "38"
+            - "48"
+            - "?"
+        - label: Rosace L. ([...]) Vining
+          values:
+            - "30"
+            - "46"
+            - "?"
+        - label: Earl Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+          indent: true
+        - label: J. D. Vining
+          values:
+            - 4 y., 9 m.
+            - "14"
+            - "?"
+          indent: true
+        - label: Andrew Vining
+          values:
+            - 2 y., 4 m.
+            - "12"
+            - "?"
+          indent: true
+        - label: Presley Vining
+          values:
+            - 3 m.
+            - "10"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Kingdom (precinct 1), Bibb County, Georgia - dwelling 22, family 23. Also living in this household in 1920 was
+          Ben Vining (24 y., b. Alabama), a brother of Andrew J. Vining.
+        images:
+          - src: AndrewJ03census1920.jpg
+      - year: "1930"
+        caption: Bessemer (ward 5), Jefferson County, Alabama - dwelling 277, family 283
+        images:
+          - src: AndrewJ03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Presley Vining, son of Andrew J. Vining and Rosace L. ([…]) Vining, in Pine View Memorial
+          Gardens, Wetumpka, Elmore County, Alabama (from Find A Grave):
+        images:
+          - src: AndrewJ03sonPresleygravestone.jpg

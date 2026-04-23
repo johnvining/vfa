@@ -1,0 +1,68 @@
+id: FredE01
+title: Fred Earnest Vining - Minnie Frances Payne
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Fred Earnest Vining
+          values:
+            - "30"
+            - "41"
+            - "47"
+            - "55"
+        - label: Minnie Frances (Payne) Vining
+          values:
+            - "22"
+            - "32"
+            - "40"
+            - "47"
+        - label: Fred Earnest Vining Jr.
+          values:
+            - "2"
+            - "11"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Raymond Vining
+          values:
+            - 1 m.
+            - "9"
+            - "19"
+            - "[living? in separate household]"
+          indent: true
+        - label: Paul Christopher Vining
+          values:
+            - ""
+            - 5 m.
+            - "10"
+            - "19"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Pine Bluff (ward 3), Jefferson County, Arkansas - dwelling 215, family 221
+        images:
+          - src: FredE01census1910.jpg
+      - year: "1920"
+        caption: Pine Bluff (ward 3), Jefferson County, Arkansas - dwelling 243, family 267
+        images:
+          - src: FredE01census1920.jpg
+      - year: "1930"
+        caption: Greenwood, Leflore County, Mississippi - dwelling 154, family 179
+        images:
+          - src: FredE01census1930.jpg
+      - year: "1940"
+        caption: Greenwood, Leflore County, Mississippi
+        images:
+          - src: FredE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Fred Earnest Vining, in Bellwood Cemetery Annex, Pine Bluff, Jefferson County, Arkansas (from
+          Find A Grave):
+        images:
+          - src: FredE01gravestone.jpg

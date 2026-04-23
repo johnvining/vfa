@@ -1,0 +1,55 @@
+id: JeffersonL01
+sequence: 124
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: OwenG01
+parentLetter: O
+parentDesc: Owen Green Vining and Mary Eula Reiner
+head:
+  givenName: Jefferson Lee
+  birth:
+    date: 20 May 1930
+    place: "Pearson, Georgia"
+  death:
+    date: 23 November 2017
+  burial:
+    place: "Jones Cemetery   Callahan, Florida"
+marriages:
+  - spouse:
+      givenName: Sarah Louise
+      surname: Burch
+childrenGroups:
+  - children:
+      - name: Randy Vining
+      - name: Brenda Vining
+        marriages:
+          - date: "[&#8230;] Hosick"
+      - name: Jefferson Lee Vining Jr.
+      - name: John Vining
+      - name: Marty Kevin Vining
+        entryId: MartyK01
+        entryLetter: M
+        birth:
+          date: 8 January 1964
+          place: "Jacksonville, Florida"
+        death:
+          date: 3 January 2018
+          place: "Brunswick, Georgia"
+docsUrl: Jsources/JeffersonL01doc.htm
+raw: |-
+  <a name="JeffersonL01"></a><font size=+2>Jefferson Lee Vining</font>
+     (son of <a href="Ofamilies.htm#OwenG01">Owen Green Vining and Mary Eula Reiner</a>)
+     b. 20 May 1930   Pearson, Georgia
+     m. Sarah Louise Burch
+     d. 23 November 2017
+           bur. Jones Cemetery   Callahan, Florida
+  
+  <font size=+1>children</font>
+     Randy Vining
+     Brenda Vining   m. [&#8230;] Hosick
+     Jefferson Lee Vining Jr.
+     John Vining
+     <a href="Mfamilies.htm#MartyK01">Marty Kevin Vining</a>   b. 8 January 1964   Jacksonville, Florida   -   d. 3 January 2018   Brunswick, Georgia
+  
+  <a href="Jsources/JeffersonL01doc.htm">documentation and notes</a>

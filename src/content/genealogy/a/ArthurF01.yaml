@@ -1,0 +1,64 @@
+id: ArthurF01
+letter: A
+sequence: 88
+lastUpdated: 1 February 2021
+relationship: son
+parentId: WinfieldS01
+parentLetter: W
+parentDesc: Winfield Scott Vining and Estelle Miles
+head:
+  givenName: Arthur F.
+  birth:
+    date: 9 March 1870
+    place: New York
+  death:
+    date: 5 June 1932
+  burial:
+    place: "Windham Cemetery   Windham, Greene County, New York"
+marriages:
+  - spouse:
+      givenName: Ada H.
+      surname: Peck
+      birth:
+        date: 22 April 1882
+        place: New York
+      death:
+        date: February 1978
+        place: "(last residence: Hensonville, Greene County, New York)"
+      burial:
+        place: "Windham Cemetery   Windham, Greene County, New York"
+childrenGroups:
+  - children:
+      - name: Eleanor E. Vining
+        birth:
+          date: 11 February 1916
+          place: "Utica, Oneida County, New York"
+        marriages:
+          - date: 18 July 1936
+            place: Pennsylvania
+            spouse: Jack Brownley Best
+        death:
+          date: 28 September 2001
+          place: "Cape Girardeau [County?], Missouri"
+        burial:
+          place: "Lorimer Cemetery   Cape Girardeau [County?], Missouri"
+      - name: son
+      - name: son
+docsUrl: Asources/ArthurF01doc.htm
+raw: |-
+  <a name="ArthurF01"></a><font size="+2">Arthur F. Vining</font>
+     (son of <a href="Wfamilies.htm#WinfieldS01">Winfield Scott Vining and Estelle Miles</a>)
+     b. 9 March 1870   New York
+     m. Ada H. Peck
+              b. 22 April 1882   New York
+              d. February 1978   (last residence: Hensonville, Greene County, New York)
+                    bur. Windham Cemetery   Windham, Greene County, New York
+     d. 5 June 1932
+           bur. Windham Cemetery   Windham, Greene County, New York
+  
+  <font size="+1">children:</font>
+     Eleanor E. Vining   b. 11 February 1916   Utica, Oneida County, New York   -   m. 18 July 1936   Pennsylvania   Jack Brownley Best   -   d. 28 September 2001   Cape Girardeau [County?], Missouri   -   bur. Lorimer Cemetery   Cape Girardeau [County?], Missouri
+     son
+     son
+  
+  <a href="Asources/ArthurF01doc.htm">documentation and notes</a>

@@ -1,0 +1,72 @@
+id: AlbertJ01
+letter: A
+sequence: 28
+lastUpdated: 1 February 2021
+relationship: son
+parentId: BenjaminL02
+parentLetter: B
+parentDesc: "Benjamin L. Vining and Esther [Kellyhouse or Callyhouse?]"
+head:
+  givenName: Albert J.
+  birth:
+    date: 12 October 1900
+    place: "Taylor, Cortland County, New York"
+  death:
+    date: 23 May 1966
+    place: "Cortland, New York"
+  burial:
+    place: "Cortland Rural Cemetery   Cortland [County?], New York"
+marriages:
+  - date: 5 October 1922
+    place: "Cincinnatus, Cortland, New York"
+    spouse:
+      givenName: Beatrice C.
+      surname: Sherwood
+      birth:
+        date: 12 March 1904
+        place: "Smithville, Chenango County, New York"
+      death:
+        date: 9 January 1967
+        place: "Cortland [County?], New York"
+      burial:
+        place: "Glenwood Cemetery   Homer, Cortland County, New York"
+childrenGroups:
+  - children:
+      - name: Albert J. Vining
+        entryId: AlbertJ02
+        birth:
+          date: age 63 y. at death
+          place: "Cincinnatus, Cortland County, New York"
+        marriages:
+          - date: Sharon Crowder
+        death:
+          date: 7 August 2016
+          place: "Syracuse, Onondaga, New York"
+        burial:
+          place: "Riverview Cemetery   Baldwinsville, Onondaga County, New York"
+      - name: daughter
+        marriages:
+          - date: Gordon Larson
+      - name: daughter
+        marriages:
+          - date: George Wall
+      - name: Beverly Vining
+        marriages:
+          - date: Charles Christiansen
+raw: |-
+  <a name="AlbertJ01"></a><font size="+2">Albert J. Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminL02">Benjamin L. Vining and Esther [Kellyhouse or Callyhouse?]</a>)
+     b. 12 October 1900   Taylor, Cortland County, New York
+     m. 5 October 1922   Cincinnatus, Cortland, New York
+           Beatrice C. Sherwood
+                 b. 12 March 1904   Smithville, Chenango County, New York
+                 d. 9 January 1967   Cortland [County?], New York
+                       bur. Glenwood Cemetery   Homer, Cortland County, New York
+     d. 23 May 1966   Cortland, New York
+        bur. Cortland Rural Cemetery   Cortland [County?], New York
+  
+  <font size="+1">children:</font>
+     <a href="#AlbertJ02">Albert J. Vining</a>   b. age 63 y. at death   Cincinnatus, Cortland County, New York   -   m. Sharon Crowder   -   d. 7 August 2016   Syracuse, Onondaga, New York   -   bur. Riverview Cemetery   Baldwinsville, Onondaga County, New York
+     daughter   m. Gordon Larson
+     daughter   m. George Wall
+     Beverly Vining   m. Charles Christiansen

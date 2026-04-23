@@ -1,0 +1,42 @@
+id: CharlesE07
+title: Charles Elton Vining - Marie Pearl Breyton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Elton Vining
+          values:
+            - "25"
+            - "37"
+            - "46"
+        - label: Marie Pearl (Breyton) Vining
+          values:
+            - "24"
+            - "35"
+            - "45"
+        - label: Josephine J. Vining
+          values:
+            - "6"
+            - "16"
+            - "26"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Bennington, Wyoming County, New York - dwelling 214, family 216. Also living in this household in 1920 were
+          Cora E. Breyton (65, b. Michigan), the widowed mother of Marie Pearl (Breyton) Vining, and hired man Joseph
+          Ka[e?]len (55, b. Switzerland).
+        images:
+          - src: CharlesE07census1920.jpg
+      - year: "1930"
+        caption: Columbia Township, Jackson County, Michigan - dwelling 51, family 58
+        images:
+          - src: CharlesE07census1930.jpg
+      - year: "1940"
+        caption: Ormond (precinct 7), Volusia County, Florida
+        images:
+          - src: CharlesE07census1940.jpg

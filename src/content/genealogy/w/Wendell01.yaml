@@ -1,0 +1,47 @@
+id: Wendell01
+sequence: 40
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: VirgilG01
+parentLetter: V
+parentDesc: Virgil Gordon Vining and Mary Thomas
+head:
+  givenName: Wendell
+  birth:
+    date: 22 October 1932
+    place: "Wadsworth, Ohio"
+marriages:
+  - date: 8 December 1952
+    spouse:
+      givenName: Mary
+      surname: Mills
+      parents: "(dau. of Martin Mills and Tressa […])"
+      birth:
+        date: 22 December 1925
+        place: Ohio
+      death:
+        date: 3 July 2016
+childrenGroups:
+  - children:
+      - name: Vicki Vining
+        marriages:
+          - date: Paul Kinnaman
+      - name: Jean Vining
+        marriages:
+          - date: Kevin Hollier
+docsUrl: Wsources/Wendell01doc.htm
+raw: |-
+  <a name="Wendell01"></a><font size=+2>Wendell Vining</font>
+     (son of <a href="Vfamilies.htm#VirgilG01">Virgil Gordon Vining and Mary Thomas</a>)
+     b. 22 October 1932   Wadsworth, Ohio
+     m. 8 December 1952
+           Mary Mills
+                 (dau. of Martin Mills and Tressa [&#8230;])
+                 b. 22 December 1925   Ohio
+                 d. 3 July 2016
+  <font size=+1>children:</font>
+     Vicki Vining   m. Paul Kinnaman
+     Jean Vining   m. Kevin Hollier
+  
+  <a href="Wsources/Wendell01doc.htm">documentation and notes</a>

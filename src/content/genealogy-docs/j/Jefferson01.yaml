@@ -1,0 +1,81 @@
+id: Jefferson01
+title: Jefferson Vining - Elizabeth M. Fraser [Frazer?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Jefferson Vining
+          values:
+            - "39"
+            - "49"
+            - dead
+        - label: Elizabeth M. ([Fraser or Frazer?]) Vining
+          values:
+            - "34"
+            - "42"
+            - "?"
+        - label: Clara M. Vining
+          values:
+            - "10"
+            - "20"
+            - "?"
+          indent: true
+        - label: Emily Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+          indent: true
+        - label: Edmund Pendleton Vining
+          values:
+            - "6"
+            - "16"
+            - married and living in separate household
+          indent: true
+        - label: "[Almina or Almira] E. Vining"
+          values:
+            - "3"
+            - "12"
+            - "?"
+          indent: true
+        - label: Effie C. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+          indent: true
+        - label: Festus G. Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+          indent: true
+        - label: William P. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Kankakee, Kankakee County, Illinois - dwelling 461, family 419. Also living in this household in 1860 were
+          Stephen Pardy (19 y., b. Ohio, a boarder), Joseph Mor[...]ble (21 y., b. Canada, a farm laborer), Ramon
+          [...]on (30 y., b. Ohio, a farm laborer), and Loisa Mor[...]ble (18 y., b. Canada, a domestic).
+        images:
+          - src: Jefferson01census1860.jpg
+      - year: "1870"
+        caption: Otto, Kankakee County, Illinois - dwelling 16, family 16
+        images:
+          - src: Jefferson01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Jefferson Vining, in Mound Grove Cemetery, Kankakee, Kankakee County, Illinois (from Find A
+          Grave):
+        images:
+          - src: Jefferson01gravestone.jpg

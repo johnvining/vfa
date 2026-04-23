@@ -1,0 +1,74 @@
+id: AlbertNJr01
+letter: A
+sequence: 35
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AlbertN01
+parentDesc: Albert Nelson Vining and Helen Louise Meserve
+head:
+  givenName: Albert Nelson Jr.
+  birth:
+    date: 30 July 1911
+    place: "Biddeford, York County, Maine"
+  death:
+    date: 9 July 2013
+  burial:
+    place: "Pine Grove Cemetery   Falmouth, Cumberland County, Maine"
+marriages:
+  - date: 29 October 1938
+    place: "Sanford, York County, Maine"
+    spouse:
+      givenName: Mary Elodia
+      surname: Landry
+      parents: (dau. of Alphie J. Landry and Lucy M. Doiron)
+      birth:
+        date: 10 June 1915
+        place: "Portland, Cumberland County, Maine"
+      death:
+        date: 3 August 2000
+        place: "Falmouth, Cumberland County, Maine"
+      burial:
+        place: "Pine Grove Cemetery   Falmouth, Cumberland County, Maine"
+childrenGroups:
+  - children:
+      - name: Clifford Albert Vining
+        entryId: CliffordA01
+        entryLetter: C
+        birth:
+          date: 29 July 1939
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - number: 1
+            date: 1 October 1961
+            spouse: Sally Frances Parker (d. 18 August 1997)
+          - number: 2
+            date: 28 September 2002
+            spouse: Anne M. Dugas
+      - name: Donald Alan Vining
+        entryId: DonaldA02
+        entryLetter: D
+        birth:
+          date: 16 November 1942
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: 12 June 1965
+            spouse: Joan Frances Morgan
+docsUrl: Asources/AlbertNJr01doc.htm
+raw: |-
+  <a name="AlbertNJr01"></a><font size="+2">Albert Nelson Vining Jr.</font>
+     (son of <a href="#AlbertN01">Albert Nelson Vining and Helen Louise Meserve</a>)
+     b. 30 July 1911   Biddeford, York County, Maine
+     m. 29 October 1938   Sanford, York County, Maine
+           Mary Elodia Landry
+                 (dau. of Alphie J. Landry and Lucy M. Doiron)
+                 b. 10 June 1915   Portland, Cumberland County, Maine
+                 d. 3 August 2000   Falmouth, Cumberland County, Maine
+                       bur. Pine Grove Cemetery   Falmouth, Cumberland County, Maine
+     d. 9 July 2013
+           bur. Pine Grove Cemetery   Falmouth, Cumberland County, Maine
+  
+  <font size="+1">children:</font>
+     <a href="Cfamilies.htm#CliffordA01">Clifford Albert Vining</a>   b. 29 July 1939   Portland, Cumberland County, Maine   -   m. (1) 1 October 1961   Sally Frances Parker (d. 18 August 1997);   (2) 28 September 2002   Anne M. Dugas
+     <a href="Dfamilies.htm#DonaldA02">Donald Alan Vining</a>   b. 16 November 1942   Portland, Cumberland County, Maine   -   m. 12 June 1965   Joan Frances Morgan
+  
+  <a href="Asources/AlbertNJr01doc.htm">documentation and notes</a>

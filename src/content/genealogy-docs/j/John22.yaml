@@ -1,0 +1,97 @@
+id: John22
+title: John Vining - Sarah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: John Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah ([...]) Vining
+          values:
+            - "?"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Phalalah Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jane Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Benjamin Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Louisa Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joanah Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: West Side of Cahaba River, Bibb County, Alabama - dwelling 245, family 237
+        images:
+          - src: John22census1860.jpg

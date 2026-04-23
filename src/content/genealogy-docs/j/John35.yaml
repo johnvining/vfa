@@ -1,0 +1,70 @@
+id: John35
+title: John Vining - Aurelia [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: John Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Aurelia ([...]) Vining
+          values:
+            - "26"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Alcee Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alcide Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alida Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Victoria Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Ward 2, Saint Martin Parish, Louisiana - no dwelling number, no family number
+        images:
+          - src: John35census1880.jpg

@@ -1,0 +1,55 @@
+id: John36
+title: John Vining - Etta [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Etta ([...]) Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Joseph Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edward Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jesse Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Palestine (precinct 3), Bradford County, Florida - dwelling 285, family 285
+        images:
+          - src: John36census1900.jpg

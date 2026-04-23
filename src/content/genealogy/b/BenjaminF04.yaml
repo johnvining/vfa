@@ -1,0 +1,115 @@
+id: BenjaminF04
+letter: B
+sequence: 30
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AlbertG02
+parentLetter: A
+parentDesc: Albert Gallatin Vining and Elizabeth Ann Gerrard
+head:
+  givenName: Benjamin Franklin
+  birth:
+    date: 2 June 1834
+    place: Georgia
+  death:
+    date: 26 October 1914
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+marriages:
+  - date: 28 November 1867
+    place: "Rusk, Cherokee County, Texas"
+    spouse:
+      givenName: Lucinda Catherine
+      surname: Pearson
+      parents: "(dau. of George Pearson and [&#8230;])"
+      birth:
+        date: 17 February 1864
+        place: Texas
+      death:
+        date: 20 January 1928
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+childrenGroups:
+  - children:
+      - name: Charles Albert Vining
+        entryId: CharlesA05
+        entryLetter: C
+        birth:
+          date: 8 November 1870
+          place: Texas
+        marriages:
+          - date: 14 September 1892
+            spouse: Harriet Alice H. Roten
+        death:
+          date: 26 April 1903
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: George Albert Vining
+        entryId: GeorgeA01
+        entryLetter: G
+        birth:
+          date: 8 November 1870
+          place: Texas
+        marriages:
+          - date: 28 February 1894
+            spouse: Ruby Lee Roten
+      - name: William Eddington Vining
+        entryId: WilliamE03
+        entryLetter: W
+        birth:
+          date: "[2 or 3?] June 1874"
+          place: "Rusk, Cherokee County, Texas"
+        marriages:
+          - date: 25 October 1896
+            place: "Rusk, Cherokee County, Texas"
+            spouse: Laura Kieffer Tannery
+        death:
+          date: 14 July 1961
+          place: "Alto, Cherokee County, Texas"
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: Benjamin Wallace Vining
+        entryId: BenjaminW01
+        birth:
+          date: April 1880
+          place: "Rusk, Cherokee County, Texas"
+        marriages:
+          - date: Pet Katherine Grant
+        death:
+          date: 24 May 1924
+          place: "Dallas, Dallas County, Texas"
+        burial:
+          place: "Oakwood Cemetery   Waco, McLennan County, Texas"
+      - name: Janett Vining
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: "sons [Shadrack and John?]"
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: (child) Vining
+        death:
+          date: before 1900 census
+docsUrl: Bsources/BenjaminF04doc.htm
+raw: |-
+  <a name="BenjaminF04"></a><font size=+2>Benjamin Franklin Vining</font>
+     (son of <a href="Afamilies.htm#AlbertG02">Albert Gallatin Vining and Elizabeth Ann Gerrard</a>)
+     b. 2 June 1834   Georgia
+     m. 28 November 1867   Rusk, Cherokee County, Texas
+           Lucinda Catherine Pearson
+                 (dau. of George Pearson and [&#8230;])
+                 b. 17 February 1864   Texas
+                 d. 20 January 1928
+                       bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     d. 26 October 1914
+           bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#CharlesA05">Charles Albert Vining</a>   b. 8 November 1870   Texas   -   m. 14 September 1892   Harriet Alice H. Roten   -   d. 26 April 1903   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     <a href="Gfamilies.htm#GeorgeA01">George Albert Vining</a>   b. 8 November 1870   Texas   -   m. 28 February 1894   Ruby Lee Roten
+     <a href="Wfamilies.htm#WilliamE03">William Eddington Vining</a>   b. [2 or 3?] June 1874   Rusk, Cherokee County, Texas   -   m. 25 October 1896   Rusk, Cherokee County, Texas   Laura Kieffer Tannery   -   d. 14 July 1961   Alto, Cherokee County, Texas   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     <a href="#BenjaminW01">Benjamin Wallace Vining</a>   b. April 1880   Rusk, Cherokee County, Texas   -   m. Pet Katherine Grant   -   d. 24 May 1924   Dallas, Dallas County, Texas   -   bur. Oakwood Cemetery   Waco, McLennan County, Texas
+     Janett Vining   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     sons [Shadrack and John?]   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     (child) Vining   d. before 1900 census
+  
+  <a href="Bsources/BenjaminF04doc.htm">documentation and notes</a>

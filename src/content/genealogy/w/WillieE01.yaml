@@ -1,0 +1,62 @@
+id: WillieE01
+sequence: 144
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ClarenceE02
+parentLetter: C
+parentDesc: Clarence Eugene Vining and Elva Mae Waters
+head:
+  givenName: Willie Earl
+  birth:
+    date: 31 August 1929
+    place: "Choudrant, Lincoln Parish, Louisiana"
+  death:
+    date: 6 July 2009
+    place: "Ruston, Lincoln Parish, Louisiana"
+  burial:
+    place: "Forest Lawn Memorial Park   Ruston, Louisiana"
+marriages:
+  - spouse:
+      givenName: Vyonnell
+      surname: Brazzel
+      parents: "(dau. of John Nolan Brazzel and Nancy G. Smith)"
+      birth:
+        date: 18 May 1927
+      death:
+        date: 21 October 2009
+      burial:
+        place: "Forest Lawn Memorial Park   ruston, Louisiana"
+childrenGroups:
+  - children:
+      - name: Steven Earl Vining
+        entryId: StevenE03
+        entryLetter: S
+        birth:
+          date: 19 March 1963
+          place: "Shreveport, Louisiana"
+        marriages:
+          - date: "Laurie [Holcomb?]"
+        death:
+          date: 19 November 2013
+        burial:
+          place: "Forest Lawn Memorial Park   Ruston, Lincoln Parish, Louisiana"
+      - name: Nanette Vining
+docsUrl: Wsources/WillieE01doc.htm
+raw: |-
+  <a name="WillieE01"></a><font size=+2>Willie Earl Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceE02">Clarence Eugene Vining and Elva Mae Waters</a>)
+     b. 31 August 1929   Choudrant, Lincoln Parish, Louisiana
+     m. Vyonnell Brazzel
+              (dau. of John Nolan Brazzel and Nancy G. Smith)
+              b. 18 May 1927
+              d. 21 October 2009
+                    bur. Forest Lawn Memorial Park   ruston, Louisiana
+     d. 6 July 2009   Ruston, Lincoln Parish, Louisiana
+           bur. Forest Lawn Memorial Park   Ruston, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="Sfamilies.htm#StevenE03">Steven Earl Vining</a>   b. 19 March 1963   Shreveport, Louisiana   -   m. Laurie [Holcomb?]   -   d. 19 November 2013   -   bur. Forest Lawn Memorial Park   Ruston, Lincoln Parish, Louisiana
+     Nanette Vining
+  
+  <a href="Wsources/WillieE01doc.htm">documentation and notes</a>

@@ -1,0 +1,89 @@
+id: WilliamR02
+sequence: 132
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ElamA01
+parentLetter: E
+parentDesc: Elam Allen Vining and Hannah Palmer
+head:
+  givenName: William Reynolds
+  birth:
+    date: 5 April 1829
+    place: "Delaware County, Ohio"
+  death:
+    date: 3 March 1899
+  burial:
+    place: "Maple Grove Cemetery   Oregon, Holt County, Missouri"
+marriages:
+  - date: "[16 or 17?] October 1850"
+    spouse:
+      givenName: Martha G.
+      surname: May
+      parents: "(dau. of Asa May and Bernice Barker)"
+      birth:
+        date: 29 April 1826
+        place: "[Ohio or Chenango County, New York?]"
+      death:
+        date: 12 July 1905
+        place: "Oregon, Holt County, Missouri"
+      burial:
+        place: "Maple Grove Cemetery   Oregon, Holt County, Missouri"
+childrenGroups:
+  - children:
+      - name: Elnora F. Vining
+        birth:
+          date: March 1852
+          place: Ohio
+        marriages:
+          - date: 16 y. as of 1900 census
+            spouse: "William [...] Keeble"
+      - name: Charles Oliver Vining
+        entryId: CharlesO01
+        entryLetter: C
+        birth:
+          date: 14 August 1854
+          place: Ohio
+        marriages:
+          - date: 24 December 1876
+            place: Missouri
+            spouse: Susan M. Noland
+        death:
+          date: 26 October 1896
+          place: "Corning, Kansas"
+        burial:
+          place: "Corning Cemetery   Corning, Kansas"
+      - name: Lillian Martha Vining
+        birth:
+          date: 22 August 1857
+          place: "Delaware County, Ohio"
+        marriages:
+          - date: Linville Carroll
+        death:
+          date: 23 November 1926
+          place: "Oregon, Holt County, Missouri"
+      - name: Orilla Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Missouri
+docsUrl: Wsources/WilliamR02doc.htm
+raw: |-
+  <a name="WilliamR02"></a><font size=+2>William Reynolds Vining</font>
+     (son of <a href="Efamilies.htm#ElamA01">Elam Allen Vining and Hannah Palmer</a>)
+     b. 5 April 1829   Delaware County, Ohio
+     m. [16 or 17?] October 1850
+           Martha G. May
+                 (dau. of Asa May and Bernice Barker)
+                 b. 29 April 1826   [Ohio or Chenango County, New York?]
+                 d. 12 July 1905   Oregon, Holt County, Missouri
+                       bur. Maple Grove Cemetery   Oregon, Holt County, Missouri
+     d. 3 March 1899
+           bur. Maple Grove Cemetery   Oregon, Holt County, Missouri
+  
+  <font size=+1>children:</font>
+     Elnora F. Vining   b. March 1852   Ohio   -   m. 16 y. as of 1900 census   William [...] Keeble
+     <a href="Cfamilies.htm#CharlesO01">Charles Oliver Vining</a>   b. 14 August 1854   Ohio   -   m. 24 December 1876   Missouri   Susan M. Noland   -   d. 26 October 1896   Corning, Kansas   -   bur Corning Cemetery   Corning, Kansas
+     Lillian Martha Vining   b. 22 August 1857   Delaware County, Ohio   -   m. Linville Carroll   -   d. 23 November 1926   Oregon, Holt County, Missouri
+     Orilla Vining   b. age 8 y. as of 1870 census   Missouri
+  
+  <a href="Wsources/WilliamR02doc.htm">documentation and notes</a>

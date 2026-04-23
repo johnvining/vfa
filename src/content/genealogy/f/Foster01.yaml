@@ -1,0 +1,50 @@
+id: Foster01
+sequence: 7
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Ward01
+parentLetter: W
+parentDesc: Ward Vining and Jane Cecelia Reed
+head:
+  givenName: Foster
+  birth:
+    date: 6 April 1862
+    place: "Southwick, Massachusetts"
+  death:
+    date: "1939"
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
+marriages:
+  - date: 28 March 1888
+    spouse:
+      givenName: Ida Eliza
+      surname: Allen
+      birth:
+        date: "1851"
+        place: Connecticut
+      death:
+        date: "1945"
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: child Vining
+docsUrl: Fsources/Foster01doc.htm
+raw: |-
+  <a name="Foster01"></a><font size=+2>Foster Vining</font>
+     (son of <a href="Wfamilies.htm#Ward01">Ward Vining and Jane Cecelia Reed</a>)
+     b. 6 April 1862   Southwick, Massachusetts
+     m. 28 March 1888
+           Ida Eliza Allen
+                 b. 1851   Connecticut
+                 d. 1945
+                       bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 1939
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>child:</font>
+     child Vining
+  
+  <a href="Fsources/Foster01doc.htm">documentation and notes</a>

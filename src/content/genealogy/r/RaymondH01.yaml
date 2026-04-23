@@ -1,0 +1,65 @@
+id: RaymondH01
+sequence: 22
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ThomasR01
+parentLetter: T
+parentDesc: Thomas Raymond Vining and Gertrude Michaelson
+head:
+  givenName: Raymond Harris
+  birth:
+    date: 27 November 1912
+    place: "Chetek, Wisconsin"
+  death:
+    date: 14 April 1998
+    place: "(last residence: Hill City, South Dakota)"
+  burial:
+    place: "Ethan Hillcrest Cemetery   Ethan, South Dakota"
+marriages:
+  - date: 31 March 1935
+    spouse:
+      givenName: Velma Ruth
+      surname: Ashley
+      birth:
+        date: "1918"
+      death:
+        date: "1996"
+      burial:
+        place: "Ethan Hillcrest Cemetery   Ethan, South Dakota"
+childrenGroups:
+  - children:
+      - name: Shirley Vining
+        birth:
+          date: 2 June 1936
+        marriages:
+          - number: 1
+            date: 26 November 1954
+            spouse: "David Fougner,   divorced February 1967"
+          - number: 2
+            date: 22 November 1967
+            spouse: Ronald Jackson
+      - name: Carolyn Vining
+        birth:
+          date: 23 March 1939
+        marriages:
+          - date: 5 June 1961
+            spouse: Robert Greenfield
+docsUrl: Rsources/RaymondH01doc.htm
+raw: |-
+  <a name="RaymondH01"></a><font size=+2>Raymond Harris Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasR01">Thomas Raymond Vining and Gertrude Michaelson</a>)
+     b. 27 November 1912   Chetek, Wisconsin
+     m. 31 March 1935
+           Velma Ruth Ashley
+                 b. 1918
+                 d. 1996
+                       bur. Ethan Hillcrest Cemetery   Ethan, South Dakota
+     d. 14 April 1998   (last residence: Hill City, South Dakota)
+           bur. Ethan Hillcrest Cemetery   Ethan, South Dakota
+  
+  <font size=+1>children:</font>
+     Shirley Vining   b. 2 June 1936   -   m. (1) 26 November 1954   David Fougner,   divorced February 1967;   (2) 22 November 1967   Ronald Jackson
+     Carolyn Vining   b. 23 March 1939   -   m. 5 June 1961   Robert Greenfield
+  
+  <a href="Rsources/RaymondH01doc.htm">documentation and notes</a>

@@ -1,0 +1,41 @@
+id: DouglasN01
+sequence: 95
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WilliamH05
+parentLetter: W
+parentDesc: William Henry Vining and Sarah Louella Kitchen (adopted as Louella Wescott)
+head:
+  givenName: Douglas Nathan
+  birth:
+    date: 29 March 1919
+    place: "Munising, Michigan"
+  death:
+    date: 25 December 1994
+    place: "(last residence: White Cloud, Michigan)"
+marriages:
+  - date: 6 May 1943
+    place: "St. Louis, Missouri"
+    spouse:
+      givenName: Julia
+      surname: Jarosvewski
+childrenGroups:
+  - children:
+      - name: "Douglas Micheal [sic] Vining"
+        birth:
+          date: 4 September 1946
+      - name: Donna Jean Vining
+        birth:
+          date: 6 September 1961
+raw: |-
+  <a name="DouglasN01"></a><font size=+2>Douglas Nathan Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamH05">William Henry Vining and Sarah Louella Kitchen (adopted as Louella Wescott)</a>)
+     b. 29 March 1919   Munising, Michigan
+     m. 6 May 1943   St. Louis, Missouri
+           Julia Jarosvewski
+     d. 25 December 1994   (last residence: White Cloud, Michigan)
+  
+  <font size=+1>children:</font>
+     Douglas Micheal [sic] Vining   b. 4 September 1946
+     Donna Jean Vining   b. 6 September 1961

@@ -1,0 +1,108 @@
+id: LeonardJ01
+sequence: 43
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: WillardB01
+parentLetter: W
+parentDesc: Willard B. Vining and Jessie Hitchcock
+head:
+  givenName: Leonard John
+  birth:
+    date: 17 September 1903
+  death:
+    date: October 1976
+    place: "(last residence: Maplecrest, New York)"
+  burial:
+    place: "Maplecrest Cemetery   Windham, New York"
+marriages:
+  - number: 1
+    date: Louise Chatfield
+    spouse:
+      birth:
+        date: "1900"
+      death:
+        date: "1938"
+  - number: 2
+    date: Marguerite Frasier
+    spouse:
+      birth:
+        date: 13 February 1922
+      death:
+        date: 3 May 1997
+        place: "(last residence: Maplecrest, New York)"
+childrenGroups:
+  - spouseRef: Louise Chatfield
+    children:
+      - name: Leonard John Vining Jr.
+        entryId: LeonardJJr01
+        entryLetter: L
+        birth:
+          date: 23 November 1928
+        marriages:
+          - date: 3 June 1947
+            spouse: Mariam Aletha Wiers
+      - name: Herbert Edward Vining
+        birth:
+          date: 7 April 1932
+        death:
+          date: July 1932
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+      - name: Gilbert L. Vining
+        entryId: GilbertL01
+        entryLetter: G
+        birth:
+          date: 10 January 1934
+        marriages:
+          - date: Roberta Jean Daugherty
+      - name: Burdette C. Vining
+        entryId: BurdetteC01
+        entryLetter: B
+        birth:
+          date: 20 September 1935
+        marriages:
+          - date: Mary Woodward
+        death:
+          date: "1963"
+          place: "Maplecrest, New York"
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+  - spouseRef: Marguerite Frasier
+    children:
+      - name: Wesley Vining
+        entryId: Wesley01
+        entryLetter: W
+        birth:
+          date: 19 July 1940
+        marriages:
+          - date: Mary Van Valin
+      - name: David Vining
+        birth:
+          date: 29 September 1942
+        death:
+          date: "1955"
+docsUrl: Lsources/LeonardJ01doc.htm
+raw: |-
+  <a name="LeonardJ01"></a><font size=+2>Leonard John Vining</font>
+     (son of <a href="Wfamilies.htm#WillardB01">Willard B. Vining and Jessie Hitchcock</a>)
+     b. 17 September 1903
+     m. (1) Louise Chatfield
+                    b. 1900
+                    d. 1938
+           (2) Marguerite Frasier
+                    b. 13 February 1922
+                    d. 3 May 1997   (last residence: Maplecrest, New York)
+     d. October 1976   (last residence: Maplecrest, New York)
+           bur. Maplecrest Cemetery   Windham, New York
+  
+  <font size=+1>children by Louise Chatfield:</font>
+     <a href="Lfamilies.htm#LeonardJJr01">Leonard John Vining Jr.</a>   b. 23 November 1928   -   m. 3 June 1947   Mariam Aletha Wiers
+     Herbert Edward Vining   b. 7 April 1932   -   d. July 1932   -   bur. Maplecrest Cemetery   Windham, New York
+     <a href="Gfamilies.htm#GilbertL01">Gilbert L. Vining</a>   b. 10 January 1934   -   m. Roberta Jean Daugherty
+     <a href="Bfamilies.htm#BurdetteC01">Burdette C. Vining</a>   b. 20 September 1935   -   m. Mary Woodward   -   d. 1963   Maplecrest, New York   -   bur. Maplecrest Cemetery   Windham, New York
+  <font size=+1>children by Marguerite Frasier:</font>
+     <a href="Wfamilies.htm#Wesley01">Wesley Vining</a>   b. 19 July 1940   -   m. Mary Van Valin
+     David Vining   b. 29 September 1942   -   d. 1955
+  
+  <a href="Lsources/LeonardJ01doc.htm">documentation and notes</a>

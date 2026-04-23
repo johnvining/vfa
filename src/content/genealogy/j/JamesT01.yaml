@@ -1,0 +1,132 @@
+id: JamesT01
+sequence: 98
+letter: J
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML omitted d. death marker before child William George Washington Anderson's death date; added in new rendering."
+relationship: son
+parentId: Elem01
+parentLetter: E
+parentDesc: Elem Vining and Sarah Carter
+head:
+  givenName: James Thomas
+  birth:
+    date: "[1814 or 1815?]"
+    place: "Delaware, Ohio"
+  death:
+    date: May 1850
+    place: Ohio
+marriages:
+  - date: "[7 March or 21 April?] 1838"
+    spouse:
+      givenName: Philena
+      surname: Durfey
+      parents: (dau. of Ebenezer Durfey and Celinda Carter)
+      birth:
+        date: 7 March 1815
+        place: Rhode Island
+      death:
+        date: 30 April 1891
+        place: "Delaware, Ohio"
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
+childrenGroups:
+  - children:
+      - name: Roxanna Vining
+        birth:
+          date: "1839"
+        marriages:
+          - date: John C. Young
+        death:
+          date: 28 September 1904
+      - name: Rufus Vining
+        entryId: Rufus02
+        entryLetter: R
+        birth:
+          date: 13 June 1840
+          place: Ohio
+        marriages:
+          - date: 3 July 1863
+            place: "Delaware, Ohio"
+            spouse: Julia Gentleman
+        death:
+          date: 7 August 1921
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: Reuben Vining
+        entryId: Reuben02
+        entryLetter: R
+        birth:
+          date: 13 June 1840
+          place: "Delaware, Ohio"
+        marriages:
+          - date: "1864"
+            spouse: Mrs. Maria Louisa Sackett
+        death:
+          date: 4 September 1899
+          place: "Jasper, Minnesota"
+      - name: Charles Vining
+        birth:
+          date: "1843"
+          place: Ohio
+        death:
+          date: 8 May 1864
+          place: "Fredericksburg, Virginia"
+      - name: Alma P. Vining
+        birth:
+          date: 30 May 1844
+        marriages:
+          - date: William George Washington Anderson
+        death:
+          date: 4 May 1918
+          place: "Oskaloosa, Iowa"
+      - name: Thomas Patterson Vining
+        entryId: ThomasP02
+        entryLetter: T
+        birth:
+          date: 4 July 1846
+          place: "Delaware, Ohio"
+        marriages:
+          - number: 1
+            date: 3 October 1867
+            spouse: Cynthia Fritz
+          - number: 2
+            date: Elnora Baker Laurence
+        death:
+          date: 14 September 1924
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: James Thomas Vining Jr.
+        entryId: JamesTJr01
+        birth:
+          date: "[June?] 1850"
+          place: Ohio
+        marriages:
+          - date: 31 y. as of 1900 census
+            spouse: Christena Shoub
+        death:
+          date: 9 December 1924
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+docsUrl: Jsources/JamesT01doc.htm
+raw: |-
+  <a name="JamesT01"></a><font size=+2>James Thomas Vining</font>
+     (son of <a href="Efamilies.htm#Elem01">Elem Vining and Sarah Carter</a>)
+     b. [1814 or 1815?]   Delaware, Ohio
+     m. [7 March or 21 April?] 1838
+           Philena Durfey
+                 (dau. of Ebenezer Durfey and Celinda Carter)
+                 b. 7 March 1815   Rhode Island
+                 d. 30 April 1891   Delaware, Ohio
+                       bur. Oak Grove Cemetery   Delaware, Ohio
+     d. May 1850   Ohio
+  
+  <font size=+1>children:</font>
+     Roxanna Vining   b. 1839   -   m. John C. Young   -   d. 28 September 1904
+     <a href="Rfamilies.htm#Rufus02">Rufus Vining</a>   b. 13 June 1840   Ohio   -   m. 3 July 1863   Delaware, Ohio   Julia Gentleman   -   d. 7 August 1921   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     <a href="Rfamilies.htm#Reuben02">Reuben Vining</a>   b. 13 June 1840   Delaware, Ohio   -   m. 1864   Mrs. Maria Louisa Sackett   -   d. 4 September 1899   Jasper, Minnesota
+     Charles Vining   b. 1843   Ohio   -   d. 8 May 1864   Fredericksburg, Virginia
+     Alma P. Vining   b. 30 May 1844   -   m. William George Washington Anderson   -   4 May 1918   Oskaloosa, Iowa
+     <a href="Tfamilies.htm#ThomasP02">Thomas Patterson Vining</a>   b. 4 July 1846   Delaware, Ohio   -   m. (1) 3 October 1867   Cynthia Fritz;   (2) Elnora Baker Laurence   -   d. 14 September 1924   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     <a href="#JamesTJr01">James Thomas Vining Jr.</a>   b. [June?] 1850   Ohio   -   m. 31 y. as of 1900 census   Christena Shoub   -   d. 9 December 1924   -   bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <a href="Jsources/JamesT01doc.htm">documentation and notes</a>

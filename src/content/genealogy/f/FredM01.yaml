@@ -1,0 +1,87 @@
+id: FredM01
+sequence: 52
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Thomas15
+parentLetter: T
+parentDesc: "Thomas Vining and Fannie E. [&#8230;]"
+head:
+  givenName: Fred M.
+  birth:
+    date: "1897"
+    place: Arkansas
+  death:
+    date: "1958"
+  burial:
+    place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+marriages:
+  - spouse:
+      givenName: Carrie C.
+      surname: Bono
+      birth:
+        date: "1896"
+        place: Arkansas
+      death:
+        date: "1956"
+      burial:
+        place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+childrenGroups:
+  - children:
+      - name: Fred M. Vining Jr.
+        birth:
+          date: 30 April 1918
+          place: Arkansas
+        marriages:
+          - date: 20 October 1940
+            spouse: Alice Powers
+        death:
+          date: 24 December 1986
+        burial:
+          place: "Magnet Cove Cemetery   Magnet Cove, Arkansas"
+      - name: Neil Bono Vining
+        birth:
+          date: 25 September 1919
+          place: Arkansas
+        death:
+          date: 28 December 1990
+        burial:
+          place: "Varnell Cemetery   Rison, Arkansas"
+      - name: Lois Beatrice Vining
+        birth:
+          date: "1921"
+          place: "[Arkansas?]"
+        death:
+          date: "1923"
+        burial:
+          place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+      - name: Richard Vining
+        birth:
+          date: age 7 y. as of 1940 census
+          place: Arkansas
+      - name: Robert O. Vining
+        birth:
+          date: "1934"
+          place: Arkansas
+        death:
+          date: "2004"
+docsUrl: Fsources/FredM01doc.htm
+raw: |-
+  <a name="FredM01"></a><font size=+2>Fred M. Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas15">Thomas Vining and Fannie E. [&#8230;]</a>)
+     b. 1897   Arkansas
+     m. Carrie C. Bono
+              b. 1896   Arkansas
+              d. 1956
+                    bur. Bellwood Cemetery Annex   Pine Bluff, Arkansas
+     d. 1958
+           bur. Bellwood Cemetery Annex   Pine Bluff, Arkansas
+  
+  <font size=+1>children:</font>
+     Fred M. Vining Jr.   b. 30 April 1918   Arkansas   -   m. 20 October 1940   Alice Powers   -   d. 24 December 1986   -   bur. Magnet Cove Cemetery   Magnet Cove, Arkansas
+     Neil Bono Vining   b. 25 September 1919   Arkansas   -   d. 28 December 1990   -   bur. Varnell Cemetery   Rison, Arkansas
+     Lois Beatrice Vining   b. 1921   [Arkansas?]   -   d. 1923   -   bur. Bellwood Cemetery Annex   Pine Bluff, Arkansas
+     Richard Vining   b. age 7 y. as of 1940 census   Arkansas
+     Robert O. Vining   b. 1934   Arkansas   -   d. 2004
+  
+  <a href="Fsources/FredM01doc.htm">documentation and notes</a>

@@ -1,0 +1,76 @@
+id: JacobW01
+sequence: 11
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: SethW01
+parentLetter: S
+parentDesc: "Seth Wyman Vining and Sarah A. [&#8230;]"
+head:
+  givenName: Jacob Winslow
+  birth:
+    date: age 1 y. as of 1850 census
+    place: Massachusetts
+marriages:
+  - number: 1
+    date: Cecelia M. Gilman
+    spouse:
+      birth:
+        date: age 27 y. as of 1880 census
+        place: Massachusetts
+  - number: 2
+    date: Florence A. Ryder
+    spouse:
+      parents: "(dau. of [&#8230;] Ryder and Florence A. B. [&#8230;])"
+      birth:
+        date: September 1870
+        place: Massachusetts
+childrenGroups:
+  - headingText: "child by Cecelia M. Gilman"
+    children:
+      - name: David Miller Vining
+        entryId: DavidM03
+        entryLetter: D
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Massachusetts
+        marriages:
+          - date: "1900"
+            place: "Beverly, Massachusetts"
+            spouse: Ada Emma Wilkinson
+  - spouseRef: Florence A. Ryder
+    children:
+      - name: Winnifred C. Vining
+        birth:
+          date: November 1896
+          place: Massachusetts
+      - name: Philip Brooks Vining
+        entryId: PhilipB01
+        entryLetter: P
+        birth:
+          date: "1901"
+          place: Massachusetts
+        marriages:
+          - date: "Louise [&#8230;]"
+        death:
+          date: "1952"
+        burial:
+          place: "Forest Glade Cemetery   Wakefield, Middlesex County, Massachusetts"
+docsUrl: Jsources/JacobW01doc.htm
+raw: |-
+  <a name="JacobW01"></a><font size=+2>Jacob Winslow Vining</font>
+     (son of <a href="Sfamilies.htm#SethW01">Seth Wyman Vining and Sarah A. [&#8230;]</a>)
+     b. age 1 y. as of 1850 census   Massachusetts
+     m. (1) Cecelia M. Gilman
+                    b. age 27 y. as of 1880 census   Massachusetts
+           (2) Florence A. Ryder
+                    (dau. of [&#8230;] Ryder and Florence A. B. [&#8230;]
+                    b. September 1870   Massachusetts
+
+  <font size=+1>child by Cecelia M. Gilman:</font>
+     <a href="Dfamilies.htm#DavidM03">David Miller Vining</a>   b. age 3 y. as of 1880 census   Massachusetts   -   m. 1900   Beverly, Massachusetts   Ada Emma Wilkinson
+  <font size=+1>children by Florence A. Ryder:</font>
+     Winnifred C. Vining   b. November 1896   Massachusetts
+     <a href="Pfamilies.htm#PhilipB01">Philip Brooks Vining</a>   b. 1901   Massachusetts   -   m. Louise [&#8230;]   -   d. 1952   -   bur. Forest Glade Cemetery   Wakefield, Middlesex County, Massachusetts
+
+  <a href="Jsources/JacobW01doc.htm">documentation and notes</a>

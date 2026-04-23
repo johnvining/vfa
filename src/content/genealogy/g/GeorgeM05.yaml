@@ -1,0 +1,87 @@
+id: GeorgeM05
+letter: G
+sequence: 32
+lastUpdated: 22 July 2022
+relationship: son
+parentId: CosbyL02
+parentLetter: C
+parentDesc: Cosby L. Vining and Martha Hudson
+head:
+  givenName: George M. Troop
+  birth:
+    date: "1835"
+    place: Georgia
+  death:
+    date: 10 October 1890
+    place: "Wichita Falls, Texas"
+marriages:
+  - spouse:
+      givenName: Lucy M.
+      surname: Moseley
+      birth:
+        date: age 17 y. as of 1860 census
+        place: Tennessee
+childrenGroups:
+  - children:
+      - name: Teresa A. Vining
+        birth:
+          date: age 4 m. as of 1860 census
+          place: Texas
+      - name: Jefferson T. Vining
+        entryId: JeffersonT01
+        entryLetter: J
+        birth:
+          date: 13 November 1861
+          place: Texas
+        marriages:
+          - date: Sarah Young
+        death:
+          date: 22 November 1953
+        burial:
+          place: "Masonic Cemetery   McMinnville, Oregon"
+      - name: OR
+      - name: Jeff Lee Vining
+        entryId: JeffL01
+        entryLetter: J
+        birth:
+          date: "1863"
+          place: Texas
+        marriages:
+          - date: Bettie Rees
+        death:
+          date: "1945"
+        burial:
+          place: "Austin Memorial Park Cemetery   Austin, Texas"
+      - name: "Mary J. &#8220;Molly&#8221; Vining"
+        birth:
+          date: age 5 y. as of 1870 census
+          place: Texas
+      - name: "William [H. or A.?] Vining"
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Texas
+      - name: Laura E. Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Texas
+docsUrl: Gsources/GeorgeM05doc.htm
+raw: |-
+  <a name="GeorgeM05"></a><font size=+2>George M. Troop Vining</font>
+     (son of <a href="Cfamilies.htm#CosbyL02">Cosby L. Vining and Martha Hudson</a>)
+     b. 1835   Georgia
+     m. Lucy M. Moseley
+              b. age 17 y. as of 1860 census   Tennessee
+     d. 10 October 1890   Wichita Falls, Texas
+  
+  <font size=+1>children:</font>
+     Teresa A. Vining   b. age 4 m. as of 1860 census   Texas
+  
+     <a href="Jfamilies.htm#JeffersonT01">Jefferson T. Vining</a>   b. 13 November 1861   Texas   -   m. Sarah Young   -   d. 22 November 1953   -   bur. Masonic Cemetery   McMinnville, Oregon
+           OR
+     <a href="Jfamilies.htm#JeffL01">Jeff Lee Vining</a>   b. 1863   Texas   -   m. Bettie Rees   -   d. 1945   -   bur. Austin Memorial Park Cemetery   Austin, Texas
+  
+     Mary J. &#8220;Molly&#8221; Vining   b. age 5 y. as of 1870 census   Texas
+     William [H. or A.?] Vining   b. age 4 y. as of 1870 census   Texas
+     Laura E. Vining   b. age 2 y. as of 1870 census   Texas
+  
+  <a href="Gsources/GeorgeM05doc.htm">documentation and notes</a>

@@ -1,0 +1,66 @@
+id: GuyE02
+title: Guy E. Vining - Lavere M. Johnson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Guy E. Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+        - label: Lavere M. (Johnson) Vining
+          values:
+            - "24"
+            - "34"
+            - "44"
+        - label: Dorothy Vining
+          values:
+            - 3 y., 9 m.
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Robert E. Vining
+          values:
+            - 1 y., 8 m.
+            - "12"
+            - "22"
+          indent: true
+        - label: Theodore C. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Joe A. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Saratoga Township, Pratt County, Kansas - dwelling 99, family 101
+        images:
+          - src: GuyE02census1920.jpg
+      - year: "1930"
+        caption: Horton, Brown County, Kansas - dwelling 223, family 232
+        images:
+          - src: GuyE02census1930.jpg
+      - year: "1940"
+        caption: Horton, Brown County, Kansas
+        images:
+          - src: GuyE02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Guy E. Vining and Lavere M. (Johnson) Vining, in Horton Cemetery, Horton, Brown County, Kansas
+          (from Find A Grave):
+        images:
+          - src: GuyE02gravestone.jpg
+          - src: GuyE02wifegravestone.jpg
+        inline: true

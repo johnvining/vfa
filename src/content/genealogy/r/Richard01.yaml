@@ -1,0 +1,107 @@
+id: Richard01
+sequence: 37
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: John03
+parentLetter: J
+parentDesc: John Vining and Elizabeth Richards
+head:
+  givenName: Richard
+  birth:
+    date: 12 September 1715
+    place: "Weymouth, Massachusetts"
+  death:
+    date: before August 1800
+    place: "Weymouth, Massachusetts"
+marriages:
+  - date: 17 February 1736/37
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Lydia
+      surname: Allen
+      birth:
+        date: 9 February 1716
+        place: "Braintree, Massachusetts"
+      death:
+        date: 8 August 1800
+        place: "Weymouth, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Mehitable Vining
+        birth:
+          date: 9 August 1738
+          place: "Weymouth, Massachusetts"
+      - name: David Vining
+        entryId: David01
+        entryLetter: D
+        birth:
+          date: 25 September 1740
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - number: 1
+            date: 23 December 1762
+            place: "Weymouth, Massachusetts"
+            spouse: Lydia Torrey
+          - number: 2
+            date: 23 May 1790
+            place: "Weymouth, Massachusetts"
+            spouse: Mary Vining
+        death:
+          date: 1 July 1830
+          place: "Weymouth, Massachusetts"
+      - name: John Vining
+        birth:
+          date: "Weymouth, Massachusetts"
+        note: bapt. 1748
+      - name: Hitty Vining
+        birth:
+          date: 13 October 1751
+          place: "Weymouth, Massachusetts"
+      - name: Hitty Vining
+        birth:
+          date: 24 November 1752
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: int. 25 October 1771
+            place: "Weymouth, Massachusetts"
+            spouse: Samuel Holbrook
+      - name: Lydia Vining
+        birth:
+          date: bapt. 3 June 1759
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 25 June 1778
+            place: "[Abington or Weymouth?], Massachusetts"
+            spouse: Josiah Lovell
+      - name: Nehemiah Vining
+        entryId: Nehemiah01
+        entryLetter: N
+        birth:
+          date: 3 July 1765
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: int. 19 November 1785
+            place: "Weymouth, Massachusetts"
+            spouse: Deborah Ward
+        death:
+          date: 10 August 1795
+          place: "Weymouth, Massachusetts"
+raw: |-
+  <a name="Richard01"></a><font size=+2>Richard Vining</font>
+     (son of <a href="Jfamilies.htm#John03">John Vining and Elizabeth Richards</a>)
+     b. 12 September 1715   Weymouth, Massachusetts
+     m. 17 February 1736/37   Weymouth, Massachusetts
+           Lydia Allen
+                 b. 9 February 1716   Braintree, Massachusetts
+                 d. 8 August 1800   Weymouth, Massachusetts
+     d. before August 1800   Weymouth, Massachusetts
+  
+  <font size=+1>children:</font>
+     Mehitable Vining   b. 9 August 1738   Weymouth, Massachusetts
+     <a href="Dfamilies.htm#David01">David Vining</a>   b. 25 September 1740   Weymouth, Massachusetts   -   m. (1) 23 December 1762   Weymouth, Massachusetts   Lydia Torrey;    (2) 23 May 1790   Weymouth, Massachusetts   Mary Vining   -   d. 1 July 1830   Weymouth, Massachusetts
+     John Vining   b. Weymouth, Massachusetts   -   bapt. 1748
+     Hitty Vining   b. 13 October 1751   Weymouth, Massachusetts
+     Hitty Vining   b. 24 November 1752   Weymouth, Massachusetts   -   m. int. 25 October 1771   Weymouth, Massachusetts   Samuel Holbrook
+     Lydia Vining   bapt. 3 June 1759   Weymouth, Massachusetts   -   m. 25 June 1778   [Abington or Weymouth?], Massachusetts   Josiah Lovell
+     <a href="Nfamilies.htm#Nehemiah01">Nehemiah Vining</a>   b. 3 July 1765   Weymouth, Massachusetts   -   m. int. 19 November 1785   Weymouth, Massachusetts   Deborah Ward   -   d. 10 August 1795   Weymouth, Massachusetts

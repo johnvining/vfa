@@ -1,0 +1,144 @@
+id: Ward01
+title: Ward Vining - Jane Cecelia Reed
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Ward Vining
+          values:
+            - "23"
+            - "34"
+            - "43"
+            - "54"
+            - "?"
+            - "?"
+        - label: Jane Cecelia (Reed) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "55"
+            - "?"
+            - "?"
+        - label: Gertrude Amaret Vining
+          values:
+            - "4"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jasper Ward Vining
+          values:
+            - "2"
+            - "12"
+            - living in separate household
+            - "32"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mortimer Jay Vining
+          values:
+            - 0 m.
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Lester Reed Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Morton Moore Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+            - "[see note below]"
+            - ""
+            - ""
+          indent: true
+        - label: "[Jennie or Jane?] Sarah Vining"
+          values:
+            - ""
+            - "2"
+            - "12"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Etta Cecelia Vining
+          values:
+            - ""
+            - 7 m.
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Foster Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: Hattie May Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 42, family 45
+        images:
+          - src: Ward01census1850.jpg
+      - year: "1860"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 74, family 71
+        images:
+          - src: Ward01census1860.jpg
+      - year: "1870"
+        caption: Granby, Hartford County, Connecticut - dwelling 176, family 166
+        images:
+          - src: Ward01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - Also living in this household in 1880 was John Cowles (66 y., b.
+          Connecticut). In 1880, Morton Moore Vining was living with a Skinner family in Southwick, Hampden County,
+          Massachusetts. That family was composed of Mary Jane Skinner (mother, 40 y.), Ida L. Skinner (daughter, 15 y.,
+          likely the "Luella Skinner" that Morton Moore Vining married in 1881), Frank S. Skinner (son, 10 y.), Mary S.
+          Skinner (daughter, 7 y.), and Charles E. Skinner (son, 5 y.). In 1880, Foster Vining was a servant in the
+          household of an Isaac T. Webb family in Southwick, Massachusetts.
+        images:
+          - src: Ward01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Ward Vining and Jane Cecelia (Reed) Vining, in Southwick Cemetery, Southwick, Hampden County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: Ward01gravestone.jpg
+          - src: Ward01wifegravestone.jpg
+        inline: true

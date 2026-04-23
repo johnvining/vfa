@@ -1,0 +1,71 @@
+id: Evy01
+title: Evy Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Evy Vining
+          values:
+            - "20"
+            - 40 [sic]
+            - "?"
+        - label: Mary ([…]) Vining
+          values:
+            - "21"
+            - "31"
+            - "?"
+        - label: Mabel Vining
+          values:
+            - "3"
+            - "13"
+            - "?"
+          indent: true
+        - label: Augusten Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+          indent: true
+        - label: John Vining
+          values:
+            - 1 m.
+            - "10"
+            - "?"
+          indent: true
+        - label: Isabel Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+          indent: true
+        - label: Laurie Joseph Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+          indent: true
+        - label: Raymond Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+          indent: true
+        - label: Coleman Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Police Jury Ward 2, St. Martin Parish, Louisiana - dwelling 403, family 427
+        images:
+          - src: Evy01census1920.jpg
+      - year: "1930"
+        caption: Police Jury Ward 2, St. Martin Parish, Louisiana - dwelling 27, family 27
+        images:
+          - src: Evy01census1930.jpg

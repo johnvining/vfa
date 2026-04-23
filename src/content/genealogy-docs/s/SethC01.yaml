@@ -1,0 +1,76 @@
+id: SethC01
+title: Seth Curtis Vining - Lizette C. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Seth Curtis Vining
+          values:
+            - "52"
+            - "62"
+            - "72"
+            - "?"
+        - label: Lizette C. ([...]) Vining
+          values:
+            - "47"
+            - "57"
+            - "67"
+            - "?"
+        - label: Sallie Vining
+          values:
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Ralph E. Vining
+          values:
+            - "10"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Seth Curtis Vining Jr.
+          values:
+            - "7"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Alma L. Vining
+          values:
+            - "3"
+            - "12"
+            - "22"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Weymouth (ward 5), Norfolk County, Massachusetts - dwelling 261, family 278. The 1900 census reported that
+          Lizette C. had given birth to 5 children, 4 of whom were living as of that census date. However, because this
+          was her second marriage (see 1910 census image), the dead child may have been from her first marriage.
+        images:
+          - src: SethC01census1900.jpg
+      - year: "1910"
+        caption: Weymouth (ward 5), Norfolk County, Massachusetts - dwelling 240, family 272
+        images:
+          - src: SethC01census1910.jpg
+      - year: "1920"
+        caption: Weymouth (ward 5), Norfolk County, Massachusetts - dwelling 158, family 169
+        images:
+          - src: SethC01census1920.jpg

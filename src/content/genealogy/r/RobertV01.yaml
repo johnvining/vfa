@@ -1,0 +1,49 @@
+id: RobertV01
+sequence: 124
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: VirgilM01
+parentLetter: V
+parentDesc: Virgil M. Vining and Randy Mansager
+head:
+  givenName: Robert Vernon
+  birth:
+    date: 2 January 1920
+    place: "Sioux City, Iowa"
+  death:
+    date: 21 February 2010
+    place: "Lincoln, Nebraska"
+marriages:
+  - date: "1942"
+    spouse:
+      givenName: Rosemary
+      surname: Ahlstrom
+childrenGroups:
+  - children:
+      - name: Joan Marie Vining
+        birth:
+          date: 30 December 1944
+        marriages:
+          - date: Lalit Bahl
+        death:
+          date: prior to 21 February 2010
+      - name: Jane Ann Vining
+        birth:
+          date: 9 November 1952
+        marriages:
+          - date: David James
+docsUrl: Rsources/RobertV01doc.htm
+raw: |-
+  <a name="RobertV01"></a><font size=+2>Robert Vernon Vining</font>
+     (son of <a href="Vfamilies.htm#VirgilM01">Virgil M. Vining and Randy Mansager</a>)
+     b. 2 January 1920   Sioux City, Iowa
+     m. 1942
+           Rosemary Ahlstrom
+     d. 21 February 2010   Lincoln, Nebraska
+  
+  <font size=+1>children:</font>
+     Joan Marie Vining   b. 30 December 1944   -   m. Lalit Bahl   -   d. prior to 21 February 2010
+     Jane Ann Vining   b. 9 November 1952   -   m. David James
+  
+  <a href="Rsources/RobertV01doc.htm">documentation and notes</a>

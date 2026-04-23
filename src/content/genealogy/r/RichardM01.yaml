@@ -1,0 +1,90 @@
+id: RichardM01
+sequence: 66
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FrancisE01
+parentLetter: F
+parentDesc: Francis Earl Vining and Elizabeth Mary Denny
+head:
+  givenName: Richard Morris
+  birth:
+    date: 4 March 1924
+  death:
+    date: 5 June 1997
+    place: "Medford, Massachusetts"
+  burial:
+    place: "Oak Grove Cemetery   Medford, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Josephine V.
+      surname: Terrio
+      parents: "(dau. of Charles Terrio and Anna [...])"
+      birth:
+        date: 15 April 1926
+        place: "Medford, Massachusetts"
+      death:
+        date: 13 July 2007
+      burial:
+        place: "Oak Grove Cemetery   Medford, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Gary E. Vining   after 5 June 1997 and before July 2007
+      - name: Ronald J. Vining
+        birth:
+          date: "1948"
+        death:
+          date: "1981"
+        burial:
+          place: "Oak Grove Cemetery   Medford, Massachusetts"
+      - name: Richard F. Vining
+        birth:
+          date: 30 August 1945
+          place: "Medford, Massachusetts"
+        marriages:
+          - number: 1
+            date: Maureen Slater
+          - number: 2
+            date: "Suzanne [&#8230;]"
+        death:
+          date: 1 June 2011
+          place: "Wilmington, Massachusetts"
+      - name: Steven C. Vining
+        entryId: StevenC02
+        entryLetter: S
+        birth:
+          date: age 52 y. at death
+        marriages:
+          - date: Valarie DeBonis
+        death:
+          date: 23 January 2008
+        burial:
+          place: "Oak Grove Cemetery   Medford, Massachusetts"
+      - name: David T. Vining
+        marriages:
+          - date: "Jayne [&#8230;]"
+      - name: Michael P. Vining
+        marriages:
+          - date: "Patricia [&#8230;]"
+docsUrl: Rsources/RichardM01doc.htm
+raw: |-
+  <a name="RichardM01"></a><font size=+2>Richard Morris Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisE01">Francis Earl Vining and Elizabeth Mary Denny</a>)
+     b. 4 March 1924
+     m. Josephine V. Terrio
+              (dau. of Charles Terrio and Anna [...])
+              b. 15 April 1926   Medford, Massachusetts
+              d. 13 July 2007
+                    bur. Oak Grove Cemetery   Medford, Massachusetts
+     d. 5 June 1997   Medford, Massachusetts
+           bur. Oak Grove Cemetery   Medford, Massachusetts
+  
+  <font size=+1>children:</font>
+     Gary E. Vining   after 5 June 1997 and before July 2007
+     Ronald J. Vining   b. 1948   -   d. 1981   -   bur. Oak Grove Cemetery   Medford, Massachusetts
+     Richard F. Vining   b. 30 August 1945   Medford, Massachusetts   -   m. (1) Maureen Slater;   (2) Suzanne [&#8230;]   -   d. 1 June 2011   Wilmington, Massachusetts
+     <a href="Sfamilies.htm#StevenC02">Steven C. Vining</a>   b. age 52 y. at death   -   m. Valarie DeBonis   -   d. 23 January 2008   -   bur. Oak Grove Cemetery   Medford, Massachusetts
+     David T. Vining   m. Jayne [&#8230;]
+     Michael P. Vining   m. Patricia [&#8230;]
+  
+  <a href="Rsources/RichardM01doc.htm">documentation and notes</a>

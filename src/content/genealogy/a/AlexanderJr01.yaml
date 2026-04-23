@@ -1,0 +1,64 @@
+id: AlexanderJr01
+letter: A
+sequence: 47
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Alexander02
+parentDesc: "Alexander Vining and Mary &#8220;Polly&#8221; Jacobs"
+head:
+  givenName: Alexander Jr.
+  birth:
+    date: 11 May 1817
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: "1886"
+  burial:
+    place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+marriages:
+  - date: 17 June 1847
+    spouse:
+      givenName: Fannie Margaret
+      surname: Raymond
+      birth:
+        date: age 27 y. as of 1860 census
+        place: Massachusetts
+      death:
+        date: "1865"
+      burial:
+        place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Mary Floretta Vining
+        birth:
+          date: 21 May 1849
+          place: "Scituate, Plymouth County, Massachusetts"
+        death:
+          date: "1922"
+        burial:
+          place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+      - name: Cora Hortense Vining
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Massachusetts
+        death:
+          date: "1860"
+        burial:
+          place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+docsUrl: Asources/AlexanderJr01doc.htm
+raw: |-
+  <a name="AlexanderJr01"></a><font size="+2">Alexander Vining Jr.</font>
+     (son of <a href="#Alexander02">Alexander Vining and Mary &#8220;Polly&#8221; Jacobs</a>)
+     b. 11 May 1817   Abington, Plymouth County, Massachusetts
+     m. 17 June 1847
+           Fannie Margaret Raymond
+                 b. age 27 y. as of 1860 census   Massachusetts
+                 d. 1865
+                       bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+     d. 1886
+           bur. Union Cemetery   Hanover, Plymouth County, Massachusetts         
+  
+  <font size="+1">children:</font>
+     Mary Floretta Vining   b. 21 May 1849   Scituate, Plymouth County, Massachusetts   -   d. 1922   -   bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+     Cora Hortense Vining   b. age 4 y. as of 1860 census   Massachusetts   -   d. 1860   -   bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+  
+  <a href="Asources/AlexanderJr01doc.htm">documentation and notes</a>

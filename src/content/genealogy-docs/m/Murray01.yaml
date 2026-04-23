@@ -1,0 +1,106 @@
+id: Murray01
+title: Murray Vining - Lilly DeLille
+intro:
+  - caption: "Lilly (DeLille) Vining:"
+    images:
+      - src: Murray01wifephoto.jpg
+        height: 400
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Murray Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lilly (DeLille) Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+        - label: Edna Vining
+          values:
+            - living in separate household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Simeon Frank Vining
+          values:
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Maude Vining
+          values:
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Bernice Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edward Vining
+          values:
+            - "3"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Lyllian Helma Vining
+          values:
+            - 1 y., 8 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Glidden B. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Roy Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Columbia Township, Luce County, Michigan - dwelling 116, family 116
+        images:
+          - src: Murray01census1910.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Murray Vining, in Gracelawn Cemetery, Flint, Genesee County, Michigan (from Mike Smith):"
+        images:
+          - src: Murray01gravestone.jpg
+      - caption: >-
+          Gravestone for Lilly (DeLille) Vining, in Gracelawn Cemetery, Flint, Genesee County, Michigan (from Find A
+          Grave):
+        images:
+          - src: Murray01wifegravestone.jpg

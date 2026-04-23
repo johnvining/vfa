@@ -1,0 +1,48 @@
+id: GeorgeM04
+letter: G
+sequence: 31
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ThomasWJr01
+parentLetter: T
+parentDesc: Thomas William Vining Jr. and Mary Jane Bray
+head:
+  givenName: George M.
+  birth:
+    date: 22 February 1855
+    place: "Pine Bluff, Arkansas"
+  death:
+    date: 10 October 1890
+    place: "Wichita, Texas"
+marriages:
+  - date: 6 January 1889
+    place: "Wichita Falls, Texas"
+    spouse:
+      givenName: Martha Florence
+      surname: Burnham
+      parents: "(dau. of Alexander Marion Burnham and Sarah Ann Brooks)"
+      birth:
+        date: 6 January 1873
+        place: "Hidalgo, Illinois"
+      death:
+        date: June 1950
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Floreine Vining
+        marriages:
+          - place: "Wichita Falls, Texas"
+            spouse: "[...] Moore"
+raw: |-
+  <a name="GeorgeM04"></a><font size=+2>George M. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasWJr01">Thomas William Vining Jr. and Mary Jane Bray</a>)
+     b. 22 February 1855   Pine Bluff, Arkansas
+     m. 6 January 1889   Wichita Falls, Texas
+           Martha Florence Burnham
+                 (dau. of Alexander Marion Burnham and Sarah Ann Brooks)
+                 b. 6 January 1873   Hidalgo, Illinois
+                 d. June 1950
+     d. 10 October 1890   Wichita, Texas
+  
+  <font size=+1>child:</font>
+     Floreine Vining   m. Wichita Falls, Texas   [...] Moore

@@ -1,0 +1,57 @@
+id: CliftonO01
+title: Clifton Otis Vining - Lukie Irene Goyne
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Clifton Otis Vining
+          values:
+            - "27"
+            - "37"
+        - label: Lukie Irene (Goyne) Vining
+          values:
+            - "22"
+            - "31"
+        - label: Clifton Otis Vining Jr.
+          values:
+            - 2 y., 6 m.
+            - "12"
+          indent: true
+        - label: Billy Raymond Vining
+          values:
+            - 6 m.
+            - "10"
+          indent: true
+        - label: Annette Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Police Jury Ward 2, West Carroll Parish, Louisiana - dwelling 395, family 412
+        images:
+          - src: CliftonO01census1930.jpg
+      - year: "1940"
+        caption: Ward 2, West Carroll Parish, Louisiana
+        images:
+          - src: CliftonO01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Clifton Otis Vining and Lukie Irene (Goyne) Vining, in New Forest Cemetery, Forest, West
+          Carroll Parish, Louisiana (from Find A Grave):
+        images:
+          - src: CliftonO01gravestone.jpg
+          - src: CliftonO01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Obituary for Annette (Vining) Head, daughter of Clifton Otis Vining and Lukie Irene (Goyne) Vining, from The
+          West Carroll Gazette, 25 February 2015, page 2, column 1:
+        images:
+          - src: CliftonO01dauAnnetteobituarya.jpg
+          - src: CliftonO01dauAnnetteobituaryb.jpg
+          - src: CliftonO01dauAnnetteobituaryc.jpg

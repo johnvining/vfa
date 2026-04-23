@@ -1,0 +1,23 @@
+id: Crosby01
+title: Crosby Vining - Blanche Elsie Toman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Crosby Vining
+          values:
+            - "39"
+        - label: Blanche Elsie (Toman) Vining
+          values:
+            - "27"
+        - label: Carol E. Vining
+          values:
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Chicago (Ward 49), Cook County, Illinois
+        images:
+          - src: Crosby01census1940.jpg

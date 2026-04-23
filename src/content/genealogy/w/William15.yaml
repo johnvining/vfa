@@ -1,0 +1,64 @@
+id: William15
+sequence: 66
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Lafayette01
+parentLetter: L
+parentDesc: Lafayette Vining and Phebe Rinehart
+head:
+  givenName: William
+  birth:
+    date: January 1866
+    place: Ohio
+  death:
+    date: "1941"
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+marriages:
+  - date: 24 June 1906
+    spouse:
+      givenName: Orpha Mae
+      surname: Webster
+      parents: "(dau. of E. Wellington Webster and Sarah Elizabeth [Sparon or Spohn ?])"
+      birth:
+        date: 14 December 1881
+        place: Ohio
+      death:
+        date: 26 September 1937
+        place: Ohio
+      burial:
+        place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+childrenGroups:
+  - children:
+      - name: Clarence E. Vining
+        birth:
+          date: 7 January 1909
+          place: Ohio
+        death:
+          date: "1963"
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+      - name: Pauline W. Vining
+        birth:
+          date: age 6 y. as of 1920 census
+          place: Ohio
+docsUrl: Wsources/William15doc.htm
+raw: |-
+  <a name="William15"></a><font size=+2>William Vining</font>
+     (son of <a href="Lfamilies.htm#Lafayette01">Lafayette Vining and Phebe Rinehart</a>)
+     b. January 1866   Ohio
+     m. 24 June 1906
+           Orpha Mae Webster
+                 (dau. of E. Wellington Webster and Sarah Elizabeth [Sparon or Spohn ?])
+                 b. 14 December 1881   Ohio
+                 d. 26 September 1937   Ohio
+                       bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     d. 1941
+           bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+  
+  <font size=+1>children:</font>
+     Clarence E. Vining   b. 7 January 1909   Ohio   -   d. 1963   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     Pauline W. Vining   b. age 6 y. as of 1920 census   Ohio
+  
+  <a href="Wsources/William15doc.htm">documentation and notes</a>

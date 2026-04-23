@@ -1,0 +1,126 @@
+id: AdinW01
+title: Adin Wakefield Vining - Emma Jane Montagnon
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Adin Wakefield Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - "61"
+            - "71"
+        - label: Emma Jane (Montagnon) Vining
+          values:
+            - "24"
+            - "33"
+            - "43"
+            - "53"
+            - "63"
+        - label: Hazel Essprince Vining
+          values:
+            - "2"
+            - "12"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Marion Eva Vining
+          values:
+            - "1"
+            - "11"
+            - "20"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: William Henry Vining
+          values:
+            - ""
+            - "9"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Margaret Irene Vining
+          values:
+            - ""
+            - "6"
+            - "[?]"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Arthur Adin Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - dead
+            - ""
+          indent: true
+        - label: Doris Rhoda Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Emma Julia Vining
+          values:
+            - ""
+            - 3 months
+            - "10"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Mildred Avis
+          values:
+            - ""
+            - ""
+            - "5"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Simsbury, Hartford County, Connecticut - dwelling 213, family 222. Also living in this household in 1900 was
+          John J. [...]hauser (25 y., b. Switzerland).
+        images:
+          - src: AdinW01census1900.jpg
+      - year: "1910"
+        caption: Simsbury, Hartford County, Connecticut - dwelling 69, family 71
+        images:
+          - src: AdinW01census1910.jpg
+      - year: "1920"
+        caption: Simsbury, Hartford County, Connecticut - dwelling 273, family 290
+        images:
+          - src: AdinW01census1920a.jpg
+          - src: AdinW01census1920b.jpg
+      - year: "1930"
+        caption: Simsbury, Hartford County, Connecticut
+        images:
+          - src: AdinW01census1930.jpg
+      - year: "1940"
+        caption: Simsbury, Hartford County, Connecticut
+        images:
+          - src: AdinW01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Adin Wakefield Vining and Emma Jane (Montagnon) Vining, in Hop Meadow Cemetery, Simsbury,
+          Hartford County, Connecticut (from Find A Grave):
+        images:
+          - src: AdinW01andwifeheadstone.jpg
+      - caption: >-
+          Shared headstone for Arthur Adin Vining, son of Adin Wakefield Vining and Emma Jane (Montagnon) Vining, in Hop
+          Meadow Cemetery, Simsbury, Hartford County, Connecticut (from Find A Grave):
+        images:
+          - src: AdinW01sonArthursharedheadstone.jpg

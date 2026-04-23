@@ -1,0 +1,105 @@
+id: Seaborn01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John14
+parentLetter: J
+parentDesc: "John Vining and Christine [...]"
+head:
+  givenName: Seaborn
+  birth:
+    date: ca. 1808
+    place: Georgia
+  death:
+    date: ca. 1854-1858
+    place: Arkansas
+marriages:
+  - date: 2 July 1833
+    place: Georgia
+    spouse:
+      givenName: Laurana
+      surname: Babb
+      birth:
+        date: "1809"
+        place: South Carolina
+      death:
+        date: 25 March 1866
+        place: Arkansas
+childrenGroups:
+  - children:
+      - name: Martha A. Vining
+        birth:
+          date: "1834"
+          place: Georgia
+      - name: Rhoda J. Vining
+        birth:
+          date: "1837"
+          place: Georgia
+      - name: Louisa Josephine Vining
+        birth:
+          date: 11 May 1840
+          place: Georgia
+        marriages:
+          - number: 1
+            date: 2 September 1858
+            spouse: Jesse Briton Wicker (d. 5 December 1861   Arkansas)
+          - number: 2
+            date: 5 January 1863
+            spouse: William K. Kellough
+        death:
+          date: 25 March 1866
+      - name: Nancy C. Vining
+        birth:
+          date: 22 June 1841
+          place: Georgia   m. (1) 4 October 1868   Marlborough Cornelius Peeler (d. October 1875   Arkansas); (2) 1887   William T. Toland
+        death:
+          date: 2 September 1921
+      - name: John Butler Vining
+        birth:
+          date: "1846"
+          place: Alabama
+      - name: Sarah P. Vining
+        birth:
+          date: "1848"
+          place: Mississippi
+        death:
+          date: 29 August 1866
+      - name: Henry Webster Vining
+        entryId: HenryW01
+        entryLetter: H
+        birth:
+          date: age 6 m. as of 1850 census
+          place: "Lafayette, Mississippi"
+        marriages:
+          - number: 1
+            date: 13 January 1870
+            spouse: Nancy Peeler (d. prior to 1873)
+          - number: 2
+            date: 27 July 1873
+            spouse: "Arkansas   Clarissa Ra[y?]mer"
+        death:
+          date: "1890"
+          place: "Petillo Hill, Arkansas"
+        burial:
+          place: "Petillo Hill Cemetery   Centerville, Arkansas"
+docsUrl: Ssources/Seaborn01doc.htm
+raw: |-
+  <a name="Seaborn01"></a><font size=+2>Seaborn Vining</font>
+     (son of <a href="Jfamilies.htm#John14">John Vining and Christine [...]</a>)
+     b. ca. 1808   Georgia
+     m. 2 July 1833   Georgia
+           Laurana Babb
+                 b. 1809   South Carolina
+                 d. 25 March 1866   Arkansas
+     d. ca. 1854-1858   Arkansas
+  
+  <font size=+1>children:</font>
+     Martha A. Vining   b. 1834   Georgia
+     Rhoda J. Vining   b. 1837   Georgia
+     Louisa Josephine Vining   b. 11 May 1840   Georgia   -   m. (1) 2 September 1858   Jesse Briton Wicker (d. 5 December 1861   Arkansas);   (2) 5 January 1863   William K. Kellough   -   d. 25 March 1866
+     Nancy C. Vining   b. 22 June 1841   Georgia   m. (1) 4 October 1868   Marlborough Cornelius Peeler (d. October 1875   Arkansas); (2) 1887   William T. Toland   -   d. 2 September 1921
+     John Butler Vining   b. 1846   Alabama
+     Sarah P. Vining   b. 1848   Mississippi   -   d. 29 August 1866
+     <a href="Hfamilies.htm#HenryW01">Henry Webster Vining</a>   b. age 6 m. as of 1850 census   Lafayette, Mississippi   -   m. (1) 13 January 1870   Nancy Peeler (d. prior to 1873);   (2) 27 July 1873   Arkansas   Clarissa Ra[y?]mer   -   d. 1890   Petillo Hill, Arkansas   -   bur. Petillo Hill Cemetery   Centerville, Arkansas
+  
+  <a href="Ssources/Seaborn01doc.htm">documentation and notes</a>

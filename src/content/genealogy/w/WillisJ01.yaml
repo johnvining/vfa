@@ -1,0 +1,78 @@
+id: WillisJ01
+sequence: 148
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EdwinR01
+parentLetter: E
+parentDesc: Edwin R. Vining and Ada L. Morse
+head:
+  givenName: Willis Josiah
+  birth:
+    date: 17 July 1877
+    place: "Durham, Maine"
+  death:
+    date: 2 October 1963
+    place: "St. John, New Brunswick"
+  burial:
+    place: "St. Peter's Cemetery   Woodman's Point, New Brunswick"
+marriages:
+  - date: 23 June 1909
+    place: "Skowhegan, Maine"
+    spouse:
+      givenName: Helen Sawyer
+      surname: Fraine
+      parents: "(dau. of John Fraine and Pauline Richardson)"
+      birth:
+        date: 29 June 1889
+        place: "The Forks, Maine"
+      death:
+        date: "1972"
+      burial:
+        place: "St. Peter's Cemetery   Woodman's Point, New Brunswick"
+childrenGroups:
+  - children:
+      - name: Murray Fraine Vining
+        entryId: MurrayF01
+        entryLetter: M
+        birth:
+          date: 18 November 1910
+          place: "Lewiston, Maine"
+        marriages:
+          - date: 17 August 1940
+            spouse: Emma Gertrude Williamson
+        death:
+          date: 23 April 1978
+        burial:
+          place: "St. Peter's Cemetery   Woodman's Point, New Brunswick"
+      - name: John Henry Fraine Vining
+        entryId: JohnHF01
+        entryLetter: J
+        birth:
+          date: 29 January 1915
+          place: "Lake Megantic, Quebec"
+        marriages:
+          - date: 24 August 1940
+            spouse: Mary E. Tobin
+        death:
+          date: ca. 1970
+          place: Manitoba
+docsUrl: Wsources/WillisJ01doc.htm
+raw: |-
+  <a name="WillisJ01"></a><font size=+2>Willis Josiah Vining</font>
+     (son of <a href="Efamilies.htm#EdwinR01">Edwin R. Vining and Ada L. Morse</a>)
+     b. 17 July 1877   Durham, Maine
+     m. 23 June 1909   Skowhegan, Maine
+           Helen Sawyer Fraine
+                 (dau. of John Fraine and Pauline Richardson)
+                 b. 29 June 1889   The Forks, Maine
+                 d. 1972
+                       bur. St. Peter's Cemetery   Woodman's Point, New Brunswick
+     d. 2 October 1963   St. John, New Brunswick
+           bur. St. Peter's Cemetery   Woodman's Point, New Brunswick
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MurrayF01">Murray Fraine Vining</a>   b. 18 November 1910   Lewiston, Maine   -   m. 17 August 1940   Emma Gertrude Williamson   -   d. 23 April 1978   -   bur. St. Peter's Cemetery   Woodman's Point, New Brunswick
+     <a href="Jfamilies.htm#JohnHF01">John Henry Fraine Vining</a>   b. 29 January 1915   Lake Megantic, Quebec   -   m. 24 August 1940   Mary E. Tobin   -   d. ca. 1970   Manitoba
+  
+  <a href="Wsources/WillisJ01doc.htm">documentation and notes</a>

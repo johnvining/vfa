@@ -1,0 +1,91 @@
+id: CharlesP01
+letter: C
+sequence: 95
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasG01
+parentLetter: T
+parentDesc: Thomas Green Vining and Julia Sabrina Wells
+head:
+  givenName: Charles Phillip
+  birth:
+    date: 26 December 1885
+    place: "Jackson, Mississippi"
+  death:
+    date: 9 July 1965
+    place: "Oakdale, Louisiana"
+  burial:
+    place: "Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: "Mary Elizabeth &#8220;Mamie&#8221;"
+      surname: Vetsch
+      parents: "(dau. of Joseph Vetsch and Mary Alice P[o?]tter)"
+      birth:
+        date: 14 February 1887
+        place: "Fort Necessity, Louisiana"
+      death:
+        date: 14 April 1977
+        place: "Baker, Louisiana"
+      burial:
+        place: "Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: Marjorie Vining
+        birth:
+          date: age 11 m. as of 1920 census
+          place: Louisiana
+        marriages:
+          - date: "[...] Abercrombie"
+        death:
+          date: before 29 December 2010
+      - name: "Delores [Patricia?] Vining"
+        birth:
+          date: age 8 y. as of 1930 census
+          place: Louisiana
+        note: "[m. [...] Nixon   -   d. before 29 December 2010?]"
+      - name: Thomas Vetsch Vining
+        entryId: ThomasV01
+        entryLetter: T
+        birth:
+          date: 11 February 1924
+          place: "Forest, Louisiana"
+        marriages:
+          - date: 63 y. as of 29 December 2010
+            spouse: Myrtle Jones
+        death:
+          date: 29 December 2010
+          place: "Pineville, Louisiana"
+        burial:
+          place: "Resthaven Cemetery   Oakdale, Louisiana"
+      - name: Charles Joseph Vining
+        birth:
+          date: 4 October 1925
+          place: Louisiana
+        marriages:
+          - date: Doris Smith
+        death:
+          date: 29 April 1999
+          place: "(last residence: Oak Grove, Louisiana)"
+        burial:
+          place: "Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana"
+docsUrl: Csources/CharlesP01doc.htm
+raw: |-
+  <a name="CharlesP01"></a><font size=+2>Charles Phillip Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasG01">Thomas Green Vining and Julia Sabrina Wells</a>)
+     b. 26 December 1885   Jackson, Mississippi
+     m. Mary Elizabeth &#8220;Mamie&#8221; Vetsch
+              (dau. of Joseph Vetsch and Mary Alice P[o?]tter)
+              b. 14 February 1887   Fort Necessity, Louisiana
+              d. 14 April 1977   Baker, Louisiana
+                    bur. Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana
+     d. 9 July 1965   Oakdale, Louisiana
+           bur. Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Marjorie Vining   b. age 11 m. as of 1920 census   Louisiana   -   m. [...] Abercrombie   -   d. before 29 December 2010
+     Delores [Patricia?] Vining   b. age 8 y. as of 1930 census  Louisiana   -   [m. [...] Nixon   -   d. before 29 December 2010?]
+     <a href="Tfamilies.htm#ThomasV01">Thomas Vetsch Vining</a>   b. 11 February 1924   Forest, Louisiana   -   m. 63 y. as of 29 December 2010   Myrtle Jones   -   d. 29 December 2010   Pineville, Louisiana   -   bur. Resthaven Cemetery   Oakdale, Louisiana
+     Charles Joseph Vining   b. 4 October 1925   Louisiana   -   m. Doris Smith   -   d. 29 April 1999   (last residence: Oak Grove, Louisiana)   -   bur. Forest Lawn Cemetery (also called New Forest Cemetery)   Forest, West Carroll Parish, Louisiana
+  
+  <a href="Csources/CharlesP01doc.htm">documentation and notes</a>

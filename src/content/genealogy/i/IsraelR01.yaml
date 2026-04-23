@@ -1,0 +1,93 @@
+id: IsraelR01
+letter: I
+lastUpdated: 9 March 2021
+relationship: son
+parentId: Israel01
+parentDesc: Israel Vining and Abia Dunbar
+head:
+  givenName: Israel Royal
+  birth:
+    date: 12 April 1802
+    place: "Windsor, Berkshire County, Massachusetts   (bapt. Windsor, Berkshire County, Massachusetts)"
+  death:
+    date: 23 May 1866
+    place: "Hatfield, Massachusetts"
+marriages:
+  - number: 1
+    date: 9 June 1821
+    place: "Windsor, Berkshire County, Massachusetts"
+    spouse:
+      givenName: "[Mary or Mercy?]"
+      surname: Tirrell
+  - number: 2
+    date: 20 November 1827
+    place: "Northampton, Hampshire County, Massachusetts"
+    spouse:
+      givenName: Persis
+      surname: Harris
+      parents: "(dau. of Lemuel Harris and Persis [...])"
+      birth:
+        date: age 48 y. as of 1850 census
+        place: "Huntington, Hampshire County, Massachusetts"
+      death:
+        date: 12 September 1877
+        place: "Warwick, Franklin County, Massachusetts"
+      burial:
+        place: "Warwick Cemetery   Warwick, Franklin County, Massachusetts"
+childrenGroups:
+  - headingText: "children [by Persis Harris ?]"
+    children:
+      - name: Edward R. Vining
+        birth:
+          date: October 1829
+          place: Massachusetts
+      - name: Calista Vining
+        birth:
+          date: age 17 y. as of 1850 census
+          place: Massachusetts
+      - name: Israel C. Vining
+        birth:
+          date: age 13 y. as of 1850 census
+          place: Massachusetts
+      - name: Jane C. Vining
+        birth:
+          date: age 22 y. as of 1860 census
+          place: Massachusetts
+      - name: Mary Elizabeth Vining
+        birth:
+          date: age 9 y. as of 1850 census
+          place: Massachusetts
+        marriages:
+          - date: 24 March 1872
+            place: "Hatfield, Hampshire County, Massachusetts"
+            spouse: Elliot Wheeler
+      - name: Augusta Vining
+        birth:
+          date: age 2 y. at death
+        death:
+          date: 29 August 1845
+          place: "Hatfield, Hampshire County, Massachusetts"
+docsUrl: Isources/IsraelR01doc.htm
+raw: |-
+  <a name="IsraelR01"></a><font size=+2>Israel Royal Vining</font>
+     (son of <a href="#Israel01">Israel Vining and Abia Dunbar</a>)
+     b. 12 April 1802   Windsor, Berkshire County, Massachusetts   (bapt. Windsor, Berkshire County, Massachusetts)
+     m. (1) 9 June 1821   Windsor, Berkshire County, Massachusetts
+                 [Mary or Mercy?] Tirrell
+           (2) 20 November 1827   Northampton, Hampshire County, Massachusetts
+                 Persis Harris
+                       (dau. of Lemuel Harris and Persis [...])
+                       b. age 48 y. as of 1850 census   Huntington, Hampshire County, Massachusetts
+                       d. 12 September 1877   Warwick, Franklin County, Massachusetts
+                             bur. Warwick Cemetery   Warwick, Franklin County, Massachusetts
+     d. 23 May 1866   Hatfield, Massachusetts
+  
+  <font size=+1>children [by Persis Harris ?]:</font>
+     Edward R. Vining   b. October 1829   Massachusetts
+     Calista Vining   b. age 17 y. as of 1850 census   Massachusetts
+     Israel C. Vining   b. age 13 y. as of 1850 census   Massachusetts
+     Jane C. Vining   b. age 22 y. as of 1860 census   Massachusetts
+     Mary Elizabeth Vining   b. age 9 y. as of 1850 census   Massachusetts   -   m. 24 March 1872   Hatfield, Hampshire County, Massachusetts   Elliot Wheeler
+     Augusta Vining   b. age 2 y. at death   -   d. 29 August 1845   Hatfield, Hampshire County, Massachusetts
+  
+  <a href="Isources/IsraelR01doc.htm">documentation and notes</a>

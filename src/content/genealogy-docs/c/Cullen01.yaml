@@ -1,0 +1,208 @@
+id: Cullen01
+title: Cullen Vining - Hannah Latham
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Cullen Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "52"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Hannah (Latham) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "50"
+            - "60"
+            - "70"
+            - "?"
+            - "?"
+            - dead
+        - label: Susannah Alden Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Melven Latham Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Marcus Richard Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Parmelia Vining
+          values:
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Florintha Vining
+          values:
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Rodolphus C. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Pa[r]melia Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - living in separate household
+            - "38"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: George Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Emma[h?] D. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "11"
+            - |-
+              21
+              [see note below]
+            - |-
+              31
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Elenore G. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Anna M. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "1"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Cummington, Hampshire County, Massachusetts - dwelling 1687, family 1704. Also living in this household in
+          1850 was Lewis Latham (53 y., b. Massachusetts).
+        images:
+          - src: Cullen01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Cummington, Hampshire County, Massachusetts - dwelling 12, family 12. Emma[h?] D.'s surname was Bates in the
+          1860 census, following her marriage to Wells H. Bates on 5 July 1855. Also living in this household in 1860
+          was Lewis Latham (farm laborer, 63 y., b. Massachusetts).
+        images:
+          - src: Cullen01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Cummington, Hampshire County, Massachusetts - dwelling 53, family 59. Emma[h?] D. continued to live in the
+          household with her mother, now with a 5-year-old son, George.
+        images:
+          - src: Cullen01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Cullen Vining and Hannah (Latham) Vining, in Streeter Cemetery, Cummington, Hampshire County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: Cullen01gravestone.jpg
+          - src: Cullen01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Parmelia Vining and Florintha Vining, daughters of Cullen Vining and Hannah (Latham) Vining, in
+          Streeter Cemetery, Cummington, Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: Cullen01dauParmeliaFlorinthagravestone.jpg

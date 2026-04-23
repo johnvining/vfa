@@ -1,0 +1,70 @@
+id: BurtH01
+letter: B
+sequence: 69
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CalvinL01
+parentLetter: C
+parentDesc: Calvin Luther Vining and Caroline arah Price
+head:
+  givenName: Burt Harold
+  birth:
+    date: 23 February 1883
+    place: "Pomeroy, Meigs County, Ohio"
+  death:
+    date: 1 February 1946
+    place: "Everett, Snohomish County, Washington"
+  burial:
+    place: "Evergreen Washelli Memorial Park   Seattle, King County, Washington"
+marriages:
+  - date: 2 y. as of 1910 census
+    spouse:
+      givenName: Helen M.
+      surname: Weddell
+      parents: (dau. of William Benjamin Weddell and Lucy Matilda Kreisher)
+      birth:
+        date: 4 Septenber 1894
+        place: "Ashland, Ashland County, Ohio"
+      death:
+        date: 11 March 1970
+childrenGroups:
+  - children:
+      - name: Eva Marie Vining
+        birth:
+          date: age 4 y. as of 1920 census
+          place: Washington
+      - name: Helen C. Vining
+        birth:
+          date: "age 2 y., 10 m. as of 1920 census"
+          place: Washington
+  - headingText: "same children as above?"
+    children:
+      - name: Carol Vining
+        marriages:
+          - date: "[...] Burfitt"
+        death:
+          date: "1970"
+      - name: daughter
+        marriages:
+          - date: "[...] Phil[l?]ips"
+docsUrl: Bsources/BurtH01doc.htm
+raw: |-
+  <a name="BurtH01"></a><font size=+2>Burt Harold Vining</font>
+     (son of <a href="Cfamilies.htm#CalvinL01">Calvin Luther Vining and Caroline arah Price</a>)
+     b. 23 February 1883   Pomeroy, Meigs County, Ohio
+     m. 2 y. as of 1910 census
+           Helen M. Weddell
+                 (dau. of William Benjamin Weddell and Lucy Matilda Kreisher)
+                 b. 4 Septenber 1894   Ashland, Ashland County, Ohio
+                 d. 11 March 1970
+     d. 1 February 1946   Everett, Snohomish County, Washington
+           bur. Evergreen Washelli Memorial Park   Seattle, King County, Washington
+  
+  <font size=+1>children:</font>
+     Eva Marie Vining   b. age 4 y. as of 1920 census   Washington
+     Helen C. Vining   b. age 2 y., 10 m. as of 1920 census   Washington
+  <font size=+1>same children as above?:</font>
+     Carol Vining   m. [...] Burfitt   -   d. 1970
+     daughter   m. [...] Phil[l?]ips
+  
+  <a href="Bsources/BurtH01doc.htm">documentation and notes</a>

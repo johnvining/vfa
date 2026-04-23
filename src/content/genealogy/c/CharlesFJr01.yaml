@@ -1,0 +1,53 @@
+id: CharlesFJr01
+letter: C
+sequence: 70
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesF04
+parentDesc: Charles Freeman Vining and Demmie Lotspeich
+head:
+  givenName: Charles Freeman Jr.
+  birth:
+    date: 29 August 1923
+    place: Georgia
+  death:
+    date: 24 July 2000
+  burial:
+    place: "Dawn Rest Cemetery   Dalton, Georgia"
+marriages:
+  - spouse:
+      givenName: Starr
+      surname: Cashon
+      birth:
+        date: age 88 y. at death
+      death:
+        date: 5 November 2012
+      burial:
+        place: "Dawn Rest Cemetery   Dalton, Georgia"
+childrenGroups:
+  - children:
+      - name: Chris Vining
+        marriages:
+          - date: Lawrence Cole
+      - name: Robin Vining
+        marriages:
+          - date: Don Thompson
+      - name: Charles Freeman Vining III
+docsUrl: Csources/CharlesFJr01doc.htm
+raw: |-
+  <a name="CharlesFJr01"></a><font size=+2>Charles Freeman Vining Jr.</font>
+     (son of <a href="#CharlesF04">Charles Freeman Vining and Demmie Lotspeich</a>)
+     b. 29 August 1923   Georgia
+     m. Starr Cashon
+              b. age 88 y. at death
+              d. 5 November 2012
+                    bur. Dawn Rest Cemetery   Dalton, Georgia
+     d. 24 July 2000
+           bur. Dawn Rest Cemetery   Dalton, Georgia
+  
+  <font size=+1>children:</font>
+     Chris Vining   m. Lawrence Cole
+     Robin Vining   m. Don Thompson
+     Charles Freeman Vining III
+  
+  <a href="Csources/CharlesFJr01doc.htm">documentation and notes</a>

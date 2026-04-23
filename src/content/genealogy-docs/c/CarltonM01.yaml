@@ -1,0 +1,61 @@
+id: CarltonM01
+title: Carlton M. Vining - Cecil B. Hedges
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Carlton M. Vining
+          values:
+            - "28"
+            - "38"
+            - dead
+        - label: Cecil B. (Hedges) Vining
+          values:
+            - "28"
+            - "38"
+            - "48"
+        - label: Marion A. Vining
+          values:
+            - 1 y., 4 m.
+            - "11"
+            - |-
+              21
+              [see note below]
+          indent: true
+        - label: Robert Morris Vining
+          values:
+            - ""
+            - 4 y., 1 m.
+            - "14"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Decatur Township, Van Buren County, Michigan - dwelling 160, family 163
+        images:
+          - src: CarltonM01census1920.jpg
+      - year: "1930"
+        caption: Niles Township (ward 3), Berrien County, Michigan - dwelling 255, family 299
+        images:
+          - src: CarltonM01census1930.jpg
+      - year: "1930"
+        caption: >-
+          Niles, Berrien County, Michigan. By 1940, Marion A. Vining was married, to Robert Hartman, and she and her
+          husband were living in the same household as her mother and brother.
+        images:
+          - src: CarltonM01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Carlton M. Vining and Cecil B. (Hedges) Vining, in Lakeside Cemetery, Decatur, Van Buren County,
+          Michigan (from Find A Grave):
+        images:
+          - src: CarltonM01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Robert Morris Vining, son of Carlton M. Vining and Cecil B. (Hedges) Vining, in Greenwood
+          Memorial Park and Mausoleum, Fort Worth, Tarrant County, Texas (from Find A Grave):
+        images:
+          - src: CarltonM01sonRobertgravestone.jpg

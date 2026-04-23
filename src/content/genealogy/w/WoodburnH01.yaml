@@ -1,0 +1,77 @@
+id: WoodburnH01
+sequence: 153
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: HomerD01
+parentLetter: H
+parentDesc: Homer Dewey Vining and Cecile T. Shank
+head:
+  givenName: Woodburn H.
+  birth:
+    date: 6 November 1935
+    place: "Middleton, Gratiot, Michigan"
+  death:
+    date: 23 March 1999
+    place: "Greenville, Montcalm, Michigan"
+marriages:
+  - number: 1
+    date: 3 July 1954
+    spouse:
+      givenName: Donna Jean
+      surname: Gesleman
+      parents: "(dau. of Clifford Gesleman and Etta Terwilliger)"
+      birth:
+        date: 16 June 1938
+      death:
+        date: 4 March 1994
+        place: "Crystal, Michigan"
+      burial:
+        place: "Crystal Cemetery   Crystal, Michigan"
+  - number: 2
+    date: 20 December 1997
+    spouse:
+      givenName: Sheila Kay
+      surname: Carson
+      parents: "(dau. of Rick Carson and Dixie Opdycke)"
+      birth:
+        date: 29 May 1961
+        place: "Alma, Michigan"
+      death:
+        date: 11 May 2021
+childrenGroups:
+  - spouseRef: Donna Jean Gesleman
+    children:
+      - name: Rodney Vining
+        marriages:
+          - date: "Beverly [&#8230;]"
+      - name: Brian Vining
+      - name: Woody Vining
+      - name: Sheila Vining
+        marriages:
+          - date: Tim Perkins
+docsUrl: Wsources/WoodburnH01doc.htm
+raw: |-
+  <a name="WoodburnH01"></a><font size=+2>Woodburn H. Vining</font>
+     (son of <a href="Hfamilies.htm#HomerD01">Homer Dewey Vining and Cecile T. Shank</a>)
+     b. 6 November 1935   Middleton, Gratiot, Michigan
+     m. (1) 3 July 1954
+                 Donna Jean Gesleman
+                       (dau. of Clifford Gesleman and Etta Terwilliger)
+                       B. 16 June 1938
+                       d. 4 March 1994   Crystal, Michigan
+                             bur. Crystal Cemetery   Crystal, Michigan
+           (2) 20 December 1997
+                    Sheila Kay Carson
+                          (dau. of Rick Carson and Dixie Opdycke)
+                          b. 29 May 1961   Alma, Michigan
+                          d. 11 May 2021
+     d. 23 March 1999   Greenville, Montcalm, Michigan
+  
+  <font size=+1>children by Donna Jean Gesleman:</font>
+     Rodney Vining   m. Beverly [&#8230;]
+     Brian Vining
+     Woody Vining
+     Sheila Vining   m. Tim Perkins
+  
+  <a href="Wsources/WoodburnH01doc.htm">documentation and notes</a>

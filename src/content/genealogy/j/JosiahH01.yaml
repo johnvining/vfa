@@ -1,0 +1,103 @@
+id: JosiahH01
+sequence: 328
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JesseP01
+parentDesc: "Jesse Pledger Vining and Mary Ann &#8220;Polly&#8221; Coxe"
+head:
+  givenName: Josiah Henry
+  birth:
+    date: 29 January 1833
+    place: "Bennettsville, Marlboro County, South Carolina"
+  death:
+    date: 10 December 1905
+    place: "Ocoee, Orange County, Florida"
+  burial:
+    place: "Ocoee Cemetery   Ocoee, Orange County, Florida"
+marriages:
+  - date: 11 December 1856
+    place: "Magnolia, Clinch County, Georgia"
+    spouse:
+      givenName: "Mary &#8220;Polly&#8221;"
+      surname: Skinner
+      birth:
+        date: "1837"
+        place: "Clinch County, Georgia"
+      death:
+        date: "1919.  Winter Garden, Orange County, Florida"
+      burial:
+        place: "Ocoee Cemetery   Ocoee, Orange County, Florida"
+childrenGroups:
+  - children:
+      - name: William Pledger Vining
+        entryId: WilliamP01
+        entryLetter: W
+        birth:
+          date: December 1855
+          place: Georgia
+        marriages:
+          - date: 17 November 1881
+            spouse: Andora Lee
+        death:
+          date: "1921"
+          place: "Orange County, Florida"
+      - name: Judge Vining
+        birth:
+          date: age 13 y. as of 1870 census
+          place: Georgia
+      - name: James Jenkins Vining
+        entryId: JamesJ03
+        birth:
+          date: 2 February 1859
+          place: "Clinch County, Georgia"
+        marriages:
+          - number: 1
+            date: Ellen Catherine Lee
+          - number: 2
+            date: Eva Marr Driggers
+        death:
+          date: 15 April 1928
+          place: "Orange County, Florida"
+      - name: "Kizzie Furleigh Vining"
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Georgia
+      - name: Barlow Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Georgia
+      - name: Judson Bartow Vining
+        entryId: JudsonB01
+        birth:
+          date: 28 June 1862
+          place: "Stockton, Clinch County, Georgia"
+        marriages:
+          - date: Francis Virginia Lee
+        death:
+          date: 21 March 1906
+          place: "Ocoee, Orange County, Florida"
+      - name: Mary M. Vining
+docsUrl: Jsources/JosiahH01doc.htm
+raw: |-
+  <a name="JosiahH01"></a><font size=+2>Josiah Henry Vining</font>
+     (son of <a href="#JesseP01">Jesse Pledger Vining and Mary Ann &#8220;Polly&#8221; Coxe</a>)
+     b. 29 January 1833   Bennettsville, Marlboro County, South Carolina
+     m. 11 December 1856   Magnolia, Clinch County, Georgia
+           Mary &#8220;Polly&#8221; Skinner
+                 b. 1837   Clinch County, Georgia
+                 d. 1919.  Winter Garden, Orange County, Florida
+                       bur. Ocoee Cemetery   Ocoee, Orange County, Florida
+     d. 10 December 1905   Ocoee, Orange County, Florida
+           bur. Ocoee Cemetery   Ocoee, Orange County, Florida
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamP01">William Pledger Vining</a>   b. December 1855   Georgia   -   m. 17 November 1881   Andora Lee   -   d. 1921   Orange County, Florida
+     Judge Vining   b. age 13 y. as of 1870 census   Georgia
+     <a href="#JamesJ03">James Jenkins Vining</a>   b. 2 February 1859   Clinch County, Georgia   -   m. (1) Ellen Catherine Lee;   (2) Eva Marr Driggers   -   d. 15 April 1928   Orange County, Florida
+  Kizzie Furleigh Vining   b. age 8 y. as of 1870 census   Georgia
+     Barlow Vining   b. age 3 y. as of 1870 census   Georgia
+     <a href="#JudsonB01">Judson Bartow Vining</a>   b, 28 June 1862   Stockton, Clinch County, Georgia   -   m. Francis Virginia Lee   -   d. 21 March 1906   Ocoee, Orange County, Florida
+     Mary M. Vining
+     
+  <a href="Jsources/JosiahH01doc.htm">documentation and notes</a>

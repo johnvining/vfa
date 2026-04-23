@@ -1,0 +1,45 @@
+id: EllisO01
+title: Ellis O. Vining - Lillie Morton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ellis O. Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Lillie (Morton) Vining
+          values:
+            - "?"
+            - "39"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Alice Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Bennington Township, Morrow County, Ohio - dwelling 29, family 29. Also living in this household in 1900 was
+          Laura Morton (64 y., b. Ohio), the widowed mother of Lillie Vining.
+        images:
+          - src: EllisO01census1900.jpg

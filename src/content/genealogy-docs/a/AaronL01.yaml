@@ -1,0 +1,61 @@
+id: AaronL01
+title: Aaron Lee Vining - Carrie Carson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Aaron Lee Vining
+          values:
+            - "30"
+            - "42"
+            - "[illegible]"
+            - "62"
+        - label: Carrie (Carson) Vining
+          values:
+            - "25"
+            - "[not given]"
+            - "41"
+            - "54"
+        - label: Jennie C. Vining
+          values:
+            - "5"
+            - "15"
+            - "25"
+            - living in separate household
+          indent: true
+        - label: Mary Ruth Vining
+          values:
+            - ""
+            - 4 years, 6 months
+            - "13"
+            - "24"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Neodesha (ward 8), Wilson County, Kansas - dwelling 220, family 262
+        images:
+          - src: AaronL01census1910.jpg
+      - year: "1920"
+        caption: Neodesha (ward 2), Wilson County, Kansas - dwelling 79, family 89
+        images:
+          - src: AaronL01census1920.jpg
+      - year: "1930"
+        caption: Neodesha (ward 1), Wilson County, Kansas - dwelling 106, family 111
+        images:
+          - src: AaronL01census1930.jpg
+      - year: "1940"
+        caption: Neodesha, Wilson County, Kansas
+        images:
+          - src: AaronL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Aaron Lee Vining and mother Jennie (Lindsley) Vining, in Neodesha City Cemetery, Neodesha,
+          Wilson County, Kansas (from Find A Grave):
+        images:
+          - src: AaronL01andmotherheadstone.jpg

@@ -1,0 +1,73 @@
+id: Andrew01
+title: Andrew Vining - Ellen [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1920"
+      rows:
+        - label: Andrew Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ellen ([...]) Vining
+          values:
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+        - label: Eddie Vining
+          values:
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ollie Vining
+          values:
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Bennie Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Fred Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Pinkie Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Bertha Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Precinct 5, Falls County, Texas - dwelling 188, family 188. Also living in this household in 1900 was stepson
+          Jessie Hudley (b. July 1882, Texas). According to the 1900 census Ellen Vining had given birth to 1[4?]
+          children, 9 of whom were alive as of that census.
+        images:
+          - src: Andrew01census1900.jpg

@@ -1,0 +1,102 @@
+id: CalvinS01
+title: Calvin Seneca Vining - Almeda Veste White
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Calvin Seneca Vining
+          values:
+            - "32"
+            - "40"
+            - "51"
+            - "?"
+            - "72"
+            - "81"
+            - dead
+        - label: Almeda Veste (White) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "?"
+            - "65"
+            - "75"
+            - dead
+        - label: Delia Ralphetta Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nettie Vining
+          values:
+            - not living in this household
+            - "16"
+            - not living in this household
+            - "?"
+            - not living in this household
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Cary Warren Vining
+          values:
+            - 8 months
+            - "10"
+            - "20"
+            - "?"
+            - not living in this household
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Pearl Andrus Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Vevay, Ingham County, Michigan - dwelling 1128, family 1114
+        images:
+          - src: CalvinS01census1860.jpg
+      - year: "1870"
+        caption: Vevay, Ingham County, Michigan - dwelling 286, family 286
+        images:
+          - src: CalvinS01census1870.jpg
+      - year: "1880"
+        caption: Cato, Montcalm County, Michigan - dwelling 66, family 67
+        images:
+          - src: CalvinS01census1880.jpg
+      - year: "1900"
+        caption: Cato, Montcalm County, Michigan - dwelling 35, family 35
+        images:
+          - src: CalvinS01census1900.jpg
+      - year: "1910"
+        caption: Cato, Montcalm County, Michigan - dwelling 245, family 254
+        images:
+          - src: CalvinS01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Calvin Seneca Vining and Almeda Veste (White) Vining, in Lakeview Cemetery, Lakeview, Montcalm
+          County, Michigan (from Find A Grave):
+        images:
+          - src: CalvinS01gravestone.jpg
+          - src: CalvinS01wifegravestone.jpg
+        inline: true

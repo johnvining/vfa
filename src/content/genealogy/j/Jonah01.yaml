@@ -1,0 +1,141 @@
+id: Jonah01
+sequence: 283
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Thomas01
+parentLetter: T
+parentDesc: Thomas Vining and Hannah Randall
+head:
+  givenName: Jonah
+  birth:
+    date: 17 March 1744
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 4 September 1765
+    place: "Abington, Massachusetts"
+    spouse:
+      givenName: Olive
+      surname: Leavitt
+childrenGroups:
+  - children:
+      - name: Olive Vining
+        birth:
+          date: 17 May 1766
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 10 September 1792
+            spouse: Asa Andrews
+      - name: Huldah Vining
+        birth:
+          date: 28 March 1768
+          place: "Abington, Massachusetts"
+      - name: Leavitt A. Vining
+        entryId: LeavittA01
+        entryLetter: L
+        birth:
+          date: ca. 1771
+          place: "Pownalborough, Maine"
+        marriages:
+          - date: 10 April 1794
+            spouse: Lucy Andrews
+      - name: Lucy Vining
+        birth:
+          date: ca. 1774
+        marriages:
+          - date: 17 January 1793
+            spouse: Jacob Rowell
+      - name: "Sarah &#8220;Sally&#8221; Vining"
+        birth:
+          date: ca. 1776
+        marriages:
+          - date: 31 March 1799
+            place: "Durham, Maine"
+            spouse: John Parker
+      - name: David Vining
+        birth:
+          date: ca. 1778
+        marriages:
+          - number: 1
+            date: "[Mrs. Jane &#8220;Jenny&#8221; Gurrell?]"
+          - number: 2
+            date: int. 16 January 1830
+            spouse: Dolly Grant
+      - name: "Eliza &#8220;Betty&#8221; Vining"
+        birth:
+          date: ca. 1780
+        marriages:
+          - date: 19 March 1797
+            place: "Durham, Maine"
+            spouse: James Parker Jr.
+      - name: Jonathan Vining
+        entryId: Jonathan02
+        birth:
+          date: "1783"
+          place: "Pownalborough, Maine"
+        marriages:
+          - date: 31 October 1802
+            spouse: "Jane [&#8220;Jenny&#8221; Gurrell?]"
+        death:
+          date: 22 November 1855
+          place: "Windsor, Maine"
+        burial:
+          place: "Windsor Neck Cemetery   Windsor, Maine"
+      - name: Olivia Vining
+        birth:
+          date: ca. 1784
+      - name: Benjamin Leavitt Vining
+        entryId: BenjaminL01
+        entryLetter: B
+        birth:
+          date: 10 October 1786
+          place: "Balltown, Maine"
+        marriages:
+          - date: 1 January 1811
+            spouse: Elizabeth Clough
+        death:
+          date: 20 December 1814
+      - name: Nathan Vining
+        entryId: Nathan01
+        entryLetter: N
+        birth:
+          date: ca. 1788
+          place: "Pownalborough, Maine"
+        marriages:
+          - date: 19 April 1810
+            place: "Portland, Maine"
+            spouse: Jane Smith
+      - name: Daniel Vining
+        entryId: Daniel01
+        entryLetter: D
+        birth:
+          date: "1790"
+          place: "Balltown, Maine"
+        marriages:
+          - date: int. 10 September 1812
+            spouse: Deborah Waters
+        death:
+          date: 11 September 1846
+docsUrl: Jsources/Jonah01doc.htm
+raw: |-
+  <a name="Jonah01"></a><font size=+2>Jonah Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas01">Thomas Vining and Hannah Randall</a>)
+     b. 17 March 1744   Weymouth, Norfolk County, Massachusetts
+     m. 4 September 1765   Abington, Massachusetts
+           Olive Leavitt
+  
+  <font size=+1>children:</font>
+     Olive Vining   b. 17 May 1766   Abington, Massachusetts   -   m. 10 September 1792   Asa Andrews
+     Huldah Vining   b. 28 March 1768   Abington, Massachusetts
+     <a href="Lfamilies.htm#LeavittA01">Leavitt A. Vining</a>   b. ca. 1771   Pownalborough, Maine   -   m. 10 April 1794   Lucy Andrews
+     Lucy Vining   b. ca. 1774   -   m. 17 January 1793   Jacob Rowell
+     Sarah &#8220;Sally&#8221; Vining   b. ca. 1776   -   m. 31 March 1799   Durham, Maine   John Parker
+     David Vining   b. ca. 1778   -   m. (1) [Mrs. Jane &#8220;Jenny&#8221; Gurrell?];   (2) int. 16 January 1830   Dolly Grant
+     Eliza &#8220;Betty&#8221; Vining   b. ca. 1780   -   m. 19 March 1797   Durham, Maine   James Parker Jr.
+     <a href="#Jonathan02">Jonathan Vining</a>   b. 1783   Pownalborough, Maine   -   m. 31 October 1802   Jane [&#8220;Jenny&#8221; Gurrell?]   -   d. 22 November 1855   Windsor, Maine   -   bur. Windsor Neck Cemetery   Windsor, Maine
+     Olivia Vining   b. ca. 1784
+     <a href="Bfamilies.htm#BenjaminL01">Benjamin Leavitt Vining</a>   b. 10 October 1786   Balltown, Maine   -   m. 1 January 1811   Elizabeth Clough   -   d. 20 December 1814
+     <a href="Nfamilies.htm#Nathan01">Nathan Vining</a>   b. ca. 1788   Pownalborough, Maine   -   m. 19 April 1810   Portland, Maine   Jane Smith
+     <a href="Dfamilies.htm#Daniel01">Daniel Vining</a>   b. 1790   Balltown, Maine   -   m. int. 10 September 1812   Deborah Waters   -   d. 11 September 1846
+  
+  <a href="Jsources/Jonah01doc.htm">documentation and notes</a>

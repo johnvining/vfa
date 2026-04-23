@@ -1,0 +1,109 @@
+id: ErnestL02
+sequence: 115
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JamesMJr01
+parentLetter: J
+parentDesc: "James M. Vining Jr. and [Jane or Jeannie] Lindsley"
+head:
+  givenName: Ernest Lester
+  birth:
+    date: 22 February 1879
+    place: "Morehead, Kansas"
+  death:
+    date: 23 October 1945
+    place: "Phoenix, Arizona"
+  burial:
+    place: "Greenwood Memory Lawn Cemetery   Phoenix, Arizona"
+marriages:
+  - date: 22 February 1903
+    spouse:
+      givenName: Lou Purl
+      surname: Hopkins
+      parents: (dau of Solomon Hopkins and Sarah Emma Albright)
+      birth:
+        date: 8 November 1885
+        place: "Rudy, Arkansas"
+      death:
+        date: 6 April 1973
+        place: "Glendale, Arizona"
+      burial:
+        place: "Greenwood Memory Lawn Cemetery   Phoenix, Arizona"
+childrenGroups:
+  - children:
+      - name: Carl Weston Vining
+        birth:
+          date: 1 December 1903
+          place: "Neodesha, Kansas"
+        marriages:
+          - spouse: "[1?] Florence [...];   [2?] Iva [...]"
+        death:
+          date: 10 July 1964
+          place: "Glendale, Arizona"
+        burial:
+          place: "Resthaven Memorial Park   Glendale, Arizona"
+      - name: Ella May Vining
+        birth:
+          date: 5 September 1906
+          place: "Vilas, Kansas"
+        marriages:
+          - date: 16 November 1925
+            place: "Fredonia, Kansas"
+            spouse: Paul Babcock
+        death:
+          date: 25 December 1933
+          place: "Neodesha, Kansas"
+        burial:
+          place: Harrison Cemetery   Kansas
+      - name: Jesse Lee Vining
+        entryId: JesseL02
+        entryLetter: J
+        birth:
+          date: 25 May 1908
+          place: "Vilas, Kansas"
+        marriages:
+          - date: 18 November 1933
+            place: Kansas
+            spouse: Pearl Adell Williams
+        death:
+          date: 4 June 1993
+          place: "Tempe, Arizona"
+        burial:
+          place: "Green Acres Memorial Park   Scottsdale, Arizona"
+      - name: Ernest Franklin Vining
+        entryId: ErnestF01
+        entryLetter: E
+        birth:
+          date: 26 June 1918
+          place: "Neodesha, Kansas"
+        marriages:
+          - spouse: "[...] Pennington"
+        death:
+          date: 2 July 2003
+          place: "(last residence: Prescott Valley, Arizona)"
+      - name: Emma Pearl Vining
+        birth:
+          date: 14 September 1920
+          place: "Neodesha, Kansas"
+        marriages:
+          - spouse: "Jim Sullivan,   divorced 18 March 1953"
+raw: |-
+  <a name="ErnestL02"></a><font size=+2>Ernest Lester Vining</font>
+     (son of <a href="Jfamilies.htm#JamesMJr01">James M. Vining Jr. and [Jane or Jeannie] Lindsley</a>)
+     b. 22 February 1879   Morehead, Kansas
+     m. 22 February 1903
+           Lou Purl Hopkins
+                 (dau of Solomon Hopkins and Sarah Emma Albright)
+                 b. 8 November 1885   Rudy, Arkansas
+                 d. 6 April 1973   Glendale, Arizona
+                       bur. Greenwood Memory Lawn Cemetery   Phoenix, Arizona
+     d. 23 October 1945   Phoenix, Arizona
+           bur. Greenwood Memory Lawn Cemetery   Phoenix, Arizona
+  
+  <font size=+1>children:</font>
+     Carl Weston Vining   b. 1 December 1903   Neodesha, Kansas   -   m. [1?] Florence [...];   [2?] Iva [...]   -   d. 10 July 1964   Glendale, Arizona   -   bur. Resthaven Memorial Park   Glendale, Arizona
+     Ella May Vining   b. 5 September 1906   Vilas, Kansas   -   m. 16 November 1925   Fredonia, Kansas   Paul Babcock   -   d. 25 December 1933   Neodesha, Kansas   -   bur. Harrison Cemetery   Kansas
+     <a href="Jfamilies.htm#JesseL02">Jesse Lee Vining</a>   b. 25 May 1908   Vilas, Kansas   -   m. 18 November 1933  Kansas   Pearl Adell Williams   -   d. 4 June 1993   Tempe, Arizona   -   bur. Green Acres Memorial Park   Scottsdale, Arizona
+     <a href="Efamilies.htm#ErnestF01">Ernest Franklin Vining</a>   b. 26 June 1918   Neodesha, Kansas   -   m. [...] Pennington   -   d. 2 July 2003   (last residence: Prescott Valley, Arizona)
+     Emma Pearl Vining   b. 14 September 1920   Neodesha, Kansas   -   m. Jim Sullivan,   divorced 18 March 1953

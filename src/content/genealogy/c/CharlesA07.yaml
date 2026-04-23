@@ -1,0 +1,67 @@
+id: CharlesA07
+letter: C
+sequence: 52
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JamesM03
+parentLetter: J
+parentDesc: James M. Vining and Almira H. Buckland
+head:
+  givenName: Charles Augustus
+  birth:
+    date: 3 June 1844
+    place: Connecticut
+  death:
+    date: 2 August 1916
+    place: Missouri
+marriages:
+  - number: 1
+    date: 26 November 1865
+    place: "Coffey County, Kansas"
+    spouse:
+      givenName: Mary Josephine
+      surname: Smith
+  - number: 2
+    date: "?"
+  - number: 3
+    date: "?"
+  - number: 4
+    date: "?"
+childrenGroups:
+  - headingText: "childen"
+    children:
+      - name: child
+        death:
+          date: before 1900
+      - name: Charles Albert Vining
+        entryId: CharlesA04
+        birth:
+          date: "1886"
+          place: Missouri
+        marriages:
+          - date: "[1?] Kansas City, Missouri   Ada Alice Hall (d. 1862);   (2) Lottie [&#8230;]"
+        death:
+          date: "1946"
+          place: "Stoutland, Missouri   =   bur. Forest Hill Cemetery   Kansas City, Jackson County, Missouri"
+      - name: George F. Vining
+        birth:
+          date: February 1888
+          place: Missouri
+docsUrl: Csources/CharlesA07doc.htm
+raw: |-
+  <a name="CharlesA07"></a><font size=+2>Charles Augustus Vining</font>
+     (son of <a href="Jfamilies.htm#JamesM03">James M. Vining and Almira H. Buckland</a>)
+     b. 3 June 1844   Connecticut
+     m. (1) 26 November 1865   Coffey County, Kansas
+              Mary Josephine Smith
+           (2) ?
+           (3) ?
+           (4) ?
+     d. 2 August 1916   Missouri
+  
+  <font size=+!>childen:</a>
+     child   d. before 1900
+     <a href="#CharlesA04">Charles Albert Vining</a>   b. 1886   Missouri   -   m. [1?] Kansas City, Missouri   Ada Alice Hall (d. 1862);   (2) Lottie [&#8230;]   -   d. 1946   Stoutland, Missouri   =   bur. Forest Hill Cemetery   Kansas City, Jackson County, Missouri
+     George F. Vining   b. February 1888   Missouri
+  
+  <a href="Csources/CharlesA07doc.htm">documentation and notes</a>

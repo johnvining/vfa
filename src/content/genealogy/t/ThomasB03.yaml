@@ -1,0 +1,61 @@
+id: ThomasB03
+letter: T
+sequence: 20
+lastUpdated: 9 March 2023
+relationship: son
+parentId: NathanielF01
+parentLetter: N
+parentDesc: Nathaniel Frier Vining and Pollie Davis
+head:
+  givenName: Thomas B.
+  birth:
+    date: age 7 y. as of 1920 census
+    place: "Homerville, Georgia"
+marriages:
+  - spouse:
+      givenName: Nola Mae
+      surname: Skeen
+      parents: "(dau. of [&#8230;] Skeen and Gertrude [&#8230;])"
+      birth:
+        date: 31 December 1913
+      death:
+        date: 1 May 2001
+      burial:
+        place: "Forest Lawn Memorial Gardens   Lake City, Columbia County, Florida"
+    note: "divorced July 1960   Dade County, Florida"
+childrenGroups:
+  - children:
+      - name: Thomas Nathan Vining
+        entryId: ThomasN02
+        birth:
+          date: "1936"
+          place: "Miami, Florida"
+        marriages:
+          - date: "1974"
+            place: "Miami, Florida"
+            spouse: Nancy Lee Williams
+        death:
+          date: 14 November 2013
+      - name: James Ronald Vining
+        birth:
+          date: age 1 y. as of 1945 census
+          place: Florida
+        marriages:
+          - date: "Shirley [...]"
+docsUrl: Tsources/ThomasB03doc.htm
+raw: |-
+  <a name="ThomasB03"></a><font size=+2>Thomas B. Vining</font>
+     (son of <a href="Nfamilies.htm#NathanielF01">Nathaniel Frier Vining and Pollie Davis</a>)
+     b. age 7 y. as of 1920 census   Homerville, Georgia
+     m. Nola Mae Skeen
+              (dau. of [&#8230;] Skeen and Gertrude [&#8230;])
+              b. 31 December 1913
+              d. 1 May 2001
+                    bur. Forest Lawn Memorial Gardens   Lake City, Columbia County, Florida
+           divorced July 1960   Dade County, Florida
+  
+  <font size=+1>children:</font>
+     <a href="#ThomasN02">Thomas Nathan Vining</a>   b. 1936   Miami, Florida   -   m. 1974   Miami, Florida   Nancy Lee Williams   -   d. 14 November 2013
+     James Ronald Vining   b. age 1 y. as of 1945 census   Florida   -   m. Shirley [...]
+  
+  <a href="Tsources/ThomasB03doc.htm">documentation and notes</a>

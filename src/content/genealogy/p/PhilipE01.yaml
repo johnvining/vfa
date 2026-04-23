@@ -1,0 +1,49 @@
+id: PhilipE01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: PeterS01
+parentDesc: Peter Smith Vining and Sarah Maria Hicks
+head:
+  givenName: Philip E.
+  birth:
+    date: October 1859
+    place: New York
+  death:
+    date: between 1930 and 1940 censuses
+marriages:
+  - date: 16 y. as of 1900 census
+    spouse:
+      givenName: Mahalia
+      surname: "[...]"
+      birth:
+        date: February 1864
+        place: New York
+childrenGroups:
+  - children:
+      - name: Lester R. Vining
+        birth:
+          date: July 1884
+          place: New York
+        marriages:
+          - date: 1 y. as of 1910 census
+            spouse: "Marie [E.] [...]"
+      - name: Ethel Vining
+        birth:
+          date: July 1888
+          place: New York
+docsUrl: Psources/PhilipE01doc.htm
+raw: |-
+  <a name="PhilipE01"></a><font size=+2>Philip E. Vining</font>
+     (son of <a href="#PeterS01">Peter Smith Vining and Sarah Maria Hicks</a>)
+     b. October 1859   New York
+     m. 16 y. as of 1900 census
+           Mahalia [...]
+                 b. February 1864   New York
+     d. between 1930 and 1940 censuses
+  
+  <font size=+1>children:</font>
+     <a href=Lfamilies.htm#LesterR04">Lester R. Vining</a>   b. July 1884   New York   -   m. 1 y. as of 1910 census   Marie [E.] [...]
+     Ethel Vining   b. July 1888   New York
+  
+  <a href="Psources/PhilipE01doc.htm">documentation and notes</a>

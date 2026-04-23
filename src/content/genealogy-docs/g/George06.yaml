@@ -1,0 +1,61 @@
+id: George06
+title: George Vining - Rebecca [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: George Vining
+          values:
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Rebecca ([...]) Vining
+          values:
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Jane Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: 1052 militia district, Clinch County, Georgia - dwelling 181, family 186
+        images:
+          - src: George06census1880.jpg

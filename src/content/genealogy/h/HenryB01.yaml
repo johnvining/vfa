@@ -1,0 +1,98 @@
+id: HenryB01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: ElijahH01
+parentLetter: E
+parentDesc: Elijah H. Vining and Emily F. Bentley
+head:
+  givenName: Henry Bentley
+  birth:
+    date: 3 July 1882
+    place: Georgia
+  death:
+    date: 14 October 1917
+  burial:
+    place: "Porterdale, Georgia"
+marriages:
+  - date: 17 May 1901
+    place: Georgia
+    spouse:
+      givenName: Susan E.
+      surname: Stallsworth
+      parents: "(dau. of [&#8230;] Stallsworth and Emerby F. [&#8230;])"
+      birth:
+        date: 28 February 1884
+        place: Georgia
+      death:
+        date: 11 January 1982
+      burial:
+        place: "Porterdale, Georgia"
+childrenGroups:
+  - children:
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: Agnes M. Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Georgia
+      - name: Jennie Cordella Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Georgia
+      - name: Aubrey Lee Vining
+        birth:
+          date: "age 1 y., 6 m. as of 1910 census"
+          place: Georgia
+      - name: James Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Georgia
+      - name: Rufus N. Vining
+        entryId: RufusN01
+        entryLetter: R
+        birth:
+          date: age 4 y. as of 1920 census
+          place: Georgia
+        marriages:
+          - date: "Theo [&#8230;]"
+      - name: Henry Bentley Vining Jr.
+        entryId: HenryBJr01
+        birth:
+          date: 20 March 1918
+          place: "Porterdale, Georgia"
+        marriages:
+          - number: 1
+            date: "Evelyn [&#8230;]"
+          - number: 2
+            date: Sue Owen
+        death:
+          date: 6 September 2003
+          place: "Columbus, Georgia"
+        burial:
+          place: Parkhill Cemetery
+docsUrl: Hsources/HenryB01doc.htm
+raw: |-
+  <a name="HenryB01"></a><font size=+2>Henry Bentley Vining</font>
+     (son of <a href="Efamilies.htm#ElijahH01">Elijah H. Vining and Emily F. Bentley</a>)
+     b. 3 July 1882   Georgia
+     m. 17 May 1901   Georgia
+           Susan E. Stallsworth
+                 (dau. of [&#8230;] Stallsworth and Emerby F. [&#8230;])
+                 b. 28 February 1884   Georgia
+                 d. 11 January 1982
+                       bur. Porterdale, Georgia
+     d. 14 October 1917
+           bur. Porterdale, Georgia
+  
+  <font size=+1>children:</font>
+     child Vining   d. before 1910 census
+     Agnes M. Vining   b. age 7 y. as of 1910 census   Georgia
+     Jennie Cordella Vining   b. age 4 y. as of 1910 census   Georgia
+     Aubrey Lee Vining   b. age 1 y., 6 m. as of 1910 census   Georgia
+     James Vining   b. age 8 y. as of 1920 census   Georgia
+     <a href="Rfamilies.htm#RufusN01">Rufus N. Vining</a>   b. age 4 y. as of 1920 census   Georgia   -   m. Theo [&#8230;]
+     <a href="#HenryBJr01">Henry Bentley Vining Jr.</a>   b. 20 March 1918   Porterdale, Georgia   -   m. (1) Evelyn [&#8230;];   (2) Sue Owen   -   d. 6 September 2003   Columbus, Georgia   -   bur. Parkhill Cemetery
+  
+  <a href="Hsources/HenryB01doc.htm">documentation and notes</a>

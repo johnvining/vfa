@@ -1,0 +1,70 @@
+id: Jeremiah01
+sequence: 132
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Josiah02
+parentDesc: Josiah Vining and Esther Clough
+head:
+  givenName: Jeremiah
+  birth:
+    date: 11 November 1809
+  death:
+    date: "1890"
+    place: "[Nevada?]"
+marriages:
+  - spouse:
+      givenName: Susan Neal
+      surname: Buffum
+      birth:
+        date: age 37 y. as of 1850 census
+        place: Maine
+childrenGroups:
+  - children:
+      - name: Maria Augusta Vining
+        birth:
+          date: age 23 y. as of 1860 census
+        marriages:
+          - date: "[...] Preston"
+      - name: Sarah Elizabeth Vining
+        birth:
+          date: age 18 y. as of 1860 census
+      - name: Albion B. Vining
+        birth:
+          date: May 1848
+        death:
+          date: 25 September 1848
+        burial:
+          place: "Branch Mills Cemetery   China, Maine"
+      - name: Charles A. Vining
+        birth:
+          date: age 6 y. at death
+        death:
+          date: 2 June 1849
+          place: "China, Maine"
+        burial:
+          place: "Branch Mills Cemetery   China, Maine"
+      - name: Charles A. Vining
+        birth:
+          date: age 10 y. as of 1860 census
+        death:
+          date: Nevada
+      - name: child
+docsUrl: Jsources/Jeremiah01doc.htm
+raw: |-
+  <a name="Jeremiah01"></a><font size=+2>Jeremiah Vining</font>
+     (son of <a href="#Josiah02">Josiah Vining and Esther Clough</a>)
+     b. 11 November 1809
+     m. Susan Neal Buffum
+              b. age 37 y. as of 1850 census   Maine
+     d. 1890   [Nevada?]
+  
+  <font size=+1>children:</font>
+     Maria Augusta Vining   b. age 23 y. as of 1860 census   -   m. [...] Preston
+     Sarah Elizabeth Vining   b. age 18 y. as of 1860 census
+     Albion B. Vining   b. May 1848   -   d. 25 September 1848   -   bur. Branch Mills Cemetery   China, Maine
+     Charles A. Vining   b. age 6 y. at death   -   d. 2 June 1849   China, Maine   -   bur. Branch Mills Cemetery   China, Maine
+     Charles A. Vining   b. age 10 y. as of 1860 census   -   d. Nevada
+     child
+  
+  <a href="Jsources/Jeremiah01doc.htm">documentation and notes</a>

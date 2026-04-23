@@ -1,0 +1,81 @@
+id: WilliamE04
+title: William E. Vining - Glennie Albright
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William E. Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+            - "57"
+            - "?"
+        - label: Glennie (Albright) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - "55"
+            - "?"
+        - label: Howard Vining
+          values:
+            - "3"
+            - "13"
+            - "23"
+            - "[married and?] living in separate household"
+            - ""
+          indent: true
+        - label: Dewey T. Vining
+          values:
+            - "2"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Walter V. Vining
+          values:
+            - ""
+            - 10 m.
+            - "9"
+            - "20"
+            - "?"
+          indent: true
+        - label: Charlotte M. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Limestone, Kankakee County, Illinois - dwelling 97, family 97. Also living in this household in 1900 was
+          “boarder” Carrie Albright (85 y., b. Germany), likely the mother of Glennie Albright.
+        images:
+          - src: WilliamE04census1900.jpg
+      - year: "1910"
+        caption: Bourbonnais Township, Kankakee County, Illinois - dwelling 170, family 171
+        images:
+          - src: WilliamE04census1910a.jpg
+          - src: WilliamE04census1910b.jpg
+      - year: "1920"
+        caption: >-
+          Ganeer Township, Kankakee County, Illinois - dwelling 159, family 202. In 1920, Dewey T. Vining was listed
+          also as a member of the Yellowhead Township, Kankakee County, Illinois, household of a Charles and Lena
+          Westerberg.
+        images:
+          - src: WilliamE04census1920.jpg
+      - year: "1930"
+        caption: Ganeer Township, Kankakee County, Illinois - dwelling [number not given], family 95
+        images:
+          - src: WilliamE04census1930.jpg

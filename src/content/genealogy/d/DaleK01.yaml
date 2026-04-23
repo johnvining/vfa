@@ -1,0 +1,56 @@
+id: DaleK01
+sequence: 3
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LloydK01
+parentLetter: L
+parentDesc: Lloyd Kelly Vining and Clara Coates
+head:
+  givenName: Dale Kelly
+  birth:
+    date: 25 March 1926
+    place: Utah
+  death:
+    date: 16 June 1997
+  burial:
+    place: "Ben Lomond Cemetery   North Ogden, Weber County, Utah"
+marriages:
+  - spouse:
+      givenName: Patty Ellen
+      surname: Montgomery
+      parents: "(dau. of Joseph Kimbal Montgomery and Thelma Hall)"
+      birth:
+        date: 8 March 1929
+        place: "North Ogden, Weber County, Utah"
+      death:
+        date: 30 April 2015
+        place: "Panama City, Bay County, Florida"
+      burial:
+        place: "Ben Lomond Cemetery   North Ogden, Weber County, Utah"
+childrenGroups:
+  - children:
+      - name: Kelly Vining
+      - name: Terry Vining
+      - name: Dale Ellen Vining
+        marriages:
+          - spouse: "[...] Breiland"
+docsUrl: Dsources/DaleK01doc.htm
+raw: |-
+  <a name="DaleK01"></a><font size=+2>Dale Kelly Vining</font>
+     (son of <a href="Lfamilies.htm#LloydK01">Lloyd Kelly Vining and Clara Coates</a>)
+     b. 25 March 1926   Utah
+     m. Patty Ellen Montgomery
+              (dau. of Joseph Kimbal Montgomery and Thelma Hall)
+              b. 8 March 1929   North Ogden, Weber County, Utah
+              d. 30 April 2015   Panama City, Bay County, Florida
+                    bur. Ben Lomond Cemetery   North Ogden, Weber County, Utah
+     d. 16 June 1997
+           bur. Ben Lomond Cemetery   North Ogden, Weber County, Utah
+
+  <font size=+1>children:</font>
+     Kelly Vining
+     Terry Vining
+     Dale Ellen Vining   m. [...] Breiland
+
+  <a href="Dsources/DaleK01doc.htm">documentation and notes</a>

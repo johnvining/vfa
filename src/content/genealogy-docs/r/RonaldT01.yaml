@@ -1,0 +1,41 @@
+id: RonaldT01
+title: Ronald Theodore Benjamin Vining - Theresa Marie Siebenaler
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ronald Theodore Benjamin Vining
+          values:
+            - "27"
+            - "36"
+        - label: Theresa Marie (Siebenaler) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Ronald Harold Vining
+          values:
+            - 4 y., [2?] m.
+            - "14"
+          indent: true
+        - label: Shirley Vining
+          values:
+            - 3 y., [3?] m.
+            - "13"
+          indent: true
+        - label: "[Jean?] Vining"
+          values:
+            - 1 y., 10 m.
+            - "11"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Pacific Grove, Monterey County, California
+        images:
+          - src: RonaldT01census1930.jpg
+      - year: "1940"
+        caption: Pacific Grove, Monterey County, California
+        images:
+          - src: RonaldT01census1940.jpg

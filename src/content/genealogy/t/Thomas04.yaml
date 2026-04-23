@@ -1,0 +1,119 @@
+id: Thomas04
+letter: T
+sequence: 10
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Thomas03
+parentDesc: Thomas Vining and Jemima Haines
+head:
+  givenName: Thomas
+  birth:
+    date: 19 May 1835
+    place: "Avon, Franklin County, Maine"
+  death:
+    date: 13 December 1918
+    place: "Eustis, Franklin County, Maine"
+  burial:
+    place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+marriages:
+  - date: 39 y. as of 1900 census
+    spouse:
+      givenName: Releaf S.
+      surname: Walker
+      parents: "(dau. of Chandler Walker and Meribah C. &#8220;Mary&#8221; Smith)"
+      birth:
+        date: 22 February 1839
+        place: "Freeman Township, Franklin County, Maine"
+      death:
+        date: 6 January 1921
+        place: "Eustis, Franklin County, Maine"
+      burial:
+        place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Stella M. Vining
+        birth:
+          date: 2 March 1866
+          place: "Avon, Franklin County, Maine"
+        death:
+          date: 5 March 1867
+        burial:
+          place: "Mount Blue Cemetery   Avon, Franklin County, Maine"
+      - name: Arthur L. Vining
+        entryId: ArthurL01
+        entryLetter: A
+        birth:
+          date: 22 October 1867
+          place: Maine
+        marriages:
+          - date: 27 October 1897
+            place: "Berlin, Coos County, New Hampshire"
+            spouse: "Agnes J. &#8220;Addie&#8221; Webster"
+        death:
+          date: 3 June 1931
+          place: "Utica, Oneida County, New York"
+        burial:
+          place: "Waterford, Saratoge County, New York"
+      - name: Elmer Chandler Vining
+        entryId: ElmerC01
+        entryLetter: E
+        birth:
+          date: 16 January 1871
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 4 June 1908
+            place: "Corinna, Penobscot County, Maine"
+            spouse: Lelia Madge Day
+        death:
+          date: 6 November 1940
+          place: "Corinna, Penobscot County, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Lula Belle Vining
+        birth:
+          date: 9 November 1877
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 17 October 1896
+            place: "Portsmouth, Rockingham County, New Hampshire"
+            spouse: Samuel B. Johnson
+        death:
+          date: 18 September 1952
+          place: "Kennebec County, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Eva Vining
+        birth:
+          date: 21 June 1881
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 4 December 1907
+            place: "Phillips, Franklin County, Maine"
+            spouse: Llewellyn Knowles
+        death:
+          date: 26 November 1960
+          place: "Eustis, Franklin County, Maine"
+        burial:
+          place: "Stratton Upper Cemetery   Eustis, Franklin County, Maine"
+docsUrl: Tsources/Thomas04doc.htm
+raw: |-
+  <a name="Thomas04"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="#Thomas03">Thomas Vining and Jemima Haines</a>)
+     b. 19 May 1835   Avon, Franklin County, Maine
+     m. 39 y. as of 1900 census
+           Releaf S. Walker
+                 (dau. of Chandler Walker and Meribah C. &#8220;Mary&#8221; Smith)
+                 b. 22 February 1839   Freeman Township, Franklin County, Maine
+                 d. 6 January 1921   Eustis, Franklin County, Maine
+                       bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     d. 13 December 1918   Eustis, Franklin County, Maine
+           bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Stella M. Vining   b. 2 March 1866   Avon, Franklin County, Maine   -   d. 5 March 1867   -   bur. Mount Blue Cemetery   Avon, Franklin County, Maine
+     <a href="Afamilies.htm#ArthurL01">Arthur L. Vining</a>   b. 22 October 1867   Maine   -   m. 27 October 1897   Berlin, Coos County, New Hampshire   Agnes J. &#8220;Addie&#8221; Webster   -   d. 3 June 1931   Utica, Oneida County, New York   -   bur. Waterford, Saratoge County, New York
+     <a href="Efamilies.htm#ElmerC01">Elmer Chandler Vining</a>   b. 16 January 1871   Avon, Franklin County, Maine   -   m. 4 June 1908   Corinna, Penobscot County, Maine   Lelia Madge Day   -   d. 6 November 1940   Corinna, Penobscot County, Maine   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Lula Belle Vining   b. 9 November 1877   Avon, Franklin County, Maine   -   m. 17 October 1896   Portsmouth, Rockingham County, New Hampshire   Samuel B. Johnson   -   d. 18 September 1952   Kennebec County, Maine   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Eva Vining   b. 21 June 1881   Avon, Franklin County, Maine   -   m. 4 December 1907   Phillips, Franklin County, Maine   Llewellyn Knowles   -   d. 26 November 1960   Eustis, Franklin County, Maine   -   bur. Stratton Upper Cemetery   Eustis, Franklin County, Maine
+  
+  <a href="Tsources/Thomas04doc.htm">documentation and notes</a>

@@ -1,0 +1,31 @@
+id: KirbyR01
+letter: K
+sequence: 30
+lastUpdated: 24 July 2022
+relationship: son
+parentId: TheronM01
+parentLetter: T
+parentDesc: Theron Marcus Vining and Rita Mary Kirby
+head:
+  givenName: Kirby Robert Russell
+  birth:
+    date: 30 July 1953
+    place: "Baltimore, Maryland"
+marriages:
+  - spouse:
+      givenName: Katherine
+      surname: Todd
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Miles Kenneth Vining
+        birth:
+          date: 11 November 1991
+raw: |-
+  <a name="KirbyR01"></a><font size=+2>Kirby Robert Russell Vining</font>
+     (son of <a href="Tfamilies.htm#TheronM01">Theron Marcus Vining and Rita Mary Kirby</a>)
+     b. 30 July 1953   Baltimore, Maryland
+     m. Katherine Todd
+  
+  <font size=+1>child:</font>
+     Miles Kenneth Vining   b. 11 November 1991

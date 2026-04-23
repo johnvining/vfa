@@ -1,0 +1,68 @@
+id: JamesL04
+title: James L. Vining - Margaret [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+      rows:
+        - label: James L. Vining
+          values:
+            - "?"
+            - "37"
+            - "?"
+        - label: Margaret ([…]) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+        - label: Hestelena Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+          indent: true
+        - label: William H. Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+          indent: true
+        - label: Ellen Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+          indent: true
+        - label: Anna Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+          indent: true
+        - label: Rebecca Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: New Castle, New Castle County, Delaware - dwelling 174, family 174
+        images:
+          - src: JamesL04census1850a.jpg
+          - src: JamesL04census1850b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone shared by James L. Vining, in Immanuel Episcopal Churchyard, New Castle, New Castle County, Delaware
+          (from Find A Grave):
+        images:
+          - src: JamesL04gravestone.jpg
+      - caption: >-
+          Headstone for Margaret (Robinson) Vining and daughter Anna Vining, in Immanuel Episcopal Churchyard, New
+          Castle, New Castle County, Delaware (from Find A Grave):
+        images:
+          - src: JamesL04wifegravestone.jpg

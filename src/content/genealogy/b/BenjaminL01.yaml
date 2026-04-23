@@ -1,0 +1,46 @@
+id: BenjaminL01
+letter: B
+sequence: 37
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Jonah01
+parentLetter: J
+parentDesc: Jonah Vining and Olive Leavitt
+head:
+  givenName: Benjamin Leavitt
+  birth:
+    date: 10 October 1786
+    place: "Balltown, Lincoln County, Maine"
+  death:
+    date: 20 December 1814
+marriages:
+  - date: 1 January 1811
+    spouse:
+      givenName: Elizabeth
+      surname: Clough
+childrenGroups:
+  - children:
+      - name: Adaline B. Vining
+        birth:
+          date: ca. 1812
+          place: "Litchfield, Kennebec County, Maine"
+        marriages:
+          - date: 3 January 1828
+            spouse: Dennis Gatchel Howard
+      - name: Olly L. Vining
+        birth:
+          date: ca. 1814
+        marriages:
+          - date: 9 March 1838
+            spouse: Amiel Bailey
+raw: |-
+  <a name="BenjaminL01"></a><font size=+2>Benjamin Leavitt Vining</font>
+     (son of <a href="Jfamilies.htm#Jonah01">Jonah Vining and Olive Leavitt</a>)
+     b. 10 October 1786   Balltown, Lincoln County, Maine
+     m. 1 January 1811
+           Elizabeth Clough
+     d. 20 December 1814
+  
+  <font size=+1>children:</font>
+     Adaline B. Vining   b. ca. 1812   Litchfield, Kennebec County, Maine   -   m. 3 January 1828   Dennis Gatchel Howard
+     Olly L. Vining   b. ca. 1814   -   m. 9 March 1838   Amiel Bailey

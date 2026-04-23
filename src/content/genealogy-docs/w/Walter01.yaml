@@ -1,0 +1,59 @@
+id: Walter01
+title: Walter Vining - Mabel Bye
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Walter Vining
+          values:
+            - "29"
+            - "40"
+            - "50"
+        - label: Mabel (Bye) Vining
+          values:
+            - "32"
+            - "42"
+            - "52"
+        - label: Bruce Vining
+          values:
+            - "5"
+            - "16"
+            - married and living in separate household
+          indent: true
+        - label: Margaret Vining
+          values:
+            - |-
+              2 y., 9 m.
+              [see note below]
+            - "12"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Dell Rapids, Minnehaha County, South Dakota - dwelling 166, family 174. Margaret's age was reported in the
+          census record as "2-3/4" [years].
+        images:
+          - src: Walter01census1920a.jpg
+          - src: Walter01census1920b.jpg
+      - year: "1930"
+        caption: Luverne Township, Rock County, Minnesota - dwelling 305, family 314
+        images:
+          - src: Walter01census1930.jpg
+      - year: "1940"
+        caption: Luverne Township, Rock County, Minnesota
+        images:
+          - src: Walter01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Walter Vining and Mabel (Bye) Vining, in Maplewood Cemetery, Luverne, Rock County, Minnesota
+          (from Find A Grave):
+        images:
+          - src: Walter01gravestone.jpg
+          - src: Walter01wifegravestone.jpg
+        inline: true

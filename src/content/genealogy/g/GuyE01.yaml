@@ -1,0 +1,91 @@
+id: GuyE01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: WilliamA01
+parentLetter: W
+parentDesc: William Albert Vining and Charlotte Olivia Burley
+head:
+  givenName: Guy Ellsworth
+  birth:
+    date: 11 August 1890
+    place: New York
+  death:
+    date: March 1984
+    place: "(last residence: Binghamton, New York)"
+  burial:
+    place: "Kattellville Cemetery   Kattellville, New York"
+marriages:
+  - date: 20 May 1914
+    spouse:
+      givenName: Flora M.
+      surname: Davis
+      birth:
+        date: "1892"
+        place: Nebraska
+      death:
+        date: "1980"
+      burial:
+        place: "Kattellville Cemetery   Kattellville, New York"
+childrenGroups:
+  - children:
+      - name: Guy Ellsworth Vining Jr.
+        entryId: GuyEJr01
+        entryLetter: G
+        birth:
+          date: "[27 or 28?] February 1915"
+          place: Nebraska
+        marriages:
+          - date: Irene A. Townsend
+        death:
+          date: December 1973
+      - name: Leland Paul Vining
+        entryId: LelandP01
+        entryLetter: L
+        birth:
+          date: 15 June 1918
+          place: Nebraska
+        marriages:
+          - date: Isabel Walker
+        death:
+          date: September 1977
+      - name: William Albert Vining
+        entryId: WilliamA02
+        entryLetter: W
+        birth:
+          date: 1 January 1928
+          place: "Binghamton, New York"
+        marriages:
+          - date: "Waterville, New York"
+            spouse: Constance Mae Bartlett
+        death:
+          date: 5 September 1978
+        burial:
+          place: "Grove Place Cemetery   Chili Center, New York"
+      - name: Milton James Vining
+        entryId: MiltonJ01
+        entryLetter: M
+        birth:
+          date: 13 August 1932
+        marriages:
+          - date: Sandra Fisher
+docsUrl: Gsources/GuyE01doc.htm
+raw: |-
+  <a name="GuyE01"></a><font size=+2>Guy Ellsworth Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamA01">William Albert Vining and Charlotte Olivia Burley</a>)
+     b. 11 August 1890   New York
+     m. 20 May 1914
+           Flora M. Davis
+                 b. 1892   Nebraska
+                 d. 1980
+                       bur. Kattellville Cemetery   Kattellville, New York
+     d. March 1984   (last residence: Binghamton, New York)
+           bur. Kattellville Cemetery   Kattellville, New York
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GuyEJr01">Guy Ellsworth Vining Jr.</a>   b. [27 or 28?] February 1915   Nebraska   -   m. Irene A. Townsend   -   d. December 1973
+     <a href="Lfamilies.htm#LelandP01">Leland Paul Vining</a>   b. 15 June 1918   Nebraska   -   m. Isabel Walker   -   d. September 1977
+     <a href="Wfamilies.htm#WilliamA02">William Albert Vining</a>   b. 1 January 1928   Binghamton, New York   -   m. Waterville, New York   Constance Mae Bartlett   -   d. 5 September 1978   -   bur. Grove Place Cemetery   Chili Center, New York
+     <a href="Mfamilies.htm#MiltonJ01">Milton James Vining</a>   b. 13 August 1932   -   m. Sandra Fisher
+  
+  <a href="Gsources/GuyE01doc.htm">documentation and notes</a>

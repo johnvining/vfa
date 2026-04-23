@@ -1,0 +1,45 @@
+id: ClarenceL01
+title: Clarence Lee Vining - Jennie M. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Clarence Lee Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+        - label: Jennie M. ([…]) Vining
+          values:
+            - "28"
+            - "39"
+            - "50"
+        - label: Dorothy Vining
+          values:
+            - 3 y., 11 m.
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Clarence Lee Vining Jr.
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Filer Precinct, Twin Falls County, Idaho - dwelling 265, family 266
+        images:
+          - src: ClarenceL01census1920.jpg
+      - year: "1930"
+        caption: Starrhs Ferry, Cassia County, Idaho - dwelling 81, family 84
+        images:
+          - src: ClarenceL01census1930.jpg
+      - year: "1940"
+        caption: Murtaugh Precinct, Twin Falls County, Idaho
+        images:
+          - src: ClarenceL01census1940.jpg

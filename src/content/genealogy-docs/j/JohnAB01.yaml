@@ -1,0 +1,113 @@
+id: JohnAB01
+title: John A. Bradley Vining - Sarah Jane Brown
+intro:
+  - caption: "Ammi Vining and Sarah Jane (Brown) Vining:"
+    images:
+      - src: JohnAB01andwifeSarah.jpg
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage license and return of marriage for Ammi Vining and Sarah Jane (Brown) Vining:"
+        images:
+          - src: JohnAB01marrlicense.jpg
+      - images:
+          - src: JohnAB01marrreturn.jpg
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John A. Bradley Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "58"
+            - "?"
+        - label: Sarah Jane (Brown) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: William McKinley Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Donald Dewey Admiral Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Delphia Mae Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Dessie Sylvertia Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Anna Rebecca Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - living with brother Donald Admiral Dewey Vining and family
+            - ""
+          indent: true
+        - label: Lloyd Henry Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "21"
+            - "?"
+          indent: true
+        - label: Mary Geraldine Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Helen Josephine Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Center Township of Muncie, Delaware County, Indiana
+        images:
+          - src: JohnAB01census1930.jpg
+  - type: death
+    items:
+      - caption: "Gravestones for Ammi Vining and Sarah Jane (Brown) Vining (note spelling of surname):"
+        images:
+          - src: JohnAB01gravestone.jpg
+          - src: JohnAB01wifegravestone.jpg
+        inline: true

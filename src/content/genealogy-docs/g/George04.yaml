@@ -1,0 +1,75 @@
+id: George04
+title: George Vining - Annie [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: George Vining
+          values:
+            - "?"
+            - "39"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Annie ([...]) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: George J. Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frederick Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Annie Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          New York (Manhattan), New York - dwelling 96, family 309. Also living in this household in 1880 were Lawrence
+          Hafner (boarder, 40 y., b. Germany), John Quinn (lodger, 38 y., b. Ireland), Verman Snyder (boarder, 38 y., b.
+          Germany), John Dixon (boarder, 50 y., b. Ireland), Patrick Vanrmil[?] (boarder, 34 y., b. Ireland), George
+          Meyer (boarder, 25 y., b. Germany), Elizabeth Repon (servant, 22 y., b. Bavaria), John Ryan (boarder, 25 y.,
+          b. Ireland), and James Ryan (boarder, 22 y., b. Ireland).
+        images:
+          - src: George04census1880.jpg

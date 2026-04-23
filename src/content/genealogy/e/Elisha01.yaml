@@ -1,0 +1,134 @@
+id: Elisha01
+sequence: 79
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: George01
+parentLetter: G
+parentDesc: George Vining and Hannah Judkins
+head:
+  givenName: Elisha
+  birth:
+    date: ca. 1714
+  death:
+    date: 3 April 1799
+    place: "Abington, Plymouth County, Massachusetts"
+marriages:
+  - date: 3 December 1741
+    spouse:
+      givenName: Mary
+      surname: Leavitt
+      parents: (dau. of Israel Leavitt and Mary Bates)
+childrenGroups:
+  - children:
+      - name: Elisha Vining Jr.
+        entryId: ElishaJr01
+        birth:
+          date: "1742"
+        marriages:
+          - date: 2 May 1764
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Deborah Fullerton
+        death:
+          date: 11 March 1822
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 23 August 1744
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 14 February 1752
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: David Vining
+        birth:
+          date: 7 November 1746
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 10 March 1752
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Israel Vining
+        birth:
+          date: 24 December 1748
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 23 February 1752
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Ebed Vining
+        birth:
+          date: 14 December 1749
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 4 February 1752
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: David Vining
+        entryId: David02
+        entryLetter: D
+        birth:
+          date: 14 January 1753
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: int. 12 February 1774
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Esther Corthel
+        death:
+          date: ca. 1795
+          place: "Coxsackie, New York"
+      - name: Mary Vining
+        birth:
+          date: 14 September 1755
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 24 March 1784
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: "Levi [Gardner or Garnet?] (of Hingham, Massachusetts)"
+      - name: Israel Vining
+        entryId: Israel01
+        entryLetter: I
+        birth:
+          date: ca. 1760
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 4 February 1782
+            place: "Hingham, Massachusetts"
+            spouse: Abia Dunbar
+        death:
+          date: 16 April 1840
+          place: "Windsor, Massachusetts"
+        burial:
+          place: "Windsor Bush Cemetery   Windsor, Massachusetts"
+      - name: Ebed Vining
+        entryId: Ebed01
+        birth:
+          date: 14 December 1762
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 29 October 1785
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: "Abigail &#8220;Nabby&#8221; Curtis"
+        death:
+          date: 1 November 1844
+          place: "Abington, Plymouth County, Massachusetts"
+        burial:
+          place: "Maplewood Cemetery   Rockland, Massachusetts"
+docsUrl: Esources/Elisha01doc.htm
+raw: |-
+  <a name="Elisha01"></a><font size=+2>Elisha Vining</font>
+     (son of <a href="Gfamilies.htm#George01">George Vining and Hannah Judkins</a>)
+     b. ca. 1714
+     m. 3 December 1741
+           Mary Leavitt
+                 (dau. of Israel Leavitt and Mary Bates)
+     d. 3 April 1799   Abington, Plymouth County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#ElishaJr01">Elisha Vining Jr.</a>   b. 1742   -   m. 2 May 1764   Abington, Plymouth County, Massachusetts   Deborah Fullerton   -   d. 11 March 1822   Abington, Plymouth County, Massachusetts
+     Mary Vining   b. 23 August 1744   Abington, Plymouth County, Massachusetts   -   d. 14 February 1752   Abington, Plymouth County, Massachusetts
+     David Vining   b. 7 November 1746   Abington, Plymouth County, Massachusetts   -   d. 10 March 1752   Abington, Plymouth County, Massachusetts
+     Israel Vining   b. 24 December 1748   Abington, Plymouth County, Massachusetts   -   d. 23 February 1752   Abington, Plymouth County, Massachusetts
+     Ebed Vining   b. 14 December 1749   Abington, Plymouth County, Massachusetts   -   d. 4 February 1752   Abington, Plymouth County, Massachusetts
+     <a href="Dfamilies.htm#David02">David Vining</a>   b. 14 January 1753   Abington, Plymouth County, Massachusetts   -   m. int. 12 February 1774   Abington, Plymouth County, Massachusetts   Esther Corthel   -   d. ca. 1795   Coxsackie, New York
+     Mary Vining   b. 14 September 1755   Abington, Plymouth County, Massachusetts   -   m. 24 March 1784   Abington, Plymouth County, Massachusetts   Levi [Gardner or Garnet?] (of Hingham, Massachusetts)
+     <a href="Ifamilies.htm#Israel01">Israel Vining</a>   b. ca. 1760   Abington, Plymouth County, Massachusetts   -    m. 4 February 1782   Hingham, Massachusetts   Abia Dunbar   -   d. 16 April 1840   Windsor, Massachusetts   -   bur. Windsor Bush Cemetery   Windsor, Massachusetts
+     <a href="#Ebed01">Ebed Vining</a>   b. 14 December 1762   Abington, Plymouth County, Massachusetts   -   m. 29 October 1785   Abington, Plymouth County, Massachusetts   Abigail &#8220;Nabby&#8221; Curtis   -   d. 1 November 1844   Abington, Plymouth County, Massachusetts   -   bur. Maplewood Cemetery   Rockland, Massachusetts
+  
+  <a href="Esources/Elisha01doc.htm">documentation and notes</a>

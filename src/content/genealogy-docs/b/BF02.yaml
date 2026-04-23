@@ -1,0 +1,79 @@
+id: BF02
+title: B. F. Vining - Mary C. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: B. F. Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary C. ([...]) Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Robert Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Louisa Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Franklin Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John [Y.?] Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Chestnut Creek post office, Baker County, Alabama - dwelling 54, family 54
+        images:
+          - src: BF02census1870.jpg

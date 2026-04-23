@@ -1,0 +1,134 @@
+id: ShedrickW01
+title: Shedrick W. Vining - Virginia Fay Huett
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Shedrick W. Vining
+          values:
+            - "27"
+            - "?"
+            - "48"
+            - "?"
+            - dead
+            - ""
+        - label: Virginia Fay (Huett) Vining
+          values:
+            - "24"
+            - "?"
+            - "44"
+            - "?"
+            - "?"
+            - dead
+        - label: John P. Vining
+          values:
+            - "1"
+            - "?"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nora U Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Andrew J. Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Callie R. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Wilber N. Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nancy E. Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Benjamin D. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charlie Roberson Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Henry H. Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Beat 1, Bibb County, Alabama - dwelling [no number reported], family 12
+        images:
+          - src: ShedrickW01census1880.jpg
+      - year: "1900"
+        caption: Kingdom (Beat 1), Bibb County, Alabama - dwelling 589, family 603
+        images:
+          - src: ShedrickW01census1900.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Shedrick W. Vining, in Acker Cemetery, Woodstock, Bibb County, Alabama (from Find A Grave):"
+        images:
+          - src: ShedrickW01gravestone.jpg
+      - caption: >-
+          Headstone for Shedrick W. Vining and Virginia Fay (Huett) Vining, in Acker Cemetery, Woodstock, Bibb County,
+          Alabama (from Find A Grave):
+        images:
+          - src: ShedrickW01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Callie Vining, daughter of Shedrick W. Vining and Virginia Fay (Huett) Vining, in Acker
+          Cemetery, Woodstock, Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: ShedrickW01dauCalliegravestone.jpg

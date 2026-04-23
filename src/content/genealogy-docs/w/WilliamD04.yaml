@@ -1,0 +1,85 @@
+id: WilliamD04
+title: William David Vining - Minnie Belle Fuller
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William David Vining
+          values:
+            - "38"
+            - "47"
+            - dead
+        - label: Minnie Belle (Fuller) Vining
+          values:
+            - "34"
+            - "44"
+            - "55"
+        - label: Velma J. Vining
+          values:
+            - "9"
+            - "19"
+            - "[living? in separate household]"
+          indent: true
+        - label: Vera [F.?] Vining
+          values:
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+          indent: true
+        - label: Lewis Edward Vining
+          values:
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+        - label: Willie Era Vining
+          values:
+            - "3"
+            - "13"
+            - "22"
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - ""
+            - "10"
+            - "[living? in separate household]"
+          indent: true
+        - label: William David Vining Jr.
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Audrey Vining
+          values:
+            - ""
+            - "6"
+            - "15"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Poplar Springs, Calhoun County, Mississippi - dwelling 56, family 56
+        images:
+          - src: WilliamD04census1920.jpg
+      - year: "1930"
+        caption: Clear Lake, Mississippi County, Arkansas - dwelling 185, family 185
+        images:
+          - src: WilliamD04census1930.jpg
+      - year: "1940"
+        caption: Big Creek Township, Phillips County, Arkansas
+        images:
+          - src: WilliamD04census1940a.jpg
+          - src: WilliamD04census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for William David Vining and Minnie B. ([…]) Vining, in Cypert Cemetery, Cypert, Phillips County,
+          Arkansas (from Find A Grave):
+        images:
+          - src: WilliamD04gravestone.jpg
+          - src: WilliamD04wifegravestone.jpg
+        inline: true

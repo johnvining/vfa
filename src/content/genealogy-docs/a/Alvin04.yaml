@@ -1,0 +1,67 @@
+id: Alvin04
+title: Alvin Vining - Jennie Brown
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alvin Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Jennie (Brown) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Minnie A. Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Horace A. Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Corey Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Foster Township, McKean County, Pennsylvania - dwelling [number not given], family 92
+        images:
+          - src: Alvin04census1880.jpg

@@ -1,0 +1,71 @@
+id: FrankC01
+sequence: 31
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: CorneliusW01
+parentLetter: C
+parentDesc: Cornelius W. Vining and Zipporah Clarke
+head:
+  givenName: Frank Clarke
+  birth:
+    date: "[January?] 1847"
+    place: "[Michigan or Indiana ?]"
+marriages:
+  - spouse:
+      givenName: "Mary A. [Scuttle or Cosgrove"
+      surname: "?]"
+      birth:
+        date: November 1849
+        place: Ireland
+childrenGroups:
+  - children:
+      - name: Thomas Vining
+        entryId: Thomas14
+        entryLetter: T
+        birth:
+          date: age 31 y. as of 1920 census
+          place: "Rochester, New York"
+        marriages:
+          - date: "4 January 1907 [or 1901?]"
+            spouse: "Vancouver, British Columbia, Canada   Kate Burroughs"
+        death:
+          date: 17 March 1922
+          place: "Ellensburg, Washington"
+      - name: Hattie Vining
+        birth:
+          date: October 1879
+          place: Oregon
+      - name: Frank Clarke Vining Jr.
+        birth:
+          date: July 1881
+          place: Oregon
+      - name: Helen Vining
+        birth:
+          date: "age 63 y., 5 m., 19 d. at death"
+          place: Oregon
+        marriages:
+          - date: George E. Cary
+        death:
+          date: 12 June 1947
+          place: "Friday Harbor, Washington"
+      - name: Evelyn Vining
+        birth:
+          date: April 1886
+          place: Oregon
+docsUrl: Fsources/FrankC01doc.htm
+raw: |-
+  <a name="FrankC01"></a><font size=+2>Frank Clarke Vining</font>
+     (son of <a href="Cfamilies.htm#CorneliusW01">Cornelius W. Vining and Zipporah Clarke</a>)
+     b. [January?] 1847   [Michigan or Indiana ?]
+     m. Mary A. [Scuttle or Cosgrove ?]
+              b. November 1849   Ireland
+  
+  <font size=+1>children:</font>
+     <a href="Tfamilies.htm#Thomas14">Thomas Vining</a>   b. age 31 y. as of 1920 census   Rochester, New York   -   m. 4 January 1907 [or 1901?]   Vancouver, British Columbia, Canada   Kate Burroughs   -   d. 17 March 1922   Ellensburg, Washington
+     Hattie Vining   b. October 1879   Oregon
+     Frank Clarke Vining Jr.   b. July 1881   Oregon
+     Helen Vining   b. age 63 y., 5 m., 19 d. at death   Oregon   -   m. George E. Cary   -   d. 12 June 1947   Friday Harbor, Washington
+     Evelyn Vining   b. April 1886   Oregon
+  
+  <a href="Fsources/FrankC01doc.htm">documentation and notes</a>

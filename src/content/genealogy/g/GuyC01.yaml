@@ -1,0 +1,35 @@
+id: GuyC01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: CharlesMJr01
+parentLetter: C
+parentDesc: Charles Myron Vining Jr. and Lorraine Joyce Walsh
+head:
+  givenName: Guy Charles
+  birth:
+    date: 16 March 1951
+marriages:
+  - date: 25 April 1980
+    place: "Detroit, Michigan"
+    spouse:
+      givenName: Michelle Colette
+      surname: Green
+childrenGroups:
+  - children:
+      - name: Haley Joyce Vining
+        birth:
+          date: 13 October 1990
+      - name: Samuel Joel Vining
+        birth:
+          date: 9 June 1995
+raw: |-
+  <a name="GuyC01"></a><font size=+2>Guy Charles Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesMJr01">Charles Myron Vining Jr. and Lorraine Joyce Walsh</a>)
+     b. 16 March 1951
+     m. 25 April 1980   Detroit, Michigan
+           Michelle Colette Green
+  
+  <font size=+1>children:</font>
+     Haley Joyce Vining   b. 13 October 1990
+     Samuel Joel Vining   b. 9 June 1995

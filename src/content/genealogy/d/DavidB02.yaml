@@ -1,0 +1,33 @@
+id: DavidB02
+sequence: 40
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: GeorgeMJr01
+parentLetter: G
+parentDesc: George Matthew Vining Jr. and Deleslyn Bland
+head:
+  givenName: David Bland
+  birth:
+    date: 27 November 1950
+marriages:
+  - spouse:
+      givenName: Vicki
+      surname: Waan
+      birth:
+        date: 22 March 1952
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Michele Ashley Vining
+        birth:
+          date: 2 January 1970
+raw: |-
+  <a name="DavidB02"></a><font size=+2>David Bland Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeMJr01">George Matthew Vining Jr. and Deleslyn Bland</a>)
+     b. 27 November 1950
+     m. Vicki Waan
+              b. 22 March 1952
+  
+  <font size=+1>child:</font>
+     Michele Ashley Vining   b. 2 January 1970

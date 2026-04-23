@@ -1,0 +1,51 @@
+id: GlennR01
+title: Glenn Russell Vining - (1) Lucille Eagle;   (2) Gertrude M. Sampson
+displayTitle: Gaius Vingaiing - (1) Lucille Eagle; (2) Gertrude M. Sampson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Glenn Russell Vining
+          values:
+            - "21"
+            - "32"
+            - "43"
+        - label: Lucille (Eagle) Vining
+          values:
+            - "[20 or 21 ?]"
+            - dead
+            - ""
+        - label: Gertrude M. (Sampson) Vining
+          values:
+            - ""
+            - "33"
+            - "43"
+        - label: Phyllis Elaine Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Barbara Anne Vining
+          values:
+            - ""
+            - 8 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Jackson (ward 5, precinct 1), Jackson County, Michigan - dwelling 337, family 400
+        images:
+          - src: GlennR01census1920.jpg
+      - year: "1930"
+        caption: Port Huron, St. Clair County, Michigan - dwelling 235, family 273
+        images:
+          - src: GlennR01census1930.jpg
+      - year: "1940"
+        caption: Port Huron, St. Clair County, Michigan
+        images:
+          - src: GlennR01census1940.jpg

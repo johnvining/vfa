@@ -1,0 +1,71 @@
+id: William15
+title: William Vining - Orpha Webster
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Vining
+          values:
+            - "34"
+            - "44"
+            - "[5?]4"
+            - "64"
+            - "74"
+        - label: Orpha Mae (Webster) Vining
+          values:
+            - ""
+            - "27"
+            - "37"
+            - "42"
+            - dead
+        - label: Clarence E. Vining
+          values:
+            - ""
+            - "1"
+            - "12"
+            - "20"
+            - "31"
+          indent: true
+        - label: Pauline W. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - "26"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Porter Township, Delaware County, Ohio - dwelling 49, family 51
+        images:
+          - src: William15census1900.jpg
+      - year: "1910"
+        caption: Porter Township, Delaware County, Ohio - dwelling 138, family 138
+        images:
+          - src: William15census1910.jpg
+      - year: "1920"
+        caption: Bennington Township, Morrow County, Ohio - dwelling 215, family 216
+        images:
+          - src: William15census1920.jpg
+      - year: "1930"
+        caption: Porter Township, Delaware County, Ohio - dwelling 154, family 161
+        images:
+          - src: William15census1930a.jpg
+          - src: William15census1930b.jpg
+      - year: "1940"
+        caption: Lincoln, Morrow County, Ohio
+        images:
+          - src: William15census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for William Vining and Orpha (Webster) Vining, in Fargo Methodist Episcopal Cemetery, Marengo,
+          Morrow County, Ohio (from Find A Grave):
+        images:
+          - src: William15andwifeheadstone.jpg

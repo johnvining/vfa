@@ -1,0 +1,65 @@
+id: CarlH02
+letter: C
+sequence: 16
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnF04
+parentLetter: J
+parentDesc: "John Franklin Vining and Angie L. [...]"
+head:
+  givenName: Carl Harrison
+  birth:
+    date: 17 March 1904
+    place: "Oxford, Butler County, Ohio"
+  death:
+    date: 24 July 1948
+    place: Ohio
+  burial:
+    place: "Green Mound Cemetery   Kilbourne, Delaware County, Ohio"
+marriages:
+  - date: "1924"
+    spouse:
+      givenName: Dorothy Grace
+      surname: Fegley
+      birth:
+        date: age 26 y. as of 1930 census
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: Merlin D. Vining
+        birth:
+          date: 23 October 1924
+          place: "Kilbourne, Delaware County, Ohio"
+        marriages:
+          - number: 1
+            date: Verna Ashburn (d. 16 September 1989)
+          - number: 2
+            date: 6 November 1993
+            spouse: Shirley Ray
+        death:
+          date: 5 September 2002
+          place: "Grand Rapids, Kent County, Michigan"
+        burial:
+          place: "Green Mound Cemetery   Kilbourne, Delaware County, Ohio"
+      - name: Grace L. Vining
+        birth:
+          date: "age 3 y., [5?] m. as of 1930 census"
+          place: Ohio
+        marriages:
+          - date: Dick Beaver
+docsUrl: Csources/CarlH02doc.htm
+raw: |-
+  <a name="CarlH02"></a><font size=+2>Carl Harrison Vining</font>
+     (son of <a href="Jfamilies.htm#JohnF04">John Franklin Vining and Angie L. [...]</a>)
+     b. 17 March 1904   Oxford, Butler County, Ohio
+     m. 1924
+           Dorothy Grace Fegley
+                 b. age 26 y. as of 1930 census   Ohio
+     d. 24 July 1948   Ohio
+           bur. Green Mound Cemetery   Kilbourne, Delaware County, Ohio
+  
+  <font size=+1>children:</font>
+     Merlin D. Vining   b. 23 October 1924   Kilbourne, Delaware County, Ohio   -   m. (1) Verna Ashburn (d. 16 September 1989);   (2) 6 November 1993   Shirley Ray   -   d. 5 September 2002   Grand Rapids, Kent County, Michigan   -   bur. Green Mound Cemetery   Kilbourne, Delaware County, Ohio
+     Grace L. Vining   b. age 3 y., [5?] m. as of 1930 census   Ohio   -   m. Dick Beaver
+  
+  <a href="Csources/CarlH02doc.htm">documentation and notes</a>

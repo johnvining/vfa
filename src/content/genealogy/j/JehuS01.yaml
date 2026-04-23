@@ -1,0 +1,80 @@
+id: JehuS01
+sequence: 128
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Shadrack01
+parentLetter: S
+parentDesc: Shadrack Vining and Phereby Carmeal Ratcliff(e)
+head:
+  givenName: Jehu S.
+  birth:
+    date: 22 January 1790
+    place: "Jefferson County, Georgia"
+  death:
+    date: 25 May 1894
+    place: "Bibb County, Alabama"
+  burial:
+    place: "Acker Cemetery   Bibb County, Alabama"
+marriages:
+  - date: 24 July 1810
+    place: "Morgan County, Georgia"
+    spouse:
+      givenName: Sarah
+      surname: Farmby
+      birth:
+        date: "1791"
+        place: Georgia
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Shadrack Joshua Vining
+        entryId: ShadrackJ01
+        entryLetter: S
+        birth:
+          date: "1816"
+          place: "Jefferson County, Georgia"
+        death:
+          date: "1887"
+          place: "Bibb County, Alabama"
+      - name: Jane Vining
+        birth:
+          date: ca. 1818
+        marriages:
+          - date: ca. 1838
+            spouse: Charles Kimbrell
+      - name: Gabriel Vining
+        birth:
+          date: ca. 1820
+      - name: Peter Vining
+        birth:
+          date: ca. 1822
+        death:
+          date: "[?]"
+        burial:
+          place: "Acker Cemetery   Bibb County, Alabama"
+      - name: Jehu S. Vining Jr.
+        birth:
+          date: September 1826
+        death:
+          date: 25 May 1895
+          place: "Bibb County, Alabama"
+docsUrl: Jsources/JehuS01doc.htm
+raw: |-
+  <a name="JehuS01"></a><font size=+2>Jehu S. Vining</font>
+     (son of <a href="Sfamilies.htm#Shadrack01">Shadrack Vining and Phereby Carmeal Ratcliff(e)</a>)
+     b. 22 January 1790   Jefferson County, Georgia
+     m. 24 July 1810   Morgan County, Georgia
+           Sarah Farmby
+                 b. 1791   Georgia
+     d. 25 May 1894   Bibb County, Alabama
+           bur. Acker Cemetery   Bibb County, Alabama
+  
+  <font size=+1>child:</font>
+     <a href="Sfamilies.htm#ShadrackJ01">Shadrack Joshua Vining</a>   b. 1816   Jefferson County, Georgia   -   d. 1887   Bibb County, Alabama
+     Jane Vining   b. ca. 1818   -   m. ca. 1838   Charles Kimbrell
+     Gabriel Vining   b. ca. 1820
+     Peter Vining   b. ca. 1822   -   d. [?]   -   bur. Acker Cemetery   Bibb County, Alabama
+     Jehu S. Vining Jr.   b. September 1826   -   d. 25 May 1895   Bibb County, Alabama
+  
+  <a href="Jsources/JehuS01doc.htm">documentation and notes</a>

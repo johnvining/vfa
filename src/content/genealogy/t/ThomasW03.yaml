@@ -1,0 +1,63 @@
+id: ThomasW03
+letter: T
+sequence: 62
+lastUpdated: 9 March 2023
+relationship: son
+parentId: EdwardH03
+parentLetter: E
+parentDesc: Edward H. Vining and Martha M. Wudel
+head:
+  givenName: Thomas William
+  birth:
+    date: 25 January 1943
+    place: "Parkston, South Dakota"
+  death:
+    date: 16 July 2017
+    place: "Artesia, New Mexico"
+marriages:
+  - number: 1
+    date: 2 January 1966
+    spouse:
+      givenName: Barbara
+      surname: Di Lullo
+    note: divorced
+  - number: 2
+    date: 28 August 1982
+    place: "Carlsbad, New Mexico"
+    spouse:
+      givenName: Lena
+      surname: Granger
+childrenGroups:
+  - headingText: child by Barbara Di Lullo
+    children:
+      - name: Holly Jo Vining
+        birth:
+          date: February 1969
+        marriages:
+          - date: Kevin Shaughnessy
+  - headingText: child by Lena Granger
+    children:
+      - name: Stephanie Rene Vining
+        birth:
+          date: 28 May 1985
+          place: "Carlsbad, New Mexico"
+        marriages:
+          - date: Justin Hughes
+docsUrl: Tsources/ThomasW03doc.htm
+raw: |-
+  <a name="ThomasW03"></a><font size=+2>Thomas William Vining</font>
+     (son of <a href="Efamilies.htm#EdwardH03">Edward H. Vining and Martha M. Wudel</a>)
+     b. 25 January 1943   Parkston, South Dakota
+     m. (1) 2 January 1966
+                    Barbara Di Lullo
+                 divorced
+           (2) 28 August 1982   Carlsbad, New Mexico
+                 Lena Granger
+     d. 16 July 2017   Artesia, New Mexico
+  
+  <font size=+1>child by Barbara Di Lullo:</font>
+     Holly Jo Vining   b. February 1969   -   m. Kevin Shaughnessy
+  <font size=+1>child by Lena Granger:</font>
+     Stephanie Rene Vining   b. 28 May 1985   Carlsbad, New Mexico   -   m. Justin Hughes
+  
+  <a href="Tsources/ThomasW03doc.htm">documentation and notes</a>

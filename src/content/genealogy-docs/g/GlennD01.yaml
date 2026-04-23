@@ -1,0 +1,55 @@
+id: GlennD01
+title: Glenn Dale Vining - Vera L. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Glenn Dale Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+        - label: Vera L. ([…]) Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+        - label: Dale W. Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+          indent: true
+        - label: Mildred L. Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+          indent: true
+        - label: T. A[nan?]ella Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+          indent: true
+        - label: Imogene L. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+          indent: true
+        - label: Charles A. Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: "Northwest Jerome, Jerome County, Idaho: dwelling 24, family 24"
+        images:
+          - src: GlennD01census1930.jpg

@@ -1,0 +1,46 @@
+id: GusC01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: ColumbusS01
+parentLetter: C
+parentDesc: Columbus Simon Vining and Catherine Alcox
+head:
+  givenName: Gus Columbus
+  birth:
+    date: 25 October 1896
+  death:
+    date: 22 February 1959
+    place: Georgia
+  burial:
+    place: "Lovejoy Cemetery   Stockton, Georgia"
+marriages:
+  - spouse:
+      givenName: Ethel
+      surname: Malone
+      birth:
+        date: 6 August 1899
+      death:
+        date: 13 September 1980
+      burial:
+        place: "Lovejoy Cemetery   Stockton, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Donald Vining
+docsUrl: Gsources/GusC01doc.htm
+raw: |-
+  <a name="GusC01"></a><font size=+2>Gus Columbus Vining</font>
+     (son of <a href="Cfamilies.htm#ColumbusS01">Columbus Simon Vining and Catherine Alcox</a>)
+     b. 25 October 1896
+     m. Ethel Malone
+              b. 6 August 1899
+              d. 13 September 1980
+                    bur. Lovejoy Cemetery   Stockton, Georgia
+     d. 22 February 1959   Georgia
+           bur. Lovejoy Cemetery   Stockton, Georgia
+  
+  <font size=+1>child:</font>
+     Donald Vining
+  
+  <a href="Gsources/GusC01doc.htm">documentation and notes</a>

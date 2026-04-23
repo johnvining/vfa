@@ -1,0 +1,152 @@
+id: JohnH07
+title: John Hiram Vining - Cora Osie McRae
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Hiram Vining
+          values:
+            - "?"
+            - "39"
+            - "49"
+            - "59"
+            - "69"
+            - dead
+        - label: Cora Osie (McRae) Vining
+          values:
+            - "?"
+            - "25"
+            - "35"
+            - "45"
+            - "56"
+            - |-
+              65
+              [see note below]
+        - label: Benjamin Franklin Vining
+          values:
+            - "?"
+            - "13"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Theodosia E. Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "21"
+            - married and living in separate household
+            - |-
+              41
+              [see note below]
+          indent: true
+        - label: John S. Vining
+          values:
+            - ""
+            - 3 m.
+            - "10"
+            - "19"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Earnest Willie Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "15"
+            - "[married and living in separate household]"
+            - ""
+          indent: true
+        - label: Hiram Grady Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - "23"
+            - married and living in separate household
+          indent: true
+        - label: Naomi Vining
+          values:
+            - ""
+            - ""
+            - 6 m.
+            - "10"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: James Edward Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: 561 Militia District (Thomaston Precinct), Upson County, Georgia - dwelling 346, family 356
+        images:
+          - src: JohnH07census1900.jpg
+      - year: "1910"
+        caption: Thomaston, Upson County, Georgia - dwelling 35, family 35
+        images:
+          - src: JohnH07census1910.jpg
+      - year: "1920"
+        caption: Town District 561, Upson County, Georgia - dwelling 320, family 352
+        images:
+          - src: JohnH07census1920a.jpg
+          - src: JohnH07census1920b.jpg
+      - year: "1930"
+        caption: Militia District 561, Upson County, Georgia - dwelling 138, family 148
+        images:
+          - src: JohnH07census1930.jpg
+      - year: "1940"
+        caption: >-
+          East Thomaston (Town District 561), Upson County, Georgia. In 1940, Osie Cora (McRae) Vining was living in the
+          household of daughter Theodosia E. (Vining) Adams and family.
+        images:
+          - src: JohnH07census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for John Hiram Vining and Cora Osie (McRae) Vining, in Fellowship Baptist Church Cemetery, Upson
+          County, Georgia (from Find A Grave):
+        images:
+          - src: JohnH07gravestone.jpg
+          - src: JohnH07wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Headstone for James Edward Vining, son of John Hiram Vining and Cora Osie (McRae) Vining, and wife Rebecca
+          (Franklin) Vining, in Southview Cemetery, Thomaston, Upson County, Georgia (from Find A Grave):
+        images:
+          - src: JohnH07sonJamesandwifeheadstone.jpg

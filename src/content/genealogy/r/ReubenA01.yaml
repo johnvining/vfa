@@ -1,0 +1,59 @@
+id: ReubenA01
+sequence: 32
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: AlbertG02
+parentLetter: A
+parentDesc: Albert Gallatin and Elizabeth Ann Gerrard
+head:
+  givenName: Reuben Alexander Ratcliff
+  birth:
+    date: 21 April 1846
+    place: Georgia
+marriages:
+  - date: "1867"
+    spouse:
+      givenName: Melvina Elizabeth
+      surname: Cleveland
+      birth:
+        date: age 26 y. as of 1870 census
+        place: South Carolina
+childrenGroups:
+  - children:
+      - name: Virginia Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Tennessee
+      - name: Minnie C. Vining
+        birth:
+          date: age 6 y. as of 1880 census
+          place: Tennessee
+      - name: Frederick Eastman Vining
+        entryId: FrederickE02
+        entryLetter: F
+        birth:
+          date: 27 October 1878
+          place: "Fayetteville, Lincoln County, Tennessee"
+        marriages:
+          - date: 13 September 1913
+            place: "Brinkley, Monroe County, Arkansas"
+            spouse: Julia Agnes Hale
+        death:
+          date: 12 April 1930
+          place: "Heber Springs, Cleburne County, Arkansas   =   bur. Oaklawn Cemetery   Brinkley, Monroe County, Arkansas"
+docsUrl: Rsources/ReubenA01doc.htm
+raw: |-
+  <a name="ReubenA01"></a><font size=+2>Reuben Alexander Ratcliff Vining</font>
+     (son of <a href="Afamilies.htm#AlbertG02">Albert Gallatin and Elizabeth Ann Gerrard</a>)
+     b. 21 April 1846   Georgia
+     m. 1867
+           Melvina Elizabeth Cleveland
+                 b. age 26 y. as of 1870 census   South Carolina
+  
+  <font size=+1>children:</font>
+     Virginia Vining   b. age 8 y. as of 1870 census   Tennessee
+     Minnie C. Vining   b. age 6 y. as of 1880 census   Tennessee
+     <a href="Ffamilies.htm#FrederickE02">Frederick Eastman Vining</a>   b. 27 October 1878   Fayetteville, Lincoln County, Tennessee   -   m. 13 September 1913   Brinkley, Monroe County, Arkansas   Julia Agnes Hale   -   d. 12 April 1930   Heber Springs, Cleburne County, Arkansas   =   bur. Oaklawn Cemetery   Brinkley, Monroe County, Arkansas
+  
+  <a href="Rsources/ReubenA01doc.htm">documentation and notes</a>

@@ -1,0 +1,150 @@
+id: James04
+sequence: 19
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Owen01
+parentLetter: O
+parentDesc: Owen Vining and Edith Ann Ivey
+head:
+  givenName: James
+  birth:
+    date: 3 November 1845
+    place: Georgia
+  death:
+    date: 26 August 1922
+    place: Georgia
+  burial:
+    place: "Mount Zion Baptist Church Cemetery   Axson, Georgia"
+marriages:
+  - date: 14 May 1866
+    place: Georgia
+    spouse:
+      givenName: Sarah
+      surname: Brooker
+      parents: (dau. of Charles Brooker and Mary Sheffield)
+      birth:
+        date: 1 March 1845
+        place: Georgia
+      death:
+        date: 5 Janaury 1935
+        place: Georgia
+      burial:
+        place: "Mount Zion Baptist Church Cemetery   Axson, Georgia"
+childrenGroups:
+  - children:
+      - name: William Lee Vining
+        entryId: WilliamL02
+        entryLetter: W
+        birth:
+          date: 9 February 1867
+          place: Georgia
+        marriages:
+          - date: 14 February 1892
+            spouse: "Frances &#8220;Fannie&#8221; Gaskins"
+        death:
+          date: "1946"
+          place: Georgia
+      - name: George Wiley Vining
+        entryId: GeorgeW05
+        entryLetter: G
+        birth:
+          date: 18 October 1868
+          place: Georgia
+        marriages:
+          - date: Rhoda Corbitt
+        death:
+          date: 12 June 1945
+        burial:
+          place: "Springhead Methodist Church Cemetery   Willacoochee, Georgia"
+      - name: Mary Jane Vining
+        birth:
+          date: 19 February 1871
+      - name: Sara Ellen Vining
+        birth:
+          date: 11 March 1873
+        marriages:
+          - date: "1889"
+            spouse: John Hargraves
+      - name: Anna Laura Vining
+        birth:
+          date: 16 April 1875
+          place: Georgia
+        marriages:
+          - date: Bryant C. Hutto
+      - name: James O. Vining
+        entryId: JamesO02
+        birth:
+          date: 15 February 1878
+          place: Georgia
+        marriages:
+          - number: 1
+            date: 11 April 1901
+            spouse: "Mary Jane O&#8217;Steen"
+          - number: 2
+            date: Margaret Mitchell
+        death:
+          date: 20 November 1950
+          place: "Aiken, South Carolina"
+        burial:
+          place: "Bethany Cemetery   Aiken, South Carolina"
+      - name: Carrie Vining
+        birth:
+          date: 15 August 1880
+        marriages:
+          - date: 16 October 1898
+            spouse: Elijah Clifton Tanner
+        death:
+          date: 14 September 1961
+      - name: Christian Eva Vining
+        birth:
+          date: 12 April 1882
+        marriages:
+          - number: 1
+            date: Benjamin Findley Blitch
+          - number: 2
+            date: 23 December 1903
+            spouse: Thomas M. Cady
+        death:
+          date: "1925"
+      - name: Joel P. Vining
+        birth:
+          date: 15 February 1884
+        death:
+          date: 9 October 1886
+        burial:
+          place: "Mount Zion Baptist Church Cemetery   Axson, Georgia"
+      - name: Arlow Vining
+        birth:
+          date: 5 March 1886
+        death:
+          date: 29 May 1886
+        burial:
+          place: "Mount Zion Baptist Church Cemetery   Axson, Georgia"
+docsUrl: Jsources/James04doc.htm
+raw: |-
+  <a name="James04"></a><font size=+2>James Vining</font>
+     (son of <a href="Ofamilies.htm#Owen01">Owen Vining and Edith Ann Ivey</a>)
+     b. 3 November 1845   Georgia
+     m. 14 May 1866   Georgia
+           Sarah Brooker
+                 (dau. of Charles Brooker and Mary Sheffield)
+                 b. 1 March 1845   Georgia
+                 d. 5 Janaury 1935   Georgia
+                       bur. Mount Zion Baptist Church Cemetery   Axson, Georgia
+     d. 26 August 1922   Georgia
+           bur. Mount Zion Baptist Church Cemetery   Axson, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamL02">William Lee Vining</a>   b. 9 February 1867   Georgia   -   m. 14 February 1892   Frances &#8220;Fannie&#8221; Gaskins   -   d. 1946   Georgia
+     <a href="Gfamilies.htm#GeorgeW05">George Wiley Vining</a>   b. 18 October 1868   Georgia   -   m. Rhoda Corbitt   -   d. 12 June 1945   -   bur. Springhead Methodist Church Cemetery   Willacoochee, Georgia
+     Mary Jane Vining   b. 19 February 1871
+     Sara Ellen Vining   b. 11 March 1873   -   m. 1889   John Hargraves
+     Anna Laura Vining   b. 16 April 1875   Georgia   -   m. Bryant C. Hutto
+     <a href="#JamesO02">James O. Vining</a>   b. 15 February 1878   Georgia   -   m. (1) 11 April 1901   Mary Jane O&#8217;Steen;   (2) Margaret Mitchell   -   d. 20 November 1950   Aiken, South Carolina   -   bur. Bethany Cemetery   Aiken, South Carolina
+     Carrie Vining   b. 15 August 1880   -   m. 16 October 1898   Elijah Clifton Tanner   -   d. 14 September 1961
+     Christian Eva Vining   b. 12 April 1882   -   m. (1) Benjamin Findley Blitch;   (2) 23 December 1903   Thomas M. Cady   -   d. 1925
+     Joel P. Vining   b. 15 February 1884   -   d. 9 October 1886   -   bur. Mount Zion Baptist Church Cemetery   Axson, Georgia
+     Arlow Vining   b. 5 March 1886   -   d. 29 May 1886   -   bur. Mount Zion Baptist Church Cemetery   Axson, Georgia
+  
+  <a href="Jsources/James04doc.htm">documentation and notes</a>

@@ -1,0 +1,100 @@
+id: WilliamHH01
+title: William H. H. Vining - Mary Elizabeth Beal
+sections:
+  - type: research
+    heading: Research opportunity
+    text: >-
+      According to the 1900 census, Mary Elizabeth (Beal) Vining, had given birth to two children, both of whom were
+      living as of the 1900 census. However, this is not consistent with the report of the 1880 census. Did Mary
+      Elizabeth (Beal) Vining have more children, or was William H. H. Vining married more than once?
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: William H. H. Vining
+          values:
+            - "30"
+            - "40"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Mary Elizabeth (Beal) Vining
+          values:
+            - "34"
+            - 37 [sic]
+            - "?"
+            - "64"
+            - "?"
+            - "?"
+        - label: Grace A. Vining
+          values:
+            - living in separate household
+            - living in separate household
+            - "?"
+            - "26"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary L. Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: William Vining
+          values:
+            - ""
+            - "[5 or 6?]"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Herbert Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Charles Henry Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 855, family 1064
+        images:
+          - src: WilliamHH01census1870.jpg
+      - year: "1880"
+        caption: Hingham, Plymouth County, Massachusetts - dwelling 248, family 297
+        images:
+          - src: WilliamHH01census1880.jpg
+      - year: "1900"
+        caption: Rockland, Plymouth County, Massachusetts - dwelling 5, family 5
+        images:
+          - src: WilliamHH01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument side for William H. H. Vining and Mary Elizabeth (Beal) Vining, in Maplewood Cemetery, Rockland,
+          Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: WilliamHH01andwifemonumentside.jpg

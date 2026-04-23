@@ -1,0 +1,53 @@
+id: ElbridgeC01
+sequence: 64
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JohnJr01
+parentLetter: J
+parentDesc: John Vining Jr. and Martha S. Ross
+head:
+  givenName: Elbridge C.
+  birth:
+    date: 28 May 1827
+    place: Maine
+marriages:
+  - number: 1
+    date: 26 May 1861
+    place: "Berwick, Maine"
+    spouse:
+      givenName: Mary
+      surname: Bunker
+  - number: 2
+    date: 23 June 1872
+    spouse:
+      givenName: Patience
+      surname: Watson
+      birth:
+        date: December 1822
+        place: New Hampshire
+childrenGroups:
+  - headingText: "child by Mary Bunker"
+    children:
+      - name: Abbie C. Vining
+        birth:
+          date: November 1863
+          place: "[Maine or New Hampshire]"
+        marriages:
+          - date: 15 y. as of 1900 census
+            spouse: Fred Foss
+docsUrl: Esources/ElbridgeC01doc.htm
+raw: |-
+  <a name="ElbridgeC01"></a><font size=+2>Elbridge C. Vining</font>
+     (son of <a href="Jfamilies.htm#JohnJr01">John Vining Jr. and Martha S. Ross</a>)
+     b. 28 May 1827   Maine
+     m. (1) 26 May 1861   Berwick, Maine
+                 Mary Bunker
+           (2) 23 June 1872
+                 Patience Watson
+                       b. December 1822   New Hampshire
+  
+  <font size=+1>child by Mary Bunker:</font>
+     Abbie C. Vining   b. November 1863   [Maine or New Hampshire]   -   m. 15 y. as of 1900 census   Fred Foss
+  
+  <a href="Esources/ElbridgeC01doc.htm">documentation and notes</a>

@@ -1,0 +1,221 @@
+id: RobertM01
+sequence: 118
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Samuel06
+parentLetter: S
+parentDesc: "Samuel Vining and Mary &#8220;Polly&#8221; Miller"
+head:
+  givenName: Robert Miller
+  birth:
+    date: 10 September 1835
+    place: "Delaware, Ohio"
+  death:
+    date: 24 October 1898
+    place: Ohio
+  burial:
+    place: "East Bethel Cemetery   Rockford, Ohio"
+marriages:
+  - number: 1
+    date: 6 April 1862
+    place: Ohio
+    spouse:
+      givenName: Sarah Ann
+      surname: Stout
+      parents: "(dau. of John Stout and Susanna Shaffer)"
+      birth:
+        date: 25 December 1835
+        place: Ohio
+      death:
+        date: 8 March 1875
+      burial:
+        place: "Raper Chapel Cemetery   Darke County, Ohio"
+  - number: 2
+    date: 20 October 1876
+    spouse:
+      givenName: Lucetta Elizabeth
+      surname: Hoke
+      parents: "(dau. of John Hoke and Lucinda Strait)"
+      birth:
+        date: March 1859
+        place: "Cincinnati, Ohio"
+      death:
+        date: "1910"
+      burial:
+        place: "East Bethel Cemetery   Rockford, Ohio"
+childrenGroups:
+  - spouseRef: Sarah Ann Stout
+    children:
+      - name: Mary Ida Vining
+        birth:
+          date: 7 May 1862
+          place: Indiana
+        marriages:
+          - date: 12 January 1881
+            spouse: Ezra Irwin Michael
+        death:
+          date: 27 March 1947
+          place: "Rockford, Ohio"
+      - name: Samuel Joseph Vining
+        entryId: SamuelJ02
+        entryLetter: S
+        birth:
+          date: 22 March 1864
+          place: Indiana
+        marriages:
+          - date: 8 February 1887
+            place: Ohio
+            spouse: "Sarah Adeline &#8220;Addie&#8221; Ellsworth"
+        death:
+          date: 15 October 1914
+        burial:
+          place: "North Grove Cemetery   Celina, Ohio"
+      - name: "Rose Ann[e] &#8220;Annie&#8221; Vining"
+        birth:
+          date: 10 March 1867
+          place: Indiana
+        marriages:
+          - date: 31 December 1887
+            spouse: William F. Detro
+        death:
+          date: 22 April 1935
+          place: Ohio
+      - name: Margaret Jennie Vining
+        birth:
+          date: April 1870
+        marriages:
+          - date: William Kuhn
+        death:
+          date: 1 July 1905
+      - name: "William [E. or H.?] Vining"
+        birth:
+          date: "1870"
+        death:
+          date: 11 July 1871
+        burial:
+          place: Raper Chapel Cemetery   Ohio
+  - spouseRef: Lucetta Hoke
+    children:
+      - name: Haskell Vining
+        entryId: Haskell01
+        entryLetter: H
+        birth:
+          date: July 1877
+          place: Ohio
+        marriages:
+          - number: 1
+            date: 3 February 1901
+            place: "Willshire, Ohio"
+            spouse: Jane Shank
+          - number: 2
+            date: "Molle [&#8230;]"
+        death:
+          date: "1945"
+        burial:
+          place: "Riverside Cemetery   Rockford, Ohio"
+      - name: Dora Vining
+        marriages:
+          - number: 1
+            date: William Chat Beam
+          - number: 2
+            date: "[...]"
+      - name: Irvin Elonidus Vining
+        entryId: IrvinE01
+        entryLetter: I
+        birth:
+          date: 6 September 1881
+          place: Ohio
+        marriages:
+          - date: Mary Zada Bragg
+        death:
+          date: 9 May 1955
+          place: "Celina, Mercer County, Ohio"
+        burial:
+          place: "Crown View Cemetery   Sheridan, Indiana"
+      - name: "Hil[d?]a Vining"
+        birth:
+          date: 25 January 1884
+          place: "Blackcreek, Ohio"
+        marriages:
+          - date: Joe Brush
+      - name: Clarence Leroy Vining
+        birth:
+          date: 6 March 1887
+          place: "Blackcreek, Ohio"
+        marriages:
+          - date: "1908"
+            spouse: Effie Gillespie
+        death:
+          date: 30 July 1966
+          place: "Celina, Ohio"
+        burial:
+          place: "Swamp College Cemetery   Celina, Ohio"
+      - name: Ernest Floyd Vining
+        birth:
+          date: 7 March 1890
+          place: "Blackcreek, Ohio"
+        marriages:
+          - date: Hazel Carr
+        death:
+          date: 26 February 1958
+        burial:
+          place: "East Bethel Cemetery   Rockford, Ohio"
+      - name: Goldie A. Vining
+        birth:
+          date: 5 April 1893
+          place: "Blackcreek, Ohio"
+        marriages:
+          - date: Frank Hamrick
+        death:
+          date: 29 September 1934
+          place: "Willshire, Ohio"
+      - name: Earl Theodore Vining
+        entryId: EarlT01
+        entryLetter: E
+        birth:
+          date: 1 June 1895
+          place: "Blackcreek, Ohio"
+        marriages:
+          - date: Ermal Pauline Wilson
+        death:
+          date: "1952"
+        burial:
+          place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+docsUrl: Rsources/RobertM01doc.htm
+raw: |-
+  <a name="RobertM01"></a><font size=+2>Robert Miller Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel06">Samuel Vining and Mary &#8220;Polly&#8221; Miller</a>)
+     b. 10 September 1835   Delaware, Ohio
+     m. (1) 6 April 1862   Ohio
+                 Sarah Ann Stout
+                       (dau. of John Stout and Susanna Shaffer)
+                       b. 25 December 1835   Ohio
+                       d. 8 March 1875
+                             bur. Raper Chapel Cemetery   Darke County, Ohio
+           (2) 20 October 1876
+                 Lucetta Elizabeth Hoke
+                       (dau. of John Hoke and Lucinda Strait)
+                       b. March 1859   Cincinnati, Ohio
+                       d. 1910
+                             bur. East Bethel Cemetery   Rockford, Ohio
+     d. 24 October 1898   Ohio
+           bur. East Bethel Cemetery   Rockford, Ohio
+  
+  <font size=+1>children by Sarah Ann Stout:</font>
+     Mary Ida Vining   b. 7 May 1862   Indiana   -   m. 12 January 1881   Ezra Irwin Michael   -   d. 27 March 1947   Rockford, Ohio
+     <a href="Sfamilies.htm#SamuelJ02">Samuel Joseph Vining</a>   b. 22 March 1864   Indiana   -   m. 8 February 1887   Ohio   Sarah Adeline &#8220;Addie&#8221; Ellsworth   -   d. 15 October 1914   -   bur. North Grove Cemetery   Celina, Ohio
+     Rose Ann[e] &#8220;Annie&#8221; Vining   b. 10 March 1867   Indiana   -   m. 31 December 1887   William F. Detro   -   d. 22 April 1935   Ohio
+     Margaret Jennie Vining   b. April 1870   -   m. William Kuhn   -   d. 1 July 1905
+     William [E. or H.?] Vining   b. 1870   -   d. 11 July 1871   -   bur. Raper Chapel Cemetery   Ohio
+  <font size=+1>children by Lucetta Hoke:</font>
+     <a href="Hfamilies.htm#Haskell01">Haskell Vining</a>   b. July 1877   Ohio   -   m. (1) 3 February 1901   Willshire, Ohio   Jane Shank;   (2) Molle [&#8230;]   -   d. 1945   -   bur. Riverside Cemetery   Rockford, Ohio
+     Dora Vining   m. (1) William Chat Beam;   (2) [...]
+     <a href="Ifamilies.htm#IrvinE01">Irvin Elonidus Vining</a>   b. 6 September 1881   Ohio   -   m. Mary Zada Bragg   -   d. 9 May 1955   Celina, Mercer County, Ohio   -   bur. Crown View Cemetery   Sheridan, Indiana
+     Hil[d?]a Vining   b. 25 January 1884   Blackcreek, Ohio   -   m. Joe Brush
+     Clarence Leroy Vining   b. 6 March 1887   Blackcreek, Ohio   -   m. 1908   Effie Gillespie   -   d. 30 July 1966   Celina, Ohio   -   bur. Swamp College Cemetery   Celina, Ohio
+     Ernest Floyd Vining   b. 7 March 1890   Blackcreek, Ohio   -   m. Hazel Carr   -   d. 26 February 1958   -   bur. East Bethel Cemetery   Rockford, Ohio
+     Goldie A. Vining   b. 5 April 1893   Blackcreek, Ohio   -   m. Frank Hamrick   -   d. 29 September 1934   Willshire, Ohio
+     <a href="Efamilies.htm#EarlT01">Earl Theodore Vining</a>   b. 1 June 1895   Blackcreek, Ohio   -   m. Ermal Pauline Wilson   -   d. 1952   -   bur. Lindenwood Cemetery   Fort Wayne, Indiana 
+  
+  <a href="Rsources/RobertM01doc.htm">documentation and notes</a>

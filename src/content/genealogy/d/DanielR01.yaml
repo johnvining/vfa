@@ -1,0 +1,48 @@
+id: DanielR01
+sequence: 14
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: GeorgeJJr01
+parentLetter: G
+parentDesc: George Joseph Vining Jr. and Cornelia Aldridge
+head:
+  givenName: Daniel Rutledge
+  birth:
+    date: 12 August 1908
+    place: "Birmingham, Jefferson County, Alabama"
+  death:
+    date: 4 December 1999
+  burial:
+    place: "University of Virginia Cemetery   Charlottesville, Albermarle County, Virginia"
+marriages:
+  - spouse:
+      givenName: "Margaret [&#8230;]"
+      birth:
+        date: age 31 y. as of 1940 census
+        place: Missouri
+childrenGroups:
+  - children:
+      - name: George Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Missouri
+      - name: Daniel Rutledge Vining Jr.
+        entryId: DanielRJr01
+        birth:
+          date: 12 January 1944
+          place: "Fayetteville, Washington County, Arkansas"
+docsUrl: Dsources/DanielR01doc.htm
+raw: |-
+  <a name="DanielR01"></a><font size=+2>Daniel Rutledge Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeJJr01"</a>George Joseph Vining Jr. and Cornelia Aldridge</a>)
+     b. 12 August 1908   Birmingham, Jefferson County, Alabama
+     m. Margaret [&#8230;]
+              b. age 31 y. as of 1940 census   Missouri
+     d. 4 December 1999   -   bur. University of Virginia Cemetery   Charlottesville, Albermarle County, Virginia
+
+  <font size=+1>children:</font>
+     George Vining   b. age 2 y. as of 1940 census   Missouri
+     <a href="#DanielRJr01">Daniel Rutledge Vining Jr.</a>   b. 12 January 1944   Fayetteville, Washington County, Arkansas
+
+  <a href="Dsources/DanielR01doc.htm">documentation and notes</a>

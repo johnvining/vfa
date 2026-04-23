@@ -1,0 +1,138 @@
+id: GorhamP01
+title: Gorham Parsons Vining - (1) Mary Eliza Huxley, (2) Clara Alice Huxley
+displayTitle: Gorham Parsons Vining - (1) Mary Eliza Huxley, (2) Clara A. […]
+intro:
+  - caption: Thank you to John Vining for his contribution to this page.
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Gorham Parsons Vining
+          values:
+            - "32"
+            - "39"
+            - "53"
+            - "63"
+            - "?"
+            - dead
+        - label: Mary Eliza (Huxley) Vining
+          values:
+            - "21"
+            - "28"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Clara Alice (Huxley) Vining
+          values:
+            - ""
+            - ""
+            - "33"
+            - "43"
+            - "?"
+            - |-
+              63
+              [see note below]
+        - label: Willard H. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Eliza Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "20"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: Byron Vining
+          values:
+            - ""
+            - 4 months
+            - "10"
+            - "19"
+            - "?"
+            - married and living in separate household
+          indent: true
+        - label: Francis H. “Fannie” Vining
+          values:
+            - ""
+            - ""
+            - 7 m.
+            - "10"
+            - "?"
+            - |-
+              30
+              [see note below]
+          indent: true
+        - label: Gorham P. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "2"
+            - "?"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Neenah, Winnebago County, Wisconsin - dwelling 227, family 235
+        images:
+          - src: GorhamP01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Neenah, Winnebago County, Wisconsin - dwelling 775, family 682. Also living in this household in 1860 were
+          Thomas Vining (24 y., b. Massachusetts), and Hustice Coats (18 y., New York).
+        images:
+          - src: GorhamP01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Neenah, Winnebago County, Wisconsin - dwelling 16, family 16. Also living in this household in 1870 were Anna
+          Olsen (18 y., b. Norway) and Peter Christensen (22 y., b. Denmark).
+        images:
+          - src: GorhamP01census1870a.jpg
+          - src: GorhamP01census1870b.jpg
+      - year: "1880"
+        caption: >-
+          Neenah, Winnebago County, Wisconsin - Also living in this household in 1880 was Jane Burke (17 y., b.
+          Wisconsin).
+        images:
+          - src: GorhamP01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Milwaukee (ward 9), Milwaukee County, Wisconsin - In 1900, Clara A. ([…]) Vining was living in the household
+          of [...] and Frances (Vining) [Alden?] (her daughter and son-in-law). According to this census, Clara was the
+          mother of only one child.
+        images:
+          - src: GorhamP01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Gorham Parsons Vining, Mary E. (Huxley) Vining, and Clara Alice (Huxley) Vining, in Oak Hill
+          Cemetery, Neenah, Winnebago County, Wisconsin (from Find A Grave):
+        images:
+          - src: GorhamP01gravestone.jpg
+          - src: GorhamP01wifeMarygravestone.jpg
+          - src: GorhamP01wifeClaragravestone.jpg
+        inline: true
+  - type: notes
+    heading: Note
+    items:
+      - caption: >-
+          The “Gorham P. Vining House” (at 1590 Oakridge Road in Neenah, Winnebago County, Wisconsin) is listed on both
+          the National Register of Historic Places and the (Wisconsin) State Register.
+        images:
+          - src: GorhamP01house.jpg

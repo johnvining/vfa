@@ -1,0 +1,70 @@
+id: FrancisM02
+title: Francis M. Vining - Lydia Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Francis M. Vining
+          values:
+            - "32"
+            - "43"
+            - "?"
+            - "63"
+            - "73"
+            - "?"
+        - label: Lydia (Smith) Vining
+          values:
+            - "28"
+            - "39"
+            - "?"
+            - "58"
+            - "68"
+            - "?"
+        - label: Emory M. Vining
+          values:
+            - "2"
+            - "12"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Elmer E. Vining
+          values:
+            - 8 m.
+            - "10"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Rutland Township, Meigs County, Ohio - dwelling 415, family 418
+        images:
+          - src: FrancisM02census1870.jpg
+      - year: "1880"
+        caption: >-
+          Rutland, Meigs County, Ohio - dwelling 26, family 26. Also living in this household in 1880 was Mary Smith (59
+          y., b. Pennsylvania), the mother of Lydia (Smith) Vining.
+        images:
+          - src: FrancisM02census1880.jpg
+      - year: "1900"
+        caption: >-
+          Rutland Township, Meigs County, Ohio - dwelling 142, family 146. According to the 1900 census, Lydia (Smith)
+          Vining had given birth to two children, both of whom were living as of the 1900 census (but see 1910 census).
+        images:
+          - src: FrancisM02census1900.jpg
+      - year: "1910"
+        caption: >-
+          Rutland Township, Meigs County, Ohio - dwelling 277, family 300. According to the 1910 census, Lydia (Smith)
+          Vining had given birth to three children, two of whom were living as of the 1910 census (but see 1900 census).
+        images:
+          - src: FrancisM02census1910.jpg

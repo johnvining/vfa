@@ -1,0 +1,73 @@
+id: HiramB01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: BertrandG01
+parentLetter: B
+parentDesc: Bertrand Guy Vining and Violet Marion Whitney
+head:
+  givenName: Hiram Bertrand
+  birth:
+    date: 9 July 1921
+    place: "Weld, Maine"
+  death:
+    date: 4 May 2008
+    place: "Weld, Maine"
+  burial:
+    place: "Mountain View Cemetery   Weld, Maine"
+marriages:
+  - date: 7 December 1946
+    place: "Wilton, Maine"
+    spouse:
+      givenName: June Arlene
+      surname: Winter
+      parents: "(dau. of Leon Almon Winter and Dorothy Sylvia Swett)"
+      birth:
+        date: 9 April 1926
+        place: "Weld, Maine"
+      death:
+        date: 8 December 2008
+        place: "Farmington, Maine"
+      burial:
+        place: "Mountain View Cemetery   Weld, Maine"
+childrenGroups:
+  - children:
+      - name: Martha Diane Vining
+        birth:
+          date: 12 December 1948
+          place: "Rumford, Maine"
+        marriages:
+          - date: 8 June 1968
+            spouse: Wayne Jeffrey Gifford
+      - name: Stephen Dennis Vining
+        entryId: StephenD01
+        entryLetter: S
+        birth:
+          date: 26 September 1950
+          place: "Rumford, Maine"
+        marriages:
+          - date: 24 June 1978
+            spouse: Claire G. de la Motte
+      - name: Kenneth Hiram Vining
+        birth:
+          date: 12 February 1957
+docsUrl: Hsources/HiramB01doc.htm
+raw: |-
+  <a name="HiramB01"></a><font size=+2>Hiram Bertrand Vining</font>
+     (son of <a href="Bfamilies.htm#BertrandG01">Bertrand Guy Vining and Violet Marion Whitney</a>)
+     b. 9 July 1921   Weld, Maine
+     m. 7 December 1946   Wilton, Maine
+           June Arlene Winter
+                 (dau. of Leon Almon Winter and Dorothy Sylvia Swett)
+                 b. 9 April 1926   Weld, Maine
+                 d. 8 December 2008   Farmington, Maine
+                       bur. Mountain View Cemetery   Weld, Maine
+     d. 4 May 2008   Weld, Maine
+           bur. Mountain View Cemetery   Weld, Maine
+  
+  <font size=+1>children:</font>
+     Martha Diane Vining   b. 12 December 1948   Rumford, Maine   -   m. 8 June 1968   Wayne Jeffrey Gifford
+     <a href="Sfamilies.htm#StephenD01">Stephen Dennis Vining</a>   b. 26 September 1950   Rumford, Maine   -   m. 24 June 1978   Claire G. de la Motte
+     Kenneth Hiram Vining   b. 12 February 1957
+  
+  <a href="Hsources/HiramB01doc.htm">documentation and notes</a>

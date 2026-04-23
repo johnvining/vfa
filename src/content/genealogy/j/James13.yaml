@@ -1,0 +1,51 @@
+id: James13
+sequence: 17
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James
+  birth:
+    date: age 34 y. as of 1870 census
+    place: England
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: "[...]"
+      birth:
+        date: age 28 y. as of 1870 census
+        place: Canada
+childrenGroups:
+  - children:
+      - name: Nellie Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Michigan
+      - name: Edward Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Michigan
+      - name: Alice Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Michigan
+      - name: Hattie Vining
+        birth:
+          date: age 9 y. as of 1880 census
+          place: Michigan
+docsUrl: Jsources/James13doc.htm
+raw: |-
+  <a name="James13"></a><font size=+2>James Vining</font>
+     (son of [?])
+     b. age 34 y. as of 1870 census   England
+     m. Mary [...]
+              b. age 28 y. as of 1870 census   Canada
+  
+  <font size=+1>children:</font>
+     Nellie Vining   b. age 4 y. as of 1870 census   Michigan
+     Edward Vining   b. age 3 y. as of 1870 census   Michigan
+     Alice Vining   b. age 1 y. as of 1870 census   Michigan
+     Hattie Vining   b. age 9 y. as of 1880 census   Michigan
+  
+  <a href="Jsources/James13doc.htm">documentation and notes</a>

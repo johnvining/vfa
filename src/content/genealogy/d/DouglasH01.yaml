@@ -1,0 +1,54 @@
+id: DouglasH01
+sequence: 93
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesR02
+parentLetter: C
+parentDesc: Charles Ray Vining and Corine Perrilloux
+head:
+  givenName: Douglas Herbert
+  birth:
+    date: 30 June 1925
+  death:
+    date: 16 June 2001
+  burial:
+    place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
+marriages:
+  - spouse:
+      givenName: Netye
+      surname: Douglas
+childrenGroups:
+  - children:
+      - name: Joyce Vining
+        marriages:
+          - spouse: "[...] Lawrence"
+      - name: Patricia S. Vining
+        marriages:
+          - spouse: "[...] Stevenson"
+      - name: Peggy S. Vining
+        marriages:
+          - spouse: "[...] Jarrell"
+      - name: Gary Vining
+      - name: Ronald Vining
+      - name: "Jeffrey Sylvest[er?] [Vining?]"
+      - name: Donald Vining
+docsUrl: Dsources/DouglasH01doc.htm
+raw: |-
+  <a name="DouglasH01"></a><font size=+2>Douglas Herbert Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesR02">Charles Ray Vining and Corine Perrilloux</a>)
+     b. 30 June 1925
+     m. Netye Douglas
+     d. 16 June 2001
+           bur. Ponchatoula Cemetery   Ponchatoula, Louisiana
+  
+  <font size=+1>children:</font>
+     Joyce Vining   m. [...] Lawrence
+     Patricia S. Vining   m. [...] Stevenson
+     Peggy S. Vining   m. [...] Jarrell
+     Gary Vining
+     Ronald Vining
+     Jeffrey Sylvest[er?] [Vining?]
+     Donald Vining
+  
+  <a href="Dsources/DouglasH01doc.htm">documentation and notes</a>

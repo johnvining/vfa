@@ -1,0 +1,79 @@
+id: HaroldH01
+letter: H
+lastUpdated: 30 July 2022
+migrationNote: "Original HTML omitted b. birth marker before child Shirley Joyce Vining's birth date; added in new rendering."
+relationship: son
+parentId: WymanL01
+parentLetter: W
+parentDesc: Wyman Leavitt Vining and Adeline Rachel Ireland
+head:
+  givenName: Harold Herbert
+  birth:
+    date: 28 June 1908
+    place: "Cooper, Maine"
+  death:
+    date: 16 May 1990
+    place: "Bangor, Maine"
+  burial:
+    place: "West Ridge Cemetery   Cooper, Maine"
+marriages:
+  - date: 20 September 1930
+    place: "Pembroke, Maine"
+    spouse:
+      givenName: Mildred Edith
+      surname: Morrison
+      parents: "(dau. of Albert Morrison and Jennie Lowe)"
+      birth:
+        date: 16 November 1908
+        place: "Charlotte, Maine"
+      death:
+        date: 28 December 1996
+        place: "(last residence: North Windham, Connecticut)"
+      burial:
+        place: "West Ridge Cemetery   Cooper, Maine"
+childrenGroups:
+  - children:
+      - name: Maurice Edwin Vining
+        entryId: MauriceE01
+        entryLetter: M
+        birth:
+          date: 18 June 1931
+          place: "Cooper, Maine"
+        marriages:
+          - date: 19 June 1953
+            place: "Alexander, Maine"
+            spouse: Gloria Marianne Lord
+        death:
+          date: 3 March 2007
+          place: "North Windham, Connecticut"
+      - name: Shirley Joyce Vining
+        birth:
+          date: 21 April 1933
+          place: "Cooper, Maine"
+        marriages:
+          - date: 31 December 1953
+            spouse: Dewey William Swanson
+      - name: Dorothy Mae Vining
+        birth:
+          date: 26 February 1935
+          place: "Calais, Maine"
+docsUrl: Hsources/HaroldH01doc.htm
+raw: |-
+  <a name="HaroldH01"></a><font size=+2>Harold Herbert Vining</font>
+     (son of <a href="Wfamilies.htm#WymanL01">Wyman Leavitt Vining and Adeline Rachel Ireland</a>)
+     b. 28 June 1908   Cooper, Maine
+     m. 20 September 1930   Pembroke, Maine
+           Mildred Edith Morrison
+                 (dau. of Albert Morrison and Jennie Lowe)
+                 b. 16 November 1908   Charlotte, Maine
+                 d. 28 December 1996   (last residence: North Windham, Connecticut)
+                       bur. West Ridge Cemetery   Cooper, Maine
+     d. 16 May 1990   Bangor, Maine
+           bur. West Ridge Cemetery   Cooper, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Mfamilies.htm#MauriceE01">Maurice Edwin Vining</a>   b. 18 June 1931   Cooper, Maine   -   m. 19 June 1953   Alexander, Maine   Gloria Marianne Lord   -   d. 3 March 2007   North Windham, Connecticut
+     Shirley Joyce Vining   21 April 1933   Cooper, Maine   -   m. 31 December 1953   Dewey William Swanson
+     Dorothy Mae Vining   b. 26 February 1935   Calais, Maine
+  
+  <a href="Hsources/HaroldH01doc.htm">documentation and notes</a>

@@ -1,0 +1,34 @@
+id: RoyT01
+sequence: 165
+letter: R
+lastUpdated: 15 January 2024
+relationship: "[adopted?] son"
+parentId: HoraceW01
+parentLetter: H
+parentDesc: "Horace Webster Vining and Veronica [Lukas or Lucas]"
+head:
+  givenName: Roy T.
+  birth:
+    date: 16 February 1910
+  death:
+    date: 19 January 1998
+    place: "Minneapolis, Minnesota"
+marriages:
+  - spouse:
+      givenName: Constance
+      surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: daughter
+        marriages:
+          - date: "[...] Leshin"
+raw: |-
+  <a name="RoyT01"></a><font size=+2>Roy T. Vining</font>
+     ([adopted?] son of <a href="Hfamilies.htm#HoraceW01">Horace Webster Vining and Veronica [Lukas or Lucas]</a>)
+     b. 16 February 1910
+     m. Constance [...]
+     d. 19 January 1998   Minneapolis, Minnesota
+  
+  <font size=+1>child:</font>
+     daughter   m. [...] Leshin

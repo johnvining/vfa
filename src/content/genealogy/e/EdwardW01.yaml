@@ -1,0 +1,37 @@
+id: EdwardW01
+sequence: 53
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwardH03
+parentDesc: Edward H. Vining and Martha M. Wudel
+head:
+  givenName: Edward W.
+  birth:
+    date: 21 April 1944
+  death:
+    date: 4 August 2012
+marriages:
+  - date: 9 June 1967
+    spouse:
+      givenName: Janet
+      surname: Washburn
+childrenGroups:
+  - children:
+      - name: Vickie Lee Vining
+        birth:
+          date: 9 July 1969
+      - name: Jason Edward Vining
+        birth:
+          date: 28 June 1970
+raw: |-
+  <a name="EdwardW01"></a><font size=+2>Edward W. Vining</font>
+     (son of <a href="#EdwardH03">Edward H. Vining and Martha M. Wudel</a>)
+     b. 21 April 1944
+     m. 9 June 1967
+           Janet Washburn
+     d. 4 August 2012
+  
+  <font size=+1>children:</font>
+     Vickie Lee Vining   b. 9 July 1969
+     Jason Edward Vining   b. 28 June 1970

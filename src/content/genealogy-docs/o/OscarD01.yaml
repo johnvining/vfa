@@ -1,0 +1,68 @@
+id: OscarD01
+title: Oscar David Vining - Emma E. Raddatz
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Oscar David Vining
+          values:
+            - "24"
+            - "34"
+            - "44"
+            - "54"
+        - label: Emma E. (Raddatz) Vining
+          values:
+            - "21"
+            - "31"
+            - "41"
+            - "51"
+        - label: Howard Herman Vining
+          values:
+            - 1 y., 1 m.
+            - "10"
+            - "21"
+            - married and living in separate household
+          indent: true
+        - label: Margery E. Vining
+          values:
+            - ""
+            - "5"
+            - "16"
+            - "25"
+          indent: true
+        - label: Albert “Perk” Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "24"
+          indent: true
+        - label: Ora Elmo Vining
+          values:
+            - ""
+            - 2 m.
+            - "10"
+            - "20"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: West St. Paul (ward 1), Dakota County, Minnesota - dwelling 83, family 89
+        images:
+          - src: OscarD01census1910.jpg
+      - year: "1920"
+        caption: West St. Paul (ward 1), Dakota County, Minnesota - dwelling 87, family 90
+        images:
+          - src: OscarD01census1920.jpg
+      - year: "1930"
+        caption: West St. Paul (ward 1), Dakota County, Minnesota - dwelling 100, family 108
+        images:
+          - src: OscarD01census1930.jpg
+      - year: "1940"
+        caption: West St. Paul (ward 1), Dakota County, Minnesota
+        images:
+          - src: OscarD01census1940.jpg

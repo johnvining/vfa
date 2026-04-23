@@ -1,0 +1,73 @@
+id: EliasM01
+title: Elias M. Vining - Jane Bunker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Elias M. Vining
+          values:
+            - "26"
+            - "36"
+            - "46"
+            - "56"
+            - "?"
+            - "76"
+        - label: Jane (Bunker) Vining
+          values:
+            - "?"
+            - "33"
+            - "43"
+            - "53"
+            - "?"
+            - dead
+        - label: Clara A. B. Vining
+          values:
+            - "3"
+            - "13"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: James P. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "23"
+            - married [and living in separate household?]
+            - married and living in separate household]
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Galion Polk Township, Crawford County, Ohio - dwelling 306, family 301. Also living in this household in 1860
+          was Sarah Stout (a domestic, 30 y., b. Ohio).
+        images:
+          - src: EliasM01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Galion, Crawford County, Ohio - dwelling 647, family 718. Also living in this household in 1870 were Hicherson
+          Barnsbottom (retired farmer, 69 y., b. Virginia) and John C. Seiser (clerk in millinery store, 24 y., b.
+          Ohio).
+        images:
+          - src: EliasM01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Galion, Crawford County, Ohio. Also living in this household in 1880 was Rebecca Rule ([...] in hay, 38 y., b.
+          Ohio).
+        images:
+          - src: EliasM01census1880.jpg
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: Ormond Village (precinct 7), Volusia County, Florida - dwelling 633, family 642
+        images:
+          - src: EliasM01census1900.jpg

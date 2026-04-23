@@ -1,0 +1,59 @@
+id: ElmerH03
+title: Elmer Hewitt Vining - Lizzie S. Barrows
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Elmer Hewitt Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lizzie S. (Barrows) Vining
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Nellie Florence Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elmer Laforrest Vining
+          values:
+            - 9 m.
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 1021, family 1283
+        images:
+          - src: ElmerH03census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Nellie Florence Vining and Elmer Laforrest Vining, children of Elmer Hewitt Vining and Lizzie S.
+          (Barrows) Vining, in Center Cemetery, Pembroke, Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: ElmerH03childrenheadstone.jpg

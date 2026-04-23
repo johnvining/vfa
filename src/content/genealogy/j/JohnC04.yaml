@@ -1,0 +1,52 @@
+id: JohnC04
+sequence: 210
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilburC01
+parentLetter: W
+parentDesc: "Wilbur C. Vining and Carrie [&#8230;]"
+head:
+  givenName: John Carver
+  birth:
+    date: "1901"
+    place: Massachusetts
+marriages:
+  - spouse:
+      givenName: Kathryn
+      surname: "V[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Joyce C. Vining
+        birth:
+          date: age 3 m. as of 1940 census
+          place: Massachusetts
+        marriages:
+          - date: Brian Morgan
+      - name: Justin C. Vining
+        entryId: JustinC01
+        birth:
+          date: age 74 y. at death
+          place: "Lower Merion, New Jersey"
+        marriages:
+          - date: Margaret Mary Jordan
+        death:
+          date: 11 February 2020
+      - name: Bobbi Vining
+        marriages:
+          - date: Jerry Klima
+      - name: John Carver Vining Jr.
+docsUrl: Jsources/JohnC04doc.htm
+raw: |-
+  <a name="JohnC04"></a><font size=+2>John Carver Vining</font>
+     (son of <a href="Wfamilies.htm#WilburC01">Wilbur C. Vining and Carrie [&#8230;]</a>)
+     b. 1901   Massachusetts
+     m. Kathryn V[&#8230;]
+  
+  <font size=+1>children:</font>
+     Joyce C. Vining   b. age 3 m. as of 1940 census   Massachusetts   -   m. Brian Morgan
+     <a href="#JustinC01">Justin C. Vining</a>   b. age 74 y. at death   Lower Merion, New Jersey   -   m. Margaret Mary Jordan   -   d. 11 February 2020
+     Bobbi Vining   m. Jerry Klima
+     John Carver Vining Jr.
+  
+  <a href="Jsources/JohnC04doc.htm">documentation and notes</a>

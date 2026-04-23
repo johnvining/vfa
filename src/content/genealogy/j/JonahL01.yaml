@@ -1,0 +1,93 @@
+id: JonahL01
+sequence: 284
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ShadrackJ01
+parentLetter: S
+parentDesc: Shadrack Joshua Vining and Nancy Margrete Oglesby
+head:
+  givenName: Jonah Lafayette
+  birth:
+    date: 23 April 1883
+    place: "Bibb County, Alabama"
+  death:
+    date: 22 June 1961
+    place: "Green Pond, Bibb County, Alabama"
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Alabama"
+marriages:
+  - date: 6 y. as of 1910 census
+    spouse:
+      givenName: Rebecca Addie
+      surname: Wright
+      birth:
+        date: 2 November 1883
+        place: Alabama
+      death:
+        date: 25 April 1973
+      burial:
+        place: "Green Pond Presbyterian Church Cemetery   Green Pond, Alabama"
+childrenGroups:
+  - children:
+      - name: Thomas Joshua Vining
+        entryId: ThomasJ02
+        entryLetter: T
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Alabama
+        marriages:
+          - date: "Ulala [...]"
+      - name: Ernest L. Vining
+        entryId: ErnestL03
+        entryLetter: E
+        birth:
+          date: 12 September 1908
+          place: Alabama
+        marriages:
+          - date: "Hazel M. [&#8230;]"
+        death:
+          date: 13 March 1978
+        burial:
+          place: "Green Pond Presbyterian Churuch Cemetery   Green Pond, Alabama"
+      - name: Charles Vining
+        birth:
+          date: "1911"
+          place: Alabama
+        death:
+          date: 29 March 1913
+          place: "Bibb County, Alabama"
+        burial:
+          place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+      - name: Homer Vining
+        entryId: Homer01
+        entryLetter: H
+        birth:
+          date: 18 August 1915
+          place: Alabama
+        marriages:
+          - date: "Odell [...]"
+        death:
+          date: 25 November 1958
+        burial:
+          place: "Green Pond Presbyterian Church Cemetery"
+docsUrl: Jsources/JonahL01doc.htm
+raw: |-
+  <a name="JonahL01"></a><font size=+2>Jonah Lafayette Vining</font>
+     (son of <a href="Sfamilies.htm#ShadrackJ01">Shadrack Joshua Vining and Nancy Margrete Oglesby</a>)
+     b. 23 April 1883   Bibb County, Alabama
+     m. 6 y. as of 1910 census
+           Rebecca Addie Wright
+                 b. 2 November 1883   Alabama
+                 d. 25 April 1973
+                       bur. Green Pond Presbyterian Church Cemetery   Green Pond, Alabama
+     d. 22 June 1961   Green Pond, Bibb County, Alabama
+           bur. Green Pond Presbyterian Church Cemetery   Green Pond, Alabama
+  
+  <font size=+1>children:</font>
+     <a href="Tfamilies.htm#ThomasJ02">Thomas Joshua Vining</a>   b. age 4 y. as of 1910 census   Alabama   -   m. Ulala [...]
+     <a href="Efamilies.htm#ErnestL03">Ernest L. Vining</a>   b. 12 September 1908   Alabama   -   m. Hazel M. [&#8230;]   -   d. 13 March 1978   -   bur Green Pond Presbyterian Churuch Cemetery   Green Pond, Alabama
+     Charles Vining   b. 1911   Alabama   -   d. 29 March 1913   Bibb County, Alabama   -   bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+     <a href="Hfamilies.htm#Homer01">Homer Vining</a>   b. 18 August 1915   Alabama   -   m. Odell [...]   -   d. 25 November 1958   -   bur. Green Pond Presbyterian Church Cemetery
+  
+  <a href="Jsources/JonahL01doc.htm">documentation and notes</a>

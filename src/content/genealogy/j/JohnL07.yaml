@@ -1,0 +1,56 @@
+id: JohnL07
+sequence: 242
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "John L. Vining and Mary E. [&#8230;]"
+head:
+  givenName: John L.
+  birth:
+    date: "1872"
+marriages:
+  - date: 17 August 1891
+    place: "Lynn, Massachusetts"
+    spouse:
+      givenName: "Abbie F. Bamford (she m. (2) John H. Mansfield)"
+      parents: "(dau. of Sidney A. Bamford and Mary E [&#8230;])"
+      birth:
+        date: September 1871
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Marian S. Vining
+        birth:
+          date: April 1892
+          place: Massachusetts
+      - name: Shirley R. Vining
+        entryId: ShirleyR01
+        entryLetter: S
+        birth:
+          date: June 1893
+          place: Massachusetts
+        marriages:
+          - date: ca. 1914
+            spouse: Beatrice Ham
+        death:
+          date: between 1930 and 1940 censuses
+      - name: Sidney R. Vining
+        birth:
+          date: June 1895
+          place: Massachusetts
+docsUrl: Jsources/JohnL07doc.htm
+raw: |-
+  <a name="JohnL07"></a><font size=+2>John L. Vining</font>
+     (son of John L. Vining and Mary E. [&#8230;])
+     b. 1872
+     m. 17 August 1891   Lynn, Massachusetts
+           Abbie F. Bamford (she m. (2) John H. Mansfield)
+                 (dau. of Sidney A. Bamford and Mary E [&#8230;])
+                 b. September 1871   Massachusetts
+  
+  <font size=+1>children:</font>
+     Marian S. Vining   b. April 1892   Massachusetts
+     <a href="Sfamilies.htm#ShirleyR01">Shirley R. Vining</a>   b. June 1893   Massachusetts   -   m. ca. 1914   Beatrice Ham   -   d. between 1930 and 1940 censuses
+     Sidney R. Vining   b. June 1895   Massachusetts
+  
+  <a href="Jsources/JohnL07doc.htm">documentation and notes</a>

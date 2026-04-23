@@ -1,0 +1,58 @@
+id: Alvin04
+letter: A
+sequence: 62
+lastUpdated: 1 February 2021
+relationship: son
+parentId: David08
+parentLetter: D
+parentDesc: David Vining and Hannah L. Green
+head:
+  givenName: Alvin
+  birth:
+    date: age 9 y. as of 1860 census
+    place: "Ellington, Chatauqua County, New York"
+marriages:
+  - spouse:
+      givenName: Jennie
+      surname: Brown
+      birth:
+        date: age 22 y. as of 1880 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Minnie A. Vining
+        birth:
+          date: age 6 y. as of 1880 census
+          place: New York
+      - name: Horace A. Vining
+        birth:
+          date: August 1874
+          place: "Red House, Cattaraugus County, New York"
+        death:
+          date: 24 March 1904
+          place: "Jamestown, Chautauqua County, New York"
+      - name: Cora Vining
+        birth:
+          date: age 1 y. as of 1880 census
+          place: Pennsylvania
+      - name: William Vining
+        birth:
+          date: ca. 1885
+        death:
+          date: 21 January 1906
+          place: "Jamestown, Chautauqua County, New York"
+docsUrl: Asources/Alvin04doc.htm
+raw: |-
+  <a name="Alvin04"></a><font size="+2">Alvin Vining</font>
+     (son of <a href="Dfamilies.htm#David08">David Vining and Hannah L. Green</a>)
+     b. age 9 y. as of 1860 census   Ellington, Chatauqua County, New York
+     m. Jennie Brown
+              b. age 22 y. as of 1880 census   New York
+  
+  <font size="+1">children:</font>
+     Minnie A. Vining   b. age 6 y. as of 1880 census   New York
+     Horace A. Vining   b. August 1874   Red House, Cattaraugus County, New York   -   d. 24 March 1904   Jamestown, Chautauqua County, New York
+     Cora Vining   b. age 1 y. as of 1880 census   Pennsylvania
+     William Vining   b. ca. 1885   -   d. 21 January 1906   Jamestown, Chautauqua County, New York
+  
+  <a href="Asources/Alvin04doc.htm">documentation and notes</a>

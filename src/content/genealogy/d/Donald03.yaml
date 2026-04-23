@@ -1,0 +1,40 @@
+id: Donald03
+sequence: 69
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John38
+parentLetter: J
+parentDesc: "John Vining and Burlie [&#8230;]"
+head:
+  givenName: Donald
+  birth:
+    date: age 80 y. at death
+  death:
+    date: 1 May 2018
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: Wanda
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Donnie Vining
+        marriages:
+          - date: "Patsy [&#8230;]"
+      - name: Kyle Vining
+        marriages:
+          - date: "Dawn [&#8230;]"
+docsUrl: Dsources/Donald03doc.htm
+raw: |-
+  <a name="Donald03"></a><font size=+2>Donald Vining</font>
+     (son of <a href="Jfamilies.htm#John38">John Vining and Burlie [&#8230;]</a>)
+     b. age 80 y. at death
+     m. Wanda [&#8230;]
+     d. 1 May 2018   Alabama
+  
+  <font size=+1>children:</font>
+     Donnie Vining   m. Patsy [&#8230;]
+     Kyle Vining   m. Dawn [&#8230;]
+  
+  <a href="Dsources/Donald03doc.htm">documentation and notes</a>

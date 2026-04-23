@@ -1,0 +1,39 @@
+id: ArthurF02
+letter: A
+sequence: 89
+lastUpdated: 1 February 2021
+relationship: son
+parentId: ValcinoV01
+parentLetter: V
+parentDesc: Valcino Vernon Vining and Libby Lois Giles
+head:
+  givenName: Arthur F.
+  birth:
+    date: age 4 y. as of 1910 census
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Edna
+      surname: "[&#8230;]"
+      birth:
+        date: age 29 y. as of 1940 census
+        place: Nebraska
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Andrea Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Colorado
+docsUrl: Asources/ArthurF02doc.htm
+raw: |-
+  <a name="ArthurF02"></a><font size="+2">Arthur F. Vining</font>
+     (son of <a href="Vfamilies.htm#ValcinoV01">Valcino Vernon Vining and Libby Lois Giles</a>)
+     b. age 4 y. as of 1910 census   Ohio
+     m. Edna [&#8230;]
+              b. age 29 y. as of 1940 census   Nebraska
+  
+  <font size="+1">child:</font>
+     Andrea Vining   b. age 2 y. as of 1940 census   Colorado
+  
+  <a href="Asources/ArthurF02doc.htm">documentation and notes</a>

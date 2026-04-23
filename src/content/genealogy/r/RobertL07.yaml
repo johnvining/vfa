@@ -1,0 +1,87 @@
+id: RobertL07
+sequence: 115
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FrancisMJr01
+parentLetter: F
+parentDesc: Francis Marion Vining Jr. and Mary Dora Kinman
+head:
+  givenName: Robert Lloyd
+  birth:
+    date: 15 May 1889
+  death:
+    date: 25 May 1977
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Laura Amanda
+      surname: Finley
+      birth:
+        date: 22 December 1896
+      death:
+        date: 13 March 1990
+      burial:
+        place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: infant son Vining
+        birth:
+          date: 22 February 1917
+        death:
+          date: 23 February 1917
+        burial:
+          place: "Forest Cemetery   Forest, Louisiana"
+      - name: infant son Vining
+        birth:
+          date: 22 June 1918
+        death:
+          date: 25 June 1918
+        burial:
+          place: "Forest Cemetery   Forest, Louisiana"
+      - name: Sadie Vining
+        marriages:
+          - date: "[...] Boughton"
+      - name: Dora Dean Vining
+        marriages:
+          - date: "[...] Davis"
+      - name: Jeanette Vining
+        marriages:
+          - date: "[...] Arnold"
+      - name: Robert Leo Vining
+        entryId: RobertL06
+        birth:
+          date: 20 October 1939
+          place: "Pioneer, Louisiana"
+        marriages:
+          - date: Shirley Annette Rushing
+        death:
+          date: 20 March 2013
+        burial:
+          place: St. Paul's Comumbarium
+      - name: Berdiana Vining
+        marriages:
+          - date: "[...] Smelley"
+docsUrl: Rsources/RobertL07doc.htm
+raw: |-
+  <a name="RobertL07"></a><font size=+2>Robert Lloyd Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisMJr01">Francis Marion Vining Jr. and Mary Dora Kinman</a>)
+     b. 15 May 1889
+     m. Laura Amanda Finley
+              b. 22 December 1896
+              d. 13 March 1990
+                    bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+     d. 25 May 1977
+           bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     infant son Vining   b. 22 February 1917   -   d. 23 February 1917   -   bur. Forest Cemetery   Forest, Louisiana
+     infant son Vining   b. 22 June 1918   -   d. 25 June 1918   -   bur. Forest Cemetery   Forest, Louisiana
+     Sadie Vining   m. [...] Boughton
+     Dora Dean Vining   m. [...] Davis
+     Jeanette Vining   m. [...] Arnold
+     <a href="#RobertL06">Robert Leo Vining</a>   b. 20 October 1939   Pioneer, Louisiana   -   m. Shirley Annette Rushing   -   d. 20 March 2013   -   bur. St. Paul's Comumbarium
+     Berdiana Vining   m. [...] Smelley
+  
+  <a href="Rsources/RobertL07doc.htm">documentation and notes</a>

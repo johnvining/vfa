@@ -1,0 +1,150 @@
+id: Elias01
+sequence: 71
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: SamuelJr01
+parentLetter: S
+parentDesc: Samuel Vining Jr. and Mary Gleason
+head:
+  givenName: Elias
+  birth:
+    date: 23 October 1745
+    place: "Windsor, Connecticut"
+  death:
+    date: 12 March 1825
+    place: Massachusetts
+marriages:
+  - date: 12 December 1771
+    place: "Simsbury, Connecticut"
+    spouse:
+      givenName: Eunice
+      surname: Case
+      parents: (dau. of Thomas Case and Elizabeth Woodford)
+      birth:
+        date: 29 February 1747/48
+        place: "Simsbury, Connecticut"
+      death:
+        date: 8 January 1832
+        place: "Simsbury, Connecticut"
+childrenGroups:
+  - children:
+      - name: Elias Vining Jr.
+        entryId: EliasJr01
+        birth:
+          date: 16 October 1772/73
+          place: "Simsbury, Connecticut"
+        marriages:
+          - spouse: Orpha Powel
+        death:
+          date: 14 April 1852
+        burial:
+          place: "Powel Cemetery   Liberty, Ohio"
+      - name: Samuel Vining
+        entryId: Samuel04
+        entryLetter: S
+        birth:
+          date: 12 August 1774
+          place: "Simsbury, Connecticut"
+        marriages:
+          - spouse: Rhoda Pettibone
+        death:
+          date: 13 June 1828
+          place: "Southwick, Massachusetts"
+      - name: Eunice Vining
+        birth:
+          date: 23 October 1776
+          place: "Simsbury, Connecticut"
+        marriages:
+          - spouse: Isaiah Ensign
+        death:
+          date: 11 May 1817
+          place: "Simsbury, Connecticut"
+      - name: Thomas Vining
+        entryId: Thomas02
+        entryLetter: T
+        birth:
+          date: 2 May 1778
+          place: "Simsbury, Connecticut"
+        marriages:
+          - number: 1
+            date: Wealthy Weston
+          - number: 2
+            date: Mary Mason
+        death:
+          date: 17 November 1852/53
+      - name: William Vining
+        entryId: William01
+        entryLetter: W
+        birth:
+          date: 23 October 1779
+          place: "Simsbury, Connecticut"
+        marriages:
+          - spouse: "[1?] Phoebe [...];   [2?] 1803   Worthington, Ohio   Huldah Pinney"
+        death:
+          date: 9 September 1867
+          place: "Worthington, Ohio"
+        burial:
+          place: "Walnut Grove Cemetery   Worthington, Ohio"
+      - name: Elmer Vining
+        entryId: Elmer02
+        birth:
+          date: 3 October 1781
+          place: "Simsbury, Connecticut"
+        marriages:
+          - number: 1
+            date: "1806"
+            spouse: "Sarah &#8220;Sally&#8221; McLean"
+          - number: 2
+            date: Sarah Goodwin
+        death:
+          date: "[11 or 13?] November 1848"
+      - name: Philomathes M. Vining
+        entryId: PhilomanthesM01
+        entryLetter: P
+        birth:
+          date: 7 December 1783
+          place: "Simsbury, Connecticut"
+        marriages:
+          - date: "1808"
+            spouse: Sally Phelps
+        death:
+          date: "[2 or 23?] September 1849"
+      - name: Gaius Vining
+        entryId: Gaius01
+        entryLetter: G
+        birth:
+          date: 13 November 1785
+          place: "Simsbury, Connecticut"
+        marriages:
+          - date: 18 October 1812
+            place: "Simsbury, Connecticut"
+            spouse: Martha Little
+        death:
+          date: 27 February 1873
+          place: "Southwick, Massachusetts"
+        burial:
+          place: "Southwick Cemetery   Southwick, Massachusetts"
+docsUrl: Esources/Elias01doc.htm
+raw: |-
+  <a name="Elias01"></a><font size=+2>Elias Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelJr01">Samuel Vining Jr. and Mary Gleason</a>)
+     b. 23 October 1745   Windsor, Connecticut
+     m. 12 December 1771   Simsbury, Connecticut
+           Eunice Case
+                 (dau. of Thomas Case and Elizabeth Woodford)
+                 b. 29 February 1747/48   Simsbury, Connecticut
+                 d. 8 January 1832   Simsbury, Connecticut
+     d. 12 March 1825   Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#EliasJr01">Elias Vining Jr.</a>   b. 16 October 1772/73   Simsbury, Connecticut   -   m. Orpha Powel   -   d. 14 April 1852   -   bur. Powel Cemetery   Liberty, Ohio
+     <a href="Sfamilies.htm#Samuel04">Samuel Vining</a>   b. 12 August 1774   Simsbury, Connecticut   -   m. Rhoda Pettibone   -   d. 13 June 1828   Southwick, Massachusetts
+     Eunice Vining   b. 23 October 1776   Simsbury, Connecticut   -   m. Isaiah Ensign   -   d. 11 May 1817   Simsbury, Connecticut
+     <a href="Tfamilies.htm#Thomas02">Thomas Vining</a>   b. 2 May 1778   Simsbury, Connecticut   -   m. (1) Wealthy Weston;   (2) Mary Mason   -   d. 17 November 1852/53
+     <a href="Wfamilies.htm#William01">William Vining</a>   b. 23 October 1779   Simsbury, Connecticut   -   m. [1?] Phoebe [...];   [2?] 1803   Worthington, Ohio   Huldah Pinney   -   d. 9 September 1867   Worthington, Ohio   -   bur. Walnut Grove Cemetery   Worthington, Ohio
+     <a href="#Elmer02">Elmer Vining</a>   b. 3 October 1781   Simsbury, Connecticut   -   m. (1) 1806   Sarah &#8220;Sally&#8221; McLean;   (2) Sarah Goodwin   -   d. [11 or 13?] November 1848
+     <a href="Pfamilies.htm#PhilomanthesM01">Philomathes M. Vining</a>   b. 7 December 1783   Simsbury, Connecticut   -   m. 1808   Sally Phelps   -   d. [2 or 23?] September 1849
+     <a href="Gfamilies.htm#Gaius01">Gaius Vining</a>   b. 13 November 1785   Simsbury, Connecticut   -   m. 18 October 1812   Simsbury, Connecticut   Martha Little   -   d. 27 February 1873   Southwick, Massachusetts   -   bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <a href="Esources/Elias01doc.htm">documentation and notes</a>

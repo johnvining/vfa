@@ -1,0 +1,86 @@
+id: FreemanJ01
+sequence: 65
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: JudsonB01
+parentLetter: J
+parentDesc: Judson Bartow Vining and Frances Virginia Lee
+head:
+  givenName: Freeman Judson
+  birth:
+    date: 27 December 1902
+    place: "Ocoee, Orange County, Florida"
+  death:
+    date: 20 November 1973
+    place: "Jacksonville, Duval County, Florida"
+marriages:
+  - date: 31 August 1929
+    place: "Volusia County, Florida"
+    spouse:
+      givenName: "Susie [Gray or Gertrude]"
+      surname: Sellers
+      birth:
+        date: 22 Apri 1900
+        place: "Mobile, Alabama"
+      death:
+        date: July 1958
+        place: "Jacksonville, Duval County, Florida"
+childrenGroups:
+  - children:
+      - name: Freeman Judson Vining Jr.
+        entryId: FreemanJJr01
+        birth:
+          date: 13 January 1930
+          place: "Jacksonville, Duval County, Florida"
+        marriages:
+          - date: 4 September 1948
+            spouse: "Randolph, Arkansas   Doris Marie Serini"
+        death:
+          date: 11 February 2005
+          place: "Jacksonville, Duval County, Florida"
+      - name: Beverly Anne Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Florida
+        marriages:
+          - date: Don Holt
+      - name: "[Martha Vining"
+        birth:
+          date: 22 February 1931
+          place: "Jacksonville, Duval County, Florida?]"
+      - name: Jacqueline Vining
+        birth:
+          date: 28 October 1933
+          place: "Jacksonville, Duval County, Florida"
+      - name: Rodney Lamar Vining
+        entryId: RodneyL01
+        entryLetter: R
+        birth:
+          date: 11 March 1940
+          place: "Jacksonville, Duval County, Florida"
+        marriages:
+          - date: Lynda Jackson
+        death:
+          date: 25 September 2011
+        burial:
+          place: "Russell Haven of Rest Cemetery   Green Cove Springs, Florida"
+docsUrl: Fsources/FreemanJ01doc.htm
+raw: |-
+  <a name="FreemanJ01"></a><font size=+2>Freeman Judson Vining</font>
+     (son of <a href="Jfamilies.htm#JudsonB01">Judson Bartow Vining and Frances Virginia Lee</a>)
+     b. 27 December 1902   Ocoee, Orange County, Florida
+     m. 31 August 1929   Volusia County, Florida
+           Susie [Gray or Gertrude] Sellers
+                 b. 22 Apri 1900   Mobile, Alabama
+                 d. July 1958   Jacksonville, Duval County, Florida
+  d.  20 November 1973   Jacksonville, Duval County, Florida
+  
+  <font size=+1>children:</font>
+     <a href="#FreemanJJr01">Freeman Judson Vining Jr.</a>   b. 13 January 1930   Jacksonville, Duval County, Florida   -   m. 4 September 1948   Randolph, Arkansas   Doris Marie Serini   -   d. 11 February 2005   Jacksonville, Duval County, Florida
+     Beverly Anne Vining   b. age 9 y. as of 1940 census   Florida   -   m. Don Holt
+     [Martha Vining   b. 22 February 1931   Jacksonville, Duval County, Florida?]
+     Jacqueline Vining   b. 28 October 1933   Jacksonville, Duval County, Florida
+     <a href="Rfamilies.htm#RodneyL01">Rodney Lamar Vining</a>   b. 11 March 1940   Jacksonville, Duval County, Florida   -   m. Lynda Jackson   -   d. 25 September 2011   -   bur. Russell Haven of Rest Cemetery   Green Cove Springs, Florida
+  
+  <a href="Fsources/FreemanJ01doc.htm">documentation and notes</a>

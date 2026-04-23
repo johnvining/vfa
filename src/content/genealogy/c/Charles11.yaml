@@ -1,0 +1,46 @@
+id: Charles11
+letter: C
+sequence: 39
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Charles
+  birth:
+    date: age 24 y. as of 1870 census
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: Celia
+      surname: "[...]"
+      birth:
+        date: age 19 y. as of 1870 census
+        place: North Carolina
+childrenGroups:
+  - children:
+      - name: Charles Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: Texas
+      - name: Joseph Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Texas
+      - name: Jane Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Texas
+docsUrl: Csources/Charles11doc.htm
+raw: |-
+  <a name="Charles11"></a><font size=+2>Charles Vining</font>
+     (son of [?])
+     b. age 24 y. as of 1870 census   Alabama
+     m. Celia [...]
+              b. age 19 y. as of 1870 census   North Carolina
+  
+  <font size=+1>children:</font>
+     Charles Vining   b. age 6 y. as of 1870 census   Texas
+     Joseph Vining   b. age 4 y. as of 1870 census   Texas
+     Jane Vining   b. age 2 y. as of 1870 census   Texas
+  
+  <a href="Csources/Charles11doc.htm">documentation and notes</a>

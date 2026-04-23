@@ -1,0 +1,45 @@
+id: FredO01
+title: Fred Osborn Vining - May Eugenia Richards
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Fred Osborn Vining
+          values:
+            - "27"
+            - "37"
+            - "48"
+        - label: May Eugenia (Richards) Vining
+          values:
+            - "22"
+            - "32"
+            - "40"
+        - label: Felix Barrett Vining
+          values:
+            - 2 y., 2 m.
+            - "12"
+            - dead
+          indent: true
+        - label: Jesse Osborn Vining
+          values:
+            - "[2?] m."
+            - "10"
+            - "20"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: 9th [Militia] District, Whitfield County, Georgia - dwelling 90, family 99
+        images:
+          - src: FredO01census1920.jpg
+      - year: "1930"
+        caption: Sacramento (Assembly District 14), Sacramento County, California - dwelling 85, family 85
+        images:
+          - src: FredO01census1930.jpg
+      - year: "1940"
+        caption: Sacramento, Sacramento County, California
+        images:
+          - src: FredO01census1940.jpg

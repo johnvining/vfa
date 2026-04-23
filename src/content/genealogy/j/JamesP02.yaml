@@ -1,0 +1,49 @@
+id: JamesP02
+sequence: 89
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EliasM01
+parentLetter: E
+parentDesc: Elias M. Vining and Jane Bunker
+head:
+  givenName: James P.
+  birth:
+    date: "1857"
+    place: Ohio
+  death:
+    date: 8 July 1925
+  burial:
+    place: "Saint Mary Cemetery   Delaware, Ohio"
+marriages:
+  - date: 28 July 1881
+    place: "Crawford, Ohio"
+    spouse:
+      givenName: Lillie M.
+      surname: Davis
+      birth:
+        date: December 1860
+        place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: child Vining
+        birth:
+          date: between 1900 and 1910 census
+        death:
+          date: between 1900 and 1910 census
+docsUrl: Jsources/JamesP02doc.htm
+raw: |-
+  <a name="JamesP02"></a><font size=+2>James P. Vining</font>
+     (son of <a href="Efamilies.htm#EliasM01">Elias M. Vining and Jane Bunker</a>)
+     b. 1857   Ohio
+     m. 28 July 1881   Crawford, Ohio
+           Lillie M. Davis
+                 b. December 1860   Ohio
+     d. 8 July 1925
+           bur. Saint Mary Cemetery   Delaware, Ohio
+  
+  <font size=+1>child:</font>
+     child Vining   b. between 1900 and 1910 census   -   d. between 1900 and 1910 census
+   
+  <a href="Jsources/JamesP02doc.htm">documentation and notes</a>

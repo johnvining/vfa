@@ -1,0 +1,65 @@
+id: JohnFIII01
+sequence: 227
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnFJr01
+parentDesc: John Franklin Vining Jr.
+head:
+  givenName: John Franklin III
+  birth:
+    date: 22 July 1931
+  death:
+    date: 2 August 2001
+  burial:
+    place: "Blue Hill Cemetery   Braintree, Norfolk County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Patricia
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Christopher John Vining
+        birth:
+          date: 19 December 1956
+      - name: Eric Angus Vining
+        birth:
+          date: 5 September 1958
+      - name: Peter Bradley Vining
+        birth:
+          date: 27 September 1959
+      - name: Victorine Marie Vining
+        birth:
+          date: 27 September 1960
+        marriages:
+          - date: "[...] Muse"
+      - name: Timothy Allen Vining
+        birth:
+          date: 12 March 1962
+      - name: Thomas Jude Vining
+        birth:
+          date: 10 July 1964
+      - name: Valerie Ann Vining
+        birth:
+          date: 20 September 1966
+        marriages:
+          - date: "[...] Salmons"
+docsUrl: Jsources/JohnFIII01doc.htm
+raw: |-
+  <a name="JohnFIII01"></a><font size=+2>John Franklin Vining III</font>
+     (son of <a href="#JohnFJr01">John Franklin Vining Jr.</a>)
+     b. 22 July 1931
+     m. Patricia [...]
+     d. 2 August 2001
+              bur. Blue Hill Cemetery   Braintree, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Christopher John Vining   b. 19 December 1956
+     Eric Angus Vining   b. 5 September 1958
+     Peter Bradley Vining   b. 27 September 1959
+     Victorine Marie Vining   b. 27 September 1960   -   m. [...] Muse
+     Timothy Allen Vining   b. 12 March 1962
+     Thomas Jude Vining   b. 10 July 1964
+     Valerie Ann Vining   b. 20 September 1966   -   m. [...] Salmons
+  
+  <a href="Jsources/JohnFIII01doc.htm">documentation and notes</a>

@@ -1,0 +1,80 @@
+id: ElijahHJr01
+title: Elijah H. Vining Jr. - Iola S. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+      rows:
+        - label: Elijah H. Vining Jr.
+          values:
+            - "41"
+            - dead
+        - label: Iola S. ([...]) Vining
+          values:
+            - "37"
+            - "46"
+        - label: James Robert Vining
+          values:
+            - "14"
+            - living in separate household
+          indent: true
+        - label: Lizzie [Katie?] Vining
+          values:
+            - 1[3?]
+            - "20"
+          indent: true
+        - label: Abner Calhoun Vining Jr. Jr.
+          values:
+            - "8"
+            - "18"
+          indent: true
+        - label: Howard Vining
+          values:
+            - "7"
+            - "17"
+          indent: true
+        - label: Ola May "Mamie" Vining
+          values:
+            - "2"
+            - "12"
+          indent: true
+        - label: Marvin Eugene Vining
+          values:
+            - |-
+              [age not given];
+              [birth date reported as May 1900]
+            - "9"
+          indent: true
+        - label: Ruby Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          - One hypothesis is that Elijah H. Vining Jr. was reported in two households in 1880—as age 19 years and still
+          living in his parents' household (dwelling 18, family 18 in the 1261st District (Cedar Shoals), Newton County,
+          Georgia); and as age 21 years and living with W. B. and Martha F[...] (family 171) in Brewer, Newton County,
+          Georgia, when he was listed as a "clerk in store". Another hypothesis is that these were two Elijah H.
+          Vinings, both living in Newton County, Georgia, in 1880. Research is needed to evaluate these
+          hypotheses.Research is needed to evaluate these hypotheses.
+      - year: "1900"
+        caption: Covington, Newton County, Georgia - dwelling 162, family 163
+        images:
+          - src: ElijahHJr01census1900a.jpg
+          - src: ElijahHJr01census1900b.jpg
+      - year: "1910"
+        caption: Town District, Newton County, Georgia - dwelling 203, family 211
+        images:
+          - src: ElijahHJr01census1910a.jpg
+          - src: ElijahHJr01census1910b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Ola May "Mamie" Vining, daughter of Elijah H. Vining Jr. and Iola S. ([…]) Vining, in Covington
+          City Cemetery, Covington, Newton County, Georgia (from Find A Grave):
+        images:
+          - src: ElijahHJr01dauMamiegravestone.jpg

@@ -1,0 +1,113 @@
+id: MinorS02
+title: Minor Simeon Vining - Rebecca Catherine Stooksberry
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Minor Simeon Vining
+          values:
+            - "?"
+            - "37"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Rebecca Catherine (Stooksberry) Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Marilda Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Simon H. Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Franklin Isaac Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Susan[na?] Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Bentley Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Emma E. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: daughter Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Dora Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Tippecanoe, Marshall County, Indiana.
+  - type: death
+    items:
+      - caption: >-
+          Monument sides for Minor Simeon Vining and Rebecca Catherine (Stooksberry) Vining, in Summit Chapel Cemetery,
+          Bourbon, Marshall County, Indiana (from Find A Grave):
+        images:
+          - src: MinorS02monumentside.jpg
+          - src: MinorS02wifemonumentside.jpg
+        inline: true

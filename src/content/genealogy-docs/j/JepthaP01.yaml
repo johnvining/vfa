@@ -1,0 +1,74 @@
+id: JepthaP01
+title: Jeptha Peter Vining - Etta F. Hitchcock
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jeptha Peter Vining
+          values:
+            - "?"
+            - "44"
+            - dead
+            - "?"
+            - "?"
+            - "?"
+        - label: Etta F. (Hitchcock) Vining
+          values:
+            - "?"
+            - "47"
+            - "57"
+            - "?"
+            - "?"
+            - "?"
+        - label: Clarence J. Vining
+          values:
+            - "?"
+            - "19"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Newell E. Vining
+          values:
+            - "?"
+            - "13"
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Myrtle L. Vining
+          values:
+            - ""
+            - "9"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Walter V. Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Jewett, Greene County, New York - dwelling 148, family 167
+        images:
+          - src: JepthaP01census1900.jpg
+      - year: "1910"
+        caption: Windham, Greene County, New York - dwelling 33, family 37
+        images:
+          - src: JepthaP01census1910.jpg

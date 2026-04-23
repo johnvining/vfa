@@ -1,0 +1,131 @@
+id: MosesA01
+title: Moses Andrew Vining - Eliza Ann Brown
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Moses Andrew Vining
+          values:
+            - "36"
+            - "45"
+            - "56"
+            - "?"
+            - dead
+        - label: Eliza Ann (Brown) Vining
+          values:
+            - "26"
+            - "35"
+            - "43"
+            - "?"
+            - dead
+        - label: Dora Brown Vining
+          values:
+            - "2"
+            - "12"
+            - "22"
+            - "?"
+            - "?"
+          indent: true
+        - label: George Hobart Vining
+          values:
+            - 9 m.
+            - "10"
+            - "20"
+            - "?"
+            - "?"
+          indent: true
+        - label: Fannie Louise Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Brown Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+        - label: Howard Brown Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Morton Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+        - label: Henry Rowland Vining
+          values:
+            - ""
+            - 2 m.
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+        - label: Adelaide Gale Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edith Bigelow Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 226, family 228. In 1860, Moses A. Vining, wife Eliza,
+          daughter Dora, and son George were living in the household of William Brown.
+        images:
+          - src: MosesA01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 162, family 172. Also living in this household in 1870
+          were Eliza Brown (58 y., b. Connecticut), Ella Brown (23 y., b. Massachusetts), and Alexander Blan[...?] (16
+          y., b. Massachusetts, domestic servant).
+        images:
+          - src: MosesA01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - Also living in this household in 1880 was Ella M. Brown (32 y., b.
+          Massachusetts), a sister-in-law of Moses Andrew Vining.
+        images:
+          - src: MosesA01census1880a.jpg
+          - src: MosesA01census1880b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Fannie Louise Vining, Henry Rowland Vining, Adelaide Gale Vining, and Edith Bigelow Vining,
+          children of Moses Andrew Vining and Eliza Ann (Brown) Vining, in Elmwood Cemetery, Kansas City, Jackson
+          County, Missouri (from Find A Grave):
+        images:
+          - src: MosesA01dauFanniegravestone.jpg
+          - src: MosesA01sonHenrygravestone.jpg
+          - src: MosesA01dauAdelaidegravestone.jpg
+          - src: MosesA01dauEdithgravestone.jpg
+        inline: true

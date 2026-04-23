@@ -1,0 +1,35 @@
+id: MonroeM01
+sequence: 49
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: LesterR01
+parentLetter: L
+parentDesc: Lester Raymond Vining and Laurel Vivian Ladner
+head:
+  givenName: Monroe Marion
+  birth:
+    date: 22 December 1920
+  death:
+    date: July 1986
+    place: "(last residence: Umatilla, Florida)"
+marriages:
+  - spouse:
+      givenName: Helen
+      surname: Parker
+    note: divorced
+childrenGroups:
+  - children:
+      - name: Terry Lee Vining
+      - name: Cheryl Vining
+raw: |-
+  <a name="MonroeM01"></a><font size=+2>Monroe Marion Vining</font>
+     (son of <a href="Lfamilies.htm#LesterR01">Lester Raymond Vining and Laurel Vivian Ladner</a>)
+     b. 22 December 1920
+     m. Helen Parker
+           divorced
+     d. July 1986   (last residence: Umatilla, Florida)
+  
+  <font size=+1>children:</font>
+     Terry Lee Vining
+     Cheryl Vining

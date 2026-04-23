@@ -1,0 +1,62 @@
+id: MillardF01
+sequence: 37
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: David06
+parentLetter: D
+parentDesc: David Vining and Jane C. Thomas
+head:
+  givenName: Millard F.
+  birth:
+    date: March 1848
+    place: Maine
+marriages:
+  - date: 16 October 1869
+    spouse:
+      givenName: Emma A.
+      surname: Gilkey
+      birth:
+        date: April 1854
+        place: Maine
+childrenGroups:
+  - children:
+      - name: Jennie A. Vining
+        birth:
+          date: age 8 y. as of 1880 census
+          place: Minnesota
+      - name: Lula M. Vining
+        birth:
+          date: age 7 y. as of 1880 census
+          place: Minnesota
+      - name: William F. Vining
+        birth:
+          date: June 1874
+          place: Minnesota
+        marriages:
+          - date: "[1900?] Emma [...]"
+      - name: Hattie M. Vining
+        birth:
+          date: age 1 y. as of 1880 census
+          place: Minnesota
+      - name: Bissie M. Vining
+        birth:
+          date: January 1881
+          place: Minnesota
+docsUrl: Msources/MillardF01doc.htm
+raw: |-
+  <a name="MillardF01"></a><font size=+2>Millard F. Vining</font>
+     (son of <a href="Dfamilies.htm#David06">David Vining and Jane C. Thomas</a>)
+     b. March 1848   Maine
+     m. 16 October 1869
+           Emma A. Gilkey
+                 b. April 1854   Maine
+  
+  <font size=+1>children:</font>
+     Jennie A. Vining   b. age 8 y. as of 1880 census   Minnesota
+     Lula M. Vining   b. age 7 y. as of 1880 census   Minnesota
+     William F. Vining   b. June 1874   Minnesota   -   m. [1900?] Emma [...]
+     Hattie M. Vining   b. age 1 y. as of 1880 census   Minnesota
+     Bissie M. Vining   b. January 1881   Minnesota
+  
+  <a href="Msources/MillardF01doc.htm">documentation and notes</a>

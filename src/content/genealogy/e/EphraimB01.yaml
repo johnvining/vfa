@@ -1,0 +1,97 @@
+id: EphraimB01
+sequence: 105
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: SewardP01
+parentLetter: S
+parentDesc: Seward P. Vining and Martha C. Thomas
+head:
+  givenName: Ephraim Bernard
+  birth:
+    date: 7 October 1843
+    place: "Avon, Maine"
+  death:
+    date: 20 May 1922
+    place: "Farmington, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - number: 1
+    spouse:
+      givenName: Ann R.
+      surname: Pike
+      birth:
+        date: age 24 y. as of 1870 census
+        place: Maine
+      death:
+        date: 2 February 1875
+      burial:
+        place: "Pike's Hill Cemetery   Norway, Maine"
+  - number: 2
+    spouse:
+      givenName: Amanda
+      surname: Maxim
+      parents: (dau. of Benjamin Maxim and Susan Harlow)
+      birth:
+        date: 3 November 1848
+        place: "Buckfield, Maine"
+      death:
+        date: 18 November 1924
+        place: "Farmington, Maine"
+      burial:
+        place: "[Village Cemetery?]   Strong, Maine"
+childrenGroups:
+  - spouseRef: Ann R. Pike
+    children:
+      - name: Mabel Eugenia Vining
+        birth:
+          date: 15 May 1868
+          place: "Harrison, Maine"
+        death:
+          date: 10 June 1955
+          place: "Cape Elizabeth, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Grace E. Vining
+        birth:
+          date: 11 August 1870
+        marriages:
+          - spouse: William H. Will
+        death:
+          date: "1948"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+  - headingText: "child by Amanda Maxim"
+    children:
+      - name: Ernest Ward Vining
+        birth:
+          date: 24 September 1878
+          place: "Norway, Maine"
+        death:
+          date: 4 November 1964
+          place: "Farmington, Maine"
+docsUrl: Esources/EphraimB01doc.htm
+raw: |-
+  <a name="EphraimB01"></a><font size=+2>Ephraim Bernard Vining</font>
+     (son of <a href="Sfamilies.htm#SewardP01">Seward P. Vining and Martha C. Thomas</a>)
+     b. 7 October 1843   Avon, Maine
+     m. (1) Ann R. Pike
+                 b. age 24 y. as of 1870 census   Maine
+                 d. 2 February 1875
+                       bur. Pike's Hill Cemetery   Norway, Maine
+           (2) Amanda Maxim
+                 (dau. of Benjamin Maxim and Susan Harlow)
+                 b. 3 November 1848   Buckfield, Maine
+                 d. 18 November 1924   Farmington, Maine
+                       bur. [Village Cemetery?]   Strong, Maine
+     d. 20 May 1922   Farmington, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children by Ann R. Pike:</font>
+     Mabel Eugenia Vining   b. 15 May 1868   Harrison, Maine   -   d. 10 June 1955   Cape Elizabeth, Maine   -   bur. Village Cemetery   Strong, Maine
+     Grace E. Vining   b. 11 August 1870   -   m. William H. Will   -   d. 1948   -   bur. Village Cemetery   Strong, Maine
+  <font size=+1>child by Amanda Maxim:</font>
+     Ernest Ward Vining   b. 24 September 1878   Norway, Maine   -   d. 4 November 1964   Farmington, Maine
+  
+  <a href="Esources/EphraimB01doc.htm">documentation and notes</a>

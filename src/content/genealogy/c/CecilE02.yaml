@@ -1,0 +1,47 @@
+id: CecilE02
+letter: C
+sequence: 27
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JamesW01
+parentLetter: J
+parentDesc: James Walter Vining and Mattie Maybelle Blume
+head:
+  givenName: Cecil Eugene
+  birth:
+    date: "1940"
+    place: "Sumter [County?], South Carolina"
+  death:
+    date: 26 March 2015
+  burial:
+    place: "Evergreen Memorial Park Cemetery   Sumter [County?], South Carolina"
+marriages:
+  - date: 51 y. at death
+    spouse:
+      givenName: Sara Emma
+      surname: Stone
+childrenGroups:
+  - children:
+      - name: Allen E. Vining
+        marriages:
+          - date: "Lisa [&#8230;]"
+      - name: Garrett E. Vining
+      - name: Suzanne Stone Vining
+        marriages:
+          - date: Philip Cawrse
+docsUrl: Csources/CecilE02doc.htm
+raw: |-
+  <a name="CecilE02"></a><font size=+2>Cecil Eugene Vining</font>
+     (son of <a href="Jfamilies.htm#JamesW01">James Walter Vining and Mattie Maybelle Blume</a>)
+     b. 1940   Sumter [County?], South Carolina
+     m. 51 y. at death
+           Sara Emma Stone
+     d. 26 March 2015
+           bur. Evergreen Memorial Park Cemetery   Sumter [County?], South Carolina
+  
+  <font size=+1>children:</font>
+     Allen E. Vining   m. Lisa [&#8230;]
+     Garrett E. Vining
+     Suzanne Stone Vining   m. Philip Cawrse
+  
+  <a href="Csources/CecilE02doc.htm">documentation and notes</a>

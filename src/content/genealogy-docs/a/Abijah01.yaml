@@ -1,0 +1,65 @@
+id: Abijah01
+title: Abijah Vining - Rebecca Barton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: Abijah Vining
+          values:
+            - "[see note below]"
+            - M 45 and over
+            - M 45 and over
+            - "?"
+            - "?"
+            - "?"
+        - label: Rebecca (Barton) Vining
+          values:
+            - "[see note below]"
+            - F 45 and over
+            - "[F 26–44 ?]"
+            - dead
+            - ""
+            - ""
+        - label: Thomas "Philo[w?]" Vining
+          values:
+            - "[see note below]"
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John Leeson Vining
+          values:
+            - ""
+            - M 10–16
+            - M 16–25
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          No Abijah Vining household has been found in the 1790 census. A history of Pitcher, New York, reported that
+          “Abijah Vining came from Connecticut about 1800 and settled about a mile south-west of Pitcher, where Judson
+          Wire now [year?] lives, and died there, he and his wife, Rebecca, the latter April 1, 1811. His children were
+          Philo, and Leeson.”
+      - year: "1800"
+        caption: >-
+          Deruyter, Chenango County, New York - Only two males, one age 10–16 (likely John Leeson Vining) and one age 45
+          and over (Abijah Vining), were reported in the 1800 census. This suggests that Thomas "Philo[w?]" Vining was
+          not living in this household in 1800.
+        images:
+          - src: Abijah01census1800.jpg
+      - year: "1810"
+        caption: >-
+          German, Chenango County, New York - The age range for the supposed Rebecca (Barton) Vining is either too
+          young, or the 1800 age range is too old.

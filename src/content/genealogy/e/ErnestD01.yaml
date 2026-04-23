@@ -1,0 +1,68 @@
+id: ErnestD01
+sequence: 109
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JesseL04
+parentLetter: J
+parentDesc: "Jesse Lawrence Vining and Mell V. [&#8230;]"
+head:
+  givenName: Ernest DeWitt
+  birth:
+    date: 10 February 1912
+    place: "MacClenny, Florida"
+  death:
+    date: 13 September 2001
+    place: "Jacksonville, Florida"
+  burial:
+    place: "Riverside Memorial Park   Jacksonville, Florida"
+marriages:
+  - spouse:
+      givenName: "[1?] Thelma Pearl"
+      surname: Davis
+      parents: (dau. of Richard Wilbur Davis and Ida Estelee Houston)
+      birth:
+        date: 25 January 1910
+      death:
+        date: 17 February 1960
+      burial:
+        place: "Riverside Memorial Park   Jacksonville, Florida"
+    note: "[2?] Mary Adams [&#8230;]"
+childrenGroups:
+  - spouseRef: Thelma Pearl Davis
+    children:
+      - name: Eugene L. Vining
+        birth:
+          place: "Jacksonville, Florida"
+        death:
+          place: "Jacksonville, Florida"
+      - name: Caroline Vining
+        birth:
+          date: 9 November 1935
+          place: "Jacksonville, Florida"
+        marriages:
+          - spouse: "Eli P. Becker   b. 1935"
+        death:
+          date: 22 January 2009
+          place: Florida
+        burial:
+          place: "Old Jewish Center Cemetery   Jacksonville, Florida"
+docsUrl: Esources/ErnestD01doc.htm
+raw: |-
+  <a name="ErnestD01"></a><font size=+2>Ernest DeWitt Vining</font>
+     (son of <a href="Jfamilies.htm#JesseL04">Jesse Lawrence Vining and Mell V. [&#8230;]<a>)
+     b. 10 February 1912   MacClenny, Florida
+     m. [1?] Thelma Pearl Davis
+                 (dau. of Richard Wilbur Davis and Ida Estelee Houston)
+                 b. 25 January 1910
+                 d. 17 February 1960
+                       bur. Riverside Memorial Park   Jacksonville, Florida
+           [2?] Mary Adams [&#8230;]
+     d. 13 September 2001   Jacksonville, Florida
+           bur. Riverside Memorial Park   Jacksonville, Florida
+  
+  <font size=+1>children by Thelma Pearl Davis:</font>
+     Eugene L. Vining   b. Jacksonville, Florida   -   d. Jacksonville, Florida
+     Caroline Vining   b. 9 November 1935   Jacksonville, Florida   -   m. Eli P. Becker   b. 1935   -   d. 22 January 2009   Florida   -   bur. Old Jewish Center Cemetery   Jacksonville, Florida
+  
+  <a href="Esources/ErnestD01doc.htm">documentation and notes</a>

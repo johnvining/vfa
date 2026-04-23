@@ -1,0 +1,95 @@
+id: Elmer01
+title: Elmer Vining - Sarah Jane Clark
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Elmer Vining
+          values:
+            - "46"
+            - "56"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Sarah Jane (Clark) Vining
+          values:
+            - "30"
+            - "40"
+            - 50 (see note below)
+            - "?"
+            - "?"
+            - "?"
+        - label: Arthur Scott Vining
+          values:
+            - "8"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: L[...?] May Vining
+          values:
+            - "6"
+            - "16"
+            - 25 (see note below)
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: "[Eunice T. or Estell[e?]?] Vining"
+          values:
+            - "3"
+            - "13"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George Vining
+          values:
+            - ""
+            - 3 m.
+            - 10 (see note below)
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Sharon Township, Franklin County, Ohio - dwelling 98, family 88. Also living in this household in 1860 were
+          Elmer Vining's father, William Vining, and his brother, William [Jr.?].
+        images:
+          - src: Elmer01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Sharon Township, Franklin County, Ohio - dwelling 311, family 313. Also living in this household in 1870 were
+          farm laborers Wane [sic] Smith (21 y., b. Ohio) and William Vining (58, b. OH, Elmer's brother)
+        images:
+          - src: Elmer01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Sharon Township, Franklin County, Ohio - dwelling 10, family 10. By 1880 L[...?] May Vining was married to
+          [...] Smith and had five children, and living with them were Sarah Jane Vining (50 y., b. New York, her
+          mother) and George Vining (10 y., b. Ohio, her brother).
+        images:
+          - src: Elmer01census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Elmer Vining, in Walnut Grove Cemetery, Worthington, Franklin County, Ohio (from Find A Grave):"
+        images:
+          - src: Elmer01gravestone.jpg
+      - caption: >-
+          Gravestone for Sarah Jane (Clark) Vining, in Mahaska Cemetery, Mahaska, Washington County, Kansas (from Find A
+          Grave):
+        images:
+          - src: Elmer01wifegravestone.jpg

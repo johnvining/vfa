@@ -1,0 +1,90 @@
+id: HarryL02
+title: Harry L. Vining - (1) Veta L. Turcott, (2) Lucy A. Allard
+displayTitle: Harry L. Vining - (1) Veta L Turcott, (2) Lucy A. Allard
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harry L. Vining
+          values:
+            - "?"
+            - "35"
+            - "45"
+            - "54"
+            - dead
+        - label: Veta L. (Turcott) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Lucy A. (Allard) Vining
+          values:
+            - ""
+            - "[see note below]"
+            - "33"
+            - "43"
+            - "53"
+        - label: Leroy Albert Vining
+          values:
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Earl Francis Vining
+          values:
+            - ""
+            - "6"
+            - |-
+              14
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: Laura Mae Vining
+          values:
+            - ""
+            - "3"
+            - |-
+              12
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: Charles Jabin Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "18"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Minneapolis (ward 9), Hennepin County, Minnesota - dwelling 190, family 272. Also living in this household in
+          1910 was Lucy A. Allard (servant [and soon to become wife of Harry G. Vining], 24 y., b. Minnesota).
+        images:
+          - src: HarryL02census1910.jpg
+      - year: "1920"
+        caption: Minneapolis (ward 9), Hennepin County, Minnesota - dwelling 199, family 223
+        images:
+          - src: HarryL02census1920.jpg
+          - src: HarryL02childrenEarlandLauracensus1920.jpg
+      - year: "1930"
+        caption: Minneapolis (ward 9), Hennepin County, Minnesota - dwelling 217, family 234
+        images:
+          - src: HarryL02census1930.jpg
+      - year: "1940"
+        caption: Minneapolis, Hennepin County, Minnesota - Women's Building, Minnesota State Soldiers Home
+        images:
+          - src: HarryL02census1940.jpg

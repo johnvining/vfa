@@ -1,0 +1,77 @@
+id: HarmonL01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: SimonS01
+parentLetter: S
+parentDesc: Simon S. Vining and Mary Elenor Roush
+head:
+  givenName: Harmon Leonidist
+  birth:
+    date: 4 January 1877
+    place: Ohio
+  death:
+    date: 3 July 1966
+    place: "(last residence: Chicago, Illinois)"
+  burial:
+    place: "Green Mound Cemetery   Fort Recovery, Ohio"
+marriages:
+  - date: 7 y. as of 1910 census
+    spouse:
+      givenName: Lissie
+      surname: Emmons
+      parents: "(dau. of John Emmons and Elizabeth Pearson)"
+      birth:
+        date: 3 November 1880
+        place: "Mercer County, Ohio"
+      death:
+        date: 14 February 1942
+        place: "Missisinewa Township, Ohio"
+      burial:
+        place: "Green Mound Cemetery   Fort Recovery, Ohio"
+childrenGroups:
+  - children:
+      - name: Ralph Loyd Vining
+        birth:
+          date: 13 October 1902
+        death:
+          date: 4 January 1903
+        burial:
+          place: "Green Mount Cemetery   Fort Recovery, Ohio"
+      - name: "Treva [G. or L.?] Vining"
+        birth:
+          date: 4 December 1904
+          place: Indiana
+        marriages:
+          - date: Claude Jones
+      - name: Leland Chester Vining
+        entryId: LelandC01
+        entryLetter: L
+        birth:
+          date: 21 August 1912
+          place: Ohio
+        marriages:
+          - date: Ruth E. Coby
+        death:
+          date: 28 January 2001
+          place: "(last residence: Auburndale, Florida)"
+docsUrl: Hsources/HarmonL01doc.htm
+raw: |-
+  <a name="HarmonL01"></a><font size=+2>Harmon Leonidist Vining</font>
+     (son of <a href="Sfamilies.htm#SimonS01">Simon S. Vining and Mary Elenor Roush</a>)
+     b. 4 January 1877   Ohio
+     m. 7 y. as of 1910 census
+           Lissie Emmons
+                 (dau. of John Emmons and Elizabeth Pearson)
+                 b. 3 November 1880   Mercer County, Ohio
+                 d. 14 February 1942   Missisinewa Township, Ohio
+                       bur. Green Mound Cemetery   Fort Recovery, Ohio
+     d. 3 July 1966   (last residence: Chicago, Illinois)
+           bur. Green Mound Cemetery   Fort Recovery, Ohio
+  
+  <font size=+1>children:</font>
+     Ralph Loyd Vining   b. 13 October 1902   -   d. 4 January 1903   -   bur. Green Mount Cemetery   Fort Recovery, Ohio
+     Treva [G. or L.?] Vining   b. 4 December 1904   Indiana   -   m. Claude Jones
+     <a href="Lfamilies.htm#LelandC01">Leland Chester Vining</a>   b. 21 August 1912   Ohio   -   m. Ruth E. Coby   -   d. 28 January 2001   (last residence: Auburndale, Florida)
+  
+  <a href="Hsources/HarmonL01doc.htm">documentation and notes</a>

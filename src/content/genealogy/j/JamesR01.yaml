@@ -1,0 +1,53 @@
+id: JamesR01
+sequence: 92
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ElijahHJr01
+parentLetter: E
+parentDesc: "Elijah H. Vining Jr. and Iola S. [&#8230;]"
+head:
+  givenName: James Robert
+  birth:
+    date: 22 December 1884
+    place: Georgia
+  death:
+    date: 22 December 1950
+  burial:
+    place: "Covington City Cemetery   Covington, Georgia"
+marriages:
+  - date: 23 y. as of 1930 census
+    spouse:
+      givenName: "Pinkie Lee"
+      surname: "[&#8230;]"
+      birth:
+        date: 28 July 1891
+        place: Georgia
+      death:
+        date: 7 September 1970
+      burial:
+        place: "Covington City Cemetery   Covington, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: William Marvin Vining
+        birth:
+          date: 6 y. as of 1920 census
+          place: Georgia
+docsUrl: Jsources/JamesR01doc.htm
+raw: |-
+  <a name="JamesR01"></a><font size=+2>James Robert Vining</font>
+     (son of <a href="Efamilies.htm#ElijahHJr01">Elijah H. Vining Jr. and Iola S. [&#8230;]</a>)
+     b. 22 December 1884   Georgia
+     m. 23 y. as of 1930 census
+              Pinkie Lee [&#8230;]
+                    b. 28 July 1891   Georgia
+                    d. 7 September 1970
+                          bur. Covington City Cemetery   Covington, Georgia
+     d. 22 December 1950
+           bur. Covington City Cemetery   Covington, Georgia
+  
+  <font size=+1>child:</font>
+     William Marvin Vining   b. 6 y. as of 1920 census   Georgia
+  
+  <a href="Jsources/JamesR01doc.htm">documentation and notes</a>

@@ -1,0 +1,83 @@
+id: SethW01
+title: Seth Wyman Vining - Sarah Ann Brooks
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Seth Wyman Vining
+          values:
+            - "?"
+            - "40"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Sarah Ann (Brooks) Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah E. Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alice A. Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles [B.?] Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jacob Winslow Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Medford, Middlesex County, Massachusetts - dwelling 508, family 661
+        images:
+          - src: SethW01census1850a.jpg
+          - src: SethW01census1850b.jpg
+  - type: death
+    items:
+      - caption: Death record for Seth Wyman Vining (Medford, Massachusetts, records). He died of “typhus fever”.
+        images:
+          - src: SethW01deathrecord.jpg

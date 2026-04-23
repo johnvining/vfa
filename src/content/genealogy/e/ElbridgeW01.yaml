@@ -1,0 +1,91 @@
+id: ElbridgeW01
+sequence: 65
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: John10
+parentLetter: J
+parentDesc: John Vining and Mary Haines
+head:
+  givenName: Elbridge W.
+  birth:
+    date: 4 August 1854
+    place: Maine
+  death:
+    date: 31 December 1933
+    place: "Strong, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - spouse:
+      givenName: Elvira W.
+      surname: Keene
+      parents: (dau. of John Keene and Fannie Kempton)
+      birth:
+        date: 9 June 1860
+        place: Maine
+      death:
+        date: 1 September 1937
+        place: "Augusta, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Hervey E. Vining
+        entryId: HerveyE01
+        entryLetter: H
+        birth:
+          date: 22 November 1879
+          place: "Strong, Maine"
+        marriages:
+          - date: 28 October 1905
+            place: "Phillips, Maine"
+            spouse: Ethel Bertha Marson
+        death:
+          date: "1957"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: William H. Vining
+        entryId: WilliamH01
+        entryLetter: W
+        birth:
+          date: 15 March 1888
+          place: "Strong, Maine"
+        marriages:
+          - date: 12 June 1909
+            spouse: Flora Belle Marson
+        death:
+          date: 26 August 1962
+          place: "Farmington, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+  - headingText: "children?"
+    children:
+      - name: Mary F. Vining
+        birth:
+          date: 15 October 1881
+      - name: child
+      - name: "Note: According to the 1910 census, Elvira W. (Keene) Vining was mother of 4 children, 2 of whom were living as of that census."
+docsUrl: Esources/ElbridgeW01doc.htm
+raw: |-
+  <a name="ElbridgeW01"></a><font size=+2>Elbridge W. Vining</font>
+     (son of <a href="Jfamilies.htm#John10">John Vining and Mary Haines</a>)
+     b. 4 August 1854   Maine
+     m. Elvira W. Keene
+              (dau. of John Keene and Fannie Kempton)
+              b. 9 June 1860   Maine
+              d. 1 September 1937   Augusta, Maine
+                    bur. Village Cemetery   Strong, Maine
+     d. 31 December 1933   Strong, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#HerveyE01">Hervey E. Vining</a>   b. 22 November 1879   Strong, Maine   -   m. 28 October 1905   Phillips, Maine   Ethel Bertha Marson   -   d. 1957   -   bur. Village Cemetery   Strong, Maine
+     <a href="Wfamilies.htm#WilliamH01">William H. Vining</a>   b. 15 March 1888   Strong, Maine   -   m. 12 June 1909   Flora Belle Marson   -   d. 26 August 1962   Farmington, Maine   -   bur. Village Cemetery   Strong, Maine
+  <font size=+1>children?:</font>
+     Mary F. Vining   b. 15 October 1881
+     child
+  
+     Note: According to the 1910 census, Elvira W. (Keene) Vining was mother of 4 children, 2 of whom were living as of that census.
+  
+  <a href="Esources/ElbridgeW01doc.htm">documentation and notes</a>

@@ -1,0 +1,112 @@
+id: PeterS01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: DavidJr02
+parentLetter: D
+parentDesc: David Vining Jr. and Hannah Husted
+head:
+  givenName: Peter Smith
+  birth:
+    date: "1821"
+    place: "Cairo, New York"
+  death:
+    date: 16 December 1894
+    place: "Hensonville, New York"
+marriages:
+  - spouse:
+      givenName: Sarah Maria
+      surname: Hicks
+      birth:
+        date: age 26 y. as of 1850 census
+        place: New York
+      death:
+        date: 23 October 1904
+childrenGroups:
+  - children:
+      - name: William Henry Vining
+        birth:
+          date: age 5 y. as of 1850 census
+          place: New York
+        death:
+          date: 24 August 1864
+        burial:
+          place: Hensonville Cemetery   New York
+      - name: John Stephen Vining
+        entryId: JohnS07
+        entryLetter: J
+        birth:
+          date: age 3 y. as of 1850 census
+          place: New York
+        marriages:
+          - date: Lena Willamy
+      - name: Emily Maria Vining
+        birth:
+          date: age 11 m. as of 1850 census
+          place: New York
+      - name: James Washington Vining
+        entryId: JamesW07
+        entryLetter: J
+        birth:
+          date: age 7 y. as of 1860 census
+          place: "Jewett, Greene County, New York"
+        marriages:
+          - date: "Henrietta [&#8230;]"
+        death:
+          date: 21 June 1882
+        burial:
+          place: Hensonville Cemetery   New York
+      - name: "[Carolyn Vining   b. 9 January 1853   -   d. 28 February 1894 ? - see &#8220;documentation and notes&#8221; below]"
+      - name: Jeptha Peter Vining
+        entryId: JepthaP01
+        entryLetter: J
+        birth:
+          date: April 1856
+          place: New York
+        marriages:
+          - date: 3 February 1880
+            spouse: Etta F. Hitchcock
+        death:
+          date: 16 March 1909
+      - name: "Philip [E. or L.?] Vining"
+        entryId: PhilipE01
+        birth:
+          date: October 1859
+          place: New York
+        marriages:
+          - date: 16 y. as of 1900 census
+            spouse: "Mahalia [&#8230;]"
+        death:
+          date: between 1930 and 1940 censuses
+      - name: Cornelia S. Vining
+        birth:
+          date: age 9 y. as of 1870 census
+      - name: Alace M. Vining
+        birth:
+          date: 30 September 1862
+        death:
+          date: 5 April 1864
+        burial:
+          place: "Hensonville Cemetery   Greene County, New York"
+docsUrl: Psources/PeterS01doc.htm
+raw: |-
+  <a name="PeterS01"></a><font size=+2>Peter Smith Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJr02">David Vining Jr. and Hannah Husted</a>)
+     b. 1821   Cairo, New York
+     m. Sarah Maria Hicks
+              b. age 26 y. as of 1850 census   New York
+              d. 23 October 1904
+     d. 16 December 1894   Hensonville, New York
+  
+  <font size=+1>children:</font>
+     William Henry Vining   b. age 5 y. as of 1850 census   New York   -   d. 24 August 1864   -   bur. Hensonville Cemetery   New York
+     <a href="Jfamilies.htm#JohnS07">John Stephen Vining</a>   b. age 3 y. as of 1850 census   New York   -   m. Lena Willamy
+     Emily Maria Vining   b. age 11 m. as of 1850 census   New York
+     <a href="Jfamilies.htm#JamesW07">James Washington Vining</a>   b. age 7 y. as of 1860 census   Jewett, Greene County, New York   -   m. Henrietta [&#8230;]   -  d. 21 June 1882   -   bur. Hensonville Cemetery   New York
+     [Carolyn Vining   b. 9 January 1853   -   d. 28 February 1894 ? - see &#8220;documentation and notes&#8221; below]
+     <a href="Jfamilies.htm#JepthaP01">Jeptha Peter Vining</a>   b. April 1856   New York   -   m. 3 February 1880   Etta F. Hitchcock   -   d. 16 March 1909
+     <a href="#PhilipE01">Philip [E. or L.?] Vining</a>   b. October 1859   New York   -   m. 16 y. as of 1900 census   Mahalia [&#8230;]   -   d. between 1930 and 1940 censuses
+     Cornelia S. Vining   b. age 9 y. as of 1870 census
+     Alace M. Vining   b. 30 September 1862   -   d. 5 April 1864   -   bur. Hensonville Cemetery   Greene County, New York
+  
+  <a href="Psources/PeterS01doc.htm">documentation and notes</a>

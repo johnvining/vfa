@@ -1,0 +1,36 @@
+id: StevenJ01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: KennethE01
+parentLetter: K
+parentDesc: Kenneth Everett Vining and Carolyn Fay Child
+head:
+  givenName: Steven Joseph
+  birth:
+    date: 15 September 1964
+    place: "Lewiston, Androscoggin County, Maine"
+marriages:
+  - date: 18 February 1992
+    spouse:
+      givenName: Heidi Marie
+      surname: Edwards
+childrenGroups:
+  - headingText: "child[ren?]"
+    children:
+      - name: Jessica Lorene Vining
+        birth:
+          date: 2 August 1989
+      - name: "Steven Tyler [Vining?]"
+        birth:
+          date: 7 June 1993
+raw: |-
+  <a name="StevenJ01"></a><font size=+2>Steven Joseph Vining</font>
+     (son of <a href="Kfamilies.htm#KennethE01">Kenneth Everett Vining and Carolyn Fay Child</a>)
+     b. 15 September 1964   Lewiston, Androscoggin County, Maine
+     m. 18 February 1992
+           Heidi Marie Edwards
+  
+  <font size=+1>child[ren?]:</font>
+     Jessica Lorene Vining   b. 2 August 1989
+     Steven Tyler [Vining?]   b. 7 June 1993

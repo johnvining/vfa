@@ -1,0 +1,25 @@
+id: ArthurS02
+letter: A
+sequence: 97
+lastUpdated: 1 February 2021
+relationship: son
+parentId: KennethW01
+parentLetter: K
+parentDesc: Kenneth Wayne Vining and Shirley LoDean Young
+head:
+  givenName: Arthur Samuel
+  birth:
+    date: 18 August 1976
+childrenGroups:
+  - headingText: child by Karyn Ice
+    children:
+      - name: Lathon Conner Vining
+        birth:
+          date: 23 December 1998
+raw: |-
+  <a name="ArthurS02"></a><font size="+2">Arthur Samuel Vining</font>
+     (son of <a href="Kfamilies.htm#KennethW01">Kenneth Wayne Vining and Shirley LoDean Young</a>)
+     b. 18 August 1976
+  
+  <font size="+1">child by Karyn Ice:</font>
+     Lathon Conner Vining   b. 23 December 1998

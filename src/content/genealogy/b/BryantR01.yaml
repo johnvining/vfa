@@ -1,0 +1,37 @@
+id: BryantR01
+letter: B
+sequence: 67
+lastUpdated: 25 February 2023
+migrationNote: "Original HTML had malformed anchor tag: <a name=BryantR01\"> (missing opening quote)."
+relationship: son
+parentId: RobertLM01
+parentLetter: R
+parentDesc: Robert Lloyd McKinney Vining and Janet Kathleen Howard
+head:
+  givenName: Bryant Robert
+  birth:
+    date: 16 May 1982
+marriages:
+  - date: 31 May 2014
+    place: "Bakersfield, California"
+    spouse:
+      givenName: Ashley Jean
+      surname: Rhoades
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Brexton Robert Vining
+        birth:
+          date: 28 August 2019
+docsUrl: Bsources/BryantR01doc.htm
+raw: |-
+  <a name=BryantR01"></a><font size=+2>Bryant Robert Vining</font>
+     (son of <a href="Rfamilies.htm#RobertLM01">Robert Lloyd McKinney Vining and Janet Kathleen Howard</a>)
+     b. 16 May 1982
+     m. 31 May 2014   Bakersfield, California
+           Ashley Jean Rhoades
+
+  <font size=+1>child:</font>
+     Brexton Robert Vining   b. 28 August 2019
+
+  <a href="Bsources/BryantR01doc.htm">documentation and notes</a>

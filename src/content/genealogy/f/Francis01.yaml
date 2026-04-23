@@ -1,0 +1,85 @@
+id: Francis01
+sequence: 10
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: William09
+parentLetter: W
+parentDesc: William Vining and Lina Dodhe
+head:
+  givenName: "Francis &#8220;Frank&#8221;"
+  birth:
+    date: 16 September 1859
+    place: "Portland, Indiana"
+  death:
+    date: ca. 1926
+marriages:
+  - date: 17 March 1893
+    spouse:
+      givenName: "Sarah &#8220;Sadie&#8221;"
+      surname: Hoon
+      birth:
+        date: age 34 y. as of 1910 census
+        place: Ohio
+      death:
+        date: before 1920 census
+childrenGroups:
+  - children:
+      - name: William Henry Vining
+        entryId: WilliamH05
+        entryLetter: W
+        birth:
+          date: 17 March 1894
+          place: Ohio
+        marriages:
+          - date: Sarah Louella Kitchen (adopted as Louella Westcott)
+        death:
+          date: 3 August 1948
+          place: "Grand Rapids, Michigan"
+      - name: George Sherman Vining
+        birth:
+          date: 17 October 1896
+          place: "Kalida, Ohio"
+        death:
+          date: January 1948
+          place: "Grand Rapids, Michigan"
+      - name: Frances Gertrude Vining
+        birth:
+          date: 9 May 1900
+          place: "Kalida, Ohio"
+        marriages:
+          - date: Edward Pitts
+        death:
+          date: "[1940?]"
+          place: "Grand Rapids, Michigan"
+      - name: Vernon D. Vining
+        entryId: VernonD01
+        entryLetter: V
+        birth:
+          date: 7 November 1903
+          place: "Kalida, Ohio"
+        marriages:
+          - date: Eleanor Van Alla
+        death:
+          date: 14 May 1961
+          place: "Munising, Michigan"
+        burial:
+          place: "Maple Grove Cemetery   Munising, Michigan"
+docsUrl: Fsources/Francis01doc.htm
+raw: |-
+  <a name="Francis01"></a><font size=+2>Francis &#8220;Frank&#8221; Vining</font>
+     (son of <a href="Wfamilies.htm#William09">William Vining and Lina Dodhe</a>)
+     b. 16 September 1859   Portland, Indiana
+     m. 17 March 1893
+           Sarah &#8220;Sadie&#8221; Hoon
+                 b. age 34 y. as of 1910 census   Ohio
+                 d. before 1920 census
+     d. ca. 1926
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamH05">William Henry Vining</a>   b. 17 March 1894   Ohio   -   m. Sarah Louella Kitchen (adopted as Louella Westcott)   -   d. 3 August 1948   Grand Rapids, Michigan
+     George Sherman Vining   b. 17 October 1896   Kalida, Ohio   -   d. January 1948   Grand Rapids, Michigan
+     Frances Gertrude Vining   b. 9 May 1900   Kalida, Ohio   -   m. Edward Pitts   -   d. [1940?]   Grand Rapids, Michigan
+     <a href="Vfamilies.htm#VernonD01">Vernon D. Vining</a>   b. 7 November 1903   Kalida, Ohio   -   m. Eleanor Van Alla   -   d. 14 May 1961   Munising, Michigan   -   bur. Maple Grove Cemetery   Munising, Michigan
+  
+  <a href="Fsources/Francis01doc.htm">documentation and notes</a>

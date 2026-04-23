@@ -1,0 +1,45 @@
+id: LeonardE01
+title: Leonard E. Vining - Ada A. Walker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Leonard E. Vining
+          values:
+            - "38"
+            - "?"
+        - label: Ada A. (Walker) Vining
+          values:
+            - "35"
+            - "?"
+        - label: Leonard E. Vining Jr.
+          values:
+            - "15"
+            - "?"
+          indent: true
+        - label: Clarence W. Vining
+          values:
+            - "14"
+            - "?"
+          indent: true
+        - label: Jordan Y. Vining
+          values:
+            - "12"
+            - "?"
+          indent: true
+        - label: Winifred L. Vining
+          values:
+            - "10"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Norfolk (precinct 1, block 4), Norfolk County, Virginia. This family lived at 114 Indian River Road, Norfolk,
+          Virginia, in 1940.
+        images:
+          - src: LeonardE01census1930a.jpg
+          - src: LeonardE01census1930b.jpg

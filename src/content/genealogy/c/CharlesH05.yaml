@@ -1,0 +1,37 @@
+id: CharlesH05
+letter: C
+sequence: 71
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Charles H.
+  birth:
+    date: age 36 y. as of 1860 census
+    place: Canada
+marriages:
+  - spouse:
+      givenName: Agnes
+      surname: "[...]"
+      birth:
+        date: age 30 y. as of 1860 census
+        place: "New Brunwsick, Canada"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Charles W. Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Massachusetts
+docsUrl: Csources/CharlesH05doc.htm
+raw: |-
+  <a name="CharlesH05"></a><font size=+2>Charles H. Vining</font>
+     (son of [?])
+     b. age 36 y. as of 1860 census   Canada
+     m. Agnes [...]
+              b. age 30 y. as of 1860 census   New Brunwsick, Canada
+  
+  <font size=+1>child:</font>
+     Charles W. Vining   b. age 3 y. as of 1860 census   Massachusetts
+  
+  <a href="Csources/CharlesH05doc.htm">documentation and notes</a>

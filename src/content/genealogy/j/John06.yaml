@@ -1,0 +1,69 @@
+id: John06
+sequence: 164
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: David01
+parentLetter: D
+parentDesc: David Vining and Lydia Torrey
+head:
+  givenName: John
+  birth:
+    date: 30 July 1777
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 25 April 1857
+  burial:
+    place: "Reed Cemetery   Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 25 December 1800
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Hannah
+      surname: Reed
+      birth:
+        date: "1782"
+      death:
+        date: 30 January 1861
+      burial:
+        place: "Reed Cemetery   Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        birth:
+          date: 1 November 1801
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 23 May 1822
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Washington Hunt
+      - name: Jairus Vining
+        entryId: Jairus01
+        birth:
+          date: "[1?] May 1807"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 24 April 1831
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Mary Torrey Tirrell
+        death:
+          date: 18 November 1862
+          place: "Weymouth, Norfolk County, Massachusetts"
+docsUrl: Jsources/John06doc.htm
+raw: |-
+  <a name="John06"></a><font size=+2>John Vining</font>
+     (son of <a href="Dfamilies.htm#David01">David Vining and Lydia Torrey</a>)
+     b. 30 July 1777   Weymouth, Norfolk County, Massachusetts
+     m. 25 December 1800   Weymouth, Norfolk County, Massachusetts
+           Hannah Reed
+                 b. 1782
+                 d. 30 January 1861
+                       bur. Reed Cemetery   Weymouth, Norfolk County, Massachusetts
+     d. 25 April 1857
+           bur. Reed Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Mary Vining   b. 1 November 1801   Weymouth, Norfolk County, Massachusetts   -   m. 23 May 1822   Weymouth, Norfolk County, Massachusetts   Washington Hunt
+     <a href="#Jairus01">Jairus Vining</a>   b. [1?] May 1807   Weymouth, Norfolk County, Massachusetts   -   m. 24 April 1831   Weymouth, Norfolk County, Massachusetts   Mary Torrey Tirrell   -   d. 18 November 1862   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Jsources/John06doc.htm">documentation and notes</a>

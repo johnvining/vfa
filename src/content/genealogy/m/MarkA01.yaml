@@ -1,0 +1,35 @@
+id: MarkA01
+sequence: 5
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: LarryL01
+parentLetter: L
+parentDesc: Larry Lee Vining and Rebecca Sue Carbaugh
+head:
+  givenName: Mark Andrew
+  birth:
+    date: 30 November 1973
+marriages:
+  - date: "1998"
+    spouse:
+      givenName: Ruth Maureen
+      surname: Whipple
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: "Michael Dale Vining (n&#233; Franklin)"
+  - headingText: child
+    children:
+      - name: Alley Vining
+raw: |-
+  <a name="MarkA01"></a><font size=+2>Mark Andrew Vining</font>
+     (son of <a href="Lfamilies.htm#LarryL01">Larry Lee Vining and Rebecca Sue Carbaugh</a>)
+     b. 30 November 1973
+     m. 1998
+           Ruth Maureen Whipple
+  
+  <font size=+1>adopted child:</font>
+     Michael Dale Vining (n&#233; Franklin)
+  <font size=+1>child:</font>
+     Alley Vining

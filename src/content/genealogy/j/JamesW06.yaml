@@ -1,0 +1,44 @@
+id: JamesW06
+sequence: 101
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James W.
+  birth:
+    date: age 39 y. as of 1910 census
+    place: Arkansas
+marriages:
+  - spouse:
+      givenName: Florence
+      surname: "[&#8230;]"
+      birth:
+        date: age 40 y. as of 1910 census
+        place: England
+      death:
+        date: between 1910 and 1920 censuses
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Emmett A. Vining
+        entryId: EmmettA01
+        entryLetter: E
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Louisiana
+        marriages:
+          - date: "Catherine V. [&#8230;]"
+docsUrl: Jsources/JamesW06doc.htm
+raw: |-
+  <a name="JamesW06"></a><font size=+2>James W. Vining</font>
+     (son of [?])
+     b. age 39 y. as of 1910 census   Arkansas
+     m. Florence [&#8230;]
+              b. age 40 y. as of 1910 census   England
+              d. between 1910 and 1920 censuses
+  
+  <font size=+1>child:</font>
+     <a href="Efamilies.htm#EmmettA01">Emmett A. Vining</a>   b. age 3 y. as of 1910 census   Louisiana   -   m. Catherine V. [&#8230;]
+  
+  <a href="Jsources/JamesW06doc.htm">documentation and notes</a>

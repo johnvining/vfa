@@ -1,0 +1,72 @@
+id: Charles05
+title: Charles Vining - Catharine Overmyer
+sections:
+  - type: notes
+    heading: "Note:"
+    text: >-
+      There is a discrepancy in the census records (below) about the birthplace of Charles Vining's father—Virginia
+      (1900 census), Ohio (1910 census), or New York (1920 census).
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Vining
+          values:
+            - "38"
+            - "48"
+            - "58"
+            - "?"
+            - "?"
+        - label: Catharine (Overmyer) Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+            - "?"
+            - dead
+        - label: Charles Russell Vining
+          values:
+            - "4"
+            - "14"
+            - "24"
+            - "?"
+            - "?"
+          indent: true
+        - label: Bessie C. Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Washington, Sandusky County, Ohio - dwelling 198, family 205
+        images:
+          - src: Charles05census1900.jpg
+      - year: "1910"
+        caption: Washington Township, Sandusky County, Ohio - dwelling 125, family 125
+        images:
+          - src: Charles05census1910.jpg
+      - year: "1920"
+        caption: Harris Township, Ottawa County, Ohio - dwelling 358, family 276
+        images:
+          - src: Charles05census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Charles Russell Vining and Maud Lee ([…]) Vining, son and daughter-in-law of Charles Vining and
+          Catharine (Overmyer) Vining, in Harris-Elmore Union Cemetery, Elmore, Ottawa County, Ohio (from Find A Grave):
+        images:
+          - src: Charles05sonCharlesandwifeMaudheadstone.jpg
+      - caption: >-
+          Gravestone for Charles Russell Vining, son of Charles Vining and Catharine (Overmyer) Vining, in Harris-Elmore
+          Union Cemetery, Elmore, Ottawa County, Ohio (from Find A Grave):
+        images:
+          - src: Charles05sonCharlesgravestone.jpg

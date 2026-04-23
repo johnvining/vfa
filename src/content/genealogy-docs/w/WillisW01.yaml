@@ -1,0 +1,55 @@
+id: WillisW01
+title: Willis W. Vining - Rittia [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Willis W. Vining
+          values:
+            - "?"
+            - "49"
+            - "?"
+        - label: Rittia ([…]) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+        - label: Elvora Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+          indent: true
+        - label: Everlin Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+          indent: true
+        - label: Frank Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+          indent: true
+        - label: Edna Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+          indent: true
+        - label: Lulu May Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Police Jury Ward 8, Tangipahoa Parish, Louisiana - dwelling 88, family 88
+        images:
+          - src: WillisW01census1930.jpg

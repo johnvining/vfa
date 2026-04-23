@@ -1,0 +1,44 @@
+id: RoyJ01
+sequence: 159
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: EdwardJ04
+parentLetter: E
+parentDesc: "Edward Judson Vining and Vernon Hazel [&#8230;]"
+head:
+  givenName: Roy J.
+  birth:
+    date: age 84 y. at death
+  death:
+    date: 7 February 2009
+marriages:
+  - spouse:
+      givenName: Bettie
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Roy J. Vining Jr.
+        entryId: RoyJJr01
+        marriages:
+          - date: "Tina [&#8230;]"
+      - name: Cathy Vining
+        marriages:
+          - date: "[&#8230;] Kennedy"
+      - name: Connie Vining
+        marriages:
+          - date: "[&#8230;] Jackson"
+docsUrl: Rsources/RoyJ01doc.htm
+raw: |-
+  <a name="RoyJ01"></a><font size=+2>Roy J. Vining</font>
+     (son of <a href="Efamilies.htm#EdwardJ04">Edward Judson Vining and Vernon Hazel [&#8230;]</a>)
+     b. age 84 y. at death
+     m. Bettie [&#8230;]
+     d. 7 February 2009
+  
+  <font size=+1>children:</font>
+     <a href="#RoyJJr01">Roy J. Vining Jr.</a>   m. Tina [&#8230;]
+     Cathy Vining   m. [&#8230;] Kennedy
+     Connie Vining   m. [&#8230;] Jackson
+  
+  <a href="Rsources/RoyJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,94 @@
+id: Ammi02
+letter: A
+sequence: 66
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Bela01
+parentLetter: B
+parentDesc: Bela Vining and Thankful Millbanks
+head:
+  givenName: Ammi
+  birth:
+    date: 3 April 1795
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: "1848"
+    place: lost at sea
+  burial:
+    description: "memorial stone in Evergreen Cemetery   Portland, Cumberland County, Maine"
+marriages:
+  - date: 21 September 1817
+    spouse:
+      givenName: Betsey
+      surname: Strout
+      birth:
+        date: 26 July 1798
+      death:
+        date: 8 February 1892
+      burial:
+        place: "Evergreen Cemetery   Portland, Cumberland County, Maine"
+childrenGroups:
+  - children:
+      - name: Harriet S. Vining
+        birth:
+          date: 20 January 1822
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: int. 18 June 1841
+            spouse: Anthony B. Crocket
+      - name: Harrison S. Vining
+        entryId: HarrisonS01
+        entryLetter: H
+        birth:
+          date: 4 November 1824
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: 18 August 1849
+            spouse: Lucy Ilsley Simonton
+        death:
+          date: 14 May 1902
+          place: "Brooklyn, Kings County, New York"
+        burial:
+          place: "Eastern Cemetery   Portland, Cumberland County, Maine"
+      - name: Sarah S. Vining
+        birth:
+          date: 21 January 1827
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: cert. issued 29 March 1846
+            spouse: Thomas G. Young
+      - name: Betsey S. Vining
+        birth:
+          date: 3 May 1830
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: cert issued 11 April 1860
+            spouse: Harrison G. Soule
+      - name: Mary Angelia Vining
+        birth:
+          date: 23 May 1832
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - date: cert. issued 28 April 1858
+            spouse: Joseph C. Witham
+docsUrl: Asources/Ammi02doc.htm
+raw: |-
+  <a name="Ammi02"></a><font size="+2">Ammi Vining</font>
+     (son of <a href="Bfamilies.htm#Bela01">Bela Vining and Thankful Millbanks</a>)
+     b. 3 April 1795   Durham, Androscoggin County, Maine
+     m. 21 September 1817
+           Betsey Strout
+                 b. 26 July 1798
+                 d. 8 February 1892
+                       bur. Evergreen Cemetery   Portland, Cumberland County, Maine
+     d. 1848   lost at sea
+           memorial stone in Evergreen Cemetery   Portland, Cumberland County, Maine
+  
+  <font size="+1">children:</font>
+     Harriet S. Vining   b. 20 January 1822   Portland, Cumberland County, Maine   -   m. int. 18 June 1841   Anthony B. Crocket
+     <a href="Hfamilies.htm#HarrisonS01">Harrison S. Vining</a>   b. 4 November 1824   Portland, Cumberland County, Maine   -   m. 18 August 1849   Lucy Ilsley Simonton   -   d. 14 May 1902   Brooklyn, Kings County, New York   -   bur. Eastern Cemetery   Portland, Cumberland County, Maine
+     Sarah S. Vining   b. 21 January 1827   Portland, Cumberland County, Maine   -   m. cert. issued 29 March 1846   Thomas G. Young
+     Betsey S. Vining   b. 3 May 1830   Portland, Cumberland County, Maine   -   m. cert issued 11 April 1860   Harrison G. Soule
+     Mary Angelia Vining   b. 23 May 1832   Portland, Cumberland County, Maine   -   m. cert. issued 28 April 1858   Joseph C. Witham
+  
+  <a href="Asources/Ammi02doc.htm">documentation and notes</a>

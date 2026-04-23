@@ -1,0 +1,47 @@
+id: ArdaleE01
+letter: A
+sequence: 82
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Luther02
+parentLetter: L
+parentDesc: Luther Vining and Josephine Patton
+head:
+  givenName: Ardale Elliot
+  birth:
+    date: 28 October 1918
+    place: "[South Dakota?]"
+  death:
+    date: 10 February 1977
+  burial:
+    place: "Memorial Park Cemetery   Tulsa, Tulsa County, Oklahoma"
+marriages:
+  - spouse:
+      givenName: Earleen M.
+      surname: "[&#8230;]"
+      birth:
+        date: 10 September 1921
+      death:
+        date: 12 April 2005
+      burial:
+        place: "Memorial Park Cemetery   Tulsa, Tulsa County, Oklahoma"
+childrenGroups:
+  - headingText: "child(ren?)"
+    children:
+      - name: "child(ren?) Vining"
+docsUrl: Asources/ArdaleE01doc.htm
+raw: |-
+  <a name="ArdaleE01"></a><font size="+2">Ardale Elliot Vining</font>
+     (son of <a href="Lfamilies.htm#Luther02">Luther Vining and Josephine Patton</a>)
+     b. 28 October 1918   [South Dakota?]
+     m. Earleen M. [&#8230;]
+              b. 10 September 1921
+              d. 12 April 2005
+                    bur. Memorial Park Cemetery   Tulsa, Tulsa County, Oklahoma
+     d. 10 February 1977
+           bur. Memorial Park Cemetery   Tulsa, Tulsa County, Oklahoma
+  
+  <font size="+1">child(ren?):</font>
+     child(ren?) Vining
+  
+  <a href="Asources/ArdaleE01doc.htm">documentation and notes</a>

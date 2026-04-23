@@ -1,0 +1,176 @@
+id: John15
+sequence: 167
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Thomas07
+parentLetter: T
+parentDesc: Thomas Vining and Mary Wade
+head:
+  givenName: John
+  birth:
+    date: 7 January 1786
+    place: "[Anson County, North Carolina or Warren County, Georgia?]"
+  death:
+    date: "[18 October or September?] 1847"
+  burial:
+    place: "Wash Farm Cemetery   Kentucky"
+marriages:
+  - number: 1
+    date: "5 January 1809.  Upson County, Georgia"
+    spouse:
+      givenName: Polly
+      surname: Hubert
+      parents: "(dau. of Mathew Hubert and Martha Wallace)"
+      birth:
+        date: 25 March 1782
+        place: Georgia
+      death:
+        date: 27 December 1823
+        place: "Madison County, Alabama"
+  - number: 2
+    date: 16 September 1824
+    place: "Madison County, Alabama"
+    spouse:
+      givenName: Elvira Harris
+      surname: Shelton
+      birth:
+        date: ca. 1801
+      death:
+        date: 6 May 1834
+  - number: 3
+    date: 29 October 1835
+    spouse:
+      givenName: Lucy
+      surname: Wash
+      birth:
+        date: "ca. [1815 or 1790?]"
+      death:
+        date: 29 June 1846
+childrenGroups:
+  - spouseRef: Polly Hubert
+    children:
+      - name: James Hubert Vining
+        birth:
+          date: 2 November 1809
+          place: Georgia
+        death:
+          date: 4 November 1834
+          place: "Madison [County?], Alabama"
+      - name: Mathew Hubert Vining
+        birth:
+          date: 5 April 1811
+        death:
+          date: 23 March 1832
+      - name: Martha Wallace Vining
+        birth:
+          date: 11 September 1813
+        marriages:
+          - date: 16 October 1828
+            spouse: Matthew Burks
+        death:
+          date: 29 June 1881
+      - name: Mary Wade Vining
+        birth:
+          date: 10 April 1815
+        marriages:
+          - date: 26 September 1833
+            spouse: Algernon Sidney Porter
+        death:
+          date: 22 May 1880
+          place: "Shannon, Lee County, Mississippi"
+      - name: Nancy Flournoy Vining
+        birth:
+          date: 15 August 1817
+        marriages:
+          - date: 28 June 1836
+            place: "Madison, Alabama"
+            spouse: William C. James
+      - name: Wade Hampton Vining
+        birth:
+          date: 11 October 1819
+        marriages:
+          - date: 15 November 1838
+            place: "St. Helena, Louisiana"
+            spouse: Margaret G. Smith
+      - name: "[Elvina or Evalina?] Cooper Vining"
+        birth:
+          date: "[2 or 9?] February 1821"
+        death:
+          date: 29 November 1839
+  - spouseRef: Elvira Harris Shelton
+    children:
+      - name: John Vining
+        entryId: JohnJr05
+        birth:
+          date: 19 September 1825
+          place: "Madison [County?], Alabama"
+        marriages:
+          - date: 4 October 1847
+            place: "Fayetteville, Tennessee"
+            spouse: Ann S. Carty
+        death:
+          date: 12 December 1890
+          place: "Fayetteville, Lincoln County, Tennessee"
+      - name: Edward Harris Vining
+        birth:
+          date: 25 May 1827
+        death:
+          date: 17 January 1834
+      - name: William Thomas Vining
+        entryId: WilliamT01
+        entryLetter: W
+        birth:
+          date: 1 February 1829
+          place: Alabama
+        marriages:
+          - date: Jane Hunter
+        death:
+          date: 7 July 1866
+        burial:
+          place: "Vining Cemetery   Cumberland County, Kentucky"
+      - name: Elizabeth Dillard Vining
+        birth:
+          date: 1 November 1830
+        death:
+          date: 18 November 1830
+      - name: daughter   stillborn ca. 1832
+      - name: daughter   stillborn ca. 1834
+docsUrl: Jsources/John15doc.htm
+raw: |-
+  <a name="John15"></a><font size=+2>John Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas07">Thomas Vining and Mary Wade</a>)
+     b. 7 January 1786   [Anson County, North Carolina or Warren County, Georgia?]
+     m. (1) 5 January 1809.  Upson County, Georgia
+                 Polly Hubert
+                       (dau, of Mathew Hubert and Martha Wallace)
+                       b. 25 March 1782   Georgia
+                       d. 27 December 1823   Madison County, Alabama
+           (2) 16 September 1824   Madison County, Alabama
+                 Elvira Harris Shelton
+                       b. ca. 1801
+                       d. 6 May 1834
+           (3) 29 October 1835
+                 Lucy Wash
+                       b. ca. [1815 or 1790?]
+                       d. 29 June 1846
+     d. [18 October or September?] 1847
+           bur. Wash Farm Cemetery   Kentucky
+  
+  <font size=+1>children by Polly Hubert:</font>
+     James Hubert Vining   b. 2 November 1809   Georgia   -   d. 4 November 1834   Madison [County?], Alabama
+     Mathew Hubert Vining   b. 5 April 1811   -   d. 23 March 1832
+     Martha Wallace Vining   b. 11 September 1813   -   m. 16 October 1828   Matthew Burks   -   d. 29 June 1881
+     Mary Wade Vining   b. 10 April 1815   -   m. 26 September 1833   Algernon Sidney Porter   -   d. 22 May 1880   Shannon, Lee County, Mississippi
+     Nancy Flournoy Vining   b. 15 August 1817   -   m. 28 June 1836   Madison, Alabama   William C. James
+     Wade Hampton Vining   b. 11 October 1819   -   m. 15 November 1838   St. Helena, Louisiana   Margaret G. Smith
+     [Elvina or Evalina?] Cooper Vining   b. [2 or 9?] February 1821   -   d. 29 November 1839
+  <font size=+1>children by Elvira Harris Shelton:</font>
+     <a href="#JohnJr05">John Vining</a>   b. 19 September 1825   Madison [County?], Alabama   -   m. 4 October 1847   Fayetteville, Tennessee   Ann S. Carty   -   d. 12 December 1890   Fayetteville, Lincoln County, Tennessee
+     Edward Harris Vining   b. 25 May 1827   -   d. 17 January 1834
+     <a href="Wfamilies.htm#WilliamT01">William Thomas Vining</a>   b. 1 February 1829   Alabama   -   m. Jane Hunter   -   d. 7 July 1866   -   bur. Vining Cemetery   Cumberland County, Kentucky
+     Elizabeth Dillard Vining   b. 1 November 1830   -   d. 18 November 1830
+     daughter   stillborn ca. 1832
+     daughter   stillborn ca. 1834
+  
+  <a href="Jsources/John15doc.htm">documentation and notes</a>

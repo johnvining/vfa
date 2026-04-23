@@ -1,0 +1,47 @@
+id: James10
+sequence: 23
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James
+marriages:
+  - spouse:
+      givenName: Lois
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Mary Frances Vining
+        birth:
+          date: 24 October 1913
+          place: "Fitzgerald, Georgia"
+        marriages:
+          - date: Arthur R. Williams Jr.
+        death:
+          date: 16 December 2009
+          place: "Greensboro, North Carolina"
+        burial:
+          place: "Westminster Gardens   Greensboro, North Carolina"
+      - name: Evelyn Vining
+        marriages:
+          - date: "[...] Memory"
+      - name: Rheba Vining
+        marriages:
+          - date: "[...] Clark"
+      - name: "Terry Vining [male]"
+      - name: Jimmy Vining
+docsUrl: Jsources/James10doc.htm
+raw: |-
+  <a name="James10"></a><font size=+2>James Vining</font>
+     (son of [?])
+     m. Lois [...]
+  
+  <font size=+1>children:</font>
+     Mary Frances Vining   b. 24 October 1913   Fitzgerald, Georgia   -   m. Arthur R. Williams Jr.   -   d. 16 December 2009   Greensboro, North Carolina   -   bur. Westminster Gardens   Greensboro, North Carolina
+     Evelyn Vining   m. [...] Memory
+     Rheba Vining   m. [...] Clark
+     Terry Vining [male]
+     Jimmy Vining
+  
+  <a href="Jsources/James10doc.htm">documentation and notes</a>

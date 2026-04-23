@@ -1,0 +1,81 @@
+id: NelsonE01
+title: Nelson Eugene Vining - (1) Alice C. Preston; (2) Almira W. "Myra" Cook
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Nelson Eugene Vining
+          values:
+            - "20"
+            - "30"
+            - "?"
+            - "50"
+            - "60"
+            - dead
+            - ""
+        - label: (1) Alice C. (Preston) Vining
+          values:
+            - ""
+            - "28"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: (2) Almira W. "Myra" (Cook) Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "46"
+            - "56"
+            - "66"
+            - dead
+        - label: infant sons Vining
+          values:
+            - ""
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Wilton, Franklin County, Maine - dwelling 7, family 7. In 1870, Nelson Eugene Vining was living with a Phinney
+          family.
+        images:
+          - src: NelsonE01census1870.jpg
+      - year: "1880"
+        caption: Phillips, Franklin County, Maine - dwelling 3, family 3
+        images:
+          - src: NelsonE01census1880.jpg
+      - year: "1900"
+        caption: Avon, Franklin County, Maine - dwelling 84, family 84
+        images:
+          - src: NelsonE01census1900.jpg
+      - year: "1910"
+        caption: Avon, Franklin County, Maine - dwelling 8, family 8
+        images:
+          - src: NelsonE01census1910.jpg
+      - year: "1920"
+        caption: Avon, Franklin County, Maine - dwelling 46, family 47
+        images:
+          - src: NelsonE01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for the family of Nelson Eugene Vining, in Evergreen Cemetery, Phillips, Franklin County, Maine
+          (from Find A Grave):
+        images:
+          - src: NelsonE01familyheadstone.jpg

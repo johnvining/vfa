@@ -1,0 +1,35 @@
+id: ThomasJ02
+title: Thomas J. Vining - Ulala [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Thomas J. Vining
+          values:
+            - "34"
+        - label: Ulala ([…]) Vining
+          values:
+            - "32"
+        - label: Elbert Vining
+          values:
+            - "8"
+          indent: true
+        - label: Caldman Vining
+          values:
+            - "6"
+          indent: true
+        - label: Edgar Vining
+          values:
+            - "4"
+          indent: true
+        - label: Charles Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Green Pond, Bibb County, Alabama
+        images:
+          - src: ThomasJ02census1940.jpg

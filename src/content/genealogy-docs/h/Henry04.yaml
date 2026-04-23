@@ -1,0 +1,43 @@
+id: Henry04
+title: Henry Vining - Martha J. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Henry Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Martha J. ([...]) Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Herman Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Grant Township, Republic County, Kansas - dwelling 605, family 704
+        images:
+          - src: Henry04census1870.jpg

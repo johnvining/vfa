@@ -1,0 +1,51 @@
+id: CharlesH06
+title: Charles H. Vining - Sidonna [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles H. Vining
+          values:
+            - "39"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+        - label: "[Sidonna or Florence ?] ([...]) Vining"
+          values:
+            - "23"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+        - label: Audrey Vining
+          values:
+            - "7"
+            - "19"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Normalyn Vining
+          values:
+            - "6"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Wayne Township (ward 6), Allen County, Indiana - dwelling 453, family 463
+        images:
+          - src: CharlesH06census1900.jpg
+      - year: "1910"
+        caption: Fort Wayne (ward 10), Allen County, Indiana - dwelling 101, family 103
+        images:
+          - src: CharlesH06census1910.jpg

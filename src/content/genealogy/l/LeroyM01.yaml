@@ -1,0 +1,51 @@
+id: LeroyM01
+sequence: 48
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: MyronH01
+parentLetter: M
+parentDesc: Myron Henry Vining and Isabelle Nettie Kays
+head:
+  givenName: Leroy Myron
+  birth:
+    date: 27 October 1899
+    place: "[Waterloo or Dunlap?], Iowa"
+  death:
+    date: 14 July 1961
+  burial:
+    place: "Missoula Cemetery   Missoula, Montana"
+marriages:
+  - date: 4 August 1918
+    place: "Waterloo, Iowa"
+    spouse:
+      givenName: Mabel M.
+      surname: Grover
+      parents: (dau. of Robert E. Grover and Jennie Sloper)
+      birth:
+        date: 28 y. as of 1930 census
+        place: Iowa
+childrenGroups:
+  - children:
+      - name: Robert L. Vining
+        birth:
+          date: age 10 y. as of 1930 census
+          place: Iowa
+      - name: James S. Vining
+docsUrl: Lsources/LeroyM01doc.htm
+raw: |-
+  <a name="LeroyM01"></a><font size=+2>Leroy Myron Vining</font>
+     (son of <a href="Mfamilies.htm#MyronH01">Myron Henry Vining and Isabelle Nettie Kays</a>)
+     b. 27 October 1899   [Waterloo or Dunlap?], Iowa
+     m. 4 August 1918   Waterloo, Iowa
+           Mabel M. Grover
+                 (dau. of Robert E. Grover and Jennie Sloper)
+                 b. 28 y. as of 1930 census   Iowa
+     d. 14 July 1961
+           bur. Missoula Cemetery   Missoula, Montana
+  
+  <font size=+1>children:</font>
+     Robert L. Vining   b. age 10 y. as of 1930 census   Iowa
+     James S. Vining
+  
+  <a href="Lsources/LeroyM01doc.htm">documentation and notes</a>

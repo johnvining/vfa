@@ -1,0 +1,107 @@
+id: DanielH01
+sequence: 11
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Bela02
+parentLetter: B
+parentDesc: Bela Vining and Content Pratt
+head:
+  givenName: Daniel Hervey
+  birth:
+    date: 5 August 1813
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 6 March 1885
+    place: "Weymouth, Norfolk County, Massachusetts"
+  burial:
+    place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - number: 1
+    date: 9 December 1830
+    place: "[Hingham or Weymouth?], Massachusetts"
+    spouse:
+      givenName: Anna
+      surname: Binney
+      parents: "(dau. of Elkanah Binney and Anna Lambert)"
+      birth:
+        date: "1808"
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 6 September 1864
+        place: "Weymouth, Norfolk County, Massachusetts"
+      burial:
+        place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+  - number: 2
+    date: 24 March 1866
+    spouse:
+      givenName: "Lydia J. Colson (n&#233;e Holbrook)"
+      birth:
+        date: March 1819
+      death:
+        date: 2 July 1896
+        place: "Weymouth, Norfolk County, Massachusetts"
+      burial:
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - spouseRef: Anna Binney
+    children:
+      - name: Anna Maria Vining
+        birth:
+          date: 24 February 1832
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Harriet Newell Vining
+        birth:
+          date: "bapt. 7 August 1833"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: "[27 or 28?] October 1836"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Daniel Vining
+        entryId: Daniel04
+        birth:
+          date: 18 September 1838
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 10 May 1857
+            place: "Quincy, Norfolk County, Massachusetts"
+            spouse: Elizabeth Ann Field (d. 20 July 1896)
+          - number: 2
+            date: 5 June 1900
+            spouse: Lydia Whelpdale
+        death:
+          date: 13 December 1912
+          place: "Cohasset, Massachusetts"
+        burial:
+          place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+      - name: Harriet Vining
+        birth:
+          date: age 11 y. as of 1860 census
+          place: Massachusetts
+docsUrl: Dsources/DanielH01doc.htm
+raw: |-
+  <a name="DanielH01"></a><font size=+2>Daniel Hervey Vining</font>
+     (son of <a href="Bfamilies.htm#Bela02">Bela Vining and Content Pratt</a>)
+     b. 5 August 1813   Weymouth, Norfolk County, Massachusetts
+     m. (1) 9 December 1830   [Hingham or Weymouth?], Massachusetts
+                 Anna Binney
+                       (dau. of Elkanah Binney and Anna Lambert)
+                       b. 1808   Weymouth, Norfolk County, Massachusetts
+                       d. 6 September 1864   Weymouth, Norfolk County, Massachusetts
+                             bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+           (2) 24 March 1866
+                    Lydia J. Colson (n&#233;e Holbrook)
+                          b. March 1819
+                          d. 2 July 1896   Weymouth, Norfolk County, Massachusetts
+                                bur. Weymouth, Norfolk County, Massachusetts
+     d. 6 March 1885   Weymouth, Norfolk County, Massachusetts
+           bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+
+  <font size=+1>children by Anna Binney:</font>
+     Anna Maria Vining   b. 24 February 1832   Weymouth, Norfolk County, Massachusetts
+     Harriet Newell Vining   bapt. 7 August 1833   Weymouth, Norfolk County, Massachusetts   -   d. [27 or 28?] October 1836   Weymouth, Norfolk County, Massachusetts
+     <a href="#Daniel04">Daniel Vining</a>   b. 18 September 1838   Weymouth, Norfolk County, Massachusetts   -   m. (1) 10 May 1857   Quincy, Norfolk County, Massachusetts   Elizabeth Ann Field (d. 20 July 1896);   (2) 5 June 1900   Lydia Whelpdale   -   d. 13 December 1912   Cohasset, Massachusetts   -   bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+     Harriet Vining   b. age 11 y. as of 1860 census   Massachusetts
+
+  <a href="Dsources/DanielH01doc.htm">documentation and notes</a>

@@ -1,0 +1,69 @@
+id: FrankH01
+sequence: 33
+letter: F
+lastUpdated: 26 February 2023
+migrationNote: "Original HTML had \"Note: \" label prefix before the notes text; that prefix was dropped when migrating to the notes field in YAML (renderer does not add it back)."
+relationship: son
+parentId: HarryC01
+parentLetter: H
+parentDesc: Harry C. Vining and Ada Eversoll
+head:
+  givenName: Frank Harry
+  headingNote: "[see note below]"
+  birth:
+    date: age 33 y. as of 16 November 1946
+    place: "Chicago, IL"
+  death:
+    date: 1960s
+    place: "Chicago, Illinois"
+marriages:
+  - spouse:
+      givenName: Irene Mary
+      surname: Neumann
+      birth:
+        date: age 22 y. as of 16 November 1946
+      death:
+        date: missing as of 23 October 1953 at age 31 y.
+notes: "Frank Harry Vining changed his surname to Russell in 1933, but it is not certain if this was done legally or simply a name he chose to go by. Nevertheless, his three children were given the surname Russell at birth. His son, Frank Harry Russell Jr., now (2006) goes by Frank Harry Vining."
+childrenGroups:
+  - children:
+      - name: Rose Edith Russell
+        birth:
+          date: 20 September 1945
+          place: "Chicago, Illinois"
+        death:
+          date: 3 August 1996
+          place: "Woodale, Illinois"
+      - name: Frances Marie Russell
+        birth:
+          date: 16 November 1946
+          place: "Chicago, Illinois"
+        marriages:
+          - date: "[...] Jacobsen"
+      - name: "Frank Harry Russell Jr. [see note below]"
+        birth:
+          date: 28 December 1950
+        marriages:
+          - date: 1970s
+            spouse: "Zita [...],   divorced"
+raw: |-
+  <a name="FrankH01"></a><font size=+2>Frank Harry Vining</font> [see note below]
+     (son of <a href="Hfamilies.htm#HarryC01">Harry C. Vining and Ada Eversoll</a>)
+     b. age 33 y. as of 16 November 1946   Chicago, IL
+     m. Irene Mary Neumann
+              b. age 22 y. as of 16 November 1946
+              d. missing as of 23 October 1953 at age 31 y.
+     d. 1960s   Chicago, Illinois
+  
+  <font size=+1>children:</font>
+     Rose Edith Russell   b. 20 September 1945   Chicago, Illinois   -   d. 3 August 1996   Woodale, Illinois
+     Frances Marie Russell   b. 16 November 1946   Chicago, Illinois   -   m. [...] Jacobsen
+     Frank Harry Russell Jr. [see note below]   b. 28 December 1950   -   m. 1970s   Zita [...],   divorced
+  
+  <table width="100%">
+     <tr>
+        <td>
+  Note: Frank Harry Vining changed his surname to Russell in 1933, but it is not certain if this was done legally or simply a name he chose to go by. Nevertheless, his three children were given the surname Russell at birth. His son, Frank Harry Russell Jr., now (2006) goes by Frank Harry Vining.
+        </td>
+     </tr>
+  </table>

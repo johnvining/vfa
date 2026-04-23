@@ -1,0 +1,69 @@
+id: GaleM01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: VirgilM01
+parentLetter: V
+parentDesc: Virgil M. Vining and Randy Mansager
+head:
+  givenName: Gale Merle
+  birth:
+    date: 1 December 1922
+  death:
+    date: 14 April 1986
+    place: "Sacramento, California"
+  burial:
+    place: "Mount Vernon Memorial Park   Fair Oaks, California"
+marriages:
+  - spouse:
+      givenName: Gladys Ella
+      surname: Beckman
+      birth:
+        date: 20 September 1912
+        place: "Iowa"
+      death:
+        date: 20 August 1990
+        place: "Placer, California"
+      burial:
+        place: "Mount Vernon Memorial Park   Fair Oaks, California"
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: John Sanford Vining
+        entryId: JohnS02
+        entryLetter: J
+        birth:
+          date: 12 September 1945
+          place: "Sioux City, Iowa"
+        marriages:
+          - number: 1
+            date: 2 September 1967
+            place: "North Highlands, California"
+            spouse: "Claudia Camille Smith,   divorced 1976   California"
+          - number: 2
+            date: 14 January 1977
+            place: "Carmichael, California"
+            spouse: "Carole Irene Smpardos"
+  - headingText: "child"
+    children:
+      - name: Margaret Ann Vining
+        birth:
+          date: 6 February 1952
+docsUrl: Gsources/GaleM01doc.htm
+raw: |-
+  <a name="GaleM01"></a><font size=+2>Gale Merle Vining</font>
+     (son of <a href="Vfamilies.htm#VirgilM01">Virgil M. Vining and Randy Mansager</a>)
+     b. 1 December 1922
+     m. Gladys Ella Beckman
+              b. 20 September 1912   Iowa
+              d. 20 August 1990   Placer, California
+                    bur. Mount Vernon Memorial Park   Fair Oaks, California
+     d. 14 April 1986   Sacramento, California
+           bur. Mount Vernon Memorial Park   Fair Oaks, California
+  
+  <font size=+1>adopted child:</font>
+     <a href="Jfamilies.htm#JohnS02">John Sanford Vining</a>   b. 12 September 1945   Sioux City, Iowa   -   m. (1) 2 September 1967   North Highlands, California   Claudia Camille Smith,   divorced 1976   California;   (2) 14 January 1977   Carmichael, California   Carole Irene Smpardos
+  <font size=+1>child:</font>
+     Margaret Ann Vining   b. 6 February 1952
+  
+  <a href="Gsources/GaleM01doc.htm">documentation and notes</a>

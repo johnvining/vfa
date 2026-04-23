@@ -1,0 +1,39 @@
+id: James15
+title: James Vining - [...]a [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: James Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: "[...]a ([...]) Vining"
+          values:
+            - "[19?]"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: C[...] E. Vining
+          values:
+            - "[1?] m."
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Delaware, Delaware County, Ohio - dwelling 832, family 840
+        images:
+          - src: James15census1870.jpg

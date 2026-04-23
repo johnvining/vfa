@@ -1,0 +1,32 @@
+id: Luke01
+sequence: 78
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Luke
+marriages:
+  - spouse:
+      givenName: Cassie
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Addison Whitlee Aurora Michele Vining
+        death:
+          date: 20 December 2010
+        burial:
+          place: "Gardens of Memory Cemetery   Minden, Louisiana"
+      - name: daughter Vining
+      - name: daughter Vining
+      - name: daughter Vining
+raw: |-
+  <a name="Luke01"></a><font size=+2>Luke Vining</font>
+     (son of [?])
+     m. Cassie [&#8230;]
+  
+  <font size=+1>children:</font>
+     Addison Whitlee Aurora Michele Vining   d. 20 December 2010   -   bur. Gardens of Memory Cemetery   Minden, Louisiana
+     daughter Vining
+     daughter Vining
+     daughter Vining

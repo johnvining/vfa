@@ -1,0 +1,27 @@
+id: JamesO04
+title: James Orrin Vining - Katherine Nantz
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: James Orrin Vining
+          values:
+            - "38"
+        - label: Katherine (Nantz) Vining
+          values:
+            - "33"
+        - label: Carol Vining
+          values:
+            - "1"
+          indent: true
+        - label: Robert A. Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Seattle, King County, Washington
+        images:
+          - src: JamesO04census1940.jpg

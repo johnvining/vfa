@@ -1,0 +1,55 @@
+id: HarveyM01
+title: Harvey Milton Vining - Mary Jane Buckman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Harvey Milton Vining
+          values:
+            - "29"
+            - "39"
+            - "?"
+            - "61"
+            - "?"
+            - dead
+        - label: Mary Jane (Buckman) Vining
+          values:
+            - "24"
+            - "33"
+            - "?"
+            - "54"
+            - "?"
+            - dead
+        - label: Hulda E. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Sharon Township, Franklin County, Ohio - dwelling 140, family 142
+        images:
+          - src: HarveyM01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Town 21 AR 7E (Mahomet post office), Champaign County, Illinois - dwelling 385, family 358. Also living in
+          this household in 1860 was Nancy Buckman (15 y., b. Ohio).
+        images:
+          - src: HarveyM01census1860.jpg
+      - year: "1880"
+        caption: >-
+          Mansfield, Piatt County, Illinois - dwelling 141, family 142. Also living in this household in 1880 were
+          servant Maud Slater (15 y., b. Illinois) and niece Ida Sheppard (6 y., b. Illinois).
+        images:
+          - src: HarveyM01census1880.jpg

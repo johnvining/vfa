@@ -1,0 +1,118 @@
+id: JacksonC01
+sequence: 6
+letter: J
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML had \"Note: \" label prefix before the notes text; that prefix was dropped when migrating to the notes field in YAML (renderer does not add it back)."
+relationship: son
+parentDesc: "[?; see note below]"
+head:
+  givenName: Jackson Clarence
+  birth:
+    date: "22 November [1864 or 1868?]"
+    place: "Richmond, Virginia"
+  death:
+    date: 2 March 1936
+    place: "Washington, District of Columbia"
+  burial:
+    place: "Fairmount Cemetery   Denver, Colorado"
+marriages:
+  - number: 1
+    date: 10 October 1886
+    place: "Flagstaff, Arizona"
+    spouse:
+      givenName: Anetta Maud
+      surname: Hoxworth
+      parents: (dau. of George Hoxworth and Martha Morgan)
+      birth:
+        date: 10 July 1868
+        place: Ohio
+      death:
+        date: 7 March 1901
+        place: "Colorado Springs, Colorado"
+      burial:
+        place: "Fairmount Cemetery   Denver, Colorado"
+  - number: 2
+    date: 5 October 1904
+    spouse:
+      givenName: Elizabeth
+      surname: Moran
+      birth:
+        date: age 38 y. as of 1910 census
+        place: Wisconsin
+    note: "divorced   1912"
+  - number: 3
+    date: Margaret Lula Warford
+    spouse:
+      parents: (dau. of Wilson Warford and Lucinda Lou Houseworth)
+      birth:
+        date: 12 May 1878
+        place: "Fort Scottt, Bourbon County, Kansas"
+      death:
+        date: 14 January 1936
+        place: "Los Angeles, California"
+childrenGroups:
+  - spouseRef: Maud Hoxworth
+    children:
+      - name: Nellie Vanita Vining
+        birth:
+          date: 14 September 1887
+          place: Colorado
+        death:
+          date: 31 January 1888
+          place: Colorado
+        burial:
+          place: "Fairmount Cemetery   Denver, Colorado"
+      - name: Roy Newport Vining
+        entryId: RoyN01
+        entryLetter: R
+        birth:
+          date: 15 April 1889
+          place: Arizona
+        marriages:
+          - date: "Ann G. [&#8230;]"
+        death:
+          date: 16 December 1944
+        burial:
+          place: "Roselawn Cemetery   Pueblo, Colorado"
+      - name: Grace Irene Vining
+        birth:
+          date: 9 April 1891
+          place: "Flagstaff, Arizona"
+        marriages:
+          - date: "1911"
+            spouse: "Denver, Colorado   John William Flynn"
+        death:
+          date: December 1973
+        burial:
+          place: "Fairmount Cemetery   Denver, Colorado"
+notes: "Jackson Clarence Vining's grandparents were <a href=\"Efamilies.htm#ElamC01\">Elam Carter Vining and Sarah Newport</a>."
+docsUrl: Jsources/JacksonC01doc.htm
+raw: |-
+  <a name="JacksonC01"></a><font size=+2>Jackson Clarence Vining</font>
+     (son of [?; see note below])
+     b. 22 November [1864 or 1868?]   Richmond, Virginia
+     m. (1) 10 October 1886   Flagstaff, Arizona
+                 Anetta Maud Hoxworth
+                       (dau. of George Hoxworth and Martha Morgan)
+                       b. 10 July 1868   Ohio
+                       d. 7 March 1901   Colorado Springs, Colorado
+                             bur. Fairmount Cemetery   Denver, Colorado
+           (2) 5 October 1904
+                 Elizabeth Moran
+                       b. age 38 y. as of 1910 census   Wisconsin
+               divorced   1912
+           (3) Margaret Lula Warford
+                       (dau. of Wilson Warford and Lucinda Lou Houseworth)
+                       b. 12 May 1878   Fort Scottt, Bourbon County, Kansas
+                       d. 14 January 1936   Los Angeles, California
+     d. 2 March 1936   Washington, District of Columbia
+           bur. Fairmount Cemetery   Denver, Colorado
+  
+  <font size=+1>children by Maud Hoxworth:</font>
+     Nellie Vanita Vining   b. 14 September 1887   Colorado   -   d. 31 January 1888   Colorado   -   bur. Fairmount Cemetery   Denver, Colorado
+     <a href="Rfamilies.htm#RoyN01">Roy Newport Vining</a>   b. 15 April 1889   Arizona   -   m. Ann G. [&#8230;]   -   d. 16 December 1944   -   bur. Roselawn Cemetery   Pueblo, Colorado
+     Grace Irene Vining   b. 9 April 1891   Flagstaff, Arizona   -   m. 1911   Denver, Colorado   John William Flynn   -   d. December 1973   -   bur. Fairmount Cemetery   Denver, Colorado
+  
+  <a href="Jsources/JacksonC01doc.htm">documentation and notes</a>
+  
+     Note: Jackson Clarence Vining&#8217;s grandparents were <a href="Efamilies.htm#ElamC01">Elam Carter Vining and Sarah Newport</a>.

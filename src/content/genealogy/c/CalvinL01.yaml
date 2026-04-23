@@ -1,0 +1,75 @@
+id: CalvinL01
+letter: C
+sequence: 6
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AbnerB01
+parentLetter: A
+parentDesc: Abner B. Vining and Sophia A. Ralph
+head:
+  givenName: Calvin Luther
+  birth:
+    date: March 1859
+    place: "Meigs County, Ohio"
+  death:
+    date: 1 February 1943
+    place: "Everett, Snohomish County, Washington"
+  burial:
+    place: "Marysville Cemetery   Marysville, Snohomish County, Washington"
+marriages:
+  - date: 23 December 1880
+    place: "Meigs County, Ohio"
+    spouse:
+      givenName: Caroline Sarah
+      surname: Price
+      birth:
+        date: September 1861
+        place: Ohio
+      death:
+        date: 30 December 1943
+        place: "Everett, Snohomish County, Washington"
+      burial:
+        place: "Marysville Cemetery   Marysville, Snohomish County, Washington"
+childrenGroups:
+  - children:
+      - name: Burt Harold Vining
+        entryId: BurtH01
+        entryLetter: B
+        birth:
+          date: 23 February 1883
+          place: "Pomeroy, Meigs County, Ohio"
+        marriages:
+          - date: 2 y. as of 1910 census
+            spouse: Helen M. Weddell
+        death:
+          date: 1 February 1946
+          place: "Pomeroy, Meigs County, Ohio"
+        burial:
+          place: "Marysville Cemetery   Marysville, Snohomish County, Washington"
+      - name: Howard Elmer Vining
+        birth:
+          date: 12 June 1889
+          place: "Arlington, Gilliam County, Oregon"
+        death:
+          date: 13 November 1933
+          place: Washington
+        burial:
+          place: "Evergreen Washelli Memorial Park   Seattle, King County, Washington"
+docsUrl: Csources/CalvinL01doc.htm
+raw: |-
+  <a name="CalvinL01"></a><font size=+2>Calvin Luther Vining</font>
+     (son of <a href="Afamilies.htm#AbnerB01">Abner B. Vining and Sophia A. Ralph</a>)
+     b. March 1859   Meigs County, Ohio
+     m. 23 December 1880   Meigs County, Ohio
+           Caroline Sarah Price
+                 b. September 1861   Ohio
+                 d. 30 December 1943   Everett, Snohomish County, Washington
+                       bur. Marysville Cemetery   Marysville, Snohomish County, Washington
+     d. 1 February 1943   Everett, Snohomish County, Washington
+           bur. Marysville Cemetery   Marysville, Snohomish County, Washington
+  
+  <font size=+1>children:</font>
+     <a href="Bfamilies.htm#BurtH01">Burt Harold Vining</a>   b. 23 February 1883   Pomeroy, Meigs County, Ohio   -   m. 2 y. as of 1910 census   Helen M. Weddell   -   d. 1 February 1946   Pomeroy, Meigs County, Ohio   -   bur. Marysville Cemetery   Marysville, Snohomish County, Washington
+     Howard Elmer Vining   b. 12 June 1889   Arlington, Gilliam County, Oregon   -   d. 13 November 1933   Washington   -   bur. Evergreen Washelli Memorial Park   Seattle, King County, Washington   
+  
+  <a href="Csources/CalvinL01doc.htm">documentation and notes</a>

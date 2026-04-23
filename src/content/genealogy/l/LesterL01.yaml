@@ -1,0 +1,37 @@
+id: LesterL01
+sequence: 53
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: "Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins"
+head:
+  givenName: Lester Lloyd
+  birth:
+    date: 19 March 1930
+  death:
+    date: 12 September 2005
+    place: "(last residence: Amado, Arizona)"
+marriages:
+  - spouse:
+      givenName: Eva
+      surname: Lee
+childrenGroups:
+  - children:
+      - name: Jeana Vining
+      - name: Sandra Vining
+      - name: Gloria Vining
+      - name: Daniel Vining
+raw: |-
+  <a name="LesterL01"></a><font size=+2>Lester Lloyd Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins</a>)
+     b. 19 March 1930
+     m. Eva Lee
+     d. 12 September 2005   (last residence: Amado, Arizona)
+  
+  <font size=+1>children:</font>
+     Jeana Vining
+     Sandra Vining
+     Gloria Vining
+     Daniel Vining

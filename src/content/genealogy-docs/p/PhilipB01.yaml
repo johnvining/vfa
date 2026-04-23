@@ -1,0 +1,59 @@
+id: PhilipB01
+title: Philip Brooks Vining - Louise [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Philip Brooks Vining
+          values:
+            - "?"
+            - "37"
+        - label: Louise ([...]) Vining
+          values:
+            - "?"
+            - "37"
+        - label: Donald Vining
+          values:
+            - ""
+            - "4"
+          indent: true
+        - label: Kenneth Vining
+          values:
+            - ""
+            - "2"
+          indent: true
+        - label: Doris Vining
+          values:
+            - ""
+            - "1"
+          indent: true
+        - label: Catherine Vining
+          values:
+            - ""
+            - 3 m.
+          indent: true
+        - label: Robert Philip Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Wakefield, Middlesex County, Massachusetts
+        images:
+          - src: PhilipB01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Philip Brooks Vining, in Forest Glade Cemetery Wakefield, Middlesex County, Massachusetts (from
+          Find A Grave):
+        images:
+          - src: PhilipB01gravestone.jpg
+      - caption: >-
+          Obituary for Susan (Ware) (Berryman) Vining, wife of Robert Philip Vining (from John Breen Memorial Funeral
+          Home website):
+        images:
+          - src: PhilipB01daughterinlawSusanobituary.jpg

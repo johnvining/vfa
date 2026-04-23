@@ -1,0 +1,100 @@
+id: MikeL01
+sequence: 34
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: RandallL01
+parentLetter: R
+parentDesc: "Randall Lee Vining and [Della or Delia?] Stewart"
+head:
+  givenName: Mike Lee
+  birth:
+    date: 19 July 1906
+    place: "Forest, West Carroll Parish, Louisiana"
+  death:
+    date: 10 January 2001
+    place: "Oak Grove, West Carroll Parish, Louisiana"
+  burial:
+    place: "Epps, West Carroll Parish, Louisiana"
+marriages:
+  - date: Louisiana
+    spouse:
+      givenName: Stella Dixie
+      surname: Oldham
+      parents: "(dau. of Robert Wright Oldham and [Ida Owens?])"
+      birth:
+        date: 21 September 1911
+        place: "Darnell, West Carroll Parish, Louisiana"
+      death:
+        date: 18 July 1988
+        place: "Oak Grove, West Carroll Parish, Louisiana)"
+childrenGroups:
+  - children:
+      - name: Long Allen Vining
+        burial:
+          place: Bayou Macon Cemetery   Louisiana
+      - name: son +
+        marriages:
+          - date: "[...] Forney"
+      - name: Dixie E. Vining
+        birth:
+          date: 28 April 1928
+          place: Louisiana
+        marriages:
+          - date: Sidney Lloyd Harrison
+      - name: daughter
+        marriages:
+          - date: "[...] Ferrell"
+      - name: daughter
+        marriages:
+          - date: "[...] Clark"
+      - name: son +
+        marriages:
+          - number: 1
+            date: "[...] Gilley"
+          - number: 2
+            date: "[...]"
+      - name: daughter
+        marriages:
+          - date: "[...] Morgan"
+      - name: son +
+        marriages:
+          - date: "[...] Bertone"
+      - name: Robert Randall Vining
+        entryId: RobertR01
+        entryLetter: R
+        birth:
+          date: 28 August 1936
+          place: "Oak Grove, West Carroll Parish, Louisiana"
+        marriages:
+          - date: "Karen [&#8230;]"
+        death:
+          date: 28 February 2010
+          place: "Houston, Harris County, Texas"
+        burial:
+          place: Forest Corner Cemetery
+docsUrl: Msources/MikeL01doc.htm
+raw: |-
+  <a name="MikeL01"></a><font size=+2>Mike Lee Vining</font>
+     (son of <a href="Rfamilies.htm#RandallL01">Randall Lee Vining and [Della or Delia?] Stewart</a>)
+     b. 19 July 1906   Forest, West Carroll Parish, Louisiana
+     m. Louisiana
+           Stella Dixie Oldham
+                 (dau. of Robert Wright Oldham and [Ida Owens?])
+                 b. 21 September 1911   Darnell, West Carroll Parish, Louisiana
+                 d. 18 July 1988   Oak Grove, West Carroll Parish, Louisiana)
+     d. 10 January 2001   Oak Grove, West Carroll Parish, Louisiana
+           bur. Epps, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Long Allen Vining   bur. Bayou Macon Cemetery   Louisiana
+     son +    m. [...] Forney
+     Dixie E. Vining   b. 28 April 1928   Louisiana   -   m. Sidney Lloyd Harrison
+     daughter   m. [...] Ferrell
+     daughter   m. [...] Clark
+     son +    m. (1) [...] Gilley;   (2) [...]
+     daughter   m. [...] Morgan
+     son +    m. [...] Bertone
+     <a href="Rfamilies.htm#RobertR01">Robert Randall Vining</a>   b. 28 August 1936   Oak Grove, West Carroll Parish, Louisiana   -   m. Karen [&#8230;]   -   d. 28 February 2010   Houston, Harris County, Texas   -   bur. Forest Corner Cemetery
+  
+  <a href="Msources/MikeL01doc.htm">documentation and notes</a>

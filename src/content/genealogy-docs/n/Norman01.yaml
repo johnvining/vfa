@@ -1,0 +1,37 @@
+id: Norman01
+title: Norman Vining - Clara Windoft
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Norman Vining
+          values:
+            - "30"
+            - "40"
+        - label: Clara (Windoft) Vining
+          values:
+            - "28"
+            - "38"
+        - label: Norman Vining Jr.
+          values:
+            - "7"
+            - "17"
+          indent: true
+        - label: Shirley Vining
+          values:
+            - 4 y., 11 m.
+            - "14"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Detroit (precinct 28), Wayne County, Michigan - dwelling 21, family 23
+        images:
+          - src: Norman01census1930a.jpg
+          - src: Norman01census1930b.jpg
+      - year: "1940"
+        caption: Detroit (ward 22), Wayne County, Michigan
+        images:
+          - src: Norman01census1940.jpg

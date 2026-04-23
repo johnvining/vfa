@@ -1,0 +1,114 @@
+id: BenjaminF04
+title: Benjamin Franklin Vining - Lucinda Catherine Pearson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Benjamin Franklin Vining
+          values:
+            - "33"
+            - "38"
+            - "?"
+            - "65"
+            - "?"
+            - dead
+            - ""
+        - label: Lucinda Catherine (Pearson) Vining
+          values:
+            - "24"
+            - "34"
+            - "?"
+            - "54"
+            - "?"
+            - "?"
+            - dead
+        - label: Charles Albert Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - married and living in separate household
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: George Albert Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William Eddington Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ben Wallace Vining
+          values:
+            - ""
+            - 1 m.
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+        - label: Janett Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: sons [Shadrack and John?] Vining
+          values:
+            - ""
+            - ""
+            - "??"
+            - "??"
+            - "??"
+            - "??"
+            - "??"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Rusk post office (beat 2), Cherokee County, Texas - dwelling 35, family 35
+        images:
+          - src: BenjaminF04census1870.jpg
+      - year: "1880"
+        caption: Rusk (east half), Cherokee County, Texas - dwelling 38, family 38
+        images:
+          - src: BenjaminF04census1880.jpg
+      - year: "1890"
+        caption: No census data are available.
+      - year: "1900"
+        caption: Justice precinct 1, Cherokee County, Texas - dwelling 143, family 143
+        images:
+          - src: BenjaminF04census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Benjamin Franklin Vining and Lucinda Catherine (Pearson) Vining, in Cedar Hill Cemetery, Rusk,
+          Cherokee County, Texas (from Find A Grave):
+        images:
+          - src: BenjaminF04andwifeheadstone.jpg

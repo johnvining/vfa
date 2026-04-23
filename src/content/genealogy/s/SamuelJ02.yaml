@@ -1,0 +1,84 @@
+id: SamuelJ02
+sequence: 21
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RobertM01
+parentLetter: R
+parentDesc: Robert Miller Vining and Sarah Stout
+head:
+  givenName: Samuel Joseph
+  birth:
+    date: 22 March 1864
+    place: Indiana
+  death:
+    date: 15 October 1914
+  burial:
+    place: "North Grove Cemetery   Celina, Ohio"
+marriages:
+  - date: 8 February 1887
+    place: Ohio
+    spouse:
+      givenName: "Sarah Adeline &#8220;Addie&#8221; Ellsworth (she m. (2) Charles M."
+      surname: "[Crouch?])"
+      birth:
+        date: December 1868
+        place: Ohio
+      death:
+        date: "1938"
+      burial:
+        place: "North Grove Cemetery   Celina, Ohio"
+childrenGroups:
+  - children:
+      - name: Vernon Ellsworth Vining
+        birth:
+          date: 16 January 1888
+          place: "Black Creek, Ohio"
+        marriages:
+          - date: 27 November
+            spouse: Helen Bailey
+        death:
+          date: 29 September 1951
+          place: "Kern, California"
+      - name: Valley Echo Vining
+        birth:
+          date: 29 November 1890
+          place: "Black Creek, Ohio"
+        marriages:
+          - date: Arthur J. Behringer
+      - name: Leo Heath Vining
+        entryId: LeoH01
+        entryLetter: L
+        birth:
+          date: 24 October 1893
+          place: "Celina, Ohio"
+        marriages:
+          - number: 1
+            date: "1916"
+            spouse: "Florence Nightengale Jones,   divorced 1920"
+          - number: 2
+            date: "Johnnie L. [...]"
+          - number: 3
+            date: Priscilla Margaret Henning
+        death:
+          date: February 1968
+          place: "Owensboro, Kentucky"
+docsUrl: Ssources/SamuelJ02doc.htm
+raw: |-
+  <a name="SamuelJ02"></a><font size=+2>Samuel Joseph Vining</font>
+     (son of <a href="Rfamilies.htm#RobertM01">Robert Miller Vining and Sarah Stout</a>)
+     b. 22 March 1864   Indiana
+     m. 8 February 1887   Ohio
+           Sarah Adeline &#8220;Addie&#8221; Ellsworth (she m. (2) Charles M. [Crouch?])
+                 b. December 1868   Ohio
+                 d. 1938
+                       bur. North Grove Cemetery   Celina, Ohio
+     d. 15 October 1914
+           bur. North Grove Cemetery   Celina, Ohio
+  
+  <font size=+1>children:</font>
+     Vernon Ellsworth Vining   b. 16 January 1888   Black Creek, Ohio   -   m. 27 November   Helen Bailey   -   d. 29 September 1951   Kern, California
+     Valley Echo Vining   b. 29 November 1890   Black Creek, Ohio   -   m. Arthur J. Behringer
+     <a href="Lfamilies.htm#LeoH01">Leo Heath Vining</a>   b. 24 October 1893   Celina, Ohio   -   m. (1) 1916   Florence Nightengale Jones,   divorced 1920;   (2) Johnnie L. [...];   (3) Priscilla Margaret Henning   -   d. February 1968   Owensboro, Kentucky
+  
+  <a href="Ssources/SamuelJ02doc.htm">documentation and notes</a>

@@ -1,0 +1,74 @@
+id: RalphW01
+sequence: 5
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FranklinE01
+parentLetter: F
+parentDesc: Franklin E. Vining and Alice Flossie Lindsley
+head:
+  givenName: Ralph Warren
+  birth:
+    date: 9 March 1881
+    place: Kansas
+  death:
+    date: "1958"
+    place: Kansas
+  burial:
+    place: "High Prairie Cemetery   Altoona, Wilson County, Kansas"
+marriages:
+  - date: 24 November 1909
+    place: "Fredonia, Wilson County, Kansas"
+    spouse:
+      givenName: "Elizabeth Varner (n&#233;e"
+      surname: Brown)
+      birth:
+        date: "1878"
+        place: West Virginia
+      death:
+        date: "1949"
+      burial:
+        place: "High Prairie Cemetery   Altoona, Wilson County, Kansas"
+childrenGroups:
+  - children:
+      - name: Ray W. Vining
+        entryId: RayW01
+        birth:
+          date: 26 September 1913
+          place: Kansas
+        marriages:
+          - date: "Frances M. [...]"
+        death:
+          date: March 1987
+          place: Kansas
+        burial:
+          place: "High Prairie Cemetery   Altoona, Wilson County, Kansas"
+      - name: Wilma Ruth Vining
+        birth:
+          date: 31 December 1915
+          place: "Benedict, Wilson Counry, Kansas"
+        marriages:
+          - date: William Ollis Robertson
+        death:
+          date: 5 November 2013
+          place: "Parsons, La Bette County, Kansas"
+        burial:
+          place: "High Prairie Cemetery   Altoona, Wilson, Kansas"
+docsUrl: Rsources/RalphW01doc.htm
+raw: |-
+  <a name="RalphW01"></a><font size=+2>Ralph Warren Vining</font>
+     (son of <a href="Ffamilies.htm#FranklinE01">Franklin E. Vining and Alice Flossie Lindsley</a>)
+     b. 9 March 1881   Kansas
+     m. 24 November 1909   Fredonia, Wilson County, Kansas
+           Elizabeth Varner (n&#233;e Brown)
+                 b. 1878   West Virginia
+                 d. 1949
+                       bur. High Prairie Cemetery   Altoona, Wilson County, Kansas
+     d. 1958   Kansas
+           bur. High Prairie Cemetery   Altoona, Wilson County, Kansas
+  
+  <font size=+1>children:</font>
+     <a href="#RayW01">Ray W. Vining</a>   b. 26 September 1913   Kansas   -   m. Frances M. [...]   -   d. March 1987   Kansas   -   bur. High Prairie Cemetery   Altoona, Wilson County, Kansas
+     Wilma Ruth Vining   b. 31 December 1915   Benedict, Wilson Counry, Kansas   -   m. William Ollis Robertson   -   d. 5 November 2013   Parsons, La Bette County, Kansas   -   bur. High Prairie Cemetery   Altoona, Wilson, Kansas
+  
+  <a href="Rsources/RalphW01doc.htm">documentation and notes</a>

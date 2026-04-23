@@ -1,0 +1,51 @@
+id: RayW01
+sequence: 14
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RalphW01
+parentDesc: "Ralph Warren Vining and Elizabeth Varner (n&#233;e Brown)"
+head:
+  givenName: Ray W.
+  birth:
+    date: 26 September 1913
+    place: Kansas
+  death:
+    date: March 1987
+    place: Kansas
+  burial:
+    place: "High Prairie Cemetery   Altoona, Kansas"
+marriages:
+  - spouse:
+      givenName: Frances M.
+      surname: "[...]"
+      birth:
+        date: "1916"
+        place: Kansas
+      death:
+        date: "1955"
+      burial:
+        place: "High Prairie Cemetery   Altoona, Kansas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Donna Vining
+        birth:
+          date: age 6 y. as of 1940 census
+          place: Kansas
+docsUrl: Rsources/RayW01doc.htm
+raw: |-
+  <a name="RayW01"></a><font size=+2>Ray W. Vining</font>
+     (son of <a href="#RalphW01">Ralph Warren Vining and Elizabeth Varner (n&#233;e Brown)</a>)
+     b. 26 September 1913   Kansas
+     m. Frances M. [...]
+              b. 1916   Kansas
+              d. 1955
+                    bur. High Prairie Cemetery   Altoona, Kansas
+     d. March 1987   Kansas
+           bur. High Prairie Cemetery   Altoona, Kansas
+  
+  <font size=+1>child:</font>
+     Donna Vining   b. age 6 y. as of 1940 census   Kansas
+  
+  <a href="Rsources/RayW01doc.htm">documentation and notes</a>

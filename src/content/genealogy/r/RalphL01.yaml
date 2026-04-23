@@ -1,0 +1,54 @@
+id: RalphL01
+sequence: 2
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: Francis Henry Vining and Alice Lenora Hawkins
+head:
+  givenName: Ralph Larry
+  birth:
+    date: 10 September 1917
+    place: "Canary Oil Field, Washington County, Oklahoma"
+  death:
+    date: 2 April 2002
+    place: "Longview, Cowlitz County, Washington"
+  burial:
+    place: "Green Hills Memorial Gardens   Kelso, Cowlitz County, Washington"
+marriages:
+  - date: 3 July 1943
+    spouse:
+      givenName: Ferne Henrietta Dodge (born Henrietta Ferne Dodge; legal name
+      surname: change)
+      birth:
+        date: 4 August 1922
+        place: "East Farms, Washington"
+      death:
+        date: 17 April 2013
+        place: "Longview, Cowlitz County, Washington"
+childrenGroups:
+  - children:
+      - name: Larry Dean Vining
+        birth:
+          date: "1948"
+      - name: Michelle Lee Vining
+        birth:
+          date: "1950"
+docsUrl: Rsources/RalphL01doc.htm
+raw: |-
+  <a name="RalphL01"></a><font size=+2>Ralph Larry Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice Lenora Hawkins</a>)
+     b. 10 September 1917   Canary Oil Field, Washington County, Oklahoma
+     m. 3 July 1943
+           Ferne Henrietta Dodge (born Henrietta Ferne Dodge; legal name change)
+                 b. 4 August 1922   East Farms, Washington
+                 d. 17 April 2013   Longview, Cowlitz County, Washington
+     d. 2 April 2002   Longview, Cowlitz County, Washington
+           bur. Green Hills Memorial Gardens   Kelso, Cowlitz County, Washington
+  
+  <font size=+1>children:</font>
+     Larry Dean Vining   b. 1948
+     Michelle Lee Vining   b. 1950
+  
+  <a href="Rsources/RalphL01doc.htm">documentation and notes</a>

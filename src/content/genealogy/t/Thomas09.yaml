@@ -1,0 +1,60 @@
+id: Thomas09
+letter: T
+sequence: 3
+lastUpdated: 9 March 2023
+relationship: son
+parentId: WilliamJr01
+parentLetter: W
+parentDesc: William Vining Jr. and Anna Nichols
+head:
+  givenName: Thomas
+  birth:
+    date: ca. 1724
+    place: "[Salem or Sutton?], Massachusetts"
+  death:
+    date: ca. 1795
+    place: "Marlboro County, South Carolina"
+marriages:
+  - date: ca. 1761
+    place: "Marlboro County, South Carolina"
+    spouse:
+      givenName: Lydia
+      surname: Miller
+      birth:
+        date: ca. 1744
+childrenGroups:
+  - children:
+      - name: Elizabeth Vining
+        birth:
+          date: ca. 1762
+          place: South Carolina
+        marriages:
+          - number: 1
+            date: "1781"
+            spouse: William Evans Jr.
+          - number: 2
+            date: Alexander Peterkin
+        death:
+          date: 20 August 1833
+          place: "Marlboro County, South Carolina"
+      - name: "[Anna or Ann?] Vining"
+        birth:
+          date: ca. 1767
+          place: "Marlboro County, South Carolina"
+        marriages:
+          - date: Aaron Pearson Jr.
+        death:
+          date: ca. 1844
+          place: "Marlboro County, South Carolina"
+raw: |-
+  <a name="Thomas09"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamJr01">William Vining Jr. and Anna Nichols</a>)
+     b. ca. 1724   [Salem or Sutton?], Massachusetts
+     m. ca. 1761   Marlboro County, South Carolina
+           Lydia Miller
+                 b. ca. 1744
+     d. ca. 1795   Marlboro County, South Carolina
+  
+  <font size=+1>children:</font>
+     Elizabeth Vining    b. ca. 1762   South Carolina   -   m. (1) 1781   William Evans Jr.;   (2) Alexander Peterkin   -   d. 20 August 1833   Marlboro County, South Carolina
+     [Anna or Ann?] Vining   b. ca. 1767   Marlboro County, South Carolina   -   m. Aaron Pearson Jr.   -   d. ca. 1844   Marlboro County, South Carolina

@@ -1,0 +1,75 @@
+id: LesterR04
+sequence: 54
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: PhilipE01
+parentLetter: P
+parentDesc: Philip E. Vining and Mahalia Tompkins
+head:
+  givenName: Lester Roy
+  birth:
+    date: 30 July 1884
+    place: "Jesett, Greene County, New York"
+  death:
+    date: 2 February 1948
+    place: "Kingston, New York"
+marriages:
+  - date: 1 y. as of 1910 census
+    spouse:
+      givenName: Marie E.
+      surname: Barnes
+      parents: (dau. of Edgar Newman Barnes and Anna Amanda Whitman)
+      birth:
+        date: 2 November 1887
+        place: "Durham, New York"
+      death:
+        date: 25 July 1939
+        place: "Esopus, Ulster County, New York"
+childrenGroups:
+  - children:
+      - name: Earl B. Vining
+        birth:
+          date: age 7 y. as of 1920 census
+          place: "Ulster County, New York"
+      - name: Clifford L. Vining
+        birth:
+          date: 19 March 1914
+          place: "Esopus, Ulster County, New York"
+        death:
+          date: 1 January 1922
+          place: "Esopus, Ulster County, New York"
+      - name: Norma A. Vining
+        birth:
+          date: age 6 y. as of 1930 census
+          place: New York
+      - name: Warren G. Vining
+        entryId: WarrenG01
+        entryLetter: W
+        birth:
+          date: 28 October 1925
+          place: "Esopus, Ulster County, New York"
+        marriages:
+          - date: Theresa Ferro
+        death:
+          date: 15 August 1955
+          place: "Kingston, New York"
+docsUrl: Lsources/LesterR04doc.htm
+raw: |-
+  <a name="LesterR04"></a><font size=+2>Lester Roy Vining</font>
+     (son of <a href="Pfamilies.htm#PhilipE01">Philip E. Vining and Mahalia Tompkins</a>)
+     b. 30 July 1884   Jesett, Greene County, New York
+     m. 1 y. as of 1910 census
+           Marie E. Barnes
+                 (dau. of Edgar Newman Barnes and Anna Amanda Whitman)
+                 b. 2 November 1887   Durham, New York
+                 d. 25 July 1939   Esopus, Ulster County, New York
+     d. 2 February 1948   Kingston, New York
+  
+  <font size=+1>children:</font>
+     Earl B. Vining   b. age 7 y. as of 1920 census   Ulster County, New York
+     Clifford L. Vining   b. 19 March 1914   Esopus, Ulster County, New York   -   d. 1 January 1922   Esopus, Ulster County, New York
+     Norma A. Vining   b. age 6 y. as of 1930 census   New York
+     <a href="Wfamilies.htm#WarrenG01">Warren G. Vining</a>   b. 28 October 1925   Esopus, Ulster County, New York   -   m. Theresa Ferro   -   d. 15 August 1955   Kingston, New York
+  
+  <a href="Lsources/LesterR04doc.htm">documentation and notes</a>

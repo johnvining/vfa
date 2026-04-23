@@ -1,0 +1,134 @@
+id: Richard02
+sequence: 40
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: David01
+parentLetter: D
+parentDesc: David Vining and Lydia Torrey
+head:
+  givenName: Richard
+  birth:
+    date: 13 October 1766
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 17 June 1845
+    place: "Abington, Plymouth County, Massachusetts"
+marriages:
+  - date: 29 August 1793
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: "Susannah [=Sarah?]"
+      surname: Pratt
+      birth:
+        date: age 67 y. at death
+      death:
+        date: 3 December 1836
+        place: "Abington, Plymouth County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Betsey Vining
+        birth:
+          date: 6 February 1794
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: September 1816
+            spouse: Edmund Gurney
+      - name: Josiah Vining
+        entryId: Josiah03
+        entryLetter: J
+        birth:
+          date: 19 April 1796
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 18 October 1821
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Abigail Smith Thaxter
+      - name: Ezra Vining
+        entryId: Ezra01
+        entryLetter: E
+        birth:
+          date: 16 May 1798
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 3 October 1821
+            place: "Weymouth, Massachusetts"
+            spouse: "Asenath &#8220;Anna&#8221; Humphrey"
+        death:
+          date: "1871"
+        burial:
+          place: "Fairmount Cemetery   Weymouth, Massachusetts"
+      - name: Sally Vining
+        birth:
+          date: 3 November 1799
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 30 January 1817
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Chandler Robins Gurney
+      - name: Spencer Vining
+        entryId: Spencer01
+        entryLetter: S
+        birth:
+          date: 15 August 1801
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 14 October 1824
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Sarah E. Porter
+      - name: Susan Vining
+        birth:
+          date: 20 June 1803
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 22 November 1827
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: "Belus Clift (of Medford, Massachusetts)"
+      - name: Charlotte Vining
+        birth:
+          date: ca. 1805
+        death:
+          date: 4 April 1807
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Evelina Vining
+        birth:
+          date: 16 January 1807
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 18 September 1834
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: "Zacheus Harlow (of Weymouth, Massachusetts)"
+      - name: Richard Vining Jr.
+        entryId: RichardJr01
+        birth:
+          date: 29 September 1809
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 30 July 1844
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Lucretia Persons Fullerton
+        death:
+          date: 2 September 1888
+          place: "Abington, Plymouth County, Massachusetts"
+        burial:
+          place: "Colebrook Cemetery   Whitman, Plymouth County, Massachusetts"
+raw: |-
+  <a name="Richard02"></a><font size=+2>Richard Vining</font>
+     (son of <a href="Dfamilies.htm#David01">David Vining and Lydia Torrey</a>)
+     b. 13 October 1766   Weymouth, Massachusetts
+     m. 29 August 1793   Weymouth, Massachusetts
+           Susannah [=Sarah?] Pratt
+                 b. age 67 y. at death
+                 d. 3 December 1836   Abington, Plymouth County, Massachusetts
+     d. 17 June 1845   Abington, Plymouth County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Betsey Vining   b. 6 February 1794   Weymouth, Massachusetts   -   m. September 1816   Edmund Gurney
+     <a href="Jfamilies.htm#Josiah03">Josiah Vining</a>   b. 19 April 1796   Weymouth, Massachusetts   -   m. 18 October 1821   Abington, Plymouth County, Massachusetts   Abigail Smith Thaxter
+     <a href="Efamilies.htm#Ezra01">Ezra Vining</a>   b. 16 May 1798   Abington, Plymouth County, Massachusetts   -   m. 3 October 1821   Weymouth, Massachusetts   Asenath &#8220;Anna&#8221; Humphrey   -   d. 1871   -   bur. Fairmount Cemetery   Weymouth, Massachusetts
+     Sally Vining   b. 3 November 1799   Abington, Plymouth County, Massachusetts   -   m. 30 January 1817   Abington, Plymouth County, Massachusetts   Chandler Robins Gurney
+     <a href="Sfamilies.htm#Spencer01">Spencer Vining</a>   b. 15 August 1801   Abington, Plymouth County, Massachusetts   -   m. 14 October 1824   Abington, Plymouth County, Massachusetts   Sarah E. Porter
+     Susan Vining   b. 20 June 1803   Abington, Plymouth County, Massachusetts   -   m. 22 November 1827   Abington, Plymouth County, Massachusetts   Belus Clift (of Medford, Massachusetts)
+     Charlotte Vining   b. ca. 1805   -   d. 4 April 1807   Abington, Plymouth County, Massachusetts
+     Evelina Vining   b. 16 January 1807   Abington, Plymouth County, Massachusetts   -   m. 18 September 1834   Abington, Plymouth County, Massachusetts   Zacheus Harlow (of Weymouth, Massachusetts)
+     <a href="#RichardJr01">Richard Vining Jr.</a>   b. 29 September 1809   Abington, Plymouth County, Massachusetts   -   m. 30 July 1844   Abington, Plymouth County, Massachusetts   Lucretia Persons Fullerton   -   d. 2 September 1888   Abington, Plymouth County, Massachusetts   -   bur. Colebrook Cemetery   Whitman, Plymouth County, Massachusetts

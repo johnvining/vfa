@@ -1,0 +1,62 @@
+id: JamesW02
+sequence: 106
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamW05
+parentLetter: W
+parentDesc: William Whitfield Vining and Leacy Woodson
+head:
+  givenName: James William
+  birth:
+    date: 25 December 1849
+    place: Georgia
+  death:
+    date: 25 July 1887
+  burial:
+    place: "Fellowship Baptist Cemetery   Upson County, Georgia"
+marriages:
+  - spouse:
+      givenName: Mary Antoinette
+      surname: Starling
+      birth:
+        date: age 22 y. as of 1880 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Lizzie Vining
+        birth:
+          date: age 5 y. as of 1880 census
+          place: Georgia
+      - name: Willie Vining
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Georgia
+      - name: Walter David Vining
+        entryId: WalterD02
+        entryLetter: W
+        birth:
+          date: 26 December 1879
+          place: Georgia
+        marriages:
+          - date: Grace J. Reeves
+        death:
+          date: 17 July 1973
+        burial:
+          place: "Finchar Memorial Cemetery   Meansville, Georgia"
+docsUrl: Jsources/JamesW02doc.htm
+raw: |-
+  <a name="JamesW02"></a><font size=+2>James William Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamW05">William Whitfield Vining and Leacy Woodson</a>)
+     b. 25 December 1849   Georgia
+     m. Mary Antoinette Starling
+              b. age 22 y. as of 1880 census   Georgia
+     d. 25 July 1887
+           bur. Fellowship Baptist Cemetery   Upson County, Georgia
+  
+  <font size=+1>children:</font>
+     Lizzie Vining   b. age 5 y. as of 1880 census   Georgia
+     Willie Vining   b. age 3 y. as of 1880 census   Georgia
+     <a href="Wfamilies.htm#WalterD02">Walter David Vining</a>   b. 26 December 1879   Georgia   -   m. Grace J. Reeves   -   d. 17 July 1973   -   bur. Finchar Memorial Cemetery   Meansville, Georgia
+  
+  <a href="Jsources/JamesW02doc.htm">documentation and notes</a>

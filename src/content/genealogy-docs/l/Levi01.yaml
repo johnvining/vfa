@@ -1,0 +1,94 @@
+id: Levi01
+title: Levi Vining - Harriet F. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Levi Vining
+          values:
+            - "29"
+            - "43"
+            - "49"
+            - "59"
+            - "?"
+        - label: Harriet ([...]) Vining
+          values:
+            - "22"
+            - "33"
+            - "43"
+            - "55"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Clarence E. Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Charles Ray Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Police Jury Ward 6, Tangipahoa Parish, Louisiana - dwelling 372, family 372
+        images:
+          - src: Levi01census1910.jpg
+      - year: "1910"
+        caption: Police Jury Ward 6, Tangipahoa Parish, Louisiana - dwelling 19, family 19
+        images:
+          - src: Levi01census1910.jpg
+      - year: "1920"
+        caption: Police Jury Ward 7, Tangipahoa Parish, Louisiana - dwelling 19, family 19
+        images:
+          - src: Levi01census1920a.jpg
+          - src: Levi01census1920b.jpg
+      - year: "1930"
+        caption: >-
+          Police Jury Ward 8, Tangipahoa Parish, Louisiana - dwelling 49, family 49. Also living in this household in
+          1930 was boarder Leo R. Hunt (43 y., b. Louisiana).
+        images:
+          - src: Levi01census1930.jpg

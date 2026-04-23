@@ -1,0 +1,66 @@
+id: RoyalD01
+sequence: 167
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RalphS01
+parentDesc: Ralph Spellman Vining and Lura Baker
+head:
+  givenName: Royal Dean
+  birth:
+    date: 6 October 1938
+marriages:
+  - date: 14 May 1960
+    spouse:
+      givenName: DeAnne
+      surname: Reger
+      parents: "(dau. of Amos Reger and Isabelle Little)"
+      birth:
+        date: 12 May 1943
+      death:
+        date: 30 January 2016
+childrenGroups:
+  - children:
+      - name: Vicki Vining
+        birth:
+          date: 7 July 1961
+        marriages:
+          - date: David Catt
+      - name: Tonya Vining
+        birth:
+          date: 10 August 1962
+        marriages:
+          - date: Bradley Nielsen
+      - name: Jennifer Vining
+        birth:
+          date: 23 May 1964
+        marriages:
+          - date: 30 July 1983
+            spouse: Joseph Decker
+      - name: Jill Vining
+        birth:
+          date: 7 November 1967
+        marriages:
+          - date: Ric Donovan
+      - name: Sarah Vining
+        marriages:
+          - date: Matt Opdahl
+docsUrl: Rsources/RoyalD01doc.htm
+raw: |-
+  <a name="RoyalD01"></a><font size=+2>Royal Dean Vining</font>
+     (son of <a href="#RalphS01">Ralph Spellman Vining and Lura Baker</a>)
+     b. 6 October 1938
+     m. 14 May 1960
+           DeAnne Reger
+                 (dau. of Amos Reger and Isabelle Little)
+                 b. 12 May 1943
+                 d. 30 January 2016
+  
+  <font size=+1>children:</font>
+     Vicki Vining   b. 7 July 1961   -   m. David Catt
+     Tonya Vining   b. 10 August 1962   -   m. Bradley Nielsen
+     Jennifer Vining   b. 23 May 1964   -   m. 30 July 1983   Joseph Decker
+     Jill Vining   b. 7 November 1967   -   m. Ric Donovan
+     Sarah Vining   m. Matt Opdahl
+  
+  <a href="Rsources/RoyalD01doc.htm">documentation and notes</a>

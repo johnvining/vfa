@@ -1,0 +1,141 @@
+id: ThomasR03
+title: Thomas Roan Vining - Frances D. Conover
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Thomas Roan Vining
+          values:
+            - "23"
+            - "?"
+            - "42"
+            - "55"
+            - "63"
+            - "?"
+        - label: Frances D. (Conover) Vining
+          values:
+            - "22"
+            - "?"
+            - "41"
+            - "52"
+            - "62"
+            - "?"
+        - label: Mabel B. Vining
+          values:
+            - "3"
+            - "?"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Smith Henry Vining
+          values:
+            - "1"
+            - "?"
+            - "21"
+            - "31"
+            - "38"
+            - "?"
+          indent: true
+        - label: Leona Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Bessie King Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Daisy Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "23"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: B. Archer Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Leon A. Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "19"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Grace Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Katherine C. Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - "24"
+            - "?"
+          indent: true
+        - label: Charlotte E. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "19"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Salem (west ward), Salem County, New Jersey - dwelling 26, family 26
+        images:
+          - src: ThomasR03census1880.jpg
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: Salem (west ward), Salem County, New Jersey - dwelling 202, family 204
+        images:
+          - src: ThomasR03census1900a.jpg
+          - src: ThomasR03census1900b.jpg
+      - year: "1910"
+        caption: >-
+          Salem (west ward), Salem County, New Jersey - dwelling 283, family 286. Also living in this household in 1910
+          were Henry Doubert (boarder, 38 y., b. New Jersey) and Samuel Crist (boarder, 45 y., b. New Jersey).
+        images:
+          - src: ThomasR03census1910.jpg
+      - year: "1920"
+        caption: Salem (east ward), Salem County, New Jersey - dwelling 276, family 276
+        images:
+          - src: ThomasR03census1920.jpg

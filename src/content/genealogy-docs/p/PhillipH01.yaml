@@ -1,0 +1,121 @@
+id: PhillipH01
+title: Phillip H. Vining - (1) Mary Elizabeth LeSage; (2) Clara Hammond
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record of Phillip H. Vining and Mary Elizabeth LeSage:"
+        images:
+          - src: PhillipH01marriage1record.jpg
+      - caption: "Marriage record of Phillip H. Vining and Clara Hammond:"
+        images:
+          - src: PhillipH01marriage2recorda.jpg
+          - src: PhillipH01marriage2recordb.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Phillip H. Vining
+          values:
+            - "?"
+            - "33"
+            - "44"
+            - "53"
+            - "?"
+            - "?"
+        - label: Mary Elizabeth (LeSage) Vining
+          values:
+            - "?"
+            - "33"
+            - "?"
+            - dead
+            - ""
+        - label: Clara (Hammond) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "?"
+        - label: Francis Earl Vining
+          values:
+            - "?"
+            - "12"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ella Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Olive Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Cora Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Evelyn Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Gladys L. Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - |-
+              22
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1890"
+        caption: census data are not available
+      - year: "1900"
+        caption: Boston (Ward 4), Suffolk County, Massachusetts - dwelling [...], family 341
+        images:
+          - src: PhillipH01census1900.jpg
+      - year: "1910"
+        caption: Massachusetts State Hospital, Worcester (Ward 2), Worcester County, Massachusetts
+        images:
+          - src: PhillipH01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Northfield, Merrimack County, New Hampshire - dwelling 104, family 123. In 1920, Gladys L. was married but
+          living in household of her parents. Also living in this household in 1920 were Clarence Sea[...]wald (husband
+          of Gladys L., 25 y., b. Pennsylvania), Arline Sea[...]wald (daughter of Clarence and Gladys L., 9 m., b.
+          Massachusetts), and a Marie F. Kendack (a granddaughter of Philip and Elizabeth M. ([...]) Vining, 11 y., b.
+          New Hampshire).
+        images:
+          - src: PhillipH01census1920.jpg

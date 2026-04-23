@@ -1,0 +1,44 @@
+id: HowardC02
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: FredE02
+parentLetter: F
+parentDesc: Fred E. Vining and Mary A. Williams
+head:
+  givenName: Howard Carlton
+  birth:
+    date: 22 February 1893
+    place: Massachusetts
+  death:
+    date: "1959"
+  burial:
+    place: "Melrose Cemetery   Brockton, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Ruth E.
+      surname: "[&#8230;]"
+      birth:
+        date: age 49 y. as of 1940 census
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Meredith Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Massachusetts
+docsUrl: Hsources/HowardC02doc.htm
+raw: |-
+  <a name="HowardC02"></a><font size=+2>Howard Carlton Vining</font>
+     (son of <a href="Ffamilies.htm#FredE02">Fred E. Vining and Mary A. Williams</a>)
+     b. 22 February 1893   Massachusetts
+     m. Ruth E. [&#8230;]
+              b. age 49 y. as of 1940 census   Massachusetts
+     d. 1959
+           bur. Melrose Cemetery   Brockton, Massachusetts
+  
+  <font size=+1>child:</font>
+     Meredith Vining   b. age 9 y. as of 1940 census   Massachusetts
+  
+  <a href="Hsources/HowardC02doc.htm">documentation and notes</a>

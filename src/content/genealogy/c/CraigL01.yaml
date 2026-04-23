@@ -1,0 +1,54 @@
+id: CraigL01
+letter: C
+sequence: 166
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ClydeL01
+parentDesc: Clyde Leo Vining and Evelyn Clara Truex
+head:
+  givenName: Craig Leo
+  birth:
+    date: 22 July 1933
+    place: "Etna Green, Indiana"
+  death:
+    date: 1 November 1993
+    place: "Lehigh Acres, Florida"
+  burial:
+    place: "Fort Myers Memorial Gardens   Fort Myers, Florida"
+marriages:
+  - spouse:
+      givenName: Phyllis A.
+      surname: Struble
+      birth:
+        date: "1934"
+      death:
+        date: "1991"
+      burial:
+        place: "Fort Myers Memorial Gardens   Fort Myers, Florida"
+childrenGroups:
+  - children:
+      - name: Richard Lee Vining
+        entryId: RichardL03
+        entryLetter: R
+        birth:
+          date: 4 October 1953
+      - name: Vicki Linn Vining
+        birth:
+          date: 23 September 1956
+docsUrl: Csources/CraigL01doc.htm
+raw: |-
+  <a name="CraigL01"></a><font size=+2>Craig Leo Vining</font>
+     (son of <a href="#ClydeL01">Clyde Leo Vining and Evelyn Clara Truex</a>)
+     b. 22 July 1933   Etna Green, Indiana
+     m. Phyllis A. Struble
+              b. 1934
+              d. 1991
+                    bur. Fort Myers Memorial Gardens   Fort Myers, Florida
+     d. 1 November 1993   Lehigh Acres, Florida
+           bur. Fort Myers Memorial Gardens   Fort Myers, Florida
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RichardL03">Richard Lee Vining</a>   b. 4 October 1953
+     Vicki Linn Vining   b. 23 September 1956
+  
+  <a href="Csources/CraigL01doc.htm">documentation and notes</a>

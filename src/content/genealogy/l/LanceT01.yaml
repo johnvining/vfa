@@ -1,0 +1,45 @@
+id: LanceT01
+sequence: 2
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Bernard01
+parentLetter: B
+parentDesc: Bernard Vining and Mary Elizabeth Norton
+head:
+  givenName: Lance Thomas
+  birth:
+    date: "1947"
+marriages:
+  - date: "1972"
+    spouse:
+      givenName: Pamela Elizabeth
+      surname: Borchers
+childrenGroups:
+  - children:
+      - name: Erik Halstan Vining
+        entryId: ErikH01
+        entryLetter: E
+        marriages:
+          - date: Laurie Fosdick
+      - name: Torbin Michelson Vining
+        birth:
+          date: ca. 1970
+          place: Georgia
+      - name: Ingvar Kristian Vining
+        birth:
+          date: 6 April 1977
+docsUrl: Lsources/LanceT01doc.htm
+raw: |-
+  <a name="LanceT01"></a><font size=+2>Lance Thomas Vining</font>
+     (son of <a href="Bfamilies.htm#Bernard01">Bernard Vining and Mary Elizabeth Norton</a>)
+     b. 1947
+     m. 1972
+           Pamela Elizabeth Borchers
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#ErikH01">Erik Halstan Vining</a>   m. Laurie Fosdick
+     Torbin Michelson Vining   b. ca. 1970   Georgia
+     Ingvar Kristian Vining   b. 6 April 1977
+  
+  <a href="Lsources/LanceT01doc.htm">documentation and notes</a>

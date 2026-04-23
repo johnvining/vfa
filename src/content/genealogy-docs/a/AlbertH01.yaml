@@ -1,0 +1,95 @@
+id: AlbertH01
+title: Albert Helon Vining - Lillie (Quillan) Vining
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Albert Helon Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - "?"
+            - "?"
+        - label: Lillie (Quillan) Vining
+          values:
+            - "30"
+            - "41"
+            - "50"
+            - "?"
+            - "?"
+        - label: Lamar Alexander Vining
+          values:
+            - "8"
+            - "18"
+            - "27"
+            - "?"
+            - "?"
+          indent: true
+        - label: Belle Vining
+          values:
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Sallie Vining
+          values:
+            - "4"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Willie May Vining
+          values:
+            - "2"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Tye Quillion Vining
+          values:
+            - 1 month
+            - "10"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Louise Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: (East) Dalton, Whitfield County, Georgia - dwelling 279, family 294
+        images:
+          - src: AlbertH01census1900.jpg
+      - year: "1910"
+        caption: Civil District 5, Hamilton County, Tennessee - dwelling 313, family 330
+        images:
+          - src: AlbertH01census1910.jpg
+      - year: "1920"
+        caption: Civil District 2, Hamilton County, Tennessee - dwelling 26, family 27
+        images:
+          - src: AlbertH01census1920.jpg

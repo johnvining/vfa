@@ -1,0 +1,40 @@
+id: GeorgeA03
+letter: G
+sequence: 13
+lastUpdated: 22 July 2022
+relationship: son
+parentId: GeorgeH03
+parentDesc: George Henry Vining and Edith Christina Schmook
+head:
+  givenName: George Allen
+  birth:
+    date: 24 March 1949
+    place: "Brockton, Massachusetts"
+  death:
+    date: 6 July 2017
+  burial:
+    place: "Center Cemetery   Pembroke, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Lori-Jean
+      surname: Perry
+childrenGroups:
+  - children:
+      - name: Stephen Vining
+      - name: David Vining
+      - name: Trisha Vining
+docsUrl: Gsources/GeorgeA03doc.htm
+raw: |-
+  <a name="GeorgeA03"></a><font size=+2>George Allen Vining</font>
+     (son of <a href="#GeorgeH03">George Henry Vining and Edith Christina Schmook</a>)
+     b. 24 March 1949   Brockton, Massachusetts
+     m. Lori-Jean Perry
+     d. 6 July 2017
+           bur. Center Cemetery   Pembroke, Massachusetts
+  
+  <font size=+1>children:</font>
+     Stephen Vining
+     David Vining
+     Trisha Vining
+  
+  <a href="Gsources/GeorgeA03doc.htm">documentation and notes</a>

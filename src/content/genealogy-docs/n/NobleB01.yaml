@@ -1,0 +1,48 @@
+id: NobleB01
+title: Noble Barnes Vining - Nannie H. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Noble Barnes Vining
+          values:
+            - "28"
+            - "?"
+            - "47"
+        - label: Nannie H. ([…]) Vining
+          values:
+            - "26"
+            - "?"
+            - "47"
+        - label: Noble Barnes Vining Jr.
+          values:
+            - 1 y., 7 m.
+            - "?"
+            - "21"
+          indent: true
+        - label: Briscoe H. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Atlanta (ward 5), Fulton County, Georgia - dwelling 294, family 327
+        images:
+          - src: NobleB01census1920.jpg
+      - year: "1940"
+        caption: Atlanta, Fulton County, Georgia
+        images:
+          - src: NobleB01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I draft registration card for Noble Barnes Vining:"
+        images:
+          - src: NobleB01WWIregistrationcarda.jpg
+          - src: NobleB01WWIregistrationcardb.jpg
+        inline: true

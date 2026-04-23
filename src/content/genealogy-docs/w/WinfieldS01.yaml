@@ -1,0 +1,93 @@
+id: WinfieldS01
+title: Winfield Scott Vining - Estelle Miles
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Winfield Scott Vining
+          values:
+            - "20"
+            - "30"
+            - "?"
+            - "50"
+            - "?"
+            - dead
+        - label: Estelle (Miles) Vining
+          values:
+            - "24"
+            - "31"
+            - "?"
+            - "54"
+            - "?"
+            - "?"
+        - label: Arthur Vining
+          values:
+            - 3 months
+            - "10"
+            - "?"
+            - "30"
+            - "?"
+            - "?"
+          indent: true
+        - label: Roswell S. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "[see note below]"
+            - ""
+            - ""
+          indent: true
+        - label: Leonard B. Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Willard B. Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "24"
+            - "?"
+            - "?"
+          indent: true
+        - label: Raymond E. Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Jewett, Greene County, New York - dwelling 148, family 158. Also living in this household in 1870 was Dora
+          Miles (17 y., b. New York, a domestic) and Lemuel Vining (16 y., b. New York, a farm laborer).
+        images:
+          - src: WinfieldS01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Jewett, Greene County, New York - dwelling 3, family 3. Also living in this household in 1880 was Ada Miles
+          (22 y., b. New York, a school teacher).
+        images:
+          - src: WinfieldS01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Jewett, Greene County, New York - dwelling 145, family 159. In 1900, Roswell S. Vining was living with Stephen
+          T. Vining (his uncle).
+        images:
+          - src: WinfieldS01census1900.jpg

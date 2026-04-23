@@ -1,0 +1,30 @@
+id: HiramG01
+title: Hiram Grady Vining - Lois E. Fallin
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Hiram Grady Vining
+          values:
+            - "32"
+        - label: Lois E. (Fallin) Vining
+          values:
+            - "26"
+        - label: Doris Vining
+          values:
+            - "7"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Atwater, Upson County, Georgia
+        images:
+          - src: HiramG01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Hiram Grady Vining and Lois E. (Fallin) Vining, in Upson Memorial Garden, Thomaston, Upson
+          County, Georgia (from Find A Grave):
+        images:
+          - src: HiramG01andwifeheadstone.jpg

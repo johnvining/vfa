@@ -1,0 +1,60 @@
+id: JohnG01
+sequence: 228
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisJ01
+parentLetter: F
+parentDesc: Francis Jefferson Vining and Falba J. Starling
+head:
+  givenName: John Gordon
+  birth:
+    date: 13 March 1874
+    place: "Thomaston, Georgia"
+  death:
+    date: 26 July 1954
+    place: "Thomaston, Georgia"
+  burial:
+    place: "Southview Cemetery   Thomaston, Georgia"
+marriages:
+  - spouse:
+      givenName: Beulah
+      surname: Turner
+      parents: (dau. of Joseph G. Turner and Ella Barrn)
+      birth:
+        date: 12 March 1882
+        place: "Thomaston, Georgia"
+      death:
+        date: 25 February 1983
+        place: "Thomaston, Georgia"
+      burial:
+        place: "Southview Cemetery   Thomaston, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Mary Vining
+        birth:
+          date: 31 January 1904
+        marriages:
+          - date: "[...] Mitcham"
+        death:
+          date: 29 October 1998
+        burial:
+          place: "Southview Cemetery   Thomaston, Georgia"
+docsUrl: Jsources/JohnG01doc.htm
+raw: |-
+  <a name="JohnG01"></a><font size=+2>John Gordon Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisJ01">Francis Jefferson Vining and Falba J. Starling</a>)
+     b. 13 March 1874   Thomaston, Georgia
+     m. Beulah Turner
+              (dau. of Joseph G. Turner and Ella Barrn)
+              b. 12 March 1882   Thomaston, Georgia
+              d. 25 February 1983   Thomaston, Georgia
+                    bur. Southview Cemetery   Thomaston, Georgia
+     d. 26 July 1954   Thomaston, Georgia
+           bur. Southview Cemetery   Thomaston, Georgia
+  
+  <font size=+1>child:</font>
+     Mary Vining   b. 31 January 1904   -   m. [...] Mitcham   -   d. 29 October 1998   -   bur. Southview Cemetery   Thomaston, Georgia
+  
+  <a href="Jsources/JohnG01doc.htm">documentation and notes</a>

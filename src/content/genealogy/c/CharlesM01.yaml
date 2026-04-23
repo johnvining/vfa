@@ -1,0 +1,50 @@
+id: CharlesM01
+letter: C
+sequence: 88
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EmetJ01
+parentLetter: E
+parentDesc: Emet James Vining and Mary Cecilia Mayer
+head:
+  givenName: Charles Mayer
+  birth:
+    date: "[17 September 1905 or 9 September 1904   Iowa?]"
+  death:
+    date: 13 June 1967
+    place: "Atlanta, Georgia"
+marriages:
+  - number: 1
+    date: Jimmie Earline Breckenridge
+  - number: 2
+    date: Christine Woods
+childrenGroups:
+  - spouseRef: Jimmie Breckenridge
+    headingText: children by Jimmie Breckenridge
+    children:
+      - name: Charline Vining
+        birth:
+          date: 14 October 1923
+        marriages:
+          - date: Sam McDonald
+      - name: James Allen Vining
+        entryId: JamesA02
+        entryLetter: J
+        birth:
+          date: 26 August 1928
+        marriages:
+          - date: Sarah Thornton
+        death:
+          date: 7 January 2018
+          place: "Meridian, Mississippi"
+raw: |-
+  <a name="CharlesM01"></a><font size=+2>Charles Mayer Vining</font>
+     (son of <a href="Efamilies.htm#EmetJ01">Emet James Vining and Mary Cecilia Mayer</a>)
+     b. [17 September 1905 or 9 September 1904   Iowa?]
+     m. (1) Jimmie Earline Breckenridge
+           (2) Christine Woods
+     d. 13 June 1967   Atlanta, Georgia
+  
+  <font size=+1>children by Jimmie Breckenridge:</font>
+     Charline Vining   b. 14 October 1923   -   m. Sam McDonald
+     <a href="Jfamilies.htm#JamesA02">James Allen Vining</a>   b. 26 August 1928   -   m. Sarah Thornton   -   d. 7 January 2018   Meridian, Mississippi

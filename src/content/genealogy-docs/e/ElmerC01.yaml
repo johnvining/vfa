@@ -1,0 +1,90 @@
+id: ElmerC01
+title: Elmer Chandler Vining - Lelia Madge Day
+displayTitle: Elmer Chandler - Lelia Madge Day
+intro:
+  - caption: "Elmer Chandler Vining and Lelia Madge (Day) Vining:"
+    images:
+      - src: ElmerC01image.jpg
+        height: 400
+      - src: ElmerC01wifeimage.jpg
+        height: 400
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Elmer Chandler Vining and Lelia Madge Day:"
+        images:
+          - src: ElmerC01andwifemarriagerec1.jpg
+          - src: ElmerC01andwifemarriagerec2.jpg
+      - caption: >-
+          Marriage certificate for Elmer Chandler Vining and Lelia Madge Day. Note that the spelling of her first name
+          on the marriage certificate is "Leila". She usually went by Madge, but when she used her first name, she
+          spelled it Lelia as on her marriage record (above) and death certificate (below).
+        images:
+          - src: ElmerC01andwifemarrcert.jpg
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Elmer Chandler Vining
+          values:
+            - "38"
+            - "49"
+            - "59"
+            - "69"
+        - label: Lelia Madge (Day) Vining
+          values:
+            - "21"
+            - "30"
+            - "41"
+            - "51"
+        - label: Mildred Enid Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - married and living in separate household
+          indent: true
+        - label: Thomas Frank Vining
+          values:
+            - ""
+            - 0 months
+            - "10"
+            - "20"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Rockport, Knox County, Maine - dwelling 34, family 35
+        images:
+          - src: ElmerC01census1910.jpg
+      - year: "1920"
+        caption: Boothbay Harbor, Lincoln County, Maine - dwelling 378, family 394
+        images:
+          - src: ElmerC01census1920.jpg
+      - year: "1930"
+        caption: Enfield, Penobscot County, Maine - dwelling 111, family 124
+        images:
+          - src: ElmerC01census1930.jpg
+      - year: "1940"
+        caption: Corinna, Penobscot County, Maine
+        images:
+          - src: ElmerC01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Elmer Chandler Vining:"
+        images:
+          - src: ElmerC01obit.jpg
+      - caption: "Gravestone for Elmer Chandler Vining, in Evergreen Cemetery, Phillips, Franklin County, Maine:"
+        images:
+          - src: ElmerC01gravestone.jpg
+            height: 400
+      - caption: "Death certificate for Lelia Madge (Day) Vining:"
+        images:
+          - src: ElmerC01wifedeathcert.jpg
+      - caption: "Gravestone for Lelia Madge (Day) Vining, in Evergreen Cemetery, Phillips, Franklin County, Maine:"
+        images:
+          - src: ElmerC01wifegravestone.jpg
+            height: 400

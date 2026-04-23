@@ -1,0 +1,25 @@
+id: EssexA01
+title: Essex Abbott Vining - Miriam C. French
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Essex Abbott Vining
+          values:
+            - "25"
+        - label: Sarah Jane (Ewell) Vining
+          values:
+            - "35"
+        - label: Walter Dean Vining
+          values:
+            - "7"
+            - Robert Vining
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Raymond, Rockingham County, New Hampshire
+        images:
+          - src: EssexA01census1940.jpg

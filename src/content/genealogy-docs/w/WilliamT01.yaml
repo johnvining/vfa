@@ -1,0 +1,80 @@
+id: WilliamT01
+title: William Thomas Vining - Jane Hunter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: William Thomas Vining
+          values:
+            - "21"
+            - "31"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Jane (Hunter) Vining
+          values:
+            - "18"
+            - "24"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Micajah Sutton Vining
+          values:
+            - "1"
+            - "11"
+            - |-
+              21
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nancy Evaline “Eva” Vining
+          values:
+            - ""
+            - ""
+            - |-
+              8
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Elvira Harris Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Cumberland District, Cumberland County, Kentucky - dwelling 452, family 452. Also living in this household in
+          1850 was John Burnham (20 y., b. Kentucky).
+        images:
+          - src: WilliamT01census1850a.jpg
+          - src: WilliamT01census1850b.jpg
+      - year: "1860"
+        caption: District 1, Cumberland County, Kentucky - dwelling 373, family 373
+        images:
+          - src: WilliamT01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Whetstone Precinct, Cumberland County, Kentucky - dwelling 78, family 77. By 1870, both William Thomas Vining
+          and Jane (Hunter) Vining were dead, and their two surviving children were living in the household of a
+          Gutherie couple.
+        images:
+          - src: WilliamT01census1870a.jpg
+          - src: WilliamT01census1870b.jpg

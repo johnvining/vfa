@@ -1,0 +1,39 @@
+id: FredP01
+title: Fred P. Vining - Jennie C. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1400"
+      rows:
+        - label: Fred P. Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Jennie C. ([…]) Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Edward P. Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Lynn (ward 5), Essex County, Massachusetts - dwelling 10, family 13
+        images:
+          - src: FredP01census1900.jpg

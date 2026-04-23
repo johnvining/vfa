@@ -1,0 +1,78 @@
+id: ClarenceR01
+title: Clarence Russell Vining and Myrtle Ella Tomblin
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Clarence Russell Vining
+          values:
+            - "36"
+            - "?"
+        - label: Myrtle Ella (Tomblin) Vining
+          values:
+            - "29"
+            - "?"
+        - label: Pauline Vining
+          values:
+            - "7"
+            - "?"
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - "5"
+            - "?"
+          indent: true
+        - label: Malcolm T. Vining
+          values:
+            - 4 y., [?] m.
+            - "?"
+          indent: true
+        - label: Helen Vining
+          values:
+            - "[?]"
+            - "?"
+          indent: true
+        - label: Kenneth E. Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+        - label: Donald P. Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+        - label: Daniel W. Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+        - label: Joyce Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+        - label: Delores Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+        - label: Sara Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Bozeman (Militia District 921), Muscogee County, Georgia - dwelling 681, family 701
+        images:
+          - src: ClarenceR01census1930a.jpg
+          - src: ClarenceR01census1930b.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Clarence Russell Vining:"
+        images:
+          - src: ClarenceR01obituary.jpg

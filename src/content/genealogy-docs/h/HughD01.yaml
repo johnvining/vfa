@@ -1,0 +1,39 @@
+id: HughD01
+title: Hugh Dorsey Vining - Frances Graddy
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Hugh Dorsey Vining
+          values:
+            - "23"
+        - label: Frances (Graddy) Vining
+          values:
+            - "20"
+        - label: Rawles Leroy Vining
+          values:
+            - "5"
+          indent: true
+        - label: Collis Linwood Vining
+          values:
+            - "2"
+          indent: true
+        - label: Shirley Vining
+          values:
+            - "1"
+          indent: true
+        - label: Peggy Vining
+          values:
+            - "2"
+          indent: true
+        - label: Marcia Vining
+          values:
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Militia District 1068, Spalding County, Georgia
+        images:
+          - src: HughD01census1940.jpg

@@ -1,0 +1,45 @@
+id: CharlesJ01
+letter: C
+sequence: 80
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Charles09
+parentDesc: Charles Vining and Mary Meredith
+head:
+  givenName: Charles Joseph
+  birth:
+    date: 17 March 1809
+  death:
+    date: 3 July 1869
+marriages:
+  - number: 1
+    date: "1836"
+    spouse:
+      givenName: Matilda Himmet
+      surname: Brodrib
+  - number: 2
+    date: "1841"
+    spouse:
+      givenName: Anne
+      surname: Whitaker
+childrenGroups:
+  - children:
+      - name: Charles Joseph Henry Vining
+        birth:
+          date: ca. 1837
+      - name: Henry Vining
+      - name: Fanny Vining
+raw: |-
+  <a name="CharlesJ01"></a><font size=+2>Charles Joseph Vining</font>
+     (son of <a href="#Charles09">Charles Vining and Mary Meredith</a>)
+     b. 17 March 1809
+     m. (1) 1836
+                 Matilda Himmet Brodrib
+           (2) 1841
+                 Anne Whitaker
+     d. 3 July 1869
+  
+  <font size=+1>children:</font>
+     Charles Joseph Henry Vining   b. ca. 1837
+     Henry Vining
+     Fanny Vining

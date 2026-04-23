@@ -1,0 +1,50 @@
+id: RichardE01
+title: Richard Emet Vining - Bertie Lee Flowers
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Richard Emet Vining
+          values:
+            - "28"
+        - label: Bertie Lee (Flowers) Vining
+          values:
+            - "19"
+        - label: Barbara Allen Vining
+          values:
+            - "1"
+          indent: true
+        - label: Brenda Joyce Vining
+          values:
+            - ""
+          indent: true
+        - label: (Mildred) Diane Vining
+          values:
+            - ""
+          indent: true
+        - label: Cynthia Teresa Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Meridian (ward 6), Lauderdale County, Mississippi.
+        images:
+          - src: RichardE01census1940.jpg
+  - type: other
+    items:
+      - caption: ">"
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Richard Emet Vining and Bertie Lee Flowers, in Pine Crest Cemetery, Mobile, Mobile County,
+          Alabama (from Find A Grave):
+        images:
+          - src: RichardE01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Brenda Joyce (Vining) Kirkland, daughter of Richard Emet Vining and Bertie Lee (Flowers)
+          Vining, in Serenity Memorial Gardens, Theodore, Mobile County, Alabama (from Find A Grave):
+        images:
+          - src: RichardE01dauBrendagravestone.jpg

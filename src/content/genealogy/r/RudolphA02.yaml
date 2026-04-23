@@ -1,0 +1,68 @@
+id: RudolphA02
+sequence: 169
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: AlcideJ01
+parentLetter: A
+parentDesc: Alcide Joseph Vining and Ophelia Breaux
+head:
+  givenName: Rudolph Adam
+  birth:
+    date: January 1899
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: "[&#8230;]"
+      birth:
+        date: age 23 y. as of 1930 census
+        place: Louisiana
+childrenGroups:
+  - children:
+      - name: Milton Vining
+        birth:
+          date: age 6 y. as of 1930 census
+          place: Louisiana
+        marriages:
+          - date: "Hazel [&#8230;]"
+      - name: Verna Vining
+        birth:
+          date: age 3 y. as of 1930 census
+          place: Louisiana
+        marriages:
+          - date: Johnny Crapell
+      - name: Woodzay Joseph Vining
+        entryId: WoodzayJ01
+        entryLetter: W
+        birth:
+          date: 1 November 1929
+          place: "Morgan City, Louisiana"
+        marriages:
+          - date: Ave Lee David
+        death:
+          date: 20 July 2020
+      - name: Amy Vining
+        birth:
+          date: age 8 y. as of 1940 census
+        marriages:
+          - date: Fred Luchsinger
+      - name: Leonia Eva Vining
+        death:
+          date: infant
+docsUrl: Rsources/RudolphA02doc.htm
+raw: |-
+  <a name="RudolphA02"></a><font size=+2>Rudolph Adam Vining</font>
+     (son of <a href="Afamilies.htm#AlcideJ01">Alcide Joseph Vining and Ophelia Breaux</a>)
+     b. January 1899   Louisiana
+     m. Mary [&#8230;]
+              b. age 23 y. as of 1930 census   Louisiana
+  
+  <font size=+1>children:</font>
+     Milton Vining   b. age 6 y. as of 1930 census   Louisiana   -   m. Hazel [&#8230;]
+     Verna Vining   b. age 3 y. as of 1930 census   Louisiana   -   m. Johnny Crapell
+     <a href="Wfamilies.htm#WoodzayJ01">Woodzay Joseph Vining</a>   b. 1 November 1929   Morgan City, Louisiana   -   m. Ave Lee David   -   d. 20 July 2020
+     Amy Vining   b. age 8 y. as of 1940 census   -   m. Fred Luchsinger
+     Leonia Eva Vining   d. infant
+  
+  <a href="Rsources/RudolphA02doc.htm">documentation and notes</a>

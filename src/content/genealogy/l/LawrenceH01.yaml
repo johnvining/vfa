@@ -1,0 +1,55 @@
+id: LawrenceH01
+sequence: 15
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Howard02
+parentLetter: H
+parentDesc: Howard Vining and Rose Gross
+head:
+  givenName: Lawrence H.
+  birth:
+    date: 4 August 1924
+  death:
+    date: 12 September 2013
+    place: Illinois
+  burial:
+    place: "Kankakee Memorial Gardens and Chapel Mausoleum   Kankakee, Illinois"
+marriages:
+  - date: 2 August 1947
+    place: "Kankakee, Illinois"
+    spouse:
+      givenName: Mary Eleanor
+      surname: Eastman
+      parents: (dau. of Earl Eastman and Mary Kime)
+      birth:
+        date: 30 June 1927
+        place: "Dwight, Illinois"
+      death:
+        date: 23 August 2015
+childrenGroups:
+  - children:
+      - name: Lana Kay Vining
+        marriages:
+          - date: Gregory Rood
+      - name: Jeffery Lawrence Vining
+        marriages:
+          - date: "Sheri [&#8230;]"
+docsUrl: Lsources/LawrenceH01doc.htm
+raw: |-
+  <a name="LawrenceH01"></a><font size=+2>Lawrence H. Vining</font>
+     (son of <a href="Hfamilies.htm#Howard02">Howard Vining and Rose Gross</a>)
+     b. 4 August 1924
+     m. 2 August 1947   Kankakee, Illinois
+           Mary Eleanor Eastman
+                 (dau. of Earl Eastman and Mary Kime)
+                 b. 30 June 1927   Dwight, Illinois
+                 d. 23 August 2015
+     d. 12 September 2013   Illinois
+           bur. Kankakee Memorial Gardens and Chapel Mausoleum   Kankakee, Illinois
+  
+  <font size=+1>children:</font>
+     Lana Kay Vining   m. Gregory Rood
+     Jeffery Lawrence Vining   m. Sheri [&#8230;]
+  
+  <a href="Lsources/LawrenceH01doc.htm">documentation and notes</a>

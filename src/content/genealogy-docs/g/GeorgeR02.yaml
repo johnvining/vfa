@@ -1,0 +1,125 @@
+id: GeorgeR02
+title: George R. Vining - Sarah E. Hitchcock
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: George R. Vining
+          values:
+            - "26"
+            - "36"
+            - "47"
+            - "?"
+            - "67"
+            - dead
+        - label: Sarah E. (Hitchcock) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "?"
+            - "61"
+            - dead
+        - label: Etta J. Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Hattie Della Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Willie Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William H. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George C. Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles S. Vining
+          values:
+            - ""
+            - ""
+            - 4 m.
+            - "?"
+            - "20"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Springfield, Hampden County, Massachusetts - dwelling 2377, family 2573
+        images:
+          - src: GeorgeR02census1860.jpg
+      - year: "1870"
+        caption: Springfield (ward 2), Hampden County, Massachusetts - dwelling 514, family 689
+        images:
+          - src: GeorgeR02census1870.jpg
+      - year: "1880"
+        caption: Springfield, Hampden County, Massachusetts - dwelling 214, family 246
+        images:
+          - src: GeorgeR02census1880.jpg
+      - year: "1900"
+        caption: Springfield (ward 5; Oak Street), Hampden County, Massachusetts - dwelling 38, family 45
+        images:
+          - src: GeorgeR02census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for George R. Vining, Sarah E. (Hitchcock) Vining, and three children, in Springfield Cemetery,
+          Springfield, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: GeorgeR02familyheadstone.jpg

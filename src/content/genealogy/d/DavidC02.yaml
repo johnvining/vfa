@@ -1,0 +1,54 @@
+id: DavidC02
+sequence: 43
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JesseM01
+parentLetter: J
+parentDesc: Jesse Minyard Vining and Callie Elizabeth Wofford
+head:
+  givenName: David C.
+  birth:
+    date: 21 December 1924
+  death:
+    date: 2 February 1957
+  burial:
+    place: "Larissa Cemetery   Mount Selman, Texas"
+marriages:
+  - spouse:
+      givenName: Inez
+      surname: Brown
+      parents: "(dau. of G. Brown and [...])"
+      birth:
+        date: 18 August 1931
+      death:
+        date: 2 February 1957
+      burial:
+        place: "Larissa Cemetery   Mount Selman, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Clay Vining
+        birth:
+          date: 14 December 1948
+        death:
+          date: 2 February 1957
+        burial:
+          place: "Larissa Cemetery   Mount Selman, Texas"
+docsUrl: Dsources/DavidC02doc.htm
+raw: |-
+  <a name="DavidC02"></a><font size=+2>David C. Vining</font>
+     (son of <a href="Jfamilies.htm#JesseM01">Jesse Minyard Vining and Callie Elizabeth Wofford</a>)
+     b. 21 December 1924
+     m. Inez Brown
+              (dau. of G. Brown and [...])
+              b. 18 August 1931
+              d. 2 February 1957
+                    bur. Larissa Cemetery   Mount Selman, Texas
+     d. 2 February 1957
+           bur. Larissa Cemetery   Mount Selman, Texas
+  
+  <font size=+1>child:</font>
+     Clay Vining   b. 14 December 1948   -   d. 2 February 1957   -   bur. Larissa Cemetery   Mount Selman, Texas
+  
+  <a href="Dsources/DavidC02doc.htm">documentation and notes</a>

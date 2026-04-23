@@ -1,0 +1,54 @@
+id: DavidIII01
+sequence: 36
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: DavidJr01
+parentDesc: David Vining Jr. and Lydia Hunt
+head:
+  givenName: David III
+  birth:
+    date: 25 November 1806
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 8 October 1829
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: "Lucy [Eldredge or Eldridge?]"
+      surname: White
+      parents: "(dau. of Jonathan White and Mary &#8220;Polly&#8221; Loud)"
+      birth:
+        date: 9 April 1806
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: "1875"
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Sarah Jackson Vining
+        birth:
+          date: 4 July 1836
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 22 November 1852
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Lorenzo Poole
+        death:
+          date: "[16 or 10?] May 1876"
+          place: "Weymouth, Norfolk County, Massachusetts"
+docsUrl: Dsources/DavidIII01doc.htm
+raw: |-
+  <a name="DavidIII01"></a><font size=+2>David Vining III</font>
+     (son of <a href="#DavidJr01">David Vining Jr. and Lydia Hunt</a>)
+     b. 25 November 1806   Weymouth, Norfolk County, Massachusetts
+     m. 8 October 1829   Weymouth, Norfolk County, Massachusetts
+           Lucy [Eldredge or Eldridge?] White
+                 (dau. of Jonathan White and Mary &#8220;Polly&#8221; Loud)
+                 b. 9 April 1806   Weymouth, Norfolk County, Massachusetts
+                 d. 1875   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>child:</font>
+     Sarah Jackson Vining   b. 4 July 1836   Weymouth, Norfolk County, Massachusetts   -   m. 22 November 1852   Weymouth, Norfolk County, Massachusetts   Lorenzo Poole   -   d. [16 or 10?] May 1876   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Dsources/DavidIII01doc.htm">documentation and notes</a>

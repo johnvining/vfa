@@ -1,0 +1,37 @@
+id: ThomasW01
+letter: T
+sequence: 59
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Daniel01
+parentLetter: D
+parentDesc: Daniel Vining and Deborah Waters
+head:
+  givenName: Thomas W.
+  birth:
+    date: 26 May 1821
+    place: "Salem, Maine"
+marriages:
+  - date: 1 May 1845
+    place: "Lynn, Massachusetts"
+    spouse:
+      givenName: "[Martha [...] or Mary E."
+      surname: "Lye?]"
+childrenGroups:
+  - children:
+      - name: Lucinda Vining
+        birth:
+          date: ca. 1854
+      - name: Elizabeth Vining
+        birth:
+          date: ca. 1860
+raw: |-
+  <a name="ThomasW01"></a><font size=+2>Thomas W. Vining</font>
+     (son of <a href="Dfamilies.htm#Daniel01">Daniel Vining and Deborah Waters</a>)
+     b. 26 May 1821   Salem, Maine
+     m. 1 May 1845   Lynn, Massachusetts
+           [Martha [...] or Mary E. Lye?]
+  
+  <font size=+1>children:</font>
+     Lucinda Vining   b. ca. 1854
+     Elizabeth Vining   b. ca. 1860

@@ -1,0 +1,70 @@
+id: RoswellS01
+title: Roswell S. Vining - Julia Hitchcock
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roswell S. Vining
+          values:
+            - "28"
+            - "38"
+            - "48"
+            - "58"
+            - "?"
+        - label: Julia (Hitchcock) Vining
+          values:
+            - ""
+            - "34"
+            - "44"
+            - "54"
+            - "?"
+        - label: Scott Osborn Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - living in separate household
+            - "?"
+          indent: true
+        - label: Robert Lucius Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - living in separate household
+            - "?"
+          indent: true
+        - label: Alfred William Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - living in separate household
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Hensonville, Greene County, New York - dwelling 145, family 165. In 1900, Roswell S. Vining was living in the
+          household of Stephen T. Vining (his uncle).
+        images:
+          - src: RoswellS01census1900.jpg
+      - year: "1910"
+        caption: Windham, Greene County, New York - dwelling 111, family 128
+        images:
+          - src: RoswellS01census1910a.jpg
+          - src: RoswellS01census1910b.jpg
+      - year: "1920"
+        caption: Windham, Greene County, New York - dwelling 243, family 337
+        images:
+          - src: RoswellS01census1920.jpg
+      - year: "1930"
+        caption: Windham, Greene County, New York - dwelling 51, family 57
+        images:
+          - src: RoswellS01census1930.jpg

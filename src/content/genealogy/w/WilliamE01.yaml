@@ -1,0 +1,76 @@
+id: WilliamE01
+sequence: 89
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John11
+parentLetter: J
+parentDesc: John Vining and Lucinda Farber
+head:
+  givenName: William Elmer
+  birth:
+    date: "1867"
+  death:
+    date: "1944"
+  burial:
+    place: "Deaver Cemetery   Nebraska"
+marriages:
+  - number: 1
+    date: Anzina Figley (Morrison)
+  - number: 2
+    date: Bertha Woodruff
+    spouse:
+      birth:
+        date: "1875"
+      death:
+        date: "1968"
+      burial:
+        place: "Deaver Cemetery   Nebraska"
+childrenGroups:
+  - headingText: child by Anzina Figley (Morrison)
+    children:
+      - name: Elton Cassius Vining
+        entryId: EltonC01
+        entryLetter: E
+        birth:
+          date: 22 August 1890
+          place: "Rockford, Ohio"
+        marriages:
+          - number: 1
+            date: 31 January 1912
+            spouse: "Anna Banta (d. 1947)"
+          - number: 2
+            date: Lou Weimer (Ellis)
+        death:
+          date: 22 April 1960
+          place: "Willshire, Ohio"
+        burial:
+          place: "Willshire Cemetery   Wilshire, Ohio"
+  - headingText: child by Bertha Woodruff
+    children:
+      - name: Veryl Vining
+        birth:
+          date: "1893"
+        death:
+          date: "1894"
+        burial:
+          place: "Deaver Cemetery   Nebraska"
+docsUrl: Wsources/WilliamE01doc.htm
+raw: |-
+  <a name="WilliamE01"></a><font size=+2>William Elmer Vining</font>
+     (son of <a href="Jfamilies.htm#John11">John Vining and Lucinda Farber</a>)
+     b. 1867
+     m. (1) Anzina Figley (Morrison)
+           (2) Bertha Woodruff
+                    b. 1875
+                    d. 1968
+                          bur. Deaver Cemetery   Nebraska
+     d. 1944
+           bur. Deaver Cemetery   Nebraska
+
+  <font size=+1>child by Anzina Figley (Morrison):</font>
+     <a href="Efamilies.htm#EltonC01">Elton Cassius Vining</a>   b. 22 August 1890   Rockford, Ohio   -   m. (1) 31 January 1912   Anna Banta (d. 1947);   (2) Lou Weimer (Ellis)   -   d. 22 April 1960   Willshire, Ohio   -   bur. Willshire Cemetery   Wilshire, Ohio
+  <font size=+1>child by Bertha Woodruff:</font>
+     Veryl Vining   b. 1893   -   d. 1894   -   bur. Deaver Cemetery   Nebraska
+
+  <a href="Wsources/WilliamE01doc.htm">documentation and notes</a>

@@ -1,0 +1,24 @@
+id: Warren02
+sequence: 29
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Warren
+marriages:
+  - spouse:
+      givenName: Jill
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Sheridan Vining
+      - name: Callum Vining
+raw: |-
+  <a name="Warren02"></a><font size=+2>Warren Vining</font>
+     (son of [?])
+     m. Jill [...]
+  
+  <font size=+1>children:</font>
+     Sheridan Vining
+     Callum Vining

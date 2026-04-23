@@ -1,0 +1,59 @@
+id: RoscoeW01
+title: Roscoe William Vining - Addie Sanders
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roscoe William Vining
+          values:
+            - "28"
+            - "37"
+            - "47"
+            - "?"
+            - "?"
+        - label: Addie (Sanders) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "?"
+            - "?"
+        - label: Eunice S. Vining
+          values:
+            - "2"
+            - "12"
+            - "22"
+            - "?"
+            - "?"
+          indent: true
+        - label: Helena A. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Ellisburg, Jefferson County, New York - dwelling 192, family 205
+        images:
+          - src: RoscoeW01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Chicago (ward 7), Cook County, Illinois - dwelling 202, family 441. Also living in this household in 1910 was
+          Elizabeth Sanders (62 y., b. New York), the widowed mother of Addie Sanders.
+        images:
+          - src: RoscoeW01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Cambridge, Middlesex County, Massachusetts - dwelling 261, family 469. Also living in this household in 1920
+          was Maud McKenna (20 y., b. England).
+        images:
+          - src: RoscoeW01census1920.jpg

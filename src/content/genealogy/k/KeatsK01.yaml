@@ -1,0 +1,70 @@
+id: KeatsK01
+letter: K
+sequence: 3
+lastUpdated: 24 July 2022
+relationship: son
+parentId: CaryW01
+parentLetter: C
+parentDesc: Cary Warren Vining and Mary E. Kendall
+head:
+  givenName: Keats Kendall
+  birth:
+    date: 15 July 1889
+    place: Michigan
+  death:
+    date: 12 February 1973
+    place: "(last residence: East Grand Rapids, Kent County, Michigan)"
+  burial:
+    place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
+marriages:
+  - spouse:
+      givenName: Lavesta
+      surname: Edgerly
+      birth:
+        date: 16 May 1890
+        place: Michigan
+      death:
+        date: 4 July 1985
+        place: "Grand Rapids, Kent County, Michigan"
+      burial:
+        place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
+childrenGroups:
+  - children:
+      - name: Keats Kendall Vining Jr.
+        entryId: KeatsKJr01
+        birth:
+          date: 21 February 1918
+          place: "Petoskey, Emmet County, Michigan"
+        marriages:
+          - date: 18 March 1950
+            spouse: Janet Ethel Bird
+        death:
+          date: 17 November 1993
+          place: "Butterfield, Missaukee County, Michigan"
+        burial:
+          place: "Lakeview Cemetery   Lakeview, Montcalm County, Michigan"
+      - name: Jeane Marie Vining
+        birth:
+          date: 21 March 1921
+          place: "Petoskey, Emmet County, Michigan"
+        middleNote: "8 May 1943   Grand Rapids, Kent County, Michigan   Robert Renz"
+        death:
+          date: 30 August 2006
+          place: "Green Valley, Pima County, Arizona"
+docsUrl: Ksources/KeatsK01doc.htm
+raw: |-
+  <a name="KeatsK01"></a><font size=+2>Keats Kendall Vining</font>
+     (son of <a href="Cfamilies.htm#CaryW01">Cary Warren Vining and Mary E. Kendall</a>)
+     b. 15 July 1889   Michigan
+     m. Lavesta Edgerly
+              b. 16 May 1890   Michigan
+              d. 4 July 1985   Grand Rapids, Kent County, Michigan
+                    bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+     d. 12 February 1973   (last residence: East Grand Rapids, Kent County, Michigan)
+           bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+  
+  <font size=+1>children:</font>
+     <a href="#KeatsKJr01">Keats Kendall Vining Jr.</a>   b. 21 February 1918   Petoskey, Emmet County, Michigan   -   m. 18 March 1950   Janet Ethel Bird   -   d. 17 November 1993   Butterfield, Missaukee County, Michigan   -   bur. Lakeview Cemetery   Lakeview, Montcalm County, Michigan
+     Jeane Marie Vining   b. 21 March 1921   Petoskey, Emmet County, Michigan   -   8 May 1943   Grand Rapids, Kent County, Michigan   Robert Renz   -   d. 30 August 2006   Green Valley, Pima County, Arizona
+  
+  <a href="Ksources/KeatsK01doc.htm">documentation and notes</a>

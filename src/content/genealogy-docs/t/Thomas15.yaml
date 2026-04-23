@@ -1,0 +1,87 @@
+id: Thomas15
+title: Thomas Vining - Fannie E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Vining
+          values:
+            - "36"
+            - "42"
+            - "52"
+            - "67"
+            - "76"
+        - label: Fannie E. ([…]) Vining
+          values:
+            - "19"
+            - "28"
+            - dead
+            - ""
+            - ""
+        - label: Fred M. Vining
+          values:
+            - "4"
+            - "13"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: George J. Vining
+          values:
+            - ""
+            - "9"
+            - "20"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Ira Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Nellie Vining
+          values:
+            - ""
+            - "6"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Vinnie Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Vaugine Township, Jefferson County, Arkansas - household [465?], family [465?]
+        images:
+          - src: Thomas15census1900.jpg
+      - year: "1910"
+        caption: Vaugine Township, Jefferson County, Arkansas - household [461?], family [462?]
+        images:
+          - src: Thomas15census1910.jpg
+      - year: "1920"
+        caption: Vaugine Township, Jefferson County, Arkansas - household 379, family 380
+        images:
+          - src: Thomas15census1920.jpg
+      - year: "1930"
+        caption: Vaugine Township, Jefferson County, Arkansas - household 13, family 14
+        images:
+          - src: Thomas15census1930.jpg
+      - year: "1940"
+        caption: Vaugine Township, Jefferson County, Arkansas
+        images:
+          - src: Thomas15census1940.jpg

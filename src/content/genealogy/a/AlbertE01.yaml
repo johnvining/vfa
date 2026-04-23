@@ -1,0 +1,102 @@
+id: AlbertE01
+letter: A
+sequence: 24
+lastUpdated: 1 February 2021
+relationship: son
+parentId: EdwinR01
+parentLetter: E
+parentDesc: Edwin R. Vining and Ada L. Morse
+head:
+  givenName: Albert Edwin
+  birth:
+    date: 31 May 1892
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 4 November 1943
+    place: "East Concord, Essex County, Vermont"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Androscoggin County, Maine"
+marriages:
+  - date: 24 May 1928
+    place: "Lewiston, Androscoggin County, Maine"
+    spouse:
+      givenName: Nora Gertrude
+      surname: Stevens
+      parents: "(dau. of Morr[i or e?]ll A. Stevens and Jennie M. Perkins)"
+      birth:
+        date: 7 August 1906
+        place: "Bridgton, Cumberland County, Maine"
+      death:
+        date: 9 December 1977
+        place: "Cincinnati, Hamilton County, Ohio"
+      burial:
+        place: "Mount Auburn Cemetery   Auburn, Androscoggin County, Maine"
+childrenGroups:
+  - children:
+      - name: Milton Wayne Vining
+        entryId: MiltonW01
+        entryLetter: M
+        birth:
+          date: 24 May 1929
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 27 November 1953
+            place: "Lawrenceburg, Dearborn County, Indiana"
+            spouse: Ruth Edna Conway
+        death:
+          date: 14 February 2000
+          place: "Fryeburg, Oxford County, Maine"
+      - name: Ada Carolyn Vining
+        birth:
+          date: 28 March 1932
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 28 July 1948
+            place: "South Portland, Cumberland County, Maine"
+            spouse: Clifford Eugene Eng
+      - name: Mildred Carol Vining
+        birth:
+          date: 11 September 1939
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 25 February 1956
+            place: "Lawrenceburg, Dearborn County, Indiana"
+            spouse: Obie Bradford Weaver
+      - name: David Stevens Vining
+        entryId: DavidS01
+        entryLetter: D
+        birth:
+          date: 29 March 1947
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - number: 1
+            date: 6 May 1977
+            spouse: Germaine Sharkey
+          - number: 2
+            date: Gerry Trottier
+        death:
+          date: 15 July 2016
+          place: "Portland, Cumberland County, Maine"
+        burial:
+          place: "St. Joseph's Cemetery   Biddeford, York County, Maine"
+docsUrl: Asources/AlbertE01doc.htm
+raw: |-
+  <a name="AlbertE01"></a><font size="+2">Albert Edwin Vining</font>
+     (son of <a href="Efamilies.htm#EdwinR01">Edwin R. Vining and Ada L. Morse</a>)
+     b. 31 May 1892   Durham, Androscoggin County, Maine
+     m. 24 May 1928   Lewiston, Androscoggin County, Maine
+           Nora Gertrude Stevens
+                 (dau. of Morr[i or e?]ll A. Stevens and Jennie M. Perkins)
+                 b. 7 August 1906   Bridgton, Cumberland County, Maine
+                 d. 9 December 1977   Cincinnati, Hamilton County, Ohio
+                       bur. Mount Auburn Cemetery   Auburn, Androscoggin County, Maine
+     d. 4 November 1943   East Concord, Essex County, Vermont
+           bur. Mount Auburn Cemetery   Auburn, Androscoggin County, Maine
+  
+  <font size="+1">children:</font>
+     <a href="Mfamilies.htm#MiltonW01">Milton Wayne Vining</a>   b. 24 May 1929   Lewiston, Androscoggin County, Maine   -   m. 27 November 1953   Lawrenceburg, Dearborn County, Indiana   Ruth Edna Conway   -   d. 14 February 2000   Fryeburg, Oxford County, Maine
+     Ada Carolyn Vining   b. 28 March 1932   Lewiston, Androscoggin County, Maine   -   m. 28 July 1948   South Portland, Cumberland County, Maine   Clifford Eugene Eng
+     Mildred Carol Vining   b. 11 September 1939   Lewiston, Androscoggin County, Maine   -   m. 25 February 1956   Lawrenceburg, Dearborn County, Indiana   Obie Bradford Weaver
+     <a href="Dfamilies.htm#DavidS01">David Stevens Vining</a>   b. 29 March 1947   Portland, Cumberland County, Maine   -   m. (1) 6 May 1977   Germaine Sharkey;   (2) Gerry Trottier   -   d. 15 July 2016   Portland, Cumberland County, Maine   -   bur. St. Joseph's Cemetery   Biddeford, York County, Maine
+  
+  <a href="Asources/AlbertE01doc.htm">documentation and notes</a>

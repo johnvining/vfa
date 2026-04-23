@@ -1,0 +1,41 @@
+id: Albert04
+title: Albert [I.?] Vining - Laura [...]
+displayTitle: Albert [I.?] Vining and Laura […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Albert [I.?] Vining
+          values:
+            - "38"
+            - "?"
+            - dead
+        - label: Laura ([…]) Vining
+          values:
+            - "30"
+            - "?"
+            - dead
+        - label: Harry Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Ovid Township, Clinton County, Michigan - dwelling 347, family 353
+        images:
+          - src: Albert04census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Albert [I.?] Vining and Laura ([…]) Vining, in Lindsey Cemetery, Lindsey, Sandusky County,
+          Ohio (from Find A Grave):
+        images:
+          - src: Albert04gravestone.jpg
+          - src: Albert04wifegravestone.jpg
+        inline: true

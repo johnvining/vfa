@@ -1,0 +1,104 @@
+id: RalphM01
+sequence: 3
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JohnA02
+parentLetter: J
+parentDesc: John Albion Vining and Augusta Eva Pike
+head:
+  givenName: Ralph Merton
+  birth:
+    date: 25 September 1915
+    place: "Auburn, Androscoggin County, Maine"
+  death:
+    date: 5 November 1990
+    place: "Lewiston, Androscoggin County, Maine"
+  burial:
+    place: "Elmwood Cemetery   Otisfield, Oxford County, Maine"
+marriages:
+  - date: 22 March 1941
+    place: "Mechanic Falls, Androscoggin County, Maine"
+    spouse:
+      givenName: Pearl Frances Hirst
+      parents: "(dau. of Charles Hirst and Grace Lamb)"
+      birth:
+        date: 12 January 1923
+        place: "Oxford, Oxford County, Maine"
+      death:
+        date: 21 December 1998
+        place: "Lewiston, Androscoggin County, Maine"
+      burial:
+        place: "Elmwood Cemetery   Otisfield, Oxford County, Maine"
+childrenGroups:
+  - children:
+      - name: Donald Ralph Vining
+        entryId: DonaldR01
+        entryLetter: D
+        birth:
+          date: 28 January 1942
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: "[1 or 18?] January 1964"
+            spouse: Eleanor Day
+      - name: John Henry Vining
+        birth:
+          date: 24 June 1943
+          place: "Portland, Cumberland Counnty, Maine"
+        death:
+          date: 21 July 1943
+          place: "Otisfield, Oxford County, Maine"
+        burial:
+          place: "Elmwood Cemetery   Otisfield, Oxford County, Maine"
+      - name: son
+        birth:
+          date: 28 July 1944
+          place: "Otisfield, Oxford County, Maine"
+        death:
+          date: 28 July 1944
+          place: "Otisfield, Oxford County, Maine"
+        burial:
+          place: "Elmwood Cemetery   Otisfield, Oxford County, Maine"
+      - name: Marian Grace Vining
+        birth:
+          date: 13 March 1946
+          place: "Mechanic Falls, Androscoggin County, Maine"
+        marriages:
+          - date: 23 June 1968
+            spouse: Douglas Alan Spaulding
+      - name: Merton Albert Vining
+        entryId: MertonA01
+        entryLetter: M
+        birth:
+          date: 22 September 1949
+          place: "Portland, Cumberland County, Maine"
+        marriages:
+          - number: 1
+            date: 29 November 1969
+            place: "West Paris, Oxford County,  Maine"
+            spouse: Bonita Gail Hazelton
+          - number: 2
+            date: 7 April 1990
+            spouse: Margaret Ellen Thurston
+docsUrl: Rsources/RalphM01doc.htm
+raw: |-
+  <a name="RalphM01"></a><font size=+2>Ralph Merton Vining</font>
+     (son of <a href="Jfamilies.htm#JohnA02">John Albion Vining and Augusta Eva Pike</a>)
+     b. 25 September 1915   Auburn, Androscoggin County, Maine
+     m. 22 March 1941   Mechanic Falls, Androscoggin County, Maine
+              Pearl Frances Hirst
+                    (dau. of Charles Hirst and Grace Lamb)
+                    b. 12 January 1923   Oxford, Oxford County, Maine
+                    d. 21 December 1998   Lewiston, Androscoggin County, Maine
+                          bur. Elmwood Cemetery   Otisfield, Oxford County, Maine
+     d. 5 November 1990   Lewiston, Androscoggin County, Maine
+           bur. Elmwood Cemetery   Otisfield, Oxford County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DonaldR01">Donald Ralph Vining</a>   b. 28 January 1942   Lewiston, Androscoggin County, Maine   -   m. [1 or 18?] January 1964   Eleanor Day
+     John Henry Vining   b. 24 June 1943   Portland, Cumberland Counnty, Maine   -   d. 21 July 1943   Otisfield, Oxford County, Maine   -   bur. Elmwood Cemetery   Otisfield, Oxford County, Maine
+     son   b. 28 July 1944   Otisfield, Oxford County, Maine   -   d. 28 July 1944   Otisfield, Oxford County, Maine   -   bur. Elmwood Cemetery   Otisfield, Oxford County, Maine
+     Marian Grace Vining   b. 13 March 1946   Mechanic Falls, Androscoggin County, Maine   -   m. 23 June 1968   Douglas Alan Spaulding
+     <a href="Mfamilies.htm#MertonA01">Merton Albert Vining</a>   b. 22 September 1949   Portland, Cumberland County, Maine   -   m. (1) 29 November 1969   West Paris, Oxford County,  Maine   Bonita Gail Hazelton;    (2) 7 April 1990   Margaret Ellen Thurston
+  
+  <a href="Rsources/RalphM01doc.htm">documentation and notes</a>

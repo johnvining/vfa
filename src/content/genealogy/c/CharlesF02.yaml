@@ -1,0 +1,59 @@
+id: CharlesF02
+letter: C
+sequence: 67
+lastUpdated: 25 February 2023
+relationship: son
+parentId: DayP01
+parentLetter: D
+parentDesc: Day Preston Vining and Irene McVey
+head:
+  givenName: Charles Francis
+  birth:
+    date: 11 August 1915
+    place: Michigan
+  death:
+    date: 1 August 1979
+    place: "(last residence: Florida)"
+  burial:
+    place: "St. John's Catholic Cemetery   Jackson, Michigan"
+marriages:
+  - date: 27 November 1948
+    spouse:
+      givenName: Elizabeth
+      surname: Kline
+      birth:
+        date: 29 July 1918
+      death:
+        date: 2 September 1999
+      burial:
+        place: "St. John's Catholic Cemetery   Jackson, Michigan"
+childrenGroups:
+  - children:
+      - name: Joseph Girard Vining
+        birth:
+          date: 8 May 1955
+      - name: Mary Gertrude Vining
+        birth:
+          date: 1 February 1957
+      - name: Antoinette Judith Vining
+        birth:
+          date: 24 February 1959
+docsUrl: Csources/CharlesF02doc.htm
+raw: |-
+  <a name="CharlesF02"></a><font size=+2>Charles Francis Vining</font>
+     (son of <a href="Dfamilies.htm#DayP01">Day Preston Vining and Irene McVey</a>)
+     b. 11 August 1915   Michigan
+     m. 27 November 1948
+           Elizabeth Kline
+                 b. 29 July 1918
+                 d. 2 September 1999
+                       bur. St. John's Catholic Cemetery   Jackson, Michigan
+     d. 1 August 1979   (last residence: Florida)
+           bur. St. John's Catholic Cemetery   Jackson, Michigan
+  
+  <font size=+1>children:</font>
+     Joseph Girard Vining   b. 8 May 1955
+     Mary Gertrude Vining   b. 1 February 1957
+     Antoinette Judith Vining   b. 24 February 1959
+  
+  <a href="Csources/CharlesF02doc.htm">documentation and notes</a>

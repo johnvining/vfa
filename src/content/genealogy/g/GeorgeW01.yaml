@@ -1,0 +1,79 @@
+id: GeorgeW01
+letter: G
+sequence: 48
+lastUpdated: 22 July 2022
+relationship: son
+parentId: GeorgeJr01
+parentDesc: George Vining Jr. and Susan Woods
+head:
+  givenName: George Whitefield
+  birth:
+    date: 16 March 1822
+  death:
+    date: 28 April 1879
+    place: "Denver, Colorado"
+  burial:
+    place: "Forest Lawn Cemetery   Buffalo, New York"
+marriages:
+  - spouse:
+      givenName: Emily
+      surname: Holland
+      birth:
+        date: 23 April 1822
+        place: "Belchertown, Massachusetts"
+      death:
+        date: 29 June 1864
+        place: "Buffalo, New York"
+childrenGroups:
+  - children:
+      - name: Edward Payson Vining
+        entryId: EdwardP05
+        entryLetter: E
+        birth:
+          date: 14 January 1847
+          place: "Belchertown, Massachusetts"
+        marriages:
+          - number: 1
+            date: 22 May 1867
+            spouse: Annabel Bodwell
+          - number: 2
+            date: 14 November 1895
+            spouse: Agnes E. Brooks
+        death:
+          date: 31 December 1920
+          place: "Manhattan, New York City, New York"
+      - name: Susan Mercy Vining
+        birth:
+          date: 16 June 1849
+          place: "Buffalo, New York"
+        marriages:
+          - number: 1
+            date: 15 September 1868
+            spouse: David S. Eldredge
+          - number: 2
+            date: 19 October 1892
+            spouse: Thomas Baldwin Griggs
+        death:
+          date: 25 May 1915
+          place: "Brookline, Massachusetts"
+      - name: George Holland Vining
+        birth:
+          date: "1854"
+          place: "Buffalo, New York"
+docsUrl: Gsources/GeorgeW01doc.htm
+raw: |-
+  <a name="GeorgeW01"></a><font size=+2>George Whitefield Vining</font>
+     (son of <a href="#GeorgeJr01">George Vining Jr. and Susan Woods</a>)
+     b. 16 March 1822
+     m. Emily Holland
+              b. 23 April 1822   Belchertown, Massachusetts
+              d. 29 June 1864   Buffalo, New York
+     d. 28 April 1879   Denver, Colorado
+           bur. Forest Lawn Cemetery   Buffalo, New York
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EdwardP05">Edward Payson Vining</a>   b. 14 January 1847   Belchertown, Massachusetts   -   m. (1) 22 May 1867   Annabel Bodwell;   (2) 14 November 1895   Agnes E. Brooks   -   d. 31 December 1920   Manhattan, New York City, New York
+     Susan Mercy Vining   b. 16 June 1849   Buffalo, New York   -   m. (1) 15 September 1868   David S. Eldredge;   (2) 19 October 1892   Thomas Baldwin Griggs   -   d. 25 May 1915   Brookline, Massachusetts
+     George Holland Vining   b. 1854   Buffalo, New York
+  
+  <a href="Gsources/GeorgeW01doc.htm">documentation and notes</a>

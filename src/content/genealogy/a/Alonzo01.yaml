@@ -1,0 +1,176 @@
+id: Alonzo01
+letter: A
+sequence: 56
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Salmon01
+parentLetter: S
+parentDesc: Salmon Vining and Mariah Bodwell
+head:
+  givenName: Alonzo
+  birth:
+    date: 26 January 1824
+    place: "Nissouri, Ontario, Canada"
+  death:
+    date: 23 May 1895
+    place: "Thorndale, Ontario"
+  burial:
+    place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+marriages:
+  - date: 1 October 1845
+    place: "Nissouri, Ontario, Canada"
+    spouse:
+      givenName: Jane
+      surname: McNee
+      parents: "(dau. of Colin McNee and [...])"
+      birth:
+        date: 14 December 1826
+        place: "Nissouri, Ontario, Canada"
+      death:
+        date: 26 January 1913
+        place: "Nissouri, Ontario, Canada"
+      burial:
+        place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+childrenGroups:
+  - children:
+      - name: Andrew Vining
+        birth:
+          date: "age 11 m., 23 d. at death"
+        death:
+          date: 14 September 1847
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+      - name: Pamelia M. Vining
+        birth:
+          date: "1848"
+        marriages:
+          - date: "1870"
+            spouse: (Lorenzo) Dow Brown
+        death:
+          date: 21 January 1913
+      - name: Sabrina Vining
+        birth:
+          date: 11 June 1849
+        marriages:
+          - date: John Johnson
+        death:
+          date: 12 May 1923
+      - name: Mary Vining
+        birth:
+          date: 28 July 1851
+          place: "Oxford, Ontario, Canada"
+        marriages:
+          - number: 1
+            date: "Marlette, Sanilac County, Michigan"
+            spouse: Thomas Gourlay (d. 1880)
+          - number: 2
+            date: Amos Knapp
+        death:
+          date: "1890"
+          place: "Marlette, Sanilac County,  Michigan"
+      - name: Annie Jane Vining
+        birth:
+          date: 12 March 1853
+        marriages:
+          - date: Thomas J. Harris
+        death:
+          date: 5 May 1937
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+      - name: Charlotte Vining
+        birth:
+          date: 2 February 1855
+        marriages:
+          - date: Frederick Oliver
+        death:
+          date: "1932"
+      - name: Joseph Alonzo Vining
+        entryId: JosephA01
+        entryLetter: J
+        birth:
+          date: 12 June 1857
+        marriages:
+          - number: 1
+            date: (Mary) Emma Lindley (d. 1911)
+          - number: 2
+            date: "1914"
+            spouse: Eliza (Lindley) Agur
+        death:
+          date: 5 April 1927
+        burial:
+          place: "Vining Cemetery   Friendly Corners, Middlesex County, Ontario, Canada"
+      - name: James G. Vining
+        birth:
+          date: "1858"
+        death:
+          date: 18 December 1887
+          place: Texas
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+      - name: Emily M. Vining
+        birth:
+          date: 28 May 1860
+        marriages:
+          - date: Duncan D. McArthur
+        death:
+          date: 8 January 1923
+      - name: John Paul Vining
+        entryId: JohnP01
+        entryLetter: J
+        birth:
+          date: "1863"
+        marriages:
+          - date: Zilpha Gleason
+        death:
+          date: "1949"
+      - name: Mattie C. Vining
+        birth:
+          date: "1866"
+        death:
+          date: 19 February 1887
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+      - name: Edwin L. Vining
+        birth:
+          date: "1870"
+        death:
+          date: 7 March 1877
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+      - name: Hannah G. Vining
+        birth:
+          date: age 25 y. at death
+        death:
+          date: 18 January 1899
+        burial:
+          place: "Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada"
+docsUrl: Asources/Alonzo01doc.htm
+raw: |-
+  <a name="Alonzo01"></a><font size="+2">Alonzo Vining</font>
+     (son of <a href="Sfamilies.htm#Salmon01">Salmon Vining and Mariah Bodwell</a>)
+     b. 26 January 1824   Nissouri, Ontario, Canada
+     m. 1 October 1845   Nissouri, Ontario, Canada
+           Jane McNee
+                 (dau. of Colin McNee and [...])
+                 b. 14 December 1826   Nissouri, Ontario, Canada
+                 d. 26 January 1913   Nissouri, Ontario, Canada
+                       bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+     d. 23 May 1895   Thorndale, Ontario
+           bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+  
+  <font size="+1">children:</font>
+     Andrew Vining   b. age 11 m., 23 d. at death   -   d. 14 September 1847   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+     Pamelia M. Vining   b. 1848   -   m. 1870   (Lorenzo) Dow Brown   -   d. 21 January 1913
+     Sabrina Vining   b. 11 June 1849   -   m. John Johnson   -   d. 12 May 1923
+     Mary Vining   b. 28 July 1851   Oxford, Ontario, Canada   -   m. (1) Marlette, Sanilac County, Michigan   Thomas Gourlay (d. 1880);   (2) Amos Knapp   -   d. 1890   Marlette, Sanilac County,  Michigan
+     Annie Jane Vining   b. 12 March 1853   -   m. Thomas J. Harris   -   d. 5 May 1937   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+     Charlotte Vining   b. 2 February 1855   -   m. Frederick Oliver   -   d. 1932
+     <a href="Jfamilies.htm#JosephA01">Joseph Alonzo Vining</a>   b. 12 June 1857   -   m. (1) (Mary) Emma Lindley (d. 1911);   (2) 1914   Eliza (Lindley) Agur   -   d. 5 April 1927   -   bur. Vining Cemetery   Friendly Corners, Middlesex County, Ontario, Canada
+     James G. Vining   b. 1858   -   d. 18 December 1887   Texas   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+     Emily M. Vining   b. 28 May 1860   -   m. Duncan D. McArthur   -   d. 8 January 1923
+     <a href="Jfamilies.htm#JohnP01">John Paul Vining</a>   b. 1863   -   m. Zilpha Gleason   -   d. 1949
+     Mattie C. Vining   b. 1866   -   d. 19 February 1887   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+     Edwin L. Vining   b. 1870   -   d. 7 March 1877   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+     Hannah G. Vining   b. age 25 y. at death   -   d. 18 January 1899   -   bur. Vining Cemetery   Friendly Corners, West Nissouri Township, Ontario, Canada
+  
+  <a href="Asources/Alonzo01doc.htm">documentation and notes</a>

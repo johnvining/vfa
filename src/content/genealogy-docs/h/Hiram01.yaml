@@ -1,0 +1,114 @@
+id: Hiram01
+title: Hiram Vining - Emmeline Heath
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Hiram Vining
+          values:
+            - "30"
+            - "39"
+            - "49"
+            - "59"
+            - "?"
+            - dead
+        - label: Emmeline (Heath) Vining
+          values:
+            - "32"
+            - "42"
+            - "53"
+            - "63"
+            - "?"
+            - dead
+        - label: George E. Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "31"
+            - "?"
+            - |-
+              51
+              [see note below]
+          indent: true
+        - label: Edward Payson Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Hiram Emerson Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "24"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: Emma E. Vining
+          values:
+            - ""
+            - "[see note below]"
+            - "[see note below]"
+            - "23"
+            - "?"
+            - dead
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 100, family 102. Also living in this household in 1850 were Sarah
+          "Sally" Vining (72 y., b. Maine, Hiram's mother), Benjamin Vining (16 y., b. Maine, relationship to above
+          family not known), and David B. Smith (7 y., b. Maine).
+        images:
+          - src: Hiram01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 88, family 84. Also living in this household in 1860 were a "farm
+          laborer" David B. Smith (16 y., b. Maine) and Hiram Vining's mother, Sarah Vining (83 y., b. Maine). A "Clara
+          E." Vining was listed as 3 years old in the 1860 census.
+        images:
+          - src: Hiram01census1860a.jpg
+          - src: Hiram01census1860b.jpg
+      - year: "1870"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 7, family 7. A "Flora E." Vining was listed as 13 years old in the
+          1870 census.
+        images:
+          - src: Hiram01census1870.jpg
+      - year: "1880"
+        caption: Weld, Franklin County, Maine - dwelling 12, family 14
+        images:
+          - src: Hiram01census1880.jpg
+      - year: "1900"
+        caption: >-
+          In 1900, George E. Vining was living in the Weld, Maine, household (dwelling 73, family 76) of brother Hiram
+          Emerson Vining.
+  - type: death
+    items:
+      - caption: "Death records of Hiram Vining and Emmeline (Heath) Vining (from Maine State Archives):"
+        images:
+          - src: Hiram01deathrecord.jpg
+          - src: Hiram01wifedeathrecord.jpg
+      - caption: "Headstone for Hiram Vining and Emmeline (Heath) Vining, in Center Hill Cemetery, Weld, Franklin County, Maine:"
+        images:
+          - src: Hiram01andwifeheadstone.jpg
+      - caption: "Death record of George E. Vining, son of Hiram Vining and Emmeline (Heath) Vining (from Maine State Archives):"
+        images:
+          - src: Hiram01sonGeorgedeathrecord.jpg
+      - caption: >-
+          Gravestone for George E. Vining, son of Hiram Vining and Emmeline (Heath) Vining, in Center Hill Cemetery,
+          Weld, Franklin County, Maine:
+        images:
+          - src: Hiram01sonGeorgegravestone.jpg

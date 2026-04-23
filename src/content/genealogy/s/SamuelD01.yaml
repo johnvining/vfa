@@ -1,0 +1,87 @@
+id: SamuelD01
+sequence: 16
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasP01
+parentLetter: T
+parentDesc: "Thomas &#8220;Philo[w?]&#8221; Vining and Nancy A. See"
+head:
+  givenName: Samuel D.
+  birth:
+    date: age 39 y. as of 1855
+    place: "Chenango County, New York"
+  death:
+    date: "1860"
+    place: "Cattaraugus County, New York"
+marriages:
+  - spouse:
+      givenName: Lovinia
+      surname: Niles
+      parents: (dau. of William Niles and Lucy Sherman)
+      birth:
+        date: age 42 y. as of 1860 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Matilda Vining
+        birth:
+          date: age 9 y. as of 1850 census
+          place: "Chenango County, New York"
+      - name: "Francis S. Vining [female]"
+        birth:
+          date: age 14 y. as of 1855
+          place: New York
+      - name: Stillman P. Vining
+        birth:
+          date: 8 y. as of 1850 census
+          place: "Cortland County, New York"
+      - name: Nathan Vining
+        entryId: Nathan03
+        entryLetter: N
+        birth:
+          date: age 5 y. as of 1850 census
+          place: "Cortland County, New York"
+        marriages:
+          - date: Mary Campbell
+        death:
+          date: "1932"
+        burial:
+          place: "Pine Hill Cemetery   Falconer, New York"
+      - name: William Vining
+        birth:
+          date: 2 y. as of 1850 census
+          place: New York
+      - name: Eugene/John Vining
+        birth:
+          date: age 8 months as of 1850 census
+          place: "Cortland County, New York"
+      - name: Mary Elizabeth Vining
+        birth:
+          date: August 1854
+          place: New York
+        marriages:
+          - date: Ernest Ferdinand Barendt
+        death:
+          date: 26 July 1900
+          place: "Berea, Cuyahoga County, Ohio"
+docsUrl: Ssources/SamuelD01doc.htm
+raw: |-
+  <a name="SamuelD01"></a><font size=+2>Samuel D. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasP01">Thomas &#8220;Philo[w?]&#8221; Vining and Nancy A. See</a>)
+     b. age 39 y. as of 1855   Chenango County, New York
+     m. Lovinia Niles
+              (dau. of William Niles and Lucy Sherman)
+              b. age 42 y. as of 1860 census   New York
+     d. 1860   Cattaraugus County, New York
+  
+  <font size=+1>children:</font>
+     Matilda Vining   b. age 9 y. as of 1850 census   Chenango County, New York
+     Francis S. Vining [female]   b. age 14 y. as of 1855   New York
+     Stillman P. Vining   b. 8 y. as of 1850 census   Cortland County, New York
+     <a href="Nfamilies.htm#Nathan03">Nathan Vining</a>   b. age 5 y. as of 1850 census   Cortland County, New York   -   m. Mary Campbell   -   d. 1932   -   bur. Pine Hill Cemetery   Falconer, New York
+     William Vining   b. 2 y. as of 1850 census   New York
+     Eugene/John Vining   b. age 8 months as of 1850 census   Cortland County, New York
+     Mary Elizabeth Vining   b. August 1854   New York   -   m. Ernest Ferdinand Barendt   -   d. 26 July 1900   Berea, Cuyahoga County, Ohio
+  
+  <a href="Ssources/SamuelD01doc.htm">documentation and notes</a>

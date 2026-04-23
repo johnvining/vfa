@@ -1,0 +1,44 @@
+id: WoodzayJ01
+sequence: 155
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RudolphA02
+parentLetter: R
+parentDesc: "Rudolph Adam Vining and Mary [&#8230;]"
+head:
+  givenName: Woodzay Joseph
+  birth:
+    date: 1 November 1929
+    place: "Morgan City, Louisiana"
+  death:
+    date: 20 July 2020
+marriages:
+  - spouse:
+      givenName: Ave Lee
+      surname: David
+childrenGroups:
+  - children:
+      - name: David Vining
+        marriages:
+          - date: "Mary [&#8230;]"
+      - name: Paul Vining
+        marriages:
+          - date: "Elaine [&#8230;]"
+      - name: Tammy Vining
+        marriages:
+          - date: Douuglas Guilliams
+docsUrl: Wsources/WoodzayJ01doc.htm
+raw: |-
+  <a name="WoodzayJ01"></a><font size=+2>Woodzay Joseph Vining</font>
+     (son of <a href="Rfamilies.htm#RudolphA02">Rudolph Adam Vining and Mary [&#8230;]</a>)
+     b. 1 November 1929   Morgan City, Louisiana
+     m. Ave Lee David
+     d. 20 July 2020
+  
+  <font size=+1>children:</font>
+     David Vining   m. Mary [&#8230;]
+     Paul Vining   m. Elaine [&#8230;]
+     Tammy Vining   m. Douuglas Guilliams
+  
+  <a href="Wsources/WoodzayJ01doc.htm">documentation and notes</a>

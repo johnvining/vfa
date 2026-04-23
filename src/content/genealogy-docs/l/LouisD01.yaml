@@ -1,0 +1,58 @@
+id: LouisD01
+title: Louis D. Vining and Mae A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Louis D. Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+        - label: Mae A. ([…]) Vining
+          values:
+            - "21"
+            - "31"
+            - "41"
+        - label: Louise Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Alberta Lou Vining
+          values:
+            - ""
+            - 1 y., 10 m.
+            - "11"
+          indent: true
+        - label: Louis D. Vining Jr.
+          values:
+            - ""
+            - ""
+            - "7"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Rosedale Township, Wyandotte County, Kansas - dwelling 403, family 411
+        images:
+          - src: LouisD01census1920.jpg
+      - year: "1930"
+        caption: Chicago (ward 7), Cook County, Illinois - dwelling 101, family 329
+        images:
+          - src: LouisD01census1930.jpg
+      - year: "1940"
+        caption: DesMoines, Polk County, Iowa
+        images:
+          - src: LouisD01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Louis D. Vining and Mae A. ([…]) Vining, in New Altoona Cemetery, Altoona, Polk County, Iowa
+          (from Find A Grave):
+        images:
+          - src: LouisD01andwifeheadstone.jpg

@@ -1,0 +1,39 @@
+id: ArthurL01
+letter: A
+lastUpdated: 1 February 2021
+migrationNote: "Original HTML had malformed anchor tag: <a name=\"ArthurL01\" < a> (garbled closing tag)."
+relationship: son
+parentId: Thomas04
+parentLetter: T
+parentDesc: Thomas Vining and Releaf S. Walker
+head:
+  givenName: Arthur L.
+  birth:
+    date: 22 October 1867
+    place: Maine
+  death:
+    date: 3 June 1931
+    place: "Utica, Oneida County, Saratoga County, New York"
+  burial:
+    place: "Waterford, Saratoga County, New York"
+marriages:
+  - date: 27 October 1897
+    place: "Berlin, Coos County, New Hampshire"
+    spouse:
+      givenName: "Agnes J. &#8220;Addie&#8221;"
+      surname: Webster
+      birth:
+        date: age 35 y. as of 1910 census
+        place: "Norton Mills, Essex County, Vermont"
+childrenGroups:
+  - children:
+      - name: Walter L. Vining
+        birth:
+          date: age 9 y. as of 1910 census
+          place: New Hampshire
+      - name: Delmar T. Vining
+        birth:
+          date: 1 February 1906
+          place: "Cohoes, Albany County, New York"
+        note: "[m. Hilda D.?]"
+docsUrl: Asources/ArthurL01doc.htm

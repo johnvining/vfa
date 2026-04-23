@@ -1,0 +1,33 @@
+id: Richard05
+sequence: 42
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: HerbertM01
+parentLetter: H
+parentDesc: Herbert Mathew Vining and Alice Louise Johnson
+head:
+  givenName: Richard
+  birth:
+    date: ca. 1936
+marriages:
+  - spouse:
+      givenName: Sally
+      surname: Burke
+childrenGroups:
+  - children:
+      - name: Mathew Vining
+        birth:
+          date: ca. 1962
+      - name: Lisa Vining
+        birth:
+          date: ca. 1964
+raw: |-
+  <a name="Richard05"></a><font size=+2>Richard Vining</font>
+     (son of <a href="Hfamilies.htm#HerbertM01">Herbert Mathew Vining and Alice Louise Johnson</a>)
+     b. ca. 1936
+     m. Sally Burke
+  
+  <font size=+1>children:</font>
+     Mathew Vining   b. ca. 1962
+     Lisa Vining   b. ca. 1964

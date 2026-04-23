@@ -1,0 +1,76 @@
+id: Elmer03
+sequence: 87
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: RobertW05
+parentLetter: R
+parentDesc: "Robert W. Vining and Mary [G.?] [&#8230;]"
+head:
+  givenName: Elmer
+  birth:
+    date: age 20 y. as of 1920 census
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: Anna L.
+      surname: "[&#8230;]"
+      birth:
+        date: age 34 y. as of 1940 census
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: Elmer Vining
+        birth:
+          date: age 13 y. as of 1940 census
+          place: Alabama
+      - name: Harold Vining
+        birth:
+          date: age 11 y. as of 1940 census
+          place: Michigan
+      - name: Mozelle Vining
+        birth:
+          date: age 10 y. as of 1940 census
+          place: Michigan
+        marriages:
+          - spouse: "[...] Marshall"
+      - name: "Calvin &#8220;Cordie&#8221; Vining"
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Michigan
+      - name: Earl Jerome Vining
+        entryId: EarlJ01
+        birth:
+          date: 29 July 1932
+          place: "Monroe, Michigan"
+        marriages:
+          - spouse: "Easter [...]"
+        death:
+          date: 5 March 2013
+        burial:
+          place: "Woodland Cemetery   Monroe, Michigan"
+      - name: Shirley Vining
+        birth:
+          date: age 3 y. as of 1940 census
+          place: Michigan
+        marriages:
+          - spouse: "[...] Brown"
+      - name: Kenneth Vining
+docsUrl: Esources/Elmer03doc.htm
+raw: |-
+  <a name="Elmer03"></a><font size=+2>Elmer Vining</font>
+     (son of <a href="Rfamilies.htm#RobertW05">Robert W. Vining and Mary [G.?] [&#8230;]</a>)
+     b. age 20 y. as of 1920 census   Alabama
+     m. Anna L. [&#8230;]
+              b. age 34 y. as of 1940 census   Alabama
+  
+  <font size=+1>children:</font>
+     Elmer Vining   b. age 13 y. as of 1940 census   Alabama
+     Harold Vining   b. age 11 y. as of 1940 census   Michigan
+     Mozelle Vining   b. age 10 y. as of 1940 census   Michigan   -   m. [...] Marshall
+     Calvin &#8220;Cordie&#8221; Vining   b. age 9 y. as of 1940 census   Michigan
+     <a href="#EarlJ01">Earl Jerome Vining</a>   b. 29 July 1932   Monroe, Michigan   -   m. Easter [...]   -   d. 5 March 2013   -   bur. Woodland Cemetery   Monroe, Michigan
+     Shirley Vining   b. age 3 y. as of 1940 census   Michigan   -   m. [...] Brown
+     Kenneth Vining
+  
+  <a href="Esources/Elmer03doc.htm">documentation and notes</a>

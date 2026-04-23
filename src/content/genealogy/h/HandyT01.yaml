@@ -1,0 +1,41 @@
+id: HandyT01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?] and Annie [&#8230;]"
+head:
+  givenName: Handy Thomas
+  birth:
+    date: age 24 y. as of 1940 census
+    place: "Johnson County, Georgia"
+  death:
+    date: 24 February 1994
+    place: "Richmond County, Georgia"
+  burial:
+    place: "Mount Olive Memorial Gardens   Augusta, Richmond County, Georgia"
+marriages:
+  - spouse:
+      givenName: Charlie Mae
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Tracy Vining
+      - name: Elizabeth Vining
+      - name: Tasha Vining
+        marriages:
+          - date: "[...] Poindexter"
+docsUrl: Hsources/HandyT01doc.htm
+raw: |-
+  <a name="HandyT01"></a><font size=+2>Handy Thomas Vining</font>
+     (son of [?] and Annie [&#8230;])
+     b. age 24 y. as of 1940 census   Johnson County, Georgia
+     m. Charlie Mae [...]
+     d. 24 February 1994   Richmond County, Georgia
+           bur. Mount Olive Memorial Gardens   Augusta, Richmond County, Georgia
+  
+  <font size=+1>children:</font>
+     Tracy Vining
+     Elizabeth Vining
+     Tasha Vining   m. [...] Poindexter
+  
+  <a href="Hsources/HandyT01doc.htm">documentation and notes</a>

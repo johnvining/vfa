@@ -1,0 +1,58 @@
+id: Arvine01
+letter: A
+sequence: 101
+lastUpdated: 1 February 2021
+relationship: son
+parentId: CharlesW04
+parentLetter: C
+parentDesc: Charles Warren Vining and Ollie Selman
+head:
+  givenName: Arvine
+  birth:
+    date: 14 April 1907
+    place: Alabama
+  death:
+    date: 1 February 1973
+  burial:
+    place: "Mount Signal Cemetery   Chelsea, Shelby County, Alabama"
+marriages:
+  - spouse:
+      givenName: Lola
+      surname: Miller
+      birth:
+        date: 18 April 1910
+      death:
+        date: 5 March 1969
+      burial:
+        place: "Mount Signal Cemetery   Chelsea, Shelby County, Alabama"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Amos Boyd Vining
+        entryId: AmosB01
+        birth:
+          date: 9 February 1936
+          place: "Shelby County, Albama"
+        marriages:
+          - date: Flora Mae McDonald
+        death:
+          date: 3 March 1996
+          place: "Columbiana, Shelby County, Alabama"
+        burial:
+          place: "Hubbard Cemetery   Shelby County, Alabama"
+docsUrl: Asources/Arvine01doc.htm
+raw: |-
+  <a name="Arvine01"></a><font size="+2">Arvine Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesW04">Charles Warren Vining and Ollie Selman</a>)
+     b. 14 April 1907   Alabama
+     m. Lola Miller
+              b. 18 April 1910
+              d. 5 March 1969
+                    bur. Mount Signal Cemetery   Chelsea, Shelby County, Alabama
+     d. 1 February 1973
+           bur. Mount Signal Cemetery   Chelsea, Shelby County, Alabama
+  
+  <font size="+1">child:</font>
+     <a href="#AmosB01">Amos Boyd Vining</a>   b. 9 February 1936   Shelby County, Albama   -   m. Flora Mae McDonald   -   d. 3 March 1996   Columbiana, Shelby County, Alabama   -   bur. Hubbard Cemetery   Shelby County, Alabama
+  
+  <a href="Asources/Arvine01doc.htm">documentation and notes</a>

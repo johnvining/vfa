@@ -1,0 +1,77 @@
+id: LloydN01
+sequence: 65
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LloydO01
+parentLetter: L
+parentDesc: Lloyd Ozias Vining and Esther Hulda Printz
+head:
+  givenName: Lloyd Nelson
+  birth:
+    date: 23 May 1931
+    place: "Allen Township, Ohio"
+  death:
+    date: 19 April 2010
+    place: "Ostrander, Ohio"
+  burial:
+    place: "Fairview Cemetery   Ostrander, Ohio"
+marriages:
+  - spouse:
+      givenName: Betty Lou
+      surname: Firman
+      birth:
+        date: 11 August 1930
+      death:
+        date: 18 February 2004
+      burial:
+        place: "Fairview Cemetery   Ostrander, Ohio"
+childrenGroups:
+  - children:
+      - name: Donna Lynn Vining
+        birth:
+          date: 1 January 1950
+          place: "Delaware, Ohio"
+        marriages:
+          - date: Robert Thrush
+        death:
+          date: 12 September 2012
+          place: "Columbus, Ohio"
+        burial:
+          place: "Radnor Cemetery   Radnor, Ohio"
+      - name: Luanne Vining
+        birth:
+          date: 4 April 1951
+        marriages:
+          - date: "[...] Frey"
+      - name: Jerry Nelson Vining
+        birth:
+          date: 17 November 1954
+        marriages:
+          - date: "Cindy [...]"
+      - name: William Neil Vining
+        birth:
+          date: "8 October [...]"
+        marriages:
+          - date: "Tami [...]"
+      - name: Jack Vining
+docsUrl: Lsources/LloydN01doc.htm
+raw: |-
+  <a name="LloydN01"></a><font size=+2>Lloyd Nelson Vining</font>
+     (son of <a href="Lfamilies.htm#LloydO01">Lloyd Ozias Vining and Esther Hulda Printz</a>)
+     b. 23 May 1931   Allen Township, Ohio
+     m. Betty Lou Firman
+              b. 11 August 1930
+              d. 18 February 2004
+                    bur. Fairview Cemetery   Ostrander, Ohio
+     d. 19 April 2010   Ostrander, Ohio
+           bur. Fairview Cemetery   Ostrander, Ohio
+  
+  <font size=+1>children:</font>
+     Donna Lynn Vining   b. 1 January 1950   Delaware, Ohio   -   m. Robert Thrush   -   d. 12 September 2012   Columbus, Ohio   -   bur. Radnor Cemetery   Radnor, Ohio
+     Luanne Vining   b. 4 April 1951   -   m. [...] Frey
+     Jerry Nelson Vining   b. 17 November 1954   -   m. Cindy [...]
+     William Neil Vining   b. 8 October [...]   -   m. Tami [...]
+     Jack Vining
+  
+  <a href="Lsources/LloydN01doc.htm">documentation and notes</a>

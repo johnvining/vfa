@@ -1,0 +1,149 @@
+id: John01
+sequence: 157
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Robert01
+parentLetter: R
+parentDesc: "Robert Vining and Mary Reade? [see note following family of Robert and Mary]"
+head:
+  givenName: John
+  birth:
+    date: "chr. 17 April 1636"
+    place: "Wincanton, England"
+  death:
+    date: February 1685
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - number: 1
+    date: "11 May [1657 or 1658?]"
+    spouse:
+      givenName: Margaret
+      surname: Read(e)
+      parents: "(dau. of William Read(e) and Avis Deacon)"
+      birth:
+        date: "bapt. 20 January 1635/36"
+        place: "Long Sutton, England"
+      death:
+        date: 6 July 1659
+        place: "Weymouth, Norfolk County, Massachusetts"
+  - number: 2
+    date: 22 January 1659/60
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Mary
+      surname: Reed
+      parents: "(dau. of Philip Reed and Mary [...])"
+      birth:
+        date: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 2 September 1717
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - spouseRef: Mary Reed
+    children:
+      - name: John Vining
+        entryId: John02
+        birth:
+          date: "[15 or 16?] April 1662"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: ca. 1686
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Naomi Bicknell
+        death:
+          date: 11 January 1737
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Mary Vining
+        birth:
+          date: 18 June 1664
+        death:
+          date: not mentioned in father's will of 18 January 1685
+      - name: Thomas Vining
+        birth:
+          date: 30 October 1667
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: not mentioned in father's will of 18 January 1685
+      - name: Samuel Vining
+        entryId: Samuel01
+        entryLetter: S
+        birth:
+          date: 2 February 1669/70
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: Sarah Devril
+        death:
+          date: before 1716
+      - name: Jane Vining
+        birth:
+          date: 7 July 1672
+        marriages:
+          - number: 1
+            date: "1692"
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Jacob Turner (d. 1723)
+          - number: 2
+            date: 12 June 1728
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Samuel Allen
+      - name: Sarah Vining
+        birth:
+          date: ca. 1675
+        marriages:
+          - date: 19 November 1700
+            place: "Bridgewater, Massachusetts"
+            spouse: Nicholas Whitman
+        death:
+          date: "1713"
+      - name: George Vining
+        entryId: George01
+        entryLetter: G
+        birth:
+          date: ca. 1679
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 10 October 1700
+            spouse: Hannah Judkins
+        death:
+          date: 27 March 1723
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Hannah Vining
+        birth:
+          date: before 18 January 1685
+      - name: Margaret Vining
+        birth:
+          date: 19 March 1682
+      - name: Benjamin Vining
+        birth:
+          date: 22 July 1684
+docsUrl: Jsources/John01doc.htm
+raw: |-
+  <a name="John01"></a><font size=+2>John Vining</font>
+     (son of <a href="Rfamilies.htm#Robert01">Robert Vining and Mary Reade</a>? [see note following family of Robert and Mary])
+     chr. 17 April 1636   Wincanton, England
+     m. (1) 11 May [1657 or 1658?]
+                 Margaret Read(e)
+                       (dau. of William Read(e) and Avis Deacon)
+                       bapt. 20 January 1635/36   Long Sutton, England
+                       d. 6 July 1659   Weymouth, Norfolk County, Massachusetts
+           (2) 22 January 1659/60   Weymouth, Norfolk County, Massachusetts
+                 Mary Reed
+                       (dau. of Philip Reed and Mary [...])
+                       b. Weymouth, Norfolk County, Massachusetts
+                       d. 2 September 1717   Weymouth, Norfolk County, Massachusetts
+     d. February 1685   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children by Mary Reed:</font>
+     <a href="#John02">John Vining</a>   b. [15 or 16?] April 1662   Weymouth, Norfolk County, Massachusetts   -   m.  ca. 1686   Weymouth, Norfolk County, Massachusetts   Naomi Bicknell   -   d. 11 January 1737   Weymouth, Norfolk County, Massachusetts
+     Mary Vining   b. 18 June 1664   -   d. not mentioned in father's will of 18 January 1685
+     Thomas Vining   b. 30 October 1667   Weymouth, Norfolk County, Massachusetts   -   d. not mentioned in father's will of 18 January 1685
+     <a href="Sfamilies.htm#Samuel01">Samuel Vining</a>   b. 2 February 1669/70   Weymouth, Norfolk County, Massachusetts   -   m. Sarah Devril   -   d. before 1716
+     Jane Vining   b. 7 July 1672   -   m. (1) 1692   Weymouth, Norfolk County, Massachusetts   Jacob Turner (d. 1723);   (2) 12 June 1728   Weymouth, Norfolk County, Massachusetts   Samuel Allen
+     Sarah Vining   b. ca. 1675   -   m. 19 November 1700   Bridgewater, Massachusetts   Nicholas Whitman   -   d. 1713
+     <a href="Gfamilies.htm#George01">George Vining</a>   b. ca. 1679   Weymouth, Norfolk County, Massachusetts   -   m. 10 October 1700   Hannah Judkins   -   d. 27 March 1723   Weymouth, Norfolk County, Massachusetts
+     Hannah Vining   b. before 18 January 1685
+     Margaret Vining   b. 19 March 1682
+     Benjamin Vining   b. 22 July 1684
+     
+  <a href="Jsources/John01doc.htm">documentation and notes</a>

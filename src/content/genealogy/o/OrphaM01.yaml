@@ -1,0 +1,42 @@
+id: OrphaM01
+letter: O
+lastUpdated: 27 May 2020
+relationship: dau.
+parentId: Charles02
+parentLetter: C
+parentDesc: Charles Vining and Lucy A. Hoover
+head:
+  givenName: Orpha M.
+  birth:
+    date: 13 February 1880
+    place: New York
+  death:
+    date: 1 February 1952
+marriages:
+  - date: "(?) [...]"
+    spouse:
+      givenName: "(1) 7 y. as of 1910 census"
+      surname: David Frayer
+childrenGroups:
+  - headingText: "child by [...]"
+    children:
+      - name: Russell Dale Vining
+        entryId: RussellD01
+        entryLetter: R
+        birth:
+          date: 28 August 1896
+        marriages:
+          - date: Flossie Leah Turk
+        death:
+          date: "[23 August 1962 or December 1972?]"
+raw: |-
+  <a name="OrphaM01"></a><font size=+2>Orpha M. Vining</font>
+     (dau. of <a href="Cfamilies.htm#Charles02">Charles Vining and Lucy A. Hoover</a>)
+     b. 13 February 1880   New York
+     m. (?) [...]
+           (1) 7 y. as of 1910 census
+                 David Frayer
+     d. 1 February 1952
+  
+  <font size=+1>child by [...]:</font>
+     <a href="Rfamilies.htm#RussellD01">Russell Dale Vining</a>  b. 28 August 1896   -   m. Flossie Leah Turk   -   d. [23 August 1962 or December 1972?]

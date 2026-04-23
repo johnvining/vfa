@@ -1,0 +1,175 @@
+id: WilliamS01
+sequence: 133
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ElijahH01
+parentLetter: E
+parentDesc: Elijah H. Vining and Elizabeth Grant
+head:
+  givenName: William Shadrack
+  birth:
+    date: 16 November 1863
+    place: "Atlanta, Georgia"
+  death:
+    date: 3 January 1932
+    place: "Atlanta, Georgia"
+  burial:
+    place: "Crestlawn Cemetery   Atlanta, Georgia"
+marriages:
+  - number: 1
+    date: 13 December 1886
+    place: "Atlanta, Georgia"
+    spouse:
+      givenName: Julia
+      surname: Thurmon
+      birth:
+        date: "1866"
+      death:
+        date: "1891"
+  - number: 2
+    date: 18 June 1892
+    spouse:
+      givenName: Addie Sanders
+      surname: Wellborn
+      parents: "(dau. of Curtis Robert Wellborn and Elizabeth Ann Rogers)"
+      birth:
+        date: 23 October 1869
+        place: Georgia
+      death:
+        date: 7 April 1958
+        place: "Atlanta, Georgia"
+      burial:
+        place: "Crestlawn Cemetery   Atlanta, Georgia"
+childrenGroups:
+  - headingText: child by Julia Thurmon
+    children:
+      - name: Arthur James Vining
+        entryId: ArthurJ01
+        entryLetter: A
+        birth:
+          date: 10 January 1889
+          place: "Atlanta, Georgia"
+        marriages:
+          - date: "Lillie [...]"
+        death:
+          date: 12 October 1958
+          place: "Atlanta, Georgia"
+  - spouseRef: Addie Sanders Welborn
+    children:
+      - name: Willie Mae Vining
+        birth:
+          date: 6 August 1893
+          place: "Atlanta, Georgia"
+        marriages:
+          - date: Oscar Kelly
+        death:
+          date: 16 May 1961
+          place: "Atlanta, Georgia"
+      - name: Marie Virginia Vining
+        birth:
+          date: 14 January 1896
+          place: "Atlanta, Georgia"
+        marriages:
+          - date: 15 November 1919
+            spouse: "Atlanta, GA   James William Grubbs"
+        death:
+          date: 10 March 1991
+          place: "Jackson, Tennessee"
+      - name: Marion Elizabeth Vining
+        birth:
+          date: 27 September 1898
+          place: "Atlanta, Georgia"
+        marriages:
+          - date: "1914"
+            place: "Atlanta, Georgia"
+            spouse: David Washington Clayton
+        death:
+          date: 12 November 1982
+          place: "Atlanta, Georgia"
+      - name: William Carroll Vining
+        birth:
+          date: 6 August 1899
+          place: "Atlanta, Georgia"
+        marriages:
+          - number: 1
+            date: Edna Mulkey
+          - number: 2
+            date: Lorene Wade
+        death:
+          date: 3 January 1973
+          place: "Pinellas, Florida"
+      - name: Marshall Edwin Vining
+        entryId: MarshallE01
+        entryLetter: M
+        birth:
+          date: 25 May 1904
+          place: "Atlanta, Georgia"
+        marriages:
+          - date: "1922"
+            place: "Atlanta, Georgia"
+            spouse: Eva Fleming
+        death:
+          date: 14 April 1974
+          place: "Atlanta, Georgia"
+      - name: Joseph Hall Vining
+        entryId: JosephH02
+        entryLetter: J
+        birth:
+          date: 18 December 1907
+          place: "Atlanta, Georgia"
+        marriages:
+          - date: 12 December 1930
+            place: "Atlanta, Georgia"
+            spouse: Willie Frances Brown
+        death:
+          date: 17 February 2001
+          place: "Loganville, Georgia"
+        burial:
+          place: "Arlington Memorial Park   Atlanta, Georgia"
+      - name: Mary Margaret Vining
+        birth:
+          date: 4 February 1913
+          place: "Atlanta, Georgia"
+        marriages:
+          - number: 1
+            date: John Thomas Kimbell
+          - number: 2
+            date: 3 July 1940
+            place: "Madison, Georgia"
+            spouse: Kennis William James Sr.
+        death:
+          date: 21 August 2002
+          place: "Hampton, Georgia"
+        burial:
+          place: Westview Cemetery
+docsUrl: Wsources/WilliamS01doc.htm
+raw: |-
+  <a name="WilliamS01"></a><font size=+2>William Shadrack Vining</font>
+     (son of <a href="Efamilies.htm#ElijahH01">Elijah H. Vining and Elizabeth Grant</a>)
+     b. 16 November 1863   Atlanta, Georgia
+     m. (1) 13 December 1886   Atlanta, Georgia
+                 Julia Thurmon
+                       b. 1866
+                       d. 1891
+           (2) 18 June 1892
+                 Addie Sanders Wellborn
+                       (dau. of Curtis Robert Wellborn and Elizabeth Ann Rogers)
+                       b. 23 October 1869   Georgia
+                       d. 7 April 1958   Atlanta, Georgia
+                             bur. Crestlawn Cemetery   Atlanta, Georgia
+     d. 3 January 1932   Atlanta, Georgia
+           bur. Crestlawn Cemetery   Atlanta, Georgia
+  
+  <font size=+1>child by Julia Thurmon:</font>
+     <a href="Afamilies.htm#ArthurJ01">Arthur James Vining</a>   b. 10 January 1889   Atlanta, Georgia   -   m. Lillie [...]   -   d. 12 October 1958   Atlanta, Georgia
+  <font size=+1>children by Addie Sanders Welborn:</font>
+     Willie Mae Vining   b. 6 August 1893   Atlanta, Georgia   -   m.   Oscar Kelly   -   d. 16 May 1961   Atlanta, Georgia
+     Marie Virginia Vining   b. 14 January 1896   Atlanta, Georgia   -   m. 15 November 1919   Atlanta, GA   James William Grubbs   -   d. 10 March 1991   Jackson, Tennessee
+     Marion Elizabeth Vining   b. 27 September 1898   Atlanta, Georgia   -   m. 1914   Atlanta, Georgia   David Washington Clayton   -   d. 12 November 1982   Atlanta, Georgia
+     William Carroll Vining   b. 6 August 1899   Atlanta, Georgia   -   m. (1) Edna Mulkey;   (2) Lorene Wade   -   d. 3 January 1973   Pinellas, Florida
+     <a href="Mfamilies.htm#MarshallE01">Marshall Edwin Vining</a>   b. 25 May 1904   Atlanta, Georgia   -   m. 1922   Atlanta, Georgia   Eva Fleming   -   d. 14 April 1974   Atlanta, Georgia
+     <a href="Jfamilies.htm#JosephH02">Joseph Hall Vining</a>   b. 18 December 1907   Atlanta, Georgia   -   m. 12 December 1930   Atlanta, Georgia   Willie Frances Brown   -   d. 17 February 2001   Loganville, Georgia   -   bur. Arlington Memorial Park   Atlanta, Georgia
+     Mary Margaret Vining   b. 4 February 1913   Atlanta, Georgia   -   m. (1) John Thomas Kimbell;   (2) 3 July 1940   Madison, Georgia   Kennis William James Sr.   -   d. 21 August 2002   Hampton, Georgia   -   bur. Westview Cemetery
+  
+  <a href="Wsources/WilliamS01doc.htm">documentation and notes</a>

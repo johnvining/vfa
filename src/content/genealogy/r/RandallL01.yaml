@@ -1,0 +1,195 @@
+id: RandallL01
+sequence: 6
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ThomasG01
+parentLetter: T
+parentDesc: Thomas Green Vining and Julia Sabrina Wells
+head:
+  givenName: Randall Lee
+  birth:
+    date: 12 July 1866
+    place: "Brownsville, Hinds County, Mississippi"
+  death:
+    date: "[5 or 4?] June 1961"
+    place: "Monroe, Louisiana"
+  burial:
+    place: "Forest Cemetery   Forest, Louisiana"
+marriages:
+  - number: 1
+    date: 11 y. as of 1900 census
+    spouse:
+      givenName: Laura Ann
+      surname: Horton
+      birth:
+        date: 17 June 1870
+        place: Mississippi
+      death:
+        date: 24 March 1902
+      burial:
+        place: "Forest Cemetery   Forest, Louisiana"
+  - number: 2
+    date: 4 March 1903
+    spouse:
+      givenName: Della
+      surname: Stewart
+      parents: "(dau. of William J. Stewart and Priscilla Elizabeth Huey)"
+      birth:
+        date: 24 August 1880
+        place: "Clay, Louisiana"
+      death:
+        date: 22 March 1967
+        place: "West Monroe, Louisiana"
+      burial:
+        place: "Epps Cemetery   Epps, West Carroll Parish, Louisiana"
+childrenGroups:
+  - spouseRef: Laura Ann Horton
+    children:
+      - name: "Besse [H.?] Vining"
+        birth:
+          date: March 1890
+          place: Mississippi
+      - name: Nancy Vining
+        birth:
+          date: 22 August 1891
+          place: Mississippi
+        marriages:
+          - number: 1
+            date: "[...] Fallin"
+          - number: 2
+            date: Joseph Grant Hodges
+        death:
+          date: 1 December 1985
+          place: "Seminole, Seminole County, Oklahoma"
+        burial:
+          place: "Maple Grove Cemetery   Seminole, Oklahoma"
+      - name: Julia H. Vining
+        birth:
+          date: December 1892
+          place: Mississippi
+      - name: "Flora [G.?] Vining"
+        birth:
+          date: November 1894
+          place: Mississippi
+      - name: Thomas Horton Vining
+        entryId: ThomasH03
+        entryLetter: T
+        birth:
+          date: 2 September 1896
+          place: "Bolton, Hinds County, Mississippi"
+        marriages:
+          - date: "11 November [1920?]"
+            spouse: Aunie Belle May
+        death:
+          date: 11 February 1976
+          place: "Oak Grove, West Carroll Parish, Louisiana"
+        burial:
+          place: "Oak Grove Cemetery   Oak Grove, West Carroll Parish, Louisiana"
+      - name: "Rosa [H. or L.?] Vining"
+        birth:
+          date: September 1898
+          place: Mississippi
+      - name: Laura Vining
+        birth:
+          date: age 9 y. as of 1910 census
+          place: Louisiana
+  - spouseRef: Della Stewart
+    children:
+      - name: Randall Gibson Vining
+        birth:
+          date: 20 January 1904
+          place: "Forest, West Carroll Parish, Louisiana"
+        marriages:
+          - date: Edith Mildred Alexander
+        death:
+          date: 16 July 1999
+          place: "West Monroe, Ouachita Parish, Louisiana"
+        burial:
+          place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+      - name: Mike Lee Vining
+        entryId: MikeL01
+        entryLetter: M
+        birth:
+          date: 19 July 1906
+          place: Louisiana
+        marriages:
+          - date: Louisiana
+            spouse: Stella Dixie Oldham
+        death:
+          date: 10 January 2001
+          place: "(last residence, Oak Grove, Louisiana)"
+      - name: Bettie Lucille Vining
+        birth:
+          date: 20 February 1908
+          place: "Forest, Louisiana"
+        marriages:
+          - date: 11 December 1934
+            spouse: John S. Lafferty
+        death:
+          date: June 1975
+          place: "Pioneer, Louisiana"
+      - name: Charles Leroy Vining
+        entryId: CharlesL02
+        entryLetter: C
+        birth:
+          date: 6 February 1910
+          place: "Pioneer, Louisiana"
+        marriages:
+          - number: 1
+            date: Bobbie Jean White
+          - number: 2
+            date: Jewel Pippin
+        death:
+          date: 31 December 1995
+          place: "Monroe, Louisiana"
+        burial:
+          place: "Oak Grove Cemetery   Oak Grove, Louisiana"
+      - name: George Washington Vining
+        entryId: GeorgeW06
+        entryLetter: G
+        birth:
+          date: 22 February 1916
+          place: Louisiana
+        marriages:
+          - date: Melba Whatley
+        death:
+          date: 3 September 1984
+          place: "(last residence: Sondheimer, Louisiana)"
+        burial:
+          place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+docsUrl: Rsources/RandallL01doc.htm
+raw: |-
+  <a name="RandallL01"></a><font size=+2>Randall Lee Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasG01">Thomas Green Vining and Julia Sabrina Wells</a>)
+     b. 12 July 1866   Brownsville, Hinds County, Mississippi
+     m. (1) 11 y. as of 1900 census
+                 Laura Ann Horton
+                       b. 17 June 1870   Mississippi
+                       d. 24 March 1902
+                             bur. Forest Cemetery   Forest, Louisiana
+           (2) 4 March 1903
+                 Della Stewart
+                       (dau. of William J. Stewart and Priscilla Elizabeth Huey)
+                       b. 24 August 1880   Clay, Louisiana
+                       d. 22 March 1967   West Monroe, Louisiana
+                             bur. Epps Cemetery   Epps, West Carroll Parish, Louisiana
+     d. [5 or 4?] June 1961   Monroe, Louisiana
+           bur. Forest Cemetery   Forest, Louisiana
+  
+  <font size=+1>children by Laura Ann Horton:</font>
+     Besse [H.?] Vining   b. March 1890   Mississippi
+     Nancy Vining   b. 22 August 1891   Mississippi   -   m. (1) [...] Fallin;   (2) Joseph Grant Hodges   -   d. 1 December 1985   Seminole, Seminole County, Oklahoma   -   bur. Maple Grove Cemetery   Seminole, Oklahoma
+     Julia H. Vining   b. December 1892   Mississippi
+     Flora [G.?] Vining   b. November 1894   Mississippi
+     <a href="Tfamilies.htm#ThomasH03">Thomas Horton Vining</a>   b. 2 September 1896   Bolton, Hinds County, Mississippi   -   m. 11 November [1920?]   Aunie Belle May   -   d. 11 February 1976   Oak Grove, West Carroll Parish, Louisiana   -   bur. Oak Grove Cemetery   Oak Grove, West Carroll Parish, Louisiana
+     Rosa [H. or L.?] Vining   b. September 1898   Mississippi
+     Laura Vining   b. age 9 y. as of 1910 census   Louisiana
+  <font size=+1>children by Della Stewart:</font>
+     Randall Gibson Vining   b. 20 January 1904   Forest, West Carroll Parish, Louisiana   -   m. Edith Mildred Alexander   -   d. 16 July 1999   West Monroe, Ouachita Parish, Louisiana   -   bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+     <a href="Mfamilies.htm#MikeL01">Mike Lee Vining</a>   b. 19 July 1906   Louisiana   -   m. Louisiana   Stella Dixie Oldham   -   d. 10 January 2001   (last residence, Oak Grove, Louisiana)
+     Bettie Lucille Vining   b. 20 February 1908   Forest, Louisiana   -   m. 11 December 1934   John S. Lafferty   -   d. June 1975   Pioneer, Louisiana
+     <a href="Cfamilies.htm#CharlesL02">Charles Leroy Vining</a>   b. 6 February 1910   Pioneer, Louisiana   -   m. (1) Bobbie Jean White;   (2) Jewel Pippin   -   d. 31 December 1995   Monroe, Louisiana   -   bur. Oak Grove Cemetery   Oak Grove, Louisiana
+     <a href="Gfamilies.htm#GeorgeW06">George Washington Vining</a>   b. 22 February 1916   Louisiana   -   m. Melba Whatley   -   d. 3 September 1984   (last residence: Sondheimer, Louisiana)   -   bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+  
+  <a href="Rsources/RandallL01doc.htm">documentation and notes</a>

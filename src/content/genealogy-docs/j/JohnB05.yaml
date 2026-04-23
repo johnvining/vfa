@@ -1,0 +1,61 @@
+id: JohnB05
+title: John Byrum Vining - Hattie Mae Gordon
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Byrum Vining
+          values:
+            - "36"
+            - "45"
+            - "56"
+            - "66"
+        - label: Hattie Mae (Gordon) Vining
+          values:
+            - "26"
+            - "35"
+            - "46"
+            - "56"
+        - label: Virgil Gordon Vining
+          values:
+            - "4"
+            - "14"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Grace Estelle Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Milan Township, Erie County, Ohio - dwelling 50, family 50
+        images:
+          - src: JohnB05census1910.jpg
+      - year: "1920"
+        caption: Ashland, Ashland County, Ohio - dwelling 75, family 111
+        images:
+          - src: JohnB05census1920.jpg
+      - year: "1930"
+        caption: Wadsworth Township, Medina County, Ohio - dwelling 481, family 498
+        images:
+          - src: JohnB05census1930.jpg
+      - year: "1940"
+        caption: Wadsworth, Medina County, Ohio
+        images:
+          - src: JohnB05census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for John Byrum Vining:"
+        images:
+          - src: JohnB05WWIregistrationcarda.jpg
+          - src: JohnB05WWIregistrationcardb.jpg
+        inline: true

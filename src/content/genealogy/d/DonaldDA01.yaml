@@ -1,0 +1,93 @@
+id: DonaldDA01
+sequence: 76
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnAB01
+parentLetter: J
+parentDesc: John A. Bradley Vining and Sarah Jane Brown
+head:
+  givenName: Donald Dewey Admiral
+  birth:
+    date: 2 November 1898
+    place: "Portland, Indiana"
+  death:
+    date: 1 October 1976
+    place: "Muncie, Indiana"
+  burial:
+    place: "Elm Ridge Memorial Park   Muncie, Indiana"
+marriages:
+  - date: 28 December 1928
+    place: "Muncie, Indiana"
+    spouse:
+      givenName: Martha Elizabeth
+      surname: Gurley
+      parents: "(dau. of Lucian A. Gurley and Margaret Tarrant)"
+      birth:
+        date: 10 January 1911
+        place: "Indianapolis, Indiana"
+      death:
+        date: August 1990
+        place: "Muncie, Indiana"
+      burial:
+        place: "Elm Ridge Memorial Park   Muncie, Indiana"
+childrenGroups:
+  - children:
+      - name: Patti Vining
+        marriages:
+          - spouse: Eugene Estes
+      - name: Jack LaRue Vining
+        birth:
+          date: 4 August 1929
+          place: Indiana
+        death:
+          date: 14 October 1952
+          place: "Triangle Hill, Korea"
+        burial:
+          place: "Elm Ridge Memorial Park   Muncie, Indiana"
+      - name: Donald Thomas Vining
+        entryId: DonaldT01
+        birth:
+          date: 8 March 1933
+          place: "Muncie, Indiana"
+        marriages:
+          - spouse: Joan A. Letcher
+        death:
+          date: 24 June 1988
+          place: "Delaware County, Indiana"
+        burial:
+          place: "Elm Ridge Memorial Park   Muncie, Indiana"
+      - name: Larry Lee Vining
+        entryId: LarryL01
+        entryLetter: L
+        birth:
+          date: 20 October 1938
+          place: "Muncie, Indiana"
+        marriages:
+          - spouse: Rebecca Sue Carbaugh
+        death:
+          date: 10 June 1983
+          place: "Muncie, Indiana"
+        burial:
+          place: "Elm Ridge Memorial Park   Muncie, Indiana"
+docsUrl: Dsources/DonaldDA01doc.htm
+raw: |-
+  <a name="DonaldDA01"></a><font size=+2>Donald Dewey Admiral Vining</font>
+     (son of <a href="Jfamilies.htm#JohnAB01">John A. Bradley Vining and Sarah Jane Brown</a>)
+     b. 2 November 1898   Portland, Indiana
+     m. 28 December 1928   Muncie, Indiana
+           Martha Elizabeth Gurley
+                 (dau. of Lucian A. Gurley and Margaret Tarrant)
+                 b. 10 January 1911   Indianapolis, Indiana
+                 d. August 1990   Muncie, Indiana
+                       bur. Elm Ridge Memorial Park   Muncie, Indiana
+     d. 1 October 1976   Muncie, Indiana
+           bur. Elm Ridge Memorial Park   Muncie, Indiana
+  
+  <font size=+1>children:</font>
+     Patti Vining   m. Eugene Estes
+     Jack LaRue Vining   b. 4 August 1929   Indiana   -   d. 14 October 1952   Triangle Hill, Korea   -   bur. Elm Ridge Memorial Park   Muncie, Indiana   
+     <a href="#DonaldT01">Donald Thomas Vining</a>   b. 8 March 1933   Muncie, Indiana   -   m. Joan A. Letcher   -   d. 24 June 1988   Delaware County, Indiana   -   bur. Elm Ridge Memorial Park   Muncie, Indiana
+     <a href="Lfamilies.htm#LarryL01">Larry Lee Vining</a>   b. 20 October 1938   Muncie, Indiana   -   m. Rebecca Sue Carbaugh   -   d. 10 June 1983   Muncie, Indiana   -   bur. Elm Ridge Memorial Park   Muncie, Indiana
+  
+  <a href="Dsources/DonaldDA01doc.htm">documentation and notes</a>

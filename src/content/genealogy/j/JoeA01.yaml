@@ -1,0 +1,62 @@
+id: JoeA01
+sequence: 152
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: GuyE02
+parentLetter: G
+parentDesc: Guy Ellsworth Vining and Lavere M. Johnson
+head:
+  givenName: Joe Alvin
+  birth:
+    date: 21 December 1922
+    place: "Pratt, Kansas"
+  death:
+    date: 16 June 1993
+    place: "Topeka, Kansas"
+  burial:
+    place: "Saint Leos Catholic Cemetery   Horton, Kansas"
+marriages:
+  - date: 1 February 1949
+    spouse:
+      givenName: Lucy
+      surname: Carig
+      parents: "(dau. of Karl Carig and Suzanna Katherine Zwenger)"
+      birth:
+        date: 18 June 1925
+        place: "Horton, Kansas"
+      death:
+        date: 14 October 2010
+        place: "Horton, Kansas"
+childrenGroups:
+  - children:
+      - name: Michael Vining
+      - name: Mark Vining
+      - name: Joe T. Vining
+      - name: Mary Kay Vining
+        marriages:
+          - date: "[&#8230;] Ward"
+      - name: Margaret Vining
+        marriages:
+          - date: "[&#8230;] Newton"
+docsUrl: Jsources/JoeA01doc.htm
+raw: |-
+  <a name="JoeA01"></a><font size=+2>Joe Alvin Vining</font>
+     (son of <a href="Gfamilies.htm#GuyE02">Guy Ellsworth Vining and Lavere M. Johnson</a>)
+     b. 21 December 1922   Pratt, Kansas
+     m. 1 February 1949
+           Lucy Carig
+                 (dau. of Karl Carig and Suzanna Katherine Zwenger)
+                 b. 18 June 1925   Horton, Kansas
+                 d. 14 October 2010   Horton, Kansas
+     d. 16 June 1993   Topeka, Kansas
+           bur. Saint Leos Catholic Cemetery   Horton, Kansas
+  
+  <font size=+1>children:</font>
+     Michael Vining
+     Mark Vining
+     Joe T. Vining
+     Mary Kay Vining   m. [&#8230;] Ward
+     Margaret Vining   m. [&#8230;] Newton
+  
+  <a href="Jsources/JoeA01doc.htm">documentation and notes</a>

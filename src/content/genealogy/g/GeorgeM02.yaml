@@ -1,0 +1,60 @@
+id: GeorgeM02
+letter: G
+sequence: 35
+lastUpdated: 22 July 2022
+relationship: son
+parentId: LeanderO01
+parentLetter: L
+parentDesc: Leander Otis Vining and Angeline Hillyard
+head:
+  givenName: George Melvin
+  birth:
+    date: 7 May 1861
+    place: "Arlington, Michigan"
+  death:
+    date: 27 April 1928
+    place: "Lawrence, Michigan"
+  burial:
+    place: "Hill Cemetery   Lawrence, Michigan"
+marriages:
+  - spouse:
+      givenName: Martha May
+      surname: Empson
+      parents: "(dau. of James Empson and Israellen &#8220;Ida&#8221; Dutcher)"
+      birth:
+        date: 3 May 1869
+        place: "Waverly, Iowa"
+      death:
+        date: 15 June 1941
+        place: Michigan
+      burial:
+        place: "Hill Cemetery   Lawrence, Michigan"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Grace Isabelle Vining
+        birth:
+          date: "1888"
+        marriages:
+          - date: Lloyd Matthew French
+        death:
+          date: 23 December 1955
+        burial:
+          place: "Hill Cemetery   Lawrence, Michigan"
+docsUrl: Gsources/GeorgeM02doc.htm
+raw: |-
+  <a name="GeorgeM02"></a><font size=+2>George Melvin Vining</font>
+     (son of <a href="Lfamilies.htm#LeanderO01">Leander Otis Vining and Angeline Hillyard</a>)
+     b. 7 May 1861   Arlington, Michigan
+     m. Martha May Empson
+              (dau. of James Empson and Israellen &#8220;Ida&#8221; Dutcher)
+              b. 3 May 1869   Waverly, Iowa
+              d. 15 June 1941   Michigan
+                    bur. Hill Cemetery   Lawrence, Michigan
+     d. 27 April 1928   Lawrence, Michigan
+           bur. Hill Cemetery   Lawrence, Michigan
+  
+  <font size=+1>child:</font>
+     Grace Isabelle Vining   b. 1888   -   m. Lloyd Matthew French   -   d. 23 December 1955   -   bur. Hill Cemetery   Lawrence, Michigan
+  
+  <a href="Gsources/GeorgeM02doc.htm">documentation and notes</a>

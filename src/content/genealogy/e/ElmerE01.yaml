@@ -1,0 +1,67 @@
+id: ElmerE01
+sequence: 89
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Charles13
+parentLetter: C
+parentDesc: Charles Vining and Louise M. Grav
+head:
+  givenName: Elmer E.
+  birth:
+    date: September 1861
+    place: "Dublin, Ohio"
+  death:
+    date: 7 October 1908
+    place: "Horton, Kansas"
+  burial:
+    place: "Horton Cemetery   Horton, Kansas"
+marriages:
+  - date: 12 y. as of 1900 census
+    spouse:
+      givenName: Eva Leota
+      surname: Hamilton
+      parents: (dau. of George Hamilton and Hannah Rosetta Bunker)
+      birth:
+        date: 16 December 1870
+        place: "[Kansas or Iowa?]"
+      death:
+        date: 14 November 1933
+        place: Kansas
+childrenGroups:
+  - children:
+      - name: Guy Ellsworth Vining
+        entryId: GuyE02
+        entryLetter: G
+        birth:
+          date: 5 September 1889
+          place: "Kennekuk, Kansas"
+        marriages:
+          - spouse: Margueritte LaVere Johnson
+        death:
+          date: 9 November 1961
+          place: "Horten, Kansas"
+        burial:
+          place: "Horton Cemetery   Horton, Kansas"
+      - name: "Hallie [G. or C.?] Vining"
+        birth:
+          date: August 1891
+          place: Kansas
+docsUrl: Esources/ElmerE01doc.htm
+raw: |-
+  <a name="ElmerE01"></a><font size=+2>Elmer E. Vining</font>
+     (son of <a href="Cfamilies.htm#Charles13">Charles Vining and Louise M. Grav</a>)
+     b. September 1861   Dublin, Ohio
+     m. 12 y. as of 1900 census
+           Eva Leota Hamilton
+                 (dau. of George Hamilton and Hannah Rosetta Bunker)
+                 b. 16 December 1870   [Kansas or Iowa?]
+                 d. 14 November 1933   Kansas
+     d. 7 October 1908   Horton, Kansas
+           bur. Horton Cemetery   Horton, Kansas
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GuyE02">Guy Ellsworth Vining</a>   b. 5 September 1889   Kennekuk, Kansas   -   m. Margueritte LaVere Johnson   -   d. 9 November 1961   Horten, Kansas   -   bur. Horton Cemetery   Horton, Kansas
+     Hallie [G. or C.?] Vining   b. August 1891   Kansas
+  
+  <a href="Esources/ElmerE01doc.htm">documentation and notes</a>

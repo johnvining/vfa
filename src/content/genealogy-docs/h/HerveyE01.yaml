@@ -1,0 +1,60 @@
+id: HerveyE01
+title: Hervey E. Vining - Ethel Bertha Marson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Hervey E. Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+            - "?"
+        - label: Ethel Bertha (Marson) Vining
+          values:
+            - "19"
+            - "29"
+            - "39"
+            - "?"
+        - label: Bertha M. Vining
+          values:
+            - "3"
+            - "12"
+            - not living in this household
+            - ""
+          indent: true
+        - label: James LaForest Vining
+          values:
+            - 1 y., 6 m.
+            - "11"
+            - "21"
+            - "?"
+          indent: true
+        - label: Elbridge W. Vining
+          values:
+            - ""
+            - "10"
+            - "19"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 85, family 86. Also living in this household in 1910 were William H.
+          Vining (brother of Hervey E. Vining), Flora B. Vining (William H.'s wife), and Birdena V[ining?]. (William H.
+          and Flora B.'s daughter [sic]).
+        images:
+          - src: HerveyE01census1910.jpg
+      - year: "1920"
+        caption: Avon, Franklin County, Maine - dwelling 55, family 56
+        images:
+          - src: HerveyE01census1920.jpg
+      - year: "1930"
+        caption: Avon, Franklin County, Maine - dwelling 2, family 2
+        images:
+          - src: HerveyE01census1930.jpg

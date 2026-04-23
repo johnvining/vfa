@@ -1,0 +1,52 @@
+id: PhilipM01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: WilliamG01
+parentLetter: W
+parentDesc: "William Graham Malone Vining and Margaret Ke[e?]b[b?]ell"
+head:
+  givenName: Philip Mayo
+  birth:
+    date: 4 July 1902
+    place: "Nelson, New Zealand"
+  death:
+    date: 8 October 1991
+    place: "Nelson, New Zealand"
+  burial:
+    place: "Marsden Cemetery   Nelson, New Zealand"
+marriages:
+  - date: "1928"
+    spouse:
+      givenName: Hannah
+      surname: Taylor
+      parents: "(dau. of Thomas Taylor and Edith May Armitage)"
+      birth:
+        date: 6 August 1904
+        place: "Meltam, England"
+      death:
+        date: 27 January 2004
+        place: New Zealand
+      burial:
+        place: "Marsden Cemetery   Nelson, New Zealand"
+childrenGroups:
+  - children:
+      - name: "childen [number=2?]"
+docsUrl: Psources/PhilipM01doc.htm
+raw: |-
+  <a name="PhilipM01"></a><font size=+2>Philip Mayo Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamG01">William Graham Malone Vining and Margaret Ke[e?]b[b?]ell</a>)
+     b. 4 July 1902   Nelson, New Zealand
+     m. 1928
+           Hannah Taylor
+                 (dau. of Thomas Taylor and Edith May Armitage)
+                 b. 6 August 1904   Meltam, England
+                 d. 27 January 2004   New Zealand
+                       bur. Marsden Cemetery   Nelson, New Zealand
+     d. 8 October 1991   Nelson, New Zealand
+           bur. Marsden Cemetery   Nelson, New Zealand
+  
+  <font size=+1>children:</font>
+     childen [number=2?]
+  
+  <a href="Psources/PhilipM01doc.htm">documentation and notes</a>

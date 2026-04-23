@@ -1,0 +1,89 @@
+id: JamesH01
+title: James H. Vining - Mary A. P. Richards
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: James H. Vining
+          values:
+            - "?"
+            - "34"
+            - "45"
+            - "55"
+            - "?"
+            - "?"
+            - dead
+        - label: Mary A. P. (Richards) Vining
+          values:
+            - "?"
+            - "32"
+            - "43"
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+        - label: Anna H. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - |-
+              26
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[Mary L. Vining?]"
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James W. Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 417, family 467
+        images:
+          - src: JamesH01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 956, family 1130. Also living in this household in 1870 was
+          Annie H. Vining (no occupation, 67 y., b. Massachusetts), mother of James H. Vining.
+        images:
+          - src: JamesH01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weymouth, Massachusetts (Norfolk County) - Also living in this household in 1880 were Minot P. Garey (husband
+          of Anna H. Vining, 24 y., b. Massachusetts) and Annie Vining (mother of James H. Vining, 78 y., b.
+          Massachusetts).
+        images:
+          - src: JamesH01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument side for James H. Vining and Mary A. P. (Richards), in Fairmount Cemetery, Weymouth, Norfolk County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: JamesH01andwifemonumentside.jpg

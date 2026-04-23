@@ -1,0 +1,45 @@
+id: GaryD01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: DonaldC01
+parentLetter: D
+parentDesc: Donald Clair Vining and Earlbetta De Ette Belles
+head:
+  givenName: Gary Dee
+  birth:
+    date: 2 November 1941
+marriages:
+  - spouse:
+      givenName: Barbara Ann
+      surname: Hovancik
+      birth:
+        date: "1944"
+      death:
+        date: 13 July 2015
+      burial:
+        place: "Calvary Cemetery   Johnson City, New York"
+childrenGroups:
+  - children:
+      - name: Dawn Marie Vining
+        birth:
+          date: 16 August 1963
+      - name: David Michael Vining
+        birth:
+          date: 12 June 1973
+          place: "Binghamton, New York"
+docsUrl: Gsources/GaryD01doc.htm
+raw: |-
+  <a name="GaryD01"></a><font size=+2>Gary Dee Vining</font>
+     (son of <a href="Dfamilies.htm#DonaldC01">Donald Clair Vining and Earlbetta De Ette Belles</a>)
+     b. 2 November 1941
+     m. Barbara Ann Hovancik
+              b. 1944
+              d. 13 July 2015
+                    bur. Calvary Cemetery   Johnson City, New York
+  
+  <font size=+1>children:</font>
+     Dawn Marie Vining   b. 16 August 1963
+     David Michael Vining   b. 12 June 1973   Binghamton, New York
+  
+  <a href="Gsources/GaryD01doc.htm">documentation and notes</a>

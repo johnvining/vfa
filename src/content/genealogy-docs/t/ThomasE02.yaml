@@ -1,0 +1,116 @@
+id: ThomasE02
+title: Thomas Ebenezer Vining - (1) Josephine [...];   (2) Mary Maude Edmonson
+displayTitle: Thomas Ebenezer Vining - (1) Josephine [...]; (2) Mary Maude Edmonson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Ebenezer Vining
+          values:
+            - "32"
+            - "42"
+            - "52"
+            - "62"
+        - label: Josephine ([...]) Vining
+          values:
+            - "26"
+            - "36"
+            - ""
+            - ""
+        - label: Mary Maude (Edmonson) Vining
+          values:
+            - ""
+            - ""
+            - "41"
+            - 43 [sic]
+        - label: "[Josie J. or Cassie?] Vining"
+          values:
+            - "6"
+            - "15"
+            - "26"
+            - "[living? in separate household]"
+          indent: true
+        - label: child Vining
+          values:
+            - |-
+              dead
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Ebenezer Vining Jr.
+          values:
+            - "3"
+            - "12"
+            - "23"
+            - "[living? in separate household]"
+          indent: true
+        - label: Edwin Louis Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+          indent: true
+        - label: Robert Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+            - "[living? in separate household]"
+          indent: true
+        - label: Ruth Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "13"
+          indent: true
+        - label: Donald Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "11"
+          indent: true
+        - label: Billy Coleman Vining
+          values:
+            - ""
+            - ""
+            - 6 m.
+            - "10"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Ward 3, West Carroll County, Louisiana - dwelling 218, family 218. According to the 1910 census, Josephine
+          ([...]) Vining had given birth to four children, three of whom were living as of that census.
+        images:
+          - src: ThomasE02census1910.jpg
+      - year: "1920"
+        caption: Ward 3, West Carroll County, Louisiana - dwelling 90, family 90
+        images:
+          - src: ThomasE02census1920.jpg
+      - year: "1930"
+        caption: Bayou Mason Township, Chicot County, Arkansas - dwelling 114, family 116
+        images:
+          - src: ThomasE02census1930.jpg
+      - year: "1940"
+        caption: Eudora, Chicot County, Arkansas
+        images:
+          - src: ThomasE02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Thomas Ebenezer Vining and Mary Maude (Edmonson) Vining, in Mount Carmel Cemetery, Eudora,
+          Chicot County, Arkansas (from Find A Grave):
+        images:
+          - src: ThomasE02gravestone.jpg
+          - src: ThomasE02wifeMarygravestone.jpg
+        inline: true

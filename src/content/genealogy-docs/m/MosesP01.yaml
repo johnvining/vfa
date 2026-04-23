@@ -1,0 +1,129 @@
+id: MosesP01
+title: Moses P. Vining - (1) Reliance T. Soule, (2) Clarinda [Briggs?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Moses P. Vining
+          values:
+            - M 20–30
+            - "38"
+            - "47"
+            - "55"
+            - "67"
+            - dead
+            - ""
+        - label: Reliance T. (Soule) Vining
+          values:
+            - F 15–20
+            - "29"
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Clarinda (B[riggs?])
+          values:
+            - ""
+            - ""
+            - ""
+            - "43"
+            - "53"
+            - "?"
+            - dead
+        - label: Corydon Vining
+          values:
+            - ""
+            - "8"
+            - "17"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - "1"
+            - "10"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ella E. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - "26"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Charles Ernest Lindel Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1840"
+        caption: Salem, Franklin County, Maine
+        images:
+          - src: MosesP01census1840.jpg
+      - year: "1850"
+        caption: Freeman, Franklin County, Maine - dwelling 172, family 182
+        images:
+          - src: MosesP01census1850.jpg
+      - year: "1860"
+        caption: Farmington, Franklin County, Maine - dwelling 17, family 16
+        images:
+          - src: MosesP01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Farmington, Franklin County, Maine - dwelling 130, family 138. Also living in this household in 1870 was John
+          M. Ranger (22 y., b. Maine, a farm laborer).
+        images:
+          - src: MosesP01census1870a.jpg
+          - src: MosesP01census1870b.jpg
+      - year: "1880"
+        caption: >-
+          Farmington, Franklin County, Maine - dwelling 174, family 195. Also in the household in 1880 was a Nettie
+          Dicker (11 y., b. Canada).
+        images:
+          - src: MosesP01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Moses P. Vining, first wife Reliance T. (Soule) Vining, and second wife Clarinda ([Briggs?])
+          Vining, in Riverside Cemetery, Farmington, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: MosesP01gravestone.jpg
+          - src: MosesP01wifeReliancegravestone.jpg
+          - src: MosesP01wifeClaragravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Charles Vining, son of Moses P. Vining and Reliance T. (Soule) Vining, in Riverside Cemetery,
+          Farmington, Franklin County, Maine (from Find A Grave):
+        images:
+          - src: MosesP01sonCharlesgravestone.jpg
+  - type: research
+    text: >-
+      According to the 1850 census, the age of Charles Vining, son of Moses P. Vining and Reliance T. (Soule) Vining,
+      was 1 year. This is consistent with the 1860 census report of 10 years for his age. (Census records are often
+      approximations of true ages.) His gravestone, however, reported his age at death (4 December 1862) to be 19 years
+      and 9 months. This would have made Charles approximately 7 years old in 1850 and around 17 in 1860. Clarification
+      is needed here.

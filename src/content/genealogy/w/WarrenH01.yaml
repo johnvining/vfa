@@ -1,0 +1,56 @@
+id: WarrenH01
+sequence: 35
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ShirleyR01
+parentLetter: S
+parentDesc: Shirley R. Vining and Beatrice M. Ham
+head:
+  givenName: Warren H.
+  birth:
+    date: 14 March 1927
+    place: New Hampshire
+  death:
+    date: 7 August 1998
+marriages:
+  - spouse:
+      givenName: Priscilla J.
+      surname: Carstensen
+      parents: "(dau. of Henry D. Carstensen and Clara F. Norwood)"
+      birth:
+        date: "age 82 y. at death"
+      death:
+        date: 24 June 2007
+        place: "Melrose, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Dana S. Vining
+        marriages:
+          - date: "[...] Coffill"
+      - name: Barbara A. Vining
+        marriages:
+          - date: David Wells
+      - name: Christopher W. Vining
+        marriages:
+          - date: "Jessica [...]"
+docsUrl: Wsources/WarrenH01doc.htm
+notes: "Note: Priscilla J. (Carstensen) Vining is a descendant of Mayflower passengers Edward Doty and Myles Standish."
+raw: |-
+  <a name="WarrenH01"></a><font size=+2>Warren H. Vining</font>
+     (son of <a href="Sfamilies.htm#ShirleyR01">Shirley R. Vining and Beatrice M. Ham</a>)
+     b. 14 March 1927   New Hampshire
+     m. Priscilla J. Carstensen
+              (dau. of Henry D. Carstensen and Clara F. Norwood)
+              b. age 82 y. at death
+              d. 24 June 2007   Melrose, Massachusetts
+     d. 7 August 1998
+  
+  <font size=+1>children:</font>
+     Dana S. Vining   m. [...] Coffill
+     Barbara A. Vining   m. David Wells
+     Christopher W. Vining   m. Jessica [...]
+  
+  <a href="Wsources/WarrenH01doc.htm">documentation and notes</a>
+  
+  Note: Priscilla J. (Carstensen) Vining is a descendant of Mayflower passengers Edward Doty and Myles Standish.

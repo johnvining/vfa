@@ -1,0 +1,45 @@
+id: GeorgeH01
+title: George Henry Vining - Elma [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: George Henry Vining
+          values:
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elma ([...]) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Susan Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          San Francisco (6th Ward), San Francisco County, California. In 1880, George Henry Vining and family were among
+          many lodgers in dwelling 3, family 3.
+        images:
+          - src: GeorgeH01census1880.jpg

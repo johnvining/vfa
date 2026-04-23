@@ -1,0 +1,32 @@
+id: BlanchardR01
+title: Blanchard Richards Vining - Eleanor Frances Brown
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Blanchard Richards Vining
+          values:
+            - "29"
+        - label: Eleanor Frances (Brown) Vining
+          values:
+            - "25"
+        - label: Joan Evelyn Vining
+          values:
+            - ""
+          indent: true
+        - label: Barbara Ellen Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: San Francisco (Assembly District 22), San Francisco County, California
+        images:
+          - src: BlanchardR01census1940.jpg
+  - type: death
+    items:
+      - caption: "Funeral card for Blanchard Richards Vining:"
+        images:
+          - src: BlanchardR01funeralcard.jpg

@@ -1,0 +1,142 @@
+id: Abraham01
+letter: A
+sequence: 9
+lastUpdated: 1 February 2021
+relationship: son
+parentId: William06
+parentLetter: W
+parentDesc: "William Vining and Nancy [...]"
+head:
+  givenName: Abraham
+  birth:
+    date: ca. 1780
+    place: "[North Carolina?]"
+marriages:
+  - date: ca. 1806
+    place: "[Georgia?]"
+    spouse:
+      givenName: "[Elinor or Elanora?]"
+      surname: "[...]"
+      birth:
+        date: age 66 y. as of 1850 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Owen Vining
+        entryId: Owen01
+        entryLetter: O
+        birth:
+          date: 30 July 1807
+          place: Georgia
+        marriages:
+          - date: ca. 1843
+            place: Georgia
+            spouse: Edith Ann Ivey
+        death:
+          date: "[1885 or 1887?]"
+          place: Georgia
+        burial:
+          place: "Mt. Zion Baptist Church Cemetery   Axson, Atkinson County, Georgia"
+      - name: Elizabeth Vining
+        birth:
+          date: 17 December 1808
+          place: Georgia
+        marriages:
+          - date: 28 December 1823
+            place: Georgia
+            spouse: Alfred Fountain
+      - name: Nancy Vining
+        birth:
+          date: 12 March 1812
+          place: Georgia
+        marriages:
+          - date: 2 April 1829
+            place: Georgia
+            spouse: Frederick Fountain
+      - name: Elza Vining
+        entryId: Elza01
+        entryLetter: E
+        birth:
+          date: 22 April 1816
+          place: Georgia
+        marriages:
+          - number: 1
+            date: "1841"
+            place: Georgia
+            spouse: Falby Usry
+          - number: 2
+            date: 4 June 1854
+            place: Texas
+            spouse: Nancy Amanda Parsons
+      - name: Jasper Vining
+        entryId: Jasper01
+        entryLetter: J
+        birth:
+          date: 7 May 1818
+          place: Georgia
+        marriages:
+          - date: 16 January 1861
+            place: Georgia
+            spouse: Mary Willis
+        death:
+          date: ca. December 1864
+          place: "Augusta, Richmond County, Georgia"
+      - name: John Lee Vining
+        entryId: JohnL02
+        entryLetter: J
+        birth:
+          date: 27 September 1819
+          place: Georgia
+        marriages:
+          - number: 1
+            date: 29 May 1841
+            place: Georgia
+            spouse: Elizabeth Jane Hadden
+          - number: 2
+            date: 8 March 1859
+            place: Georgia
+            spouse: Gracie Cain
+        death:
+          date: 17 July 1895
+          place: "Graham, Carter County, Oklahoma"
+        burial:
+          place: "Oil Spring Cemetery   Healdton, Carter County, Oklahoma"
+      - name: Thomas Newton Vining
+        entryId: ThomasN01
+        entryLetter: T
+        birth:
+          date: 28 April 1825
+          place: Georgia
+        marriages:
+          - number: 1
+            date: "[3 January 1850 or 26 December 1849]"
+            place: Georgia
+            spouse: Mary E. Posey
+          - number: 2
+            date: 30 April 1857
+            place: Georgia
+            spouse: Leacy (Lucy or Alicia) Frances Brown
+        death:
+          date: 26 July 1896
+          place: "East Point, Fulton County, Georgia"
+        burial:
+          place: "Senoia City Cemetery   Senoia, Coweta County, Georgia"
+docsUrl: Asources/Abraham01doc.htm
+raw: |-
+  <a name="Abraham01"></a><font size="+2">Abraham Vining</font>
+     (son of <a href="Wfamilies.htm#William06">William Vining and Nancy [...]</a>)
+     b. ca. 1780   [North Carolina?]
+     m. ca. 1806   [Georgia?]
+           [Elinor or Elanora?] [...]
+                 b. age 66 y. as of 1850 census   Georgia
+  
+  <font size="+1">children:</font>
+     <a href="Ofamilies.htm#Owen01">Owen Vining</a>   b. 30 July 1807   Georgia   -   m. ca. 1843   Georgia   Edith Ann Ivey   -   d. [1885 or 1887?]   Georgia   -   bur. Mt. Zion Baptist Church Cemetery   Axson, Atkinson County, Georgia
+     Elizabeth Vining   b. 17 December 1808   Georgia   -   m. 28 December 1823   Georgia   Alfred Fountain
+     Nancy Vining   b. 12 March 1812   Georgia   -   m. 2 April 1829   Georgia   Frederick Fountain
+     <a href="Efamilies.htm#Elza01">Elza Vining</a>   b. 22 April 1816   Georgia   -   m. (1) 1841   Georgia   Falby Usry;   (2) 4 June 1854   Texas   Nancy Amanda Parsons
+     <a href="Jfamilies.htm#Jasper01">Jasper Vining</a>   b. 7 May 1818   Georgia   -   m. 16 January 1861   Georgia   Mary Willis   -   d. ca. December 1864   Augusta, Richmond County, Georgia
+     <a href="Jfamilies.htm#JohnL02">John Lee Vining</a>   b. 27 September 1819   Georgia   -   m. (1) 29 May 1841   Georgia   Elizabeth Jane Hadden;   (2) 8 March 1859   Georgia   Gracie Cain   -   d. 17 July 1895   Graham, Carter County, Oklahoma   -   bur. Oil Spring Cemetery   Healdton, Carter County, Oklahoma
+     <a href="Tfamilies.htm#ThomasN01">Thomas Newton Vining</a>   b. 28 April 1825   Georgia   -   m. (1) [3 January 1850 or 26 December 1849]   Georgia   Mary E. Posey;   (2) 30 April 1857   Georgia   Leacy (Lucy or Alicia) Frances Brown   -   d. 26 July 1896   East Point, Fulton County, Georgia   -   bur. Senoia City Cemetery   Senoia, Coweta County, Georgia
+  
+  <a href="Asources/Abraham01doc.htm">documentation and notes</a>

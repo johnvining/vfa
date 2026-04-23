@@ -1,0 +1,52 @@
+id: GeorgeH04
+letter: G
+sequence: 23
+lastUpdated: 22 July 2022
+relationship: son
+parentId: unknown03
+parentLetter: UNKNOWN
+parentDesc: "[?]"
+head:
+  givenName: George H.
+  birth:
+    date: age 70 y. at death
+  death:
+    date: 14 February 2001
+marriages:
+  - spouse:
+      givenName: Dorothy
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Dora Vining
+        marriages:
+          - date: "[...] Emery"
+      - name: Georgianna Vining
+        marriages:
+          - date: "[...] Morris"
+      - name: Kenneth David Vining
+        entryId: KennethD01
+        entryLetter: K
+        birth:
+          date: 24 September 1953
+          place: "Miami, Florida"
+        marriages:
+          - date: "Roxanne [...]"
+        death:
+          date: 16 January 2015
+      - name: Jon R. Vining
+docsUrl: Gsources/GeorgeH04doc.htm
+raw: |-
+  <a name="GeorgeH04"></a><font size=+2>George H. Vining</font>
+     (son of <a href="unknownfamilies.htm#unknown03">[?]</a>)
+     b. age 70 y. at death
+     m. Dorothy [...]
+     d. 14 February 2001
+  
+  <font size=+1>children:</font>
+     Dora Vining   m. [...] Emery
+     Georgianna Vining   m. [...] Morris
+     <a href="Kfamilies.htm#KennethD01">Kenneth David Vining</a>   b. 24 September 1953   Miami, Florida   -   m. Roxanne [...]   -   d. 16 January 2015
+     Jon R. Vining
+  
+  <a href="Gsources/GeorgeH04doc.htm">documentation and notes</a>

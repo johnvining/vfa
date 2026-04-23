@@ -1,0 +1,63 @@
+id: WilliamD03
+sequence: 81
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnW08
+parentLetter: J
+parentDesc: John William Vining and Annie Lou Ball
+head:
+  givenName: William Daris
+  birth:
+    date: 28 May 1934
+    place: "Pell City, St. Clair County, Alabama"
+  death:
+    date: 15 October 1997
+    place: "Port Reading, Middlesex County, New Jersey"
+  burial:
+    place: "Saint James Cemetery   Woodbridge, New Jersey"
+marriages:
+  - spouse:
+      givenName: Concetta Marie
+      surname: Russo
+      parents: "(dau. of Joseph Anthony Russo and Sarah Lombardi)"
+      birth:
+        date: 29 November 1933
+        place: "Jersey City, Hudson County, New Jersey"
+      death:
+        date: 23 December 2009
+        place: "Neptune City, Monmouth County, New Jersey"
+      burial:
+        place: "St. James Cemetery   Woodbridge, New Jersey"
+childrenGroups:
+  - children:
+      - name: John W. Vining
+        birth:
+          date: 19 November 1958
+        death:
+          date: November 1975
+        burial:
+          place: "Saint James Cemetery   Woodbridge, New Jersey"
+      - name: Cheryl Vining
+        marriages:
+          - date: "[...] Murga"
+      - name: Joseph Vining
+docsUrl: Wsources/WilliamD03doc.htm
+raw: |-
+  <a name="WilliamD03"></a><font size=+2>William Daris Vining</font>
+     (son of <a href="Jfamilies.htm#JohnW08">John William Vining and Annie Lou Ball</a>)
+     b. 28 May 1934   Pell City, St. Clair County, Alabama
+     m. Concetta Marie Russo
+              (dau. of Joseph Anthony Russo and Sarah Lombardi)
+              b. 29 November 1933   Jersey City, Hudson County, New Jersey
+              d. 23 December 2009   Neptune City, Monmouth County, New Jersey
+                    bur. St. James Cemetery   Woodbridge, New Jersey
+     d. 15 October 1997   Port Reading, Middlesex County, New Jersey
+           bur. Saint James Cemetery   Woodbridge, New Jersey
+  
+  <font size=+1>children:</font>
+     John W. Vining   b. 19 November 1958    -   d. November 1975   -   bur. Saint James Cemetery   Woodbridge, New Jersey  
+     Cheryl Vining   m. [...] Murga
+     Joseph Vining
+  
+  <a href="Wsources/WilliamD03doc.htm">documentation and notes</a>

@@ -1,0 +1,54 @@
+id: LaurieJ01
+sequence: 9
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Evy01
+parentLetter: E
+parentDesc: "Evy Vining and Mary [&#8230;]"
+head:
+  givenName: Laurie Joseph
+  birth:
+    date: 1 March 1924
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Agnes Dorothy
+      surname: Dontay
+      parents: (dau. of Frank Dontay and Jeanetta Written Maas)
+      birth:
+        date: 30 July 1928
+      death:
+        date: 12 March 2007
+      burial:
+        place: "Morgan City Cemetery and Mausoleum   Morgan City, Louisiana"
+childrenGroups:
+  - children:
+      - name: Laurie Joseph Vining Jr.
+        entryId: LaurieJJr01
+        birth:
+          date: 13 July 1949
+        marriages:
+          - date: "Judy [&#8230;]"
+        death:
+          date: 3 April 2008
+          place: "St. Mary [Parish?], Louisiana"
+      - name: David Vining
+        marriages:
+          - date: "Becky [&#8230;]"
+docsUrl: Lsources/LaurieJ01doc.htm
+raw: |-
+  <a name="LaurieJ01"></a><font size=+2>Laurie Joseph Vining</font>
+     (son of <a href="Efamilies.htm#Evy01">Evy Vining and Mary [&#8230;]</a>)
+     b. 1 March 1924   Louisiana
+     m. Agnes Dorothy Dontay
+              (dau. of Frank Dontay and Jeanetta Written Maas)
+              b. 30 July 1928
+              d. 12 March 2007
+                    bur. Morgan City Cemetery and Mausoleum   Morgan City, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="#LaurieJJr01">Laurie Joseph Vining Jr.</a>   b. 13 July 1949   -   m. Judy [&#8230;]   -   d. 3 April 2008   St. Mary [Parish?], Louisiana
+     David Vining   m. Becky [&#8230;]
+  
+  <a href="Lsources/LaurieJ01doc.htm">documentation and notes</a>

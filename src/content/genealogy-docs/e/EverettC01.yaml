@@ -1,0 +1,51 @@
+id: EverettC01
+title: Everett C. Vining - (1) Josephine Middleton;   (2) Geraldine McGee
+displayTitle: Everett C. Vining - (1) Josephine Middleton; (2) Geraldine McGee
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Everett C. Vining
+          values:
+            - "29"
+        - label: Josephine (Middleton) Vining
+          values:
+            - "24"
+        - label: Geraldine (McGee) Vining
+          values:
+            - ""
+        - label: Everett Gene Vining
+          values:
+            - "7"
+          indent: true
+        - label: Ronald Lee Vining
+          values:
+            - "3"
+          indent: true
+        - label: Jack Curtis Vining
+          values:
+            - "1"
+          indent: true
+        - label: Jay Middleton Vining
+          values:
+            - "1"
+          indent: true
+        - label: Gerald Curtis Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Joliet, Will County, Illinois
+        images:
+          - src: EverettC01census1940a.jpg
+          - src: EverettC01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Everett C. Vining and Geraldine (McGee) Vining, in Oakwood Cemetery, Joliet, Will County,
+          Illinois (from Find A Grave):
+        images:
+          - src: EverettC01andwifeGeraldineheadstone.jpg

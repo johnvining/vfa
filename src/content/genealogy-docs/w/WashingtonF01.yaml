@@ -1,0 +1,55 @@
+id: WashingtonF01
+title: Washington Franklin Vining - Martha [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Washington Franklin Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Martha ([...]) Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah [J.?] Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Emily [T.?] Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Knoxville District, Crawford County, Georgia - dwelling 380, family 370. Also living in this household in 1860
+          were James Harris (14 y., b. Georgia), Sidney Harris (10 y., b. Georgia), and Sarah A. Walton (8 y., b.
+          Georgia).
+        images:
+          - src: WashingtonF01census1860.jpg

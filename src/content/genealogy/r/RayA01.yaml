@@ -1,0 +1,49 @@
+id: RayA01
+sequence: 12
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RufusA01
+parentDesc: Rufus Allen Vining and Anna Marie Byers
+head:
+  givenName: Ray Allen
+  birth:
+    date: 8 March 1912
+  death:
+    date: January 1987
+    place: "(last residence: Aberdeen, South Dakota)"
+marriages:
+  - spouse:
+      givenName: Srelda Elda
+      surname: Kienast
+childrenGroups:
+  - children:
+      - name: Gary Alan Vining
+        entryId: GaryA01
+        entryLetter: G
+        birth:
+          date: 30 March 1945
+          place: "Aberdeen, South Dakota"
+        marriages:
+          - date: 27 July 1974
+            spouse: "Aberdeen, South Dakota   Nancy Gelling"
+        death:
+          date: 28 September 2005
+          place: "Aberdeen, South Dakota"
+        burial:
+          place: "Sunset Memorial Gardens   Aberdeen, South Dakota"
+      - name: Linda Rae Vining
+        birth:
+          date: 19 April 1949
+        marriages:
+          - date: Ernie Kemph
+raw: |-
+  <a name="RayA01"></a><font size=+2>Ray Allen Vining</font>
+     (son of <a href="#RufusA01">Rufus Allen Vining and Anna Marie Byers</a>)
+     b. 8 March 1912
+     m. Srelda Elda Kienast
+     d. January 1987   (last residence: Aberdeen, South Dakota)
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GaryA01">Gary Alan Vining</a>   b. 30 March 1945   Aberdeen, South Dakota   -   m. 27 July 1974   Aberdeen, South Dakota   Nancy Gelling   -   d. 28 September 2005   Aberdeen, South Dakota   -   bur. Sunset Memorial Gardens   Aberdeen, South Dakota
+     Linda Rae Vining   b. 19 April 1949   -   m. Ernie Kemph

@@ -1,0 +1,53 @@
+id: CharlesH08
+title: Charles H. Vining - Laura L. Lemkie
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles H. Vining
+          values:
+            - "41"
+            - "51"
+            - "6"
+        - label: Laura L. (Lemkie) Vining
+          values:
+            - "29"
+            - "39"
+            - "49"
+        - label: Richard H. Vining
+          values:
+            - 2 y., 10 m.
+            - "13"
+            - "23"
+          indent: true
+        - label: George D. Vining
+          values:
+            - 6 m.
+            - "11"
+            - "20"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Springfield (ward 4), Hampden County, Massachusetts - dwelling 97, family 179
+        images:
+          - src: CharlesH08census1920.jpg
+      - year: "1930"
+        caption: Springfield, Hampden County, Massachusetts - dwelling 52, family 66
+        images:
+          - src: CharlesH08census1930a.jpg
+          - src: CharlesH08census1930b.jpg
+      - year: "1940"
+        caption: Springfield (ward 6), Hampden County, Massachusetts
+        images:
+          - src: CharlesH08census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Charles H. Vining and Laura L. (Lemkie) Vining, in Springfield Cemetery, Springfield, Hampden
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: CharlesH08andwifeheadstone.jpg

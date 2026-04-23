@@ -1,0 +1,88 @@
+id: David02
+title: David Vining - Esther Corthel
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: David Vining
+          values:
+            - M 16 and upward
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Esther (Corthel) Vining
+          values:
+            - F
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Esther Vining
+          values:
+            - F
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: David Vining Jr.
+          values:
+            - M under 16
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+        - label: daughter Vining
+          values:
+            - F
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: daughter Vining
+          values:
+            - F
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jonathan Vining?
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1790"
+        caption: Coxsackie, Albany County [Coxsackie is now in Greene County.], New York
+        images:
+          - src: David02census1790.jpg

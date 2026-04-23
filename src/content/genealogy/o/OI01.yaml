@@ -1,0 +1,78 @@
+id: OI01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: O. Israel Fifield
+  birth:
+    date: 11 July 1816
+    place: Maine
+  death:
+    date: 16 December 1892
+    place: "Littleton, Massachusetts"
+  burial:
+    place: "Westlawn Cemetery   Littleton, Massachusetts"
+marriages:
+  - date: 1 October 1844
+    spouse:
+      givenName: Elvira S.
+      surname: Thomas
+      birth:
+        date: "age 73 y., 4 m., 5 d. at death"
+        place: Maine
+      death:
+        date: 27 December 1891
+        place: "Littleton, Massachusetts"
+      burial:
+        place: "Westlawn Cemetery   Littleton, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Susan Thomas Vining
+        birth:
+          date: 20 June 1845
+        marriages:
+          - date: 27 December 1869
+            spouse: Edward E. Sawyer
+      - name: Ezra Bonney Vining
+        entryId: EzraB01
+        entryLetter: E
+        birth:
+          date: 18 February 1852
+          place: Maine
+        marriages:
+          - date: 3 September 1881
+            place: "Conway, Massachusetts"
+            spouse: Alice Gould Page
+        death:
+          date: "1922"
+        burial:
+          place: "Millville Cemetery   Millville, New York"
+      - name: David Vining
+        birth:
+          date: 12 November 1853
+        death:
+          date: 10 October 1857
+        burial:
+          place: "Vining Hill Cemetery   Avon, Maine"
+docsUrl: Osources/OI01doc.htm
+raw: |-
+  <a name="OI01"></a><font size=+2>O. Israel Fifield Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. 11 July 1816   Maine
+     m. 1 October 1844
+           Elvira S. Thomas
+                 b. age 73 y., 4 m., 5 d. at death   Maine
+                 d. 27 December 1891   Littleton, Massachusetts
+                       bur. Westlawn Cemetery   Littleton, Massachusetts
+     d. 16 December 1892   Littleton, Massachusetts
+           bur. Westlawn Cemetery   Littleton, Massachusetts
+  
+  <font size=+1>children:</font>
+     Susan Thomas Vining   b. 20 June 1845   -   m. 27 December 1869   Edward E. Sawyer
+     <a href="Efamilies.htm#EzraB01">Ezra Bonney Vining</a>   b. 18 February 1852   Maine   -   m. 3 September 1881   Conway, Massachusetts   Alice Gould Page   -   d. 1922   -   bur. Millville Cemetery   Millville, New York
+     David Vining   b. 12 November 1853   -   d. 10 October 1857   -   bur. Vining Hill Cemetery   Avon, Maine
+  
+  <a href="Osources/OI01doc.htm">documentation and notes</a>

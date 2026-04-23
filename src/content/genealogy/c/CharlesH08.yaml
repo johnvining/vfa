@@ -1,0 +1,63 @@
+id: CharlesH08
+letter: C
+sequence: 73
+lastUpdated: 25 February 2023
+relationship: son
+parentId: GeorgeO01
+parentLetter: G
+parentDesc: George Otis Vining and Abbie Maria Knowlton
+head:
+  givenName: Charles Horton
+  birth:
+    date: "1878"
+    place: Massachusetts
+  death:
+    date: "1961"
+  burial:
+    place: "Springfield Cemetery   Springfield, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Laura L.
+      surname: Lemkie
+      birth:
+        date: "1890"
+        place: Massachusetts
+      death:
+        date: "1976"
+      burial:
+        place: "Springfield Cemetery   Springfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Richard H. Vining
+        entryId: RichardH01
+        entryLetter: R
+        birth:
+          date: 19 February 1917
+          place: Massachusetts
+        marriages:
+          - date: Virginia M. Russell
+        death:
+          date: 21 June 1999
+      - name: George Dwight Vining
+        birth:
+          date: 6 June 1919
+          place: Massachusetts
+        death:
+          date: June 1965
+docsUrl: Csources/CharlesH08doc.htm
+raw: |-
+  <a name="CharlesH08"></a><font size=+2>Charles Horton Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeO01">George Otis Vining and Abbie Maria Knowlton</a>)
+     b. 1878   Massachusetts
+     m. Laura L. Lemkie
+              b. 1890   Massachusetts
+              d. 1976
+                    bur. Springfield Cemetery   Springfield, Massachusetts
+     d. 1961
+           bur. Springfield Cemetery   Springfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RichardH01">Richard H. Vining</a>   b. 19 February 1917   Massachusetts   -   m. Virginia M. Russell   -   d. 21 June 1999
+     George Dwight Vining   b. 6 June 1919   Massachusetts   -   d. June 1965
+  
+  <a href="Csources/CharlesH08doc.htm">documentation and notes</a>

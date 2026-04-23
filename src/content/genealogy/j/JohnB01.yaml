@@ -1,0 +1,59 @@
+id: JohnB01
+sequence: 207
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jonas01
+parentDesc: Jonas Vining and Sarah Page
+head:
+  givenName: John Bradley
+  birth:
+    date: age 40 y. as of 1850 census
+    place: "Chenango, New York"
+marriages:
+  - spouse:
+      givenName: Sarah A.
+      surname: Doty
+      birth:
+        date: "age [...2] y. as of 1870 census"
+        place: Delaware
+childrenGroups:
+  - children:
+      - name: Eliza Vining
+        marriages:
+          - date: "New Dover, Ohio"
+            spouse: R. Davis
+      - name: Jonas N. Vining
+        entryId: JonasN01
+        birth:
+          date: "25 June [1837 or 1838]"
+          place: Ohio
+        marriages:
+          - number: 1
+            date: Malinda Bowen (d. 1891)
+          - number: 2
+            date: "1894"
+            spouse: "Sarah A. &#8220;Nancy&#8221; Columbes"
+        death:
+          date: 8 June 1931
+      - name: Frank Vining
+        birth:
+          date: age 16 y. as of 1870 census
+      - name: Weldon Vining
+        birth:
+          date: age 10 y. as of 1870 census
+docsUrl: Jsources/JohnB01doc.htm
+raw: |-
+  <a name="JohnB01"></a><font size=+2>John Bradley Vining</font>
+     (son of <a href="#Jonas01">Jonas Vining and Sarah Page</a>)
+     b. age 40 y. as of 1850 census   Chenango, New York
+     m. Sarah A. Doty
+              b. age [...2] y. as of 1870 census   Delaware
+  
+  <font size=+1>children:</font>
+     Eliza Vining   m. New Dover, Ohio   R. Davis
+     <a href="#JonasN01">Jonas N. Vining</a>   b. 25 June [1837 or 1838]   Ohio   -   m. (1) Malinda Bowen (d. 1891);   (2) 1894   Sarah A. &#8220;Nancy&#8221; Columbes   -   d. 8 June 1931
+     Frank Vining   b. age 16 y. as of 1870 census
+     Weldon Vining   b. age 10 y. as of 1870 census
+  
+  <a href="Jsources/JohnB01doc.htm">documentation and notes</a>

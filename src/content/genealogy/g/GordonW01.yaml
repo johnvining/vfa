@@ -1,0 +1,53 @@
+id: GordonW01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: WilliamL01
+parentLetter: W
+parentDesc: William Leonard Vining and Myrtie Ethyl Vaughn
+head:
+  givenName: Gordon Wilburn
+  birth:
+    date: 29 June 1927
+    place: "Warren, Arkansas"
+  death:
+    date: 10 November 1994
+    place: "Memphis, Tennessee"
+marriages:
+  - date: 2 May 1951
+    place: "Desoto, Mississippi"
+    spouse:
+      givenName: Evy Frances
+      surname: Brooks
+childrenGroups:
+  - children:
+      - name: Gordon Franklin Vining
+        entryId: GordonF01
+        birth:
+          date: 2 May 1952
+      - name: William Ray Vining
+        entryId: WilliamR03
+        entryLetter: W
+        birth:
+          date: 27 November 1953
+      - name: George Wilburn Vining
+        birth:
+          date: 8 Augut 1959
+      - name: Frances Ann Vining
+        birth:
+          date: 7 March 1970
+        marriages:
+          - date: "[...] Burroughs"
+raw: |-
+  <a name="GordonW01"></a><font size=+2>Gordon Wilburn Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamL01">William Leonard Vining and Myrtie Ethyl Vaughn</a>)
+     b. 29 June 1927   Warren, Arkansas
+     m. 2 May 1951   Desoto, Mississippi
+           Evy Frances Brooks
+     d. 10 November 1994   Memphis, Tennessee
+  
+  <font size=+1>children:</font>
+     <a href="#GordonF01">Gordon Franklin Vining</a>   b. 2 May 1952
+     <a href="Wfamilies.htm#WilliamR03">William Ray Vining</a>   b. 27 November 1953
+     George Wilburn Vining   b. 8 Augut 1959
+     Frances Ann Vining   b. 7 March 1970   -   m. [...] Burroughs

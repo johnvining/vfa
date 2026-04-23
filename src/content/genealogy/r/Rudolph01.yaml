@@ -1,0 +1,40 @@
+id: Rudolph01
+sequence: 168
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ThomasM01
+parentLetter: T
+parentDesc: Thomas Manton Vining and Pauline Maybell Browder
+head:
+  givenName: Rudolph
+  birth:
+    date: "1930"
+    place: "Greeleyville, South Carolina"
+  death:
+    date: 28 June 2013
+marriages:
+  - spouse:
+      givenName: Betty Lee
+      surname: Glenn
+childrenGroups:
+  - children:
+      - name: Patricia Vining
+        marriages:
+          - date: Milo Lucas
+      - name: Thomas Vining
+      - name: Michael Vining
+docsUrl: Rsources/Rudolph01doc.htm
+raw: |-
+  <a name="Rudolph01"></a><font size=+2>Rudolph Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasM01">Thomas Manton Vining and Pauline Maybell Browder</a>)
+     b. 1930   Greeleyville, South Carolina
+     m. Betty Lee Glenn
+     d. 28 June 2013
+  
+  <font size=+1>children:</font>
+     Patricia Vining   m. Milo Lucas
+     Thomas Vining
+     Michael Vining
+  
+  <a href="Rsources/Rudolph01doc.htm">documentation and notes</a>

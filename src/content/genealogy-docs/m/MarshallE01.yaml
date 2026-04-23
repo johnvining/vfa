@@ -1,0 +1,27 @@
+id: MarshallE01
+title: Marshall Edwin Vining - Eva Fleming
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Marshall Edwin Vining
+          values:
+            - "25"
+            - "?"
+        - label: Eva (Fleming) Vining
+          values:
+            - "25"
+            - "?"
+        - label: Louise Vining
+          values:
+            - "7"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Atlanta (ward 3, block 32), Fulton County, Georgia - dwelling 79, family 100
+        images:
+          - src: MarshallE01census1930.jpg

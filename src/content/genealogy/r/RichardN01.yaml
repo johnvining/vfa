@@ -1,0 +1,60 @@
+id: RichardN01
+sequence: 67
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: LeoHJr01
+parentLetter: L
+parentDesc: "Leo Heath Vining Jr. and [Josephine Primrose Gundry?]"
+head:
+  givenName: Richard Neil
+  birth:
+    date: 5 October 1948
+    place: "Baltimore, Maryland"
+marriages:
+  - number: 1
+    date: "1968"
+    spouse:
+      givenName: Helen Ridgely Lyon Van
+      surname: Ness
+      birth:
+        date: 6 October 1945
+        place: "Baltimore, Maryland"
+  - number: 2
+    date: "1988"
+    spouse:
+      givenName: Peggy Sue
+      surname: Zerkel
+childrenGroups:
+  - spouseRef: Helen Ridgely Lyon Van Ness
+    children:
+      - name: Neil Carroll Vining
+        entryId: NeilC01
+        entryLetter: N
+        birth:
+          date: 10 November 1970
+          place: "Munich, Germany"
+        marriages:
+          - number: 1
+            date: "1989"
+            spouse: "Jodi Lynn Jenson,   divorced 1998"
+          - number: 2
+            date: "2001"
+            spouse: Suzanne Strandhoy
+      - name: Ian Christopher Vining
+        birth:
+          date: 26 April 1974
+          place: "Annapolis, Maryland"
+raw: |-
+  <a name="RichardN01"></a><font size=+2>Richard Neil Vining</font>
+     (son of <a href="Lfamilies.htm#LeoHJr01">Leo Heath Vining Jr. and [Josephine Primrose Gundry?]</a>)
+     b. 5 October 1948   Baltimore, Maryland
+     m. (1) 1968
+                 Helen Ridgely Lyon Van Ness
+                       b. 6 October 1945   Baltimore, Maryland
+           (2) 1988
+                 Peggy Sue Zerkel
+  
+  <font size=+1>children by Helen Ridgely Lyon Van Ness:</font>
+     <a href="Nfamilies.htm#NeilC01">Neil Carroll Vining</a>   b. 10 November 1970   Munich, Germany   -   m. (1) 1989   Jodi Lynn Jenson,   divorced 1998;   (2) 2001   Suzanne Strandhoy
+     Ian Christopher Vining   b. 26 April 1974   Annapolis, Maryland

@@ -1,0 +1,95 @@
+id: SamuelE01
+sequence: 17
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: HomerC01
+parentLetter: H
+parentDesc: Homer C. Vining and Sarah Fowler
+head:
+  givenName: Samuel E.
+  birth:
+    date: 26 August 1861
+    place: "Southwick, Hampden County, Massachusetts"
+  death:
+    date: 29 May 1909
+    place: "Springfield, Hampden County, Massachusetts"
+marriages:
+  - number: 1
+    date: Annis S. Viets
+  - number: 2
+    date: "[1885 or 1886?]"
+    spouse:
+      givenName: Harriet A.
+      surname: Booth
+      parents: "(dau. of Seldon W. Booth and Harriet Bartlett)"
+      birth:
+        date: "20 February [1855 or 1856?]"
+        place: "[Southwick, Hampden County, Massachusetts?]"
+      death:
+        date: 12 October 1895
+        place: "Worcester, Hampden County, Massachusetts"
+  - number: 3
+    date: "[...] Sullivan"
+  - number: 4
+    date: Mary Turner
+childrenGroups:
+  - spouseRef: Harriet A. Booth
+    children:
+      - name: Homer Seldon Vining
+        entryId: HomerS01
+        entryLetter: H
+        birth:
+          date: 31 July 1887
+          place: "Sedalia, Pettis County, Missouri"
+        marriages:
+          - date: 27 December 1905
+            place: "New York, New York"
+            spouse: Winnie Eliza Barlow
+        death:
+          date: "[18 or 19?] February 1963"
+          place: "Kansas City, Kansas"
+      - name: Frank Booth Vining
+        entryId: FrankB01
+        entryLetter: F
+        birth:
+          date: 8 March 1889
+          place: "Sedalia, Pettis County, Missouri"
+        marriages:
+          - date: Ruth Stickel
+        death:
+          date: 13 September 1974
+          place: "New York, New York"
+      - name: Charles Raymond Vining
+        entryId: CharlesR01
+        entryLetter: C
+        birth:
+          date: 28 June 1894
+          place: "Worcester, Massachusetts"
+        marriages:
+          - number: 1
+            date: "Edna Chapman,"
+            spouse: divorced
+          - number: 2
+            date: "Frances [...]"
+        death:
+          date: 8 February 1964
+          place: "St. Petersburg, Pinellas County, Florida"
+raw: |-
+  <a name="SamuelE01"></a><font size=+2>Samuel E. Vining</font>
+     (son of <a href="Hfamilies.htm#HomerC01">Homer C. Vining and Sarah Fowler</a>)
+     b. 26 August 1861   Southwick, Hampden County, Massachusetts
+     m. (1) Annis S. Viets
+           (2) [1885 or 1886?]
+                  Harriet A. Booth
+                        (dau. of Seldon W. Booth and Harriet Bartlett) 
+                        b. 20 February [1855 or 1856?] [Southwick, Hampden County, Massachusetts?]
+                        d. 12 October 1895   Worcester, Hampden County, Massachusetts
+           (3) [...] Sullivan
+           (4) Mary Turner
+     d. 29 May 1909   Springfield, Hampden County, Massachusetts
+  
+  <font size=+1>children by Harriet A. Booth:</font>
+     <a href="Hfamilies.htm#HomerS01">Homer Seldon Vining</a>   b. 31 July 1887   Sedalia, Pettis County, Missouri   -   m. 27 December 1905   New York, New York   Winnie Eliza Barlow   -   d. [18 or 19?] February 1963   Kansas City, Kansas
+     <a href="Ffamilies.htm#FrankB01">Frank Booth Vining</a>   b. 8 March 1889   Sedalia, Pettis County, Missouri   -   m. Ruth Stickel   -   d. 13 September 1974   New York, New York
+     <a href="Cfamilies.htm#CharlesR01">Charles Raymond Vining</a>   b. 28 June 1894   Worcester, Massachusetts   -   m. (1) Edna Chapman,   divorced;   (2) Frances [...]   -   d. 8 February 1964   St. Petersburg, Pinellas County, Florida

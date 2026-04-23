@@ -1,0 +1,43 @@
+id: TheronD01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: TheronN01
+parentDesc: Theron Nash Vining and Eva Mae Grubbs
+head:
+  givenName: Theron Douglas
+  birth:
+    date: 21 January 1949
+  death:
+    date: 20 May 2006
+    place: "Minden, Webster Parish, Louisiana"
+  burial:
+    place: "New Forest Cemetery   Forest, Louisiana"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Curt Vining
+      - name: Quentin Vining
+      - name: Todd Vining
+      - name: Shelly Vining
+        marriages:
+          - date: "[...] Phillips"
+      - name: Cindy Vining
+        marriages:
+          - date: "[...] Evans"
+docsUrl: Tsources/TheronD01doc.htm
+raw: |-
+  <a name="TheronD01"></a><font size=+2>Theron Douglas Vining</font>
+     (son of <a href="#TheronN01">Theron Nash Vining and Eva Mae Grubbs</a>)
+     b. 21 January 1949
+     d. 20 May 2006   Minden, Webster Parish, Louisiana
+           bur. New Forest Cemetery   Forest, Louisiana
+  
+  <font size=+1>child:</font>
+     Curt Vining
+     Quentin Vining
+     Todd Vining
+     Shelly Vining   m. [...] Phillips
+     Cindy Vining   m. [...] Evans
+  
+  <a href="Tsources/TheronD01doc.htm">documentation and notes</a>

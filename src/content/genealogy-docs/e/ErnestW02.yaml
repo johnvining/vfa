@@ -1,0 +1,123 @@
+id: ErnestW02
+title: Ernest W. Vining - May Louise Crocker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ernest W. Vining
+          values:
+            - "25"
+            - "35"
+            - "43"
+            - "54"
+            - "65"
+        - label: May Louise (Crocker) Vining
+          values:
+            - "24"
+            - "32"
+            - "41"
+            - "53"
+            - "62"
+        - label: Julius C. Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Earl E. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Albert Clifford Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Ethel M. Vining
+          values:
+            - ""
+            - 1 y., 4 m.
+            - "11"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Everett L. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - living in separate household
+            - "28"
+          indent: true
+        - label: Gladys D. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+          indent: true
+        - label: Harold B. Vining
+          values:
+            - ""
+            - ""
+            - 3 y., 0 m.
+            - "13"
+            - dead
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Hartford (ward 4), Hartford County, Connecticut - dwelling 85, family 94
+        images:
+          - src: ErnestW02census1900.jpg
+      - year: "1910"
+        caption: >-
+          Bloomfield Township, Hartford County, Connecticut - dwelling 248, family 264. Also living in this household in
+          1910 was Olive A. Crocker (68 y., b. Connecticut), the widowed mother of May Louise (Crocker) Vining.
+        images:
+          - src: ErnestW02census1910a.jpg
+          - src: ErnestW02census1910b.jpg
+      - year: "1920"
+        caption: Bloomfield, Hartford County, Connecticut - dwelling 163, family 190
+        images:
+          - src: ErnestW02census1920.jpg
+      - year: "1930"
+        caption: Puyallup (ward 1), Pierce County, Washington - dwelling 11, family 12
+        images:
+          - src: ErnestW02census1930.jpg
+      - year: "1940"
+        caption: Fircrest, Pierce County, Washington
+        images:
+          - src: ErnestW02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for May Louise (Crocker) Vining, in Mountain View Memorial Park, Lakewood, Pierce County,
+          Washington (from Find A Grave):
+        images:
+          - src: ErnestW02wifegravestone.jpg
+      - caption: >-
+          Gravestone for Albert Clifford Vining, son of Ernest W. Vining and May Louise (Crocker) Vining, in Mountain
+          View Memorial Park, Lakewood, Pierce County, Washington (from Find A Grave):
+        images:
+          - src: ErnestW02sonAlbertgravestone.jpg
+      - caption: >-
+          Gravestone for Harold B. Vining, son of Ernest W. Vining and May Louise (Crocker) Vining, in Sumner Cemetery,
+          Sumner, Pierce County, Washington (from Find A Grave):
+        images:
+          - src: ErnestW02sonHaroldgravestone.jpg

@@ -1,0 +1,85 @@
+id: Benjamin03
+letter: B
+sequence: 19
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Benjamin
+  birth:
+    date: June 1825
+    place: Louisiana
+marriages:
+  - date: 25 y. as of 1900 census
+    spouse:
+      givenName: Amanda
+      surname: "[&#8230;]"
+      birth:
+        date: January 1845
+        place: Louisiana
+childrenGroups:
+  - headingText: "child?"
+    children:
+      - name: Sophia Vining
+        birth:
+          date: age 24 y. as of 1870 census
+          place: Louisiana
+  - children:
+      - name: Mahala Vining
+        birth:
+          date: 14 y. as of 1870 census
+          place: Louisiana
+      - name: Catharine Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Louisiana
+      - name: Emily Vining
+        birth:
+          date: age 7 y. as of 1870 census
+          place: Louisiana
+      - name: Sally Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Louisiana
+      - name: Esther Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Louisiana
+      - name: Harriet Vining
+        birth:
+          date: age 9 y. as of 1880 census
+          place: Louisiana
+      - name: Elizabeth Vining
+        birth:
+          date: age 7 y. as of 1880 census
+          place: Louisiana
+      - name: Oliver Vining
+        entryId: Oliver03
+        entryLetter: O
+        birth:
+          date: age 5 y. as of 1880 census
+          place: Louisiana
+        marriages:
+          - date: "Ella [&#8230;]"
+docsUrl: Bsources/Benjamin03doc.htm
+raw: |-
+  <a name="Benjamin03"></a><font size=+2>Benjamin Vining</font>
+     (son of [?])
+     b. June 1825   Louisiana
+     m. 25 y. as of 1900 census
+           Amanda [&#8230;]
+                 b. January 1845   Louisiana
+  
+  <font size=+1>child?:</font>
+     Sophia Vining   b. age 24 y. as of 1870 census   Louisiana
+  <font size=+1>children:</font>
+     Mahala Vining   b. 14 y. as of 1870 census   Louisiana
+     Catharine Vining   b. age 9 y. as of 1870 census   Louisiana
+     Emily Vining   b. age 7 y. as of 1870 census   Louisiana
+     Sally Vining   b. age 4 y. as of 1870 census   Louisiana
+     Esther Vining   b. age 2 y. as of 1870 census   Louisiana
+     Harriet Vining   b. age 9 y. as of 1880 census   Louisiana
+     Elizabeth Vining   b. age 7 y. as of 1880 census   Louisiana
+     <a href="Ofamilies.htm#Oliver03">Oliver Vining</a>   b. age 5 y. as of 1880 census   Louisiana   -   m. Ella [&#8230;]
+  
+  <a href="Bsources/Benjamin03doc.htm">documentation and notes</a>

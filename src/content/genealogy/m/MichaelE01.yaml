@@ -1,0 +1,37 @@
+id: MichaelE01
+sequence: 31
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: WarrenR01
+parentLetter: W
+parentDesc: Warren Richard Vining and Patsy Stanfill
+head:
+  givenName: Michael Edward
+  birth:
+    date: 11 April 1968
+marriages:
+  - date: "1995"
+    spouse:
+      givenName: Michelle
+      surname: "[...]"
+    note: divorced
+childrenGroups:
+  - children:
+      - name: Amy Marie Vining
+        birth:
+          date: 5 October 1995
+      - name: Michaella Kay Vining
+        birth:
+          date: 10 December 1996
+raw: |-
+  <a name="MichaelE01"></a><font size=+2>Michael Edward Vining</font>
+     (son of <a href="Wfamilies.htm#WarrenR01">Warren Richard Vining and Patsy Stanfill</a>)
+     b. 11 April 1968
+     m. 1995
+           Michelle [...]
+           divorced
+  
+  <font size=+1>children:</font>
+     Amy Marie Vining   b. 5 October 1995
+     Michaella Kay Vining   b. 10 December 1996

@@ -1,0 +1,61 @@
+id: MertonL01
+sequence: 27
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: EdwinR01
+parentLetter: E
+parentDesc: Edwin R. Vining and Ada L. Morse
+head:
+  givenName: Merton Linwood
+  birth:
+    date: 10 January 1888
+    place: "Durham, Maine"
+  death:
+    date: 19 March 1985
+    place: "Lewiston, Maine"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Maine"
+marriages:
+  - date: 5 June 1912
+    place: "Lewiston, Maine"
+    spouse:
+      givenName: Margaret Elise
+      surname: Wilson
+      parents: "(dau. of Hiram C. Wilson and Ida A. Bailey)"
+      birth:
+        date: 5 November 1891
+        place: "Bloomington, Illinois"
+      death:
+        date: 5 August 1968
+        place: "Auburn, Maine"
+      burial:
+        place: "Mount Auburn Cemetery   Auburn, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Glenna Elise Vining
+        birth:
+          date: 27 May 1915
+          place: "Auburn, Maine"
+        marriages:
+          - date: 3 July 1941
+            spouse: Robert D. Albro
+docsUrl: Msources/MertonL01doc.htm
+raw: |-
+  <a name="MertonL01"></a><font size=+2>Merton Linwood Vining</font>
+     (son of <a href="Efamilies.htm#EdwinR01">Edwin R. Vining and Ada L. Morse</a>)
+     b. 10 January 1888   Durham, Maine
+     m. 5 June 1912   Lewiston, Maine
+           Margaret Elise Wilson
+                 (dau. of Hiram C. Wilson and Ida A. Bailey)
+                 b. 5 November 1891   Bloomington, Illinois
+                 d. 5 August 1968   Auburn, Maine
+                       bur. Mount Auburn Cemetery   Auburn, Maine
+     d. 19 March 1985   Lewiston, Maine
+           bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>child:</font>
+     Glenna Elise Vining   b. 27 May 1915   Auburn, Maine   -   m. 3 July 1941   Robert D. Albro
+  
+  <a href="Msources/MertonL01doc.htm">documentation and notes</a>

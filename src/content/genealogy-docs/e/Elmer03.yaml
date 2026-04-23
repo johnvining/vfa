@@ -1,0 +1,61 @@
+id: Elmer03
+title: Elmer Vining - Anna L. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Elmer Vining
+          values:
+            - "33"
+            - "42"
+        - label: Anna L. ([…]) Vining
+          values:
+            - "26"
+            - "34"
+        - label: Elmer Vining
+          values:
+            - "3"
+            - "13"
+          indent: true
+        - label: Harold Vining
+          values:
+            - 1 y., 8 m.
+            - "11"
+          indent: true
+        - label: Mozelle Vining
+          values:
+            - 6 m.
+            - "10"
+          indent: true
+        - label: Calvin "Cordie" Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Earl Jerome Vining
+          values:
+            - ""
+            - "7"
+          indent: true
+        - label: Shirley Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+        - label: Kenneth Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Monroe, Monroe County, Michigan - dwelling 178, family 184
+        images:
+          - src: Elmer03census1930.jpg
+      - year: "1940"
+        caption: Monroe, Monroe County, Michigan
+        images:
+          - src: Elmer03census1940.jpg

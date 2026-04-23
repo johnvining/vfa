@@ -1,0 +1,101 @@
+id: FrankC01
+title: Frank Clarke Vining - Mary A. [Scuttle or Cosgrove ?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Frank Clarke Vining
+          values:
+            - "33"
+            - "?"
+            - "53"
+            - "62"
+            - "73"
+            - "?"
+        - label: Mary A. ([Scuttle or Cosgrove ?]) Vining
+          values:
+            - "28"
+            - "?"
+            - "50"
+            - "60"
+            - "71"
+            - "?"
+        - label: Thomas Vining
+          values:
+            - "10"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hattie Vining
+          values:
+            - 8 m.
+            - "?"
+            - "20"
+            - "30"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frank Clarke Vining Jr.
+          values:
+            - ""
+            - "?"
+            - "18"
+            - |-
+              [living? in separate household]
+              [see note below]
+            - ""
+            - ""
+          indent: true
+        - label: Helen Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - |-
+              27
+              [see note below
+            - "?"
+            - "?"
+          indent: true
+        - label: Evelyn Vining
+          values:
+            - ""
+            - "?"
+            - "14"
+            - |-
+              [living? in separate household]
+              [see note below]
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Pendleton, Umatilla County, Oregon - dwelling [?], family 135
+        images:
+          - src: FrankC01census1880.jpg
+      - year: "1900"
+        caption: Seattle (ward 9), King County, Washington - dwelling 321, family 326
+        images:
+          - src: FrankC01census1900.jpg
+      - year: "1910"
+        caption: >-
+          San Juan Island, San Juan County, Washington - dwelling 8, family 8. By 1910, Helen Vining was married, and a
+          sister (Hattie) and her parents were boarding in her household. The census reported that only four of Mary A.
+          Vining’s children were living, one fewer than the previous census. Frank Clarke Jr. and Evelyn are the only
+          two who cannot be accounted for in 1910, so one of them was presumably dead.
+        images:
+          - src: FrankC01census1910.jpg
+      - year: "1920"
+        caption: San Juan Island, San Juan County, Washington - dwelling 6, family 6
+        images:
+          - src: FrankC01census1920.jpg

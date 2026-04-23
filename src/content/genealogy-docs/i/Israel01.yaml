@@ -1,0 +1,155 @@
+id: Israel01
+title: Israel Vining - Abia Dunbar
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: Israel Vining
+          values:
+            - M 16 and upward
+            - M 26–45
+            - "?"
+            - M 45 and older
+            - "?"
+            - dead
+        - label: Abia (Dunbar) Vining
+          values:
+            - F
+            - F 26–45
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Leavitt Vining
+          values:
+            - M under 16
+            - M 10–16
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Polly Vining
+          values:
+            - F
+            - F 10–16
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Jacob Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ansel Vining
+          values:
+            - M under 16
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eunice Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - not living in this household
+            - "?"
+            - "?"
+          indent: true
+        - label: Elisha Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Joseph Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - "[see note below["
+            - "?"
+            - "?"
+          indent: true
+        - label: Israel Vining Jr.
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ansel Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - "[see note below]"
+            - "?"
+            - "?"
+          indent: true
+        - label: Israel Royal Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Cullen Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "[see note below]"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mariah Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - F 10–16
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Windsor, Berkshire County, Massachusetts. The age of each member of this family in 1790 matches the expected
+          age category in the 1790 census record.
+      - year: "1800"
+        caption: Windsor, Berkshire County, Massachusetts
+      - year: "1820"
+        caption: Windsor, Berkshire County, Massachusetts - Only one male 16-26 was reported to live in this household in 1820.
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Israel Vining and Abia (Dunbar) Vining, in Bush Cemetery, Windsor, Berkshire County,
+          Massachusetts (Source: Find A Grave):
+        images:
+          - src: Israel01gravestone.jpg
+          - src: Israel01wifegravestone.jpg
+        inline: true

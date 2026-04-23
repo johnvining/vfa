@@ -1,0 +1,67 @@
+id: FrankN01
+sequence: 38
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: NathanielH01
+parentLetter: N
+parentDesc: Nathaniel Haws Vining and Anna L. Stone
+head:
+  givenName: Frank Newell
+  birth:
+    date: 22 March 1872
+    place: "St. Albans, Maine"
+  death:
+    date: 26 May 1919
+    place: "St. Albans, Maine"
+  burial:
+    place: "St. Albans, Maine"
+marriages:
+  - date: 23 October 1907
+    place: "St. Albans, Maine"
+    spouse:
+      givenName: "Clara Belle &#8220;Carrie&#8221;"
+      surname: Hanson
+      parents: "(dau. of Charles E. Hanson and Dora [...])"
+      birth:
+        date: 14 March 1878
+        place: "Ripley, Maine"
+      death:
+        date: 4 July 1966
+        place: "Hartland, Maine"
+      burial:
+        place: "Village Cemetery   St. Albans, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Nathaniel Hanson Vining
+        entryId: NathanielH02
+        entryLetter: N
+        birth:
+          date: 2 March 1909
+          place: Maine
+        marriages:
+          - date: 27 December 1930
+            place: "Pittsfield, Maine"
+            spouse: "Elsie Baird,   divorced"
+        death:
+          date: 16 June 1971
+          place: "Pittsfield, Maine"
+docsUrl: Fsources/FrankN01doc.htm
+raw: |-
+  <a name="FrankN01"></a><font size=+2>Frank Newell Vining</font>
+     (son of <a href="Nfamilies.htm#NathanielH01">Nathaniel Haws Vining and Anna L. Stone</a>)
+     b. 22 March 1872   St. Albans, Maine
+     m. 23 October 1907   St. Albans, Maine
+           Clara Belle &#8220;Carrie&#8221; Hanson
+                 (dau. of Charles E. Hanson and Dora [...])
+                 b. 14 March 1878   Ripley, Maine
+                 d. 4 July 1966   Hartland, Maine
+                       bur. Village Cemetery   St. Albans, Maine
+     d. 26 May 1919   St. Albans, Maine
+           bur. St. Albans, Maine
+  
+  <font size=+1>child:</font>
+     <a href="Nfamilies.htm#NathanielH02">Nathaniel Hanson Vining</a>   b. 2 March 1909   Maine   -   m.   27 December 1930   Pittsfield, Maine   Elsie Baird,   divorced   -   d. 16 June 1971   Pittsfield, Maine
+  
+  <a href="Fsources/FrankN01doc.htm">documentation and notes</a>

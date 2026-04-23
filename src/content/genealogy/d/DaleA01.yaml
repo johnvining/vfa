@@ -1,0 +1,24 @@
+id: DaleA01
+sequence: 2
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: SidneyE01
+parentLetter: S
+parentDesc: Sidney Ellsworth Vining and Dorothy Frances Battersby
+head:
+  givenName: Dale Alan
+  birth:
+    date: 28 October 1949
+    place: "Los Angeles, Los Angeles County, California"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Dale Alan Vining Jr.
+raw: |-
+  <a name="DaleA01"></a><font size=+2>Dale Alan Vining</font>
+     (son of <a href="Sfamilies.htm#SidneyE01">Sidney Ellsworth Vining and Dorothy Frances Battersby</a>)
+     b. 28 October 1949   Los Angeles, Los Angeles County, California
+  
+  <font size=+1>child:</font>
+     Dale Alan Vining Jr.

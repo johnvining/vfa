@@ -1,0 +1,60 @@
+id: AlbertM01
+letter: A
+sequence: 33
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JosephW01
+parentLetter: J
+parentDesc: "Joseph W. Vining and Leona [...]"
+head:
+  givenName: Albert Minton
+  birth:
+    date: 27 July 1867
+    place: Texas
+  death:
+    date: 2 February 1936
+    place: "Jacksonville, Cherokee County, Texas"
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+marriages:
+  - spouse:
+      givenName: Susan Belle
+      surname: Tatum
+      birth:
+        date: 12 May 1870
+        place: "Memphis, Shelby County, Tennessee"
+      death:
+        date: 23 December 1959
+        place: "San Antonio, Bexar County, Texas"
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Miriam Vining
+        birth:
+          date: 31 July 1898
+          place: Texas
+        marriages:
+          - date: Thomas Watson Brabham
+        death:
+          date: 8 November 1972
+          place: "Midland, Midland County, Texas"
+        burial:
+          place: "Sunset Memorial Park   San Antonio, Bexar County, Texas"
+docsUrl: Asources/AlbertM01doc.htm
+raw: |-
+  <a name="AlbertM01"></a><font size="+2">Albert Minton Vining</font>
+     (son of <a href="Jfamilies.htm#JosephW01">Joseph W. Vining and Leona [...]</a>)
+     b. 27 July 1867   Texas
+     m. Susan Belle Tatum
+              b. 12 May 1870   Memphis, Shelby County, Tennessee
+              d. 23 December 1959   San Antonio, Bexar County, Texas
+                    bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     d. 2 February 1936   Jacksonville, Cherokee County, Texas
+           bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+  
+  <font size="+1">child:</font>
+     Miriam Vining   b. 31 July 1898   Texas   -   m. Thomas Watson Brabham   -   d. 8 November 1972   Midland, Midland County, Texas   -   bur. Sunset Memorial Park   San Antonio, Bexar County, Texas
+  
+  <a href="Asources/AlbertM01doc.htm">documentation and notes</a>

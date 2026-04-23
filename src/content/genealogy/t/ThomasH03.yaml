@@ -1,0 +1,81 @@
+id: ThomasH03
+letter: T
+sequence: 38
+lastUpdated: 9 March 2023
+relationship: son
+parentId: RandallL01
+parentLetter: R
+parentDesc: Randall Lee Vining and Laura Ann Horton
+head:
+  givenName: Thomas Horton
+  birth:
+    date: 2 September 1896
+    place: "Bolton, Hinds County, Mississippi"
+  death:
+    date: 11 February 1976
+    place: "Oak Grove, West Carroll Parish, Louisiana"
+  burial:
+    place: "Oak Grove Cemetery   Oak Grove, West Carroll Parish, Louisiana"
+marriages:
+  - date: 8 y. as of 1930 census
+    spouse:
+      givenName: Aunie Belle
+      surname: May
+      birth:
+        date: 24 August 1900
+        place: Mississippi
+      death:
+        date: 19 September 1989
+childrenGroups:
+  - children:
+      - name: Janice Vining
+        birth:
+          date: "1924"
+        marriages:
+          - date: "[...] Everett"
+        death:
+          date: "2007"
+      - name: Laura May Vining
+        birth:
+          date: 18 February 1927
+        marriages:
+          - date: Bill East
+        death:
+          date: 20 November 2007
+        burial:
+          place: "Oak Grove Cemetery   Oak Grove, West Carroll Parish, Louisiana"
+      - name: Thomas Horton Vining Jr.
+        entryId: ThomasHJr01
+        birth:
+          date: 10 August 1930
+          place: "Forest, Louisiana"
+        marriages:
+          - date: Bernice Jones
+        death:
+          date: 29 November 2012
+          place: "Farmerville, Louisiana"
+        burial:
+          place: "Mulhearn Memorial Park Cemetery   Monroe, Louisiana"
+      - name: Martha Rose Vining
+        birth:
+          date: "1932"
+        marriages:
+          - date: "[...] Brown"
+        death:
+          date: "1978"
+raw: |-
+  <a name="ThomasH03"></a><font size=+2>Thomas Horton Vining</font>
+     (son of <a href="Rfamilies.htm#RandallL01">Randall Lee Vining and Laura Ann Horton</a>)
+     b. 2 September 1896   Bolton, Hinds County, Mississippi
+     m. 8 y. as of 1930 census
+           Aunie Belle May
+                 b. 24 August 1900   Mississippi
+                 d. 19 September 1989
+     d. 11 February 1976   Oak Grove, West Carroll Parish, Louisiana
+           bur. Oak Grove Cemetery   Oak Grove, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Janice Vining   b. 1924   -   m. [...] Everett   -   d. 2007
+     Laura May Vining   b. 18 February 1927   -   m. Bill East   -   d. 20 November 2007   -   bur. Oak Grove Cemetery   Oak Grove, West Carroll Parish, Louisiana
+     <a href="#ThomasHJr01">Thomas Horton Vining Jr.</a>   b. 10 August 1930   Forest, Louisiana   -   m. Bernice Jones   -   d. 29 November 2012   Farmerville, Louisiana   -   bur. Mulhearn Memorial Park Cemetery   Monroe, Louisiana
+     Martha Rose Vining   b. 1932   -   m. [...] Brown   -   d. 1978

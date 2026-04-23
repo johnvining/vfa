@@ -1,0 +1,160 @@
+id: Samuel09
+letter: S
+sequence: 5
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Shadrack01
+parentDesc: Shadrack Vining and Phereby Ratcliff(e)
+head:
+  givenName: Samuel
+  birth:
+    date: 17 May 1797
+    place: "[Jefferson County, Georgia or South Carolina?]"
+  death:
+    date: 30 April 1860
+    place: "Eufala, Barbour County, Alabama"
+  burial:
+    place: "Eufala, Barbour County, Alabama"
+marriages:
+  - number: 1
+    date: "[13 or 18?] January 1820"
+    place: "Putnam County, Georgia"
+    spouse:
+      givenName: Tabitha
+      surname: Evans
+      birth:
+        date: ca. 1799
+      death:
+        date: "1824"
+  - number: 2
+    date: 3 December 1827
+    place: "Crawford County, Georgia"
+    spouse:
+      givenName: Jane
+      surname: McBride
+      birth:
+        date: ca. 1805
+  - number: 3
+    date: "19 June [1853?]"
+    place: "Eufala, Barbour County, Alabama"
+    spouse:
+      givenName: Mary
+      surname: McBride
+      birth:
+        date: age 56 y. as of 1850 census
+childrenGroups:
+  - spouseRef: Tabitha Evans
+    children:
+      - name: Jefferson Ashley Vining
+        entryId: JeffersonA01
+        entryLetter: J
+        birth:
+          date: 26 February 1822
+          place: "Putnam County, Georgia"
+        marriages:
+          - date: 9 May 1847
+            spouse: Mary Elizabeth Fry
+        death:
+          date: 1 December 1883
+          place: "Eufaula, Barbour County, Alabama"
+      - name: Robert Boyd Vining
+        birth:
+          date: 20 June 1823
+          place: Georgia
+        death:
+          date: 1865 (in Civil War)
+  - spouseRef: Jane McBride
+    children:
+      - name: Rachel Vining
+        birth:
+          date: 9 September 1828
+        death:
+          date: 23 January 1879
+      - name: David John Vining
+        entryId: DavidJ02
+        entryLetter: D
+        birth:
+          date: 23 February 1830
+          place: Georgia
+        death:
+          date: January 1862 (in Civil War)
+      - name: Washington Franklin Vining
+        entryId: WashingtonF01
+        entryLetter: W
+        birth:
+          date: 1 December 1831
+          place: Georgia
+        marriages:
+          - date: "Martha [&#8230;]"
+        death:
+          date: 12 September 1862 (in Civil War)
+      - name: Jackson Lafayette Vining
+        entryId: JacksonL01
+        entryLetter: J
+        birth:
+          date: "[22 January 2834 or 25 November 1833?]"
+          place: Georgia
+        marriages:
+          - date: "[1?] Sarah [&#8230;];"
+            spouse: "[2?] Hester [&#8230;]"
+        death:
+          date: 21 May 1899
+        burial:
+          place: "Rose Hill Cemetery   Macon, Bibb County, Georgia"
+      - name: Eliza Jane Vining
+        birth:
+          date: "13 [November or December?] 1835"
+        death:
+          date: 7 June 1870
+      - name: William Mosely Vining
+        birth:
+          date: 3 October 1837
+        death:
+          date: "7 December 18[73 or 93?]"
+      - name: George Bunyon Vining
+        birth:
+          date: 3 October 1839
+        death:
+          date: 26 August 1861
+          place: "Pensacola, Florida"
+      - name: Sarah Vining
+        birth:
+          date: 15 September 1842
+      - name: Anna Vining
+        birth:
+          date: "[13 or 3] September 1845"
+        death:
+          date: 7 October 1859
+docsUrl: Ssources/Samuel09doc.htm
+raw: |-
+  <a name="Samuel09"></a><font size=+2>Samuel Vining</font>
+     (son of <a href="#Shadrack01">Shadrack Vining and Phereby Ratcliff(e)</a>)
+     b. 17 May 1797   [Jefferson County, Georgia or South Carolina?]
+     m. (1) [13 or 18?] January 1820   Putnam County, Georgia
+                 Tabitha Evans
+                       b. ca. 1799
+                       d. 1824
+           (2) 3 December 1827   Crawford County, Georgia
+                 Jane McBride
+                       b. ca. 1805
+           (3) 19 June [1853?]   Eufala, Barbour County, Alabama
+                 Mary McBride
+                       b. age 56 y. as of 1850 census
+     d. 30 April 1860   Eufala, Barbour County, Alabama
+           bur. Eufala, Barbour County, Alabama
+  
+  <font size=+1>children by Tabitha Evans:</font>
+     <a href="Jfamilies.htm#JeffersonA01">Jefferson Ashley Vining</a>   b. 26 February 1822   Putnam County, Georgia   -   m. 9 May 1847   Mary Elizabeth Fry   -   d. 1 December 1883   Eufaula, Barbour County, Alabama
+     Robert Boyd Vining   b. 20 June 1823   Georgia   -   d. 1865 (in Civil War)
+  <font size=+1>children by Jane McBride:</font>
+     Rachel Vining   b. 9 September 1828   -   d. 23 January 1879
+     <a href="Dfamilies.htm#DavidJ02">David John Vining</a>   b. 23 February 1830   Georgia   -   d. January 1862 (in Civil War)
+     <a href="Wfamilies.htm#WashingtonF01">Washington Franklin Vining</a>   b. 1 December 1831   Georgia   -   m. Martha [&#8230;]   -   d. 12 September 1862 (in Civil War)
+     <a href="Jfamilies.htm#JacksonL01">Jackson Lafayette Vining</a>   b. [22 January 2834 or 25 November 1833?]   Georgia   -   m. [1?] Sarah [&#8230;];   [2?] Hester [&#8230;]   -   d. 21 May 1899   -   bur. Rose Hill Cemetery   Macon, Bibb County, Georgia
+     Eliza Jane Vining   b. 13 [November or December?] 1835   -   d. 7 June 1870
+     William Mosely Vining   b. 3 October 1837   -   d. 7 December 18[73 or 93?]
+     George Bunyon Vining   b. 3 October 1839   -   d. 26 August 1861   Pensacola, Florida
+     Sarah Vining   b. 15 September 1842
+     Anna Vining   b. [13 or 3] September 1845   -   d. 7 October 1859
+  
+  <a href="Ssources/Samuel09doc.htm">documentation and notes</a>

@@ -1,0 +1,81 @@
+id: AustinJ01
+letter: A
+sequence: 112
+lastUpdated: 1 February 2021
+relationship: son
+parentId: FrankW01
+parentLetter: F
+parentDesc: "Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith"
+head:
+  givenName: Austin James
+  birth:
+    date: 10 August 1884
+    place: Illinois
+  death:
+    date: 20 April 1946
+    place: "Wilmington, Will County, Illinois"
+  burial:
+    place: "Custer Township Cemetery   Custer Park, Will County, Illinois"
+marriages:
+  - spouse:
+      givenName: Fanny
+      surname: Darby
+      parents: "(dau. of [&#8230;] Darby and Amy [&#8230;])"
+      birth:
+        date: "1897"
+        place: Illinois
+      death:
+        date: "1981"
+      burial:
+        place: "Custer Township Cemetery   Custer Park, Will County, Illinois"
+childrenGroups:
+  - children:
+      - name: LaVern Avery Vining
+        entryId: LaVernA01
+        entryLetter: L
+        birth:
+          date: 15 May 1914
+          place: "Custer Park, Will County, Illinois"
+        marriages:
+          - date: "(!) 25 February 1938"
+            place: "Kankakee County, Illinois"
+            spouse: "Mildred Rosella Brown; divorce;  (2) 6 October 1945   Joliet, Will County, Illinois   Joan H. Rimke"
+        death:
+          date: 31 May 1999
+          place: "Bradley, Kankakee County, Illinois"
+        burial:
+          place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois ?]"
+      - name: Austin James Vining Jr.
+        entryId: AustinJJr01
+        birth:
+          date: 21 March 1926
+          place: Illinois
+        marriages:
+          - date: Dorothy M. Wandless (Byford)
+        death:
+          date: 2 July 1983
+        burial:
+          place: "North Providence Ridge Cemetery   Elwood, Peoria County, Illinois"
+      - name: Richard Emerson Vining
+        birth:
+          date: age 7 m. as of 1930 census
+          place: Illinois
+docsUrl: Asources/AustinJ01doc.htm
+raw: |-
+  <a name="AustinJ01"></a><font size="+2">Austin James Vining</font>
+     (son of <a href="Ffamilies.htm#FrankW01">Frank Winslow Vining and Jeanette &#8220;Nettie&#8221; Smith</a>)
+     b. 10 August 1884   Illinois
+     m. Fanny Darby
+              (dau. of [&#8230;] Darby and Amy [&#8230;])
+              b. 1897   Illinois
+              d. 1981
+                    bur. Custer Township Cemetery   Custer Park, Will County, Illinois
+     d. 20 April 1946   Wilmington, Will County, Illinois
+           bur. Custer Township Cemetery   Custer Park, Will County, Illinois
+  
+  <font size="+1">children:</font>
+     <a href="Lfamilies.htm#LaVernA01">LaVern Avery Vining</a>   b. 15 May 1914   Custer Park, Will County, Illinois   -   m. (!) 25 February 1938   Kankakee County, Illinois   Mildred Rosella Brown; divorce;  (2) 6 October 1945   Joliet, Will County, Illinois   Joan H. Rimke   -   d. 31 May 1999   Bradley, Kankakee County, Illinois   -   bur. Mound Grove Cemetery   Kankakee, Kankakee County, Illinois ?]
+     <a href="#AustinJJr01">Austin James Vining Jr.</a>   b. 21 March 1926   Illinois   -   m. Dorothy M. Wandless (Byford)   -   d. 2 July 1983   -   bur. North Providence Ridge Cemetery   Elwood, Peoria County, Illinois
+     Richard Emerson Vining   b. age 7 m. as of 1930 census   Illinois
+  
+  <a href="Asources/AustinJ01doc.htm">documentation and notes</a>

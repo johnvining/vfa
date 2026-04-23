@@ -1,0 +1,32 @@
+id: RayW01
+title: Ray W. Vining - Frances M. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Ray W. Vining
+          values:
+            - "26"
+        - label: Frances M. ([...]) Vining
+          values:
+            - "24"
+        - label: Donna Vining
+          values:
+            - "6"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          Guilford, Wilson County, Kansas. In 1940, Ray W. Vining and his wife and daughter were living in the household
+          of his parents.
+        images:
+          - src: RayW01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ray W. Vining and Frances M. ([...]) Vining, in High Prairie Cemetery, Altoona, Wilson County,
+          Kansas (from Find A Grave):
+        images:
+          - src: RayW01andwifeheadstone.jpg

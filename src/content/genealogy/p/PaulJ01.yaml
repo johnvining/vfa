@@ -1,0 +1,75 @@
+id: PaulJ01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: George08
+parentLetter: G
+parentDesc: George Vining and Susanna Katherine Rice
+head:
+  givenName: Paul J.
+  birth:
+    date: 8 October 1934
+    place: "Fort Wayne, Indiana"
+  death:
+    date: 20 August 2020
+    place: Indiana
+marriages:
+  - date: 7 August 1954
+    place: "Fort Wayne, Indiana"
+    spouse:
+      givenName: Patricia L.
+      surname: Repp
+      parents: "(dau. of Perry Repp and Emma Austin)"
+      birth:
+        date: 18 September 1936
+        place: "Lisbon, Indiana"
+      death:
+        date: 17 December 2013
+        place: "Fort Wayne, Indiana"
+      burial:
+        place: "Saint Joseph Catholic Cemetery   Roanoke, Indiana"
+childrenGroups:
+  - children:
+      - name: Paula Vining
+        marriages:
+          - date: Steven Stinsen
+      - name: David M. Vining
+        entryId: DavidM05
+        entryLetter: D
+        birth:
+          date: 25 October 1956
+          place: "Fort Wayne, Indiana"
+        marriages:
+          - date: 18 February 1984
+            spouse: Carol Shaw
+        death:
+          date: 6 January 2021
+          place: "Fort Wayne, Indiana"
+        burial:
+          place: "Covington Memorial Gardens   Fort Wayne, Indiana"
+      - name: Steven Vining
+      - name: Joseph Vining
+        marriages:
+          - date: "Lori [&#8230;]"
+      - name: Anthony Vining
+docsUrl: Psources/PaulJ01doc.htm
+raw: |-
+  <a name="PaulJ01"></a><font size=+2>Paul J. Vining</font>
+     (son of <a href="Gfamilies.htm#George08">George Vining and Susanna Katherine Rice</a>)
+     b. 8 October 1934   Fort Wayne, Indiana
+     m. 7 August 1954   Fort Wayne, Indiana
+           Patricia L. Repp
+                 (dau. of Perry Repp and Emma Austin)
+                 b. 18 September 1936   Lisbon, Indiana
+                 d. 17 December 2013   Fort Wayne, Indiana
+                       bur. Saint Joseph Catholic Cemetery   Roanoke, Indiana
+     d. 20 August 2020   Indiana
+  
+  <font size=+1>children:</font>
+     Paula Vining   m. Steven Stinsen
+     <a href="Dfamilies.htm#DavidM05">David M. Vining</a>   b. 25 October 1956   Fort Wayne, Indiana   -   m. 18 February 1984   Carol Shaw   -   d. 6 January 2021   Fort Wayne, Indiana   -   bur. Covington Memorial Gardens   Fort Wayne, Indiana
+     Steven Vining
+     Joseph Vining   m. Lori [&#8230;]
+     Anthony Vining
+  
+  <a href="Psources/PaulJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,52 @@
+id: JackH01
+sequence: 3
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JacksonL02
+parentDesc: Jackson L. Vining and Catherine Elizabeth Harrison
+head:
+  givenName: Jack Harrison
+  birth:
+    date: 29 February 1932
+    place: "New Haven, Connecticut"
+  death:
+    date: 2 February 2019
+  burial:
+    place: "West Street Cemetery   Columbia, Connecticut"
+marriages:
+  - date: 12 July 1958
+    place: "Monticello, Florida"
+    spouse:
+      givenName: Madge Burt
+      surname: Alexander
+childrenGroups:
+  - children:
+      - name: Mark Vining
+      - name: Debbie Vining
+        marriages:
+          - date: Jim Forde
+      - name: Jay Vining
+        entryId: Jay01
+        marriages:
+          - date: "Sue [&#8230;]"
+      - name: Lynsie Vining
+        marriages:
+          - date: David White
+docsUrl: Jsources/JackH01doc.htm
+raw: |-
+  <a name="JackH01"></a><font size=+2>Jack HarrisonVining</font>
+     (son of <a href="#JacksonL02">Jackson L. Vining and Catherine Elizabeth Harrison</a>)
+     b. 29 February 1932   New Haven, Connecticut
+     m. 12 July 1958   Monticello, Florida
+           Madge Burt Alexander
+     d. 2 February 2019
+           bur. West Street Cemetery   Columbia, Connecticut
+  
+  <font size=+1>children:</font>
+     Mark Vining
+     Debbie Vining   m. Jim Forde
+     <a href="#Jay01">Jay Vining</a>   m. Sue [&#8230;]
+     Lynsie Vining   m. David White
+  
+  <a href="Jsources/JackH01doc.htm">documentation and notes</a>

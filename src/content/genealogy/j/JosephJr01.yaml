@@ -1,0 +1,96 @@
+id: JosephJr01
+sequence: 296
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Joseph01
+parentDesc: Joseph Vining and Olive Torrey
+head:
+  givenName: Joseph Jr.
+  birth:
+    date: 26 November 1766
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 10 March 1852
+    place: "Plainfield, Massachusetts"
+marriages:
+  - date: 25 September 1787
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Sarah
+      surname: Porter
+childrenGroups:
+  - children:
+      - name: Olive Vining
+        birth:
+          date: 6 October 1789
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 17 February 1814
+            place: "Plainfield, Massachusetts"
+            spouse: Eli White
+      - name: Hannah Vining
+        birth:
+          date: 4 October 1794
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 1 July 1817/19
+            place: "Plainfield, Massachusetts"
+            spouse: Silas Snow Jr.
+      - name: Ruth Vining
+        birth:
+          date: 2 April 1797
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Charles Vining
+        entryId: Charles08
+        entryLetter: C
+        birth:
+          date: 23 December 1799
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 25 September 1822
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: "Martha Nash &#8220;Patty&#8221; Porter"
+      - name: Minot T. Vining
+        entryId: MinotT01
+        entryLetter: M
+        birth:
+          date: 20 March 1804
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 12 October 1826
+            spouse: Hannah Stowell
+          - number: 2
+            date: intentions 5 October 1852
+            place: "Amherst, Massachusetts"
+            spouse: "Mrs. Emeline Smith (n&#233;e Moore)"
+        death:
+          date: 10 May 1883
+        burial:
+          place: "Chatham Township Cemetery   Chatham, Ohio"
+      - name: Charlotte Griggs Vining
+        birth:
+          date: 28 June 1809
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: 1 February 1827
+            spouse: David Stowell
+docsUrl: Jsources/JosephJr01doc.htm
+raw: |-
+  <a name="JosephJr01"></a><font size=+2>Joseph Vining Jr.</font>
+     (son of <a href="#Joseph01">Joseph Vining and Olive Torrey</a>)
+     b. 26 November 1766   Weymouth, Norfolk County, Massachusetts
+     m. 25 September 1787   Weymouth, Norfolk County, Massachusetts
+           Sarah Porter
+     d. 10 March 1852   Plainfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     Olive Vining   b. 6 October 1789   Weymouth, Norfolk County, Massachusetts   -   m. 17 February 1814   Plainfield, Massachusetts   Eli White
+     Hannah Vining   b. 4 October 1794   Weymouth, Norfolk County, Massachusetts   -   m. 1 July 1817/19   Plainfield, Massachusetts   Silas Snow Jr.
+     Ruth Vining   b. 2 April 1797   Weymouth, Norfolk County, Massachusetts
+     <a href="Cfamilies.htm#Charles08">Charles Vining</a>   b. 23 December 1799   Weymouth, Norfolk County, Massachusetts   -   m. 25 September 1822   Weymouth, Norfolk County, Massachusetts   Martha Nash &#8220;Patty&#8221; Porter
+     <a href="Mfamilies.htm#MinotT01">Minot T. Vining</a>   b. 20 March 1804   Weymouth, Norfolk County, Massachusetts   -   m. (1) 12 October 1826   Hannah Stowell;   (2) intentions 5 October 1852   Amherst, Massachusetts   Mrs. Emeline Smith (n&#233;e Moore)   -   d. 10 May 1883   -   bur. Chatham Township Cemetery   Chatham, Ohio
+     Charlotte Griggs Vining   b. 28 June 1809   Plainfield, Massachusetts   -   m. 1 February 1827   David Stowell
+  
+  <a href="Jsources/JosephJr01doc.htm">documentation and notes</a>

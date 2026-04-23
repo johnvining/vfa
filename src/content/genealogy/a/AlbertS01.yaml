@@ -1,0 +1,89 @@
+id: AlbertS01
+letter: A
+sequence: 36
+lastUpdated: 1 February 2021
+relationship: son
+parentId: BenjaminB02
+parentLetter: B
+parentDesc: Benjamin Burton Vining and Margaret Ann Biggam
+head:
+  givenName: Albert Scott
+  birth:
+    date: 21 January 1859
+  death:
+    date: 30 January 1907
+  burial:
+    place: "Highland View Cemetery   Big Rapids, Mecosta County, Michigan"
+marriages:
+  - date: 11 y. as of 1900 census
+    spouse:
+      givenName: Mary
+      surname: Haase
+      birth:
+        date: 28 September 1868
+        place: Germany
+      death:
+        date: 20 January 1937
+      burial:
+        place: "Highland View Cemetery   Big Rapids, Mecosta County, Michigan"
+childrenGroups:
+  - children:
+      - name: Hazel Vining
+        birth:
+          date: May 1890
+          place: Michigan
+      - name: James L. Vining
+        birth:
+          date: 15 March 1892
+          place: Michigan
+        death:
+          date: 19 May 1934
+        burial:
+          place: "Highland View Cemetery   Big Rapids, Mecosta County, Michigan"
+      - name: Edna Vining
+        birth:
+          date: September 1894
+          place: Michigan
+        marriages:
+          - date: "[&#8230;] Cole"
+      - name: Rhea A. Vining
+        birth:
+          date: 15 November 1896
+          place: Michigan
+        death:
+          date: 21 December 1905
+          place: Michigan
+        burial:
+          place: "Highland View Cemetery   Big Rapids, Mecosta County, Michigan"
+      - name: Albert Dewey Vining
+        entryId: AlbertD01
+        birth:
+          date: 24 October 1898
+          place: "Big Rapids, Mecosta County, Michigan"
+        marriages:
+          - date: Esther C. Miller
+        death:
+          date: 27 February 1992
+        burial:
+          place: "Forest Home Cemetery   Greenville, Montcalm County, Michigan"
+docsUrl: Asources/AlbertS01doc.htm
+raw: |-
+  <a name="AlbertS01"></a><font size="+2">Albert Scott Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminB02">Benjamin Burton Vining and Margaret Ann Biggam</a>)
+     b. 21 January 1859
+     m. 11 y. as of 1900 census
+           Mary Haase
+                 b. 28 September 1868   Germany
+                 d. 20 January 1937
+                       bur. Highland View Cemetery   Big Rapids, Mecosta County, Michigan
+     d. 30 January 1907
+           bur. Highland View Cemetery   Big Rapids, Mecosta County, Michigan
+  
+  <font size="+1">children:</font>
+     Hazel Vining   b. May 1890   Michigan
+     James L. Vining   b. 15 March 1892   Michigan   -   d. 19 May 1934   -   bur. Highland View Cemetery   Big Rapids, Mecosta County, Michigan
+     Edna Vining   b. September 1894   Michigan   -   m. [&#8230;] Cole
+     Rhea A. Vining   b. 15 November 1896   Michigan   -   d. 21 December 1905   Michigan   -   bur. Highland View Cemetery   Big Rapids, Mecosta County, Michigan
+     <a href="#AlbertD01">Albert Dewey Vining</a>   b. 24 October 1898   Big Rapids, Mecosta County, Michigan   -   m. Esther C. Miller   -   d. 27 February 1992   -   bur. Forest Home Cemetery   Greenville, Montcalm County, Michigan
+  
+  <a href="Asources/AlbertS01doc.htm">documentation and notes</a>

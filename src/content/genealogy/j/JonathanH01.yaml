@@ -1,0 +1,75 @@
+id: JonathanH01
+sequence: 184
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Reuben03
+parentLetter: R
+parentDesc: "Reuben Vining and Nancy [Averatt or Avera?]"
+head:
+  givenName: "Jonathan H. &#8220;John&#8221;"
+  birth:
+    date: age 28 y. as of 1860 census
+    place: Georgia
+  death:
+    place: "Kerr, Texas"
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: Stratford
+      birth:
+        date: age 27 y. as of 1860 census
+        place: Germany
+childrenGroups:
+  - children:
+      - name: Nancy Vining
+        birth:
+          date: age 6 y. as of 1860 census
+          place: Alabama
+      - name: Walter Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Texas
+      - name: Sarah Vining
+        birth:
+          date: age 19 y. as of 1880 census
+          place: Texas
+      - name: Jeff Lee Vining
+        entryId: JeffL01
+        birth:
+          date: October 1863
+          place: Texas
+        marriages:
+          - date: Betty Rees
+        death:
+          date: "1945"
+        burial:
+          place: "Austin Memorial Park Cemetery   Austin, Texas"
+      - name: Reuben Vining   b age 11 y. as of 1880 census   Texas
+      - name: Jack Vining
+        birth:
+          date: age 10 y. as of 1880 census
+          place: Texas
+      - name: John Vining
+        birth:
+          date: age 8 y. as of 1880 census
+          place: Texas
+docsUrl: Jsources/JonathanH01doc.htm
+raw: |-
+  <a name="JonathanH01"></a><font size=+2>Jonathan H. &#8220;John&#8221; Vining</font>
+     (son of <a href="Rfamilies.htm#Reuben03">Reuben Vining and Nancy [Averatt or Avera?]</a>)
+     b. age 28 y. as of 1860 census   Georgia
+     m. Elizabeth Stratford
+              b. age 27 y. as of 1860 census   Germany
+     d. Kerr, Texas
+  
+  <font size=+1>children:</font>
+     Nancy Vining   b. age 6 y. as of 1860 census   Alabama
+     Walter Vining   b. age 1 y. as of 1860 census   Texas
+     Sarah Vining   b. age 19 y. as of 1880 census   Texas
+     <a href="#JeffL01">Jeff Lee Vining</a>   b. October 1863   Texas   -   m. Betty Rees   -   d. 1945   -   bur. Austin Memorial Park Cemetery   Austin, Texas
+     Reuben Vining   b age 11 y. as of 1880 census   Texas
+     Jack Vining   b. age 10 y. as of 1880 census   Texas
+     John Vining   b. age 8 y. as of 1880 census   Texas
+  
+  <a href="Jsources/JonathanH01doc.htm">documentation and notes</a>

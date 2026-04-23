@@ -1,0 +1,57 @@
+id: DavidB01
+sequence: 41
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WalterR01
+parentLetter: W
+parentDesc: Walter Ray Vining and Alice Anderson
+head:
+  givenName: David Burchim
+  birth:
+    date: 11 October 1935
+marriages:
+  - spouse:
+      givenName: Beatrice
+      surname: Orins
+      birth:
+        date: "1936"
+      death:
+        date: October 1998
+      burial:
+        place: "Restlawn Memory Gardens   Huron, South Dakota"
+childrenGroups:
+  - children:
+      - name: Keith Burchim Vining
+        entryId: KeithB01
+        entryLetter: K
+        birth:
+          date: 27 March 1956
+        marriages:
+          - spouse: "Vickie [...]"
+        death:
+          date: 7 June 1991
+        burial:
+          place: "Restlawn Memory Gardens, Huron, Beadle County, South Dakota"
+      - name: Kevin Brian Vining
+        entryId: KevinB01
+        entryLetter: K
+        birth:
+          date: 26 July 1957
+        marriages:
+          - spouse: "Luann [...]"
+docsUrl: Dsources/DavidB01doc.htm
+raw: |-
+  <a name="DavidB01"></a><font size=+2>David Burchim Vining</font>
+     (son of <a href="Wfamilies.htm#WalterR01">Walter Ray Vining and Alice Anderson</a>)
+     b. 11 October 1935
+     m. Beatrice Orins
+              b. 1936
+              d. October 1998
+                    bur. Restlawn Memory Gardens   Huron, South Dakota
+  
+  <font size=+1>children:</font>
+     <a href="Kfamilies.htm#KeithB01">Keith Burchim Vining</a>   b. 27 March 1956   -   m. Vickie [...]   -   d. 7 June 1991   -   bur. Restlawn Memory Gardens, Huron, Beadle County, South Dakota
+     <a href="Kfamilies.htm#KevinB01">Kevin Brian Vining</a>   b. 26 July 1957   -   m. Luann [...]
+  
+  <a href="Dsources/DavidB01doc.htm">documentation and notes</a>

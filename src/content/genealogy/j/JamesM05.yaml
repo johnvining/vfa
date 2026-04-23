@@ -1,0 +1,44 @@
+id: JamesM05
+sequence: 82
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FloydR01
+parentLetter: F
+parentDesc: Floyd R. Vining and Pearlie May Brooks
+head:
+  givenName: James Monroe
+  birth:
+    date: 27 February 1927
+    place: "Limestone County, Alabama"
+  death:
+    date: 5 February 2002
+  burial:
+    place: "Gatlin Cemetery   Ardmore, Limestone County, Alabama"
+marriages:
+  - spouse:
+      givenName: Gertrude
+      surname: Graviet
+childrenGroups:
+  - children:
+      - name: Patsy Vining
+        marriages:
+          - date: Marvin E. Ruf
+      - name: James Roger Vining
+        marriages:
+          - date: "Debbie K. [...]"
+      - name: Paula Vining
+        marriages:
+          - date: Joe B. Bullington
+raw: |-
+  <a name="JamesM05"></a><font size=+2>James Monroe Vining</font>
+     (son of <a href="Ffamilies.htm#FloydR01">Floyd R. Vining and Pearlie May Brooks</a>)
+     b. 27 February 1927   Limestone County, Alabama
+     m. Gertrude Graviet
+     d. 5 February 2002
+           bur. Gatlin Cemetery   Ardmore, Limestone County, Alabama
+  
+  <font size=+1>children:</font>
+     Patsy Vining   m. Marvin E. Ruf
+     James Roger Vining   m. Debbie K. [...]
+     Paula Vining   m. Joe B. Bullington

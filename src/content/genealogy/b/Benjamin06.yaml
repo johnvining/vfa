@@ -1,0 +1,98 @@
+id: Benjamin06
+letter: B
+sequence: 16
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Shadrack01
+parentLetter: S
+parentDesc: Shadrack Vining and Phereby Carmeal Ratcliff(e)
+head:
+  givenName: Benjamin
+  birth:
+    date: 29 September 1780
+    place: "Edgefield, Johnston County, North Carolina"
+  death:
+    date: "1862"
+    place: "Rusk, Cherokee County, Texas"
+marriages:
+  - date: 13 January 1802
+    place: Georgia
+    spouse:
+      givenName: "Mary &#8220;Polly&#8221;"
+      surname: King
+      parents: (dau. of John King and Jane Morehead)
+      birth:
+        date: "1784"
+        place: "Jefferson, Burke County, Georgia"
+      death:
+        date: "1830"
+childrenGroups:
+  - children:
+      - name: Reuben Vining
+        birth:
+          date: "1803"
+          place: "Burke County, Georgia"
+      - name: Simeon Vining
+        birth:
+          date: "1805"
+          place: "Jefferson County, Georgia"
+      - name: Albert Gallatin Vining
+        entryId: AlbertG02
+        entryLetter: A
+        birth:
+          date: "1806"
+          place: "Jefferson County, Georgia"
+        marriages:
+          - date: 17 January 1826
+            place: Georgia
+            spouse: Elizabeth Ann Gerrard
+        death:
+          date: "[1854 or 1855?]"
+          place: "[Murray County or Whitfield County ?], Georgia"
+        burial:
+          place: Norton Graveyard
+      - name: Cosby L. Vining
+        entryId: CosbyL02
+        entryLetter: C
+        birth:
+          date: "1810"
+          place: "Murray County, Georgia"
+        marriages:
+          - date: Martha Hudson
+        death:
+          date: "[1849 or 1862 ?]"
+          place: "Cherokee County, Texas"
+      - name: Lewis Milton Vining
+        birth:
+          date: ca. 1815
+        marriages:
+          - date: "1837"
+            place: "Floyd County, Georgia"
+            spouse: Hester L. Trimble
+        death:
+          date: "1853"
+          place: "Cherokee County, Texas"
+      - name: Lucy Vining
+        birth:
+          date: ca. 1817
+docsUrl: Bsources/Benjamin06doc.htm
+raw: |-
+  <a name="Benjamin06"></a><font size=+2>Benjamin Vining</font>
+     (son of <a href="Sfamilies.htm#Shadrack01">Shadrack Vining and Phereby Carmeal Ratcliff(e)</a>)
+     b. 29 September 1780   Edgefield, Johnston County, North Carolina
+     m. 13 January 1802   Georgia
+           Mary &#8220;Polly&#8221; King
+                   (dau. of John King and Jane Morehead)
+                 b. 1784   Jefferson, Burke County, Georgia
+                 d. 1830
+     d. 1862   Rusk, Cherokee County, Texas
+  
+  <font size=+1>children:</font>
+     Reuben Vining   b. 1803   Burke County, Georgia
+     Simeon Vining   b. 1805   Jefferson County, Georgia
+     <a href="Afamilies.htm#AlbertG02">Albert Gallatin Vining</a>   b. 1806   Jefferson County, Georgia   -   m. 17 January 1826   Georgia   Elizabeth Ann Gerrard   -   d. [1854 or 1855?]   [Murray County or Whitfield County ?], Georgia   -   bur. Norton Graveyard
+     <a href="Cfamilies.htm#CosbyL02">Cosby L. Vining</a>   b. 1810   Murray County, Georgia   -   m. Martha Hudson   -   d. [1849 or 1862 ?]   Cherokee County, Texas
+     Lewis Milton Vining   b. ca. 1815   -   m. 1837   Floyd County, Georgia   Hester L. Trimble   -   d. 1853   Cherokee County, Texas
+     Lucy Vining   b. ca. 1817
+  
+  <a href="Bsources/Benjamin06doc.htm">documentation and notes</a>

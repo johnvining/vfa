@@ -1,0 +1,46 @@
+id: Rickey01
+sequence: 73
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Rickey
+marriages:
+  - date: 26 y. as of death of Cassie (Runyon) Vining
+    spouse:
+      givenName: Cassie
+      surname: Runyon
+      parents: "(dau. of Mike Runyon and Toni Macaluso)"
+      birth:
+        date: 12 November 1971
+        place: Louisiana
+      death:
+        date: 10 July 2020
+        place: Louisiana
+      burial:
+        place: "Westlawn Memorial Park   Gretna, Jefferson Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: Matthew Vining
+        marriages:
+          - date: "Brittany [&#8230;]"
+      - name: Rachel Vining
+        marriages:
+          - date: Justin Thompson
+docsUrl: Rsources/Rickey01doc.htm
+raw: |-
+  <a name="Rickey01"></a><font size=+2>Rickey Vining</font>
+     (son of [?])
+     m. 26 y. as of death of Cassie (Runyon) Vining
+           Cassie Runyon
+                 (dau. of Mike Runyon and Toni Macaluso)
+                 b. 12 November 1971   Louisiana
+                 d. 10 July 2020   Louisiana
+                       bur. Westlawn Memorial Park   Gretna, Jefferson Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Matthew Vining   m. Brittany [&#8230;]
+     Rachel Vining   m. Justin Thompson
+     
+  <a href="Rsources/Rickey01doc.htm">documentation and notes</a>

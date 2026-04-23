@@ -1,0 +1,38 @@
+id: WalterL04
+title: Walter Lawson Vining - Betty [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Walter Lawson Vining
+          values:
+            - "32"
+        - label: Betty ([...]) Vining
+          values:
+            - "29"
+        - label: Walter A. Vining
+          values:
+            - "5"
+          indent: true
+        - label: Lucille Vining
+          values:
+            - "1"
+          indent: true
+        - label: Lowery Benjamin Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Dallas (Justice Precinct 1, Tract 8), Dallas County, Texas
+        images:
+          - src: WalterL04census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Walter Lawson Vining and Betty ([...]) Vining, in Calvary Hill Cemetery and Mausoleum, Dallas,
+          Dallas County, Texas (from Find A Grave):
+        images:
+          - src: WalterL04andwifeheadstone.jpg

@@ -1,0 +1,70 @@
+id: CalvinL01
+title: Calvin Luther Vining - Caroline Price
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Calvin Luther Vining
+          values:
+            - "41"
+            - "51"
+            - "60"
+            - "71"
+            - "81"
+        - label: Caroline (Price) Vining
+          values:
+            - "38"
+            - "48"
+            - "58"
+            - "68"
+            - "78"
+        - label: Bert H. Vining
+          values:
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Howard E. Vining
+          values:
+            - "10"
+            - living in separate household
+            - "?"
+            - "40"
+            - dead
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Arlington, Gilliam County, Oregon - dwelling 40, family 40
+        images:
+          - src: CalvinL01census1900.jpg
+      - year: "1910"
+        caption: Sedro-Woolley (ward 2), Skagit County, Washington - dwelling 82, family 90
+        images:
+          - src: CalvinL01census1910.jpg
+      - year: "1920"
+        caption: Shoultes, Snohomish County, Washington - dwelling 49, family 51
+        images:
+          - src: CalvinL01census1920.jpg
+      - year: "1930"
+        caption: Shoultes, Snohomish County, Washington - dwelling 160, family 160
+        images:
+          - src: CalvinL01census1930.jpg
+      - year: "1940"
+        caption: Shoultes, Snohomish County, Washington
+        images:
+          - src: CalvinL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone of Calvin Luther Vining, wife Caroline (Price) Vining, and son Bert H. Vining, in Marysville
+          Cemetery, Marysville, Snohomish County, Washington:
+        images:
+          - src: CalvinL01headstone.jpg

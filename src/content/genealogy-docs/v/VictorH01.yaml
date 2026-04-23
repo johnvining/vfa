@@ -1,0 +1,32 @@
+id: VictorH01
+title: Victor Henry Vining - Olive Florine Dochter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Victor Henry Vining
+          values:
+            - "27"
+        - label: Olive Florine (Dochter) Vining
+          values:
+            - "25"
+        - label: Florene M. Vining
+          values:
+            - "[?]"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Mineral County, Colorado
+        images:
+          - src: VictorH01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Victor Henry Vining and Olive Florine (Dochter) Vining, in Mountain View Cemetery, Pueblo,
+          Pueblo County, Colorado (from Find A Grave):
+        images:
+          - src: VictorH01gravestone.jpg
+          - src: VictorH01wifegravestone.jpg
+        inline: true

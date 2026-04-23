@@ -1,0 +1,64 @@
+id: Francis01
+title: Francis Vining - Sarah Hoon
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Francis Vining
+          values:
+            - "?"
+            - "40"
+            - "52"
+            - dead
+        - label: Sarah (Hoon) Vining
+          values:
+            - "?"
+            - "34"
+            - dead
+            - ""
+        - label: William Henry Vining
+          values:
+            - "?"
+            - "16"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: George Sherman Vining
+          values:
+            - "?"
+            - "14"
+            - "22"
+            - "32"
+          indent: true
+        - label: Frances Gertrude Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "29"
+          indent: true
+        - label: Vernon D. Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Columbus Township, Luce County, Michigan - dwelling 137, family 137
+        images:
+          - src: Francis01census1910.jpg
+      - year: "1920"
+        caption: Munising, Alger County, Michigan - dwelling 155, family 205
+        images:
+          - src: Francis01census1920.jpg
+      - year: "1930"
+        caption: Munising, Alger County, Michigan - dwelling 356, family 384
+        images:
+          - src: Francis01census1930.jpg

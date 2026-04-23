@@ -1,0 +1,24 @@
+id: JamesPJr01
+sequence: 91
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesP01
+parentDesc: James P. Vining and Frances Louise Vernon
+head:
+  givenName: James P. Jr.
+marriages:
+  - spouse:
+      givenName: Tina
+      surname: "[...]"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: "James P. &#8220;Trace&#8221; Vining III"
+raw: |-
+  <a name="JamesPJr01"></a><font size=+2>James P. Vining Jr.</font>
+     (son of <a href="#JamesP01">James P. Vining and Frances Louise Vernon</a>)
+     m. Tina [...]
+  
+  <font size=+1>child:</font>
+     James P. &#8220;Trace&#8221; Vining III

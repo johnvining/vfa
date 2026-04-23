@@ -1,0 +1,155 @@
+id: BryantO01
+letter: B
+sequence: 66
+lastUpdated: 25 February 2023
+migrationNote: "Original HTML had b. (birth marker) where bur. (burial marker) was intended for two children: Stanley Arthur Vining (\"b. Maple Park Cemetery\") and Jason Dean Vining (\"b. Sunset Memorial Gardens\"); corrected in new rendering."
+relationship: son
+parentId: CharlesO01
+parentLetter: C
+parentDesc: Charles Oliver Vining and Susan M. Noland
+head:
+  givenName: Bryant Oliver
+  birth:
+    date: 18 December 1887
+    place: "Corning, Nemaha County, Kansas"
+  death:
+    date: 25 December 1971
+    place: "Topeka, Shawnee County, Kansas"
+  burial:
+    place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
+marriages:
+  - date: 8 August 1908
+    place: "Council Grove, Morris County, Kansas"
+    spouse:
+      givenName: Margaret Francetta
+      surname: Hinshaw
+      parents: (dau. of Alonzo Hinshaw and America Olive Bigger)
+      birth:
+        date: 23 March 1890
+        place: "near Wilsey, Morris County, Kansas"
+      death:
+        date: 27 July 1979
+        place: "Topeka, Shawnee County, Kansas"
+      burial:
+        place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
+childrenGroups:
+  - children:
+      - name: Robert Everett Vining
+        entryId: RobertE08
+        entryLetter: R
+        birth:
+          date: 6 April 1909
+          place: "Wilsey, Morris County, Kansas"
+        marriages:
+          - date: Alpharetta Hight
+        death:
+          date: "[?]"
+        burial:
+          place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
+      - name: Ethel LaJoy Vining
+        birth:
+          date: 6 August 1910
+          place: "Wilsey, Morris County, Kansas"
+        death:
+          date: 7 January 1922
+        burial:
+          place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
+      - name: Charles Benjamin Vining
+        entryId: CharlesB02
+        entryLetter: C
+        birth:
+          date: 11 December 1915
+          place: "Wilsey, Morris County, Kansas"
+        marriages:
+          - number: 1
+            date: Mary Jean Stone
+          - number: 2
+            date: Geraldine Marie Harris
+        death:
+          date: 13 June 1996
+      - name: Alberta Lorraine Vining
+        birth:
+          date: 25 September 1918
+          place: "Wilsey, Morris County, Kansas"
+        marriages:
+          - date: Verel Charles Westover
+      - name: Ladd Vining
+        birth:
+          date: 28 July 1922
+          place: "Wilsey, Morris County, Kansas"
+        death:
+          date: 28 July 1922
+          place: "Wilsey, Morris County, Kansas"
+        burial:
+          place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
+      - name: Orilla Bernice Vining
+        birth:
+          date: 24 December 1924
+          place: "Wilsey, Morris County, Kansas"
+        marriages:
+          - number: 1
+            date: Jack Moskovitz
+          - number: 2
+            date: Art Hertzing
+      - name: Willis Dean Vining
+        entryId: WillisD01
+        entryLetter: W
+        birth:
+          date: May 1926
+          place: "Wilsey, Morris County, Kansas"
+        marriages:
+          - date: Lois Murphy
+      - name: John Curtis Vining
+        birth:
+          date: 11 September 1929
+          place: "Wilsey, Morris County, Kansas"
+        death:
+          date: 13 September 1929
+          place: "[Wilsey, Kansas ?]"
+        burial:
+          place: "Wilsey Cemetery   Wilsey, Morris County, Kansas"
+      - name: Stanley Arthur Vining
+        birth:
+          date: 1 July 1931
+          place: "Wilsey, Morris County, Kansas"
+        death:
+          date: 8 February 2011
+          place: "Springfield, Missouri"
+        burial:
+          place: "Maple Park Cemetery   Springfield, Greene County, Missouri"
+      - name: Wilma Vivian Vining
+        birth:
+          date: 7 March 1933
+          place: "Wilsey, Morris County, Kansas"
+        marriages:
+          - number: 1
+            date: Coy Murray Carter
+          - number: 2
+            date: Bill Jack Tippit
+docsUrl: Bsources/BryantO01doc.htm
+raw: |-
+  <a name="BryantO01"></a><font size=+2>Bryant Oliver Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesO01">Charles Oliver Vining and Susan M. Noland</a>)
+     b. 18 December 1887   Corning, Nemaha County, Kansas
+     m. 8 August 1908   Council Grove, Morris County, Kansas
+           Margaret Francetta Hinshaw
+                 (dau. of Alonzo Hinshaw and America Olive Bigger)
+                 b. 23 March 1890   near Wilsey, Morris County, Kansas
+                 d. 27 July 1979   Topeka, Shawnee County, Kansas
+                       bur. Wilsey Cemetery   Wilsey, Morris County, Kansas
+     d. 25 December 1971   Topeka, Shawnee County, Kansas
+           bur. Wilsey Cemetery   Wilsey, Morris County, Kansas
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RobertE08">Robert Everett Vining</a>   b. 6 April 1909   Wilsey, Morris County, Kansas   -   m. Alpharetta Hight   -   d. [?]   -   bur. Wilsey Cemetery   Wilsey, Morris County, Kansas
+     Ethel LaJoy Vining   b. 6 August 1910   Wilsey, Morris County, Kansas   -   d. 7 January 1922   -   bur. Wilsey Cemetery   Wilsey, Morris County, Kansas
+     <a href="Cfamilies.htm#CharlesB02">Charles Benjamin Vining</a>   b. 11 December 1915   Wilsey, Morris County, Kansas   -   m. (1) Mary Jean Stone;   (2) Geraldine Marie Harris   -   d. 13 June 1996
+     Alberta Lorraine Vining   b. 25 September 1918   Wilsey, Morris County, Kansas   -   m. Verel Charles Westover
+     Ladd Vining   b. 28 July 1922   Wilsey, Morris County, Kansas   -   d. 28 July 1922   Wilsey, Morris County, Kansas   -   bur. Wilsey Cemetery   Wilsey, Morris County, Kansas
+     Orilla Bernice Vining   b. 24 December 1924   Wilsey, Morris County, Kansas   -   m. (1) Jack Moskovitz;   (2) Art Hertzing
+     <a href="Wfamilies.htm#WillisD01">Willis Dean Vining</a>   b. May 1926   Wilsey, Morris County, Kansas   -   m. Lois Murphy
+     John Curtis Vining   b. 11 September 1929   Wilsey, Morris County, Kansas   -   d. 13 September 1929   [Wilsey, Kansas ?]   -   bur. Wilsey Cemetery   Wilsey, Morris County, Kansas
+     Stanley Arthur Vining   b. 1 July 1931   Wilsey, Morris County, Kansas   -   d. 8 February 2011   Springfield, Missouri   -   b. Maple Park Cemetery   Springfield, Greene County, Missouri
+     Wilma Vivian Vining   b. 7 March 1933   Wilsey, Morris County, Kansas   -   m. (1) Coy Murray Carter;   (2) Bill Jack Tippit
+  
+  <a href="Bsources/BryantO01doc.htm">documentation and notes</a>

@@ -1,0 +1,68 @@
+id: CharlesR03
+title: Charles Roberson Vining - Bessie Lou Gentry
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Roberson Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+        - label: Bessie Lou (Gentry) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+        - label: Verna Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+          indent: true
+        - label: Marie Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+          indent: true
+        - label: Ida Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+        - label: Flora Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+          indent: true
+        - label: Mildred Vining
+          values:
+            - ""
+            - r y., [1? m.]
+            - "?"
+          indent: true
+        - label: Pauline Vining
+          values:
+            - ""
+            - 3 y., 1 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Kingdom (precinct 1), Bibb County, Alabama - dwelling 44, family 46
+        images:
+          - src: CharlesR03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Charles Roberson Vining and Bessie Lou (Gentry) Vining, in Green Pond Presbyterian Church
+          Cemetery, Green Pond, Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: CharlesR03andwifeheadstone.jpg

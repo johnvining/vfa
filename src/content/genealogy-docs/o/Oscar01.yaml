@@ -1,0 +1,31 @@
+id: Oscar01
+title: Oscar Vining - Alma [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Oscar Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+        - label: Alma ([...]) Vining
+          values:
+            - "17"
+            - "?"
+            - "?"
+        - label: Vi[dar?] Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: District 748, Douglas, Coffee County, Georgia - dwelling 558, family 591
+        images:
+          - src: Oscar01census1920.jpg

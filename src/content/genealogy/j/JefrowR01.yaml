@@ -1,0 +1,62 @@
+id: JefrowR01
+sequence: 127
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Jefrow Robert
+  birth:
+    date: 14 September 1914
+    place: "Empire, Walker County, Alabama"
+  death:
+    date: 17 October 2003
+    place: "Loma Linda, San Bernardino County, California"
+  burial:
+    place: "Fairview Cemetery   Denison, Texas"
+marriages:
+  - date: 1 September 1942
+    spouse:
+      givenName: Jessie Lee
+      surname: Calfy
+      parents: "(dau. of Nathaniel Guy Calfry and Mayme Marr Horner)"
+      birth:
+        date: 23 June 1923
+        place: "Grayson County, Texas"
+      death:
+        date: 3 May 2003
+        place: "Denison, Grayson County, Texas"
+      burial:
+        place: "Fairview Cemetery   Denison, Texas"
+    note: "divorced January 1976   San Bernardino, California"
+childrenGroups:
+  - children:
+      - name: Robert Lee Vining
+        birth:
+          date: 19 March 1944
+          place: "Grayson, Texas"
+      - name: child Vining
+      - name: child Vining
+      - name: child Vining
+docsUrl: Jsources/JefrowR01doc.htm
+raw: |-
+  <a name="JefrowR01"></a><font size=+2>Jefrow Robert Vining</font>
+     (son of [?])
+     b. 14 September 1914   Empire, Walker County, Alabama
+     m. 1 September 1942
+           Jessie Lee Calfy
+                 (dau. of Nathaniel Guy Calfry and Mayme Marr Horner)
+                 b. 23 June 1923   Grayson County, Texas
+                 d. 3 May 2003   Denison, Grayson County, Texas
+                       bur. Fairview Cemetery   Denison, Texas
+           divorced January 1976   San Bernardino, California
+     d. 17 October 2003   Loma Linda, San Bernardino County, California
+           bur. Fairview Cemetery   Denison, Texas
+  
+  <font size=+1>children:</font>
+     Robert Lee Vining   b. 19 March 1944   Grayson, Texas
+     child Vining
+     child Vining
+     child Vining
+  
+  <a href="Jsources/JefrowR01doc.htm">documentation and notes</a>

@@ -1,0 +1,73 @@
+id: HenryL01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry L.
+  birth:
+    date: June 1839
+    place: Georgia
+  death:
+    date: Georgia
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: Little
+      birth:
+        date: June 1848
+        place: Georgia
+      death:
+        date: Georgia
+childrenGroups:
+  - children:
+      - name: Henry Vining
+        entryId: Henry03
+        birth:
+          date: age 10 y. as of 1870 census
+          place: Georgia
+        marriages:
+          - date: 19 y. as of 1900 census
+            spouse: Lucy Calhoun
+        death:
+          date: 5 October 1920
+          place: "Davisboro, Washington County, Georgia"
+      - name: Eliza Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Georgia
+      - name: Samuel William Vining
+        birth:
+          date: June 1865
+          place: Georgia
+        marriages:
+          - date: Eliza Newell
+        death:
+          date: 27 April 1926
+          place: "Washington, Wilkes County, Georgia"
+      - name: Mary Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Georgia
+      - name: Susan Vining
+        birth:
+          date: November 1869
+          place: Georgia
+docsUrl: Hsources/HenryL01doc.htm
+raw: |-
+  <a name="HenryL01"></a><font size=+2>Henry L. Vining</font>
+     (son of [?])
+     b. June 1839   Georgia
+     m. Elizabeth Little
+              b. June 1848   Georgia
+              d. Georgia
+     d. Georgia
+  
+  <font size=+1>children:</font>
+     <a href="#Henry03">Henry Vining</a>   b. age 10 y. as of 1870 census   Georgia   -   m. 19 y. as of 1900 census   Lucy Calhoun   -   d. 5 October 1920   Davisboro, Washington County, Georgia
+     Eliza Vining   b. age 8 y. as of 1870 census   Georgia
+     Samuel William Vining   b. June 1865   Georgia   -   m. Eliza Newell   -   d. 27 April 1926   Washington, Wilkes County, Georgia
+     Mary Vining   b. age 3 y. as of 1870 census   Georgia
+     Susan Vining   b. November 1869   Georgia
+  
+  <a href="Hsources/HenryL01doc.htm">documentation and notes</a>

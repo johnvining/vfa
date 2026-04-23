@@ -1,0 +1,154 @@
+id: CharlesF01
+title: Charles Fournier Vining - (1) Nancy Ophelia Preston, (2) Viola Adora Redner Vining
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Fournier Vining
+          values:
+            - "30"
+            - "?"
+            - "50"
+            - "60"
+            - "71"
+            - dead
+        - label: Nancy Ophelia (Preston) Vining
+          values:
+            - "26"
+            - "?"
+            - "46"
+            - "56"
+            - dead
+            - ""
+        - label: Viola Adora (Redner) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "58"
+            - "?"
+        - label: Clear Seeing Vining
+          values:
+            - "5"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Day Preston Vining
+          values:
+            - "3"
+            - "?"
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Colonel Emmett Vining
+          values:
+            - "1"
+            - "?"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Cecil Leo Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - married and living in own household
+            - ""
+            - ""
+          indent: true
+        - label: Cornelius Wright Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - married? and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Beulah Franc Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - |-
+              24
+              [see note below]
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Forest DeVere Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Elton Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - living in separate household
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Columbia, Jackson County, Michigan - dwelling 63, family 65
+        images:
+          - src: CharlesF01census1880.jpg
+      - year: "1900"
+        caption: Columbia, Jackson County, Michigan - dwelling 49, family 49
+        images:
+          - src: CharlesF01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Columbia, Jackson County, Michigan - dwelling 66, family 67. Beulah (Vining) Harris was living in this
+          household with her parents. Also living in this household in 1910 was a granddaughter Vivian L. Vining (1 y.,
+          3 m., b. Michigan).
+        images:
+          - src: CharlesF01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Jackson (ward 4, precinct 3), Jackson County, Michigan - dwelling 365, family 372. Also living in this
+          household in 1920 were stepchildren Edith (24 y., b. Michigan), Kenneth (17 y., b. Michigan), and Geraldine
+          (15 y., b. Michigan), all of whom had apparently taken Vining as their surname. Nephew Willard Howe (26 y., b.
+          Michigan) and his wife, Marie (2[6?] y., b. Michigan), were also living in the household in 1920.
+        images:
+          - src: CharlesF01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Charles Fournier Vining and Nancy Ophelia (Preston) Vining, in Clark Lake Cemetery, Clark
+          Lake, Jackson County, Michigan (from Find A Grave):
+        images:
+          - src: CharlesF01gravestone.jpg
+          - src: CharlesF01wifeNancygravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Viola Adora (Redner) (Vining) Vining, in East Liberty Cemetery, Liberty, Jackson County,
+          Michigan (from Find A Grave):
+        images:
+          - src: CharlesF01wifeViolagravestone.jpg
+      - caption: >-
+          Gravestone for Forest DeVere Vining, son of Charles Fournier Vining and Nancy Ophelia Preston, in Clark Lake
+          Cemetery, Clark Lake, Jackson County, Michigan (from Find A Grave):
+        images:
+          - src: CharlesF01sonForestgravestone.jpg

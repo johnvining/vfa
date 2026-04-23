@@ -1,0 +1,27 @@
+id: LeonardEJr01
+title: Leonard E. Vining Jr. - Sara Virginia Drury
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Leonard E. Vining Jr.
+          values:
+            - "25"
+        - label: Sara Virginia (Drury) Vining
+          values:
+            - "24"
+        - label: Leonard E. Vining III
+          values:
+            - "3"
+          indent: true
+        - label: William D. Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Norfolk, Norfolk County, Virginia
+        images:
+          - src: LeonardEJr01census1940.jpg

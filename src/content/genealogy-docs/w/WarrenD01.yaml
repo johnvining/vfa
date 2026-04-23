@@ -1,0 +1,72 @@
+id: WarrenD01
+title: Warren Davis Vining - Ethel Linwood Joseph
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Warren Davis Vining
+          values:
+            - "35"
+            - "45"
+            - "55"
+        - label: Ethel Linwood (Joseph) Vining
+          values:
+            - "36"
+            - "44"
+            - "54"
+        - label: Thelma Alexina Vining
+          values:
+            - 3 years, 4 months
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Eleanor Dorothy Vining
+          values:
+            - ""
+            - "7"
+            - "20"
+          indent: true
+        - label: Kenneth Warren Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+          indent: true
+        - label: Joseph Perry Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: William David Vining
+          values:
+            - ""
+            - 2 y., 8 m.
+            - "12"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Whitman, Plymouth County, Massachusetts - dwelling 53, family 68
+        images:
+          - src: WarrenD01census1920.jpg
+      - year: "1930"
+        caption: Whitman, Plymouth County, Massachusetts - dwelling 417, family 503
+        images:
+          - src: WarrenD01census1930a.jpg
+          - src: WarrenD01census1930b.jpg
+      - year: "1940"
+        caption: Scituate, Plymouth County, Massachusetts - dwelling 417, family 503
+        images:
+          - src: WarrenD01census1940a.jpg
+          - src: WarrenD01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Obituary for William David Vining, son of Warren Davis Vining and Ethel Linwood (Joseph) Vining, in Ocala Star
+          Banner, 4 November 1994, page 4B, column 6:
+        images:
+          - src: WarrenD01sonWilliamobituary.jpg

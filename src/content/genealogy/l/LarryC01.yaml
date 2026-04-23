@@ -1,0 +1,35 @@
+id: LarryC01
+sequence: 5
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: CosbyE01
+parentLetter: C
+parentDesc: Cosby Evans Vining and Flora Malvina Masters
+head:
+  givenName: Larry Carlton
+  birth:
+    date: 13 December 1943
+marriages:
+  - date: 20 April 1968
+    spouse:
+      givenName: Willie Ruth
+      surname: Sullivan
+      birth:
+        date: 7 March 1947
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Jeffery Allen Vining
+        birth:
+          date: 26 March 1975
+raw: |-
+  <a name="LarryC01"></a><font size=+2>Larry Carlton Vining</font>
+     (son of <a href="Cfamilies.htm#CosbyE01">Cosby Evans Vining and Flora Malvina Masters</a>)
+     b. 13 December 1943
+     m. 20 April 1968
+           Willie Ruth Sullivan
+                 b. 7 March 1947
+  
+  <font size=+1>child:</font>
+     Jeffery Allen Vining   b. 26 March 1975

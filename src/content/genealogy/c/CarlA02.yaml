@@ -1,0 +1,62 @@
+id: CarlA02
+letter: C
+sequence: 10
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RichardW01
+parentLetter: R
+parentDesc: Richard W. Vining and Eleanor Dupont
+head:
+  givenName: Carl Anderson
+  birth:
+    date: 4 October 1915
+    place: Louisiana
+  death:
+    date: 10 July 2000
+  burial:
+    place: "Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Ruby Jean
+      surname: Traylor
+      birth:
+        date: 8 April 1932
+      death:
+        date: 18 May 2010
+      burial:
+        place: "Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: Carl David Vining
+      - name: Joy Elizabeth Vining
+      - name: Russell Keith Vining
+        entryId: RussellK01
+        entryLetter: R
+        birth:
+          date: 21 June 1953
+          place: Louisiana
+        marriages:
+          - date: "Twila [&#8230;]"
+        death:
+          date: 25 May 2012
+          place: "Hammond, Tangipahoa Parish, Louisiana"
+        burial:
+          place: "Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana"
+docsUrl: Csources/CarlA02doc.htm
+raw: |-
+  <a name="CarlA02"></a><font size=+2>Carl Anderson Vining</font>
+     (son of <a href="Rfamilies.htm#RichardW01">Richard W. Vining and Eleanor Dupont</a>)
+     b. 4 October 1915   Louisiana
+     m. Ruby Jean Traylor
+              b. 8 April 1932
+              d. 18 May 2010
+                    bur. Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana
+     d. 10 July 2000
+           bur. Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Carl David Vining
+     Joy Elizabeth Vining
+     <a href="Rfamilies.htm#RussellK01">Russell Keith Vining</a>   b. 21 June 1953   Louisiana   -   m. Twila [&#8230;]   -   d. 25 May 2012   Hammond, Tangipahoa Parish, Louisiana   -   bur. Collins Cemetery   Ponchatoula, Tangipahoa Parish, Louisiana
+  
+  <a href="Csources/CarlA02doc.htm">documentation and notes</a>

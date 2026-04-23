@@ -1,0 +1,55 @@
+id: HomerTJr01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HomerT01
+parentDesc: Homer Thadd Vining and Neva Dale McGregor
+head:
+  givenName: Homer Thadd Jr.
+  birth:
+    date: 1 January 1925
+    place: "Star City, Lincoln County, Arkansas"
+  death:
+    date: 15 March 1991
+    place: "Memphis, Tennessee"
+  burial:
+    place: "Odd Fellows East Cemetery   Greenwood, Mississippi"
+marriages:
+  - spouse:
+      givenName: Gladys Adele
+      surname: Carroll
+      birth:
+        date: 23 June 1930
+      death:
+        date: 6 November 2008
+      burial:
+        place: "Odd Fellows East Cemetery   Greenwood, Mississippi"
+childrenGroups:
+  - children:
+      - name: Mildred Vining
+        marriages:
+          - date: "[&#8230;] Williams"
+      - name: Jeanette Vining
+        marriages:
+          - date: "[&#8230;] Little"
+      - name: Peggy Vining
+        marriages:
+          - date: "[&#8230;] Dempsey"
+docsUrl: Hsources/HomerTJr01doc.htm
+raw: |-
+  <a name="HomerTJr01"></a><font size=+2>Homer Thadd Vining Jr.</font>
+     (son of <a href="#HomerT01">Homer Thadd Vining and Neva Dale McGregor<a>)
+     b. 1 January 1925   Star City, Lincoln County, Arkansas
+     m. Gladys Adele Carroll
+              b. 23 June 1930
+              d. 6 November 2008
+                    bur. Odd Fellows East Cemetery   Greenwood, Mississippi
+     d. 15 March 1991   Memphis, Tennessee
+           bur. Odd Fellows East Cemetery   Greenwood, Mississippi
+  
+  <font size=+1>children:</font>
+     Mildred Vining   m. [&#8230;] Williams
+     Jeanette Vining   m. [&#8230;] Little
+     Peggy Vining   m. [&#8230;] Dempsey
+  
+  <a href="Hsources/HomerTJr01doc.htm">documentation and notes</a>

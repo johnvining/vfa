@@ -1,0 +1,60 @@
+id: Almond01
+title: Almond Vining - Minnie Kathrin Bruce
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Almond Vining
+          values:
+            - "?"
+            - "41"
+            - "51"
+            - "?"
+        - label: Minnie Kathrin (Bruce) Vining
+          values:
+            - "?"
+            - "38"
+            - "47"
+            - "?"
+        - label: Walter Vining
+          values:
+            - "?"
+            - "20"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Grace Vining
+          values:
+            - "?"
+            - "19"
+            - not living in this household
+            - "?"
+          indent: true
+        - label: Carl Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: "Garretson (Ward 1), Minnehaha County, South Dakota - dwelling 286, family 289. Address: Canyon Avenue."
+        images:
+          - src: Almond01census1910.jpg
+      - year: "1920"
+        caption: Jasper, Pipestone County, Minnesota - dwelling 94, family 102
+        images:
+          - src: Almond01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Almond Vining, in Greenacres Memorial Park, Ferndale, Whatcom County, Washington (from Find A
+          Grave):
+        images:
+          - src: Almond01gravestone.jpg

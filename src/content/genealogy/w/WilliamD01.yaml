@@ -1,0 +1,44 @@
+id: WilliamD01
+sequence: 84
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamO02
+parentDesc: William Otis Vining and Eunice Horton Dwight
+head:
+  givenName: William Dwight
+  birth:
+    date: 15 May 1842
+    place: Massachusetts
+marriages:
+  - date: 31 y. as of 1900 census
+    spouse:
+      givenName: Emma C.
+      surname: "[...]"
+      birth:
+        date: March 1847
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: child
+      - name: Mabel S. Vining
+        birth:
+          date: February 1875
+          place: Massachusetts
+        marriages:
+          - date: 6 y. as of 1900 census
+            spouse: "[Darwin?] L. Fuller"
+docsUrl: Wsources/WilliamD01doc.htm
+raw: |-
+  <a name="WilliamD01"></a><font size=+2>William Dwight Vining</font>
+     (son of <a href="#WilliamO02">William Otis Vining and Eunice Horton Dwight</a>)
+     b. 15 May 1842   Massachusetts
+     m. 31 y. as of 1900 census
+           Emma C. [...]
+                 b. March 1847   Massachusetts
+  
+  <font size=+1>children:</font>
+     child
+     Mabel S. Vining   b. February 1875   Massachusetts   -   m. 6 y. as of 1900 census   [Darwin?] L. Fuller
+  
+  <a href="Wsources/WilliamD01doc.htm">documentation and notes</a>

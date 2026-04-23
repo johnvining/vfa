@@ -1,0 +1,30 @@
+id: ForestG01
+sequence: 6
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: CharlesW01
+parentLetter: C
+parentDesc: Charles Wendell Vining and Millicent Craft
+head:
+  givenName: Forest Glee
+  birth:
+    date: 22 January 1940
+    place: Indiana
+marriages:
+  - spouse:
+      givenName: Betty
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Wesley Vining
+      - name: Glen Vining
+raw: |-
+  <a name="ForestG01"></a><font size=+2>Forest Glee Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesW01">Charles Wendell Vining and Millicent Craft</a>)
+     b. 22 January 1940   Indiana
+     m. Betty [...]
+  
+  <font size=+1>children:</font>
+     Wesley Vining
+     Glen Vining

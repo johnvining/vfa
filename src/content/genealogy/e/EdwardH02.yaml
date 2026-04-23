@@ -1,0 +1,44 @@
+id: EdwardH02
+sequence: 30
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Alonzo02
+parentLetter: A
+parentDesc: Alonzo Vining and Susan Maria Reynolds
+head:
+  givenName: Edward H.
+  birth:
+    date: February 1871
+    place: Massachusetts
+marriages:
+  - date: 9 y. as of 1900 census
+    spouse:
+      givenName: "Lizzie [...]"
+      birth:
+        date: August 1872
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Walter E. Vining
+        birth:
+          date: December 1891
+          place: Massachusetts
+      - name: Stanley O. Vining
+        birth:
+          date: January 1894
+          place: Massachusetts
+docsUrl: Esources/EdwardH02doc.htm
+raw: |-
+  <a name="EdwardH02"></a><font size=+2>Edward H. Vining</font>
+     (son of <a href="Afamilies.htm#Alonzo02">Alonzo Vining and Susan Maria Reynolds</a>)
+     b. February 1871   Massachusetts
+     m. 9 y. as of 1900 census
+              Lizzie [...]
+                    b. August 1872   Massachusetts
+  
+  <font size=+1>children:</font>
+     Walter E. Vining   b. December 1891   Massachusetts
+     Stanley O. Vining   b. January 1894   Massachusetts
+  
+  <a href="Esources/EdwardH02doc.htm">documentation and notes</a>

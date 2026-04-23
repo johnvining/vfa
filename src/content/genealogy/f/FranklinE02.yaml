@@ -1,0 +1,68 @@
+id: FranklinE02
+sequence: 44
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Erwin01
+parentLetter: E
+parentDesc: Erwin Vining and Clara Ewing
+head:
+  givenName: Franklin Erwin
+  birth:
+    date: 21 February 1914
+    place: Kansas
+  death:
+    date: June 1984
+  burial:
+    place: "Harrison Cemetery   Thayer, Kansas"
+marriages:
+  - spouse:
+      givenName: Gladys Opal
+      surname: Carter
+      parents: (dau. of Luther Burlingham Carter and Amy Myrtle Henderson)
+      birth:
+        date: 4 May 1917
+        place: "Geraldine, Montana"
+      death:
+        date: 8 March 2006
+        place: "Chanute, Kansas"
+      burial:
+        place: "Harrison Cemetery   Thayer, Kansas"
+childrenGroups:
+  - children:
+      - name: Franklin Vining
+        birth:
+          date: age 5 y. as of 1940 census
+          place: Kansas
+      - name: Donald R. Vining
+        entryId: DonaldR02
+        entryLetter: D
+        birth:
+          date: 30 September 1936
+          place: "Thayer, Kansas"
+        marriages:
+          - date: 26 November 1960
+            spouse: "Las Vegas, Nevada   Patricia Roney"
+        death:
+          date: 2 July 2009
+          place: "Chanute, Kansas"
+        burial:
+          place: "Harrison Cemetery   Thayer, Kansas"
+docsUrl: Fsources/FranklinE02doc.htm
+raw: |-
+  <a name="FranklinE02"></a><font size=+2>Franklin Erwin Vining</font>
+     (son of <a href="Efamilies.htm#Erwin01">Erwin Vining and Clara Ewing</a>)
+     b. 21 February 1914   Kansas
+     m. Gladys Opal Carter
+              (dau. of Luther Burlingham Carter and Amy Myrtle Henderson)
+              b. 4 May 1917   Geraldine, Montana
+              d. 8 March 2006   Chanute, Kansas
+                    bur. Harrison Cemetery   Thayer, Kansas
+     d. June 1984
+           bur. Harrison Cemetery   Thayer, Kansas
+  
+  <font size=+1>children:</font>
+     Franklin Vining   b. age 5 y. as of 1940 census   Kansas
+     <a href="Dfamilies.htm#DonaldR02">Donald R. Vining</a>   b. 30 September 1936   Thayer, Kansas   -   m. 26 November 1960   Las Vegas, Nevada   Patricia Roney   -   d. 2 July 2009   Chanute, Kansas   -   bur. Harrison Cemetery   Thayer, Kansas
+  
+  <a href="Fsources/FranklinE02doc.htm">documentation and notes</a>

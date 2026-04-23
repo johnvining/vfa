@@ -1,0 +1,61 @@
+id: JohnT01
+sequence: 270
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnU01
+parentDesc: "John Uriah Vining and Amelia Estelle &#8220;Abbie&#8221; Dillan"
+head:
+  givenName: John Tillman
+  birth:
+    date: 31 December 1905
+  death:
+    date: 16 February 1961
+  burial:
+    place: "Mulberry Street Cemetery   Amite, Louisiana"
+marriages:
+  - date: 18 February 1931
+    spouse:
+      givenName: Essie Mae
+      surname: Morris
+      birth:
+        date: 28 December 1906
+      death:
+        date: 13 December 1997
+      burial:
+        place: "Mulberry Street Cemetery   Amite, Louisiana"
+childrenGroups:
+  - children:
+      - name: Jonnie Mae Vining
+        birth:
+          date: 31 May 1940
+        death:
+          date: 2 June 1940
+      - name: Cynthia Marguerite Vining
+        birth:
+          date: 21 July 1942
+        marriages:
+          - date: 5 June 1965
+            spouse: Bobby Ray Smith
+      - name: Susan Carol Vining
+        birth:
+          date: 2 June 1948
+docsUrl: Jsources/JohnT01doc.htm
+raw: |-
+  <a name="JohnT01"></a><font size=+2>John Tillman Vining</font>
+     (son of <a href="#JohnU01">John Uriah Vining and Amelia Estelle &#8220;Abbie&#8221; Dillan</a>)
+     b. 31 December 1905
+     m. 18 February 1931
+           Essie Mae Morris
+                 b. 28 December 1906
+                 d. 13 December 1997
+                       bur. Mulberry Street Cemetery   Amite, Louisiana
+     d. 16 February 1961
+           bur. Mulberry Street Cemetery   Amite, Louisiana
+  
+  <font size=+1>children:</font>
+     Jonnie Mae Vining   b. 31 May 1940   -   d. 2 June 1940
+     Cynthia Marguerite Vining   b. 21 July 1942   -   m. 5 June 1965   Bobby Ray Smith
+     Susan Carol Vining   b. 2 June 1948
+  
+  <a href="Jsources/JohnT01doc.htm">documentation and notes</a>

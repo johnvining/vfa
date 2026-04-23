@@ -1,0 +1,48 @@
+id: CharlieS01
+letter: C
+sequence: 110
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Charlie S.
+  birth:
+    date: January 1869
+    place: Georgia
+marriages:
+  - date: 8 y. as of 1900 census
+    spouse:
+      givenName: Sarah H.
+      surname: "[...]"
+      birth:
+        date: December 1869
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: "Frankie Vining [female]"
+        birth:
+          date: January 1892
+          place: Georgia
+      - name: "Ma[rrie?] Vining [female]"
+        birth:
+          date: November 1894
+          place: Georgia
+      - name: Minnie Vining
+        birth:
+          date: October 1897
+          place: Georgia
+docsUrl: Csources/CharlieS01doc.htm
+raw: |-
+  <a name="CharlieS01"></a><font size=+2>Charlie S. Vining</font>
+     (son of [?])
+     b. January 1869   Georgia
+     m. 8 y. as of 1900 census
+           Sarah H. [...]
+                 b. December 1869   Georgia
+  
+  <font size=+1>children:</font>
+     Frankie Vining [female]   b. January 1892   Georgia
+     Ma[rrie?] Vining [female]   b. November 1894   Georgia
+     Minnie Vining   b. October 1897   Georgia
+  
+  <a href="Csources/CharlieS01doc.htm">documentation and notes</a>

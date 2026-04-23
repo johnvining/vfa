@@ -1,0 +1,57 @@
+id: BenjaminF05
+title: Benjamin F. Vining - Esther R. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Benjamin F. Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Esther R. ([...]) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: William H. Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lizzie T. Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: New Bedford (ward 4), Bristol County, Massachusetts - dwelling 76, family 90
+        images:
+          - src: BenjaminF05census1870.jpg

@@ -1,0 +1,89 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  keywords?: string;
+  activePage?: string;
+}
+
+const { title, description = '', keywords = '', activePage = '' } = Astro.props;
+
+const navItems = [
+  { label: 'Home', href: 'index.htm' },
+  { label: 'Online Genealogy', href: 'Viningfamilieshome.htm' },
+  { label: 'Research Problems', href: 'Viningresearchproblemshome.htm' },
+  { label: 'News and Notes', href: 'Viningnewshome.htm' },
+  { label: 'Census Records', href: 'Viningcensushome.htm' },
+  { label: 'Vining Migration', href: 'Viningmigrationhome.htm' },
+  { label: 'Places and People', href: 'Viningplacespeoplehome.htm' },
+];
+---
+
+<html>
+
+<head>
+   <meta charset="utf-8">
+   <title>{title}</title>
+   {description && <meta name="Description" content={description}>}
+   {keywords && <meta name="keywords" content={keywords}>}
+</head>
+
+<body text="#000000" bgcolor="FFFFFF" link="#0000FF" vlink="#551A8B" alink="#FF0000">
+
+<table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+   <tr>
+      <td width="10%" align="center">
+      </td>
+      <td width="20%" align="center">
+         <img height="200" src="/Vining-Logo-Transparency.png">
+      </td>
+      <td width="60%" align="center">
+         <font color="006600">
+            <font size="+4">
+               Vining Family Association<br>
+            </font>
+            <font size="+3">
+               One Name &#8212; Many Families<br>
+            </font>
+         </font>
+
+            <br><br>
+
+         <font size="+1">
+
+            <a href="mailto:info@vining-family.org">info@vining-family.org</a>
+         </font>
+      </td>
+      <td width="10%" align="center">
+      </td>
+   </tr>
+</table>
+
+<br><br>
+
+<hr class="nav-divider" />
+
+<p align="CENTER">
+   <table width="95%">
+      <tr>
+         {navItems.map(item => (
+           <td align="center" width="14%" valign="top">
+             {item.label === activePage
+               ? <font size="+2">{item.label}</font>
+               : <a href={item.href}>{item.label}</a>
+             }
+           </td>
+         ))}
+      </tr>
+   </table>
+</p>
+
+<hr class="nav-divider" />
+
+<br>
+
+<slot />
+
+</body>
+
+</html>

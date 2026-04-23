@@ -1,0 +1,69 @@
+id: EdwardS01
+sequence: 50
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JohnT02
+parentLetter: J
+parentDesc: John Thomas Vining and Catherine Elizabeth Townsend
+head:
+  givenName: Edward Sumner
+  birth:
+    date: July 1869
+    place: Georgia
+  death:
+    date: "1936"
+    place: "Pinellas County, Florida"
+  burial:
+    place: "Oak Grove Cemetery   Wildwood, Florida"
+marriages:
+  - date: 10 October 1893
+    spouse:
+      givenName: Daisy Mildred
+      surname: Olive
+      birth:
+        date: May 1875
+        place: Tennessee
+      death:
+        date: "1954"
+        place: "Pinellas County, Florida"
+      burial:
+        place: "Oak Grove Cemetery   Wildwood, Florida"
+childrenGroups:
+  - children:
+      - name: Edith Vining
+        birth:
+          date: 21 October 1894
+        death:
+          date: 3 February 1895
+        burial:
+          place: "Oak Grove Cemetery   Wildwood, Florida"
+      - name: Edward Clyde Vining
+        entryId: EdwardC02
+        birth:
+          date: 8 March 1899
+          place: Florida
+        marriages:
+          - spouse: Pearl Edwards
+        death:
+          date: 11 June 1964
+        burial:
+          place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
+docsUrl: Esources/EdwardS01doc.htm
+raw: |-
+  <a name="EdwardS01"></a><font size=+2>Edward Sumner Vining</font>
+     (son of <a href="Jfamilies.htm#JohnT02">John Thomas Vining and Catherine Elizabeth Townsend</a>)
+     b. July 1869   Georgia
+     m. 10 October 1893
+           Daisy Mildred Olive
+                 b. May 1875   Tennessee
+                 d. 1954   Pinellas County, Florida
+                       bur. Oak Grove Cemetery   Wildwood, Florida
+     d. 1936   Pinellas County, Florida
+           bur. Oak Grove Cemetery   Wildwood, Florida
+  
+  <font size=+1>children:</font>
+     Edith Vining   b. 21 October 1894   -   d. 3 February 1895   -   bur. Oak Grove Cemetery   Wildwood, Florida
+     <a href="#EdwardC02">Edward Clyde Vining</a>   b. 8 March 1899   Florida   -   m. Pearl Edwards   -   d. 11 June 1964   -   bur. Woodlawn Park North Cemetery and Mausoleum   Miami, Florida
+  
+  <a href="Esources/EdwardS01doc.htm">documentation and notes</a>

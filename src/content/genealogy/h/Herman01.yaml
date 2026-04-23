@@ -1,0 +1,44 @@
+id: Herman01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: ConverseW01
+parentLetter: C
+parentDesc: Converse Wing Vining and Esther Hall Worthley
+head:
+  givenName: Herman
+  birth:
+    date: age 14 y. as of 1850 census
+    place: "North Yarmouth, Maine"
+marriages:
+  - place: "Benicia, California"
+    spouse:
+      givenName: "Mary"
+      surname: "[...]"
+      birth:
+        date: age 31 y. as of 1880 census
+        place: Ireland
+childrenGroups:
+  - children:
+      - name: George Vining
+        birth:
+          date: age 4 y. as of 1880 census
+          place: "Benicia, California"
+      - name: Catharine Vining
+        birth:
+          date: age 2 y. as of 1880 census
+          place: "Benicia, California"
+docsUrl: Hsources/Herman01doc.htm
+raw: |-
+  <a name="Herman01"></a><font size=+2>Herman Vining</font>
+     (son of <a href="Cfamilies.htm#ConverseW01">Converse Wing Vining and Esther Hall Worthley</a>)
+     b. age 14 y. as of 1850 census   North Yarmouth, Maine
+     m. Benicia, California
+           Mary [...]
+                 b. age 31 y. as of 1880 census   Ireland
+  
+  <font size=+1>children:</font>
+     George Vining   b. age 4 y. as of 1880 census   Benicia, California
+     Catharine Vining   b. age 2 y. as of 1880 census   Benicia, California
+  
+  <a href="Hsources/Herman01doc.htm">documentation and notes</a>

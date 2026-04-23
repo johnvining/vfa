@@ -1,0 +1,60 @@
+id: DonaldL01
+sequence: 80
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LeRoyTC01
+parentLetter: L
+parentDesc: LeRoy T. C. Vining and Flora E. Argo
+head:
+  givenName: Donald L.
+  birth:
+    date: 1 September 1933
+    place: "Bemidji, Minnesota"
+  death:
+    date: 4 December 2009
+    place: "Green Valley, Arizona"
+marriages:
+  - number: 1
+    date: Elizabeth Kraft
+    note: divorced
+  - number: 2
+    date: 15 October 1975
+    spouse:
+      givenName: Blanche
+      surname: Delvo
+childrenGroups:
+  - spouseRef: Elizabeth Kraft
+    children:
+      - name: Theresa Vining
+        birth:
+          date: 23 November 1956
+        marriages:
+          - spouse: Owen Bridgeman
+      - name: "Victoria &#8220;Vicki&#8221; Vining"
+        birth:
+          date: 6 April 1958
+        marriages:
+          - spouse: Bob Cooper
+        death:
+          date: before 4 December 2009
+      - name: Wade A. Vining
+        birth:
+          date: 10 February 1961
+docsUrl: Dsources/DonaldL01doc.htm
+raw: |-
+  <a name="DonaldL01"></a><font size=+2>Donald L. Vining</font>
+     (son of <a href="Lfamilies.htm#LeRoyTC01">LeRoy T. C. Vining and Flora E. Argo</a>)
+     b. 1 September 1933   Bemidji, Minnesota
+     m. (1) Elizabeth Kraft
+                 divorced
+           (2) 15 October 1975
+                 Blanche Delvo
+     d. 4 December 2009   Green Valley, Arizona
+  
+  <font size=+1>children by Elizabeth Kraft:</font>
+     Theresa Vining   b. 23 November 1956   -   m. Owen Bridgeman
+     Victoria &#8220;Vicki&#8221; Vining   b. 6 April 1958   -   m. Bob Cooper   -   d. before 4 December 2009
+     Wade A. Vining   b. 10 February 1961
+  
+  <a href="Dsources/DonaldL01doc.htm">documentation and notes</a>

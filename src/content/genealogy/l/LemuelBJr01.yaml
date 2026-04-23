@@ -1,0 +1,63 @@
+id: LemuelBJr01
+sequence: 28
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LemuelB01
+parentLetter: L
+parentDesc: Lemuel B. Vining and Thelma A. Swanker
+head:
+  givenName: Lemuel B. Jr.
+  birth:
+    date: 18 January 1931
+marriages:
+  - spouse:
+      givenName: Joan
+      surname: Tessaro
+      parents: "(dau. of Orestes Tessaro and Edna [&#8230;])"
+      birth:
+        date: 8 June 1932
+        place: "Greensburg, Pennsylvania"
+      death:
+        date: "28 November 2018."
+        place: "Maplecrest, New York"
+      burial:
+        place: "Maplecrest Cemetery   Maplecrest, New York"
+childrenGroups:
+  - children:
+      - name: Deborah Vining
+        birth:
+          date: 30 June 1956
+        marriages:
+          - date: Rick Pelham
+      - name: Denise Vining
+        birth:
+          date: 30 March 1959
+      - name: Frederick Vining
+        birth:
+          date: 7 April 1961
+        marriages:
+          - date: "Theresa [&#8230;]"
+      - name: Jeffery Vining
+        birth:
+          date: 9 April 1964
+        marriages:
+          - date: "Ritamary [&#8230;]"
+docsUrl: Lsources/LemuelBJr01doc.htm
+raw: |-
+  <a name="LemuelBJr01"></a><font size=+2>Lemuel B. Vining Jr.</font>
+     (son of <a href="Lfamilies.htm#LemuelB01">Lemuel B. Vining and Thelma A. Swanker</a>)
+     b. 18 January 1931
+     m. Joan Tessaro
+              (dau. of Orestes Tessaro and Edna [&#8230;])
+              b. 8 June 1932   Greensburg, Pennsylvania
+              d. 28 November 2018.  Maplecrest, New York
+                    bur. Maplecrest Cemetery   Maplecrest, New York
+  
+  <font size=+1>children:</font>
+     Deborah Vining   b. 30 June 1956   -   m. Rick Pelham
+     Denise Vining   b. 30 March 1959
+     Frederick Vining   b. 7 April 1961   -   m. Theresa [&#8230;]
+     Jeffery Vining   b. 9 April 1964   -   m. Ritamary [&#8230;]
+  
+  <a href="Lsources/LemuelBJr01doc.htm">documentation and notes</a>

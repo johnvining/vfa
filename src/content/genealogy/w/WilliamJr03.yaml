@@ -1,0 +1,38 @@
+id: WilliamJr03
+sequence: 70
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamM04
+parentDesc: "William Morris Vining and Eva [&#8230;]"
+head:
+  givenName: William Jr.
+  birth:
+    date: "age 5 y., 6 m. as of 1920 census"
+    place: New Jersey
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: "[&#8230;]"
+      birth:
+        date: "age 25 y. as of 1940 census"
+        place: Pennsylvania
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Vining
+        birth:
+          date: "age [illegible] as of 1940 census"
+          place: Pennsylvania
+docsUrl: Wsources/WilliamJr03doc.htm
+raw: |-
+  <a name="WilliamJr03"></a><font size=+2>William Vining Jr.</font>
+     (son of <a href="#WilliamM04">William Morris Vining and Eva [&#8230;]</a>)
+     b. age 5 y., 6 m. as of 1920 census   New Jersey
+     m. Mary [&#8230;]
+              b. age 25 y. as of 1940 census   Pennsylvania
+  
+  <font size=+1>child:</font>
+     William Vining   b. age [illegible] as of 1940 census   Pennsylvania
+  
+  <a href="Wsources/WilliamJr03doc.htm">documentation and notes</a>

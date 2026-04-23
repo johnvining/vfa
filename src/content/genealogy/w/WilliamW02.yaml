@@ -1,0 +1,55 @@
+id: WilliamW02
+sequence: 142
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamR01
+parentDesc: William Reed Vining and Susan A. H. Whitman
+head:
+  givenName: William Whitman
+  birth:
+    date: "1 June [1855?]"
+    place: Massachusetts
+marriages:
+  - date: 20 November 1877
+    spouse:
+      givenName: Nellie
+      surname: Cook
+      birth:
+        date: age 23 y. as of 1880 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Jared Whitman Vining
+        entryId: JaredW02
+        entryLetter: J
+        birth:
+          date: 1 June 1881
+          place: Massachusetts
+        marriages:
+          - date: Beatrice E. Baker
+        death:
+          date: December 1971
+          place: "(last residence: East Orleans, Massachusetts)"
+        burial:
+          place: "Orleans Cemetery   East Orleans, Massachusetts"
+      - name: Ruth Lincoln Vining
+        birth:
+          date: 31 July 1884
+        death:
+          date: January 1964
+          place: "(last residence: Massachusetts)"
+docsUrl: Wsources/WilliamW02doc.htm
+raw: |-
+  <a name="WilliamW02"></a><font size=+2>William Whitman Vining</font>
+     (son of <a href="#WilliamR01">William Reed Vining and Susan A. H. Whitman</a>)
+     b. 1 June [1855?]   Massachusetts
+     m. 20 November 1877
+           Nellie Cook
+                 b. age 23 y. as of 1880 census   Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JaredW02">Jared Whitman Vining</a>   b. 1 June 1881   Massachusetts   -   m. Beatrice E. Baker   -   d. December 1971   (last residence: East Orleans, Massachusetts)   -   bur. Orleans Cemetery   East Orleans, Massachusetts
+     Ruth Lincoln Vining   b. 31 July 1884   -   d. January 1964   (last residence: Massachusetts)
+  
+  <a href="Wsources/WilliamW02doc.htm">documentation and notes</a>

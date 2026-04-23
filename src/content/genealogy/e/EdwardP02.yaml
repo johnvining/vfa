@@ -1,0 +1,50 @@
+id: EdwardP02
+sequence: 45
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: FredP01
+parentLetter: F
+parentDesc: "Fred P. Vining and Jennie C. [&#8230;]"
+head:
+  givenName: Edward P.
+  birth:
+    date: "1891"
+    place: "Lynn, MA"
+marriages:
+  - date: 21 February 1913
+    place: "Portland, Maine"
+    spouse:
+      givenName: Eleanor B.
+      surname: Berrett
+      parents: (dau. of Charles H. Berrett and Annie Devine)
+      birth:
+        date: age 29 y. as of 1920 census
+        place: "Saugus, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Fred Vining
+        birth:
+          date: "1914"
+          place: Massachusetts
+      - name: Martha Vining
+        birth:
+          date: "1917"
+          place: Massachusetts
+      - name: Barbara M. Vining
+        birth:
+          date: "age 1 y., 3 m. as of 1920 census"
+          place: Massachusetts
+raw: |-
+  <a name="EdwardP02"></a><font size=+2>Edward P. Vining</font>
+     (son of <a href="Ffamilies.htm#FredP01">Fred P. Vining and Jennie C. [&#8230;]</a>)
+     b. 1891   Lynn, MA
+     m. 21 February 1913   Portland, Maine
+           Eleanor B. Berrett
+                 (dau. of Charles H. Berrett and Annie Devine)
+                 b. age 29 y. as of 1920 census   Saugus, Massachusetts
+  
+  <font size=+1>children:</font>
+     Fred Vining   b. 1914   Massachusetts
+     Martha Vining   b. 1917   Massachusetts
+     Barbara M. Vining   b. age 1 y., 3 m. as of 1920 census   Massachusetts

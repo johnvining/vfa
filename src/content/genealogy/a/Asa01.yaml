@@ -1,0 +1,80 @@
+id: Asa01
+letter: A
+sequence: 102
+lastUpdated: 1 February 2021
+relationship: son
+parentId: David01
+parentLetter: D
+parentDesc: David Vining and Lydia Torrey
+head:
+  givenName: Asa
+  birth:
+    date: 12 January 1769
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 9 August 1854
+  burial:
+    place: "Doane Cemetery   Hawley, Franklin County, Massachusetts"
+marriages:
+  - date: 20 March 1795
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Sarah
+      surname: Hunt
+      parents: (dau. of Thomas Hunt and Experience Thayer)
+      birth:
+        date: 18 May 1770
+      death:
+        date: 21 March 1845
+        place: "Hawley, Franklin County, Massachusetts"
+      burial:
+        place: "Doane Cemetery   Hawley, Franklin County, Massachusettd"
+childrenGroups:
+  - children:
+      - name: Martin Vining
+        birth:
+          date: 11 March 1797
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: David Vining
+        entryId: David04
+        entryLetter: D
+        birth:
+          date: 3 April 1799
+          place: Massachusetts
+        marriages:
+          - date: "1820"
+            spouse: Gratia K. Taylor
+        death:
+          date: 20 August 1862
+          place: "Leyden, Franklin County, Massachusetts"
+        burial:
+          place: "East Hawley Cemetery   Hawley, Franklin County, Massachusetts"
+      - name: Sarah Vining
+        birth:
+          date: 15 August 1809
+          place: "Hawley, Franklin County, Massachusetts"
+        death:
+          date: 3 October 1891
+          place: "Hawley, Franklin County, Massachusetts"
+        burial:
+          place: "Doane Cemetery   Hawley, Franklin County, Massachusetts"
+docsUrl: Asources/Asa01doc.htm
+raw: |-
+  <a name="Asa01"></a><font size="+2">Asa Vining</font>
+     (son of <a href="Dfamilies.htm#David01">David Vining and Lydia Torrey</a>)
+     b. 12 January 1769   Weymouth, Norfolk County, Massachusetts
+     m. 20 March 1795   Abington, Plymouth County, Massachusetts
+           Sarah Hunt
+                 (dau. of Thomas Hunt and Experience Thayer)
+                 b. 18 May 1770
+                 d. 21 March 1845   Hawley, Franklin County, Massachusetts
+                       bur. Doane Cemetery   Hawley, Franklin County, Massachusettd
+     d. 9 August 1854
+           bur. Doane Cemetery   Hawley, Franklin County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Martin Vining    b. 11 March 1797   Abington, Plymouth County, Massachusetts
+     <a href="Dfamilies.htm#David04">David Vining</a>   b. 3 April 1799   Massachusetts   -   m. 1820   Gratia K. Taylor   -   d. 20 August 1862   Leyden, Franklin County, Massachusetts   -   bur. East Hawley Cemetery   Hawley, Franklin County, Massachusetts
+     Sarah Vining   b. 15 August 1809   Hawley, Franklin County, Massachusetts   -   d. 3 October 1891   Hawley, Franklin County, Massachusetts   -   bur. Doane Cemetery   Hawley, Franklin County, Massachusetts
+  
+  <a href="Asources/Asa01doc.htm">documentation and notes</a>

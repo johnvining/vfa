@@ -1,0 +1,60 @@
+id: JamesC04
+sequence: 41
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James C.
+  birth:
+    date: "age [38?] y. as of 1920 census"
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Annie
+      surname: "[&#8230;]"
+      birth:
+        date: age 33 y. as of 1920 census
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: Ethel Vining
+        birth:
+          date: age 13 y. as of 1920 census
+          place: Alabama
+      - name: Rosa Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Alabama
+      - name: Alice Vining
+        birth:
+          date: age 6 y. as of 1920 census
+          place: Alabama
+        death:
+          date: 31 May 1942
+        burial:
+          place: "Evergreen Cemetery   Louisville, Kentucky"
+      - name: Annie Vining
+        birth:
+          date: "age 4 y., 0 m. as of 1920 census"
+          place: Alabama
+      - name: Jimmie Vining
+        birth:
+          date: "age 1 y., 11 m. as of 1920 census"
+          place: Alabama
+docsUrl: Jsources/JamesC04doc.htm
+raw: |-
+  <a name="JamesC04"></a><font size=+2>James C. Vining</font>
+     (son of [?])
+     b. age [38?] y. as of 1920 census   Georgia
+     m. Annie [&#8230;]
+              b. age 33 y. as of 1920 census   Alabama
+  
+  <font size=+1>children:</font>
+     Ethel Vining   b. age 13 y. as of 1920 census   Alabama
+     Rosa Vining   b. age 8 y. as of 1920 census   Alabama
+     Alice Vining   b. age 6 y. as of 1920 census   Alabama   -   d. 31 May 1942   -   bur. Evergreen Cemetery   Louisville, Kentucky
+     Annie Vining   b. age 4 y., 0 m. as of 1920 census   Alabama
+     Jimmie Vining   b. age 1 y., 11 m. as of 1920 census   Alabama
+  
+  <a href="Jsources/JamesC04doc.htm">documentation and notes</a>

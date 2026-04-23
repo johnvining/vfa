@@ -1,0 +1,156 @@
+---
+import BaseInner from '../../../layouts/BaseInner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('genealogyDocs');
+  return docs.map(doc => {
+    const letter = doc.id.split('/')[0].toUpperCase();
+    const personId = doc.data.id; // use data.id to preserve original case
+    return {
+      params: {
+        lettersources: `${letter}sources`,
+        id: `${personId}doc`,
+      },
+      props: { doc },
+    };
+  });
+}
+
+const { doc } = Astro.props;
+const { title, displayTitle, intro, sections } = doc.data;
+const headingTitle = displayTitle ?? title;
+const letter = doc.id.split('/')[0].toUpperCase();
+const imageBase = `/genealogy-images/${doc.id.split('/')[0]}`;
+
+function defaultHeading(type: string): string {
+  const map: Record<string, string> = {
+    census: 'Census Data',
+    death: 'Death Data',
+    birth: 'Birth Data',
+    marriage: 'Marriage Data',
+    military: 'Military Data',
+    family: 'Family Data',
+    notes: 'Notes',
+    research: 'Research Opportunity',
+  };
+  return map[type] ?? type;
+}
+---
+
+{/* TODO: add site header/nav back to doc pages */}
+<BaseInner
+  title={`Documentation - ${title}`}
+  description={`Documentation for ${title}`}
+  keywords={`Vining, ${title}, Vining family, genealogy`}
+  activePage="Online Genealogy"
+  noHeader
+>
+
+<br><br>
+
+<center>
+  <font size="+2">Documentation for {headingTitle}</font>
+</center>
+
+<br><br>
+
+{intro && intro.map(item => (
+  <div>
+    {item.caption && <Fragment set:html={`${item.caption}<br>`} />}
+    {item.images && (
+      item.inline
+        ? <Fragment set:html={item.images.map(img =>
+            `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
+          ).join('&nbsp;&nbsp;&nbsp;') + '<br><br><br>'} />
+        : item.images.map(img => (
+            <Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}"><br><br><br>`} />
+          ))
+    )}
+  </div>
+))}
+
+{sections && sections.map(section => (
+  <div>
+    <p>
+      {section.headingLarge
+        ? <font size="+2">{section.heading ?? defaultHeading(section.type)}</font>
+        : <font size="+1"><b>{section.heading ?? defaultHeading(section.type)}</b></font>
+      }
+    </p>
+
+    {section.type === 'census' && (
+      <div>
+        {section.table && (
+          <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+            <tr>
+              <td align="left">&nbsp;</td>
+              {section.table.columns.map(col => (
+                <td align="center" bgcolor="#DDDDDD">{col}</td>
+              ))}
+            </tr>
+            {section.table.rows.map(row => (
+              <tr>
+                <td align="left" bgcolor="#DDDDDD">
+                  {row.indent ? <Fragment set:html={`&nbsp;&nbsp;&nbsp;&nbsp;${row.label}`} /> : row.label}
+                </td>
+                {row.values.map(val => (
+                  <td align="center"><Fragment set:html={val.replace(/\n/g, '<br>')} /></td>
+                ))}
+              </tr>
+            ))}
+          </table>
+        )}
+
+        <br /><br />
+
+        {section.entries && section.entries.map(entry => (
+          <div>
+            <font size="+1"><b>{entry.year}</b></font>
+            {entry.caption && <Fragment set:html={` ${entry.caption}:`} />}
+            <br />
+            {entry.images && (
+              entry.inline
+                ? <Fragment set:html={entry.images.map(img =>
+                    `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
+                  ).join('&nbsp;&nbsp;&nbsp;') + '<br><br><br>'} />
+                : entry.images.map(img => (
+                    <Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}"><br>`} />
+                  ))
+            )}
+            {(!entry.images || entry.images.length === 0) && <br />}
+            <br /><br />
+          </div>
+        ))}
+      </div>
+    )}
+
+    {section.type !== 'census' && section.items && section.items.map(item => (
+      <div>
+        {item.caption && <Fragment set:html={`${item.caption}<br>`} />}
+        {item.images && (
+          item.inline
+            ? <Fragment set:html={item.images.map(img =>
+                `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
+              ).join('&nbsp;&nbsp;&nbsp;') + '<br><br><br>'} />
+            : item.images.map(img => (
+                <Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}"><br><br><br>`} />
+              ))
+        )}
+      </div>
+    ))}
+
+    {(section.type === 'notes' || section.type === 'research') && section.text && (
+      <Fragment set:html={section.text.replace(/\n/g, '<br>')} />
+    )}
+
+    {section.type === 'other' && section.text && (
+      <Fragment set:html={section.text.replace(/\n/g, '<br>')} />
+    )}
+
+  </div>
+))}
+
+<br><br>
+
+</BaseInner>

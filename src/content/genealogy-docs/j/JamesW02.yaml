@@ -1,0 +1,62 @@
+id: JamesW02
+title: James William Vining - Mary Antoinette Starling
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: James William Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Antoinette (Starling) Vining
+          values:
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lizzie Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Willie Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Walter David Vining
+          values:
+            - 5 m.
+            - "?"
+            - "?"
+            - married and living in separate househhold
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Flint District, Upson County, Georgia - dwelling 163, family 163
+        images:
+          - src: JamesW02census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for James William Vining, in Fellowship Baptist Cemetery, Upson County, Georgia (from Find A
+          Grave):
+        images:
+          - src: JamesW02gravestone.jpg

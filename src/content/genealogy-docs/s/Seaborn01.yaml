@@ -1,0 +1,112 @@
+id: Seaborn01
+title: Seaborn Vining - Laurana Babb
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1881"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Seaborn Vining
+          values:
+            - "42"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Laurana (Babb) Vining
+          values:
+            - "42"
+            - "51"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Martha A. Vining
+          values:
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Rhoda J. Vining
+          values:
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Louisa Josephine Vining
+          values:
+            - "10"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nancy C. Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Butler Vining
+          values:
+            - "6"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah P. Vining
+          values:
+            - "3"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Henry Webster Vining
+          values:
+            - 6 m.
+            - "10"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Lafayette County, Mississippi - dwelling 877, family [no number given]
+        images:
+          - src: Seaborn01census1850a.jpg
+          - src: Seaborn01census1850b.jpg
+      - year: "1860"
+        caption: Galley Rock Township, Pope County, Arkansas - dwelling 236, family 236
+        images:
+          - src: Seaborn01census1860.jpg

@@ -1,0 +1,29 @@
+id: ArseneE01
+letter: A
+sequence: 84
+lastUpdated: 1 February 2021
+relationship: son
+parentId: OsmynA01
+parentLetter: O
+parentDesc: Osmyn Arsene Vining and Bonnabelle Baker
+head:
+  givenName: Arsene Earl
+marriages:
+  - number: 1
+    date: Jane Hanes
+    note: divorced
+  - number: 2
+    date: "Donna [...]"
+childrenGroups:
+  - headingText: child by Jane Hanes
+    children:
+      - name: Danielle Denise Vining
+raw: |-
+  <a name="ArseneE01"></a><font size="+2">Arsene Earl Vining</font>
+     (son of <a href="Ofamilies.htm#OsmynA01">Osmyn Arsene Vining and Bonnabelle Baker</a>)
+     m. (1) Jane Hanes
+              divorced
+           (2) Donna [...]
+  
+  <font size="+1">child by Jane Hanes:</font>
+     Danielle Denise Vining

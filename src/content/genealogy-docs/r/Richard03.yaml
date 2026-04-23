@@ -1,0 +1,147 @@
+id: Richard03
+title: Richard Vining - Emily Jane Winter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Richard Vining
+          values:
+            - "34"
+            - 34 [sic]
+            - "52"
+            - "?"
+            - "71"
+            - "81"
+            - dead
+            - ""
+            - ""
+        - label: Emily Jane (Winter) Vining
+          values:
+            - "20"
+            - "29"
+            - "39"
+            - "?"
+            - "59"
+            - "68"
+            - |-
+              78
+              [see note below]
+            - |-
+              89
+              [see note below]
+            - dead
+        - label: Marshall M. Vining
+          values:
+            - 9 months
+            - "10"
+            - "20"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Emet James Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - widowed and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Herbert L. Vining
+          values:
+            - ""
+            - "5"
+            - "16"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: "[Willis or William?] Vining"
+          values:
+            - ""
+            - "1"
+            - "12"
+            - "?"
+            - "29"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ida M. Vining
+          values:
+            - ""
+            - 3 months
+            - "10"
+            - "?"
+            - "28"
+            - "40"
+            - |-
+              39 [sic]
+              [see note below]
+            - |-
+              60
+              [see note below]
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Harrison Township (Olmsted post office), Harrison County, Iowa - dwelling 653, family 589
+        images:
+          - src: Richard03census1860.jpg
+      - year: "1870"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 50, family 51
+        images:
+          - src: Richard03census1870a.jpg
+          - src: Richard03census1870b.jpg
+      - year: "1880"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 105, family 111
+        images:
+          - src: Richard03census1880.jpg
+      - year: "1900"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 1, family 1
+        images:
+          - src: Richard03census1900.jpg
+      - year: "1910"
+        caption: Boyer Township, Harrison County, Iowa - dwelling 245, family 247
+        images:
+          - src: Richard03census1910.jpg
+      - year: "1920"
+        caption: >-
+          Boyer Township / Woodbine, Harrison County, Iowa - dwelling 43, family 44. Also in this household in 1920 were
+          Ida M. (Vining) Shinn and her family.
+        images:
+          - src: Richard03census1920.jpg
+      - year: "1930"
+        caption: >-
+          Boyer Township / Woodbine Town, Harrison County, Iowa - dwelling 170, family 176. In 1930, Emily Jane (Winter)
+          Vining and her daughter, Ida M. (Vining) Shinn, were living together, with Ida listed first in the census
+          record.
+        images:
+          - src: Richard03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Richard Vining and Emily Jane (Winter) Vining, in Woodbine Cemetery, Woodbine, Harrison County,
+          Iowa (from Find A Grave):
+        images:
+          - src: Richard03andwifeheadstone.jpg

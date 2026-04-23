@@ -1,0 +1,98 @@
+id: AB01
+letter: A
+sequence: 1
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Oliver01
+parentLetter: O
+parentDesc: Oliver Vining and Mary R. Burchim
+head:
+  givenName: A. Burchim
+  birth:
+    date: 16 December 1891
+    place: "Kankakee, Kankakee County, Illinois"
+  death:
+    date: 5 November 1954
+    place: "Pocahontas, Pocahontas County, Iowa"
+  burial:
+    place: "Summit Hill Cemetery   Pocahontas, Pocahontas County, Iowa"
+marriages:
+  - date: 7 February 1912
+    place: "Kankakee, Kankakee County, Illinois"
+    spouse:
+      givenName: Lyla May
+      surname: Kloxin
+      parents: (dau. of Frederick Wilhelm Kloxin and Paulina Fredericka Langer)
+      birth:
+        date: 21 May 1889
+        place: "Fonda, Pocahontas County, Iowa"
+      death:
+        date: June 1967
+        place: "(last residence: Denver, Denver County, Colorado)"
+      burial:
+        place: "Summit Hill Cemetery   Pocahontas, Pocahontas County, Iowa"
+childrenGroups:
+  - children:
+      - name: Harold Reginald Vining
+        entryId: HaroldR01
+        entryLetter: H
+        birth:
+          date: 17 January 1913
+          place: "Kankakee, Kankakee County, Illinois"
+        marriages:
+          - number: 1
+            date: 11 June 1932
+            place: "Pocahontas, Pocahontas County, Iowa"
+            spouse: Lois Agnes Hersom (d. 1945)
+          - number: 2
+            date: 12 February 1945
+            place: "Nashua, Chickasaw County, Iowa"
+            spouse: Ida May Krischel
+        death:
+          date: 18 July 1966
+          place: "Storm Lake, Buena Vista County, Iowa"
+        burial:
+          place: "Sacred Heart Cemetery   Early, Sac County, Iowa"
+      - name: Iris Viola Vining
+        birth:
+          date: 22 November 1915
+          place: "Fonda, Pocahontas County, Iowa"
+        marriages:
+          - date: "1942"
+            spouse: Arnold D. Williams
+        death:
+          date: 11 December 1991
+        burial:
+          place: "Fort Logan National Cemetery   Denver, Denver County, Colorado"
+      - name: Grace Anita Vining
+        birth:
+          date: 25 March 1921
+          place: "Fonda, Pocahontas County, Iowa"
+        marriages:
+          - date: "1941"
+            spouse: Lloyd Wagner
+        death:
+          date: January 1990
+          place: "Pocahontas County, Iowa"
+        burial:
+          place: "Calvary Cemetery   Pocahontas, Pocahontas County, Iowa"
+docsUrl: Asources/AB01doc.htm
+raw: |-
+  <a name="AB01"></a><font size="+2">A. Burchim Vining</font>
+     (son of <a href="Ofamilies.htm#Oliver01">Oliver Vining and Mary R. Burchim</a>)
+     b. 16 December 1891   Kankakee, Kankakee County, Illinois
+     m. 7 February 1912   Kankakee, Kankakee County, Illinois
+           Lyla May Kloxin
+                 (dau. of Frederick Wilhelm Kloxin and Paulina Fredericka Langer)
+                 b. 21 May 1889   Fonda, Pocahontas County, Iowa
+                 d. June 1967   (last residence: Denver, Denver County, Colorado)
+                       bur. Summit Hill Cemetery   Pocahontas, Pocahontas County, Iowa
+     d. 5 November 1954   Pocahontas, Pocahontas County, Iowa
+           bur. Summit Hill Cemetery   Pocahontas, Pocahontas County, Iowa
+  
+  <font size="+1">children:</font>
+     <a href="Hfamilies.htm#HaroldR01">Harold Reginald Vining</a>   b. 17 January 1913   Kankakee, Kankakee County, Illinois   -   m. (1) 11 June 1932   Pocahontas, Pocahontas County, Iowa   Lois Agnes Hersom (d. 1945);   (2) 12 February 1945   Nashua, Chickasaw County, Iowa   Ida May Krischel   -   d. 18 July 1966   Storm Lake, Buena Vista County, Iowa   -   bur. Sacred Heart Cemetery   Early, Sac County, Iowa
+     Iris Viola Vining   b. 22 November 1915   Fonda, Pocahontas County, Iowa   -   m. 1942   Arnold D. Williams   -   d. 11 December 1991   -   bur. Fort Logan National Cemetery   Denver, Denver County, Colorado
+     Grace Anita Vining   b. 25 March 1921   Fonda, Pocahontas County, Iowa   -   m. 1941   Lloyd Wagner   -   d. January 1990   Pocahontas County, Iowa   -   bur. Calvary Cemetery   Pocahontas, Pocahontas County, Iowa
+  
+  <a href="Asources/AB01doc.htm">documentation and notes</a>

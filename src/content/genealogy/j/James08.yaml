@@ -1,0 +1,38 @@
+id: James08
+sequence: 20
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jared02
+parentDesc: Jared Vining and Emily Churchill
+head:
+  givenName: James
+  birth:
+    date: May 1850
+    place: Massachusetts
+marriages:
+  - spouse:
+      givenName: Alice J.
+      surname: "[&#8230;]"
+      birth:
+        date: May 1846
+        place: Maine
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: George H. Vining
+        birth:
+          date: January 1870
+          place: Maine
+docsUrl: Jsources/James08doc.htm
+raw: |-
+  <a name="James08"></a><font size=+2>James Vining</font>
+     (son of <a href="#Jared02">Jared Vining and Emily Churchill</a>)
+     b. May 1850   Massachusetts
+     m. Alice J. [&#8230;]
+              b. May 1846   Maine
+  
+  <font size=+1>child:</font>
+     George H. Vining   b. January 1870   Maine
+  
+  <a href="Jsources/James08doc.htm">documentation and notes</a>

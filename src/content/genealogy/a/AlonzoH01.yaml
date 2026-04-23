@@ -1,0 +1,77 @@
+id: AlonzoH01
+letter: A
+sequence: 58
+lastUpdated: 1 February 2021
+relationship: son
+parentId: John10
+parentLetter: J
+parentDesc: John Vining and Mary Haines
+head:
+  givenName: Alonzo Haines
+  birth:
+    date: 19 June 1843
+    place: Maine
+  death:
+    date: "1909"
+    place: "Lowell, Massachusetts"
+  burial:
+    place: "Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts"
+marriages:
+  - date: "1866"
+    place: "Lowell, Middlesex County, Massachusetts"
+    spouse:
+      givenName: Mary A.
+      surname: "[...]"
+      birth:
+        date: "1842"
+        place: New York
+      death:
+        date: "1923"
+      burial:
+        place: "Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Anna Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Maine
+      - name: Mary E. Vining
+        birth:
+          date: "1872"
+          place: "Lowell, Middlesex County, Massachusetts"
+        death:
+          date: "1885"
+          place: "[Lowell, Middlesex County, Massachusetts?]"
+        burial:
+          place: "Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts"
+      - name: child
+      - name: child
+      - name: Blanche F. Vining
+        birth:
+          date: May 1883
+          place: Massachusetts
+        death:
+          date: "1918"
+        burial:
+          place: "Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts"
+docsUrl: Asources/AlonzoH01doc.htm
+raw: |-
+  <a name="AlonzoH01"></a><font size="+2">Alonzo Haines Vining</font>
+     (son of <a href="Jfamilies.htm#John10">John Vining and Mary Haines</a>)
+     b. 19 June 1843   Maine
+     m. 1866   Lowell, Middlesex County, Massachusetts
+           Mary A. [...]
+                 b. 1842   New York
+                 d. 1923
+                       bur. Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts
+     d. 1909   Lowell, Massachusetts
+           bur. Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Anna Vining   b. age 3 y. as of 1870 census   Maine
+     Mary E. Vining   b. 1872   Lowell, Middlesex County, Massachusetts   -   d. 1885   [Lowell, Middlesex County, Massachusetts?]   -   bur. Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts
+     child
+     child
+     Blanche F. Vining   b. May 1883   Massachusetts   -   d. 1918   -   bur. Saint Patrick Cemetery   Lowell, Middlesex County, Massachusetts
+  
+  <a href="Asources/AlonzoH01doc.htm">documentation and notes</a>

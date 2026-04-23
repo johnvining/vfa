@@ -1,0 +1,64 @@
+id: ElmerE01
+title: Elmer E. Vining - Eva L. Hamilton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Elmer E. Vining
+          values:
+            - "?"
+            - "38"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Eva L. (Hamilton) Vining
+          values:
+            - "?"
+            - "29"
+            - "39"
+            - "?"
+            - "?"
+            - "?"
+        - label: Guy E. Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Hallie G. Vining
+          values:
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Grasshopper Township, Atchison County, Kansas - dwelling 65, family 67
+        images:
+          - src: ElmerE01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Horton, Brown County, Kansas - dwelling 240, family 263. Also living in this household in 1910 was Hannah R.
+          Hamilton (76 y., b. Ohio), the mother of Eva L. (Hamilton) Vining.
+        images:
+          - src: ElmerE01census1910.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Elmer E. Vining, in Horton Cemetery, Horton, Brown County, Kansas (from Find A Grave):"
+        images:
+          - src: ElmerE01gravestone.jpg
+      - caption: \

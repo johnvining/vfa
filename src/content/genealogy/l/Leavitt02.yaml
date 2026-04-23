@@ -1,0 +1,54 @@
+id: Leavitt02
+sequence: 20
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LeavittA01
+parentLetter: L
+parentDesc: Leavitt A. Vining and Lucy Andrews
+head:
+  givenName: Leavitt
+  birth:
+    date: 1794/1795
+    place: "Wiscasset, Maine"
+marriages:
+  - spouse:
+      givenName: Hannah
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Nathan Vining
+        entryId: Nathan02
+        entryLetter: N
+        birth:
+          date: ca. 1813/1814
+          place: "St. George, New Brunswick"
+        marriages:
+          - date: "Mary Elizabeth &#8220;May&#8221; Huntley"
+      - name: Eliza H. Vining
+        birth:
+          date: ca. 1815
+          place: New Brunswick
+        marriages:
+          - date: 3 March 1836
+            spouse: Charles Albee
+      - name: Almira G. Vining
+        birth:
+          date: ca. 1817
+          place: Maine
+        marriages:
+          - date: 29 July 1838
+            spouse: John Cooper Munson
+docsUrl: Lsources/Leavitt02doc.htm
+raw: |-
+  <a name="Leavitt02"></a><font size=+2>Leavitt Vining</font>
+     (son of <a href="Lfamilies.htm#LeavittA01">Leavitt A. Vining and Lucy Andrews</a>)
+     b. 1794/1795   Wiscasset, Maine
+     m. Hannah [...]
+  
+  <font size=+1>children:</font>
+     <a href="Nfamilies.htm#Nathan02">Nathan Vining</a>   b. ca. 1813/1814   St. George, New Brunswick   -   m. Mary Elizabeth &#8220;May&#8221; Huntley
+     Eliza H. Vining   b. ca. 1815   New Brunswick   -   m. 3 March 1836   Charles Albee
+     Almira G. Vining   b. ca. 1817   Maine   -   m. 29 July 1838   John Cooper Munson
+  
+  <a href="Lsources/Leavitt02doc.htm">documentation and notes</a>

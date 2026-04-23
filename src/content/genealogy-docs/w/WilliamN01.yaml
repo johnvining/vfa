@@ -1,0 +1,52 @@
+id: WilliamN01
+title: William Norton Vining - Phebe Fowler
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: William Norton Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Phebe (Fowler) Vining
+          values:
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: "[Frances?] Vining"
+          values:
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Southwick, Hamden County, Massachusetts - dwelling 69, family 70
+        images:
+          - src: WilliamN01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for William Norton Vining and Phebe (Fowler), in Southwick Cemetery, Southwick, Hampden County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: WilliamN01gravestone.jpg
+          - src: WilliamN01wifegravestone.jpg
+        inline: true

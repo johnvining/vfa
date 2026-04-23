@@ -1,0 +1,104 @@
+id: PhillipH01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: Isadore01
+parentLetter: I
+parentDesc: "Isadore Vining and (Zelian or Zelline?) Dubois"
+head:
+  givenName: Phillip H.
+  birth:
+    date: January 1867
+    place: "Three Rivers, Quebec, Canada"
+  death:
+    date: "1941"
+    place: "Somerville, Massachusetts"
+marriages:
+  - number: 1
+    date: 18 October 1885
+    place: "Boston, Massachusetts"
+    spouse:
+      givenName: Mary Elizabeth
+      surname: LeSage
+      parents: "(dau. of John E, LeSage and Mary O. [&#8230;])"
+      birth:
+        date: April 1867
+        place: "Nashua, New Hampshire"
+      death:
+        date: before 1924
+        place: "Northfield, New Hampshire"
+  - number: 2
+    date: 23 January 1926
+    place: "Lakeport, New Hampshire"
+    spouse:
+      givenName: "Clara Hammond [her second"
+      surname: "marriage]"
+      parents: "(dau. of Joseph Belware and Mary Mote)"
+      birth:
+        date: age 56 at marriage
+        place: "Lowell, Massachusetts"
+childrenGroups:
+  - spouseRef: Mary Elizabeth LeSage
+    children:
+      - name: Francis Earl Vining
+        entryId: FrancisE01
+        entryLetter: F
+        birth:
+          date: 18 October 1886
+          place: "Boston, Massachusetts"
+        marriages:
+          - number: 1
+            date: 30 May 1909
+            spouse: Frances J. Bullock (d. 9 February 1920)
+          - number: 2
+            date: 1 April 1921
+            spouse: Elizabeth Mary Denny
+        death:
+          date: 5 December 1934
+      - name: Ella Vining
+        birth:
+          date: September 1888
+          place: Massachusetts
+      - name: Olive Vining
+        birth:
+          date: January 1891
+          place: Massachusetts
+      - name: Cora A. Vining
+        birth:
+          date: 31 January 1893
+          place: "Boston, Massachusetts"
+      - name: Evelyn Vining
+        birth:
+          date: September 1895
+          place: Massachusetts
+      - name: Gladys L. Vining
+        birth:
+          date: July 1898
+          place: Massachusetts
+        marriages:
+          - date: "Clarence Sea[...]wald"
+docsUrl: Psources/PhillipH01doc.htm
+raw: |-
+  <a name="PhillipH01"></a><font size=+2>Phillip H. Vining</font>
+     (son of <a href="Ifamilies.htm#Isadore01">Isadore Vining and (Zelian or Zelline?) Dubois</a>)
+     b. January 1867   Three Rivers, Quebec, Canada
+     m. (1) 18 October 1885   Boston, Massachusetts
+                 Mary Elizabeth LeSage
+                       (dau. of John E, LeSage and Mary O. [&#8230;])
+                       b. April 1867   Nashua, New Hampshire
+                       d. before 1924   Northfield, New Hampshire
+           (2) 23 January 1926   Lakeport, New Hampshire
+                 Clara Hammond [her second marriage]
+                       (dau. of Joseph Belware and Mary Mote)
+                       b. age 56 at marriage   Lowell, Massachusetts
+     d. 1941   Somerville, Massachusetts
+  
+  <font size=+1>children by Mary Elizabeth LeSage:</font>
+     <a href="Ffamilies.htm#FrancisE01">Francis Earl Vining</a>   b. 18 October 1886   Boston, Massachusetts   -   m. (1) 30 May 1909   Frances J. Bullock (d. 9 February 1920);   (2) 1 April 1921   Elizabeth Mary Denny   -   d. 5 December 1934
+     Ella Vining   b. September 1888   Massachusetts
+     Olive Vining   b. January 1891   Massachusetts
+     Cora A. Vining   b. 31 January 1893   Boston, Massachusetts
+     Evelyn Vining   b. September 1895   Massachusetts
+     Gladys L. Vining   b. July 1898   Massachusetts   -   m. Clarence Sea[...]wald
+  
+  <a href="Psources/PhillipH01doc.htm">documentation and notes</a>

@@ -1,0 +1,75 @@
+id: Almond01
+letter: A
+sequence: 55
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Reuben02
+parentLetter: R
+parentDesc: Reuben Vining and Mrs. Maria Louisa Sackett
+head:
+  givenName: Almond
+  birth:
+    date: 28 April 1868
+    place: Illinois
+  death:
+    date: "1944"
+    place: "Bellingham, Washington"
+  burial:
+    place: "Greenacres Memorial Park   Ferndale, Whatcomb County, Washington"
+marriages:
+  - date: 21 y. as of 1910 census
+    spouse:
+      givenName: Minnie Kathrin
+      surname: Bruce
+      birth:
+        date: age 38 y. as of 1910 census
+        place: Minnesota
+      death:
+        date: "1950"
+childrenGroups:
+  - children:
+      - name: Walter Vining
+        entryId: Walter01
+        entryLetter: W
+        birth:
+          date: 8 April 1890
+          place: Minnesota
+        marriages:
+          - date: Mabel Bye
+        death:
+          date: 13 September 1948
+      - name: Grace Vining
+        birth:
+          date: 3 July 1891
+          place: Minnesota
+        marriages:
+          - date: Henry Oliver Buer
+        death:
+          date: 11 August 1969
+  - headingText: adopted child
+    children:
+      - name: Carl Vining
+        birth:
+          date: 14 December 1905
+          place: South Dakota
+        death:
+          date: October 1944
+docsUrl: Asources/Almond01doc.htm
+raw: |-
+  <a name="Almond01"></a><font size="+2">Almond Vining</font>
+     (son of <a href="Rfamilies.htm#Reuben02">Reuben Vining and Mrs. Maria Louisa Sackett</a>)
+     b. 28 April 1868   Illinois
+     m. 21 y. as of 1910 census
+           Minnie Kathrin Bruce
+                 b. age 38 y. as of 1910 census   Minnesota
+                 d. 1950
+     d. 1944   Bellingham, Washington
+           bur. Greenacres Memorial Park   Ferndale, Whatcomb County, Washington
+  
+  <font size="+1">children:</font>
+     <a href="Wfamilies.htm#Walter01">Walter Vining</a>   b. 8 April 1890   Minnesota   -   m. Mabel Bye   -   d. 13 September 1948
+     Grace Vining   b. 3 July 1891   Minnesota   -   m. Henry Oliver Buer   -   d. 11 August 1969
+  <font size="+1">adopted child:</font>
+     Carl Vining   b. 14 December 1905   South Dakota   -   d. October 1944
+  
+  <a href="Asources/Almond01doc.htm">documentation and notes</a>

@@ -1,0 +1,68 @@
+id: JohnR03
+sequence: 260
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RufusA01
+parentLetter: R
+parentDesc: Rufus Allen Vining and Anna Marie Byers
+head:
+  givenName: John Reuben
+  birth:
+    date: 30 October 1921
+  death:
+    date: 1 February 1993
+    place: "(last residence: Aberdeen, South Dakota)"
+  burial:
+    place: "Riverside Memorial Park   Aberdeen, South Dakota"
+marriages:
+  - date: 13 January 1946
+    place: "Aberdeen, Brown County, South Dakota"
+    spouse:
+      givenName: Ella Mae
+      surname: Belseth
+      parents: (dau. of Casper Belseth and Olive Ricker)
+      birth:
+        date: 12 May 1922
+        place: "Edmunds County, South Dakota"
+      death:
+        date: 11 October 2019
+        place: "Watertown, South Dakota"
+childrenGroups:
+  - children:
+      - name: Virginia Kay Vining
+        birth:
+          date: 6 January 1947
+        marriages:
+          - date: Jerry Schlekeway
+      - name: Richard Allen Vining
+        entryId: RichardA02
+        entryLetter: R
+        birth:
+          date: 9 June 1949
+        marriages:
+          - date: Janeen Hurlbert
+      - name: Jeffrey Scott Vining
+        birth:
+          date: 5 September 1953
+        death:
+          date: "1953"
+docsUrl: Jsources/JohnR03doc.htm
+raw: |-
+  <a name="JohnR03"></a><font size=+2>John Reuben Vining</font>
+     (son of <a href="Rfamilies.htm#RufusA01">Rufus Allen Vining and Anna Marie Byers</a>)
+     b. 30 October 1921
+     m. 13 January 1946   Aberdeen, Brown County, South Dakota
+           Ella Mae Belseth
+                 (dau. of Casper Belseth and Olive Ricker)
+                 b. 12 May 1922.  Edmunds County, South Dakota
+                 d. 11 October 2019.  Watertown, South Dakota
+     d. 1 February 1993   (last residence: Aberdeen, South Dakota)
+           bur. Riverside Memorial Park   Aberdeen, South Dakota
+  
+  <font size=+1>children:</font>
+     Virginia Kay Vining   b. 6 January 1947   -   m. Jerry Schlekeway
+     <a href="Rfamilies.htm#RichardA02">Richard Allen Vining</a>   b. 9 June 1949   -   m. Janeen Hurlbert
+     Jeffrey Scott Vining   b. 5 September 1953   -   d. 1953
+  
+  <a href="Jsources/JohnR03doc.htm">documentation and notes</a>

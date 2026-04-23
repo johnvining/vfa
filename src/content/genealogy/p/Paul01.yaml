@@ -1,0 +1,34 @@
+id: Paul01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: JohnM01
+parentLetter: J
+parentDesc: John Marcus Vining and Jean Keller
+head:
+  givenName: Paul
+  birth:
+    date: 9 July 1952
+    place: "Wales, Alaska"
+marriages:
+  - spouse:
+      givenName: Martha Ellen
+      surname: Cozean
+      parents: "(dau. of Rolla Rutledge Cozean and Harriet Ann Miller)"
+      birth:
+        date: 22 December 1953
+        place: "Farmington, Missouri"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: son
+raw: |-
+  <a name="Paul01"></a><font size=+2>Paul Vining</font>
+     (son of <a href="Jfamilies.htm#JohnM01">John Marcus Vining and Jean Keller</a>)
+     b. 9 July 1952   Wales, Alaska
+     m. Martha Ellen Cozean
+              (dau. of Rolla Rutledge Cozean and Harriet Ann Miller)
+              b. 22 December 1953   Farmington, Missouri
+  
+  <font size=+1>child:</font>
+     son

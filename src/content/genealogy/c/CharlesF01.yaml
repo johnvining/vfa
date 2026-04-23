@@ -1,0 +1,180 @@
+id: CharlesF01
+letter: C
+sequence: 66
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CorneliusW01
+parentDesc: Cornelius W. Vining and Zipporah Clarke
+head:
+  givenName: Charles Fournier
+  birth:
+    date: 25 December 1849
+    place: "[Indiana or Columbia Township, Michigan?]"
+  death:
+    date: "1924"
+  burial:
+    place: "Clark Lake Cemetery  Clark Lake, Michigan"
+marriages:
+  - number: 1
+    date: 17 December 1873
+    place: "Clark Lake, Michigan"
+    spouse:
+      givenName: Nancy Ophelia
+      surname: Preston
+      parents: (dau. of Othaniel Preston and Polly Hall)
+      birth:
+        date: 4 July 1853
+        place: "Waterloo Township, Michigan"
+      death:
+        date: 26 November 1915
+        place: "Brooklyn, Michigan"
+      burial:
+        place: "Clark Lake Cemetery   Clark Lake, Michigan"
+  - number: 2
+    date: Viola Adora Redner Vining (widow of Charles Fournier Vining's brother Thomas)
+    spouse:
+      parents: (dau. of Elias Redner and Hanna Merian Keeling)
+      birth:
+        date: 7 May 1863
+        place: "Brooklyn (Columbia Township), Michigan"
+      death:
+        date: 18 March 1940
+        place: "Jackson, Michigan"
+      burial:
+        place: "Liberty Township, Michigan"
+childrenGroups:
+  - spouseRef: Nancy Ophelia Preston
+    headingText: children by Nancy Ophelia Preston
+    children:
+      - name: Clear Seeing Vining
+        entryId: ClearS01
+        birth:
+          date: 8 April 1875
+          place: "Columbia Township, Michigan"
+        marriages:
+          - number: 1
+            date: 16 January 1895
+            place: "Brooklyn, Michigan"
+            spouse: "Flora E. Miller,   divorced"
+          - number: 2
+            date: Mary Rose Connell (d. 1909)
+          - number: 3
+            date: 15 January 1920
+            spouse: "Isabelle Hinkly,   divorced 1926"
+          - number: 4
+            date: 20 November 1927
+            spouse: Mrs. Barr
+        death:
+          date: 6 January 1956
+          place: "San Bernardino, California"
+      - name: Day Preston Vining
+        entryId: DayP01
+        entryLetter: D
+        birth:
+          date: 7 January 1877
+          place: "Columbia Township, Michigan"
+        marriages:
+          - date: 17 July 1901
+            spouse: Margaret Irene McVey
+        death:
+          date: 16 October 1928
+          place: "Daytona Beach, Florida"
+        burial:
+          place: "St. John's Catholic Cemetery   Jackson, Michigan"
+      - name: Colonel Emmett Vining
+        entryId: ColonelE01
+        birth:
+          date: 24 January 1879
+          place: "Columbia Township, Michigan"
+        marriages:
+          - date: 25 December 1900
+            spouse: Mary C. Gates
+        death:
+          date: 18 March 1951
+        burial:
+          place: "Cowlesville Cemetery   Cowlesville, New York"
+      - name: Cecil Leo Vining
+        entryId: CecilL01
+        birth:
+          date: 12 July 1881
+          place: "Columbia Township, Michigan"
+        marriages:
+          - date: 3 June 1903
+            place: Michigan
+            spouse: Myra K. Beech
+        death:
+          date: 17 July 1949
+          place: Florida
+      - name: Cornelius Wright Vining
+        entryId: CorneliusW02
+        birth:
+          date: 8 February 1883
+          place: "Columbia Township, Michigan"
+        marriages:
+          - date: "Jackson, Michigan"
+            spouse: Genevieve Jenkins
+        death:
+          date: "[June 1960 or 1961?]"
+          place: "Daytona Beach, Florida"
+        burial:
+          place: "Daytona Memorial Park   Daytona Beach, Florida"
+      - name: Beulah Franc Vining
+        birth:
+          date: 2 November 1885
+          place: "Columbia Township, Michigan"
+        marriages:
+          - number: 1
+            date: "1905"
+            spouse: "Grover Harris,   divorced"
+          - number: 2
+            date: 28 October 1912
+            spouse: Wilbur Austin
+          - number: 3
+            date: 2 September 1947
+            spouse: Jack Frankburger
+      - name: Forest DeVere Vining
+        birth:
+          date: 30 August 1887
+          place: "[Columbia Township, Michigan?]"
+        death:
+          date: 21 September 1889
+        burial:
+          place: "Clark Lake Cemetery   Clark Lake, Michigan"
+      - name: Charles Elton Vining
+        entryId: CharlesE07
+        birth:
+          date: 2 February 1893
+          place: "Columbia Township, Michigan"
+        marriages:
+          - date: 17 August 1912
+            spouse: Marie Pearl Breyton
+docsUrl: Csources/CharlesF01doc.htm
+raw: |-
+  <a name="CharlesF01"></a><font size=+2>Charles Fournier Vining</font>
+     (son of <a href="#CorneliusW01">Cornelius W. Vining and Zipporah Clarke</a>)
+     b. 25 December 1849   [Indiana or Columbia Township, Michigan?]
+     m. (1) 17 December 1873   Clark Lake, Michigan
+                 Nancy Ophelia Preston
+                       (dau. of Othaniel Preston and Polly Hall)
+                       b. 4 July 1853   Waterloo Township, Michigan
+                       d. 26 November 1915   Brooklyn, Michigan
+                             bur. Clark Lake Cemetery   Clark Lake, Michigan
+           (2) Viola Adora Redner Vining (widow of Charles Fournier Vining's brother Thomas)
+                       (dau. of Elias Redner and Hanna Merian Keeling)
+                       b. 7 May 1863   Brooklyn (Columbia Township), Michigan
+                       d. 18 March 1940   Jackson, Michigan
+                             bur. Liberty Township, Michigan
+     d. 1924
+           bur. Clark Lake Cemetery  Clark Lake, Michigan
+  
+  <font size=+1>children by Nancy Ophelia Preston:</font>
+     <a href="#ClearS01">Clear Seeing Vining</a>   b. 8 April 1875   Columbia Township, Michigan   -   m. (1) 16 January 1895   Brooklyn, Michigan   Flora E. Miller,   divorced;   (2) Mary Rose Connell (d. 1909);   (3) 15 January 1920   Isabelle Hinkly,   divorced 1926;   (4) 20 November 1927   Mrs. Barr   -   d. 6 January 1956   San Bernardino, California
+     <a href="Dfamilies.htm#DayP01">Day Preston Vining</a>   b. 7 January 1877   Columbia Township, Michigan   -   m. 17 July 1901   Margaret Irene McVey   -   d. 16 October 1928   Daytona Beach, Florida   -   bur. St. John's Catholic Cemetery   Jackson, Michigan
+     <a href="#ColonelE01">Colonel Emmett Vining</a>   b. 24 January 1879   Columbia Township, Michigan   -   m. 25 December 1900   Mary C. Gates   -   d. 18 March 1951   -   bur. Cowlesville Cemetery   Cowlesville, New York
+     <a href="#CecilL01">Cecil Leo Vining</a>   b. 12 July 1881   Columbia Township, Michigan   -   m. 3 June 1903   Michigan   Myra K. Beech   -   d. 17 July 1949   Florida
+     <a href="#CorneliusW02">Cornelius Wright Vining</a>   b. 8 February 1883   Columbia Township, Michigan   -   m. Jackson, Michigan   Genevieve Jenkins   -   d. [June 1960 or 1961?]   Daytona Beach, Florida   -   bur. Daytona Memorial Park   Daytona Beach, Florida
+     Beulah Franc Vining   b. 2 November 1885   Columbia Township, Michigan   -   m. (1) 1905   Grover Harris,   divorced;   (2) 28 October 1912   Wilbur Austin;   (3) 2 September 1947   Jack Frankburger
+     Forest DeVere Vining   b. 30 August 1887   [Columbia Township, Michigan?]   -   d. 21 September 1889   -   bur. Clark Lake Cemetery   Clark Lake, Michigan
+     <a href="#CharlesE07">Charles Elton Vining</a>   b. 2 February 1893   Columbia Township, Michigan   -   m. 17 August 1912   Marie Pearl Breyton
+  
+  <a href="Csources/CharlesF01doc.htm">documentation and notes</a>

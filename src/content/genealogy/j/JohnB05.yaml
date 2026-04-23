@@ -1,0 +1,70 @@
+id: JohnB05
+sequence: 209
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: SimeonB02
+parentLetter: S
+parentDesc: Simeon B. Vining and Lucy Cooley
+head:
+  givenName: John Byrum
+  birth:
+    date: 27 February 1874
+    place: "[Chesterville?], Ohio"
+  death:
+    date: "[1953 or 1954?]"
+    place: "Milan, Ohio"
+  burial:
+    place: "Chesterville, Ohio"
+marriages:
+  - date: 17 June 1903
+    spouse:
+      givenName: Hattie Mae
+      surname: Gordon
+      parents: (dau. of John W. Gordon and Lucy Celestia Selover)
+      birth:
+        date: 1 January 1884
+        place: "Marengo, Ohio"
+      death:
+        date: 3 November 1955
+      burial:
+        place: "Chesterville, Ohio"
+childrenGroups:
+  - children:
+      - name: Virgil Gordon Vining
+        entryId: VirgilG01
+        entryLetter: V
+        birth:
+          date: 7 July 1905
+          place: "Edison, Ohio"
+        marriages:
+          - date: Mary E. Thomas
+        death:
+          date: July 1982
+          place: "Sandusky, Ohio"
+        burial:
+          place: "Maple Grove Cemetery   Chesterville, Ohio"
+      - name: Grace Estelle Vining
+        birth:
+          date: 7 March 1909
+        death:
+          date: 11 March 1909
+docsUrl: Jsources/JohnB05doc.htm
+raw: |-
+  <a name="JohnB05"></a><font size=+2>John Byrum Vining</font>
+     (son of <a href="Sfamilies.htm#SimeonB02">Simeon B. Vining and Lucy Cooley</a>)
+     b. 27 February 1874   [Chesterville?], Ohio
+     m. 17 June 1903
+           Hattie Mae Gordon
+                 (dau. of John W. Gordon and Lucy Celestia Selover)
+                 b. 1 January 1884   Marengo, Ohio
+                 d. 3 November 1955
+                       bur. Chesterville, Ohio
+     d. [1953 or 1954?]   Milan, Ohio
+           bur. Chesterville, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Vfamilies.htm#VirgilG01">Virgil Gordon Vining</a>   b. 7 July 1905   Edison, Ohio   -   m. Mary E. Thomas   -   d. July 1982   Sandusky, Ohio   -   bur. Maple Grove Cemetery   Chesterville, Ohio
+     Grace Estelle Vining   b. 7 March 1909   -   d. 11 March 1909
+  
+  <a href="Jsources/JohnB05doc.htm">documentation and notes</a>

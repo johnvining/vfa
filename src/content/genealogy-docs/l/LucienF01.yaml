@@ -1,0 +1,54 @@
+id: LucienF01
+title: Lucien Freeman Vining - Alice Wandover
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Lucien Freeman Vining
+          values:
+            - "?"
+            - "37"
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+        - label: Alice (Wandover) Vining
+          values:
+            - "?"
+            - "29"
+            - "41"
+            - "?"
+            - "?"
+            - "?"
+        - label: Flossie Vining
+          values:
+            - "?"
+            - "11"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Minnie May Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Brooklyn, Susquehanna County, Pennsylvania - dwelling 105, family 106. Also living in this household in 1900
+          was Sh[erer?] Ford (b. April 1870, Pennsylvania), a boarder.
+      - year: "1910"
+        caption: Conklin, Broome County, New York - dwelling 212, family 217

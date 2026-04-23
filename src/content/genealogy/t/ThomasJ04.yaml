@@ -1,0 +1,32 @@
+id: ThomasJ04
+letter: T
+sequence: 42
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasCJr01
+parentDesc: Thomas Cleburne Vining Jr. and Nancy Williams
+head:
+  givenName: Thomas Jeffery
+  birth:
+    date: 8 March 1963
+marriages:
+  - date: "1995"
+    spouse:
+      givenName: Nancy
+      surname: Winslow
+    note: "divorced 2015"
+childrenGroups:
+  - children:
+      - name: Caleb Vining
+      - name: Mackenzie Vining
+raw: |-
+  <a name="ThomasJ04"></a><font size=+2>Thomas Jeffery Vining</font>
+     (son of <a href="#ThomasCJr01">Thomas Cleburne Vining Jr. and Nancy Williams</a>)
+     b. 8 March 1963
+     m. 1995
+           Nancy Winslow
+           divorced 2015
+  
+  <font size=+1>children:</font>
+     Caleb Vining
+     Mackenzie Vining

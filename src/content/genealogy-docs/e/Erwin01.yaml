@@ -1,0 +1,101 @@
+id: Erwin01
+title: Erwin Vining - Clara Ewing
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Erwin Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+        - label: Clara (Ewing) Vining
+          values:
+            - "?"
+            - "23"
+            - dead
+            - ""
+            - ""
+        - label: Ruth Vining
+          values:
+            - ""
+            - 2 y., 10 m.
+            - |-
+              12
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Charlotte Blanche Vining
+          values:
+            - ""
+            - 2 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles A. Vining
+          values:
+            - ""
+            - ""
+            - |-
+              7
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Franklin Erwin Vining
+          values:
+            - ""
+            - ""
+            - |-
+              5
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Earl B. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Larned (ward 2), Pawnee County, Kansas - dwelling 299, family 304
+        images:
+          - src: Erwin01census1910.jpg
+      - year: "1920"
+        caption: >-
+          In 1920, Ruth Vining was living in the Caney, Montgomery County, Kansas, household of her uncle and aunt.
+          Charles Vining was boarding in the Fall River, Wilson County, Kansas, household of a Beard family. Franklin
+          Erwin Vining was living in the Fall River, Wilson County, Kansas, household of his grandfather (Franklin E.
+          Vining) and grandmother (Alice Flossie (Lindsley) Vining).
+  - type: death
+    items:
+      - caption: "Gravestone for Clara (Ewing) Vining, in Larned Cemetery, Larned, Pawnee County, Kansas (from Find A Grave):"
+        images:
+          - src: Erwin01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Charles Vining, son of Irvin Vining and Clara (Ewing) Vining, in IOOF Cemetery, Crescent City,
+          Del Norte County, California (from Find A Grave):
+        images:
+          - src: Erwin01sonCharlesgravestone.jpg
+      - caption: "Obituary for Charlotte Blanche Vining, daughter of Irvin Vining and Clara (Ewing) Vining:"
+        images:
+          - src: Erwin01dauCharlotteobituary.jpg
+      - caption: >-
+          Gravestone for Charlotte Blanche Vining, daughter of Irvin Vining and Clara (Ewing) Vining, in White Chapel
+          Memorial Gardens, Wichita, Sedgwick County, Kansas (from Find A Grave):
+        images:
+          - src: Erwin01dauCharlottegravestone.jpg

@@ -1,0 +1,43 @@
+id: AubreyW01
+letter: A
+sequence: 108
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AubreyV01
+parentDesc: Aubrey Vernon Vining and Irene F. Buczynski
+head:
+  givenName: Aubrey William
+  birth:
+    date: 26 June 1952
+marriages:
+  - spouse:
+      givenName: Kimberley A.
+      surname: "[...]"
+      birth:
+        date: 10 September 1958
+childrenGroups:
+  - children:
+      - name: Richard A. Vining
+        birth:
+          date: 10 September 1976
+      - name: Salina M. Vining
+        birth:
+          date: 31 July 1977
+      - name: Jason W. Vining
+        birth:
+          date: 20 March 1979
+      - name: Carla J. Vining
+        birth:
+          date: 11 April 1980
+raw: |-
+  <a name="AubreyW01"></a><font size="+2">Aubrey William Vining</font>
+     (son of <a href="#AubreyV01">Aubrey Vernon Vining and Irene F. Buczynski</a>)
+     b. 26 June 1952
+     m. Kimberley A. [...]
+              b. 10 September 1958
+  
+  <font size="+1">children:</font>
+     Richard A. Vining   b. 10 September 1976
+     Salina M. Vining   b. 31 July 1977
+     Jason W. Vining   b. 20 March 1979
+     Carla J. Vining   b. 11 April 1980

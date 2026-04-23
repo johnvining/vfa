@@ -1,0 +1,69 @@
+id: AhijahP01
+title: Ahijah Pettibone Vining - Betsey Webb
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Ahijah Pettibone Vining
+          values:
+            - M 30–39
+            - "41"
+            - "50"
+            - "62"
+            - dead
+        - label: Betsey (Webb) Vining
+          values:
+            - F 30–39
+            - "40"
+            - "50"
+            - "62"
+            - dead
+        - label: Merwin Pettibone Vining
+          values:
+            - M under 5
+            - "12"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Harrison W. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1840"
+        caption: Southwick, Hampden County, Massachusetts. To be determined is the identity of a female 5–9.
+        images:
+          - src: AhijahP01census1840a.jpg
+          - src: AhijahP01census1840b.jpg
+      - year: "1850"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 41, family 44
+        images:
+          - src: AhijahP01census1850.jpg
+      - year: "1860"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 73, family 70
+        images:
+          - src: AhijahP01census1860.jpg
+      - year: "1870"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 27, family 27
+        images:
+          - src: AhijahP01census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ahijah Pettibone Vining and Betsey (Webb) Vining, in Southwick Cemetery, Southwick, Hampden
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: AhijahP01andwifeheadstone.jpg
+          - src: AhijahP01andwifeheadstoneclose.jpg
+        inline: true

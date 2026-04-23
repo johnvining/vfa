@@ -1,0 +1,155 @@
+id: WilliamH02
+sequence: 99
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Edward01
+parentLetter: E
+parentDesc: Edward Vining and Catherine Haines
+head:
+  givenName: William Harrison
+  birth:
+    date: "[21 or 22?] May 1840"
+    place: Maine
+  death:
+    date: "[4 or 5?] December 1891"
+    place: Guatemala
+  burial:
+    place: "Blue Earth, Minnesota"
+marriages:
+  - date: 3 July 1862
+    place: "Fort Scott, Kansas"
+    spouse:
+      givenName: Ruth Ann
+      surname: Smart
+      birth:
+        date: 15 November 1843
+        place: "Marion Township, Iowa"
+      death:
+        date: 16 January 1919
+        place: Minnesota
+childrenGroups:
+  - children:
+      - name: Frederick Haines Vining
+        birth:
+          date: 25 November 1867
+          place: "Pardeeville, Wisconsin"
+        death:
+          date: January 1918
+          place: "Shell Lake, Wisconsin"
+      - name: Eliza Ann Vining
+        birth:
+          date: 19 January 1870
+          place: "Pardeeville, Wisconsin"
+        marriages:
+          - date: Elisha Bailey Jr.
+        death:
+          date: 1 November 1956
+      - name: Florence Miami Vining
+        birth:
+          date: January 1872
+          place: "Pardeeville, Wisconsin"
+        marriages:
+          - date: 26 March 1896
+            spouse: William Scott
+        death:
+          date: 20 April 1914
+        burial:
+          place: "Chetek, Wisconsin"
+      - name: Mary Jane Vining
+        birth:
+          date: "1874"
+          place: "Elmore, Minnesota"
+        marriages:
+          - date: Edgar Smith
+        death:
+          date: "1895"
+          place: "Elmore, Minnesota"
+      - name: Essie Vining
+        birth:
+          date: 3 May 1877
+          place: "Elmore, Minnesota"
+        marriages:
+          - date: Albert Yetter
+        death:
+          date: 3 November 1918
+      - name: Catherine Vining
+        birth:
+          date: March 1878
+          place: "Elmore, Minnesota"
+        marriages:
+          - date: Andrew Marion Schneider
+        death:
+          date: "1907"
+      - name: "Edward Harrison &#8220;Harry&#8221; Vining"
+        entryId: EdwardH01
+        entryLetter: E
+        birth:
+          date: 7 December 1879
+          place: "Elmore, Minnesota"
+        marriages:
+          - number: 1
+            date: "Mary Ella Chapman,"
+            spouse: divorced
+          - number: 2
+            date: Lillian Dudley
+        death:
+          date: 21 September 1964
+          place: "Mason City, Iowa"
+      - name: Ruth Vining
+        birth:
+          date: 5 March 1883
+          place: "Elmore, Minnesota"
+        marriages:
+          - number: 1
+            date: Guy Delbert McDermott
+          - number: 2
+            date: Engelbert Knudson
+        death:
+          date: "1945"
+      - name: "Elnora &@8220;Ella&#8221; Vining"
+        birth:
+          date: 30 December 1886
+          place: "Elmore, Minnesota"
+        death:
+          date: October 1907
+      - name: Maude Vining
+        birth:
+          date: 29 July 1889
+          place: "Elmore, Minnesota"
+        marriages:
+          - date: 9 January 1910
+            spouse: John Gilman Kent
+      - name: Grace Vining
+        birth:
+          date: 17 January 1892
+        marriages:
+          - date: Elmer Mars
+        death:
+          date: 16 September 1960
+docsUrl: Wsources/WilliamH02doc.htm
+raw: |-
+  <a name="WilliamH02"></a><font size=+2>William Harrison Vining</font>
+     (son of <a href="Efamilies.htm#Edward01">Edward Vining and Catherine Haines</a>)
+     b. [21 or 22?] May 1840   Maine
+     m. 3 July 1862   Fort Scott, Kansas
+           Ruth Ann Smart
+                 b. 15 November 1843   Marion Township, Iowa
+                 d. 16 January 1919   Minnesota
+     d. [4 or 5?] December 1891   Guatemala
+           bur. Blue Earth, Minnesota
+  
+  <font size=+1>children:</font>
+     Frederick Haines Vining   b. 25 November 1867   Pardeeville, Wisconsin   -   d. January 1918   Shell Lake, Wisconsin
+     Eliza Ann Vining   b. 19 January 1870   Pardeeville, Wisconsin   -   m. Elisha Bailey Jr.   -   d. 1 November 1956
+     Florence Miami Vining   b. January 1872   Pardeeville, Wisconsin   -   m. 26 March 1896   William Scott   -   d. 20 April 1914   -   bur. Chetek, Wisconsin
+     Mary Jane Vining   b. 1874   Elmore, Minnesota   -   m. Edgar Smith   -   d. 1895   Elmore, Minnesota
+     Essie Vining   b. 3 May 1877   Elmore, Minnesota   -   m. Albert Yetter   -   d. 3 November 1918
+     Catherine Vining   b. March 1878   Elmore, Minnesota   -   m. Andrew Marion Schneider   -   d. 1907
+     <a href="Efamilies.htm#EdwardH01">Edward Harrison &#8220;Harry&#8221; Vining</a>   b. 7 December 1879   Elmore, Minnesota   -   m. (1) Mary Ella Chapman,   divorced;   (2) Lillian Dudley   -   d. 21 September 1964   Mason City, Iowa
+     Ruth Vining   b. 5 March 1883   Elmore, Minnesota   -   m. (1) Guy Delbert McDermott;   (2) Engelbert Knudson   -   d. 1945
+     Elnora &@8220;Ella&#8221; Vining   b. 30 December 1886   Elmore, Minnesota   -   d. October 1907
+     Maude Vining   b. 29 July 1889   Elmore, Minnesota   -   m. 9 January 1910   John Gilman Kent
+     Grace Vining   b. 17 January 1892   -   m. Elmer Mars   -   d. 16 September 1960
+  
+  <a href="Wsources/WilliamH02doc.htm">documentation and notes</a>

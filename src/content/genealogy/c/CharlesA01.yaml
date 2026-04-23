@@ -1,0 +1,94 @@
+id: CharlesA01
+letter: C
+sequence: 49
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesH01
+parentDesc: Charles H. Vining and Carolyn Hunter
+head:
+  givenName: Charles Alfred
+  birth:
+    date: 6 August 1856
+    place: Maine
+  death:
+    date: 12 March 1927
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - date: 21 January 1882
+    spouse:
+      givenName: Ada Estelle
+      surname: Mansfield
+      parents: (dau. of George Edward Mansfield and Emily Bickford)
+      birth:
+        date: 20 November 1860
+        place: "Lowell, Massachusetts"
+      death:
+        date: 7 March 1931
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Marian Emma Vining
+        birth:
+          date: 21 August 1884
+          place: "Strong, Maine"
+        marriages:
+          - date: William James Harrison
+        death:
+          date: "1954"
+      - name: Howard Mansfield Vining
+        birth:
+          date: 19 October 1886
+          place: "Strong, Maine"
+      - name: Alfred Roland Vining
+        birth:
+          date: 3 November 1888
+          place: "Strong, Maine"
+        marriages:
+          - date: 2 m. as of 1910 census
+            spouse: "L. Gertrude G[e?]ldart"
+        death:
+          date: May 1979
+          place: "(last residence: Acton, Massachusetts)"
+        burial:
+          place: "Old South Burying Ground   Bolton, Massachusetts"
+      - name: Herbert Vining
+        birth:
+          date: September 1890
+          place: New Hampshire
+      - name: Dorothy Estelle Vining
+        birth:
+          date: June 1899
+          place: New Hampshire
+        marriages:
+          - number: 1
+            date: ca. 1925
+            spouse: Harry Crawford
+          - number: 2
+            date: Frank/Francis Hugh Turner
+        death:
+          date: "1987"
+          place: "Acton, Massachusetts"
+docsUrl: Csources/CharlesA01doc.htm
+raw: |-
+  <a name="CharlesA01"></a><font size=+2>Charles Alfred Vining</font>
+     (son of <a href="#CharlesH01">Charles H. Vining and Carolyn Hunter</a>)
+     b.  6 August 1856   Maine
+     m. 21 January 1882
+           Ada Estelle Mansfield
+                 (dau. of George Edward Mansfield and Emily Bickford)
+                 b. 20 November 1860   Lowell, Massachusetts
+                 d. 7 March 1931
+                       bur. Village Cemetery   Strong, Maine
+     d. 12 March 1927
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     Marian Emma Vining   b. 21 August 1884   Strong, Maine   -   m. William James Harrison   -   d. 1954
+     Howard Mansfield Vining   b. 19 October 1886   Strong, Maine
+     Alfred Roland Vining   b. 3 November 1888   Strong, Maine   -   m. 2 m. as of 1910 census   L. Gertrude G[e?]ldart   -   d. May 1979   (last residence: Acton, Massachusetts)   -   bur. Old South Burying Ground   Bolton, Massachusetts
+     Herbert Vining   b. September 1890   New Hampshire
+     Dorothy Estelle Vining   b. June 1899   New Hampshire   -   m. (1) ca. 1925   Harry Crawford;   (2) Frank/Francis Hugh Turner   -   d. 1987   Acton, Massachusetts
+  
+  <a href="Csources/CharlesA01doc.htm">documentation and notes</a>

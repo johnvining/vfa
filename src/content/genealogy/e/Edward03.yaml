@@ -1,0 +1,27 @@
+id: Edward03
+sequence: 26
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JamesM03
+parentLetter: J
+parentDesc: James M. Vining and Almira H. Buckland
+head:
+  givenName: Edward
+  birth:
+    date: 4 July 1833
+    place: "East Windsor, Connecticut"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Edward James Vining
+        entryId: EdwardJ01
+        marriages:
+          - spouse: Elizabeth Mooney
+raw: |-
+  <a name="Edward03"></a><font size=+2>Edward Vining</font>
+     (son of <a href="Jfamilies.htm#JamesM03">James M. Vining and Almira H. Buckland</a>)
+     b. 4 July 1833   East Windsor, Connecticut
+  
+  <font size=+1>child:</font>
+     <a href="#EdwardJ01">Edward James Vining</a>   m. Elizabeth Mooney

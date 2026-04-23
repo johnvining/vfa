@@ -1,0 +1,144 @@
+id: William01
+sequence: 57
+letter: W
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML omitted m. marriage marker before a marriage date; added in new rendering."
+relationship: son
+parentId: Elias01
+parentLetter: E
+parentDesc: Elias Vining and Eunice Case
+head:
+  givenName: William
+  birth:
+    date: 23 October 1779
+    place: "Simsbury, Connecticut"
+  death:
+    date: 9 September 1867
+    place: "Worthington, Ohio"
+  burial:
+    place: "Walnut Grove Cemetery   Worthington, Ohio"
+marriages:
+  - spouse:
+      givenName: "[1?] Phoebe"
+      surname: "[...]"
+    note: |-
+      [2?] 1803
+      Huldah Pinney
+      (dau. of Abner Pinney and Ruth Gillett)
+      b. 5 April 1780   Simsbury, Connecticut
+      d. 19 July 1847   Worthington, Ohio
+            bur. Saint Johns Episcopal Church Cemetery   Worthington, Ohio
+childrenGroups:
+  - headingText: "child by [Phoebe [...]?]"
+    children:
+      - name: Frances Vining
+        marriages:
+          - date: "[...] Spring"
+  - headingText: children by Huldah Pinney
+    children:
+      - name: Huldah May Vining
+        birth:
+          date: 3 August 1804
+          place: "Worthington, Ohio"
+        marriages:
+          - date: 23 August 1825
+            place: "Worthington, Ohio"
+            spouse: Harvey Skeels
+        death:
+          date: 8 June 1869
+          place: "Mansfield, Illinois"
+        burial:
+          place: "Mackey Cemetery   Mansfield, Illinois"
+      - name: Eunice Vining
+        birth:
+          date: "1809"
+          place: "Worthington, Ohio"
+        death:
+          date: 20 June 1828
+          place: "Worthington, Ohio"
+      - name: Emily Vining
+        birth:
+          date: 14 January 1811
+          place: "Worthington, Ohio"
+        marriages:
+          - date: 1 January 1833
+            place: "Worthington, Ohio"
+            spouse: Isaac Newton Case
+        death:
+          date: 10 January 1849
+          place: "Worthington, Ohio"
+        burial:
+          place: "Walnut Grove Cemetery   Worthington, Ohio"
+      - name: William Vining Jr.
+        birth:
+          date: 9 October 1811
+          place: "Worthington, Ohio"
+        death:
+          date: 9 September 1872
+          place: "Worthington, Ohio"
+        burial:
+          place: "Walnut Grove Cemetery   Worthington, Ohio"
+      - name: Elmer Vining
+        entryId: Elmer01
+        entryLetter: E
+        birth:
+          date: 16 April 1813
+          place: "Worthington, Ohio"
+        marriages:
+          - date: Sarah J. Clark
+        death:
+          date: 5 December 1871
+          place: "Worthington, Ohio"
+        burial:
+          place: "Walnut Grove Cemetery   Worthington, Ohio"
+      - name: Marcus Vining
+        birth:
+          date: ca. 1816
+          place: "Worthington, Ohio"
+        death:
+          date: September 1831
+          place: "Worthington, Ohio"
+        burial:
+          place: "Saint Johns Episcopal Church Cemetery   Worthington, Ohio"
+      - name: Harvey Milton Vining
+        entryId: HarveyM01
+        entryLetter: H
+        birth:
+          date: 2 March 1821
+          place: "Worthington, Ohio"
+        marriages:
+          - date: 15 February 1849
+            place: "Worthington, Ohio"
+            spouse: Mary Jane Buckman
+        death:
+          date: 4 November 1892
+          place: "Mansfield, Illinois"
+        burial:
+          place: "Mackey Cemetery   Mansfield, Illinois"
+docsUrl: Wsources/William01doc.htm
+raw: |-
+  <a name="William01"></a><font size=+2>William Vining</font>
+     (son of <a href="Efamilies.htm#Elias01">Elias Vining and Eunice Case</a>)
+     b. 23 October 1779   Simsbury, Connecticut
+     m. [1?] Phoebe [...]
+           [2?] 1803
+                    Huldah Pinney
+                          (dau. of Abner Pinney and Ruth Gillett)
+                          b. 5 April 1780   Simsbury, Connecticut
+                          d. 19 July 1847   Worthington, Ohio
+                             bur. Saint Johns Episcopal Church Cemetery   Worthington, Ohio
+     d. 9 September 1867   Worthington, Ohio
+           bur. Walnut Grove Cemetery   Worthington, Ohio
+  
+  <font size=+1>child by [Phoebe [...]?]:</font>
+     Frances Vining   m. [...] Spring
+  <font size=+1>children by Huldah Pinney:</font>
+     Huldah May Vining   b. 3 August 1804   Worthington, Ohio   -   23 August 1825   Worthington, Ohio   Harvey Skeels   -   d. 8 June 1869   Mansfield, Illinois   -   bur. Mackey Cemetery   Mansfield, Illinois
+     Eunice Vining   b. 1809   Worthington, Ohio   -   d. 20 June 1828   Worthington, Ohio
+     Emily Vining   b. 14 January 1811   Worthington, Ohio   -   m. 1 January 1833   Worthington, Ohio   Isaac Newton Case   -   d. 10 January 1849   Worthington, Ohio   -   bur. Walnut Grove Cemetery   Worthington, Ohio
+     William Vining Jr.   b. 9 October 1811   Worthington, Ohio   -   d. 9 September 1872   Worthington, Ohio   -   bur. Walnut Grove Cemetery   Worthington, Ohio
+     <a href="Efamilies.htm#Elmer01">Elmer Vining</a>   b. 16 April 1813   Worthington, Ohio   -   m. Sarah J. Clark   -   d. 5 December 1871   Worthington, Ohio   -   bur. Walnut Grove Cemetery   Worthington, Ohio
+     Marcus Vining   b. ca. 1816   Worthington, Ohio   -   d. September 1831   Worthington, Ohio   -   bur. Saint Johns Episcopal Church Cemetery   Worthington, Ohio
+     <a href="Hfamilies.htm#HarveyM01">Harvey Milton Vining</a>   b. 2 March 1821   Worthington, Ohio   -   m. 15 February 1849   Worthington, Ohio   Mary Jane Buckman   -   d. 4 November 1892   Mansfield, Illinois   -   bur. Mackey Cemetery   Mansfield, Illinois
+  
+  <a href="Wsources/William01doc.htm">documentation and notes</a>

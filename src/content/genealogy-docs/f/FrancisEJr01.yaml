@@ -1,0 +1,34 @@
+id: FrancisEJr01
+title: Francis Earl Vining Jr. - Sarah Elizabeth McDaniel
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Francis Earl Vining Jr.
+          values:
+            - "29"
+        - label: Sara Lee (McDaniel) Vining
+          values:
+            - "30"
+        - label: Francis Earl Vining III
+          values:
+            - ""
+          indent: true
+        - label: Linda Lee Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Somerville (Ward 1), Middlesex County, Massachusetts
+        images:
+          - src: FrancisEJr01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Certified copy of the record of death of Francis Earl Vining Jr. Note the typographical error ("January 5,
+          2976") under "Date of Record".
+        images:
+          - src: FrancisEJr01deathcert.jpg

@@ -1,0 +1,63 @@
+id: Joseph04
+title: Joseph Vining - Sarah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Joseph Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah ([...]) Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Joanna Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Robert Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Daniel Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Washington Township, Franklin County, Ohio - dwelling 115, family 115. Also living in this household in 1870
+          was Lyman Cook (18 y., b. Ohio, school teacher).
+        images:
+          - src: Joseph04census1870.jpg

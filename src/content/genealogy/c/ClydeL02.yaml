@@ -1,0 +1,95 @@
+id: ClydeL02
+letter: C
+sequence: 149
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FranklinE01
+parentLetter: F
+parentDesc: Franklin E. Vining and Alice Flossie Lindsley
+head:
+  givenName: Clyde Lindsey
+  birth:
+    date: 19 June 1898
+    place: Kansas
+  death:
+    date: 7 March 1976
+  burial:
+    place: "Shepherd City Cemetery   Shepherd, Texas"
+marriages:
+  - number: 1
+    spouse:
+      givenName: Bessie M.
+      surname: Jones
+      birth:
+        date: "1892"
+        place: Missouri
+      death:
+        date: "[...]"
+      burial:
+        place: "Farley Chapel Cemetery   Shepherd, Texas"
+  - number: 2
+    date: 9 March 1971
+    place: "San Jacinto County, Texas"
+    spouse:
+      givenName: Hansena C.
+      surname: Moonsen
+      birth:
+        date: 30 June 1892
+      death:
+        date: 31 October 1974
+      burial:
+        place: "Shepherd City Cemetery   Shepherd, Texas"
+childrenGroups:
+  - children:
+      - name: Doris E. Vining
+        birth:
+          date: "1916"
+          place: Missouri
+        marriages:
+          - date: "[...] Rodriguez"
+      - name: Dorothy E. Vining
+        birth:
+          date: "1917"
+          place: Missouri
+      - name: Robert F. Vining
+        birth:
+          date: "1919"
+          place: Missouri
+        marriages:
+          - date: Lena Troha
+        death:
+          date: "[...]"
+        burial:
+          place: "Methodist Church Cemetery   Shepherd, Texas"
+      - name: Billy Joe Vining
+        birth:
+          date: 15 November 1933
+          place: "Smith [County?], Texas"
+      - name: Christine Vining
+      - name: Vera Vining
+docsUrl: Csources/ClydeL02doc.htm
+raw: |-
+  <a name="ClydeL02"></a><font size=+2>Clyde Lindsey Vining</font>
+     (son of <a href="Ffamilies.htm#FranklinE01">Franklin E. Vining and Alice Flossie Lindsley</a>)
+     b. 19 June 1898   Kansas
+     m. (1) Bessie M. Jones
+                       b. 1892   Missouri
+                       d. [...]
+                       bur. Farley Chapel Cemetery   Shepherd, Texas
+           (2) 9 March 1971   San Jacinto County, Texas
+                 Hansena C. Moonsen
+                       b. 30 June 1892
+                       d. 31 October 1974
+                             bur. Shepherd City Cemetery   Shepherd, Texas
+     d. 7 March 1976
+           bur. Shepherd City Cemetery   Shepherd, Texas
+  
+  <font size=+1>children:</font>
+     Doris E. Vining   b. 1916   Missouri   -   m. [...] Rodriguez
+     Dorothy E. Vining   b. 1917   Missouri
+     Robert F. Vining   b. 1919   Missouri   -   m. Lena Troha   -   d. [...]   -   bur. Methodist Church Cemetery   Shepherd, Texas
+     Billy Joe Vining   b. 15 November 1933   Smith [County?], Texas
+     Christine Vining
+     Vera Vining
+  
+  <a href="Csources/ClydeL02doc.htm">documentation and notes</a>

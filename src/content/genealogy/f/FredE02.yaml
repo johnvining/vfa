@@ -1,0 +1,72 @@
+id: FredE02
+sequence: 49
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: George09
+parentLetter: G
+parentDesc: "George Vining and Amanda [&#8230;]"
+head:
+  givenName: Fred E.
+  birth:
+    date: September 1866
+    place: Massachusetts
+  death:
+    date: "1923"
+  burial:
+    place: "Melrose Cemetery   Brockton, Massachusetts"
+marriages:
+  - date: 21 December 1887
+    place: "Middleborough, Massachusetts"
+    spouse:
+      givenName: Mary A.
+      surname: Williams
+      parents: "(dau. of Samuel Williams and Elva A. [&#8230;])"
+      birth:
+        date: September 1869
+        place: Massachusetts
+      death:
+        date: "1962"
+      burial:
+        place: "Melrose Cemetery   Brockton, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Fred E. Vining Jr.
+        birth:
+          date: 29 July 1889
+          place: "Middleborough, Massachusetts"
+        marriages:
+          - date: 25 December 1909
+            spouse: Edna C. R. Dunbar
+      - name: Howard Carlton Vining
+        entryId: HowardC02
+        entryLetter: H
+        birth:
+          date: 22 February 1893
+          place: Massachusetts
+      - name: "-"
+        marriages:
+          - date: "Ruth E. [&#8230;]"
+        death:
+          date: "1959"
+        burial:
+          place: "Melrose Cemetery   Brockton, Massachusetts"
+docsUrl: Fsources/FredE02doc.htm
+raw: |-
+  <a name="FredE02"></a><font size=+2>Fred E. Vining</font>
+     (son of <a href="Gfamilies.htm#George09">George Vining and Amanda [&#8230;]</a>)
+     b. September 1866   Massachusetts
+     m. 21 December 1887   Middleborough, Massachusetts
+           Mary A. Williams
+                 (dau. of Samuel Williams and Elva A. [&#8230;])
+                 b. September 1869   Massachusetts
+                 d. 1962
+                       bur. Melrose Cemetery   Brockton, Massachusetts
+     d. 1923
+           bur. Melrose Cemetery   Brockton, Massachusetts
+  
+  <font size=+1>children:</font>
+     Fred E. Vining Jr.   b. 29 July 1889   Middleborough, Massachusetts   -   m. 25 December 1909   Edna C. R. Dunbar
+     <a href="Hfamilies.htm#HowardC02">Howard Carlton Vining</a>   b. 22 February 1893   Massachusetts
+     -   m. Ruth E. [&#8230;]   -   d. 1959   -   bur. Melrose Cemetery   Brockton, Massachusetts
+  <a href="Fsources/FredE02doc.htm">documentation and notes</a>

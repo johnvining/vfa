@@ -1,0 +1,81 @@
+id: WilliamL01
+title: William Leonard Vining - Myrtie Ethel Vaughn
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Leonard Vining
+          values:
+            - "39"
+            - "48"
+        - label: Myrtie Ethel (Vaughn) Vining
+          values:
+            - "32"
+            - "42"
+        - label: Reda Estell Vining
+          values:
+            - "13"
+            - "[living? in separate household]"
+          indent: true
+        - label: Mary Bell Vining
+          values:
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: William Leonard Vining Jr.
+          values:
+            - "8"
+            - "18"
+          indent: true
+        - label: Myrtie Marcelle Vining
+          values:
+            - "7"
+            - "17"
+          indent: true
+        - label: Barney Monroe Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Rufus Rowland Vining
+          values:
+            - "4"
+            - "13"
+          indent: true
+        - label: Gordon Wilburn Vining
+          values:
+            - "2"
+            - "12"
+          indent: true
+        - label: Franklin Lou Vining
+          values:
+            - "1"
+            - "11"
+          indent: true
+        - label: Willine Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Betty Joyce Vining
+          values:
+            - ""
+            - dead
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Pennington, Bradley County, Arkansas - dwelling 28, family 30
+        images:
+          - src: WilliamL01census1930.jpg
+      - year: "1940"
+        caption: Pennington, Bradley County, Arkansas
+        images:
+          - src: WilliamL01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War II draft card for William Leonard Vining:"
+        images:
+          - src: WilliamL01WWIIdraftcard.jpg

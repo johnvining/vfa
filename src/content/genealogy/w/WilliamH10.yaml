@@ -1,0 +1,94 @@
+id: WilliamH10
+sequence: 100
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Noe01
+parentLetter: N
+parentDesc: Noe Vining and Abigail Miller
+head:
+  givenName: William Henry
+  birth:
+    date: ca. 1789
+    place: "Burke County, Georgia"
+  death:
+    date: 13 August 1845
+    place: "Patterson, Louisiana"
+marriages:
+  - date: 9 February 1809
+    place: "Patterson, Louisiana"
+    spouse:
+      givenName: Mary
+      surname: Hartman
+      birth:
+        date: 29 November 1795
+        place: "St. Martin Parish, Louisiana"
+      death:
+        date: 8 February 1851
+        place: "Patterson, Louisiana"
+childrenGroups:
+  - children:
+      - name: John A. Vining
+        entryId: JohnA03
+        entryLetter: J
+        birth:
+          date: 10 January 1810
+        marriages:
+          - date: "[8 or 16?] January 1840"
+            place: "Patterson, Louisiana"
+            spouse: Adele Margaret Comeaux
+      - name: Marie Anne Vining
+        birth:
+          date: 15 August 1811
+      - name: Catherine Vining
+        birth:
+          date: "1813"
+        death:
+          date: 18 August 1845
+      - name: Thomas Vining
+        birth:
+          date: ca. 1820
+      - name: Alfred H. Vining
+        birth:
+          date: ca. 1821
+      - name: Rachel Vining
+        birth:
+          date: ca. 1822
+        death:
+          date: March 1876
+      - name: Anne Caroline Vining
+        birth:
+          date: ca. 1822
+        death:
+          date: March 1876
+      - name: Phelosine Viing
+        birth:
+          date: ca. 1826
+      - name: William Henry Vining Jr.
+        entryId: WilliamHJr03
+        birth:
+          date: ca. 1828
+      - name: Horatio (Orechaud) H. Vining
+        birth:
+          date: "1830"
+raw: |-
+  <a name="WilliamH10"></a><font size=+2>William Henry Vining</font>
+     (son of <a href="Nfamilies.htm#Noe01">Noe Vining and Abigail Miller</a>)
+     b. ca. 1789   Burke County, Georgia
+     m. 9 February 1809   Patterson, Louisiana
+           Mary Hartman
+                 b. 29 November 1795   St. Martin Parish, Louisiana
+                 d. 8 February 1851   Patterson, Louisiana
+     d. 13 August 1845   Patterson, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JohnA03">John A. Vining</a>   b. 10 January 1810   -   m. [8 or 16?] January 1840   Patterson, Louisiana   Adele Margaret Comeaux
+     Marie Anne Vining   b. 15 August 1811
+     Catherine Vining   b. 1813   -   d. 18 August 1845
+     Thomas Vining   b. ca. 1820
+     Alfred H. Vining   b. ca. 1821
+     Rachel Vining   b. ca. 1822   -   d. March 1876
+     Anne Caroline Vining   b. ca. 1822   -   d. March 1876
+     Phelosine Viing   b. ca. 1826
+     <a href="#WilliamHJr03">William Henry Vining Jr.</a>   b. ca. 1828
+     Horatio (Orechaud) H. Vining   b. 1830

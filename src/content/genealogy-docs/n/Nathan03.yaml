@@ -1,0 +1,91 @@
+id: Nathan03
+title: Nathan Vining - Mary Campbell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Nathan Vining
+          values:
+            - "24"
+            - "33"
+            - "?"
+            - "54"
+            - "62"
+            - "72"
+            - "83"
+            - dead
+        - label: Mary (Campbell) Vining
+          values:
+            - "24"
+            - "32"
+            - "?"
+            - "54"
+            - "61"
+            - "70"
+            - dead
+            - ""
+        - label: Frank E. Vining
+          values:
+            - "4"
+            - "14"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Bessie M. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Poland, Chautauqua County, New York - dwelling 204, family 204
+        images:
+          - src: Nathan03census1870.jpg
+      - year: "1880"
+        caption: Poland, Chautauqua County, New York - dwelling 48, family 50
+        images:
+          - src: Nathan03census1880.jpg
+      - year: "1890"
+        caption: "- census data unavailable."
+      - year: "1900"
+        caption: Poland, Chautauqua County, New York - dwelling 346, family 363
+        images:
+          - src: Nathan03census1900.jpg
+      - year: "1910"
+        caption: Ellicott, Chautauqua County, New York - dwelling 177, family 163
+        images:
+          - src: Nathan03census1910.jpg
+      - year: "1920"
+        caption: Ellicott, Chautauqua County, New York - dwelling 25, family number not given
+        images:
+          - src: Nathan03census1920.jpg
+      - year: "1930"
+        caption: Falconer, Chautauqua County, New York - dwelling 182, family 224
+        images:
+          - src: Nathan03census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Nathan Vining and Mary (Campbell) Vining, in Pine Hill Cemetery, Falconer, Chatauqua County, New
+          York (Source: Find A Grave):
+        images:
+          - src: Nathan03andwifeheadstone.jpg

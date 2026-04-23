@@ -1,0 +1,36 @@
+id: VernonD01
+title: Vernon D. Vining - Elinor Van Alla
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Vernon D. Vining
+          values:
+            - "26"
+            - "36"
+        - label: Elinor (Van Alla) Vining
+          values:
+            - "25"
+            - "[35?]"
+        - label: Joyce Vining
+          values:
+            - 3 y., [8?] m.
+            - "13"
+          indent: true
+        - label: Leslie Vining
+          values:
+            - 1 y., 5 m.
+            - "11"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Holland (ward 3), Ottawa County, Michigan - dwelling 67, family 79
+        images:
+          - src: VernonD01census1930.jpg
+      - year: "1940"
+        caption: Holland, Ottawa County, Michigan
+        images:
+          - src: VernonD01census1940.jpg

@@ -1,0 +1,51 @@
+id: LarryD01
+sequence: 6
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: TrumanJ01
+parentLetter: T
+parentDesc: Truman J. Vining and Maxine Evelyn Filbeck
+head:
+  givenName: Larry Dale
+  birth:
+    date: 10 April 1940
+    place: "Aurora, Missouri"
+  death:
+    date: 13 March 2015
+  burial:
+    description: "ashes scattered in tributary of South Fork of Toutle River   Washington"
+marriages:
+  - date: 7 March 1959
+    place: "Las Vegas, Nevada"
+    spouse:
+      givenName: Goldie
+      surname: Wilson
+childrenGroups:
+  - children:
+      - name: Kim Vining
+        marriages:
+          - date: "[...] Young"
+      - name: Eric Vining
+      - name: Robin Vining
+      - name: Deborah Vining
+        marriages:
+          - date: Larry Denman
+      - name: Sherry Vining
+        marriages:
+          - date: Larry Barr
+raw: |-
+  <a name="LarryD01"></a><font size=+2>Larry Dale Vining</font>
+     (son of <a href="Tfamilies.htm#TrumanJ01">Truman J. Vining and Maxine Evelyn Filbeck</a>)
+     b. 10 April 1940   Aurora, Missouri
+     m. 7 March 1959   Las Vegas, Nevada
+           Goldie Wilson
+     d. 13 March 2015
+           ashes scattered in tributary of South Fork of Toutle River   Washington
+  
+  <font size=+1>children:</font>
+     Kim Vining   m. [...] Young
+     Eric Vining
+     Robin Vining
+     Deborah Vining   m. Larry Denman
+     Sherry Vining   m. Larry Barr

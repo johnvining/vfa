@@ -1,0 +1,41 @@
+id: Charles08
+title: Charles Vining - Martha Nash Porter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Charles Vining
+          values:
+            - "[dead?]"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Martha Nash (Porter) Vining
+          values:
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Susan Augusta Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 643, family 820. Josiah Pray was the widower of Susan
+          Augusta (Vining) Pray, and Charles A. V. Pray was likely the son of Josiah and Susan.
+        images:
+          - src: Charles08census1850.jpg

@@ -1,0 +1,46 @@
+id: WilfordB01
+sequence: 48
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Willard02
+parentDesc: Willard Vining and Josephine Brownell
+head:
+  givenName: Wilford Benjamin
+  birth:
+    date: 19 September 1888
+    place: Wisconsin
+  death:
+    date: January 1916
+marriages:
+  - spouse:
+      givenName: Edna
+      surname: Peters
+      death:
+        date: "1972"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Wilford Jesse Vining
+        entryId: WilfordJ01
+        birth:
+          date: 27 October 1915
+          place: "Pardeeville, Wisconsin"
+        marriages:
+          - number: 1
+            date: Aurora Helen Grunaw
+          - number: 2
+            date: Bobbie Ruth Cooper
+        death:
+          date: 14 June 1994
+          place: "(last residence: Brownsville, Texas)"
+raw: |-
+  <a name="WilfordB01"></a><font size=+2>Wilford Benjamin Vining</font>
+     (son of <a href="#Willard02">Willard Vining and Josephine Brownell</a>)
+     b. 19 September 1888   Wisconsin
+     m. Edna Peters
+              d. 1972
+     d. January 1916
+  
+  <font size=+1>child:</font>
+     <a href="#WilfordJ01">Wilford Jesse Vining</a>   b. 27 October 1915   Pardeeville, Wisconsin   -   m. (1) Aurora Helen Grunaw;   (2) Bobbie Ruth Cooper   -   d. 14 June 1994   (last residence: Brownsville, Texas)

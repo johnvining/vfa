@@ -1,0 +1,73 @@
+id: BillyC01
+letter: B
+sequence: 47
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasE02
+parentLetter: T
+parentDesc: Thomas Ebenezer Vining and Mary Maude Edmonson
+head:
+  givenName: Billy Coleman
+  birth:
+    date: "Eudora, Chicot County, Arkansas"
+marriages:
+  - date: "25 December [1949 or 1950?; see &#8220;documentation and notes&#8221;]"
+    spouse:
+      givenName: Mary Ann
+      surname: Strickland
+      parents: (dau. of Charles Watkins Strickland Jr. and Mary Tyndall)
+      birth:
+        date: 9 September 1932
+        place: "Nashville, Howard County, Arkansas"
+      death:
+        date: 21 August 2009
+        place: "Little Rock, Pulaski County, Arkansas"
+      burial:
+        place: "Rest Haven Memorial Gardens   Arkadelphia, Clark County, Arkansas"
+childrenGroups:
+  - children:
+      - name: Charlotte Ruth Vining
+        marriages:
+          - spouse: Ricky Douglas
+      - name: Billy Coleman Vining Jr.
+        entryId: BillyCJr01
+        entryLetter: B
+        birth:
+          date: "Bufaula, Oklahoma"
+        marriages:
+          - spouse: Marsha Lackey
+      - name: Amanda Jo Vining
+        marriages:
+          - spouse: James Morgan
+      - name: Andrew Lee Vining
+        entryId: AndrewL01
+        entryLetter: A
+        marriages:
+          - spouse: Gina Morin
+      - name: Polly Ann Vining
+      - name: Molly Jan Vining
+        marriages:
+          - spouse: Steven Brent Wallace
+      - name: Lon Vining
+docsUrl: Bsources/BillyC01doc.htm
+raw: |-
+  <a name="BillyC01"></a><font size=+2>Billy Coleman Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasE02">Thomas Ebenezer Vining and Mary Maude Edmonson</a>)
+     b. Eudora, Chicot County, Arkansas
+     m. 25 December [1949 or 1950?; see &#8220;documentation and notes&#8221;]
+           Mary Ann Strickland
+                 (dau. of Charles Watkins Strickland Jr. and Mary Tyndall)
+                 b. 9 September 1932   Nashville, Howard County, Arkansas
+                 d. 21 August 2009   Little Rock, Pulaski County, Arkansas
+                       bur. Rest Haven Memorial Gardens   Arkadelphia, Clark County, Arkansas
+  
+  <font size=+1>children:</font>
+     Charlotte Ruth Vining   m. Ricky Douglas
+     <a href="#BillyCJr01">Billy Coleman Vining Jr.</a>   b. Bufaula, Oklahoma   -   m. Marsha Lackey
+     Amanda Jo Vining   m. James Morgan
+     <a href="Afamilies.htm#AndrewL01">Andrew Lee Vining</a>   -   m. Gina Morin
+     Polly Ann Vining
+     Molly Jan Vining   m. Steven Brent Wallace
+     Lon Vining
+  
+  <a href="Bsources/BillyC01doc.htm">documentation and notes</a>

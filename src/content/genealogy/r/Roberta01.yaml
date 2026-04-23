@@ -1,0 +1,59 @@
+id: RobertA01
+sequence: 88
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Philemon01
+parentLetter: P
+parentDesc: Philemon Vining and Eva Mae Peterson
+head:
+  givenName: Robert Andrew
+  birth:
+    date: 18 May 1925
+marriages:
+  - date: 21 June 1947
+    place: "Beaver Dam, Wisconsin"
+    spouse:
+      givenName: Winetta
+      surname: Tamminga
+      parents: "(dau. of Geram Tamminga and Rena VenderGalien)"
+      birth:
+        date: 5 February 1926
+        place: "Grand Rapids, Michigan"
+      death:
+        date: 17 March 2015
+        place: "Bandon, Oregon"
+childrenGroups:
+  - children:
+      - name: Bruce Robert Vining
+        birth:
+          date: 11 October 1949
+      - name: Nancy Rena Vining
+        birth:
+          date: 20 October 1950
+        marriages:
+          - date: Martin Hauser
+      - name: Jon Andrew Vining
+        entryId: JonA01
+        entryLetter: J
+        birth:
+          date: 19 June 1955
+        marriages:
+          - date: Cathy Hollis
+docsUrl: Rsources/RobertA01doc.htm
+raw: |-
+  <a name="RobertA01"></a><font size=+2>Robert Andrew Vining</font>
+     (son of <a href="Pfamilies.htm#Philemon01">Philemon Vining and Eva Mae Peterson</a>)
+     b. 18 May 1925
+     m. 21 June 1947   Beaver Dam, Wisconsin
+           Winetta Tamminga
+                 (dau. of Geram Tamminga and Rena VenderGalien)
+                 b. 5 February 1926   Grand Rapids, Michigan
+                 d. 17 March 2015   Bandon, Oregon
+  
+  <font size=+1>children:</font>
+     Bruce Robert Vining   b. 11 October 1949
+     Nancy Rena Vining   b. 20 October 1950   -   m. Martin Hauser
+     <a href="Jfamilies.htm#JonA01">Jon Andrew Vining</a>   b. 19 June 1955   -   m. Cathy Hollis
+  
+  <a href="Rsources/RobertA01doc.htm">documentation and notes</a>

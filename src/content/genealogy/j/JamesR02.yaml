@@ -1,0 +1,52 @@
+id: JamesR02
+sequence: 93
+letter: J
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML omitted bur. burial marker; added in new rendering."
+relationship: son
+parentId: JamesJ02
+parentDesc: James John Vining and Edith Alfeld Johnson
+head:
+  givenName: James Rodford
+  birth:
+    date: 14 June 1928
+    place: "Kansas City, Missouri"
+  death:
+    date: 2 January 2013
+    place: "St. Joseph, Missouri"
+  burial:
+    place: "Saint Joseph Memorial Park Cemetery   Saint Joseph, Missouri"
+marriages:
+  - number: 1
+    date: Margaret Beth Smith
+    note: divorced
+  - number: 2
+    date: 23 April 1994
+    spouse:
+      givenName: Carlene
+      surname: Royston
+childrenGroups:
+  - children:
+      - name: Karen Vining
+        marriages:
+          - date: Larry Raines
+      - name: Frances Vining
+        marriages:
+          - date: Tom Bachman
+docsUrl: Jsources/JamesR02doc.htm
+raw: |-
+  <a name="JamesR02"></a><font size=+2>James Rodford Vining</font>
+     (son of <a href="#JamesJ02">James John Vining and Edith Alfeld Johnson</a>)
+     b. 14 June 1928   Kansas City, Missouri
+     m. (1) Margaret Beth Smith
+                    divorced
+           (2) 23 April 1994
+                    Carlene Royston
+     d. 2 January 2013   St. Joseph, Missouri
+           Saint Joseph Memorial Park Cemetery   Saint Joseph, Missouri
+  
+  <font size=+1>children:</font>
+     Karen Vining   m. Larry Raines
+     Frances Vining   m. Tom Bachman
+  
+  <a href="Jsources/JamesR02doc.htm">documentation and notes</a>

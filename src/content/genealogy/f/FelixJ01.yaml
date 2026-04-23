@@ -1,0 +1,130 @@
+id: FelixJ01
+sequence: 2
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: AustinS01
+parentLetter: A
+parentDesc: Austin Shorter Vining and Jane Patterson
+head:
+  givenName: Felix Joseph
+  birth:
+    date: December 1857
+    place: Georgia
+  death:
+    date: 9 July 1933
+    place: Georgia
+  burial:
+    place: "Dawnville Cemetery   Dawnville, Whitfield County, Georgia"
+marriages:
+  - date: 27 March 1879
+    place: Georgia
+    spouse:
+      givenName: Sarah Elizabeth
+      surname: Cain
+      parents: (dau. of George Washington Cain and Nancy Boyd)
+      birth:
+        date: 26 April 1861
+        place: Georgia
+      death:
+        date: 11 September 1923
+      burial:
+        place: "Dawnville Cemetery   Dawnville, Whitfield County, Georgia"
+childrenGroups:
+  - children:
+      - name: child Vining
+      - name: Alexander W. S. Vining
+        birth:
+          date: March 1880
+          place: Georgia
+      - name: John Cain Vining
+        birth:
+          date: December 1882
+          place: Georgia
+        death:
+          date: "1920"
+        burial:
+          place: "Dawnville Cemetery   Dawnville, Whitfield County, Georgia"
+      - name: Carl F. Vining
+        entryId: CarlF01
+        entryLetter: C
+        birth:
+          date: July 1884
+          place: Georgia
+        marriages:
+          - date: "Grace E. [&#8230;]"
+      - name: Jessie Vining
+        birth:
+          date: "October 18[??]"
+      - name: Fred Osborn Vining
+        entryId: FredO01
+        birth:
+          date: 6 April 1892
+          place: "Spring Place, Murray County, Georgia"
+        marriages:
+          - date: May Eugenia Richards
+        death:
+          date: 18 July 1949
+          place: "San Joaquin, Sacramento County, California"
+      - name: Mattie Ruth Vining
+        birth:
+          date: 19 March 1894
+        marriages:
+          - date: Arthur Rollins
+      - name: Charles Freeman Vining
+        entryId: CharlesF04
+        entryLetter: C
+        birth:
+          date: May 1897
+          place: Georgia
+        marriages:
+          - date: approx. 15 y. as of 1930 census
+            spouse: Demmie Lotspeich
+        death:
+          date: "1937"
+        burial:
+          place: "Dawnville Cemetery   Dawnville, Whitfield County, Georgia"
+      - name: Mabel Lucille Vining
+        birth:
+          date: April 1899
+          place: Georgia
+      - name: Joseph Barrett Vining
+        entryId: JosephB02
+        entryLetter: J
+        birth:
+          date: 28 August 1901
+          place: Georgia
+        marriages:
+          - date: approx. 4 y. as of 1930 census
+            spouse: Lois Quinn Davis
+        death:
+          date: 5 April 1969
+        burial:
+          place: "Whitfield Memorial Gardens   Dalton, Whitfield County, Georgia"
+docsUrl: Fsources/FelixJ01doc.htm
+raw: |-
+  <a name="FelixJ01"></a><font size=+2>Felix Joseph Vining</font>
+     (son of <a href="Afamilies.htm#AustinS01">Austin Shorter Vining and Jane Patterson</a>)
+     b. December 1857   Georgia
+     m. 27 March 1879   Georgia
+           Sarah Elizabeth Cain
+                 (dau. of George Washington Cain and Nancy Boyd)
+                 b. 26 April 1861   Georgia
+                 d. 11 September 1923
+                       bur. Dawnville Cemetery   Dawnville, Whitfield County, Georgia
+     d. 9 July 1933   Georgia
+           bur. Dawnville Cemetery   Dawnville, Whitfield County, Georgia
+  
+  <font size=+1>children:</font>
+     child Vining
+     Alexander W. S. Vining   b. March 1880   Georgia
+     John Cain Vining   b. December 1882   Georgia   -   d. 1920   -   bur. Dawnville Cemetery   Dawnville, Whitfield County, Georgia
+     <a href="Cfamilies.htm#CarlF01">Carl F. Vining</a>   b. July 1884   Georgia   -   m. Grace E. [&#8230;]
+     Jessie Vining   b. October 18[??]
+     <a href="#FredO01">Fred Osborn Vining</a>   b. 6 April 1892   Spring Place, Murray County, Georgia   -   m. May Eugenia Richards   -   d. 18 July 1949   San Joaquin, Sacramento County, California
+     Mattie Ruth Vining   b. 19 March 1894   -   m. Arthur Rollins
+     <a href="Cfamilies.htm#CharlesF04">Charles Freeman Vining</a>   b. May 1897   Georgia   -   m. approx. 15 y. as of 1930 census   Demmie Lotspeich   -   d. 1937   -   bur. Dawnville Cemetery   Dawnville, Whitfield County, Georgia
+     Mabel Lucille Vining   b. April 1899   Georgia
+     <a href="Jfamilies.htm#JosephB02">Joseph Barrett Vining</a>   b. 28 August 1901   Georgia   -   m. approx. 4 y. as of 1930 census   Lois Quinn Davis   -   d 5 April 1969   -   bur. Whitfield Memorial Gardens   Dalton, Whitfield County, Georgia
+  
+  <a href="Fsources/FelixJ01doc.htm">documentation and notes</a>

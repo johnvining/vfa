@@ -1,0 +1,96 @@
+id: WilliamO02
+title: William Otis Vining - Eunice Horton Dwight
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: William Otis Vining
+          values:
+            - "?"
+            - "46"
+            - "58"
+            - dead
+            - ""
+            - ""
+        - label: Eunice Horton (Dwight) Vining
+          values:
+            - "?"
+            - "40"
+            - "50"
+            - "60"
+            - "?"
+            - "?"
+        - label: William Dwight Vining
+          values:
+            - "?"
+            - "18"
+            - married and living in a separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Henry Alvin Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George Otis Vining
+          values:
+            - "?"
+            - "11"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Helen Henrietta Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "28"
+            - "?"
+            - "?"
+          indent: true
+        - label: Flora Maria Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Frank Edward Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - "21"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Longmeadow, Hampden County, Massachusetts - dwelling 607, family 643
+        images:
+          - src: WilliamO02census1860.jpg
+      - year: "1870"
+        caption: Longmeadow, Hampden County, Massachusetts - dwelling 141, family 139
+        images:
+          - src: WilliamO02census1870.jpg
+      - year: "1880"
+        caption: Longmeadow, Hampden County, Massachusetts - dwelling 150, family 156
+        images:
+          - src: WilliamO02census1880.jpg

@@ -1,0 +1,88 @@
+id: GeorgeR02
+letter: G
+sequence: 37
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George R.
+  birth:
+    date: 2 June 1833
+    place: "Alplaus, New York"
+  death:
+    date: 2 August 1900
+    place: "Springfield, Massachusetts"
+  burial:
+    place: "Springfield Cemetery   Springfield, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Sarah E.
+      surname: Hitchcock
+      birth:
+        date: 27 June 1839
+        place: Massachusetts
+      death:
+        date: 22 January 1904
+      burial:
+        place: "Springfield Cemetery   Springfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Etta J. Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Massachusetts
+      - name: Della Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Massachusetts
+      - name: Willie Vining
+        birth:
+          date: age 6 m. at death
+        death:
+          date: 23 July 1864
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+      - name: William Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: Massachusetts
+      - name: Sarah Vining
+        birth:
+          date: age 1 m. at death
+        death:
+          date: 25 March 1867
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+      - name: George Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Massachusetts
+      - name: Sarah Vining
+        birth:
+          date: age 1 m. at death
+        death:
+          date: 4 August 1872
+        burial:
+          place: "Springfield Cemetery   Springfield, Massachusetts"
+docsUrl: Gsources/GeorgeR02doc.htm
+raw: |-
+  <a name="GeorgeR02"></a><font size=+2>George R. Vining</font>
+     (son of [?])
+     b. 2 June 1833   Alplaus, New York
+     m. Sarah E. Hitchcock
+              b. 27 June 1839   Massachusetts
+              d. 22 January 1904
+                    bur. Springfield Cemetery   Springfield, Massachusetts
+     d. 2 August 1900   Springfield, Massachusetts
+           bur. Springfield Cemetery   Springfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     Etta J. Vining   b. age 1 y. as of 1860 census   Massachusetts
+     Della Vining   b. age 9 y. as of 1870 census   Massachusetts
+     Willie Vining   b. age 6 m. at death   -   d. 23 July 1864   -   bur. Springfield Cemetery   Springfield, Massachusetts
+     William Vining   b. age 4 y. as of 1870 census   Massachusetts
+     Sarah Vining   b. age 1 m. at death   -   d. 25 March 1867   -   bur. Springfield Cemetery   Springfield, Massachusetts
+     George Vining   b. age 3 y. as of 1870 census   Massachusetts
+     Sarah Vining   b. age 1 m. at death   -   d. 4 August 1872   -   bur. Springfield Cemetery   Springfield, Massachusetts
+  
+  <a href="Gsources/GeorgeR02doc.htm">documentation and notes</a>

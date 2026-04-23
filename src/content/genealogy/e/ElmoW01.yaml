@@ -1,0 +1,74 @@
+id: ElmoW01
+sequence: 97
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: BelaA01
+parentLetter: B
+parentDesc: Bela A. Vining and Lucretia Ann Lyman
+head:
+  givenName: Elmo William
+  birth:
+    date: 7 November 1871
+    place: "[Iowa or Connecticut?]"
+  death:
+    date: 22 April 1951
+    place: "Osage, Mitchell County, Iowa"
+  burial:
+    place: "Osage Cemetery   Osage, Mitchell County, Iowa"
+marriages:
+  - date: 3 y. as of 1900 census
+    spouse:
+      givenName: Jennie M.
+      surname: Courtney
+      parents: (dau. of William Courtney and Anna Lynch)
+      birth:
+        date: April 1877
+        place: "[Michigan or Iowa?]"
+      death:
+        date: 29 August 1942
+        place: "Osage, Iowa"
+childrenGroups:
+  - children:
+      - name: Glenn William Vining
+        birth:
+          date: 29 January 1899
+          place: Iowa
+        death:
+          date: 23 January 1919
+          place: "Osage, Iowa"
+        burial:
+          place: "Osage Cemetery   Osage, Iowa"
+      - name: daughter
+      - name: Walter E. Vining
+        entryId: WalterE02
+        entryLetter: W
+        birth:
+          date: 14 February 1912
+          place: "Mitchell County, Iowa"
+        marriages:
+          - spouse: Marie C. Buffington
+        death:
+          date: 4 November 2002
+          place: "Osage, Iowa"
+        burial:
+          place: "Osage Cemetery   Osage, Iowa"
+docsUrl: Esources/ElmoW01doc.htm
+raw: |-
+  <a name="ElmoW01"></a><font size=+2>Elmo William Vining</font>
+     (son of <a href="Bfamilies.htm#BelaA01">Bela A. Vining and Lucretia Ann Lyman</a>)
+     b. 7 November 1871   [Iowa or Connecticut?]
+     m. 3 y. as of 1900 census
+           Jennie M. Courtney
+                 (dau. of William Courtney and Anna Lynch)
+                 b. April 1877   [Michigan or Iowa?]
+                 d. 29 August 1942   Osage, Iowa
+     d. 22 April 1951   Osage, Mitchell County, Iowa
+           bur. Osage Cemetery   Osage, Mitchell County, Iowa
+  
+  <font size=+1>children:</font>
+     Glenn William Vining   b. 29 January 1899   Iowa   -   d. 23 January 1919   Osage, Iowa   -   bur. Osage Cemetery   Osage, Iowa
+     daughter
+     <a href="Wfamilies.htm#WalterE02">Walter E. Vining</a>   b. 14 February 1912   Mitchell County, Iowa   -   m. Marie C. Buffington   -   d. 4 November 2002   Osage, Iowa   -   bur. Osage Cemetery   Osage, Iowa
+  
+  <a href="Esources/ElmoW01doc.htm">documentation and notes</a>

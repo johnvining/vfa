@@ -1,0 +1,55 @@
+id: JohnB07
+title: John B. Vining - Lucinda Bone
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: John B. Vining
+          values:
+            - "42"
+            - "?"
+            - "61"
+            - "62"
+            - dead
+            - ""
+        - label: Lucinda (Bone) Vining
+          values:
+            - "32"
+            - "?"
+            - "52"
+            - "52"
+            - "65"
+            - dead
+        - label: Lelia Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Spencer Township, Ralls County, Missouri - dwelling 152, family 154
+        images:
+          - src: JohnB07census1880.jpg
+      - year: "1900"
+        caption: Spencer Township, Ralls County, Missouri - dwelling 119, family 122
+        images:
+          - src: JohnB07census1900.jpg
+      - year: "1910"
+        caption: Spencer Township, Ralls County, Missouri - dwelling 75, family 75
+        images:
+          - src: JohnB07census1910.jpg
+      - year: "1920"
+        caption: Spencer Township, Ralls County, Missouri - dwelling 190, family 203
+        images:
+          - src: JohnB07census1920.jpg

@@ -1,0 +1,44 @@
+id: NelsonC01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: FranklinE01
+parentLetter: F
+parentDesc: Franklin E. Vining and Alice Flossie Lindsley
+head:
+  givenName: Nelson C.
+  birth:
+    date: January 1879
+    place: Kansas
+marriages:
+  - date: 6 y. as of 1910 census
+    spouse:
+      givenName: Laura B.
+      surname: "[...]"
+      birth:
+        date: age 25 y. as of 1910 census
+        place: Kansas
+childrenGroups:
+  - children:
+      - name: Carl C. Vining
+        birth:
+          date: age 5 y. as of 1910 census
+          place: Kansas
+      - name: Leola M. Vining
+        birth:
+          date: age 11 m. as of 1910 census
+          place: Kansas
+docsUrl: Nsources/NelsonC01doc.htm
+raw: |-
+  <a name="NelsonC01"></a><font size=+2>Nelson C. Vining</font>
+     (son of <a href="Ffamilies.htm#FranklinE01">Franklin E. Vining and Alice Flossie Lindsley</a>)
+     b. January 1879   Kansas
+     m. 6 y. as of 1910 census
+           Laura B. [...]
+                 b. age 25 y. as of 1910 census   Kansas
+  
+  <font size=+1>children:</font>
+     Carl C. Vining   b. age 5 y. as of 1910 census   Kansas
+     Leola M. Vining   b. age 11 m. as of 1910 census   Kansas
+  
+  <a href="Nsources/NelsonC01doc.htm">documentation and notes</a>

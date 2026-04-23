@@ -1,0 +1,70 @@
+id: OliverJr01
+letter: O
+sequence: 274
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Oliver02
+parentDesc: Oliver Vining and Arloe Wall
+head:
+  givenName: Oliver Jr.
+  birth:
+    date: 1 June 1925
+    place: Georgia
+  death:
+    date: 3 April 1999
+    place: "(last residence: Axson, Georgia)"
+  burial:
+    place: "Stokesville Baptist Church Cemetery   Axson, Georgia"
+marriages:
+  - spouse:
+      givenName: Ruth Latrell
+      surname: Vaughn
+      parents: "(dau. of Ausie Vaughn and Mary Elizabeth Tarrant)"
+      birth:
+        date: 12 May 1928
+      death:
+        date: 24 July 1997
+        place: "(last residence: Axson, Georgia)"
+      burial:
+        place: "Stokesville Baptist Church Cemetery   Axson, Georgia"
+childrenGroups:
+  - children:
+      - name: Beverly Ann Vining
+        birth:
+          date: 9 September 1947
+        marriages:
+          - number: 1
+            date: "[...] Adams"
+          - number: 2
+            date: Terry Wheaton
+      - name: Kenny Mac Vining
+        birth:
+          date: 22 June 1952
+      - name: Anita Valerie Vining
+        birth:
+          date: 16 July 1959
+        marriages:
+          - date: "[...] Rozar"
+      - name: Michael Anthony Vining
+        birth:
+          date: 24 December 1960
+docsUrl: Osources/OliverJr01doc.htm
+raw: |-
+  <a name="OliverJr01"></a><font size=+2>Oliver Vining Jr.</font>
+     (son of <a href="#Oliver02">Oliver Vining and Arloe Wall</a>)
+     b. 1 June 1925   Georgia
+     m. Ruth Latrell Vaughn
+              (dau. of Ausie Vaughn and Mary Elizabeth Tarrant)
+              b. 12 May 1928
+              d. 24 July 1997   (last residence: Axson, Georgia)
+                    bur. Stokesville Baptist Church Cemetery   Axson, Georgia
+     d. 3 April 1999   (last residence: Axson, Georgia)
+           bur. Stokesville Baptist Church Cemetery   Axson, Georgia
+  
+  <font size=+1>children:</font>
+     Beverly Ann Vining   b. 9 September 1947   -   m. (1) [...] Adams;   (2) Terry Wheaton
+     Kenny Mac Vining   b. 22 June 1952
+     Anita Valerie Vining   b. 16 July 1959   -   m. [...] Rozar
+     Michael Anthony Vining   b. 24 December 1960
+  
+  <a href="Osources/OliverJr01doc.htm">documentation and notes</a>

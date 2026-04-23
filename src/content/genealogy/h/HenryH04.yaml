@@ -1,0 +1,77 @@
+id: HenryH04
+letter: H
+sequence: 801
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry H.
+  birth:
+    date: age 28 y. as of 1910 census
+    place: Georgia
+marriages:
+  - date: 9 y. as of 1910 census
+    spouse:
+      givenName: Susie E.
+      surname: "[&#8230;]"
+      birth:
+        date: age 26 y. as of 1910 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: child Vining
+        death:
+          date: before 1910 census
+      - name: Agnes M. Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Georgia
+      - name: Jennie Cardella Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Georgia
+      - name: Aubrey Lee Vining
+        birth:
+          date: 18 October 1907
+          place: Georgia
+        death:
+          date: 29 January 1952
+        burial:
+          place: "Hillcrest Memorial Park Cemetery   Augusta, Georgia"
+      - name: James Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Georgia
+      - name: Rufus Vining
+        birth:
+          date: age 4 y. as of 1920 census
+          place: Georgia
+      - name: Harold B. Vining
+        entryId: HaroldB01
+        birth:
+          date: 4 April 1919
+          place: Georgia
+        marriages:
+          - date: Lucille  Nickless
+        death:
+          date: 28 February 1982
+          place: Califonia
+docsUrl: Hsources/HenryH04doc.htm
+raw: |-
+  <a name="HenryH04"></a><font size=+2>Henry H. Vining</font>
+     (son of [?])
+     b. age 28 y. as of 1910 census   Georgia
+     m. 9 y. as of 1910 census
+           Susie E. [&#8230;]
+                 b. age 26 y. as of 1910 census   Georgia
+  
+  <font size=+1>children:</font>
+     child Vining   d. before 1910 census
+     Agnes M. Vining   b. age 7 y. as of 1910 census   Georgia
+     Jennie Cardella Vining   b. age 4 y. as of 1910 census   Georgia
+     Aubrey Lee Vining   b. 18 October 1907   Georgia   -   d. 29 January 1952   -   bur. Hillcrest Memorial Park Cemetery   Augusta, Georgia
+     James Vining   b. age 8 y. as of 1920 census   Georgia
+     Rufus Vining   b. age 4 y. as of 1920 census   Georgia
+     <a href="#HaroldB01">Harold B. Vining</a>   b. 4 April 1919   Georgia   -   m. Lucille  Nickless   -   d. 28 February 1982   Califonia
+  
+  <a href="Hsources/HenryH04doc.htm">documentation and notes</a>

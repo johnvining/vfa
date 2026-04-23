@@ -1,0 +1,36 @@
+id: DavidL01
+sequence: 51
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: DickH01
+parentDesc: Dick Howard Vining and Mildred L. Syverson
+head:
+  givenName: David Laverne
+  birth:
+    date: 8 June 1940
+    place: "Courtney, North Dakota"
+marriages:
+  - date: 30 June 1962
+    place: "Kensal, North Dakota"
+    spouse:
+      givenName: JoAnn
+      surname: McGuire
+childrenGroups:
+  - children:
+      - name: Brenda Vining
+      - name: Bradley Vining
+      - name: Wanda K. Vining
+        marriages:
+          - spouse: "[...] Alber"
+raw: |-
+  <a name="DavidL01"></a><font size=+2>David Laverne Vining</font>
+     (son of <a href="#DickH01">Dick Howard Vining and Mildred L. Syverson</a>)
+     b. 8 June 1940   Courtney, North Dakota
+     m. 30 June 1962   Kensal, North Dakota
+           JoAnn McGuire
+  
+  <font size=+1>children:</font>
+     Brenda Vining
+     Bradley Vining
+     Wanda K. Vining   m. [...] Alber

@@ -1,0 +1,78 @@
+id: ElijahH02
+sequence: 78
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Reuben03
+parentLetter: R
+parentDesc: Reuben Vining and Nancy Avera
+head:
+  givenName: Elijah Hall
+  birth:
+    date: 14 June 1838
+    place: Georgia
+  death:
+    date: 22 January 1876
+    place: Georgia
+  burial:
+    place: "Pine Grove Cemetery   Eatonton, Georgia"
+marriages:
+  - date: 2 December 1866
+    place: Georgia
+    spouse:
+      givenName: "Caroline Olive &#8220;Carrie&#8221;"
+      surname: Davis
+      birth:
+        date: October 1850
+        place: Alabama
+      death:
+        date: 5 April 1905
+        place: "Madison, Georgia"
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Georgia
+      - name: Robert Elijah Vining
+        entryId: RobertE04
+        entryLetter: R
+        birth:
+          date: 14 June 1869
+          place: Georgia
+        marriages:
+          - spouse: Cynthia Emma Alford
+        death:
+          date: 14 May 1940
+          place: Georgia
+      - name: Walter Davis Vining
+        entryId: WalterD01
+        entryLetter: W
+        birth:
+          date: 12 February 1874
+          place: "Putnam, Georgia"
+        marriages:
+          - date: 29 December 1897
+            place: "Morgan, Georgia"
+            spouse: Daisy Beatrice Clements
+        death:
+          date: 20 November 1950
+          place: "Dougherty, Georgia"
+docsUrl: Esources/ElijahH02doc.htm
+raw: |-
+  <a name="ElijahH02"></a><font size=+2>Elijah Hall Vining</font>
+     (son of <a href="Rfamilies.htm#Reuben03">Reuben Vining and Nancy Avera</a>)
+     b. 14 June 1838   Georgia
+     m. 2 December 1866   Georgia
+           Caroline Olive &#8220;Carrie&#8221; Davis
+                 b. October 1850   Alabama
+                 d. 5 April 1905   Madison, Georgia
+     d. 22 January 1876   Georgia
+           bur. Pine Grove Cemetery   Eatonton, Georgia
+  
+  <font size=+1>children:</font>
+     Mary Vining   b. age 2 y. as of 1870 census   Georgia
+     <a href="Rfamilies.htm#RobertE04">Robert Elijah Vining</a>   b. 14 June 1869   Georgia   -   m. Cynthia Emma Alford   -   d. 14 May 1940   Georgia
+     <a href="Wfamilies.htm#WalterD01">Walter Davis Vining</a>   b. 12 February 1874   Putnam, Georgia   -   m. 29 December 1897   Morgan, Georgia   Daisy Beatrice Clements   -   d. 20 November 1950   Dougherty, Georgia
+  
+  <a href="Esources/ElijahH02doc.htm">documentation and notes</a>

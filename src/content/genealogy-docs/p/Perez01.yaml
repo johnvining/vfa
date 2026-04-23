@@ -1,0 +1,72 @@
+id: Perez01
+title: Perez Vining - Mary Dyer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Perez Vining
+          values:
+            - "?"
+            - "?"
+            - "51"
+            - dead
+            - ""
+            - ""
+        - label: Mary (Dyer) Vining
+          values:
+            - "?"
+            - "?"
+            - "48"
+            - "?"
+            - "?"
+            - dead
+        - label: Betsey Hunt Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Benjamin Dyer Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary J. Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Perez S. Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 331, family 418. Also living in this household in 1850 was
+          Elbridge S. Tr[o?]tt (14 y., b. Massachusetts).
+        images:
+          - src: Perez01census1850.jpg

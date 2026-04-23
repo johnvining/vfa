@@ -1,0 +1,61 @@
+id: RobertE06
+sequence: 99
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: LloydH01
+parentLetter: L
+parentDesc: Lloyd Henry Vining and Elizabeth Pierce
+head:
+  givenName: Robert Eugene
+  birth:
+    date: "[20?] April 1939"
+    place: Indiana
+  death:
+    date: 15 February 1991
+    place: "Orange, Orange County, California"
+  burial:
+    place: "Riverside National Cemetery   Riverside, California"
+marriages:
+  - number: 1
+    date: Pat Ryan
+  - number: 2
+    date: 18 July 1981
+    place: Nevada
+    spouse:
+      givenName: Priscella Jean
+      surname: Horsley
+      birth:
+        date: 12 September 1933
+      death:
+        date: 22 June 2005
+      burial:
+        place: "Riverside National Cemetery   Riverside, California"
+childrenGroups:
+  - spouseRef: Pat Ryan
+    children:
+      - name: Kimberley Vining
+      - name: Valerie Vining
+      - name: Kelly Vining
+      - name: Robert Vining
+docsUrl: Rsources/RobertE06doc.htm
+raw: |-
+  <a name="RobertE06"></a><font size=+2>Robert Eugene Vining</font>
+     (son of <a href="Lfamilies.htm#LloydH01">Lloyd Henry Vining and Elizabeth Pierce</a>)
+     b. [20?] April 1939   Indiana
+     m. (1) Pat Ryan
+           (2) 18 July 1981   Nevada
+                    Priscella Jean Horsley
+                          b. 12 September 1933
+                          d. 22 June 2005
+                                bur. Riverside National Cemetery   Riverside, California
+     d. 15 February 1991   Orange, Orange County, California
+           bur. Riverside National Cemetery   Riverside, California
+  
+  <font size=+1>children by Pat Ryan:</font>
+     Kimberley Vining
+     Valerie Vining
+     Kelly Vining
+     Robert Vining
+  
+  <a href="Rsources/RobertE06doc.htm">documentation and notes</a>

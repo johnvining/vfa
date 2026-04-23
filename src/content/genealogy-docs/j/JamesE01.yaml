@@ -1,0 +1,29 @@
+id: JamesE01
+title: James Edward Vining - Caroline M. Engelmann
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: James Edward Vining
+          values:
+            - "37"
+        - label: Caroline M. (Engelmann) Vining
+          values:
+            - "27"
+        - label: Carolyn Elizabeth Vining
+          values:
+            - "7"
+          indent: true
+        - label: James Edward Vining Jr.
+          values:
+            - "4"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          Webster Groves, St. Louis County, Missouri. Also living in this household in 1940 was servant Martha Jackson
+          (20 y., b. Tennessee).
+        images:
+          - src: JamesE01census1940.jpg

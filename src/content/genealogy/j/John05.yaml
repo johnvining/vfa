@@ -1,0 +1,194 @@
+id: John05
+sequence: 163
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Benjamin02
+parentLetter: B
+parentDesc: Benjamin Vining and Mehitabel Brooks
+head:
+  givenName: John
+  birth:
+    date: 5 September 1762
+  death:
+    date: 27 October 1837
+    place: "Durham, Maine"
+  burial:
+    place: "Old Town Cemetery   Durham, Maine"
+marriages:
+  - date: 30 November 1786
+    spouse:
+      givenName: Mary
+      surname: Goodwin
+      parents: (dau. of Samuel Goodwin and Elizabeth Libby)
+      birth:
+        date: 11 April 1765
+        place: "[Freeport or Scarborough ?], Maine"
+      death:
+        date: 14 November 1839
+      burial:
+        place: "Old Town Cemetery   Durham, Maine"
+childrenGroups:
+  - children:
+      - name: Susannah Vining
+        birth:
+          date: 24 August 1787
+          place: "Royalsborough [now Durham], Maine"
+        marriages:
+          - number: 1
+            date: 21 April 1811
+            spouse: Samuel Tracy
+          - number: 2
+            date: 24 December 1818
+            place: James Newell
+      - name: John Vining Jr.
+        birth:
+          date: 27 April 1789
+          place: "Durham, Maine"
+        death:
+          date: 24 March 1791
+          place: "Durham, Maine"
+      - name: Molly Vining
+        birth:
+          date: 20 August 1791
+          place: "Durham, Maine"
+        death:
+          date: 7 October 1793
+          place: "Durham, Maine"
+      - name: Benjamin Vining
+        entryId: Benjamin04
+        entryLetter: B
+        birth:
+          date: 23 August 1793
+          place: "Durham, Maine"
+        marriages:
+          - number: 1
+            date: 15 April 1819
+            place: "Durham, Maine"
+            spouse: Hannah Merrill
+          - number: 2
+            date: int. 5 February 1856
+            spouse: Mrs. Rhoda Barnes
+        death:
+          date: 12 February 1870
+        burial:
+          place: "Pond Road Cemetery   Wales, Maine"
+      - name: Samuel Vining
+        entryId: Samuel05
+        entryLetter: S
+        birth:
+          date: 26 May 1795
+          place: "Durham, Maine"
+        marriages:
+          - date: int. 3 April 1825
+            place: "Lisbon, Maine"
+            spouse: "Mary &#8220;Polly&#8221; Smith"
+        death:
+          date: 26 July 1842
+          place: Troy
+        burial:
+          place: "Lisbon Cemetery   Lisbon, Maine"
+      - name: John Vining Jr.
+        entryId: JohnJr01
+        birth:
+          date: 27 July 1798
+          place: "Durham, Maine"
+        marriages:
+          - date: "1825"
+            spouse: Martha S. Ross
+        death:
+          date: lost at sea February 1838
+      - name: Reuben Vining
+        entryId: Reuben01
+        entryLetter: R
+        birth:
+          date: 20 July 1799
+          place: "Durham, Maine"
+        marriages:
+          - date: Mercy Lunt
+        death:
+          date: 6 August 1857
+          place: "Durham, Maine"
+        burial:
+          place: "Vining Cemetery   Durham, Maine"
+      - name: David Vining
+        entryId: David05
+        entryLetter: D
+        birth:
+          date: 8 April 1801
+          place: "Durham, Maine"
+        marriages:
+          - date: June 1833
+            spouse: Betsey Smith
+        death:
+          date: 3 September 1867
+          place: "Lewiston, Maine"
+        burial:
+          place: "Lisbon Cemetery   Lisbon, Maine"
+      - name: Jonathan Vining
+        birth:
+          date: 8 April 1801
+          place: "Durham, Maine"
+        death:
+          date: 12 December 1820
+        burial:
+          place: "Old Town Cemetery   Durham, Maine"
+      - name: Betsey Vining
+        birth:
+          date: 20 April 1803
+          place: "Durham, Maine"
+        death:
+          date: 12 November 1805
+          place: "Durham, Maine"
+      - name: Ammi Vining
+        entryId: Ammi01
+        entryLetter: A
+        birth:
+          date: 4 September (1805 or 1806)
+          place: "Durham, Maine"
+        marriages:
+          - date: 3 June 1832
+            spouse: "Susanna &#8220;Susan&#8221; Gerrish"
+        death:
+          date: 1 May 1868
+          place: "Durham, Maine"
+        burial:
+          place: "Vining Cemetery   Durham, Maine"
+      - name: Sally S. Vining
+        birth:
+          date: 3 June 1807
+          place: "Durham, Maine"
+        death:
+          date: 10 December 1892
+          place: "Durham, Maine"
+        burial:
+          place: "Vining Cemetery   Durham, Maine"
+docsUrl: Jsources/John05doc.htm
+raw: |-
+  <a name="John05"></a><font size=+2>John Vining</font>
+     (son of <a href="Bfamilies.htm#Benjamin02">Benjamin Vining and Mehitabel Brooks</a>)
+     b. 5 September 1762
+     m. 30 November 1786
+           Mary Goodwin
+                 (dau. of Samuel Goodwin and Elizabeth Libby)
+                 b. 11 April 1765   [Freeport or Scarborough ?], Maine
+                 d. 14 November 1839
+                       bur. Old Town Cemetery   Durham, Maine
+     d. 27 October 1837   Durham, Maine
+           bur. Old Town Cemetery    Durham, Maine
+  
+  <font size=+1>children:</font>
+     Susannah Vining   b. 24 August 1787   Royalsborough [now Durham], Maine   -   m. (1) 21 April 1811   Samuel Tracy;   (2) 24 December 1818   James Newell
+     John Vining Jr.   b. 27 April 1789   Durham, Maine   -   d. 24 March 1791   Durham, Maine
+     Molly Vining   b. 20 August 1791   Durham, Maine   -   d. 7 October 1793   Durham, Maine
+     <a href="Bfamilies.htm#Benjamin04">Benjamin Vining</a>   b. 23 August 1793   Durham, Maine   -   m. (1) 15 April 1819   Durham, Maine   Hannah Merrill;   (2) int. 5 February 1856   Mrs. Rhoda Barnes   -   d. 12 February 1870   -   bur. Pond Road Cemetery   Wales, Maine
+     <a href="Sfamilies.htm#Samuel05">Samuel Vining</a>   b. 26 May 1795   Durham, Maine   -   m. int. 3 April 1825   Lisbon, Maine   Mary &#8220;Polly&#8221; Smith   -   d. 26 July 1842   Troy   -   bur. Lisbon Cemetery   Lisbon, Maine
+     <a href="#JohnJr01">John Vining Jr.</a>   b. 27 July 1798   Durham, Maine   -   m. 1825   Martha S. Ross   -   d. lost at sea February 1838
+     <a href="Rfamilies.htm#Reuben01">Reuben Vining</a>   b. 20 July 1799   Durham, Maine   -   m. Mercy Lunt   -   d. 6 August 1857   Durham, Maine   -   bur. Vining Cemetery   Durham, Maine
+     <a href="Dfamilies.htm#David05">David Vining</a>   b. 8 April 1801   Durham, Maine   -   m. June 1833   Betsey Smith   -   d. 3 September 1867   Lewiston, Maine   -   bur. Lisbon Cemetery   Lisbon, Maine
+     Jonathan Vining   b. 8 April 1801   Durham, Maine   -   d. 12 December 1820   -   bur. Old Town Cemetery   Durham, Maine
+     Betsey Vining   b. 20 April 1803   Durham, Maine   -   d. 12 November 1805   Durham, Maine
+     <a href="Afamilies.htm#Ammi01">Ammi Vining</a>   b. 4 September (1805 or 1806)   Durham, Maine   -   m. 3 June 1832   Susanna &#8220;Susan&#8221; Gerrish   -   d. 1 May 1868   Durham, Maine   -   bur. Vining Cemetery   Durham, Maine
+     Sally S. Vining   b. 3 June 1807   Durham, Maine   -   d. 10 December 1892   Durham, Maine   -   bur. Vining Cemetery   Durham, Maine
+  
+  <a href="Jsources/John05doc.htm">documentation and notes</a>

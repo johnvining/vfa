@@ -1,0 +1,82 @@
+id: Osmyn01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: RodolphusC01
+parentLetter: R
+parentDesc: Rodolphus C. Vining and Martha R. Mason
+head:
+  givenName: Osmyn
+  birth:
+    date: 14 September 1852
+    place: Massachusetts
+  death:
+    date: 29 August 1922
+    place: "Kalamazoo, Michigan"
+  burial:
+    place: "West Cummington Cemetery   Cummington, Massachusetts"
+marriages:
+  - date: 6 August 1870
+    spouse:
+      givenName: "Caroline A. &#8220;Carrie&#8221;"
+      surname: Dyer
+      birth:
+        date: "1850"
+        place: Massachusetts
+      death:
+        date: "1925"
+      burial:
+        place: "West Cummington Cemetery   Cummington, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Mary Hortense Vining
+        birth:
+          date: 2 June 1871
+          place: "Plainfield, Massachusetts"
+        death:
+          date: 10 October 1877
+          place: "Cummington, Massachusetts"
+        burial:
+          place: "West Cummington Cemetery   Cummington, Massachusetts"
+      - name: Ralph Spellman Vining
+        birth:
+          date: 3 June 1879
+          place: Massachusetts
+        marriages:
+          - date: "Elleanor [sic] H. Welch"
+        death:
+          date: 28 December 1948
+        burial:
+          place: "Smiths Ferry Cemetery   Holyoke, Massachusetts"
+      - name: Osmyn Carl Vining
+        entryId: OsmynC01
+        birth:
+          date: 10 October 1885
+          place: "Holyoke, Massachusetts"
+        marriages:
+          - date: 3 y. as of 1910 census
+            spouse: "Aurore A. &#8220;Ora&#8221; La Palm"
+        death:
+          date: 17 July 1958
+          place: "Kalamazoo, Michigan"
+        burial:
+          place: "Mount Ever-Rest Memorial Park South   Kalamazoo, Michigan"
+docsUrl: Osources/Osmyn01doc.htm
+raw: |-
+  <a name="Osmyn01"></a><font size=+2>Osmyn Vining</font>
+     (son of <a href="Rfamilies.htm#RodolphusC01">Rodolphus C. Vining and Martha R. Mason</a>)
+     b. 14 September 1852   Massachusetts
+     m. 6 August 1870
+           Caroline A. &#8220;Carrie&#8221; Dyer
+                 b. 1850   Massachusetts
+                 d. 1925
+                       bur. West Cummington Cemetery   Cummington, Massachusetts
+     d. 29 August 1922   Kalamazoo, Michigan
+           bur. West Cummington Cemetery   Cummington, Massachusetts
+  
+  <font size=+1>children:</font>
+     Mary Hortense Vining   b. 2 June 1871   Plainfield, Massachusetts   -   d. 10 October 1877   Cummington, Massachusetts   -   bur. West Cummington Cemetery   Cummington, Massachusetts
+     Ralph Spellman Vining   b. 3 June 1879   Massachusetts   -   m. Elleanor [sic] H. Welch   -   d. 28 December 1948   -   bur. Smiths Ferry Cemetery   Holyoke, Massachusetts
+     <a href="#OsmynC01">Osmyn Carl Vining</a>   b. 10 October 1885   Holyoke, Massachusetts   -   m. 3 y. as of 1910 census   Aurore A. &#8220;Ora&#8221; La Palm   -   d. 17 July 1958   Kalamazoo, Michigan   -   bur. Mount Ever-Rest Memorial Park South   Kalamazoo, Michigan
+  
+  <a href="Osources/Osmyn01doc.htm">documentation and notes</a>

@@ -1,0 +1,140 @@
+id: Bela01
+letter: B
+sequence: 8
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Benjamin02
+parentDesc: Benjamin Vining and Mehitabel Brooks
+head:
+  givenName: Bela
+  birth:
+    date: 12 November 1766
+    place: "[Durham, Androscoggin County, Maine?]"
+  death:
+    date: 17 February 1846
+    place: "Durham, Androscoggin County, Maine"
+  burial:
+    place: "Sawyer Cemetery   Durham, Androscoggin County, Maine"
+marriages:
+  - date: 15 July 1790
+    spouse:
+      givenName: Thankful
+      surname: Millbanks
+      parents: (dau. of Philip Millbanks and Lucy Dyer)
+      birth:
+        date: "age 92 y., 7 m. at death"
+        place: "[Lewiston, Androscoggin County, Maine?]"
+      death:
+        date: 7 August 1864
+      burial:
+        place: "Sawyer Cemetery   Durham, Androscoggin County, Maine"
+childrenGroups:
+  - children:
+      - name: William Vining
+        entryId: William02
+        entryLetter: W
+        birth:
+          date: 20 July 1791
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: Nancy Ragoon
+        death:
+          date: 26 December 1863
+          place: "Durham, Androscoggin County, Maine"
+      - name: Hannah Vining
+        birth:
+          date: 19 March 1793
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 5 March 1815
+            spouse: Asa Dyer
+        death:
+          date: "[16 or 15?] March 1862"
+          place: "[Worcester, Worcester County, Massachusetts or Barrington, Strafford County, New Hampshire?]"
+      - name: Ammi Vining
+        entryId: Ammi02
+        entryLetter: A
+        birth:
+          date: 3 April 1795
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 21 September 1817
+            spouse: Betsey Strout
+      - name: Lucy Vining
+        birth:
+          date: 6 May 1798
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 30 November 1820
+            place: John H. Newell II
+        death:
+          date: "1884"
+        burial:
+          place: "Cedar Grove Cemetery   Durham, Androscoggin County, Maine"
+      - name: Bela Vining Jr.
+        birth:
+          date: 3 April 1800
+          place: "Durham, Androscoggin County, Maine"
+        death:
+          date: 19 August 1821
+          place: "Havana, Cuba"
+      - name: Samuel Vining
+        birth:
+          date: 3 April 1802
+          place: "Durham, Androscoggin County, Maine"
+      - name: Sarah S. Vining
+        birth:
+          date: 17 October 1805
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 13 October 1826
+            spouse: Joseph Davis
+        death:
+          date: "1892"
+        burial:
+          place: "Harmony Grove Cemetery   Durham, Androscoggin County, Maine"
+      - name: Sewall Vining
+        entryId: Sewall01
+        entryLetter: S
+        birth:
+          date: 29 January 1808
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - number: 1
+            date: "1831"
+            spouse: Hepzibah D. Blanchard
+          - number: 2
+            date: Mrs. Mary Randall
+      - name: Mary Millbanks Vining
+        birth:
+          date: 4 May 1810
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 14 October 1832
+            spouse: William H. L. Blanchard
+docsUrl: Bsources/Bela01doc.htm
+raw: |-
+  <a name="Bela01"></a><font size=+2>Bela Vining</font>
+     (son of <a href="#Benjamin02">Benjamin Vining and Mehitabel Brooks</a>)
+     b. 12 November 1766   [Durham, Androscoggin County, Maine?]
+     m. 15 July 1790
+           Thankful Millbanks
+                 (dau. of Philip Millbanks and Lucy Dyer)
+                 b. age 92 y., 7 m. at death   [Lewiston, Androscoggin County, Maine?]
+                 d. 7 August 1864
+                       bur. Sawyer Cemetery   Durham, Androscoggin County, Maine
+     d. 17 February 1846   Durham, Androscoggin County, Maine
+           bur. Sawyer Cemetery   Durham, Androscoggin County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#William02">William Vining</a>   b. 20 July 1791   Durham, Androscoggin County, Maine   -   m. Nancy Ragoon   -   d. 26 December 1863   Durham, Androscoggin County, Maine
+     Hannah Vining   b. 19 March 1793   Durham, Androscoggin County, Maine   -   m. 5 March 1815   Asa Dyer   -   d. [16 or 15?] March 1862   [Worcester, Worcester County, Massachusetts or Barrington, Strafford County, New Hampshire?]
+     <a href="Afamilies.htm#Ammi02">Ammi Vining</a>   b. 3 April 1795   Durham, Androscoggin County, Maine   -   m. 21 September 1817   Betsey Strout
+     Lucy Vining   b. 6 May 1798   Durham, Androscoggin County, Maine   -   m. 30 November 1820   John H. Newell II   -   d. 1884   -   bur. Cedar Grove Cemetery   Durham, Androscoggin County, Maine
+     Bela Vining Jr.   b. 3 April 1800   Durham, Androscoggin County, Maine   -   d. 19 August 1821   Havana, Cuba
+     Samuel Vining   b. 3 April 1802   Durham, Androscoggin County, Maine
+     Sarah S. Vining   b. 17 October 1805   Durham, Androscoggin County, Maine   -   m. 13 October 1826   Joseph Davis   -   d. 1892   -   bur. Harmony Grove Cemetery   Durham, Androscoggin County, Maine
+     <a href="Sfamilies.htm#Sewall01">Sewall Vining</a>   b. 29 January 1808   Durham, Androscoggin County, Maine   -   m. (1) 1831   Hepzibah D. Blanchard;   (2) Mrs. Mary Randall
+     Mary Millbanks Vining   b. 4 May 1810   Durham, Androscoggin County, Maine   -   m. 14 October 1832   William H. L. Blanchard
+  
+  <a href="Bsources/Bela01doc.htm">documentation and notes</a>

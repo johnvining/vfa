@@ -1,0 +1,78 @@
+id: LeavittA01
+sequence: 21
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Jonah01
+parentLetter: J
+parentDesc: Jonah Vining and Olive Leavitt
+head:
+  givenName: Leavitt A.
+  birth:
+    date: ca. 1771
+    place: "Pownalborough, Maine"
+marriages:
+  - date: 10 April 1794
+    spouse:
+      givenName: Lucy
+      surname: Andrews
+childrenGroups:
+  - children:
+      - name: Leavitt Vining
+        entryId: Leavitt02
+        entryLetter: L
+        birth:
+          date: 1794/1795
+          place: "Wiscasset, Maine"
+        marriages:
+          - date: "Hannah [...]"
+      - name: Harriet Vining
+        birth:
+          date: ca. 1796
+          place: "Wiscasset, Maine"
+        death:
+          date: 25 June 1816
+          place: "Windsor, Maine"
+      - name: daughter
+        birth:
+          date: ca. 1798
+          place: "Wiscasset, Maine"
+      - name: Samuel Vining
+        birth:
+          date: ca. 1800
+          place: "Wiscasset, Maine"
+        marriages:
+          - date: 10 October 1819
+            spouse: Mary Allen
+      - name: Warren Vining
+        entryId: Warren01
+        entryLetter: W
+        birth:
+          date: ca. 1802
+          place: "Wiscasset, Maine"
+        marriages:
+          - number: 1
+            date: 18 September 1825
+            spouse: Mary Ann Page
+          - number: 2
+            date: 2 April 1831
+            spouse: Sophronia Lowell
+          - number: 3
+            date: 29 July 1832
+            spouse: Octavia Frith
+docsUrl: Lsources/LeavittA01doc.htm
+raw: |-
+  <a name="LeavittA01"></a><font size=+2>Leavitt A. Vining</font>
+     (son of <a href="Jfamilies.htm#Jonah01">Jonah Vining and Olive Leavitt</a>)
+     b. ca. 1771   Pownalborough, Maine
+     m. 10 April 1794
+           Lucy Andrews
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#Leavitt02">Leavitt Vining</a>   b. 1794/1795   Wiscasset, Maine   -   m. Hannah [...]
+     Harriet Vining   b. ca. 1796   Wiscasset, Maine   -   d. 25 June 1816   Windsor, Maine
+     daughter   b. ca. 1798   Wiscasset, Maine
+     Samuel Vining   b. ca. 1800   Wiscasset, Maine   -   m. 10 October 1819   Mary Allen
+     <a href="Wfamilies.htm#Warren01">Warren Vining</a>   b. ca. 1802   Wiscasset, Maine   -   m. (1) 18 September 1825   Mary Ann Page;   (2) 2 April 1831   Sophronia Lowell;   (3) 29 July 1832   Octavia Frith
+  
+  <a href="Lsources/LeavittA01doc.htm">documentation and notes</a>

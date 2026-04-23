@@ -1,0 +1,67 @@
+id: WilliamM02
+sequence: 119
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: GeorgeA01
+parentLetter: G
+parentDesc: George Albert Vining and Ruby Lee Roten
+head:
+  givenName: William Macon
+  birth:
+    date: 20 January 1896
+    place: "Rusk, Cherokee County, Texas"
+  death:
+    date: 17 August 1990
+    place: "Rusk, Cherokee County, Texas"
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+marriages:
+  - date: 28 January 1944
+    spouse:
+      givenName: Eddie B.
+      surname: Roark
+      parents: "(dau. of Edwin E. Roark and Ida Wallace)"
+      birth:
+        date: 25 June 1918
+        place: "Linwood, Cherokee County, Texas"
+      death:
+        date: 9 September 2011
+        place: "Rusk, Cherokee County, Texas"
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+childrenGroups:
+  - children:
+      - name: Margaret Sue Vining
+        birth:
+          date: 21 July 1945
+          place: "Cherokee County, Texas"
+        marriages:
+          - date: Bryan Scott Jared
+      - name: William Macon Vining Jr.
+        entryId: WilliamMJr01
+        birth:
+          date: 19 December 1947
+          place: "Jacksonville, Cherokee County, Texas"
+        marriages:
+          - date: 27 July 1985
+            spouse: Tonya Jo Kallsen
+docsUrl: Wsources/WilliamM02doc.htm
+raw: |-
+  <a name="WilliamM02"></a><font size=+2>William Macon Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeA01">George Albert Vining and Ruby Lee Roten</a>)
+     b. 20 January 1896   Rusk, Cherokee County, Texas
+     m. 28 January 1944
+           Eddie B. Roark
+                 (dau. of Edwin E. Roark and Ida Wallace)
+                 b. 25 June 1918   Linwood, Cherokee County, Texas
+                 d. 9 September 2011   Rusk, Cherokee County, Texas
+                       bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     d. 17 August 1990   Rusk, Cherokee County, Texas
+           bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+  
+  <font size=+1>children:</font>
+     Margaret Sue Vining   b. 21 July 1945   Cherokee County, Texas   -   m. Bryan Scott Jared
+     <a href="#WilliamMJr01">William Macon Vining Jr.</a>   b. 19 December 1947   Jacksonville, Cherokee County, Texas   -   m. 27 July 1985   Tonya Jo Kallsen
+  
+  <a href="Wsources/WilliamM02doc.htm">documentation and notes</a>

@@ -1,0 +1,122 @@
+id: Charles10
+letter: C
+sequence: 32
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Charles
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: Taylor
+childrenGroups:
+  - children:
+      - name: Sarah Taylor Vining
+        birth:
+          date: baptized 5 November 1779
+        death:
+          date: 11 January 1781
+          place: England
+      - name: Edward Vining
+        birth:
+          date: "[b. ca. 1780?]"
+        note: "christened 28 September 1815   St. Paul&#8217;s, Bristol, Gloucester, England"
+      - name: Joseph Vining
+        birth:
+          date: baptized 14 December 1781
+          place: "St. Bartholomew the Great, Smithfield, England"
+        marriages:
+          - date: 24 November 1804
+            place: "St. Martin in the Fields, Westminster, England"
+            spouse: Elizabeth White
+        death:
+          date: January 1846
+          place: "Marylebone, London, England"
+        burial:
+          place: "St. Mary, Paddington Green, England"
+      - name: William George Vining
+        birth:
+          date: "1783"
+          place: "London, Middlexes, England   -  baptized 20 October 1783"
+        marriages:
+          - date: "1816"
+            spouse: "St. Nicholas, Brighton, Sussex, England   Mary Gossop Johannot"
+        death:
+          date: 20 November 1861
+          place: "Camden, England"
+      - name: Thomas Vining
+        birth:
+          date: 8 March 1785
+          place: "St. Bride Fleet Street, London, England"
+        death:
+          date: January 1850
+          place: England
+      - name: Louisa Vining
+        birth:
+          date: March 1787
+          place: "Kensington & Chelsea, England"
+      - name: Henry Vining
+        entryId: Henry01
+        entryLetter: H
+        birth:
+          date: "[b. or baptized?] 12 February 1789"
+          place: "St. Andrew Holborn, London, England"
+        marriages:
+          - date: Amelia Quantrell
+        death:
+          date: "1790"
+          place: England
+      - name: Frederick Augustus Vining
+        birth:
+          date: "25 November 1790   -   bapt. 28 November 1790   St. Paul&#8217;s, Covent Garden, London, England"
+        marriages:
+          - date: "Jemima &#8220;Marian&#8221; Bew"
+        death:
+          date: 2 June 1871
+          place: "London, Surrey, England"
+      - name: Harriot Vining
+        birth:
+          date: "1792   -   bapt. 18 October 1792   St. Andrew, Holborn, London, England"
+        death:
+          date: "1798"
+      - name: "Philip Taylor &#8220;Henry&#8221; Vining   [b. or bapt.?] 16 January 1794   St. Andrew, Holborn, London, England"
+      - name: James Vining
+        entryId: James07
+        entryLetter: J
+        birth:
+          date: "[1795 or 1796?]"
+          place: "Islington, Middlesex, England"
+        marriages:
+          - date: Caroline (Holmes) Johnes
+        death:
+          date: 27 June 1870
+          place: "St. John&#8217;s Park, Highgate Hill, London, England"
+      - name: Reuben William Vining
+        entryId: ReubenW01
+        entryLetter: R
+        birth:
+          date: "24 June 1822.  London, London, England"
+        marriages:
+          - date: Mary Elizabeth Bowes
+        death:
+          date: 23 April 1901
+          place: "Georgetown, Williamson County, Texas"
+raw: |-
+  <a name="Charles10"></a><font size=+2>Charles Vining</font>
+     (son of [?])
+     m. Mary Taylor
+  
+  <font size=+1>children:</font>
+     Sarah Taylor Vining   baptized 5 November 1779   -   d. 11 January 1781   England
+     Edward Vining   [b. ca. 1780?]   -   christened 28 September 1815   St. Paul&#8217;s, Bristol, Gloucester, England
+     Joseph Vining   baptized 14 December 1781   St. Bartholomew the Great, Smithfield, England   -   m. 24 November 1804   St. Martin in the Fields, Westminster, England   Elizabeth White   -   d. January 1846   Marylebone, London, England   -   bur. St. Mary, Paddington Green, England
+     William George Vining   b. 1783   London, Middlexes, England   -  baptized 20 October 1783   -   m. 1816   St. Nicholas, Brighton, Sussex, England   Mary Gossop Johannot   -   d. 20 November 1861   Camden, England
+     Thomas Vining   b. 8 March 1785   St. Bride Fleet Street, London, England   -   d. January 1850   England
+     Louisa Vining   b. March 1787   Kensington & Chelsea, England
+     <a href="Hfamilies.htm#Henry01">Henry Vining</a>   [b. or baptized?] 12 February 1789   St. Andrew Holborn, London, England   -   m. Amelia Quantrell   -   d. 1790   England
+     Frederick Augustus Vining   b. 25 November 1790   -   bapt. 28 November 1790   St. Paul&#8217;s, Covent Garden, London, England   -   m. Jemima &#8220;Marian&#8221; Bew   -   d. 2 June 1871   London, Surrey, England
+     Harriot Vining   b. 1792   -   bapt. 18 October 1792   St. Andrew, Holborn, London, England   -   d. 1798
+     Philip Taylor &#8220;Henry&#8221; Vining   [b. or bapt.?] 16 January 1794   St. Andrew, Holborn, London, England
+     <a href="Jfamilies.htm#James07">James Vining</a>   b. [1795 or 1796?]   Islington, Middlesex, England   -   m. Caroline (Holmes) Johnes   -   d. 27 June 1870   St. John&#8217;s Park, Highgate Hill, London, England
+     <a href="Rfamilies.htm#ReubenW01">Reuben William Vining</a>   b. 24 June 1822.  London, London, England   -   m. Mary Elizabeth Bowes   -   d. 23 April 1901   Georgetown, Williamson County, Texas

@@ -1,0 +1,51 @@
+id: DickH01
+title: Dick Howard Vining - Mildred L. Syverson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Dick Howard Vining
+          values:
+            - "28"
+        - label: Mildred L. (Syverson) Vining
+          values:
+            - "21"
+        - label: Winifred Mildred Vining
+          values:
+            - "5"
+          indent: true
+        - label: Darrel Harley Vining
+          values:
+            - "3"
+          indent: true
+        - label: Elaine Joyce Vining
+          values:
+            - "1"
+          indent: true
+        - label: David Laverne Vining
+          values:
+            - ""
+          indent: true
+        - label: Lois Ann Vining
+          values:
+            - ""
+          indent: true
+        - label: Marie June Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          Florence Township, Foster County, North Dakota. Also living in this household in 1940 were Johanna Laura Marie
+          "Jennie" (Johnson-Mork) Vining (66 y., b. Minnesota, widowed mother of Dick Howard Vining) and Ruth Jane
+          Vining (20 y., b. North Dakota, sister of Dick Howard Vining).
+        images:
+          - src: DickH01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Mildred L. (Syverson) Vining:"
+        images:
+          - src: DickH01wifeobituary.jpg

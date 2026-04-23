@@ -1,0 +1,43 @@
+id: StevenC02
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RichardM01
+parentLetter: R
+parentDesc: Richard M. Vining and Josephine V. Terrio
+head:
+  givenName: Steven C.
+  birth:
+    date: age 52 y. at death
+  death:
+    date: 23 Janaury 2008
+  burial:
+    place: "Oak Grove Cemetery   Medford, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Valarie
+      surname: DeBonis
+childrenGroups:
+  - children:
+      - name: Jennifer Vining
+      - name: Matthew Vining
+      - name: Jacalyn Vining
+      - name: Steven R. Vining
+      - name: Katelyn Vining
+docsUrl: Ssources/StevenC02doc.htm
+raw: |-
+  <a name="StevenC02"></a><font size=+2>Steven C. Vining</font>
+     (son of <a href="Rfamilies.htm#RichardM01">Richard M. Vining and Josephine V. Terrio</a>)
+     b. age 52 y. at death
+     m. Valarie DeBonis
+     d. 23 Janaury 2008
+           bur. Oak Grove Cemetery   Medford, Massachusetts
+  
+  <font size=+1>children:</font>
+     Jennifer Vining
+     Matthew Vining
+     Jacalyn Vining
+     Steven R. Vining
+     Katelyn Vining
+  
+  <a href="Ssources/StevenC02doc.htm">documentation and notes</a>

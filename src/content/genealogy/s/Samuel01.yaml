@@ -1,0 +1,83 @@
+id: Samuel01
+letter: S
+sequence: 1
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John01
+parentLetter: J
+parentDesc: John Vining and Mary Reed
+head:
+  givenName: Samuel
+  birth:
+    date: 2 February 1669/70
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: before 1716
+    place: "Enfield, Hartford County, Connecticut"
+marriages:
+  - date: "1701"
+    spouse:
+      givenName: Sarah
+      surname: Devril
+      birth:
+        date: "1679"
+        place: "Norfolk County, Massachusetts"
+      death:
+        date: 3 February 1721
+        place: "Enfield, Hartford County, Connecticut"
+      burial:
+        place: "Vining Cemetery   Granby, Hartford County, Connecticut"
+childrenGroups:
+  - children:
+      - name: Samuel Vining Jr.
+        entryId: SamuelJr01
+        birth:
+          date: 25 October 1701
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 10 August 1727
+            spouse: Mary Gleason
+          - number: 2
+            date: "Elizabeth Killiam?"
+        death:
+          date: 26 April 1762
+        burial:
+          place: "possibly in Scantic Cemetery   East Windsor, Hartford County, Connecticut"
+      - name: Sarah Vining
+        birth:
+          date: 4 July 1704
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Ann Vining
+        birth:
+          date: 4 July 1704
+          place: "Weymouth, Norfolk County,  Massachusetts"
+      - name: Colaty Vining
+        birth:
+          date: 10 March 1708/09
+          place: "Braintree, Norfolk County, Massachusetts"
+        marriages:
+          - date: 10 October 1734
+            place: "Windham County, Connecticut"
+            spouse: Ephraim Backus
+        death:
+          date: 22 January 1801
+docsUrl: Ssources/Samuel01doc.htm
+raw: |-
+  <a name="Samuel01"></a><font size=+2>Samuel Vining</font>
+     (son of <a href="Jfamilies.htm#John01">John Vining and Mary Reed</a>)
+     b. 2 February 1669/70   Weymouth, Norfolk County, Massachusetts
+     m. 1701
+           Sarah Devril
+                 b. 1679   Norfolk County, Massachusetts
+                 d. 3 February 1721   Enfield, Hartford County, Connecticut
+                       bur. Vining Cemetery   Granby, Hartford County, Connecticut
+     d. before 1716   Enfield, Hartford County, Connecticut
+  
+  <font size=+1>children:</font>
+     <a href="#SamuelJr01">Samuel Vining Jr.</a>   b. 25 October 1701   Weymouth, Norfolk County, Massachusetts   -   m. (1) 10 August 1727   Mary Gleason; (2) Elizabeth Killiam?   -   d. 26 April 1762   -   bur. possibly in Scantic Cemetery   East Windsor, Hartford County, Connecticut
+     Sarah Vining   b. 4 July 1704   Weymouth, Norfolk County, Massachusetts
+     Ann Vining   b. 4 July 1704   Weymouth, Norfolk County,  Massachusetts
+     Colaty Vining   b. 10 March 1708/09   Braintree, Norfolk County, Massachusetts   -   m. 10 October 1734   Windham County, Connecticut   Ephraim Backus   -   d. 22 January 1801
+  
+  <a href="Ssources/Samuel01doc.htm">documentation and notes</a>

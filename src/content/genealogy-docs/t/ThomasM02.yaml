@@ -1,0 +1,41 @@
+id: ThomasM02
+title: Thomas Monroe Vining - Nora Willena Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Thomas Monroe Vining
+          values:
+            - "27"
+            - "37"
+        - label: Nora Willena (Smith) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Thomas Monroe Vining Jr.
+          values:
+            - 8 m.
+            - "10"
+          indent: true
+        - label: Maurice Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Chattanooga (ward 9), Hamilton County, Tennessee - dwelling 665, family 690
+        images:
+          - src: ThomasM02census1930.jpg
+      - year: "1940"
+        caption: Atlanta (ward 5), Fulton County, Georgia
+        images:
+          - src: ThomasM02census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Lorraine (Breen) Vining, wife of Thomas Monroe Vining Jr.:"
+        images:
+          - src: ThomasM02sonThomaswifeobituary.jpg

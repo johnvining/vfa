@@ -1,0 +1,61 @@
+id: GeorgeT01
+title: George Thomas Vining - Hattie T. Foster
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: George Thomas Vining
+          values:
+            - "22"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Hattie T. (Foster) Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Annie S. Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alton Clayton Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah W. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Lisbon, Androscoggin County, Maine - dwelling 20, family 24
+        images:
+          - src: GeorgeT01census1880.jpg

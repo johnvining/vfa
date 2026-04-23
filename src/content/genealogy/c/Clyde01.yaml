@@ -1,0 +1,62 @@
+id: Clyde01
+letter: C
+sequence: 146
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Olin01
+parentLetter: O
+parentDesc: Olin Vining and Hattie Crosby
+head:
+  givenName: Clyde
+  birth:
+    date: 25 February 1918
+    place: Georgia
+  death:
+    date: 17 April 1996
+    place: "Pearson, Atkinson County, Georgia"
+  burial:
+    place: "Mount Zion Cemetery   Axson, Georgia"
+marriages:
+  - spouse:
+      givenName: Marion Elaine
+      surname: Westman
+childrenGroups:
+  - children:
+      - name: Clyde Allen Vining
+        entryId: ClydeA01
+        birth:
+          date: 26 April 1961
+          place: "Douglas, Coffee County, Georgia"
+        marriages:
+          - number: 1
+            date: "Patricia Ann [&#8230;]"
+          - number: 2
+            date: "Tina [&#8230;]"
+        death:
+          date: 11 May 2021
+          place: "Manor, Georgia"
+      - name: Bruce Vining
+        marriages:
+          - date: "Teresa [&#8230;]"
+      - name: Terry Vining
+        marriages:
+          - date: "Diane [&#8230;]"
+      - name: Gary Vining
+        marriages:
+          - date: "Jan [&#8230;]"
+docsUrl: Csources/Clyde01doc.htm
+raw: |-
+  <a name="Clyde01"></a><font size=+2>Clyde Vining</font>
+     (son of <a href="Ofamilies.htm#Olin01">Olin Vining and Hattie Crosby</a>)
+     b. 25 February 1918   Georgia
+     m. Marion Elaine Westman
+     d. 17 April 1996   Pearson, Atkinson County, Georgia
+           bur. Mount Zion Cemetery   Axson, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="#ClydeA01">Clyde Allen Vining</a>   b. 26 April 1961   Douglas, Coffee County, Georgia   -   m. (1) Patricia Ann [&#8230;];   (2) Tina [&#8230;]   -   d. 11 May 2021   Manor, Georgia
+     Bruce Vining   m. Teresa [&#8230;]
+     Terry Vining   m. Diane [&#8230;]
+     Gary Vining   m. Jan [&#8230;]
+  
+  <a href="Csources/Clyde01doc.htm">documentation and notes</a>

@@ -1,0 +1,69 @@
+id: EdmondG01
+sequence: 20
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: UriahB01
+parentLetter: U
+parentDesc: Uriah Blanchard Vining and Eunice Nugent
+head:
+  givenName: Edmond G.
+marriages:
+  - date: 8 May 1822
+    place: Mississippi
+    spouse:
+      givenName: Mickey
+      surname: Cole
+childrenGroups:
+  - children:
+      - name: "Thomas Vining [possibly the same person as Thomas A. Vining?]"
+      - name: Matthew Cole Vining
+        birth:
+          date: "1829"
+        marriages:
+          - date: 29 July 1857
+            place: Texas
+            spouse: Elizabeth Drury
+        death:
+          date: 22 April 1918
+          place: "Austin, Texas"
+      - name: Edmond Green Vining
+        entryId: EdmondG02
+        birth:
+          date: November 1830
+        marriages:
+          - date: 25 March 1865
+            place: Louisiana
+            spouse: Sarah Ann Stringer
+        death:
+          date: 11 April 1903
+          place: Texas
+      - name: Lucinda Howard Vining
+        birth:
+          date: "1832"
+        marriages:
+          - date: 19 August 1852
+            place: "East Feliciana Parish, Louisiana"
+            spouse: Martin J. Naul
+        death:
+          date: 25 May 1886
+      - name: Lavinia E. Vining
+        marriages:
+          - date: 24 January 1856
+            place: "East Feliciana Parish, Louisiana"
+            spouse: Green Kirby
+docsUrl: Esources/EdmondG01doc.htm
+raw: |-
+  <a name="EdmondG01"></a><font size=+2>Edmond G. Vining</font>
+     (son of <a href="Ufamilies.htm#UriahB01">Uriah Blanchard Vining and Eunice Nugent</a>)
+     m. 8 May 1822   Mississippi
+           Mickey Cole
+  
+  <font size=+1>children:</font>
+     Thomas Vining [possibly the same person as <a href="Tfamilies.htm#ThomasA03">Thomas A. Vining</a>?]
+     Matthew Cole Vining   b. 1829   -   m. 29 July 1857   Texas   Elizabeth Drury   -   d. 22 April 1918   Austin, Texas
+     <a href="#EdmondG02">Edmond Green Vining</a>   b. November 1830   -   m. 25 March 1865   Louisiana   Sarah Ann Stringer   -   d. 11 April 1903   Texas
+     Lucinda Howard Vining   b. 1832   -   m. 19 August 1852   East Feliciana Parish, Louisiana   Martin J. Naul   -   d. 25 May 1886
+     Lavinia E. Vining   m. 24 January 1856   East Feliciana Parish, Louisiana   Green Kirby
+  
+  <a href="Esources/EdmondG01doc.htm">documentation and notes</a>

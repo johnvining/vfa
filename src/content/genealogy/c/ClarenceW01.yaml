@@ -1,0 +1,70 @@
+id: ClarenceW01
+letter: C
+sequence: 127
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LeonardE01
+parentLetter: L
+parentDesc: Leonard Edwin Vining and Ada Albena Walker
+head:
+  givenName: Clarence Walker
+  birth:
+    date: 24 February 1916
+    place: "Washington, District of Columbia"
+  death:
+    date: 27 February 2002
+    place: "Dickson, Tennessee"
+  burial:
+    place: "Union Cemetery   Dickson, Tennessee"
+marriages:
+  - date: November 1941
+    spouse:
+      givenName: Marjorie Dare
+      surname: Richardson
+      parents: (dau. of Arlie Ethridge Richardson and Pearl Boley)
+      birth:
+        date: 19 November 1922
+        place: "Norfolk County, Virginia"
+      death:
+        date: 22 March 2011
+        place: "Dickson, Tennessee"
+      burial:
+        place: "Union Cemetery   Dickson, Tennessee"
+childrenGroups:
+  - children:
+      - name: Larry Vining
+      - name: Nancy Vining
+        marriages:
+          - date: "[...] VanNess"
+      - name: Geoffrey Vining
+      - name: Jacqueline Vining
+        marriages:
+          - date: "[...] Abt"
+      - name: Clarence Walker Vining Jr.
+        entryId: ClarenceWJr01
+        marriages:
+          - date: 50 y. as of death of Susan Ellen (Logue) Vining
+            place: "Cumberland, Allegany County, Maryland"
+            spouse: Susan Ellen Logue
+docsUrl: Csources/ClarenceW01doc.htm
+raw: |-
+  <a name="ClarenceW01"></a><font size=+2>Clarence Walker Vining</font>
+     (son of <a href="Lfamilies.htm#LeonardE01">Leonard Edwin Vining and Ada Albena Walker</a>)
+     b. 24 February 1916   Washington, District of Columbia
+     m. November 1941
+           Marjorie Dare Richardson
+                 (dau. of Arlie Ethridge Richardson and Pearl Boley)
+                 b. 19 November 1922   Norfolk County, Virginia
+                 d. 22 March 2011   Dickson, Tennessee
+                       bur. Union Cemetery   Dickson, Tennessee
+     d. 27 February 2002   Dickson, Tennessee
+           bur. Union Cemetery   Dickson, Tennessee
+  
+  <font size=+1>children:</font>
+     Larry Vining
+     Nancy Vining   m. [...] VanNess
+     Geoffrey Vining
+     Jacqueline Vining   m. [...] Abt
+     <a href="#ClarenceWJr01">Clarence Walker Vining Jr.</a>   m. 50 y. as of death of Susan Ellen (Logue) Vining   Cumberland, Allegany County, Maryland   Susan Ellen Logue
+  
+  <a href="Csources/ClarenceW01doc.htm">documentation and notes</a>

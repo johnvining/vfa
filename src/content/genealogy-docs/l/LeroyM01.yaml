@@ -1,0 +1,39 @@
+id: LeroyM01
+title: Leroy Myron Vining - Mabel Marie Grover
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Leroy Myron Vining
+          values:
+            - "30"
+            - "?"
+        - label: Mabel M. ([…]) Vining
+          values:
+            - "28"
+            - "?"
+        - label: Robert L. Vining
+          values:
+            - "10"
+            - "?"
+          indent: true
+        - label: James S. Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Missoula (precinct 12), Missoula County, Montana - dwelling 47, family 47
+        images:
+          - src: LeroyM01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Leroy Myron Vining, in Missoula Cemetery, Missoula, Missoula County, Montana (from Find A
+          Grave):
+        images:
+          - src: LeroyM01gravestone.jpg

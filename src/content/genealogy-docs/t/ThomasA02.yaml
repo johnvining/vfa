@@ -1,0 +1,91 @@
+id: ThomasA02
+title: Thomas A. Vining - (1) Amelia Tuller, (2) Jerusha Keys
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Thomas A. Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "60"
+            - "70"
+            - dead
+        - label: Amelia (Tuller) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Jerusha (Keys) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "47"
+            - "60"
+            - "?"
+        - label: Horace Case Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: George T. Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Ruth Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Charles Augustus Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Amelia E. Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Simsbury, Hartford County, Connecticut - dwelling 75, family 75
+        images:
+          - src: ThomasA02census1860.jpg
+      - year: "1870"
+        caption: Simsbury, Hartford County, Connecticut - dwelling 44, family 45
+        images:
+          - src: ThomasA02census1870.jpg

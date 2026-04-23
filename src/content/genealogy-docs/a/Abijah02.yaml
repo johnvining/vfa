@@ -1,0 +1,199 @@
+id: Abijah02
+title: Abijah Vining - Abbey Steele
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Abijah Vining
+          values:
+            - M 26–44
+            - M 30–39
+            - M 40–50
+            - "56"
+            - "68"
+            - dead
+            - ""
+        - label: Abbey (Steele) Vining
+          values:
+            - F 16–25
+            - F 30–39
+            - F 40–50
+            - "53"
+            - "64"
+            - "74"
+            - dead
+        - label: Louisa Vining
+          values:
+            - F under 10
+            - F 10–14
+            - "[see note below]"
+            - "32"
+            - "40"
+            - |-
+              30
+              [see note below]
+            - dead
+          indent: true
+        - label: Juliette Vining
+          values:
+            - F under 10
+            - F 10–14
+            - "[see note below]"
+            - "31"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Jefferson Vining
+          values:
+            - ""
+            - M 5–9
+            - M 15–20
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Ann Vining
+          values:
+            - ""
+            - F 5–9
+            - F 15–20
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Samuel B. Vining
+          values:
+            - ""
+            - M 5–9
+            - M 15–20
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Henrietta Vining
+          values:
+            - ""
+            - F [under 5 ?]
+            - F 10–15
+            - living in separate household
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - ""
+            - M 5–10
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Emmeline Vining
+          values:
+            - ""
+            - ""
+            - F 10–15
+            - "21"
+            - |-
+              31
+              [see note below]
+            - |-
+              44
+              [see note below]
+            - "?"
+          indent: true
+        - label: Emily Vining
+          values:
+            - ""
+            - ""
+            - |-
+              F 10–15
+              [see note below]
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Oliver Vining
+          values:
+            - ""
+            - ""
+            - M under 5
+            - "14"
+            - "22"
+            - "32"
+            - married and living in separate household
+          indent: true
+        - label: Martha Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "18"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: >-
+          Wayne, Steuben County, New York. The age of each member of this family in 1820 matches the expected age
+          category in the 1820 census report.
+      - year: "1830"
+        caption: Urbana, Steuben County, New York. To be determined is the age of one (or two?) female(s) under 5.
+      - year: "1840"
+        caption: >-
+          Genoa Township, Delaware County, Ohio. The reconstruction of this family from the 1840 census is likely
+          correct for the males members of the family if they were all at home and no non-family members were living in
+          the household. For Emily to have been 10–15 in 1840, she would have been 23–28 when she married (in 1853), a
+          not unreasonable age. That leaves Louisa or Juliette to be the second female 15–20, and the identity of the
+          female 5–10 is unknown.
+        images:
+          - src: Abijah02census1840a.jpg
+          - src: Abijah02census1840b.jpg
+      - year: "1850"
+        caption: >-
+          census district 21, Iroquois County, Illinois - dwelling 466. Also living in this household in 1850 was Oliver
+          Baker (1 y., b. Illinois).
+        images:
+          - src: Abijah02census1850.jpg
+      - year: "1860"
+        caption: >-
+          Limestone, Kankakee County, Illinois - dwelling 1852, family 1757. By 1860, Emmeline was married, and she and
+          her daughter, Mary A[lice?]. Baker (9 y., b. Illinois), were living in this household.
+        images:
+          - src: Abijah02census1860.jpg
+      - year: "1870"
+        caption: >-
+          Limestone, Kankakee County, Illinois - dwelling 144, family 144. Also living in this household in 1870 were
+          farm laborer Alfred Bussey (32 y., b. Prussia), Emeline Baker (44 y., b. New York, “insane”), [Mary?] Alice
+          Baker (18 y., b. Illinois), and Louisa Vining (30 [sic] y., b. New York, “insane”).
+        images:
+          - src: Abijah02census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Abijah Vining and Abbey (Steele) Vining, in Limestone Cemetery, Kankakee, Kankakee County,
+          Illinois (from Find A Grave):
+        images:
+          - src: Abijah02andwifeheadstone.jpg
+            height: 400
+      - caption: >-
+          Headstone for Louisa Vining and Martha Vining, daughters of Abijah Vining and Abbey (Steele) Vining, in
+          Limestone Cemetery, Kankakee, Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: Abijah02dausLouisaMarthaheadstone.jpg

@@ -1,0 +1,48 @@
+id: GeorgeW08
+letter: G
+sequence: 50
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George William
+  birth:
+    date: 29 October 1930
+  death:
+    date: 15 August 1996
+  burial:
+    place: "plot C, B, 38; Massachusetts National Cemetery   Bourne, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Sandra Irene
+      surname: Potter
+      birth:
+        date: 19 May 1940
+        place: "Jamaica Plain, Massachusetts"
+      death:
+        date: 26 December 2010
+        place: "Chatham, Massachusetts"
+      burial:
+        place: "Massachusetts National Cemetery   Bourne, Massachusetts"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Linda Vining
+        marriages:
+          - date: "[...] Kelley"
+docsUrl: Gsources/GeorgeW08doc.htm
+raw: |-
+  <a name="GeorgeW08"></a><font size=+2>George William Vining</font>
+     (son of [?])
+     b. 29 October 1930
+     m. Sandra Irene Potter
+              b. 19 May 1940   Jamaica Plain, Massachusetts
+              d. 26 December 2010   Chatham, Massachusetts
+                    bur. Massachusetts National Cemetery   Bourne, Massachusetts
+     d. 15 August 1996
+           bur. plot C, B, 38; Massachusetts National Cemetery   Bourne, Massachusetts
+  
+  <font size=+1>child:</font>
+     Linda Vining   m. [...] Kelley
+  
+  <a href="Gsources/GeorgeW08doc.htm">documentation and notes</a>

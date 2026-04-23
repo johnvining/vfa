@@ -1,0 +1,131 @@
+id: David03
+sequence: 24
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Ebed01
+parentLetter: E
+parentDesc: "Ebed Vining and Abigail &#8220;Nabby&#8221; Curtis"
+head:
+  givenName: David
+  birth:
+    date: 27 December 1797
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 11 September 1859
+  burial:
+    place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+marriages:
+  - number: 1
+    date: 8 November 1821
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Mary C.
+      surname: Curtis
+      parents: "(dau. of Abner Curtis and Lydia Bowker)"
+      birth:
+        date: "1795"
+      death:
+        date: 18 February 1826
+      burial:
+        place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+  - number: 2
+    date: 4 May 1828
+    spouse:
+      givenName: Martha
+      surname: Briggs
+      parents: "(dau. of Ezra Briggs and Lydia Southward)"
+      birth:
+        date: 22 December 1806
+        place: Massachusetts
+      death:
+        date: 2 June 1881
+      burial:
+        place: "Union Cemetery   Abington, Plymouth County, Massachusetts"
+childrenGroups:
+  - spouseRef: Mary C. Curtis
+    children:
+      - name: Mary S. Vining
+        birth:
+          date: 29 July 1822
+        marriages:
+          - date: 1 November 1846
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: "Charles Thomas Jr. (of Hanover, Plymouth County, Massachusetts)"
+      - name: David Vining Jr.
+        entryId: DavidJr03
+        birth:
+          date: 7 April 1824
+          place: Massachusetts
+        marriages:
+          - spouse: Cynthia A. Cobb
+  - spouseRef: Martha Briggs
+    children:
+      - name: Martha A. Vining
+        birth:
+          date: 23 February 1829
+          place: Massachusetts
+      - name: Israel L. Vining
+        entryId: IsraelL01
+        entryLetter: I
+        birth:
+          date: 8 October 1830
+          place: "Hanover, Plymouth County, Massachusetts"
+        marriages:
+          - date: 12 November 1851
+            spouse: Nancy J. Matthews
+        death:
+          date: 13 February 1897
+        burial:
+          place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+      - name: Hannah B. Vining
+        birth:
+          date: 5 September 1835
+      - name: "Charles [C. or E.?] Vining"
+        birth:
+          date: 7 December 1838
+          place: Massachusetts
+      - name: Asaph Davis Vining
+        entryId: AsaphD01
+        entryLetter: A
+        birth:
+          date: 1 August 1842
+          place: Massachusetts
+        marriages:
+          - date: 18 April 1869
+            spouse: Mary Anne Studley
+        death:
+          date: 26 July 1906
+        burial:
+          place: "Hanover Center Cemetery   Hanover, Plymouth County, Massachusetts"
+docsUrl: Dsources/David03doc.htm
+raw: |-
+  <a name="David03"></a><font size=+2>David Vining</font>
+     (son of <a href="Efamilies.htm#Ebed01">Ebed Vining and Abigail &#8220;Nabby&#8221; Curtis</a>)
+     b. 27 December 1797   Abington, Plymouth County, Massachusetts
+     m. (1) 8 November 1821   Abington, Plymouth County, Massachusetts
+                 Mary C. Curtis
+                       (dau. of Abner Curtis and Lydia Bowker)
+                       b. 1795
+                       d. 18 February 1826
+                             bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+           (2) 4 May 1828
+                 Martha Briggs
+                       (dau. of Ezra Briggs and Lydia Southward)
+                       b. 22 December 1806   Massachusetts
+                       d. 2 June 1881
+                             bur. Union Cemetery   Abington, Plymouth County, Massachusetts
+     d. 11 September 1859
+           bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+
+  <font size=+1>children by Mary C. Curtis:</font>
+     Mary S. Vining   b. 29 July 1822   -   m. 1 November 1846   Abington, Plymouth County, Massachusetts   Charles Thomas Jr. (of Hanover, Plymouth County, Massachusetts)
+     <a href="#DavidJr03">David Vining Jr.</a>   b. 7 April 1824   Massachusetts   -   m. Cynthia A. Cobb
+  <font size=+1>children by Martha Briggs:</font>
+     Martha A. Vining   b. 23 February 1829   Massachusetts
+     <a href="Ifamilies.htm#IsraelL01">Israel L. Vining</a>   b. 8 October 1830   Hanover, Plymouth County, Massachusetts   -   m. 12 November 1851   Nancy J. Matthews   -   d. 13 February 1897   -   bur. Union Cemetery   Hanover, Plymouth County, Massachusetts
+     Hannah B. Vining   b. 5 September 1835
+     Charles [C. or E.?] Vining   b. 7 December 1838   Massachusetts
+     <a href="Afamilies.htm#AsaphD01">Asaph Davis Vining</a>   b. 1 August 1842   Massachusetts   -   m. 18 April 1869   Mary Anne Studley   -   d. 26 July 1906   -   bur. Hanover Center Cemetery   Hanover, Plymouth County, Massachusetts
+
+  <a href="Dsources/David03doc.htm">documentation and notes</a>

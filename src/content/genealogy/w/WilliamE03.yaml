@@ -1,0 +1,116 @@
+id: WilliamE03
+sequence: 86
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: BenjaminF04
+parentLetter: B
+parentDesc: Benjamin Franklin Vining and Lucinda Catherine Pearson
+head:
+  givenName: William Eddington
+  birth:
+    date: 2 June 1874
+    place: "Rusk, Cherokee County, Texas"
+  death:
+    date: 14 July 1961
+    place: "Alto, Texas"
+  burial:
+    place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+marriages:
+  - date: 25 October 1896
+    place: "Rusk, Cherokee County, Texas"
+    spouse:
+      givenName: Laura Kieffer
+      surname: Tannery
+      parents: "(dau. of John Asbury Tannery and Harriet Matilda Addis)"
+      birth:
+        date: 19 February 1879
+        place: Texas
+      death:
+        date: 17 January 1975
+      burial:
+        place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+childrenGroups:
+  - children:
+      - name: Chester Calvin Vining
+        entryId: ChesterC01
+        entryLetter: C
+        birth:
+          date: 7 July 1897
+          place: "Alto, Texas"
+        marriages:
+          - date: 2 July 1916
+            spouse: Amanda Jane Middleton
+        death:
+          date: 24 June 1978
+          place: Texas
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: Blanche Bodicea Vining
+        birth:
+          date: 11 June 1899
+          place: "Alto, Texas"
+        marriages:
+          - date: 2 July 1917
+            spouse: William Garfield Wallace
+      - name: Joe Johnson Vining
+        entryId: JoeJ01
+        entryLetter: J
+        birth:
+          date: 8 August 1901
+        marriages:
+          - date: "(1?) [...] Andrews;"
+            spouse: "(2?) 17 August 1923   Gladys Pierce"
+        death:
+          date: 16 August 1990
+          place: "(last residence: Rusk, Cherokee County, Texas)"
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: Eldon Eddington Vining
+        birth:
+          date: 28 June 1903
+        death:
+          date: 12 February 1908
+          place: "Rusk, Cherokee County, Texas"
+        burial:
+          place: "Cedar Hill Cemetery   Rusk, Cherokee County, Texas"
+      - name: William Wade Vining
+        entryId: WilliamW04
+        birth:
+          date: 17 June 1907
+          place: "Alto, Texas"
+        marriages:
+          - date: 20 January 1929
+            place: "Alto, Texas"
+            spouse: Mabel Simmons
+        death:
+          date: 27 April 1998
+          place: "(last residence: Rusk, Cherokee County, Texas)"
+        burial:
+          place: "Alto City Cemetery   Alto, Texas"
+      - name: "[Lois?] Vining"
+        marriages:
+          - date: Alton B. Blanton
+docsUrl: Wsources/WilliamE03doc.htm
+raw: |-
+  <a name="WilliamE03"></a><font size=+2>William Eddington Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminF04">Benjamin Franklin Vining and Lucinda Catherine Pearson</a>)
+     b. 2 June 1874   Rusk, Cherokee County, Texas
+     m. 25 October 1896   Rusk, Cherokee County, Texas
+           Laura Kieffer Tannery
+                 (dau. of John Asbury Tannery and Harriet Matilda Addis)
+                 b. 19 February 1879   Texas
+                 d. 17 January 1975
+                       bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     d. 14 July 1961   Alto, Texas
+           bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ChesterC01">Chester Calvin Vining</a>   b. 7 July 1897   Alto, Texas   -   m. 2 July 1916   Amanda Jane Middleton   -   d. 24 June 1978   Texas   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     Blanche Bodicea Vining   b. 11 June 1899   Alto, Texas   -   m. 2 July 1917   William Garfield Wallace
+     <a href="Jfamilies.htm#JoeJ01">Joe Johnson Vining</a>   b. 8 August 1901   -   m. (1?) [...] Andrews;   (2?) 17 August 1923   Gladys Pierce   -   d. 16 August 1990   (last residence: Rusk, Cherokee County, Texas)   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     Eldon Eddington Vining   b. 28 June 1903   -   d. 12 February 1908   Rusk, Cherokee County, Texas   -   bur. Cedar Hill Cemetery   Rusk, Cherokee County, Texas
+     <a href="#WilliamW04">William Wade Vining</a>   b. 17 June 1907   Alto, Texas   -   m. 20 January 1929   Alto, Texas   Mabel Simmons   -   d. 27 April 1998   (last residence: Rusk, Cherokee County, Texas)   -   bur. Alto City Cemetery   Alto, Texas
+     [Lois?] Vining   m. Alton B. Blanton
+  
+  <a href="Wsources/WilliamE03doc.htm">documentation and notes</a>

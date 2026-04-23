@@ -1,0 +1,96 @@
+id: HerbertL01
+letter: H
+sequence: 908
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Richard03
+parentLetter: R
+parentDesc: Richard Vining and Emily Jane Winter
+head:
+  givenName: Herbert L.
+  birth:
+    date: May 1866
+    place: Iowa
+  death:
+    date: 26 August 1927
+    place: "Los Angeles, California"
+  burial:
+    place: "Evergreen Cemetery   Los Angeles, California"
+marriages:
+  - number: 1
+    date: "1890"
+    spouse:
+      givenName: Mary
+      surname: Anderson
+      birth:
+        date: 15 April 1872
+        place: Wisconsin
+      death:
+        date: 15 April 1910
+        place: "Los Angeles, California"
+      burial:
+        place: "Evergreen Cemetery   Los Angeles, California"
+  - number: 2
+    date: "Minnie E. [...]"
+    spouse:
+      birth:
+        date: 16 March 1886
+        place: Iowa
+      death:
+        date: "[5 or 15?] November 1966"
+        place: California
+childrenGroups:
+  - spouseRef: Mary Anderson
+    children:
+      - name: Leo Roy Vining
+        entryId: LeoR01
+        entryLetter: L
+        birth:
+          date: 11 July 1895
+          place: "Cheyenne, Wyoming"
+        marriages:
+          - date: 1 June 1915
+            place: "Los Angeles, California"
+            spouse: Adree Marian Day
+        death:
+          date: 16 June 1979
+          place: "Orange, California"
+        burial:
+          place: "Fairhaven Memorial Park   Santa Ana, California"
+      - name: Herbert Mathew Vining
+        entryId: HerbertM01
+        birth:
+          date: "20 December 1896"
+          place: "Cheyenne, Wyoming"
+        marriages:
+          - number: 1
+            date: Alice Louise Johnson
+          - number: 2
+            date: "1920"
+            spouse: "Esther [...]"
+        death:
+          date: 16 January 1973
+          place: "San Bernardino, California"
+        burial:
+          place: "Parker Community Cemetery   Parker, Arizona"
+docsUrl: Hsources/HerbertL01doc.htm
+raw: |-
+  <a name="HerbertL01"></a><font size=+2>Herbert L. Vining</font>
+     (son of <a href="Rfamilies.htm#Richard03">Richard Vining and Emily Jane Winter</a>)
+     b. May 1866   Iowa
+     m. (1) 1890
+              Mary Anderson
+                    b. 15 April 1872   Wisconsin
+                    d. 15 April 1910   Los Angeles, California
+                          bur. Evergreen Cemetery   Los Angeles, California
+           (2) Minnie E. [...]
+                    b. 16 March 1886   Iowa
+                    d. [5 or 15?] November 1966   California
+     d. 26 August 1927   Los Angeles, California
+           bur. Evergreen Cemetery   Los Angeles, California
+  
+  <font size=+1>children by Mary Anderson:</font>
+     <a href="Lfamilies.htm#LeoR01">Leo Roy Vining</a>   b. 11 July 1895   Cheyenne, Wyoming   -   m. 1 June 1915   Los Angeles, California   Adree Marian Day   -   d. 16 June 1979   Orange, California   -   bur. Fairhaven Memorial Park   Santa Ana, California
+     <a href="#HerbertM01">Herbert Mathew Vining</a>   b. 20 December 1896  Cheyenne, Wyoming   -   m. (1) Alice Louise Johnson;   (2) 1920   Esther [...]   -   d. 16 January 1973   San Bernardino, California   -   bur. Parker Community Cemetery   Parker, Arizona
+  
+  <a href="Hsources/HerbertL01doc.htm">documentation and notes</a>

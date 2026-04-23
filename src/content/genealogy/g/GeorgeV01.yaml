@@ -1,0 +1,57 @@
+id: GeorgeV01
+letter: G
+sequence: 42
+lastUpdated: 22 July 2022
+relationship: son
+parentId: JeffersonD01
+parentLetter: J
+parentDesc: Jefferson Davis Vining and Mamie Ratliff
+head:
+  givenName: George Vinson
+  birth:
+    date: 6 February 1914
+    place: Georgia
+  death:
+    date: 2 November 2005
+  burial:
+    place: "Mt. Zion Baptist Church Cemetery   Axson, Georgia"
+marriages:
+  - spouse:
+      givenName: Myrtice
+      surname: Rowe
+childrenGroups:
+  - children:
+      - name: Mamie Vining
+        birth:
+          date: 18 December 1945
+        marriages:
+          - date: Buddy Summerlin
+        death:
+          date: 19 October 2007
+        burial:
+          place: "Sunnyside Church Cemetery   Kirkland, Georgia"
+      - name: Gary Vining
+      - name: J. H. Vining
+      - name: Vince Vining
+      - name: "[Eloise or Delane?] Vining"
+        marriages:
+          - date: Larry Delk
+      - name: Linda Vining
+docsUrl: Gsources/GeorgeV01doc.htm
+raw: |-
+  <a name="GeorgeV01"></a><font size=+2>George Vinson Vining</font>
+     (son of <a href="Jfamilies.htm#JeffersonD01">Jefferson Davis Vining and Mamie Ratliff</a>)
+     b. 6 February 1914   Georgia
+     m. Myrtice Rowe
+     d. 2 November 2005
+           bur. Mt. Zion Baptist Church Cemetery   Axson, Georgia
+  
+  <font size=+1>children:</font>
+     Mamie Vining   b. 18 December 1945   -   m. Buddy Summerlin   -   d. 19 October 2007   -   bur. Sunnyside Church Cemetery   Kirkland, Georgia
+     Gary Vining
+     J. H. Vining
+     Vince Vining
+     [Eloise or Delane?] Vining   m. Larry Delk
+     Linda Vining
+  
+  <a href="Gsources/GeorgeV01doc.htm">documentation and notes</a>

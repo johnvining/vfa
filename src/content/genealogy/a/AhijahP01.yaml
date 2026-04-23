@@ -1,0 +1,65 @@
+id: AhijahP01
+letter: A
+sequence: 15
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Samuel04
+parentLetter: S
+parentDesc: Samuel Vining and Rhoda Pettibone
+head:
+  givenName: Ahijah Pettibone
+  birth:
+    date: "age 71 y., 6 m. at death"
+    place: Connecticut
+  death:
+    date: 12 December 1879
+    place: "Southwick, Hampden County, Massachusetts"
+  burial:
+    place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Betsey
+      surname: Webb
+      birth:
+        date: "age 70 y., 3 m. at death"
+        place: Connecticut
+      death:
+        date: 30 November 1879
+        place: "Southwick, Hampden County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Merwin Pettibone Vining
+        birth:
+          date: age 12 y. as of 1850 census
+          place: "Southwick, Hampden County, Massachusetts"
+        death:
+          date: 2 OCtober 1855
+          place: "Southwick, Hampden County, Massachusetts"
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+      - name: Harrison W. Vining
+        entryId: HarrisonW01
+        entryLetter: H
+        birth:
+          date: "age 28 y., 10 m. at death"
+          place: Massachusetts
+        death:
+          date: 23 May 1870
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+docsUrl: Asources/AhijahP01doc.htm
+raw: |-
+  <a name="AhijahP01"></a><font size="+2">Ahijah Pettibone Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel04">Samuel Vining and Rhoda Pettibone</a>)
+     b. age 71 y., 6 m. at death   Connecticut
+     m. Betsey Webb
+              b. age 70 y., 3 m. at death   Connecticut
+              d. 30 November 1879   Southwick, Hampden County, Massachusetts
+     d. 12 December 1879   Southwick, Hampden County, Massachusetts
+           bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Merwin Pettibone Vining   b. age 12 y. as of 1850 census   Southwick, Hampden County, Massachusetts   -   d. 2 OCtober 1855   Southwick, Hampden County, Massachusetts   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+     <a href="Hfamilies.htm#HarrisonW01">Harrison W. Vining</a>   b. age 28 y., 10 m. at death   Massachusetts   -   d. 23 May 1870   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+  
+  <a href="Asources/AhijahP01doc.htm">documentation and notes</a>

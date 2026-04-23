@@ -1,0 +1,60 @@
+id: LeonardJJr01
+sequence: 44
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LeonardJ01
+parentLetter: L
+parentDesc: Leonard John Vining and Louise Chatfield
+head:
+  givenName: Leonard John Jr.
+  birth:
+    date: 23 November 1928
+marriages:
+  - date: 3 June 1947
+    spouse:
+      givenName: Mariam Aletha
+      surname: Wiers
+      parents: "(dau. of Perry Wiers and Rosalia [...])"
+      birth:
+        date: 31 January 1928
+        place: "Sutton Hollow, New York"
+      death:
+        date: 12 April 2015
+childrenGroups:
+  - children:
+      - name: Louise A. Vining
+        birth:
+          date: 16 March 1949
+        marriages:
+          - number: 1
+            date: Robert Witt
+          - number: 2
+            date: Robert Keneally
+      - name: Lowell Vining
+        birth:
+          date: 15 January 1951
+        marriages:
+          - date: Jill Zieber
+      - name: Leonard John Vining III
+        birth:
+          date: 4 July 1953
+        marriages:
+          - date: Diane Hoover
+docsUrl: Lsources/LeonardJJr01doc.htm
+raw: |-
+  <a name="LeonardJJr01"></a><font size=+2>Leonard John Vining Jr.</font>
+     (son of <a href="Lfamilies.htm#LeonardJ01">Leonard John Vining and Louise Chatfield</a>)
+     b. 23 November 1928
+     m. 3 June 1947
+           Mariam Aletha Wiers
+                 (dau. of Perry Wiers and Rosalia [...])
+                 b. 31 January 1928   Sutton Hollow, New York
+                 d. 12 April 2015
+  
+  <font size=+1>children:</font>
+     Louise A. Vining   b. 16 March 1949   -   m. (1) Robert Witt;   (2) Robert Keneally
+     Lowell Vining   b. 15 January 1951   -   m. Jill Zieber
+     Leonard John Vining III   b. 4 July 1953   -   m. Diane Hoover
+  
+  <a href="Lsources/LeonardJJr01doc.htm">documentation and notes</a>

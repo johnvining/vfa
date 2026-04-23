@@ -1,0 +1,126 @@
+id: Howard01
+title: Howard Vining - Minnie Mae Nelson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Howard Vining
+          values:
+            - ""
+            - "29"
+            - "39"
+            - "49"
+        - label: Minnie Mae (Nelson) Vining
+          values:
+            - ""
+            - "25"
+            - "35"
+            - "45"
+        - label: Helen Blanch Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: "[unnamed son] Vining"
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Marie Bessie Vining
+          values:
+            - ""
+            - 3 y., 9 m.
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Frances Florence Vining
+          values:
+            - ""
+            - 1 y., [3?] m.
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Darrell Leo Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Bernice Ruby Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: Kenneth Howard Vining
+          values:
+            - ""
+            - ""
+            - 4 y., 1 m.
+            - "14"
+          indent: true
+        - label: Betty Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+          indent: true
+        - label: Phyllis Ruth Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+          indent: true
+        - label: Eldon Lowell Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "4"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Pomeroy, Meigs County, Ohio - dwelling 168, family 175
+        images:
+          - src: Howard01census1920.jpg
+      - year: "1930"
+        caption: Salisbury, Meigs County, Ohio - dwelling 173, family 182
+        images:
+          - src: Howard01census1930.jpg
+      - year: "1940"
+        caption: Salisbury, Meigs County, Ohio
+        images:
+          - src: Howard01census1940.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Howard Vining, in Bradford Cemetery, Bradbury, Meigs County, Ohio (from Find A Grave):"
+        images:
+          - src: Howard01gravestone.jpg
+      - caption: >-
+          Gravestone for Minnie Mae (Nelson) Vining, in Rock Springs Cemetery, Rock Springs, Meigs County, Ohio (from
+          Find A Grave):
+        images:
+          - src: Howard01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Kenneth Howard Vining, son of Howard Vining and Minnie Mae (Nelson) Vining, in Rock Springs
+          Cemetery, Rock Springs, Meigs County, Ohio (from Find A Grave):
+        images:
+          - src: Howard01sonKennethgravestone.jpg
+      - caption: >-
+          Gravestone for Phyllis Ruth Vining, daughter of Howard Vining and Minnie Mae (Nelson) Vining, in Rock Springs
+          Cemetery, Rock Springs, Meigs County, Ohio (from Find A Grave):
+        images:
+          - src: Howard01dauPhyllisgravestone.jpg

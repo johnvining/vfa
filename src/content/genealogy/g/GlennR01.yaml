@@ -1,0 +1,63 @@
+id: GlennR01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: JosephE03
+parentLetter: J
+parentDesc: Joseph Easton Vining and Alwilda Russell
+head:
+  givenName: Glenn Russell
+  birth:
+    date: 11 February 1898
+    place: Michigan
+marriages:
+  - number: 1
+    date: Lucille Eagle
+    spouse:
+      birth:
+        date: "1898"
+        place: Michigan
+      death:
+        date: "1927"
+  - number: 2
+    date: Gertrude M. Sampson
+    spouse:
+      birth:
+        date: age 33 y. as of 1930 census
+        place: Canada
+childrenGroups:
+  - headingText: "child by Lucille Eagle"
+    children:
+      - name: Phyllis Elaine Vining
+        birth:
+          date: 10 April 1922
+          place: Michigan
+        marriages:
+          - date: "1945"
+            spouse: Edmund Cichoracki
+  - headingText: "child by Gertrude M. Sampson"
+    children:
+      - name: Barbara Anne Vining
+        birth:
+          date: 14 September 1929
+          place: Michigan
+        marriages:
+          - date: 24 September 1955
+            spouse: Wayne Proctor
+docsUrl: Gsources/GlennR01doc.htm
+raw: |-
+  <a name="GlennR01"></a><font size=+2>Glenn Russell Vining</font>
+     (son of <a href="Jfamilies.htm#JosephE03">Joseph Easton Vining and Alwilda Russell</a>)
+     b. 11 February 1898   Michigan
+     m. (1) Lucille Eagle
+                    b. 1898   Michigan
+                    d. 1927
+           (2) Gertrude M. Sampson
+                    b. age 33 y. as of 1930 census   Canada
+  
+  <font size=+1>child by Lucille Eagle:</font>
+     Phyllis Elaine Vining   b. 10 April 1922   Michigan   -   m. 1945   Edmund Cichoracki
+  <font size=+1>child by Gertrude M. Sampson:</font>
+     Barbara Anne Vining   b. 14 September 1929   Michigan   -   m. 24 September 1955   Wayne Proctor
+  
+  <a href="Gsources/GlennR01doc.htm">documentation and notes</a>

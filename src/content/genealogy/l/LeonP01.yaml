@@ -1,0 +1,70 @@
+id: LeonP01
+sequence: 40
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Leon Percy
+marriages:
+  - number: 1
+    date: Hattie Hayes
+  - number: 2
+    date: Ida Lewis
+childrenGroups:
+  - headingText: "child by Hattie Hayes"
+    children:
+      - name: Leola Vining
+        birth:
+          date: age 76 y. at death
+        marriages:
+          - date: James Frank
+        death:
+          date: 24 March 2003
+          place: "New Orleans, Louisiana"
+        burial:
+          place: Providence Park
+  - spouseRef: "[?]"
+    children:
+      - name: Leon Percy Vining Jr.
+      - name: Eddie Lee Vining
+      - name: Mary Lee Vining
+      - name: Rosie Vining
+        marriages:
+          - date: "[&#8230;] Duplessis"
+      - name: Johnny Vining
+      - name: Joseph Vining
+  - headingText: "child by Ida Lewis"
+    children:
+      - name: Isaiah Vining
+        entryId: Isaiah01
+        entryLetter: I
+        birth:
+          date: 5 April 1936
+        marriages:
+          - number: 1
+            date: 11 June 1955
+            place: "Orleans Parish, Louisiana"
+            spouse: Melba Fae Esteen
+          - number: 2
+            date: "Rachel [&#8230;]"
+docsUrl: Lsources/LeonP01doc.htm
+raw: |-
+  <a name="LeonP01"></a><font size=+2>Leon Percy Vining</font>
+     (son of [?])
+     m. (1) Hattie Hayes
+           (2) Ida Lewis
+  
+  <font size=+1>child by Hattie Hayes:</font>
+     Leola Vining   b. age 76 y. at death   -   m. James Frank   -   d. 24 March 2003   New Orleans, Louisiana   -   bur. Providence Park
+  <font size=+1>children by [?]:</font>
+     Leon Percy Vining Jr.
+     Eddie Lee Vining
+     Mary Lee Vining
+     Rosie Vining   m. [&#8230;] Duplessis
+     Johnny Vining
+     Joseph Vining
+  <font size=+1>child by Ida Lewis:</font>
+     <a href="Ifamilies.htm#Isaiah01">Isaiah Vining</a>   b. 5 April 1936   -   m. (1) 11 June 1955   Orleans Parish, Louisiana   Melba Fae Esteen;   (2) Rachel [&#8230;]
+  
+  <a href="Lsources/LeonP01doc.htm">documentation and notes</a>

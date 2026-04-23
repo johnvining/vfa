@@ -1,0 +1,36 @@
+id: MauriceN01
+title: Maurice Nathaniel Vining - Dorothea Helen Pratt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Maurice Nathaniel Vining
+          values:
+            - "34"
+        - label: Dorothea Helen (Pratt) Vining
+          values:
+            - "31"
+        - label: Virginia Vining
+          values:
+            - "5"
+          indent: true
+        - label: Anne Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          Seattle, King County, Washington. Also living in this household in 1940 were Daniel F. Pratt (56 y., b.
+          [North?] Dakota, widowed father of Dorothea Helen) and Warren Johnson (18 y., b. Washington, servant).
+        images:
+          - src: MauriceN01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Maurice Nathaniel Vining and Dorothea Helen (Pratt) Vining, in Saint Barnabas Episcopal Church
+          Cemetery, Bainbridge, Kitsap County, Washington (from Find A Grave):
+        images:
+          - src: MauriceN01andwifeheadstone.jpg

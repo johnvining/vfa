@@ -1,0 +1,49 @@
+id: JaredW02
+title: Jared Whitman Vining - Beatrice E. Baker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jared Whitman Vining
+          values:
+            - "38"
+            - "48"
+            - "58"
+        - label: Beatrice E. ([...]) Vining
+          values:
+            - "34"
+            - "44"
+            - "54"
+        - label: Virginia W. Vining
+          values:
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Brockton (ward 3), Plymouth County, Massachusetts - dwelling 149, family 226
+        images:
+          - src: JaredW02census1920a.jpg
+          - src: JaredW02census1920b.jpg
+      - year: "1930"
+        caption: Brockton (ward 3), Plymouth County, Massachusetts - dwelling 268, family 345
+        images:
+          - src: JaredW02census1930.jpg
+      - year: "1940"
+        caption: >-
+          Brockton (ward 3), Plymouth County, Massachusetts. Also living in this household in 1940 was Minnie Baker (78
+          y., b. Massachusetts), likely the widowed mother of Beatrice E. (Baker) Vining.
+        images:
+          - src: JaredW02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Jared Whitman Vining and Beatrice E. (Baker) Vining, in Orleans Cemetery, East Orleans,
+          Barnstable County, Massachusetts (from Find A Grave):
+        images:
+          - src: JaredW02andwifeheadstone.jpg

@@ -1,0 +1,40 @@
+id: WalterG01
+sequence: 12
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RichardB02
+parentLetter: R
+parentDesc: Richard Bruce Vining and Lucille M. Quirico
+head:
+  givenName: Walter Gene
+  birth:
+    date: 5 September 1935
+    place: "Alamosa, Colorado"
+  death:
+    date: 26 December 2019
+marriages:
+  - spouse:
+      givenName: Peggy
+      surname: Yarberry
+childrenGroups:
+  - children:
+      - name: Steve Vining
+        marriages:
+          - date: "Cindy [&#8230;]"
+      - name: Janet Vining
+        marriages:
+          - date: "[&#8230;] Shull"
+docsUrl: Wsources/WalterG01doc.htm
+raw: |-
+  <a name="WalterG01"></a><font size=+2>Walter Gene Vining</font>
+     (son of <a href="Rfamilies.htm#RichardB02">Richard Bruce Vining and Lucille M. Quirico</a>)
+     b. 5 September 1935   Alamosa, Colorado
+     m. Peggy Yarberry
+     d. 26 December 2019
+  
+  <font size=+1>children:</font>
+     Steve Vining   m. Cindy [&#8230;]
+     Janet Vining   m. [&#8230;] Shull
+  
+  <a href="Wsources/WalterG01doc.htm">documentation and notes</a>

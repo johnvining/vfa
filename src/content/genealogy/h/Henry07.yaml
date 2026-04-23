@@ -1,0 +1,83 @@
+id: Henry07
+letter: H
+sequence: 701
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry
+  birth:
+    date: 19 January 1788
+    place: "Wilmington, New Castle County, Delaware"
+  death:
+    date: 28 July 1831
+    place: "Wilmington, New Castle County, Delaware"
+  burial:
+    place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+marriages:
+  - spouse:
+      givenName: Rebecca
+      surname: Lyle
+      parents: "(dau. of James Lyle and [Eleanor or Ellen?] [&#8230;])"
+      birth:
+        date: "17[8 or 9?]2"
+        place: Pennsylvania
+      death:
+        date: 10 August 1866
+        place: "Wilmington, New Castle County, Delaware"
+      burial:
+        place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+childrenGroups:
+  - children:
+      - name: William H. Vining
+        birth:
+          date: 5 March 1811
+          place: "Wilmington, Delaware"
+        death:
+          date: 27 November 1851
+          place: Chile
+        burial:
+          place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+      - name: James Lyle Vining
+        entryId: JamesL04
+        entryLetter: J
+        birth:
+          date: "1813"
+          place: Delaware
+        marriages:
+          - date: Margaret Robinson
+        death:
+          date: "1853"
+          place: California
+        burial:
+          place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+      - name: John Beckley Vining
+        entryId: JohnB08
+        entryLetter: J
+        birth:
+          date: 2 April 1815
+          place: "New Castle, New Castle County, Delaware"
+        marriages:
+          - date: Sarah M. Bradford
+        death:
+          date: 22 January 1892
+          place: "New Castle, New Castle County, Delaware"
+docsUrl: Hsources/Henry07doc.htm
+raw: |-
+  <a name="Henry07"></a><font size=+2>Henry Vining</font>
+     (son of [?])
+     b. 19 January 1788   Wilmington, New Castle County, Delaware
+     m. Rebecca Lyle
+              (dau. of James Lyle and [Eleanor or Ellen?] [&#8230;])
+              b. 17[8 or 9?]2   Pennsylvania
+              d. 10 August 1866   Wilmington, New Castle County, Delaware
+                    bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+     d. 28 July 1831   Wilmington, New Castle County, Delaware
+           bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+  
+  <font size=+1>children:</font>
+     William H. Vining   b. 5 March 1811   Wilmington, Delaware   -   d. 27 November 1851   Chile   -   bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+     <a href="Jfamilies.htm#JamesL04">James Lyle Vining</a>   b. 1813   Delaware   -   m. Margaret Robinson   -   d. 1853   California   -   bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+     <a href="Jfamilies.htm#JohnB08">John Beckley Vining</a>   b. 2 April 1815   New Castle, New Castle County, Delaware   -   m. Sarah M. Bradford   -   d. 22 January 1892   New Castle, New Castle County, Delaware
+  
+  <a href="Hsources/Henry07doc.htm">documentation and notes</a>

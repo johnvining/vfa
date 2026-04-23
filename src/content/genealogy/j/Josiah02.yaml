@@ -1,0 +1,81 @@
+id: Josiah02
+sequence: 325
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Benjamin02
+parentLetter: B
+parentDesc: Benjamin Vining and Lydia Turner
+head:
+  givenName: Josiah
+  birth:
+    date: age 66 y. as of 1850 census
+    place: Maine
+marriages:
+  - spouse:
+      givenName: Esther
+      surname: Clough
+      birth:
+        date: age 63 y. as of 1850 census
+        place: Maine
+childrenGroups:
+  - children:
+      - name: Israel Vining
+      - name: Jeremiah Vining
+      - name: Sarah C. Vining
+      - name: Louisa Vining
+        birth:
+          date: age 37 y. as of 1850 census
+          place: Maine
+      - name: Jacob Herrick Vining
+        entryId: JacobH01
+        birth:
+          date: 20 November 1815
+          place: "West Gardiner, Maine"
+        marriages:
+          - number: 1
+            date: "Catherine [...]"
+          - number: 2
+            date: Lucy W. Dillingham
+        death:
+          date: September 1893
+          place: "Richmond, Indiana"
+        burial:
+          place: "Earlham Cemetery   Richmond, Indiana"
+      - name: Abigail C. Vining
+        birth:
+          date: age 32 y. as of 1850 census
+          place: Maine
+      - name: Esther Vining Jr.
+        birth:
+          date: age 30 y. as of 1850 census
+          place: Maine
+      - name: Josiah Vining Jr.
+      - name: Ruth Curtis Vining
+      - name: John Warren Vining
+      - name: William Francis Vining
+        birth:
+          date: age 19 y. as of 1850
+          place: Maine
+docsUrl: Jsources/Josiah02doc.htm
+raw: |-
+  <a name="Josiah02"></a><font size=+2>Josiah Vining</font>
+     (son of <a href="Bfamilies.htm#Benjamin02">Benjamin Vining and Lydia Turner</a>)
+     b. age 66 y. as of 1850 census   Maine
+     m. Esther Clough
+              b. age 63 y. as of 1850 census   Maine
+  
+  <font size=+1>children:</font>
+     Israel Vining
+     Jeremiah Vining
+     Sarah C. Vining
+     Louisa Vining   b. age 37 y. as of 1850 census   Maine
+     <a href="#JacobH01">Jacob Herrick Vining</a>   b. 20 November 1815   West Gardiner, Maine   -   m. (1) Catherine [...];   (2) Lucy W. Dillingham   -   d. September 1893   Richmond, Indiana   -   bur. Earlham Cemetery   Richmond, Indiana
+     Abigail C. Vining   b. age 32 y. as of 1850 census   Maine
+     Esther Vining Jr.   b. age 30 y. as of 1850 census   Maine
+     Josiah Vining Jr.
+     Ruth Curtis Vining
+     John Warren Vining
+     William Francis Vining   b. age 19 y. as of 1850   Maine
+  
+  <a href="Jsources/Josiah02doc.htm">documentation and notes</a>

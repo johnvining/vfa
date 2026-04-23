@@ -1,0 +1,28 @@
+id: Steven02
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Larry01
+parentLetter: L
+parentDesc: "Larry Vining and Geeno [...]"
+head:
+  givenName: Steven
+marriages:
+  - spouse:
+      givenName: Annie
+      surname: Duffin
+      parents: "(dau. of Babo Duffin and Becky [...])"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: John Paul Vining
+        birth:
+          date: 31 January 2007
+raw: |-
+  <a name="Steven02"></a><font size=+2>Steven Vining</font>
+     (son of <a href="Lfamilies.htm#Larry01">Larry Vining and Geeno [...]</a>)
+     m. Annie Duffin
+              (dau. of Babo Duffin and Becky [...])
+  
+  <font size=+1>child:</font>
+     John Paul Vining   b. 31 January 2007

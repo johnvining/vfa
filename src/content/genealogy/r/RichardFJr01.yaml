@@ -1,0 +1,39 @@
+id: RichardFJr01
+sequence: 56
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RichardF01
+parentDesc: Richard Franklin Vining and Gwendolyn Markley
+head:
+  givenName: Richard Franklin Jr.
+  birth:
+    date: 17 August 1959
+    place: "Los Angeles, California"
+  death:
+    date: 9 May 2008
+    place: "Fredericksburg, Virginia"
+  burial:
+    place: "Rose Hill Cemetery   Clear Spring, Maryland"
+marriages:
+  - spouse:
+      givenName: Cynthia Yvonne
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Stephanie Vining
+      - name: Skylar Vining
+docsUrl: Rsources/RichardFJr01doc.htm
+raw: |-
+  <a name="RichardFJr01"></a><font size=+2>Richard Franklin Vining Jr.</font>
+     (son of <a href="#RichardF01">Richard Franklin Vining and Gwendolyn Markley</a>)
+     b. 17 August 1959   Los Angeles, California
+     m. Cynthia Yvonne [...]
+     d. 9 May 2008   Fredericksburg, Virginia
+           bur. Rose Hill Cemetery   Clear Spring, Maryland
+  
+  <font size=+1>children:</font>
+     Stephanie Vining
+     Skylar Vining
+  
+  <a href="Rsources/RichardFJr01doc.htm">documentation and notes</a>

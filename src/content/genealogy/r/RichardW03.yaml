@@ -1,0 +1,53 @@
+id: RichardW03
+sequence: 71
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WilliamE06
+parentLetter: W
+parentDesc: William Edgar Vining and Charlotte Smith
+head:
+  givenName: Richard Worthington
+  birth:
+    date: 6 July 1910
+    place: "Cleveland, Ohio"
+  death:
+    date: 15 june 1990
+    place: "New Haven, New Haven County, Connecticut"
+marriages:
+  - spouse:
+      givenName: Dorothy
+      surname: Higgins
+      parents: "(dau. of Claude B. Higgins and Mary Emma Seabolt)"
+      birth:
+        date: 4 June 1923
+        place: "Atlanta, Fulton County, Georgia"
+      death:
+        date: 28 September 1997
+        place: Connecticut
+childrenGroups:
+  - children:
+      - name: Richard Worthington Vining Jr.
+        entryId: RichardWJr01
+        birth:
+          date: 28 August 1949
+          place: "Bridgeport, Fairfield County, Connecticut"
+        marriages:
+          - date: Patty Curtiss
+        death:
+          date: 27 May 2012
+          place: "Oxford, Connecticut"
+      - name: George Vining
+raw: |-
+  <a name="RichardW03"></a><font size=+2>Richard Worthington Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamE06">William Edgar Vining and Charlotte Smith</a>)
+     b. 6 July 1910   Cleveland, Ohio
+     m. Dorothy Higgins
+              (dau. of Claude B. Higgins and Mary Emma Seabolt)
+              b. 4 June 1923   Atlanta, Fulton County, Georgia
+              d. 28 September 1997   Connecticut
+     d. 15 june 1990   New Haven, New Haven County, Connecticut
+  
+  <font size=+1>children:</font>
+     <a href="#RichardWJr01">Richard Worthington Vining Jr.</a>   b. 28 August 1949   Bridgeport, Fairfield County, Connecticut   -   m. Patty Curtiss   -   d. 27 May 2012   Oxford, Connecticut
+     George Vining

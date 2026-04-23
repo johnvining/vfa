@@ -1,0 +1,68 @@
+id: ThomasCJr01
+letter: T
+sequence: 25
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasC02
+parentDesc: Thomas Cleburne Vining and Doretha Runnells
+head:
+  givenName: Thomas Cleburne Jr.
+  birth:
+    date: 7 February 1939
+    place: Arkansas
+  death:
+    date: 13 January 2018
+    place: "Russellville, Arkansas"
+  burial:
+    place: "McFadden Cemetery   Dover, Arkansas"
+marriages:
+  - date: 56 y. as of 2018
+    spouse:
+      givenName: Nancy
+      surname: Williams
+childrenGroups:
+  - children:
+      - name: Thomas Jeffery Vining
+        entryId: ThomasJ04
+        birth:
+          date: 8 March 1963
+        marriages:
+          - date: "1995"
+            spouse: "Nancy Winslow,   divorced 2015"
+      - name: Angela Vining
+        birth:
+          date: 31 August 1967
+        marriages:
+          - number: 1
+            date: November 1991
+            spouse: Kenny Beckie;   divorced ca. 2009
+          - number: 2
+            spouse: Helmut Stepp
+      - name: John Wesley Vining
+        entryId: JohnW07
+        entryLetter: J
+        birth:
+          date: 29 December 1970
+        marriages:
+          - number: 1
+            date: 14 December 1991
+            spouse: "Jennifer Monique Eubanks,   divorced 25 September 2014"
+          - number: 2
+            date: 18 May 2017
+            spouse: Ratna Surjadi
+docsUrl: Tsources/ThomasCJr01doc.htm
+raw: |-
+  <a name="ThomasCJr01"></a><font size=+2>Thomas Cleburne Vining Jr.</font>
+     (son of <a href="#ThomasC02">Thomas Cleburne Vining and Doretha Runnells</a>)
+     b. 7 February 1939   Arkansas
+     m. 56 y. as of 2018
+           Nancy Williams
+     d. 13 January 2018   Russellville, Arkansas
+           bur. McFadden Cemetery   Dover, Arkansas
+  
+  <font size=+1>children:</font>
+     <a href="#ThomasJ04">Thomas Jeffery Vining</a>   b. 8 March 1963   -   m. 1995   Nancy Winslow,   divorced 2015
+     Angela Vining   b. 31 August 1967   -   m. (1) November 1991   Kenny Beckie;   divorced ca. 2009;   (2)Helmut Stepp
+     <a href="Jfamilies.htm#JohnW07">John Wesley Vining</a>   b. 29 December 1970   -   m. (1) 14 December 1991   Jennifer Monique Eubanks,   divorced 25 September 2014;   (2) 18 May 2017   Ratna Surjadi
+  
+  <a href="Tsources/ThomasCJr01doc.htm">documentation and notes</a>

@@ -1,0 +1,79 @@
+id: JohnA03
+sequence: 197
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamH10
+parentLetter: W
+parentDesc: William Henry Vining and Mary Hartman
+head:
+  givenName: John A.
+  birth:
+    date: 10 January 1810
+    place: "Patterson, Saint Mary Parish, Louisiana"
+  death:
+    date: 17 November 1865
+    place: "Patterson, Saint Mary Parish, Louisiana"
+marriages:
+  - date: "[8 or 16?] January 1840"
+    place: "Patterson, Louisiana"
+    spouse:
+      givenName: Adele Margaret
+      surname: Comeaux
+      parents: "(dau. of Alexandre Alexis Simon Comeau[x?] and Marguerite Anne Blanchard)"
+      birth:
+        date: 2 April 1812
+        place: "Patterson, Saint Mary Parish, Louisiana"
+      death:
+        date: "1849"
+        place: "Patterson, Saint Mary Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: Mary Leonide Vining
+        birth:
+          date: 12 February 1841
+          place: "Patterson, Saint Mary Parish, Louisiana"
+        death:
+          date: 13 February 1919
+          place: "Patterson, Saint Mary Parish, Louisiana"
+      - name: Guillaume Ernest Vining
+        birth:
+          date: 23 May 1842
+          place: "Assumption Parish, Louisiana"
+      - name: Margaret Ernestine Vining
+        birth:
+          date: 6 July 1844
+          place: "Patterson, Saint Mary Parish, Louisiana"
+        marriages:
+          - date: Andrew Jackson Brown
+        death:
+          date: 4 March 1926
+          place: "Mulat, Santa Rosa County, Florida"
+      - name: Alexandre Theodore Seth Vining
+        birth:
+          date: 20 April 1846
+          place: "Iberi Parish, Louisiana"
+      - name: Jean Antoine Vining
+        birth:
+          date: 20 March 1848
+          place: "Saint Mary Parish, Louisiana"
+        death:
+          date: 12 January 1934
+          place: "Saint Mary Parish, Louisiana"
+raw: |-
+  <a name="JohnA03"></a><font size=+2>John A. Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamH10">William Henry Vining and Mary Hartman</a>)
+     b. 10 January 1810   Patterson, Saint Mary Parish, Louisiana
+     m. [8 or 16?] January 1840   Patterson, Louisiana
+              Adele Margaret Comeaux
+                    (dau. of Alexandre Alexis Simon Comeau[x?] and Marguerite Anne Blanchard)
+                    b. 2 April 1812   Patterson, Saint Mary Parish, Louisiana
+                    d. 1849   Patterson, Saint Mary Parish, Louisiana
+     d. 17 November 1865   Patterson, Saint Mary Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Mary Leonide Vining   b. 12 February 1841   Patterson, Saint Mary Parish, Louisiana   -   d. 13 February 1919   Patterson, Saint Mary Parish, Louisiana
+     Guillaume Ernest Vining   b. 23 May 1842   Assumption Parish, Louisiana
+     Margaret Ernestine Vining   b. 6 July 1844   Patterson, Saint Mary Parish, Louisiana   -   m. Andrew Jackson Brown   -   d. 4 March 1926   Mulat, Santa Rosa County, Florida
+     Alexandre Theodore Seth Vining   b. 20 April 1846   Iberi Parish, Louisiana
+     Jean Antoine Vining   b. 20 March 1848   Saint Mary Parish, Louisiana   -   d. 12 January 1934   Saint Mary Parish, Louisiana

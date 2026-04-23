@@ -1,0 +1,82 @@
+id: ClydeL01
+letter: C
+sequence: 150
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnF01
+parentLetter: J
+parentDesc: John Franklin Vining and Clara Belle Hershberger
+head:
+  givenName: Clyde Leo
+  birth:
+    date: 27 September 1903
+    place: "Etna Green, Indiana"
+  death:
+    date: 8 December 1973
+    place: "(last residence: Quincy, Washington)"
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
+marriages:
+  - spouse:
+      givenName: Evelyn Clara
+      surname: Truex
+      birth:
+        date: "1911"
+      death:
+        date: "1994"
+      burial:
+        place: "Etna Green Cemetery   Etna Greene, Indiana"
+childrenGroups:
+  - children:
+      - name: Clarabelle Mae Vining
+        birth:
+          date: 20 July 1929
+        marriages:
+          - number: 1
+            date: Robert Alwine
+          - number: 2
+            date: "[&#8230;] Page"
+      - name: David Allen Vining
+        entryId: DavidA01
+        entryLetter: D
+        birth:
+          date: 27 August 1931
+          place: "Etna Green, Indiana"
+        marriages:
+          - number: 1
+            date: Beverly Hanson
+          - number: 2
+            date: "Betty [&#8230;]"
+        death:
+          date: 15 August 2017
+          place: "Wenatchee, Washington"
+      - name: Craig Leo Vining
+        entryId: CraigL01
+        birth:
+          date: 22 July 1933
+          place: "Etna Green, Indiana"
+        marriages:
+          - date: Phyllis A. Struble
+        death:
+          date: 1 November 1993
+          place: "Lehigh Acres, Florida"
+        burial:
+          place: "Fort Myers Memorial Gardens   Fort Myers, Florida"
+docsUrl: Csources/ClydeL01doc.htm
+raw: |-
+  <a name="ClydeL01"></a><font size=+2>Clyde Leo Vining</font>
+     (son of <a href="Jfamilies.htm#JohnF01">John Franklin Vining and Clara Belle Hershberger</a>)
+     b. 27 September 1903   Etna Green, Indiana
+     m. Evelyn Clara Truex
+              b. 1911
+              d. 1994
+                    bur. Etna Green Cemetery   Etna Greene, Indiana
+     d. 8 December 1973   (last residence: Quincy, Washington)
+           bur. Etna Green Cemetery   Etna Green, Indiana
+  
+  <font size=+1>children:</font>
+     Clarabelle Mae Vining   b. 20 July 1929   -   m. (1) Robert Alwine;   (2) [&#8230;] Page
+     <a href="Dfamilies.htm#DavidA01">David Allen Vining</a>   b. 27 August 1931   Etna Green, Indiana   -   m. (1) Beverly Hanson;   (2) Betty [&#8230;]   -   d. 15 August 2017   Wenatchee, Washington
+     <a href="#CraigL01">Craig Leo Vining</a>   b. 22 July 1933   Etna Green, Indiana   -   m. Phyllis A. Struble   -   d. 1 November 1993   Lehigh Acres, Florida   -   bur. Fort Myers Memorial Gardens   Fort Myers, Florida
+  
+  <a href="Csources/ClydeL01doc.htm">documentation and notes</a>

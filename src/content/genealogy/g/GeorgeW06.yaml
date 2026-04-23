@@ -1,0 +1,52 @@
+id: GeorgeW06
+letter: G
+sequence: 46
+lastUpdated: 22 July 2022
+relationship: son
+parentId: RandallL01
+parentLetter: R
+parentDesc: "Randall Lee Vining and [Della or Delia?] Stewart"
+head:
+  givenName: George Washington
+  birth:
+    date: 22 February 1916
+    place: Louisiana
+  death:
+    date: 3 September 1984
+    place: "(last residence: Sondheimer, Louisiana)"
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Melba
+      surname: Whatley
+      parents: "(dau. of Enoch J. Whatley and Clara Loread LaCroix)"
+childrenGroups:
+  - children:
+      - name: daughter
+      - name: son +
+        marriages:
+          - date: "[...] Jones"
+      - name: son +
+        marriages:
+          - date: "[...] Smith"
+      - name: son +
+        marriages:
+          - date: "[...] Betram"
+docsUrl: Gsources/GeorgeW06doc.htm
+raw: |-
+  <a name="GeorgeW06"></a><font size=+2>George Washington Vining</font>
+     (son of <a href="Rfamilies.htm#RandallL01">Randall Lee Vining and [Della or Delia?] Stewart</a>)
+     b. 22 February 1916   Louisiana
+     m. Melba Whatley
+              (dau. of Enoch J. Whatley and Clara Loread LaCroix)
+     d. 3 September 1984   (last residence: Sondheimer, Louisiana)
+           bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     daughter
+     son +    m. [...] Jones
+     son +    m. [...] Smith
+     son +    m. [...] Betram
+  
+  <a href="Gsources/GeorgeW06doc.htm">documentation and notes</a>

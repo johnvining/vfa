@@ -1,0 +1,72 @@
+id: JeffL01
+sequence: 120
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JonathanH01
+parentDesc: "Jonathan H. &#8220;John&#8221l; Vining and Elizabeth Stratford"
+head:
+  givenName: Jeff Lee
+  birth:
+    date: October 1863
+    place: Texas
+  death:
+    date: "1945"
+  burial:
+    place: "Austin Memorial Park Cemetery   Austin, Texas"
+marriages:
+  - spouse:
+      givenName: Bettie
+      surname: Rees
+      birth:
+        date: Mary 1877
+        place: Texas
+      death:
+        date: "1941"
+      burial:
+        place: "Austin Memorial Park Cemetery   Austin, Texas"
+childrenGroups:
+  - children:
+      - name: child
+        death:
+          date: before 1900 census
+      - name: Harma C. Vining
+        birth:
+          date: age 9 y. as of 1910 census
+          place: Texas
+      - name: Bessie Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Texas
+      - name: Lucie E. Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Texas
+      - name: Jeff Lee Vining Jr.
+        birth:
+          date: "1916"
+          place: Texas
+        death:
+          date: "2003"
+        burial:
+          place: "Saint Peters Episcopal Church Columbarium   Kerrville, Texas"
+docsUrl: Jsources/JeffL01doc.htm
+raw: |-
+  <a name="JeffL01"></a><font size=+2>Jeff Lee Vining</font>
+     (son of <a href="#JonathanH01">Jonathan H. &#8220;John&#8221l; Vining and Elizabeth Stratford</a>)
+     b. October 1863   Texas
+     m. Bettie Rees
+              b. Mary 1877   Texas
+              d. 1941
+                    bur. Austin Memorial Park Cemetery   Austin, Texas
+     d. 1945
+           bur. Austin Memorial Park Cemetery   Austin, Texas
+  
+  <font size=+1>children:</font>
+     child   d. before 1900 census
+     Harma C. Vining   b. age 9 y. as of 1910 census   Texas
+     Bessie Vining   b. age 6 y. as of 1910 census   Texas
+     Lucie E. Vining   b. age 4 y. as of 1910 census   Texas
+     Jeff Lee Vining Jr.   b. 1916   Texas   -   d. 2003   -   bur. Saint Peters Episcopal Church Columbarium   Kerrville, Texas
+  
+  <a href="Jsources/JeffL01doc.htm">documentation and notes</a>

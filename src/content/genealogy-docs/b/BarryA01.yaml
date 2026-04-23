@@ -1,0 +1,69 @@
+id: BarryA01
+title: Barry Allen Vining - (1) Helen E. [...]; (2) Julia R. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Barry Allen Vining
+          values:
+            - "20"
+            - "31"
+            - "40"
+            - "50"
+        - label: Helen E. Vining
+          values:
+            - "21"
+            - ""
+            - ""
+            - ""
+        - label: Julia R. ([...]) Vining
+          values:
+            - ""
+            - "32"
+            - "37"
+            - "47"
+        - label: Norma E. Vining
+          values:
+            - ""
+            - "5"
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+        - label: Virginia R. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Richard M. Vining
+          values:
+            - ""
+            - ""
+            - 1 y., 5 m.
+            - "11"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Enfield (District 3), Hartford County, Connecticut - dwelling 318, family 354. Barry Allen Vining and Helen E.
+          ([...]) Vining, his wife of one year, were living in the household of his parents in 1910.
+        images:
+          - src: BarryA01census1910.jpg
+      - year: "1920"
+        caption: Enfield (District 3), Hartford County, Connecticut - dwelling 559, family 592
+        images:
+          - src: BarryA01census1920.jpg
+      - year: "1930"
+        caption: Enfield, Hartford County, Connecticut - dwelling 54, family 65 [census image 72]
+        images:
+          - src: BarryA01census1930.jpg
+      - year: "1940"
+        caption: Enfield, Hartford County, Connecticut
+        images:
+          - src: BarryA01census1940.jpg

@@ -1,0 +1,56 @@
+id: ThomasHJr01
+letter: T
+sequence: 39
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasH03
+parentDesc: "Thomas Horton Vining and Aunie Belle May [...]"
+head:
+  givenName: Thomas Horton Jr.
+  birth:
+    date: 10 August 1930
+    place: "Forest, Louisiana"
+  death:
+    date: 29 November 2012
+    place: "Farmerville, Louisiana"
+  burial:
+    place: "Mulhearn Memorial Park Cemetery   Monroe, Louisiana"
+marriages:
+  - spouse:
+      givenName: Bernice
+      surname: Jones
+      birth:
+        date: 15 December 1929
+      death:
+        date: 12 September 2015
+      burial:
+        place: "Mulhearn Memorial Park Cemetery   Monroe, Louisiana"
+childrenGroups:
+  - children:
+      - name: William Eugene Vining
+        death:
+          date: in infancy
+      - name: Thomas Horton Vining III
+        marriages:
+          - date: "Melinda [...]"
+      - name: Debra Vining
+        marriages:
+          - date: Scotty Mike
+docsUrl: Tsources/ThomasHJr01doc.htm
+raw: |-
+  <a name="ThomasHJr01"></a><font size=+2>Thomas Horton Vining Jr.</font>
+     (son of <a href="#ThomasH03">Thomas Horton Vining and Aunie Belle May [...]</a>)
+     b. 10 August 1930   Forest, Louisiana
+     m. Bernice Jones
+              b. 15 December 1929
+              d. 12 September 2015
+                    bur. Mulhearn Memorial Park Cemetery   Monroe, Louisiana
+     d. 29 November 2012   Farmerville, Louisiana
+           bur. Mulhearn Memorial Park Cemetery   Monroe, Louisiana
+  
+  <font size=+1>children:</font>
+     William Eugene Vining   d. in infancy
+     Thomas Horton Vining III   m. Melinda [...]
+     Debra Vining   m. Scotty Mike
+  
+  <a href="Tsources/ThomasHJr01doc.htm">documentation and notes</a>

@@ -1,0 +1,115 @@
+id: Lafayette01
+sequence: 1
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Rufus01
+parentLetter: R
+parentDesc: Rufus Vining and Almira Doughty
+head:
+  givenName: Lafayette
+  birth:
+    date: 22 January 1829
+    place: "Bennington Township, Morrow County, Ohio"
+  death:
+    date: 7 February 1894
+    place: "Fargo, Ohio"
+marriages:
+  - spouse:
+      givenName: Phebe
+      surname: Rinehart
+      parents: (dau. of Lewis S. Rinehart and Elizabeth Noffsinger)
+      birth:
+        date: 18 October 1832
+        place: "Rich Hill, Knox County, Ohio"
+      death:
+        date: 28 May 1894
+childrenGroups:
+  - children:
+      - name: Manford Lewis Vining
+        birth:
+          date: 10 January 1855
+        death:
+          date: 8 February 1855
+        burial:
+          place: "Centerburg, Knox County, Ohio"
+      - name: Elmira Elizabeth Vining
+        birth:
+          date: 27 January 1856
+          place: Ohio
+        marriages:
+          - date: John Murray
+        death:
+          date: 13 March 1930
+          place: "Delaware, Ohio"
+      - name: Ellis Orlando Vining
+        entryId: EllisO01
+        entryLetter: E
+        birth:
+          date: 16 February 1858
+          place: Ohio
+        marriages:
+          - date: 4 September 1884
+            place: "Morrow County, Ohio"
+            spouse: Lillie Morton
+        death:
+          date: 12 January 189
+          place: "Bennington Township, Ohio"
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+      - name: Elmer John Vining
+        entryId: ElmerJ01
+        entryLetter: E
+        birth:
+          date: 3 April 1860
+          place: Ohio
+        marriages:
+          - date: 14 y. as of 1900 census
+            spouse: Emma A. Steward
+        death:
+          date: 25 September 1928
+          place: "Marengo, Ohio"
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+      - name: Ida May Vining
+        birth:
+          date: age 8 y. as of 1870 census
+          place: Ohio
+      - name: Sarah Viola Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: Ohio
+      - name: William Vining
+        entryId: William15
+        entryLetter: W
+        birth:
+          date: January 1866
+          place: Ohio
+        marriages:
+          - date: 24 June 1906
+            spouse: Orpha Mae Webster
+        death:
+          date: "1941"
+        burial:
+          place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+docsUrl: Lsources/Lafayette01doc.htm
+raw: |-
+  <a name="Lafayette01"></a><font size=+2>Lafayette Vining</font>
+     (son of <a href="Rfamilies.htm#Rufus01">Rufus Vining and Almira Doughty</a>)
+     b. 22 January 1829   Bennington Township, Morrow County, Ohio
+     m. Phebe Rinehart
+              (dau. of Lewis S. Rinehart and Elizabeth Noffsinger)
+              b. 18 October 1832   Rich Hill, Knox County, Ohio
+              d. 28 May 1894
+     d. 7 February 1894   Fargo, Ohio
+  
+  <font size=+1>children:</font>
+     Manford Lewis Vining   b. 10 January 1855   -   d. 8 February 1855   -   bur. Centerburg, Knox County, Ohio
+     Elmira Elizabeth Vining   b. 27 January 1856   Ohio   -   m. John Murray   -   d. 13 March 1930   Delaware, Ohio
+     <a href="Efamilies.htm#EllisO01">Ellis Orlando Vining</a>   b. 16 February 1858   Ohio   -   m. 4 September 1884   Morrow County, Ohio   Lillie Morton   -   d. 12 January 189   Bennington Township, Ohio   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     <a href="Efamilies.htm#ElmerJ01">Elmer John Vining</a>   b. 3 April 1860   Ohio   -   m. 14 y. as of 1900 census   Emma A. Steward   -   d. 25 September 1928   Marengo, Ohio   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     Ida May Vining   b. age 8 y. as of 1870 census   Ohio
+     Sarah Viola Vining   b. age 6 y. as of 1870 census   Ohio
+     <a href="Wfamilies.htm#William15">William Vining</a>   b. January 1866   Ohio   -   m. 24 June 1906   Orpha Mae Webster   -   d. 1941   -   bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+  
+  <a href="Lsources/Lafayette01doc.htm">documentation and notes</a>

@@ -1,0 +1,23 @@
+id: DanielR01
+title: Daniel Rutledge Vining - Mararet [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Daniel Rutledge Vining
+          values:
+            - "31"
+        - label: Margaret ([…]) Vining
+          values:
+            - "31"
+        - label: George Vining
+          values:
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Chicago (ward 5), Cook County, Illinois
+        images:
+          - src: DanielR01census1940.jpg

@@ -1,0 +1,61 @@
+id: AbnerC01
+letter: A
+sequence: 8
+lastUpdated: 1 February 2021
+relationship: son
+parentId: ElijahHJr01
+parentLetter: E
+parentDesc: "Elijah H. Vining Jr. and Iola S. [...]"
+head:
+  givenName: Abner Calhoun
+  birth:
+    date: 3 July 1890
+    place: Georgia
+  death:
+    date: 13 April 1951
+  burial:
+    place: "Southview Cemetery   Covington, Georgia"
+marriages:
+  - date: 18 y. as of 1930 census
+    spouse:
+      givenName: Georgia Evelyn
+      surname: "[...]"
+      birth:
+        date: 29 June 1893
+        place: Georgia
+      death:
+        date: 7 June 1987
+      burial:
+        place: "Southview Cemetery   Covington, Newton County, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Herbert Hampton Vining
+        entryId: HerbertH01
+        entryLetter: H
+        birth:
+          date: 10 December 1912
+          place: Georgia
+        marriages:
+          - date: Margaret Matilda Faulkner
+        death:
+          date: 14 July 2001
+        burial:
+          place: "Covington City Cemetery   Covington, Newton County, Georgia"
+docsUrl: Asources/AbnerC01doc.htm
+raw: |-
+  <a name="AbnerC01"></a><font size="+2">Abner Calhoun Vining</font>
+     (son of <a href="Efamilies.htm#ElijahHJr01">Elijah H. Vining Jr. and Iola S. [...]</a>)
+     b. 3 July 1890   Georgia
+     m. 18 y. as of 1930 census
+           Georgia Evelyn [...]
+                 b. 29 June 1893   Georgia
+                 d. 7 June 1987
+                       bur. Southview Cemetery   Covington, Newton County, Georgia
+     d. 13 April 1951
+           bur. Southview Cemetery   Covington, Georgia
+  
+  <font size="+1">child:</font>
+     <a href="Hfamilies.htm#HerbertH01">Herbert Hampton Vining</a>   b. 10 December 1912   Georgia   -   m. Margaret Matilda Faulkner   -   d. 14 July 2001   -   bur. Covington City Cemetery   Covington, Newton County, Georgia
+  
+  <a href="Asources/AbnerC01doc.htm">documentation and notes</a>

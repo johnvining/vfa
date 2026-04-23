@@ -1,0 +1,49 @@
+id: JamesO03
+sequence: 88
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Earl03
+parentLetter: E
+parentDesc: Earl Vining and Eva Wilkerson
+head:
+  givenName: James Orval
+  birth:
+    date: 17 March 1947
+  death:
+    date: 10 March 2013
+    place: "Douglas, Georgia"
+  burial:
+    place: "Mount Pleasant Missionary Baptist Church Cemetery   Georgia"
+marriages:
+  - spouse:
+      givenName: Lillian
+      surname: Chaney
+      birth:
+        date: 25 March 1935
+      death:
+        date: 27 September 1994
+      burial:
+        place: "Mount Pleasant Missionary Baptist Church Cemetery   Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: James Kevin Vining
+        marriages:
+          - date: "Kim [...]"
+docsUrl: Jsources/JamesO03doc.htm
+raw: |-
+  <a name="JamesO03"></a><font size=+2>James Orval Vining</font>
+     (son of <a href="Efamilies.htm#Earl03">Earl Vining and Eva Wilkerson</a>)
+     b. 17 March 1947
+     m. Lillian Chaney
+              b. 25 March 1935
+              d. 27 September 1994
+                    bur. Mount Pleasant Missionary Baptist Church Cemetery   Georgia
+     d. 10 March 2013   Douglas, Georgia
+           bur. Mount Pleasant Missionary Baptist Church Cemetery   Georgia
+  
+  <font size=+1>child:</font>
+     James Kevin Vining   m. Kim [...]
+  
+  <a href="Jsources/JamesO03doc.htm">documentation and notes</a>

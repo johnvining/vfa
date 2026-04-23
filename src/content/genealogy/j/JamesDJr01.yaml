@@ -1,0 +1,43 @@
+id: JamesDJr01
+sequence: 46
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesD04
+parentDesc: James David Vining and Bessie Singleton
+head:
+  givenName: James David Jr.
+  birth:
+    date: 16 May 1934
+    place: "Tucker, Georgia"
+  death:
+    date: 10 April 2021
+marriages:
+  - date: 62 y. at death
+    spouse:
+      givenName: Ann
+      surname: Massey
+childrenGroups:
+  - children:
+      - name: Julia Vining
+        marriages:
+          - date: "Angelo [&#8230;]"
+      - name: David Vining
+        marriages:
+          - date: "Patty [&#8230;]"
+      - name: Jeff Vining
+docsUrl: Jsources/JamesDJr01doc.htm
+raw: |-
+  <a name="JamesDJr01"></a><font size=+2>James David Vining Jr.</font>
+     (son of <a href="#JamesD04">James David Vining and Bessie Singleton</a>)
+     b. 16 May 1934   Tucker, Georgia
+     m. 62 y. at death
+           Ann Massey
+     d. 10 April 2021
+  
+  <font size=+1>children:</font>
+     Julia Vining   m. Angelo [&#8230;]
+     David Vining   m. Patty [&#8230;]
+     Jeff Vining
+  
+  <a href="Jsources/JamesDJr01doc.htm">documentation and notes</a>

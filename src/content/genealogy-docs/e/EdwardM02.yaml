@@ -1,0 +1,64 @@
+id: EdwardM02
+title: Edward Minnick Vining - Italy Dicus
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward Minnick Vining
+          values:
+            - |-
+              [42 or 40]
+              [see below]
+            - "50"
+            - "?"
+            - "?"
+        - label: Italy (Dicus) Vining
+          values:
+            - |-
+              [31 or 30]
+              [see below]
+            - "41"
+            - "?"
+            - "?"
+        - label: Margaret Vining
+          values:
+            - |-
+              [4 or 6]
+              [see below]
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - |-
+              [6 or 4]
+              [see below]
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Nankin Township (Wayne Village), Wayne County, Michigan - dwelling [102 or 202], family [102 or 202]
+        images:
+          - src: EdwardM02census1910a.jpg
+          - src: EdwardM02census1910b.jpg
+      - year: "1920"
+        caption: Nankin Township (Wayne Village), Wayne County, Michigan - dwelling 165, family 166
+        images:
+          - src: EdwardM02census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Edward Minnick Vining and Italy (Dicus) Vining, in Glenwood Cemetery, Wayne, Wayne County,
+          Michigan (from Find A Grave):
+        images:
+          - src: EdwardM02gravestone.jpg
+          - src: EdwardM02wifegravestone.jpg
+        inline: true

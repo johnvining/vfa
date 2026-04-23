@@ -1,0 +1,43 @@
+id: RichardJ03
+sequence: 58
+letter: R
+lastUpdated: 15 January 2024
+migrationNote: "Original HTML had \"sn\" (line-break truncation of \"son of\") in the parent reference; corrected to \"son\" in new rendering."
+relationship: son
+parentId: PerlieH01
+parentLetter: P
+parentDesc: "Perlie H. &#8220;Paul&#8221; Vining and Louise J. Doherty"
+head:
+  givenName: Richard J.
+  birth:
+    date: "age 2 y., 10 m. as of 1930 census"
+    place: Connecticut
+marriages:
+  - spouse:
+      givenName: Mary Jean
+      surname: Hurley
+childrenGroups:
+  - children:
+      - name: Richard J. Vining Jr.
+        birth:
+          date: 29 April 1952
+          place: "New Haven, Connecticut"
+        death:
+          date: 29 April 2021
+      - name: Jay Vining
+      - name: Brian Vining
+      - name: Susan Vining
+docsUrl: Rsources/RichardJ03doc.htm
+raw: |-
+  <a name="RichardJ03"></a><font size=+2>Richard J. Vining</font>
+     (sn of <a href="Pfamilies.htm#PerlieH01">Perlie H. &#8220;Paul&#8221; Vining and Louise J. Doherty</a>)
+     b. age 2 y., 10 m. as of 1930 census   Connecticut
+     m. Mary Jean Hurley
+  
+  <font size=+1>children:</font>
+     Richard J. Vining Jr.   b. 29 April 1952   New Haven, Connecticut   -   d. 29 April 2021
+     Jay Vining
+     Brian Vining
+     Susan Vining
+  
+  <a href="Rsources/RichardJ03doc.htm">documentation and notes</a>

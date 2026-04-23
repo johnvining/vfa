@@ -1,0 +1,51 @@
+id: RoyN01
+title: Roy Newport Vining - Ann G. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roy Newport Vining
+          values:
+            - "29"
+            - "37"
+            - "50"
+        - label: Ann G. ([…]) Vining
+          values:
+            - "27"
+            - "34"
+            - "47"
+        - label: Joan H. Vining
+          values:
+            - 1 y., 8 m.
+            - "11"
+            - "22"
+          indent: true
+        - label: Robert J. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Edmond Marvin Vining
+          values:
+            - ""
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Chicago (ward 7), Cook County, Illinois - dwelling 53, family 127
+        images:
+          - src: RoyN01census1920.jpg
+      - year: "1930"
+        caption: Pueblo, Pueblo County, Colorado - dwelling 108, family 110
+        images:
+          - src: RoyN01census1930.jpg
+      - year: "1940"
+        caption: Pueblo, Pueblo County, Colorado - dwelling 615 West 19th
+        images:
+          - src: RoyN01census1940.jpg

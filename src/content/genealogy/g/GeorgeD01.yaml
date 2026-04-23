@@ -1,0 +1,58 @@
+id: GeorgeD01
+letter: G
+sequence: 19
+lastUpdated: 22 July 2022
+relationship: son
+parentId: CharlesW04
+parentLetter: C
+parentDesc: Charles Warren Vining and Ollie Selman
+head:
+  givenName: George Dewey
+  birth:
+    date: 13 August 1901
+    place: Alabama
+  death:
+    date: 1 May 1965
+    place: "Trussville, Jefferson County, Alabama"
+  burial:
+    place: "Grace Community Church Cemetery   Hoover, Alabama"
+marriages:
+  - spouse:
+      givenName: Minnie
+      surname: Garner
+      parents: "(dau. of Elsberry B. Garner and Sarah Angeline Pace)"
+      birth:
+        date: ca. 1897
+        place: Alabama
+      death:
+        date: 13 March 1938
+childrenGroups:
+  - headingText: child
+    children:
+      - name: James Edward Vining
+        entryId: JamesE06
+        entryLetter: J
+        birth:
+          date: 20 August 1930
+          place: "Bessemer, Jefferson County, Alabama"
+        marriages:
+          - date: Sue Doris Partlow
+        death:
+          date: 11 September 2017
+          place: "Trussville, Jefferson County, Alabama"
+docsUrl: Gsources/GeorgeD01doc.htm
+raw: |-
+  <a name="GeorgeD01"></a><font size=+2>George Dewey Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesW04">Charles Warren Vining and Ollie Selman</a>)
+     b. 13 August 1901   Alabama
+     m. Minnie Garner
+              (dau. of Elsberry B. Garner and Sarah Angeline Pace)
+              b. ca. 1897   Alabama
+              d. 13 March 1938
+     d. 1 May 1965   Trussville, Jefferson County, Alabama
+           bur. Grace Community Church Cemetery   Hoover, Alabama
+  
+  <font size=+1>child:</font>
+     <a href="Jfamilies.htm#JamesE06">James Edward Vining</a>   b. 20 August 1930   Bessemer, Jefferson County, Alabama   -   m. Sue Doris Partlow   -   d. 11 September 2017   Trussville, Jefferson County, Alabama
+  
+  <a href="Gsources/GeorgeD01doc.htm">documentation and notes</a>

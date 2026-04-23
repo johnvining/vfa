@@ -1,0 +1,57 @@
+id: Alexander04
+letter: A
+sequence: 46
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JohnE02
+parentLetter: J
+parentDesc: John Elmer Vining and Flora M. Payne
+head:
+  givenName: Alexander
+  birth:
+    date: April 1883
+    place: Indiana
+  death:
+    date: "1956"
+  burial:
+    place: "Brooklyn Heights Cemetery   Brooklyn Heignts, Cuyahoga County, Ohio"
+marriages:
+  - spouse:
+      givenName: Emma
+      surname: "[...]"
+      birth:
+        date: "1886"
+        place: Ohio
+      death:
+        date: "1965"
+      burial:
+        place: "Brooklyn Heights Cemetery   Brooklyn Heights, Cuyahoga County, Ohio"
+childrenGroups:
+  - children:
+      - name: Eleanor Vining
+        birth:
+          date: age 8 m. as of 1910 census
+          place: Ohio
+        marriages:
+          - date: Alfred Underwood
+      - name: Vera Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Ohio
+docsUrl: Asources/Alexander04doc.htm
+raw: |-
+  <a name="Alexander04"></a><font size="+2">Alexander Vining</font>
+     (son of <a href="Jfamilies.htm#JohnE02">John Elmer Vining and Flora M. Payne</a>)
+     b. April 1883   Indiana
+     m. Emma [...]
+              b. 1886   Ohio
+              d. 1965
+                    bur. Brooklyn Heights Cemetery   Brooklyn Heights, Cuyahoga County, Ohio
+     d. 1956
+           bur. Brooklyn Heights Cemetery   Brooklyn Heignts, Cuyahoga County, Ohio
+  
+  <font size="+1">children:</font>
+     Eleanor Vining   b. age 8 m. as of 1910 census   Ohio   -   m. Alfred Underwood
+     Vera Vining   b. age 8 y. as of 1920 census   Ohio
+  
+  <a href="Asources/Alexander04doc.htm">documentation and notes</a>

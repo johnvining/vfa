@@ -1,0 +1,33 @@
+id: JosephE02
+sequence: 308
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Daniel02
+parentLetter: D
+parentDesc: "Daniel Vining and Lydia? [...]"
+head:
+  givenName: Joseph Eason
+  birth:
+    date: 12 June 1820
+  death:
+    date: 5 August 1876
+marriages:
+  - date: June 1848
+    spouse:
+      givenName: Eliza
+      surname: Clipperton
+childrenGroups:
+  - headingText: "adopted child"
+    children:
+      - name: Ida Jane Vining
+raw: |-
+  <a name="JosephE02"></a><font size=+2>Joseph Eason Vining</font>
+     (son of <a href="Dfamilies.htm#Daniel02">Daniel Vining and Lydia? [...]</a>)
+     b. 12 June 1820
+     m. June 1848
+           Eliza Clipperton
+     d. 5 August 1876
+  
+  <font size=+1>adopted child:</font>
+     Ida Jane Vining

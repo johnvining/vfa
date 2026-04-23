@@ -1,0 +1,43 @@
+id: John28
+title: John Vining - Mary [J.?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary [J.?] ([...]) Vining
+          values:
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lucinda Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Township 1, range 4 (Athens post office), Limestone County, Alabama - dwelling 7, family 7
+        images:
+          - src: John28census1870.jpg

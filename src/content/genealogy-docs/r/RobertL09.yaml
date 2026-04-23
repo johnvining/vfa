@@ -1,0 +1,78 @@
+id: RobertL09
+title: Robert Linn Vining - Agnes E. Alford
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Robert Linn Vining
+          values:
+            - "37"
+            - "45"
+            - "58"
+            - "68"
+        - label: Agnes E. (Alford) Vining
+          values:
+            - "33"
+            - "40"
+            - dead
+            - ""
+        - label: James Orrin Vining
+          values:
+            - "8"
+            - "18"
+            - "28"
+            - married and living in separate household
+          indent: true
+        - label: Jessica Irma Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: June Gladys Vining
+          values:
+            - "3"
+            - "12"
+            - "23"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Fairbanks, Alaska - dwelling 31, family 31
+        images:
+          - src: RobertL09census1910.jpg
+      - year: "1920"
+        caption: >-
+          Seattle, King County, Washington - dwelling 95, family 515 (father) and dwelling 96, family 147 (mother and
+          children)
+        images:
+          - src: RobertL09census1920.jpg
+          - src: RobertL09wifecensus1920.jpg
+      - year: "1930"
+        caption: Seattle, King County, Washington - dwelling 110, family 109
+        images:
+          - src: RobertL09census1930.jpg
+      - year: "1940"
+        caption: Seattle, King County, Washington
+        images:
+          - src: RobertL09census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Robert Linn Vining and Agnes E. (Alford), in Lake View Cemetery, Seattle, King County,
+          Washington (from Find A Grave):
+        images:
+          - src: RobertL09gravestone.jpg
+          - src: RobertL09wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Jessica Irma Vining, daughter of Robert Linn Vining and Agnes E. (Alford) Vining, in Lake View
+          Cemetery, Seattle, King County, Washington (from Find A Grave):
+        images:
+          - src: RobertL09dauJessicagravestone.jpg

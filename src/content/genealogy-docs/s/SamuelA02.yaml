@@ -1,0 +1,67 @@
+id: SamuelA02
+title: Samuel Albert Vining - Mary Goodwin Reed
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Samuel Albert Vining
+          values:
+            - "25"
+            - "36"
+            - "46"
+            - "56"
+            - "?"
+        - label: Mary Goodwin (Reed) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "52"
+            - "?"
+        - label: Katherine Reed Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Ruth Gurney Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Helen Dowell Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 200, family 209
+        images:
+          - src: SamuelA02census1900.jpg
+      - year: "1910"
+        caption: Cranston (ward 1), Providence County, Rhode Island - dwelling 54, family 75
+        images:
+          - src: SamuelA02census1910.jpg
+      - year: "1920"
+        caption: Cranston (ward 1), Providence County, Rhode Island - dwelling 316, family 401
+        images:
+          - src: SamuelA02census1920.jpg
+      - year: "1930"
+        caption: Cranston (ward 1), Providence County, Rhode Island - dwelling 731B, family 772
+        images:
+          - src: SamuelA02census1930.jpg

@@ -1,0 +1,107 @@
+id: RalphS01
+sequence: 4
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: OsmynC01
+parentLetter: O
+parentDesc: "Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; Le Palm"
+head:
+  givenName: Ralph Spellman
+  birth:
+    date: 2 November 1911
+    place: Michigan
+  death:
+    date: February 1987
+    place: "(last residence: Valrico, Florida)"
+  burial:
+    place: "Mount Ever-Rest Memorial Park South   Kalamazoo, Kalamazoo County, Michigan"
+marriages:
+  - spouse:
+      givenName: Lura E.
+      surname: Baker
+      parents: "(dau. of Donald Jerome Baker and Vera Ellen Pierson)"
+      birth:
+        date: "1915"
+        place: Michigan
+      death:
+        date: "1976"
+      burial:
+        place: "Mount Ever-Rest Memorial Park South   Kalamazoo, Kalamazoo County, Michigan"
+childrenGroups:
+  - children:
+      - name: Eugene Ralph Vining
+        entryId: EugeneR01
+        entryLetter: E
+        birth:
+          date: age 5 y. as of 1940 census
+          place: Michigan
+        marriages:
+          - date: Joyce Yetter
+      - name: "R[ene?] Vining"
+        birth:
+          date: age 4 y. as of 1940 census
+          place: Michigan
+      - name: Lawrence Lee Vining
+        entryId: LawrenceL01
+        entryLetter: L
+        birth:
+          date: "1936"
+          place: Michigan
+        marriages:
+          - date: "Carol [...]"
+        death:
+          date: "1977"
+        burial:
+          place: "Oak Grove Cemetery   Lawton, Van Buren County, Michigan"
+      - name: Ronald Vining
+        entryId: Ronald02
+        birth:
+          date: 6 October 1935
+        marriages:
+          - date: Betty Bayliss
+      - name: Royal Dean Vining
+        entryId: RoyalD01
+        birth:
+          date: 6 October 1938
+          place: Michigan
+        marriages:
+          - date: 14 May 1960
+            spouse: "DeAnne Reger,   divorced"
+      - name: Nancy Vining
+        birth:
+          date: 6 October 1941
+        marriages:
+          - date: Jack Wuckuya
+      - name: Judy Vining
+        birth:
+          date: 1 June 1943
+        marriages:
+          - number: 1
+            date: "John Roberts,"
+            spouse: divorced
+          - number: 2
+            date: Robet Anson
+docsUrl: Rsources/RalphS01doc.htm
+raw: |-
+  <a name="RalphS01"></a><font size=+2>Ralph Spellman Vining</font>
+     (son of <a href="Ofamilies.htm#OsmynC01">Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; Le Palm</a>)
+     b. 2 November 1911   Michigan
+     m. Lura E. Baker
+              (dau. of Donald Jerome Baker and Vera Ellen Pierson)
+              b. 1915   Michigan
+              d. 1976
+                    bur. Mount Ever-Rest Memorial Park South   Kalamazoo, Kalamazoo County, Michigan
+     d. February 1987   (last residence: Valrico, Florida)
+           bur. Mount Ever-Rest Memorial Park South   Kalamazoo, Kalamazoo County, Michigan
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EugeneR01">Eugene Ralph Vining</a>   b. age 5 y. as of 1940 census   Michigan   -   m. Joyce Yetter
+     R[ene?] Vining   b. age 4 y. as of 1940 census   Michigan
+     <a href="Lfamilies.htm#LawrenceL01">Lawrence Lee Vining</a>   b. 1936   Michigan   -   m. Carol [...]   -   d. 1977   -   bur. Oak Grove Cemetery   Lawton, Van Buren County, Michigan
+     <a href="#Ronald02">Ronald Vining</a>   b. 6 October 1935   -   m. Betty Bayliss
+     <a href="#RoyalD01">Royal Dean Vining</a>   b. 6 October 1938   Michigan   -   m. 14 May 1960   DeAnne Reger,   divorced
+     Nancy Vining   b. 6 October 1941   -   m. Jack Wuckuya
+     Judy Vining   b. 1 June 1943   -   m. (1) John Roberts,   divorced;   (2) Robet Anson
+  
+  <a href="Rsources/RalphS01doc.htm">documentation and notes</a>

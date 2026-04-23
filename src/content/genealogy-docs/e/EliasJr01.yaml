@@ -1,0 +1,32 @@
+id: EliasJr01
+title: Elias Vining Jr. - Orpha Powel
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+      rows:
+        - label: Elias Vining Jr.
+          values:
+            - "78"
+            - dead
+        - label: Orpha (Powel) Vining
+          values:
+            - "75"
+            - dead
+        - label: Lucy Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Orpha Almira Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Liberty Township, Delaware County, Ohio - dwelling 1525, family 1529
+        images:
+          - src: EliasJr01census1850.jpg

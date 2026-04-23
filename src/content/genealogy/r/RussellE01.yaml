@@ -1,0 +1,67 @@
+id: RussellE01
+sequence: 178
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: PerlieH01
+parentLetter: P
+parentDesc: Perlie H. Vining and Louise J. Doherty
+head:
+  givenName: Russell Edward
+  birth:
+    date: 21 July 1930
+    place: "New Haven, Connecticut"
+  death:
+    date: 3 October 1992
+    place: "Hamden, New Haven County, Connecticut"
+marriages:
+  - spouse:
+      givenName: Ann
+      surname: Molloy
+      parents: "(dau. of Peter S. Molloy and Gertrude Wallace)"
+      birth:
+        date: 3 February 1930
+        place: "New Haven, Connecticut"
+      death:
+        date: 3 May 2016
+        place: "Hamden, Connecticut"
+      burial:
+        place: "St. Mary's Cemetery   [Hamden?], Connecticut"
+childrenGroups:
+  - children:
+      - name: Christy Ann Vining
+        birth:
+          date: age 64 y. at death
+        marriages:
+          - date: 38 y. at death
+            spouse: Dennis Russell
+        death:
+          date: 25 November 2019
+      - name: Peter Vining
+        marriages:
+          - date: "Mary [&#8230;]"
+      - name: Thomas Vining
+      - name: Phyllis Vining
+      - name: Andrew Vining
+      - name: Judi Vining
+docsUrl: Rsources/RussellE01doc.htm
+raw: |-
+  <a name="RussellE01"></a><font size=+2>Russell Edward Vining</font>
+     (son of <a href="Pfamilies.htm#PerlieH01">Perlie H. Vining and Louise J. Doherty</a>)
+     b. 21 July 1930   New Haven, Connecticut
+     m. Ann Molloy
+              (dau. of Peter S. Molloy and Gertrude Wallace)
+              b. 3 February 1930   New Haven, Connecticut
+              d. 3 May 2016   Hamden, Connecticut
+                    bur. St. Mary's Cemetery   [Hamden?], Connecticut
+     d. 3 October 1992   Hamden, New Haven County, Connecticut
+  
+  <font size=+1>children:</font>
+     Christy Ann Vining   b. age 64 y. at death   -   m. 38 y. at death   Dennis Russell   -   d. 25 November 2019
+     Peter Vining   m. Mary [&#8230;]
+     Thomas Vining
+     Phyllis Vining
+     Andrew Vining
+     Judi Vining
+  
+  <a href="Rsources/RussellE01doc.htm">documentation and notes</a>

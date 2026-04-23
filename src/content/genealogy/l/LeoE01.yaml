@@ -1,0 +1,68 @@
+id: LeoE01
+sequence: 32
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LloydO01
+parentDesc: Lloyd Ozias Vining and Esther Huldah Printz
+head:
+  givenName: Leo Earl
+  birth:
+    date: 6 April 1926
+    place: "Ostrander, Delaware County, Ohio"
+marriages:
+  - number: 1
+    date: "1947"
+    note: "divorced 20 October 1970   Delaware County, Ohio"
+    spouse:
+      givenName: Alberta Jane
+      surname: Herriott
+      parents: (dau. of Paul Virgil Herriott and Cecil Lucille Yoder)
+      birth:
+        date: 18 December 1928
+        place: "Delaware County, Ohio"
+      death:
+        date: 13 April 2001
+        place: "Delaware, Delaware County, Ohio"
+  - number: 2
+    date: 19 April 1974
+    place: Ohio
+childrenGroups:
+  - children:
+      - name: Lloyd N. Vining
+        death:
+          date: 3 September 2019
+          place: Delaware
+      - name: Terry Vining
+        marriages:
+          - date: Gary Lowe
+      - name: Regina Vining
+        marriages:
+          - date: Joseph Gersch
+      - name: Leo Vining
+        marriages:
+          - date: "Jennie [&#8230;]"
+      - name: K. C. Vining
+        marriages:
+          - date: "Deb [&#8230;]"
+docsUrl: Lsources/LeoE01doc.htm
+raw: |-
+  <a name="LeoE01"></a><font size=+2>Leo Earl Vining</font>
+     (son of <a href="#LloydO01">Lloyd Ozias Vining and Esther Huldah Printz</a>)
+     b. 6 April 1926   Ostrander, Delaware County, Ohio
+     m. (1) 1947
+                 Alberta Jane Herriott
+                       (dau. of Paul Virgil Herriott and Cecil Lucille Yoder)
+                       b. 18 December 1928   Delaware County, Ohio
+                       d. 13 April 2001   Delaware, Delaware County, Ohio
+              divorced 20 October 1970   Delaware County, Ohio
+           (2) 19 April 1974   Ohio
+  
+  <font size=+1>children:</font>
+     Lloyd N. Vining   d. 3 September 2019   Delaware
+     Terry Vining   m. Gary Lowe
+     Regina Vining   m. Joseph Gersch
+     Leo Vining   m. Jennie [&#8230;]
+     K. C. Vining   m. Deb [&#8230;]
+  
+  <a href="Lsources/LeoE01doc.htm">documentation and notes</a>

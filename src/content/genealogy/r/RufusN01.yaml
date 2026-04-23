@@ -1,0 +1,50 @@
+id: RufusN01
+sequence: 173
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: HenryB01
+parentLetter: H
+parentDesc: Henry Bentley Vining and Susan E. Stallsworth
+head:
+  givenName: Rufus N.
+  birth:
+    date: age 4 y. as of 1920 census
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Theo
+      surname: "[&#8230;]"
+      birth:
+        date: 4 July 1919
+        place: Georgia
+      death:
+        date: 19 December 1997
+      burial:
+        place: "Liberty Cemetery   Porterdale, Georgia"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ronald Rufus Vining
+        birth:
+          date: 24 May 1939
+          place: Georgia
+        death:
+          date: 19 June 1972
+          place: "Porterdale, Georgia"
+        burial:
+          place: "Liberty Cemetery   Porterdale, Georgia"
+docsUrl: Rsources/RufusN01doc.htm
+raw: |-
+  <a name="RufusN01"></a><font size=+2>Rufus N. Vining</font>
+     (son of <a href="Hfamilies.htm#HenryB01">Henry Bentley Vining and Susan E. Stallsworth</a>)
+     b. age 4 y. as of 1920 census   Georgia
+     m. Theo [&#8230;]
+              b. 4 July 1919   Georgia
+              d. 19 December 1997
+                    bur. Liberty Cemetery   Porterdale, Georgia
+  
+  <font size=+1>child:</font>
+     Ronald Rufus Vining   b. 24 May 1939   Georgia   -   d. 19 June 1972   Porterdale, Georgia   -   bur. Liberty Cemetery   Porterdale, Georgia
+  
+  <a href="Rsources/RufusN01doc.htm">documentation and notes</a>

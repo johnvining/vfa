@@ -1,0 +1,70 @@
+id: ColonelE01
+letter: C
+sequence: 152
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesF01
+parentDesc: Charles Fournier Vining and Nancy Ophelia Preston
+head:
+  givenName: Colonel Emmett
+  birth:
+    date: 24 January 1879
+    place: "Columbia Township, Michigan"
+  death:
+    date: 18 March 1951
+  burial:
+    place: "Cowlesville Cemetery   Cowlesville, New York"
+marriages:
+  - date: 25 December 1900
+    spouse:
+      givenName: Mary C.
+      surname: Gates
+      birth:
+        date: "1880"
+        place: Michigan
+      death:
+        date: "1966"
+      burial:
+        place: "Cowlesville Cemetery   Cowlesville, New York"
+childrenGroups:
+  - children:
+      - name: Francis Lucille Vining
+        birth:
+          date: 29 September 1901
+          place: Michigan
+        marriages:
+          - date: "Cowlesville, New York"
+            spouse: George Stangrover
+      - name: Lillian Adelle Vining
+        birth:
+          date: 3 February 1903
+          place: Michigan
+        marriages:
+          - date: "Cowlesville, New York"
+            spouse: Arthur Willard
+      - name: Grace Pauline Vining
+        birth:
+          date: 3 June 1909
+          place: Michigan
+        marriages:
+          - date: "Attica, New York"
+            spouse: John Martel
+docsUrl: Csources/ColonelE01doc.htm
+raw: |-
+  <a name="ColonelE01"></a><font size=+2>Colonel Emmett Vining</font>
+     (son of <a href="#CharlesF01">Charles Fournier Vining and Nancy Ophelia Preston</a>)
+     b. 24 January 1879   Columbia Township, Michigan
+     m. 25 December 1900
+           Mary C. Gates
+                 b. 1880   Michigan
+                 d. 1966
+                       bur. Cowlesville Cemetery   Cowlesville, New York
+     d. 18 March 1951
+           bur. Cowlesville Cemetery   Cowlesville, New York
+  
+  <font size=+1>children:</font>
+     Francis Lucille Vining   b. 29 September 1901   Michigan   -   m. Cowlesville, New York   George Stangrover
+     Lillian Adelle Vining   b. 3 February 1903   Michigan   -   m. Cowlesville, New York   Arthur Willard
+     Grace Pauline Vining   b. 3 June 1909   Michigan   -   m. Attica, New York   John Martel
+  
+  <a href="Csources/ColonelE01doc.htm">documentation and notes</a>

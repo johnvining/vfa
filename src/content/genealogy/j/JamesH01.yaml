@@ -1,0 +1,75 @@
+id: JamesH01
+sequence: 60
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ezra01
+parentLetter: E
+parentDesc: "Ezra Vining and Asenath &#8220;Anna&#8221; Humphrey"
+head:
+  givenName: James H.
+  birth:
+    date: "1825"
+    place: Massachusetts
+  death:
+    date: 4 May 1903
+    place: "Weymouth, Norfolk County, Massachusetts"
+  burial:
+    place: "Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 1 June 1847
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Mary A. P.
+      surname: Richards
+      birth:
+        date: "1827"
+        place: Massachusetts
+      death:
+        date: "1891"
+        place: "Weymouth, Norfolk County, Massachusetts"
+      burial:
+        place: "Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Anna H. Vining
+        birth:
+          date: age 7 y. as of 1860 census
+          place: Massachusetts
+        marriages:
+          - date: Minot P. Garey
+      - name: "[Mary L. Vining?]"
+      - name: James W. Vining
+        entryId: JamesW04
+        birth:
+          date: May 1858
+          place: Massachusetts
+        marriages:
+          - number: 1
+            date: "[14?] y. as of 1900 census"
+            spouse: "Lillie A. [&#8230;] (d. 1903)"
+          - number: 2
+            date: "Mabel F. [&#8230;]"
+        death:
+          date: "1927"
+        burial:
+          place: "Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts"
+docsUrl: Jsources/JamesH01doc.htm
+raw: |-
+  <a name="JamesH01"></a><font size=+2>James H. Vining</font>
+     (son of <a href="Efamilies.htm#Ezra01">Ezra Vining and Asenath &#8220;Anna&#8221; Humphrey</a>)
+     b. 1825   Massachusetts
+     m. 1 June 1847   Weymouth, Norfolk County, Massachusetts
+           Mary A. P. Richards
+                 b. 1827   Massachusetts
+                 d. 1891   Weymouth, Norfolk County, Massachusetts
+                       bur. Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts
+     d. 4 May 1903   Weymouth, Norfolk County, Massachusetts
+           bur. Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Anna H. Vining   b. age 7 y. as of 1860 census   Massachusetts   -   m. Minot P. Garey
+     [Mary L. Vining?]
+     <a href="#JamesW04">James W. Vining</a>   b. May 1858   Massachusetts   -   m. (1) [14?] y. as of 1900 census   Lillie A. [&#8230;] (d. 1903);   (2) Mabel F. [&#8230;]   -   d. 1927   -   bur. Fairmount Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Jsources/JamesH01doc.htm">documentation and notes</a>

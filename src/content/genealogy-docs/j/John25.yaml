@@ -1,0 +1,43 @@
+id: John25
+title: John Vining - Sarah [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: John Vining
+          values:
+            - "?"
+            - "43"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Sarah ([...]) Vining
+          values:
+            - "?"
+            - "38"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: William Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: New Castle, New Castle County, Delaware - dwelling 593, family 583
+        images:
+          - src: John25census1860.jpg

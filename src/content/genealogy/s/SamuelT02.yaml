@@ -1,0 +1,62 @@
+id: SamuelT02
+sequence: 24
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Samuel04
+parentLetter: S
+parentDesc: Samuel Vining and Rhoda Pettibone
+head:
+  givenName: Samuel Truman
+  birth:
+    date: "1796"
+    place: "Southwick, Massachusetts"
+  death:
+    date: 18 May 1875
+  burial:
+    place: "Southwick Cemetery   Southwick, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: Steere
+      parents: "(dau. of Elisha Steere and Mary [&#8230;])"
+      birth:
+        date: "1794"
+      death:
+        date: 11 September 1878
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Rhoda Vining
+        marriages:
+          - date: "Southwick, Massachusetts"
+            spouse: Willis Dibble
+      - name: Ward Vining
+        entryId: Ward01
+        entryLetter: W
+        birth:
+          date: 31 December 1826
+          place: "[Southwick, Massachusetts ?]"
+        marriages:
+          - date: "[10 July 1845"
+            place: "Granby, Connecticut or 2 August 1845?]"
+            spouse: Jane Cecelia Reed
+docsUrl: Ssources/SamuelT02doc.htm
+raw: |-
+  <a name="SamuelT02"></a><font size=+2>Samuel Truman Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel04">Samuel Vining and Rhoda Pettibone</a>)
+     b. 1796   Southwick, Massachusetts
+     m. Mary Steere
+              (dau. of Elisha Steere and Mary [&#8230;])
+              b. 1794
+              d. 11 September 1878
+                    bur. Southwick Cemetery   Southwick, Massachusetts
+     d. 18 May 1875
+           bur. Southwick Cemetery   Southwick, Massachusetts
+  
+  <font size=+1>children:</font>
+     Rhoda Vining   m. Southwick, Massachusetts   Willis Dibble
+     <a href="Wfamilies.htm#Ward01">Ward Vining</a>   b. 31 December 1826   [Southwick, Massachusetts ?]   -   m. [10 July 1845   Granby, Connecticut or 2 August 1845?]   Jane Cecelia Reed
+  
+  <a href="Ssources/SamuelT02doc.htm">documentation and notes</a>

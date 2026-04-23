@@ -1,0 +1,41 @@
+id: AldenB01
+letter: A
+sequence: 40
+lastUpdated: 1 February 2021
+relationship: son
+parentId: GeorgeJr01
+parentLetter: G
+parentDesc: George Vining Jr. and Susan Woods
+head:
+  givenName: Alden Barr
+  birth:
+    date: 23 June 1818
+    place: "Plainfield, Hampshire County, Massachusetts"
+  death:
+    date: "21 October [1857 or 1859?]"
+    place: "Bridgeport, Fairfield County, Connecticut"
+  burial:
+    place: "Hilltop Cemetery   Plainfield, Hampshire County, Massachusetts"
+marriages:
+  - date: "[1843 or 1844]"
+    place: "Cummington, Hampshire County, Massachusetts"
+    spouse:
+      givenName: Philomela F.
+      surname: Reed
+      birth:
+        date: age 26 y. as of 1850 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Mark Reed Vining
+        birth:
+          date: age 6 m. at death
+        death:
+          date: 26 July 1846
+        burial:
+          place: "Hilltop Cemetery   Plainfield, Hampshire County, Massachusetts"
+      - name: Alden Reed Vining
+        birth:
+          date: 23 July 1855
+          place: "Plainfield, Hampshire County, Massachusetts"
+docsUrl: Asources/AldenB01doc.htm

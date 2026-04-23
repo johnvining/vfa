@@ -1,0 +1,143 @@
+id: David03
+title: David Vining - (1) Mary C. Curtis, (2) Martha Briggs
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: David Vining
+          values:
+            - "?"
+            - "?"
+            - "52"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Mary C. (Curtis) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Martha (Briggs) Vining
+          values:
+            - "?"
+            - "?"
+            - "43"
+            - "53"
+            - "63"
+            - "73"
+            - dead
+        - label: Mary S. Vining
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: David Vining Jr.
+          values:
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Martha A. Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - "31"
+            - "42"
+            - "51"
+            - "?"
+          indent: true
+        - label: Israel L. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hannah B. Vining
+          values:
+            - ""
+            - "?"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles [C. or E.?] Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "21"
+            - "32"
+            - "41"
+            - "?"
+          indent: true
+        - label: Asaph D. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "17"
+            - |-
+              27
+              [see note below]
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 102, family 126
+        images:
+          - src: David03census1850a.jpg
+          - src: David03census1850b.jpg
+      - year: "1860"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 1628, family 311
+        images:
+          - src: David03census1860.jpg
+      - year: "1870"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 162, family 164. By 1870, Asaph D. Vining was married, and
+          he and wife Mary A. (22 y., b. Massachusetts, "at home") were living in this household.
+        images:
+          - src: David03census1870.jpg
+      - year: "1880"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 430, family 461
+        images:
+          - src: David03census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for David Vining, Mary C. (Curtis) Vining, and Martha (Briggs) Vining, in Union Cemetery, Hanover,
+          Plymouth County, Massachusetts (from Find A Grave):
+        images:
+          - src: David03gravestone.jpg
+          - src: David03wifeMarygravestone.jpg
+          - src: David03wifeMarthagravestone.jpg
+        inline: true

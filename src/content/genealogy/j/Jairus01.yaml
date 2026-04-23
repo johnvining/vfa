@@ -1,0 +1,75 @@
+id: Jairus01
+sequence: 12
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John06
+parentDesc: John Vining and Hannah Reed
+head:
+  givenName: Jairus
+  birth:
+    date: "[1?] May 1807"
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 18 November 1862
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 24 April 1831
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Mary Torrey
+      surname: Tirrell
+      parents: (dau. of James Tirrell and Hannah Kingman)
+      birth:
+        date: 25 April 1810
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 8 November 1891
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: child
+        birth:
+          date: age 2 y. at death
+        death:
+          date: 17 December 1834
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: James Henry Vining
+        birth:
+          date: 6 September 1834
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: before 1870 census
+            spouse: "Martha C. [...]"
+      - name: Augustus Vining
+        entryId: Augustus01
+        entryLetter: A
+        birth:
+          date: 17 June 1836
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: before 1870 census
+            spouse: Nancy Sprague
+      - name: Caroline Vining
+        birth:
+          date: age 19 y. as of 1860 census
+          place: Massachusetts
+docsUrl: Jsources/Jairus01doc.htm
+raw: |-
+  <a name="Jairus01"></a><font size=+2>Jairus Vining</font>
+     (son of <a href="#John06">John Vining and Hannah Reed</a>)
+     b. [1?] May 1807   Weymouth, Norfolk County, Massachusetts
+     m. 24 April 1831   Weymouth, Norfolk County, Massachusetts
+           Mary Torrey Tirrell
+                 (dau. of James Tirrell and Hannah Kingman)
+                 b. 25 April 1810   Weymouth, Norfolk County, Massachusetts
+                 d. 8 November 1891   Weymouth, Norfolk County, Massachusetts
+     d. 18 November 1862   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     child   b. age 2 y. at death   -   d. 17 December 1834   Weymouth, Norfolk County, Massachusetts
+     James Henry Vining   b. 6 September 1834   Weymouth, Norfolk County, Massachusetts   -   m. before 1870 census   Martha C. [...]
+     <a href="Afamilies.htm#Augustus01">Augustus Vining</a>   b. 17 June 1836   Weymouth, Norfolk County, Massachusetts   -   m. before 1870 census   Nancy Sprague
+     Caroline Vining   b. age 19 y. as of 1860 census   Massachusetts
+  
+  <a href="Jsources/Jairus01doc.htm">documentation and notes</a>

@@ -1,0 +1,70 @@
+id: CarlMJr01
+letter: C
+sequence: 20
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CarlM01
+parentDesc: Carl Merton Vining and Mabel Catherine Vogel
+head:
+  givenName: Carl Merton Jr.
+  birth:
+    date: 17 June 1927
+    place: "Chicago, Cook County, Illinois"
+  death:
+    date: 17 July 2012
+  burial:
+    place: "Swallows Cemetery   Pueblo County, Colorado"
+marriages:
+  - date: 30 April 1948
+    place: "Wheaton, DuPage County, Illinois"
+    spouse:
+      givenName: Myrtle Joy
+      surname: Robinson
+      parents: (dau. of Perry William Robinson and Myrtle Fulton Stevenson)
+      birth:
+        date: 12 July 1927
+        place: "Wheaton, DuPage County, Illinois"
+      death:
+        date: 13 February 2013
+      burial:
+        place: "Swallows Cemetery   Pueblo County, Colorado"
+childrenGroups:
+  - children:
+      - name: Steven Carl Vining
+        entryId: StevenC01
+        entryLetter: S
+        birth:
+          date: 6 April 1949
+          place: "Geneva, Illinois"
+        marriages:
+          - date: 16 June 1973
+            place: "Los Alamos, New Mexico"
+            spouse: Deborah Sue Hicks
+      - name: Bruce Perry Vining
+        entryId: BruceP01
+        entryLetter: B
+        birth:
+          date: 26 February 1954
+          place: "Geneva, Kane County, Illinois"
+        marriages:
+          - date: 12 June 1982
+            spouse: "Norwood, San Miguel, Colorado   Penny Michelle Rupp"
+docsUrl: Csources/CarlMJr01doc.htm
+raw: |-
+  <a name="CarlMJr01"></a><font size=+2>Carl Merton Vining Jr.</font>
+     (son of <a href="#CarlM01">Carl Merton Vining and Mabel Catherine Vogel</a>)
+     b. 17 June 1927   Chicago, Cook County, Illinois
+     m. 30 April 1948   Wheaton, DuPage County, Illinois
+           Myrtle Joy Robinson
+                 (dau. of Perry William Robinson and Myrtle Fulton Stevenson)
+                 b. 12 July 1927   Wheaton, DuPage County, Illinois
+                 d. 13 February 2013
+                       bur. Swallows Cemetery   Pueblo County, Colorado
+     d. 17 July 2012
+           bur. Swallows Cemetery   Pueblo County, Colorado
+  
+  <font size=+1>children:</font>
+     <a href="Sfamilies.htm#StevenC01">Steven Carl Vining</a>   b. 6 April 1949   Geneva, Illinois   -   m. 16 June 1973   Los Alamos, New Mexico   Deborah Sue Hicks
+     <a href="Bfamilies.htm#BruceP01">Bruce Perry Vining</a>   b. 26 February 1954   Geneva, Kane County, Illinois   -   m. 12 June 1982   Norwood, San Miguel, Colorado   Penny Michelle Rupp
+  
+  <a href="Csources/CarlMJr01doc.htm">documentation and notes</a>

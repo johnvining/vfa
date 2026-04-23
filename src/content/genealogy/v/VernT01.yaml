@@ -1,0 +1,85 @@
+id: VernT01
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentId: Willard02
+parentLetter: W
+parentDesc: Willard Vining and Josephine Brownell
+head:
+  givenName: Vern Terrence
+  birth:
+    date: 6 February 1891
+    place: South Dakota
+  death:
+    date: 26 November 1977
+    place: "(last residence: Commerce City, Colorado)"
+  burial:
+    place: "North Marcellon Cemetery   Marcellon, Columbia County, Wisconsin"
+marriages:
+  - number: 1
+    date: 14 December 1914
+    spouse:
+      givenName: Myrtle
+      surname: Maynard
+      birth:
+        date: June 1894
+        place: Wisconsin
+      death:
+        date: March 1957
+      burial:
+        place: "North Marcellon Cemetery   Marcellon, Columbia County, Wisconsin"
+  - number: 2
+    date: 27 October 1961
+    spouse:
+      givenName: Mrs. Irene
+      surname: Robinson
+childrenGroups:
+  - spouseRef: Myrtle Maynard
+    children:
+      - name: William Henry Vining
+        entryId: WilliamH04
+        entryLetter: W
+        birth:
+          date: 12 April 1918
+          place: "Athelstaine, Wisconsin"
+        marriages:
+          - date: "Guillerma &#8220;Minnie&#8221; Saenz"
+        death:
+          date: 25 January 2001
+          place: "Albuquerque, New Mexico"
+        burial:
+          place: "Sunset Memorial Park   [Albuquerque, New Mexico?]"
+      - name: Verle Vernon Vining
+        entryId: VerleV01
+        birth:
+          date: 7 January 1921
+          place: "Pardeeville, Wisconsin"
+        marriages:
+          - date: 10 Ma 1947
+            place: "Princeton, Wisconsin"
+            spouse: Alice Ruth Bednarek
+        death:
+          date: 11 November 2004
+          place: "Neshkoro, Wisconsin"
+        burial:
+          place: "Saint James Cemetery   Neshkoro, Wisconsin"
+docsUrl: Vsources/VernT01doc.htm
+raw: |-
+  <a name="VernT01"></a><font size=+2>Vern Terrence Vining</font>
+     (son of <a href="Wfamilies.htm#Willard02">Willard Vining and Josephine Brownell</a>)
+     b. 6 February 1891   South Dakota
+     m. (1) 14 December 1914
+                 Myrtle Maynard
+                       b. June 1894   Wisconsin
+                       d. March 1957
+                             bur. North Marcellon Cemetery   Marcellon, Columbia County, Wisconsin
+           (2) 27 October 1961
+                 Mrs. Irene Robinson
+     d. 26 November 1977   (last residence: Commerce City, Colorado)
+           bur. North Marcellon Cemetery   Marcellon, Columbia County, Wisconsin
+  
+  <font size=+1>children by Myrtle Maynard:</font>
+     <a href="Wfamilies.htm#WilliamH04">William Henry Vining</a>   b. 12 April 1918   Athelstaine, Wisconsin   -   m. Guillerma &#8220;Minnie&#8221; Saenz   -   d. 25 January 2001   Albuquerque, New Mexico   -   bur. Sunset Memorial Park   [Albuquerque, New Mexico?]
+     <a href="#VerleV01">Verle Vernon Vining</a>   b. 7 January 1921   Pardeeville, Wisconsin   -   m. 10 Ma 1947   Princeton, Wisconsin   Alice Ruth Bednarek   -   d. 11 November 2004   Neshkoro, Wisconsin   -   bur. Saint James Cemetery   Neshkoro, Wisconsin
+  
+  <a href="Vsources/VernT01doc.htm">documentation and notes</a>

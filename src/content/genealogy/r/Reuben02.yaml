@@ -1,0 +1,128 @@
+id: Reuben02
+sequence: 31
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesT01
+parentLetter: J
+parentDesc: James Thomas Vining and Philena Durfey
+head:
+  givenName: Reuben
+  birth:
+    date: 13 June 1840
+    place: "Delaware, Ohio"
+  death:
+    date: 4 September 1899
+    place: "Jasper, Minnesota"
+marriages:
+  - date: "1864"
+    spouse:
+      givenName: Mrs. Maria Louisa
+      surname: Sackett
+      birth:
+        date: age 40 y. as of 1880 census
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: Almond Vining
+        entryId: Almond01
+        entryLetter: A
+        birth:
+          date: 28 April 1868
+          place: Illinois
+        marriages:
+          - date: 21 y. as of 1910 census
+            spouse: Minnie Kathrin Bruce
+        death:
+          date: "1944"
+          place: "Bellingham, Washington"
+      - name: James A. Vining
+        birth:
+          date: "1869"
+          place: "Padua, Illinois"
+        marriages:
+          - number: 1
+            date: "Capitolia B. [...] (d. 1908)"
+          - number: 2
+            date: Jennie Holmes
+        death:
+          date: 20 December 1932
+          place: "Sioux Falls, South Dakota"
+        burial:
+          place: "Woodlawn Cemetery   Sioux Falls, South Dakota"
+      - name: Lydia Jane Vining
+        birth:
+          date: 9 July 1870
+        marriages:
+          - date: "1889"
+            spouse: Hiram Hart Onan
+        death:
+          date: 27 January 1952
+      - name: Thomas Vining
+        birth:
+          date: 25 May 1872
+          place: Iowa
+        marriages:
+          - date: Fannie Cathcart
+        death:
+          date: 4 July 1957
+          place: "Bremerton, Illinois"
+      - name: Edmond Vining
+        entryId: Edmond01
+        entryLetter: E
+        birth:
+          date: 21 September 1875
+          place: Iowa
+        marriages:
+          - number: 1
+            date: Mary M. Cathcart
+          - number: 2
+            date: Minnie Ellen Argo
+        death:
+          date: 26 December 1951
+          place: "Bremerton, Illinois"
+      - name: Myrtle M. Vining
+        birth:
+          date: 11 June 1878
+          place: "Greenfield, Iowa"
+        marriages:
+          - number: 1
+            date: "1898"
+            spouse: John Anderson
+          - number: 2
+            date: Daniel Brawz
+        death:
+          date: 15 November 1960
+          place: "Concord, California"
+      - name: Rufus Allen Vining
+        entryId: RufusA01
+        birth:
+          date: 5 February 1881
+          place: Iowa
+        marriages:
+          - date: Anna Marie Byers
+        death:
+          date: 23 July 1957
+          place: "Aberdeen, South Dakota"
+        burial:
+          place: "Riverside Memorial Park   Aberdeen, South Dakota"
+docsUrl: Rsources/Reuben02doc.htm
+raw: |-
+  <a name="Reuben02"></a><font size=+2>Reuben Vining</font>
+     (son of <a href="Jfamilies.htm#JamesT01">James Thomas Vining and Philena Durfey</a>)
+     b. 13 June 1840   Delaware, Ohio
+     m. 1864
+           Mrs. Maria Louisa Sackett
+                 b. age 40 y. as of 1880 census   Ohio
+     d. 4 September 1899   Jasper, Minnesota
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#Almond01">Almond Vining</a>   b. 28 April 1868   Illinois   -   m. 21 y. as of 1910 census   Minnie Kathrin Bruce   -   d. 1944   Bellingham, Washington
+     James A. Vining   b. 1869   Padua, Illinois   -   m. (1) Capitolia B. [...] (d. 1908);   (2) Jennie Holmes   -   d. 20 December 1932   Sioux Falls, South Dakota   -   bur. Woodlawn Cemetery   Sioux Falls, South Dakota
+     Lydia Jane Vining   b. 9 July 1870   -   m. 1889   Hiram Hart Onan   -   d. 27 January 1952
+     Thomas Vining   b. 25 May 1872   Iowa   -   m. Fannie Cathcart   -   d. 4 July 1957   Bremerton, Illinois
+     <a href="Efamilies.htm#Edmond01">Edmond Vining</a>   b. 21 September 1875   Iowa   -   m. (1) Mary M. Cathcart;   (2) Minnie Ellen Argo   -   d. 26 December 1951   Bremerton, Illinois
+     Myrtle M. Vining   b. 11 June 1878   Greenfield, Iowa   -   m. (1) 1898   John Anderson;   (2) Daniel Brawz   -   d. 15 November 1960   Concord, California
+     <a href="#RufusA01">Rufus Allen Vining</a>   b. 5 February 1881   Iowa   -   m. Anna Marie Byers   -   d. 23 July 1957   Aberdeen, South Dakota   -   bur. Riverside Memorial Park   Aberdeen, South Dakota
+  
+  <a href="Rsources/Reuben02doc.htm">documentation and notes</a>

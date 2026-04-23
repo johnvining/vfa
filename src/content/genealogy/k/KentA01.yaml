@@ -1,0 +1,32 @@
+id: KentA01
+letter: K
+sequence: 8
+lastUpdated: 24 July 2022
+relationship: son
+parentId: WalterD03
+parentLetter: W
+parentDesc: Walter Dean Vining and Janet Serverance Berube
+head:
+  givenName: Kent Arthur
+  birth:
+    date: "1951"
+    place: New Hampshire
+  death: {}
+marriages:
+  - spouse:
+      givenName: Pat Hall
+      surname: Schanz
+childrenGroups:
+  - children:
+      - name: Maryanne Vining Miles
+      - name: Walter Aaron Vining
+raw: |-
+  <a name="KentA01"></a><font size=+2>Kent Arthur Vining</font>
+     (son of <a href="Wfamilies.htm#WalterD03">Walter Dean Vining and Janet Serverance Berube</a>)
+     b. 1951   New Hampshire
+     m. Pat Hall Schanz
+     d. 
+  
+  <font size=+1>children:</font>
+     Maryanne Vining Miles
+     Walter Aaron Vining

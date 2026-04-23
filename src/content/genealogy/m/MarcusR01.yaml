@@ -1,0 +1,78 @@
+id: MarcusR01
+sequence: 2
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Cullen01
+parentLetter: C
+parentDesc: Cullen Vining and Hannah Latham
+head:
+  givenName: Marcus Richard
+  birth:
+    date: 7 January 1825
+    place: Massachusetts
+  death:
+    date: 14 June 1912
+    place: "Adams, Massachusetts"
+  burial:
+    place: "West Cummington Cemetery   West Cummington, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: Maguire
+      birth:
+        date: 13 August 1828
+        place: Ireland
+      death:
+        date: 8 April 1899
+      burial:
+        place: "West Cummington Cemetery   West Cummington, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Louis H. Vining
+        birth:
+          date: 24 May 1851
+          place: Massachusetts
+        marriages:
+          - date: 22 July 1908
+            place: "St. Joseph, Michigan"
+            spouse: Fannie Smith
+        death:
+          date: 14 June 1916
+          place: "South Haven, Michigan"
+        burial:
+          place: "Covert Cemetery   Covert, Michigan"
+      - name: George Vining
+        birth:
+          date: age 5 y. as of 1860 census
+          place: Massachusetts
+      - name: Robert Latham Vining
+        entryId: RobertL01
+        entryLetter: R
+        birth:
+          date: 9 June 1861
+          place: "Cummington, Massachusetts"
+        marriages:
+          - date: Cora Sybil Beals
+        death:
+          date: "1936"
+        burial:
+          place: "West Cummington Cemetery   West Cummington, Massachusetts"
+docsUrl: Msources/MarcusR01doc.htm
+raw: |-
+  <a name="MarcusR01"></a><font size=+2>Marcus Richard Vining</font>
+     (son of <a href="Cfamilies.htm#Cullen01">Cullen Vining and Hannah Latham</a>)
+     b. 7 January 1825   Massachusetts
+     m. Elizabeth Maguire
+              b. 13 August 1828   Ireland
+              d. 8 April 1899
+                    bur. West Cummington Cemetery   West Cummington, Massachusetts
+     d. 14 June 1912   Adams, Massachusetts
+           bur. West Cummington Cemetery   West Cummington, Massachusetts
+  
+  <font size=+1>children:</font>
+     Louis H. Vining   b. 24 May 1851   Massachusetts   -   m. 22 July 1908   St. Joseph, Michigan   Fannie Smith   -   d. 14 June 1916   South Haven, Michigan   -   bur. Covert Cemetery   Covert, Michigan
+     George Vining   b. age 5 y. as of 1860 census   Massachusetts
+     <a href="Rfamilies.htm#RobertL01">Robert Latham Vining</a>   b. 9 June 1861   Cummington, Massachusetts   -   m. Cora Sybil Beals   -   d. 1936   -   bur. West Cummington Cemetery   West Cummington, Massachusetts
+  
+  <a href="Msources/MarcusR01doc.htm">documentation and notes</a>

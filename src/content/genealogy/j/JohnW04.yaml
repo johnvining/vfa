@@ -1,0 +1,53 @@
+id: JohnW04
+sequence: 272
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John Wayne
+  birth:
+    date: 1 May 1942
+  death:
+    date: 1 January 1986
+  burial:
+    place: "Oakland Cemetery   Waycross, Georgia"
+marriages:
+  - spouse:
+      givenName: Sylvia Ann
+      surname: Minix
+      parents: (dau. of George Minix and Pauline Ball)
+      birth:
+        date: 3 September 1944
+        place: "Ben Hill County, Georgia"
+      death:
+        date: 12 January 2015
+        place: "Waycross, Georgia"
+      burial:
+        place: "Oakland Cemetery   Waycross, Georgia"
+childrenGroups:
+  - children:
+      - name: John Wayne Vining Jr.
+        marriages:
+          - date: "Sheryl [...]"
+      - name: George Oliver Vining
+        marriages:
+          - date: "Rena [...]"
+docsUrl: Jsources/JohnW04doc.htm
+raw: |-
+  <a name="JohnW04"></a><font size=+2>John Wayne Vining</font>
+     (son of [?])
+     b. 1 May 1942
+     m. Sylvia Ann Minix
+              (dau. of George Minix and Pauline Ball)
+              b. 3 September 1944   Ben Hill County, Georgia
+              d. 12 January 2015   Waycross, Georgia
+                    bur. Oakland Cemetery   Waycross, Georgia
+     d. 1 January 1986
+           bur. Oakland Cemetery   Waycross, Georgia
+  
+  <font size=+1>children:</font>
+     John Wayne Vining Jr.   m. Sheryl [...]
+     George Oliver Vining   m. Rena [...]
+  
+  <a href="Jsources/JohnW04doc.htm">documentation and notes</a>

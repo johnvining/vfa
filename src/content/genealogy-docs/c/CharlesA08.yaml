@@ -1,0 +1,119 @@
+id: CharlesA08
+title: Charles Arnold Vining - Mary Alice Pyle
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Arnold Vining
+          values:
+            - "?"
+            - "37"
+            - "47"
+            - "56"
+            - "67"
+            - dead
+        - label: Mary Alice (Pyle) Vining
+          values:
+            - "?"
+            - "30"
+            - "42"
+            - "50"
+            - "61"
+            - "?"
+        - label: Minnie A. Vining
+          values:
+            - "?"
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Clarence Lee Vining
+          values:
+            - ""
+            - "7"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Glenn Dale Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Harold Raymond Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Fern Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Velma Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Mildred Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Fletcher Precinct, Nez Perce County, Idaho - dwelling [20?], family [21?]
+        images:
+          - src: CharlesA08census1900.jpg
+      - year: "1910"
+        caption: Maroa Precinct, Twin Falls County, Idaho - dwelling 398, family 399
+        images:
+          - src: CharlesA08census1910a.jpg
+          - src: CharlesA08census1910b.jpg
+      - year: "1920"
+        caption: Filer Precinct, Twin Falls County, Idaho - dwelling 264, family 265
+        images:
+          - src: CharlesA08census1920.jpg
+      - year: "1930"
+        caption: >-
+          Filer Precinct, Twin Falls County, Idaho - dwelling 108, family 109. Also living in this household in 1930 was
+          granddaughter Gene Showers.
+        images:
+          - src: CharlesA08census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Harold Raymond Vining, son of Charles Arnold Vining and Mary Alice Pyle, in Filer Cemetery,
+          Filer, Twin Falls County, Idaho (from Find A Grave):
+        images:
+          - src: CharlesA08sonHaroldgravestone.jpg

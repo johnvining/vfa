@@ -1,0 +1,70 @@
+id: RichardE01
+sequence: 54
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: EmetJ01
+parentLetter: E
+parentDesc: Emet James Vining and Mary Cecilia Mayer
+head:
+  givenName: Richard Emet
+  birth:
+    date: 3 November 1911
+  death:
+    date: 16 July 1991
+    place: "(last residence: Mobile, Alabama)"
+  burial:
+    place: "Pine Crest Cemetery   Mobile, Mobile County, Alabama"
+marriages:
+  - spouse:
+      givenName: Bertie Lee
+      surname: Flowers
+      birth:
+        date: 4 October 1920
+      death:
+        date: 22 February 2003
+      burial:
+        place: "Pine Crest Cemetery   Mobile, Mobile County, Alabama"
+childrenGroups:
+  - children:
+      - name: Barbara Allen Vining
+        birth:
+          date: 22 February 1939
+        marriages:
+          - date: Wayne Lewis Hodge
+      - name: Brenda Joyce Vining
+        birth:
+          date: 22 September 1942
+        marriages:
+          - date: Horace Ray Kirkland
+        death:
+          date: 3 January 1991
+        burial:
+          place: "Serenity Memorial Gardens   Theodore, Alabama"
+      - name: (Mildred) Diane Vining
+        birth:
+          date: 1 August 1949
+        marriages:
+          - date: Jimmy Harold Stone
+      - name: Cynthia Teresa Vining
+        birth:
+          date: 7 December 1954
+docsUrl: Rsources/RichardE01doc.htm
+raw: |-
+  <a name="RichardE01"></a><font size=+2>Richard Emet Vining</font>
+     (son of <a href="Efamilies.htm#EmetJ01">Emet James Vining and Mary Cecilia Mayer</a>)
+     b. 3 November 1911
+     m. Bertie Lee Flowers
+              b. 4 October 1920
+              d. 22 February 2003
+                    bur. Pine Crest Cemetery   Mobile, Mobile County, Alabama
+     d. 16 July 1991   (last residence: Mobile, Alabama)
+           bur. Pine Crest Cemetery   Mobile, Mobile County, Alabama
+  
+  <font size=+1>children:</font>
+     Barbara Allen Vining   b. 22 February 1939   -   m. Wayne Lewis Hodge
+     Brenda Joyce Vining   b. 22 September 1942   -   m. Horace Ray Kirkland   -   d. 3 January 1991   -   bur. Serenity Memorial Gardens   Theodore, Alabama
+     (Mildred) Diane Vining   b. 1 August 1949   -   m. Jimmy Harold Stone
+     Cynthia Teresa Vining   b. 7 December 1954
+  
+  <a href="Rsources/RichardE01doc.htm">documentation and notes</a>

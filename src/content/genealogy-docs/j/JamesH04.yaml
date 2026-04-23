@@ -1,0 +1,41 @@
+id: JamesH04
+title: James Hoyt Vining - Bessie Mae [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: James Hoyt Vining
+          values:
+            - "30"
+            - "40"
+        - label: Bessie Mae ([…]) Vining
+          values:
+            - "23"
+            - "33"
+        - label: C. Davis Vining
+          values:
+            - "3"
+            - "13"
+          indent: true
+        - label: James Hoyt Vining Jr.
+          values:
+            - 1 y., [?] m.
+            - "11"
+          indent: true
+        - label: Samuel Therion Vining
+          values:
+            - ""
+            - "7"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Militia District 1451, Crisp County, Georgia - dwelling 289, family 372
+        images:
+          - src: JamesH04census1930.jpg
+      - year: "1940"
+        caption: Albany, Dougherty County, Georgia
+        images:
+          - src: JamesH04census1940.jpg

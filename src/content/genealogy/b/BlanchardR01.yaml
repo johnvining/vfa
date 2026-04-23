@@ -1,0 +1,67 @@
+id: BlanchardR01
+letter: B
+sequence: 51
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EugeneC01
+parentLetter: E
+parentDesc: Eugene Conrad Vining and Ellen Blanchard Ewell
+head:
+  givenName: Blanchard Richards
+  birth:
+    date: 3 July 1910
+    place: "Woburn, Middlesex County, Massachusetts"
+  death:
+    date: 12 February 1974
+    place: "Sarasota [County?], Florida"
+marriages:
+  - date: 18 May 1935
+    place: "Portland, Cumberland County, Maine"
+    spouse:
+      givenName: Eleanor Frances
+      surname: Brown
+      parents: (dau. of Horace French Brown and Amy Evelyn Blake)
+      birth:
+        date: 15 February 1915
+        place: "Portland, Cumberland County, Maine"
+      death:
+        date: 13 March 1990
+        place: "(last residence: Sarasota [County?], Florida)"
+childrenGroups:
+  - children:
+      - name: Joan Evelyn Vining
+        birth:
+          date: 11 March 1941
+          place: California
+        marriages:
+          - number: 1
+            date: 18 September 1965
+            spouse: Stephen Nelson Hampton
+          - number: 2
+            date: 26 June 2000
+            spouse: Albert McGovern Jr.
+      - name: Barbara Ellen Vining
+        birth:
+          date: 9 July 1943
+          place: "San Francisco, San Francisco County, California"
+        marriages:
+          - date: 13 July 1963
+            place: "San Francisco, San Francisco County, California"
+            spouse: Roger Garth Towsend Jr.
+docsUrl: Bsources/BlanchardR01doc.htm
+raw: |-
+  <a name="BlanchardR01"></a><font size=+2>Blanchard Richards Vining</font>
+     (son of <a href="Efamilies.htm#EugeneC01">Eugene Conrad Vining and Ellen Blanchard Ewell</a>)
+     b. 3 July 1910   Woburn, Middlesex County, Massachusetts
+     m. 18 May 1935   Portland, Cumberland County, Maine
+           Eleanor Frances Brown
+                 (dau. of Horace French Brown and Amy Evelyn Blake)
+                 b. 15 February 1915   Portland, Cumberland County, Maine
+                 d. 13 March 1990   (last residence: Sarasota [County?], Florida)
+     d. 12 February 1974   Sarasota [County?], Florida
+  
+  <font size=+1>children:</font>
+     Joan Evelyn Vining   b. 11 March 1941   California   -   m. (1) 18 September 1965   Stephen Nelson Hampton;   (2) 26 June 2000   Albert McGovern Jr.
+     Barbara Ellen Vining   b. 9 July 1943   San Francisco, San Francisco County, California   -   m. 13 July 1963   San Francisco, San Francisco County, California   Roger Garth Towsend Jr.
+  
+  <a href="Bsources/BlanchardR01doc.htm">documentation and notes</a>

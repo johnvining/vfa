@@ -1,0 +1,56 @@
+id: DavidM03
+sequence: 53
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JacobW01
+parentLetter: J
+parentDesc: Jacob W. Vining and Cecelia M. Gilman
+head:
+  givenName: David Miller
+  birth:
+    date: age 3 y. as of 1880 census
+    place: Massachusetts
+marriages:
+  - date: "1900"
+    place: "Beverly, Massachusetts"
+    spouse:
+      givenName: Ada Emma
+      surname: Wilkinson
+      birth:
+        date: 2 March 1881
+        place: Maine
+      death:
+        date: 11 May 1960
+      burial:
+        place: "Forest Lawn Memorial Park   Glendale, California"
+childrenGroups:
+  - children:
+      - name: Harry Winslow Vining
+        birth:
+          date: 24 November 1903
+          place: Massachusetts
+        death:
+          date: 23 January 1978
+        burial:
+          place: "Forest Lawn Memorial Park   Glendale, California"
+      - name: Guy W. Vining
+        birth:
+          date: age 4 y. as of 1910 census
+          place: Massachusetts
+docsUrl: Dsources/DavidM03doc.htm
+raw: |-
+  <a name="DavidM03"></a><font size=+2>David Miller Vining</font>
+     (son of <a href="Jfamilies.htm#JacobW01">Jacob W. Vining and Cecelia M. Gilman</a>)
+     b. age 3 y. as of 1880 census   Massachusetts
+     m. 1900   Beverly, Massachusetts
+           Ada Emma Wilkinson
+                 b. 2 March 1881   Maine
+                 d. 11 May 1960
+                       bur. Forest Lawn Memorial Park   Glendale, California
+  
+  <font size=+1>children:</font>
+     Harry Winslow Vining   b. 24 November 1903   Massachusetts   -   d. 23 January 1978   -   bur. Forest Lawn Memorial Park   Glendale, California
+     Guy W. Vining   b. age 4 y. as of 1910 census   Massachusetts
+  
+  <a href="Dsources/DavidM03doc.htm">documentation and notes</a>

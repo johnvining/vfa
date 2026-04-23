@@ -1,0 +1,61 @@
+id: ThomasM02
+letter: T
+sequence: 47
+lastUpdated: 9 March 2023
+relationship: son
+parentId: AlbertH01
+parentLetter: A
+parentDesc: Albert Helon Vining and Lillie Quillan
+head:
+  givenName: Thomas Monroe
+  birth:
+    date: 29 July 1901
+    place: "Whitfield, Georgia"
+  death:
+    date: 1 December 1985
+    place: "Atlanta, Georgia"
+marriages:
+  - date: 3 June 1923
+    place: "Chatsworth, Georgia"
+    spouse:
+      givenName: Nora Willena
+      surname: Smith
+      parents: "(dau. of John Henry Smith and Mary Elizabeth C. C. Findley)"
+      birth:
+        date: 15 October 1907
+        place: "Dalton, Georgia"
+      death:
+        date: 2 July 1992
+        place: "Atlanta, Georgia"
+childrenGroups:
+  - children:
+      - name: Thomas Monroe Vining Jr.
+        birth:
+          date: 11 August 1929
+          place: "Dalton, Georgia"
+        marriages:
+          - date: Lorraine Breen
+        death:
+          date: 15 October 1996
+          place: "Stone Mountain, Georgia"
+      - name: Maurice Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Tennessee
+docsUrl: Tsources/ThomasM02doc.htm
+raw: |-
+  <a name="ThomasM02"></a><font size=+2>Thomas Monroe Vining</font>
+     (son of <a href="Afamilies.htm#AlbertH01">Albert Helon Vining and Lillie Quillan</a>)
+     b. 29 July 1901   Whitfield, Georgia
+     m. 3 June 1923   Chatsworth, Georgia
+           Nora Willena Smith
+                 (dau. of John Henry Smith and Mary Elizabeth C. C. Findley)
+                 b. 15 October 1907   Dalton, Georgia
+                 d. 2 July 1992   Atlanta, Georgia
+     d. 1 December 1985   Atlanta, Georgia
+  
+  <font size=+1>children:</font>
+     Thomas Monroe Vining Jr.   b. 11 August 1929   Dalton, Georgia   -   m. Lorraine Breen   -   d. 15 October 1996   Stone Mountain, Georgia
+     Maurice Vining   b. age 9 y. as of 1940 census   Tennessee
+  
+  <a href="Tsources/ThomasM02doc.htm">documentation and notes</a>

@@ -1,0 +1,104 @@
+id: MerrittA01
+sequence: 25
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JosephA02
+parentLetter: J
+parentDesc: Joseph Allen Vining and Adeline Jane Baker
+head:
+  givenName: Merritt Alfred
+  birth:
+    date: 31 October 1890
+    place: "South Hadley Falls, Massachusetts"
+  death:
+    date: 2 May 1975
+    place: "Rochester, Michigan"
+  burial:
+    place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+marriages:
+  - date: 5 August 1922
+    place: "Detroit, Michigan"
+    spouse:
+      givenName: Marian Monica
+      surname: Armstrong
+      birth:
+        date: 8 August 1896
+        place: Massachusetts
+      death:
+        date: 29 April 1974
+      burial:
+        place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Rodney Merritt Vining
+        entryId: RodneyM01
+        entryLetter: R
+        birth:
+          date: 15 June 1923
+          place: "Detroit, Michigan"
+        marriages:
+          - number: 1
+            date: 14 June 1946
+            place: "Evansville, Indiana"
+            spouse: Vivian Koehler
+          - number: 2
+            date: 25 February 1959
+            place: New Hampshire
+            spouse: Elizabeth Page
+        death:
+          date: 28 June 2005
+      - name: Richard Alfred Vining
+        entryId: RichardA01
+        entryLetter: R
+        birth:
+          date: 29 January 1925
+          place: "Detroit, Michigan"
+        marriages:
+          - number: 1
+            date: 21 August 1948
+            spouse: La Vohn Teckla Coleman
+          - number: 2
+            date: "Bonnie [...]"
+        death:
+          date: 12 February 2004
+          place: "Pontiac, Michigan"
+      - name: William Joseph Vining
+        entryId: WilliamJ01
+        entryLetter: W
+        birth:
+          date: 26 July 1928
+          place: "Grand Rapids, Michigan"
+        marriages:
+          - date: 10 August 1956
+            spouse: Barbara Marie Merchant
+        death:
+          date: 21 February 2006
+        burial:
+          place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+      - name: Patricia Jane Vining
+        birth:
+          date: 16 July 1938
+          place: "Evansville, Indiana"
+        marriages:
+          - date: Arthur Wagner
+docsUrl: Msources/MerrittA01doc.htm
+raw: |-
+  <a name="MerrittA01"></a><font size=+2>Merritt Alfred Vining</font>
+     (son of <a href="Jfamilies.htm#JosephA02">Joseph Allen Vining and Adeline Jane Baker</a>)
+     b. 31 October 1890   South Hadley Falls, Massachusetts
+     m. 5 August 1922   Detroit, Michigan
+           Marian Monica Armstrong
+                 b. 8 August 1896   Massachusetts
+                 d. 29 April 1974
+                       bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     d. 2 May 1975   Rochester, Michigan
+           bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RodneyM01">Rodney Merritt Vining</a>   b. 15 June 1923   Detroit, Michigan   -   m. (1) 14 June 1946   Evansville, Indiana   Vivian Koehler;   (2) 25 February 1959   New Hampshire   Elizabeth Page   -   d. 28 June 2005
+     <a href="Rfamilies.htm#RichardA01">Richard Alfred Vining</a>   b. 29 January 1925   Detroit, Michigan   -   m. (1) 21 August 1948   La Vohn Teckla Coleman;   (2) Bonnie [...]   -   d. 12 February 2004   Pontiac, Michigan
+     <a href="Wfamilies.htm#WilliamJ01">William Joseph Vining</a>   b. 26 July 1928   Grand Rapids, Michigan   -   m. 10 August 1956   Barbara Marie Merchant   -   d. 21 February 2006   -   bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     Patricia Jane Vining   b. 16 July 1938   Evansville, Indiana   -   m. Arthur Wagner
+  
+  <a href="Msources/MerrittA01doc.htm">documentation and notes</a>

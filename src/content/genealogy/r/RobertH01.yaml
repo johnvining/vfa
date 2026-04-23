@@ -1,0 +1,91 @@
+id: RobertH01
+sequence: 102
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: John11
+parentLetter: J
+parentDesc: John Vining and Lydia Pellett
+head:
+  givenName: Robert Henry
+  birth:
+    date: 17 February 1866
+    place: Indiana
+  death:
+    date: 5 November 1937
+  burial:
+    place: "Summit Chapel Cemetery   Bourbon, Indiana"
+marriages:
+  - date: 8 September 1888
+    spouse:
+      givenName: Sarah Elizabeth
+      surname: Eaglebarger
+      birth:
+        date: 27 December 1869
+        place: Indiana
+      death:
+        date: 22 April 1959
+      burial:
+        place: "Summit Chapel Cemetery   Bourbon, Indiana"
+childrenGroups:
+  - children:
+      - name: Clarence Delbert Vining
+        entryId: ClarenceD01
+        entryLetter: C
+        birth:
+          date: 26 July 1889
+          place: Indiana
+        marriages:
+          - date: 10 February 1915
+            place: Indiana
+            spouse: Ola Guy
+        death:
+          date: 19 January 1980
+          place: "Plymouth, Indiana"
+        burial:
+          place: "Etna Green East Cemetery   Etna Township, Indiana"
+      - name: Nancy Leora Vining
+        birth:
+          date: 27 October 1893
+          place: Indiana   Raymond Lozier
+      - name: Lucetta Leona Vining
+        birth:
+          date: 14 July 1898
+          place: Indiana
+        marriages:
+          - date: Laurence Ellison
+      - name: Zedna Leotta Vining
+        birth:
+          date: 30 August 1904
+          place: Indiana
+        marriages:
+          - date: Charles Steinman
+      - name: Iloe Theodora Vining
+        birth:
+          date: 18 November 1907
+          place: Indiana
+        marriages:
+          - date: Glenn Rockhill
+        death:
+          date: 18 June 1959
+docsUrl: Rsources/RobertH01doc.htm
+raw: |-
+  <a name="RobertH01"></a><font size=+2>Robert Henry Vining</font>
+     (son of <a href="Jfamilies.htm#John11">John Vining and Lydia Pellett</a>)
+     b. 17 February 1866   Indiana
+     m. 8 September 1888
+           Sarah Elizabeth Eaglebarger
+                 b. 27 December 1869   Indiana
+                 d. 22 April 1959
+                       bur. Summit Chapel Cemetery   Bourbon, Indiana
+     d. 5 November 1937
+           bur. Summit Chapel Cemetery   Bourbon, Indiana
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ClarenceD01">Clarence Delbert Vining</a>   b. 26 July 1889   Indiana   -   m. 10 February 1915   Indiana   Ola Guy   -   d. 19 January 1980   Plymouth, Indiana   -   bur. Etna Green East Cemetery   Etna Township, Indiana
+     Nancy Leora Vining   b. 27 October 1893   Indiana   Raymond Lozier
+     Lucetta Leona Vining   b. 14 July 1898   Indiana   -   m. Laurence Ellison
+     Zedna Leotta Vining   b. 30 August 1904   Indiana   -   m. Charles Steinman
+     Iloe Theodora Vining   b. 18 November 1907   Indiana   -   m. Glenn Rockhill   -   d. 18 June 1959
+  
+  <a href="Rsources/RobertH01doc.htm">documentation and notes</a>

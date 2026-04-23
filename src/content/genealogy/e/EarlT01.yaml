@@ -1,0 +1,71 @@
+id: EarlT01
+sequence: 8
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: RobertM01
+parentLetter: R
+parentDesc: Robert Miller Vining and Lucetta Hoke
+head:
+  givenName: Earl Theodore
+  birth:
+    date: 1 June 1895
+    place: "Blackcreek, Ohio"
+  death:
+    date: "1952"
+  burial:
+    place: "Lindenwood Cemetery   Fort Wayne, Allen County, Indiana"
+marriages:
+  - spouse:
+      givenName: Ermal Pauline
+      surname: Wilson
+      birth:
+        date: 6 August 1898
+        place: Ohio
+      death:
+        date: 17 December 1945
+        place: "Dayton, Montgomery County, Ohio"
+      burial:
+        place: "Swamp College Cemetery   Celina, Mercer County, Ohio"
+childrenGroups:
+  - children:
+      - name: Wanda Vining
+        birth:
+          date: "1920"
+          place: Ohio
+        marriages:
+          - spouse: "[&#8230;] McGriff"
+        death:
+          date: "1977"
+        burial:
+          place: "West Memory Gardens Cemetery   Dayton, Ohio"
+      - name: Rex Richard Vining
+        birth:
+          date: 23 October 1922
+          place: Ohio
+        death:
+          date: 9 January 2002
+        burial:
+          place: "Southern Nevada Veterans Memorial Cemetery, Boulder City, Clark County, Nevada"
+      - name: Shirley Ann Vining
+        birth:
+          date: age 4 y. as of 1940 census
+          place: Ohio
+docsUrl: Esources/EarlT01doc.htm
+raw: |-
+  <a name="EarlT01"></a><font size=+2>Earl Theodore Vining</font>
+     (son of <a href="Rfamilies.htm#RobertM01">Robert Miller Vining and Lucetta Hoke</a>)
+     b. 1 June 1895   Blackcreek, Ohio
+     m. Ermal Pauline Wilson
+              b. 6 August 1898   Ohio
+              d. 17 December 1945   Dayton, Montgomery County, Ohio
+                    bur. Swamp College Cemetery   Celina, Mercer County, Ohio
+     d. 1952
+           bur. Lindenwood Cemetery   Fort Wayne, Allen County, Indiana
+  
+  <font size=+1>children:</font>
+     Wanda Vining   b. 1920   Ohio   -   m. [&#8230;] McGriff   -   d. 1977   -   bur. West Memory Gardens Cemetery   Dayton, Ohio
+     Rex Richard Vining   b. 23 October 1922   Ohio   -   d. 9 January 2002   -   bur. Southern Nevada Veterans Memorial Cemetery, Boulder City, Clark County, Nevada
+     Shirley Ann Vining   b. age 4 y. as of 1940 census   Ohio
+  
+  <a href="Esources/EarlT01doc.htm">documentation and notes</a>

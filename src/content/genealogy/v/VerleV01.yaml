@@ -1,0 +1,102 @@
+id: VerleV01
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentId: VernT01
+parentDesc: Vern Terrence Vining and Myrtle Maynard
+head:
+  givenName: Verle Vernon
+  birth:
+    date: 7 January 1921
+    place: "Pardeeville, Wisconsin"
+  death:
+    date: 11 November 2004
+    place: "Neshkoro, Wisconsin"
+  burial:
+    place: "Saint James Cemetery   Neshkoro, Wisconsin"
+marriages:
+  - date: 10 May 1947
+    place: "Princeton, Wisconsin"
+    spouse:
+      givenName: Alice Ruth
+      surname: Bednarek
+      parents: "(dau. of Joseph D. Bednarek and Rose M. Fromholtz)"
+      birth:
+        date: 11 August 1925
+        place: "Neshkoro, Wisconsin"
+      death:
+        date: 18 March 2009
+        place: "Berlin, Wisconsin"
+      burial:
+        place: "Saint James Cemetery   Neshkoro, Wisconsin"
+childrenGroups:
+  - children:
+      - name: Patricia Ann Vining
+        birth:
+          date: 4 April 1948
+        marriages:
+          - number: 1
+            date: "[...] Kallas"
+          - number: 2
+            date: Glenn Troost
+      - name: James DuWayne Vining
+        entryId: JamesD01
+        entryLetter: J
+        birth:
+          date: 13 November 1949
+          place: "Berlin, Wisconsin"
+        marriages:
+          - number: 1
+            date: "[...] Gozinski"
+          - number: 2
+            date: "[...] Berry"
+        death:
+          date: 6 October 1982
+          place: "Marshfield, Wisconsin"
+        burial:
+          place: "Saint James Catholic Cemetery   Neshkoro, Wisconsin"
+      - name: Terry David Vining
+        birth:
+          date: 2 September 1951
+          place: "Berlin, Wisconsin"
+        death:
+          date: 4 November 1967
+          place: "Princeton, Wisconsin"
+        burial:
+          place: "Saint James Catholic Cemetery   Neshkoro, Wisconsin"
+      - name: Mary Reta Vining
+        birth:
+          date: 13 September 1954
+        marriages:
+          - date: Kenneth Disterhaft
+      - name: Jane Marie Ellen Vining
+        birth:
+          date: 3 December 1956
+      - name: "Gerard Patrick &#8220;Peter&#8221; Vining"
+        birth:
+          date: 28 August 1959
+        marriages:
+          - date: Victoria Miller
+docsUrl: Vsources/VerleV01doc.htm
+raw: |-
+  <a name="VerleV01"></a><font size=+2>Verle Vernon Vining</font>
+     (son of <a href="#VernT01">Vern Terrence Vining and Myrtle Maynard</a>)
+     b. 7 January 1921   Pardeeville, Wisconsin
+     m. 10 May 1947   Princeton, Wisconsin
+           Alice Ruth Bednarek
+                 (dau. of Joseph D. Bednarek and Rose M. Fromholtz)
+                 b. 11 August 1925   Neshkoro, Wisconsin
+                 d. 18 March 2009   Berlin, Wisconsin
+                       bur. Saint James Cemetery   Neshkoro, Wisconsin
+     d. 11 November 2004   Neshkoro, Wisconsin
+           bur. Saint James Cemetery   Neshkoro, Wisconsin
+  
+  <font size=+1>children:</font>
+     Patricia Ann Vining   b. 4 April 1948   -   m. (1) [...] Kallas;   (2) Glenn Troost
+     <a href="Jfamilies.htm#JamesD01">James DuWayne Vining</a>   b. 13 November 1949   Berlin, Wisconsin   -   m. (1) [...] Gozinski;   (2) [...] Berry   -   d. 6 October 1982   Marshfield, Wisconsin   -   bur. Saint James Catholic Cemetery   Neshkoro, Wisconsin
+     Terry David Vining   b. 2 September 1951   Berlin, Wisconsin   -   d. 4 November 1967   Princeton, Wisconsin   -   bur. Saint James Catholic Cemetery   Neshkoro, Wisconsin
+     Mary Reta Vining   b. 13 September 1954   -   m. Kenneth Disterhaft
+     Jane Marie Ellen Vining   b. 3 December 1956
+     Gerard Patrick &#8220;Peter&#8221; Vining   b. 28 August 1959   -   m. Victoria Miller
+  
+  <a href="Vsources/VerleV01doc.htm">documentation and notes</a>

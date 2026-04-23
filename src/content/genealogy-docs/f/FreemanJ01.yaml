@@ -1,0 +1,46 @@
+id: FreemanJ01
+title: Freeman Judson Vining - Susie Gertrude Sellers
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Freeman Judson Vining
+          values:
+            - "25"
+            - "36"
+        - label: Susie Gertrude (Sellers) Vining
+          values:
+            - "30"
+            - "40"
+        - label: Freeman Judson Vining Jr.
+          values:
+            - "[3?] m."
+            - "10"
+          indent: true
+        - label: Beverly Anne Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Jacqueline Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+        - label: Rodney Lamar Vining
+          values:
+            - ""
+            - 5 m.
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Jacksonville, Duval County, Florida - dwelling 27, family 27
+        images:
+          - src: FreemanJ01census1930.jpg
+      - year: "1940"
+        caption: Jacksonville, Duval County, Florida
+        images:
+          - src: FreemanJ01census1940.jpg

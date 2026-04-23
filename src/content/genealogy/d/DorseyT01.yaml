@@ -1,0 +1,72 @@
+id: DorseyT01
+sequence: 90
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnW05
+parentLetter: J
+parentDesc: John Wesley Vining and Lucy Pashley
+head:
+  givenName: Dorsey T.
+  birth:
+    date: 17 January 1893
+    place: "Thomaston, Georgia"
+  death:
+    date: 4 January 1941
+    place: "Opelika, Alabama"
+  burial:
+    place: "Rosemere Cemetery   Opelika, Alabama"
+marriages:
+  - date: 29 August 1916
+    place: "Houston County, Georgia"
+    spouse:
+      givenName: Bertha Jewell
+      surname: Pritchard
+      birth:
+        date: age 19 y. as of 1920 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Dorsey Mae Vining
+        birth:
+          date: age 10 m. as of 1920 census
+          place: Georgia
+      - name: Thomas F. Vining
+        entryId: ThomasF03
+        entryLetter: T
+        birth:
+          date: 21 December 1921
+          place: "[Georgia or Alabama?]"
+        marriages:
+          - date: 11 October 1941
+            spouse: Frances Callen Close
+        death:
+          date: 21 January 2009
+          place: "Oak Island, Brunswick County, North Carolina"
+        burial:
+          description: "cremated, ashes distributed to various individuals"
+      - name: Pearlie J. Vining
+        birth:
+          date: "age 1 y., 6 m. at of 1930 census"
+          place: Georgia
+      - name: Pat Vining
+        marriages:
+          - spouse: "[...] Hullett"
+docsUrl: Dsources/DorseyT01doc.htm
+raw: |-
+  <a name="DorseyT01"></a><font size=+2>Dorsey T. Vining</font>
+     (son of <a href="Jfamilies.htm#JohnW05">John Wesley Vining and Lucy Pashley</a>)
+     b. 17 January 1893   Thomaston, Georgia
+     m. 29 August 1916   Houston County, Georgia
+           Bertha Jewell Pritchard
+                 b. age 19 y. as of 1920 census   Georgia
+     d. 4 January 1941   Opelika, Alabama
+           bur. Rosemere Cemetery   Opelika, Alabama
+  
+  <font size=+1>children:</font>
+     Dorsey Mae Vining   b. age 10 m. as of 1920 census   Georgia
+     <a href="Tfamilies.htm#ThomasF03">Thomas F. Vining</a>   b. 21 December 1921   [Georgia or Alabama?]   -   m. 11 October 1941   Frances Callen Close   -   d. 21 January 2009   Oak Island, Brunswick County, North Carolina   -   cremated, ashes distributed to various individuals
+     Pearlie J. Vining   b. age 1 y., 6 m. at of 1930 census   Georgia
+     Pat Vining   m. [...] Hullett
+  
+  <a href="Dsources/DorseyT01doc.htm">documentation and notes</a>

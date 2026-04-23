@@ -1,0 +1,54 @@
+id: RalphS01
+title: Ralph Spellman Vining - Lura E. Baker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Ralph Spellman Vining
+          values:
+            - "28"
+        - label: Lura E. (Baker) Vining
+          values:
+            - "24"
+        - label: Eugene Ralph Vining
+          values:
+            - "5"
+          indent: true
+        - label: R[ene?] Vining
+          values:
+            - "4"
+          indent: true
+        - label: Lawrence Vining
+          values:
+            - "3"
+          indent: true
+        - label: Ronald Vining
+          values:
+            - living in separate household
+          indent: true
+        - label: Royal Dean Vining
+          values:
+            - "1"
+          indent: true
+        - label: Nancy Vining
+          values:
+            - ""
+          indent: true
+        - label: Judy Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Comstock, Kalamazoo County, Michigan
+        images:
+          - src: RalphS01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ralph Spellman Vining and Lura E. (Baker) Vining, in Mount Ever-Rest Memorial Park South,
+          Kalamazoo, Kalamazoo County, Michigan (from Find A Grave):
+        images:
+          - src: RalphS01andwifeheadstone.jpg

@@ -1,0 +1,57 @@
+id: CarlF01
+title: Carl F. Vining - Grace E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Carl F. Vining
+          values:
+            - "34"
+            - "45"
+            - "54"
+        - label: Grace E. ([…]) Vining
+          values:
+            - "35"
+            - "46"
+            - "56"
+        - label: John S. Vining
+          values:
+            - 1 y., 2 m.
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Doris E. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Emily R. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+        - label: Carlton F. Vining Jr.
+          values:
+            - ""
+            - 2 y., [8?] m.
+            - "12"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Sacramento (precinct 28), Sacramento County, California - dwelling 196, family 206
+        images:
+          - src: CarlF01census1920.jpg
+      - year: "1930"
+        caption: Sacramento (assembly district 14), Sacramento County, California - dwelling 79, family 83
+        images:
+          - src: CarlF01census1930.jpg
+      - year: "1920"
+        caption: Sacramento, Sacramento County, California
+        images:
+          - src: CarlF01census1940.jpg

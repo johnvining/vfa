@@ -1,0 +1,56 @@
+id: GeorgeJ02
+letter: G
+sequence: 27
+lastUpdated: 22 July 2022
+relationship: son
+parentId: Thomas02
+parentLetter: T
+parentDesc: Thomas Vining and Wealthy Weston
+head:
+  givenName: George J.
+  birth:
+    date: age 58 y. as of 1860 census
+    place: Connecticut
+marriages:
+  - spouse:
+      givenName: Delinda
+      surname: Tuller
+      parents: "(dau. of Asaph Tuller and Ruth Case)"
+      birth:
+        date: age 54 y. as of 1860 census
+        place: Connecticut
+      death:
+        date: 14 May 1875
+        place: "Mount Kisco, Westchester County, New York"
+childrenGroups:
+  - children:
+      - name: Harriet Vining
+        birth:
+          date: July 1828
+      - name: Georgiana Vining
+        birth:
+          date: age 21 y. as of 1860 census
+          place: New York
+        death:
+          date: 21 March 1920
+          place: "Alameda County, California"
+      - name: Edward A. Vining
+        birth:
+          date: age 20 y. as of 1860 census
+          place: New York
+docsUrl: Gsources/GeorgeJ02doc.htm
+raw: |-
+  <a name="GeorgeJ02"></a><font size=+2>George J. Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas02">Thomas Vining and Wealthy Weston</a>)
+     b. age 58 y. as of 1860 census   Connecticut
+     m. Delinda Tuller
+              (dau. of Asaph Tuller and Ruth Case)
+              b. age 54 y. as of 1860 census   Connecticut
+              d. 14 May 1875   Mount Kisco, Westchester County, New York
+  
+  <font size=+1>children:</font>
+     Harriet Vining   b. July 1828
+     Georgiana Vining   b. age 21 y. as of 1860 census   New York   -   d. 21 March 1920   Alameda County, California
+     Edward A. Vining   b. age 20 y. as of 1860 census   New York
+  
+  <a href="Gsources/GeorgeJ02doc.htm">documentation and notes</a>

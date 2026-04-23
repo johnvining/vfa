@@ -1,0 +1,114 @@
+id: JuliusC01
+title: Julius Cornelius Vining - Mattie Lee Johnson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Julius Cornelius Vining
+          values:
+            - "32"
+            - "42"
+            - dead
+            - ""
+            - ""
+        - label: Mattie Lee (Johnson) Vining
+          values:
+            - "29"
+            - "41"
+            - "?"
+            - "?"
+            - dead
+        - label: Essie I. Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Louis Vining
+          values:
+            - "7"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Daisy I. Vining
+          values:
+            - "5"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lawry B. Vining
+          values:
+            - "3"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lew[…] Vining
+          values:
+            - 5 m.
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Albert Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: George Howard Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Walter Lawson Vining
+          values:
+            - ""
+            - 1 y., 6 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Precinct 1, Rockwall County, Texas - dwelling 172, family 177
+        images:
+          - src: JuliusC01census1900.jpg
+      - year: "1910"
+        caption: Precinct 3, Hunt County, Texas - dwelling 26, family 26
+        images:
+          - src: JuliusC01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Julius Cornelius Vining and Mattie Lee (Johnson) Vining, in Odd Fellows Cemetery, Caddo Mills,
+          Hunt County, Texas (from Find A Grave):
+        images:
+          - src: JuliusC01andwifeheadstone.jpg

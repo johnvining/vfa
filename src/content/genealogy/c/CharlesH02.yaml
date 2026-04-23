@@ -1,0 +1,63 @@
+id: CharlesH02
+letter: C
+sequence: 76
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasR02
+parentLetter: T
+parentDesc: Thomas Reese Vining and Lydia Jane Pope
+head:
+  givenName: Charles Herman
+  birth:
+    date: 18 April 1895
+  death:
+    date: July 1967
+  burial:
+    place: "Greenlawn Memorial Park   Columbia, South Carolina"
+marriages:
+  - spouse:
+      givenName: Mary Ellen
+      surname: Blume
+      birth:
+        date: "1902"
+      death:
+        date: "1978"
+childrenGroups:
+  - children:
+      - name: Robert Leonard Vining
+        entryId: RobertL08
+        entryLetter: R
+        birth:
+          date: "1919"
+        marriages:
+          - date: "Clisher &#8220;Tiny&#8221; Hutto"
+        death:
+          date: "1985"
+      - name: Thomas William Vining
+        birth:
+          date: "1922"
+        marriages:
+          - date: Martha Matthews
+        death:
+          date: "1988"
+      - name: Jesse David Vining
+        birth:
+          date: "1926"
+        marriages:
+          - date: Edna Eddie
+        death:
+          date: "1975"
+raw: |-
+  <a name="CharlesH02"></a><font size=+2>Charles Herman Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasR02">Thomas Reese Vining and Lydia Jane Pope</a>)
+     b. 18 April 1895
+     m. Mary Ellen Blume
+              b. 1902
+              d. 1978
+     d. July 1967
+           bur. Greenlawn Memorial Park   Columbia, South Carolina
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RobertL08">Robert Leonard Vining</a>   b. 1919   -   m. Clisher &#8220;Tiny&#8221; Hutto   -   d. 1985
+     Thomas William Vining   b. 1922   -   m. Martha Matthews   -   d. 1988
+     Jesse David Vining   b. 1926   -   m. Edna Eddie   -   d. 1975

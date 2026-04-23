@@ -1,0 +1,61 @@
+id: GeorgeMJr01
+letter: G
+sequence: 34
+lastUpdated: 22 July 2022
+relationship: son
+parentId: GeorgeM01
+parentDesc: George Matthew Vining and Tillie Elizabeth Sizemore
+head:
+  givenName: George Matthew Jr.
+  birth:
+    date: 26 November 1930
+  death:
+    date: 4 June 2018
+    place: "Jackson, Mississippi"
+marriages:
+  - spouse:
+      givenName: "[1?] Deleslyn"
+      surname: Bland
+      parents: "(dau. of H. K. Bland and [&#8230;] [&#8230;]"
+      birth:
+        date: age 44 y. at death
+      death:
+        date: 2 May 1975
+        place: "Greenwood, Mississippi"
+      burial:
+        place: "Drew Cemetery   Drew, Mississippi"
+    note: "[2?] 41 y. as of 2018   Jo Anne [&#8230;]"
+childrenGroups:
+  - children:
+      - name: David Bland Vining
+        entryId: DavidB02
+        entryLetter: D
+        birth:
+          date: 27 November 1950
+        marriages:
+          - date: Vicki Waan
+      - name: Diane Elizabeth Vining
+        birth:
+          date: 19 April 1955
+        marriages:
+          - date: "[1?] [&#8230;] Lehman;"
+            spouse: "[2?] [&#8230;] Myers"
+docsUrl: Gsources/GeorgeMJr01doc.htm
+raw: |-
+  <a name="GeorgeMJr01"></a><font size=+2>George Matthew Vining Jr.</font>
+     (son of <a href="#GeorgeM01">George Matthew Vining and Tillie Elizabeth Sizemore</a>)
+     b. 26 November 1930
+     m. [1?] Deleslyn Bland
+                    (dau. of H. K. Bland and [&#8230;] [&#8230;]
+                    b. age 44 y. at death
+                    d. 2 May 1975   Greenwood, Mississippi
+                          bur. Drew Cemetery   Drew, Mississippi
+           [2?] 41 y. as of 2018
+                 Jo Anne [&#8230;]
+     d. 4 June 2018   Jackson, Mississippi
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DavidB02">David Bland Vining</a>   b. 27 November 1950   -   m. Vicki Waan
+     Diane Elizabeth Vining   b. 19 April 1955   -   m. [1?] [&#8230;] Lehman;   [2?] [&#8230;] Myers
+  
+  <a href="Gsources/GeorgeMJr01doc.htm">documentation and notes</a>

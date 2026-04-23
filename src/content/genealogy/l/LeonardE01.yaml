@@ -1,0 +1,82 @@
+id: LeonardE01
+sequence: 41
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: JamesC03
+parentLetter: J
+parentDesc: James Clinton Vining and Alice Henley
+head:
+  givenName: Leonard Edwin
+  birth:
+    date: February 1892
+    place: Georgia
+marriages:
+  - date: 7 September 1913
+    place: "Elizabeth City, North Carolina"
+    spouse:
+      givenName: Ada Albena
+      surname: Walker
+      parents: "(dau. of T. M. Walker and Maggie [&#8230;])"
+      birth:
+        date: age 35 y. as of 1930 census
+        place: North Carolina
+childrenGroups:
+  - children:
+      - name: Leonard Edwin Vining Jr.
+        entryId: LeonardEJr01
+        birth:
+          date: age 15 y. as of 1930 census
+          place: Virginia
+        marriages:
+          - date: Sara Virginia Drury
+        death:
+          date: 27 September 1972
+        burial:
+          place: "Forest Lawn Cemetery   Norfolk, Virginia"
+      - name: Clarence Walker Vining
+        entryId: ClarenceW01
+        entryLetter: C
+        birth:
+          date: 24 February 1916
+          place: "Washington, District of Columbia"
+        marriages:
+          - date: November 1941
+            spouse: Marjorie Dare Richardson
+        death:
+          date: 27 February 2002
+          place: "Dickson, Tennessee"
+        burial:
+          place: "Union Cemetery   Dickson, Tennessee"
+      - name: Gordon Geoffrey Vining
+        entryId: GordonG01
+        entryLetter: G
+        birth:
+          date: August 1918
+          place: "Washington, District of Columbia"
+        marriages:
+          - date: Martha Yarbro
+        death:
+          date: 16 April 1945
+          place: "Tokyo, Japan"
+      - name: Winifred Lucille Vining
+        birth:
+          date: 27 January 1920
+          place: "Norfolk, Virginia"
+docsUrl: Lsources/LeonardE01doc.htm
+raw: |-
+  <a name="LeonardE01"></a><font size=+2>Leonard Edwin Vining</font>
+     (son of <a href="Jfamilies.htm#JamesC03">James Clinton Vining and Alice Henley</a>)
+     b. February 1892   Georgia
+     m. 7 September 1913   Elizabeth City, North Carolina
+           Ada Albena Walker
+                 (dau. of T. M. Walker and Maggie [&#8230;])
+                 b. age 35 y. as of 1930 census   North Carolina
+  
+  <font size=+1>children:</font>
+     <a href="#LeonardEJr01">Leonard Edwin Vining Jr.</a>   b age 15 y. as of 1930 census   Virginia   -   m. Sara Virginia Drury   -   d. 27 September 1972   -   bur. Forest Lawn Cemetery   Norfolk, Virginia
+     <a href="Cfamilies.htm#ClarenceW01">Clarence Walker Vining</a>   b. 24 February 1916   Washington, District of Columbia   -   m. November 1941   Marjorie Dare Richardson   -   d. 27 February 2002   Dickson, Tennessee   -   bur. Union Cemetery   Dickson, Tennessee
+     <a href="Gfamilies.htm#GordonG01">Gordon Geoffrey Vining</a>   b. August 1918   Washington, District of Columbia   -   m. Martha Yarbro   -   d. 16 April 1945   Tokyo, Japan
+     Winifred Lucille Vining   b. 27 January 1920   Norfolk, Virginia
+     
+  <a href="Lsources/LeonardE01doc.htm">documentation and notes</a>

@@ -1,0 +1,70 @@
+id: RandallO01
+sequence: 8
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WinfieldR01
+parentLetter: W
+parentDesc: Winfield R. Vining and Elizabeth S. Hackett
+head:
+  givenName: Randall Othello
+  birth:
+    date: 2 August 1907
+    place: "Strong, Franklin County, Maine"
+  death:
+    date: 29 August 1983
+    place: "(last residence: Royalston, Massachusetts)"
+  burial:
+    place: "Lawrence Brook Cemetery   Royalston, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Arline Emma
+      surname: Shine
+      parents: "(dau. of Walter James Shine and Lucy Ann Hudson)"
+      birth:
+        date: 15 September 1920
+      death:
+        date: 4 April 2009
+        place: "West Swanzer, New Hampshire"
+      burial:
+        place: "Lawrence Brook CVemetery   Royalston, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Randall Winfield Vining
+        entryId: RandallW01
+        birth:
+          date: 17 March 1940
+        death:
+          date: 16 January 2011
+          place: "East Longmeadow, Massachusetts"
+        burial:
+          place: "Lawrence Brook Cemetery   Royalston, Massachusetts"
+      - name: Ann Vining
+        marriages:
+          - date: Ronald Bedaw
+      - name: Ted Vining
+        marriages:
+          - date: "Eileen [...]"
+      - name: Glen Vining
+        marriages:
+          - date: "Trahesa [...]"
+docsUrl: Rsources/RandallO01doc.htm
+raw: |-
+  <a name="RandallO01"></a><font size=+2>Randall Othello Vining</font>
+     (son of <a href="Wfamilies.htm#WinfieldR01">Winfield R. Vining and Elizabeth S. Hackett</a>)
+     b. 2 August 1907   Strong, Franklin County, Maine
+     m. Arline Emma Shine
+              (dau. of Walter James Shine and Lucy Ann Hudson)
+              b. 15 September 1920
+              d. 4 April 2009   West Swanzer, New Hampshire
+                    bur. Lawrence Brook CVemetery   Royalston, Massachusetts
+     d. 29 August 1983   (last residence: Royalston, Massachusetts)
+           bur. Lawrence Brook Cemetery   Royalston, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#RandallW01">Randall Winfield Vining</a>   b. 17 March 1940   -   d. 16 January 2011   East Longmeadow, Massachusetts   -   bur. Lawrence Brook Cemetery   Royalston, Massachusetts
+     Ann Vining   m. Ronald Bedaw
+     Ted Vining   m. Eileen [...]
+     Glen Vining   m. Trahesa [...]
+  
+  <a href="Rsources/RandallO01doc.htm">documentation and notes</a>

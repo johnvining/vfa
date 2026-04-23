@@ -1,0 +1,92 @@
+id: UriahBJr01
+title: Uriah Blanchard Vining Jr. - Kitty Bailey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+      rows:
+        - label: Uriah Blanchard Vining Jr.
+          values:
+            - "?"
+            - "?"
+            - M 40–50
+            - "[53?]"
+        - label: Kitty (Bailey) Vining
+          values:
+            - "?"
+            - "?"
+            - F 30–40
+            - "[dead?]"
+        - label: Eunice Jane Vining
+          values:
+            - ""
+            - "?"
+            - F 15–20
+            - living in separate household
+          indent: true
+        - label: Serena Vining
+          values:
+            - ""
+            - "?"
+            - F 15–20
+            - "28"
+          indent: true
+        - label: Stephen Vining
+          values:
+            - ""
+            - ""
+            - M 5–10
+            - "19"
+          indent: true
+        - label: James Blanchard Vining
+          values:
+            - ""
+            - ""
+            - M 5–10
+            - "16"
+          indent: true
+        - label: Francis Vining
+          values:
+            - ""
+            - ""
+            - M under 5
+            - "14"
+          indent: true
+        - label: Catherine Vining
+          values:
+            - ""
+            - ""
+            - F under 5
+            - "12"
+          indent: true
+        - label: Frances Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1840"
+        caption: >-
+          East Baton Rouge County, Louisiana. Also living in this household in 1840 were 1 white male 20–30, 1 white
+          female under 5, 1 white female 10–15, and 1 female slave 10–24.
+        images:
+          - src: UriahBJr01census1840a.jpg
+          - src: UriahBJr01census1840b.jpg
+      - year: "1850"
+        caption: Ward 11, East Baton Rouge County, Louisiana - dwelling 997, family 997
+        images:
+          - src: UriahBJr01census1850a.jpg
+          - src: UriahBJr01census1850b.jpg
+  - type: military
+    items:
+      - caption: "War of 1812 cards for Uriah Blanchard Vining Jr.:"
+        images:
+          - src: UriahBJr01Warof1812card1.jpg
+          - src: UriahBJr01Warof1812card2.jpg
+        inline: true

@@ -1,0 +1,68 @@
+id: CarltonM01
+letter: C
+sequence: 22
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MauriceA01
+parentLetter: M
+parentDesc: Maurice Alonzo Vining and Mary Grace Morris
+head:
+  givenName: Carlton M.
+  birth:
+    date: 20 April 1891
+    place: "Cass County, Michigan"
+  death:
+    date: "1934"
+  burial:
+    place: "Lakeside Cemetery   Decatur, Van Buren County, Michigan"
+marriages:
+  - date: 11 September 1915
+    place: "Decatur, Van Buren County, Michigan"
+    spouse:
+      givenName: Cecil B.
+      surname: Hedges
+      birth:
+        date: "1891"
+        place: Michigan
+      death:
+        date: "1966"
+      burial:
+        place: "Lakeside Cemetery   Decatur, Van Buren County, Michigan"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Marion A. Vining
+        birth:
+          date: "age 1 y., 4 m. as of 1920 census"
+          place: Michigan
+        marriages:
+          - date: Robert Hartman
+      - name: Robert Morris Vining
+        birth:
+          date: 17 March 1926
+          place: "Niles, Michigan"
+        marriages:
+          - date: Dorothy Elizabeth Burgner
+        death:
+          date: 12 April 2000
+          place: "Fort Worth, Tarrant County, Texas"
+        burial:
+          place: "Greenwood Memorial Park and Mausoleum   Fort Worth, Tarrant County, Texas"
+docsUrl: Csources/CarltonM01doc.htm
+raw: |-
+  <a name="CarltonM01"></a><font size=+2>Carlton M. Vining</font>
+     (son of <a href="Mfamilies.htm#MauriceA01">Maurice Alonzo Vining and Mary Grace Morris</a>)
+     b. 20 April 1891   Cass County, Michigan
+     m. 11 September 1915   Decatur, Van Buren County, Michigan
+           Cecil B. Hedges
+                 b. 1891   Michigan
+                 d. 1966
+                       bur. Lakeside Cemetery   Decatur, Van Buren County, Michigan
+     d. 1934
+           bur. Lakeside Cemetery   Decatur, Van Buren County, Michigan
+  
+  <font size=+1>child:</font>
+     Marion A. Vining   b. age 1 y., 4 m. as of 1920 census   Michigan   -   m. Robert Hartman
+     Robert Morris Vining   b. 17 March 1926   Niles, Michigan   -   m. Dorothy Elizabeth Burgner   -   d. 12 April 2000   Fort Worth, Tarrant County, Texas   -   bur. Greenwood Memorial Park and Mausoleum   Fort Worth, Tarrant County, Texas
+  
+  <a href="Csources/CarltonM01doc.htm">documentation and notes</a>

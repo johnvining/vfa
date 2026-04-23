@@ -1,0 +1,159 @@
+id: Samuel10
+title: Samuel Vining - Lucy Cooley
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Samuel Vining and Lucy Cooley:"
+        images:
+          - src: Samuel10marriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Samuel Vining
+          values:
+            - "30"
+            - "40"
+            - "[52?]"
+            - "60"
+            - "?"
+            - "?"
+        - label: Lucy (Cooley) Vining
+          values:
+            - "26"
+            - "34"
+            - "46"
+            - "50"
+            - dead
+            - ""
+        - label: John Vining
+          values:
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Warner Emerson Vining
+          values:
+            - "3"
+            - "12"
+            - "22"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: William Hallet Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Simeon B. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Phebe C. Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "22"
+            - "?"
+            - "?"
+          indent: true
+        - label: Eva J. Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Ada Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Elisabeth Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: David Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Bennington Township, Morrow County, Ohio - dwelling 582, family 590
+        images:
+          - src: Samuel10census1850.jpg
+      - year: "1860"
+        caption: Bennington Township, Morrow County, Ohio - dwelling 223, family 222
+        images:
+          - src: Samuel10census1860a.jpg
+          - src: Samuel10census1860b.jpg
+      - year: "1870"
+        caption: Bennington, Morrow County, Ohio - dwelling 39, family 39
+        images:
+          - src: Samuel10census1870.jpg
+      - year: "1880"
+        caption: Bennington, Morrow County, Ohio - dwelling 120, family 127
+        images:
+          - src: Samuel10census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Eva J. Vining, daughter of Samuel Vining and Lucy Cooley, in Ashley Union Cemetery, Ashley, Ohio
+          (from Find A Grave):
+        images:
+          - src: Samuel10daughterEvaheadstonefront.jpg
+          - src: Samuel10daughterEvaheadstoneback.jpg

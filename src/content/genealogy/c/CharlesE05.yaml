@@ -1,0 +1,54 @@
+id: CharlesE05
+letter: C
+sequence: 64
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CabbleJ01
+parentDesc: Cabble J. Vining and Bess Ruth Infield
+head:
+  givenName: Charles Eugene
+  birth:
+    date: 11 February 1920
+    place: Missouri
+  death:
+    date: 25 December 1990
+  burial:
+    place: "Riverview Cemetery   Hamilton, Montana"
+marriages:
+  - date: 7 August 1949
+    spouse:
+      givenName: Alma Rose
+      surname: Downing
+      parents: (dau. of Samuel Albert Downing and Margarite Ann Oertle)
+      birth:
+        date: 24 October 1921
+        place: "Los Angeles, California"
+      death:
+        date: 23 August 2015
+        place: "Hamilton, Montana"
+      burial:
+        place: "Riverview Cemetery   Hamilton, Montana"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Robert Vining
+        entryId: Robert10
+        entryLetter: R
+docsUrl: Csources/CharlesE05doc.htm
+raw: |-
+  <a name="CharlesE05"></a><font size=+2>Charles Eugene Vining</font>
+     (son of <a href="#CabbleJ01">Cabble J. Vining and Bess Ruth Infield</a>)
+     b. 11 February 1920   Missouri
+     m. 7 August 1949
+           Alma Rose Downing
+                 (dau. of Samuel Albert Downing and Margarite Ann Oertle)
+                 b. 24 October 1921   Los Angeles, California
+                 d. 23 August 2015   Hamilton, Montana
+                       bur. Riverview Cemetery   Hamilton, Montana
+     d. 25 December 1990
+           bur. Riverview Cemetery   Hamilton, Montana
+  
+  <font size=+1>child:</font>
+     <a href="Rfamilies.htm#Robert10">Robert Vining</a>
+  
+  <a href="Csources/CharlesE05doc.htm">documentation and notes</a>

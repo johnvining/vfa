@@ -1,0 +1,40 @@
+id: William09
+sequence: 61
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William
+marriages:
+  - spouse:
+      givenName: Lina
+      surname: Dodhe
+childrenGroups:
+  - children:
+      - name: "Francis &#8220;Frank&#8221; Vining"
+        entryId: Francis01
+        entryLetter: F
+        birth:
+          date: 16 September 1859
+          place: "Portland, Indiana"
+        marriages:
+          - date: 17 March 1893
+            spouse: "Sarah &#8220;Sadie&#8221; Hoon"
+        death:
+          date: ca. 1926
+      - name: William Philip Vining +
+        birth:
+          date: "1876"
+        marriages:
+          - date: Jennie Mae Hoon
+        death:
+          date: 22 May 1954
+raw: |-
+  <a name="William09"></a><font size=+2>William Vining</font>
+     (son of [?])
+     m. Lina Dodhe
+  
+  <font size=+1>children:</font>
+     <a href="Ffamilies.htm#Francis01">Francis &#8220;Frank&#8221; Vining</a>   b. 16 September 1859   Portland, Indiana   -   m. 17 March 1893   Sarah &#8220;Sadie&#8221; Hoon   -   d. ca. 1926
+     William Philip Vining +    b. 1876   -   m. Jennie Mae Hoon   -   d. 22 May 1954

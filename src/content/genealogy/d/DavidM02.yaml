@@ -1,0 +1,70 @@
+id: DavidM02
+sequence: 55
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JamesB03
+parentLetter: J
+parentDesc: James Benjamin Vining and Clara Rosella Hand
+head:
+  givenName: David Minton
+  birth:
+    date: 13 December 1907
+    place: "Marshallville, Georgia"
+  death:
+    date: 19 March 1964
+    place: "Fort Valley, Georgia"
+  burial:
+    place: "Oaklawn Cemetery   Fort Valley, Georgia"
+marriages:
+  - date: 14 July 1934
+    place: "Miami, Florida"
+    spouse:
+      givenName: Elender Christine
+      surname: Ragan
+      parents: "(dau. of Edgar Rufus Ragan and Lilla Vertna Pearce)"
+      birth:
+        date: 1 November 1915
+        place: "Blakely, Georgia"
+      death:
+        date: 13 March 1990
+        place: "Macon, Georgia"
+childrenGroups:
+  - children:
+      - name: Davine Vining
+        birth:
+          date: "1935"
+          place: "Miami, Florida"
+        marriages:
+          - spouse: Floyd Edward Campbell
+        death:
+          date: 8 December 2014
+          place: Georgia
+        burial:
+          place: "Oaklawn Cemetery   Fort Valley, Georgia"
+      - name: Frances Gayle Vining
+        birth:
+          date: 15 April 1943
+          place: Georgia
+        marriages:
+          - date: 8 September 1963
+            place: Georgia
+            spouse: Robert Lee Wells III
+        death:
+          date: 27 November 1987
+          place: "Tuscaloosa, Alabama"
+raw: |-
+  <a name="DavidM02"></a><font size=+2>David Minton Vining</font>
+     (son of <a href="Jfamilies.htm#JamesB03">James Benjamin Vining and Clara Rosella Hand</a>)
+     b. 13 December 1907   Marshallville, Georgia
+     m. 14 July 1934   Miami, Florida
+           Elender Christine Ragan
+                 (dau. of Edgar Rufus Ragan and Lilla Vertna Pearce)
+                 b. 1 November 1915   Blakely, Georgia
+                 d. 13 March 1990   Macon, Georgia
+     d. 19 March 1964   Fort Valley, Georgia
+           bur. Oaklawn Cemetery   Fort Valley, Georgia
+  
+  <font size=+1>children:</font>
+     Davine Vining   b. 1935   Miami, Florida   -   m. Floyd Edward Campbell   -   d. 8 December 2014   Georgia   -   bur. Oaklawn Cemetery   Fort Valley, Georgia
+     Frances Gayle Vining   b. 15 April 1943   Georgia   -   m. 8 September 1963   Georgia   Robert Lee Wells III   -   d. 27 November 1987   Tuscaloosa, Alabama

@@ -1,0 +1,79 @@
+id: JosephH01
+sequence: 311
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Elias02
+parentLetter: E
+parentDesc: Elias Vining and Nancy Tirrell
+head:
+  givenName: Joseph H.
+  birth:
+    date: 22 October 1830
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: "1885"
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 19 July 1849
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: "Ann[a?] Mehitable"
+      surname: Holbrook
+      parents: "(dau. of David Holbrook and Ann [Rice?])"
+      birth:
+        date: 5 December 1834
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: "1903"
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Carrie A. Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Massachusetts
+      - name: Fred R. Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Massachusetts
+      - name: Nancy Anna Vining
+        birth:
+          date: age 7 y. as of 1870 census
+          place: Massachusetts
+      - name: David Wallace Vining
+        birth:
+          date: March 1874
+          place: Massachusetts
+      - name: Ralph L. Vining
+        birth:
+          date: October 1879
+          place: Massachusetts
+      - name: (child) Vining
+        death:
+          date: before 1900 census
+      - name: (child) Vining
+        death:
+          date: before 1900 census
+docsUrl: Jsources/JosephH01doc.htm
+raw: |-
+  <a name="JosephH01"></a><font size=+2>Joseph H. Vining</font>
+     (son of <a href="Efamilies.htm#Elias02">Elias Vining and Nancy Tirrell</a>)
+     b. 22 October 1830   Weymouth, Norfolk County, Massachusetts
+     m. 19 July 1849   Weymouth, Norfolk County, Massachusetts
+           Ann[a?] Mehitable Holbrook
+                 (dau. of David Holbrook and Ann [Rice?])
+                 b. 5 December 1834   Weymouth, Norfolk County, Massachusetts
+                 d. 1903   Weymouth, Norfolk County, Massachusetts
+     d. 1885   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Carrie A. Vining   b. age 1 y. as of 1860 census   Massachusetts
+     Fred R. Vining   b. age 9 y. as of 1870 census   Massachusetts
+     Nancy Anna Vining   b. age 7 y. as of 1870 census   Massachusetts
+     David Wallace Vining   b. March 1874   Massachusetts
+     Ralph L. Vining   b. October 1879   Massachusetts
+     (child) Vining   d. before 1900 census
+     (child) Vining   d. before 1900 census
+  
+  <a href="Jsources/JosephH01doc.htm">documentation and notes</a>

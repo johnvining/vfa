@@ -1,0 +1,58 @@
+id: JamesA07
+sequence: 33
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: KennethE02
+parentLetter: K
+parentDesc: Kenneth E. Vining and Rachel A. Lane
+head:
+  givenName: James Arthur
+  birth:
+    date: 9 August 1937
+    place: "Marengo, Ohio"
+  death:
+    date: 6 June 2017
+    place: "Columbus, Ohio"
+  burial:
+    place: "Mansfield Cemetery   Mansfield, Ohio"
+marriages:
+  - spouse:
+      givenName: Esther
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: James Vining
+      - name: Kevin Vining
+        marriages:
+          - date: "Kathy [&#8230;]"
+      - name: Rachel Vining
+        marriages:
+          - date: Bill Cameron
+      - name: Charles Vining
+      - name: Harvey Vining
+        marriages:
+          - date: "Mary [&#8230;]"
+      - name: Becky Vining
+        marriages:
+          - date: Charles Whitt
+      - name: Clifford Vining
+docsUrl: Jsources/JamesA07doc.htm
+raw: |-
+  <a name="JamesA07"></a><font size=+2>James Arthur Vining</font>
+     (son of <a href="Kfamilies.htm#KennethE02">Kenneth E. Vining and Rachel A. Lane</a>)
+     b. 9 August 1937   Marengo, Ohio
+     m. Esther [&#8230;]
+     d. 6 June 2017   Columbus, Ohio
+           bur. Mansfield Cemetery   Mansfield, Ohio
+  
+  <font size=+1>children:</font>
+     James Vining
+     Kevin Vining   m. Kathy [&#8230;]
+     Rachel Vining   m. Bill Cameron
+     Charles Vining
+     Harvey Vining   m. Mary [&#8230;]
+     Becky Vining   m. Charles Whitt
+     Clifford Vining
+  
+  <a href="Jsources/JamesA07doc.htm">documentation and notes</a>

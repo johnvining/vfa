@@ -1,0 +1,63 @@
+id: JesseC01
+sequence: 139
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JosephA06
+parentDesc: "Joseph Allen Vining and Delma [&#8230;]"
+head:
+  givenName: Jesse Cecil
+  birth:
+    date: 26 August 1927
+    place: Florida
+  death:
+    date: 9 April 1992
+  burial:
+    place: "Riverside Memorial Park   Jacksonville, Florida"
+marriages:
+  - spouse:
+      givenName: Hazel L.
+      surname: "[&#8230;]"
+      birth:
+        date: 10 September 1928
+        place: "Jacksonville, Florida"
+      death:
+        date: 19 March 2010
+        place: "Jacksonville, Florida"
+      burial:
+        place: "Riverside Memorial Park   Jacksonville, Florida"
+childrenGroups:
+  - children:
+      - name: Jesse Cecil Vining Jr.
+        marriages:
+          - date: "Betty [...]"
+      - name: Joyce Vining
+        marriages:
+          - date: Buzz Beasley
+      - name: Sheryne Vining
+        birth:
+          date: 6 May 1949
+        marriages:
+          - date: "[...] Jones"
+        death:
+          date: 16 October 1978
+        burial:
+          place: "Riverside Memorial Park   Jacksonville, Florida"
+docsUrl: Jsources/JesseC01doc.htm
+raw: |-
+  <a name="JesseC01"></a><font size=+2>Jesse Cecil Vining</font>
+     (son of <a href="#JosephA06">Joseph Allen Vining and Delma [&#8230;]</a>)
+     b. 26 August 1927   Florida
+     m. Hazel L. [&#8230;]
+              b. 10 September 1928   Jacksonville, Florida
+              d. 19 March 2010   Jacksonville, Florida
+                    bur. Riverside Memorial Park   Jacksonville, Florida
+     d. 9 April 1992
+           bur. Riverside Memorial Park   Jacksonville, Florida
+  
+  <font size=+1>children:</font>
+     Jesse Cecil Vining Jr.   m. Betty [...]
+     Joyce Vining   m. Buzz Beasley
+     Sheryne Vining   b. 6 May 1949   -   m. [...] Jones   -   d. 16 October 1978   -   bur. Riverside Memorial Park   Jacksonville, Florida 
+  
+  <a href="Jsources/JesseC01doc.htm">documentation and notes</a>

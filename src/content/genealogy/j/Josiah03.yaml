@@ -1,0 +1,65 @@
+id: Josiah03
+sequence: 327
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Richard02
+parentLetter: R
+parentDesc: Richard Vining and Susannah Pratt
+head:
+  givenName: Josiah
+  birth:
+    date: 19 April 1796
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 18 October 1821
+    place: "Abington, Massachusetts"
+    spouse:
+      givenName: Abigail Smith
+      surname: Thaxter
+      birth:
+        date: 11 March 1801
+      death:
+        date: 31 January 1847
+      burial:
+        place: "Mount Vernon Cemetery   Abington, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Susan Lincoln Vining
+        birth:
+          date: 27 September 1822
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 25 December 1848
+            place: "Abington, Massachusetts"
+            spouse: Elijah C. Howard
+      - name: Joshua Howe Vining
+        birth:
+          date: 1 March 1827
+          place: "Abington, Massachusetts"
+        death:
+          date: 30 August 1827
+          place: "Abington, Massachusetts"
+      - name: Charlotte Vining
+        birth:
+          date: 5 October 1828
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: Oscar G. Gilbert
+docsUrl: Jsources/Josiah03doc.htm
+raw: |-
+  <a name="Josiah03"></a><font size=+2>Josiah Vining</font>
+     (son of <a href="Rfamilies.htm#Richard02">Richard Vining and Susannah Pratt</a>)
+     b. 19 April 1796   Weymouth, Norfolk County, Massachusetts
+     m. 18 October 1821   Abington, Massachusetts
+           Abigail Smith Thaxter
+                 b. 11 March 1801
+                 d. 31 January 1847
+                       bur. Mount Vernon Cemetery   Abington, Massachusetts
+  
+  <font size=+1>children:</font>
+     Susan Lincoln Vining   b. 27 September 1822   Abington, Massachusetts   -   m. 25 December 1848   Abington, Massachusetts   Elijah C. Howard
+     Joshua Howe Vining   b. 1 March 1827   Abington, Massachusetts   -   d. 30 August 1827   Abington, Massachusetts
+     Charlotte Vining   b. 5 October 1828   Abington, Massachusetts   -   m. Oscar G. Gilbert
+  
+  <a href="Jsources/Josiah03doc.htm">documentation and notes</a>

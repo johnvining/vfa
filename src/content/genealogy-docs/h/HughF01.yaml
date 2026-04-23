@@ -1,0 +1,52 @@
+id: HughF01
+title: Hugh Friedrich Vining - Helen A. Leete Wilson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Hugh Friedrich Vining
+          values:
+            - "35"
+            - "45"
+            - "55"
+        - label: Helen A. Leete (Wilson) Vining
+          values:
+            - "40"
+            - "50"
+            - "60"
+        - label: James E. Vining
+          values:
+            - "5"
+            - "15"
+            - "25"
+          indent: true
+        - label: Hugh Friedrich Vining Jr.
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Lockport, Niagara County, New York - dwelling 78, family 81
+        images:
+          - src: HughF01census1920.jpg
+      - year: "1930"
+        caption: Lockport, Niagara County, New York - dwelling 98, family 104
+        images:
+          - src: HughF01census1930.jpg
+      - year: "1940"
+        caption: Newfane, Niagara County, New York
+        images:
+          - src: HughF01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Hugh Friedrich Vining and Helen A. Leete (Wilson) Vining, in North Ridge Cemetery, North Ridge,
+          Niagara County, New York (from Find A Grave):
+        images:
+          - src: HughF01andwifeheadstone.jpg

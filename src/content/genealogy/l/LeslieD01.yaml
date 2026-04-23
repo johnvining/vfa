@@ -1,0 +1,52 @@
+id: LeslieD01
+sequence: 52
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: WillisD01
+parentLetter: W
+parentDesc: "Willis Dean Viing and [Lois Murphy?]"
+head:
+  givenName: Leslie Dean
+  birth:
+    date: 19 January 1957
+    place: "Topeka, Shawnee County, Kansas"
+  death:
+    date: 6 February 2014
+    place: "Topeka, Shawnee County, Kansas"
+marriages:
+  - spouse:
+      givenName: Teresa Lynn
+      surname: Stubbs
+      parents: "(dau. of Merle Stubbs and Patricia Rath)"
+      birth:
+        date: 6 January 1949
+        place: "Hillsboro, Kansas"
+      death:
+        date: 12 August 2007
+        place: "Topeka, Shawnee County, Kansas"
+      burial:
+        place: "Sterling Cemetery   Sterling, Kansas"
+childrenGroups:
+  - children:
+      - name: Jennifer Vining
+      - name: Tabitha Vining
+      - name: Terri Vining
+docsUrl: Lsources/LeslieD01doc.htm
+raw: |-
+  <a name="LeslieD01"></a><font size=+2>Leslie Dean Vining</font>
+     (son of <a href="Wfamilies.htm#WillisD01">Willis Dean Viing and [Lois Murphy?]</a>)
+     b. 19 January 1957   Topeka, Shawnee County, Kansas
+     m. Teresa Lynn Stubbs
+              (dau. of Merle Stubbs and Patricia Rath)
+              b. 6 January 1949   Hillsboro, Kansas
+              d. 12 August 2007   Topeka, Shawnee County, Kansas
+                    bur. Sterling Cemetery   Sterling, Kansas
+     d. 6 February 2014   Topeka, Shawnee County, Kansas
+  
+  <font size=+1>children:</font>
+     Jennifer Vining
+     Tabitha Vining
+     Terri Vining
+  
+  <a href="Lsources/LeslieD01doc.htm">documentation and notes</a>

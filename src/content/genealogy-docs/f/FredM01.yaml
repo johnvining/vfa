@@ -1,0 +1,86 @@
+id: FredM01
+title: Fred M. Vining - Carrie C. Bono
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Fred M. Vining
+          values:
+            - "22"
+            - "35"
+            - "42"
+        - label: Carrie C. (Bono) Vining
+          values:
+            - "23"
+            - "34"
+            - "43"
+        - label: Fred M. Vining Jr.
+          values:
+            - "2"
+            - "13"
+            - "22"
+          indent: true
+        - label: Neil Bono Vining
+          values:
+            - 3 m.
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Lois Beatrice Vining
+          values:
+            - ""
+            - dead
+            - ""
+          indent: true
+        - label: Richard Vining
+          values:
+            - ""
+            - ""
+            - "7"
+          indent: true
+        - label: Robert O. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Vaugine Township, Jefferson County, Arkansas - household 44, family 44
+        images:
+          - src: FredM01census1920.jpg
+      - year: "1930"
+        caption: Vaugine Township, Jefferson County, Arkansas - household 14, family 15
+        images:
+          - src: FredM01census1930a.jpg
+          - src: FredM01census1930b.jpg
+      - year: "1940"
+        caption: Vaugine Township, Jefferson County, Arkansas
+        images:
+          - src: FredM01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Fred M. Vining and Carrie C. (Bono) Vining, in Bellwood Cemetery Annex, Pine Bluff, Jefferson
+          County, Arkansas (from Find A Grave):
+        images:
+          - src: FredM01andwifeheadstone.jpg
+      - caption: >-
+          Headstone for Fred M. Vining and Alice (Powers) Vining, son and daughter-in-law of Fred M. Vining and Carrie
+          C. (Bono) Vining, in Magnet Cove Cemetery, Magnet Cove, Hot Spring County, Arkansas (from Find A Grave):
+        images:
+          - src: FredM01sonFredandwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Neil Bono Vining, son of Fred M. Vining and Carrie C. (Bono) Vining, in Varnell Cemetery,
+          Rison, Cleveland County, Arkansas (from Find A Grave):
+        images:
+          - src: FredM01sonNeilgravestone.jpg
+      - caption: >-
+          Gravestone for Lois Beatrice Vining, daughter of Fred M. Vining and Carrie C. (Bono) Vining, in Bellwood
+          Cemetery Annex, Pine Bluff, Jefferson County, Arkansas (from Find A Grave):
+        images:
+          - src: FredM01dauLoisgravestone.jpg

@@ -1,0 +1,66 @@
+id: EldredC01
+sequence: 69
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ClarenceJ01
+parentLetter: C
+parentDesc: "Clarence J. Vining and Pearl H. [&#8230;]"
+head:
+  givenName: Eldred Claver
+  birth:
+    date: 3 April 1913
+    place: "Windham, New York"
+  death:
+    date: 11 March 1988
+    place: New York
+  burial:
+    place: "Clovesville Cemetery   Fleischmanns, New York"
+marriages:
+  - date: 8 August 1938
+    place: "Margaretville, New York"
+    spouse:
+      givenName: Virginia F.
+      surname: Cook
+      parents: (dau. of Vernon William Cook and Leona T. George)
+      birth:
+        date: 12 March 1913
+        place: New York
+      death:
+        date: 18 April 1989
+        place: "Margaretville, New York"
+      burial:
+        place: "Clovesville Cemetery   Fleischmanns, New York"
+childrenGroups:
+  - children:
+      - name: Richard Clarence Vining
+        birth:
+          date: 8 July 1939
+        marriages:
+          - spouse: Joyce Logan
+      - name: Robert Vernon Vining
+        birth:
+          date: 29 April 1942
+      - name: George Eldred Vining
+        birth:
+          date: 22 January 1944
+docsUrl: Esources/EldredC01doc.htm
+raw: |-
+  <a name="EldredC01"></a><font size=+2>Eldred Claver Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceJ01">Clarence J. Vining and Pearl H. [&#8230;]</a>)
+     b. 3 April 1913   Windham, New York
+     m. 8 August 1938   Margaretville, New York
+           Virginia F. Cook
+                 (dau. of Vernon William Cook and Leona T. George)
+                 b. 12 March 1913   New York
+                 d. 18 April 1989   Margaretville, New York
+                       bur. Clovesville Cemetery   Fleischmanns, New York
+     d. 11 March 1988   New York
+           bur. Clovesville Cemetery   Fleischmanns, New York
+  
+  <font size=+1>children:</font>
+     Richard Clarence Vining   b. 8 July 1939   -   m. Joyce Logan
+     Robert Vernon Vining   b. 29 April 1942
+     George Eldred Vining   b. 22 January 1944
+  
+  <a href="Esources/EldredC01doc.htm">documentation and notes</a>

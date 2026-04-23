@@ -1,0 +1,71 @@
+id: NewellE01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: JepthaP01
+parentLetter: J
+parentDesc: Jeptha Peter Vining and Etta F. Hitchcock
+head:
+  givenName: Newell E.
+  birth:
+    date: November 1886
+    place: New York
+  death:
+    date: 14 October 1943
+marriages:
+  - spouse:
+      givenName: Mary Magdalena
+      surname: Alle
+      birth:
+        date: 37 y. as of 1920 census
+        place: New York
+      death:
+        date: between 1920 and 1930 censuses
+childrenGroups:
+  - children:
+      - name: Carl Vining
+        entryId: Carl03
+        entryLetter: C
+        birth:
+          date: 30 August 1912
+          place: New York
+        marriages:
+          - date: Frances Cross
+      - name: Louise E. Vining
+        birth:
+          date: 12 January 1913
+          place: New York
+        marriages:
+          - date: Lloyd Robert Jenkins
+      - name: Stella F. Vining
+        birth:
+          date: 6 March 1917
+          place: New York
+        marriages:
+          - date: John Tully
+      - name: Leah L. Vining
+        birth:
+          date: "13 January [1920 or 1921?]"
+          place: New York
+        marriages:
+          - number: 1
+            date: "[&#8230;] Hankinson"
+          - number: 2
+            date: Stanton Sherow
+docsUrl: Nsources/NewellE01doc.htm
+raw: |-
+  <a name="NewellE01"></a><font size=+2>Newell E. Vining</font>
+     (son of <a href="Jfamilies.htm#JepthaP01">Jeptha Peter Vining and Etta F. Hitchcock</a>)
+     b. November 1886   New York
+     m. Mary Magdalena Alle
+              b. 37 y. as of 1920 census   New York
+              d. between 1920 and 1930 censuses
+     d. 14 October 1943
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#Carl03">Carl Vining</a>   b. 30 August 1912   New York   -   m. Frances Cross
+     Louise E. Vining   b. 12 January 1913   New York   -   m. Lloyd Robert Jenkins
+     Stella F. Vining   b. 6 March 1917   New York   -   m. John Tully
+     Leah L. Vining   b. 13 January [1920 or 1921?]   New York   -   m. (1) [&#8230;] Hankinson;   (2) Stanton Sherow
+  
+  <a href="Nsources/NewellE01doc.htm">documentation and notes</a>

@@ -1,0 +1,31 @@
+id: JoelB01
+title: Joel Benson Vining - Sophrona Foster
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Joel Benson Vining
+          values:
+            - "21"
+            - "?"
+            - "?"
+        - label: Sophrona (Foster) Vining
+          values:
+            - "19"
+            - "?"
+            - "?"
+        - label: Martha Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Greensburg, St. Helena Parish, Louisiana - dwelling 522, family 522
+        images:
+          - src: JoelB01census1860.jpg

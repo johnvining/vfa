@@ -1,0 +1,54 @@
+id: CraigE01
+letter: C
+sequence: 164
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FrankE01
+parentLetter: F
+parentDesc: Frank Ernest Vining and Ida May Inman
+head:
+  givenName: Craig E.
+  birth:
+    date: age 6 y. as of 1910 census
+    place: Washington
+marriages:
+  - spouse:
+      givenName: Lois Ellen
+      surname: Dixon
+      birth:
+        date: 16 September 1904
+      death:
+        date: 30 October 1995
+      burial:
+        place: "Waitsburg Cemetery   Waitsburg, Washington"
+childrenGroups:
+  - children:
+      - name: Elizabeth Dean Vining
+        birth:
+          date: "1928"
+          place: Washington
+        death:
+          date: 5 May 1951
+        burial:
+          place: "Waitsburg Cemetery   Waitsburg, Washington"
+      - name: Inez Vining   b age 9 y. as of 1940 census   Washington
+      - name: Dian Vining
+        birth:
+          date: age 6 y. as of 1940 census
+          place: Washington
+docsUrl: Csources/CraigE01doc.htm
+raw: |-
+  <a name="CraigE01"></a><font size=+2>Craig E. Vining</font>
+     (son of <a href="Ffamilies.htm#FrankE01">Frank Ernest Vining and Ida May Inman</a>)
+     b. age 6 y. as of 1910 census   Washington
+     m. Lois Ellen Dixon
+              b. 16 September 1904
+              d. 30 October 1995
+                    bur. Waitsburg Cemetery   Waitsburg, Washington
+  
+  <font size=+1>children:</font>
+     Elizabeth Dean Vining   b. 1928   Washington   -   d. 5 May 1951   -   bur. Waitsburg Cemetery   Waitsburg, Washington
+     Inez Vining   b age 9 y. as of 1940 census   Washington
+     Dian Vining   b. age 6 y. as of 1940 census   Washington
+  
+  <a href="Csources/CraigE01doc.htm">documentation and notes</a>

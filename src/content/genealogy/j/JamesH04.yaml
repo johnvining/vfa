@@ -1,0 +1,64 @@
+id: JamesH04
+sequence: 64
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WalterD01
+parentLetter: W
+parentDesc: Walter Davis Vining and Daisy Beatrice Clements
+head:
+  givenName: James Hoyt
+  birth:
+    date: age 3 m. as of 1900 census
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Bessie Mae
+      surname: "[&#8230;]"
+      birth:
+        date: age 23 y. as of 1930 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: C. Davis Vining
+        birth:
+          date: age 3 y. as of 1930 census
+          place: Georgia
+      - name: James Hoyt Vining Jr.
+        entryId: JamesHJr01
+        birth:
+          date: 18 October 1928
+          place: Georgia
+        marriages:
+          - date: "Jean [&#8230;]"
+        death:
+          date: 4 September 2008
+        burial:
+          place: "Florida National Cemetery   Bushnell, Florida"
+      - name: Samuel Therion Vining
+        entryId: SamuelT01
+        entryLetter: S
+        birth:
+          date: 29 December 1932
+          place: Georgia
+        marriages:
+          - date: "Eunice [&#8230;]"
+        death:
+          date: 21 January 2012
+          place: Georgia
+        burial:
+          place: "Noah's Ark Church Cemetery   Jonesboro, Georgia"
+docsUrl: Jsources/JamesH04doc.htm
+raw: |-
+  <a name="JamesH04"></a><font size=+2>James Hoyt Vining</font>
+     (son of <a href="Wfamilies.htm#WalterD01">Walter Davis Vining and Daisy Beatrice Clements</a>)
+     b. age 3 m. as of 1900 census   Georgia
+     m. Bessie Mae [&#8230;]
+              b. age 23 y. as of 1930 census   Georgia
+  
+  <font size=+1>children:</font>
+     C. Davis Vining   b. age 3 y. as of 1930 census   Georgia
+     <a href="#JamesHJr01">James Hoyt Vining Jr.</a>   b. 18 October 1928   Georgia   -   m. Jean [&#8230;]   -   d. 4 September 2008   -   bur. Florida National Cemetery   Bushnell, Florida
+     <a href="Sfamilies.htm#SamuelT01">Samuel Therion Vining</a>   b. 29 December 1932   Georgia   -   m. Eunice [&#8230;]   -   d. 21 January 2012   Georgia   -   bur. Noah's Ark Church Cemetery   Jonesboro, Georgia
+  
+  <a href="Jsources/JamesH04doc.htm">documentation and notes</a>

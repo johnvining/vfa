@@ -1,0 +1,35 @@
+id: EdwinJJr01
+sequence: 56
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwinJ01
+parentDesc: Edwin Johnson Vining and Miriam Estelle Starns
+head:
+  givenName: Edwin Johnson Jr.
+  birth:
+    date: 8 September 1937
+  death:
+    date: April 1992
+marriages:
+  - spouse:
+      givenName: Grace
+      surname: Pfleeger
+childrenGroups:
+  - children:
+      - name: Tina Christine Vining
+        birth:
+          date: 10 July 1966
+      - name: Darren Kelley Vining
+        birth:
+          date: 17 November 1969
+raw: |-
+  <a name="EdwinJJr01"></a><font size=+2>Edwin Johnson Vining Jr.</font>
+     (son of <a href="#EdwinJ01">Edwin Johnson Vining and Miriam Estelle Starns</a>)
+     b. 8 September 1937
+     m. Grace Pfleeger
+     d. April 1992
+  
+  <font size=+1>children:</font>
+     Tina Christine Vining   b. 10 July 1966
+     Darren Kelley Vining   b. 17 November 1969

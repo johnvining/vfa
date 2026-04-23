@@ -1,0 +1,89 @@
+id: Artie01
+letter: A
+sequence: 100
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JohnH03
+parentLetter: J
+parentDesc: John Henry Vining and Virgie Lorena Holt
+head:
+  givenName: Artie
+  birth:
+    date: 13 March 1910
+    place: Alabama
+  death:
+    date: 20 October 1942
+    place: "Athens, Alabama"
+  burial:
+    place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
+marriages:
+  - spouse:
+      givenName: Elenora Nayoma
+      surname: Hall
+      birth:
+        date: 30 July 1916
+        place: Alabama
+      death:
+        date: 19 January 1975
+      burial:
+        place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
+childrenGroups:
+  - children:
+      - name: Kenneth Leon Vining
+        birth:
+          date: 19 March 1933
+          place: Alabama
+        death:
+          date: 7 March 1945
+        burial:
+          place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
+      - name: Charles Marion Vining
+        entryId: CharlesM05
+        entryLetter: C
+        birth:
+          date: 19 July 1934
+          place: "Limestone County, Alabama"
+        marriages:
+          - date: "Charlotte [&#8230;]"
+        death:
+          date: 15 May 2012
+          place: "Hueytown, Alabama"
+        burial:
+          place: "Forest Grove Memorial Gardens   Pleasant Grove, Jefferson County, Alabama"
+      - name: Ruth Vining
+        birth:
+          date: age 4 y. as of 1940 census
+          place: Alabama
+      - name: Richard W. Vining
+        birth:
+          date: "1937"
+          place: Alabama
+        death:
+          date: "2002"
+      - name: Jereld Ray Vining
+        birth:
+          date: 19 August 1942
+        death:
+          date: February 1943
+        burial:
+          place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
+docsUrl: Asources/Artie01doc.htm
+raw: |-
+  <a name="Artie01"></a><font size="+2">Artie Vining</font>
+     (son of <a href="Jfamilies.htm#JohnH03">John Henry Vining and Virgie Lorena Holt</a>)
+     b. 13 March 1910   Alabama
+     m. Elenora Nayoma Hall
+              b. 30 July 1916   Alabama
+              d. 19 January 1975
+                    bur. Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama
+     d. 20 October 1942   Athens, Alabama
+           bur. Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama
+  
+  <font size="+1">children:</font>
+     Kenneth Leon Vining   b. 19 March 1933   Alabama   -   d. 7 March 1945   -   bur. Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama
+     <a href="Cfamilies.htm#CharlesM05">Charles Marion Vining</a>   b. 19 July 1934   Limestone County, Alabama   -   m. Charlotte [&#8230;]   -   d. 15 May 2012   Hueytown, Alabama   -   bur. Forest Grove Memorial Gardens   Pleasant Grove, Jefferson County, Alabama
+     Ruth Vining   b. age 4 y. as of 1940 census   Alabama
+     Richard W. Vining   b. 1937   Alabama   -   d. 2002
+     Jereld Ray Vining   b. 19 August 1942   -   d. February 1943   -   bur. Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama
+  
+  <a href="Asources/Artie01doc.htm">documentation and notes</a>

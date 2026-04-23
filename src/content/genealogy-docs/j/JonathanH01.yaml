@@ -1,0 +1,106 @@
+id: JonathanH01
+title: John Vining - Elizabeth Stratford
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: John Vining
+          values:
+            - "28"
+            - "?"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth ([...]) Vining
+          values:
+            - "27"
+            - "?"
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+        - label: Nancy Vining
+          values:
+            - "6"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Walter Vining
+          values:
+            - "1"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - "?"
+            - |-
+              19
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jeff Lee Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Reuben Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jack Vining
+          values:
+            - ""
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: The Motts, Nueces County, Texas - dwelling 225, family 225
+        images:
+          - src: John27census1860a.jpg
+          - src: John27census1860b.jpg
+      - year: "1880"
+        caption: >-
+          Commissioners precincts 3 and 4, Duval County, Texas - dwelling 57, family 60. In 1880, Sarah Vining was
+          married, to [Euard?] [Corkell?], and she and her family were living in this household.
+        images:
+          - src: John27census1880.jpg

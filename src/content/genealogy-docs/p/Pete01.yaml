@@ -1,0 +1,61 @@
+id: Pete01
+title: Pete Vining - Rilla [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Pete Vining
+          values:
+            - "39"
+            - "48"
+            - "?"
+            - "?"
+            - "?"
+        - label: Rilla ([...]) Vining
+          values:
+            - "24"
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Beatress Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Lathrop Township, Clinton County, Missouri - dwelling 174, family 181. Also living in this household in 1900
+          were boarders Johnny Baker (b. March 1868, Illinois) and George Jenkins (b. September 1880, Mississippi).
+        images:
+          - src: Pete01census1900.jpg
+      - year: "1910"
+        caption: Kansas City (ward 11), Jackson County, Missouri - dwelling 127, family 152
+        images:
+          - src: Pete01census1910.jpg

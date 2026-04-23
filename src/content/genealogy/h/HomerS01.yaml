@@ -1,0 +1,138 @@
+id: HomerS01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: SamuelE01
+parentLetter: S
+parentDesc: Samuel E. Vining and Harriet A. Booth
+head:
+  givenName: Homer Seldon
+  birth:
+    date: 31 July 1887
+    place: "Sedalia, Missouri"
+  death:
+    date: "[18 or 19?] February 1963"
+    place: "Kansas City, Kansas"
+  burial:
+    place: "Edwardsville Cemetery   Edwardsville, Kansas"
+marriages:
+  - date: 27 December 1905
+    place: "New York, New York"
+    spouse:
+      givenName: Mary Winnie Eliza
+      surname: Barlow
+      parents: "(dau. of Eugene T. Barlow and Asalom O. Chickering)"
+      birth:
+        date: 8 March 1885
+        place: "West Brookfield, Massachusetts"
+      death:
+        date: 23 May 1966
+      burial:
+        place: "Edwardsville Cemetery   Edwardsville, Kansas"
+childrenGroups:
+  - children:
+      - name: "Harriet Cecelia &#8220;Hattie&#8221; Vining"
+        birth:
+          date: 24 July 1906
+          place: "New York, New York"
+        marriages:
+          - date: Raymond A. Howard
+        death:
+          date: 14 July 1968
+      - name: Grace Ellen Vining
+        birth:
+          date: 11 July 1908
+        marriages:
+          - date: "Albert &#8220;Buster&#8221; Brown"
+      - name: "Frances Winifred &#8220;Francie&#8221; Vining"
+        birth:
+          date: 27 November 1910
+          place: New York
+        marriages:
+          - date: "1950"
+            spouse: Sylvester M. Vendy
+        death:
+          date: 1 October 1990
+        burial:
+          place: "Edwardsville Cemetery   Edwardsville, Kansas"
+      - name: "Alice Evelyn &#8220;Allie&#8221; Vining"
+        birth:
+          date: 10 October 1912
+          place: "Des Moines, Iowa"
+        marriages:
+          - date: Henry Arthur Vaughn
+        death:
+          date: 1 February 1972
+          place: "Ottawa, Kansas"
+      - name: Bessie Lydia Vining
+        birth:
+          date: 6 March 1915
+        marriages:
+          - date: James Hutchinson
+      - name: Samuel Eugene Vining
+        entryId: SamuelE03
+        entryLetter: S
+        birth:
+          date: 4 January 1918
+          place: "Valley Junction, Iowa"
+        marriages:
+          - date: 6 May 1946
+            place: "Fergus Falls, Minnesota"
+            spouse: Rose Alstadt
+        death:
+          date: 6 March 1977
+          place: "(last residence: St. Paul, Minnesota)"
+      - name: Homer Frank Vining
+        entryId: HomerF01
+        birth:
+          date: 15 February 1920
+        marriages:
+          - date: Helen Margaret Head
+        death:
+          date: 8 September 1990
+        burial:
+          place: "Chapel Hill Memorial Gardens   Kansas City, Kansas"
+      - name: Marjory May Vining
+        birth:
+          date: 24 July 1922
+        marriages:
+          - date: "Durward &#8220;Duke&#8221; Head"
+      - name: Robert Edward Vining
+        entryId: RobertE03
+        entryLetter: R
+        birth:
+          date: 18 August 1925
+        marriages:
+          - number: 1
+            date: Shirley Ann Petty (d. 1947)
+          - number: 2
+            date: Ruby MacGillum
+        death:
+          date: 2 May 2001
+          place: "(last residence: New Albany, Mississippi)"
+docsUrl: Hsources/HomerS01doc.htm
+raw: |-
+  <a name="HomerS01"></a><font size=+2>Homer Seldon Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelE01">Samuel E. Vining and Harriet A. Booth</a>)
+     b. 31 July 1887   Sedalia, Missouri
+     m. 27 December 1905   New York, New York
+           Mary Winnie Eliza Barlow
+                 (dau. of Eugene T. Barlow and Asalom O. Chickering)
+                 b. 8 March 1885   West Brookfield, Massachusetts
+                 d. 23 May 1966
+                       bur. Edwardsville Cemetery   Edwardsville, Kansas
+     d. [18 or 19?] February 1963   Kansas City, Kansas
+           bur. Edwardsville Cemetery   Edwardsville, Kansas
+  
+  <font size=+1>children:</font>
+     Harriet Cecelia &#8220;Hattie&#8221; Vining   b. 24 July 1906   New York, New York   -   m. Raymond A. Howard   -   d. 14 July 1968
+     Grace Ellen Vining   b. 11 July 1908   -   m. Albert &#8220;Buster&#8221; Brown
+     Frances Winifred &#8220;Francie&#8221; Vining   b. 27 November 1910   New York   -   m. 1950   Sylvester M. Vendy   -   d. 1 October 1990   -   bur. Edwardsville Cemetery   Edwardsville, Kansas
+     Alice Evelyn &#8220;Allie&#8221; Vining   b. 10 October 1912   Des Moines, Iowa   -   m. Henry Arthur Vaughn   -   d. 1 February 1972   Ottawa, Kansas
+     Bessie Lydia Vining   b. 6 March 1915   -   m. James Hutchinson
+     <a href="Sfamilies.htm#SamuelE03">Samuel Eugene Vining</a>   b. 4 January 1918   Valley Junction, Iowa   -   m. 6 May 1946   Fergus Falls, Minnesota   Rose Alstadt   -   d. 6 March 1977   (last residence: St. Paul, Minnesota)
+     <a href="#HomerF01">Homer Frank Vining</a>   b. 15 February 1920   -   m. Helen Margaret Head   -   d. 8 September 1990   -   bur. Chapel Hill Memorial Gardens   Kansas City, Kansas
+     Marjory May Vining   b. 24 July 1922   -   m. Durward &#8220;Duke&#8221; Head
+     <a href="Rfamilies.htm#RobertE03">Robert Edward Vining</a>   b. 18 August 1925   -   m. (1) Shirley Ann Petty (d. 1947);   (2) Ruby MacGillum   -   d. 2 May 2001   (last residence: New Albany, Mississippi)
+  
+  <a href="Hsources/HomerS01doc.htm">documentation and notes</a>

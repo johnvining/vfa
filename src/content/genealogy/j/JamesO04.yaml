@@ -1,0 +1,60 @@
+id: JamesO04
+sequence: 87
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RobertL09
+parentLetter: R
+parentDesc: Robert Linn Vining and Agnes E. Alford
+head:
+  givenName: James Orrin
+  birth:
+    date: "1901"
+    place: "Dawson, Yukon, Canada"
+  death:
+    date: 20 January 1979
+    place: "Seattle, Washington"
+  burial:
+    description: cremated
+marriages:
+  - spouse:
+      givenName: Katherine
+      surname: Nantz
+      birth:
+        date: age 33 y. as of 1940 census
+        place: California
+childrenGroups:
+  - children:
+      - name: Carol Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Washington
+        marriages:
+          - date: "[...] Wolfe"
+      - name: Robert A. Vining
+        entryId: RobertA02
+        entryLetter: R
+        birth:
+          date: 21 April 1940
+          place: "Seattle, Washington"
+        marriages:
+          - date: 18 July 1964
+            place: "Seattle, Washington"
+            spouse: "Patricia [...]"
+        death:
+          date: 30 March 2011
+docsUrl: Jsources/JamesO04doc.htm
+raw: |-
+  <a name="JamesO04"></a><font size=+2>James Orrin Vining</font>
+     (son of <a href="Rfamilies.htm#RobertL09">Robert Linn Vining and Agnes E. Alford</a>)
+     b. 1901   Dawson, Yukon, Canada
+     m. Katherine Nantz
+              b. age 33 y. as of 1940 census   California
+     d. 20 January 1979   Seattle, Washington
+           cremated
+  
+  <font size=+1>children:</font>
+     Carol Vining   b. age 1 y. as of 1940 census   Washington   -   m. [...] Wolfe
+     <a href="Rfamilies.htm#RobertA02">Robert A. Vining</a>   b. 21 April 1940   Seattle, Washington   -   m. 18 July 1964   Seattle, Washington   Patricia [...]   -   d. 30 March 2011
+  
+  <a href="Jsources/JamesO04doc.htm">documentation and notes</a>

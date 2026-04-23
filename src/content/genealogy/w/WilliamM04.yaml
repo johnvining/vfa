@@ -1,0 +1,86 @@
+id: WilliamM04
+sequence: 123
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamH14
+parentDesc: William H. Vining
+head:
+  givenName: William Morris
+  birth:
+    date: 19 February 1889
+    place: "Salem, New Jersey"
+marriages:
+  - spouse:
+      givenName: Eva
+      surname: "[&#8230;]"
+      birth:
+        date: age 29 y. as of 1920 census
+        place: New Jersey
+childrenGroups:
+  - children:
+      - name: William Vining Jr.
+        entryId: WilliamJr03
+        birth:
+          date: "age 5 y., 6 m. as of 1920 census"
+          place: New Jersey
+        marriages:
+          - date: "Mary [&#8230;]"
+      - name: Louis Dozier Vining
+        entryId: LouisD02
+        entryLetter: L
+        birth:
+          date: 21 April 1916
+          place: New Jersey
+        marriages:
+          - date: Grace Haines
+        death:
+          date: 26 May 1966
+        burial:
+          place: "Fernwood Cemetery   Royersford, Pennsylvania"
+      - name: Morris G. Vining
+        birth:
+          date: 21 March 1919
+          place: Pennsylvania
+        marriages:
+          - date: "Lillian R. [&#8230;]"
+        death:
+          date: 12 April 1974
+        burial:
+          place: "Gate of Heaven Cemetery   Berlin, New Jersey"
+      - name: Sarah K. Vining
+        birth:
+          date: age 8 y. as of 1930 census
+          place: Pennsylvania
+        marriages:
+          - date: Saint Williamson
+      - name: Eva Vining
+        birth:
+          date: "age 1 y., 2 m. as of 1930 census"
+          place: Pennsylvania
+        marriages:
+          - number: 1
+            date: George Norcross
+          - number: 2
+            date: Edward Ross
+      - name: Earle Vining
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Pennsylvania
+docsUrl: Wsources/WilliamM04doc.htm
+raw: |-
+  <a name="WilliamM04"></a><font size=+2>William Morris Vining</font>
+     (son of <a href="#WilliamH14">William H. Vining</a>)
+     b. 19 February 1889   Salem, New Jersey
+     m. Eva [&#8230;]
+              b. age 29 y. as of 1920 census   New Jersey
+  
+  <font size=+1>children:</font>
+     <a href="#WilliamJr03">William Vining Jr.</a>   b. age 5 y., 6 m. as of 1920 census   New Jersey   -   m. Mary [&#8230;]
+     <a href="Lfamilies.htm#LouisD02">Louis Dozier Vining</a>   b. 21 April 1916   New Jersey   -   m. Grace Haines   -   d. 26 May 1966   -   bur. Fernwood Cemetery   Royersford, Pennsylvania
+     Morris G. Vining   b. 21 March 1919   Pennsylvania   -   m. Lillian R. [&#8230;]   -   d. 12 April 1974   -   bur. Gate of Heaven Cemetery   Berlin, New Jersey
+     Sarah K. Vining   b. age 8 y. as of 1930 census   Pennsylvania   -   m. Saint Williamson
+     Eva Vining   b. age 1 y., 2 m. as of 1930 census   Pennsylvania   -   m. (1) George Norcross;   (2) Edward Ross
+     Earle Vining   b. age 9 y. as of 1940 census   Pennsylvania
+  
+  <a href="Wsources/WilliamM04doc.htm">documentation and notes</a>

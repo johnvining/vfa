@@ -1,0 +1,57 @@
+id: WilburN01
+sequence: 47
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ShedrickW01
+parentLetter: S
+parentDesc: Shedrick W. Vining and Virginia Fay Huett
+head:
+  givenName: Wilbur Newman
+  birth:
+    date: 13 March 1887
+    place: "[Mississippi or Alabama?]"
+  death:
+    date: 8 April 1951
+  burial:
+    place: "Mount Olive Baptist Church Cemetery   Mississippi"
+marriages:
+  - spouse:
+      givenName: Myrtle B.
+      surname: Gentry
+      birth:
+        date: "age 22 y. as of 1920 census"
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: Ruby Earlene Vining
+        birth:
+          date: "age 5 y. as of 1920 census"
+          place: Alabama
+      - name: John Floyd Vining
+        entryId: JohnF05
+        entryLetter: J
+        birth:
+          date: 31 August 1916
+          place: "Bibb County, Alabama"
+        marriages:
+          - date: "1938"
+            spouse: Nancy Louise Royal
+        death:
+          date: 10 December 1984
+          place: "Maylene, Alabama"
+docsUrl: Wsources/WilburN01doc.htm
+raw: |-
+  <a name="WilburN01"></a><font size=+2>Wilbur Newman Vining</font>
+     (son of <a href="Sfamilies.htm#ShedrickW01">Shedrick W. Vining and Virginia Fay Huett</a>)
+     b. 13 March 1887   [Mississippi or Alabama?]
+     m. Myrtle B. Gentry
+              b. age 22 y. as of 1920 census   Alabama
+     d. 8 April 1951
+           bur. Mount Olive Baptist Church Cemetery   Mississippi
+  
+  <font size=+2>children:</font>
+     Ruby Earlene Vining   b. age 5 y. as of 1920 census   Alabama
+     <a href="Jfamilies.htm#JohnF05">John Floyd Vining</a>   b. 31 August 1916   Bibb County, Alabama   -   m. 1938   Nancy Louise Royal   -   d. 10 December 1984   Maylene, Alabama
+  
+  <a href="Wsources/WilburN01doc.htm">documentation and notes</a>

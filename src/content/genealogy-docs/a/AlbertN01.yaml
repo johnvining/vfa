@@ -1,0 +1,40 @@
+id: AlbertN01
+title: Albert Nelson Vining - Helen Louise Meserve
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Albert Nelson Vining and Helen Louise Meserve (from Maine State Archives):"
+        images:
+          - src: AlbertN01marriagerecorda.jpg
+          - src: AlbertN01marriagerecordb.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Albert Nelson Vining
+          values:
+            - "49"
+            - "?"
+            - "?"
+        - label: Helen Louise (Meserve) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+        - label: Albert Nelson Vining Jr.
+          values:
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Portland (ward 7), Cumberland County, Maine - dwelling 23, family 43. Address: 52 Gilman Street. Census date:
+          3 January 1920.
+        images:
+          - src: AlbertN01census1920.jpg

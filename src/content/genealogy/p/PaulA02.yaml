@@ -1,0 +1,43 @@
+id: PaulA02
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: ErnestR01
+parentLetter: E
+parentDesc: "Ernest Ray Vining and Norma Jean Puschel"
+head:
+  givenName: Paul Arthur
+  birth:
+    date: 15 February 1967
+    place: "Flint, Michigan"
+marriages:
+  - number: 1
+    date: 27 February 1988
+    place: "Shannon [&#8230;]"
+  - number: 2
+    date: 4 October 2003
+    place: "Walloon Lake, Michigan"
+    spouse:
+      givenName: Corrie Jo
+      surname: "[&#8230;]"
+childrenGroups:
+  - spouseRef: "[?]"
+    children:
+      - name: Kyle Vining
+      - name: Chase Vining
+      - name: Rippin Douglas Vining
+        birth:
+          date: "28 June 2004 (7:08 a.m.)"
+          place: "Petoskey, Michigan"
+raw: |-
+  <a name="PaulA02"></a><font size=+2>Paul Arthur Vining</font>
+     (son of <a href="Efamilies.htm#ErnestR01">Ernest Ray Vining and Norma Jean Puschel</a>))
+     b. 15 February 1967   Flint, Michigan
+     m. (1) 27 February 1988   Shannon [&#8230;]
+           (2) 4 October 2003   Walloon Lake, Michigan
+                 Corrie Jo [&#8230;]
+  
+  <font size=+1>children by [?]:</font>
+     Kyle Vining
+     Chase Vining
+     Rippin Douglas Vining   b. 28 June 2004 (7:08 a.m.)   Petoskey, Michigan

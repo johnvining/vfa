@@ -1,0 +1,66 @@
+id: Henry02
+letter: H
+sequence: 704
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry
+  birth:
+    date: age 21 y. as of 1850 census
+    place: England
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: "[...]"
+      birth:
+        date: age 22 y. as of 1850 census
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: Priscilla Vining
+        birth:
+          date: age 1 y. as of 1850 census
+          place: Ohio
+      - name: Nancy Vining
+        birth:
+          date: age 9 y. as of 1860 census
+          place: Ohio
+      - name: Sarah A. Vining
+        birth:
+          date: age 8 y. as of 1860 census
+          place: Ohio
+      - name: Charles Vining
+        birth:
+          date: age 6 y. as of 1860 census
+          place: Wisconsin
+      - name: Elizabeth Vining
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Wisconsin
+      - name: Amanda J. Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: "[Wisconsin or Illinois?]"
+      - name: Julia A. Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: "[Wisconsin or Illinois?]"
+docsUrl: Hsources/Henry02doc.htm
+raw: |-
+  <a name="Henry02"></a><font size=+2>Henry Vining</font>
+     (son of [?])
+     b. age 21 y. as of 1850 census   England
+     m. Elizabeth [...]
+              b. age 22 y. as of 1850 census   Ohio
+  
+  <font size=+1>children:</font>
+     Priscilla Vining   b. age 1 y. as of 1850 census   Ohio
+     Nancy Vining   b. age 9 y. as of 1860 census   Ohio
+     Sarah A. Vining   b. age 8 y. as of 1860 census   Ohio
+     Charles Vining   b. age 6 y. as of 1860 census   Wisconsin
+     Elizabeth Vining   b. age 4 y. as of 1860 census   Wisconsin
+     Amanda J. Vining   b. age 1 y. as of 1860 census   [Wisconsin or Illinois?]
+     Julia A. Vining   b. age 1 y. as of 1860 census   [Wisconsin or Illinois?]
+  
+  <a href="Hsources/Henry02doc.htm">documentation and notes</a>

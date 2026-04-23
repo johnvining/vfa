@@ -1,0 +1,144 @@
+id: John10
+title: John Vining - (1) Mary Haines; (2) Louisa T. Stevens
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: John Vining
+          values:
+            - M 20–30
+            - "39"
+            - "48"
+            - |-
+              59
+              [see note below]
+            - "69"
+            - dead
+            - ""
+        - label: (1) Mary (Haines) Vining
+          values:
+            - F 20–30
+            - "31"
+            - "42"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: (2) Louisa T. (Stevens) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - "50"
+            - "?"
+            - "?"
+        - label: James Towle Vining
+          values:
+            - M under 5
+            - "10"
+            - "20"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Alonzo Haines Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hiram Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William Bates Vining
+          values:
+            - ""
+            - "1"
+            - "10"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elsadana Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elbridge W. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - ""
+            - "1"
+            - |-
+              11
+              [see note below]
+            - "21"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1840"
+        caption: >-
+          Avon, Franklin County, Maine. There are four people living in this household in 1840 who are not part of the
+          immediate family of John and Mary (Haines) Vining. <
+        images:
+          - src: John10census1840.jpg
+      - year: "1850"
+        caption: Avon, Franklin County, Maine - dwelling 86, family 87
+        images:
+          - src: John10census1850.jpg
+      - year: "1860"
+        caption: Avon, Franklin County, Maine - dwelling 281, family 288
+        images:
+          - src: John10census1860.jpg
+      - year: "1870"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 97, family 100. John, recently (1869) widowed, was living in the
+          household of Converse Vining (his brother). Hiram Vining was living with Alonzo Haines Vining and family in
+          Lowell, Massachusetts, and Mary was living with a Will family (dwelling 15, family 17) in Strong, Franklin
+          County, Maine, in 1870.
+        images:
+          - src: John10census1870.jpg
+      - year: "1880"
+        caption: Avon, Franklin County, Maine - dwelling 103, family 110
+        images:
+          - src: John10census1880.jpg

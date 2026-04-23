@@ -1,0 +1,49 @@
+id: IvanL01
+letter: I
+lastUpdated: 9 March 2021
+relationship: son
+parentId: JohnL03
+parentLetter: J
+parentDesc: John Llewellyn Vining and Mary Louisa Hughes
+head:
+  givenName: Ivan Llewellyn
+  birth:
+    date: 18 April 1864
+    place: "Mangotsfield, Gloucestershire, England"
+marriages:
+  - spouse:
+      givenName: Henrietta
+      surname: "[...]"
+      birth:
+        date: 17 December 1868
+        place: England
+childrenGroups:
+  - children:
+      - name: Cyril Hughes Vining
+        birth:
+          date: 25 April 1890
+          place: "Manitoba, Canada"
+        marriages:
+          - date: Kathleen Pearson
+        death:
+          date: 1 September 1977
+          place: "Winnipeg, Manitoba, Canada"
+        burial:
+          place: St. James Cemetery
+      - name: Lorna Vining
+        birth:
+          date: 27 June 1896
+          place: "Manitoba, Canada"
+        death:
+          date: 31 March 1981
+          place: "Winnipeg, Manitoba, Canada"
+raw: |-
+  <a name="IvanL01"></a><font size=+2>Ivan Llewellyn Vining</font>
+     (son of <a href="Jfamilies.htm#JohnL03">John Llewellyn Vining and Mary Louisa Hughes</a>)
+     b. 18 April 1864   Mangotsfield, Gloucestershire, England
+     m. Henrietta [...]
+              b. 17 December 1868   England
+  
+  <font size=+1>children:</font>
+     Cyril Hughes Vining   b. 25 April 1890   Manitoba, Canada   -   m. Kathleen Pearson   -   d. 1 September 1977   Winnipeg, Manitoba, Canada   -   bur. St. James Cemetery
+     Lorna Vining   b. 27 June 1896   Manitoba, Canada   -   d. 31 March 1981   Winnipeg, Manitoba, Canada

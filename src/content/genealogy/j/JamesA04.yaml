@@ -1,0 +1,69 @@
+id: JamesA04
+sequence: 27
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisM01
+parentLetter: F
+parentDesc: Francis Marion Vining and Elizabeth Scott
+head:
+  givenName: James Alfred
+  birth:
+    date: 7 January 1861
+    place: Louisiana
+marriages:
+  - date: 10 y. as of 1900 census
+    spouse:
+      givenName: Mary Susie
+      surname: Taylor
+      birth:
+        date: May 1871
+        place: Louisiana
+childrenGroups:
+  - children:
+      - name: child
+      - name: Lydia B. Vining
+        birth:
+          date: November 1890
+          place: Louisiana
+      - name: Robert Lee Vining
+        entryId: RobertL03
+        entryLetter: R
+        birth:
+          date: 5 January 1893
+          place: "Lincoln Parish, Louisiana"
+        marriages:
+          - date: Della Mae Futrell
+        death:
+          date: 1 December 1970
+        burial:
+          place: "Bethel Cemetery   Colfax, Louisiana"
+      - name: Jessie L. Vining
+        birth:
+          date: October 1895
+          place: Louisiana
+      - name: Earnest Vining
+        birth:
+          date: February 1897
+          place: Louisiana
+      - name: Martha E. Vining
+        birth:
+          date: October 1899 Louisiana
+docsUrl: Jsources/JamesA04doc.htm
+raw: |-
+  <a name="JamesA04"></a><font size=+2>James Alfred Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisM01">Francis Marion Vining and Elizabeth Scott</a>)
+     b. 7 January 1861   Louisiana
+     m. 10 y. as of 1900 census
+           Mary Susie Taylor
+                 b. May 1871   Louisiana
+  
+  <font size=+1>children:</font>
+     child
+     Lydia B. Vining   b. November 1890   Louisiana
+     <a href="Rfamilies.htm#RobertL03">Robert Lee Vining</a>   b. 5 January 1893   Lincoln Parish, Louisiana   -   m. Della Mae Futrell   -   d. 1 December 1970   -   bur. Bethel Cemetery   Colfax, Louisiana
+     Jessie L. Vining   b. October 1895   Louisiana
+     Earnest Vining   b. February 1897   Louisiana
+     Martha E. Vining   b. October 1899 Louisiana
+  
+  <a href="Jsources/JamesA04doc.htm">documentation and notes</a>

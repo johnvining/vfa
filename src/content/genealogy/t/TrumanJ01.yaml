@@ -1,0 +1,71 @@
+id: TrumanJ01
+letter: T
+lastUpdated: 9 March 2023
+relationship: son
+parentId: WalterJ01
+parentLetter: W
+parentDesc: "Walter James Vining and Minnie [&#8230;]"
+head:
+  givenName: Truman J.
+  birth:
+    date: 30 September 1913
+    place: Missouri
+  death:
+    date: 8 April 1982
+  burial:
+    place: "Silver Lake Cemetery   Silver Lake, Washington"
+marriages:
+  - spouse:
+      givenName: Maxine Evelyn
+      surname: Filbeck
+      birth:
+        date: 3 November 1920
+        place: Kansas
+      death:
+        date: 30 October 1991
+      burial:
+        place: "Silver Lake Cemetery   Silver Lake, Washington"
+childrenGroups:
+  - children:
+      - name: Linda Darlene Vining
+        marriages:
+          - date: "[...] Parker"
+      - name: Larry Dale Vining
+        entryId: LarryD01
+        entryLetter: L
+        birth:
+          date: 10 April 1940
+          place: "Aurora, Missouri"
+        marriages:
+          - date: 7 March 1959
+            place: "Las Vegas, Nevada"
+            spouse: Goldie Wilson
+        death:
+          date: 13 March 2015
+        burial:
+          description: "ashes scattered in tributary of South Fork of Toutle River   Washington"
+      - name: Truman J. Vining Jr.
+        birth:
+          date: 17 June 1945
+        death:
+          date: 12 October 1978
+        burial:
+          place: "Silver Lake Cemetery   Silver Lake, Washington"
+docsUrl: Tsources/TrumanJ01doc.htm
+raw: |-
+  <a name="TrumanJ01"></a><font size=+2>Truman J. Vining</font>
+     (son of <a href="Wfamilies.htm#WalterJ01">Walter James Vining and Minnie [&#8230;]</a>)
+     b. 30 September 1913   Missouri
+     m. Maxine Evelyn Filbeck
+              b. 3 November 1920   Kansas
+              d. 30 October 1991
+                    bur. Silver Lake Cemetery   Silver Lake, Washington
+     d. 8 April 1982
+           bur. Silver Lake Cemetery   Silver Lake, Washington
+  
+  <font size=+1>children:</font>
+     Linda Darlene Vining   m. [...] Parker
+     <a href="Lfamilies.htm#LarryD01">Larry Dale Vining</a>   b. 10 April 1940   Aurora, Missouri   -   m. 7 March 1959   Las Vegas, Nevada   Goldie Wilson   -   d. 13 March 2015   -   ashes scattered in tributary of South Fork of Toutle River   Washington
+     Truman J. Vining Jr.   b. 17 June 1945   -   d. 12 October 1978   -   bur. Silver Lake Cemetery   Silver Lake, Washington
+  
+  <a href="Tsources/TrumanJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,62 @@
+id: FredN02
+sequence: 53
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: DavidJ01
+parentLetter: D
+parentDesc: David Jacob Vining and Laura Hines
+head:
+  givenName: Fred N.
+  birth:
+    date: 10 March 1915
+    place: Florida
+  death:
+    date: 6 September 1982
+  burial:
+    place: "Forest Lawn Memorial Gardens   Lake City, Florida"
+marriages:
+  - spouse:
+      givenName: Delma
+      surname: Box
+      birth:
+        date: 7 March 1917
+      death:
+        date: 16 February 2006
+      burial:
+        place: "Forest Lawn Memorial Gardens   Lake City, Florida"
+childrenGroups:
+  - children:
+      - name: Virginia Vining
+        birth:
+          date: 25 May 1943
+          place: "Lake City, Florida"
+        marriages:
+          - date: Milo D. Miles
+        death:
+          date: 26 August 2025
+          place: "Lake City, Florida"
+        note: "[see <a href=\"https://www.legacy.com/us/obituaries/lakecityreporter/name/virginia-miles-obituary?id=59305501\" target=\"_blank\">obituary</a>]"
+      - name: Fred N. Vining Jr.
+        entryId: FredNJr01
+        birth:
+          date: 7 August 1949
+        marriages:
+          - date: Gloria Jean Bailey
+docsUrl: Fsources/FredN02doc.htm
+raw: |-
+  <a name="FredN02"></a><font size=+2>Fred N. Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJ01">David Jacob Vining and Laura Hines</a>)
+     b. 10 March 1915   Florida
+     m. Delma Box
+              b. 7 March 1917
+              d. 16 February 2006
+                    bur. Forest Lawn Memorial Gardens   Lake City, Florida
+     d. 6 September 1982
+           bur. Forest Lawn Memorial Gardens   Lake City, Florida
+  
+  <font size=+1>children:</font>
+     Virginia Vining   b. 25 May 1943   Lake City, Florida   -   m. Milo D. Miles   -   d. 26 August 2025   Lake City, Florida   -   [see <a href="https://www.legacy.com/us/obituaries/lakecityreporter/name/virginia-miles-obituary?id=59305501" target="_blank">obituary</a>]
+     <a href="#FredNJr01">Fred N. Vining Jr.</a>   b. 7 August 1949   -   m. Gloria Jean Bailey
+  
+  <a href="Fsources/FredN02doc.htm">documentation and notes</a>

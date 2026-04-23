@@ -1,0 +1,64 @@
+id: GeorgeS01
+letter: G
+sequence: 39
+lastUpdated: 22 July 2022
+relationship: son
+parentId: Charles01
+parentLetter: C
+parentDesc: Charles Vining and Sophronia K. Neff
+head:
+  givenName: George S.
+  birth:
+    date: ca. 1867
+  death:
+    date: 9 July 1962
+    place: "Cortland, New York"
+  burial:
+    place: "Hillcrest Cemetery   DeRuyter, New York"
+marriages:
+  - number: 1
+    date: Kate Kellyhouse
+    spouse:
+      birth:
+        place: "Binghamton, New York"
+      death:
+        date: 10 October 1965
+        place: "Fabius, New York"
+      burial:
+        place: "Cortland Rural Cemetery   Cortland, New York"
+  - number: 2
+    date: 14 June 1947
+    place: "Cortland, New York"
+    spouse:
+      givenName: Cynthia Quick
+      surname: Husted
+      birth:
+        date: 22 July 1884
+        place: Pennsylvania
+      death:
+        date: 14 March 1961
+        place: "Cortland, New York"
+      burial:
+        place: "DeRuyter, New York"
+childrenGroups:
+  - headingText: "child by Kate Kellyhouse"
+    children:
+      - name: child
+raw: |-
+  <a name="GeorgeS01"></a><font size=+2>George S. Vining</font>
+     (son of <a href="Cfamilies.htm#Charles01">Charles Vining and Sophronia K. Neff</a>)
+     b. ca. 1867
+     m. (1) Kate Kellyhouse
+                       b. Binghamton, New York
+                       d. 10 October 1965   Fabius, New York
+                             bur. Cortland Rural Cemetery   Cortland, New York
+           (2) 14 June 1947   Cortland, New York
+                 Cynthia Quick Husted
+                       b. 22 July 1884   Pennsylvania
+                       d. 14 March 1961   Cortland, New York
+                             bur. DeRuyter, New York
+     d. 9 July 1962   Cortland, New York
+           bur. Hillcrest Cemetery   DeRuyter, New York
+  
+  <font size=+1>child by Kate Kellyhouse:</font>
+     child

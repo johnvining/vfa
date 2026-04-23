@@ -1,0 +1,61 @@
+id: CliffordF01
+letter: C
+sequence: 138
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EdmundP04
+parentLetter: E
+parentDesc: Edmund Pendleton Vining and Sarah Louise Havens
+head:
+  givenName: Clifford Frazer
+  birth:
+    date: 4 August 1907
+    place: "Kankakee, Illinois"
+  death:
+    date: 11 July 1995
+    place: "Vancouver, Washington"
+  burial:
+    place: "Saint Luke's Episcopal Church Columbarium   Vancouver, Washington"
+marriages:
+  - date: 1 March 1941
+    place: "Seattle, Washington"
+    spouse:
+      givenName: Olive Scott
+      surname: Pennington
+      parents: (dau. of Walter Scott Pennington and Olive Grace Rice)
+      birth:
+        date: 13 August 1913
+        place: "Glenwood, Minnesota"
+      death:
+        date: 7 July 2002
+        place: "(last residence: Vancouver, Washington)"
+      burial:
+        place: "Saint Luke's Episcopal Church Columbarium   Vancouver, Washington"
+childrenGroups:
+  - children:
+      - name: son +
+        marriages:
+          - date: "[...] Conklin"
+      - name: Elizabeth Louise Vining
+        birth:
+          date: 2 April 1949
+          place: "Seattle, Washington"
+        death:
+          date: 16 December 1994
+          place: "Vancouver, Washington"
+raw: |-
+  <a name="CliffordF01"></a><font size=+2>Clifford Frazer Vining</font>
+     (son of <a href="Efamilies.htm#EdmundP04">Edmund Pendleton Vining and Sarah Louise Havens</a>)
+     b. 4 August 1907   Kankakee, Illinois
+     m. 1 March 1941   Seattle, Washington
+           Olive Scott Pennington
+                 (dau. of Walter Scott Pennington and Olive Grace Rice)
+                 b. 13 August 1913   Glenwood, Minnesota
+                 d. 7 July 2002   (last residence: Vancouver, Washington)
+                       bur. Saint Luke's Episcopal Church Columbarium   Vancouver, Washington
+     d. 11 July 1995   Vancouver, Washington
+           bur. Saint Luke's Episcopal Church Columbarium   Vancouver, Washington
+  
+  <font size=+1>children:</font>
+     son +    m. [...] Conklin
+     Elizabeth Louise Vining   b. 2 April 1949   Seattle, Washington   -   d. 16 December 1994   Vancouver, Washington

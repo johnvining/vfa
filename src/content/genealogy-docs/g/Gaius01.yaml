@@ -1,0 +1,155 @@
+id: Gaius01
+title: Gaius Vining - Martha Little
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Gaius Vining
+          values:
+            - M 26–45
+            - "?"
+            - M 40–50
+            - "62"
+            - "75"
+            - |-
+              86
+              [see note below]
+            - dead
+        - label: Martha (Little) Vining
+          values:
+            - F 26–45
+            - "?"
+            - F 50–60
+            - "64"
+            - "75"
+            - |-
+              88
+              [see note below]
+            - dead
+        - label: Henry Edward Vining
+          values:
+            - "[see note below]"
+            - "?"
+            - "[see note below]"
+            - "35"
+            - "45"
+            - |-
+              58
+              [see note below]
+            - "?"
+          indent: true
+        - label: Samuel Little Vining
+          values:
+            - "[see note below]"
+            - "?"
+            - "[see note below]"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John Andrew Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Martha Amelia Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Moses Andrew Vining
+          values:
+            - ""
+            - "?"
+            - M 15–20
+            - "27"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Gaius Hobart Vining
+          values:
+            - ""
+            - "?"
+            - M 15–20
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William Norton Vining
+          values:
+            - ""
+            - "?"
+            - M 10–15
+            - "23"
+            - |-
+              32
+              [see note below]
+            - |-
+              married and living in separate(?) household
+              [see note below]
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: Southwick, Hampden County, Massachusetts - In 1820 there were 3 males under 10 and 1 female under 10.
+        images:
+          - src: Gaius01census1820.jpg
+      - year: "1840"
+        caption: Southwick, Hampden County, Massachusetts - In 1840 there was only 1 male 20–30 living in this household.
+        images:
+          - src: Gaius01census1840.jpg
+      - year: "1850"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 44, family 47
+        images:
+          - src: Gaius01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 70, family 67. William Norton Vining was married and
+          living in this household with wife Phebe.
+        images:
+          - src: Gaius01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Southwick, Hampden County, Massachusetts - dwelling 69, family 70. It is possible that William Norton Vining
+          and family continued to live in the house of his parents (see 1860 note above), which included William's
+          brother Henry Edward Vining, but was simply listed first in the 1870 census.
+        images:
+          - src: Gaius01census1870.jpg
+  - type: death
+    items:
+      - caption: "Death certificate for Gaius Vining:"
+        images:
+          - src: Gaius01deathcert.jpg
+      - caption: >-
+          Gravestones for Gaius Vining and Martha (Little) Vining, in Southwick Cemetery, Southwick, Hampden County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: Gaius01gravestone.jpg
+          - src: Gaius01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Headstone for John Andrew Vining and Martha Amelia Vining, children of Gaius Vining and Martha (Little)
+          Vining, in Southwick Cemetery, Southwick, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: Gaius01childrenMarthaJohnheadstone.jpg

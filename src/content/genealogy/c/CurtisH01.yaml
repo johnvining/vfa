@@ -1,0 +1,46 @@
+id: CurtisH01
+letter: C
+sequence: 169
+lastUpdated: 25 February 2023
+relationship: son
+parentId: HarryE01
+parentLetter: H
+parentDesc: Harry Edward Vining and Selma Christine Peterson
+head:
+  givenName: Curtis Harry
+  birth:
+    date: 9 January 1924
+    place: "Minneapolis, Minnesota"
+  death:
+    date: 11 October 1990
+marriages:
+  - date: 13 August 1948
+    spouse:
+      givenName: Virginia
+      surname: Sutherland
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        birth:
+          date: 24 April 1955
+        marriages:
+          - date: "1979"
+            spouse: James Radomski
+      - name: Nancy Vining
+        birth:
+          date: 18 June 1957
+      - name: Anne Vining
+        birth:
+          date: 1 May 1961
+raw: |-
+  <a name="CurtisH01"></a><font size=+2>Curtis Harry Vining</font>
+     (son of <a href="Hfamilies.htm#HarryE01">Harry Edward Vining and Selma Christine Peterson</a>)
+     b. 9 January 1924   Minneapolis, Minnesota
+     m. 13 August 1948
+           Virginia Sutherland
+     d. 11 October 1990
+  
+  <font size=+1>children:</font>
+     Mary Vining   b. 24 April 1955   -   m. 1979   James Radomski
+     Nancy Vining   b. 18 June 1957
+     Anne Vining   b. 1 May 1961

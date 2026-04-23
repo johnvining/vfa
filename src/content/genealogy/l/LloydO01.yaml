@@ -1,0 +1,85 @@
+id: LloydO01
+sequence: 66
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: JonasN01
+parentLetter: J
+parentDesc: "Jonas N. Vining and Sarah A. &#8220;Nancy&#8221; Columbes"
+head:
+  givenName: Lloyd Ozias
+  birth:
+    date: 3 September 1899
+    place: "New Dover, Union County, Ohio"
+  death:
+    date: 13 July 1963
+    place: "Sunbury, Delaware County, Ohio"
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
+marriages:
+  - spouse:
+      givenName: Esther Huldah
+      surname: Printz
+      birth:
+        date: 17 September 1907
+        place: "Union County, Ohio"
+      death:
+        date: 6 August 1982
+        place: "Massillon, Stark County, Ohio"
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
+childrenGroups:
+  - children:
+      - name: Leo Earl Vining
+        entryId: LeoE01
+        birth:
+          date: 6 April 1926
+          place: "Ostrander, Delaware County, Ohio"
+        marriages:
+          - number: 1
+            date: "1947"
+            spouse: "Alberta Jane Herriott, divorced 29 October 1970   Delaware County, Ohio"
+          - number: 2
+            date: 19 April 1974
+            place: Ohio
+        death:
+          date: 6 June 1983
+          place: "Delaware, Delaware County, Ohio"
+      - name: Lloyd Nelson Vining
+        entryId: LloydN01
+        entryLetter: L
+        birth:
+          date: 23 May 1931
+          place: "Allen Township, Ohio"
+        marriages:
+          - date: Betty Lou Firman
+        death:
+          date: 19 April 2010
+          place: "Ostrander, Ohio"
+        burial:
+          place: "Fairview Cemetery   Ostrander, Ohio"
+      - name: Nancy Clare Vining
+        birth:
+          date: 5 April 1933
+        marriages:
+          - date: "[...] Hawkins"
+      - name: "William Leslie [&#8220;Pete&#8221;?] Vining"
+        birth:
+          date: 26 August 1934
+          place: "New Dover, Ohio"
+raw: |-
+  <a name="LloydO01"></a><font size=+2>Lloyd Ozias Vining</font>
+     (son of <a href="Jfamilies.htm#JonasN01">Jonas N. Vining and Sarah A. &#8220;Nancy&#8221; Columbes</a>)
+     b. 3 September 1899   New Dover, Union County, Ohio
+     m. Esther Huldah Printz
+              b. 17 September 1907   Union County, Ohio
+              d. 6 August 1982   Massillon, Stark County, Ohio
+                    bur. Oak Grove Cemetery   Delaware, Ohio
+     d. 13 July 1963   Sunbury, Delaware County, Ohio
+           bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="#LeoE01">Leo Earl Vining</a>   b. 6 April 1926   Ostrander, Delaware County, Ohio   -   m. (1) 1947   Alberta Jane Herriott, divorced 29 October 1970   Delaware County, Ohio;   (2) 19 April 1974   Ohio      -   d. 6 June 1983   Delaware, Delaware County, Ohio
+     <a href="Lfamilies.htm#LloydN01">Lloyd Nelson Vining</a>   b. 23 May 1931   Allen Township, Ohio   -   m. Betty Lou Firman   -   d. 19 April 2010   Ostrander, Ohio   -   bur. Fairview Cemetery   Ostrander, Ohio
+     Nancy Clare Vining   b. 5 April 1933   -   m. [...] Hawkins
+     William Leslie [&#8220;Pete&#8221;?] Vining   b. 26 August 1934   New Dover, Ohio

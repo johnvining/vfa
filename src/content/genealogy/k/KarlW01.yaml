@@ -1,0 +1,59 @@
+id: KarlW01
+letter: K
+sequence: 2
+lastUpdated: 24 July 2022
+relationship: son
+parentId: Millis01
+parentLetter: M
+parentDesc: Millis Vining and Norma I. Wilson
+head:
+  givenName: Karl Wilson
+  birth:
+    date: 16 February 1937
+    place: "Binghamton, Broome County, New York"
+  death:
+    date: 17 April 2013
+    place: South Carolina
+marriages:
+  - spouse:
+      givenName: Patricia
+      surname: Fletcher
+      parents: "(dau. of Austin Fletcher and Helen [&#8230;])"
+      birth:
+        date: 16 April 1939
+        place: "Binghamton, Broome County, New York"
+      death:
+        date: 4 August 2018
+        place: "Bluffton, Beaufort County, South Carolina"
+childrenGroups:
+  - children:
+      - name: Brian Lee Vining
+        birth:
+          date: 24 April 1963
+        marriages:
+          - date: "Elizabeth [&#8230;]"
+      - name: Kevin David Vining
+        birth:
+          date: 17 November 1965
+        marriages:
+          - date: "Suzanne [&#8230;]"
+      - name: Craig Vining
+        marriages:
+          - date: "Heather [&#8230;]"
+docsUrl: Ksources/KarlW01doc.htm
+raw: |-
+  <a name="KarlW01"></a><font size=+2>Karl Wilson Vining</font>
+     (son of <a href="Mfamilies.htm#Millis01">Millis Vining and Norma I. Wilson</a>)
+     b. 16 February 1937   Binghamton, Broome County, New York
+     m. Patricia Fletcher
+              (dau. of Austin Fletcher and Helen [&#8230;])
+              b. 16 April 1939   Binghamton, Broome County, New York
+              d. 4 August 2018   Bluffton, Beaufort County, South Carolina
+     d. 17 April 2013   South Carolina
+  
+  <font size=+1>children:</font>
+     Brian Lee Vining   b. 24 April 1963   -   m. Elizabeth [&#8230;]
+     Kevin David Vining   b. 17 November 1965   -   m. Suzanne [&#8230;]
+     Craig Vining   m. Heather [&#8230;]
+  
+  <a href="Ksources/KarlW01doc.htm">documentation and notes</a>

@@ -1,0 +1,65 @@
+id: Josiah03
+title: Josiah Vining - Abigail Smith Thaxter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Josiah Vining
+          values:
+            - "?"
+            - "?"
+            - "54"
+            - "?"
+            - "?"
+            - "?"
+        - label: Abigail (Smith) (Thaxter) Vining
+          values:
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Susan Lincoln Vining
+          values:
+            - "?"
+            - "?"
+            - |-
+              27
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joshua Howe Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charlotte Vining
+          values:
+            - "?"
+            - "?"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Abington, Plymoouth County, Massachusetts - dwelling 180, family 227. By 1850, Susan Lincoln Vining was
+          married, to Elijah C. Howard, and she and her husband were living in the household of her father.
+        images:
+          - src: Josiah03census1850.jpg

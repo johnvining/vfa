@@ -1,0 +1,43 @@
+id: JosephM03
+title: Joseph Martyn Rufus Vining - Hazel Leota Greer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Joseph Martyn Rufus Vining
+          values:
+            - "28"
+        - label: Hazel Leota (Greer) Vining
+          values:
+            - "26"
+        - label: Neil Stewart Vining
+          values:
+            - "5"
+          indent: true
+        - label: Kenneth Clark Vining
+          values:
+            - "4"
+          indent: true
+        - label: Carol Martina Vining
+          values:
+            - "1"
+          indent: true
+        - label: Douglas Todd Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Paola, Seminole County, Florida
+        images:
+          - src: JosephM03census1940a.jpg
+          - src: JosephM03census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Joseph Martyn Rufus Vining, in Lakeview Cemetery, Sanford, Seminole County, Florida (from Find
+          A Grave):
+        images:
+          - src: JosephM03gravestone.jpg

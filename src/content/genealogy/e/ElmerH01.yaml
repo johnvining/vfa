@@ -1,0 +1,78 @@
+id: ElmerH01
+sequence: 93
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Daniel04
+parentLetter: D
+parentDesc: Daniel Vining and Elizabeth Ann Field
+head:
+  givenName: Elmer Howard
+  birth:
+    date: 13 February 1858
+    place: "Quincy, Massachusetts"
+  death:
+    date: 28 May 1939
+    place: "Brockton, Massachusetts"
+  burial:
+    place: "Melrose Cemetery   Brockton, Massachusetts"
+marriages:
+  - date: 23 December 1882
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Mariah Louise
+      surname: DesLauriers
+      parents: "(dau. of Laurent DesLauriers and Osite-Angelique Lawlor [also known as Ellen Lawlor])"
+      birth:
+        date: 24 May 1861
+        place: "Tracadie, Nova Scotia"
+      death:
+        date: 7 May 1927
+        place: "Brockton, Massachusetts"
+      burial:
+        place: "Melrose Cemetery   Brockton, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Merton Leon Vining
+        birth:
+          date: 9 July 1884
+          place: "East Weymouth, Massachusetts"
+        marriages:
+          - place: "Holbrook, Massachusetts"
+            spouse: Effie Eliza Bates
+        death:
+          date: 7 April 1950
+          place: "Holbrook, Massachusetts"
+        burial:
+          place: "Union Cemetery   Holbrook, Massachusetts"
+      - name: Elmer Harold Vining
+        entryId: ElmerH02
+        birth:
+          date: 9 March 1892
+          place: "Brockton, Massachusetts"
+        marriages:
+          - date: "192[0 or 1?]"
+            place: "Brockton, Massachusetts"
+            spouse: Bernice Marguerite Foye
+        death:
+          date: 30 September 1977
+          place: "Brockton, Massachusetts"
+docsUrl: Esources/ElmerH01doc.htm
+raw: |-
+  <a name="ElmerH01"></a><font size=+2>Elmer Howard Vining</font>
+     (son of <a href="Dfamilies.htm#Daniel04">Daniel Vining and Elizabeth Ann Field</a>)
+     b. 13 February 1858   Quincy, Massachusetts
+     m. 23 December 1882   Weymouth, Massachusetts
+           Mariah Louise DesLauriers
+                 (dau. of Laurent DesLauriers and Osite-Angelique Lawlor [also known as Ellen Lawlor])
+                 b. 24 May 1861   Tracadie, Nova Scotia
+                 d. 7 May 1927   Brockton, Massachusetts
+                       bur. Melrose Cemetery   Brockton, Massachusetts
+     d. 28 May 1939   Brockton, Massachusetts
+           bur. Melrose Cemetery   Brockton, Massachusetts
+  
+  <font size=+1>children:</font>
+     Merton Leon Vining   b. 9 July 1884   East Weymouth, Massachusetts   -   m. Holbrook, Massachusetts   Effie Eliza Bates   -   d. 7 April 1950   Holbrook, Massachusetts   -   bur. Union Cemetery   Holbrook, Massachusetts
+     <a href="#ElmerH02">Elmer Harold Vining</a>   b. 9 March 1892   Brockton, Massachusetts   -   m. 192[0 or 1?]   Brockton, Massachusetts   Bernice Marguerite Foye   -   d. 30 September 1977   Brockton, Massachusetts
+  
+  <a href="Esources/ElmerH01doc.htm">documentation and notes</a>

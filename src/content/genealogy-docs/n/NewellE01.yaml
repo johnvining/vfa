@@ -1,0 +1,62 @@
+id: NewellE01
+title: Newell E. Vining - Mary Magdalena Alle
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Newell E. Vining
+          values:
+            - "34"
+            - "42"
+            - "53"
+        - label: Mary Magdalena (Alle) Vining
+          values:
+            - "37"
+            - dead
+            - ""
+        - label: Carl Vining
+          values:
+            - "7"
+            - "17"
+            - "[married and?] living in separate household"
+          indent: true
+        - label: Louise E. Vining
+          values:
+            - "5"
+            - "16"
+            - "[married and?] living in separate household"
+          indent: true
+        - label: Stella F. Vining
+          values:
+            - "2"
+            - "12"
+            - "[married and?] living in separate household"
+          indent: true
+        - label: Leah L. Vining
+          values:
+            - ""
+            - "10"
+            - |-
+              20
+              [see note below]
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Windham Township, Greene County, New York - dwelling 403, family 398
+        images:
+          - src: NewellE01census1920.jpg
+      - year: "1930"
+        caption: Windham Township, Greene County, New York - dwelling 35, family 35
+        images:
+          - src: NewellE01census1930a.jpg
+          - src: NewellE01census1930b.jpg
+      - year: "1940"
+        caption: >-
+          Windham Township, Greene County, New York. By 1940, Leah L. Vining was married, and she was living in the
+          household of her father.
+        images:
+          - src: NewellE01census1940.jpg

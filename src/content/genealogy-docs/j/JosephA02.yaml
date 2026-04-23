@@ -1,0 +1,64 @@
+id: JosephA02
+title: Joseph Allen Vining - Adeline Jane Baker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Joseph Allen Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "58"
+        - label: Adeline Jane (Baker) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "58"
+        - label: Leroy Allen Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Ola DeEtte Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "31"
+          indent: true
+        - label: Merritt Alfred Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "29"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Westfield, Hampden County, Massachusetts - dwelling 232, family 299
+        images:
+          - src: JosephA02census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Monument for Joseph Allen Vining and Adeline Jane (Baker), in North Hatfield Cemetery, North Hatfield,
+          Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: JosephA02andwifeheadstone.jpg
+      - caption: >-
+          Monument sides for Leroy Allen Vining and Ola DeEtte Vining, children of Joseph Allen Vining and Adeline Jane
+          (Baker) Vining, in North Hatfield Cemetery, North Hatfield, Hampshire County, Massachusetts (from Find A
+          Grave):
+        images:
+          - src: JosephA02dauOlamonument.jpg
+          - src: JosephA02sonLeroymonumentside.jpg
+        inline: true

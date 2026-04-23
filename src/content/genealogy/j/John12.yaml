@@ -1,0 +1,38 @@
+id: John12
+sequence: 168
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ThomasL01
+parentLetter: T
+parentDesc: Thomas Llewellyn Vining and Anne Thick
+head:
+  givenName: John
+  birth:
+    date: 23 March 1787
+    place: "Bristol, England"
+  death:
+    date: 26 September 1886
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John Llewellyn Vining
+        entryId: JohnL03
+        birth:
+          date: "ca. July&#8211;September 1829"
+          place: "Bristol, England"
+        marriages:
+          - date: 1 July 1873
+            place: "St. Clements, Worcester, England"
+            spouse: Mary Louisa Hughes
+        death:
+          date: "ca. April &#8211;June 1872"
+          place: "Clifton, Bristol, England"
+raw: |-
+  <a name="John12"></a><font size=+2>John Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasL01">Thomas Llewellyn Vining and Anne Thick</a>)
+     b. 23 March 1787   Bristol, England
+     d. 26 September 1886
+  
+  <font size=+1>child:</font>
+     <a href="#JohnL03">John Llewellyn Vining</a>   b. ca. July&#8211;September 1829   Bristol, England   -   m. 1 July 1873   St. Clements, Worcester, England   Mary Louisa Hughes   -   d. ca. April &#8211;June 1872   Clifton, Bristol, England

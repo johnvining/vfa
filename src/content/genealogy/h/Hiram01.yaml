@@ -1,0 +1,99 @@
+id: Hiram01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220Sally&#8221; Ring"
+head:
+  givenName: Hiram
+  birth:
+    date: 11 December 1820
+    place: "Avon, Maine"
+  death:
+    date: 29 August 1896
+    place: "Weld, Maine"
+  burial:
+    place: "Center Hill Cemetery   Weld, Maine"
+marriages:
+  - date: 18 May 1848
+    spouse:
+      givenName: Emmeline
+      surname: Heath
+      parents: "(dau. of Ezra Heath and Sarah Wright)"
+      birth:
+        date: 14 December 1816
+        place: "Avon, Maine"
+      death:
+        date: 14 May 1899
+        place: "Weld, Maine"
+      burial:
+        place: "Center Hill Cemetery   Weld, Maine"
+childrenGroups:
+  - children:
+      - name: George E. Vining
+        birth:
+          date: 28 February 1849
+          place: "Avon, Maine"
+        death:
+          date: 29 January 1902
+          place: "Weld, Maine"
+        burial:
+          place: "Center Hill Cemetery   Weld, Maine"
+      - name: Edward Payson Vining
+        entryId: EdwardP01
+        entryLetter: E
+        birth:
+          date: February 1851
+          place: "Avon, Maine"
+        marriages:
+          - date: 12 August 1881
+            spouse: Esther May Burbank
+        death:
+          date: 9 December 1912
+          place: "Weld, Maine"
+        burial:
+          place: "Center Hill Cemetery   Weld, Maine"
+      - name: Hiram Emerson Vining
+        entryId: HiramE01
+        entryLetter: H
+        birth:
+          date: 21 June 1855
+          place: "Weld, Maine"
+        marriages:
+          - date: 13 August 1881
+            spouse: Nellie Jane Huntington
+        death:
+          date: 29 August 1923
+          place: "Weld, Maine"
+        burial:
+          place: "Center Hill Cemetery   Weld, Maine"
+      - name: Emma E. Vining
+        birth:
+          date: 26 January 1857
+          place: Maine
+        marriages:
+          - date: George Cole
+        death:
+          date: 6 August 1890
+docsUrl: Hsources/Hiram01doc.htm
+raw: |-
+  <a name="Hiram01"></a><font size=+2>Hiram Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220Sally&#8221; Ring</a>)
+     b. 11 December 1820   Avon, Maine
+     m. 18 May 1848
+           Emmeline Heath
+                 (dau. of Ezra Heath and Sarah Wright)
+                 b. 14 December 1816   Avon, Maine
+                 d. 14 May 1899   Weld, Maine
+                       bur. Center Hill Cemetery   Weld, Maine
+     d. 29 August 1896   Weld, Maine
+           bur. Center Hill Cemetery   Weld, Maine
+  
+  <font size=+1>children:</font>
+     George E. Vining   b. 28 February 1849   Avon, Maine   -   d. 29 January 1902   Weld, Maine   -   bur. Center Hill Cemetery   Weld, Maine
+     <a href="Efamilies.htm#EdwardP01">Edward Payson Vining</a>   b. February 1851   Avon, Maine   -   m. 12 August 1881   Esther May Burbank   -   d. 9 December 1912   Weld, Maine   -   bur. Center Hill Cemetery   Weld, Maine
+     <a href="Hfamilies.htm#HiramE01">Hiram Emerson Vining</a>   b. 21 June 1855   Weld, Maine   -   m. 13 August 1881   Nellie Jane Huntington   -   d. 29 August 1923   Weld, Maine   -   bur. Center Hill Cemetery   Weld, Maine
+     Emma E. Vining   b. 26 January 1857   Maine   -   m. George Cole   -   d. 6 August 1890
+  
+  <a href="Hsources/Hiram01doc.htm">documentation and notes</a>

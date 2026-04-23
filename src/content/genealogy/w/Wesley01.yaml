@@ -1,0 +1,36 @@
+id: Wesley01
+sequence: 41
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: LeonardJ01
+parentLetter: L
+parentDesc: Leonard John Vining and Marguerite Frasier
+head:
+  givenName: Wesley
+  birth:
+    date: 19 July 1940
+marriages:
+  - spouse:
+      givenName: Mary Van
+      surname: Valin
+      birth:
+        date: 5 February 1940
+childrenGroups:
+  - children:
+      - name: Joyce Vining
+        birth:
+          date: 26 January 1966
+      - name: Cheryl Vining
+        birth:
+          date: 10 February 1969
+raw: |-
+  <a name="Wesley01"></a><font size=+2>Wesley Vining</font>
+     (son of <a href="Lfamilies.htm#LeonardJ01">Leonard John Vining and Marguerite Frasier</a>)
+     b. 19 July 1940
+     m. Mary Van Valin
+              b. 5 February 1940
+  
+  <font size=+1>children:</font>
+     Joyce Vining   b. 26 January 1966
+     Cheryl Vining   b. 10 February 1969

@@ -1,0 +1,42 @@
+id: HerbertA01
+letter: H
+sequence: 903
+lastUpdated: 30 July 2022
+relationship: son
+parentId: WilliamA03
+parentLetter: W
+parentDesc: "William Allen Vining and Mary [Edna or Ellen?] Shaw"
+head:
+  givenName: Herbert Allen
+  birth:
+    date: March 1877
+    place: "Hingham, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Mae
+      surname: Harlow
+      parents: "(dau. of Edw[in?] Harlow and Augusta A. [...])"
+      birth:
+        date: January 1874
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Allen Vining
+        birth:
+          date: age 5 y. as of 1910 census
+          place: Massachusetts
+      - name: Ainsley Vining
+        birth:
+          date: age 1 y. as of 1910 census
+          place: Massachusetts
+raw: |-
+  <a name="HerbertA01"></a><font size=+2>Herbert Allen Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamA03">William Allen Vining and Mary [Edna or Ellen?] Shaw</a>)
+     b. March 1877   Hingham, Massachusetts
+     m. Mae Harlow
+              (dau. of Edw[in?] Harlow and Augusta A. [...])
+              b. January 1874   Massachusetts
+  
+  <font size=+1>children:</font>
+     Allen Vining   b. age 5 y. as of 1910 census   Massachusetts
+     Ainsley Vining   b. age 1 y. as of 1910 census   Massachusetts

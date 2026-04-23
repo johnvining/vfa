@@ -1,0 +1,118 @@
+id: LesterR01
+sequence: 55
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: MarionM01
+parentLetter: M
+parentDesc: Marion Mortimer Vining and Flora E. Widdifield
+head:
+  givenName: Lester Raymond
+  birth:
+    date: 13 July 1890
+    place: "Milan, Ohio"
+  death:
+    date: 9 June 1958
+    place: "Morley, Michigan"
+  burial:
+    place: "Higbee Cemetery   Deerfield Township, Mecosta County, Michigan"
+marriages:
+  - spouse:
+      givenName: Laurel Vivian
+      surname: Ladner
+      parents: (dau. of Fred I. Ladner and Clare Bell Knettles)
+      birth:
+        date: 23 November 1902
+        place: "Big Rapids, Michigan"
+      death:
+        date: 8 September 1976
+        place: "Stanwood, Michigan"
+      burial:
+        place: "Ladner Cemetery   Stanwood, Michigan"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Monroe Marion Vining
+        entryId: MonroeM01
+        entryLetter: M
+        birth:
+          date: 22 December 1920
+        marriages:
+          - date: "Helen Parker,   divorced"
+        death:
+          date: July 1986
+          place: "(last residence: Umatilla, Florida)"
+  - headingText: "adopted child"
+    children:
+      - name: Alice June Vining
+        birth:
+          date: 22 June 1925
+        marriages:
+          - date: Fred Nutkins
+  - children:
+      - name: Lester Raymond Vining Jr.
+        entryId: LesterRJr01
+        entryLetter: L
+        birth:
+          date: 16 November 1925
+          place: "Morley, Michigan"
+        marriages:
+          - date: 16 October 1948
+            place: "Stanwood, Michigan"
+            spouse: Audrey Jean Armstrong
+        death:
+          date: 17 April 2013
+          place: "Pagosa Springs, Colorado"
+        burial:
+          description: cremated
+      - name: Roger Earl Vining
+        entryId: RogerE01
+        entryLetter: R
+        birth:
+          date: 10 September 1927
+          place: "Big Rapids, Michigan"
+        marriages:
+          - date: 27 August 1949
+            spouse: Dolores Arlene Croff
+        death:
+          date: 26 September 2020
+          place: "Lakeview, Michigan"
+        burial:
+          place: "Higbee Cemetery   Morley, Michigan"
+      - name: Frank Christensen Vining
+        entryId: FrankC02
+        entryLetter: F
+        birth:
+          date: 20 August 1929
+          place: Michigan
+        marriages:
+          - date: 23 February 1957
+            spouse: Barbara Jean Olson
+        death:
+          date: 22 February 1982
+          place: "Big Rapids, Michigan"
+        burial:
+          place: "Higbee Cemetery   Deerfield Township, Mecosta County, Michigan"
+docsUrl: Lsources/LesterR01doc.htm
+raw: |-
+  <a name="LesterR01"></a><font size=+2>Lester Raymond Vining</font>
+     (son of <a href="Mfamilies.htm#MarionM01">Marion Mortimer Vining and Flora E. Widdifield</a>)
+     b. 13 July 1890   Milan, Ohio
+     m. Laurel Vivian Ladner
+              (dau. of Fred I. Ladner and Clare Bell Knettles)
+              b. 23 November 1902   Big Rapids, Michigan
+              d. 8 September 1976   Stanwood, Michigan
+                    bur. Ladner Cemetery   Stanwood, Michigan
+     d. 9 June 1958   Morley, Michigan
+           bur. Higbee Cemetery   Deerfield Township, Mecosta County, Michigan
+  
+  <font size=+1>child:</font>
+     <a href="Mfamilies.htm#MonroeM01">Monroe Marion Vining</a>   b. 22 December 1920   -   m. Helen Parker,   divorced   -   d. July 1986   (last residence: Umatilla, Florida)
+  <font size=+1>adopted child:</font>
+     Alice June Vining   b. 22 June 1925   -   m. Fred Nutkins
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LesterRJr01">Lester Raymond Vining Jr.</a>   b. 16 November 1925   Morley, Michigan   -   m. 16 October 1948   Stanwood, Michigan   Audrey Jean Armstrong   -   d. 17 April 2013   Pagosa Springs, Colorado   -   cremated
+     <a href="Rfamilies.htm#RogerE01">Roger Earl Vining</a>   b. 10 September 1927   Big Rapids, Michigan   -   m. 27 August 1949   Dolores Arlene Croff   -   d. 26 September 2020   Lakeview, Michigan   -   bur. Higbee Cemetery   Morley, Michigan
+     <a href="Ffamilies.htm#FrankC02">Frank Christensen Vining</a>   b. 20 August 1929   Michigan   -   m. 23 February 1957   Barbara Jean Olson   -   d. 22 February 1982   Big Rapids, Michigan   -   bur. Higbee Cemetery   Deerfield Township, Mecosta County, Michigan
+  
+  <a href="Lsources/LesterR01doc.htm">documentation and notes</a>

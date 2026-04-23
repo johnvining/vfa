@@ -1,0 +1,156 @@
+id: CorneliusW01
+letter: C
+sequence: 156
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Daniel02
+parentLetter: D
+parentDesc: "Daniel Vining and Lydia? [...]"
+head:
+  givenName: Cornelius W.
+  birth:
+    date: "1817"
+    place: "[New York or Vermont?]"
+  death:
+    date: 4 February 1883
+    place: "Liberty Township, Michigan"
+  burial:
+    place: "East Liberty Cemetery   Liberty, Michigan"
+marriages:
+  - date: "[9 May or 4 February?] 1838"
+    spouse:
+      givenName: Zipporah
+      surname: Clarke
+      birth:
+        date: 29 March 1818
+        place: New York
+      death:
+        date: "[1892 or 1893?]"
+        place: "Liberty Township, Michigan"
+      burial:
+        place: "East Liberty Cemetery   Liberty, Michigan"
+childrenGroups:
+  - children:
+      - name: Daniel Devere Vining
+        birth:
+          date: 25 December 1839
+          place: Michigan
+        death:
+          date: 20 May 1863
+      - name: Thaddeus Subsequie Vining
+        entryId: ThaddeusS01
+        entryLetter: T
+        birth:
+          date: 4 August 1841
+          place: Michigan
+        marriages:
+          - number: 1
+            date: Hattie Lewis
+          - number: 2
+            date: 12 y. as of 1900 census
+            spouse: Anna Greene
+        death:
+          date: 18 April 1921
+          place: "Grand Rapids, Kent County, Michigan"
+        burial:
+          place: Woodland Cemetery   Michigan
+      - name: Robert Emmett Vining
+        birth:
+          date: "1845"
+          place: Michigan
+        death:
+          date: 28 April 1863
+          place: "Louisville, Kentucky"
+        burial:
+          place: "grave #2016   National Cemetery"
+      - name: Frank Clarke Vining
+        entryId: FrankC01
+        entryLetter: F
+        birth:
+          date: "[January?] 1847"
+          place: "[Michigan or Indiana?]"
+        marriages:
+          - date: "Mary A. [Scuttle or Cosgrove ?]"
+      - name: Charles Fournier Vining
+        entryId: CharlesF01
+        birth:
+          date: 25 December 1849
+          place: "[New York or Indiana or Columbia Township, Michigan?]"
+        marriages:
+          - number: 1
+            date: 17 December 1873
+            place: "Clark Lake, Michigan"
+            spouse: Nancy Ophelia Preston
+          - number: 2
+            date: "Viola Adora Redner Vining [widow of his brother Thomas]"
+        death:
+          date: "1924"
+        burial:
+          place: Clark Lake Cemetery  Michigan
+      - name: Alice Cecelia Vining
+        birth:
+          date: "1851"
+          place: Michigan
+        marriages:
+          - number: 1
+            date: 21 December 1871
+            place: Michigan
+            spouse: Thomas F. Seaman
+          - number: 2
+            date: John Garlinghouse
+      - name: Thomas Paine Vining
+        entryId: ThomasP03
+        entryLetter: T
+        birth:
+          date: 25 June 1857
+          place: "Brooklyn (Columbia Township), Michigan"
+        marriages:
+          - date: 31 December 1878
+            spouse: Viola Adora Redner
+        death:
+          date: 9 August 1915
+          place: "Liberty Township, Michigan"
+        burial:
+          place: "East Liberty Cemetery   Liberty Township, Michigan"
+      - name: Joseph Easton Vining
+        entryId: JosephE03
+        entryLetter: J
+        birth:
+          date: 9 April 1859
+          place: "Liberty Township, Michigan"
+        marriages:
+          - number: 1
+            date: 27 September 1882
+            place: Michigan
+            spouse: Alwilda Russell
+          - number: 2
+            date: Mary Leo (Bartlett) (Pelham)
+        death:
+          date: 27 May 1929
+          place: "Brooklyn, Michigan"
+        burial:
+          place: "Napoleon, Michigan"
+docsUrl: Csources/CorneliusW01doc.htm
+raw: |-
+  <a name="CorneliusW01"></a><font size=+2>Cornelius W. Vining</font>
+     (son of <a href="Dfamilies.htm#Daniel02">Daniel Vining and Lydia? [...]</a>)
+     b. 1817   [New York or Vermont?]
+     m. [9 May or 4 February?] 1838
+           Zipporah Clarke
+                 b. 29 March 1818   New York
+                 d. [1892 or 1893?]   Liberty Township, Michigan
+                       bur. East Liberty Cemetery   Liberty, Michigan
+     d. 4 February 1883   Liberty Township, Michigan
+           bur. East Liberty Cemetery   Liberty, Michigan
+  
+  <font size=+1>children:</font>
+     Daniel Devere Vining   b. 25 December 1839   Michigan   -   d. 20 May 1863
+     <a href="Tfamilies.htm#ThaddeusS01">Thaddeus Subsequie Vining</a>   b. 4 August 1841   Michigan   -   m. (1) Hattie Lewis;   (2) 12 y. as of 1900 census   Anna Greene   -   d. 18 April 1921   Grand Rapids, Kent County, Michigan   -   bur. Woodland Cemetery   Michigan
+     Robert Emmett Vining   b. 1845   Michigan   -   d. 28 April 1863   Louisville, Kentucky   -   bur. grave #2016   National Cemetery
+     <a href="Ffamilies.htm#FrankC01">Frank Clarke Vining</a>   b. [January?] 1847   [Michigan or Indiana?]   -   m. Mary A. [Scuttle or Cosgrove ?]
+     <a href="#CharlesF01">Charles Fournier Vining</a>   b. 25 December 1849   [New York or Indiana or Columbia Township, Michigan?]   -   m. (1) 17 December 1873   Clark Lake, Michigan   Nancy Ophelia Preston;   (2) Viola Adora Redner Vining [widow of his brother Thomas]   -   d. 1924   -   bur. Clark Lake Cemetery  Michigan
+     Alice Cecelia Vining   b. 1851   Michigan   -   m. (1) 21 December 1871   Michigan   Thomas F. Seaman;   (2) John Garlinghouse
+     <a href="Tfamilies.htm#ThomasP03">Thomas Paine Vining</a>   b. 25 June 1857   Brooklyn (Columbia Township), Michigan   -   m. 31 December 1878   Viola Adora Redner   -   d. 9 August 1915   Liberty Township, Michigan   -   bur. East Liberty Cemetery   Liberty Township, Michigan
+     <a href="Jfamilies.htm#JosephE03">Joseph Easton Vining</a>   b. 9 April 1859   Liberty Township, Michigan   -   m. (1) 27 September 1882   Michigan   Alwilda Russell;   (2) Mary Leo (Bartlett) (Pelham)   -   d. 27 May 1929   Brooklyn, Michigan   -   bur. Napoleon, Michigan
+  
+  <a href="Csources/CorneliusW01doc.htm">documentation and notes</a>

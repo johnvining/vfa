@@ -1,0 +1,100 @@
+id: JohnW05
+title: John Wesley Vining - Lucy Jenkins
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage certificate for John Wesley Vining and Lucy Jenkins:"
+        images:
+          - src: JohnW05marriagecertificate.jpg
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Wesley Vining
+          values:
+            - "?"
+            - "45"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lucy (Jenkins) Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Marshall Lee Vining
+          values:
+            - "?"
+            - "15"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: "[?] Vining"
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ivy Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Dorsey T. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Otis Edmond Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Audrey Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Barnesville District, Pike County, Georgia - dwelling 238, family 238
+        images:
+          - src: JohnW05census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Otis Edmund Vining, son of John Wesley Vining and Lucy (Jenkins) Vining, in Forsyth City
+          Cemetery, Forsyth, Monroe County, Georgia (from Find A Grave):
+        images:
+          - src: JohnW05sonOtisgravestone.jpg

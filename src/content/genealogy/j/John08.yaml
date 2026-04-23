@@ -1,0 +1,45 @@
+id: John08
+sequence: 170
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Samuel03
+parentLetter: S
+parentDesc: "Samuel Vining and Rebekah [...]"
+head:
+  givenName: John
+  birth:
+    date: age 69 y. at death
+  death:
+    date: 11 November 1866
+  burial:
+    place: "William Ganong Cemetery   Westland, Michigan"
+marriages:
+  - spouse:
+      givenName: Abigail
+      surname: Ganong
+childrenGroups:
+  - children:
+      - name: daughter
+      - name: Lovina Vining
+        birth:
+          date: ca. 1822
+        marriages:
+          - date: "Bennington Township, Ohio"
+            spouse: William Davis
+      - name: "[other children?]"
+docsUrl: Jsources/John08doc.htm
+raw: |-
+  <a name="John08"></a><font size=+2>John Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel03">Samuel Vining and Rebekah [...]</a>)
+     b. age 69 y. at death
+     m. Abigail Ganong
+     d. 11 November 1866
+           bur. William Ganong Cemetery   Westland, Michigan
+  
+  <font size=+1>children:</font>
+     daughter
+     Lovina Vining   b. ca. 1822   -    m. Bennington Township, Ohio   William Davis
+     [other children?]
+  
+  <a href="Jsources/John08doc.htm">documentation and notes</a>

@@ -1,0 +1,39 @@
+id: William11
+sequence: 55
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William
+  death:
+    date: "before 7 December 1728 [the date his son William became administrator of his estate] and possibly before 19 November 1705 [the date of Abigail Eldridge's marriage to Zachariah Rider]"
+marriages:
+  - spouse:
+      givenName: Abigail
+      surname: Eldridge
+      parents: "(dau. of John Eldridge and Abigail Littlefield)"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Vining Jr.
+        entryId: WilliamJr01
+        birth:
+          date: 25 July 1700
+          place: "[?Marblehead], Massachusetts"
+        marriages:
+          - date: 18 October 1723
+            place: "Marblehead, Massachusetts"
+            spouse: Anna Nichols
+        death:
+          date: before February 1768
+          place: "Craven County, North Carolina"
+raw: |-
+  <a name="William11"></a><font size=+2>William Vining</font>
+     (son of [?])
+     m. Abigail Eldridge
+              (dau. of John Eldridge and Abigail Littlefield)
+     d. before 7 December 1728 [the date his son William became administrator of his estate] and possibly before 19 November 1705 [the date of Abigail Eldridge's marriage to Zachariah Rider]
+  
+  <font size=+1>child:</font>
+     <a href="#WilliamJr01">William Vining Jr.</a>   b. 25 July 1700   [?Marblehead], Massachusetts   -   m. 18 October 1723   Marblehead, Massachusetts   Anna Nichols   -   d. before February 1768   Craven County, North Carolina

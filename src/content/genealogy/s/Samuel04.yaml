@@ -1,0 +1,99 @@
+id: Samuel04
+letter: S
+sequence: 3
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Elias01
+parentLetter: E
+parentDesc: Elias Vining and Eunice Case
+head:
+  givenName: Samuel
+  birth:
+    date: 12 August 1774
+    place: "Simsbury, Hartford County, Connecticut"
+  death:
+    date: 13 June 1828
+    place: "Southwick, Hampden County, Massachusetts"
+  burial:
+    place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Rhoda
+      surname: Pettibone
+      parents: (dau. of Abijah Pettibone and Dorcus Cornish)
+      birth:
+        date: 14 March 1777
+        place: "Simsbury, Hartford County, Connecticut"
+      death:
+        date: 3 November 1820
+      burial:
+        place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Samuel Truman Vining
+        entryId: SamuelT02
+        birth:
+          date: "1796"
+          place: "Southwick, Hampden County, Massachusetts"
+        marriages:
+          - date: Mary Steere
+        death:
+          date: 18 May 1875
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+      - name: Samuel C. Vining
+        entryId: SamuelC01
+        birth:
+          date: ca. 1797
+        marriages:
+          - date: "1823"
+            spouse: Lydia Bartlett
+        death:
+          date: "18 May 1875[?]"
+      - name: Ahijah Pettibone Vining
+        entryId: AhijahP01
+        entryLetter: A
+        birth:
+          date: "age 71 y., 6 m. at death"
+          place: Connecticut
+        marriages:
+          - date: Betsey Webb
+        death:
+          date: 12 December 1879
+          place: "Southwick, Hampden County, Massachusetts"
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+      - name: Hiram Harrison Vining
+        entryId: HiramH01
+        entryLetter: H
+        birth:
+          date: age 35 y. as of 1850 census
+          place: Massachusetts
+        marriages:
+          - date: 8 February 1842
+            spouse: Mary Cecilia Forward
+        death:
+          date: 14 October 1858
+          place: "Southwick, Hampden County, Massachusetts"
+        burial:
+          place: "Southwick Cemetery   Southwick, Hampden County, Massachusetts"
+docsUrl: Ssources/Samuel04doc.htm
+raw: |-
+  <a name="Samuel04"></a><font size=+2>Samuel Vining</font>
+     (son of <a href="Efamilies.htm#Elias01">Elias Vining and Eunice Case</a>)
+     b. 12 August 1774   Simsbury, Hartford County, Connecticut
+     m. Rhoda Pettibone
+              (dau. of Abijah Pettibone and Dorcus Cornish)
+              b. 14 March 1777   Simsbury, Hartford County, Connecticut
+              d. 3 November 1820
+                    bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+     d. 13 June 1828   Southwick, Hampden County, Massachusetts
+           bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#SamuelT02">Samuel Truman Vining</a>   b. 1796   Southwick, Hampden County, Massachusetts   -   m. Mary Steere   -   d. 18 May 1875   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+     <a href="#SamuelC01">Samuel C. Vining</a>   b. ca. 1797   -   m. 1823   Lydia Bartlett   -   d. 18 May 1875[?]
+     <a href="Afamilies.htm#AhijahP01">Ahijah Pettibone Vining</a>   b. age 71 y., 6 m. at death   Connecticut   -   m. Betsey Webb   -   d. 12 December 1879   Southwick, Hampden County, Massachusetts   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+     <a href="Hfamilies.htm#HiramH01">Hiram Harrison Vining</a>   b. age 35 y. as of 1850 census   Massachusetts   -   m. 8 February 1842   Mary Cecilia Forward   -   d. 14 October 1858   Southwick, Hampden County, Massachusetts   -   bur. Southwick Cemetery   Southwick, Hampden County, Massachusetts
+  
+  <a href="Ssources/Samuel04doc.htm">documentation and notes</a>

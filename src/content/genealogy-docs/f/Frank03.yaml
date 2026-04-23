@@ -1,0 +1,32 @@
+id: Frank03
+title: Frank Vining - Annie [...]
+displayTitle: Frank Vining - Annie […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Vining
+          values:
+            - "27"
+            - "37"
+        - label: Annie ([…]) Vining
+          values:
+            - "30"
+            - "40"
+        - label: Eugene Frank Vining
+          values:
+            - "6"
+            - "16"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: ward 4, Tangipahoa Parish, Louisiana - dwelling 110, family 123
+        images:
+          - src: Frank03census1930.jpg
+      - year: "1940"
+        caption: ward 4, St. Helena Parish, Louisiana
+        images:
+          - src: Frank03census1940.jpg

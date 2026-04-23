@@ -1,0 +1,155 @@
+id: FrancisJ01
+title: Francis Jefferson Vining - Falba J. Starling
+intro:
+  - caption: "Thank you to Janice Roden for her contributions to this page. Francis Jefferson Vining:"
+    images:
+      - src: FrancisJ01photograph.jpg
+        height: 400
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage certificate for Francis Jefferson Vining and Falba J. Starling:"
+        images:
+          - src: FrancisJ01marriagecertificate.jpg
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Francis Jefferson Vining
+          values:
+            - "[35?]"
+            - "47"
+            - "?"
+            - "60"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Falba J. (Starling) Vining
+          values:
+            - "23"
+            - "32"
+            - "?"
+            - "51"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Ida Vining
+          values:
+            - "3"
+            - "13"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Stewart Vining
+          values:
+            - ""
+            - "11"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary L. E. Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Gordon Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "26"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mattie Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Josephine Vining
+          values:
+            - ""
+            - 2 m.
+            - "?"
+            - "19"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Annie Pearl Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Thomas Bernard Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Thomaston post office, Upson County, Georgia - dwelling 609, family 609
+        images:
+          - src: FrancisJ01census1870.jpg
+      - year: "1880"
+        caption: Black Ankle, Upson County, Georgia - dwelling 55, family 55
+        images:
+          - src: FrancisJ01census1880.jpg
+      - year: "1900"
+        caption: Redbone, Upson County, Georgia - dwelling 269, family 276
+        images:
+          - src: FrancisJ01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Francis Jefferson Vining and Falba J. (Starling) Vining, in Antioch United Methodist Cemetery,
+          Thomaston, Upson County, Georgia (from Find A Grave):
+        images:
+          - src: FrancisJ01gravestone.jpg
+          - src: FrancisJ01wifegravestone.jpg
+        inline: true

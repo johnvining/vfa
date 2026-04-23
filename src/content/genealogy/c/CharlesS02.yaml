@@ -1,0 +1,63 @@
+id: CharlesS02
+letter: C
+sequence: 99
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Nathan01
+parentLetter: N
+parentDesc: Nathan Vining and Jane Smith
+head:
+  givenName: Charles S.
+  birth:
+    date: "1826"
+    place: Maine
+  death:
+    date: 7 December 1895
+    place: "Gorham, Coos County, New Hampshire"
+  burial:
+    place: "Evans Cemetery   Gorham, Coos County, New Hampshire"
+marriages:
+  - date: "intentions filed 5 November 1867"
+    spouse:
+      givenName: Margaret
+      surname: Gray
+      birth:
+        date: "1847"
+        place: Canada
+      death:
+        date: "1922"
+      burial:
+        place: "Evans Cemetery   Gorham, Coos County, New Hampshire"
+childrenGroups:
+  - children:
+      - name: Lewis E. Vining
+        birth:
+          date: age 9 y. as of 1880 census
+          place: New Hampshire
+      - name: "Mildred [G.?] Vining"
+        birth:
+          date: age 5 y. as of 1880 census
+          place: New Hampshire
+      - name: Grace F. Vining
+        birth:
+          date: age 2 y. as of 1880 census
+          place: New Hampshire
+docsUrl: Csources/CharlesS02doc.htm
+raw: |-
+  <a name="CharlesS02"></a><font size=+2>Charles S. Vining</font>
+     (son of <a href="Nfamilies.htm#Nathan01">Nathan Vining and Jane Smith</a>)
+     b. 1826   Maine
+     m. intentions filed 5 November 1867
+           Margaret Gray
+                 b. 1847   Canada
+                 d. 1922
+                       bur. Evans Cemetery   Gorham, Coos County, New Hampshire
+     d. 7 December 1895   Gorham, Coos County, New Hampshire
+           bur. Evans Cemetery   Gorham, Coos County, New Hampshire
+  
+  <font size=+1>children:</font>
+     Lewis E. Vining   b. age 9 y. as of 1880 census   New Hampshire
+     Mildred [G.?] Vining   b. age 5 y. as of 1880 census   New Hampshire
+     Grace F. Vining   b. age 2 y. as of 1880 census   New Hampshire
+  
+  <a href="Csources/CharlesS02doc.htm">documentation and notes</a>

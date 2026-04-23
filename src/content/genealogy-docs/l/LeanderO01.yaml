@@ -1,0 +1,52 @@
+id: LeanderO01
+title: Leander Otis Vining - B. Angeline Hillyard
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Leander Otis Vining
+          values:
+            - "30"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: B. Angeline (Hillyard) Vining
+          values:
+            - "23"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: George Melvin Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Arlington, Van Buren County, Michigan - dwelling 640, family 630. In 1860, Leander and B. Angeline were living
+          in the household of Noble Orton and family.
+        images:
+          - src: LeanderO01census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Grvestone of Leander Otis Vining, in Arlington National Cemetery, Arlington, Arlington County, Virginia (from
+          Find A Grave):
+        images:
+          - src: LeanderO01gravestone.jpg

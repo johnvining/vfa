@@ -1,0 +1,66 @@
+id: AdoniramE01
+letter: A
+sequence: 12
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Adoniram01
+parentDesc: Adoniram Vining and Lydia Tirrell Shaw
+head:
+  givenName: Adoniram Elliot
+  birth:
+    date: 23 August 1840
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 11 March 1909
+  burial:
+    place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Martha Anne
+      surname: White
+      parents: (dau. of Benjamin Franklin White and Mary Ann Tirrell)
+      birth:
+        date: 3 May 1841
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: "[prior to 1920 census?]"
+childrenGroups:
+  - children:
+      - name: Carrie E. Vining
+        birth:
+          date: age 2 y. as of 1870 census
+          place: Massachusetts
+      - name: Mary E. Vining
+        birth:
+          date: November 1871
+          place: Massachusetts
+      - name: Herbert F. Vining
+        entryId: HerbertF01
+        entryLetter: H
+        birth:
+          date: December 1873
+          place: Massachusetts
+        marriages:
+          - date: "Mabel S. [...]"
+      - name: child Vining
+        death:
+          date: prior to 1910 census
+docsUrl: Asources/AdoniramE01doc.htm
+raw: |-
+  <a name="AdoniramE01"></a><font size="+2">Adoniram Elliot Vining</font>
+     (son of <a href="#Adoniram01">Adoniram Vining and Lydia Tirrell Shaw</a>)
+     b. 23 August 1840   Weymouth, Norfolk County, Massachusetts
+     m. Martha Anne White
+              (dau. of Benjamin Franklin White and Mary Ann Tirrell)
+              b. 3 May 1841   Weymouth, Norfolk County, Massachusetts
+              d. [prior to 1920 census?]
+     d. 11 March 1909
+           bur. Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size="+1">children:</font>
+     Carrie E. Vining   b. age 2 y. as of 1870 census   Massachusetts
+     Mary E. Vining   b. November 1871   Massachusetts
+     <a href="Hfamilies.htm#HerbertF01">Herbert F. Vining</a>   b. December 1873   Massachusetts   -   m. Mabel S. [...]
+     child Vining   d. prior to 1910 census
+  
+  <a href="Asources/AdoniramE01doc.htm">documentation and notes</a>

@@ -1,0 +1,31 @@
+id: MartinR01
+sequence: 14
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: VinsonL01
+parentLetter: V
+parentDesc: Vinson Leo Vining and Betty Aube
+head:
+  givenName: Martin Rene
+  birth:
+    date: 10 June 1969
+    place: "Lewiston, Maine"
+  death:
+    date: 1 April 2011
+    place: "Farmington, Maine"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ambrosia Vining
+docsUrl: Msources/MartinR01doc.htm
+raw: |-
+  <a name="MartinR01"></a><font size=+2>Martin Rene Vining</font>
+     (son of <a href="Vfamilies.htm#VinsonL01">Vinson Leo Vining and Betty Aube</a>)
+     b. 10 June 1969   Lewiston, Maine
+     d. 1 April 2011   Farmington, Maine
+  
+  <font size=+1>child:</font>
+     Ambrosia Vining
+  
+  <a href="Msources/MartinR01doc.htm">documentation and notes</a>

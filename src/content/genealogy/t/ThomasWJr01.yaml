@@ -1,0 +1,142 @@
+id: ThomasWJr01
+letter: T
+sequence: 63
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasW02
+parentDesc: Thomas William Vining and Mary Prediger
+head:
+  givenName: Thomas William Jr.
+  birth:
+    date: 13 January 1832
+    place: "Bristol, Gloucestershire, England"
+  death:
+    date: 27 December 1893
+    place: "Pine Bluff, Jefferson County, Arkansas"
+  burial:
+    place: "Bellwood Cemetery   Pine Bluff, Jefferson County, Arkansas"
+marriages:
+  - number: 1
+    date: 30 January 1853
+    place: Arkansas
+    spouse:
+      givenName: Mary Jane
+      surname: Bray
+      birth:
+        date: age 23 y. as of 1860 census
+        place: Arkansas
+  - number: 2
+    date: 11 February 1866
+    place: "Pine Bluff, Arkansas"
+    spouse:
+      givenName: Elizabeth
+      surname: Hawley
+      birth:
+        date: February 1850
+        place: Arkansas
+childrenGroups:
+  - spouseRef: Mary Jane Bray
+    children:
+      - name: George M. Vining
+        entryId: GeorgeM04
+        entryLetter: G
+        birth:
+          date: 22 February 1855
+          place: "Pine Bluff, Arkansas"
+        marriages:
+          - date: 6 January 1889
+            place: "Wichita Falls, Texas"
+            spouse: Martha Florence Burnham
+        death:
+          date: 10 October 1890
+          place: "Wichita, Texas"
+      - name: Mary Amanda Vining
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Arkansas
+        marriages:
+          - date: James Evin Bradshaw
+        death:
+          date: ca. 1894
+          place: Arkansas
+      - name: "[A.?] T. Vining"
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Arkansas
+  - spouseRef: Elizabeth Hawley
+    children:
+      - name: Henry H. Vining
+        entryId: HenryH03
+        entryLetter: H
+        birth:
+          date: 13 November 1870
+          place: "Pine Bluff, Jefferson County, Arkansas"
+        marriages:
+          - date: 22 July 1903
+            place: "Jefferson County, Arkansas"
+            spouse: Viola Davis
+        death:
+          date: 10 November 1934
+          place: "Wichita Falls, Wichita County, Texas"
+      - name: William Wesley Vining
+        birth:
+          date: "1872"
+          place: Arjabsas
+      - name: Emma Launa Vining
+        birth:
+          date: 8 October 1878
+          place: Arkansas
+        marriages:
+          - date: 20 August 1903
+            spouse: David B. Salisbury
+        death:
+          date: 21 May 1953
+      - name: Virginia Alexander Vining
+        birth:
+          date: 2 December 1883
+        marriages:
+          - number: 1
+            date: "1903"
+            spouse: "William Otto Freitag, (d. 1911)"
+          - number: 2
+            date: "1916"
+            spouse: Fred Milton Hodge
+        death:
+          date: 24 May 1958
+      - name: Thomas J. Vining
+        birth:
+          date: 27 December 1886
+        marriages:
+          - number: 1
+            date: Oklahoma
+          - number: 2
+            date: "1936"
+            spouse: Anita Vogt
+        death:
+          date: 27 January 1968
+docsUrl: Tsources/ThomasWJr01doc.htm
+raw: |-
+  <a name="ThomasWJr01"></a><font size=+2>Thomas William Vining Jr.</font>
+     (son of <a href="#ThomasW02">Thomas William Vining and Mary Prediger</a>)
+     b. 13 January 1832   Bristol, Gloucestershire, England
+     m. (1) 30 January 1853   Arkansas
+                 Mary Jane Bray
+                       b. age 23 y. as of 1860 census   Arkansas
+           (2) 11 February 1866   Pine Bluff, Arkansas
+                 Elizabeth Hawley
+                       b. February 1850   Arkansas
+     d. 27 December 1893   Pine Bluff, Jefferson County, Arkansas
+           bur. Bellwood Cemetery   Pine Bluff, Jefferson County, Arkansas
+  
+  <font size=+1>children by Mary Jane Bray:</font>
+     <a href="Gfamilies.htm#GeorgeM04">George M. Vining</a>   b. 22 February 1855   Pine Bluff, Arkansas   -   m. 6 January 1889   Wichita Falls, Texas   Martha Florence Burnham   -   d. 10 October 1890   Wichita, Texas
+     Mary Amanda Vining   b. age 4 y. as of 1860 census   Arkansas   -   m. James Evin Bradshaw   -   d. ca. 1894   Arkansas
+     [A.?] T. Vining   b. age 1 y. as of 1860 census   Arkansas
+  <font size=+1>children by Elizabeth Hawley:</font>
+     <a href="Hfamilies.htm#HenryH03">Henry H. Vining</a>   b. 13 November 1870   Pine Bluff, Jefferson County, Arkansas   -   m. 22 July 1903   Jefferson County, Arkansas   Viola Davis   -   d. 10 November 1934   Wichita Falls, Wichita County, Texas
+     William Wesley Vining   b. 1872   Arjabsas
+     Emma Launa Vining   b. 8 October 1878   Arkansas   -   m. 20 August 1903   David B. Salisbury   -   d. 21 May 1953
+     Virginia Alexander Vining   b. 2 December 1883   -   m. (1) 1903   William Otto Freitag, (d. 1911);   (2) 1916   Fred Milton Hodge   -   d. 24 May 1958
+     Thomas J. Vining   b. 27 December 1886   -   m. (1) Oklahoma;   (2) 1936   Anita Vogt   -   d. 27 January 1968
+  
+  <a href="Tsources/ThomasWJr01doc.htm">documentation and notes</a>

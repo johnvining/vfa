@@ -1,0 +1,114 @@
+id: John09
+title: John Vining - Adeliza Atwood
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: John Vining
+          values:
+            - "?"
+            - "39"
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+        - label: Adeliza (Atwood) Vining
+          values:
+            - "?"
+            - "36"
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+        - label: Atwood P. Vining
+          values:
+            - "?"
+            - "14"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Dennison Vining
+          values:
+            - "?"
+            - "12"
+            - "22"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Newell Vining
+          values:
+            - "?"
+            - "10"
+            - "21"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lucien/Lucian Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Leroy Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Adelia Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jerome Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jane "Jennie" Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Chenango, Broome County, New York - dwelling 1354, family 1400
+        images:
+          - src: John09census1850.jpg
+      - year: "1860"
+        caption: Conklin, Broome County, New York - dwelling 168, family 174
+        images:
+          - src: John09census1860.jpg
+      - year: "1870"
+        caption: >-
+          In 1870, Jane "Jennie" Vining was living in the household of brother Atwood P. Vining in Conklin, Broome
+          County, New York.

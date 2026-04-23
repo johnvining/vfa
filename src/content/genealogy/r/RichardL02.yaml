@@ -1,0 +1,47 @@
+id: RichardL02
+sequence: 61
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WillardD01
+parentLetter: W
+parentDesc: Willard Devon Vining and Mary Yocum
+head:
+  givenName: Richard L.
+  birth:
+    date: 29 May 1940
+    place: "Warsaw, Indiana"
+  death:
+    date: 20 January 2013
+    place: "Warsaw, Indiana"
+  burial:
+    place: "Summit Chapel Cemetery   Bourbon, Indiana"
+marriages:
+  - date: 2 September 1961
+    spouse:
+      givenName: Lynne
+      surname: Worsham
+childrenGroups:
+  - children:
+      - name: Kemelyn Jean Vining
+        birth:
+          date: 11 July 1962
+        marriages:
+          - date: Eric Schreiber
+      - name: David L. Vining
+        birth:
+          date: 16 December 1964
+        marriages:
+          - date: "Kimberly [&#8230;]"
+raw: |-
+  <a name="RichardL02"></a><font size=+2>Richard L. Vining</font>
+     (son of <a href="Wfamilies.htm#WillardD01">Willard Devon Vining and Mary Yocum</a>)
+     b. 29 May 1940   Warsaw, Indiana
+     m. 2 September 1961
+           Lynne Worsham
+     d. 20 January 2013   Warsaw, Indiana
+           bur. Summit Chapel Cemetery   Bourbon, Indiana
+  
+  <font size=+1>children:</font>
+     Kemelyn Jean Vining   b. 11 July 1962   -   m. Eric Schreiber
+     David L. Vining   b. 16 December 1964   -   m. Kimberly [&#8230;]

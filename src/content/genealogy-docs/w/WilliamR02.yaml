@@ -1,0 +1,92 @@
+id: WilliamR02
+title: William Reynolds Vining - Martha G. May
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: William Reynolds Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - "?"
+            - dead
+            - ""
+        - label: Martha G. (May) Vining
+          values:
+            - "34"
+            - "42"
+            - "53"
+            - "?"
+            - |-
+              74
+              [see note below]
+            - "?"
+        - label: Elnora F. Vining
+          values:
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+            - "48"
+            - "?"
+          indent: true
+        - label: Charles Oliver Vining
+          values:
+            - "6"
+            - "15"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lillian Martha Vining
+          values:
+            - "3"
+            - "12"
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - "?"
+          indent: true
+        - label: Orilla Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Nodaway Township, Holt County, Missouri - dwelling 158, family 158
+      - year: "1870"
+        caption: Nodaway Township, Holt County, Missouri - dwelling 26, family 26
+        images:
+          - src: WilliamR02census1870.jpg
+      - year: "1880"
+        caption: Lewis, Holt County, Missouri - dwelling 61, family 64
+        images:
+          - src: WilliamR02census1880.jpg
+      - year: "1900"
+        caption: >-
+          Clay Township, Holt County, Missouri - dwelling 268, family 270. In 1900 Martha G. (May) Vining was living in
+          the household of her daughter, Elnora T. (Vining) Keeble, and son-in-law. Also living in Elnora's household
+          were two orphaned daughters (Carolyn Daisy "Carrie" and Julia) of her brother Charles Oliver Vining.
+        images:
+          - src: WilliamR02census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone of William Reynolds Vining and Martha G. (May) Vining, in Maple Grove Cemetery, Oregon, Holt County,
+          Missouri. (source: Find A Grave)
+        images:
+          - src: WilliamR02gravestone.jpg

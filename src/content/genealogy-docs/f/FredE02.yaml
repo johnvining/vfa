@@ -1,0 +1,67 @@
+id: FredE02
+title: Fred E. Vining - Mary A. Williams
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Fred E. Vining and Mary A. Williams, Middleborough, Plymouth County, Massachusetts:"
+        images:
+          - src: FredE02andwifemarriagerecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Fred E. Vining
+          values:
+            - "?"
+            - "33"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary A. (Williams) Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Fred E. Vining Jr.
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Howard Carlton Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Middleborough, Plymouth County, Massachusetts - dwelling 316, family 425
+        images:
+          - src: FredE02census1900a.jpg
+          - src: FredE02census1900b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Fred E. Vining and Mary A. (Williams) Vining, in Melrose Cemetery, Brockton, Plymouth County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: FredE02gravestone.jpg
+          - src: FredE02wifegravestone.jpg
+        inline: true

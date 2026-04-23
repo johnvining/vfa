@@ -1,0 +1,26 @@
+id: BryanK01
+letter: B
+sequence: 65
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Bryan K.
+marriages:
+  - spouse:
+      givenName: Glenda
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: William Gerald Vining
+        birth:
+          date: 14 May 1979
+      - name: Jeff Vining
+raw: |-
+  <a name="BryanK01"></a><font size=+2>Bryan K. Vining</font>
+     (son of [?])
+     m. Glenda [...]
+  
+  <font size=+1>children:</font>
+     William Gerald Vining   b. 14 May 1979
+     Jeff Vining

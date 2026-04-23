@@ -1,0 +1,53 @@
+id: SamuelE02
+title: Samuel E. Vining - Bessie Curtis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Samuel E. Vining
+          values:
+            - "38"
+            - "49"
+            - "58"
+        - label: Bessie (Curtis) Vining
+          values:
+            - "33"
+            - "44"
+            - "54"
+        - label: Everett C. Vining
+          values:
+            - "8"
+            - "19"
+            - "[married? and] living in sparate household"
+          indent: true
+        - label: Blanche Vining
+          values:
+            - "5"
+            - "15"
+            - "[married? and] living in sparate household"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Salina Township, Kankakee County, Illinois - dwelling 62, family 62
+        images:
+          - src: SamuelE02census1920.jpg
+      - year: "1930"
+        caption: Joliet, Will County, Illinois - dwelling 142, family 172
+        images:
+          - src: SamuelE02census1930a.jpg
+          - src: SamuelE02census1930b.jpg
+      - year: "1940"
+        caption: Salina Township, Kankakee County, Illinois
+        images:
+          - src: SamuelE02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Samuel E. Vining and Bessie (Curtis) Vining, in Limestone Cemetery, West Kankakee, Kankakee
+          County, Illinois (from Find A Grave):
+        images:
+          - src: SamuelE02andwifeheadstone.jpg

@@ -1,0 +1,95 @@
+id: CharlesL02
+letter: C
+sequence: 82
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RandallL01
+parentLetter: R
+parentDesc: Randall Lee Vining and Della Stewart
+head:
+  givenName: Charles Leroy
+  birth:
+    date: 6 February 1910
+    place: "Pioneer, Louisiana"
+  death:
+    date: 31 December 1995
+    place: "Monroe, Louisiana"
+  burial:
+    place: "Oak Grove Cemetery   Oak Grove, Louisiana"
+marriages:
+  - number: 1
+    date: Bobbie Jean White
+  - number: 2
+    date: Ruby Ruby Pippens
+    spouse:
+      birth:
+        date: 21 September 1911
+      death:
+        date: 10 February 1987
+      burial:
+        place: "Oak Grove Cemetery   Oak Grove, Louisiana"
+childrenGroups:
+  - headingText: child by Bobbie Jean White
+    children:
+      - name: Charles Leroy Vining Jr.
+        entryId: CharlesLJr01
+        birth:
+          date: 28 September 1935
+          place: "East Carroll Parish, Louisiana"
+        marriages:
+          - date: "Reta [&#8230;]"
+        death:
+          date: 30 November 2003
+          place: "West Monroe, Louisiana"
+        burial:
+          place: "Providence Memorial Park   Lake Providence, Louisiana"
+  - headingText: child by Ruby Jewel Pippens
+    children:
+      - name: John Edward Vining
+        entryId: JohnE03
+        entryLetter: J
+        birth:
+          date: 7 July 1939
+        death:
+          date: 12 August 2019
+  - spouseRef: "[&#8230;]"
+    headingText: "children by [&#8230;]"
+    children:
+      - name: Randall E. Vining
+      - name: Bobbie Vining
+        marriages:
+          - date: Albert Donald
+      - name: Helen Vining
+        marriages:
+          - date: "[&#8230;] Meaux"
+      - name: Darlene Vining
+        marriages:
+          - date: "[&#8230;] Duncan"
+      - name: Hazel Vining
+        marriages:
+          - date: "[&#8230;] Vallot"
+docsUrl: Csources/CharlesL02doc.htm
+raw: |-
+  <a name="CharlesL02"></a><font size=+2>Charles Leroy Vining</font>
+     (son of <a href="Rfamilies.htm#RandallL01">Randall Lee Vining and Della Stewart</a>)
+     b. 6 February 1910   Pioneer, Louisiana
+     m. (1) Bobbie Jean White
+           (2) Ruby Ruby Pippens
+                    b. 21 September 1911
+                    d. 10 February 1987
+                          bur. Oak Grove Cemetery   Oak Grove, Louisiana
+     d. 31 December 1995   Monroe, Louisiana
+           bur. Oak Grove Cemetery   Oak Grove, Louisiana
+  
+  <font size=+1>child by Bobbie Jean White:</font>
+     <a href="#CharlesLJr01">Charles Leroy Vining Jr.</a>   b. 28 September 1935   East Carroll Parish, Louisiana   -   m. Reta [&#8230;]   -   d. 30 November 2003   West Monroe, Louisiana   -   bur. Providence Memorial Park   Lake Providence, Louisiana
+  <font size=+1>child by Ruby Jewel Pippens:</font>
+     <a href="Jfamilies.htm#JohnE03">John Edward Vining</a>   b. 7 July 1939   -   d. 12 August 2019
+  <font size=+1>children by [&#8230;]:</font>
+     Randall E. Vining
+     Bobbie Vining   m. Albert Donald
+     Helen Vining   m. [&#8230;] Meaux
+     Darlene Vining   m. [&#8230;] Duncan
+     Hazel Vining   m. [&#8230;] Vallot
+  
+  <a href="Csources/CharlesL02doc.htm">documentation and notes</a>

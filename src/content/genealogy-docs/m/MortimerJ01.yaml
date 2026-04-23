@@ -1,0 +1,115 @@
+id: MortimerJ01
+title: Mortimer Jay Vining - Mary Thompson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Mortimer Jay Vining
+          values:
+            - "31"
+            - "?"
+            - "50"
+            - "62"
+            - "71"
+            - dead
+        - label: Mary A. (Thompson) Vining
+          values:
+            - "25"
+            - "?"
+            - "44"
+            - "55"
+            - "65"
+            - "?"
+        - label: Susan Celestia Vining
+          values:
+            - "6"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Scott Thompson Vining
+          values:
+            - not living in this household
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Grace Marian Vining
+          values:
+            - "4"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ward Mortimer Vining
+          values:
+            - "2"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Stanley Shepherd Vining
+          values:
+            - "1"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Barry Allen Vining
+          values:
+            - ""
+            - "?"
+            - "10"
+            - |-
+              20, married and living in this household
+              [see note below]
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: >-
+          East Windsor, Hartford County, Connecticut - dwelling 282, family 362. Also living in this household in 1880
+          was Marie A. Thompson (25 y.), a sister of Mary A. (Thompson) Vining.
+        images:
+          - src: MortimerJ01census1880.jpg
+      - year: "1900"
+        caption: >-
+          East Windsor, Hartford County, Connecticut - dwelling 5, family 6. Also living in this household in 1900 were
+          two boarders: Thomas Golden (19 y., b. Virginia) and James Johnson (21 y., b. Virginia).
+        images:
+          - src: MortimerJ01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Enfield, Hartford County, Connecticut - dwelling 318, family 354. Also living in this household in 1910 was
+          Helen E. Vining (21 y., b. Connecticut), wife of Barry Allen Vining.
+        images:
+          - src: MortimerJ01census1910.jpg
+      - year: "1920"
+        caption: Enfield, Hartford County, Connecticut - dwelling 85, family 96
+        images:
+          - src: MortimerJ01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Mortimer Jay Vining and Mary (Thompson) Vining, in Windsorville Cemetery, Windsorville, Hartford
+          County, Connecticut (from Find A Grave):
+        images:
+          - src: MortimerJ01andwifeheadstone.jpg

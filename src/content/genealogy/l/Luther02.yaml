@@ -1,0 +1,87 @@
+id: Luther02
+sequence: 80
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: HenryF01
+parentLetter: H
+parentDesc: Henry Francis Vining and Nancy J. (Babcock) Ashlock
+head:
+  givenName: Luther
+  birth:
+    date: 5 November 1889
+    place: Kansas
+  death:
+    date: 10 August 1948
+marriages:
+  - date: 26 October 1915
+    spouse:
+      givenName: Josephine
+      surname: Patton
+      parents: (dau. of James Patton and Jane McMillan)
+      birth:
+        date: age 32 y. as of 1920 census
+        place: South Dakota
+childrenGroups:
+  - children:
+      - name: Ardale E. Vining
+        entryId: ArdaleE01
+        entryLetter: A
+        birth:
+          date: 28 October 1918
+          place: "[South Dakota?]"
+        marriages:
+          - date: "Earleen M. [&#8230;]"
+        death:
+          date: 10 February 1977
+        burial:
+          place: "Memorial Park Cemetery   Tulsa, Oklahoma"
+      - name: Donald Vining
+        entryId: Donald01
+        entryLetter: D
+        birth:
+          date: 16 February 1922
+        marriages:
+          - date: 31 December 1944
+            spouse: Helen Louise Hunt
+        death:
+          date: March 1984
+          place: "(last residence: Independence, Kansas)"
+        burial:
+          place: "Mount Hope Cemetery   Independence, Kansas"
+      - name: Evelyn Vining
+        marriages:
+          - date: "[...] Goatly"
+      - name: Milford Claire Vining
+        entryId: MilfordC01
+        entryLetter: M
+        birth:
+          date: 9 July 1927
+        marriages:
+          - date: 3 June 1949
+            spouse: Billie Inez Morgan
+        death:
+          date: 27 May 1993
+          place: "(last residence: Ponca City, Oklahoma)"
+        burial:
+          place: "Memorial Lawn Cemetery   Arkansas City, Kansas"
+      - name: Lucille Vining
+docsUrl: Lsources/Luther02doc.htm
+raw: |-
+  <a name="Luther02"></a><font size=+2>Luther Vining</font>
+     (son of <a href="Hfamilies.htm#HenryF01">Henry Francis Vining and Nancy J. (Babcock) Ashlock</a>)
+     b. 5 November 1889   Kansas
+     m. 26 October 1915
+           Josephine Patton
+                 (dau. of James Patton and Jane McMillan)
+                 b. age 32 y. as of 1920 census   South Dakota
+     d. 10 August 1948
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#ArdaleE01">Ardale E. Vining</a>   b. 28 October 1918   [South Dakota?]   -   m. Earleen M. [&#8230;]   -   d. 10 February 1977   -   bur. Memorial Park Cemetery   Tulsa, Oklahoma
+     <a href="Dfamilies.htm#Donald01">Donald Vining</a>   b. 16 February 1922   -   m. 31 December 1944   Helen Louise Hunt   -   d. March 1984   (last residence: Independence, Kansas)   -   bur. Mount Hope Cemetery   Independence, Kansas
+     Evelyn Vining   m. [...] Goatly
+     <a href="Mfamilies.htm#MilfordC01">Milford Claire Vining</a>   b. 9 July 1927   -   m. 3 June 1949   Billie Inez Morgan   -   d. 27 May 1993   (last residence: Ponca City, Oklahoma)   -   bur. Memorial Lawn Cemetery   Arkansas City, Kansas
+     Lucille Vining
+  
+  <a href="Lsources/Luther02doc.htm">documentation and notes</a>

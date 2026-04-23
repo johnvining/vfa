@@ -1,0 +1,59 @@
+id: CephasA01
+letter: C
+sequence: 31
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnH03
+parentLetter: J
+parentDesc: John Henry Vining and Virgie L. Holt
+head:
+  givenName: Cephas Andrew
+  birth:
+    date: 7 May 1905
+    place: Alabama
+  death:
+    date: 3 April 1977
+    place: "Athens, Alabama"
+  burial:
+    place: "Athens City Cemetery   Athens, Limestone County, Alabama"
+marriages:
+  - date: 10 August 1924
+    spouse:
+      givenName: Nina Ruth
+      surname: Hargrove
+      birth:
+        date: 13 April 1907
+        place: Alabama
+      death:
+        date: 13 March 1993
+        place: Alabama
+      burial:
+        place: "Athens City Cemetery   Athens, Limestone County, Alabama"
+childrenGroups:
+  - children:
+      - name: Paul Vining
+        birth:
+          date: "age 3 y., 7 m. as of 1930 census"
+          place: Alabama
+      - name: Lillian Vining
+        birth:
+          date: "age 1 y., 5 m. as of 1930 census"
+          place: Alabama
+docsUrl: Csources/CephasA01doc.htm
+raw: |-
+  <a name="CephasA01"></a><font size=+2>Cephas Andrew Vining</font>
+     (son of <a href="Jfamilies.htm#JohnH03">John Henry Vining and Virgie L. Holt</a>)
+     b. 7 May 1905   Alabama
+     m. 10 August 1924
+           Nina Ruth Hargrove
+                 b. 13 April 1907   Alabama
+                 d. 13 March 1993   Alabama
+                       bur. Athens City Cemetery   Athens, Limestone County, Alabama
+     d. 3 April 1977   Athens, Alabama
+           bur. Athens City Cemetery   Athens, Limestone County, Alabama
+  
+  <font size=+1>children:</font>
+     Paul Vining   b. age 3 y., 7 m. as of 1930 census   Alabama
+     Lillian Vining   b. age 1 y., 5 m. as of 1930 census   Alabama
+  
+  <a href="Csources/CephasA01doc.htm">documentation and notes</a>

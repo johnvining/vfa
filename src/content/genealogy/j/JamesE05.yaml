@@ -1,0 +1,30 @@
+id: JamesE05
+sequence: 56
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RonaldW01
+parentLetter: R
+parentDesc: Ronald Winston Vining and Joyce Clementine Schmieks
+head:
+  givenName: James Everett
+  birth:
+    date: 10 April 1962
+    place: "Presque Isle, Maine"
+  death:
+    date: 23 September 2005
+childrenGroups:
+  - children:
+      - name: Jamie May Vining
+        birth:
+          date: 3 May 1977
+      - name: Amanda Vining
+raw: |-
+  <a name="JamesE05"></a><font size=+2>James Everett Vining</font>
+     (son of <a href="Rfamilies.htm#RonaldW01">Ronald Winston Vining and Joyce Clementine Schmieks</a>)
+     b. 10 April 1962   Presque Isle, Maine
+     d. 23 September 2005
+  
+  <font size=+1>children:</font>
+     Jamie May Vining   b. 3 May 1977
+     Amanda Vining

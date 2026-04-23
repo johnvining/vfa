@@ -1,0 +1,109 @@
+id: DayP01
+sequence: 60
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesF01
+parentLetter: C
+parentDesc: Charles Fournier Vining and Nancy Ophelia Preston
+head:
+  givenName: Day Preston
+  birth:
+    date: 7 January 1877
+    place: "Columbia Township, Michigan"
+  death:
+    date: 16 October 1928
+    place: "Daytona Beach, Florida"
+  burial:
+    place: "St. John's Catholic Cemetery   Jackson, Michigan"
+marriages:
+  - date: 17 July 1901
+    spouse:
+      givenName: Margaret Irene
+      surname: McVey
+      birth:
+        date: age 33 y. as of 1910 census
+        place: Michigan
+childrenGroups:
+  - children:
+      - name: Angela Evelyn Vining
+        birth:
+          date: 8 June 1902
+          place: Michigan
+        death:
+          date: 11 March 1907
+        burial:
+          place: "St. John's Catholic Cemetery   Jackson, Michigan"
+      - name: Bernice Marjorie Vining
+        birth:
+          date: 5 May 1908
+          place: Michigan
+        marriages:
+          - date: "1938"
+            spouse: Wallace Willson
+      - name: Victor Paul Vining
+        birth:
+          date: 3 April 1910
+          place: Michigan
+        marriages:
+          - date: "1949"
+            spouse: Florence Swerdin
+        death:
+          date: September 1965
+      - name: Hubert Lawrence Vining
+        entryId: HubertL01
+        entryLetter: H
+        birth:
+          date: 28 August 1912
+          place: Michigan
+        marriages:
+          - number: 1
+            date: "Helen Riggs,"
+            spouse: divorced 1937
+          - number: 2
+            date: Frances Riggs
+        death:
+          date: 1 January 2001
+          place: "(last residence: Ypsilanti, Michigan)"
+      - name: Charles Francis Vining
+        entryId: CharlesF02
+        entryLetter: C
+        birth:
+          date: 11 August 1915
+          place: Michigan
+        marriages:
+          - date: 27 November 1948
+            spouse: Elizabeth Kline
+        death:
+          date: "1 August 1979   bur. St. John's Catholic Cemetery   Jackson, Michigan"
+      - name: Robert Eugene Vining
+        entryId: RobertE02
+        entryLetter: R
+        birth:
+          date: 16 December 1920
+          place: Michigan
+        marriages:
+          - date: 23 January 1943
+            spouse: Josephine Patterson
+        death:
+          date: September 1972
+docsUrl: Dsources/DayP01doc.htm
+raw: |-
+  <a name="DayP01"></a><font size=+2>Day Preston Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesF01">Charles Fournier Vining and Nancy Ophelia Preston</a>)
+     b. 7 January 1877   Columbia Township, Michigan
+     m. 17 July 1901
+           Margaret Irene McVey
+                 b. age 33 y. as of 1910 census   Michigan
+     d. 16 October 1928   Daytona Beach, Florida
+           bur. St. John's Catholic Cemetery   Jackson, Michigan
+  
+  <font size=+1>children:</font>
+     Angela Evelyn Vining   b. 8 June 1902   Michigan   -   d. 11 March 1907   -   bur. St. John's Catholic Cemetery   Jackson, Michigan
+     Bernice Marjorie Vining   b. 5 May 1908   Michigan   -   m. 1938   Wallace Willson
+     Victor Paul Vining   b. 3 April 1910   Michigan   -   m. 1949   Florence Swerdin   -   d. September 1965
+     <a href="Hfamilies.htm#HubertL01">Hubert Lawrence Vining</a>   b. 28 August 1912   Michigan   -   m. (1) Helen Riggs,   divorced 1937;   (2) Frances Riggs   -   d. 1 January 2001   (last residence: Ypsilanti, Michigan)
+     <a href="Cfamilies.htm#CharlesF02">Charles Francis Vining</a>   b. 11 August 1915   Michigan   -   m. 27 November 1948   Elizabeth Kline   -   d. 1 August 1979   bur. St. John's Catholic Cemetery   Jackson, Michigan
+     <a href="Rfamilies.htm#RobertE02">Robert Eugene Vining</a>   b. 16 December 1920   Michigan   -   m. 23 January 1943   Josephine Patterson   -   d. September 1972
+  
+  <a href="Dsources/DayP01doc.htm">documentation and notes</a>

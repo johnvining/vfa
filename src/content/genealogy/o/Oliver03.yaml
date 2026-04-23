@@ -1,0 +1,70 @@
+id: Oliver03
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Benjamin03
+parentLetter: B
+parentDesc: "Benjamin Vining and Amanda [&#8230;]"
+head:
+  givenName: Oliver
+  birth:
+    date: age 5 y. as of 1880 census
+    place: "[Louisiana or New York?]"
+  death:
+    date: between 1920 and 1930 censuses
+marriages:
+  - spouse:
+      givenName: Ella
+      surname: Simpson
+      birth:
+        date: age 32 y. as of 1920 census
+        place: "[Kentucky or Louisiana?]"
+      death:
+        date: 22 December 1948
+        place: "Oneonta, Otsego County, New York"
+childrenGroups:
+  - children:
+      - name: Myrtle B. Vining
+        birth:
+          date: "age [8?] as of 1920 census"
+          place: Louisiana
+      - name: Lillian Vining
+        birth:
+          date: age 7 y. as of 1920 census
+          place: Louisiana
+      - name: Naomi E. Vining
+        birth:
+          date: "age 2 y., 3 m. as of 1920 census"
+          place: Louisiana
+        death:
+          date: 20 May 1997
+          place: "Brockton, Massachusetts"
+      - name: Oliver H. Vining
+        entryId: OliverH01
+        birth:
+          date: 22 September 1922
+          place: "Oneonta, Otsego County, New York"
+        marriages:
+          - date: Emma Jones
+        death:
+          date: January 1973
+          place: "Bridgeport, Connecticut"
+        burial:
+          place: "Mountain Grove Cemetery and Mausoleum   Bridgeport, Connecticut"
+docsUrl: Osources/Oliver03doc.htm
+raw: |-
+  <a name="Oliver03"></a><font size=+2>Oliver Vining</font>
+     (son of <a href="Bfamilies.htm#Benjamin03">Benjamin Vining and Amanda [&#8230;]</a>)
+     b. age 5 y. as of 1880 census   [Louisiana or New York?]
+     m. Ella Simpson
+              b. age 32 y. as of 1920 census   [Kentucky or Louisiana?]
+              d. 22 December 1948   Oneonta, Otsego County, New York
+     d. between 1920 and 1930 censuses
+  
+  <font size=+1>children:</font>
+     Myrtle B. Vining   b. age [8?] as of 1920 census   Louisiana
+     Lillian Vining   b. age 7 y. as of 1920 census   Louisiana
+     Naomi E. Vining   b. age 2 y., 3 m. as of 1920 census   Louisiana   -   d. 20 May 1997   Brockton, Massachusetts
+     <a href="#OliverH01">Oliver H. Vining</a>   b. 22 September 1922   Oneonta, Otsego County, New York   -   m. Emma Jones   -   d. January 1973   Bridgeport, Connecticut   -   bur. Mountain Grove Cemetery and Mausoleum   Bridgeport, Connecticut
+  
+  <a href="Osources/Oliver03doc.htm">documentation and notes</a>

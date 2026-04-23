@@ -1,0 +1,106 @@
+id: HenryW01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: Seaborn01
+parentLetter: S
+parentDesc: Seaborn Vining and Laurana Babb
+head:
+  givenName: Henry Webster
+  birth:
+    date: age 6 m. as of 1850 census
+    place: "Lafayette, Mississippi"
+  death:
+    date: "1890"
+    place: "Petillo Hill, Arkansas"
+  burial:
+    place: "Petillo Hill Cemetery   Centerville, Arkansas"
+marriages:
+  - number: 1
+    date: 13 January 1870
+    spouse:
+      givenName: Nancy
+      surname: Peeler
+      death:
+        date: prior to 1873
+  - number: 2
+    date: 27 July 1873
+    place: Arkansas
+    spouse:
+      givenName: Clarissa
+      surname: "Ra[y?]mer"
+      parents: "(dau. of James P. Ramer and Martha Walker)"
+      birth:
+        date: age 26 y. as of 1880 census
+        place: Arkansas
+      death:
+        date: "1941"
+        place: Arkansas
+      burial:
+        place: "Petillo Hill Cemetery   Centerville, Arkansas"
+childrenGroups:
+  - spouseRef: Clarissa Ramer
+    children:
+      - name: Essie J. Vining
+        birth:
+          date: age 5 y. as of 1880 census
+          place: Arkansas
+        marriages:
+          - number: 1
+            date: ca. 1895
+            spouse: Andrew Walker
+          - number: 2
+            date: ca. 1900
+            spouse: Mid Mullins
+          - number: 3
+            date: ca. 1905
+            spouse: "[...] Price"
+      - name: Odie P. Vining
+        birth:
+          date: "1877"
+          place: Arkansas
+        death:
+          date: "1877"
+          place: Arkansas
+        burial:
+          place: "Petillo Hill Cemetery   Centerville, Arkansas"
+      - name: Henry Devert Vining
+        birth:
+          date: age 5 m. as of 1880 census
+          place: Arkansas
+        death:
+          date: "[1879?]"
+          place: Arkansas
+        burial:
+          place: "Petillo Hill Cemetery   Centerville, Arkansas"
+      - name: Nanny Myrtle Vining
+        birth:
+          date: 8 April 1881
+          place: "Centerville, Arkansas"
+        death:
+          date: 11 January 1969
+          place: "Centerville, Arkansas"
+docsUrl: Hsources/HenryW01doc.htm
+raw: |-
+  <a name="HenryW01"></a><font size=+2>Henry Webster Vining</font>
+     (son of <a href="Sfamilies.htm#Seaborn01">Seaborn Vining and Laurana Babb</a>)
+     b. age 6 m. as of 1850 census   Lafayette, Mississippi
+     m. (1) 13 January 1870
+                 Nancy Peeler
+                       d. prior to 1873
+           (2) 27 July 1873   Arkansas
+                 Clarissa Ra[y?]mer
+                       (dau. of James P. Ramer and Martha Walker)
+                       b. age 26 y. as of 1880 census   Arkansas
+                    d. 1941   Arkansas
+                          bur. Petillo Hill Cemetery   Centerville, Arkansas
+     d. 1890   Petillo Hill, Arkansas
+           bur. Petillo Hill Cemetery   Centerville, Arkansas
+  
+  <font size=+1>children by Clarissa Ramer:</font>
+     Essie J. Vining   b. age 5 y. as of 1880 census   Arkansas   -   m. (1) ca. 1895   Andrew Walker;   (2) ca. 1900   Mid Mullins;   (3) ca. 1905   [...] Price
+     Odie P. Vining   b. 1877   Arkansas   -   d. 1877   Arkansas   -   bur. Petillo Hill Cemetery   Centerville, Arkansas
+     Henry Devert Vining   b. age 5 m. as of 1880 census   Arkansas   -   d. [1879?]   Arkansas   -   bur. Petillo Hill Cemetery   Centerville, Arkansas
+     Nanny Myrtle Vining   b. 8 April 1881   Centerville, Arkansas   -   d. 11 January 1969   Centerville, Arkansas
+  
+  <a href="Hsources/HenryW01doc.htm">documentation and notes</a>

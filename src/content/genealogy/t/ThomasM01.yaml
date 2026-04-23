@@ -1,0 +1,96 @@
+id: ThomasM01
+letter: T
+sequence: 46
+lastUpdated: 9 March 2023
+relationship: son
+parentId: ThomasR02
+parentDesc: Thomas Reece Vining and Lydia Jane Pope
+head:
+  givenName: Thomas Manton
+  birth:
+    date: 29 November 1898
+    place: "Bennettsville, South Carolina"
+  death:
+    date: 22 February 1966
+  burial:
+    place: "Congaree Baptist Church Cemetery   West Columbia, Lexington County, South Carolina"
+marriages:
+  - spouse:
+      givenName: Pauline Maybell
+      surname: Browder
+      birth:
+        date: 1 January 1902
+      death:
+        date: 14 June 2001
+      burial:
+        place: "Congaree Baptist Church Cemetery   West Columbia, Lexington County, South Carolina"
+childrenGroups:
+  - children:
+      - name: Robert William Vining
+        birth:
+          date: "1920"
+        marriages:
+          - date: Mary Louise
+      - name: Emma Beatrice Vining
+        birth:
+          date: "1922"
+        death:
+          date: "1922"
+      - name: Ernest Manton Vining
+        entryId: ErnestM01
+        entryLetter: E
+        birth:
+          date: 21 February 1923
+        marriages:
+          - date: Alice Outlaw
+        death:
+          date: 16 August 1995
+        burial:
+          place: "Ebenezer Pentecostal Holiness Church Cemetery   West Columbia, South Carolina"
+      - name: Mary Eleanor Vining
+        birth:
+          date: "1924"
+        marriages:
+          - date: LeRoy Spires
+      - name: "[Ella or Eula] Mae Vining"
+        birth:
+          date: "1926"
+        marriages:
+          - date: Harold Shealy
+      - name: Rudolph Vining
+        entryId: Rudolph01
+        entryLetter: R
+        birth:
+          date: "1930"
+          place: "Greeleyville, South Carolina"
+        marriages:
+          - date: Betty Lee Glenn
+        death:
+          date: 28 June 2013
+      - name: Betty Joan Vining
+        birth:
+          date: "1933"
+        marriages:
+          - date: Spencer Eugene Douglas
+docsUrl: Tsources/ThomasM01doc.htm
+raw: |-
+  <a name="ThomasM01"></a><font size=+2>Thomas Manton Vining</font>
+     (son of <a href="#ThomasR02">Thomas Reece Vining and Lydia Jane Pope</a>)
+     b. 29 November 1898   Bennettsville, South Carolina
+     m. Pauline Maybell Browder
+              b. 1 January 1902
+              d. 14 June 2001
+                    bur. Congaree Baptist Church Cemetery   West Columbia, Lexington County, South Carolina
+     d. 22 February 1966
+           bur. Congaree Baptist Church Cemetery   West Columbia, Lexington County, South Carolina
+  
+  <font size=+1>children:</font>
+     Robert William Vining   b. 1920   -   m. Mary Louise
+     Emma Beatrice Vining   b. 1922   -   d. 1922
+     <a href="Efamilies.htm#ErnestM01">Ernest Manton Vining</a>   b. 21 February 1923   -   m. Alice Outlaw   -   d. 16 August 1995   -   bur. Ebenezer Pentecostal Holiness Church Cemetery   West Columbia, South Carolina
+     Mary Eleanor Vining   b. 1924   -   m. LeRoy Spires
+     [Ella or Eula] Mae Vining   b. 1926   -   m. Harold Shealy
+     <a href="Rfamilies.htm#Rudolph01">Rudolph Vining</a>   b. 1930   Greeleyville, South Carolina   -   m. Betty Lee Glenn   -   d. 28 June 2013
+     Betty Joan Vining   b. 1933   -   m. Spencer Eugene Douglas
+  
+  <a href="Tsources/ThomasM01doc.htm">documentation and notes</a>

@@ -1,0 +1,43 @@
+id: EdwardH02
+title: Edward H. Vining - Lizzie [...]
+displayTitle: Edward H. Vining - Lizzie […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edward H. Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lizzie ([…]) Vining
+          values:
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+        - label: Walter E. Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Stanley O. Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 131, family 154
+        images:
+          - src: EdwardH02census1900.jpg

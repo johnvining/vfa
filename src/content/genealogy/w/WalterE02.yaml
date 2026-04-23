@@ -1,0 +1,56 @@
+id: WalterE02
+sequence: 11
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ElmoW01
+parentLetter: E
+parentDesc: Elmo William Vining and Jennie Courtney
+head:
+  givenName: Walter E.
+  birth:
+    date: 14 February 1912
+    place: "Mitchell County, Iowa"
+  death:
+    date: 4 November 2002
+    place: "Osage, Mitchell County, Iowa"
+  burial:
+    place: "Osage Cemetery   Osage, Mitchell County, Iowa"
+marriages:
+  - spouse:
+      givenName: Marie C.
+      surname: Buffington
+      parents: "(dau. of Phillip Ilo Buffington and Alice M. Stevens)"
+      birth:
+        date: 8 May 1906
+        place: "Zearing, Iowa"
+      death:
+        date: 9 April 1988
+        place: "Osage, Mitchell County, Iowa"
+      burial:
+        place: "Osage Cemetery   Osage, Iowa"
+childrenGroups:
+  - children:
+      - name: Joy Vining
+        marriages:
+          - date: Paul Kowalski
+      - name: Judy Vining
+        marriages:
+          - date: "[&#8230;] Michaud"
+      - name: Randi Vining
+raw: |-
+  <a name="WalterE02"></a><font size=+2>Walter E. Vining</font>
+     (son of <a href="Efamilies.htm#ElmoW01">Elmo William Vining and Jennie Courtney</a>)
+     b. 14 February 1912   Mitchell County, Iowa
+     m. Marie C. Buffington
+              (dau. of Phillip Ilo Buffington and Alice M. Stevens)
+              b. 8 May 1906   Zearing, Iowa
+              d. 9 April 1988   Osage, Mitchell County, Iowa
+                    bur. Osage Cemetery   Osage, Iowa
+     d. 4 November 2002   Osage, Mitchell County, Iowa
+           bur. Osage Cemetery   Osage, Mitchell County, Iowa
+  
+  <font size=+1>children:</font>
+     Joy Vining   m. Paul Kowalski
+     Judy Vining   m. [&#8230;] Michaud
+     Randi Vining

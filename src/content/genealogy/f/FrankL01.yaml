@@ -1,0 +1,94 @@
+id: FrankL01
+sequence: 36
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: FrankA03
+parentDesc: "Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft"
+head:
+  givenName: Frank Lathan
+  birth:
+    date: 10 June 1891
+    place: "New Haven, Connecticut"
+  death:
+    date: 11 July 1963
+  burial:
+    place: "Highland Cemetery   Great Falls, Montana"
+marriages:
+  - spouse:
+      givenName: Margaret
+      surname: Todd
+      birth:
+        date: 10 November 1897
+      death:
+        date: 18 April 1986
+      burial:
+        place: "Highland Cemetery   Great Falls, Montana"
+childrenGroups:
+  - children:
+      - name: Frank Lathan Vining Jr.
+        birth:
+          date: "1920"
+          place: "Great Falls, Montana"
+        marriages:
+          - date: "Jennie N. [&#8230;]"
+        death:
+          date: "1973"
+        burial:
+          place: "Highland Cemetery   Great Falls, Montana"
+      - name: Marjorie Vining
+        birth:
+          date: age 5 y. as of 1930 census
+          place: Montanas
+        marriages:
+          - date: "[...] Preston"
+      - name: Robert J. Vining
+        birth:
+          date: 8 September 1925
+          place: "Great Falls, Montana"
+        marriages:
+          - date: "1952"
+            spouse: Phyllis E. Porro
+        death:
+          date: 15 November 2008
+      - name: Dorothy Vining
+        birth:
+          date: age 2 y. as of 1930 census
+          place: Montana
+        marriages:
+          - date: "[...] Frank"
+      - name: Thomas Harry Vining
+        entryId: ThomasH01
+        entryLetter: T
+        birth:
+          date: 9 September 1930
+          place: "Great Falls, Montana"
+        marriages:
+          - date: 4 March 1951
+            spouse: "Great Falls, Montana   Georgia A. Renning"
+        death:
+          date: 2 March 2001
+          place: "Phoenix, Arizona"
+        burial:
+          place: "Highland Cemetery   Great Falls, Montana"
+docsUrl: Fsources/FrankL01doc.htm
+raw: |-
+  <a name="FrankL01"></a><font size=+2>Frank Lathan Vining</font>
+     (son of <a href="#FrankA03">Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft</a>)
+     b. 10 June 1891   New Haven, Connecticut
+     m. Margaret Todd
+              b. 10 November 1897
+              d. 18 April 1986
+                    bur. Highland Cemetery   Great Falls, Montana
+     d. 11 July 1963
+           bur. Highland Cemetery   Great Falls, Montana
+  
+  <font size=+1>children:</font>
+  
+     Frank Lathan Vining Jr.   b. 1920   Great Falls, Montana   -   m. Jennie N. [&#8230;]   -   d. 1973   -   bur. Highland Cemetery   Great Falls, Montana
+     Marjorie Vining   b. age 5 y. as of 1930 census   Montanas   -   m. [...] Preston
+     Robert J. Vining   -   b. 8 September 1925   Great Falls, Montana   -   m. 1952   Phyllis E. Porro   -   d. 15 November 2008
+     Dorothy Vining   b. age 2 y. as of 1930 census   Montana   -   m. [...] Frank
+     <a href="Tfamilies.htm#ThomasH01">Thomas Harry Vining</a>   b. 9 September 1930   Great Falls, Montana   -   m. 4 March 1951   Great Falls, Montana   Georgia A. Renning   -   d. 2 March 2001   Phoenix, Arizona   -   bur. Highland Cemetery   Great Falls, Montana
+  
+  <a href="Fsources/FrankL01doc.htm">documentation and notes</a>

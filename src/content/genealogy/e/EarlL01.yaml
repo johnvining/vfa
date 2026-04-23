@@ -1,0 +1,49 @@
+id: EarlL01
+sequence: 6
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: KamitaE01
+parentLetter: K
+parentDesc: Kamita Earl Vining and Elizabeth Volenski
+head:
+  givenName: Earl Lee
+  birth:
+    date: 24 September 1938
+marriages:
+  - spouse:
+      givenName: Carol
+      surname: Hapner
+      birth:
+        date: 15 January 1939
+childrenGroups:
+  - children:
+      - name: Gregory Carl Vining
+        birth:
+          date: 9 October 1963
+          place: "Fort Devens Army Hospital   Shirley, Massachusetts"
+        marriages:
+          - number: 1
+            date: "1998"
+            spouse: "Patricia Long,   divorced 2000"
+          - number: 2
+            date: 18 February 2003
+            spouse: "Tina Pelham (n&#233;e Young)"
+      - name: Brian Todd Vining
+        entryId: BrianT01
+        entryLetter: B
+        birth:
+          date: 20 April 1966
+          place: "[Kalamazoo, Michigan ?]"
+        marriages:
+          - spouse: Jodi Lynn Hudson
+raw: |-
+  <a name="EarlL01"></a><font size=+2>Earl Lee Vining</font>
+     (son of <a href="Kfamilies.htm#KamitaE01">Kamita Earl Vining and Elizabeth Volenski</a>)
+     b. 24 September 1938
+     m. Carol Hapner
+              b. 15 January 1939
+  
+  <font size=+1>children:</font>
+     Gregory Carl Vining   b. 9 October 1963   Fort Devens Army Hospital   Shirley, Massachusetts   -   m. (1) 1998   Patricia Long,   divorced 2000;   (2) 18 February 2003   Tina Pelham (n&#233;e Young)
+     <a href="Bfamilies.htm#BrianT01">Brian Todd Vining</a>   b. 20 April 1966   [Kalamazoo, Michigan ?]   -   m. Jodi Lynn Hudson

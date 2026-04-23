@@ -1,0 +1,72 @@
+id: JonahL01
+title: Jonah L. Vining - Addie Wright
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Jonah L. Vining
+          values:
+            - "27"
+            - "37"
+            - "46"
+            - "57"
+        - label: Addie (Wright) Vining
+          values:
+            - "26"
+            - "36"
+            - "46"
+            - "56"
+        - label: Thomas J. Vining
+          values:
+            - "4"
+            - "13"
+            - living in separate household
+            - |-
+              34
+              [see note below]
+          indent: true
+        - label: Ernest L. Vining
+          values:
+            - "1"
+            - "11"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Homer Vining
+          values:
+            - ""
+            - 4 y., 4 m.
+            - "14"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Kingdom (Precinct 1), Bibb County, Alabama - dwelling 170, family 176
+        images:
+          - src: JonahL01census1910.jpg
+      - year: "1920"
+        caption: Kingdom (Precinct 1), Bibb County, Alabama - dwelling 10, family 10
+        images:
+          - src: JonahL01census1920.jpg
+      - year: "1930"
+        caption: Kingdom (Precinct 1), Bibb County, Alabama - dwelling 105, family 110
+        images:
+          - src: JonahL01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Green Pond (Beat 1), Bibb County, Alabama. By 1940, Thomas J. Vining was married, and he and his wife and
+          family were living in the household of his parents.
+        images:
+          - src: JonahL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Jonah L. Vining and Addie (Wright) Vining, in Green Pond Presbyterian Church Cemetery, Green
+          Pond, Bibb County, Alabama (from Find A Grave):
+        images:
+          - src: JonahL01andwifeheadstone.jpg

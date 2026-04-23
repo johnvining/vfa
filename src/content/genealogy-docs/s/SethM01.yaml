@@ -1,0 +1,36 @@
+id: SethM01
+title: Seth Macon Vining - Gladys Gibbs
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Seth Macon Vining
+          values:
+            - "30"
+            - "40"
+        - label: Gladys (Gibbs) Vining
+          values:
+            - "30"
+            - "40"
+        - label: Seth Macon Vining Jr.
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Elizabeth Anne Vining
+          values:
+            - 2 y., 8 m.
+            - "12"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Tryon Township, Polk County, North Carolina - dwelling 208, family 217
+        images:
+          - src: SethM01census1930.jpg
+      - year: "1940"
+        caption: Tryon Township, Polk County, North Carolina
+        images:
+          - src: SethM01census1940.jpg

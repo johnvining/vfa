@@ -1,0 +1,97 @@
+id: HaroldR01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: AB01
+parentLetter: A
+parentDesc: A. Burchim Vining and Lyla May Kloxin
+head:
+  givenName: Harold Reginald
+  birth:
+    date: 17 January 1913
+    place: "Kankakee, Illinois"
+  death:
+    date: "[18 or 1?] July 1966"
+    place: "Storm Lake, Iowa"
+  burial:
+    place: "Sacred Heart Cemetery   Early, Iowa"
+marriages:
+  - number: 1
+    date: 11 June 1932
+    place: "Pocahontas, Iowa"
+    spouse:
+      givenName: Lois
+      surname: Hersom
+      parents: "(dau. of George Arthur Hersom and Laura Bertha McGeary)"
+      birth:
+        date: 30 October 1913
+        place: "Fonda, Iowa"
+      death:
+        date: 15 September 1945
+        place: "Pocahontas, Iowa"
+  - number: 2
+    date: 12 February 1945
+    place: "Nashua, Iowa"
+    spouse:
+      givenName: Ida May
+      surname: Krischel
+      parents: "(dau. of Mike Krischel and Elizabeth Ann Erie)"
+      birth:
+        date: 1 May 1910
+        place: "Rutland, Illinois"
+      death:
+        date: 26 December 1991
+        place: "Storm Lake, Iowa"
+      burial:
+        place: "Sacred Heart Cemetery   Early, Iowa"
+childrenGroups:
+  - spouseRef: Lois Hersom
+    children:
+      - name: Beverly Vining
+        birth:
+          date: 15 March 1933
+          place: Iowa
+        marriages:
+          - date: Edward Millam
+      - name: Kenneth Vining
+        entryId: Kenneth02
+        entryLetter: K
+        birth:
+          date: 22 December 1934
+          place: Iowa
+        marriages:
+          - date: Diane Irene Ruch
+  - headingText: "child by Ida Krischel"
+    children:
+      - name: Pamela E. Vining
+        birth:
+          date: 7 November 1952
+        marriages:
+          - date: "Omaha, Nebraska"
+            spouse: Donald Jansen
+docsUrl: Hsources/HaroldR01doc.htm
+raw: |-
+  <a name="HaroldR01"></a><font size=+2>Harold Reginald Vining</font>
+     (son of <a href="Afamilies.htm#AB01">A. Burchim Vining and Lyla May Kloxin</a>)
+     b. 17 January 1913   Kankakee, Illinois
+     m. (1) 11 June 1932   Pocahontas, Iowa
+                 Lois Hersom
+                       (dau. of George Arthur Hersom and Laura Bertha McGeary)
+                       b. 30 October 1913   Fonda, Iowa
+                       d. 15 September 1945   Pocahontas, Iowa
+           (2) 12 February 1945   Nashua, Iowa
+                 Ida May Krischel
+                       (dau. of Mike Krischel and Elizabeth Ann Erie)
+                       b. 1 May 1910   Rutland, Illinois
+                       d. 26 December 1991   Storm Lake, Iowa
+                             bur. Sacred Heart Cemetery   Early, Iowa
+     d. [18 or 1?] July 1966   Storm Lake, Iowa
+           bur. Sacred Heart Cemetery   Early, Iowa
+  
+  <font size=+1>children by Lois Hersom:</font>
+     Beverly Vining   b. 15 March 1933   Iowa   -   m. Edward Millam
+     <a href="Kfamilies.htm#Kenneth02">Kenneth Vining</a>   b. 22 December 1934   Iowa   -   m. Diane Irene Ruch
+  <font size=+1>child by Ida Krischel:</font>
+     Pamela E. Vining   b. 7 November 1952   -   m. Omaha, Nebraska   Donald Jansen
+  
+  <a href="Hsources/HaroldR01doc.htm">documentation and notes</a>

@@ -1,0 +1,98 @@
+id: GeorgeW02
+title: George W. Vining - Katharine A. "Kate" Rollins
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: George W. Vining
+          values:
+            - "32"
+            - "42"
+            - "51"
+            - "?"
+            - |-
+              71
+              [see note below]
+            - dead
+        - label: Katharine A. "Kate" (Rollins) Vining
+          values:
+            - "23"
+            - "32"
+            - "42"
+            - dead
+            - ""
+            - ""
+        - label: Clara E. Vining
+          values:
+            - "3"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Willie E. "Will" Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - "?"
+            - ""
+            - ""
+          indent: true
+        - label: Herbert E. Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "?"
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 87, family 83. In 1860, George W. Vining, his wife, and his daughter
+          (Clara E. Vining) were living with his parents (Page Vining and Margaret Ring).
+        images:
+          - src: GeorgeW02census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 5, family 5. Also living in this household in 1870 was Abia[h or l?]
+          Jones (17 y., b. Maine), a farm laborer.
+        images:
+          - src: GeorgeW02census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 10, family 12. Also living in this household in 1880 was Charles E.
+          Vining (34 y., b. Maine), a brother of George W. Vining.
+        images:
+          - src: GeorgeW02census1880.jpg
+      - year: "1900"
+        caption: >-
+          Weld, Franklin County, Maine - dwelling 103, family 107. In 1900, widower George W. Vining was living with his
+          sister, Sarah Kennedy.
+        images:
+          - src: GeorgeW02census1900.jpg
+  - type: death
+    items:
+      - caption: "Death record for George W. Vining:"
+        images:
+          - src: GeorgeW02deathrecord1.jpg
+          - src: GeorgeW02deathrecord2.jpg
+        inline: true
+      - caption: "Gravestone for Katharine A. \"Kate\" Rollins, in Center Hill Cemetery, Weld, Franklin County, Maine:"
+        images:
+          - src: GeorgeW02wifegravestone.jpg
+      - caption: >-
+          Gravestone for Clara E. Vining, daughter of George W. Vining and Katharine A. "Kate" (Rollins) Vining, in
+          Center Hill Cemetery, Weld, Franklin County, Maine:
+        images:
+          - src: GeorgeW02dauClaragravestone.jpg

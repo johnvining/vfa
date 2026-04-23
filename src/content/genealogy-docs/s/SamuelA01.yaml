@@ -1,0 +1,119 @@
+id: SamuelA01
+title: Samuel Albert Vining - Eliza Ann White
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Samuel Albert Vining
+          values:
+            - "47"
+            - "58"
+            - "67"
+            - "?"
+            - dead
+            - ""
+        - label: Eliza Ann (White) Vining
+          values:
+            - "41"
+            - "52"
+            - "61"
+            - "?"
+            - "81"
+            - dead
+        - label: Abby E. Vining
+          values:
+            - "21"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary Francis Vining
+          values:
+            - "20"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Betsy Jane Vining
+          values:
+            - "17"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Felicia A. Vining
+          values:
+            - "16"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ellen W. Vining
+          values:
+            - "14"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Elizabeth Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Harriet Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Randolph, Norfolk County, Massachusetts - dwelling 266, family 1108
+        images:
+          - src: SamuelA01census1860a.jpg
+          - src: SamuelA01census1860b.jpg
+      - year: "1870"
+        caption: Randolph, Norfolk County, Massachusetts - dwelling 844, family 1050
+        images:
+          - src: SamuelA01census1870.jpg
+      - year: "1880"
+        caption: Holbrook, Norfolk County, Massachusetts - dwelling 256, family 308
+        images:
+          - src: SamuelA01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Holbrook, Norfolk County, Massachusetts - dwelling 16, family 19. Also living in this household in 1900 was
+          Mar[iah?] Du[...] (57 y., b. New Brunswick, Canada, a housekeeper)
+        images:
+          - src: SamuelA01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Sarah Elizabeth Vining and Harriet Vining, daughters of Samuel Albert Vining and Eliza Ann
+          (White), in Union Cemetery, Holbrook, Norfolk County, Massachusetts (from Find A Grave):
+        images:
+          - src: SamuelA01dausSarahHarrietheadstone.jpg

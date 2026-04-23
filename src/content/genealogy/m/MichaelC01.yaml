@@ -1,0 +1,31 @@
+id: MichaelC01
+sequence: 29
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JohnHFJr01
+parentLetter: J
+parentDesc: "John Henry Fraine Vining Jr. and [&#8230;]"
+head:
+  givenName: Michael Crawford
+marriages:
+  - spouse:
+      givenName: Dawn Elizabeth
+      surname: Rackleff
+childrenGroups:
+  - children:
+      - name: Connor Vining
+        birth:
+          date: 21 August 1998
+      - name: Aislynn Bond Vining
+        birth:
+          date: 29 August 2000
+          place: "Burlington, Vermont"
+raw: |-
+  <a name="MichaelC01"></a><font size=+2>Michael Crawford Vining</font>
+     (son of <a href="Jfamilies.htm#JohnHFJr01">John Henry Fraine Vining Jr. and [&#8230;]</a>)
+     m. Dawn Elizabeth Rackleff
+  
+  <font size=+1>children:</font>
+     Connor Vining   b. 21 August 1998
+     Aislynn Bond Vining   b. 29 August 2000   Burlington, Vermont

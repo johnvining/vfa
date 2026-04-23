@@ -1,0 +1,66 @@
+id: SethM01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MaconA01
+parentLetter: M
+parentDesc: Macon Abner Vining and Mary Belle Jones
+head:
+  givenName: Seth Macon
+  birth:
+    date: 30 June 1899
+    place: Alabama
+  death:
+    date: 11 January 1987
+    place: "(last residence: Tryon, North Carolina)"
+  burial:
+    place: "Polk Memorial Gardens   Columbus, North Carolina"
+marriages:
+  - spouse:
+      givenName: Gladys
+      surname: Gibbs
+      parents: (dau. of Lorenco Cornelius Gibbs and Martha Emeline Ruppe)
+      birth:
+        date: 17 August 1899
+        place: "North Carolina"
+      death:
+        date: 3 August 1999
+      burial:
+        place: "Polk Memorial Gardens   Columbus, North Carolina"
+childrenGroups:
+  - children:
+      - name: Seth Macon Vining Jr.
+        entryId: SethMJr01
+        birth:
+          date: 12 August 1924
+          place: "Demorest, Georgia"
+        marriages:
+          - date: 58 y. at death
+            spouse: Marjorie Boswell
+        death:
+          date: 20 October 2008
+          place: "Tryon, North Carolina"
+      - name: Elizabeth Anne Vining
+        birth:
+          date: "age 2 y., 8 m. as of 1930 census"
+          place: North Carolina
+        marriages:
+          - date: John Hanifin
+docsUrl: Ssources/SethM01doc.htm
+raw: |-
+  <a name="SethM01"></a><font size=+2>Seth Macon Vining</font>
+     (son of <a href="Mfamilies.htm#MaconA01">Macon Abner Vining and Mary Belle Jones</a>)
+     b. 30 June 1899   Alabama
+     m. Gladys Gibbs
+              (dau. of Lorenco Cornelius Gibbs and Martha Emeline Ruppe)
+              b. 17 August 1899   North Carolina
+              d. 3 August 1999
+                    bur. Polk Memorial Gardens   Columbus, North Carolina
+     d. 11 January 1987   (last residence: Tryon, North Carolina)
+           bur. Polk Memorial Gardens   Columbus, North Carolina
+  
+  <font size=+1>children:</font>
+     <a href="#SethMJr01">Seth Macon Vining Jr.</a>   b. 12 August 1924   Demorest, Georgia   -   m. 58 y. at death   Marjorie Boswell   -   d. 20 October 2008   Tryon, North Carolina
+     Elizabeth Anne Vining   b. age 2 y., 8 m. as of 1930 census   North Carolina   -   m. John Hanifin
+  
+  <a href="Ssources/SethM01doc.htm">documentation and notes</a>

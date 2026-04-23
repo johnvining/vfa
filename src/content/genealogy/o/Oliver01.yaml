@@ -1,0 +1,107 @@
+id: Oliver01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Abijah02
+parentLetter: A
+parentDesc: Abijah Vining and Abbey Steele
+head:
+  givenName: Oliver
+  birth:
+    date: September 1838
+    place: New York
+  death:
+    date: 6 April 1913
+    place: "Kankakee, Illinois"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee, Illinois"
+marriages:
+  - date: 15 April 1870
+    place: Illinois
+    spouse:
+      givenName: Mary R.
+      surname: Burchim
+      parents: "(dau. of Alexander Burchim and Margaret [...])"
+      birth:
+        date: 1 December 1847
+        place: Illinois
+      death:
+        date: 31 July 1901
+        place: "Kankakee, Illinois"
+      burial:
+        place: "Mound Grove Cemetery   Kankakee, Illinois"
+childrenGroups:
+  - children:
+      - name: Gertrude Vining
+        birth:
+          date: age 10 y. as of 1880 census
+        marriages:
+          - date: "[...] Robbins"
+        death:
+          date: 8 January 1943
+      - name: Church Abijah Vining
+        entryId: ChurchA01
+        entryLetter: C
+        birth:
+          date: 2 January 1872
+          place: Illinois
+        marriages:
+          - date: 15 January 1896
+            spouse: Edith Rachel Case
+        death:
+          date: 20 September 1942
+      - name: child
+      - name: Alice M. Vining
+        birth:
+          date: November 1881
+          place: Illinois
+        marriages:
+          - date: Walter Rantz
+        death:
+          date: 20 December 1939
+      - name: Abbey Pearl Vining
+        birth:
+          date: March 1886
+          place: Illinois
+        marriages:
+          - date: John Nesbitt
+        death:
+          date: September 1957
+      - name: A. Burchim Vining
+        entryId: AB01
+        entryLetter: A
+        birth:
+          date: 16 December 1891
+          place: "Kankakee, Kankakee County, Illinois"
+        marriages:
+          - date: 7 February 1912
+            place: "Kankakee, Kankakee County, Illinois"
+            spouse: Lila Kloxin
+        death:
+          date: 5 November 1954
+          place: "Pocahontas, Pocahontas County, Iowa"
+        burial:
+          place: "Summit Hill Cemetery   Pocahontas, Pocahontas County, Iowa"
+docsUrl: Osources/Oliver01doc.htm
+raw: |-
+  <a name="Oliver01"></a><font size=+2>Oliver Vining</font>
+     (son of <a href="Afamilies.htm#Abijah02">Abijah Vining and Abbey Steele</a>)
+     b. September 1838   New York
+     m. 15 April 1870   Illinois
+           Mary R. Burchim
+                 (dau. of Alexander Burchim and Margaret [...])
+                 b. 1 December 1847   Illinois
+                 d. 31 July 1901   Kankakee, Illinois
+                       bur. Mound Grove Cemetery   Kankakee, Illinois
+     d. 6 April 1913   Kankakee, Illinois
+           bur. Mound Grove Cemetery   Kankakee, Illinois
+  
+  <font size=+1>children:</font>
+     Gertrude Vining   b. age 10 y. as of 1880 census   -   m. [...] Robbins   -   d. 8 January 1943
+     <a href="Cfamilies.htm#ChurchA01">Church Abijah Vining</a>   b. 2 January 1872   Illinois   -   m. 15 January 1896   Edith Rachel Case   -   d. 20 September 1942
+     child
+     Alice M. Vining   b. November 1881   Illinois   -   m. Walter Rantz   -   d. 20 December 1939
+     Abbey Pearl Vining   b. March 1886   Illinois   -   m. John Nesbitt   -   d. September 1957
+     <a href="Afamilies.htm#AB01">A. Burchim Vining</a>   b. 16 December 1891   Kankakee, Kankakee County, Illinois   -   m. 7 February 1912   Kankakee, Kankakee County, Illinois   Lila Kloxin   -   d. 5 November 1954   Pocahontas, Pocahontas County, Iowa   -   bur. Summit Hill Cemetery   Pocahontas, Pocahontas County, Iowa
+  
+  <a href="Osources/Oliver01doc.htm">documentation and notes</a>

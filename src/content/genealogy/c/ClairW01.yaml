@@ -1,0 +1,136 @@
+id: ClairW01
+letter: C
+sequence: 113
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnD01
+parentLetter: J
+parentDesc: John Decker Vining and Julia Wilbur
+head:
+  givenName: Clair Wilbur
+  birth:
+    date: 24 April 1893
+    place: NY
+  death:
+    date: May 1958
+marriages:
+  - number: 1
+    spouse:
+      givenName: Jennie Adelia
+      surname: Rose
+      birth:
+        date: age 28 y. as of 1920 census
+        place: New York
+  - number: 2
+    date: ca. 1929
+    spouse:
+      givenName: Adelaide
+      surname: LaPenna
+      birth:
+        date: 5 April 1900
+        place: New York
+      death:
+        date: 25 June 1979
+  - number: 3
+    spouse:
+      givenName: Estelle
+      surname: Winfield
+      birth:
+        date: 3 February 1908
+        place: "Edinburgh, Scotland"
+      death:
+        place: "Altoona, Florida"
+childrenGroups:
+  - spouseRef: Jennie Adelia Rose
+    headingText: children by Jennie Adelia Rose
+    children:
+      - name: Donald Clair Vining
+        entryId: DonaldC01
+        entryLetter: D
+        birth:
+          date: 3 October 1916
+          place: New York
+        marriages:
+          - date: Earlbetta De Ette Belles
+        death:
+          date: November 1982
+          place: "(last residence: Binghamton, New York)"
+      - name: Douglas Earl Vining
+        entryId: DouglasE01
+        entryLetter: D
+        birth:
+          date: 16 June 1919
+          place: "Binghamton, New York"
+        marriages:
+          - date: 16 June 1941
+            spouse: Elizabeth Rose Jones
+        death:
+          date: 3 January 2001
+          place: "Merced, California  -   bur. Golden Gate National Cemetery   San Bruno, California"
+      - name: Kenneth Jay Vining
+        entryId: KennethJ01
+        entryLetter: K
+        birth:
+          date: 3 January 1923
+        marriages:
+          - date: Lillian Ropic
+        death:
+          date: 9 November 1996
+          place: "(last residence: Johnson City, New York)"
+        burial:
+          place: "Vestal Hills Memorial Park   Vestal, New York"
+  - spouseRef: Adelaide LaPenna
+    headingText: children by Adelaide LaPenna
+    children:
+      - name: James Edward Vining
+        entryId: JamesE03
+        entryLetter: J
+        birth:
+          date: 3 March 1930
+          place: "Brooklyn, New York"
+        marriages:
+          - number: 1
+            date: "Dee [...],"
+            spouse: divorced
+          - number: 2
+            date: "Elizabeth [...]"
+        death:
+          date: 17 June 1979
+      - name: "John Richard &#8220;Jack&#8221; Vining"
+        birth:
+          date: 24 December 1932
+          place: "Brooklyn, New York"
+        death:
+          date: 13 December 1996
+  - headingText: child by Estelle Winfield
+    children:
+      - name: Miriam Rose Vining
+        birth:
+          date: 28 November 1944
+          place: "Trenton, New Jersey"
+        marriages:
+          - date: "[...] Pearl,   divorced"
+raw: |-
+  <a name="ClairW01"></a><font size=+2>Clair Wilbur Vining</font>
+     (son of <a href="Jfamilies.htm#JohnD01">John Decker Vining and Julia Wilbur</a>)
+     b. 24 April 1893   NY
+     m. (1) Jennie Adelia Rose
+                 b. age 28 y. as of 1920 census   New York
+           (2) ca. 1929
+                    Adelaide LaPenna
+                          b. 5 April 1900   New York
+                          d. 25 June 1979
+           (3) Estelle Winfield
+                       b. 3 February 1908   Edinburgh, Scotland
+                       d. Altoona, Florida
+     d. May 1958
+  
+  <font size=+1>children by Jennie Adelia Rose:</font>
+     <a href="Dfamilies.htm#DonaldC01">Donald Clair Vining</a>   b. 3 October 1916   New York   -   m. Earlbetta De Ette Belles   -   d. November 1982   (last residence: Binghamton, New York)
+     <a href="Dfamilies.htm#DouglasE01">Douglas Earl Vining</a>   b. 16 June 1919   Binghamton, New York   -   m. 16 June 1941   Elizabeth Rose Jones   -   d. 3 January 2001   Merced, California  -   bur. Golden Gate National Cemetery   San Bruno, California
+     <a href="Kfamilies.htm#KennethJ01">Kenneth Jay Vining</a>   b. 3 January 1923   -   m. Lillian Ropic   -   d. 9 November 1996   (last residence: Johnson City, New York)   -   bur. Vestal Hills Memorial Park   Vestal, New York
+  <font size=+1>children by Adelaide LaPenna:</font>
+     <a href="Jfamilies.htm#JamesE03">James Edward Vining</a>   b. 3 March 1930   Brooklyn, New York   -   m. (1) Dee [...],   divorced;   (2) Elizabeth [...]   -   d. 17 June 1979
+     John Richard &#8220;Jack&#8221; Vining   b. 24 December 1932   Brooklyn, New York   -   d. 13 December 1996
+  <font size=+1>child by Estelle Winfield:</font>
+     Miriam Rose Vining   b. 28 November 1944   Trenton, New Jersey  -   m. [...] Pearl,   divorced

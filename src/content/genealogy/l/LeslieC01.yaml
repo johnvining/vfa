@@ -1,0 +1,31 @@
+id: LeslieC01
+sequence: 51
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Leslie Claude
+marriages:
+  - spouse:
+      givenName: Elsie Ada Crawford
+      surname: Morris
+      birth:
+        date: age 97 y. at death
+      death:
+        date: 26 April 2006
+childrenGroups:
+  - headingText: "[chidren?]"
+    children:
+      - name: "[Robin Vining?]"
+      - name: "[Carole Vining?]"
+raw: |-
+  <a name="LeslieC01"></a><font size=+2>Leslie Claude Vining</font>
+     (son of [?])
+     m. Elsie Ada Crawford Morris
+           b. age 97 y. at death
+           d. 26 April 2006
+  
+  <font size=+1>[chidren?]:</font>
+     [Robin Vining?]
+     [Carole Vining?]

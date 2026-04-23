@@ -1,0 +1,82 @@
+id: EmetJ01
+title: Emet James Vining - (1) [...], (2) Mary Cecilia Mayer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Emet James Vining
+          values:
+            - "37"
+            - "48"
+            - "58"
+            - "68"
+            - "?"
+        - label: "[...] ([...]) Vining"
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Mary Cecilia (Mayer) Vining
+          values:
+            - ""
+            - "39"
+            - "49"
+            - "59"
+            - "?"
+        - label: George Matthew Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Charles Mayer Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Lois Lee Vining
+          values:
+            - ""
+            - 1 y., 3 m.
+            - "11"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Richard Emet Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Lincoln Township, Harrison County, Iowa - dwelling 133, family 135
+        images:
+          - src: EmetJ01census1900.jpg
+      - year: "1910"
+        caption: Lincoln Township, Harrison County, Iowa - dwelling 73, family 73
+        images:
+          - src: EmetJ01census1910.jpg
+      - year: "1920"
+        caption: Lincoln Township, Harrison County, Iowa - dwelling 107, family 107
+        images:
+          - src: EmetJ01census1920.jpg
+      - year: "1930"
+        caption: Lincoln Township, Harrison County, Iowa - dwelling 82, family 83
+        images:
+          - src: EmetJ01census1930.jpg

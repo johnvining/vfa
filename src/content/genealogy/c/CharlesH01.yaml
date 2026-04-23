@@ -1,0 +1,125 @@
+id: CharlesH01
+letter: C
+sequence: 72
+lastUpdated: 25 February 2023
+relationship: son
+parentId: David06
+parentLetter: D
+parentDesc: David Vining and Jane C. Thomas
+head:
+  givenName: Charles H.
+  birth:
+    date: age 19 y. as of 1850 census
+    place: Maine
+  death:
+    date: 28 July 1895
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - number: 1
+    date: "Carolyn Hunter (of Strong, Maine)"
+    spouse:
+      birth:
+        date: "age 35 y., 7 m., 23 d. at death"
+        place: Maine
+      death:
+        date: 11 August 1871
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+  - number: 2
+    date: int. 15 March 1872
+    spouse:
+      givenName: Ella J.
+      surname: Hunter
+      birth:
+        date: "age 29 y., 4 m., 17 d. at death"
+      death:
+        date: 9 September 1877
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+  - number: 3
+    date: 19 June 1879
+    place: "Farmington, Maine"
+    spouse:
+      givenName: Mrs. Annie J.
+      surname: Learned
+childrenGroups:
+  - spouseRef: Carolyn Hunter
+    headingText: children by Carolyn Hunter
+    children:
+      - name: Charles Alfred Vining
+        entryId: CharlesA01
+        birth:
+          date: 6 August 1856
+          place: Maine
+        marriages:
+          - date: 21 January 1882
+            spouse: Ada Estelle Mansfield
+        death:
+          date: 12 March 1927
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Jennie H. Vining
+        birth:
+          date: "[25 September 1859 or 22 September 1858?]"
+          place: Maine
+        marriages:
+          - date: 1 December 1878
+            place: "Phillips, Maine"
+            spouse: Frank E. Howard
+        death:
+          date: 4 October 1928
+      - name: "Ellen H. &#8220;Nellie&#8221; Vining"
+        birth:
+          date: 26 November 1861
+          place: Maine
+        marriages:
+          - date: 15 May 1881
+            place: "New Portland, Maine"
+            spouse: Fred Leslie Clark
+        death:
+          date: 13 October 1939
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Julia May Vining
+        birth:
+          date: "age 10 m., 23 d. at death"
+        death:
+          date: 31 March 1868
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Herbert H. Vining
+        birth:
+          date: 31 July 1871
+          place: Maine
+        death:
+          date: 15 April 1890
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+docsUrl: Csources/CharlesH01doc.htm
+raw: |-
+  <a name="CharlesH01"></a><font size=+2>Charles H. Vining</font>
+     (son of <a href="Dfamilies.htm#David06">David Vining and Jane C. Thomas</a>)
+     b. age 19 y. as of 1850 census   Maine
+     m. (1) Carolyn Hunter (of Strong, Maine)
+                       b. age 35 y., 7 m., 23 d. at death   Maine
+                       d. 11 August 1871
+                             bur. Village Cemetery   Strong, Maine
+           (2) int. 15 March 1872
+                 Ella J. Hunter
+                       b. age 29 y., 4 m., 17 d. at death
+                       d. 9 September 1877
+                             bur. Village Cemetery   Strong, Maine
+           (3) 19 June 1879   Farmington, Maine
+                 Mrs. Annie J. Learned
+     d. 28 July 1895
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children by Carolyn Hunter:</font>
+     <a href="#CharlesA01">Charles Alfred Vining</a>   b.  6 August 1856   Maine   -   m. 21 January 1882   Ada Estelle Mansfield   -   d. 12 March 1927   -   bur. Village Cemetery   Strong, Maine
+     Jennie H. Vining   b. [25 September 1859 or 22 September 1858?]   Maine   -   m. 1 December 1878   Phillips, Maine   Frank E. Howard   -   d. 4 October 1928
+     Ellen H. &#8220;Nellie&#8221; Vining   b. 26 November 1861   Maine   -   m. 15 May 1881   New Portland, Maine   Fred Leslie Clark   -   d. 13 October 1939   -   bur. Village Cemetery   Strong, Maine
+     Julia May Vining   b. age 10 m., 23 d. at death   -   d. 31 March 1868   -   bur. Village Cemetery   Strong, Maine
+     Herbert H. Vining   b. 31 July 1871   Maine   -   d. 15 April 1890   -   bur. Village Cemetery   Strong, Maine
+  
+  <a href="Csources/CharlesH01doc.htm">documentation and notes</a>

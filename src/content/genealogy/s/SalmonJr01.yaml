@@ -1,0 +1,150 @@
+id: SalmonJr01
+sequence: -1
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Salmon01
+parentDesc: Salmon Vining and Mariah Bodwell
+head:
+  givenName: Salmon Jr.
+  birth:
+    date: 28 May 1836
+    place: "Nissouri, Ontario, Canada"
+  death:
+    date: 8 October 1917
+    place: "West Nissouri Township, Ontario, Canada"
+marriages:
+  - date: 3 October 1861
+    spouse:
+      givenName: Esther F.
+      surname: Gourlay
+      parents: "(dau. of Andrew Gourlay and Margaret Fitzsim[m]ons)"
+      birth:
+        date: 29 October 1844
+        place: "London, Ontario, Canada"
+      death:
+        date: 6 June 1922
+      burial:
+        place: "Vining Cemetery   Thorndale, Ontario, Canada"
+childrenGroups:
+  - children:
+      - name: Andrew Joseph Vining
+        entryId: AndrewJ02
+        entryLetter: A
+        birth:
+          date: 21 October 1862
+          place: "Ontario, Canada"
+        marriages:
+          - date: 17 December 1890
+            spouse: Agnes Lucinda McLaren
+        death:
+          date: 16 January 1949
+        burial:
+          place: "Mt. Pleasant Cemetery   Toronto, Ontario, Canada"
+      - name: Anna Margaret Vining
+        birth:
+          date: 3 September 1864
+          place: "Ontario, Canada"
+        marriages:
+          - date: 31 December 1891
+            spouse: "West Nissouri Township, Ontario, Canada   Henry Gibson"
+        death:
+          date: 7 March 1938
+      - name: Lizzie Maria Vining
+        birth:
+          date: 17 October 1866
+          place: "Ontario, Canada"
+        death:
+          date: 6 January 1944
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+      - name: William Carey Vining
+        birth:
+          date: 17 August 1868
+          place: "Ontario, Canada"
+        marriages:
+          - date: 8 March 1905
+            spouse: Mary Jane Johnson
+        death:
+          date: 8 June 1959
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+      - name: Ebenezer Vining
+        entryId: Ebenezer03
+        entryLetter: E
+        birth:
+          date: 8 October 1870
+          place: "West Nissouri Township, Ontario, Canada"
+        marriages:
+          - date: 2 January 1905
+            spouse: "St. Mary's, Ontario, Canada   Clara Beatrice Delmage"
+        death:
+          date: 15 December 1953
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+      - name: Mary Esther Vining
+        birth:
+          date: 6 December 1873
+          place: "Ontario, Canada"
+        death:
+          date: 6 November 1957
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+      - name: Arthur Wellesley Vining
+        birth:
+          date: 7 September 1876
+          place: "West Nissouri Township, Ontario, Canada"
+        marriages:
+          - date: Abbie M. Helmer
+        death:
+          date: 12 February 1945
+        burial:
+          place: "Ocean View Cemetery   Vancouver, British Columbia"
+      - name: Albert George Vining
+        entryId: AlbertG01
+        entryLetter: A
+        birth:
+          date: 1 June 1880
+          place: "Ontario, Canada"
+        marriages:
+          - date: Hazel May Betts
+        death:
+          date: "1956"
+      - name: Glidden Bodwell Vining
+        entryId: GliddenB02
+        entryLetter: G
+        birth:
+          date: 12 August 1887
+          place: "Thorndale, Ontario, Canada"
+        marriages:
+          - date: 23 May 1917
+            spouse: "Aylmer West, Ontario, Canada   Ethel Pearl Timpany"
+        death:
+          date: 3 October 1946
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+docsUrl: Ssources/SalmonJr01doc.htm
+raw: |-
+  <a name="SalmonJr01"></a><font size=+2>Salmon Vining Jr.</font>
+     (son of <a href="#Salmon01">Salmon Vining and Mariah Bodwell</a>)
+     b. 28 May 1836   Nissouri, Ontario, Canada
+     m. 3 October 1861
+           Esther F. Gourlay
+                 (dau. of Andrew Gourlay and Margaret Fitzsim[m]ons)
+                 b. 29 October 1844   London, Ontario, Canada
+                 d. 6 June 1922
+                       bur. Vining Cemetery   Thorndale, Ontario, Canada
+     d. 8 October 1917   West Nissouri Township, Ontario, Canada
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#AndrewJ02">Andrew Joseph Vining</a>   b. 21 October 1862   Ontario, Canada   -   m. 17 December 1890   Agnes Lucinda McLaren   -   d. 16 January 1949   -   bur. Mt. Pleasant Cemetery   Toronto, Ontario, Canada
+     Anna Margaret Vining   b. 3 September 1864   Ontario, Canada   -   m. 31 December 1891   West Nissouri Township, Ontario, Canada   Henry Gibson   -   d. 7 March 1938
+     Lizzie Maria Vining   b. 17 October 1866   Ontario, Canada   -   d. 6 January 1944   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+     William Carey Vining   b. 17 August 1868   Ontario, Canada   -   m. 8 March 1905   Mary Jane Johnson   -   d. 8 June 1959   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+     <a href="Efamilies.htm#Ebenezer03">Ebenezer Vining</a>   b. 8 October 1870   West Nissouri Township, Ontario, Canada   -   m. 2 January 1905   St. Mary's, Ontario, Canada   Clara Beatrice Delmage   -   d. 15 December 1953   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+     Mary Esther Vining   b. 6 December 1873   Ontario, Canada   -   d. 6 November 1957   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+     Arthur Wellesley Vining   b. 7 September 1876   West Nissouri Township, Ontario, Canada   -   m. Abbie M. Helmer   -   d. 12 February 1945   -   bur. Ocean View Cemetery   Vancouver, British Columbia
+     <a href="Afamilies.htm#AlbertG01">Albert George Vining</a>   b. 1 June 1880   Ontario, Canada   -   m. Hazel May Betts   -   d. 1956
+     <a href="Gfamilies.htm#GliddenB02">Glidden Bodwell Vining</a>   b. 12 August 1887   Thorndale, Ontario, Canada   -   m. 23 May 1917   Aylmer West, Ontario, Canada   Ethel Pearl Timpany   -   d. 3 October 1946   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+  
+  <a href="Ssources/SalmonJr01doc.htm">documentation and notes</a>

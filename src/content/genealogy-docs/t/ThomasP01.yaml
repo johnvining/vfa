@@ -1,0 +1,87 @@
+id: ThomasP01
+title: Thomas "Philo[w?]" Vining - Nancy A. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+      rows:
+        - label: Thomas "Philo[w?]" Vining
+          values:
+            - |-
+              65
+              [see note below]
+            - dead
+        - label: Nancy A. ([...]) Vining
+          values:
+            - dead
+            - ""
+        - label: Cynthia Vining
+          values:
+            - dead
+            - ""
+          indent: true
+        - label: John Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Samuel D. Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Laura Vining
+          values:
+            - |-
+              29
+              [see note below]
+            - "?"
+          indent: true
+        - label: Lucinda Vining
+          values:
+            - living in separate household
+            - ""
+          indent: true
+        - label: son Vining
+          values:
+            - dead
+            - ""
+          indent: true
+        - label: Eveline Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Julia Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Chauncey Vining
+          values:
+            - "17"
+            - "?"
+          indent: true
+        - label: Charles Vining
+          values:
+            - "20"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Taylor, Courtland County, New York - dwelling 987, family 1017. In 1850, Thomas "Philo[w?]" Vining was living
+          in the household of daughter Laura (Vining) Potter and her family.
+        images:
+          - src: ThomasP01census1850.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Thomas "Philo[w?]" Vining and Nancy A. ([...]) Vining, in Potter Hill Cemetery, Taylor,
+          Cortland County, New York (from Find A Grave):
+        images:
+          - src: ThomasP01gravestone.jpg
+          - src: ThomasP01wifegravestone.jpg
+        inline: true

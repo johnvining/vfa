@@ -1,0 +1,87 @@
+id: Minor01
+sequence: 43
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Jeremiah02
+parentLetter: J
+parentDesc: Jeremiah Vining and Emily Lacock
+head:
+  givenName: Minor
+  birth:
+    date: "9 July [1846 or 1849 ?]"
+    place: Michigan
+  death:
+    date: "1912"
+marriages:
+  - number: 1
+    date: "1868"
+    place: "Wayne, Michigan"
+    spouse:
+      givenName: Mary Hannah
+      surname: Rundell
+  - number: 2
+    date: "1885"
+    spouse:
+      givenName: Eunice J.
+      surname: Priestly
+childrenGroups:
+  - spouseRef: Eunice J. Priestly
+    children:
+      - name: Clarice G. Vining
+        birth:
+          date: August 1888
+          place: Michigan
+        marriages:
+          - date: James L. Leonard
+        death:
+          date: 16 May 1970
+          place: "Powere, Menominee County, Michigan"
+      - name: Elisebeth Vining
+        birth:
+          date: May 1890
+          place: Michigan
+      - name: Edwin J. Vining
+        birth:
+          date: 31 January 1892
+          place: Michigan
+      - name: William Minor Vining
+        entryId: WilliamM03
+        entryLetter: W
+        birth:
+          date: 26 May 1893
+          place: Michigan
+        marriages:
+          - date: Florence Velda Wonnacott
+        death:
+          date: "1975"
+          place: Michigan
+      - name: Homer Dewey Vining
+        entryId: HomerD01
+        entryLetter: H
+        birth:
+          date: 23 December 1899
+          place: Michigan
+        marriages:
+          - date: Cecile Louise Shank
+        death:
+          date: 2 January 1971
+          place: "Alma, Gratiot County, Michigan"
+        burial:
+          place: "Payne Cemetery   Maple Rapids, Michigan"
+raw: |-
+  <a name="Minor01"></a><font size=+2>Minor Vining</font>
+     (son of <a href="Jfamilies.htm#Jeremiah02">Jeremiah Vining and Emily Lacock</a>)
+     b. 9 July [1846 or 1849 ?]   Michigan
+     m. (1) 1868   Wayne, Michigan
+                 Mary Hannah Rundell
+           (2) 1885
+                 Eunice J. Priestly
+     d. 1912
+  
+  <font size=+1>children by Eunice J. Priestly:</font>
+     Clarice G. Vining   b. August 1888   Michigan   -   m. James L. Leonard   -   d. 16 May 1970   Powere, Menominee County, Michigan
+     Elisebeth Vining   b. May 1890   Michigan
+     Edwin J. Vining   b. 31 January 1892   Michigan
+     <a href="Wfamilies.htm#WilliamM03">William Minor Vining</a>   b. 26 May 1893   Michigan   -   m. Florence Velda Wonnacott   -   d. 1975   Michigan
+     <a href="Hfamilies.htm#HomerD01">Homer Dewey Vining</a>   b. 23 December 1899   Michigan   -   m. Cecile Louise Shank   -   d. 2 January 1971   Alma, Gratiot County, Michigan   -   bur. Payne Cemetery   Maple Rapids, Michigan

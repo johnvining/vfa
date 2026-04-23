@@ -1,0 +1,67 @@
+id: James02
+title: James Vining - Susan D. Clark
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: James Vining
+          values:
+            - "36"
+            - "46"
+            - "?"
+            - "66"
+            - dead
+        - label: Susan D. (Clark) Vining
+          values:
+            - "35"
+            - "45"
+            - "?"
+            - dead
+            - ""
+        - label: Fred B. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "28"
+            - "?"
+          indent: true
+        - label: Walter R. Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "25"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Lewiston (ward 7), Androscoggin County, Maine
+        images:
+          - src: James02census1870.jpg
+      - year: "1880"
+        caption: Lewiston (ward 7), Androscoggin County, Maine
+        images:
+          - src: James02census1880.jpg
+      - year: "1900"
+        caption: >-
+          Lewiston (ward 7), Androscoggin County, Maine. Also living in this household in 1900 was Amelia Brown
+          (housekeeper, 62 y., b. Maine).
+        images:
+          - src: James02census1900.jpg
+  - type: death
+    items:
+      - caption: "Gravestone of James Vining and Susie D. Clark, in Mount Auburn Cemetery, Auburn, Androscoggin County, Maine:"
+        images:
+          - src: James02andwifegravestone.jpg
+      - caption: >-
+          Gravestone of Fred B. and Walter P. Vining, sons of James Vining and Susie D. Clark, in Mount Auburn Cemetery,
+          Auburn, Androscoggin County, Maine:
+        images:
+          - src: James02sonsgravestone.jpg

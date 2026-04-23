@@ -1,0 +1,51 @@
+id: RichardJr01
+title: Richard Vining Jr. - Lucretia Persons Fullerton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Richard Vining Jr.
+          values:
+            - "40"
+            - "50"
+            - "60"
+            - "70"
+            - dead
+        - label: Lucretia Persons (Fullerton) Vining
+          values:
+            - "26"
+            - "35"
+            - "45"
+            - "55"
+            - dead
+        - label: Richard Elmore Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 23, family 34
+        images:
+          - src: RichardJr01census1850.jpg
+      - year: "1860"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 427, family 521
+        images:
+          - src: RichardJr01census1860.jpg
+      - year: "1870"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 1637, family 2035
+        images:
+          - src: RichardJr01census1870.jpg
+      - year: "1880"
+        caption: Abington (center ward), Plymouth County, Massachusetts - dwelling 314, family 391
+        images:
+          - src: RichardJr01census1880.jpg

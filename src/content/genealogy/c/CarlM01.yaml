@@ -1,0 +1,67 @@
+id: CarlM01
+letter: C
+sequence: 19
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FrederickE01
+parentLetter: F
+parentDesc: Frederick Elmer Vining and Louise Conant McKenney
+head:
+  givenName: Carl Merton
+  birth:
+    date: 4 September 1897
+    place: "Lisbon, Androscoggin County, Maine"
+  death:
+    date: 10 January 1982
+    place: "Wheaton, DuPage County, Illinois"
+  burial:
+    place: "Wheaton Cemetery   Wheaton, DuPage County, Illinois"
+marriages:
+  - date: 3 August 1922
+    place: "Wheaton, DuPage County, Illinois"
+    spouse:
+      givenName: Mabel Catherine
+      surname: Vogel
+      parents: (dau. of Ernest Louis Vogel and Elizabeth J. Rosie)
+      birth:
+        date: 30 June 1896
+        place: "Chicago, Cook County, Illinois"
+      death:
+        date: 26 November 1996
+        place: "Pueblo West, Pueblo County, Colorado"
+      burial:
+        place: "Wheaton Cemetery   Wheaton, DuPage County, Illinois"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Carl Merton Vining Jr.
+        entryId: CarlMJr01
+        birth:
+          date: 17 June 1927
+          place: "Chicago, Cook County, Illinois"
+        marriages:
+          - date: 30 April 1948
+            place: "Wheaton, DuPage County, Illinois"
+            spouse: Myrtle Joy Robinson
+        death:
+          date: 17 July 2012
+        burial:
+          place: "Swallows Cemetery   Pueblo County, Colorado"
+docsUrl: Csources/CarlM01doc.htm
+raw: |-
+  <a name="CarlM01"></a><font size=+2>Carl Merton Vining</font>
+     (son of <a href="Ffamilies.htm#FrederickE01">Frederick Elmer Vining and Louise Conant McKenney</a>)
+     b. 4 September 1897   Lisbon, Androscoggin County, Maine
+     m. 3 August 1922   Wheaton, DuPage County, Illinois
+           Mabel Catherine Vogel
+                 (dau. of Ernest Louis Vogel and Elizabeth J. Rosie)
+                 b. 30 June 1896   Chicago, Cook County, Illinois
+                 d. 26 November 1996   Pueblo West, Pueblo County, Colorado
+                       bur. Wheaton Cemetery   Wheaton, DuPage County, Illinois
+     d. 10 January 1982   Wheaton, DuPage County, Illinois
+           bur. Wheaton Cemetery   Wheaton, DuPage County, Illinois
+  
+  <font size=+1>child:</font>
+     <a href="#CarlMJr01">Carl Merton Vining Jr.</a>   b. 17 June 1927   Chicago, Cook County, Illinois   -   m. 30 April 1948   Wheaton, DuPage County, Illinois   Myrtle Joy Robinson   -   d. 17 July 2012   -   bur. Swallows Cemetery   Pueblo County, Colorado
+  
+  <a href="Csources/CarlM01doc.htm">documentation and notes</a>

@@ -1,0 +1,135 @@
+id: MarionM01
+title: Marion Mortimer Vining - Flora E. Widdifield
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Marion Mortimer Vining
+          values:
+            - "?"
+            - "?"
+            - "47"
+            - "[57?]"
+            - "?"
+            - "?"
+            - dead
+        - label: Flora E. (Widdifield) Vining
+          values:
+            - "?"
+            - "?"
+            - "[47?]"
+            - "[56?]"
+            - dead
+            - ""
+            - ""
+        - label: Flora Pearl Vining
+          values:
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Marion A. Vining
+          values:
+            - "?"
+            - "?"
+            - "23"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ella Clara Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eva E. Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "26"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Roy R. Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lester Raymond Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "[19?]"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Viola Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: son Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Milan Township, Erie County, Ohio - dwelling 293, family 293
+        images:
+          - src: MarionM01census1900.jpg
+      - year: "1910"
+        caption: Deerfield, Mecosta County, Michigan - dwelling 49, family 50
+        images:
+          - src: MarionM01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Marion Mortimer Vining and Flora E. (Widdifield) Vining, in Higbee Cemetery, Stanwood, Mecosta
+          County, Michigan (from Find A Grave):
+        images:
+          - src: MarionM01gravestone.jpg
+          - src: MarionM01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Viola Vining, daughter of Marion Mortimer Vining and Flora E. (Widdifield) Vining, in North
+          Milan Cemetery, Milan, Erie County, Ohio (from Find A Grave):
+        images:
+          - src: MarionM01dauViolagravestone.jpg

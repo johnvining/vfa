@@ -1,0 +1,43 @@
+id: Hezekiah01
+title: Hezekiah Vining - Maggie Albritton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Hezekiah Vining
+          values:
+            - "32"
+        - label: Maggie (Albritton) Vining
+          values:
+            - "29"
+        - label: Hezekiah Vining Jr.
+          values:
+            - "8"
+          indent: true
+        - label: Lucille Vining
+          values:
+            - "5"
+          indent: true
+        - label: Earnest Vining
+          values:
+            - "3"
+          indent: true
+        - label: Rubye Vining
+          values:
+            - "[7?] m."
+          indent: true
+        - label: James Vining
+          values:
+            - ""
+          indent: true
+        - label: Frank Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Election Precinct 3, Columbia County, Florida
+        images:
+          - src: Hezekiah01census1940.jpg

@@ -1,0 +1,83 @@
+id: FrederickA01
+sequence: 60
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Thomas03
+parentLetter: T
+parentDesc: Thomas Vining and Jemima Haines
+head:
+  givenName: Frederick Augustus
+  birth:
+    date: 13 May 1843
+    place: "Avon, Maine"
+  death:
+    date: 27 January 1917
+    place: "Augusta, Maine"
+  burial:
+    place: "Evergreen Cemetery   Phillips, Maine"
+marriages:
+  - date: 35 y. as of 1900 census
+    spouse:
+      givenName: Eliza Ann
+      surname: Sampson
+      parents: "(dau. of Isaiah Sampson and Eliza [Sampson?])"
+      birth:
+        date: "age 68 y., 11 m., and 25 d. at death"
+        place: "Medford, Massachusetts"
+      death:
+        date: 19 November 1912
+        place: "Phillips, Maine"
+      burial:
+        place: "Evergreen Cemetery   Phillips, Maine"
+childrenGroups:
+  - children:
+      - name: Herbert Wilson Vining
+        birth:
+          date: 3 September 1866
+          place: "Avon, Maine"
+        marriages:
+          - date: 27 November 1918
+            place: "Phillips, Maine"
+            spouse: "C. Nellie Parker (n&#233;e Quimby)"
+        death:
+          date: 15 March 1937
+          place: "Phillips, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Maine"
+      - name: Carrie Isabel Vining
+        birth:
+          date: "1870"
+        marriages:
+          - date: 11 December 1892
+            spouse: Chester E. Hight
+        death:
+          date: "1958"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Maine"
+      - name: Ada Vining
+        birth:
+          date: age 5 y. as of 1880 census
+        marriages:
+          - date: 8 February 1918
+            spouse: William A. Lee
+docsUrl: Fsources/FrederickA01doc.htm
+raw: |-
+  <a name="FrederickA01"></a><font size=+2>Frederick Augustus Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas03">Thomas Vining and Jemima Haines</a>)
+     b. 13 May 1843   Avon, Maine
+     m. 35 y. as of 1900 census
+           Eliza Ann Sampson
+                 (dau. of Isaiah Sampson and Eliza [Sampson?])
+                 b. age 68 y., 11 m., and 25 d. at death   Medford, Massachusetts
+                 d. 19 November 1912   Phillips, Maine
+                       bur. Evergreen Cemetery   Phillips, Maine
+     d. 27 January 1917   Augusta, Maine
+           bur. Evergreen Cemetery   Phillips, Maine
+  
+  <font size=+1>children:</font>
+     Herbert Wilson Vining   b. 3 September 1866   Avon, Maine   -   m. 27 November 1918   Phillips, Maine   C. Nellie Parker (n&#233;e Quimby)   -   d. 15 March 1937   Phillips, Maine   -   bur. Evergreen Cemetery   Phillips, Maine
+     Carrie Isabel Vining   b. 1870   -   m. 11 December 1892   Chester E. Hight   -   d. 1958   -   bur. Evergreen Cemetery   Phillips, Maine
+     Ada Vining   b. age 5 y. as of 1880 census   -   m. 8 February 1918   William A. Lee
+  
+  <a href="Fsources/FrederickA01doc.htm">documentation and notes</a>

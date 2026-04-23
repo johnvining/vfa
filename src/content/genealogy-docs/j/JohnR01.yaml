@@ -1,0 +1,94 @@
+id: JohnR01
+title: John Randall Vining - Rachel [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+      rows:
+        - label: John Randall Vining
+          values:
+            - M 16 and upward
+            - M 45 and over
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Rachel ([...]) Vining
+          values:
+            - F
+            - F 26–45
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John Vining
+          values:
+            - M under 16
+            - not living in this household
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Josiah Vining
+          values:
+            - M under 16
+            - M 10–16
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rachel Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Wealthy Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - "?"
+            - "?"
+            - dead
+          indent: true
+        - label: Patience Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joanna Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Leyden, Hampshire County, Massachusetts - The names of the three additional males under 16 reported in the
+          1790 census need to be determined.
+      - year: "1790"
+        caption: >-
+          Leyden, Hampshire County, Massachusetts - The ages of several members of this household suggest that this may
+          not be the correct Vining family censused below.
+        images:
+          - src: JohnR01census1800.jpg

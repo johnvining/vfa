@@ -1,0 +1,68 @@
+id: CharlesF04
+title: Charles Freeman Vining - Demmie Lotspeich
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Freeman Vining
+          values:
+            - "22"
+            - "33"
+            - "?"
+        - label: Demmie (Lotspeich) Vining
+          values:
+            - "26"
+            - "37"
+            - "?"
+        - label: Emily Grace Vining
+          values:
+            - 3 y., 2 m.
+            - "13"
+            - "?"
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+        - label: Charles Freeman Vining Jr.
+          values:
+            - ""
+            - "6"
+            - "?"
+          indent: true
+        - label: Bonnie J. Vining
+          values:
+            - ""
+            - 4 y., 5 m.
+            - "?"
+          indent: true
+        - label: Janice Vining
+          values:
+            - ""
+            - 2 y., 7 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: 9th [Militia] District, Whitfield County, Georgia - dwelling 68, family 73
+        images:
+          - src: CharlesF04census1920.jpg
+      - year: "1920"
+        caption: 9th Militia District 631, Whitfield County, Georgia - dwelling 31, family 33
+        images:
+          - src: CharlesF04census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Charles Freeman Vining and Demmie (Lotspeich) Vining, in Dawnville Cemetery, Dawnville,
+          Whitfield County, Georgia (from Find A Grave):
+        images:
+          - src: CharlesF04gravestone.jpg
+          - src: CharlesF04wifegravestone.jpg
+        inline: true

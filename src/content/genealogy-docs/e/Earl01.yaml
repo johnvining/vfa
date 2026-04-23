@@ -1,0 +1,45 @@
+id: Earl01
+title: Earl Vining - Inez Foster
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+      rows:
+        - label: Earl Vining
+          values:
+            - "33"
+            - dead
+        - label: Inez (Foster) Vining
+          values:
+            - dead
+            - ""
+        - label: Donna Gertrude Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Elnora M. Vining
+          values:
+            - dead
+            - ""
+          indent: true
+        - label: Frankie Earlene Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1920"
+        caption: State Sanitorium, Emmett Township, Norton County, Kansas - [dwelling 1, family 1 ?]
+        images:
+          - src: Earl01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Inez (Foster) Vining and daughter Elnora M. Vining, in Neodesha City Cemetery, Neodesha, Wilson
+          County, Kansas (from Find A Grave):
+        images:
+          - src: Earl01familyheadstone.jpg
+      - caption: \

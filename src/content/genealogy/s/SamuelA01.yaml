@@ -1,0 +1,87 @@
+id: SamuelA01
+sequence: 12
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Noah01
+parentLetter: N
+parentDesc: Noah Vining and Mary Leavitt Stoddard
+head:
+  givenName: Samuel Albert
+  birth:
+    date: 19 June 1812
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 22 May 1898
+    place: "Holbrook, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Eliza Ann
+      surname: White
+      birth:
+        date: July 1818
+        place: Massachusetts
+      death:
+        date: "1907"
+        place: "Holbrook, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Abby E. Vining
+        birth:
+          date: age 21 y. as of 1860 census
+          place: Massachusetts
+      - name: Mary Francis Vining
+        birth:
+          date: 20 August 1839
+        marriages:
+          - date: Perley Bacon Davis
+        death:
+          date: 21 October 1931
+      - name: Betsy Jane Vining
+        birth:
+          date: 22 December 1842
+        death:
+          date: 24 June 1914
+      - name: Felicia A. Vining
+        birth:
+          date: age 16 y. as of 1860 census
+          place: Massachusetts
+        note: "[m. January 1868   Elijah Morse?]"
+      - name: Ellen W. Vining
+        birth:
+          date: age 14 y. as of 1860 census
+          place: Massachusetts
+      - name: Sarah Elizabeth Vining
+        birth:
+          date: "1850"
+        death:
+          date: "1851"
+        burial:
+          place: "Union Cemetery   Holbrook, Norfolk County,  Massachusetts"
+      - name: Harriet Vining
+        birth:
+          date: "1852"
+        death:
+          date: "1853"
+        burial:
+          place: "Union Cemetery   Holbrook, Norfolk County, Massachusetts"
+docsUrl: Ssources/SamuelA01doc.htm
+raw: |-
+  <a name="SamuelA01"></a><font size=+2>Samuel Albert Vining</font>
+     (son of <a href="Nfamilies.htm#Noah01">Noah Vining and Mary Leavitt Stoddard</a>)
+     b. 19 June 1812   Weymouth, Norfolk County, Massachusetts
+     m. Eliza Ann White
+              b. July 1818   Massachusetts
+              d. 1907   Holbrook, Massachusetts
+     d. 22 May 1898   Holbrook, Massachusetts
+  
+  <font size=+1>children:</font>
+     Abby E. Vining   b. age 21 y. as of 1860 census   Massachusetts
+     Mary Francis Vining   b. 20 August 1839   -   m. Perley Bacon Davis   -   d. 21 October 1931
+     Betsy Jane Vining   b. 22 December 1842   -   d. 24 June 1914
+     Felicia A. Vining   b. age 16 y. as of 1860 census   Massachusetts   -   [m. January 1868   Elijah Morse?]
+     Ellen W. Vining   b. age 14 y. as of 1860 census   Massachusetts
+     Sarah Elizabeth Vining   b. 1850   -   d. 1851   -   bur. Union Cemetery   Holbrook, Norfolk County,  Massachusetts
+     Harriet Vining   b. 1852   -   d. 1853   -   bur. Union Cemetery   Holbrook, Norfolk County, Massachusetts
+  
+  <a href="Ssources/SamuelA01doc.htm">documentation and notes</a>

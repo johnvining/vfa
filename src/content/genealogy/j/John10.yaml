@@ -1,0 +1,127 @@
+id: John10
+sequence: 173
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: John
+  birth:
+    date: "2 May 181[1 or 2]"
+    place: Maine
+  death:
+    date: 13 March 1889
+  burial:
+    place: "Vining Hill Cemetery   Avon, Maine"
+marriages:
+  - number: 1
+    date: int. 14 March 1835
+    spouse:
+      givenName: Mary
+      surname: Haines
+      birth:
+        date: 11 June 1817
+      death:
+        date: 4 October 1869
+      burial:
+        place: "Vining Hill Cemetery   Avon, Maine"
+  - number: 2
+    spouse:
+      givenName: Louisa T.
+      surname: Stevens
+      parents: (dau. of James Stevens and Mary Turner)
+      birth:
+        date: February 1830
+        place: "Strong, Maine"
+      death:
+        date: 27 February 1900
+        place: "Farmington, Maine"
+childrenGroups:
+  - spouseRef: Mary Haines
+    children:
+      - name: James Towle Vining
+        birth:
+          date: 2 February 1840
+        marriages:
+          - date: Nancy M. Richardson
+      - name: Alonzo Haines Vining
+        entryId: AlonzoH01
+        entryLetter: A
+        birth:
+          date: 19 June 1843
+          place: Maine
+        marriages:
+          - date: "1866"
+            place: "Lowell, Massachusetts"
+            spouse: "Mary A. [...]"
+        death:
+          date: "1909"
+          place: "Lowell, Massachusetts"
+      - name: Hiram Vining
+        entryId: Hiram02
+        entryLetter: H
+        birth:
+          date: 19 August 1846
+          place: Maine
+        marriages:
+          - date: "1871"
+            place: "Lowell, Massachusetts"
+            spouse: "[Abby or Margaret?] [...]"
+      - name: William Bates Vining
+        birth:
+          date: 8 October 1848
+        death:
+          date: 6 February 1870
+        burial:
+          place: "Vining Hill Cemetery   Avon, Maine"
+      - name: Elsadana Vining
+        birth:
+          date: "age 18 y., 4 m. at death"
+        death:
+          date: 12 November 1869
+        burial:
+          place: "Vining Hill Cemetery   Avon, Maine"
+      - name: Elbridge W. Vining
+        entryId: ElbridgeW01
+        entryLetter: E
+        birth:
+          date: 4 August 1854
+        marriages:
+          - date: Elvira W. Keene
+        death:
+          date: 31 December 1933
+          place: "Strong, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: Mary Vining
+        birth:
+          date: age 1 y. as of 1860 census
+docsUrl: Jsources/John10doc.htm
+raw: |-
+  <a name="John10"></a><font size=+2>John Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. 2 May 181[1 or 2]   Maine
+     m. (1) int. 14 March 1835
+              Mary Haines
+                    b. 11 June 1817
+                    d. 4 October 1869
+                          bur. Vining Hill Cemetery   Avon, Maine
+           (2) Louisa T. Stevens
+                    (dau. of James Stevens and Mary Turner)
+                    b. February 1830   Strong, Maine
+                    d. 27 February 1900   Farmington, Maine
+     d. 13 March 1889
+           bur. Vining Hill Cemetery   Avon, Maine
+  
+  <font size=+1>children by Mary Haines:</font>
+     James Towle Vining   b. 2 February 1840   -   m. Nancy M. Richardson
+     <a href="Afamilies.htm#AlonzoH01">Alonzo Haines Vining</a>   b. 19 June 1843   Maine   -   m. 1866   Lowell, Massachusetts   Mary A. [...]   -   d. 1909   Lowell, Massachusetts
+     <a href="Hfamilies.htm#Hiram02">Hiram Vining</a>   b. 19 August 1846   Maine   -   m. 1871   Lowell, Massachusetts   [Abby or Margaret?] [...]
+     William Bates Vining   b. 8 October 1848   -   d. 6 February 1870   -   bur. Vining Hill Cemetery   Avon, Maine
+     Elsadana Vining   b. age 18 y., 4 m. at death   -   d. 12 November 1869   -   bur. Vining Hill Cemetery   Avon, Maine
+     <a href="Efamilies.htm#ElbridgeW01">Elbridge W. Vining</a>   b. 4 August 1854   -   m. Elvira W. Keene   -   d. 31 December 1933   Strong, Maine   -   bur. Village Cemetery   Strong, Maine
+     Mary Vining   b. age 1 y. as of 1860 census
+  
+  <a href="Jsources/John10doc.htm">documentation and notes</a>

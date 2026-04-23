@@ -1,0 +1,51 @@
+id: CarlE01
+letter: C
+sequence: 13
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]; stepgrandson of Abraham Crouse"
+head:
+  givenName: Carl E.
+  birth:
+    date: age 25 y. as of 1910 census
+    place: Oregon
+marriages:
+  - date: 4 y. as of 1910 census
+    spouse:
+      givenName: Hazel L.
+      surname: Stewart
+      birth:
+        date: age 19 y. as of 1910 census
+        place: Wisconsin
+childrenGroups:
+  - children:
+      - name: Emerald C. Vining
+        birth:
+          date: "1912"
+          place: Oregon
+        death:
+          date: "1931"
+        burial:
+          place: "Valley View Cemetery   Sutherlin, Douglas County, Oregon"
+      - name: Eldridge Francis Vining
+        birth:
+          date: 9 January 1916
+          place: Oregon
+        death:
+          date: "1927"
+        burial:
+          place: "Valley View Cemetery   Sutherlin, Douglas County, Oregon"
+docsUrl: Csources/CarlE01doc.htm
+raw: |-
+  <a name="CarlE01"></a><font size=+2>Carl E. Vining</font>
+     (son of [?]; stepgrandson of Abraham Crouse)
+     b. age 25 y. as of 1910 census   Oregon
+     m. 4 y. as of 1910 census
+           Hazel L. Stewart
+                 b. age 19 y. as of 1910 census   Wisconsin
+  
+  <font size=+1>children:</font>
+     Emerald C. Vining   b. 1912   Oregon   -   d. 1931   -   bur. Valley View Cemetery   Sutherlin, Douglas County, Oregon
+     Eldridge Francis Vining   b. 9 January 1916   Oregon   -   d. 1927   -   bur. Valley View Cemetery   Sutherlin, Douglas County, Oregon
+  
+  <a href="Csources/CarlE01doc.htm">documentation and notes</a>

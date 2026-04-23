@@ -1,0 +1,78 @@
+id: CabbleJ01
+title: Cabble J. Vining - Bess Ruth Infield
+sections:
+  - type: research
+    heading: Research opportunity
+    headingLarge: true
+    text: >-
+      A record is needed for the parentage of Cabble J. Vining. His obituary (see below) gives his birth date [year
+      incorrect] but says he was “reared in the homes of Mr. and Mrs. Oscar Power, [and] Mr. and Mrs. Charles Nugent I”.
+  - type: marriage
+    items:
+      - caption: "Marriage license for Cabble J. Vining and Bess Ruth Infield:"
+        images:
+          - src: CabbleJ01marriagelicense.jpg
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Cabble J. Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+        - label: Bess Ruth (Infield) Vining
+          values:
+            - "26"
+            - "37"
+            - "47"
+        - label: Charles Eugene Vining
+          values:
+            - ""
+            - "10"
+            - "20"
+          indent: true
+        - label: Mildred F. Vining
+          values:
+            - ""
+            - 3 y., [?] m.
+            - "14"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Jackson, Monroe County, Missouri - dwelling 164, family 166
+        images:
+          - src: CabbleJ01census1920a.jpg
+          - src: CabbleJ01census1920b.jpg
+      - year: "1930"
+        caption: Jackson, Monroe County, Missouri - dwelling 2, family 2
+        images:
+          - src: CabbleJ01census1930.jpg
+      - year: "1940"
+        caption: "[?], Ravalli County, Montana"
+        images:
+          - src: CabbleJ01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for Cabble J. Vining:"
+        images:
+          - src: CabbleJ01WWIregistrationcarda.jpg
+          - src: CabbleJ01WWIregistrationcardb.jpg
+        inline: true
+  - type: death
+    items:
+      - caption: >-
+          Obituaries for Cabble J. Vining and Bess Ruth (Infield) Vining (sources: Monroe County [Missouri] Appeal, 17
+          April 1980 [Cabble J.] and 24 December 1981 [Ruth Bess])
+        images:
+          - src: CabbleJ01obituary.jpg
+          - src: CabbleJ01wifeobituary.jpg
+        inline: true
+      - caption: >-
+          Headstone for Cabble J. Vining and Bess Ruth (Infield) Vining, in Pleasant Hill Cemetery, Paris, Monroe
+          County, Missouri (source: Find A Grave):
+        images:
+          - src: CabbleJ01andwifeheadstone.jpg

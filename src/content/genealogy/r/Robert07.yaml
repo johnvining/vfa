@@ -1,0 +1,56 @@
+id: Robert07
+sequence: 78
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Robert
+  birth:
+    date: age 36 y. as of 1870 census
+    place: New York
+marriages:
+  - spouse:
+      givenName: Marietta
+      surname: "[...]"
+      birth:
+        date: age 34 y. as of 1870 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Flora Vining
+        birth:
+          date: age 14 y. as of 1870 census
+          place: New York
+      - name: Minnie Vining
+        birth:
+          date: age 13 y. as of 1870 census
+          place: New York
+      - name: Genett Vining
+        birth:
+          date: age 10 y. as of 1870 census
+          place: New York
+      - name: Annette Vining
+        birth:
+          date: age 4 y. as of 1870 census
+          place: New York
+      - name: Robert G. Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: New York
+docsUrl: Rsources/Robert07doc.htm
+raw: |-
+  <a name="Robert07"></a><font size=+2>Robert Vining</font>
+     (son of [?])
+     b. age 36 y. as of 1870 census   New York
+     m. Marietta [...]
+              b. age 34 y. as of 1870 census   New York
+  
+  <font size=+1>children:</font>
+     Flora Vining   b. age 14 y. as of 1870 census   New York
+     Minnie Vining   b. age 13 y. as of 1870 census   New York
+     Genett Vining   b. age 10 y. as of 1870 census   New York
+     Annette Vining   b. age 4 y. as of 1870 census   New York
+     Robert G. Vining   b. age 1 y. as of 1870 census   New York
+  
+  <a href="Rsources/Robert07doc.htm">documentation and notes</a>

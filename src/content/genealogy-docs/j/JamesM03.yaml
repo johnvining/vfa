@@ -1,0 +1,129 @@
+id: JamesM03
+title: James M. Vining - Almira H. Buckland
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: James M. Vining
+          values:
+            - "40"
+            - "51"
+            - "58"
+            - "?"
+            - "?"
+            - "?"
+        - label: Almira H. (Buckland) Vining
+          values:
+            - "37"
+            - "40"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Edward Vining
+          values:
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Almanzo Vining
+          values:
+            - not living in this household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Henry Francis Vining
+          values:
+            - "12"
+            - "24"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Erastus Clarkson Vining
+          values:
+            - "9"
+            - "22"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Israel A. Vining
+          values:
+            - "7"
+            - "18"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Augustus Vining
+          values:
+            - "5"
+            - "16"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James M. Vining Jr.
+          values:
+            - "3"
+            - "14"
+            - "21"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Franklin E. Vining
+          values:
+            - ""
+            - "9"
+            - "15"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Jane Almira "Jennie" Vining
+          values:
+            - ""
+            - "5"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: East Windsor, Hartford County, Connecticut - dwelling 25, family 28
+        images:
+          - src: JamesM03census1850.jpg
+      - year: "1860"
+        caption: Verdigris Township, Madison County, Kansas - dwelling 814, family 664
+        images:
+          - src: JamesM03census1860.jpg
+      - year: "1870"
+        caption: >-
+          Belmont Township, Woodson County, Kansas - dwelling 54, family 56. In 1870, brothers Henry Francis Vining and
+          Charles Augustus Vining were living together in dwelling 56 in Belmont Township, Woodson County, Kansas.
+        images:
+          - src: JamesM03census1870.jpg

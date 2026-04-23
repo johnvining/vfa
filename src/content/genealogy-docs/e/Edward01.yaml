@@ -1,0 +1,159 @@
+id: Edward01
+title: Edward Vining - [Katharine or Catherine] Haines
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Edward Vining
+          values:
+            - M 30–40
+            - "41"
+            - "50"
+            - "61"
+            - "71"
+            - "?"
+            - dead
+            - ""
+        - label: "[Katharine or Catherine] Haines"
+          values:
+            - F 20–30
+            - "36"
+            - "46"
+            - "56"
+            - "66"
+            - "?"
+            - "86"
+            - dead
+        - label: Henry C. Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eliza Jane Vining
+          values:
+            - F under 5
+            - "14"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Edward Kent Vining
+          values:
+            - M under 5
+            - "12"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William Harrison Vining
+          values:
+            - M under 5
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ben H. Vining
+          values:
+            - ""
+            - "7"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Celinda Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Vining
+          values:
+            - ""
+            - 6 m.
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary A. Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1840"
+        caption: Avon, Franklin County, Maine. The identity of the male 5–10 is yet to be determined.
+        images:
+          - src: Edward01census1840.jpg
+      - year: "1850"
+        caption: Milwaukee, Milwaukee County, Wisconsin - dwelling 855, family 871
+        images:
+          - src: Edward01census1850.jpg
+      - year: "1860"
+        caption: Marcellon, Columbia County, Wisconsin - dwelling 394, family 357
+        images:
+          - src: Edward01census1860.jpg
+      - year: "1870"
+        caption: Marcellon, Columbia County, Wisconsin - dwelling 96, family 104
+        images:
+          - src: Edward01census1870.jpg
+      - year: "1880"
+        caption: Marcellon, Columbia County, Wisconsin - dwelling 10, family 10
+        images:
+          - src: Edward01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Marcellon, Columbia County, Wisconsin - dwelling 53, family 53. In 1900, Catherine (Haines) Vining was living
+          in the household of Alexander and Mary (Vining) Hamilton, her son-in-law and daughter.
+        images:
+          - src: Edward01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Edward Vining and [Katharine or Catherine] (Haines) Vining, in Marcellon Cemetery,
+          Pardeeville, Columbia County, Wisconsin (from Find A Grave):
+        images:
+          - src: Edward01monumentside.jpg
+          - src: Edward01wifemonumentside.jpg
+        inline: true

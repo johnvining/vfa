@@ -1,0 +1,24 @@
+id: JanetU01
+sequence: 107
+letter: J
+lastUpdated: 10 March 2023
+relationship: daughter
+parentId: JohnH02
+parentDesc: John Henry Vining and Janie Rachel Byrd
+head:
+  givenName: Janet Ursiline
+  birth:
+    date: 29 July 1955
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Joseph Vining
+        birth:
+          date: "1976"
+raw: |-
+  <a name="JanetU01"></a><font size=+2>Janet Ursiline Vining</font>
+     (daughter of <a href="#JohnH02">John Henry Vining and Janie Rachel Byrd</a>)
+     b. 29 July 1955
+  
+  <font size=+1>child:</font>
+     Joseph Vining   b. 1976

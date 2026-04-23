@@ -1,0 +1,55 @@
+id: LeanderO01
+sequence: 18
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: JaredW01
+parentLetter: J
+parentDesc: "Jared Wilbur &#8220;Jerry&#8221; Vining and Ursula Manla Bryant"
+head:
+  givenName: Leander Otis
+  birth:
+    date: 8 May 1830
+    place: "Ellicottville, New York"
+  death:
+    date: 9 March 1865
+  burial:
+    place: "Arlington National Cemetery, Arlington, Virginia"
+marriages:
+  - date: "18 February 1857 [B. Angeline (Hillyard) Vining m. (2) Lyman Monroe]"
+    spouse:
+      givenName: B. Angeline
+      surname: Hillyard
+      birth:
+        date: age 23 y. as of 1860 census
+        place: Ohio
+childrenGroups:
+  - headingText: child
+    children:
+      - name: George Melvin Vining
+        entryId: GeorgeM02
+        entryLetter: G
+        birth:
+          date: 7 May 1861
+          place: "Arlington, Michigan"
+        middleNote: Martha May Empson
+        death:
+          date: 27 April 1928
+          place: "Lawrence, Michigan"
+        burial:
+          place: "Hill Cemetery   Lawrence, Michigan"
+docsUrl: Lsources/LeanderO01doc.htm
+raw: |-
+  <a name="LeanderO01"></a><font size=+2>Leander Otis Vining</font>
+     (son of <a href="Jfamilies.htm#JaredW01">Jared Wilbur &#8220;Jerry&#8221; Vining and Ursula Manla Bryant</a>)
+     b. 8 May 1830   Ellicottville, New York
+     m. 18 February 1857 [B. Angeline (Hillyard) Vining m. (2) Lyman Monroe]
+           B. Angeline Hillyard
+                 b. age 23 y. as of 1860 census   Ohio
+     d. 9 March 1865
+           bur. Arlington National Cemetery, Arlington, Virginia
+  
+  <font size=+1>child:</font>
+     <a href="Gfamilies.htm#GeorgeM02">George Melvin Vining</a>   b. 7 May 1861   Arlington, Michigan   -   Martha May Empson   -   d. 27 April 1928   Lawrence, Michigan   -  bur. Hill Cemetery   Lawrence, Michigan
+  
+  <a href="Lsources/LeanderO01doc.htm">documentation and notes</a>

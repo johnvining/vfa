@@ -1,0 +1,60 @@
+id: Frank02
+title: Frank Vining - Alice [...]
+displayTitle: Frank Vining - Alice […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Vining
+          values:
+            - "34"
+            - "43"
+            - "50"
+            - "?"
+        - label: Alice ([…]) Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+            - "?"
+        - label: "[Lucy or Luther ?] Vining"
+          values:
+            - 2 [Lucy]
+            - 11 [Luther]
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: G. W. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+          indent: true
+        - label: Lara Vining
+          values:
+            - ""
+            - 3 y., 1 m.
+            - "14"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: "[Police Jury] Ward 4, St. Helena Parish, Louisiana - dwelling 303, family 304"
+        images:
+          - src: Frank02census1910.jpg
+      - year: "1920"
+        caption: Police Jury Ward 4, St. Helena Parish, Louisiana - dwelling 61, family 75
+        images:
+          - src: Frank02census1920.jpg
+      - year: "1930"
+        caption: >-
+          Police Jury Ward 5, St. Helena Parish, Louisiana - dwelling [not given], family 178. Also living in this
+          household in 1930 were Mary Warner (7 y., b. Louisiana) and Crola Warner (6 y., b. Louisiana).
+        images:
+          - src: Frank02census1930.jpg

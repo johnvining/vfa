@@ -1,0 +1,34 @@
+id: FranklinE02
+title: Franklin Erwin Vining - Gladys Opal Carter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Franklin Erwin Vining
+          values:
+            - "26"
+        - label: Gladys Opal (Carter) Vining
+          values:
+            - "24"
+        - label: Franklin Vining
+          values:
+            - "5"
+          indent: true
+        - label: Donald R. Vining
+          values:
+            - "3"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Ferndale Township, Whatcom County, Washington
+        images:
+          - src: FranklinE02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Franklin Erwin Vining and Gladys Opal (Carter) Vining, in Harrison Cemetery, Thayer, Wilson
+          County, Kansas (from Find A Grave):
+        images:
+          - src: FranklinE02andwifeheadstone.jpg

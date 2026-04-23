@@ -1,0 +1,85 @@
+id: Thomas02
+title: Thomas Vining - (1) Wealthy Weston; (2) Mary Mason
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+      rows:
+        - label: Thomas Vining
+          values:
+            - "72"
+            - dead
+        - label: Wealthy (Weston) Vining
+          values:
+            - dead
+            - ""
+        - label: Mary (Mason) Vining
+          values:
+            - "60"
+            - dead
+        - label: John Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Thomas A. Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Edward Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Mary Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: William Henry Vining
+          values:
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: George Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Lucy Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Betsey Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Wealthy Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Simsbury, Hartford County, Connecticut - dwelling 251, family 265
+        images:
+          - src: Thomas02census1850.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone of Thomas Vining, in Hop Meadow Cemetery, Simsbury, Hartford County, Connecticut (from Find A
+          Grave):
+        images:
+          - src: Thomas02gravestone.jpg
+      - caption: >-
+          Gravestones of Wealthy (Weston) Vining and Mary (Mason) Vining, first and second wives of Thomas Vining, in
+          Hop Meadow Cemetery, Simsbury, Hartford County, Connecticut (the latter from Find A Grave):
+        images:
+          - src: Thomas02wifeWealthygravestone.jpg
+          - src: Thomas02wifeMarygravestone.jpg
+        inline: true

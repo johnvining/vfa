@@ -1,0 +1,46 @@
+id: CharlesB02
+title: Charles Benjamin Vining - (1) Mary Jean Stone;   (2) Geraldine M. [...]
+displayTitle: Charles Benjamin Vining - (1) Mary Jean Stone; (2) Geraldine M. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Charles Benjamin Vining
+          values:
+            - "24"
+        - label: Mary Jean (Stone) Vining
+          values:
+            - "25"
+        - label: Geraldine M. ([…]) Vining
+          values:
+            - ""
+        - label: Olive Jean Vining
+          values:
+            - "7"
+          indent: true
+        - label: Charles D. Vining
+          values:
+            - 1 m.
+          indent: true
+        - label: Thomas E. Vining
+          values:
+            - ""
+          indent: true
+        - label: Laura Beth Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Topeka (ward 6), Shawnee County, Kansas
+        images:
+          - src: CharlesB02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Mary Jean (Stone) Vining, in Mount Hope Cemetery, Topeka, Shawnee County, Kansas (from Find A
+          Grave):
+        images:
+          - src: CharlesB02wifeMarygravestone.jpg

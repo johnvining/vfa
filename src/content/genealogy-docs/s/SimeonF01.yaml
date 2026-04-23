@@ -1,0 +1,131 @@
+id: SimeonF01
+title: Simeon Frank Vining - Maggie Lena Farrow
+intro:
+  - caption: >-
+      When Simeon Frank Vining was born on December 16, 1893, in Elmer, Sanilac County, Michigan, his father, Murray,
+      was 25 and his mother, Lilly, was 21. In 1900 he was 7 years old and still living in, or near, Elmer; his father
+      was a farmer. By 1910, when he was 17, they had moved to Columbus Township, in Luce County. He married Lena Farrow
+      on June 2, 1914, in Flint, Michigan [see wedding photographs below]. In 1916 they lived at 301 Helen in Flint and
+      he was employed as a toolmaker [see Flint, Michigan, City Directory entries below]. In 1917 he was working at
+      Buick in Flint and living at 1510 Donald St. In 1924 they were living at 237 Mary Street in Flint and stayed there
+      until about 1945, when they moved to 245 Mary Street, which is his last known address. He had three children
+      (Agnes, Joyce, and Helena; [see photograph below]) by the time he was 28. In 1941 he was working at
+      Marvel-Schebler Carburetor. In retirement, Simeon built a camper to place in the bed of a Dodge pickup truck, and
+      he and Lena toured the US visiting the National Parks. He also built a cabin on Van Ettan Lake in Michigan's Iosco
+      County that he and the family enjoyed for many years. They also had a small retirement home in Bonita Springs,
+      Florida, for the winter months. He died on January 25, 1967, in Flint, Michigan, at the age of 73, and was buried
+      in Gracelawn Cemetery there [see gravestone images below]. —contributed by Mike Smith (grandson of Simeon Frank
+      Vining)
+sections:
+  - type: other
+    heading: Wedding Photographs
+    items:
+      - images:
+          - src: SimeonF01andwifeweddinga.jpg
+          - src: SimeonF01andwifeweddingb.jpg
+        inline: true
+  - type: other
+    heading: 40th Wedding Anniversary Photographs
+    items:
+      - images:
+          - src: SimeonF0140thanniversary.jpg
+            height: 400
+          - src: SimeonF01wifeLena40thanniversary.jpg
+            height: 400
+        inline: true
+  - type: other
+    heading: Draft Registration Cards
+    items:
+      - caption: "World War I:"
+        images:
+          - src: SimeonF01WWIdraftregistration.jpg
+      - caption: "World War II:"
+        images:
+          - src: SimeonF01WWIIdraftregistration.jpg
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Simeon Frank Vining
+          values:
+            - "26"
+            - "36"
+            - "46"
+        - label: Maggie Lena (Farrow) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+        - label: Agnes Lillian Vining
+          values:
+            - 3 y., [?] m.
+            - "13"
+            - living in separate household
+          indent: true
+        - label: Joyce W. Vining
+          values:
+            - 1 y., [8?] m.
+            - "11"
+            - living in separate household
+          indent: true
+        - label: Helena Mae Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Flint City (ward 1), Genesee County, Michigan - dwelling 35, family 35
+        images:
+          - src: SimeonF01census1920.jpg
+      - year: "1930"
+        caption: Flint, Genesee County, Michigan - dwelling 205, family 281
+        images:
+          - src: SimeonF01census1930a.jpg
+          - src: SimeonF01census1930b.jpg
+      - year: "1940"
+        caption: Flint (ward 5), Genesee County, Michigan
+        images:
+          - src: SimeonF01census1940.jpg
+  - type: family
+    heading: Family Photographs
+    items:
+      - images:
+          - src: SimeonF01andfamily.jpg
+      - images:
+          - src: SimeonF01
+      - images:
+          - src: SimeonF01
+      - images:
+          - src: SimeonF01
+      - images:
+          - src: SimeonF01
+      - images:
+          - src: SimeonF01
+      - images:
+          - src: SimeonF01
+  - type: other
+    heading: Flint, Michigan, City Directory entries
+    items:
+      - caption: "1915–1916:"
+        images:
+          - src: SimeonF01FlintCityDirectory1915-16.jpg
+          - src: SimeonF01FlintCityDirectory1924.jpg
+          - src: SimeonF01FlintCityDirectory1930.jpg
+          - src: SimeonF01FlintCityDirectory1934.jpg
+          - src: SimeonF01FlintCityDirectory1937.jpg
+          - src: SimeonF01FlintCityDirectory1945.jpg
+  - type: death
+    items:
+      - caption: "Cemetery lot for Simeon Frank Vining and Maggie Lena (Farrow) Vining, in Gracelawn Cemetery, Flint, Michigan:"
+        images:
+          - src: SimeonF01andwifelot.jpg
+      - caption: "Gravestones for Simeon Frank Vining and Maggie Lena (Farrow) Vining, in Gracelawn Cemetery, Flint, Michigan:"
+        images:
+          - src: SimeonF01gravestone.jpg
+          - src: SimeonF01wifegravestone.jpg
+        inline: true

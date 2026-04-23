@@ -1,0 +1,45 @@
+id: BurtH01
+title: Burt Harold Vining - Helen M. Weddell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Burt Harold Vining
+          values:
+            - "36"
+            - "47"
+            - "57"
+        - label: Helen M. (Weddell) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+        - label: Eva Marie Vining
+          values:
+            - "4"
+            - "14"
+            - "24"
+          indent: true
+        - label: Helen C. Vining
+          values:
+            - 2 y., 10 m.
+            - "13"
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Tenino (Precinct 2), Thurston County, Washington - dwelling number not given, family 2
+        images:
+          - src: BurtH01census1920.jpg
+      - year: "1930"
+        caption: Maryville, Snohomish County, Washington - dwelling 343, family 245
+        images:
+          - src: BurtH01census1930.jpg
+      - year: "1940"
+        caption: Shoultes, Snohomish County, Washington
+        images:
+          - src: BurtH01census1940.jpg

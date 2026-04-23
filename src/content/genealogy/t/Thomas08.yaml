@@ -1,0 +1,25 @@
+id: Thomas08
+letter: T
+sequence: 2
+lastUpdated: 9 March 2023
+relationship: son
+parentId: John13
+parentLetter: J
+parentDesc: John Vining and Sarah Ratcliff(e)
+head:
+  givenName: Thomas
+marriages:
+  - spouse:
+      givenName: Amy
+      surname: Peacock
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Zachariah Vining
+raw: |-
+  <a name="Thomas08"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Jfamilies.htm#John13">John Vining and Sarah Ratcliff(e)</a>)
+     m. Amy Peacock
+  
+  <font size=+1>child:</font>
+     Zachariah Vining

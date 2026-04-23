@@ -1,0 +1,72 @@
+id: HenryH03
+title: Henry H. Vining - Viola [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Henry H. Vining
+          values:
+            - "39"
+            - "49"
+            - "?"
+            - "?"
+        - label: Viola ([…]) Vining
+          values:
+            - "25"
+            - "33"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James L. Vining
+          values:
+            - 10 m.
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+        - label: Amos A. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frances [W. F. ?] Vining
+          values:
+            - ""
+            - 3 y., [0?] m.
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Pine Bluff (ward 1), Jefferson County, Arkansas - dwelling 251, family 294
+        images:
+          - src: HenryH03census1910.jpg
+      - year: "1920"
+        caption: Hill Township, Pulaski County, Arkansas - dwelling 435, family 509
+        images:
+          - src: HenryH03census1920.jpg
+  - type: death
+    items:
+      - caption: "Headstone for James L. Vining, son of Henry H. Vining and Viola ([…]) Vining, Texas (from Find A Grave):"
+        images:
+          - src: HenryH03sonJamesandwifeheadstone.jpg

@@ -1,0 +1,40 @@
+id: DennisA01
+sequence: 63
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WilliamJ05
+parentLetter: W
+parentDesc: William J. Vining and Gloria A. Dugas
+head:
+  givenName: Dennis A.
+  birth:
+    date: 12 October 1950
+    place: "Malden, Massachusetts"
+  death:
+    date: 5 December 2014
+marriages:
+  - spouse:
+      givenName: Mona L.
+      surname: Griffin
+childrenGroups:
+  - children:
+      - name: Stephen A. Vining
+        marriages:
+          - spouse: "Sara [...]"
+      - name: Paula A. Vining
+        marriages:
+          - spouse: Eric Parent
+docsUrl: Dsources/DennisA01doc.htm
+raw: |-
+  <a name="DennisA01"></a><font size=+2>Dennis A. Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamJ05">William J. Vining and Gloria A. Dugas</a>)
+     b. 12 October 1950   Malden, Massachusetts
+     m. Mona L. Griffin
+     d. 5 December 2014
+  
+  <font sizee=+1>children:</font>
+     Stephen A. Vining   m. Sara [...]
+     Paula A. Vining   m. Eric Parent
+  
+  <a href="Dsources/DennisA01doc.htm">documentation and notes</a>

@@ -1,0 +1,47 @@
+id: JamesD03
+sequence: 44
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: PercyF01
+parentLetter: P
+parentDesc: Percy Fayette Vining and Virginia Elizabeth Tillotson
+head:
+  givenName: James David
+  birth:
+    date: 5 October 1950
+    place: "Nevada, Iowa"
+marriages:
+  - date: 17 June 1972
+    place: "Memphis, Tennessee"
+    spouse:
+      givenName: Carolyn
+      surname: Toshlog
+      birth:
+        date: 10 February 1952
+        place: "Richmond, Indiana"
+childrenGroups:
+  - children:
+      - name: Therese Marie Vining
+        birth:
+          date: 22 March 1976
+        marriages:
+          - date: 8 August 1998
+            spouse: Jason Zeman
+      - name: Heather Lyn Vining
+        birth:
+          date: 27 September 1978
+        marriages:
+          - date: 5 October 2005
+            spouse: "Shawn Roussel, divorced"
+raw: |-
+  <a name="JamesD03"></a><font size=+2>James David Vining</font>
+     (son of <a href="Pfamilies.htm#PercyF01">Percy Fayette Vining and Virginia Elizabeth Tillotson</a>)
+     b. 5 October 1950   Nevada, Iowa
+     m. 17 June 1972   Memphis, Tennessee
+           Carolyn Toshlog
+                 b. 10 February 1952   Richmond, Indiana
+  
+  <font size=+1>children:</font>
+     Therese Marie Vining   b. 22 March 1976   -   m. 8 August 1998   Jason Zeman
+     Heather Lyn Vining   b. 27 September 1978   -   m. 5 October 2005   Shawn Roussel, divorced

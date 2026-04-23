@@ -1,0 +1,45 @@
+id: Nehemiah01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: Richard01
+parentLetter: R
+parentDesc: Richard Vining and Lydia Allen
+head:
+  givenName: Nehemiah
+  birth:
+    date: 3 July 1765
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 10 August 1795
+    place: "Weymouth, Massachusetts"
+marriages:
+  - date: int. 19 November 1785
+    place: "Weymouth, Massachusetts"
+    spouse:
+      givenName: Deborah
+      surname: Ward
+      birth:
+        date: 11 October 1764
+        place: Massachusetts
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Sally Vining
+        birth:
+          date: "1787"
+          place: "Hingham, Plymouth County, Massachusetts"
+docsUrl: Nsources/Nehemiah01doc.htm
+raw: |-
+  <a name="Nehemiah01"></a><font size=+2>Nehemiah Vining</font>
+     (son of <a href="Rfamilies.htm#Richard01">Richard Vining and Lydia Allen</a>)
+     b. 3 July 1765   Weymouth, Massachusetts
+     m. int. 19 November 1785   Weymouth, Massachusetts
+           Deborah Ward
+                 b. 11 October 1764   Massachusetts
+     d. 10 August 1795   Weymouth, Massachusetts
+  
+  <font size=+1>child:</font>
+     Sally Vining   b. 1787   Hingham, Plymouth County, Massachusetts
+  
+  <a href="Nsources/Nehemiah01doc.htm">documentation and notes</a>

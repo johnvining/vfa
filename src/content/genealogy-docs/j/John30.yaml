@@ -1,0 +1,44 @@
+id: John30
+title: John Vining - [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Vining
+          values:
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John Vining
+          values:
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lela Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Belmont Township, Woodson County, Kansas - dwelling 55, family 57
+        images:
+          - src: John30census1870.jpg

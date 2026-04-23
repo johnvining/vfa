@@ -1,0 +1,113 @@
+id: Thomas05
+title: Thomas Vining - Lucretia Peckham
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Thomas Vining
+          values:
+            - "30"
+            - "?"
+            - "50"
+            - "60"
+            - "70"
+            - dead
+        - label: Lucretia M. (Peckham) Vining
+          values:
+            - "26"
+            - "?"
+            - "46"
+            - dead
+            - ""
+            - ""
+        - label: Charles Vining
+          values:
+            - "7"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Laura May Vining
+          values:
+            - "5"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jesse L. Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - "28"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Thomas Raymond "Ray" Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Lester E. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "19"
+            - dead
+            - ""
+          indent: true
+        - label: Harry Edward Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Benjamin W. Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "21"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Elmore, Faribault County, Minnesota - no dwelling number, family 38
+        images:
+          - src: Thomas05census1880.jpg
+      - year: "1900"
+        caption: Chetek, Barron County, Wisconsin - dwelling 134, family 138
+        images:
+          - src: Thomas05census1900.jpg
+      - year: "1910"
+        caption: >-
+          Chetek, Barron County, Wisconsin - dwelling 297, family 306. Also living in this household in 1910 were Laura
+          V. Vining (4 y., b. Wisconsin) and Ralph J. Vining (2 y., b. Wisconsin), grandchildren of Thomas Vining and
+          likely children of Jesse L. Vining.
+        images:
+          - src: Thomas05census1910a.jpg
+          - src: Thomas05census1910b.jpg
+      - year: "1920"
+        caption: Chetek, Barron County, Wisconsin - dwelling 207, family 207
+        images:
+          - src: Thomas05census1920.jpg

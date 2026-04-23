@@ -1,0 +1,86 @@
+id: Ebenezer03
+sequence: 15
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: SalmonJr01
+parentLetter: S
+parentDesc: Salmon Vining Jr. and Esther F. Gourlay
+head:
+  givenName: Ebenezer
+  birth:
+    date: 8 October 1870
+    place: "West Nissouri Township, Ontario"
+  death:
+    date: 15 December 1953
+  burial:
+    place: "Vining Cemetery   Thorndale, Ontario"
+marriages:
+  - date: 2 January 1905
+    place: "St. Mary's, Ontario"
+    spouse:
+      givenName: Clara Beatrice
+      surname: Delmage
+      parents: (dau. of James Delmage and Mary Jane Rutherford)
+      birth:
+        date: 29 September 1869
+        place: "St. Mary's, Ontario"
+      death:
+        date: 26 May 1952
+        place: "St. Mary's, Ontario"
+      burial:
+        place: "Vining Cemetery   Thorndale, Ontario"
+childrenGroups:
+  - children:
+      - name: Dorothea Esther Rutherford Vining
+        birth:
+          date: 13 January 1906
+          place: Ontario
+        marriages:
+          - date: 10 August 1940
+            spouse: Ontario   William Lee Barnes
+        death:
+          date: 7 October 1997
+          place: "St. Mary's, Ontario"
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario"
+      - name: Judson Rutherford Vining
+        entryId: JudsonR01
+        entryLetter: J
+        birth:
+          date: 5 September 1908
+          place: "Thorndale, Ontario"
+        marriages:
+          - date: "19 May 1931 [Bellingham, Washington or Revelstoke, British Columbia?]"
+            spouse: Helen Kathleen Southwell
+        death:
+          date: 27 August 1972
+          place: "Potsdam, New York"
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario"
+      - name: L. Aileen Beatrice Vining
+        birth:
+          date: 20 March 1910
+          place: "Thorndale, Ontario"
+        death:
+          date: 4 October 1993
+          place: "St. Mary's, Ontario"
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario"
+raw: |-
+  <a name="Ebenezer03"></a><font size=+2>Ebenezer Vining</font>
+     (son of <a href="Sfamilies.htm#SalmonJr01">Salmon Vining Jr. and Esther F. Gourlay</a>)
+     b. 8 October 1870   West Nissouri Township, Ontario
+     m. 2 January 1905   St. Mary's, Ontario
+           Clara Beatrice Delmage
+                 (dau. of James Delmage and Mary Jane Rutherford)
+                 b. 29 September 1869   St. Mary's, Ontario
+                 d. 26 May 1952   St. Mary's, Ontario
+                       bur. Vining Cemetery   Thorndale, Ontario
+     d. 15 December 1953
+           bur. Vining Cemetery   Thorndale, Ontario
+  
+  <font size=+1>children:</font>
+     Dorothea Esther Rutherford Vining   b. 13 January 1906   Ontario   -   m. 10 August 1940   Ontario   William Lee Barnes   -   d. 7 October 1997   St. Mary's, Ontario   -   bur. Vining Cemetery   Thorndale, Ontario
+     <a href="Jfamilies.htm#JudsonR01">Judson Rutherford Vining</a>   b. 5 September 1908   Thorndale, Ontario   -   m. 19 May 1931 [Bellingham, Washington or Revelstoke, British Columbia?]   Helen Kathleen Southwell   -   d. 27 August 1972   Potsdam, New York   -   bur. Vining Cemetery   Thorndale, Ontario
+     L. Aileen Beatrice Vining   b. 20 March 1910   Thorndale, Ontario   -   d. 4 October 1993   St. Mary's, Ontario   -   bur. Vining Cemetery   Thorndale, Ontario

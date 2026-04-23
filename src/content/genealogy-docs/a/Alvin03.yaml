@@ -1,0 +1,38 @@
+id: Alvin03
+title: Alvin Vining - Ethel [...]
+displayTitle: Alvin Vining and Ethel […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alvin Vining
+          values:
+            - "24"
+            - "?"
+        - label: Ethel ([…]) Vining
+          values:
+            - "20"
+            - "?"
+        - label: Beatrice Vining
+          values:
+            - 4 y., [6?] m.
+            - "?"
+          indent: true
+        - label: Mercedes Vining
+          values:
+            - 2 y., 1 m.
+            - "?"
+          indent: true
+        - label: Ethel Lee Vining
+          values:
+            - 5 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Berwick, St. Mary Parish, Louisiana - dwelling 338, family 345
+        images:
+          - src: Alvin03census1930.jpg

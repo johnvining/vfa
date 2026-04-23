@@ -1,0 +1,33 @@
+id: RaymondD01
+sequence: 19
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: DouglasE01
+parentLetter: D
+parentDesc: Douglas Earl Vining and Elizabeth Rose Jones
+head:
+  givenName: Raymond D.
+  birth:
+    date: 13 December 1949
+childrenGroups:
+  - headingText: chidren
+    children:
+      - name: Wendy Rhae Vining
+        birth:
+          date: 7 April 1975
+        marriages:
+          - date: "[...] Nichols"
+      - name: Sunny Irene Vining
+        birth:
+          date: 30 March 1977
+        death:
+          date: 19 September 1989
+raw: |-
+  <a name="RaymondD01"></a><font size=+2>Raymond D. Vining</font>
+     (son of <a href="Dfamilies.htm#DouglasE01">Douglas Earl Vining and Elizabeth Rose Jones</a>)
+     b. 13 December 1949
+  
+  <font size=+1>chidren:</font>
+     Wendy Rhae Vining   b. 7 April 1975   -   m. [...] Nichols
+     Sunny Irene Vining   b. 30 March 1977   -   d. 19 September 1989

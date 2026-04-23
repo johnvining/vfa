@@ -1,0 +1,99 @@
+id: LeslieA01
+sequence: 50
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Seward01
+parentLetter: S
+parentDesc: Seward Vining and Roxanna F. Purrington
+head:
+  givenName: Leslie Alvin
+  birth:
+    date: 1 April 1872
+    place: "Avon, Maine"
+  death:
+    date: "1956"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - number: 1
+    date: 24 June 1893
+    place: "Farmington, Maine"
+    note: "divorced (Della m. (2) Frank A. Reed)"
+    spouse:
+      givenName: Della J.
+      surname: McKenney
+      parents: (dau. of John McKenney and Maggie A. Orr)
+      birth:
+        date: age 17 y. at marriage
+        place: "Phillips, Maine"
+  - number: 2
+    date: 25 December 1909
+    place: "Strong, Maine"
+    spouse:
+      givenName: Ella Amelia
+      surname: Winter
+      parents: (dau. of Solomon Isaac Winter and Charity F. Luce)
+      birth:
+        date: 8 August 1880
+        place: "New Portland, Maine"
+      death:
+        date: 18 September 1954
+        place: "Strong, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - headingText: "child by Della J. McKenney"
+    children:
+      - name: Clyde V. Vining
+        birth:
+          date: 1 July 1896
+          place: "Strong, Maine"
+        marriages:
+          - date: 18 August 1924
+            place: "Bangor, Maine"
+            spouse: Dorothy Smith
+        death:
+          date: 3 October 1937
+          place: "Owls Head, Maine"
+        burial:
+          place: "Achorn Cemetery   Rockland, Maine"
+  - headingText: "child by Ella Amelia Winter"
+    children:
+      - name: Christie Vining
+        birth:
+          date: 21 March 1910
+          place: "Strong, Maine"
+        marriages:
+          - date: 28 November 1935
+            spouse: Reginald S. Pingree
+        death:
+          date: 10 February 2004
+          place: "Kingfield, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+docsUrl: Lsources/LeslieA01doc.htm
+raw: |-
+  <a name="LeslieA01"></a><font size=+2>Leslie Alvin Vining</font>
+     (son of <a href="Sfamilies.htm#Seward01">Seward Vining and Roxanna F. Purrington</a>)
+     b. 1 April 1872   Avon, Maine
+     m. (1) 24 June 1893   Farmington, Maine
+                 Della J. McKenney
+                       (dau. of John McKenney and Maggie A. Orr)
+                       b. age 17 y. at marriage   Phillips, Maine
+                 divorced (Della m. (2) Frank A. Reed)
+           (2) 25 December 1909   Strong, Maine
+                 Ella Amelia Winter
+                       (dau. of Solomon Isaac Winter and Charity F. Luce)
+                       b. 8 August 1880   New Portland, Maine
+                       d. 18 September 1954   Strong, Maine
+                             bur. Village Cemetery   Strong, Maine
+     d. 1956
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>child by Della J. McKenney:</font>
+     Clyde V. Vining   b. 1 July 1896   Strong, Maine   -   m. 18 August 1924   Bangor, Maine   Dorothy Smith   -   d. 3 October 1937   Owls Head, Maine   -   bur. Achorn Cemetery   Rockland, Maine
+  <font size=+1>child by Ella Amelia Winter:</font>
+     Christie Vining   b. 21 March 1910   Strong, Maine   -   m. 28 November 1935   Reginald S. Pingree   -   d. 10 February 2004   Kingfield, Maine   -   bur. Village Cemetery   Strong, Maine
+  
+  <a href="Lsources/LeslieA01doc.htm">documentation and notes</a>

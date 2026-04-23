@@ -1,0 +1,51 @@
+id: JamesC01
+title: James C. Vining - Nancy [T. or P.?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1875"
+        - "1880"
+      rows:
+        - label: James C. Vining
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+        - label: Nancy [T. or P.?] ([...]) Vining
+          values:
+            - "33"
+            - "?"
+            - "?"
+            - "?"
+        - label: Frances E. Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Cassandra J. Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Troy, Pike County, Alabama - dwelling 305, family 310. Also living in this household in 1860 was Missourie
+          Alums (17 y., b. Georgia).
+        images:
+          - src: JamesC01census1860.jpg

@@ -1,0 +1,126 @@
+id: Owen01
+title: Owen Vining - Edith Ann Ivey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Owen Vining
+          values:
+            - "36"
+            - "45"
+            - "62"
+            - "?"
+            - dead
+            - ""
+        - label: Edith Ann (Ivey) Vining
+          values:
+            - "24"
+            - "34"
+            - "45"
+            - "53"
+            - dead
+            - ""
+        - label: James Vining
+          values:
+            - "5"
+            - "14"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Vining
+          values:
+            - "2"
+            - "12"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Rodia Vining
+          values:
+            - ""
+            - "?"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Ellen Vining
+          values:
+            - ""
+            - "10"
+            - "20"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Bana (Bainley, Bench) Vining
+          values:
+            - ""
+            - "7"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "19"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: Vincent Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "16"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: John Ivey Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "13"
+            - "?"
+            - dead
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          District 91, Washington County, Georgia - dwelling 405, family 405. Also living in this household in 1850 was
+          Joseph Ivy (26 y., b. Georgia).
+        images:
+          - src: Owen01census1850.jpg
+      - year: "1860"
+        caption: District 3 (Bird's Mills post office), Coffee County, Georgia - dwelling 128, family 133
+        images:
+          - src: Owen01census1860.jpg
+      - year: "1870"
+        caption: Homerville (post office), Coffee County, Georgia - dwelling 415, family 446
+        images:
+          - src: Owen01census1870.jpg
+      - year: "1880"
+        caption: District 1130, Coffee County, Georgia - dwelling 494, family 511
+        images:
+          - src: Owen01census1880.jpg
+  - type: death
+    items:
+      - caption: "Gravestones of Owen Vining and Edith Ann (Ivey) Vining, in Mt. Zion Baptist Church Cemetery, Axson, Georgia:"
+        images:
+          - src: Owen01gravestone.jpg
+          - src: Owen01wifeEdithgravestone.jpg

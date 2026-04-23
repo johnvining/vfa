@@ -1,0 +1,48 @@
+id: ClarenceD01
+title: Clarence Delbert Vining - Ola Guy
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Clarence Delbert Vining
+          values:
+            - "30"
+            - "40"
+            - "?"
+        - label: Ola (Guy) Vining
+          values:
+            - "31"
+            - "42"
+            - "?"
+        - label: Eleanor Gene Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+          indent: true
+        - label: Lowell Guy Vining
+          values:
+            - ""
+            - 3 y., 2 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Etna Township, Kosciusko County, Indiana - dwelling 209, family 210
+        images:
+          - src: ClarenceD01census1920.jpg
+      - year: "1930"
+        caption: Etna Township, Kosciusko County, Indiana - dwelling 82, family 82
+        images:
+          - src: ClarenceD01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone of Clarence Delbert Vining and Ola Guy, in Etna Green East Cemetery, Etna Township, Indiana (from
+          Find A Grave):
+        images:
+          - src: ClarenceD01headstone.jpg

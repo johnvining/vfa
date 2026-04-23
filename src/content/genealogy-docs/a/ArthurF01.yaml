@@ -1,0 +1,58 @@
+id: ArthurF01
+title: Arthur F. Vining - Ada H. Peck
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Arthur F. Vining
+          values:
+            - "39"
+            - "49"
+            - "60"
+        - label: Ada H. (Peck) Vining
+          values:
+            - "28"
+            - "34"
+            - "47"
+        - label: Eleanor E. Vining
+          values:
+            - ""
+            - 3 y., 10 m.
+            - "14"
+          indent: true
+        - label: son Vining
+          values:
+            - not living in this household
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: son Vining
+          values:
+            - not living in this household
+            - not living in this household
+            - not living in this household
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Jewett, Greene County, New York - dwelling 61, family 64
+        images:
+          - src: ArthurF01census1910.jpg
+      - year: "1920"
+        caption: Jewett, Greene County, New York - dwelling 5, family 5
+        images:
+          - src: ArthurF01census1920.jpg
+      - year: "1930"
+        caption: Jewett, Greene County, New York - dwelling 116, family 118
+        images:
+          - src: ArthurF01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone of Arthur F. Vining and Ada H. (Peck) Vining, in Windham Cemetery, Windham, Greene County, New York
+          (from Find A Grave):
+        images:
+          - src: ArthurF01andwifeheadstone.jpg

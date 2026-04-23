@@ -1,0 +1,101 @@
+id: ConverseW01
+letter: C
+sequence: 155
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: Converse Wing
+  birth:
+    date: "[27 or 24?] February 1807"
+    place: "[North Yarmouth, Maine?]"
+  death:
+    date: 12 April 1887
+  burial:
+    place: "Town Line Cemetery   Strong, Maine"
+marriages:
+  - date: 27 June 1835
+    place: "North Yarmouth, Maine"
+    spouse:
+      givenName: Esther Hall
+      surname: Worthley
+      parents: (dau. of Timothy Worthley and Phebe Weare)
+      birth:
+        date: 16 September 1811
+        place: "North Yarmouth, Maine"
+      death:
+        date: 20 October 1875
+        place: "Avon, Maine"
+      burial:
+        place: "Town Line Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Herman Vining
+        entryId: Herman01
+        entryLetter: H
+        birth:
+          date: age 14 y. as of 1850 census
+          place: "North Yarmouth, Maine"
+        marriages:
+          - date: "Benicia, California"
+            spouse: "Mary [...]"
+      - name: Timothy W. Vining
+        entryId: TimothyW01
+        entryLetter: T
+        birth:
+          date: age 47 y. at death
+          place: "North Yarmouth, Maine"
+        marriages:
+          - date: 25 October 1864
+            place: "Farmington, Maine"
+            spouse: Tryphena C. Dow
+        death:
+          date: 8 May 1885
+          place: "Avon, Maine"
+        burial:
+          place: "Village Cemetery    Strong, Maine"
+      - name: "[Rachel Augusta or Augusta M.?] Vining"
+        birth:
+          date: 11 August 1841
+          place: "North Yarmouth, Maine"
+        marriages:
+          - date: 10 May 1868
+            place: "Avon, Maine"
+            spouse: "[Christophus or Christopher A.?] Kinney"
+        death:
+          date: "Avon, Maine"
+      - name: Lewis Vining
+        birth:
+          date: age 6 y. as of 1850 census
+          place: "North Yarmouth, Maine"
+      - name: Adelaide Julia Vining
+        birth:
+          date: 26 January 1851
+          place: "North Yarmouth, Maine"
+        marriages:
+          - date: 17 October 1871
+            spouse: Spaulding S. Hardy
+docsUrl: Csources/ConverseW01doc.htm
+raw: |-
+  <a name="ConverseW01"></a><font size=+2>Converse Wing Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. [27 or 24?] February 1807   [North Yarmouth, Maine?]
+     m. 27 June 1835   North Yarmouth, Maine
+           Esther Hall Worthley
+                 (dau. of Timothy Worthley and Phebe Weare)
+                 b. 16 September 1811   North Yarmouth, Maine
+                 d. 20 October 1875   Avon, Maine
+                       bur. Town Line Cemetery   Strong, Maine
+     d. 12 April 1887
+           bur. Town Line Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#Herman01">Herman Vining</a>   b. age 14 y. as of 1850 census   North Yarmouth, Maine   -   m. Benicia, California   Mary [...]
+     <a href="Tfamilies.htm#TimothyW01">Timothy W. Vining</a>   b. age 47 y. at death   North Yarmouth, Maine   -   m. 25 October 1864   Farmington, Maine   Tryphena C. Dow   -   d. 8 May 1885   Avon, Maine   -   bur. Village Cemetery    Strong, Maine
+     [Rachel Augusta or Augusta M.?] Vining   b. 11 August 1841   North Yarmouth, Maine   -   m. 10 May 1868   Avon, Maine   [Christophus or Christopher A.?] Kinney   -   d. Avon, Maine
+     Lewis Vining   b. age 6 y. as of 1850 census   North Yarmouth, Maine
+     Adelaide Julia Vining   b. 26 January 1851   North Yarmouth, Maine   -   m. 17 October 1871   Spaulding S. Hardy
+  
+  <a href="Csources/ConverseW01doc.htm">documentation and notes</a>

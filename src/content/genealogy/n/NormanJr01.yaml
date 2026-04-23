@@ -1,0 +1,51 @@
+id: NormanJr01
+letter: N
+sequence: 542
+lastUpdated: 3 February 2021
+relationship: son
+parentId: Norman01
+parentLetter: N
+parentDesc: Norman Vining and Clara Windoft
+head:
+  givenName: Norman Jr.
+  birth:
+    date: 28 December 1922
+    place: "Ypsilanti, Michigan"
+  death:
+    date: 19 November 1961
+    place: "Santa Ana, California"
+marriages:
+  - spouse:
+      givenName: Julia Ann
+      surname: Billings
+childrenGroups:
+  - children:
+      - name: Norman Tracey Vining
+        birth:
+          date: 5 June 1946
+        marriages:
+          - date: "1969"
+            spouse: Lucinda Ogden
+      - name: (Bruce) Andrew Vining
+        birth:
+          date: 5 March 1948
+      - name: Marcia Gale Vining
+        birth:
+          date: 25 September 1949
+        marriages:
+          - date: Robert Dean Allen
+      - name: Karen Sue Vining
+        birth:
+          date: 25 November 1955
+raw: |-
+  <a name="NormanJr01"></a><font size=+2>Norman Vining Jr.</font>
+     (son of <a href="Nfamilies.htm#Norman01">Norman Vining and Clara Windoft</a>)
+     b. 28 December 1922   Ypsilanti, Michigan
+     m. Julia Ann Billings
+     d. 19 November 1961   Santa Ana, California
+  
+  <font size=+1>children:</font>
+     Norman Tracey Vining   b. 5 June 1946   -   m. 1969   Lucinda Ogden
+     (Bruce) Andrew Vining   b. 5 March 1948
+     Marcia Gale Vining   b. 25 September 1949   -   m. Robert Dean Allen
+     Karen Sue Vining   b. 25 November 1955

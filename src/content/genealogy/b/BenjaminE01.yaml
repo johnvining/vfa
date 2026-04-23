@@ -1,0 +1,68 @@
+id: BenjaminE01
+letter: B
+sequence: 27
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AustinS01
+parentLetter: A
+parentDesc: Austin Shorter Vining and Jane Patterson
+head:
+  givenName: Benjamin E.
+  birth:
+    date: 9 July 1865
+    place: Georgia
+  death:
+    date: 5 September 1909
+  burial:
+    place: "Nathan Anderson Historic Cemetery   Ringgold, Catoosa County, Georgia"
+marriages:
+  - date: 26 December 1898
+    spouse:
+      givenName: Mollie Agnes
+      surname: Perry
+      parents: (dau. of Benjamin Franklin Perry and Arabella Frances Reavis)
+      birth:
+        date: 10 April 1878
+      death:
+        date: 3 July 1960
+        place: "Ringgold, Catoosa County, Georgia"
+childrenGroups:
+  - children:
+      - name: Mary Lou Vining
+        birth:
+          date: 10 July 1900
+        marriages:
+          - date: 1 January 1925
+            spouse: Charles Earl Carter
+        death:
+          date: 3 February 1984
+      - name: Shorter David Vining
+        birth:
+          date: 2 November 1903
+        death:
+          date: 16 June 1985
+          place: "(last residence: Ringgold, Catoosa County, Georgia)"
+      - name: Clark Edwin Vining
+        birth:
+          date: 2 October 1907
+        death:
+          date: 18 July 1932
+docsUrl: Bsources/BenjaminE01doc.htm
+raw: |-
+  <a name="BenjaminE01"></a><font size=+2>Benjamin E. Vining</font>
+     (son of <a href="Afamilies.htm#AustinS01">Austin Shorter Vining and Jane Patterson</a>)
+     b. 9 July 1865   Georgia
+     m. 26 December 1898
+           Mollie Agnes Perry
+                 (dau. of Benjamin Franklin Perry and Arabella Frances Reavis)
+                 b. 10 April 1878
+                 d. 3 July 1960   Ringgold, Catoosa County, Georgia
+     d. 5 September 1909
+           bur. Nathan Anderson Historic Cemetery   Ringgold, Catoosa County, Georgia
+  
+  <font size=+1>children:</font>
+     Mary Lou Vining   b. 10 July 1900   -   m. 1 January 1925   Charles Earl Carter   -   d. 3 February 1984
+     Shorter David Vining   b. 2 November 1903   -   d. 16 June 1985   (last residence: Ringgold, Catoosa County, Georgia)
+     Clark Edwin Vining   b. 2 October 1907   -   d. 18 July 1932
+  
+  <a href="Bsources/BenjaminE01doc.htm">documentation and notes</a>

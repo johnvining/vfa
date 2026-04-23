@@ -1,0 +1,45 @@
+id: MichaelP01
+sequence: 32
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: PaulH01
+parentLetter: P
+parentDesc: Paul Howard Vining and Mary Lou Metcalf
+head:
+  givenName: Michael Paul
+  birth:
+    date: 5 February 1964
+    place: "St. Paul, Minnesota"
+marriages:
+  - date: 2 April 1999
+    place: "Little Rock, Arkansas"
+    spouse:
+      givenName: Summer
+      surname: Miller
+childrenGroups:
+  - children:
+      - name: Jacob Michael Vining
+        birth:
+          date: 4 January 2000
+      - name: Matthew Alexander Vining
+        birth:
+          date: 28 December 2000
+      - name: Noah Cooper Vining
+        birth:
+          date: 2 January 2002
+      - name: Emily Judith Kimberley Vining
+        birth:
+          date: 19 June 2003
+raw: |-
+  <a name="MichaelP01"></a><font size=+2>Michael Paul Vining</font>
+     (son of <a href="Pfamilies.htm#PaulH01">Paul Howard Vining and Mary Lou Metcalf</a>)
+     b. 5 February 1964   St. Paul, Minnesota
+     m. 2 April 1999   Little Rock, Arkansas
+           Summer Miller
+  
+  <font size=+1>children:</font>
+     Jacob Michael Vining   b. 4 January 2000
+     Matthew Alexander Vining   b. 28 December 2000
+     Noah Cooper Vining   b. 2 January 2002
+     Emily Judith Kimberley Vining   b. 19 June 2003

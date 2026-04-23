@@ -1,0 +1,122 @@
+id: FrankA03
+sequence: 27
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: AlbertL01
+parentLetter: A
+parentDesc: Albert Lathan Vining and Julia E. Hough
+head:
+  givenName: Frank Albert
+  birth:
+    date: October 1864
+    place: Massachusetts
+  death:
+    date: 25 July 1931
+marriages:
+  - date: "1888"
+    spouse:
+      givenName: "Jane Eliza &#8220;Jennie&#8221;"
+      surname: Hopcroft
+      birth:
+        date: August 1872
+        place: Connecticut
+childrenGroups:
+  - children:
+      - name: Albert L. Vining
+        entryId: AlbertL02
+        entryLetter: A
+        birth:
+          date: "[June?] 1890"
+          place: "Hamden, Connecticut"
+        marriages:
+          - date: Lillian Winnifred Brown
+        death:
+          date: 28 December 1959
+        burial:
+          place: "Whitefish Cemetery   Whitefish, Montana"
+      - name: Frank Lathan Vining
+        entryId: FrankL01
+        birth:
+          date: 10 June 1891
+          place: "New Haven, Connecticut"
+        marriages:
+          - date: Margaret Todd
+        death:
+          date: 11 July 1963
+        burial:
+          place: "Highland Cemetery   Great Falls, Montana"
+      - name: "Perlie H. &#8220;Paul&#8221; Vining"
+        entryId: PerlieH01
+        entryLetter: P
+        birth:
+          date: July 1894
+          place: Connecticut
+        marriages:
+          - date: Louise J. Doherty
+        death:
+          date: 16 January 1954
+      - name: Agnes J. Vining
+        birth:
+          date: May 1899
+        death:
+          date: "1963"
+      - name: Robert B. Vining
+        birth:
+          date: "1901"
+        marriages:
+          - date: Helen Gross
+      - name: Cecelie Vining
+        birth:
+          date: "1903"
+        death:
+          date: "1905"
+      - name: Thomas Clifford Vining
+        entryId: ThomasC01
+        entryLetter: T
+        birth:
+          date: 27 May 1907
+          place: Connecticut
+        marriages:
+          - date: "1936"
+            spouse: Esther F. Hoadley
+        death:
+          date: 16 December 1983
+          place: "San Bernardino, California"
+      - name: Herbert Vining
+        birth:
+          date: "1909"
+          place: Connecticut
+        death:
+          date: "1911"
+      - name: Walter L. Vining
+        entryId: WalterL03
+        entryLetter: W
+        birth:
+          date: "1912"
+        marriages:
+          - date: Arlene Kathleen Visel
+        death:
+          date: November 1953
+docsUrl: Fsources/FrankA03doc.htm
+raw: |-
+  <a name="FrankA03"></a><font size=+2>Frank Albert Vining</font>
+     (son of <a href="Afamilies.htm#AlbertL01">Albert Lathan Vining and Julia E. Hough</a>)
+     b. October 1864   Massachusetts
+     m. 1888
+           Jane Eliza &#8220;Jennie&#8221; Hopcroft
+                 b. August 1872   Connecticut
+     d. 25 July 1931
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#AlbertL02">Albert L. Vining</a>   b. [June?] 1890   Hamden, Connecticut   -   m. Lillian Winnifred Brown   -   d. 28 December 1959   -   bur. Whitefish Cemetery   Whitefish, Montana
+     <a href="#FrankL01">Frank Lathan Vining</a>   b. 10 June 1891   New Haven, Connecticut   -   m. Margaret Todd   -   d. 11 July 1963   -   bur. Highland Cemetery   Great Falls, Montana
+     <a href="Pfamilies.htm#PerlieH01">Perlie H. &#8220;Paul&#8221; Vining</a>   b. July 1894   Connecticut   -   m. Louise J. Doherty   -   d. 16 January 1954
+     Agnes J. Vining   b. May 1899   -   d. 1963
+     Robert B. Vining   b. 1901   -   m. Helen Gross
+     Cecelie Vining   b. 1903   -   d. 1905
+     <a href="Tfamilies.htm#ThomasC01">Thomas Clifford Vining</a>   b. 27 May 1907   Connecticut   -   m. 1936   Esther F. Hoadley   -   d. 16 December 1983   San Bernardino, California
+     Herbert Vining   b. 1909   Connecticut   -   d. 1911
+     <a href="Wfamilies.htm#WalterL03">Walter L. Vining</a>   b. 1912   -   m. Arlene Kathleen Visel   -   d. November 1953
+  
+  <a href="Fsources/FrankA03doc.htm">documentation and notes</a>

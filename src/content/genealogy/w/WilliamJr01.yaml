@@ -1,0 +1,115 @@
+id: WilliamJr01
+sequence: 68
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: William11
+parentDesc: "William Vining and Abigail Eldridge [see note below]"
+head:
+  givenName: William Jr.
+  birth:
+    date: 25 July 1700
+    place: "[Marblehead?], Massachusetts"
+  death:
+    date: "1768"
+    place: "Craven County, North Carolina"
+marriages:
+  - date: 18 October 1723
+    place: "Marblehead, Essex County, Massachusetts"
+    spouse:
+      givenName: Anna
+      surname: Nichols
+      parents: "(dau. of Thomas Nichols and Joanna Towne)"
+      birth:
+        date: 9 August 1696
+        place: "Topsfield, Essex County, Massachusetts"
+      death:
+        date: "before 1767?]"
+childrenGroups:
+  - children:
+      - name: Thomas Vining
+        entryId: Thomas09
+        entryLetter: T
+        birth:
+          date: ca. 1724
+          place: "[Salem or Sutton?], Massachusetts"
+        marriages:
+          - date: ca. 1761
+            place: "Marlboro County, South Carolina"
+            spouse: Lydia Miller
+        death:
+          date: ca. 1795
+          place: "Marlboro County, South Carolina"
+      - name: John Vining
+        entryId: John13
+        entryLetter: J
+        birth:
+          date: ca. 1725
+          place: "[Sutton or Topsfield?], Massachusetts"
+        marriages:
+          - date: ca. 1750
+            place: "Johnston, North Carolina"
+            spouse: Sarah Ratcliff(e)
+        death:
+          date: between 26 April 1801 (will made) and 8 July 1801 (will probated)
+          place: "Jefferson County, Georgia"
+      - name: William Vining
+        birth:
+          date: ca. 1728
+      - name: Jesse Vining
+        entryId: Jesse02
+        entryLetter: J
+        birth:
+          date: ca. 1730
+          place: "Sutton, Massachusetts"
+        marriages:
+          - date: ca. 1759
+            place: South Carolina
+            spouse: Anne Hilson
+        death:
+          date: "[28 or 26?] June 1800"
+          place: "Marlboro County, South Carolina"
+      - name: Jeptha Vining
+        entryId: Jeptha01
+        entryLetter: J
+        birth:
+          date: 15 February 1737/38
+          place: "Sutton, Worcester County, Massachusetts"
+        marriages:
+          - number: 1
+            date: Amy Miller
+          - number: 2
+            date: Mary Thomas
+          - number: 3
+            date: "?"
+        death:
+          date: 9 December 1797
+          place: "Warren County, Georgia"
+  - headingText: "child?"
+    children: []
+  - headingText: "children?"
+    children:
+      - name: "Shadrick [?=? Fredrick or Shadrack]"
+docsUrl: Wsources/WilliamJr01doc.htm
+raw: |-
+  <a name="WilliamJr01"></a><font size=+2>William Vining Jr.</font>
+     (son of <a href="#William11">William Vining and Abigail Eldridge</a> [see note below])
+     b. 25 July 1700   [Marblehead?], Massachusetts
+     m. 18 October 1723   Marblehead, Essex County, Massachusetts
+           Anna Nichols
+                 (dau. of Thomas Nichols and Joanna Towne)
+                 b. 9 August 1696   Topsfield, Essex County, Massachusetts
+                 d. before 1767?]
+     d. 1768   Craven County, North Carolina
+  
+  <font size=+1>children:</font>
+     <a href="Tfamilies.htm#Thomas09">Thomas Vining</a>   b. ca. 1724   [Salem or Sutton?], Massachusetts   -   m. ca. 1761   Marlboro County, South Carolina   Lydia Miller   -   d. ca. 1795   Marlboro County, South Carolina
+     <a href="Jfamilies.htm#John13">John Vining</a>   b. ca. 1725   [Sutton or Topsfield?], Massachusetts   -   m. ca. 1750   Johnston, North Carolina   Sarah Ratcliff(e)   -   d. between 26 April 1801 (will made) and 8 July 1801 (will probated)   Jefferson County, Georgia
+     William Vining   b. ca. 1728
+     <a href="Jfamilies.htm#Jesse02">Jesse Vining</a>   b. ca. 1730   Sutton, Massachusetts   -   m. ca. 1759   South Carolina   Anne Hilson   -   d. [28 or 26?] June 1800   Marlboro County, South Carolina
+     <a href="Jfamilies.htm#Jeptha01">Jeptha Vining</a>   b. 15 February 1737/38   Sutton, Worcester County, Massachusetts   -   m. (1) Amy Miller;   (2) Mary Thomas;   (3) ?   -   d. 9 December 1797   Warren County, Georgia
+  <font size=+1>child?:</font>
+  <font size=+1>children?:</font>
+     Shadrick [?=? Fredrick or Shadrack]
+  
+  <a href="Wsources/WilliamJr01doc.htm">documentation and notes</a>

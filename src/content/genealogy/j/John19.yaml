@@ -1,0 +1,26 @@
+id: John19
+sequence: 169
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John Vining
+        entryId: John20
+        birth:
+          date: "1820"
+          place: England
+        marriages:
+          - date: 14 August 1843
+            place: "Stepney, London, England"
+            spouse: Julia Fitzgerald
+raw: |-
+  <a name="John19"></a><font size=+2>John Vining</font>
+     (son of [?])
+  
+  <font size=+1>child:</font>
+     <a href="#John20">John Vining</a>   b. 1820   England   -   m. 14 August 1843   Stepney, London, England   Julia Fitzgerald

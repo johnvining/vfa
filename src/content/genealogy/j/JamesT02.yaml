@@ -1,0 +1,66 @@
+id: JamesT02
+sequence: 96
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JesseL01
+parentDesc: Jesse Lawrence Vining and Sarah Ann Nail Alcox
+head:
+  givenName: James Talley
+  birth:
+    date: 2 February 1873
+    place: "Stockton, Georgia"
+  death:
+    date: 23 July 1945
+marriages:
+  - number: 1
+    date: Vicey Hines
+    spouse:
+      birth:
+        date: "1883"
+  - number: 2
+    date: Alma Hines
+    spouse:
+      birth:
+        date: "1882"
+      death:
+        date: "1948"
+childrenGroups:
+  - spouseRef: Vicey Hines
+    headingText: "child by Vicey Hines"
+    children:
+      - name: Bettie Vining
+        birth:
+          date: "1901"
+        marriages:
+          - date: Forrest Thomas
+        death:
+          date: "1984"
+  - spouseRef: Alma Hines
+    children:
+      - name: Jesse M. Vining
+        birth:
+          date: "1904"
+        marriages:
+          - date: Mable Lee Lillian Hall
+        death:
+          date: "1976"
+      - name: Mattie Vining
+        birth:
+          date: "1906"
+raw: |-
+  <a name="JamesT02"></a><font size=+2>James Talley Vining</font>
+     (son of <a href="#JesseL01">Jesse Lawrence Vining and Sarah Ann Nail Alcox</a>)
+     b. 2 February 1873   Stockton, Georgia
+     m. (1) Vicey Hines
+                    b. 1883
+           (2) Alma Hines
+                    b. 1882
+                    d. 1948
+     d. 23 July 1945
+  
+  <font size=+1>child by Vicey Hines:</font>
+     Bettie Vining   b. 1901   -   m. Forrest Thomas   -   d. 1984
+  <font size=+1>children by Alma Hines:</font>
+     Jesse M. Vining   b. 1904   -   m. Mable Lee Lillian Hall   -   d. 1976
+     Mattie Vining   b. 1906

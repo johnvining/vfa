@@ -1,0 +1,51 @@
+id: JosephA04
+title: Joseph A. Vining - Maria [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Joseph A. Vining
+          values:
+            - "?"
+            - "45"
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+        - label: Maria ([...]) Vining
+          values:
+            - "?"
+            - "45"
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+        - label: Louisa Vining
+          values:
+            - "?"
+            - "12"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          New Castle, New Castle County, Delaware - dwelling 446, family 436. Also living in this household in 1860 were
+          Rebecca Vining (65 y., b. Delaware), Ellen Vining (16 y., b. Delaware), and Amanda Vining (16 y., b.
+          Pennsylvania).
+        images:
+          - src: JosephA04census1860a.jpg
+          - src: JosephA04census1860b.jpg
+      - year: "1870"
+        caption: New Castle (S. D. No. 6), New Castle County, Delaware - dwelling 195, family 199
+        images:
+          - src: JosephA04census1870.jpg

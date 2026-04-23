@@ -1,0 +1,80 @@
+id: RoscoeD01
+title: Roscoe Dyar Vining - (1) Addie Ora Blackwell, (2) Clarissa Hester Ellsworth
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Roscoe Dyar Vining and Addie Ora Blackwell:"
+        images:
+          - src: RoscoeD01marriage1record1.jpg
+          - src: RoscoeD01marriage1record2.jpg
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roscoe Dyar Vining
+          values:
+            - "24"
+            - "33"
+            - "44"
+            - "54"
+        - label: Addie Ora (Blackwell) Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - dead
+        - label: Clarissa Hester (Ellsworth) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Mabel Addie Vining
+          values:
+            - "1"
+            - "10"
+            - "20"
+            - married and living in separate household
+          indent: true
+        - label: Marion E. Vining
+          values:
+            - ""
+            - "2"
+            - "11"
+            - "22"
+          indent: true
+        - label: infant son Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Freeman, Franklin County, Maine - dwelling 235, family 262. By 1910, Roscoe was married and living with his
+          family (wife and daughter) in the household of his wife's parents.
+        images:
+          - src: RoscoeD01census1910.jpg
+      - year: "1920"
+        caption: Freeman, Franklin County, Maine - dwelling 225, family 258
+        images:
+          - src: RoscoeD01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Freeman, Franklin County, Maine - dwelling 5, family 5. Also living in this household in 1930 were Benjamin L.
+          Vining (a brother of Roscoe Dyar Vining) and Rena J. Vining (11 y., b. Maine, a niece of Roscoe Dyar Vining;
+          daughter of Roscoe's brother Clinton E. Vining).
+        images:
+          - src: RoscoeD01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Kingfield (School Street), Franklin County, Maine. Also living in this household in 1940 was Rena J. Vining
+          (21 y., b. Maine, a niece of Roscoe Dyar Vining; daughter of Roscoe's brother Clinton E. Vining).
+        images:
+          - src: RoscoeD01census1940.jpg

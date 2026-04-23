@@ -1,0 +1,66 @@
+id: HughF01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Hugh Friedrich
+  birth:
+    date: 14 November 1884
+    place: "Camberwell, London, England"
+  death:
+    date: June 1980
+marriages:
+  - date: 6 March 1913
+    place: "Lockport, New York"
+    spouse:
+      givenName: Helen A. Leete
+      surname: Wilson
+      parents: "(dau. of Edward Wilson and Harriet Leete)"
+      birth:
+        date: 15 January 1880
+        place: "Lockport, New York"
+      death:
+        date: 25 November 1943
+        place: "Lockport, New York"
+      burial:
+        place: "North Ridge Cemetery   North Ridge, New York"
+childrenGroups:
+  - children:
+      - name: James Edward Vining
+        entryId: JamesE07
+        entryLetter: J
+        birth:
+          date: 14 July 1914
+          place: New York
+        marriages:
+          - date: 7 April 1956
+            place: "Newfane, New York"
+            spouse: Margaret F. Miller
+        death:
+          date: 17 May 1999
+          place: "Newfane, New York"
+        burial:
+          place: "Huskey Cemetery   Niagara County, New York"
+      - name: Hugh Friedrich Vining Jr.
+        birth:
+          date: age 9 y. as of 1930 census
+          place: New York
+docsUrl: Hsources/HughF01doc.htm
+raw: |-
+  <a name="HughF01"></a><font size=+2>Hugh Friedrich Vining</font>
+     (son of [?])
+     b. 14 November 1884   Camberwell, London, England
+     m. 6 March 1913   Lockport, New York
+           Helen A. Leete Wilson
+                 (dau. of Edward Wilson and Harriet Leete)
+                 b. 15 January 1880   Lockport, New York
+                 d. 25 November 1943   Lockport, New York
+                       bur. North Ridge Cemetery   North Ridge, New York
+     d. June 1980
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JamesE07">James Edward Vining</a>   b. 14 July 1914   New York   -   m. 7 April 1956   Newfane, New York   Margaret F. Miller   -   d. 17 May 1999   Newfane, New York   -   bur. Huskey Cemetery   Niagara County, New York   
+     Hugh Friedrich Vining Jr.   b. age 9 y. as of 1930 census   New York
+  
+  <a href="Hsources/HughF01doc.htm">documentation and notes</a>

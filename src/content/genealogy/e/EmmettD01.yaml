@@ -1,0 +1,65 @@
+id: EmmettD01
+sequence: 102
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ClearS01
+parentLetter: C
+parentDesc: Clear Seeing Vining and Flora E. Miller
+head:
+  givenName: Emmett Devere
+  birth:
+    date: 20 December 1896
+    place: "Brooklyn, Michigan"
+  death:
+    date: 11 June 1968
+    place: "(last residence: Pompano Beach, Florida)"
+  burial:
+    place: "North Farmington Cemetery   Farmington, Michigan"
+marriages:
+  - spouse:
+      givenName: Mildred Ann
+      surname: Harger
+      birth:
+        date: 28 August 1897
+        place: "Detroit, Michigan"
+      death:
+        date: 12 September 1975
+      burial:
+        place: "North Farmington Cemetery   Farmington, Michigan"
+childrenGroups:
+  - children:
+      - name: Elizabeth Ann Vining
+        birth:
+          date: February 1918
+        marriages:
+          - spouse: Arthur Elliott
+      - name: Sally Vining
+        birth:
+          date: 10 January 1922
+        marriages:
+          - spouse: "[...] Whalton"
+      - name: Dorothy Harger Vining
+        marriages:
+          - number: 1
+            spouse: "Theodore Richardson,   divorced 1965"
+          - number: 2
+            spouse: "Everett Lynn Partridge,   divorced"
+docsUrl: Esources/EmmettD01doc.htm
+raw: |-
+  <a name="EmmettD01"></a><font size=+2>Emmett Devere Vining</font>
+     (son of <a href="Cfamilies.htm#ClearS01">Clear Seeing Vining and Flora E. Miller</a>)
+     b. 20 December 1896   Brooklyn, Michigan
+     m. Mildred Ann Harger
+              b. 28 August 1897   Detroit, Michigan
+              d. 12 September 1975
+                    bur. North Farmington Cemetery   Farmington, Michigan
+     d. 11 June 1968   (last residence: Pompano Beach, Florida)
+           bur. North Farmington Cemetery   Farmington, Michigan
+  
+  <font size=+1>children:</font>
+     Elizabeth Ann Vining   b. February 1918   -   m. Arthur Elliott
+     Sally Vining   b. 10 January 1922   -   m. [...] Whalton
+     Dorothy Harger Vining   m. (1) Theodore Richardson,   divorced 1965;   (2) Everett Lynn Partridge,   divorced
+  
+  <a href="Esources/EmmettD01doc.htm">documentation and notes</a>

@@ -1,0 +1,54 @@
+id: CarlA01
+letter: C
+sequence: 11
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ArthurR01
+parentLetter: A
+parentDesc: Arthur Ray Vining and Eunice Olive Corbett
+head:
+  givenName: Carl Austin
+  birth:
+    date: 5 October 1919
+    place: Illinois
+  death:
+    date: 9 October 1974
+  burial:
+    place: "Woodlawn Memorial Park I   Joliet, Illinois"
+marriages:
+  - number: 1
+    date: Bernice Rademacher
+    note: divorced
+  - number: 2
+    date: Margaret Phelan
+    note: divorced
+  - number: 3
+    date: Mrs. Ha Mae Pope Baker
+childrenGroups:
+  - spouseRef: "[...]"
+    headingText: "children by [...]"
+    children:
+      - name: Carol Jeanetta Vining
+        birth:
+          date: 1 January 1941
+      - name: Floyd Clarence Vining
+        birth:
+          date: 1 November 1942
+docsUrl: Csources/CarlA01doc.htm
+raw: |-
+  <a name="CarlA01"></a><font size=+2>Carl Austin Vining</font>
+     (son of <a href="Afamilies.htm#ArthurR01">Arthur Ray Vining and Eunice Olive Corbett</a>)
+     b. 5 October 1919   Illinois
+     m. (1) Bernice Rademacher
+                  divorced
+           (2) Margaret Phelan
+                  divorced
+           (3) Mrs. Ha Mae Pope Baker
+     d. 9 October 1974
+           bur. Woodlawn Memorial Park I   Joliet, Illinois
+  
+  <font size=+1>children by [...]:</font>
+     Carol Jeanetta Vining   b. 1 January 1941
+     Floyd Clarence Vining   b. 1 November 1942
+  
+  <a href="Csources/CarlA01doc.htm">documentation and notes</a>

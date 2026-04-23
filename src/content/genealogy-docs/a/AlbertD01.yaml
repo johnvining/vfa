@@ -1,0 +1,75 @@
+id: AlbertD01
+title: Albert Dewey Vining - Esther C. Miller
+displayTitle: Albert Dewey Vining and Esther C. Miller
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Albert Dewey Vining
+          values:
+            - |-
+              21
+              [see note below]
+            - "31"
+            - "41"
+        - label: Esther C. (Miller) Vining
+          values:
+            - ""
+            - "29"
+            - "39"
+        - label: Mary Charlotte Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+          indent: true
+        - label: Shirley A. Vining
+          values:
+            - ""
+            - 4 y., 1 m.
+            - "14"
+          indent: true
+        - label: Charles M. Vining
+          values:
+            - ""
+            - 2 y., 11 m.
+            - "12"
+          indent: true
+        - label: Albert Dewey Vining Jr.
+          values:
+            - ""
+            - 1 y., 10 m.
+            - "11"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Saginaw (ward 3), Saginaw County, Michigan - dwelling 231, family 285. In 1920, Albert Dewey Vining was
+          rooming with a family in Saginaw, Michigan.
+        images:
+          - src: AlbertD01census1920.jpg
+      - year: "1930"
+        caption: Eureka Township (116 North Webster Street), Montcalm County, Michigan - dwelling 300, family 311
+        images:
+          - src: AlbertD01census1930.jpg
+      - year: "1940"
+        caption: Eureka Township (North Webster Street), Montcalm County, Michigan
+        images:
+          - src: AlbertD01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Albert Dewey Vining:"
+        images:
+          - src: AlbertD01obituary.jpg
+      - caption: >-
+          Headstone for Albert Dewey Vining and Esther C. (Miller) Vining, in Forest Home Cemetery, Greenville, Michigan
+          (source: Find A Grave):
+        images:
+          - src: AlbertD01gravestone.jpg
+      - caption: "Gravestone for Albert Dewey Vining Jr., in Forest Home Cemetery, Greenville, Michigan (source: Find A Grave):"
+        images:
+          - src: AlbertD01sonAlbertgravestone.jpg

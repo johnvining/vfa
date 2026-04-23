@@ -1,0 +1,76 @@
+id: John14
+sequence: 166
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Shadrack01
+parentLetter: S
+parentDesc: Shadrack Vining and Phereby Carmeal Ratcliff(e)
+head:
+  givenName: John
+  birth:
+    date: 3 May 1783
+  death:
+    date: ca. 1814
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Christine
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Seaborn Vining
+        entryId: Seaborn01
+        entryLetter: S
+        birth:
+          date: ca. 1808
+          place: Georgia
+        marriages:
+          - date: 2 July 1833
+            place: Georgia
+            spouse: Laurana Babb
+        death:
+          date: "ca. 1854&#8211;1858"
+          place: Arkansas
+      - name: Mahala Vining
+        birth:
+          date: 24 October 1809
+          place: Georgia
+        marriages:
+          - date: 11 September 1828
+            place: Georgia
+            spouse: William Abercrombie Jr.
+        death:
+          date: 22 February 1876
+          place: Georgia
+        burial:
+          place: "Prays Mill Church Cemetery   [near] Douglasville, Georgia"
+      - name: Lydia Vining
+        birth:
+          date: ca. 1811
+          place: Georgia
+        marriages:
+          - date: 8 March 1829
+            place: "[Georgia?]"
+            spouse: Thomas Clifton
+        death:
+          date: "[Alabama?]"
+      - name: Nancy Vining
+        birth:
+          date: ca. 1812
+          place: Georgia
+        marriages:
+          - date: 28 August 1834
+            spouse: William Duren
+raw: |-
+  <a name="John14"></a><font size=+2>John Vining</font>
+     (son of <a href="Sfamilies.htm#Shadrack01">Shadrack Vining and Phereby Carmeal Ratcliff(e)</a>)
+     b. 3 May 1783
+     m. Christine [...]
+     d. ca. 1814   Georgia
+  
+  <font size=+1>children:</font>
+     <a href="Sfamilies.htm#Seaborn01">Seaborn Vining</a>   b. ca. 1808   Georgia   -   m. 2 July 1833   Georgia   Laurana Babb   -   d. ca. 1854&#8211;1858   Arkansas
+     Mahala Vining   b. 24 October 1809   Georgia   -   m. 11 September 1828   Georgia   William Abercrombie Jr.   -   d. 22 February 1876   Georgia   -   bur. Prays Mill Church Cemetery   [near] Douglasville, Georgia
+     Lydia Vining   b. ca. 1811   Georgia   -   m. 8 March 1829   [Georgia?]   Thomas Clifton   -   d. [Alabama?]
+     Nancy Vining   b. ca. 1812   Georgia   -   m. 28 August 1834   William Duren

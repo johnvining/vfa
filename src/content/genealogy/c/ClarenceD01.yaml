@@ -1,0 +1,78 @@
+id: ClarenceD01
+letter: C
+sequence: 116
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RobertH01
+parentLetter: R
+parentDesc: Robert Henry Vining and Sarah Elizabeth Eaglebarger
+head:
+  givenName: Clarence Delbert
+  birth:
+    date: 26 July 1889
+    place: Indiana
+  death:
+    date: 19 January 1980
+    place: "Plymouth, Indiana"
+  burial:
+    place: "Etna Green East Cemetery   Etna Township, Indiana"
+marriages:
+  - date: 10 February 1915
+    place: Indiana
+    spouse:
+      givenName: Ola
+      surname: Guy
+      birth:
+        date: 26 February 1888
+        place: "Etna Green, Indiana"
+      death:
+        date: 6 March 1978
+        place: "Bremen, Indiana"
+      burial:
+        place: "Etna Green East Cemetery   Etna Township, Indiana"
+childrenGroups:
+  - children:
+      - name: Eleanor Gene Vining
+        birth:
+          date: 23 May 1924
+          place: "Etna Green, Indiana"
+        marriages:
+          - date: 15 June 1952
+            place: "Etna Green, Indiana"
+            spouse: Terry M. Davault
+        death:
+          date: 27 November 2007
+          place: "Bremen, Indiana"
+        burial:
+          place: "Etna Green [East?] Cemetery   Etna Township, Indiana"
+      - name: Lowell Guy Vining
+        entryId: LowellG01
+        entryLetter: L
+        birth:
+          date: 16 February 1927
+        marriages:
+          - date: 29 August 1954
+            place: Indiana
+            spouse: Doris Jean DeHaven
+        death:
+          date: 11 February 1992
+        burial:
+          place: "Etna Green East Cemetery   Etna Township, Indiana"
+docsUrl: Csources/ClarenceD01doc.htm
+raw: |-
+  <a name="ClarenceD01"></a><font size=+2>Clarence Delbert Vining</font>
+     (son of <a href="Rfamilies.htm#RobertH01">Robert Henry Vining and Sarah Elizabeth Eaglebarger</a>)
+     b. 26 July 1889   Indiana
+     m. 10 February 1915   Indiana
+           Ola Guy
+                 b. 26 February 1888   Etna Green, Indiana
+                 d. 6 March 1978   Bremen, Indiana
+                       bur. Etna Green East Cemetery   Etna Township, Indiana
+     d. 19 January 1980   Plymouth, Indiana
+           bur. Etna Green East Cemetery   Etna Township, Indiana
+  
+  <font size=+1>children:</font>
+     Eleanor Gene Vining   b. 23 May 1924   Etna Green, Indiana   -   m. 15 June 1952   Etna Green, Indiana   Terry M. Davault   -   d. 27 November 2007   Bremen, Indiana   -   bur. Etna Green [East?] Cemetery   Etna Township, Indiana
+     <a href="Lfamilies.htm#LowellG01">Lowell Guy Vining</a>   b. 16 February 1927   -   m. 29 August 1954   Indiana   Doris Jean DeHaven   -   d. 11 February 1992   -   bur. Etna Green East Cemetery   Etna Township, Indiana
+  
+  <a href="Csources/ClarenceD01doc.htm">documentation and notes</a>

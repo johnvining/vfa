@@ -1,0 +1,67 @@
+id: RobertH03
+title: Robert H. Vining - Martha Jane Oliver
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Robert H. Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Martha Jane (Oliver) Vining
+          values:
+            - "?"
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Effie Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Eddie Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Center Precinct, Norton County, Kansas - dwelling 258, family 258
+        images:
+          - src: RobertH03census1880.jpg
+  - type: death
+    items:
+      - caption: "Monument side for Robert H. Vining, in Mount Hope Cemetery, Clyde, Cloud County, Kansas (from Find A Grave):"
+        images:
+          - src: RobertH03monumentside.jpg
+      - caption: >-
+          Gravestone for Martha Jane (Oliver) Vining, in Russell City Cemetery, Russell, Russell County, Kansas (from
+          Find A Grave):
+        images:
+          - src: RobertH03wifegravestone.jpg
+      - caption: >-
+          Monument side for Eddie B. Vining, son of Robert H. Vining and Martha Jane (Oliver) Vining, in Mount Hope
+          Cemetery, Clyde, Cloud County, Kansas (from Find A Grave):
+        images:
+          - src: RobertH03sonEddiemonumentside.jpg

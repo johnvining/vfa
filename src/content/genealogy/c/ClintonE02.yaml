@@ -1,0 +1,51 @@
+id: ClintonE02
+letter: C
+sequence: 143
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RoyE01
+parentLetter: R
+parentDesc: Roy Edward Vining and Maggie Mae Randall
+head:
+  givenName: "Clinton [Edwin or Edward?]"
+  birth:
+    date: 12 April 1928
+    place: Georgia
+  death:
+    date: 16 May 2001
+  burial:
+    place: "Oak Hill Cemetery   Griffin, Georgia"
+marriages:
+  - date: 30 May 1953
+    place: "Atlanta, Georgia"
+    spouse:
+      givenName: Dorothy Virginia
+      surname: Whittle
+childrenGroups:
+  - children:
+      - name: Felecia Vining
+        marriages:
+          - date: "[&#8230;] Shelett"
+      - name: Keith Vining
+        marriages:
+          - date: "Patty [&#8230;]"
+      - name: Renee Vining
+        marriages:
+          - date: Gary Coursey
+      - name: Jeff Vining
+        marriages:
+          - date: "Jill [&#8230;]"
+raw: |-
+  <a name="ClintonE02"></a><font size=+2>Clinton [Edwin or Edward?] Vining</font>
+     (son of <a href="Rfamilies.htm#RoyE01">Roy Edward Vining and Maggie Mae Randall</a>)
+     b. 12 April 1928   Georgia
+     m. 30 May 1953   Atlanta, Georgia
+           Dorothy Virginia Whittle
+     d. 16 May 2001
+           bur. Oak Hill Cemetery   Griffin, Georgia
+  
+  <font size=+1>children:</font>
+     Felecia Vining   m. [&#8230;] Shelett
+     Keith Vining   m. Patty [&#8230;]
+     Renee Vining   m. Gary Coursey
+     Jeff Vining   m. Jill [&#8230;]

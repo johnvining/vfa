@@ -1,0 +1,80 @@
+id: Howard02
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: WilliamE04
+parentLetter: W
+parentDesc: William E. Vining and Glennie Albright
+head:
+  givenName: Howard
+  birth:
+    date: December 1896
+    place: Illinois
+  death:
+    date: 6 January 1978
+    place: Illinois
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Illinois"
+marriages:
+  - number: 1
+    date: Rose Gross
+    spouse:
+      birth:
+        date: "1897"
+      death:
+        date: February 1956
+        place: "Kankakee, Illinois"
+      burial:
+        place: "Mound Grove Cemetery   Kankakee, Illinois"
+  - number: 2
+    date: Hulda Anderson
+    spouse:
+      birth:
+        date: 1 August 1897
+      death:
+        date: 5 November 1985
+        place: "Watseka, Illinois"
+      burial:
+        place: "Limestone Cemetery   West Kankakee, Illinois"
+childrenGroups:
+  - headingText: "child by Rose Gross"
+    children:
+      - name: Lawrence H. Vining
+        entryId: LawrenceH01
+        entryLetter: L
+        birth:
+          date: 4 August 1924
+        marriages:
+          - date: 2 August 1947
+            place: "Kankakee, Illinois"
+            spouse: Mary Eleanor Eastman
+        death:
+          date: 12 September 2013
+          place: Illinois
+        burial:
+          place: "Kankakee Memorial Gardens and Chapel Mausoleum   Kankakee, Illinois"
+      - name: Pauline Vining
+        birth:
+          date: age 13 y. as of 1940 census
+          place: Illinois
+docsUrl: Hsources/Howard02doc.htm
+raw: |-
+  <a name="Howard02"></a><font size=+2>Howard Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamE04">William E. Vining and Glennie Albright</a>)
+     b. December 1896   Illinois
+     m. (1) Rose Gross
+                    b. 1897
+                    d. February 1956   Kankakee, Illinois
+                          bur. Mound Grove Cemetery   Kankakee, Illinois
+           (2) Hulda Anderson
+                    b. 1 August 1897
+                    d. 5 November 1985   Watseka, Illinois
+                          bur. Limestone Cemetery   West Kankakee, Illinois
+     d. 6 January 1978   Illinois
+           bur. Limestone Cemetery   West Kankakee, Illinois
+  
+  <font size=+1>child by Rose Gross:</font>
+     <a href="Lfamilies.htm#LawrenceH01">Lawrence H. Vining</a>   b. 4 August 1924   -   m. 2 August 1947   Kankakee, Illinois   Mary Eleanor Eastman   -   d. 12 September 2013   Illinois   -   bur. Kankakee Memorial Gardens and Chapel Mausoleum   Kankakee, Illinois
+     Pauline Vining   b. age 13 y. as of 1940 census   Illinois
+  
+  <a href="Hsources/Howard02doc.htm">documentation and notes</a>

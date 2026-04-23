@@ -1,0 +1,77 @@
+id: JosephH03
+title: Joseph Henry Vining - Alice M. Leavitt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Joseph Henry Vining
+          values:
+            - "?"
+            - "44"
+            - "54"
+            - "64"
+            - dead
+            - ""
+        - label: Alice M. (Leavitt) Vining
+          values:
+            - "?"
+            - "42"
+            - "52"
+            - "62"
+            - "72"
+            - "82"
+        - label: Alma [L.?] Vining
+          values:
+            - "?"
+            - "19"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Flora F. Vining
+          values:
+            - "?"
+            - "16"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 47, family 50. Also living in this household in 1900 was
+          Alice F. Vining (b. June 1877, Massachusetts), a niece of Joseph Henry Vining and Alice M. ([…]) Vining.
+        images:
+          - src: JosephH03census1900.jpg
+      - year: "1910"
+        caption: Hanover, Plymouth County, Massachusetts - dwelling 333, family 359
+        images:
+          - src: JosephH03census1910.jpg
+      - year: "1920"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 96, family 104. Also living in this household in 1920 was
+          Roxa A. Leavitt (83 y., b. Massachusetts), the widowed mother of Alice M. (Leavitt) Vining.
+        images:
+          - src: JosephH03census1920a.jpg
+          - src: JosephH03census1920b.jpg
+      - year: "1930"
+        caption: >-
+          Hanover, Plymouth County, Massachusetts - dwelling 112, family 115. Also living in this household in 1930 was
+          Roxa A. Leavitt (94 y., b. Massachusetts), the widowed mother of Alice M. (Leavitt) Vining.
+        images:
+          - src: JosephH03census1930.jpg
+      - year: "1940"
+        caption: >-
+          Rockland, Plymouth County, Massachusetts. In 1940, Alice M. (Leavitt) Vining was living in the household of
+          daughter Flora F. (Vining) Vargus.
+        images:
+          - src: JosephH03census1940.jpg

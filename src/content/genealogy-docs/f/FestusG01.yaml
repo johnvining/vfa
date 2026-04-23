@@ -1,0 +1,78 @@
+id: FestusG01
+title: Festus G. Vining - Almira B. Dennison
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Floyd R. Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - "61"
+            - "71"
+        - label: Almira B. (Dennison) Vining
+          values:
+            - "26"
+            - "35"
+            - "45"
+            - "55"
+            - dead
+        - label: Winnie F. Vining
+          values:
+            - ""
+            - |-
+              [living in separate household?]
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Otto Township, Kankakee County, Illinois - dwelling 44, family 44. Also living in this household in 1900 was
+          Festus G. Vining's step-daughter, Myrtal Long, (5 y., b. Illinois).
+        images:
+          - src: FestusG01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Kankakee (ward 2), Kankakee County, Illinois - dwelling 275, family 303. According to the 1910 census, Almira
+          B. (Dennison) Vining had given birth to one child who was still living in 1910. Research is needed to
+          determine if that child was Winnie F. Vining.
+        images:
+          - src: FestusG01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Aroma Township, Kankakee County, Illinois - dwelling 132, family 134. Also living in this household in 1920
+          was Festus G. Vining's step-daughter, Myrtle Long, (25 y., b. Illinois) and Almira B. (Dennison) Vining's
+          widowed mother, Anna Dennison (80 y., b. England).
+        images:
+          - src: FestusG01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Aroma Township, Kankakee County, Illinois - dwelling 172, family 173. Also living in this household in 1920
+          was Festus G. Vining's step-daughter, Myrtle E. Long, (35 y., b. Illinois).
+        images:
+          - src: FestusG01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Aroma Township, Kankakee County, Illinois. Also living in this household in 1940 was Festus G. Vining's
+          step-daughter, Myrtle E. Long, (45 y., b. Illinois).
+        images:
+          - src: FestusG01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Festus G. Vining and Almira B. (Dennison) Vining, in Mound Grove Cemetery, Kankakee, Kankakee
+          County, Illinois (from Find A Grave):
+        images:
+          - src: FestusG01gravestone.jpg
+          - src: FestusG01wifeAlmiragravestone.jpg
+        inline: true

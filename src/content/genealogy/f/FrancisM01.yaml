@@ -1,0 +1,146 @@
+id: FrancisM01
+sequence: 17
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Simeon01
+parentLetter: S
+parentDesc: Simeon Vining and Polly Williamson
+head:
+  givenName: Francis Marion
+  birth:
+    date: 6 March 1832
+    place: Georgia
+  death:
+    date: 23 June 1909
+    place: "Lincoln Parish, Louisiana"
+  burial:
+    place: "Vienna Cemetery   Ruston, Louisiana"
+marriages:
+  - date: 25 July 1852
+    spouse:
+      givenName: Elizabeth
+      surname: Scott
+      birth:
+        date: 29 December 1831
+        place: Georgia
+      death:
+        date: 5 May 1902
+      burial:
+        place: "Vienna Cemetery   Ruston, Louisiana"
+childrenGroups:
+  - children:
+      - name: Eliza J. Vining
+        birth:
+          date: 3 July 1853
+          place: Louisiana
+        marriages:
+          - date: 10 December 1868
+            place: Louisiana
+            spouse: John Robard Chandler
+      - name: Dorinda Pamilla Vining
+        birth:
+          date: 12 September 1855
+          place: Louisiana
+        marriages:
+          - date: Raleigh Alonzo Chambless
+      - name: John Simion Vining
+        entryId: JohnS04
+        entryLetter: J
+        birth:
+          date: 26 April 1857
+          place: Louisiana
+        marriages:
+          - date: Mary Geuin
+        death:
+          date: "1931"
+        burial:
+          place: "Beulah Cemetery   Calhoun, Louisiana"
+      - name: Aminda Elizabeth Vining
+        birth:
+          date: 1 May 1859
+          place: "Jackson Parish, Louisiana"
+        marriages:
+          - date: "1878"
+            place: Louisiana
+            spouse: Joseph M. Kinman
+        death:
+          date: 10 January 1930
+          place: "Monroe, Ouachita Parish, Louisiana"
+        burial:
+          place: "Longstraw Cemetery   Monroe, Ouachita Parish, Louisiana"
+      - name: James Alfred Vining
+        entryId: JamesA04
+        entryLetter: J
+        birth:
+          date: 7 January 1861
+          place: Louisiana
+        marriages:
+          - date: 10 y. as of 1900 census
+            spouse: Mary Susie Taylor
+      - name: Elizabeth Vining
+        birth:
+          date: "1863"
+      - name: Francis Marion Vining Jr.
+        entryId: FrancisMJr01
+        birth:
+          date: 15 March 1865
+          place: "Ruston, Louisiana"
+        marriages:
+          - date: Mary Dora Kinman
+        death:
+          date: 3 September 1906
+        burial:
+          place: "[Old] Forest Cemetery   Forest, Louisiana"
+      - name: Lorinda Vining
+        birth:
+          date: "1865"
+      - name: Ella Vining
+        birth:
+          date: 17 February 1868
+          place: "Jackson Parish, Louisiana"
+        marriages:
+          - date: "1886"
+            spouse: William Carlisle Sanders
+        death:
+          date: 10 September 1959
+          place: "Ruston, Louisiana"
+        burial:
+          place: "Vienna Cemetery   Ruston, Louisiana"
+      - name: Robert Lee Vining
+        birth:
+          date: 21 December 1869
+          place: Louisiana
+        marriages:
+          - date: Pearl Gibson
+        death:
+          date: "1960"
+          place: "Globe, Arizona"
+        burial:
+          place: Estancia Cemetery
+docsUrl: Fsources/FrancisM01doc.htm
+raw: |-
+  <a name="FrancisM01"></a><font size=+2>Francis Marion Vining</font>
+     (son of <a href="Sfamilies.htm#Simeon01">Simeon Vining and Polly Williamson</a>)
+     b. 6 March 1832   Georgia
+     m. 25 July 1852
+           Elizabeth Scott
+                 b. 29 December 1831   Georgia
+                 d. 5 May 1902
+                       bur. Vienna Cemetery   Ruston, Louisiana
+     d. 23 June 1909   Lincoln Parish, Louisiana
+           bur. Vienna Cemetery   Ruston, Louisiana
+  
+  <font size=+1>children:</font>
+     Eliza J. Vining   b. 3 July 1853   Louisiana   -   m. 10 December 1868   Louisiana   John Robard Chandler
+     Dorinda Pamilla Vining   b. 12 September 1855   Louisiana   -   m. Raleigh Alonzo Chambless
+     <a href="Jfamilies.htm#JohnS04">John Simion Vining</a>   b. 26 April 1857   Louisiana   -   m. Mary Geuin   -   d. 1931   -   bur. Beulah Cemetery   Calhoun, Louisiana
+     Aminda Elizabeth Vining   b. 1 May 1859   Jackson Parish, Louisiana   -   m. 1878   Louisiana   Joseph M. Kinman   -   d. 10 January 1930   Monroe, Ouachita Parish, Louisiana   -   bur. Longstraw Cemetery   Monroe, Ouachita Parish, Louisiana
+     <a href="Jfamilies.htm#JamesA04">James Alfred Vining</a>   b. 7 January 1861   Louisiana   -   m. 10 y. as of 1900 census   Mary Susie Taylor
+     Elizabeth Vining   b. 1863
+     <a href="#FrancisMJr01">Francis Marion Vining Jr.</a>   b. 15 March 1865   Ruston, Louisiana   -   m. Mary Dora Kinman   -   d. 3 September 1906   -   bur. [Old] Forest Cemetery   Forest, Louisiana
+     Lorinda Vining   b. 1865
+     Ella Vining   b. 17 February 1868   Jackson Parish, Louisiana   -   m. 1886   William Carlisle Sanders   -   d. 10 September 1959   Ruston, Louisiana   -   bur. Vienna Cemetery   Ruston, Louisiana
+     <a href="#Rfamilies.htm#RobertL04">Robert Lee Vining</a>   b. 21 December 1869   Louisiana   -   m. Pearl Gibson   -   d. 1960   Globe, Arizona   -   bur. Estancia Cemetery
+  
+  <a href="Fsources/FrancisM01doc.htm">documentation and notes</a>

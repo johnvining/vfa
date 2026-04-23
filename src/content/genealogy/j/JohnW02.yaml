@@ -1,0 +1,51 @@
+id: JohnW02
+sequence: 278
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: PercyF01
+parentLetter: P
+parentDesc: Percy Fayette Vining and Virginia Tillotson
+head:
+  givenName: John William
+  birth:
+    date: 1 January 1947
+    place: "Nevada, Iowa"
+marriages:
+  - date: 26 April 1969
+    place: "Dora, Missouri"
+    spouse:
+      givenName: Shirley June
+      surname: Freeman
+      birth:
+        date: 31 July 1946
+        place: "Maryville, Missouri"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Terry Lyn Vining
+        birth:
+          date: 25 January 1970
+          place: "Cheyenne, Wyoming"
+        marriages:
+          - number: 1
+            date: 26 May 1990
+            place: "Riverdale, Georgia"
+            spouse: "Karen Lawan Verner, divorced"
+          - number: 2
+            date: 3 August 2003
+            spouse: "Tanya Wadsworth, divorced"
+          - number: 3
+            date: 20 August 2005
+            place: "Jonesboro, Georgia"
+            spouse: Patricia Joy Moberly McGill
+raw: |-
+  <a name="JohnW02"></a><font size=+2>John William Vining</font>
+     (son of <a href="Pfamilies.htm#PercyF01">Percy Fayette Vining and Virginia Tillotson</a>)
+     b. 1 January 1947   Nevada, Iowa
+     m. 26 April 1969   Dora, Missouri
+           Shirley June Freeman
+                 b. 31 July 1946   Maryville, Missouri
+  
+  <font size=+1>child:</font>
+     Terry Lyn Vining   b. 25 January 1970   Cheyenne, Wyoming   -   m. (1) 26 May 1990   Riverdale, Georgia   Karen Lawan Verner, divorced;   (2) 3 August 2003   Tanya Wadsworth, divorced;   (3) 20 August 2005   Jonesboro, Georgia   Patricia Joy Moberly McGill

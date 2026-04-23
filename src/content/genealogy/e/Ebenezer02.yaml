@@ -1,0 +1,117 @@
+id: Ebenezer02
+sequence: 14
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: RecordsW01
+parentLetter: R
+parentDesc: Records Wilber Vining and Lydia Williams
+head:
+  givenName: Ebenezer
+  birth:
+    date: 17 April 1809
+    place: "Brookfield, New York"
+  death:
+    date: 21 May 1886
+    place: "East Townsend Township, Ohio"
+marriages:
+  - date: 3 May 1835
+    place: New York
+    spouse:
+      givenName: Julia
+      surname: Gray
+      birth:
+        date: age 30 y. as of 1850 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Lorenzo Devaro Vining
+        entryId: LorenzoD01
+        entryLetter: L
+        birth:
+          date: 20 May 1836
+          place: "[Ohio or New York?]"
+        marriages:
+          - number: 1
+            date: 3 May 1859
+            place: "Huron, Ohio"
+            spouse: Marietta Ellis
+          - number: 2
+            date: 22 February 1866
+            place: "Huron, Ohio"
+            spouse: "Rebecca G. &#8220;Nettie&#8221;Smith"
+        death:
+          date: 15 December 1893
+          place: "Huron, Ohio"
+      - name: Julia Maria Vining
+        birth:
+          date: 31 October 1838
+        death:
+          date: 28 October 1877
+      - name: Alonzo Ludovico Vining
+        birth:
+          date: 17 April 1840
+        death:
+          date: ca. 1863
+      - name: William Wilber Vining
+        entryId: WilliamW03
+        entryLetter: W
+        birth:
+          date: 29 December 1842
+          place: Ohio
+        death:
+          date: 23 January 1863
+          place: "Bowling Green, Kentucky"
+      - name: John Wesley Vining
+        birth:
+          date: 10 June 1845
+        death:
+          date: 2 November 1845
+      - name: Nathan Gray Vining
+        birth:
+          date: 10 September 1846
+          place: Ohio
+        marriages:
+          - spouse: "Mary [...]"
+        death:
+          date: 9 May 1923
+      - name: Marion Mortimer Vining
+        entryId: MarionM01
+        entryLetter: M
+        birth:
+          date: 29 May 1853
+          place: Ohio
+        marriages:
+          - date: July 1873
+            place: "Vermilion, Ohio"
+            spouse: Flora E. Widdifield
+        death:
+          date: 1 October 1937
+          place: "Big Rapids, Michigan"
+      - name: Elmer Alphonzo Vining
+        birth:
+          date: 22 June 1858
+          place: Ohio
+        death:
+          date: 29 June 1941
+docsUrl: Esources/Ebenezer02doc.htm
+raw: |-
+  <a name="Ebenezer02"></a><font size=+2>Ebenezer Vining</font>
+     (son of <a href="Rfamilies.htm#RecordsW01">Records Wilber Vining and Lydia Williams</a>)
+     b. 17 April 1809   Brookfield, New York
+     m. 3 May 1835   New York
+           Julia Gray
+                 b. age 30 y. as of 1850 census   New York
+     d. 21 May 1886   East Townsend Township, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LorenzoD01">Lorenzo Devaro Vining</a>   b. 20 May 1836   [Ohio or New York?]   -   m. (1) 3 May 1859   Huron, Ohio   Marietta Ellis;   (2) 22 February 1866   Huron, Ohio   Rebecca G. &#8220;Nettie&#8221;Smith   -   d. 15 December 1893   Huron, Ohio
+     Julia Maria Vining   b. 31 October 1838   -   d. 28 October 1877
+     Alonzo Ludovico Vining   b. 17 April 1840   -   d. ca. 1863
+     <a href="Wfamilies.htm#WilliamW03">William Wilber Vining</a>   b. 29 December 1842   Ohio   -   d. 23 January 1863   Bowling Green, Kentucky
+     John Wesley Vining   b. 10 June 1845   -   d. 2 November 1845
+     Nathan Gray Vining   b. 10 September 1846   Ohio   -   m. Mary [...]   -   d. 9 May 1923
+     <a href="Mfamilies.htm#MarionM01">Marion Mortimer Vining</a>   b. 29 May 1853   Ohio   -   m. July 1873   Vermilion, Ohio   Flora E. Widdifield   -   d. 1 October 1937   Big Rapids, Michigan
+     Elmer Alphonzo Vining   b. 22 June 1858   Ohio   -   d. 29 June 1941
+  
+  <a href="Esources/Ebenezer02doc.htm">documentation and notes</a>

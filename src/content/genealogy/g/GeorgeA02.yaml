@@ -1,0 +1,69 @@
+id: GeorgeA02
+letter: G
+sequence: 15
+lastUpdated: 22 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: George August
+  birth:
+    date: 4 February 1918
+    place: "Morgan City, St. Mary Parish, Louisiana"
+  death:
+    date: 26 March 2012
+    place: "Minden, Webster Parish, Louisiana"
+  burial:
+    place: "Minden City Cemetery   Minden, Webster Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Mildred
+      surname: Aucoin
+      birth:
+        date: 18 October 1925
+        place: "Morgan City, Louisiana"
+      death:
+        date: 8 April 2001
+        place: "Morgan City, Louisiana"
+      burial:
+        place: "Minden City Cemetery   Minden, Webster Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: George August Vining Jr.
+        marriages:
+          - date: "Linda [...]"
+      - name: Mary Ann Vining
+        marriages:
+          - date: Sterling LaCoste
+      - name: Stella Vining
+        marriages:
+          - date: "[...] Robicheaux"
+      - name: Isabelle Vining
+        marriages:
+          - date: "[...] Lee"
+      - name: Ella Marie Vining
+        marriages:
+          - date: Rex Cook
+      - name: Judy Vining
+        marriages:
+          - date: Arnold Gussman
+docsUrl: Gsources/GeorgeA02doc.htm
+raw: |-
+  <a name="GeorgeA02"></a><font size=+2>George August Vining</font>
+     (son of [?])
+     b. 4 February 1918   Morgan City, St. Mary Parish, Louisiana
+     m. Mildred Aucoin
+              b. 18 October 1925   Morgan City, Louisiana
+              d. 8 April 2001   Morgan City, Louisiana
+                    bur. Minden City Cemetery   Minden, Webster Parish, Louisiana
+     d. 26 March 2012   Minden, Webster Parish, Louisiana
+           bur. Minden City Cemetery   Minden, Webster Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     George August Vining Jr.   m. Linda [...]
+     Mary Ann Vining   m. Sterling LaCoste
+     Stella Vining   m. [...] Robicheaux
+     Isabelle Vining   m. [...] Lee
+     Ella Marie Vining   m. Rex Cook
+     Judy Vining   m. Arnold Gussman
+  
+  <a href="Gsources/GeorgeA02doc.htm">documentation and notes</a>

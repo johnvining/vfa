@@ -1,0 +1,83 @@
+id: Charles14
+letter: C
+sequence: 40
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JaredM01
+parentLetter: J
+parentDesc: Jared Morgan Vining and Ellen Vandenbergh
+head:
+  givenName: Charles
+  birth:
+    date: 15 April 1846
+    place: "West Nissouri Township, Ontario"
+  death:
+    date: 13 June 1906
+    place: Michigan
+  burial:
+    place: "Beaverton Cemetery   Beaverton, Gladwin County, Michigan"
+marriages:
+  - date: "1869"
+    spouse:
+      givenName: Emma Mary
+      surname: Smith
+      birth:
+        date: 12 April 1845
+        place: New York
+      death:
+        date: "1929"
+        place: Michigan
+childrenGroups:
+  - children:
+      - name: Ellen Vining
+        birth:
+          date: age 3 m. as of 1870 census
+          place: Michigan
+      - name: Lewis Vining
+        birth:
+          date: age 7 y. as of 1880 census
+          place: Michigan
+      - name: Mary Adeline Vining
+        birth:
+          date: "1878"
+          place: Michigan
+        marriages:
+          - date: Peter W. Rackel
+        death:
+          date: 10 April 1948
+        burial:
+          place: "Beaverton Cemetery   Beaverton, Gladwin County, Michigan"
+      - name: "James Edward &#8220;Edgar&#8221; Vining"
+        entryId: JamesE08
+        entryLetter: J
+        birth:
+          date: 13 August 1880
+          place: "Flushing, Michigan"
+        marriages:
+          - date: 13 August 1907
+            place: "Beaverton, Gladwin County, Michigan"
+            spouse: Lillie Belle Teboe
+        death:
+          date: 3 June 1953
+          place: "Flint, Genessee County, Michigan"
+        burial:
+          place: "Oakhill Cemetery   Holly, Oakland County, Michigan"
+docsUrl: Csources/Charles14doc.htm
+raw: |-
+  <a name="Charles14"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Jfamilies.htm#JaredM01">Jared Morgan Vining and Ellen Vandenbergh</a>)
+     b. 15 April 1846   West Nissouri Township, Ontario
+     m. 1869
+           Emma Mary Smith
+                 b. 12 April 1845   New York
+                 d. 1929   Michigan
+     d. 13 June 1906   Michigan
+           bur. Beaverton Cemetery   Beaverton, Gladwin County, Michigan
+  
+  <font size=+1>children:</font>
+     Ellen Vining   b. age 3 m. as of 1870 census   Michigan
+     Lewis Vining   b. age 7 y. as of 1880 census   Michigan
+     Mary Adeline Vining   b. 1878   Michigan   -   m. Peter W. Rackel   -   d. 10 April 1948   -   bur. Beaverton Cemetery   Beaverton, Gladwin County, Michigan
+     <a href="Jfamilies.htm#JamesE08">James Edward &#8220;Edgar&#8221; Vining</a>   b. 13 August 1880   Flushing, Michigan   -   m. 13 August 1907   Beaverton, Gladwin County, Michigan   Lillie Belle Teboe   -   d. 3 June 1953   Flint, Genessee County, Michigan   -   bur. Oakhill Cemetery   Holly, Oakland County, Michigan
+  
+  <a href="Csources/Charles14doc.htm">documentation and notes</a>

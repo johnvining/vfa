@@ -1,0 +1,47 @@
+id: ElbridgeWJr01
+sequence: 67
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ElbridgeW02
+parentDesc: Elbridge Winfield Vining and Mary Elizabeth Devault
+head:
+  givenName: Elbridge Winfield Jr.
+  birth:
+    date: 13 February 1937
+    place: "Avon, Maine"
+  death:
+    date: 10 August 2015
+    place: "Skowhegan, Maine"
+marriages:
+  - date: 5 November 1955
+    place: "Madison, Maine"
+    spouse:
+      givenName: Elaine Gloria
+      surname: Grant
+childrenGroups:
+  - children:
+      - name: Jane Vining
+        marriages:
+          - spouse: "[&#8230;] Beliveau"
+      - name: David Vining
+        marriages:
+          - spouse: "Robin [&#8230;]"
+      - name: Sharon Vining
+        marriages:
+          - spouse: Tim Hewett
+docsUrl: Esources/ElbridgeWJr01doc.htm
+raw: |-
+  <a name="ElbridgeWJr01"></a><font size=+2>Elbridge Winfield Vining Jr.</font>
+     (son of <a href="#ElbridgeW02">Elbridge Winfield Vining and Mary Elizabeth Devault</a>)
+     b. 13 February 1937   Avon, Maine
+     m. 5 November 1955   Madison, Maine
+           Elaine Gloria Grant
+     d. 10 August 2015   Skowhegan, Maine
+  
+  <font size=+1>children:</font>
+     Jane Vining   m. [&#8230;] Beliveau
+     David Vining   m. Robin [&#8230;]
+     Sharon Vining   m. Tim Hewett
+  
+  <a href="Esources/ElbridgeWJr01doc.htm">documentation and notes</a>

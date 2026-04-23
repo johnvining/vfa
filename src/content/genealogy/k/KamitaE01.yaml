@@ -1,0 +1,113 @@
+id: KamitaE01
+letter: K
+sequence: 1
+lastUpdated: 24 July 2022
+relationship: son
+parentId: OsmynC01
+parentLetter: O
+parentDesc: "Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; La Palm"
+head:
+  givenName: Kamita Earl
+  birth:
+    date: 25 May 1918
+    place: "Kalamazoo, Kalamazoo County, Michigan"
+  death:
+    date: 24 July 2007
+    place: "[Decatur or Lawton?], Michigan"
+  burial:
+    place: "Florida National Cemetery   Bushnell, Sumter County, Florida"
+marriages:
+  - number: 1
+    date: 29 January 1938
+    place: Indiana
+    note: "divorced 4 October 1944   Kalamazoo, Kalamazoo County, Michigan"
+    spouse:
+      givenName: Elizabeth Jane
+      surname: Volenski
+      parents: "(dau. of Anthony Volenski and Mabel Florence Davidson)"
+      birth:
+        date: 11 July 1919
+        place: "Kalamazoo, Kalamazoo County, Michigan"
+      death:
+        date: 28 October 2005
+        place: "Dowagiac, Cass County, Michigan"
+  - number: 2
+    date: 14 August 1947
+    place: "Kalamazoo, Kalamazoo County, Michigan"
+    spouse:
+      givenName: Mabel Marjorie
+      surname: Dailey
+      birth:
+        date: 28 November 1912
+      death:
+        date: 21 April 1995
+      burial:
+        place: "Florida National Cemetery   Bushnell, Sumter County, Florida"
+childrenGroups:
+  - spouseRef: Mabel Dailey
+    children:
+      - name: Earl Lee Vining
+        entryId: EarlL01
+        entryLetter: E
+        birth:
+          date: 24 September 1938
+        marriages:
+          - date: Carol Hapner
+      - name: Errol Lynn Vining
+        entryId: ErrolL01
+        entryLetter: E
+        birth:
+          date: 24 September 1938
+        marriages:
+          - date: 11 February 1961
+            place: "Kalamazoo, Kalamazoo County, Michigan"
+            spouse: JoAnn Troccko
+        death:
+          date: 31 August 2015
+          place: "Holland, Ottawa County, Michigan"
+        burial:
+          place: "Lakeside Cemetery   Decatur, Van Buren County, Michigan"
+      - name: Sherman Anthony Vining
+        entryId: ShermanA01
+        entryLetter: S
+        birth:
+          date: 8 March 1940
+        marriages:
+          - date: "Mary Ann [...]"
+      - name: Sharon Kay Vining
+        birth:
+          date: 27 October 1941
+        marriages:
+          - date: Robert E. K. Levick
+      - name: Yvette Marie Vining
+        birth:
+          date: 14 November 1942
+        marriages:
+          - date: Roger Maneke
+docsUrl: Ksources/KamitaE01doc.htm
+raw: |-
+  <a name="KamitaE01"></a><font size=+2>Kamita Earl Vining</font>
+     (son of <a href="Ofamilies.htm#OsmynC01">Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; La Palm</a>)
+     b. 25 May 1918   Kalamazoo, Kalamazoo County, Michigan
+     m. (1) 29 January 1938   Indiana
+                 Elizabeth Jane Volenski
+                       (dau. of Anthony Volenski and Mabel Florence Davidson)
+                       b. 11 July 1919   Kalamazoo, Kalamazoo County, Michigan
+                       d. 28 October 2005   Dowagiac, Cass County, Michigan
+              divorced 4 October 1944   Kalamazoo, Kalamazoo County, Michigan
+           (2) 14 August 1947   Kalamazoo, Kalamazoo County, Michigan
+                 Mabel Marjorie Dailey
+                       b. 28 November 1912
+                       d. 21 April 1995
+                             bur. Florida National Cemetery   Bushnell, Sumter County, Florida
+     d. 24 July 2007   [Decatur or Lawton?], Michigan
+           bur. Florida National Cemetery   Bushnell, Sumter County, Florida
+  
+  <font size=+1>children by Mabel Dailey:</font>
+     <a href="Efamilies.htm#EarlL01">Earl Lee Vining</a>   b. 24 September 1938   -   m. Carol Hapner
+     <a href="Efamilies.htm#ErrolL01">Errol Lynn Vining</a>   b. 24 September 1938   -   m. 11 February 1961   Kalamazoo, Kalamazoo County, Michigan   JoAnn Troccko   -   d. 31 August 2015   Holland, Ottawa County, Michigan   -   bur. Lakeside Cemetery   Decatur, Van Buren County, Michigan
+     <a href="Sfamilies.htm#ShermanA01">Sherman Anthony Vining</a>   b. 8 March 1940   -   m. Mary Ann [...]
+     Sharon Kay Vining   b. 27 October 1941   -   m. Robert E. K. Levick
+     Yvette Marie Vining   b. 14 November 1942   -   m. Roger Maneke
+  
+  <a href="Ksources/KamitaE01doc.htm">documentation and notes</a>

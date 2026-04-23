@@ -1,0 +1,71 @@
+id: JohnFJr01
+sequence: 226
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnF02
+parentDesc: John Franklin Vining and Gertrude Anna Packard
+head:
+  givenName: John Franklin Jr.
+  birth:
+    date: 25 April 1900
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 21 November 1977
+    place: "Plymouth, Massachusetts"
+marriages:
+  - number: 1
+    date: "?"
+  - number: 2
+    date: 25 October 1930
+    place: "Boston, Massachusetts"
+    spouse:
+      givenName: Marie
+      surname: Hult
+      birth:
+        date: 17 June 1904
+        place: "Sikfors, Sweden"
+      death:
+        date: 1 September 2000
+        place: "Norwood, Massachusetts"
+childrenGroups:
+  - spouseRef: "[?]"
+    children:
+      - name: John Franklin Vining III
+        entryId: JohnFIII01
+        birth:
+          date: 22 July 1931
+        marriages:
+          - date: "Patricia [...]"
+        death:
+          date: 2 August 2001
+        burial:
+          place: "Blue Hill Cemetery   Braintree, Norfolk County, Massachusetts"
+      - name: Bradley Allen Vining
+        entryId: BradleyA01
+        entryLetter: B
+        birth:
+          date: 21 February 1935
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 7 September 1963
+            place: "Worcester, Massachusetts"
+            spouse: Barbara Ann Milton
+        death:
+          date: 26 November 2019
+        burial:
+          place: "Hope Cemetery   Worcester, Massachusetts"
+raw: |-
+  <a name="JohnFJr01"></a><font size=+2>John Franklin Vining Jr.</font>
+     (son of <a href="#JohnF02">John Franklin Vining and Gertrude Anna Packard</a>)
+     b. 25 April 1900   Weymouth, Norfolk County, Massachusetts
+     m. (1) ?
+           (2) 25 October 1930   Boston, Massachusetts
+                 Marie Hult
+                       b. 17 June 1904   Sikfors, Sweden
+                       d. 1 September 2000   Norwood, Massachusetts
+     d. 21 November 1977   Plymouth, Massachusetts
+  
+  <font size=+1>children by [?]:</font>
+     <a href="#JohnFIII01">John Franklin Vining III</a>   b. 22 July 1931   -   m. Patricia [...]   -   d. 2 August 2001   -   bur. Blue Hill Cemetery   Braintree, Norfolk County, Massachusetts
+     <a href="Bfamilies.htm#BradleyA01">Bradley Allen Vining</a>   b. 21 February 1935   Weymouth, Norfolk County, Massachusetts   -   m. 7 September 1963   Worcester, Massachusetts   Barbara Ann Milton   -   d. 26 November 2019   -   bur. Hope Cemetery   Worcester, Massachusetts

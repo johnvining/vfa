@@ -1,0 +1,62 @@
+id: Henry06
+title: Henry Vining - Ann [...]
+displayTitle: Henry Vining - Ann [...] ]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Henry Vining
+          values:
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ann ([...]) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Francis Vining
+          values:
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jane Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Hester Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Dennis Mills post office (ward 4), St. Helena Parish, Louisiana - dwelling 215, family 215
+        images:
+          - src: Henry06census1870.jpg

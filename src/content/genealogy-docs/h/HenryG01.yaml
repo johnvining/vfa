@@ -1,0 +1,23 @@
+id: HenryG01
+title: Henry G. Vining - Mary Lee [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Henry G. Vining
+          values:
+            - "22"
+        - label: Mary Lee ([…]) Vining
+          values:
+            - "22"
+        - label: Leo Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Milledgeville, Baldwin County, Georgia
+        images:
+          - src: HenryG01census1940.jpg

@@ -1,0 +1,51 @@
+id: JamesE06
+sequence: 52
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: GeorgeD01
+parentLetter: G
+parentDesc: George Dewey Vining and Minnie Garner
+head:
+  givenName: James Edward
+  birth:
+    date: 20 August 1930
+    place: "Bessemer, Jefferson County, Alabama"
+  death:
+    date: 11 September 2017
+    place: "Trussville, Jefferson County, Alabama"
+marriages:
+  - spouse:
+      givenName: Sue Doris
+      surname: Partlow
+      parents: (dau. of Jack Preston Partlow and Clarice Parlee Harris)
+      birth:
+        date: 26 May 1936
+      death:
+        date: 28 October 2008
+        place: "Trussville, Jefferson County, Alabama"
+      burial:
+        place: "Trussville Cemetery   Trussville, Jefferson County, Alabama"
+childrenGroups:
+  - children:
+      - name: Trena Vining
+        marriages:
+          - date: Gerald Fields
+      - name: James Edward Vining Jr.
+docsUrl: Jsources/JamesE06doc.htm
+raw: |-
+  <a name="JamesE06"></a><font size=+2>James Edward Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeD01">George Dewey Vining and Minnie Garner</a>)
+     b. 20 August 1930   Bessemer, Jefferson County, Alabama
+     m. Sue Doris Partlow
+              (dau. of Jack Preston Partlow and Clarice Parlee Harris)
+              b. 26 May 1936
+              d. 28 October 2008   Trussville, Jefferson County, Alabama
+                    bur. Trussville Cemetery   Trussville, Jefferson County, Alabama
+     d. 11 September 2017   Trussville, Jefferson County, Alabama
+  
+  <font size=+1>children:</font>
+     Trena Vining   m. Gerald Fields
+     James Edward Vining Jr.
+  
+  <a href="Jsources/JamesE06doc.htm">documentation and notes</a>

@@ -1,0 +1,60 @@
+id: DavidB03
+title: David B. Vining - Lucy Gordon
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: David B. Vining
+          values:
+            - "28"
+            - "40"
+            - "?"
+            - "60"
+            - "?"
+            - dead
+        - label: Lucy (Gordon) Vining
+          values:
+            - "24"
+            - "41"
+            - "?"
+            - "61"
+            - "?"
+            - dead
+        - label: Elnora Vining
+          values:
+            - "6"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Cain, Greene County, New York - dwelling 376, family 435. Also living in this household in 1870 was Stephen
+          Vining (24 y., b. New York), a younger brother of David B. Vining.
+        images:
+          - src: DavidB03census1870.jpg
+      - year: "1880"
+        caption: Windham, Greene County, New York - dwelling 131, family 134
+        images:
+          - src: DavidB03census1880.jpg
+      - year: "1900"
+        caption: Windham, Greene County, New York - dwelling 210, family 235
+        images:
+          - src: DavidB03census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for David B. Vining and Lucy (Gordon) Vining, in Maplecrest Cemetery, Windham, Greene County, New
+          York (from Find A Grave):
+        images:
+          - src: DavidB03andwifeheadstone.jpg

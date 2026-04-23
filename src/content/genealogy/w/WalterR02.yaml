@@ -1,0 +1,45 @@
+id: WalterR02
+sequence: 22
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: RomanF01
+parentLetter: R
+parentDesc: "Roman Franklin Vining and Emily Susan &#8220;Emma&#8221; Thomas"
+head:
+  givenName: Walter Rupert
+  birth:
+    date: 16 August 1921
+    place: Alabama
+  death:
+    date: 26 December 1974
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Alabama"
+marriages:
+  - spouse:
+      givenName: Mary Elizabeth
+      surname: Daniel
+childrenGroups:
+  - children:
+      - name: Mary Edith Vining
+        birth:
+          date: 6 December 1955
+          place: Alabama
+      - name: Walter Rupert Vining Jr.
+        birth:
+          date: 20 August 1960
+          place: "Houston, Texas"
+docsUrl: Wsources/WalterR02doc.htm
+raw: |-
+  <a name="WalterR02"></a><font size=+2>Walter Rupert Vining</font>
+     (son of <a href="Rfamilies.htm#RomanF01">Roman Franklin Vining and Emily Susan &#8220;Emma&#8221; Thomas</a>)
+     b. 16 August 1921   Alabama
+     m. Mary Elizabeth Daniel
+     d. 26 December 1974
+           bur. Green Pond Presbyterian Church Cemetery   Green Pond, Alabama
+  
+  <font size=+1>children:</font>
+     Mary Edith Vining   b. 6 December 1955   Alabama
+     Walter Rupert Vining Jr.   b. 20 August 1960   Houston, Texas
+  
+  <a href="Wsources/WalterR02doc.htm">documentation and notes</a>

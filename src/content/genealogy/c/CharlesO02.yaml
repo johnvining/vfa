@@ -1,0 +1,85 @@
+id: CharlesO02
+letter: C
+sequence: 93
+lastUpdated: 25 February 2023
+relationship: son
+parentId: OtisS01
+parentLetter: O
+parentDesc: Otis Smith Vining and Minerva A. Stover
+head:
+  givenName: Charles Otis
+  birth:
+    date: "15 February [1855 or 1854?]"
+    place: "Durham, Maine"
+  death:
+    date: 18 August 1915
+    place: "Harpswell, Maine"
+  burial:
+    place: "Lisbon, Maine"
+marriages:
+  - date: 1 April 1893
+    place: "Pittsfield, Maine"
+    spouse:
+      givenName: Edith S.
+      surname: Collamore
+      parents: (dau. of James Collamore and Maria McCrillis)
+      birth:
+        date: May 1873
+        place: "San R[...], California"
+      death:
+        date: 17 April 1928
+        place: "Bangor, Maine"
+      burial:
+        place: "Pittsfield Village Cemetery   Pittsfield, Maine"
+childrenGroups:
+  - children:
+      - name: Delbert Lewis Vining
+        birth:
+          date: 5 November 1893
+          place: "Pittsfield, Maine"
+        marriages:
+          - date: "Esther [...]"
+      - name: Otis M. Vining
+        birth:
+          date: 9 September 1895
+          place: "Pittsfield, Maine"
+        death:
+          date: "1917"
+        burial:
+          place: "Pittsfield Village Cemetery   Pittsfield, Maine"
+      - name: Velma D. Vining
+        birth:
+          date: 30 July 1897
+          place: "Pittsfield, Maine"
+        marriages:
+          - date: 20 August 1917
+            spouse: Ralph Cook
+        death:
+          date: "1918"
+        burial:
+          place: "Pittsfield Village Cemetery   Pittsfield, Maine"
+      - name: "C[lau?]de Vining"
+        birth:
+          date: February 1901
+          place: "Pittsfield, Maine"
+docsUrl: Csources/CharlesO02doc.htm
+raw: |-
+  <a name="CharlesO02"></a><font size=+2>Charles Otis Vining</font>
+     (son of <a href="Ofamilies.htm#OtisS01">Otis Smith Vining and Minerva A. Stover</a>)
+     b. 15 February [1855 or 1854?]   Durham, Maine
+     m. 1 April 1893   Pittsfield, Maine
+           Edith S. Collamore
+                 (dau. of James Collamore and Maria McCrillis)
+                 b. May 1873   San R[...], California
+                 d. 17 April 1928   Bangor, Maine
+                       bur. Pittsfield Village Cemetery   Pittsfield, Maine
+     d. 18 August 1915   Harpswell, Maine
+           bur. Lisbon, Maine
+  
+  <font size=+1>children:</font>
+     Delbert Lewis Vining   b. 5 November 1893   Pittsfield, Maine   -   m. Esther [...]
+     Otis M. Vining   b. 9 September 1895   Pittsfield, Maine   -   d. 1917   -   bur. Pittsfield Village Cemetery   Pittsfield, Maine
+     Velma D. Vining   b. 30 July 1897   Pittsfield, Maine   -   m. 20 August 1917   Ralph Cook   -   d. 1918   -   bur. Pittsfield Village Cemetery   Pittsfield, Maine
+     C[lau?]de Vining   b. February 1901   Pittsfield, Maine
+  
+  <a href="Csources/CharlesO02doc.htm">documentation and notes</a>

@@ -1,0 +1,63 @@
+id: ArthurL02
+letter: A
+sequence: 91
+lastUpdated: 1 February 2021
+relationship: son
+parentId: ArthurL04
+parentDesc: Arthur Leon Vining and Lillian Amy Gokey
+head:
+  givenName: Arthur L.
+  birth:
+    date: 7 November 1924
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 10 April 1986
+    place: "Palm Beach, Palm Beach County, Florida"
+marriages:
+  - spouse:
+      givenName: Betty
+      surname: Peterson
+childrenGroups:
+  - children:
+      - name: Peter Edwin Vining
+        entryId: PeterE01
+        entryLetter: P
+        birth:
+          date: 10 November 1952
+          place: "Winona, Winona County, Minnesota"
+        marriages:
+          - date: Claudia Boman
+        death:
+          date: 9 February 2013
+        burial:
+          place: "Rushford Lutheran Cemetery   Rushford, Fillmore County, Minnesota"
+      - name: Patricia Vining
+        marriages:
+          - date: "[&#8230;] Schmidt"
+      - name: Teresa Vining
+        marriages:
+          - date: Jan Bremseth
+      - name: Anne M. Vining
+        birth:
+          date: "1960"
+        marriages:
+          - date: Tim Evenson
+        death:
+          date: "2001"
+        burial:
+          place: "Rushford Lutheran Cemetery   Rushford, Fillmore County, Minnesota"
+docsUrl: Asources/ArthurL02doc.htm
+raw: |-
+  <a name="ArthurL02"></a><font size="+2">Arthur L. Vining</font>
+     (son of <a href="#ArthurL04">Arthur Leon Vining and Lillian Amy Gokey</a>)
+     b. 7 November 1924   Abington, Plymouth County, Massachusetts
+     m. Betty Peterson
+     d. 10 April 1986   Palm Beach, Palm Beach County, Florida
+  
+  <font size="+1">children:</font>
+     <a href="Pfamilies.htm#PeterE01">Peter Edwin Vining</a>   b. 10 November 1952   Winona, Winona County, Minnesota   -   m. Claudia Boman   -   d. 9 February 2013   -   bur. Rushford Lutheran Cemetery   Rushford, Fillmore County, Minnesota
+     Patricia Vining   m. [&#8230;] Schmidt
+     Teresa Vining   m. Jan Bremseth
+     Anne M. Vining   b. 1960   -   m. Tim Evenson   -   d. 2001   -   bur. Rushford Lutheran Cemetery   Rushford, Fillmore County, Minnesota
+  
+  <a href="Asources/ArthurL02doc.htm">documentation and notes</a>

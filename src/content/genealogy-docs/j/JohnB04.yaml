@@ -1,0 +1,43 @@
+id: JohnB04
+title: John B. Vining - Rhue Ann McClain
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: John B. Vining
+          values:
+            - "65"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Rhue Ann McClain
+          values:
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John A. Bradley Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Wabash, Adams County, Indiana - dwelling 260, family 264
+        images:
+          - src: JohnB04census1880.jpg

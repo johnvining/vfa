@@ -1,0 +1,42 @@
+id: Rockie01
+sequence: 130
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Rockie
+marriages:
+  - spouse:
+      givenName: Becky
+      surname: "[...]"
+      birth:
+        date: 15 June 1953
+childrenGroups:
+  - children:
+      - name: Kristi Vining
+      - name: Andrea Vining
+        marriages:
+          - date: Lyle Crandall
+      - name: Casey Vining
+        marriages:
+          - date: Sherman Hicks
+      - name: Nelson Leslie Vining
+        entryId: NelsonL01
+        entryLetter: N
+        birth:
+          date: 7 October 1979
+          place: "Ponca City, Oklahoma"
+        death:
+          date: 10 November 2014
+raw: |-
+  <a name="Rockie01"></a><font size=+2>Rockie Vining</font>
+     (son of [?])
+     m. Becky [...]
+              b. 15 June 1953
+  
+  <font size=+1>children:</font>
+     Kristi Vining
+     Andrea Vining   m. Lyle Crandall
+     Casey Vining   m. Sherman Hicks
+     <a href="Nfamilies.htm#NelsonL01">Nelson Leslie Vining</a>   b. 7 October 1979   Ponca City, Oklahoma   -   d. 10 November 2014

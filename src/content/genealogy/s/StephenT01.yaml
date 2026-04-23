@@ -1,0 +1,79 @@
+id: StephenT01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Robert02
+parentLetter: R
+parentDesc: "Robert Vining and Elizabeth [...]"
+head:
+  givenName: Stephen T.
+  birth:
+    date: 20 September 1846
+    place: New York
+  death:
+    date: 11 February 1913
+marriages:
+  - spouse:
+      givenName: Jennie
+      surname: Showers
+      birth:
+        date: 25 March 1856
+        place: "New York"
+      death:
+        date: 18 August 1897
+      burial:
+        place: "San Jacinto, California"
+childrenGroups:
+  - children:
+      - name: Irving R. Vining
+        birth:
+          date: 16 February 1878
+          place: New York
+        death:
+          date: 23 July 1883
+          place: "[New York?]"
+        burial:
+          place: Hensonville Cemetery   New York
+      - name: "Otis [L. or S.] Vining"
+        birth:
+          date: "14 September [1880 or 1881?]"
+          place: "[New York?]"
+        death:
+          date: 21 July 1883
+          place: "[New York?]"
+        burial:
+          place: "Hensonville Cemetery   Greene County, New York"
+      - name: Bertha E. Vining
+        birth:
+          date: 8 October 1884
+          place: New York
+        death:
+          date: 9 October 1922
+        burial:
+          place: "Maplewood Cemetery   Greene County, New York"
+      - name: Minga B. Vining
+        birth:
+          date: 7 March 1892
+          place: New York
+        marriages:
+          - date: Wilbur Waterman
+        death:
+          date: 10 August 1946
+docsUrl: Ssources/StephenT01doc.htm
+raw: |-
+  <a name="StephenT01"></a><font size=+2>Stephen T. Vining</font>
+     (son of <a href="Rfamilies.htm#Robert02">Robert Vining and Elizabeth [...]</a>)
+     b. 20 September 1846   New York
+     m. Jennie Showers
+              b. 25 March 1856   New York
+              d. 18 August 1897
+                    bur. San Jacinto, California
+     d. 11 February 1913
+  
+  <font size=+1>children:</font>
+     Irving R. Vining   b. 16 February 1878   New York   -   d. 23 July 1883   [New York?]   -   bur. Hensonville Cemetery   New York
+     Otis [L. or S.] Vining   b. 14 September [1880 or 1881?]   [New York?]   -   d. 21 July 1883   [New York?]   -   bur. Hensonville Cemetery   Greene County, New York
+     Bertha E. Vining   b. 8 October 1884   New York   -   d. 9 October 1922   -   bur. Maplewood Cemetery   Greene County, New York
+     Minga B. Vining   b. 7 March 1892   New York   -   m. Wilbur Waterman   -   d. 10 August 1946
+  
+  <a href="Ssources/StephenT01doc.htm">documentation and notes</a>

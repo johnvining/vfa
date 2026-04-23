@@ -1,0 +1,34 @@
+id: RaymondC01
+sequence: 17
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RaymondL01
+parentDesc: Raymond L. Vining and Charlene J. Abernathy
+head:
+  givenName: Raymond C.
+marriages:
+  - spouse:
+      givenName: Kathleen
+      surname: Bienko
+      parents: "(dau. of Thaddeus M. Bienko and Alice T. [&#8230;])"
+childrenGroups:
+  - children:
+      - name: Michelle Vining
+      - name: Robert C. Vining
+        entryId: RobertC01
+        birth:
+          date: 17 December 1985
+          place: "Toledo, Ohio"
+        death:
+          date: 4 August 2018
+          place: "Sylvania, Ohio"
+raw: |-
+  <a name="RaymondC01"></a><font size=+2>Raymond C. Vining</font>
+     (son of <a href="#RaymondL01">Raymond L. Vining and Charlene J. Abernathy</a>)
+     m. Kathleen Bienko
+              (dau. of Thaddeus M. Bienko and Alice T. [&#8230;])
+  
+  <font size=+1>children:</font>
+     Michelle Vining
+     <a href="#RobertC01">Robert C. Vining</a>   b. 17 December 1985   Toledo, Ohio   -   d. 4 August 2018   Sylvania, Ohio

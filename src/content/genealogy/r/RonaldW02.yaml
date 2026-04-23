@@ -1,0 +1,42 @@
+id: RonaldW02
+sequence: 147
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ClarenceD02
+parentLetter: C
+parentDesc: Clarence Donavon Vining and Iva Travis
+head:
+  givenName: Ronald Wayne
+  birth:
+    date: 3 December 1930
+  death:
+    date: 23 September 2009
+    place: "Clinton Township, Michigan"
+marriages:
+  - date: 28 December 1952
+    place: "Chicago, Illinois"
+    spouse:
+      givenName: Leona Rose
+      surname: Hunt
+childrenGroups:
+  - children:
+      - name: Dawn Jeanette Vining
+        birth:
+          date: 16 September 1954
+        marriages:
+          - date: "[...] Gloss-Ivory"
+      - name: Donald Vining
+        birth:
+          date: 19 March 1962
+raw: |-
+  <a name="RonaldW02"></a><font size=+2>Ronald Wayne Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceD02">Clarence Donavon Vining and Iva Travis</a>)
+     b. 3 December 1930
+     m. 28 December 1952   Chicago, Illinois
+              Leona Rose Hunt
+     d. 23 September 2009   Clinton Township, Michigan
+  
+  <font size=+1>children:</font>
+     Dawn Jeanette Vining   b. 16 September 1954   -   m. [...] Gloss-Ivory
+     Donald Vining   b. 19 March 1962

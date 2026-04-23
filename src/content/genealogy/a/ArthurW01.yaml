@@ -1,0 +1,43 @@
+id: ArthurW01
+letter: A
+sequence: 99
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JohnQ01
+parentLetter: J
+parentDesc: John Quincy Vining and Hannah Crocker
+head:
+  givenName: Arthur W.
+  birth:
+    date: January 1879
+    place: New York
+marriages:
+  - spouse:
+      givenName: Anne J.
+      surname: "[&#8230;]"
+      birth:
+        date: age 31 y. as of 1920 census
+        place: "Nova Scotia, Canada"
+childrenGroups:
+  - children:
+      - name: Ruth Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Massachusetts
+      - name: Arthur W. Vining Jr.
+        birth:
+          date: age 3 y. as of 1920 census
+          place: Massachusetts
+docsUrl: Asources/ArthurW01doc.htm
+raw: |-
+  <a name="ArthurW01"></a><font size="+2">Arthur W. Vining</font>
+     (son of <a href="Jfamilies.htm#JohnQ01">John Quincy Vining and Hannah Crocker</a>)
+     b. January 1879   New York
+     m. Anne J. [&#8230;]
+              b. age 31 y. as of 1920 census   Nova Scotia, Canada
+  
+  <font size="+1">children:</font>
+     Ruth Vining   b. age 8 y. as of 1920 census   Massachusetts
+     Arthur W. Vining Jr.   b. age 3 y. as of 1920 census   Massachusetts
+  
+  <a href="Asources/ArthurW01doc.htm">documentation and notes</a>

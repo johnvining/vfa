@@ -1,0 +1,113 @@
+id: Jeremiah02
+sequence: 133
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?] and Abigail [...]"
+head:
+  givenName: Jeremiah
+  birth:
+    date: "[1 June 1822"
+    place: "New York   - or -   10 June 1820   Waterford, Michigan]"
+  death:
+    date: 10 November 1904
+    place: "Mount Pleasant, Isabella County, Michigan"
+  burial:
+    place: "Chippewa Township Cemetery   Mount Pleasant, Isabella County, Michigan"
+marriages:
+  - spouse:
+      givenName: Emily
+      surname: Lacock
+      birth:
+        date: 1 January 1820
+        place: "[Ohio or New Jersey]"
+      death:
+        date: 8 January 1892
+        place: "Mount Pleasant, Isabella County, Michigan"
+      burial:
+        place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
+childrenGroups:
+  - children:
+      - name: Sarah Elizabeth Vining
+        birth:
+          date: 19 September 1842
+          place: "Delaware County, Ohio"
+        marriages:
+          - date: Alanson H. Cory
+        death:
+          date: 31 January 1924
+          place: "Locke Township, Ingham County, Michigan"
+      - name: James Monroe Vining
+        entryId: JamesM02
+        birth:
+          date: 15 November 1844
+          place: "Romulus, Wayne County, Michigan"
+        marriages:
+          - date: Elizabeth Cary
+        death:
+          date: 24 March 1922
+          place: "Mount Pleasant, Isabella County, Michigan"
+        burial:
+          place: "Chippewa Township Cemetery   Mount Pleasant, Isabella County, Michigan"
+      - name: John Vining
+        entryId: JohnM03
+        birth:
+          date: 17 July 1848
+          place: Michigan
+        marriages:
+          - date: Emily M. Collard
+        death:
+          date: 28 December 1907
+          place: "Romulus Township, Wayne County, Michigan"
+        burial:
+          place: "Romulus Memorial Cemetery   Romulus Township, Wayne County, Michigan"
+      - name: Minor Vining
+        entryId: Minor01
+        entryLetter: M
+        birth:
+          date: 9 July 1846
+          place: Michigan
+        marriages:
+          - number: 1
+            date: "1868"
+            place: "Wayne, Michigan"
+            spouse: Mary Hannah Rundell
+          - number: 2
+            date: "1885"
+            spouse: Eunice J. Priestly
+        death:
+          date: "1912"
+      - name: "[Clara or Clarissa?] Vining"
+        birth:
+          date: 30 October 1853
+          place: Michigan
+      - name: Jacob Jay Vining
+        birth:
+          date: 30 October 1854
+          place: Michigan
+        death:
+          date: 6 February 1910
+          place: "Shepherd, Michigan"
+        burial:
+          place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
+docsUrl: Jsources/Jeremiah02doc.htm
+raw: |-
+  <a name="Jeremiah02"></a><font size=+2>Jeremiah Vining</font>
+     (son of [?] and Abigail [...])
+     b. [1 June 1822   New York   - or -   10 June 1820   Waterford, Michigan]
+     m. Emily Lacock
+              b. 1 January 1820   [Ohio or New Jersey]
+              d. 8 January 1892   Mount Pleasant, Isabella County, Michigan
+                    bur. Chippewa Township Cemetery   Mount Pleasant, Michigan
+     d. 10 November 1904   Mount Pleasant, Isabella County, Michigan
+           bur. Chippewa Township Cemetery   Mount Pleasant, Isabella County, Michigan
+  
+  <font size=+1>children:</font>
+     Sarah Elizabeth Vining   b. 19 September 1842   Delaware County, Ohio   -   m. Alanson H. Cory   -   d. 31 January 1924   Locke Township, Ingham County, Michigan
+     <a href="#JamesM02">James Monroe Vining</a>   b. 15 November 1844   Romulus, Wayne County, Michigan   -   m. Elizabeth Cary   -   d. 24 March 1922   Mount Pleasant, Isabella County, Michigan   -   bur. Chippewa Township Cemetery   Mount Pleasant, Isabella County, Michigan
+     <a href="#JohnM03">John Vining</a>   b. 17 July 1848   Michigan   -   m. Emily M. Collard   -   d. 28 December 1907   Romulus Township, Wayne County, Michigan   -   bur. Romulus Memorial Cemetery   Romulus Township, Wayne County, Michigan
+     <a href="Mfamilies.htm#Minor01">Minor Vining</a>   b. 9 July 1846   Michigan   -   m. (1) 1868   Wayne, Michigan   Mary Hannah Rundell;   (2) 1885   Eunice J. Priestly   -   d. 1912
+     [Clara or Clarissa?] Vining   b. 30 October 1853   Michigan
+     Jacob Jay Vining   b. 30 October 1854   Michigan   -   d. 6 February 1910   Shepherd, Michigan   -   bur. Chippewa Township Cemetery   Mount Pleasant, Michigan
+  
+  <a href="Jsources/Jeremiah02doc.htm">documentation and notes</a>

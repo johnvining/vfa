@@ -1,0 +1,145 @@
+id: NoahJr01
+title: Noah Vining Jr. - Sarah Curtis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Noah Vining Jr.
+          values:
+            - "?"
+            - "42"
+            - "53"
+            - "63"
+            - "72"
+            - "?"
+            - dead
+        - label: Sarah (Curtis) Vining
+          values:
+            - "?"
+            - "39"
+            - "49"
+            - "59"
+            - "69"
+            - "?"
+            - dead
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sophia Louise Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "27"
+            - "38"
+            - "?"
+            - "[see note below]"
+          indent: true
+        - label: Noah Franklin Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "26"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Maria Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Seth Curtis Vining
+          values:
+            - ""
+            - "2"
+            - "13"
+            - "23"
+            - "32"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: Allen Bradford Vining
+          values:
+            - ""
+            - 3 m.
+            - "10"
+            - "20"
+            - "30"
+            - "?"
+            - "[see note below]"
+          indent: true
+        - label: Sarah Catherine Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "27"
+            - "?"
+            - "[see note below]"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 9, family 9. Also living in this household in 1860 were
+          Ellen Welsh (40 y., b. Ireland) and Jonathan White 2nd (19 y., b. Massachusetts).
+        images:
+          - src: NoahJr01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 733, family 837. Also living in this household in 1860 were
+          Frances Barrett (40 y., b. Massachusetts) and L[u?]ren Barrett (30 y., b. Massachusetts).
+        images:
+          - src: NoahJr01census1860a.jpg
+          - src: NoahJr01census1860b.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1559, family 1894. Also living in this household in 1870
+          was John F. Vining (b. April 1870, Massachusetts), a son of Noah Franklin Vining, who was presumably widowed.
+        images:
+          - src: NoahJr01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 337, family 418. Also living in this household in 1880 was
+          John F. Vining (10 y.), a son of Noah Franklin Vining.
+        images:
+          - src: NoahJr01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Sophia Louise Vining (d. 1920), Allen Bradford Vining (d. 1925), and Sarah Catherine Vining (d. 1900) remained
+          single until their deaths and are buried in Mount Hope Cemetery in Weymouth, Norfolk County, Massachusetts
+          (see gravestone image below).
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Noah Vining Jr. and Sarah (Curtis) Vining, in Mount Hope Cemetery, Weymouth, Norfolk County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: NoahJr01andwifeheadstone.jpg
+      - caption: >-
+          Headstone for Sophia Louise Vining, Allen Bradford Vining, and Sarah Catherine Vining, children of Noah Vining
+          Jr. and Sarah (Curtis) Vining (from Find A Grave):
+        images:
+          - src: NoahJr01childrenheadstone.jpg

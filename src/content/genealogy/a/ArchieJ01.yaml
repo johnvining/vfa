@@ -1,0 +1,54 @@
+id: ArchieJ01
+letter: A
+sequence: 81
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AldenA01
+parentDesc: Alden Adam Vining and Delta Pennison
+head:
+  givenName: Archie Joseph
+  birth:
+    date: 14 January 1928
+  death:
+    date: 27 April 2018
+    place: "Angie, Louisiana"
+  burial:
+    place: "Morgan City Cemetery   Morgan City, St. Mary Parish, Louisiana"
+marriages:
+  - date: 70 years as of 28 April 2020
+    spouse:
+      givenName: Audrey Margie
+      surname: LaCoste
+      parents: (dau. of McKinley LaCoste and Matilda Adams)
+      birth:
+        date: 15 April 1930
+        place: "Morgan City, St. Mary Parish, Louisiana"
+      death:
+        date: 28 April 2020
+        place: "Riverside Hospital, Louisiana"
+childrenGroups:
+  - children:
+      - name: Archie James Vining
+        marriages:
+          - date: "Betty [&#8230;]"
+      - name: Lana Vining
+        marriages:
+          - date: Glen Stuart
+docsUrl: Asources/ArchieJ01doc.htm
+raw: |-
+  <a name="ArchieJ01"></a><font size="+2">Archie Joseph Vining</font>
+     (son of <a href="#AldenA01">Alden Adam Vining and Delta Pennison</a>)
+     b. 14 January 1928
+     m. 70 years as of 28 April 2020
+           Audrey Margie LaCoste
+                 (dau. of McKinley LaCoste and Matilda Adams)
+                 b. 15 April 1930   Morgan City, St. Mary Parish, Louisiana
+                 d. 28 April 2020   Riverside Hospital, Louisiana
+     d. 27 April 2018   Angie, Louisiana
+           bur. Morgan City Cemetery   Morgan City, St. Mary Parish, Louisiana
+  
+  <font size="+1">children:</font>
+     Archie James Vining   m. Betty [&#8230;]
+     Lana Vining   m. Glen Stuart
+  
+  <a href="Asources/ArchieJ01doc.htm">documentation and notes</a>

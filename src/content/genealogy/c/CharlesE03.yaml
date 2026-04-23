@@ -1,0 +1,38 @@
+id: CharlesE03
+letter: C
+sequence: 60
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JonW01
+parentLetter: J
+parentDesc: "Jon Wayne Vining and Shirley [...]"
+head:
+  givenName: Charles Edward
+  birth:
+    date: age 53 y. at death
+  death:
+    date: 10 April 2011
+    place: "Richmond Hill, Georgia"
+  burial:
+    place: "Richmond Hill First Baptist Church Cemetery   Richmond Hill, Georgia"
+marriages:
+  - spouse:
+      givenName: Pam
+      surname: "[...]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Michael Vining
+docsUrl: Csources/CharlesE03doc.htm
+raw: |-
+  <a name="CharlesE03"></a><font size=+2>Charles Edward Vining</font>
+     (son of <a href="Jfamilies.htm#JonW01">Jon Wayne Vining and Shirley [...]</a>)
+     b. age 53 y. at death
+     m. Pam [...]
+     d. 10 April 2011   Richmond Hill, Georgia
+           bur. Richmond Hill First Baptist Church Cemetery   Richmond Hill, Georgia
+  
+  <font size=+1>child:</font>
+     Michael Vining
+  
+  <a href="Csources/CharlesE03doc.htm">documentation and notes</a>

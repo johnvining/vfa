@@ -1,0 +1,45 @@
+id: John29
+title: John Vining - Ann [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Vining
+          values:
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ann ([...]) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: John Elmer Vining
+          values:
+            - "7"
+            - "?"
+            - married [and living in separate household?]
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Adams Township, Allen County, Indiana - dwelling 249, family 253. Also living in this household in 1870 was
+          Mary Vining (43 y., b. Ohio), possibly a sister of John Vining.
+        images:
+          - src: John29census1870.jpg

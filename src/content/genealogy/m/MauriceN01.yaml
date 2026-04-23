@@ -1,0 +1,57 @@
+id: MauriceN01
+sequence: 18
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: SeldonJ01
+parentLetter: S
+parentDesc: Seldon J. Vining and Alice Mary Lowenstein
+head:
+  givenName: Maurice Nathaniel
+  birth:
+    date: 12 August 1904
+    place: "Seattle, Washington"
+  death:
+    date: 21 April 1993
+    place: "Kitsap County, Washington"
+  burial:
+    place: "Saint Barnabas Episcopal Church Cemetery   Bainbridge, Kitsap County, Washington"
+marriages:
+  - spouse:
+      givenName: Dorothea Helen
+      surname: Pratt
+      birth:
+        date: 22 April 1908
+        place: "Seattle, Washington"
+      death:
+        date: 31 January 1989
+        place: "Kitsap County, Washington"
+      burial:
+        place: "Saint Barnabas Episcopal Church Cemetery   Bainbridge, Kitsap County, Washington"
+childrenGroups:
+  - children:
+      - name: Virginia Vining
+        birth:
+          date: age 5 y. as of 1940 census
+          place: Washington
+      - name: Anne Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Washington
+docsUrl: Msources/MauriceN01doc.htm
+raw: |-
+  <a name="MauriceN01"></a><font size=+2>Maurice Nathaniel Vining</font>
+     (son of <a href="Sfamilies.htm#SeldonJ01">Seldon J. Vining and Alice Mary Lowenstein</a>)
+     b. 12 August 1904   Seattle, Washington
+     m. Dorothea Helen Pratt
+              b. 22 April 1908   Seattle, Washington
+              d. 31 January 1989   Kitsap County, Washington
+                    bur. Saint Barnabas Episcopal Church Cemetery   Bainbridge, Kitsap County, Washington
+     d. 21 April 1993   Kitsap County, Washington
+           bur. Saint Barnabas Episcopal Church Cemetery   Bainbridge, Kitsap County, Washington
+  
+  <font size=+1>children:</font>
+     Virginia Vining   b. age 5 y. as of 1940 census   Washington
+     Anne Vining   b. age 1 y. as of 1940 census   Washington
+  
+  <a href="Msources/MauriceN01doc.htm">documentation and notes</a>

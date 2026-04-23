@@ -1,0 +1,63 @@
+id: WilliamR01
+sequence: 131
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Spencer01
+parentLetter: S
+parentDesc: Spencer Vining and Sarah Porter
+head:
+  givenName: William Reed
+  birth:
+    date: 5 December 1825
+    place: "Abington, Massachusetts"
+  death:
+    date: before 1900 census
+marriages:
+  - date: 25 September 1849
+    place: "Abington, Massachusetts"
+    spouse:
+      givenName: Susan A. H.
+      surname: Whitman
+      parents: "(dau. of Jared Whitman and Susannah [...])"
+      birth:
+        date: March 1826
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Sarah Porter Vining
+        birth:
+          date: 27 June 1853
+          place: Massachusetts
+        marriages:
+          - date: 6 November 1878
+            spouse: Frank Smith
+      - name: William Whitman Vining
+        entryId: WilliamW02
+        birth:
+          date: "1 June [1855?]"
+          place: Massachusetts
+        marriages:
+          - date: 20 November 1877
+            spouse: Nellie Cook
+      - name: Jared Augustus Vining
+        birth:
+          date: 3 April 1857
+          place: Massachusetts
+docsUrl: Wsources/WilliamR01doc.htm
+raw: |-
+  <a name="WilliamR01"></a><font size=+2>William Reed Vining</font>
+     (son of <a href="Sfamilies.htm#Spencer01">Spencer Vining and Sarah Porter</a>)
+     b. 5 December 1825   Abington, Massachusetts
+     m. 25 September 1849   Abington, Massachusetts
+           Susan A. H. Whitman
+                 (dau. of Jared Whitman and Susannah [...])
+                 b. March 1826   Massachusetts
+     d. before 1900 census
+  
+  <font size=+1>children:</font>
+     Sarah Porter Vining   b. 27 June 1853   Massachusetts   -   m. 6 November 1878   Frank Smith
+     <a href="#WilliamW02">William Whitman Vining</a>   b. 1 June [1855?]   Massachusetts   -   m. 20 November 1877   Nellie Cook
+     Jared Augustus Vining   b. 3 April 1857   Massachusetts
+  
+  <a href="Wsources/WilliamR01doc.htm">documentation and notes</a>

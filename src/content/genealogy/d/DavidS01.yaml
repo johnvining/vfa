@@ -1,0 +1,47 @@
+id: DavidS01
+sequence: 57
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AlbertE01
+parentLetter: A
+parentDesc: Albert Edwin Vining and Nora Gertrude Stevens
+head:
+  givenName: David Stevens
+  birth:
+    date: 29 March 1947
+    place: "Portland, Maine"
+  death:
+    date: 15 July 2016
+    place: "Portland, Maine"
+  burial:
+    place: "St. Joseph's Cemetery   Biddeford, Maine"
+marriages:
+  - number: 1
+    date: 6 May 1977
+    spouse:
+      givenName: Germaine
+      surname: Sharkey
+  - number: 2
+    date: Gerry Trottier
+childrenGroups:
+  - headingText: child
+    children:
+      - name: David Stevens Vining Jr.
+        birth:
+          date: 15 November 1977
+docsUrl: Dsources/DavidS01doc.htm
+raw: |-
+  <a name="DavidS01"></a><font size=+2>David Stevens Vining</font>
+     (son of <a href="Afamilies.htm#AlbertE01">Albert Edwin Vining and Nora Gertrude Stevens</a>)
+     b. 29 March 1947   Portland, Maine
+     m. (1) 6 May 1977
+              Germaine Sharkey
+           (2) Gerry Trottier
+     d. 15 July 2016   Portland, Maine
+           bur. St. Joseph's Cemetery   Biddeford, Maine
+  
+  <font size=+1>child:</font>
+     David Stevens Vining Jr.   b. 15 November 1977
+  
+  <a href="Dsources/DavidS01doc.htm">documentation and notes</a>

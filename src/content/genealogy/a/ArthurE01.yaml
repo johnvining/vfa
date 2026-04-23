@@ -1,0 +1,75 @@
+id: ArthurE01
+letter: A
+sequence: 87
+lastUpdated: 1 February 2021
+relationship: son
+parentId: GeorgeW04
+parentLetter: G
+parentDesc: George Washington Vining and Eleanor Adelaide Lampman
+head:
+  givenName: Arthur Edwin
+  birth:
+    date: 6 August 1878
+    place: "Florence Township, Goodhue County, Minnesota"
+  death:
+    date: 3 September 1955
+    place: "Lowrie City, St. Clair County, Missouri"
+  burial:
+    place: "Roscoe, St. Clair County, Missouri"
+marriages:
+  - date: "[1?] 15 July 1901"
+    place: "Durand, Pepin County, Wisconsin"
+    spouse:
+      givenName: Jennie C.
+      surname: Clark
+    note: |-
+      [2?] Blanche Delia Ross
+      [3?] Myrtle Jeanie Witham
+         (dau. of Austin Witham and Harriet [&#8230;])
+         b. 22 August 1894
+         d. 15 November 1969   Garner, Hancock County, Iowa
+      divorced before 1930 census
+childrenGroups:
+  - spouseRef: "[?]"
+    headingText: "children by [?]"
+    children:
+      - name: Viola Veryl Vining
+        birth:
+          date: 13 August 1913
+          place: "Winnebago, Faribault County, Minnesota"
+        marriages:
+          - date: Theodore Raymond Douthitt
+        death:
+          date: 21 October 001
+          place: "Saint Louis Park, Hennepin County, Minnesota"
+      - name: Harriet Frances Vining
+        birth:
+          date: 9 July 1929
+          place: "Algona, Kossuth County, Iowa"
+        marriages:
+          - date: 3 September 1950
+            place: "Algona, Iowa"
+            spouse: Dale Fern Huling
+        death:
+          date: 19 January 1984
+          place: "Hayfield, Hancock County, Iowa"
+        burial:
+          place: "Evergreen Cemetery   Britt, Hancock County, Iowa"
+raw: |-
+  <a name="ArthurE01"></a><font size="+2">Arthur Edwin Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeW04">George Washington Vining and Eleanor Adelaide Lampman</a>)
+     b. 6 August 1878   Florence Township, Goodhue County, Minnesota
+     m. [1?] 15 July 1901   Durand, Pepin County, Wisconsin
+                 Jennie C. Clark
+           [2?] Blanche Delia Ross
+           [3?] Myrtle Jeanie Witham
+              (dau. of Austin Witham and Harriet [&#8230;])
+              b. 22 August 1894
+              d. 15 November 1969   Garner, Hancock County, Iowa
+           divorced before 1930 census
+     d. 3 September 1955   Lowrie City, St. Clair County, Missouri
+           bur. Roscoe, St. Clair County, Missouri
+  
+  <font size="+1">children by [?]:</font>
+     Viola Veryl Vining   b. 13 August 1913   Winnebago, Faribault County, Minnesota   -   m. Theodore Raymond Douthitt   -   d. 21 October 001   Saint Louis Park, Hennepin County, Minnesota
+     Harriet Frances Vining   b. 9 July 1929   Algona, Kossuth County, Iowa   -   m. 3 September 1950   Algona, Iowa   Dale Fern Huling   -   d. 19 January 1984   Hayfield, Hancock County, Iowa   -   bur. Evergreen Cemetery   Britt, Hancock County, Iowa

@@ -1,0 +1,62 @@
+id: JesseR01
+title: Jesse Rodolphus Vining - Angeline Martha Dickinson
+displayTitle: Jesse Rodolphus Vining and Angeline Martha Dickinson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Jesse Rodolphus Vining
+          values:
+            - "27"
+            - "37"
+            - "?"
+        - label: Angeline Martha (Dickinson) Vining
+          values:
+            - "23"
+            - "37"
+            - dead
+        - label: Nellie M. Vining
+          values:
+            - "3"
+            - "13"
+            - |-
+              22
+              [see note below]
+          indent: true
+        - label: Ruth E. Vining
+          values:
+            - ""
+            - "7"
+            - |-
+              17
+              [see note below]
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Westfield, Hampden County, Massachusetts - dwelling 186, family 237
+        images:
+          - src: JesseR01census1900.jpg
+      - year: "1910"
+        caption: Newport (ward 2), Newport County, Rhode Island - dwelling 65, family 79
+        images:
+          - src: JesseR01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Newport (ward 3), Newport County, Rhode Island - dwelling 27, family 46: In 1920, Nellie M. was married, to
+          Joseph Dennis, and sister Ruth was living in the same household as Nellie and her family.
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Jesse Rodolphus Vining. in Braman Cemetery, Newport, Newport County, Rhode Island (from Find A
+          Grave):
+        images:
+          - src: JesseR01gravestone.jpg
+      - caption: >-
+          Gravestone for Ruth E. (Vining) (Cerio) DLieto, daughter of Jesse Rodolphus Vining and Angeline Martha
+          Dickinson, in Friends Cemetery, Newport, Newport County, Rhode Island (from Find A Grave):
+        images:
+          - src: JesseR01dauRuthgravestone.jpg

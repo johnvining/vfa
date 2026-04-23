@@ -1,0 +1,121 @@
+id: FrankA03
+title: Frank Albert Vining - Jane Eliza Hopcroft
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Albert Vining
+          values:
+            - "35"
+            - "44"
+            - "54"
+            - "64"
+            - dead
+        - label: Jane Eliza (Hopcroft) Vining
+          values:
+            - "27"
+            - "38"
+            - "48"
+            - "58"
+            - "?"
+        - label: Albert L. Vining
+          values:
+            - "10"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Frank LathanVining
+          values:
+            - "8"
+            - "18"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Perlie H. “Paul” Vining
+          values:
+            - "5"
+            - "16"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Agnes J. Vining
+          values:
+            - "1"
+            - "10"
+            - "20"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Robert B. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+          indent: true
+        - label: Cecelie Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Thomas Clifford Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Herbert Vining
+          values:
+            - ""
+            - 5 months
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Walter L. Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - |-
+              living in separate household
+              [see note below]
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Hamden, New Haven County, Connecticut - dwelling 37, family 39
+        images:
+          - src: FrankA03census1900.jpg
+      - year: "1910"
+        caption: Hamden Township, New Haven County, Connecticut - dwelling 226, family 280
+        images:
+          - src: FrankA03census1910.jpg
+      - year: "1920"
+        caption: Bristol (district 1), Hartford County, Connecticut - dwelling 134, family 190
+        images:
+          - src: FrankA03census1920.jpg
+      - year: "1930"
+        caption: >-
+          Ducor Township, Tulare County, California - dwelling 390, family 403. In 1930, Robert B. Vining and Walter L.
+          Vining were living in the household of brother Perlie H. “Paul” Vining.
+        images:
+          - src: FrankA03census1920.jpg

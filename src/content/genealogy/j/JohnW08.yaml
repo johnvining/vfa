@@ -1,0 +1,60 @@
+id: JohnW08
+sequence: 277
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: DariusT01
+parentLetter: D
+parentDesc: Darius Townsend Vining and Eulalia Carroll McClellan
+head:
+  givenName: John William
+  birth:
+    date: 24 November 1896
+    place: "Wildwood, Florida"
+marriages:
+  - spouse:
+      givenName: Annie Lou
+      surname: Ball
+      parents: (dau. of John Henry Austin Ball and Nancy Elizabeth Turner)
+      birth:
+        date: 8 September 1908
+        place: "Easonville, St. Clair County, Alabama"
+      death:
+        date: 24 June 1994
+        place: "Aberdeen Township, Monmouth County, New Jersey"
+childrenGroups:
+  - children:
+      - name: Johnnie Lou Vining
+        birth:
+          date: 4 September 1932
+          place: "Talladega, Alabama"
+        marriages:
+          - date: James T. Daily
+        death:
+          date: 2 June 2011
+          place: "Matawan, Monmouth County, New Jersey"
+      - name: William Daris Vining
+        entryId: WilliamD03
+        entryLetter: W
+        birth:
+          date: 28 May 1934
+          place: "Pell City, St. Clair County, Alabama"
+        marriages:
+          - date: Concetta Marie Russo
+        death:
+          date: 15 October 1997
+          place: "Port Reading, Middlesex County, New Jersey"
+        burial:
+          place: "Saint James Cemetery   Woodbridge, New Jersey"
+raw: |-
+  <a name="JohnW08"></a><font size=+2>John William Vining</font>
+     (son of <a href="Dfamilies.htm#DariusT01">Darius Townsend Vining and Eulalia Carroll McClellan</a>)
+     b. 24 November 1896   Wildwood, Florida
+     m. Annie Lou Ball
+              (dau. of John Henry Austin Ball and Nancy Elizabeth Turner)
+              b. 8 September 1908   Easonville, St. Clair County, Alabama
+              d. 24 June 1994   Aberdeen Township, Monmouth County, New Jersey
+  
+  <font size=+1>children:</font>
+     Johnnie Lou Vining   b. 4 September 1932   Talladega, Alabama   -   m. James T. Daily   -   d. 2 June 2011   Matawan, Monmouth County, New Jersey
+     <a href="Wfamilies.htm#WilliamD03">William Daris Vining</a>   b. 28 May 1934   Pell City, St. Clair County, Alabama   -   m. Concetta Marie Russo   -   d. 15 October 1997   Port Reading, Middlesex County, New Jersey   -   bur. Saint James Cemetery   Woodbridge, New Jersey

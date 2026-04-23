@@ -1,0 +1,73 @@
+id: Arthur04
+title: Arthur Vining - Mary [J.?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Arthur Vining
+          values:
+            - "?"
+            - "37"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary [J.?] ([...]) Vining
+          values:
+            - "?"
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+        - label: Anna [K.?] Vining
+          values:
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Arch Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lillie Vining
+          values:
+            - "?"
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Wesley Vining
+          values:
+            - "?"
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lou[...]inia Vining
+          values:
+            - "?"
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: Precinct 6, Tarrant County, Texas - dwelling 14, family 14
+        images:
+          - src: Arthur04census1900.jpg

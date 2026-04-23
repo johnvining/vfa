@@ -1,0 +1,94 @@
+id: WinfieldS01
+sequence: 151
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Robert02
+parentLetter: R
+parentDesc: "Robert Vining and Elizabeth [...]"
+head:
+  givenName: Winfield Scott
+  birth:
+    date: 14 August 1849
+    place: New York
+  death:
+    date: 21 January 1911
+marriages:
+  - spouse:
+      givenName: Estelle
+      surname: Miles
+      birth:
+        date: May 1846
+        place: New York
+childrenGroups:
+  - children:
+      - name: Arthur F. Vining
+        entryId: ArthurF01
+        entryLetter: A
+        birth:
+          date: 9 March 1870
+          place: New York
+        marriages:
+          - date: Ada H. Peck
+        death:
+          date: 5 June 1932
+      - name: Roswell S. Vining
+        entryId: RoswellS01
+        entryLetter: R
+        birth:
+          date: 27 November 1871
+          place: New York
+        marriages:
+          - date: Julia Vestina Hitchcock
+        death:
+          date: "1944"
+      - name: Leonard B. Vining
+        birth:
+          date: 17 October 1873
+          place: New York
+        marriages:
+          - date: 28 October 1896
+            spouse: Grace E. Simpson
+        death:
+          date: 1 April 1899
+      - name: Willard B. Vining
+        entryId: WillardB01
+        birth:
+          date: 4 January 1876
+          place: New York
+        marriages:
+          - date: Jessie A. Hitchcock
+        death:
+          date: 9 July 1957
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+      - name: Raymond E. Vining
+        entryId: RaymondE01
+        entryLetter: R
+        birth:
+          date: 2 November 1879
+          place: New York
+        marriages:
+          - number: 1
+            date: "Mabel Crandell (d. [26 May?] 1916)"
+          - number: 2
+            date: "Jennie [&#8230;]"
+        death:
+          date: "1963"
+docsUrl: Wsources/WinfieldS01doc.htm
+raw: |-
+  <a name="WinfieldS01"></a><font size=+2>Winfield Scott Vining</font>
+     (son of <a href="Rfamilies.htm#Robert02">Robert Vining and Elizabeth [...]</a>)
+     b. 14 August 1849   New York
+     m. Estelle Miles
+              b. May 1846   New York
+     d. 21 January 1911
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#ArthurF01">Arthur F. Vining</a>   b. 9 March 1870   New York   -   m. Ada H. Peck   -   d. 5 June 1932
+     <a href="Rfamilies.htm#RoswellS01">Roswell S. Vining</a>   b. 27 November 1871   New York   -   m. Julia Vestina Hitchcock   -   d. 1944
+     Leonard B. Vining   b. 17 October 1873   New York   -   m. 28 October 1896   Grace E. Simpson   -   d. 1 April 1899
+     <a href="#WillardB01">Willard B. Vining</a>   b. 4 January 1876   New York   -   m. Jessie A. Hitchcock   -   d. 9 July 1957   -   bur. Maplecrest Cemetery   Windham, New York
+     <a href="Rfamilies.htm#RaymondE01">Raymond E. Vining</a>   b. 2 November 1879   New York   -   m. (1) Mabel Crandell (d. [26 May?] 1916);   (2) Jennie [&#8230;]   -   d. 1963
+  
+  <a href="Wsources/WinfieldS01doc.htm">documentation and notes</a>

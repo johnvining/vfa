@@ -1,0 +1,78 @@
+id: FrederickJ01
+title: Frederick J. Vining - (1) Ella B. Moakler;   (2) Katherine F. Hogan
+displayTitle: Frederick J. Vining - Ella B. Moakler, Katherine F. Hogan
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frederick J. Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+            - "57"
+            - dead
+        - label: Ella B. (Moakler) Vining
+          values:
+            - "29"
+            - "39"
+            - dead
+            - ""
+            - ""
+        - label: Katherine F. (Hogan) Vining
+          values:
+            - ""
+            - ""
+            - "36"
+            - "45"
+            - "?"
+        - label: Ella [K. or C.] Vining
+          values:
+            - ""
+            - ""
+            - 1 y., 6 m.
+            - "11"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Williamsburg, Hampshire County, Massachusetts - dwelling 185, family 207
+        images:
+          - src: FrederickJ01census1900.jpg
+      - year: "1910"
+        caption: Williamsburg, Hampshire County, Massachusetts - dwelling 53, family 56.
+        images:
+          - src: FrederickJ01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Williamsburg, Hampshire County, Massachusetts - dwelling 74, family 79. Also living in this household in 1920
+          were Mary P. Vining (widowed mother of Frederick J. Vining, 80 y., b. Massachusetts), John J. Mara (hired man,
+          17 y., b. Massachusetts), and Edward L. O'Brien (lodger, 14 y., b. Massachusetts).
+        images:
+          - src: FrederickJ01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Williamsburg, Hampshire County, Massachusetts - dwelling 161, family 161. Also living in this household in
+          1930 were Edward L. O'Brien (nephew of Frederick J. Vining, 25 y., b. Massachusetts), Michael V. O'Brien
+          (nephew of Frederick J. Vining, 23 y., b. Massachusetts), Harold McGinn (16 y., b. Massachusetts), and Alfred
+          Healy (13 y., b. Massachusetts).
+        images:
+          - src: FrederickJ01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Frederick J. Vining (and his parents), (probably) in High Street Cemetery, Haydenville,
+          Hampshire County, Massachusetts (from Find A Grave):
+        images:
+          - src: FrederickJ01headstone.jpg
+      - caption: >-
+          Headstone for Frederick J. Vining and wives, in Saint Marys Assumption Cemetery, Haydenville, Hampshire
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: FrederickJ01andwivesheadstone.jpg

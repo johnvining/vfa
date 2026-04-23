@@ -1,0 +1,51 @@
+id: JamesE03
+sequence: 51
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ClairW01
+parentLetter: C
+parentDesc: Clair Wilbur Vining and Adelaide LaPenna
+head:
+  givenName: James Edward
+  birth:
+    date: 3 March 1930
+    place: "Brooklyn, New York"
+  death:
+    date: 17 June 1979
+marriages:
+  - number: 1
+    date: "Dee [...]"
+    note: divorced
+  - number: 2
+    date: "Elizabeth [...]"
+childrenGroups:
+  - spouseRef: "Dee [...]"
+    children:
+      - name: child Vining
+      - name: child Vining
+      - name: child Vining
+  - spouseRef: "Elizabeth [...]"
+    children:
+      - name: "James Edward &#8220;Tinker&#8221; Vining Jr."
+      - name: child Vining
+      - name: child Vining
+      - name: child Vining
+raw: |-
+  <a name="JamesE03"></a><font size=+2>James Edward Vining</font>
+     (son of <a href="Cfamilies.htm#ClairW01">Clair Wilbur Vining and Adelaide LaPenna</a>)
+     b. 3 March 1930   Brooklyn, New York
+     m. (1) Dee [...]
+                 divorced
+           (2) Elizabeth [...]
+     d. 17 June 1979
+  
+  <font size=+1>children by Dee [...]:</font>
+     child Vining
+     child Vining
+     child Vining
+  <font size=+1>children by Elizabeth [...]:</font>
+     James Edward &#8220;Tinker&#8221; Vining Jr.
+     child Vining
+     child Vining
+     child Vining

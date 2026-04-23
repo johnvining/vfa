@@ -1,0 +1,153 @@
+id: SamuelJr01
+letter: S
+sequence: 11
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Samuel01
+parentDesc: Samuel Vining and Sarah Devril
+head:
+  givenName: Samuel Jr.
+  birth:
+    date: 25 October 1701
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 26 April 1762
+    place: "[East?] Windsor, Hartford County, Connecticut"
+  burial:
+    place: "possibly in Scantic Cemetery   East Windsor, Hartford County, Connecticut"
+marriages:
+  - number: 1
+    date: 10 August 1727
+    spouse:
+      givenName: Mary
+      surname: Gleason
+      parents: (dau. of John Gleason and Hannah Woolworth)
+      birth:
+        date: 10 October 1709
+        place: "Enfield, Hartford County, Connecticut"
+      death:
+        date: "1746"
+        place: "Windsor, Hartford County, Connecticut"
+  - number: 2
+    spouse:
+      givenName: "Elizabeth Killiam?"
+childrenGroups:
+  - headingText: "children?"
+    children:
+      - name: Richard Vining
+      - name: Elizabeth Vining
+  - spouseRef: Mary Gleason
+    children:
+      - name: Samuel Vining III
+        birth:
+          date: 18 May 1728
+          place: "Enfield, Hartford County, Connecticut"
+        marriages:
+          - date: int. 3 January 1747
+            spouse: Elizabeth Wood
+      - name: Mary Vining
+        birth:
+          date: 23 February 1729/1730
+          place: "Enfield, Hartford County, Connecticut"
+      - name: Jonathan/John Vining
+        entryId: Jonathan01
+        entryLetter: J
+        birth:
+          date: 26 May 1732
+          place: "Enfield, Hartford County, Connecticut"
+        marriages:
+          - date: Rosanna/Roxanna Carter
+        death:
+          date: "Ohio?"
+      - name: Josiah Vining
+        birth:
+          date: 22 October 1733
+          place: "Windsor, Hartford County, Connecticut"
+      - name: Jonah Vining
+        birth:
+          date: 18 February 1735/36
+          place: "Windsor, Hartford County, Connecticut"
+      - name: Sarah Vining
+        birth:
+          date: 16 September 1738
+          place: "Windsor, Hartford County, Connecticut"
+      - name: Hannah Vining
+        birth:
+          date: 23 January 1740/41
+          place: "Windsor, Hartford County, Connecticut"
+      - name: Abijah Vining
+        entryId: Abijah01
+        entryLetter: A
+        birth:
+          date: 11 April 1743
+          place: "Windsor, Hartford County, Connecticut"
+        marriages:
+          - date: "Rebecca [...]"
+        death:
+          date: "[Pitcher or Wayne Township?], New York"
+      - name: Elias Vining
+        entryId: Elias01
+        entryLetter: E
+        birth:
+          date: 23 October 1745
+          place: "Windsor, Hartford County, Connecticut"
+        marriages:
+          - date: 12 December 1771
+            place: "Simsbury, Connecticut"
+            spouse: Eunice Case
+        death:
+          date: 12 March 1825
+  - headingText: "children (by Elizabeth Killiam?)"
+    children:
+      - name: Lucy Vining
+        birth:
+          date: 22 April 1750
+          place: "Windsor, Hartford County, Connecticut"
+      - name: Alexander Vining
+        entryId: Alexander01
+        entryLetter: A
+        birth:
+          date: 21 September 1751
+          place: "Windsor, Hartford County, Connecticut"
+        marriages:
+          - number: 1
+            date: 19 September 1774
+            spouse: Olive Louisa Pease
+          - number: 2
+            date: 22 November 1786
+            spouse: Lovice Pease
+        death:
+          date: 22 April 1828
+          place: "East Windsor, Hartford County, Connecticut"
+docsUrl: Ssources/SamuelJr01doc.htm
+raw: |-
+  <a name="SamuelJr01"></a><font size=+2>Samuel Vining Jr.</font>
+     (son of <a href="#Samuel01">Samuel Vining and Sarah Devril</a>)
+     b. 25 October 1701   Weymouth, Norfolk County, Massachusetts
+     m. (1) 10 August 1727
+              Mary Gleason
+                    (dau. of John Gleason and Hannah Woolworth)
+                    b. 10 October 1709   Enfield, Hartford County, Connecticut
+                    d. 1746   Windsor, Hartford County, Connecticut
+           (2) Elizabeth Killiam?
+     d. 26 April 1762   [East?] Windsor, Hartford County, Connecticut
+           bur. possibly in Scantic Cemetery   East Windsor, Hartford County, Connecticut
+  
+  <font size=+1>children?:</font>
+     Richard Vining
+     Elizabeth Vining
+  <font size=+1>children by Mary Gleason:</font>
+     Samuel Vining III   b. 18 May 1728   Enfield, Hartford County, Connecticut   -   m. int. 3 January 1747   Elizabeth Wood
+     Mary Vining   b. 23 February 1729/1730   Enfield, Hartford County, Connecticut
+     <a href="Jfamilies.htm#Jonathan01">Jonathan/John Vining</a>   b. 26 May 1732   Enfield, Hartford County, Connecticut   -   m. Rosanna/Roxanna Carter   -   d. Ohio?
+     Josiah Vining   b. 22 October 1733   Windsor, Hartford County, Connecticut
+     Jonah Vining   b. 18 February 1735/36   Windsor, Hartford County, Connecticut
+     Sarah Vining   b. 16 September 1738   Windsor, Hartford County, Connecticut
+     Hannah Vining   b. 23 January 1740/41   Windsor, Hartford County, Connecticut
+     <a href="Afamilies.htm#Abijah01">Abijah Vining</a>   b. 11 April 1743   Windsor, Hartford County, Connecticut   -   m. Rebecca [...]   -   d. [Pitcher or Wayne Township?], New York
+     <a href="Efamilies.htm#Elias01">Elias Vining</a>   b. 23 October 1745   Windsor, Hartford County, Connecticut   -   m. 12 December 1771   Simsbury, Connecticut   Eunice Case   -   d. 12 March 1825
+  <font size=+1>children (by Elizabeth Killiam?):</font>
+     Lucy Vining   b. 22 April 1750   Windsor, Hartford County, Connecticut
+     <a href="Afamilies.htm#Alexander01">Alexander Vining</a>   b. 21 September 1751   Windsor, Hartford County, Connecticut   -   m. (1) 19 September 1774   Olive Louisa Pease;   (2) 22 November 1786   Lovice Pease   -   d. 22 April 1828   East Windsor, Hartford County, Connecticut
+  
+  <a href="Ssources/SamuelJr01doc.htm">documentation and notes</a>

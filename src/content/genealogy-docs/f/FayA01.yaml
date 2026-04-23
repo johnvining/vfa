@@ -1,0 +1,42 @@
+id: FayA01
+title: Fay A. Vining - Fern L. Schultz
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Fay A. Vining
+          values:
+            - "26"
+            - "36"
+        - label: Fern L. (Schultz) Vining
+          values:
+            - "24"
+            - "34"
+        - label: Cleo Jean Vining
+          values:
+            - 2 y., 6 m.
+            - "12"
+          indent: true
+        - label: Arlene M. Vining
+          values:
+            - 1 y., 2 m.
+            - "11"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Lansing, Ingham County, Michigan - dwelling 190, family 261
+        images:
+          - src: FayA01census1930.jpg
+      - year: "1940"
+        caption: Lansing (ward 8), Ingham County, Michigan
+        images:
+          - src: FayA01census1940.jpg
+  - type: other
+    heading: Arlene Vining
+    items:
+      - caption: "Marriage license application for Arlene Vining and Eugene D. Briggs:"
+        images:
+          - src: FayA01dauArlenemarriageapplication.jpg

@@ -1,0 +1,47 @@
+id: RussellD01
+sequence: 177
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: OrphaM01
+parentLetter: O
+parentDesc: "Orpha M. Vining and [...]"
+head:
+  givenName: Russell Dale
+  birth:
+    date: 28 August 1896
+  death:
+    date: "[23 August 1962 or December 1972?]"
+marriages:
+  - spouse:
+      givenName: Flossie Leah
+      surname: Turk
+childrenGroups:
+  - children:
+      - name: Foster Vining
+        birth:
+          date: 20 August 1924
+        death:
+          date: September 1982
+          place: "(last residence: Jasper, Georgia)"
+      - name: June Ellen Vining
+        birth:
+          date: 6 November 1932
+        marriages:
+          - date: Kenneth T. Brown Jr.
+      - name: Virginia Jeannette Vining
+        birth:
+          date: 8 September 1935
+        marriages:
+          - date: Paul Adams
+raw: |-
+  <a name="RussellD01"></a><font size=+2>Russell Dale Vining</font>
+     (son of <a href="Ofamilies.htm#OrphaM01">Orpha M. Vining and [...]</a>)
+     b. 28 August 1896
+     m. Flossie Leah Turk
+     d. [23 August 1962 or December 1972?]
+  
+  <font size=+1>children:</font>
+     Foster Vining   b. 20 August 1924   -   d. September 1982   (last residence: Jasper, Georgia)
+     June Ellen Vining   b. 6 November 1932   -   m. Kenneth T. Brown Jr.
+     Virginia Jeannette Vining   b. 8 September 1935   -   m. Paul Adams

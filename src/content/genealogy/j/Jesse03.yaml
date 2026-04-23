@@ -1,0 +1,50 @@
+id: Jesse03
+sequence: 135
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John13
+parentDesc: John Vining and Sarah Ratcliff(e)
+head:
+  givenName: Jesse
+  birth:
+    date: ca. 1756
+    place: South Carolina
+  death:
+    date: ca. 1821
+    place: "St. Helena, Louisiana"
+marriages:
+  - place: Georgia
+    spouse:
+      givenName: "Rebecca [Hering or Heritty?]"
+      surname: ""
+childrenGroups:
+  - children:
+      - name: Elizabeth Vining
+        marriages:
+          - date: 14 September 1818
+            place: "St. Helena, Louisiana"
+      - name: John Vining
+      - name: Jesse Vining Jr.
+        entryId: JesseJr02
+        birth:
+          date: ca. 1806
+        marriages:
+          - date: ca. 1828
+            place: "St. Helena Parish, Louisiana"
+            spouse: Martha Foster
+        death:
+          date: 6 August 1840
+          place: "St. Helena, Louisiana"
+raw: |-
+  <a name="Jesse03"></a><font size=+2>Jesse Vining</font>
+     (son of <a href="#John13">John Vining and Sarah Ratcliff(e)</a>)
+     b. ca. 1756   South Carolina
+     m. Georgia
+           Rebecca [Hering or Heritty?]
+     d. ca. 1821   St. Helena, Louisiana
+  
+  <font size=+1>children:</font>
+     Elizabeth Vining   m. 14 September 1818   St. Helena, Louisiana
+     John Vining
+     <a href="#JesseJr02">Jesse Vining Jr.</a>   b. ca. 1806   -   m. ca. 1828   St. Helena Parish, Louisiana   Martha Foster   -   d. 6 August 1840   St. Helena, Louisiana

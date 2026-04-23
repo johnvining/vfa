@@ -1,0 +1,70 @@
+id: WallaceD01
+sequence: 2
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: TimothyB01
+parentLetter: T
+parentDesc: Timothy Birum Vining and Sina Jones
+head:
+  givenName: Wallace D.
+  birth:
+    date: June 1850
+    place: Ohio
+  death:
+    date: 29 November 1913  Ohio
+marriages:
+  - date: 20 September 1876
+    place: "Meigs County, Ohio"
+    spouse:
+      givenName: Elizabeth S.
+      surname: Evans
+      parents: "(dau. of Beno[…] C. Evans and […])"
+      birth:
+        date: May 1854
+        place: Ohio
+      death:
+        date: between 1900 and 1910 censuses
+childrenGroups:
+  - children:
+      - name: Valcino Vernon Vining
+        entryId: ValcinoV01
+        entryLetter: V
+        birth:
+          date: 1 June 1877
+          place: "Rutland, Ohio"
+        marriages:
+          - date: Libby Lois Giles
+        death:
+          date: 11 February 1950
+          place: "Wray, Colorado"
+        burial:
+          place: "Armel Cemetery   Armel, Colorado"
+      - name: Mittie Cornelia Vining
+        birth:
+          date: October 1886
+          place: Ohio
+      - name: Minnie A. Vining
+        birth:
+          date: June 1888
+          place: Ohio
+        marriages:
+          - date: "Theodore W. [Beugel?]"
+docsUrl: Wsources/WallaceD01doc.htm
+raw: |-
+  <a name="WallaceD01"></a><font size=+2>Wallace D. Vining</font>
+     (son of <a href="Tfamilies.htm#TimothyB01">Timothy Birum Vining and Sina Jones</a>)
+     b. June 1850   Ohio
+     m. 20 September 1876   Meigs County, Ohio
+           Elizabeth S. Evans
+                 (dau. of Beno[&#8230;] C. Evans and [&#8230;])
+                 b. May 1854   Ohio
+                 d. between 1900 and 1910 censuses
+     d. 29 November 1913  Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Vfamilies.htm#ValcinoV01">Valcino Vernon Vining</a>   b. 1 June 1877   Rutland, Ohio   -   m. Libby Lois Giles   -   d. 11 February 1950   Wray, Colorado   -   bur. Armel Cemetery   Armel, Colorado
+     Mittie Cornelia Vining   b. October 1886   Ohio
+     Minnie A. Vining   b. June 1888   Ohio   -   m. Theodore W. [Beugel?]
+  
+  <a href="Wsources/WallaceD01doc.htm">documentation and notes</a>

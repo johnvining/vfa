@@ -1,0 +1,84 @@
+id: Olin01
+letter: O
+lastUpdated: 27 May 2020
+migrationNote: "Original HTML omitted b. birth marker before child Lillie Mae Vining's birth date; added in new rendering."
+relationship: son
+parentId: Bana01
+parentLetter: B
+parentDesc: Bana Vining and Frances Jane Gillis
+head:
+  givenName: Olin
+  birth:
+    date: 16 January 1894
+    place: Georgia
+  death:
+    date: 10 June 1937
+  burial:
+    place: "Mount Zion Cemetery   Axson, Georgia"
+marriages:
+  - spouse:
+      givenName: Hattie
+      surname: Crosby
+      parents: "(dau. of Hardy Crosby and Luraney Laranie Wright)"
+      birth:
+        date: age 21 y. as of 1920 census
+        place: Georgia
+      death:
+        date: Atkinson County, Georgia
+childrenGroups:
+  - children:
+      - name: Guy Vining
+        birth:
+          date: age 3 y. as of 1920 census
+          place: Georgia
+      - name: Clyde Vining
+        entryId: Clyde01
+        entryLetter: C
+        birth:
+          date: 25 February 1918
+          place: Georgia
+        marriages:
+          - date: Marion Elaine Westman
+        death:
+          date: 17 April 1996
+          place: "Pearson, Atkinson County, Georgia"
+        burial:
+          place: "Mount Zion Cemetery   Axson, Georgia"
+      - name: Lucille Vining
+        birth:
+          date: 30 December 1919
+          place: Georgia
+        death:
+          date: 22 August 1921
+        burial:
+          place: "New River Cemetery   Tifton, Georgia"
+      - name: Lillie Mae Vining
+        birth:
+          date: 13 April 1921
+          place: Georgia
+        marriages:
+          - date: Eschol Eddie Parker
+        death:
+          date: 23 February 2005
+          place: "Douglas, Coffee County, Georgia"
+        burial:
+          place: "Douglas City Cemetery   Douglas, Georgia"
+docsUrl: Osources/Olin01doc.htm
+raw: |-
+  <a name="Olin01"></a><font size=+2>Olin Vining</font>
+     (son of <a href="Bfamilies.htm#Bana01">Bana Vining and Frances Jane Gillis</a>)
+     b. 16 January 1894   Georgia
+     m. Hattie Crosby
+              (dau. of Hardy Crosby and Luraney Laranie Wright)
+              b. age 21 y. as of 1920 census   Georgia
+              d. Atkinson County, Georgia
+     d. 10 June 1937
+           bur. Mount Zion Cemetery   Axson, Georgia
+  
+  <font size=+1>children:</font>
+     Guy Vining   b. age 3 y. as of 1920 census   Georgia
+     <a href="Cfamilies.htm#Clyde01">Clyde Vining</a>   b. 25 February 1918   Georgia   -   m. Marion Elaine Westman   -   d. 17 April 1996   Pearson, Atkinson County, Georgia   -   bur. Mount Zion Cemetery   Axson, Georgia
+     Lucille Vining   b. 30 December 1919   Georgia   -   d. 22 August 1921   -   bur. New River Cemetery   Tifton, Georgia
+     Lillie Mae Vining   13 April 1921   Georgia   -   m. Eschol Eddie Parker   -   d. 23 February 2005   Douglas, Coffee County, Georgia   -   bur. Douglas City Cemetery   Douglas, Georgia
+  
+  <a href="Osources/Olin01doc.htm">documentation and notes</a>

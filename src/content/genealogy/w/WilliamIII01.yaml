@@ -1,0 +1,25 @@
+id: WilliamIII01
+sequence: 72
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamJr04
+parentDesc: William Vining Jr. and Sally Ann Farmer
+head:
+  givenName: William III
+marriages:
+  - spouse:
+      givenName: Janet Roxanne
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: William Vining
+      - name: Taylor Marie Vining
+raw: |-
+  <a name="WilliamIII01"></a><font size=+2>William Vining III</font>
+     (son of <a href="#WilliamJr04">William Vining Jr. and Sally Ann Farmer</a>)
+     m. Janet Roxanne [&#8230;]
+  
+  <font size=+1>children:</font>
+     William Vining
+     Taylor Marie Vining

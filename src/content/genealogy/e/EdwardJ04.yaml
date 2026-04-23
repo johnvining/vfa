@@ -1,0 +1,38 @@
+id: EdwardJ04
+sequence: 36
+letter: E
+lastUpdated: 23 February 2023
+head:
+  givenName: Edward Judson
+marriages:
+  - spouse:
+      givenName: Vernon Hazel
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Roy J. Vining
+        entryId: RoyJ01
+        entryLetter: R
+        birth:
+          date: age 84 y. at death
+        marriages:
+          - spouse: "Bettie [&#8230;]"
+        death:
+          date: 7 February 2009
+      - name: Edward Judson Vining Jr.
+        entryId: EdwardJJr01
+        birth:
+          date: 26 May 1922
+        marriages:
+          - spouse: Pauline Dekle
+        death:
+          date: 3 March 2013
+        burial:
+          place: "Riverside Memorial Park   Jacksonville, Florida"
+raw: |-
+  <a name="EdwardJ04"></a><font size=+2>Edward Judson Vining</font>
+     m. Vernon Hazel [...]
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RoyJ01">Roy J. Vining</a>   b. age 84 y. at death   -   m. Bettie [&#8230;]   -   d. 7 February 2009
+     <a href="#EdwardJJr01">Edward Judson Vining Jr.</a>   b. 26 May 1922   -   m. Pauline Dekle   -   d. 3 March 2013   -   bur. Riverside Memorial Park   Jacksonville, Florida

@@ -1,0 +1,58 @@
+id: PaulC02
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: FredE01
+parentLetter: F
+parentDesc: Fred Earnest Vining and Minnie Frances Payne
+head:
+  givenName: Paul Christopher
+  birth:
+    date: 4 August 1919
+    place: "Pine Bluff, Arkansas"
+  death:
+    date: 23 July 2006
+  burial:
+    place: "Memory Gardens of Fairhope   Fairhope, Alabama"
+marriages:
+  - spouse:
+      givenName: Florence
+      surname: Haynes
+      parents: "(dau. of Richard Haynes and Mary Louise [&#8230;])"
+      birth:
+        date: 16 February 1921
+        place: "Beaumont, Texas"
+      death:
+        date: 27 June 2016
+      burial:
+        place: "Memory Gardens of Fairhope   Fairhope, Alabama"
+childrenGroups:
+  - children:
+      - name: Frances Vining
+        marriages:
+          - date: Fred Erickson
+      - name: Tanamara Vining
+        marriages:
+          - date: "[...] Fleming"
+      - name: Martha Vining
+        marriages:
+          - date: Jim Follis
+docsUrl: Psources/PaulC02doc.htm
+raw: |-
+  <a name="PaulC02"></a><font size=+2>Paul Christopher Vining</font>
+     (son of <a href="Ffamilies.htm#FredE01">Fred Earnest Vining and Minnie Frances Payne</a>)
+     b. 4 August 1919   Pine Bluff, Arkansas
+     m. Florence Haynes
+              (dau. of Richard Haynes and Mary Louise [&#8230;])
+              b. 16 February 1921   Beaumont, Texas
+              d. 27 June 2016
+                    bur. Memory Gardens of Fairhope   Fairhope, Alabama
+     d. 23 July 2006
+           bur. Memory Gardens of Fairhope   Fairhope, Alabama
+  
+  <font size=+1>children:</font>
+     Frances Vining   m. Fred Erickson
+     Tanamara Vining   m. [...] Fleming
+     Martha Vining   m. Jim Follis
+  
+  <a href="Psources/PaulC02doc.htm">documentation and notes</a>

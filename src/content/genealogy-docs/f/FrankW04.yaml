@@ -1,0 +1,97 @@
+id: FrankW04
+title: Frank Whitten Vining - Sarah Elizabeth Slaughter
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Whitten Vining
+          values:
+            - "30"
+            - "40"
+            - "51"
+            - "?"
+        - label: Sarah Elizabeth (Slaughter) Vining
+          values:
+            - "22"
+            - "33"
+            - "43"
+            - "?"
+        - label: Roy E. Vining
+          values:
+            - "6"
+            - "15"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Mattie Mae Vining
+          values:
+            - "3"
+            - "12"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Eunice L. Vining
+          values:
+            - 1 m.
+            - "[dead?]"
+            - ""
+            - ""
+          indent: true
+        - label: Clyde Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Hugh Dorsey Vining
+          values:
+            - ""
+            - 3 y., [7?] m.
+            - "13"
+            - "?"
+          indent: true
+        - label: Ethel Vining
+          values:
+            - ""
+            - 1 m.
+            - "10"
+            - "?"
+          indent: true
+        - label: Catherine A. Vining
+          values:
+            - ""
+            - ""
+            - 4 y., 11 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Brooks District, Fayette County, Georgia - dwelling 57, family 59
+        images:
+          - src: FrankW04census1910.jpg
+      - year: "1920"
+        caption: Brooks, Fayette County, Georgia - dwelling 138, family 138
+        images:
+          - src: FrankW04census1920.jpg
+      - year: "1930"
+        caption: Brooks Station, Fayette County, Georgia - dwelling 99, family 104
+        images:
+          - src: FrankW04census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Frank Whitten Vining, in Whitewater Cemetery, Brooks, Fayette County, Georgia (from Find A
+          Grave):
+        images:
+          - src: FrankW04gravestone.jpg
+      - caption: >-
+          Gravestone for Clyde Vining, son of Frank Whitten Vining and Lizzie (Slaughter) Vining, in Whitewater
+          Cemetery, Brooks, Fayette County, Georgia (from Find A Grave):
+        images:
+          - src: FrankW04sonClydegravestone.jpg

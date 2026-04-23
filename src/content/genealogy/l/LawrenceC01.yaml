@@ -1,0 +1,75 @@
+id: LawrenceC01
+sequence: 14
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: DavidH02
+parentLetter: D
+parentDesc: "David Hewitt Vining and Johanna Laura Marie &#8220;Jennie&#8221; Johnson-Mork"
+head:
+  givenName: Lawrence Claude
+  birth:
+    date: "[21 or 2?] November 1914"
+    place: "McHenry, North Dakota"
+  death:
+    date: "[22 or 20?] May 1991"
+    place: "Lake City, Minnesota"
+  burial:
+    place: "Saint Mary's Cemetery   Minnesota"
+marriages:
+  - date: 17 January 1940
+    place: "Lake City, Minnesota"
+    spouse:
+      givenName: Martha Ernestina
+      surname: Hielscher
+      birth:
+        date: 26 August 1914
+        place: "Tolley, North Dakota"
+      death:
+        date: 16 October 2007
+        place: "Bloomington, Minnesota"
+childrenGroups:
+  - children:
+      - name: Paul Charles Vining
+        entryId: PaulC01
+        entryLetter: P
+        birth:
+          date: 6 March 1941
+          place: "Lake City, Minnesota"
+        marriages:
+          - date: 7 May 1960
+            spouse: Kathleen Hoops
+      - name: Shirley Lucille Vining
+        birth:
+          date: 21 August 1942
+          place: "Lake City, Minnesota"
+        marriages:
+          - date: 18 November 1961
+            spouse: Edward Dick
+      - name: John David Vining
+        entryId: JohnD02
+        entryLetter: J
+        birth:
+          date: 14 October 1944
+          place: "Lake City, Minnesota"
+        marriages:
+          - date: 18 December 1965
+            spouse: Linda Myers
+docsUrl: Lsources/LawrenceC01doc.htm
+raw: |-
+  <a name="LawrenceC01"></a><font size=+2>Lawrence Claude Vining</font>
+     (son of <a href="Dfamilies.htm#DavidH02">David Hewitt Vining and Johanna Laura Marie &#8220;Jennie&#8221; Johnson-Mork</a>)
+     b. [21 or 2?] November 1914   McHenry, North Dakota
+     m. 17 January 1940   Lake City, Minnesota
+           Martha Ernestina Hielscher
+                 b. 26 August 1914   Tolley, North Dakota
+                 d. 16 October 2007   Bloomington, Minnesota
+     d. [22 or 20?] May 1991   Lake City, Minnesota
+           bur. Saint Mary's Cemetery   Minnesota
+  
+  <font size=+1>children:</font>
+     <a href="Pfamilies.htm#PaulC01">Paul Charles Vining</a>   b. 6 March 1941   Lake City, Minnesota   -   m. 7 May 1960   Kathleen Hoops
+     Shirley Lucille Vining   b. 21 August 1942   Lake City, Minnesota   -   m. 18 November 1961   Edward Dick
+     <a href="Jfamilies.htm#JohnD02">John David Vining</a>   b. 14 October 1944   Lake City, Minnesota   -   m. 18 December 1965   Linda Myers
+  
+  <a href="Lsources/LawrenceC01doc.htm">documentation and notes</a>

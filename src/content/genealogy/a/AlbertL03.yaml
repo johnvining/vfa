@@ -1,0 +1,84 @@
+id: AlbertL03
+letter: A
+sequence: 32
+lastUpdated: 1 February 2021
+relationship: adopted son
+parentId: AlbertL02
+parentLetter: A
+parentDesc: Albert Levi Vining and Lillian Winnifred Brown
+head:
+  givenName: Albert Lester
+  birth:
+    date: 20 January 1921
+    place: "Billings, Yellowstone County, Montana"
+  adoptedDate: "20 March 1922"
+  death:
+    date: 21 August 2017
+  burial:
+    place: "Highland Cemetery   Havre, Hill County, Montana"
+marriages:
+  - number: 1
+    date: Marian Lucille Deyoung
+    spouse:
+      parents: "(dau. of John Francis Deyoung and Clara Helen Reisinger)"
+      birth:
+        date: 23 August 1924
+        place: "Whitefish, Flathead County, Montana"
+      death:
+        date: May 1961
+  - number: 2
+    date: 57 y. at death
+    spouse:
+      givenName: Phyllis Carmen
+      surname: Curry
+childrenGroups:
+  - spouseRef: Marian Lucille Deyoung
+    headingText: children by Marian Lucille Deyoung
+    children:
+      - name: Richard Lester Vining
+        entryId: RichardL04
+        entryLetter: R
+        marriages:
+          - date: "Ruby [&#8230;]"
+      - name: Bruce Albert Vining
+        marriages:
+          - date: Yvonne Villanueva
+      - name: Brett Alan Vining
+        entryId: BrettA01
+        entryLetter: B
+        birth:
+          date: 10 June 1953
+          place: "Seattle, King County, Washington"
+        marriages:
+          - date: Karol Schock
+        death:
+          date: 4 December 2019
+          place: "Pasco, Franklin County, Washington"
+  - headingText: "child by Phyllis Carmen Curry?"
+    children:
+      - name: Barbara Leslie Vining
+        marriages:
+          - date: Mike Halligan
+docsUrl: Asources/AlbertL03doc.htm
+raw: |-
+  <a name="AlbertL03"></a><font size="+2">Albert Lester Vining</font>
+     (adopted son of <a href="Afamilies.htm#AlbertL02">Albert Levi Vining and Lillian Winnifred Brown</a>)
+     b. 20 January 1921   Billings, Yellowstone County, Montana
+           adopted 20 March 1922
+     m. (1) Marian Lucille Deyoung
+                       (dau. of John Francis Deyoung and Clara Helen Reisinger)
+                       b. 23 August 1924   Whitefish, Flathead County, Montana
+                       d. May 1961
+           (2) 57 y. at death
+                 Phyllis Carmen Curry
+     d. 21 August 2017
+           bur. Highland Cemetery   Havre, Hill County, Montana
+
+  <font size="+1">children by Marian Lucille Deyoung:</font>
+     <a href="Rfamilies.htm#RichardL04">Richard Lester Vining</a>   m. Ruby [&#8230;]
+     Bruce Albert Vining   m. Yvonne Villanueva
+     <a href="Bfamilies.htm#BrettA01">Brett Alan Vining</a>   b. 10 June 1953   Seattle, King County, Washington   -   m. Karol Schock   -   d. 4 December 2019   Pasco, Franklin County, Washington
+  <font size="+1">child by Phyllis Carmen Curry?</font>
+     Barbara Leslie Vining   m. Mike Halligan
+
+  <a href="Asources/AlbertL03doc.htm">documentation and notes</a>

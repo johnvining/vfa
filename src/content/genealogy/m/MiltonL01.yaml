@@ -1,0 +1,44 @@
+id: MiltonL01
+sequence: 41
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Milton L.
+  birth:
+    date: age 30 y. as of 1850 census
+    place: Connecticut
+  death:
+    date: 4 May 1873
+    place: "Enfield, Connecticut"
+marriages:
+  - date: 13 July 1843
+    place: "East Haddam, Connecticut"
+    spouse:
+      givenName: Catharine M.
+      surname: Hubbard
+      birth:
+        date: age 31 y. as of 1850 census
+        place: Connecticut
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ellen M. Vining
+        birth:
+          date: age 5 y. as of 1850 census
+          place: Connecticut
+docsUrl: Msources/MiltonL01doc.htm
+raw: |-
+  <a name="MiltonL01"></a><font size=+2>Milton L. Vining</font>
+     (son of [?])
+     b. age 30 y. as of 1850 census   Connecticut
+     m. 13 July 1843   East Haddam, Connecticut
+           Catharine M. Hubbard
+                 b. age 31 y. as of 1850 census   Connecticut
+     d. 4 May 1873   Enfield, Connecticut
+  
+  <font size=+1>child:</font>
+     Ellen M. Vining   b. age 5 y. as of 1850 census   Connecticut
+  
+  <a href="Msources/MiltonL01doc.htm">documentation and notes</a>

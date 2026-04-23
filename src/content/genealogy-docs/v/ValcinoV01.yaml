@@ -1,0 +1,57 @@
+id: ValcinoV01
+title: Valcino Vernon Vining - Valcino Vernon
+displayTitle: Valcino Vernon Vining - Libby Lois Giles
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Valcino Vernon Vining
+          values:
+            - "32"
+            - "42"
+            - "52"
+            - "62"
+        - label: Libby Lois (Giles]) Vining
+          values:
+            - "33"
+            - "42"
+            - "53"
+            - "63"
+        - label: Arthur F. Vining
+          values:
+            - "4"
+            - "13"
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Olathe (precinct 8), Montrose County, Colorado - dwelling 51, family 55. In 1910, Valcie Vining and family
+          were living in the household of his wife’s sister and family.
+        images:
+          - src: ValcinoV01census1910.jpg
+      - year: "1920"
+        caption: Wray, Yuma County, Colorado - dwelling 164, family 175
+        images:
+          - src: ValcinoV01census1920.jpg
+      - year: "1930"
+        caption: Wray, Yuma County, Colorado - dwelling 80, family 82
+        images:
+          - src: ValcinoV01census1930.jpg
+      - year: "1940"
+        caption: Wray, Yuma County, Colorado
+        images:
+          - src: ValcinoV01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Valcino Vernon Vining and Libby Lois (Giles]) Vining, in Armel Cemetery, Armel, Yuma County,
+          Colorado (from Find A Grave):
+        images:
+          - src: ValcinoV01andwifeheadstone.jpg

@@ -1,0 +1,47 @@
+id: ThomasF03
+letter: T
+sequence: 31
+lastUpdated: 9 March 2023
+relationship: son
+parentId: DorseyT01
+parentLetter: D
+parentDesc: Dorsey T. Vining and Bertha J.ewell Pritchard
+head:
+  givenName: Thomas F.
+  birth:
+    date: 21 December 1921
+    place: "[Georgia or Alabama?]"
+  death:
+    date: 21 January 2009
+    place: "Oak Island, Brunswick County, North Carolina"
+  burial:
+    description: "cremated, ashes distributed to various individuals"
+marriages:
+  - date: 11 October 1941
+    place: "Chambers County, Alabama"
+    spouse:
+      givenName: Frances Callen
+      surname: Close
+      birth:
+        date: age 18 y. at marriage
+      parents: "(dau. of Calvin Clarence Close and Omie Irene Robinson)"
+childrenGroups:
+  - children:
+      - name: Charles C. Vining
+        marriages:
+          - date: "Betty [...]"
+      - name: Jan
+raw: |-
+  <a name="ThomasF03"></a><font size=+2>Thomas F. Vining</font>
+     (son of <a href="Dfamilies.htm#DorseyT01">Dorsey T. Vining and Bertha J.ewell Pritchard</a>)
+     b. 21 December 1921   [Georgia or Alabama?]
+     m. 11 October 1941   Chambers County, Alabama
+           Frances Callen Close
+                 b. age 18 y. at marriage
+                 (dau. of Calvin Clarence Close and Omie Irene Robinson)
+     d. 21 January 2009   Oak Island, Brunswick County, North Carolina
+           cremated, ashes distributed to various individuals
+  
+  <font size=+1>children:</font>
+     Charles C. Vining   m. Betty [...]
+     Jan

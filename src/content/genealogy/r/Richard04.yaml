@@ -1,0 +1,26 @@
+id: Richard04
+sequence: 44
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Richard
+marriages:
+  - spouse:
+      givenName: Yvonne
+      surname: "[&#8230;]"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Tom Vining
+        marriages:
+          - date: 8 September 2017
+            spouse: "Jess [&#8230;]"
+raw: |-
+  <a name="Richard04"></a><font size=+2>Richard Vining</font>
+     (son of [?])
+     m. Yvonne [&#8230;]
+  
+  <font size=+1>child:</font>
+     Tom Vining   m. 8 September 2017   Jess [&#8230;]

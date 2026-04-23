@@ -1,0 +1,154 @@
+id: JamesJ03
+sequence: 67
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JosiahH01
+parentDesc: "Josiah Henry Vining and Mary &#8220;Polly&#8221; Skinner"
+head:
+  givenName: James Jenkins
+  birth:
+    date: 2 February 1859
+    place: "Clinch County, Georgia"
+  death:
+    date: 15 April 1928
+    place: "Orange County, Florida"
+marriages:
+  - number: 1
+    date: 2 December 1881
+    spouse:
+      givenName: Ellen Catherine
+      surname: Lee
+      parents: "(dau. of William Riley Lee and Fatima [&#8230;])"
+      birth:
+        date: 22 December 1859
+        place: "Orange County, Florida"
+      death:
+        date: "12 [September or August] 1903"
+        place: "Orange County, Florida"
+  - number: 2
+    spouse:
+      givenName: Eva Marr
+      surname: Driggers
+      birth:
+        date: "1882"
+      death:
+        date: "1976"
+childrenGroups:
+  - headingText: "children by Ellen Catherine Lee"
+    children:
+      - name: Mary Katherine Vining
+        birth:
+          date: July 1882
+          place: "Winter Garden, Orange County, Florida"
+        marriages:
+          - date: John Farless
+        death:
+          date: "1920"
+      - name: Joseph Martin Vining
+        entryId: JosephM02
+        birth:
+          date: 11 June 1883
+          place: "Winter Garden, Orange County, Florida"
+        marriages:
+          - number: 1
+            date: 31 July 1910
+            place: "Yulee, Nassau County, Florida"
+            spouse: Eleanor Rose Goodbread (d. 11 December 1933)
+          - number: 2
+            date: "1943 Seminole County, Florida"
+            spouse: Emma Warren
+        death:
+          date: 22 June 1945
+          place: "Sanford, Seminole County, Florida"
+        burial:
+          place: "Lakeview Cemetery   Sanford, Seminole County, Florida"
+      - name: James Henry Vining
+        birth:
+          date: 9 September 1884
+          place: "Winter Garden, Orange County, Florida"
+        marriages:
+          - date: Jennie C. Sherman
+        death:
+          date: 26 August 1938
+          place: "Long Branch, New Jersey"
+      - name: Rosa Gertrude Vining
+        birth:
+          date: 9 December 1890
+          place: "Winter Garden, Orange County, Florida"
+        marriages:
+          - date: Paul Wesley Smart
+        death:
+          date: 11 April 1988
+          place: "Orlando, Orange County, Florida"
+      - name: Nellie Lorraine Vining
+        birth:
+          date: March 1893
+          place: "Winter Garden, Orange County, Florida"
+        marriages:
+          - date: William E. Bussey
+        death:
+          date: "Wildwood, Sumter County, Florida"
+      - name: Jesse Kellogg Vining
+        birth:
+          date: 28 August 1898
+          place: "Winter Garden, Orange County, Florida"
+        marriages:
+          - date: Lela Jamima Quates
+        death:
+          date: 4 November 1943
+          place: "Orlando, Orange County, Florida"
+  - headingText: "children by Eva Marr Driggers"
+    children:
+      - name: Edgar Rufus Vining
+        birth:
+          date: "1909"
+        death:
+          date: "1995"
+      - name: Raymond Rivers Vining
+        birth:
+          date: "1912"
+        death:
+          date: "1977"
+      - name: Lillian Louise Vining
+        birth:
+          date: "1914"
+        death:
+          date: "1996"
+      - name: Virginia Mable Vining
+        birth:
+          date: "1917"
+        death:
+          date: "2013"
+      - name: Thomas Jefferson Vining
+        birth:
+          date: "1919"
+      - name: "[?]"
+raw: |-
+  <a name="JamesJ03"></a><font size=+2>James Jenkins Vining</font>
+     (son of <a href="#JosiahH01">Josiah Henry Vining and Mary &#8220;Polly&#8221; Skinner</a>)
+     b. 2 February 1859   Clinch County, Georgia
+     m. (1) 2 December 1881
+                 Ellen Catherine Lee
+                       (dau. of William Riley Lee and Fatima [&#8230;])
+                       b. 22 December 1859   Orange County, Florida
+                       d. 12 [September or August] 1903   Orange County, Florida
+           (2) Eva Marr Driggers
+                    b. 1882
+                    d. 1976
+     d. 15 April 1928   Orange County, Florida
+  
+  <font size=+1>children by Ellen Catherine Lee:</font>
+     Mary Katherine Vining   b. July 1882   Winter Garden, Orange County, Florida   -   m. John Farless   -   d. 1920
+     <a href="#JosephM02">Joseph Martin Vining</a>   b. 11 June 1883   Winter Garden, Orange County, Florida   -   m. (1) 31 July 1910   Yulee, Nassau County, Florida   Eleanor Rose Goodbread (d. 11 December 1933);   (2) 1943 Seminole County, Florida   Emma Warren   -   d. 22 June 1945   Sanford, Seminole County, Florida   -   bur. Lakeview Cemetery   Sanford, Seminole County, Florida
+     James Henry Vining   b. 9 September 1884   Winter Garden, Orange County, Florida   -   m. Jennie C. Sherman   -   d. 26 August 1938   Long Branch, New Jersey
+     Rosa Gertrude Vining   b. 9 December 1890   Winter Garden, Orange County, Florida   -   m. Paul Wesley Smart   -   d. 11 April 1988   Orlando, Orange County, Florida
+     Nellie Lorraine Vining   b. March 1893   Winter Garden, Orange County, Florida   -   m. William E. Bussey   -   d. Wildwood, Sumter County, Florida
+     Jesse Kellogg Vining   b. 28 August 1898   Winter Garden, Orange County, Florida   -   m. Lela Jamima Quates   -   d. 4 November 1943   Orlando, Orange County, Florida
+  <font size=+1>children by Eva Marr Driggers:</font>
+     Edgar Rufus Vining   b. 1909   -   d. 1995
+     Raymond Rivers Vining   b. 1912   -   d. 1977
+     Lillian Louise Vining   b. 1914   -   d. 1996
+     Virginia Mable Vining   b. 1917   -   d. 2013
+     Thomas Jefferson Vining   b. 1919
+     [?]

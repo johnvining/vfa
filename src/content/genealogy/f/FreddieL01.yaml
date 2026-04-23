@@ -1,0 +1,36 @@
+id: FreddieL01
+sequence: 58
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: LeoW01
+parentLetter: L
+parentDesc: Leo Warren Vining and Dorothy Reba Anderson
+head:
+  givenName: Freddie Lee
+  birth:
+    date: 22 August 1960
+marriages:
+  - spouse:
+      givenName: Patty
+      surname: "[...]"
+childrenGroups:
+  - headingText: adopted child
+    children:
+      - name: "Rachel Vining (daughter of Patty [...])"
+  - children:
+      - name: Crystal Vining
+      - name: Warren Vining
+      - name: Brandon Vining
+raw: |-
+  <a name="FreddieL01"></a><font size=+2>Freddie Lee Vining</font>
+     (son of <a href="Lfamilies.htm#LeoW01">Leo Warren Vining and Dorothy Reba Anderson</a>)
+     b. 22 August 1960
+     m. Patty [...]
+  
+  <font size=+1>adopted child:</font>
+     Rachel Vining (daughter of Patty [...])
+  <font size=+1>children:</font>
+     Crystal Vining
+     Warren Vining
+     Brandon Vining

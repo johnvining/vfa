@@ -1,0 +1,66 @@
+id: DallasC01
+title: Dallas Claude Vining - Harriet Euterpe Nash
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Dallas Claude Vining
+          values:
+            - "30"
+            - "40"
+            - "50"
+        - label: Harriet Euterpe Nash
+          values:
+            - "21"
+            - "31"
+            - "41"
+        - label: Glenn Dallas Vining
+          values:
+            - 1 year, 10 months
+            - "11"
+            - "22"
+          indent: true
+        - label: Barbara Gay Vining
+          values:
+            - 5 months
+            - "10"
+            - living in separate household
+          indent: true
+        - label: Laverne Burley Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Harrison Township, Sherman County, Nebraska - dwelling 64, family 64
+        images:
+          - src: DallasC01census1920.jpg
+      - year: "1930"
+        caption: Seneca, Thomas County, Nebraska - dwelling 3, family 3. In 1930, this family was living on Crawford Street.
+        images:
+          - src: DallasC01census1930.jpg
+      - year: "1940"
+        caption: Seneca, Thomas County, Nebraska
+        images:
+          - src: DallasC01census1940.jpg
+  - type: death
+    items:
+      - caption: "Death announcement for Harriet Euterpe (Nash) Vining:"
+        images:
+          - src: DallasC01wifedeathannouncement.jpg
+      - caption: >-
+          Headstone for Dallas Claude Vining and Harriet Euterpe (Nash) Vining, in Seneca Cemetery, Seneca, Thomas
+          County, Nebraska (from Find A Grave):
+        images:
+          - src: DallasC01andwifeheadstone.jpg
+      - caption: >-
+          Death certificate for Barbara Gay (Vining) Chittenden, daughter of Dallas Claude Vining and Harriet Euterpe
+          (Nash) Vining:
+        images:
+          - src: DallasC01dauBarbaradeathcert.jpg

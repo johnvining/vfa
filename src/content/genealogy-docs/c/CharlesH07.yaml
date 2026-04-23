@@ -1,0 +1,52 @@
+id: CharlesH07
+title: Charles Henry Vining - Margaret Stuart
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Henry Vining
+          values:
+            - "60"
+            - "?"
+            - "?"
+            - "?"
+        - label: Margaret (Stuart) Vining
+          values:
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Reginal [sic] Vining
+          values:
+            - "26"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Little Falls (ward 1), Morrison County, Minnesota - dwelling 135, family 152. Also living in this household in
+          1900 were boarder Th[e?]o Rayner (26 y., b. New Jersey, day laborer) and (probably) granddaughters, although
+          listed as daughters, Margaret Vining (4 y., b. Minnesota) and Adelaid Vining (2 y., b. Minnesota).
+        images:
+          - src: CharlesH07census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Charles Henry Vining and Margaret (Stuart) Vining, in Wenatchee City Cemetery, Wenatchee, Chelan
+          County, Washington (from Find A Grave):
+        images:
+          - src: CharlesH07andwifeheadstone.jpg

@@ -1,0 +1,113 @@
+id: LloydH01
+sequence: 63
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: JohnAB01
+parentLetter: J
+parentDesc: John A. Bradley Vining and Sarah Jane Brown
+head:
+  givenName: Lloyd Henry
+  birth:
+    date: 22 January 1909
+    place: "Muncie, Indiana"
+  death:
+    date: 9 November 1990
+    place: "Portland, Indiana"
+  burial:
+    place: "Beech Grove Cemetery   Muncie, Indiana"
+marriages:
+  - number: 1
+    date: Elizabeth Pierce
+    spouse:
+      birth:
+        date: 16 June 1921
+        place: "Muncie, Indiana"
+      death:
+        date: 22 July 1994
+        place: "Portland, Indiana"
+      burial:
+        place: "Green Park Cemetery   Portland, Indiana"
+  - number: 2
+    date: "Esther [...]"
+  - number: 3
+    date: Geraldine Stanley
+    spouse:
+      birth:
+        date: "1930"
+      death:
+        date: "2009"
+      burial:
+        place: "Beech Grove Cemetery   Muncie, Indiana"
+childrenGroups:
+  - spouseRef: Elizabeth Pierce
+    children:
+      - name: Robert Eugene Vining
+        entryId: RobertE06
+        entryLetter: R
+        birth:
+          date: 20 April 1939
+          place: Indiana
+        marriages:
+          - number: 1
+            date: Pat Ryan
+          - number: 2
+            date: 18 July 1981
+            spouse: "Nevada   Priscella J. [...]"
+        death:
+          date: 15 February 1991
+          place: California
+        burial:
+          place: "Riverside National Cemetery   Riverside, California"
+      - name: Jack Dewayne Vining
+        birth:
+          date: 25 May 1942
+          place: Indiana
+        death:
+          date: 31 July 2004
+          place: "Lorain, Ohio"
+        burial:
+          description: cremated
+      - name: Linda Lou Vining
+        birth:
+          date: 6 March 1944
+          place: "Parker City, Indiana"
+        marriages:
+          - date: Granville Caldwell
+        death:
+          date: 18 August 2007
+          place: "Douglasville, Georgia"
+        burial:
+          place: "Lamar Memory Gardens   Barnesville, Georgia"
+      - name: Billy Raymond Vining
+        birth:
+          date: "1946"
+        death:
+          date: 18 September 1961
+          place: "Brooklyn, New York"
+        burial:
+          place: "Beech Grove Cemetery   Muncie, Indiana"
+docsUrl: Lsources/LloydH01doc.htm
+raw: |-
+  <a name="LloydH01"></a><font size=+2>Lloyd Henry Vining</font>
+     (son of <a href="Jfamilies.htm#JohnAB01">John A. Bradley Vining and Sarah Jane Brown</a>)
+     b. 22 January 1909   Muncie, Indiana
+     m. (1) Elizabeth Pierce
+                    b. 16 June 1921   Muncie, Indiana
+                    d. 22 July 1994   Portland, Indiana
+                          bur. Green Park Cemetery   Portland, Indiana
+           (2) Esther [...]
+           (3) Geraldine Stanley
+                    b. 1930
+                    d. 2009
+                          bur. Beech Grove Cemetery   Muncie, Indiana
+     d. 9 November 1990   Portland, Indiana
+           bur. Beech Grove Cemetery   Muncie, Indiana
+  
+  <font size=+1>children by Elizabeth Pierce:</font>
+     <a href="Rfamilies.htm#RobertE06">Robert Eugene Vining</a>   b. 20 April 1939   Indiana   -   m. (1) Pat Ryan;   (2) 18 July 1981   Nevada   Priscella J. [...]   -   d. 15 February 1991   California   -   bur. Riverside National Cemetery   Riverside, California
+     Jack Dewayne Vining   b. 25 May 1942   Indiana   -   d. 31 July 2004   Lorain, Ohio   -   cremated
+     Linda Lou Vining   b. 6 March 1944   Parker City, Indiana   -   m. Granville Caldwell   -   d. 18 August 2007   Douglasville, Georgia   -   bur. Lamar Memory Gardens   Barnesville, Georgia
+     Billy Raymond Vining   b. 1946   -   d. 18 September 1961   Brooklyn, New York   -   bur. Beech Grove Cemetery   Muncie, Indiana
+  
+  <a href="Lsources/LloydH01doc.htm">documentation and notes</a>

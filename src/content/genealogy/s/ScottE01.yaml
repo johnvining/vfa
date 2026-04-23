@@ -1,0 +1,51 @@
+id: ScottE01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ScottO01
+parentDesc: Scott Osborn Vining and Lillian Eggers
+head:
+  givenName: Scott Ernest
+  birth:
+    date: 9 May 1927
+    place: "Port Ewen, New York"
+  death:
+    date: 22 May 2013
+    place: "Port Ewen, New York"
+marriages:
+  - date: "1948"
+    spouse:
+      givenName: Lona Bess
+      surname: Dahle
+childrenGroups:
+  - children:
+      - name: Stephen Carl Vining
+        birth:
+          date: 14 August 1950
+        marriages:
+          - date: "Kathy [...]"
+      - name: Douglas Paul Vining
+        birth:
+          date: 16 June 1952
+        marriages:
+          - date: "Bonnie [...]"
+      - name: Russell Scott Vining
+        birth:
+          date: 4 August 1955
+        marriages:
+          - date: "Joyce [...]"
+docsUrl: Ssources/ScottE01doc.htm
+raw: |-
+  <a name="ScottE01"></a><font size=+2>Scott Ernest Vining</font>
+     (son of <a href="#ScottO01">Scott Osborn Vining and Lillian Eggers</a>)
+     b. 9 May 1927   Port Ewen, New York
+     m. 1948
+           Lona Bess Dahle
+     d. 22 May 2013   Port Ewen, New York
+  
+  <font size=+1>children:</font>
+     Stephen Carl Vining   b. 14 August 1950   -   m. Kathy [...]
+     Douglas Paul Vining   b. 16 June 1952   -   m. Bonnie [...]
+     Russell Scott Vining   b. 4 August 1955   -   m. Joyce [...]
+  
+  <a href="Ssources/ScottE01doc.htm">documentation and notes</a>

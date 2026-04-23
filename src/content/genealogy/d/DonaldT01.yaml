@@ -1,0 +1,64 @@
+id: DonaldT01
+sequence: 87
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: DonaldDA01
+parentLetter: D
+parentDesc: Donald Dewey Admiral Vining and Martha Elizabeth Gurley
+head:
+  givenName: Donald Thomas
+  birth:
+    date: 8 March 1933
+    place: "Muncie, Indiana"
+  death:
+    date: 24 June 1988
+    place: "Delaware County, Indiana"
+  burial:
+    place: "Elm Ridge Memorial Park   Muncie, Indiana"
+marriages:
+  - spouse:
+      givenName: Joan A.
+      surname: Letcher
+      parents: "(dau. of James Letcher and Margaret [&#8230;])"
+      birth:
+        date: 26 January 1933
+        place: "Hazelton, Pennsylvania"
+      death:
+        date: 18 October 2017
+        place: "[Muncie?], Indiana"
+childrenGroups:
+  - children:
+      - name: Denise Vining
+        marriages:
+          - spouse: Timothy Short
+      - name: Donald Thomas Vining Jr.
+      - name: Robert Allen Vining
+        marriages:
+          - spouse: "Mary [&#8230;]"
+      - name: Beverly Ann Vining
+        marriages:
+          - spouse: William Sass
+      - name: "son   [b. and?] d. 19 April 1955   -   bur. Elm Ridge Cemetery   Muncie, Indiana"
+      - name: David Wayne Vining
+docsUrl: Dsources/DonaldT01doc.htm
+raw: |-
+  <a name="DonaldT01"></a><font size=+2>Donald Thomas Vining</font>
+     (son of <a href="Dfamilies.htm#DonaldDA01">Donald Dewey Admiral Vining and Martha Elizabeth Gurley</a>)
+     b. 8 March 1933   Muncie, Indiana
+     m. Joan A. Letcher
+              (dau. of James Letcher and Margaret [&#8230;])
+              b. 26 January 1933   Hazelton, Pennsylvania
+              d. 18 October 2017   [Muncie?], Indiana
+     d. 24 June 1988   Delaware County, Indiana
+           bur. Elm Ridge Memorial Park   Muncie, Indiana
+  
+  <font size=+1>children:</font>
+     Denise Vining   m. Timothy Short
+     Donald Thomas Vining Jr.
+     Robert Allen Vining   m. Mary [&#8230;]
+     Beverly Ann Vining   m. William Sass
+     son   [b. and?] d. 19 April 1955   -   bur. Elm Ridge Cemetery   Muncie, Indiana
+     David Wayne Vining
+     
+  <a href="Dsources/DonaldT01doc.htm">documentation and notes</a>

@@ -1,0 +1,61 @@
+id: ReubenD01
+sequence: 33
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: ElamA01
+parentLetter: E
+parentDesc: Elam Allen Vining and Hannah Palmer
+head:
+  givenName: Reuben D.
+  birth:
+    date: "1835"
+    place: "[New York?]"
+  death:
+    date: 15 August 1871
+marriages:
+  - date: 30 March 1858
+    spouse:
+      givenName: "Clarinda &#8220;Clara&#8221;"
+      surname: May
+      birth:
+        date: age 18 y. as of 1860 census
+childrenGroups:
+  - children:
+      - name: Elam Allen Vining
+        entryId: ElamA02
+        entryLetter: E
+        birth:
+          date: 31 December 1858
+          place: Ohio
+        marriages:
+          - date: Frances E. Shade
+        death:
+          date: 4 July 1929
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+      - name: George C. Vining
+        birth:
+          date: 14 February 1862
+          place: Ohio
+        marriages:
+          - date: "Drusilla C. [...]"
+        death:
+          date: 12 December 1934
+        burial:
+          place: "Oak Grove Cemetery   Delaware, Ohio"
+docsUrl: Rsources/ReubenD01doc.htm
+raw: |-
+  <a name="ReubenD01"></a><font size=+2>Reuben D. Vining</font>
+     (son of <a href="Efamilies.htm#ElamA01">Elam Allen Vining and Hannah Palmer</a>)
+     b. 1835   [New York?]
+     m. 30 March 1858
+           Clarinda &#8220;Clara&#8221; May
+                 b. age 18 y. as of 1860 census
+     d. 15 August 1871
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#ElamA02">Elam Allen Vining</a>   b. 31 December 1858   Ohio   -   m. Frances E. Shade   -   d. 4 July 1929   -   bur. Oak Grove Cemetery   Delaware, Ohio
+     George C. Vining   b. 14 February 1862   Ohio   -   m. Drusilla C. [...]   -   d. 12 December 1934   -   bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <a href="Rsources/ReubenD01doc.htm">documentation and notes</a>

@@ -1,0 +1,32 @@
+id: NormanL01
+title: Norman Lee Vining - Pauline Owens
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Norman Lee Vining
+          values:
+            - "30"
+        - label: Pauline (Owens) Vining
+          values:
+            - "[28?]"
+        - label: Joseph Lee Vining
+          values:
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: West Carroll County, Louisiana
+        images:
+          - src: NormanL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Norman Lee Vining and Pauline (Owens) Vining, in New Forest Cemetery, Forest, West Carroll
+          Parish, Louisiana (from Find A Grave):
+        images:
+          - src: NormanL01gravestone.jpg
+          - src: NormanL01wifegravestone.jpg
+        inline: true

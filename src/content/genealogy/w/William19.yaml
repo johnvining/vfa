@@ -1,0 +1,41 @@
+id: William19
+sequence: 67
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William
+marriages:
+  - date: "1945"
+    spouse:
+      givenName: Mary
+      surname: Tallant
+      birth:
+        date: "1927"
+      death:
+        date: 5 March 2018
+childrenGroups:
+  - children:
+      - name: Cheryl Howe Vining
+        marriages:
+          - date: "[&#8230;] Stricker"
+      - name: William Alan Vining
+      - name: Judy Lynn Vining
+        marriages:
+          - date: "[&#8230;] Howard"
+docsUrl: Wsources/William19doc.htm
+raw: |-
+  <a name="William19"></a><font size=+2>William Vining</font>
+     (son of [?])
+     m. 1945
+           Mary Tallant
+                 b. 1927
+                 d. 5 March 2018
+  
+  <font size=+1>children:</font>
+     Cheryl Howe Vining   m. [&#8230;] Stricker
+     William Alan Vining
+     Judy Lynn Vining   m. [&#8230;] Howard
+  
+  <a href="Wsources/William19doc.htm">documentation and notes</a>

@@ -1,0 +1,80 @@
+id: Percival01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: MarshallM01
+parentLetter: M
+parentDesc: Marshall M. Vining and Addie Swearingen
+head:
+  givenName: Percival Lyman
+  birth:
+    date: 2 July 1896
+    place: "Woodbine, Iowa"
+  death:
+    date: 3 December 1950
+    place: "Woodbine, Iowa"
+marriages:
+  - number: 1
+    date: "1919  Dunlap Township, Iowa"
+    spouse:
+      givenName: Elsie L.
+      surname: Burkholder
+      parents: "(dau. of Jesse W. Burkholder and Millie Hoyer)"
+      birth:
+        date: 6 November 1899
+        place: "Dunlap Township, Iowa"
+      death:
+        date: 4 February 1982
+        place: "Woodbine, Iowa"
+    note: divorced
+  - number: 2
+    date: "1926"
+    place: Iowa
+    spouse:
+      givenName: Esther Jane
+      surname: Lewis
+      parents: "(dau. of Charles William Lewis and Minnie Dahl Page)"
+      birth:
+        date: 25 June 1900
+        place: Iowa
+      death:
+        date: 18 August 1989
+        place: "Omaha, Nebraska"
+      burial:
+        place: "Woodbine, Iowa"
+childrenGroups:
+  - headingText: "child by Elsie L. Burkholder"
+    children:
+      - name: Edwin Patrick &#8220;Ted&#8221; Vining
+        entryId: EdwinP01
+        entryLetter: E
+        birth:
+          date: 11 October 1921
+        marriages:
+          - date: Velma Walker
+        death:
+          date: 18 November 2003
+          place: "(last residence: Portland, Oregon)"
+docsUrl: Psources/PercivalL01doc.htm
+raw: |-
+  <a name="Percival01"></a><font size=+2>Percival Lyman Vining</font>
+     (son of <a href="Mfamilies.htm#MarshallM01">Marshall M. Vining and Addie Swearingen</a>)
+     b. 2 July 1896   Woodbine, Iowa
+     m. (1) 1919  Dunlap Township, Iowa
+                 Elsie L. Burkholder
+                       (dau. of Jesse W. Burkholder and Millie Hoyer)
+                       b. 6 November 1899   Dunlap Township, Iowa
+                       d. 4 February 1982   Woodbine, Iowa
+                 divorced
+           (2) 1926   Iowa
+                 Esther Jane Lewis
+                       (dau. of Charles William Lewis and Minnie Dahl Page)
+                       b. 25 June 1900   Iowa
+                       d. 18 August 1989   Omaha, Nebraska
+                             bur. Woodbine, Iowa
+     d. 3 December 1950   Woodbine, Iowa
+  
+  <font size=+1>child by Elsie L. Burkholder:</font>
+     <a href="Efamilies.htm#EdwinP01">Edwin Patrick &#8220;Ted&#8221; Vining</a>   b. 11 October 1921   -   m. Velma Walker   -   d. 18 November 2003   (last residence: Portland, Oregon)
+  
+  <a href="Psources/PercivalL01doc.htm">documentation and notes</a>

@@ -1,0 +1,37 @@
+id: Len01
+sequence: 29
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Len
+marriages:
+  - number: 1
+    date: Patricia Foster
+  - number: 2
+    date: "Jan [...]"
+childrenGroups:
+  - children:
+      - name: Kenneth Patrick Vining
+        birth:
+          date: age 39 y. at death
+        marriages:
+          - date: 7 y. as of 21 August 2011
+            spouse: "Cris [...]"
+        death:
+          date: 21 August 2011
+          place: "Mobile, Alabama"
+      - name: Brandi Vining
+docsUrl: Lsources/Len01doc.htm
+raw: |-
+  <a name="Len01"></a><font size=+2>Len Vining</font>
+     (son of [?])
+     m. (1) Patricia Foster
+           (2) Jan [...]
+  
+  <font size=+1>children:</font>
+     Kenneth Patrick Vining   b. age 39 y. at death   -   m. 7 y. as of 21 August 2011   Cris [...]   -   d. 21 August 2011   Mobile, Alabama
+     Brandi Vining
+  
+  <a href="Lsources/Len01doc.htm">documentation and notes</a>

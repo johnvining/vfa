@@ -1,0 +1,28 @@
+id: AndrewL01
+letter: A
+sequence: 74
+lastUpdated: 1 February 2021
+relationship: son
+parentId: BillyC01
+parentLetter: B
+parentDesc: Billy Coleman Vining and Mary Ann Strickland
+head:
+  givenName: Andrew Lee
+marriages:
+  - spouse:
+      givenName: Gina
+      surname: Morin
+childrenGroups:
+  - children:
+      - name: Andrew L. Vining
+      - name: Justin Vining
+      - name: Jenny Vining
+raw: |-
+  <a name="AndrewL01"></a><font size="+2">Andrew Lee Vining</font>
+     (son of <a href="Bfamilies.htm#BillyC01">Billy Coleman Vining and Mary Ann Strickland</a>)
+     m. Gina Morin
+  
+  <font size="+1">children:</font>
+     Andrew L. Vining
+     Justin Vining
+     Jenny Vining

@@ -1,0 +1,141 @@
+id: Seward01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Thomas03
+parentLetter: T
+parentDesc: Thomas Vining and Jemima Haines
+head:
+  givenName: Seward
+  birth:
+    date: age 23 y. as of 1850 census
+    place: "Avon, Franklin County, Maine"
+  death:
+    date: 11 January 1895
+    place: "Strong, Franklin County, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Franklin County, Maine"
+marriages:
+  - date: int. 3 June 1850
+    spouse:
+      givenName: Roxanna F.
+      surname: Purrington
+      parents: "(dau. of G[...] Purrington and Abigail Farmer)"
+      birth:
+        date: 18 April 1832
+        place: "Skowhegan, Somerset County, Maine"
+      death:
+        date: 6 June 1915
+        place: "Strong, Franklin County, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Lizzie A. Vining
+        birth:
+          date: 17 April 1851
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - number: 1
+            date: 21 November 1872
+            place: "Auburn, Androscoggin County, Maine"
+            spouse: Edwin O. Carll
+          - number: 2
+            date: 10 November 1906
+            place: "Phillips, Franklin County, Maine"
+            spouse: Chester C. Allen
+        death:
+          date: "1931"
+      - name: Abbie Evelyn Vining
+        birth:
+          date: 14 July 1857
+        marriages:
+          - date: 20 January 1878
+            spouse: Marcellus F. Will
+        death:
+          date: "1934"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: Frances Lillian Vining
+        birth:
+          date: 15 October 1862
+        marriages:
+          - date: 6 November 1881
+            spouse: Samuel H. Huff
+      - name: Albert Nelson Vining
+        entryId: AlbertN01
+        entryLetter: A
+        birth:
+          date: "[20 or 30?] May 1870"
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 7 December 1910
+            place: "Biddeford, York County, Maine"
+            spouse: Helen Louise Meserve
+        death:
+          date: 24 June 1946
+          place: "North Yarmouth, Cumberland County, Maine"
+        burial:
+          place: "Pine Grove Cemetery   Falmouth Foreside, Cumberland County, Maine"
+      - name: Leslie Alvin Vining
+        entryId: LeslieA01
+        entryLetter: L
+        birth:
+          date: 1 April 1872
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - number: 1
+            date: 24 June 1893
+            place: "Farmington, Franklin County, Maine"
+            spouse: "Della J. McKenney,   divorced"
+          - number: 2
+            date: 25 December 1909
+            place: "Strong, Franklin County, Maine"
+            spouse: Ella Amelia Winter
+        death:
+          date: "1956"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: Winfield R. Vining
+        entryId: WinfieldR01
+        entryLetter: W
+        birth:
+          date: 19 September 1874
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - number: 1
+            date: 14 December 1898
+            place: "Strong, Franklin County, Maine"
+            spouse: Elizabeth S. Hackett (d. 27 August 1921)
+          - number: 2
+            date: 28 September 1929
+            place: "Strong, Franklin County, Maine"
+            spouse: Nettie E. (DeBeck) Buzzell
+        death:
+          date: 18 February 1950
+          place: "Strong, Franklin County, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+docsUrl: Ssources/Seward01doc.htm
+raw: |-
+  <a name="Seward01"></a><font size=+2>Seward Vining</font>
+     (son of <a href="Tfamilies.htm#Thomas03">Thomas Vining and Jemima Haines</a>)
+     b. age 23 y. as of 1850 census   Avon, Franklin County, Maine
+     m. int. 3 June 1850
+           Roxanna F. Purrington
+                 (dau. of G[...] Purrington and Abigail Farmer)
+                 b. 18 April 1832   Skowhegan, Somerset County, Maine
+                 d. 6 June 1915   Strong, Franklin County, Maine
+                       bur. Village Cemetery   Strong, Franklin County, Maine
+     d. 11 January 1895   Strong, Franklin County, Maine
+           bur. Village Cemetery   Strong, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Lizzie A. Vining   b. 17 April 1851   Avon, Franklin County, Maine   -   m. (1) 21 November 1872   Auburn, Androscoggin County, Maine   Edwin O. Carll;   (2) 10 November 1906   Phillips, Franklin County, Maine   Chester C. Allen   -   d. 1931
+     Abbie Evelyn Vining   b. 14 July 1857   -   m. 20 January 1878   Marcellus F. Will   -   d. 1934   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     Frances Lillian Vining   b. 15 October 1862   -   m. 6 November 1881   Samuel H. Huff
+     <a href="Afamilies.htm#AlbertN01">Albert Nelson Vining</a>   b. [20 or 30?] May 1870   Avon, Franklin County, Maine   -   m. 7 December 1910   Biddeford, York County, Maine   Helen Louise Meserve   -   d. 24 June 1946   North Yarmouth, Cumberland County, Maine   -   bur. Pine Grove Cemetery   Falmouth Foreside, Cumberland County, Maine
+     <a href="Lfamilies.htm#LeslieA01">Leslie Alvin Vining</a>   b. 1 April 1872   Avon, Franklin County, Maine   -   m. (1) 24 June 1893   Farmington, Franklin County, Maine   Della J. McKenney,   divorced;     (2) 25 December 1909   Strong, Franklin County, Maine   Ella Amelia Winter   -   d. 1956   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     <a href="Wfamilies.htm#WinfieldR01">Winfield R. Vining</a>   b. 19 September 1874   Avon, Franklin County, Maine   -   m. (1) 14 December 1898   Strong, Franklin County, Maine   Elizabeth S. Hackett (d. 27 August 1921);   (2) 28 September 1929   Strong, Franklin County, Maine   Nettie E. (DeBeck) Buzzell   -   d. 18 February 1950   Strong, Franklin County, Maine   -   bur. Village Cemetery   Strong, Franklin County, Maine
+  
+  <a href="Ssources/Seward01doc.htm">documentation and notes</a>

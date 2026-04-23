@@ -1,0 +1,168 @@
+id: Salmon01
+sequence: -2
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Ebenezer01
+parentLetter: E
+parentDesc: Ebenezer Vining and Abigail Eason
+head:
+  givenName: Salmon
+  birth:
+    date: 17 September 1797
+    place: "Chesterfield, Hampshire County, Massachusetts"
+  death:
+    date: 28 April 1879
+    place: "West Nissouri Township, Ontario, Canada"
+  burial:
+    place: "Vining Cemetery   Thorndale, Ontario, Canada"
+marriages:
+  - date: 31 March 1819
+    place: "Sweden, New York"
+    spouse:
+      givenName: Mariah
+      surname: Bodwell
+      parents: (dau. of Eliphalet Bodwell and Hannah Marker)
+      birth:
+        date: 10 September 1799
+        place: "New York, New York"
+      death:
+        date: 25 April 1855
+        place: "Sweden, Monroe County, New York"
+      burial:
+        place: "West Nissouri Township, Ontario, Canada"
+childrenGroups:
+  - children:
+      - name: Glidden Bodwell Vining
+        entryId: GliddenB01
+        entryLetter: G
+        birth:
+          date: 24 January 1820
+          place: "Sweden, Monroe County, New York"
+        marriages:
+          - date: "Nissouri, Ontario, Canada"
+            spouse: Rebecca Gleason
+        death:
+          date: 28 July 1881
+          place: "Marlette, Sanilac County, Michigan"
+      - name: Malinda M. Vining
+        birth:
+          date: 15 January 1822
+          place: Dereham
+        death:
+          date: 15 February 1828
+          place: "Nissouri, Ontario, Canada"
+      - name: Alonzo Vining
+        birth:
+          date: 26 January 1824
+          place: "Nissouri, Ontario, Canada"
+        marriages:
+          - date: 1 October 1845
+            spouse: "Nissouri, Ontario, Canada   Jane [McNee or MacKee?]"
+        death:
+          date: 23 May 1895
+          place: "Thorndale, Ontario, Canada"
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+      - name: Hannah Vining
+        birth:
+          date: 26 November 1825
+          place: "Nissouri, Ontario, Canada"
+        marriages:
+          - date: Joseph Gleason
+        death:
+          date: 25 November 1903
+      - name: Mariah Vining
+        birth:
+          date: 3 January 1828
+        marriages:
+          - date: Dennis Horsman
+        death:
+          date: "1873"
+        burial:
+          place: "Rural Cemetery   Ingersoll, Ontario, Canada"
+      - name: Elizabeth M. Vining
+        birth:
+          date: 16 June 1830
+        death:
+          date: 24 April 1879
+      - name: Euseba Vining
+        birth:
+          date: 28 February 1832
+        marriages:
+          - date: James Oliphant
+        death:
+          date: 3 December 1916
+          place: "Detroit, Wayne County, Michigan"
+      - name: Emily G. Vining
+        birth:
+          date: 29 March 1834
+          place: "Nissouri, Ontario, Canada"
+        marriages:
+          - date: Samuel Truman
+        death:
+          date: 6 December 1920
+          place: "Berkeley, Alameda County, California"
+      - name: Salmon Vining Jr.
+        entryId: SalmonJr01
+        birth:
+          date: 28 May 1836
+          place: "Nissouri, Ontario, Canada"
+        marriages:
+          - date: 3 October 1861
+            spouse: Esther F. Gourlay
+        death:
+          date: 8 October 1917
+          place: "West Nissouri Township, Ontario, Canada"
+      - name: Joseph Vining
+        birth:
+          date: 29 September 1838
+          place: "Nissouri, Ontario, Canada"
+        death:
+          date: 28 March 1855
+        burial:
+          place: "Vining Cemetery   Thorndale, Ontario, Canada"
+      - name: Abigail Vining
+        birth:
+          date: 25 April 1842
+          place: "Nissouri, Ontario, Canada"
+        death:
+          date: 2 January 1922
+          place: "Detroit, Michigan"
+      - name: Charlotte Vining
+        birth:
+          date: 11 September 1847
+          place: "Nissouri, Ontario, Canada"
+        marriages:
+          - date: 6 July 1869
+            spouse: John Watt
+        death:
+          date: "1918"
+        burial:
+          place: "Amherstburg, Ontario, Canada"
+raw: |-
+  <a name="Salmon01"></a><font size=+2>Salmon Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer01">Ebenezer Vining and Abigail Eason</a>)
+     b. 17 September 1797   Chesterfield, Hampshire County, Massachusetts
+     m. 31 March 1819   Sweden, New York
+           Mariah Bodwell
+                 (dau. of Eliphalet Bodwell and Hannah Marker)
+                 b. 10 September 1799   New York, New York
+                 d. 25 April 1855   Sweden, Monroe County, New York
+                       bur. West Nissouri Township, Ontario, Canada
+     d. 28 April 1879   West Nissouri Township, Ontario, Canada
+           bur. Vining Cemetery   Thorndale, Ontario, Canada
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GliddenB01">Glidden Bodwell Vining</a>   b. 24 January 1820   Sweden, Monroe County, New York   -   m. Nissouri, Ontario, Canada   Rebecca Gleason   -   d. 28 July 1881   Marlette, Sanilac County, Michigan
+     Malinda M. Vining   b. 15 January 1822   Dereham   -   d. 15 February 1828   Nissouri, Ontario, Canada
+     <a href="Afamilies.htm#Alonzo01">Alonzo Vining<a>   b. 26 January 1824   Nissouri, Ontario, Canada   -   m. 1 October 1845      Nissouri, Ontario, Canada   Jane [McNee or MacKee?]   -   d. 23 May 1895   Thorndale, Ontario, Canada   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+     Hannah Vining   b. 26 November 1825   Nissouri, Ontario, Canada   -   m. Joseph Gleason   -   d. 25 November 1903
+     Mariah Vining   b. 3 January 1828   -   m. Dennis Horsman   -   d. 1873   -   bur. Rural Cemetery   Ingersoll, Ontario, Canada
+     Elizabeth M. Vining   b. 16 June 1830   -   d. 24 April 1879
+     Euseba Vining   b. 28 February 1832   -   m. James Oliphant   -   d. 3 December 1916   Detroit, Wayne County, Michigan
+     Emily G. Vining   b. 29 March 1834   Nissouri, Ontario, Canada   -   m. Samuel Truman   -   d. 6 December 1920   Berkeley, Alameda County, California
+     <a href="#SalmonJr01">Salmon Vining Jr.</a>   b. 28 May 1836   Nissouri, Ontario, Canada   -   m. 3 October 1861   Esther F. Gourlay   -   d. 8 October 1917   West Nissouri Township, Ontario, Canada
+     Joseph Vining   b. 29 September 1838   Nissouri, Ontario, Canada   -   d. 28 March 1855   -   bur. Vining Cemetery   Thorndale, Ontario, Canada
+     Abigail Vining   b. 25 April 1842   Nissouri, Ontario, Canada   -   d. 2 January 1922   Detroit, Michigan
+     Charlotte Vining   b. 11 September 1847   Nissouri, Ontario, Canada   -   m. 6 July 1869   John Watt   -   d. 1918   -   bur. Amherstburg, Ontario, Canada

@@ -1,0 +1,52 @@
+id: JohnH04
+sequence: 229
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Leavitt01
+parentLetter: L
+parentDesc: Leavitt Vining and Ophronia Swift
+head:
+  givenName: John H.
+  birth:
+    date: age 35 y. as of 1860 census
+    place: Massachusetts
+  death:
+    date: 12 June 1864
+    place: "District of Columbia, District of Columbia"
+  burial:
+    place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Clarissa W.
+      surname: "[&#8230;]"
+      birth:
+        date: age 40 y. as of 1860 census
+        place: Massachusetts
+      death:
+        date: 28 March 1879
+      burial:
+        place: "North Hatfield Cemetery   North Hatfield, Massachusetts"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Fred I. Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Massachusetts
+docsUrl: Jsources/JohnH04doc.htm
+raw: |-
+  <a name="JohnH04"></a><font size=+2>John H. Vining</font>
+     (son of <a href="Lfamilies.htm#Leavitt01">Leavitt Vining and Ophronia Swift</a>)
+     b. age 35 y. as of 1860 census   Massachusetts
+     m. Clarissa W. [&#8230;]
+              b. age 40 y. as of 1860 census   Massachusetts
+              d. 28 March 1879
+                    bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+     d. 12 June 1864   District of Columbia, District of Columbia
+           bur. North Hatfield Cemetery   North Hatfield, Massachusetts
+  
+  <font size=+1>child:</font>
+     Fred I. Vining   b. age 1 y. as of 1860 census   Massachusetts
+  
+  <a href="Jsources/JohnH04doc.htm">documentation and notes</a>

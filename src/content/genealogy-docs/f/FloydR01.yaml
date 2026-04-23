@@ -1,0 +1,90 @@
+id: FloydR01
+title: Floyd R. Vining - Pearlie Mae Brooks
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Floyd R. Vining
+          values:
+            - "?"
+            - "31"
+        - label: Pearlie Mae (Brooks) Vining
+          values:
+            - "?"
+            - "31"
+        - label: James Monroe Vining
+          values:
+            - "?"
+            - "13"
+          indent: true
+        - label: Howard Vining
+          values:
+            - dead
+            - ""
+          indent: true
+        - label: Claud Vining
+          values:
+            - "?"
+            - "10"
+          indent: true
+        - label: Dorothy Irene Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+        - label: Alvin Glen Vining
+          values:
+            - ""
+            - "4"
+          indent: true
+        - label: Coynell Vining
+          values:
+            - ""
+            - "1"
+          indent: true
+        - label: Roy Lee Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Roston Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Martha Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Athens, Limestone County, Alabama
+        images:
+          - src: FloydR01census1940a.jpg
+          - src: FloydR01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Floyd R. Vining and Pearlie Mae (Brooks) Vining, in Antioch Cemetery, Elkmont, Alabama (Source:
+          Find A Grave):
+        images:
+          - src: FloydR01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Howard Vining, son of Floyd R. Vining and Pearlie Mae (Brooks) Vining, in Antioch Cemetery,
+          Elkmont, Alabama (Source: Find A Grave):
+        images:
+          - src: FloydR01sonHowardgravestone.jpg
+      - caption: >-
+          Gravestone for Alvin Glen Vining, son of Floyd R. Vining and Pearlie Mae (Brooks) Vining, in Antioch Cemetery,
+          Elkmont, Alabama (Source: Find A Grave):
+        images:
+          - src: FloydR01sonAlvingravestone.jpg
+      - caption: >-
+          Gravestone for Roy Lee Vining, son of Floyd R. Vining and Pearlie Mae (Brooks) Vining, in Antioch Cemetery,
+          Elkmont, Alabama (Source: Find A Grave):
+        images:
+          - src: FloydR01sonRoygravestone.jpg

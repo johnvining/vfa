@@ -1,0 +1,132 @@
+id: FrankW01
+sequence: 42
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: SamuelB01
+parentLetter: S
+parentDesc: Samuel B. Vining and Jane E. Smith
+head:
+  givenName: Frank Winslow
+  birth:
+    date: 11 March 1851/52
+    place: "Limestone Township, Illinois"
+  death:
+    date: 22 November 1908
+marriages:
+  - date: 11 March 1875
+    place: Illinois
+    spouse:
+      givenName: "Jeanette &#8220;Nettie&#8221;"
+      surname: Smith
+      parents: (dau. of William G. Smith and Esstell Braosee)
+      birth:
+        date: 16 March 1852
+        place: "Rutland, Vermont"
+      death:
+        date: 26 June 1926
+        place: "Kankakee, Kankakee County, Illinois"
+      burial:
+        place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
+childrenGroups:
+  - children:
+      - name: Josie Vining
+        birth:
+          date: 15 May 1876
+        death:
+          date: 4 April 1877
+      - name: Emory F. Vining
+        birth:
+          date: 8 December 1877
+          place: Illinois
+        death:
+          date: 21 October 1924
+          place: "Rockville Township, Illinois"
+        burial:
+          place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
+      - name: Etta J. Vining
+        birth:
+          date: 20 September 1879
+          place: Illinois
+        marriages:
+          - date: 1 May 1900
+            place: Illinois
+            spouse: Bert J. Russell
+        death:
+          date: 8 January 1930
+      - name: Samuel E. Vining
+        entryId: SamuelE02
+        entryLetter: S
+        birth:
+          date: 27 July 1881
+        marriages:
+          - date: Bessie Curtis
+        death:
+          date: 2 January 1951
+      - name: Austin James Vining
+        entryId: AustinJ01
+        entryLetter: A
+        birth:
+          date: 10 August 1884
+          place: Illinois
+        marriages:
+          - date: Fanny Darby
+        death:
+          date: 20 April 1946
+          place: "Wilmington, Illinois"
+        burial:
+          place: "Custer Township Cemetery   Custer Park, Illinois"
+      - name: Harry C. Vining
+        entryId: HarryC01
+        entryLetter: H
+        birth:
+          date: 30 September 1886
+          place: Illinois
+        marriages:
+          - date: Ada Eversoll
+        death:
+          date: January 1963
+          place: "(last residence: Illinois)"
+      - name: "Jeanette L. &#8220;Nettie&#8221; Vining"
+        birth:
+          date: 25 April 1889
+        marriages:
+          - number: 1
+            date: T. A. Peters
+          - number: 2
+            date: Bert Russell
+      - name: Arthur Ray Vining
+        entryId: ArthurR01
+        entryLetter: A
+        birth:
+          date: 16 May 1892
+          place: "Limestone Township, Illinois"
+        marriages:
+          - date: Eunice Olive Corbett
+        death:
+          date: 24 April 1964
+          place: "(last residence: Illinois)"
+docsUrl: Fsources/FrankW01doc.htm
+raw: |-
+  <a name="FrankW01"></a><font size=+2>Frank Winslow Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelB01">Samuel B. Vining and Jane E. Smith</a>)
+     b. 11 March 1851/52   Limestone Township, Illinois
+     m. 11 March 1875   Illinois
+           Jeanette &#8220;Nettie&#8221; Smith
+                 (dau. of William G. Smith and Esstell Braosee)
+                 b. 16 March 1852   Rutland, Vermont
+                 d. 26 June 1926   Kankakee, Kankakee County, Illinois
+                       bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+     d. 22 November 1908
+  
+  <font size=+1>children:</font>
+     Josie Vining   b. 15 May 1876   -   d. 4 April 1877
+     Emory F. Vining   b. 8 December 1877   Illinois   -   d. 21 October 1924   Rockville Township, Illinois   -   bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+     Etta J. Vining   b. 20 September 1879   Illinois   -   m. 1 May 1900   Illinois   Bert J. Russell   -   d. 8 January 1930
+     <a href="Sfamilies.htm#SamuelE02">Samuel E. Vining</a>   b. 27 July 1881   -   m. Bessie Curtis   -   d. 2 January 1951
+     <a href="Afamilies.htm#AustinJ01">Austin James Vining</a>   b. 10 August 1884   Illinois   -   m. Fanny Darby   -   d. 20 April 1946   Wilmington, Illinois   -   bur. Custer Township Cemetery   Custer Park, Illinois
+     <a href="Hfamilies.htm#HarryC01">Harry C. Vining</a>   b. 30 September 1886   Illinois   -   m. Ada Eversoll   -   d. January 1963   (last residence: Illinois)
+     Jeanette L. &#8220;Nettie&#8221; Vining   b. 25 April 1889   - m. (1) T. A. Peters;   (2) Bert Russell
+     <a href="Afamilies.htm#ArthurR01">Arthur Ray Vining</a>   b. 16 May 1892   Limestone Township, Illinois   -   m. Eunice Olive Corbett   -   d. 24 April 1964   (last residence: Illinois)
+  
+  <a href="Fsources/FrankW01doc.htm">documentation and notes</a>

@@ -1,0 +1,53 @@
+id: JamesS02
+sequence: 94
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ErnestR01
+parentLetter: E
+parentDesc: Ernest Ray Vining and Norma Jean Puschel
+head:
+  givenName: James Stuart
+  birth:
+    date: 26 October 1953
+    place: "Flint, Michigan"
+marriages:
+  - date: 16 May 1975
+    place: "Dotzheim, Germany"
+    spouse:
+      givenName: Regina Isabella
+      surname: Eberlein
+      parents: (dau. of Hubert Medard Eberlein and Irmgard Charlotte Sanewski)
+      birth:
+        date: 17 March 1954
+        place: "Pasyn, Poland"
+childrenGroups:
+  - children:
+      - name: Nicole Bridgitte Vining
+        birth:
+          date: 15 June 1975
+          place: "Weisbaden, Germany"
+        marriages:
+          - date: 14 August 1999
+            place: "Flint, Michigan MI"
+            spouse: Matthew Robert Gall
+      - name: Rebecca Ilene Vining
+        birth:
+          date: 25 April 1978
+          place: "Flint, Michigan"
+        marriages:
+          - date: 28 July 2001
+            place: "Flint, Michigan"
+            spouse: Zachariah L. Binkley
+raw: |-
+  <a name="JamesS02"></a><font size=+2>James Stuart Vining</font>
+     (son of <a href="Efamilies.htm#ErnestR01">Ernest Ray Vining and Norma Jean Puschel</a>)
+     b. 26 October 1953   Flint, Michigan
+     m. 16 May 1975   Dotzheim, Germany
+           Regina Isabella Eberlein
+                 (dau. of Hubert Medard Eberlein and Irmgard Charlotte Sanewski)
+                 b. 17 March 1954   Pasyn, Poland
+  
+  <font size=+1>children:</font>
+     Nicole Bridgitte Vining   b. 15 June 1975   Weisbaden, Germany   -   m. 14 August 1999   Flint, Michigan MI   Matthew Robert Gall
+     Rebecca Ilene Vining   b. 25 April 1978   Flint, Michigan   -   m. 28 July 2001   Flint, Michigan   Zachariah L. Binkley

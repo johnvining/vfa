@@ -1,0 +1,45 @@
+id: Charles12
+letter: C
+sequence: 44
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Alexander03
+parentLetter: A
+parentDesc: Alexander Vining and Ann Mariah Houser
+head:
+  givenName: Charles
+  birth:
+    date: August 1869
+    place: Ohio
+marriages:
+  - date: 13 y. as of 1900 census
+    spouse:
+      givenName: Cora B.
+      surname: "[...]"
+      birth:
+        date: May 1868
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: Eva M. Vining
+        birth:
+          date: September 1895
+          place: Ohio
+      - name: Harold Vining
+        birth:
+          date: October 1897
+          place: Ohio
+docsUrl: Csources/Charles12doc.htm
+raw: |-
+  <a name="Charles12"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Afamilies.htm#Alexander03">Alexander Vining and Ann Mariah Houser</a>)
+     b. August 1869   Ohio
+     m. 13 y. as of 1900 census
+           Cora B. [...]
+                 b. May 1868   Ohio
+  
+  <font size=+1>children:</font>
+     Eva M. Vining   b. September 1895   Ohio
+     Harold Vining   b. October 1897   Ohio
+  
+  <a href="Csources/Charles12doc.htm">documentation and notes</a>

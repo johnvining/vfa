@@ -1,0 +1,60 @@
+id: Oliver03
+title: Oliver Vining - Ella [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Oliver Vining
+          values:
+            - "?"
+            - "43"
+            - dead
+            - ""
+        - label: Ella ([…]) Vining
+          values:
+            - "?"
+            - "32"
+            - "43"
+            - "?"
+        - label: Myrtle B. Vining
+          values:
+            - ""
+            - "[8?]"
+            - "18"
+            - "?"
+          indent: true
+        - label: Lillian Vining
+          values:
+            - ""
+            - "7"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Naomi E. Vining
+          values:
+            - ""
+            - 2 y., 3 m.
+            - "12"
+            - "?"
+          indent: true
+        - label: Oliver H. Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Oneonta, Otswego County, New York - dwelling 126, family 158
+        images:
+          - src: Oliver03census1920.jpg
+      - year: "1930"
+        caption: Oneonta, Otswego County, New York - dwelling 277, family 289
+        images:
+          - src: Oliver03census1930.jpg

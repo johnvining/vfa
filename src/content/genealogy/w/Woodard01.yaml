@@ -1,0 +1,79 @@
+id: Woodard01
+sequence: 152
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: OwenF01
+parentLetter: O
+parentDesc: Owen Franklin Vining and Pearl Woodard
+head:
+  givenName: Woodard
+  birth:
+    date: 6 September 1915
+    place: Georgia
+  death:
+    date: 8 September 1991
+    place: "Fort Pierce, Florida"
+  burial:
+    place: "Fort Pierce, Florida"
+marriages:
+  - date: 24 December 1938
+    place: Georgia
+    spouse:
+      givenName: Evelyn Virginia
+      surname: Tanner
+      birth:
+        date: 2 April 1921
+        place: "Douglas, Georgia"
+      death:
+        date: 8 December 1990
+        place: "Fort Pierce, Florida"
+      burial:
+        place: "Fort Pierce, Florida"
+childrenGroups:
+  - children:
+      - name: James Henry Vining
+        entryId: JamesH05
+        entryLetter: J
+        birth:
+          date: 24 December 1939
+        marriages:
+          - date: June 1964
+            spouse: Linda Lee Williams
+        death:
+          date: 31 January 2018
+      - name: Paul Vining
+      - name: Martha Vining
+      - name: David Vining
+      - name: Larry Woodard Vining
+        entryId: LarryW01
+        entryLetter: L
+        birth:
+          date: 25 February 1948
+          place: "Fort Pierce, Florida"
+        marriages:
+          - date: "Margaret Schofield,"
+            spouse: divorced
+        death:
+          date: 23 November 2007
+          place: North Carolina
+      - name: Timothy Vining
+raw: |-
+  <a name="Woodard01"></a><font size=+2>Woodard Vining</font>
+     (son of <a href="Ofamilies.htm#OwenF01">Owen Franklin Vining and Pearl Woodard</a>)
+     b. 6 September 1915   Georgia
+     m. 24 December 1938   Georgia
+           Evelyn Virginia Tanner
+                 b. 2 April 1921   Douglas, Georgia
+                 d. 8 December 1990   Fort Pierce, Florida
+                       bur. Fort Pierce, Florida
+     d. 8 September 1991   Fort Pierce, Florida
+           bur. Fort Pierce, Florida
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JamesH05">James Henry Vining</a>   b. 24 December 1939   -   m. June 1964   Linda Lee Williams   -   d. 31 January 2018
+     Paul Vining
+     Martha Vining
+     David Vining
+     <a href="Lfamilies.htm#LarryW01">Larry Woodard Vining</a>   b. 25 February 1948   Fort Pierce, Florida   -   m. Margaret Schofield,   divorced   -   d. 23 November 2007   North Carolina
+     Timothy Vining

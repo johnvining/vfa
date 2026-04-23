@@ -1,0 +1,64 @@
+id: Bruce01
+letter: B
+sequence: 62
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Walter01
+parentLetter: W
+parentDesc: Walter Vining and Mabel Bye
+head:
+  givenName: Bruce
+  birth:
+    date: 5 March 1914
+  death:
+    date: 21 July 1991
+  burial:
+    place: "Maplewood Cemetery   Luverne, Rock County, Minnesota"
+marriages:
+  - date: 6 April 1938
+    place: "Sioux Falls, Minnehaha County, South Dakota"
+    spouse:
+      givenName: Thelma Mae
+      surname: Kienast
+      parents: (dau. of Charles Kienast and Jenny Dean)
+      birth:
+        date: 4 September 1913
+        place: "Magnolia, Rock County, Beltrami County, Minnesota"
+      death:
+        date: 6 November 2010
+        place: "Bemidji, Beltrami County, Minnesota"
+      burial:
+        description: "inurnment Maplewood Cemetery   Luverne, Rock County, Minnesota"
+childrenGroups:
+  - children:
+      - name: Tanya Joy Vining
+        birth:
+          date: 22 March 1943
+        marriages:
+          - date: 5 May 1964
+            spouse: Robert G. Mattson
+      - name: Curtis Bruce Vining
+        birth:
+          date: 16 July 1946
+        marriages:
+          - date: 11 July 1971
+            spouse: Kay Ann Mees
+docsUrl: Bsources/Bruce01doc.htm
+raw: |-
+  <a name="Bruce01"></a><font size=+2>Bruce Vining</font>
+     (son of <a href="Wfamilies.htm#Walter01">Walter Vining and Mabel Bye</a>)
+     b. 5 March 1914
+     m. 6 April 1938   Sioux Falls, Minnehaha County, South Dakota
+           Thelma Mae Kienast
+                 (dau. of Charles Kienast and Jenny Dean)
+                 b. 4 September 1913   Magnolia, Rock County, Beltrami County, Minnesota
+                 d. 6 November 2010   Bemidji, Beltrami County, Minnesota
+                       inurnment Maplewood Cemetery   Luverne, Rock County, Minnesota
+     d. 21 July 1991
+           bur. Maplewood Cemetery   Luverne, Rock County, Minnesota
+  
+  <font size=+1>children:</font>
+     Tanya Joy Vining   b. 22 March 1943   -   m. 5 May 1964   Robert G. Mattson
+     Curtis Bruce Vining   b. 16 July 1946   -   m. 11 July 1971   Kay Ann Mees
+  
+  <a href="Bsources/Bruce01doc.htm">documentation and notes</a>

@@ -1,0 +1,52 @@
+id: EdwardT01
+sequence: 51
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ThomasP02
+parentLetter: T
+parentDesc: Thomas Patterson Vining and Elnora Baker Laurence
+head:
+  givenName: Edward Thomas
+  birth:
+    date: 20 November 1871
+    place: "Delaware, Ohio"
+  death:
+    date: ca. 1954
+    place: "Chicago, Illinois"
+marriages:
+  - date: 14 July 1898
+    spouse:
+      givenName: Sadie Ellistine
+      surname: Crosby
+childrenGroups:
+  - children:
+      - name: Crosby Vining
+        entryId: Crosby01
+        entryLetter: C
+        birth:
+          date: 25 February 1901
+          place: "Chicago, Illinois"
+        marriages:
+          - date: 11 August 1933
+            spouse: Blanche Elsie Toman
+        death:
+          date: 26 July 1970
+          place: "(last residence: Glenview, Illinois)"
+      - name: Isabelle Vining
+        birth:
+          date: 3 December 1903
+          place: "Evanston, Illinois"
+        marriages:
+          - spouse: George W. Johnston
+raw: |-
+  <a name="EdwardT01"></a><font size=+2>Edward Thomas Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasP02">Thomas Patterson Vining and Elnora Baker Laurence</a>)
+     b. 20 November 1871   Delaware, Ohio
+     m. 14 July 1898
+           Sadie Ellistine Crosby
+     d. ca. 1954   Chicago, Illinois
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#Crosby01">Crosby Vining</a>   b. 25 February 1901   Chicago, Illinois   -   m. 11 August 1933   Blanche Elsie Toman   -   d. 26 July 1970   (last residence: Glenview, Illinois)
+     Isabelle Vining   b. 3 December 1903   Evanston, Illinois   -   m. George W. Johnston

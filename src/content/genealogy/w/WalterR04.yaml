@@ -1,0 +1,34 @@
+id: WalterR04
+sequence: 18
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WalterL03
+parentDesc: Walter L. Vining and Arlene Kathleen Visel
+head:
+  givenName: Walter R.
+  birth:
+    date: 29 August 1939
+    place: "New Haven, Connecticut"
+  death:
+    date: 24 December 2016
+marriages:
+  - spouse:
+      givenName: Barbara C.
+      surname: Stankus
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Walter K. Vining
+docsUrl: Wsources/WalterR04doc.htm
+raw: |-
+  <a name="WalterR04"></a><font size=+2>Walter R. Vining</font>
+     (son of <a href="#WalterL03">Walter L. Vining and Arlene Kathleen Visel</a>)
+     b. 29 August 1939   New Haven, Connecticut
+     m. Barbara C. Stankus
+     d. 24 December 2016
+  
+  <font size=+1>child:</font>
+     Walter K. Vining
+  
+  <a href="Wsources/WalterR04doc.htm">documentation and notes</a>

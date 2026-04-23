@@ -1,0 +1,41 @@
+id: GuyH01
+title: Guy Henry Vining - Sarah Caroline Persons
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Guy Henry Vining
+          values:
+            - "37"
+        - label: Sarah (Persons) Vining
+          values:
+            - "26"
+        - label: Guy Macon Vining
+          values:
+            - "1"
+          indent: true
+        - label: William Persons Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Hurtsboro, Russell County, Alabama
+        images:
+          - src: GuyH01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Guy Henry Vining and Sarah Caroline (Persons) Vining, in Hurtsboro Cemetery, Hurtsboro, Russell
+          County, Alabama (from Find A Grave):
+        images:
+          - src: GuyH01andwifeheadstone.jpg
+      - caption: >-
+          Gravestones for Guy Macon Vining and William Persons Vining, sons of Guy Henry Vining and Sarah Caroline
+          (Persons) Vining, in Hurtsboro Cemetery, Hurtsboro, Russell County, Alabama (from Find A Grave):
+        images:
+          - src: GuyH01sonGuygravestone.jpg
+          - src: GuyH01sonWilliamgravestone.jpg
+        inline: true

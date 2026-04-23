@@ -1,0 +1,54 @@
+id: Charles08
+letter: C
+sequence: 35
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JosephJr01
+parentLetter: J
+parentDesc: Joseph Vining Jr. and Sarah Porter
+head:
+  givenName: Charles
+  birth:
+    date: 23 December 1799
+    place: "Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 25 September 1822
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: "Martha Nash &#8220;Patty&#8221;"
+      surname: Porter
+      parents: "(dau. of John Porter and Susan &#8220;Sukey&#8221; Nash)"
+      birth:
+        date: 11 July 1802
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 26 July 1889
+        place: "Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Susan Augusta Vining
+        birth:
+          date: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 1 September 1844
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Josiah Pray
+        death:
+          date: 26 November 1846
+          place: "Weymouth, Norfolk County, Massachusetts"
+docsUrl: Csources/Charles08doc.htm
+raw: |-
+  <a name="Charles08"></a><font size=+2>Charles Vining</font>
+     (son of <a href="Jfamilies.htm#JosephJr01">Joseph Vining Jr. and Sarah Porter</a>)
+     b. 23 December 1799   Weymouth, Norfolk County, Massachusetts
+     m. 25 September 1822   Weymouth, Norfolk County, Massachusetts
+           Martha Nash &#8220;Patty&#8221; Porter
+                 (dau. of John Porter and Susan &#8220;Sukey&#8221; Nash)
+                 b. 11 July 1802   Weymouth, Norfolk County, Massachusetts
+                 d. 26 July 1889   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>child:</font>
+     Susan Augusta Vining   b. Weymouth, Norfolk County, Massachusetts   -   m. 1 September 1844   Weymouth, Norfolk County, Massachusetts   Josiah Pray   -   d. 26 November 1846   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Csources/Charles08doc.htm">documentation and notes</a>

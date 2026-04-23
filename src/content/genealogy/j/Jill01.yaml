@@ -1,0 +1,28 @@
+id: Jill01
+sequence: 151
+letter: J
+lastUpdated: 10 March 2023
+relationship: dau.
+parentId: CecilF01
+parentLetter: C
+parentDesc: "Cecil Frank Vining and [...] Howe"
+head:
+  givenName: Jill
+marriages:
+  - spouse:
+      givenName: Mike
+      surname: Buchholz
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Jason Vining
+        entryId: Jason01
+        marriages:
+          - date: "Amy [...]"
+raw: |-
+  <a name="Jill01"></a><font size=+2>Jill Vining</font>
+     (dau. of <a href="Cfamilies.htm#CecilF01">Cecil Frank Vining and [...] Howe</a>)
+     m. Mike Buchholz
+  
+  <font size=+1>child:</font>
+     <a href="#Jason01">Jason Vining</a>   m. Amy [...]

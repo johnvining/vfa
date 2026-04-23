@@ -1,0 +1,70 @@
+id: James02
+sequence: 16
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: David05
+parentLetter: D
+parentDesc: David Vining and Betsey Smith
+head:
+  givenName: James
+  birth:
+    date: 19 May 1834
+    place: Maine
+  death:
+    date: 25 January 1904
+    place: "Lewiston, Maine"
+  burial:
+    place: "Mount Auburn Cemetery   Auburn, Maine"
+marriages:
+  - date: 21 August 1869
+    spouse:
+      givenName: Susan D.
+      surname: Clark
+      parents: (dau. of James Clark and Susan Dyer)
+      birth:
+        date: "1834"
+        place: "Wales, Maine"
+      death:
+        date: 25 July 1898
+        place: "Lewiston, Maine"
+      burial:
+        place: "Mount Auburn Cemetery   Auburn, Maine"
+childrenGroups:
+  - children:
+      - name: Fred B. Vining
+        birth:
+          date: 20 September 1871
+          place: "Lewiston, Maine"
+        death:
+          date: "1 [March?] 1944"
+          place: "Lewiston, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+      - name: Walter P. Vining
+        birth:
+          date: September 1874
+          place: Maine
+        death:
+          date: "1943"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Maine"
+docsUrl: Jsources/James02doc.htm
+raw: |-
+  <a name="James02"></a><font size=+2>James Vining</font>
+     (son of <a href="Dfamilies.htm#David05">David Vining and Betsey Smith</a>)
+     b. 19 May 1834   Maine
+     m. 21 August 1869
+           Susan D. Clark
+                 (dau. of James Clark and Susan Dyer)
+                 b. 1834   Wales, Maine
+                 d. 25 July 1898   Lewiston, Maine
+                       bur. Mount Auburn Cemetery   Auburn, Maine
+     d. 25 January 1904   Lewiston, Maine
+           bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <font size=+1>children:</font>
+     Fred B. Vining   b. 20 September 1871   Lewiston, Maine   -   d. 1 [March?] 1944   Lewiston, Maine   -   bur. Mount Auburn Cemetery   Auburn, Maine
+     Walter P. Vining   b. September 1874   Maine   -   d. 1943   -   bur. Mount Auburn Cemetery   Auburn, Maine
+  
+  <a href="Jsources/James02doc.htm">documentation and notes</a>

@@ -1,0 +1,67 @@
+id: Frank06
+sequence: 22
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentDesc: "[?] and Rachel [&#8230;]"
+head:
+  givenName: Frank
+  birth:
+    date: April 1856
+    place: Mississippi
+  death:
+    date: "[between 1900 and 1910 ?]"
+marriages:
+  - date: ca. 1880
+    spouse:
+      givenName: Lucinda
+      surname: Hankins
+      parents: "(dau. of James M. Hankins and Louisa [...])"
+      birth:
+        date: February 1870
+        place: "Warren, Arkansas"
+      death:
+        date: "[between 1900 and 1910 ?]"
+childrenGroups:
+  - children:
+      - name: William Leonard Vining
+        entryId: WilliamL01
+        entryLetter: W
+        birth:
+          date: 20 February 1891
+          place: "Bradley County, Arkansas"
+        marriages:
+          - date: Myrtie Ethyl Vaughn
+        death:
+          date: "1958"
+          place: "Warren, Arkansas"
+      - name: child
+        death:
+          date: before 1900 census
+      - name: Florence Louisa Vining
+        birth:
+          date: February 1900
+          place: "Warren, Arkansas"
+        marriages:
+          - date: James Madison Miller
+        death:
+          date: "1945"
+          place: "Warren, Arkansas"
+docsUrl: Fsources/Frank06doc.htm
+raw: |-
+  <a name="Frank06"></a><font size=+2>Frank Vining</font>
+     (son of [?] and Rachel [&#8230;])
+     b. April 1856   Mississippi
+     m. ca. 1880
+           Lucinda Hankins
+                 (dau. of James M. Hankins and Louisa [...])
+                 b. February 1870   Warren, Arkansas
+                 d. [between 1900 and 1910 ?]
+     d. [between 1900 and 1910 ?]
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamL01">William Leonard Vining</a>   b. 20 February 1891   Bradley County, Arkansas   -   m. Myrtie Ethyl Vaughn   -   d. 1958   Warren, Arkansas
+     child   d. before 1900 census
+     Florence Louisa Vining   b. February 1900   Warren, Arkansas   -   m. James Madison Miller   -   d. 1945   Warren, Arkansas
+  
+  <a href="Fsources/Frank06doc.htm">documentation and notes</a>

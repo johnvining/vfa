@@ -1,0 +1,30 @@
+id: RoelC01
+sequence: 135
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: CliffordR01
+parentLetter: C
+parentDesc: Clifford Ray Vining and Dorleen Schimming
+head:
+  givenName: Roel Craig
+  birth:
+    date: 28 December 1960
+    place: "Fargo, North Dakota"
+marriages:
+  - spouse:
+      givenName: "[...]"
+      surname: Holmes
+childrenGroups:
+  - children:
+      - name: daughter
+      - name: daughter
+raw: |-
+  <a name="RoelC01"></a><font size=+2>Roel Craig Vining</font>
+     (son of <a href="Cfamilies.htm#CliffordR01">Clifford Ray Vining and Dorleen Schimming</a>)
+     b. 28 December 1960   Fargo, North Dakota
+     m. [...] Holmes
+  
+  <font size=+1>children:</font>
+     daughter
+     daughter

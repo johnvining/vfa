@@ -1,0 +1,44 @@
+id: William16
+sequence: 64
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William
+  birth:
+    date: November 1865
+    place: Massachusetts
+marriages:
+  - date: 14 y. as of 1900 census
+    spouse:
+      givenName: Dora
+      surname: "[&#8230;]"
+      birth:
+        date: June 1864
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Raymond C. Vining
+        birth:
+          date: "1887"
+        marriages:
+          - date: "Ethel J. […]"
+        death:
+          date: "1965"
+        burial:
+          place: "Hillcrest Park Cemetery   Springfield, Massachusetts"
+docsUrl: Wsources/William16doc.htm
+raw: |-
+  <a name="William16"></a><font size=+2>William Vining</font>
+     (son of [?])
+     b. November 1865   Massachusetts
+     m. 14 y. as of 1900 census
+           Dora [&#8230;]
+                 b. June 1864   Massachusetts
+  
+  <font size=+1>child:</font>
+     Raymond C. Vining   b. 1887   -   m. Ethel J. [&#8230;]   -   d. 1965   -   bur. Hillcrest Park Cemetery   Springfield, Massachusetts
+  
+  <a href="Wsources/William16doc.htm">documentation and notes</a>

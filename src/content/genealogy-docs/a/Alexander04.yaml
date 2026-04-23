@@ -1,0 +1,69 @@
+id: Alexander04
+title: Alexander Vining - Emma [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Alexander Vining
+          values:
+            - "27"
+            - "36"
+            - "47"
+            - "57"
+        - label: Emma ([...]) Vining
+          values:
+            - "24"
+            - "33"
+            - "44"
+            - "54"
+        - label: Eleanor Vining
+          values:
+            - 8 months
+            - "10"
+            - "22"
+            - |-
+              30
+              [see note below]
+          indent: true
+        - label: Vera Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+            - "28"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Cleveland (ward 2), Cuyahoga County, Ohio - dwelling 201, family 232. Also living in this household in 1910
+          were Myrtle McNeal (sister of Alexander Vining, 20 y., b. Indiana), Oliver McNeal (husband of Myrtle (Vining)
+          McNeal, 24 y., b. Ohio), and Joseph Vining (brother of Alexander Vining, 17 y., b. Indiana).
+        images:
+          - src: Alexander04census1910a.jpg
+          - src: Alexander04census1910b.jpg
+      - year: "1920"
+        caption: Cleveland (ward 2), Cuyahoga County, Ohio - dwelling 513, family 676
+        images:
+          - src: Alexander04census1920.jpg
+      - year: "1930"
+        caption: Cleveland (ward 3), Cuyahoga County, Ohio - dwelling 25, family 27
+        images:
+          - src: Alexander04census1930.jpg
+      - year: "1940"
+        caption: >-
+          Cleveland (ward 4), Cuyahoga County, Ohio. By 1940, Eleanor was married, and she and her husband and son were
+          living in this household of her parents.
+        images:
+          - src: Alexander04census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Alexander Vining and Emma […], in Brooklyn Heights Cemetery, Brooklyn Heights, Cuyahoga County,
+          Ohio (from Find A Grave):
+        images:
+          - src: Alexander04andwifeheadstone.jpg

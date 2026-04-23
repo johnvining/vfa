@@ -1,0 +1,60 @@
+id: JamesL01
+sequence: 74
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EdwinJ01
+parentLetter: E
+parentDesc: Edwin Johnson Vining and Miriam Estelle Starns
+head:
+  givenName: James Louis
+  birth:
+    date: 14 March 1925
+marriages:
+  - date: 30 May 1948
+    spouse:
+      givenName: Mary Frances
+      surname: Hodges
+      parents: "(dau. of Louis B. Hodges and Ethel H. [...])"
+      birth:
+        date: age 84 y. at death
+      death:
+        date: 30 March 2014
+childrenGroups:
+  - children:
+      - name: Elizabeth Varina Vining
+        birth:
+          date: 21 February 1949
+        marriages:
+          - date: "[...] Simmons"
+      - name: Matthew Arnold Vining
+        birth:
+          date: 13 February 1952
+        marriages:
+          - date: "Nancy [...]"
+      - name: Amy Louise Vining
+        birth:
+          date: 14 April 1960
+        marriages:
+          - date: Tom Whittington
+      - name: Bonnie Frances Vining
+        birth:
+          date: 14 April 1960
+docsUrl: Jsources/JamesL01doc.htm
+raw: |-
+  <a name="JamesL01"></a><font size=+2>James Louis Vining</font>
+     (son of <a href="Efamilies.htm#EdwinJ01">Edwin Johnson Vining and Miriam Estelle Starns</a>)
+     b. 14 March 1925
+     m. 30 May 1948
+           Mary Frances Hodges
+                 (dau. of Louis B. Hodges and Ethel H. [...])
+                 b. age 84 y. at death
+                 d. 30 March 2014
+  
+  <font size=+1>children:</font>
+     Elizabeth Varina Vining   b. 21 February 1949   -   m. [...] Simmons
+     Matthew Arnold Vining   b. 13 February 1952   -   m. Nancy [...]
+     Amy Louise Vining   b. 14 April 1960   -   m. Tom Whittington
+     Bonnie Frances Vining   b. 14 April 1960
+  
+  <a href="Jsources/JamesL01doc.htm">documentation and notes</a>

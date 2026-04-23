@@ -1,0 +1,58 @@
+id: HaroldR02
+title: Harold Raymond Vining - Nina E. [...]
+displayTitle: Harold Raymond Vining - Nina E. […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harold Raymond Vining
+          values:
+            - "25"
+            - "34"
+            - dead
+        - label: Nina E. ([…]) Vining
+          values:
+            - "25"
+            - "39"
+            - "49"
+        - label: Doris Vining
+          values:
+            - 2 m.
+            - "10"
+            - "20"
+          indent: true
+        - label: Roger Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Lois Vining
+          values:
+            - ""
+            - ""
+            - "9"
+          indent: true
+        - label: Alan Vining
+          values:
+            - ""
+            - ""
+            - "4"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Filer Precinct, Twin Falls County, Idaho - dwelling 266, family 267
+        images:
+          - src: HaroldR02census1920.jpg
+      - year: "1930"
+        caption: Pocatello, Bennock County, Idaho - dwelling 273, family 317
+        images:
+          - src: HaroldR02census1930.jpg
+      - year: "1940"
+        caption: Intermountain Election Precinct, Ada County, Idaho
+        images:
+          - src: HaroldR02census1940.jpg

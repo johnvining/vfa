@@ -1,0 +1,83 @@
+id: LaVernA01
+sequence: 11
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: AustinJ01
+parentLetter: A
+parentDesc: "[Austin James Vining and Fanny Darby ?]"
+head:
+  givenName: LaVern Avery
+  birth:
+    date: 15 May 1914
+    place: "Custer Park, Will County, Illinois"
+  death:
+    date: 31 May 1999
+    place: "Bradley, Kankakee County, Illinois"
+  burial:
+    place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois"
+marriages:
+  - number: 1
+    date: 25 February 1938
+    place: "Kankakee County, Illinois"
+    spouse:
+      givenName: Mildred Rosella
+      surname: Brown
+  - number: 2
+    date: 6 October 1945
+    place: "Joliet, Illinois"
+    spouse:
+      givenName: Joan H.
+      surname: Rimke
+      parents: (daughter of Charles Rimke and Esther Sing)
+      birth:
+        date: 9 June 1927
+        place: "Rockdale, Illinois"
+      death:
+        date: 28 October 2008
+        place: "Cabery, Ford County, Illinois"
+      burial:
+        place: "Mound Grove Cemetery   Kankakee, Illinois"
+childrenGroups:
+  - children:
+      - name: Alan James Vining
+        birth:
+          date: 24 July 1946
+          place: "Joliet, Will County, Illinois"
+        marriages:
+          - date: 14 February 1970
+            place: "Chicago, Illinois   -"
+            spouse: Glenna M. Davis
+        death:
+          date: 26 May 2013
+          place: "Westmont, DuPage County, Illinois"
+        burial:
+          place: "Abraham Lincoln National Cemetery   Elwood, Illinois"
+      - name: Russell Wayne Vining
+        marriages:
+          - date: "Jackie [&#8230;]"
+      - name: Kay L. Vining
+        marriages:
+          - date: "[&#8230;] Matzen"
+docsUrl: Lsources/LaVernA01doc.htm
+raw: |-
+  <a name="LaVernA01"></a><font size=+2>LaVern Avery Vining</font>
+     (son of [<a href="Afamilies.htm#AustinJ01">Austin James Vining and Fanny Darby</a> ?])
+     b. 15 May 1914   Custer Park, Will County, Illinois
+     m. (1) 25 February 1938   Kankakee County, Illinois
+                 Mildred Rosella Brown
+           (2) 6 October 1945   Joliet, Illinois
+                 Joan H. Rimke
+                       (daughter of Charles Rimke and Esther Sing)
+                       b. 9 June 1927   Rockdale, Illinois
+                       d. 28 October 2008   Cabery, Ford County, Illinois
+                             bur. Mound Grove Cemetery   Kankakee, Illinois
+     d. 31 May 1999   Bradley, Kankakee County, Illinois
+           bur. Mound Grove Cemetery   Kankakee, Kankakee County, Illinois
+  
+  <font size=+1>children:</font>
+     Alan James Vining   b. 24 July 1946   Joliet, Will County, Illinois   -   m. 14 February 1970   Chicago, Illinois   -   Glenna M. Davis   -   d. 26 May 2013   Westmont, DuPage County, Illinois   -   bur. Abraham Lincoln National Cemetery   Elwood, Illinois
+     Russell Wayne Vining   m. Jackie [&#8230;]
+     Kay L. Vining   m. [&#8230;] Matzen
+  
+  <a href="Lsources/LaVernA01doc.htm">documentation and notes</a>

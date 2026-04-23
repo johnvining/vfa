@@ -1,0 +1,139 @@
+id: JohnF01
+sequence: 224
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John11
+parentDesc: John Vining and Lydia Pellett
+head:
+  givenName: John Franklin
+  birth:
+    date: 21 August 1872
+    place: Indiana
+  death:
+    date: 2 June 1937
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
+marriages:
+  - spouse:
+      givenName: Clara Belle
+      surname: Hershberger
+      parents: (dau. of Martin Hershberger and Hannah Hanes)
+      birth:
+        date: 7 November 1874
+      death:
+        date: 7 October 1916
+      burial:
+        place: "Etna Green Cemetery   Etna Green, Indiana"
+childrenGroups:
+  - children:
+      - name: Mary O. Vining
+        birth:
+          date: 15 July 1899
+        marriages:
+          - date: Alvah Bowers
+        death:
+          date: 20 August 1988
+        burial:
+          place: "lot 126-2, section K, Southlawn Cemetery   South Bend, Indiana"
+      - name: Ruth Vining
+        birth:
+          date: 22 September 1901
+        marriages:
+          - date: 27 November 1929
+            place: "South Bend, Indiana"
+            spouse: John W. Troeger
+        death:
+          date: 24 February 1987
+        burial:
+          place: "Highland Cemetery   South Bend, Indiana"
+      - name: Clyde Leo Vining
+        entryId: ClydeL01
+        entryLetter: C
+        birth:
+          date: 27 September 1903
+          place: "Etna Green, Indiana"
+        marriages:
+          - date: Evelyn Clara Truex
+        death:
+          date: 8 December 1973
+          place: "(last residence: Quincy, Washington)"
+        burial:
+          place: "Etna Green Cemetery   Etna Green, Indiana"
+      - name: Glenn Minor Vining
+        entryId: GlennM01
+        entryLetter: G
+        birth:
+          date: 1 April 1906
+        marriages:
+          - number: 1
+            date: Mabel Shumaker
+          - number: 2
+            date: Mary Lotimore
+          - number: 3
+            date: Ruby Irene Samules
+        death:
+          date: 9 February 1988
+          place: "(last residence: South Bend, Indiana)"
+        burial:
+          place: "Etna Green Cemetery   Etna Green, Indiana"
+      - name: Gladys O. Vining
+        birth:
+          date: "[1908 or 30 June 1907?]"
+        marriages:
+          - date: Clyde Casner
+        death:
+          date: "2000"
+        burial:
+          place: "Etna Green Cemetery   Etna Green, Indiana"
+      - name: Willard Devon Vining
+        entryId: WillardD01
+        entryLetter: W
+        birth:
+          date: 30 August 1914
+          place: "Etna Green, Indiana"
+        marriages:
+          - date: Mary K. Yocum
+        death:
+          date: 14 November 1999
+          place: "Etna Green, Indiana"
+        burial:
+          place: "Etna Green Cemetery   Etna Green, Indiana"
+      - name: Charles Wendell Vining
+        entryId: CharlesW01
+        entryLetter: C
+        birth:
+          date: 2 October 1916
+          place: Indiana
+        marriages:
+          - number: 1
+            date: Millicent Craft
+          - number: 2
+            date: Mary M. Whitker
+        death:
+          date: 25 July 1997
+        burial:
+          place: "Woodlawn Cenetey   Leslie, Michigan"
+docsUrl: Jsources/JohnF01doc.htm
+raw: |-
+  <a name="JohnF01"></a><font size=+2>John Franklin Vining</font>
+     (son of <a href="#John11">John Vining and Lydia Pellett</a>)
+     b. 21 August 1872   Indiana
+     m. Clara Belle Hershberger
+              (dau. of Martin Hershberger and Hannah Hanes)
+              b. 7 November 1874
+              d. 7 October 1916
+                    bur. Etna Green Cemetery   Etna Green, Indiana
+     d. 2 June 1937
+           bur. Etna Green Cemetery   Etna Green, Indiana
+  
+  <font size=+1>children:</font>
+     Mary O. Vining   b. 15 July 1899   -   m. Alvah Bowers   -   d. 20 August 1988   -   bur. lot 126-2, section K, Southlawn Cemetery   South Bend, Indiana
+     Ruth Vining   b. 22 September 1901   -   m. 27 November 1929   South Bend, Indiana   John W. Troeger   -   d. 24 February 1987   -   bur. Highland Cemetery   South Bend, Indiana
+     <a href="Cfamilies.htm#ClydeL01">Clyde Leo Vining</a>   b. 27 September 1903   Etna Green, Indiana   -   m. Evelyn Clara Truex   -   d. 8 December 1973   (last residence: Quincy, Washington)   -   bur. Etna Green Cemetery   Etna Green, Indiana
+     <a href="Gfamilies.htm#GlennM01">Glenn Minor Vining</a>   b. 1 April 1906   -   m. (1) Mabel Shumaker;   (2) Mary Lotimore;   (3) Ruby Irene Samules   -   d. 9 February 1988   (last residence: South Bend, Indiana)   -   bur. Etna Green Cemetery   Etna Green, Indiana
+     Gladys O. Vining   b. [1908 or 30 June 1907?]   -   m. Clyde Casner   -   d. 2000   -   bur. Etna Green Cemetery   Etna Green, Indiana
+     <a href="Wfamilies.htm#WillardD01">Willard Devon Vining</a>   b. 30 August 1914   Etna Green, Indiana   -   m. Mary K. Yocum   -   d. 14 November 1999   Etna Green, Indiana   -   bur. Etna Green Cemetery   Etna Green, Indiana
+     <a href="Cfamilies.htm#CharlesW01">Charles Wendell Vining</a>   b. 2 October 1916   Indiana   -   m. (1) Millicent Craft;   (2) Mary M. Whitker   -   d. 25 July 1997   -   bur. Woodlawn Cenetey   Leslie, Michigan
+  
+  <a href="Jsources/JohnF01doc.htm">documentation and notes</a>

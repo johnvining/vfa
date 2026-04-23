@@ -1,0 +1,63 @@
+id: WarrenC01
+title: Warren Clifford Vining - Elizabeth Rosie Vogel
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Warren Clifford Vining (from Maine State Archives):"
+        images:
+          - src: WarrenC01birthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Warren Clifford Vining
+          values:
+            - "26"
+            - "36"
+            - dead
+        - label: Elizabeth Rosie (Vogel) Vining
+          values:
+            - "25"
+            - "36"
+            - "46"
+        - label: Warren Clifford Vining Jr.
+          values:
+            - 1 year, [2?] months
+            - "11"
+            - "21"
+          indent: true
+        - label: Carl Louis Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+          indent: true
+        - label: Elizabeth Louise Vining
+          values:
+            - ""
+            - 4 y., 7 m.
+            - "14"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Milton, DuPage County, Illinois - dwelling 7, family 9
+        images:
+          - src: WarrenC01census1920.jpg
+      - year: "1930"
+        caption: Milton Township, DuPage County, Illinois - dwelling 157, family 167
+        images:
+          - src: WarrenC01census1930.jpg
+      - year: "1940"
+        caption: Wheaton, Milton Township, DuPage County, Illinois
+        images:
+          - src: WarrenC01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Warren Clifford Vining, in Arlington National Cemetery, Arlington, Arlington County, Virginia
+          (from Find A Grave):
+        images:
+          - src: WarrenC01gravestone.jpg

@@ -1,0 +1,46 @@
+id: FrankC02
+sequence: 30
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: LesterR01
+parentLetter: L
+parentDesc: Lester Raymond Vining and Laurel Vivian Ladner
+head:
+  givenName: Frank Christensen
+  birth:
+    date: 20 August 1929
+    place: Michigan
+  death:
+    date: 22 February 1982
+    place: "Big Rapids, Michigan"
+  burial:
+    place: "Higbee Cemetery   Deerfield Village, Mecosta County, Michigan"
+marriages:
+  - date: 23 February 1957
+    spouse:
+      givenName: Barbara Jean
+      surname: Olson
+childrenGroups:
+  - children:
+      - name: Craig Allen Vining
+        birth:
+          date: 12 February 1959
+      - name: Jacqueline Rae Vining
+        birth:
+          date: 29 May 1963
+docsUrl: Fsources/FrankC02doc.htm
+raw: |-
+  <a name="FrankC02"></a><font size=+2>Frank Christensen Vining</font>
+     (son of <a href="Lfamilies.htm#LesterR01">Lester Raymond Vining and Laurel Vivian Ladner</a>)
+     b. 20 August 1929   Michigan
+     m. 23 February 1957
+           Barbara Jean Olson
+     d. 22 February 1982   Big Rapids, Michigan
+           bur. Higbee Cemetery   Deerfield Village, Mecosta County, Michigan
+  
+  <font size=+1>children:</font>
+     Craig Allen Vining   b. 12 February 1959
+     Jacqueline Rae Vining   b. 29 May 1963
+  
+  <a href="Fsources/FrankC02doc.htm">documentation and notes</a>

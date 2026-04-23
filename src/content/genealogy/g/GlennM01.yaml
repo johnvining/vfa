@@ -1,0 +1,76 @@
+id: GlennM01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: JohnF01
+parentLetter: J
+parentDesc: John Franklin Vining and Clara Belle Hershberger
+head:
+  givenName: Glenn Minor
+  birth:
+    date: 1 April 1906
+  death:
+    date: 9 February 1988
+    place: "(last residence: South Bend, Indiana)"
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
+marriages:
+  - number: 1
+    date: Mabel Shumaker
+  - number: 2
+    date: Mary Lotimore
+  - number: 3
+    date: Ruby Irene Samules
+    spouse:
+      birth:
+        date: "1915"
+      death:
+        date: "1996"
+      burial:
+        place: "Etna Green Cemetery   Etna Green, Indiana"
+childrenGroups:
+  - headingText: "child by Mabel Shumaker"
+    children:
+      - name: Glenn Minor Vining Jr.
+        entryId: GlennMJr01
+        birth:
+          date: 29 May 1925
+          place: "Bourbon, Indiana"
+        marriages:
+          - date: "1946"
+            spouse: Lois June Larson
+        death:
+          date: 30 May 1987
+          place: "Augusta, Georgia"
+        burial:
+          place: "Augusta National Cemetery   Augusta, Georgia"
+  - headingText: "child by Mary Lotimore"
+    children:
+      - name: Donna Vining
+  - headingText: "child by Ruby Samules"
+    children:
+      - name: Robert Vining
+        birth:
+          date: 7 December 1950
+docsUrl: Gsources/GlennM01doc.htm
+raw: |-
+  <a name="GlennM01"></a><font size=+2>Glenn Minor Vining</font>
+     (son of <a href="Jfamilies.htm#JohnF01">John Franklin Vining and Clara Belle Hershberger</a>)
+     b. 1 April 1906
+     m. (1) Mabel Shumaker
+           (2) Mary Lotimore
+           (3) Ruby Irene Samules
+                    b. 1915
+                    d. 1996
+                          bur. Etna Green Cemetery   Etna Green, Indiana
+     d. 9 February 1988   (last residence: South Bend, Indiana)
+           bur. Etna Green Cemetery   Etna Green, Indiana
+  
+  <font size=+1>child by Mabel Shumaker:</font>
+     <a href="#GlennMJr01">Glenn Minor Vining Jr.</a>   b. 29 May 1925   Bourbon, Indiana   -   m. 1946   Lois June Larson   -   d. 30 May 1987   Augusta, Georgia   -   bur. Augusta National Cemetery   Augusta, Georgia
+  <font size=+1>child by Mary Lotimore:</font>
+     Donna Vining
+  <font size=+1>child by Ruby Samules:</font>
+     Robert Vining   b. 7 December 1950
+  
+  <a href="Gsources/GlennM01doc.htm">documentation and notes</a>

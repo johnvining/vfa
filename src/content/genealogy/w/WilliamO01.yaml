@@ -1,0 +1,74 @@
+id: WilliamO01
+sequence: 127
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Scott01
+parentLetter: S
+parentDesc: Scott Vining and Isabella Deyo/De Voe
+head:
+  givenName: William Oscar
+  birth:
+    date: "1834"
+  death:
+    date: 26 August 1871
+    place: "Wayne, Michigan"
+marriages:
+  - date: "2 November 1862 [Flat Rock or Brockway?], Michigan"
+    spouse:
+      givenName: Ann B.
+      surname: Arzend
+      birth:
+        date: "1842"
+      death:
+        date: "1901"
+      burial:
+        place: "Glenwood Cemetery   Wayne, Michigan"
+childrenGroups:
+  - children:
+      - name: "[Louise or Estelle ?] Vining"
+        birth:
+          date: age 16 y. as of 1880 census
+          place: Michigan
+        marriages:
+          - date: "Wayne, Michigan"
+            spouse: John Bunting
+      - name: "[Mary or Effie ?] Vining"
+        birth:
+          date: age 14 y. as of 1880 census
+          place: Michigan
+        marriages:
+          - date: "Washington, District of Columbia"
+            spouse: Carl Brandt
+      - name: Edward Minnick Vining
+        entryId: EdwardM02
+        entryLetter: E
+        birth:
+          date: "1869"
+          place: Michigan
+        marriages:
+          - date: 7 y. as of 1910 census
+            place: "Wayne, Michigan"
+            spouse: Italy Dicus
+        death:
+          date: "1931"
+        burial:
+          place: "Glenwood Cemetery   Wayne, Michigan"
+docsUrl: Wsources/WilliamO01doc.htm
+raw: |-
+  <a name="WilliamO01"></a><font size=+2>William Oscar Vining</font>
+     (son of <a href="Sfamilies.htm#Scott01">Scott Vining and Isabella Deyo/De Voe</a>)
+     b. 1834
+     m. 2 November 1862 [Flat Rock or Brockway?], Michigan
+           Ann B. Arzend
+                 b. 1842
+                 d. 1901
+                       bur. Glenwood Cemetery   Wayne, Michigan
+     d. 26 August 1871   Wayne, Michigan
+  
+  <font size=+1>children:</font>
+     [Louise or Estelle ?] Vining   b. age 16 y. as of 1880 census   Michigan   -   m. Wayne, Michigan   John Bunting
+     [Mary or Effie ?] Vining   b. age 14 y. as of 1880 census   Michigan   -   m. Washington, District of Columbia   Carl Brandt
+     <a href="Efamilies.htm#EdwardM02">Edward Minnick Vining</a>   b. 1869   Michigan   -   m. 7 y. as of 1910 census   Wayne, Michigan   Italy Dicus   -   d. 1931   -   bur. Glenwood Cemetery   Wayne, Michigan
+  
+  <a href="Wsources/WilliamO01doc.htm">documentation and notes</a>

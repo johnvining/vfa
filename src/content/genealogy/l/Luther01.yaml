@@ -1,0 +1,111 @@
+id: Luther01
+sequence: 79
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Jonas01
+parentLetter: J
+parentDesc: Jonas Vining and Sarah Page
+head:
+  givenName: Luther
+  birth:
+    date: 12 January 1790
+    place: New York
+  death:
+    date: 12 May 1857
+    place: "Bloomfield, Indiana"
+  burial:
+    place: "Bloomfield Cemetery   Bloomfield, Indiana"
+marriages:
+  - date: 2 October 1814
+    place: "Washington County, Ohio"
+    spouse:
+      givenName: Sybil
+      surname: Webster
+      birth:
+        date: age 55 y. as of 1850 census
+        place: Ohio
+      death:
+        date: "1871"
+        place: "Bennington Township, Morrow County, Ohio"
+childrenGroups:
+  - children:
+      - name: child
+      - name: child
+      - name: Samantha Vining
+        birth:
+          date: age 22 y. as of 1850 census
+          place: Ohio
+        death:
+          date: before 1857
+      - name: Francis Vining
+        entryId: Francis03
+        entryLetter: F
+        birth:
+          date: age 21 y. as of 1850 census
+          place: "Bennington Township, Morrow County, Ohio"
+        death:
+          date: 2 April 1864
+          place: Ohio
+        burial:
+          place: "Bloomfield Cemetery   Bloomfield, Indiana"
+      - name: Marilla Vining
+        birth:
+          date: 27 September 1831
+          place: Ohio
+        marriages:
+          - date: 21 December 1853
+            place: Ohio
+            spouse: Benjamin F. Wood
+        death:
+          date: 15 September 1898
+          place: "Brooks, Michigan"
+        burial:
+          place: "Newaygo Cemetery   Newaygo, Michigan"
+      - name: Electa Vining
+        birth:
+          date: age 16 y. as of 1850 census
+          place: Ohio
+      - name: Ansel Vining
+        entryId: Ansel02
+        entryLetter: A
+        birth:
+          date: 10 June 1835
+          place: "Morrow County, Ohio"
+        marriages:
+          - date: 7 July 1867
+            place: "Boone, Iowa"
+            spouse: Charlotte Cara Cornwell
+        death:
+          date: 19 October 1902
+          place: "Waitsburg, Washington"
+        burial:
+          place: "Waitsburg Cemetery   Waitsburg, Washington"
+      - name: Ausillus Orelas Vining
+        birth:
+          date: age 10 y. as of 1850 census
+          place: "Morrow County, Ohio"
+        note: "1867   Morengo, Ohio"
+docsUrl: Lsources/Luther01doc.htm
+raw: |-
+  <a name="Luther01"></a><font size=+2>Luther Vining</font>
+     (son of <a href="Jfamilies.htm#Jonas01">Jonas Vining and Sarah Page</a>)
+     b. 12 January 1790   New York
+     m. 2 October 1814   Washington County, Ohio
+           Sybil Webster
+                 b. age 55 y. as of 1850 census   Ohio
+                 d. 1871   Bennington Township, Morrow County, Ohio
+     d. 12 May 1857   Bloomfield, Indiana
+           bur. Bloomfield Cemetery   Bloomfield, Indiana
+  
+  <font size=+1>children:</font>
+     child
+     child
+     Samantha Vining   b. age 22 y. as of 1850 census   Ohio   -   d. before 1857
+     <a href="Ffamilies.htm#Francis03">Francis Vining</a>   b. age 21 y. as of 1850 census   Bennington Township, Morrow County, Ohio   -   d. 2 April 1864   Ohio   -   bur. Bloomfield Cemetery   Bloomfield, Indiana
+     Marilla Vining   b. 27 September 1831   Ohio   -   m. 21 December 1853   Ohio   Benjamin F. Wood   -   d. 15 September 1898   Brooks, Michigan   -   bur. Newaygo Cemetery   Newaygo, Michigan
+     Electa Vining   b. age 16 y. as of 1850 census   Ohio
+     <a href="Afamilies.htm#Ansel02">Ansel Vining</a>   b. 10 June 1835   Morrow County, Ohio   -   m. 7 July 1867   Boone, Iowa   Charlotte Cara Cornwell   -   d. 19 October 1902   Waitsburg, Washington   -   bur. Waitsburg Cemetery   Waitsburg, Washington
+     Ausillus Orelas Vining   b. age 10 y. as of 1850 census   Morrow County, Ohio   -   1867   Morengo, Ohio
+  
+  <a href="Lsources/Luther01doc.htm">documentation and notes</a>

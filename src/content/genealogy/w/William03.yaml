@@ -1,0 +1,67 @@
+id: William03
+sequence: 62
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Calvin01
+parentLetter: C
+parentDesc: Calvin Vining and Mary Ann Noe
+head:
+  givenName: William
+  birth:
+    date: 9 June 1832
+    place: Ohio
+  death:
+    date: 3 November 1902
+  burial:
+    place: "Hillside Cemetery   Ormond Beach, Florida"
+marriages:
+  - date: 16 August 1858
+    place: Ohio
+    spouse:
+      givenName: Celestia M.
+      surname: Horr
+      birth:
+        date: 18 October 1832
+        place: Ohio
+      death:
+        date: "[&#8230;]"
+      burial:
+        place: "Hillside Cemetery   Ormond Beach, Florida"
+childrenGroups:
+  - children:
+      - name: William F. Vining
+        birth:
+          date: 22 September 1865
+          place: "Rossville, Illinois"
+        death:
+          date: 16 February 1895
+          place: "Ormond, Florida"
+        burial:
+          place: "Hillside Cemetery   Ormond Beach, Florida"
+      - name: Joseph Horr Vining
+        birth:
+          date: 3 September 1874
+          place: Illinois
+        death:
+          date: 16 January 1908
+        burial:
+          place: "Hillside Cemetery   Ormond Beach, Florida"
+docsUrl: Wsources/William03doc.htm
+raw: |-
+  <a name="William03"></a><font size=+2>William Vining</font>
+     (son of <a href="Cfamilies.htm#Calvin01">Calvin Vining and Mary Ann Noe</a>)
+     b. 9 June 1832   Ohio
+     m. 16 August 1858   Ohio
+           Celestia M. Horr
+                 b. 18 October 1832   Ohio
+                 d. [&#8230;]
+                       bur. Hillside Cemetery   Ormond Beach, Florida
+     d. 3 November 1902
+           bur. Hillside Cemetery   Ormond Beach, Florida
+  
+  <font size=+1>children:</font>
+     William F. Vining   b. 22 September 1865   Rossville, Illinois   -   d. 16 February 1895   Ormond, Florida   -   bur. Hillside Cemetery   Ormond Beach, Florida
+     Joseph Horr Vining   b. 3 September 1874   Illinois   -   d. 16 January 1908   -   bur. Hillside Cemetery   Ormond Beach, Florida
+  
+  <a href="Wsources/William03doc.htm">documentation and notes</a>

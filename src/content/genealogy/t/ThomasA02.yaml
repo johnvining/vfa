@@ -1,0 +1,126 @@
+id: ThomasA02
+letter: T
+sequence: 17
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Thomas02
+parentDesc: Thomas Vining and Wealthy Weston
+head:
+  givenName: Thomas A.
+  birth:
+    date: "1800"
+    place: "Simsbury, Hartford County, Connecticut"
+  death:
+    date: 5 May 1880
+    place: "Simsbury, Hartford County, Connecticut"
+  burial:
+    place: "Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut"
+marriages:
+  - number: 1
+    date: 26 December 1822
+    place: "Simsbury, Hartford County, Connecticut"
+    spouse:
+      givenName: Amelia
+      surname: Tuller
+      parents: "(dau. of Asaph Tuller and Ruth Case)"
+      birth:
+        date: "1809"
+        place: "Simsbury, Hartford County, Connecticut"
+      death:
+        date: "1858"
+        place: "Simsbury, Hartford County, Connecticut"
+      burial:
+        place: "Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut"
+  - number: 2
+    date: 3 September 1859
+    place: "New Haven, Connecticut"
+    spouse:
+      givenName: Jerusha
+      surname: Keys
+      birth:
+        date: age 47 y. as of 1860 census
+        place: Connecticut
+      death:
+        date: 11 May 1896
+        place: "Simsbury, Hartford County, Connecticut"
+childrenGroups:
+  - spouseRef: Amelia Tuller
+    children:
+      - name: Horace Case Vining
+        entryId: HoraceC01
+        entryLetter: H
+        birth:
+          date: 26 December 1828
+          place: "Simsbury, Hartford County, Connecticut"
+        marriages:
+          - date: 17 February 1855
+            place: "Canton, Connecticut"
+            spouse: Sarah Jane Case
+        death:
+          date: 18 May 1869
+          place: "Canton, Hartford County, Connecticut"
+        burial:
+          place: "North Canton Cemetery   North Canton, Hartford County, Connecticut"
+      - name: George T. Vining
+        entryId: GeorgeT02
+        entryLetter: G
+        birth:
+          date: 12 April 1828
+          place: "Simsbury, Hartford County, Connecticut"
+        marriages:
+          - date: Mary Henrietta Hoffman
+        death:
+          date: 5 November 1875
+          place: "Astoria, Oregon"
+        burial:
+          place: "Fort Stellacoom Cemetery   Stellacoom, Wshington"
+      - name: Ruth Vining
+        birth:
+          date: "1832"
+        marriages:
+          - date: George Wilcox
+        death:
+          date: "1911"
+          place: Connecticut
+        burial:
+          place: "Simsbury Center Cemetery   Simsbury, Hartford County, Connecticut"
+      - name: Charles Augustus Vining
+        birth:
+          date: "1838"
+        death:
+          date: 22 January 1839
+          place: Connecticut
+        burial:
+          place: "Simsbury Center Cemetery   Simsbury, Hartford County, Connecticut"
+      - name: Amelia E. Vining
+        death:
+          date: 19 January 1860
+          place: Connecticut
+        burial:
+          place: "Simsbury Center Cemetery   Simsbury, Hartford County, Connecticut"
+docsUrl: Tsources/ThomasA02doc.htm
+raw: |-
+  <a name="ThomasA02"></a><font size=+2>Thomas A. Vining</font>
+     (son of <a href="#Thomas02">Thomas Vining and Wealthy Weston</a>)
+     b. 1800   Simsbury, Hartford County, Connecticut
+     m. (1) 26 December 1822   Simsbury, Hartford County, Connecticut
+                 Amelia Tuller
+                       (dau. of Asaph Tuller and Ruth Case)
+                       b. 1809   Simsbury, Hartford County, Connecticut
+                       d. 1858   Simsbury, Hartford County, Connecticut
+                             bur. Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut
+           (2) 3 September 1859   New Haven, Connecticut
+                 Jerusha Keys
+                       b. age 47 y. as of 1860 census   Connecticut
+                       d. 11 May 1896   Simsbury, Hartford County, Connecticut
+     d. 5 May 1880   Simsbury, Hartford County, Connecticut
+           bur. Bushy Hill Cemetery   Simsbury, Hartford County, Connecticut
+  
+  <font size=+1>children by Amelia Tuller:</font>
+     <a href="Hfamilies.htm#HoraceC01">Horace Case Vining</a>   b. 26 December 1828   Simsbury, Hartford County, Connecticut   -   m. 17 February 1855   Canton, Connecticut   Sarah Jane Case   -   d. 18 May 1869   Canton, Hartford County, Connecticut   -   bur. North Canton Cemetery   North Canton, Hartford County, Connecticut
+     <a href="Gfamilies.htm#GeorgeT02">George T. Vining</a>   b. 12 April 1828   Simsbury, Hartford County, Connecticut   -   m. Mary Henrietta Hoffman   -   d 5 November 1875   Astoria, Oregon   -   bur Fort Stellacoom Cemetery   Stellacoom, Wshington
+     Ruth Vining   b. 1832   -   m. George Wilcox   -   d. 1911   Connecticut   -   bur. Simsbury Center Cemetery   Simsbury, Hartford County, Connecticut
+     Charles Augustus Vining   b. 1838   -   d. 22 January 1839   Connecticut   -   bur. Simsbury Center Cemetery   Simsbury, Hartford County, Connecticut
+     Amelia E. Vining   d. 19 January 1860   Connecticut   -   bur. Simsbury Center Cemetery   Simsbury, Hartford County, Connecticut
+  
+  <a href="Tsources/ThomasA02doc.htm">documentation and notes</a>

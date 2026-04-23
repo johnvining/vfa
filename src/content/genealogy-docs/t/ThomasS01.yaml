@@ -1,0 +1,77 @@
+id: ThomasS01
+title: Thomas Spencer Vining - Nancy Judson Shaw
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Thomas Spencer Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Nancy Judson (Shaw) Vining
+          values:
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ella Sarah B. Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Ida Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lizzie May Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Leyden, Franklin County, Massachusetts - dwelling 117, family 120
+        images:
+          - src: ThomasS01census1860.jpg
+      - year: "1890"
+        caption: census data are unavailable
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Thomas Spencer Vining and Nancy Judson (Shaw) Vining, in South Leyden Cemetery, Leyden,
+          Franklin County, Massachusetts (from Find A Grave):
+        images:
+          - src: ThomasS01gravestone.jpg
+          - src: ThomasS01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Headstone for Mary Ida Vining and Lizzie May Vining, daughters of Thomas Spencer Vining and Nancy Judson
+          (Shaw) Vining, in East Hawley Cemetery, Hawley, Franklin County, Massachusetts (from Find A Grave):
+        images:
+          - src: ThomasS01dausMaryLizzieheadstone.jpg

@@ -1,0 +1,88 @@
+id: LloydK01
+title: Lloyd Kelly Vining - Clara C. Coates
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Lloyd Kelly Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+        - label: Clara (Coates) Vining
+          values:
+            - "23"
+            - "34"
+            - "44"
+        - label: Lloyd Richard Vining
+          values:
+            - 2 y., 9 m.
+            - "13"
+            - "23"
+          indent: true
+        - label: Glenna A. Vining
+          values:
+            - 9 m.
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Dale Kelly Vining
+          values:
+            - ""
+            - 4 y., 1 m.
+            - "14"
+          indent: true
+        - label: Clarice Vining
+          values:
+            - ""
+            - 2 y., 6 m.
+            - "12"
+          indent: true
+        - label: Jack Vining
+          values:
+            - ""
+            - ""
+            - "9"
+          indent: true
+        - label: James Vining
+          values:
+            - ""
+            - ""
+            - "2"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Ogden City (ward 1), Weber County, Utah - dwelling 172, family 190
+        images:
+          - src: LloydK01census1920.jpg
+      - year: "1930"
+        caption: Ogden City, Weber County, Utah - dwelling 227, family 240
+        images:
+          - src: LloydK01census1930.jpg
+      - year: "1940"
+        caption: Ogden City (ward 1), Weber County, Utah
+        images:
+          - src: LloydK01census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for Lloyd Kelly Vining:"
+        images:
+          - src: LloydK01WWIregistrationcarda.jpg
+          - src: LloydK01WWIregistrationcardb.jpg
+        inline: true
+  - type: death
+    items:
+      - caption: "Death certificate for Lloyd Kelly Vining:"
+        images:
+          - src: LloydK01deathcertificate.jpg
+      - caption: >-
+          Gravestones for Lloyd Kelly Vining and Clara (Coates) Vining, in Washington Heights Memorial Park, Ogden,
+          Weber County, Utah (from Find A Grave):
+        images:
+          - src: LloydK01gravestone.jpg
+          - src: LloydK01wifegravestone.jpg
+        inline: true

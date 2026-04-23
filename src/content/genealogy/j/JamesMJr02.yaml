@@ -1,0 +1,40 @@
+id: JamesMJr02
+sequence: 77
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James M. Jr.
+marriages:
+  - spouse:
+      givenName: Naomi
+      surname: Hooper
+      parents: (dau. of John Quincy Hooper and Linnie Lou Shaddock)
+      birth:
+        date: 8 March 1924
+      death:
+        date: 13 October 2005
+        place: "Roseville, California"
+      burial:
+        place: "Fresno Memorial Gardens   Fresno, California"
+childrenGroups:
+  - children:
+      - name: Eric Vining
+        marriages:
+          - date: "Sharon [...]"
+      - name: Tim Vining
+        marriages:
+          - date: "Linda [...]"
+raw: |-
+  <a name="JamesMJr02"></a><font size=+2>James M. Vining Jr.</font>
+     (son of [?])
+     m. Naomi Hooper
+              (dau. of John Quincy Hooper and Linnie Lou Shaddock)
+              b. 8 March 1924
+              d. 13 October 2005   Roseville, California
+                    bur. Fresno Memorial Gardens   Fresno, California
+  
+  <font size=+1>children:</font>
+     Eric Vining   m. Sharon [...]
+     Tim Vining   m. Linda [...]

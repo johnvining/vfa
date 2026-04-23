@@ -1,0 +1,55 @@
+id: BenjaminF01
+title: Benjamin Franklin Vining - Lydia Hunt
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Benjamin Franklin Vining
+          values:
+            - "?"
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lydia (Hunt) Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+        - label: Lydia Elizabeth Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Henry Franklin Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 676, family 873
+        images:
+          - src: BenjaminF01census1850.jpg

@@ -1,0 +1,28 @@
+id: ThomasF02
+title: Thomas Frank Vining - Phyllis May Boothby
+intro:
+  - caption: "Thomas Frank Vining and Phyllis May (Boothby) Vining:"
+    images:
+      - src: ThomasF02photograph.jpg
+        height: 400
+      - src: ThomasF02wifephotograph.jpg
+        height: 400
+    inline: true
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage record for Thomas Frank Vining and Phyllis May Boothby (from Maine State Archives):"
+        images:
+          - src: ThomasF02marriagerecorda.jpg
+          - src: ThomasF02marriagerecordb.jpg
+        inline: true
+  - type: death
+    items:
+      - caption: "Obituary for Thomas Frank Vining:"
+        images:
+          - src: ThomasF02obituary.jpg
+      - caption: "Gravestones for Thomas Frank Vining and Phyllis May (Boothby) Vining, in Veterans' Cemetery, Augusta, Maine:"
+        images:
+          - src: ThomasF02gravestone.jpg
+          - src: ThomasF02wifegravestone.jpg
+        inline: true

@@ -1,0 +1,109 @@
+id: NathanielR01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: Nathaniel R.
+  birth:
+    date: 16 March 1813
+    place: "[Durham or Lewiston?], Maine"
+  death:
+    date: "1878"
+    place: "Avon, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - date: int. 13 June 1838
+    place: "Avon, Maine"
+    spouse:
+      givenName: Louisa Jane
+      surname: Worthley
+      parents: "(dau. of Asa Worthley and Jennie True)"
+      birth:
+        date: 29 March 1818
+        place: "North Yarmouth, Maine"
+      death:
+        date: 30 October 1896
+        place: "Avon, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Maine"
+childrenGroups:
+  - children:
+      - name: Sophronia Louisa Vining
+        birth:
+          date: 4 March 1841
+        marriages:
+          - date: 7 September 1862
+            spouse: John Almon Will
+        death:
+          date: 4 September 1888
+          place: "Avon, Maine"
+        burial:
+          description: "bur Village Cemetery   Strong, Maine"
+      - name: Ostinello Vining
+        birth:
+          date: "1843"
+          place: "Avon, Maine"
+        death:
+          date: 23 March 1864
+          place: "Washington, D.C."
+        burial:
+          place: "Route 4 Cemetery   Avon, Maine"
+      - name: "Sarah Jane &#8220;Sally&#8221; Vining"
+        birth:
+          date: 22 October 1845
+        marriages:
+          - date: Artemis Gardner Cates
+            spouse: d. May 1939
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+      - name: "Aroline K. Vining"
+        birth:
+          date: "11 January [1848 or 1847?]"
+        death:
+          date: 28 April 1865
+        burial:
+          place: "Pease Cemetery   Avon, Maine [see documentation and notes]"
+      - name: "Emogene &#8220;Emma&#8221; Vining"
+        birth:
+          date: age 9 y. as of 1860 census
+        marriages:
+          - date: 1 January 1874
+            spouse: Harrison J. Bates
+      - name: "Roxanna W. &#8220;Anna&#8221; Vining"
+        birth:
+          date: 24 August 1857
+          place: "Avon, Maine"
+        marriages:
+          - date: 5 January 1901
+            spouse: William C. Bates
+        death:
+          date: 25 April 1926
+        burial:
+          place: "Village Cemetery   Strong, Maine"
+docsUrl: Nsources/NathanielR01doc.htm
+raw: |-
+  <a name="NathanielR01"></a><font size=+2>Nathaniel R. Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. 16 March 1813   [Durham or Lewiston?], Maine
+     m. int. 13 June 1838   Avon, Maine
+           Louisa Jane Worthley
+                 (dau. of Asa Worthley and Jennie True)
+                 b. 29 March 1818   North Yarmouth, Maine
+                 d. 30 October 1896   Avon, Maine
+                       bur. Village Cemetery   Strong, Maine
+     d. 1878   Avon, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>children:</font>
+     Sophronia Louisa Vining   b. 4 March 1841   -   m. 7 September 1862   John Almon Will   -   d. 4 September 1888   Avon, Maine   -   bur Village Cemetery   Strong, Maine
+     Ostinello Vining   b. 1843   Avon, Maine   -   d. 23 March 1864   Washington, D.C.   -   bur. Route 4 Cemetery   Avon, Maine
+     Sarah Jane &#8220;Sally&#8221; Vining   b. 22 October 1845   -   m. Artemis Gardner Cates   d. May 1939   -   bur. Village Cemetery   Strong, Maine
+     Aroline K. Vining   b. 11 January [1848 or 1847?]   -   d. 28 April 1865   -   bur. Pease Cemetery   Avon, Maine [see documentation and notes]
+     Emogene &#8220;Emma&#8221; Vining   b. age 9 y. as of 1860 census   -   m. 1 January 1874   Harrison J. Bates
+     Roxanna W. &#8220;Anna&#8221; Vining   b. 24 August 1857   Avon, Maine   -   m. 5 January 1901   William C. Bates   -   d. 25 April 1926   -   bur. Village Cemetery   Strong, Maine
+  
+  <a href="Nsources/NathanielR01doc.htm">documentation and notes</a>

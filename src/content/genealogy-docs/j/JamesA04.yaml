@@ -1,0 +1,89 @@
+id: JamesA04
+title: James Alfred Vining - Mary Susie Taylor
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: James Alfred Vining
+          values:
+            - "?"
+            - "39"
+            - "49"
+            - "?"
+            - "?"
+        - label: Mary Susie (Taylor) Vining
+          values:
+            - "?"
+            - "29"
+            - "38"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lydia B. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Robert Lee Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "[see note below]"
+            - "?"
+          indent: true
+        - label: Jessie L. Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+        - label: Earnest Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+        - label: Martha E. Vining
+          values:
+            - ""
+            - 7 mos.
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Choudrant (ward 4), Lincoln [Parish?], Louisiana - dwelling 198, family 198
+        images:
+          - src: JamesA04census1900.jpg
+      - year: "1910"
+        caption: "[town?](ward 4), Jackson [Parish?], Louisiana - dwelling 87, family 87"
+        images:
+          - src: JamesA04census1910.jpg
+      - year: "1920"
+        caption: >-
+          [town?](ward 6), Jackson [Parish?], Louisiana - dwelling 386, family 377. Robert Lee Vining was a boarder in
+          this household in 1920.
+        images:
+          - src: JamesA04census1920.jpg

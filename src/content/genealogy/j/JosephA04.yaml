@@ -1,0 +1,37 @@
+id: JosephA04
+sequence: 297
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Joseph A.
+  birth:
+    date: age 45 y. as of 1860 census
+    place: Delaware
+marriages:
+  - spouse:
+      givenName: Maria
+      surname: "[...]"
+      birth:
+        date: age 45 y. as of 1860 census
+        place: Delaware
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Louisa Vining
+        birth:
+          date: age 12 y. as of 1860 census
+          place: Delaware
+docsUrl: Jsources/JosephA04doc.htm
+raw: |-
+  <a name="JosephA04"></a><font size=+2>Joseph A. Vining</font>
+     (son of [?])
+     b. age 45 y. as of 1860 census   Delaware
+     m. Maria [...]
+              b. age 45 y. as of 1860 census   Delaware
+  
+  <font size=+1>child:</font>
+     Louisa Vining   b. age 12 y. as of 1860 census   Delaware
+  
+  <a href="Jsources/JosephA04doc.htm">documentation and notes</a>

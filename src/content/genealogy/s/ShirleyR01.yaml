@@ -1,0 +1,92 @@
+id: ShirleyR01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnL07
+parentLetter: J
+parentDesc: John L. Vining and Abbie F. Bamford
+head:
+  givenName: Shirley R.
+  birth:
+    date: June 1893
+    place: Massachusetts
+  death:
+    date: between 1930 and 1940 censuses
+marriages:
+  - date: ca. 1914
+    spouse:
+      givenName: Beatrice M.
+      surname: Ham
+      parents: "(dau. of Edward Ham and [...])"
+      birth:
+        date: age 27 y. as of 1920 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Florence L. Vining
+        birth:
+          date: age 3 y. as of 1920 census
+          place: Massachusetts
+      - name: Sidney Ellsworth Vining
+        entryId: SidneyE01
+        birth:
+          date: 1 December 1918
+          place: "Pelham, New Hampshire"
+        marriages:
+          - date: 23 March 1946
+            place: "Lowell, Massachusetts"
+            spouse: Dorothy Frances Battersby
+        death:
+          date: 11 February 2009
+          place: "Anaheim, California"
+        burial:
+          place: "Riverside National Cemetery   Riverside, California"
+      - name: Muriel S. Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: New Hampshire
+      - name: Priscilla M. Vining
+        birth:
+          date: age 6 y. as of 1930 census
+          place: New Hampshire
+      - name: John E. Vining
+        birth:
+          date: "age 4 y., 1[1?] m. as of 1930 census"
+          place: New Hampshire
+      - name: Warren H. Vining
+        entryId: WarrenH01
+        entryLetter: W
+        birth:
+          date: 14 March 1927
+          place: New Hampshire
+        marriages:
+          - date: Priscilla J. Carstensen
+        death:
+          date: 7 August 1998
+      - name: Judith A. Vining
+        birth:
+          date: age 5 y. as of 1940 census
+          place: New Hampshire
+        marriages:
+          - date: "[...] Dutton"
+docsUrl: Ssources/ShirleyR01doc.htm
+raw: |-
+  <a name="ShirleyR01"></a><font size=+2>Shirley R. Vining</font>
+     (son of <a href="Jfamilies.htm#JohnL07">John L. Vining and Abbie F. Bamford</a>)
+     b. June 1893   Massachusetts
+     m. ca. 1914
+           Beatrice M. Ham
+                 (dau. of Edward Ham and [...])
+                 b. age 27 y. as of 1920 census   Massachusetts
+     d. between 1930 and 1940 censuses
+  
+  <font size=+1>children:</font>
+     Florence L. Vining   b. age 3 y. as of 1920 census   Massachusetts
+     <a href="#SidneyE01">Sidney Ellsworth Vining</a>   b. 1 December 1918   Pelham, New Hampshire   -   m. 23 March 1946   Lowell, Massachusetts   Dorothy Frances Battersby   -   d. 11 February 2009   Anaheim, California   -   bur. Riverside National Cemetery   Riverside, California
+     Muriel S. Vining   b. age 9 y. as of 1930 census   New Hampshire
+     Priscilla M. Vining   b. age 6 y. as of 1930 census   New Hampshire
+     John E. Vining   b. age 4 y., 1[1?] m. as of 1930 census   New Hampshire
+     <a href="Wfamilies.htm#WarrenH01">Warren H. Vining</a>   b. 14 March 1927   New Hampshire   -   m. Priscilla J. Carstensen   -   d. 7 August 1998
+     Judith A. Vining   b. age 5 y. as of 1940 census   New Hampshire   -   m. [...] Dutton
+  
+  <a href="Ssources/ShirleyR01doc.htm">documentation and notes</a>

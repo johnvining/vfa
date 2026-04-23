@@ -1,0 +1,91 @@
+id: WilliamH09
+sequence: 93
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William H.
+  birth:
+    date: age 33 y. as of 1850 census
+    place: Massachusetts
+marriages:
+  - number: 1
+    date: "Abigail H. [...]"
+    spouse:
+      birth:
+        date: 17 March 1817
+        place: "[New Jersey or Massachusetts]"
+      death:
+        date: 25 January 1862
+      burial:
+        place: "First Presbyterian Cemetery   Salem, New Jersey"
+  - number: 2
+    date: "Caroline [...]elford"
+    spouse:
+      birth:
+        date: age 36 as of 1870 census
+childrenGroups:
+  - spouseRef: "Abigail H. [...]"
+    children:
+      - name: Susannah H. Vining
+        birth:
+          date: 18 December 1840
+          place: New Jersey
+        death:
+          date: 29 May 1855
+        burial:
+          place: "First Presbyterian Cemetery   Salem, New Jersey"
+      - name: "S[...] H. Vining [son]"
+        birth:
+          date: age 7 y. as of 1850 census
+          place: New Jersey
+      - name: George C. Vining
+        birth:
+          date: age 3 y. as of 1850 census
+          place: New Jersey
+      - name: Martha G. Vining
+        birth:
+          date: age 10 y. as of 1860 census
+          place: New Jersey
+      - name: William H. Vining
+        entryId: WilliamH14
+        birth:
+          date: December 1854
+          place: New Jersey
+      - name: Thomas Roan Vining
+        entryId: ThomasR03
+        entryLetter: T
+        birth:
+          date: July 1857
+          place: New Jersey
+        marriages:
+          - date: 2 December 1876
+            place: "Sharpstown, New Jersey"
+            spouse: Frances D. Conover
+      - name: Levi D. Vining
+        birth:
+          date: age 2 y. as of 1860 census
+          place: New Jersey
+docsUrl: Wsources/WilliamH09doc.htm
+raw: |-
+  <a name="WilliamH09"></a><font size=+2>William H. Vining</font>
+     (son of [?])
+     b. age 33 y. as of 1850 census   Massachusetts
+     m. (1) Abigail H. [...]
+                    b. 17 March 1817   [New Jersey or Massachusetts]
+                    d. 25 January 1862
+                          bur. First Presbyterian Cemetery   Salem, New Jersey
+           (2) Caroline [...]elford
+                    b. age 36 as of 1870 census
+  
+  <font size=+1>children by Abigail H. [...]:</font>
+     Susannah H. Vining   b. 18 December 1840   New Jersey   -   d. 29 May 1855   -   bur. First Presbyterian Cemetery   Salem, New Jersey
+     S[...] H. Vining [son]   b. age 7 y. as of 1850 census   New Jersey
+     George C. Vining   b. age 3 y. as of 1850 census   New Jersey
+     Martha G. Vining   b. age 10 y. as of 1860 census   New Jersey
+     <a href="#WilliamH14">William H. Vining</a>   b. December 1854   New Jersey
+     <a href="Tfamilies.htm#ThomasR03">Thomas Roan Vining</a>   b. July 1857   New Jersey   -   m. 2 December 1876   Sharpstown, New Jersey   Frances D. Conover
+     Levi D. Vining   b. age 2 y. as of 1860 census   New Jersey
+  
+  <a href="Wsources/WilliamH09doc.htm">documentation and notes</a>

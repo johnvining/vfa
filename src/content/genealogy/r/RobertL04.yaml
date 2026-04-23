@@ -1,0 +1,110 @@
+id: RobertL04
+sequence: 109
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FrancisM01
+parentLetter: F
+parentDesc: Francis Marion Vining and Elizabeth Scott
+head:
+  givenName: Robert Lee
+  birth:
+    date: 21 December 1869
+    place: Louisiana
+  death:
+    date: "1960"
+  burial:
+    place: "Estancia Memorial Cemetery   Estancia, New Mexico"
+marriages:
+  - date: 5 y. as of 1900 census
+    spouse:
+      givenName: Willie Pearl
+      surname: Gibson
+      parents: "(dau. of Andrew Gibson and [...])"
+      birth:
+        date: 14 November 1870
+        place: "Ruston, Louisiana"
+      death:
+        date: 14 August 1946
+        place: "Estancia, New Mexico"
+      burial:
+        place: "Estancia Memorial Cemetery   Estancia, New Mexico"
+childrenGroups:
+  - children:
+      - name: Sadie Larline Vining
+        birth:
+          date: 24 October 1896
+          place: "Ruston, Louisiana"
+        marriages:
+          - number: 1
+            date: Roy Waggoner
+          - number: 2
+            date: James William Langley III
+        death:
+          date: 15 September 1947
+          place: "Albuquerque, New Mexico"
+        burial:
+          place: "Estancia Memorial Cemetery   Estancia, New Mexico"
+      - name: Andrew Lee Otis Vining
+        entryId: AndrewL02
+        entryLetter: A
+        birth:
+          date: "20 November 189[8 or 2?]"
+          place: "Ruston, Louisiana"
+        marriages:
+          - date: "Elizabeth E. [&#8230;]"
+        death:
+          date: "1961"
+        burial:
+          place: "Woodbine Cemetery   Ranier, Washington"
+      - name: Jefferson Carl Vining
+        birth:
+          date: 13 August 1903
+          place: "Erick, Oklahoma"
+        death:
+          date: "25 August 193[9 or 8?]"
+          place: "Albuquerque, New Mexico"
+        burial:
+          place: "Estancia Memorial Cemetery   Estancia, New Mexico"
+      - name: Blanche Pearl Vining
+        birth:
+          date: 11 April 1906
+          place: "Erick, Oklahoma"
+      - name: Clyde C. Vining
+        birth:
+          date: 13 November 1908
+          place: "Enid, Oklahoma"
+        death:
+          date: "1966"
+        burial:
+          place: "Estancia Memorial Cemetery   Estancia, New Mexico"
+      - name: Lizzie Irene Vining
+        birth:
+          date: 9 November 1900
+          place: Texas
+      - name: Carl Vining
+      - name: Blanche Vining
+        marriages:
+          - date: "[...] Richardson"
+raw: |-
+  <a name="RobertL04"></a><font size=+2>Robert Lee Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisM01">Francis Marion Vining and Elizabeth Scott</a>)
+     b. 21 December 1869   Louisiana
+     m. 5 y. as of 1900 census
+           Willie Pearl Gibson
+                 (dau. of Andrew Gibson and [...])
+                 b. 14 November 1870   Ruston, Louisiana
+                 d. 14 August 1946   Estancia, New Mexico
+                       bur. Estancia Memorial Cemetery   Estancia, New Mexico
+     d. 1960
+           bur. Estancia Memorial Cemetery   Estancia, New Mexico
+  
+  <font size=+1>children:</font>
+     Sadie Larline Vining   b. 24 October 1896   Ruston, Louisiana   -   m. (1) Roy Waggoner;   (2) James William Langley III   -   d. 15 September 1947   Albuquerque, New Mexico   -   bur. Estancia Memorial Cemetery   Estancia, New Mexico
+     <a href="Afamilies.htm#AndrewL02">Andrew Lee Otis Vining</a>   b. 20 November 189[8 or 2?]   Ruston, Louisiana   -   m. Elizabeth E. [&#8230;]   -   d. 1961   -   bur. Woodbine Cemetery   Ranier, Washington
+     Jefferson Carl Vining   b. 13 August 1903   Erick, Oklahoma   -   d. 25 August 193[9 or 8?]   Albuquerque, New Mexico   -   bur. Estancia Memorial Cemetery   Estancia, New Mexico
+     Blanche Pearl Vining   b. 11 April 1906   Erick, Oklahoma
+     Clyde C. Vining   b. 13 November 1908   Enid, Oklahoma   -   d. 1966   -   bur. Estancia Memorial Cemetery   Estancia, New Mexico
+     Lizzie Irene Vining   b. 9 November 1900   Texas
+     Carl Vining
+     Blanche Vining   m. [...] Richardson

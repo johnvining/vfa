@@ -1,0 +1,78 @@
+id: JohnC01
+sequence: 212
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John Chester
+  birth:
+    date: age 31 y. as of 1920 census
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Annie O.
+      surname: Wicks
+      birth:
+        date: age 30 y. as of 1920 census
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Kathleen F. Vining
+        birth:
+          date: "age 3 y., 9 m. as of 1920 densus"
+          place: Georgia
+        marriages:
+          - date: Carl Reich
+        death:
+          date: before 2 December 1911
+      - name: John Carl Vining
+        entryId: JohnC02
+        birth:
+          date: 9 July 1917
+          place: Georgia
+        marriages:
+          - date: 62 y. as of death
+            spouse: Clara Pugh
+        death:
+          date: 2 December 1911
+        burial:
+          place: Floral Hills Memory Gardens   Georgia
+      - name: "Harmon R[ummell?]. Vining"
+        entryId: HarmonR01
+        entryLetter: H
+        birth:
+          date: 4 February 1919
+          place: Georgia
+        marriages:
+          - date: Mabel Tapley
+        death:
+          date: 10 April 2017
+      - name: William Howell Vining
+        birth:
+          date: "age 6 y., as of 1930 census"
+          place: Georgia
+        marriages:
+          - date: "Annette [...]"
+      - name: Gordon Vining
+        birth:
+          date: age 4 y. as of 1930 census
+          place: Georgia
+        marriages:
+          - date: "Becky [...]"
+docsUrl: Jsources/JohnC01doc.htm
+raw: |-
+  <a name="JohnC01"></a><font size=+2>John Chester Vining</font>
+     (son of [?])
+     b. age 31 y. as of 1920 census   Georgia
+     m. Annie O. Wicks
+              b. age 30 y. as of 1920 census   Georgia
+  
+  <font size=+1>children:</font>
+     Kathleen F. Vining   b. age 3 y., 9 m. as of 1920 densus   Georgia   =   m. Carl Reich   -   d. before 2 December 1911
+     <a href="#JohnC02">John Carl Vining</a>   b. 9 July 1917   Georgia   -   m. 62 y. as of death   Clara Pugh   -   d. 2 December 1911   -   bur. Floral Hills Memory Gardens   Georgia
+     <a href="Hfamilies.htm#HarmonR01">Harmon R[ummell?]. Vining</a>   b. 4 February 1919   Georgia   -   m. Mabel Tapley   -   d. 10 April 2017
+     William Howell Vining   b. age 6 y., as of 1930 census   Georgia   -   m. Annette [...]
+     Gordon Vining   b. age 4 y. as of 1930 census   Georgia   -   m. Becky [...]
+  
+  <a href="Jsources/JohnC01doc.htm">documentation and notes</a>

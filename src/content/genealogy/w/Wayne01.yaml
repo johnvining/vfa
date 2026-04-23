@@ -1,0 +1,28 @@
+id: Wayne01
+sequence: 39
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Wayne
+marriages:
+  - spouse:
+      givenName: Jenny
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Jason Vining
+      - name: Jeremy Vining
+      - name: Jonathan Vining
+      - name: Todd Vining
+raw: |-
+  <a name="Wayne01"></a><font size=+2>Wayne Vining</font>
+     (son of [?])
+     m. Jenny [...]
+  
+  <font size=+1>children:</font>
+     Jason Vining
+     Jeremy Vining
+     Jonathan Vining
+     Todd Vining

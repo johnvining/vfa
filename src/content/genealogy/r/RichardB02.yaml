@@ -1,0 +1,79 @@
+id: RichardB02
+sequence: 51
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: GeorgeH02
+parentLetter: G
+parentDesc: George Henry Vining and Antis Adwilda Babcock
+head:
+  givenName: Richard Bruce
+  birth:
+    date: 3 April 1910
+    place: Montana
+  death:
+    date: 9 July 1976
+    place: "Pueblo, Colorado"
+  burial:
+    place: "Imperial Memorial Gardens   Pueblo, Colorado"
+marriages:
+  - spouse:
+      givenName: Lucille M.
+      surname: Quirico
+      parents: "(dau. of Edward Quirico and Estellina [...])"
+      birth:
+        date: 16 May 1912
+        place: "Walsen Camp, Colorado"
+      death:
+        date: 1 December 2004
+        place: "Aurora, Colorado"
+childrenGroups:
+  - children:
+      - name: Walter Gene Vining
+        entryId: WalterG01
+        entryLetter: W
+        birth:
+          date: 5 September 1935
+          place: "Alamosa, Colorado"
+        marriages:
+          - date: Peggy Yarberry
+        death:
+          date: 26 December 2019
+      - name: Shirley A. Vining
+        birth:
+          date: age 2 y. as of 1940 census
+          place: Colorado
+        marriages:
+          - date: "[...] Kirkendall"
+      - name: Robert H. Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Colorado
+        marriages:
+          - date: "Barbara [...]"
+      - name: Colleen Vining
+        marriages:
+          - date: "[...] Rogers"
+      - name: Edward Vining
+        marriages:
+          - date: "Irene [...]"
+docsUrl: Rsources/RichardB02doc.htm
+raw: |-
+  <a name="RichardB02"></a><font size=+2>Richard Bruce Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeH02">George Henry Vining and Antis Adwilda Babcock</a>)
+     b. 3 April 1910   Montana
+     m. Lucille M. Quirico
+              (dau. of Edward Quirico and Estellina [...])
+              b. 16 May 1912   Walsen Camp, Colorado
+              d. 1 December 2004   Aurora, Colorado
+     d. 9 July 1976   Pueblo, Colorado
+           bur. Imperial Memorial Gardens   Pueblo, Colorado
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WalterG01">Walter Gene Vining</a>   b. 5 September 1935   Alamosa, Colorado   -   m. Peggy Yarberry   -   d. 26 December 2019
+     Shirley A. Vining   b. age 2 y. as of 1940 census   Colorado   -   m. [...] Kirkendall
+     Robert H. Vining   b. age 1 y. as of 1940 census   Colorado   -   m. Barbara [...]
+     Colleen Vining   m. [...] Rogers
+     Edward Vining   m. Irene [...]
+  
+  <a href="Rsources/RichardB02doc.htm">documentation and notes</a>

@@ -1,0 +1,51 @@
+id: Jared03
+sequence: 110
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JaredM01
+parentDesc: Jared Morgan Vining and Ellen Vandenbergh
+head:
+  givenName: Jared
+  birth:
+    date: age 37 y. as of 1880 census
+marriages:
+  - date: 29 June 1876
+    place: "Genesee County, Michigan"
+    spouse:
+      givenName: Mary Lumetta
+      surname: Firman
+      birth:
+        date: age 31 y. as of 1880 census
+        place: Michigan
+childrenGroups:
+  - spouseRef: "Mary [...]"
+    children:
+      - name: Oren Vining
+        birth:
+          date: age 3 y. as of 1880 census
+          place: Michigan
+      - name: Erwin Josiah Vining
+        entryId: ErwinJ01
+        entryLetter: E
+        birth:
+          date: 31 July 1878
+          place: Michigan
+        marriages:
+          - date: 20 November 1901
+            place: "Sanford, Michigan"
+            spouse: Lizzie Louisa Hazen
+docsUrl: Jsources/Jared03doc.htm
+raw: |-
+  <a name="Jared03"></a><font size=+2>Jared Vining</font>
+     (son of <a href="#JaredM01">Jared Morgan Vining and Ellen Vandenbergh</a>)
+     b. age 37 y. as of 1880 census
+     m. 29 June 1876   Genesee County, Michigan
+           Mary Lumetta Firman
+                 b. age 31 y. as of 1880 census   Michigan
+  
+  <font size=+1>children by Mary [...]:</font>
+     Oren Vining   b. age 3 y. as of 1880 census   Michigan
+     <a href="Efamilies.htm#ErwinJ01">Erwin Josiah Vining</a>   b. 31 July 1878   Michigan   -   m. 20 November 1901   Sanford, Michigan   Lizzie Louisa Hazen
+  
+  <a href="Jsources/Jared03doc.htm">documentation and notes</a>

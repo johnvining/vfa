@@ -1,0 +1,78 @@
+id: HarryD01
+title: Harry D. Vining - (1) Bertha C. Crane;   (2) Linwood C. Merrill
+displayTitle: Harry D. Vining - (1) Bertha C. Crane, (2) Linwood C. Merrill
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Harry D. Vining
+          values:
+            - "34"
+            - "44"
+            - "54"
+            - dead
+            - ""
+        - label: Bertha C. (Crane) Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Linwood C. (Merrill) Vining
+          values:
+            - "28"
+            - "38"
+            - "49"
+            - "?"
+            - "?"
+        - label: Bertha Vining
+          values:
+            - "7"
+            - "19"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Bessie Vining
+          values:
+            - "7"
+            - "11"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          West Springfield, Hampden County, Massachusetts - dwelling 86, family 101. In 1900, Bertha and Bessie were
+          reported to have been born in January 1893, and in 1910, the were reported to have been twins, but their ages
+          are reported to be different. Research is needed to clarify this issue.
+        images:
+          - src: HarryD01census1900.jpg
+      - year: "1910"
+        caption: West Springfield, Hampden County, Massachusetts - dwelling 8, family 14
+        images:
+          - src: HarryD01census1910.jpg
+      - year: "1920"
+        caption: West Springfield, Hampden County, Massachusetts - dwelling 2, family 3
+        images:
+          - src: HarryD01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Bertha C. (Crane) Vining, in Southwick Cemetery, Southwick, Hampden County, Massachusetts (from
+          Find A Grave):
+        images:
+          - src: HarryD01wifeBerthagravestone.jpg
+      - caption: >-
+          Headstone for Harry D. Vining and Linwood C. (Merrill) Vining, in Meeting House Hill Cemetery, West
+          Springfield, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: HarryD01andwifeLinwoodheadstone.jpg

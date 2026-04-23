@@ -1,0 +1,62 @@
+id: ElmerH02
+sequence: 91
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: ElmerH01
+parentDesc: Elmer Howard Vining and Mariah Louise DesLauriers
+head:
+  givenName: Elmer Harold
+  birth:
+    date: 9 March 1892
+    place: "Brockton, Massachusetts"
+  death:
+    date: 30 September 1977
+    place: "Brockton, Massachusetts"
+marriages:
+  - date: "192[0 or 1?]"
+    place: "Brockton, Massachusetts"
+    spouse:
+      givenName: Bernice Marguerite
+      surname: Foye
+      parents: (dau. of Lewis Melvin Foye and Maude Frances Pittsley)
+      birth:
+        date: 22 January 1898
+        place: "Brockton, Massachusetts"
+      death:
+        date: 28 October 1968
+        place: "Stoughton, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Melvin Howard Vining
+        entryId: MelvinH01
+        entryLetter: M
+        birth:
+          date: 27 October 1921
+          place: "Brockton, Massachusetts"
+        marriages:
+          - date: 10 January 1943
+            place: "Trenton, New Jersey"
+            spouse: Jean Marie Breen
+        death:
+          date: 2 March 2008
+          place: "Falls Township, Pennsylvania"
+        burial:
+          place: "North Weymouth Cemetery   Weymouth, Massachusetts"
+docsUrl: Esources/ElmerH02doc.htm
+raw: |-
+  <a name="ElmerH02"></a><font size=+2>Elmer Harold Vining</font>
+     (son of <a href="#ElmerH01">Elmer Howard Vining and Mariah Louise DesLauriers</a>)
+     b. 9 March 1892   Brockton, Massachusetts
+     m. 192[0 or 1?]   Brockton, Massachusetts
+           Bernice Marguerite Foye
+                 (dau. of Lewis Melvin Foye and Maude Frances Pittsley)
+                 b. 22 January 1898   Brockton, Massachusetts
+                 d. 28 October 1968   Stoughton, Massachusetts
+     d. 30 September 1977   Brockton, Massachusetts
+  
+  <font size=+1>child:</font>
+     <a href="Mfamilies.htm#MelvinH01">Melvin Howard Vining</a>   b. 27 October 1921   Brockton, Massachusetts   -   m. 10 January 1943   Trenton, New Jersey   Jean Marie Breen   -   d. 2 March 2008   Falls Township, Pennsylvania   -   bur. North Weymouth Cemetery   Weymouth, Massachusetts
+  
+  <a href="Esources/ElmerH02doc.htm">documentation and notes</a>

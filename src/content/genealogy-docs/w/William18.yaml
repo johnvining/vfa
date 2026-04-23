@@ -1,0 +1,87 @@
+id: William18
+title: William Vining - Carrie E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Vining
+          values:
+            - "?"
+            - "?"
+            - "48"
+            - "?"
+            - "?"
+            - "?"
+        - label: Carrie E. ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "42"
+            - "?"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: George F. Vining
+          values:
+            - "?"
+            - "?"
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[daughter] Vining"
+          values:
+            - "?"
+            - "?"
+            - "15"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: William P. Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Atlanta (ward 9), Fulton County, Georgia - dwelling 9, family 10
+        images:
+          - src: William18census1910a.jpg
+          - src: William18census1910b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for William Vining and Carrie E. ([�…]) Vining, in Lovejoy Cemetery, Newton County, Georgia (from
+          Find A Grave):
+        images:
+          - src: William18andwifeheadstone.jpg

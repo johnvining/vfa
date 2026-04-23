@@ -1,0 +1,81 @@
+id: WinfieldR01
+sequence: 150
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Seward01
+parentLetter: S
+parentDesc: Seward Vining and Roxanna F. Purrington
+head:
+  givenName: Winfield R.
+  birth:
+    date: 19 September 1874
+    place: "Avon, Maine"
+  death:
+    date: 18 February 1950
+    place: "Strong, Maine"
+  burial:
+    place: "Village Cemetery   Strong, Maine"
+marriages:
+  - number: 1
+    date: 14 December 1898
+    place: "Strong, Maine"
+    spouse:
+      givenName: Elizabeth S.
+      surname: Hackett
+      parents: "(dau. of Ephraim Hackett and Lucy A. Cushman)"
+      birth:
+        date: 15 May 1877
+        place: "Augusta, Maine"
+      death:
+        date: 27 August 1921
+        place: "Old Orchard, Maine"
+      burial:
+        place: "Strong, Maine"
+  - number: 2
+    date: 28 September 1929
+    place: "Strong, Maine"
+    spouse:
+      givenName: Nettie E. (DeBeck)
+      surname: Buzzell
+      parents: "(dau. of William DeBeck and Elizabeth R. Ridd)"
+      birth:
+        date: "Clifton, Maine"
+childrenGroups:
+  - headingText: child by Elizabeth S. Hackett
+    children:
+      - name: Randall Othello Vining
+        entryId: RandallO01
+        entryLetter: R
+        birth:
+          date: 2 August 1907
+          place: "Strong, Maine"
+        marriages:
+          - date: Arline Emma Shine
+        death:
+          date: 29 August 1983
+          place: "(last residence: Royalston, Massachusetts)"
+        burial:
+          place: "Lawrence Brook Cemetery   Royalston, Massachusetts"
+docsUrl: Wsources/WinfieldR01doc.htm
+raw: |-
+  <a name="WinfieldR01"></a><font size=+2>Winfield R. Vining</font>
+     (son of <a href="Sfamilies.htm#Seward01">Seward Vining and Roxanna F. Purrington</a>)
+     b. 19 September 1874   Avon, Maine
+     m. (1) 14 December 1898   Strong, Maine
+                 Elizabeth S. Hackett
+                       (dau. of Ephraim Hackett and Lucy A. Cushman)
+                       b. 15 May 1877   Augusta, Maine
+                       d. 27 August 1921   Old Orchard, Maine
+                             bur. Strong, Maine
+           (2) 28 September 1929   Strong, Maine
+                 Nettie E. (DeBeck) Buzzell
+                       (dau. of William DeBeck and Elizabeth R. Ridd)
+                       b. Clifton, Maine
+     d. 18 February 1950   Strong, Maine
+           bur. Village Cemetery   Strong, Maine
+  
+  <font size=+1>child by Elizabeth S. Hackett:</font>
+     <a href="Rfamilies.htm#RandallO01">Randall Othello Vining</a>   b. 2 August 1907   Strong, Maine   -   m. Arline Emma Shine   -   d. 29 August 1983   (last residence: Royalston, Massachusetts)   -   bur. Lawrence Brook Cemetery   Royalston, Massachusetts
+  
+  <a href="Wsources/WinfieldR01doc.htm">documentation and notes</a>

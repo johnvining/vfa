@@ -1,0 +1,52 @@
+id: ThomasE03
+letter: T
+sequence: 27
+lastUpdated: 9 March 2023
+relationship: son
+parentId: CharlesB02
+parentLetter: C
+parentDesc: Charles Benjamin Vining and Mary Jean Stone
+head:
+  givenName: Thomas E.
+  birth:
+    date: 13 October 1941
+    place: "Topeka, Kansas"
+  death:
+    date: 14 April 2008
+    place: "Meriden, Kansas"
+  burial:
+    place: "Mount Hope Cemetery   Topeka, Shawnee County, Kansas"
+marriages:
+  - date: 10 May 1966
+    place: "Newkirk, Oklahoma"
+    spouse:
+      givenName: Mickey Linn
+      surname: Gleason
+      birth:
+        date: 1 May 1948
+childrenGroups:
+  - children:
+      - name: Daniel C. Vining
+      - name: Brian J. Vining
+      - name: Kimberly S. Vining
+        marriages:
+          - date: "[...] Martin"
+      - name: Ashley L. Vining
+docsUrl: Tsources/ThomasE03doc.htm
+raw: |-
+  <a name="ThomasE03"></a><font size=+2>Thomas E. Vining</font>
+     (son of <a href="Cfamilies.htm#CharlesB02">Charles Benjamin Vining and Mary Jean Stone</a>)
+     b. 13 October 1941   Topeka, Kansas
+     m. 10 May 1966   Newkirk, Oklahoma
+           Mickey Linn Gleason
+                 b. 1 May 1948
+     d. 14 April 2008   Meriden, Kansas
+           bur. Mount Hope Cemetery   Topeka, Shawnee County, Kansas
+  
+  <font size=+1>children:</font>
+     Daniel C. Vining
+     Brian J. Vining
+     Kimberly S. Vining   m. [...] Martin
+     Ashley L. Vining
+  
+  <a href="Tsources/ThomasE03doc.htm">documentation and notes</a>

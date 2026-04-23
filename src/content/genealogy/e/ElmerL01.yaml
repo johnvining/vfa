@@ -1,0 +1,49 @@
+id: ElmerL01
+sequence: 96
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: FrederickE01
+parentLetter: F
+parentDesc: Frederick Elmer Vining and Louise Conant McKenney
+head:
+  givenName: Elmer LeRoy
+  birth:
+    date: 6 May 1895
+    place: "Lisbon, Maine"
+  death:
+    date: 13 June 1946
+    place: "Glen Park, New York"
+marriages:
+  - date: 8 September 1920
+    spouse:
+      givenName: Elsie Elizabeth
+      surname: King
+      birth:
+        date: 11 April 1897
+        place: New York
+      death:
+        date: May 1981
+        place: "Watertown, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Ray LeRoy Vining
+        birth:
+          date: 10 June 1921
+          place: "Glen Park, New York"
+        marriages:
+          - date: 30 November 1946
+            spouse: Janice Ellen Cummings
+raw: |-
+  <a name="ElmerL01"></a><font size=+2>Elmer LeRoy Vining</font>
+     (son of <a href="Ffamilies.htm#FrederickE01">Frederick Elmer Vining and Louise Conant McKenney</a>)
+     b. 6 May 1895   Lisbon, Maine
+     m. 8 September 1920
+           Elsie Elizabeth King
+                 b. 11 April 1897   New York
+                 d. May 1981   Watertown, New York
+     d. 13 June 1946   Glen Park, New York
+  
+  <font size=+1>child:</font>
+     Ray LeRoy Vining   b. 10 June 1921   Glen Park, New York   -   m. 30 November 1946   Janice Ellen Cummings

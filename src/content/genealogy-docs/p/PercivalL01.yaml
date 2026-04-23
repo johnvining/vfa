@@ -1,0 +1,51 @@
+id: PercivalL01
+title: Percival Lyman Vining - (1) Elsie L. Burkholder, (2) Esther Jane Lewis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Percival Lyman Vining
+          values:
+            - "23"
+            - "34"
+            - "43"
+        - label: Elsie L. (Burkholder) Vining
+          values:
+            - "20"
+            - "[divorced]"
+            - ""
+        - label: Esther Jane (Lewis) Vining
+          values:
+            - ""
+            - "30"
+            - "39"
+        - label: Edwin Patrick Vining
+          values:
+            - ""
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Woodbine (town) / Boyer (Township), Harrison County, Iowa - dwelling 14 family 14
+        images:
+          - src: PercivalL01census1920.jpg
+      - year: "1930"
+        caption: Woodbine (town) / Boyer (Township), Harrison County, Iowa - dwelling 401 family 407
+        images:
+          - src: PercivalL01census1930.jpg
+      - year: "1940"
+        caption: Boyer Township, Harrison County, Iowa
+        images:
+          - src: PercivalL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Percival Lyman Vining and Esther Jane (Lewis) Vining, in Woodbine Cemetery, Woodbine, Harrison
+          County, Iowa (from Find A Grave):
+        images:
+          - src: PercivalL01andwifeEstherheadstone.jpg

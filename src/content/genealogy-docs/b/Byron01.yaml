@@ -1,0 +1,98 @@
+id: Byron01
+title: Byron Vining - Estelle Hollingsworth
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Byron Vining
+          values:
+            - "40"
+            - "50"
+            - "59"
+            - "70"
+            - dead
+        - label: Estelle (Hollingsworth) Vining
+          values:
+            - "27"
+            - "36"
+            - "46"
+            - "56"
+            - "66"
+        - label: Willard F. Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Margaret C. Vining
+          values:
+            - "[3?] m."
+            - "10"
+            - "20"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Francis B. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Charles Fredrick Vining
+          values:
+            - ""
+            - "5"
+            - "14"
+            - "24"
+            - dead
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Colorado Springs (ward 3), El Paso County, Colorado - dwelling 285, family 321
+        images:
+          - src: Byron01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Long Beach (ward 1), Los Angeles County, California - dwelling 620, family 620. Also living in this household
+          in 1910 was Lizzie Hollingsworth (56 y., b. Indiana, boarder).
+        images:
+          - src: Byron01census1910.jpg
+      - year: "1920"
+        caption: Springfield (ward 2), Greene County, Missouri - dwelling 301, family 314
+        images:
+          - src: Byron01census1920.jpg
+      - year: "1930"
+        caption: Compton, Los Angeles County, California - dwelling 189, family 190
+        images:
+          - src: Byron01census1930.jpg
+      - year: "1940"
+        caption: Sunnyslope, Maricopa County, Arizona
+        images:
+          - src: Byron01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Estelle (Hollingsworth) Vining, in Greenwood Memory Lawn Cemetery, Phoenix, Maricopa County,
+          Arizona (from Find A Grave):
+        images:
+          - src: Byron01wifegravestone.jpg
+      - caption: >-
+          Gravestone for Francis Byron Vining, son of Byron Vining and Estelle (Hollingsworth) Vining, in Greenwood
+          Memory Lawn Cemetery, Phoenix, Maricopa County, Arizona (from Find A Grave):
+        images:
+          - src: Byron01sonFrancisgravestone.jpg
+      - caption: >-
+          Gravestone for Charles Fredrick Vining, son of Byron Vining and Estelle (Hollingsworth) Vining, in Greenwood
+          Memory Lawn Cemetery, Phoenix, Maricopa County, Arizona (from Find A Grave):
+        images:
+          - src: Byron01sonCharlesgravestone.jpg

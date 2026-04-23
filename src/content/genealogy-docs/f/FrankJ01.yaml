@@ -1,0 +1,80 @@
+id: FrankJ01
+title: Frank J. Vining - Anna May Haas
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank J. Vining
+          values:
+            - "?"
+            - "38"
+            - "?"
+            - "?"
+            - "?"
+        - label: Anna May (Haas) Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charles Aloysius Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Frances Vining
+          values:
+            - "?"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Catherine Colette Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Louis Franklin Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Patricia Lillian Vining
+          values:
+            - ""
+            - 1 y., 5 m.
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Delaware, Delaware County, Ohio - dwelling 1, family 1
+        images:
+          - src: FrankJ01census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Frank J. Vining and Anna May (Haas) Vining, in Saint Mary Cemetery, Delaware, Delaware County,
+          Ohio (from Find A Grave):
+        images:
+          - src: FrankJ01gravestone.jpg
+          - src: FrankJ01wifegravestone.jpg
+        inline: true

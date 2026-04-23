@@ -1,0 +1,71 @@
+id: WilliamL03
+sequence: 118
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ReubenW01
+parentLetter: R
+parentDesc: Reuben William Vining and Mary Elizabeth Bowes
+head:
+  givenName: William Lincoln
+  birth:
+    date: 20 August 1863
+    place: Louisiana
+  death:
+    date: 27 November 1929
+    place: "Austin, Texas"
+marriages:
+  - spouse:
+      givenName: Lula Worth
+      surname: Morgan
+      birth:
+        date: 13 August 1868
+        place: "Bastrop County, Texas"
+      death:
+        date: 6 January 1918
+        place: "Austin, Texas"
+      burial:
+        place: "Oakwood Cemetery Annex   Austin, Texas"
+childrenGroups:
+  - children:
+      - name: Morgan Fisher Vining
+        birth:
+          date: 13 October 1889
+          place: "Ballinger, Runnels County, Texas"
+        marriages:
+          - date: 31 January 1929
+            place: North Carolina
+            spouse: Elizabeth Janet Gordon Gray
+        death:
+          date: 1 October 1933
+          place: "New York City, New York"
+      - name: Beatrice Morgan Vining
+        birth:
+          date: "[5 or 15?] July 1892"
+          place: "Ballinger, Runnels County, Texas"
+        marriages:
+          - number: 1
+            date: Frank R. Lubbock
+          - number: 2
+            date: Elbride I. "Ebb" Hart
+          - number: 3
+            date: Benjamin H. White
+        death:
+          date: 28 December 1950
+          place: "Kerrville, Kerr County, Texas"
+docsUrl: Wsources/WilliamL03doc.htm
+raw: |-
+  <a name="WilliamL03"></a><font size=+2>William Lincoln Vining</font>
+     (son of <a href="Rfamilies.htm#ReubenW01">Reuben William Vining and Mary Elizabeth Bowes</a>)
+     b. 20 August 1863   Louisiana
+     m. Lula Worth Morgan
+              b. 13 August 1868   Bastrop County, Texas
+              d. 6 January 1918   Austin, Texas
+                    bur. Oakwood Cemetery Annex   Austin, Texas
+     d. 27 November 1929   Austin, Texas
+  
+  <font size=+1>children:</font>
+     Morgan Fisher Vining   b. 13 October 1889   Ballinger, Runnels County, Texas   -   m. 31 January 1929   North Carolina   Elizabeth Janet Gordon Gray   -   d. 1 October 1933   New York City, New York
+     Beatrice Morgan Vining   b. [5 or 15?] July 1892   Ballinger, Runnels County, Texas   -   m. (1) Frank R. Lubbock;   (2) Elbride I. "Ebb" Hart;   (3) Benjamin H. White   -   d. 28 December 1950   Kerrville, Kerr County, Texas 
+  
+  <a href="Wsources/WilliamL03doc.htm">documentation and notes</a>

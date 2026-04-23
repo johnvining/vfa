@@ -1,0 +1,42 @@
+id: Albert01
+letter: A
+sequence: 17
+lastUpdated: 1 February 2021
+relationship: son
+parentId: OscarD01
+parentLetter: O
+parentDesc: Oscar David Vining and Emma E. Raddatz
+head:
+  givenName: "Albert &#8220;Perk&#8221;"
+  birth:
+    date: 12 August 1915
+    place: Minnesota
+  death:
+    date: April 1971
+    place: "(last residence: St. Paul, Ramsey County, Minnesota)"
+marriages:
+  - spouse:
+      givenName: Eileen
+      surname: Ledger
+      birth:
+        date: 22 March 1920
+      death:
+        date: September 1977
+childrenGroups:
+  - children:
+      - name: Mary Jo Vining
+        marriages:
+          - date: 29 November 1966
+      - name: Margery Vining
+raw: |-
+  <a name="Albert01"></a><font size="+2">Albert &#8220;Perk&#8221; Vining</font>
+     (son of <a href="Ofamilies.htm#OscarD01">Oscar David Vining and Emma E. Raddatz</a>)
+     b. 12 August 1915   Minnesota
+     m. Eileen Ledger
+              b. 22 March 1920
+              d. September 1977
+     d. April 1971   (last residence: St. Paul, Ramsey County, Minnesota)
+  
+  <font size="+1">children:</font>
+     Mary Jo Vining   m. 29 November 1966
+     Margery Vining

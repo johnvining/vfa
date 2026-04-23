@@ -1,0 +1,46 @@
+id: ClarenceH01
+letter: C
+sequence: 121
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Clarence Herbert
+  birth:
+    date: age 29 y. as of 1880 census
+    place: Maine
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: "[&#8230;]"
+      birth:
+        date: age 29 y. as of 1880 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Leila A. Vining
+        birth:
+          date: age 6 y. as of 1880 census
+          place: New York
+      - name: Harrison S. Vining
+        entryId: HarrisonS02
+        entryLetter: H
+        birth:
+          date: age 2 y. as of 1880 census
+          place: New York
+        marriages:
+          - date: 11 y. as of 1910 census
+            spouse: "Elizabeth Lillian [&#8230;]"
+docsUrl: Csources/ClarenceH01doc.htm
+raw: |-
+  <a name="ClarenceH01"></a><font size=+2>Clarence Herbert Vining</font>
+     (son of [?])
+     b. age 29 y. as of 1880 census   Maine
+     m. Mary [&#8230;]
+              b. age 29 y. as of 1880 census   New York
+  
+  <font size=+1>children:</font>
+     Leila A. Vining   b. age 6 y. as of 1880 census   New York
+     <a href="Hfamilies.htm#HarrisonS02">Harrison S. Vining</a>   b. age 2 y. as of 1880 census   New York   -   m. 11 y. as of 1910 census   Elizabeth Lillian [&#8230;]
+  
+  <a href="Csources/ClarenceH01doc.htm">documentation and notes</a>

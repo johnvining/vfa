@@ -1,0 +1,44 @@
+id: JamesP02
+title: James P. Vining - Lillie M. Davis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: James P. Vining
+          values:
+            - "43"
+            - "54"
+            - "?"
+            - dead
+        - label: Lillie M. (Davis) Vining
+          values:
+            - "39"
+            - "50"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Williamstown, Berkshire County, Massachusetts - dwelling 21, family 24
+        images:
+          - src: JamesP02census1900.jpg
+      - year: "1910"
+        caption: Ormond, Volusia County, Florida - dwelling 4, family 4
+        images:
+          - src: JamesP02census1910.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for James P. Vining, in Saint Mary Cemetery, Delaware, Delaware County, Ohio (from Find A Grave):"
+        images:
+          - src: JamesP02gravestone.jpg

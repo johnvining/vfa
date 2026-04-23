@@ -1,0 +1,81 @@
+id: ThomasS01
+letter: T
+sequence: 56
+lastUpdated: 9 March 2023
+relationship: son
+parentId: David04
+parentLetter: D
+parentDesc: David Vining and Gratia K. Taylor
+head:
+  givenName: Thomas Spencer
+  birth:
+    date: 14 February 1826
+    place: "Hawley, Massachusetts"
+  death:
+    date: 12 April 1866
+    place: "Leyden, Massachusetts"
+  burial:
+    place: "East Hawley Cemetery   Hawley, Massachsetts"
+marriages:
+  - spouse:
+      givenName: Nancy Judson
+      surname: Shaw
+      parents: "(dau. of Elisha Shaw and Elizabeth Fuller Sturtevant)"
+      birth:
+        date: 7 May 1824
+        place: "Colrain, Massachusetts"
+      death:
+        date: 9 October 1912
+        place: "Leyden, Massachusetts"
+      burial:
+        place: "South Leyden Cemetery   Leyden, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Ella Sarah B. Vining
+        birth:
+          date: 7 January 1852
+          place: "Bakersfield, Vermont"
+        marriages:
+          - date: Charles F. Severance
+        death:
+          date: 2 March 1932
+          place: Massachusetts
+        burial:
+          place: "South Leyden Cemetery   Leyden, Massachusetts"
+      - name: Mary Ida Vining
+        birth:
+          date: 23 January 1858
+          place: "Leyden, Massachusetts"
+        death:
+          date: 23 April 1860
+          place: "Leyden, Massachusetts"
+        burial:
+          place: "East Hawley Cemetery   Hawley, Massachusetts"
+      - name: Lizzie May Vining
+        birth:
+          date: 21 September 1864
+          place: "Leyden, Massachusetts"
+        death:
+          date: 26 February 1865
+          place: "Leyden, Massachusetts"
+        burial:
+          place: "East Hawley Cemetery   Hawley, Massachusetts"
+docsUrl: Tsources/ThomasS01doc.htm
+raw: |-
+  <a name="ThomasS01"></a><font size=+2>Thomas Spencer Vining</font>
+     (son of <a href="Dfamilies.htm#David04">David Vining and Gratia K. Taylor</a>)
+     b. 14 February 1826   Hawley, Massachusetts
+     m. Nancy Judson Shaw
+              (dau. of Elisha Shaw and Elizabeth Fuller Sturtevant)
+              b. 7 May 1824   Colrain, Massachusetts
+              d. 9 October 1912   Leyden, Massachusetts
+                    bur. South Leyden Cemetery   Leyden, Massachusetts
+     d. 12 April 1866   Leyden, Massachusetts
+           bur. East Hawley Cemetery   Hawley, Massachsetts
+  
+  <font size=+1>children</font>
+     Ella Sarah B. Vining   b. 7 January 1852   Bakersfield, Vermont   -   m. Charles F. Severance   -   d. 2 March 1932   Massachusetts   -   bur. South Leyden Cemetery   Leyden, Massachusetts
+     Mary Ida Vining   b. 23 January 1858   Leyden, Massachusetts   -   d. 23 April 1860   Leyden, Massachusetts   -   bur. East Hawley Cemetery   Hawley, Massachusetts
+     Lizzie May Vining   b. 21 September 1864   Leyden, Massachusetts   -   d. 26 February 1865   Leyden, Massachusetts   -   bur. East Hawley Cemetery   Hawley, Massachusetts
+  
+  <a href="Tsources/ThomasS01doc.htm">documentation and notes</a>

@@ -1,0 +1,44 @@
+id: GaryP01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: LawrenceA01
+parentLetter: L
+parentDesc: Lawrence Adam Vining and Leanore Josephine Hohensee
+head:
+  givenName: Gary Paul
+  birth:
+    date: 14 February 1944
+    place: "Evadale, Texas"
+  death:
+    date: 2 May 2015
+    place: "Spartanburg, South Carolina"
+marriages:
+  - spouse:
+      givenName: Anita
+      surname: Byrd
+childrenGroups:
+  - children:
+      - name: Jeff Vining
+        marriages:
+          - date: "Sissi [...]"
+      - name: Barry Vining
+        marriages:
+          - date: "Shannon [...]"
+      - name: Julie Vining
+        marriages:
+          - date: Greg May
+docsUrl: Gsources/GaryP01doc.htm
+raw: |-
+  <a name="GaryP01"></a><font size=+2>Gary Paul Vining</font>
+     (son of <a href="Lfamilies.htm#LawrenceA01">Lawrence Adam Vining and Leanore Josephine Hohensee</a>)
+     b. 14 February 1944   Evadale, Texas
+     m. Anita Byrd
+     d. 2 May 2015   Spartanburg, South Carolina
+  
+  <font size=+1>children:</font>
+     Jeff Vining   m. Sissi [...]
+     Barry Vining   m. Shannon [...]
+     Julie Vining   m. Greg May
+  
+  <a href="Gsources/GaryP01doc.htm">documentation and notes</a>

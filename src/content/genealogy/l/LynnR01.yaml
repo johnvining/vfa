@@ -1,0 +1,44 @@
+id: LynnR01
+sequence: 83
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: RandallM01
+parentLetter: R
+parentDesc: Randall M. Vining and Katherine Marie Campbell
+head:
+  givenName: Lynn R.
+  birth:
+    date: 1 December 1943
+    place: "Ithaca, Michigan"
+  death:
+    date: 1 July 2011
+    place: "Midland, Michigan"
+  burial:
+    place: "Pine Grove Cemetery   Ithaca, Michigan"
+marriages:
+  - date: 20 October 2001
+    spouse:
+      givenName: Paula A.
+      surname: "[&#8230;]"
+      birth:
+        date: "1952"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Scott Vining
+docsUrl: Lsources/LynnR01doc.htm
+raw: |-
+  <a name="LynnR01"></a><font size=+2>Lynn R. Vining</font>
+     (son of <a href="Rfamilies.htm#RandallM01">Randall M. Vining and Katherine Marie Campbell</a>)
+     b. 1 December 1943   Ithaca, Michigan
+     m. 20 October 2001
+           Paula A. [&#8230;]
+                 b. 1952
+     d. 1 July 2011   Midland, Michigan
+           bur. Pine Grove Cemetery   Ithaca, Michigan
+  
+  <font size=+1>child:</font>
+     Scott Vining
+  
+  <a href="Lsources/LynnR01doc.htm">documentation and notes</a>

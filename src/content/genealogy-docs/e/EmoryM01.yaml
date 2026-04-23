@@ -1,0 +1,52 @@
+id: EmoryM01
+title: Emory M. Vining - Loolah Russell
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Emory M. Vining
+          values:
+            - "33"
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+        - label: Loolah (Russell) Vining
+          values:
+            - "33"
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+        - label: Marion [Z.?] Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Tama Township, Tama County, Iowa - dwelling 340, family 355
+        images:
+          - src: EmoryM01census1900.jpg
+      - year: "1920"
+        caption: Pueblo (precinct 15), Peublo County, Colorado - dwelling 145, family 168
+        images:
+          - src: EmoryM01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Emory M. Vining and Loolah (Russell) Vining, in Mountain View Cemetery, Pueblo, Pueblo County,
+          Colorado (from Find A Grave):
+        images:
+          - src: EmoryM01gravestone.jpg
+          - src: EmoryM01wifegravestone.jpg
+        inline: true

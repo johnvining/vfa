@@ -1,0 +1,53 @@
+id: Joshua01
+sequence: 322
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jeptha01
+parentDesc: Jeptha Vining and Mary Miller
+head:
+  givenName: Joshua
+  birth:
+    date: "[ca. 1759 or ca. 1773?]"
+    place: South Carolina
+  death:
+    date: before 1818
+    place: "East Baton Rouge Parish, Louisiana"
+marriages:
+  - date: ca. 1793
+    place: "Anson County, North Carolina"
+    spouse:
+      givenName: Elizabeth
+      surname: Valentine
+childrenGroups:
+  - children:
+      - name: Jeptha Vining
+        entryId: Jeptha02
+        birth:
+          date: age 52 y. as of 1850 census
+          place: "Warren County, Georgia"
+        marriages:
+          - date: Elizabeth Ann Valentine
+        death:
+          date: after 1870
+          place: "East Baton Rouge Parish, Louisiana"
+      - name: Jesse Vining
+        entryId: Jesse01
+        birth:
+          date: ca. 1808
+          place: "Warren County, Georgia"
+        marriages:
+          - date: ca. 1830
+        death:
+          date: before 1850
+raw: |-
+  <a name="Joshua01"></a><font size=+2>Joshua Vining</font>
+     (son of <a href="#Jeptha01">Jeptha Vining and Mary Miller</a>)
+     b. [ca. 1759 or ca. 1773?]   South Carolina
+     m. ca. 1793   Anson County, North Carolina
+           Elizabeth Valentine
+     d. before 1818   East Baton Rouge Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="#Jeptha02">Jeptha Vining</a>   b. age 52 y. as of 1850 census   Warren County, Georgia   -   m. Elizabeth Ann Valentine   -   d. after 1870   East Baton Rouge Parish, Louisiana
+     <a href="#Jesse01">Jesse Vining</a>   b. ca. 1808   Warren County, Georgia   -   m. ca. 1830   -   d. before 1850

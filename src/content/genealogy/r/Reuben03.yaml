@@ -1,0 +1,147 @@
+id: Reuben03
+sequence: 29
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Shadrack01
+parentLetter: S
+parentDesc: Shadrack Vining and Phereby Carmeal Ratcliff(e)
+head:
+  givenName: Reuben
+  birth:
+    date: 13 May 1799
+    place: "[Edgefield [County?], South Carolina or Jefferson County, Georgia?]"
+  death:
+    date: after 1880
+    place: "Kerrville, Kerr County, Texas"
+  burial:
+    place: "Kerville, Kerr County, Texas"
+marriages:
+  - date: 11 September 1828
+    place: "Putnam County, Georgia"
+    spouse:
+      givenName: "Nancy [Averatt or"
+      surname: "Avera?]"
+      birth:
+        date: 14 August 1798
+        place: "Putnam County, Georgia"
+      death:
+        date: 17 July 1875
+        place: "Live Oak [County?], Texas"
+      burial:
+        place: "Conception Cemetery   Conception, Duval County, Texas"
+childrenGroups:
+  - children:
+      - name: Rebecca Vining
+        birth:
+          date: ca. 1824
+          place: "Putnam County, Georgia"
+        marriages:
+          - date: 4 March 1842
+            place: "Putnam, Georgia"
+            spouse: William Alford
+      - name: David Vining
+        birth:
+          date: ca. 1826
+          place: "Putnam County, Georgia"
+        death:
+          date: 1860/65 (likely in Civil War)
+      - name: Susanna Vining
+        birth:
+          date: ca. 1829
+        marriages:
+          - number: 1
+            date: 17 October 1855
+            place: "Pike County, Alabama"
+            spouse: "Hosea W. Clark Jr. [d. in Civil War?]"
+          - number: 2
+            date: 2 March 1871
+            place: "Pike County, Alabama"
+            spouse: Green Roberson
+        death:
+          date: ca. 1904
+          place: "Pike County, Alabama"
+        burial:
+          place: "Walnut Creek, Pike County, Alabama"
+      - name: "Jonathan H. &#8210;John&#8211; Vining"
+        entryId: JonathanH01
+        entryLetter: J
+        birth:
+          date: 3 March 1831
+          place: "Putnam County, Georgia"
+        marriages:
+          - date: Elizabeth Stratford
+        death:
+          date: 22 March 1898
+          place: "Kerrville, Kerr County, Texas"
+      - name: Elizabeth Vining
+        birth:
+          date: ca. 1835
+          place: "Putnam County, Georgia"
+        marriages:
+          - date: 11 August 1853
+            place: "Pike County, Alabama"
+            spouse: James Graves
+        death:
+          date: 6 April 1907
+          place: "Pike County, Alabama"
+      - name: Elijah Hall Vining
+        entryId: ElijahH02
+        entryLetter: E
+        birth:
+          date: 14 June 1838
+          place: Georgia
+        marriages:
+          - date: 2 December 1866
+            place: Georgia
+            spouse: "Caroline Olive &#8220;Carrie&#8221; Davis"
+        death:
+          date: 22 January 1876
+          place: Georgia
+        burial:
+          place: "Pine Grove Cemetery   Eatonton, Georgia"
+      - name: Nancy Dorenthan Vining
+        birth:
+          date: 12 August 1840
+          place: "Putnam, Georgia"
+        marriages:
+          - date: 30 December 1868
+            place: "Troy, Alabama"
+            spouse: James C. Coskrey
+        death:
+          date: 25 June 1902
+          place: "Pidcoke, Texas"
+        burial:
+          place: "Pidcoke Cemetery   Pidcoke, Texas"
+      - name: Georgia Ann Vining
+        birth:
+          date: age 15 y. as of 1860 census
+          place: Georgia
+        marriages:
+          - date: 7 March 1867
+            place: Alabama
+            spouse: Evans Simmons
+docsUrl: Rsources/Reuben03doc.htm
+raw: |-
+  <a name="Reuben03"></a><font size=+2>Reuben Vining</font>
+     (son of <a href="Sfamilies.htm#Shadrack01">Shadrack Vining and Phereby Carmeal Ratcliff(e)</a>)
+     b. 13 May 1799   [Edgefield [County?], South Carolina or Jefferson County, Georgia?]
+     m. 11 September 1828   Putnam County, Georgia
+           Nancy [Averatt or Avera?]
+                 b. 14 August 1798   Putnam County, Georgia
+                 d. 17 July 1875   Live Oak [County?], Texas
+                       bur. Conception Cemetery   Conception, Duval County, Texas
+     d. after 1880   Kerrville, Kerr County, Texas
+           bur. Kerville, Kerr County, Texas
+  
+  <font size=+1>children:</font>
+     Rebecca Vining   b. ca. 1824   Putnam County, Georgia   -   m. 4 March 1842   Putnam, Georgia   William Alford
+     David Vining   b. ca. 1826   Putnam County, Georgia   -   d. 1860/65 (likely in Civil War)
+     Susanna Vining   b. ca. 1829   -   m. (1) 17 October 1855   Pike County, Alabama   Hosea W. Clark Jr. [d. in Civil War?];   (2) 2 March 1871   Pike County, Alabama   Green Roberson   -   d. ca. 1904   Pike County, Alabama   -   bur. Walnut Creek, Pike County, Alabama
+     <a href="Jfamilies.htm#JonathanH01">Jonathan H. &#8210;John&#8211; Vining</a>   b. 3 March 1831   Putnam County, Georgia   -   m. Elizabeth Stratford   -   d. 22 March 1898   Kerrville, Kerr County, Texas
+     Elizabeth Vining   b. ca. 1835   Putnam County, Georgia   -   m. 11 August 1853   Pike County, Alabama   James Graves   -   d. 6 April 1907   Pike County, Alabama
+     <a href="Efamilies.htm#ElijahH02">Elijah Hall Vining</a>   b. 14 June 1838   Georgia   -   m. 2 December 1866   Georgia   Caroline Olive &#8220;Carrie&#8221; Davis   -   d. 22 January 1876   Georgia   -   bur. Pine Grove Cemetery   Eatonton, Georgia
+     Nancy Dorenthan Vining   b. 12 August 1840   Putnam, Georgia   -   m. 30 December 1868   Troy, Alabama   James C. Coskrey   -   d. 25 June 1902   Pidcoke, Texas   -   bur. Pidcoke Cemetery   Pidcoke, Texas
+     Georgia Ann Vining   b. age 15 y. as of 1860 census   Georgia   -   m. 7 March 1867   Alabama   Evans Simmons
+  
+  <a href="Rsources/Reuben03doc.htm">documentation and notes</a>

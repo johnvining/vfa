@@ -1,0 +1,60 @@
+id: Hiram02
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: John10
+parentLetter: J
+parentDesc: John Vining and Mary Haines
+head:
+  givenName: Hiram
+  birth:
+    date: 19 August 1846
+    place: Maine
+marriages:
+  - date: "1871"
+    place: "Lowell, Massachusetts"
+    spouse:
+      givenName: "[Abby or Margaret?]"
+      surname: "[...]"
+      birth:
+        date: May 1847
+        place: New York
+childrenGroups:
+  - children:
+      - name: "Emma [V.?] Vining"
+        birth:
+          date: "[June?] 1873"
+          place: Massachusetts
+        marriages:
+          - date: "1904"
+            place: "Lowell, Massachusetts"
+      - name: "William J[efferson?]. Vining"
+        birth:
+          date: September 1876
+          place: Massachusetts
+      - name: Gertrude V. Vining
+        birth:
+          date: January 1881
+          place: Massachusetts
+      - name: Bert J. Vining
+        birth:
+          date: January 1881
+          place: Massachusetts
+      - name: child
+docsUrl: Hsources/Hiram02doc.htm
+raw: |-
+  <a name="Hiram02"></a><font size=+2>Hiram Vining</font>
+     (son of <a href="Jfamilies.htm#John10">John Vining and Mary Haines</a>)
+     b. 19 August 1846   Maine
+     m. 1871   Lowell, Massachusetts
+           [Abby or Margaret?] [...]
+                 b. May 1847   New York
+  
+  <font size=+1>children:</font>
+     Emma [V.?] Vining   b. [June?] 1873   Massachusetts   -   m. 1904   Lowell, Massachusetts
+     William J[efferson?]. Vining   b. September 1876   Massachusetts
+     Gertrude V. Vining   b. January 1881   Massachusetts
+     Bert J. Vining   b. January 1881   Massachusetts
+     child
+  
+  <a href="Hsources/Hiram02doc.htm">documentation and notes</a>

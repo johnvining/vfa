@@ -1,0 +1,36 @@
+id: AllanG01
+letter: A
+sequence: 52
+lastUpdated: 1 February 2021
+parentDesc: "(born as William John Nunn; name changed on 17 October 1940)"
+head:
+  givenName: Allan George
+  birth:
+    date: "1914"
+  death:
+    date: 4 November 1993
+    place: "Adelaide, South Australia, Australia"
+  burial:
+    place: "Enfield Memorial Park   Adelaide, South Australia, Australia"
+marriages:
+  - spouse:
+      givenName: Glad
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Janice Vining
+      - name: Robert Vining
+docsUrl: Asources/AllanG01doc.htm
+raw: |-
+  <a name="AllanG01"></a><font size="+2">Allan George Vining</font>
+     (born as William John Nunn; name changed on 17 October 1940)
+     b. 1914   
+     m. Glad [...]
+     d. 4 November 1993   Adelaide, South Australia, Australia
+           bur. Enfield Memorial Park   Adelaide, South Australia, Australia
+  
+  <font size="+1">children:</font>
+     Janice Vining
+     Robert Vining
+  
+  <a href="Asources/AllanG01doc.htm">documentation and notes</a>

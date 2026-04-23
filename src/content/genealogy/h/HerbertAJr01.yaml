@@ -1,0 +1,36 @@
+id: HerbertAJr01
+letter: H
+sequence: 902
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Herbert A. Jr.
+  birth:
+    date: 13 November 1929
+  death:
+    date: 26 October 2008
+    place: "Brockton, Massachusetts"
+  burial:
+    place: "Milton Cemetery   Milton, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Doris J.
+      surname: Anderson
+childrenGroups:
+  - children:
+      - name: Mary Ellen Vining
+        marriages:
+          - date: William Butkiewicz
+      - name: Allen Vining
+raw: |-
+  <a name="HerbertAJr01"></a><font size=+2>Herbert A. Vining Jr.</font>
+     (son of [?])
+     b. 13 November 1929
+     m. Doris J. Anderson
+     d. 26 October 2008   Brockton, Massachusetts
+           bur. Milton Cemetery   Milton, Massachusetts
+  
+  <font size=+1>children:</font>
+     Mary Ellen Vining   m. William Butkiewicz
+     Allen Vining

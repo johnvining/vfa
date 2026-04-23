@@ -1,0 +1,72 @@
+id: CarlE01
+title: Carl E. Vining - Hazel L. Stewart
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Carl E. Vining
+          values:
+            - "25"
+            - "35"
+            - "46"
+            - "56"
+        - label: Hazel L. (Stewart) Vining
+          values:
+            - "19"
+            - "28"
+            - "39"
+            - |-
+              ?
+              [see below]
+        - label: Emerald C. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - dead
+          indent: true
+        - label: Eldridge Francis Vining
+          values:
+            - ""
+            - 3 y., 11 m.
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Alsea Precinct, Benton County, Oregon - dwelling 107, family 109
+        images:
+          - src: CarlE01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Bellfountain, Benton County, Oregon - dwelling 41, family 42. Also living in this household in 1920 was John
+          E. Vining (65 y., b. Missouri), an uncle of Carl E. Vining.
+        images:
+          - src: CarlE01census1920.jpg
+      - year: "1930"
+        caption: Tillamook, Tillamook County, Oregon - dwelling [51?], family 57
+        images:
+          - src: CarlE01census1930.jpg
+      - year: "1940"
+        caption: Dorena, Lane County, Oregon. By 1940, Carl E. Vining and Hazel L. ([…]) Vining were divorced.
+        images:
+          - src: CarlE01census1940.jpg
+  - type: birth
+    items:
+      - caption: "Birth certificate for Eldridge Francis Vining, son of Carl E. Vining and Hazel L. (Stewart):"
+        images:
+          - src: CarlE01sonEldridgebirthcertificate.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Emerald C. Vining and Eldridge L. Vining, sons of Carl E. Vining and Hazel L. ([…]), in Valley
+          View Cemetery, Sutherlin, Douglas County, Oregon (from Find A Grave):
+        images:
+          - src: CarlE01sonEmeraldgravestone.jpg
+          - src: CarlE01sonEldridgegravestone.jpg
+        inline: true

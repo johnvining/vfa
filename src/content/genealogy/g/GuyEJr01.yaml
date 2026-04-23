@@ -1,0 +1,53 @@
+id: GuyEJr01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: GuyE01
+parentLetter: G
+parentDesc: Guy Ellsworth Vining and Flora M. Davis
+head:
+  givenName: Guy Ellsworth Jr.
+  birth:
+    date: "[27 or 28?] February 1915"
+    place: Nebraska
+  death:
+    date: December 1973
+  burial:
+    place: "Riverhurst Cemetery   Endicott, New York"
+marriages:
+  - spouse:
+      givenName: Irene A.
+      surname: Townsend
+      birth:
+        date: "1917"
+      death:
+        date: "1990"
+      burial:
+        place: "Riverhurst Cemetery   Endicott, New York"
+childrenGroups:
+  - children:
+      - name: Guy Ellsworth Vining III
+        birth:
+          date: 30 September 1942
+      - name: James Lee Vining
+        entryId: JamesL03
+        entryLetter: J
+        birth:
+          date: 2 September 1950
+docsUrl: Gsources/GuyEJr01doc.htm
+raw: |-
+  <a name="GuyEJr01"></a><font size=+2>Guy Ellsworth Vining Jr.</font>
+     (son of <a href="Gfamilies.htm#GuyE01">Guy Ellsworth Vining and Flora M. Davis</a>)
+     b. [27 or 28?] February 1915   Nebraska
+     m. Irene A. Townsend
+              b. 1917
+              d. 1990
+                    bur. Riverhurst Cemetery   Endicott, New York
+     d. December 1973
+           bur. Riverhurst Cemetery   Endicott, New York
+  
+  <font size=+1>children:</font>
+     Guy Ellsworth Vining III   b. 30 September 1942
+     <a href="Jfamilies.htm#JamesL03">James Lee Vining</a>   b. 2 September 1950
+  
+  <a href="Gsources/GuyEJr01doc.htm">documentation and notes</a>

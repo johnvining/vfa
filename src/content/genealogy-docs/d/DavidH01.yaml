@@ -1,0 +1,158 @@
+id: DavidH01
+title: David H. Vining - (1) Rocksy Edwards, (2) Mrs. Amanda McNeal
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1857"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: David H. Vining
+          values:
+            - "?"
+            - "30"
+            - "43"
+            - "44"
+            - "55"
+            - "65"
+            - "?"
+        - label: Rocksy (Edwards) Vining
+          values:
+            - "?"
+            - "28"
+            - "39"
+            - "41"
+            - "51"
+            - dead
+            - ""
+        - label: Amanda ([...]) (McNeal) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - "56"
+            - "?"
+        - label: Edward Milton Vining
+          values:
+            - ""
+            - "9"
+            - "16"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Phoebe Jane Vining
+          values:
+            - ""
+            - "4"
+            - "11"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Horace Oscar Vining
+          values:
+            - ""
+            - "2"
+            - "8"
+            - "11"
+            - "21"
+            - "?"
+            - dead
+          indent: true
+        - label: George Washington Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "9"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alonzo E. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eleanor E. Vining
+          values:
+            - ""
+            - ""
+            - "[?]"
+            - "5"
+            - "17"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Otis A. Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "5"
+            - "15"
+            - dead
+            - ""
+          indent: true
+        - label: Charles D. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "1"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Palmyra Township, Wayne County, Pennsylvania - dwelling 342, family 343
+        images:
+          - src: DavidH01census1850.jpg
+      - year: "1857"
+        caption: Township 112, Range 14, Goodhue County, Minnesota - dwelling 212, family 214
+        images:
+          - src: DavidH01census1857.jpg
+      - year: "1860"
+        caption: Township 112, N.R. 13 West (Florence Post Office), Goodhue County, Minnesota - dwelling 655, family 598
+        images:
+          - src: DavidH01census1860.jpg
+      - year: "1870"
+        caption: Florence, Goodhue County, Minnesota - dwelling 90, family 91
+        images:
+          - src: DavidH01census1870.jpg
+      - year: "1880"
+        caption: >-
+          2nd Ward, Lake, Wabasha County, Minnesota - Also living in this household in 1880 were two step-children of
+          David H. Vining: Nettie McNeal (18 y., b. Pennsylvania) and James McNeal (26 y., b. Pennsylvania).
+        images:
+          - src: DavidH01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for David H. Vining, in Vining Cemetery, Old Frontenac, Florence Township, Goodhue County,
+          Minnesota (from Find A Grave):
+        images:
+          - src: DavidH01gravestone.jpg
+      - caption: >-
+          Gravestones for Otis and Charles D., sons of David H. Vining and Susan Rocksey Edwards, in Vining Cemetery,
+          Old Frontenac, Florence Township, Goodhue County, Minnesota (from Find A Grave):
+        images:
+          - src: DavidH01sonOtisgravestone.jpg
+          - src: DavidH01sonCharlesgravestone.jpg
+        inline: true

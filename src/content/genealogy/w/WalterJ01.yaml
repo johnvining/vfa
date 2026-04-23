@@ -1,0 +1,78 @@
+id: WalterJ01
+sequence: 13
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ErastusC01
+parentLetter: E
+parentDesc: Erastus Clarkson Vining and Elizabeth E. Riston
+head:
+  givenName: Walter James
+  birth:
+    date: 19 July 1874
+    place: "Wilson County, Kansas"
+  death:
+    date: 16 April 1938
+    place: "Aurora, Lawrence County, Missouri"
+marriages:
+  - spouse:
+      givenName: Minnie Essie
+      surname: Boraker
+      parents: "(dau. of John Wesley Boraker and Nancy Susan Faris)"
+      birth:
+        date: 16 March 1886
+        place: Indiana
+      death:
+        date: 15 November 1966
+        place: "Orange, Orange County, California"
+childrenGroups:
+  - children:
+      - name: Ralph Vining   b age 9 y. as of 1920 census   Missouri
+      - name: Truman J. Vining
+        entryId: TrumanJ01
+        entryLetter: T
+        birth:
+          date: 30 September 1913
+          place: "Garber, Taney, Missouri"
+        marriages:
+          - date: Maxine Evelyn Filbeck
+        death:
+          date: 9 April 1982
+          place: "Longview, Cowlitz County, Washington"
+        burial:
+          place: "Silver Lake Cemetery   Silver Lake, Washington"
+      - name: Effie Vining
+        birth:
+          date: "age 4 y., 2 m. as of 1920 census"
+          place: Missouri
+        death:
+          date: "1995"
+      - name: Ruby Vining
+        birth:
+          date: "age 1 y., 2 m. as of 1920 census"
+          place: Missouri
+      - name: Lula Vining   b age 9 y. as of 1930 census   Missouri
+      - name: Daisy P. Vining
+        birth:
+          date: age 4 y. as of 1930 census
+          place: Missouri
+docsUrl: Wsources/WalterJ01doc.htm
+raw: |-
+  <a name="WalterJ01"></a><font size=+2>Walter James Vining</font>
+     (son of <a href="Efamilies.htm#ErastusC01">Erastus Clarkson Vining and Elizabeth E. Riston</a>)
+     b. 19 July 1874   Wilson County, Kansas
+     m. Minnie Essie Boraker
+              (dau. of John Wesley Boraker and Nancy Susan Faris)
+              b. 16 March 1886   Indiana
+              d. 15 November 1966   Orange, Orange County, California
+     d. 16 April 1938   Aurora, Lawrence County, Missouri
+  
+  <font size=+1>children:</font>
+     Ralph Vining   b age 9 y. as of 1920 census   Missouri
+     <a href="Tfamilies.htm#TrumanJ01">Truman J. Vining</a>   b. 30 September 1913   Garber, Taney, Missouri   -   m. Maxine Evelyn Filbeck   -   d. 9 April 1982   Longview, Cowlitz County, Washington   -   bur. Silver Lake Cemetery   Silver Lake, Washington
+     Effie Vining   b. age 4 y., 2 m. as of 1920 census   Missouri   -   d. 1995
+     Ruby Vining   b. age 1 y., 2 m. as of 1920 census   Missouri
+     Lula Vining   b age 9 y. as of 1930 census   Missouri
+     Daisy P. Vining   b. age 4 y. as of 1930 census   Missouri
+  
+  <a href="Wsources/WalterJ01doc.htm">documentation and notes</a>

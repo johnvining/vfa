@@ -1,0 +1,56 @@
+id: CharlesMJr01
+letter: C
+sequence: 91
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesM02
+parentDesc: Charles Myron Vining and Erma Rose Aldrich
+head:
+  givenName: Charles Myron Jr.
+  birth:
+    date: 30 May 1930
+  death:
+    date: 11 April 1991
+marriages:
+  - date: 25 June 1950
+    spouse:
+      givenName: Lorraine Joyce
+      surname: Walsh
+childrenGroups:
+  - children:
+      - name: Guy Charles Vining
+        entryId: GuyC01
+        entryLetter: G
+        birth:
+          date: 16 March
+      - name: "-"
+        marriages:
+          - date: 25 April 1980
+            place: "Detroit, Michigan"
+            spouse: Michelle Colette Green
+      - name: Sherry Lee Vining
+        birth:
+          date: 23 April 1953
+        marriages:
+          - number: 1
+            date: "[?]"
+          - number: 2
+            date: "[?]"
+      - name: Keith Edward Vining
+        entryId: KeithE01
+        entryLetter: K
+        birth:
+          date: 8 February 1955
+raw: |-
+  <a name="CharlesMJr01"></a><font size=+2>Charles Myron Vining Jr.</font>
+     (son of <a href="#CharlesM02">Charles Myron Vining and Erma Rose Aldrich</a>)
+     b. 30 May 1930
+     m. 25 June 1950
+           Lorraine Joyce Walsh
+     d. 11 April 1991
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GuyC01">Guy Charles Vining</a>   b. 16 March 
+     -   m. 25 April 1980   Detroit, Michigan   Michelle Colette Green
+     Sherry Lee Vining   b. 23 April 1953   -   m. (1) [?];   (2) [?]
+     <a href="Kfamilies.htm#KeithE01">Keith Edward Vining</a>   b. 8 February 1955

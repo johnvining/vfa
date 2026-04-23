@@ -1,0 +1,185 @@
+id: SewardP01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BenjaminJr01
+parentLetter: B
+parentDesc: "Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring"
+head:
+  givenName: Seward P.
+  birth:
+    date: 8 February 1805
+  death:
+    date: 4 February 1894
+  burial:
+    place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+marriages:
+  - date: int. 4 October 1833
+    spouse:
+      givenName: Martha Clark
+      surname: Thomas
+      parents: (dau. of Nelson Thomas and Susan Burnham)
+      birth:
+        date: "age 69 y., 3 m. at death"
+        place: "Strong, Franklin County, Maine"
+      death:
+        date: 2 June 1884
+        place: Maine
+      burial:
+        place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: "Harriet A. &#8220;Hattie&#8221; Vining"
+        birth:
+          date: 28 January 1838
+        marriages:
+          - number: 1
+            date: "Mark Harding (of Melrose, Massachusetts)"
+          - number: 2
+            date: "Albert Elisha Jones (of Weld, Franklin County, Maine)"
+        death:
+          date: 7 August 1904
+      - name: Henry C. Vining
+        entryId: HenryC01
+        entryLetter: H
+        birth:
+          date: age 12 y. as of 1850 census
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - date: 26 March 1862
+            spouse: "Emma [N.?] Collins"
+        death:
+          date: 4 March 1914
+          place: "Haverhill, Essex County, Massachusetts"
+        burial:
+          place: "Strong, Franklin County, Maine"
+      - name: Hannibal H. Vining
+        birth:
+          date: "1839"
+        marriages:
+          - date: 4 July 1868
+            spouse: Merie O. Gould
+        death:
+          date: 26 August 1917
+          place: "Phillips, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Albion L. Vining
+        birth:
+          date: 8 October 1841
+        death:
+          date: 21 October
+      - name: Ephraim Bernard Vining
+        entryId: EphraimB01
+        entryLetter: E
+        birth:
+          date: 7 October 1843
+          place: "Avon, Franklin County, Maine"
+        marriages:
+          - number: 1
+            date: Ann R. Pike (d. 2 February 1875)
+          - number: 2
+            date: Amanda Maxim
+        death:
+          date: 20 May 1922
+          place: "Farmington, Franklin County, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: Martha J. Vining
+        birth:
+          date: 31 July 1845
+        marriages:
+          - number: 1
+            date: "[12 or 15?] November 1866"
+            place: "Weld, Maine"
+            spouse: "Stanwood W. [Phinney or Philley?] (of Weld, Maine)"
+          - number: 2
+            date: Charles Sawyer
+        death:
+          date: 24 March 1933
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Frank William Vining
+        birth:
+          date: "age 15 y., 9 m., 2 d. at death"
+        death:
+          date: 1 December 1862
+        burial:
+          place: "Vining Hill Cemetery   Avon, Maine"
+      - name: Nelson Eugene Vining
+        entryId: NelsonE01
+        entryLetter: N
+        birth:
+          date: August 1849
+          place: Maine
+        marriages:
+          - number: 1
+            date: Alice C. Preston
+          - number: 2
+            date: "Almira W. &#8220;Myra&#8221; Cook"
+        death:
+          date: 5 September 1913
+          place: "Avon, Franklin County, Maine"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Addie Vining
+        marriages:
+          - date: "John McKnight (of Boston, Massachusetts)"
+        death:
+          date: 10 January
+          place: "Melrose, Massachusetts"
+      - name: Sarah W. Vining
+        birth:
+          date: age 8 y. as of 1860 census
+          place: Maine
+      - name: Allie Helena Vining
+        birth:
+          date: age 17 y. as of 1870 census
+          place: Maine
+        marriages:
+          - date: "George O. Osgood (of Waltham, Massachusetts)"
+      - name: Fremont Seward Vining
+        birth:
+          date: 18 June 1855
+          place: Maine
+        marriages:
+          - date: 25 June 1888
+            place: "New Ipswich, New Hampshire"
+            spouse: "Ada Frances Willard (of Acton, Massachusetts)"
+        death:
+          date: "1922"
+        burial:
+          place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
+      - name: Fred E. Vining
+        birth:
+          date: age 8 m. as of 1860 census
+docsUrl: Ssources/SewardP01doc.htm
+raw: |-
+  <a name="SewardP01"></a><font size=+2>Seward P. Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminJr01">Benjamin Vining Jr. and Sarah &#8220;Sally&#8221; Ring</a>)
+     b. 8 February 1805
+     m. int. 4 October 1833
+           Martha Clark Thomas
+                 (dau. of Nelson Thomas and Susan Burnham)
+                 b. age 69 y., 3 m. at death   Strong, Franklin County, Maine
+                 d. 2 June 1884   Maine
+                       bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     d. 4 February 1894
+           bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Harriet A. &#8220;Hattie&#8221; Vining   b. 28 January 1838   -   m. (1) Mark Harding (of Melrose, Massachusetts);   (2) Albert Elisha Jones (of Weld, Franklin County, Maine)   -   d. 7 August 1904
+     <a href="Hfamilies.htm#HenryC01">Henry C. Vining</a>   b. age 12 y. as of 1850 census   Avon, Franklin County, Maine   -    m. 26 March 1862   Emma [N.?] Collins   -    d. 4 March 1914   Haverhill, Essex County, Massachusetts   -    bur. Strong, Franklin County, Maine
+     Hannibal H. Vining   b. 1839   -   m. 4 July 1868   Merie O. Gould   -   d. 26 August 1917   Phillips, Maine   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Albion L. Vining   b. 8 October 1841   -   d. 21 October
+     <a href="Efamilies.htm#EphraimB01">Ephraim Bernard Vining</a>   b. 7 October 1843   Avon, Franklin County, Maine   -   m. (1) Ann R. Pike (d. 2 February 1875);   (2) Amanda Maxim   -   d. 20 May 1922   Farmington, Franklin County, Maine   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     Martha J. Vining   b. 31 July 1845   -   m. (1) [12 or 15?] November 1866   Weld, Maine   Stanwood W. [Phinney or Philley?] (of Weld, Maine);   (2) Charles Sawyer   -   d. 24 March 1933   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Frank William Vining   b. age 15 y., 9 m., 2 d. at death   -   d. 1 December 1862   -   bur. Vining Hill Cemetery   Avon, Maine
+     <a href="Nfamilies.htm#NelsonE01">Nelson Eugene Vining</a>   b. August 1849   Maine   -   m. (1) Alice C. Preston;    (2) Almira W. &#8220;Myra&#8221; Cook   -   d. 5 September 1913   Avon, Franklin County, Maine   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Addie Vining   m. John McKnight (of Boston, Massachusetts)   -   d. 10 January   Melrose, Massachusetts
+     Sarah W. Vining   b. age 8 y. as of 1860 census   Maine
+     Allie Helena Vining   b. age 17 y. as of 1870 census   Maine   -   m. George O. Osgood (of Waltham, Massachusetts)
+     Fremont Seward Vining   b. 18 June 1855   Maine   -   m. 25 June 1888   New Ipswich, New Hampshire   Ada Frances Willard (of Acton, Massachusetts)    -   d. 1922   -   bur. Evergreen Cemetery   Phillips, Franklin County, Maine
+     Fred E. Vining   b. age 8 m. as of 1860 census
+  
+  <a href="Ssources/SewardP01doc.htm">documentation and notes</a>

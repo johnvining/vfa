@@ -1,0 +1,121 @@
+id: MarshallL01
+sequence: 10
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JohnW05
+parentLetter: J
+parentDesc: John Wesley Vining and Lucy Jenkins
+head:
+  givenName: Marshall Lee
+  birth:
+    date: 17 December 1883
+    place: Georgia
+  death:
+    date: 3 June 1962
+  burial:
+    place: "Forsyth City Cemetery   Forsyth, Georgia"
+marriages:
+  - number: 1
+    date: license 23 September 1905
+    place: Georgia
+    spouse:
+      givenName: Lula
+      surname: Bishop
+      birth:
+        date: 6 August 1887
+        place: "[Georgia or Alabama?]"
+      death:
+        date: 12 April 1930
+        place: "Monroe County, Georgia"
+      burial:
+        place: "Forsyth City Cemetery   Forsyth, Georgia"
+  - number: 2
+    date: "Bela M. [&#8230;]"
+    spouse:
+      birth:
+        date: 15 September 1902
+        place: Georgia
+      death:
+        date: 21 October 1985
+      burial:
+        place: "Macon Memorial Park   Macon, Georgia"
+childrenGroups:
+  - spouseRef: Lula Bishop
+    children:
+      - name: Bessie M. Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Georgia
+        marriages:
+          - date: Roy Laurence
+      - name: Louella Vining
+        birth:
+          date: 23 July 1911
+          place: Georgia
+        marriages:
+          - date: Wallace L. Britt
+        death:
+          date: 3 June 1944
+          place: "Monroe County, Georgia"
+        burial:
+          place: "Forsyth City Cemetery   Forsyth, Georgia"
+      - name: John Wesley Vining
+        entryId: JohnW06
+        entryLetter: J
+        birth:
+          date: 17 November 1916
+          place: Georgia
+        marriages:
+          - date: "Georgia Mae [&#8230;]"
+        death:
+          date: 28 May 1987
+        burial:
+          place: "Forsyth City Cemetery   Forsyth, Georgia"
+      - name: "[?] Vining"
+        birth:
+          date: "age [?] m. as of 1920 census"
+          place: Georgia
+      - name: Marshall Lee Vining Jr.
+        entryId: MarshallLJr01
+        birth:
+          date: 17 February 1922
+          place: Georgia
+        marriages:
+          - date: Janelle Chastain
+        death:
+          date: 18 April 1990
+        burial:
+          place: "Forsyth City Cemetery   Forsyth, Georgia"
+      - name: Helen V. Vining
+        birth:
+          date: age 5 y. as of 1930 census
+          place: Georgia
+        marriages:
+          - date: "[&#8230;] Bracewell"
+docsUrl: Msources/MarshallL01doc.htm
+raw: |-
+  <a name="MarshallL01"></a><font size=+2>Marshall Lee Vining</font>
+     (son of <a href="Jfamilies.htm#JohnW05">John Wesley Vining and Lucy Jenkins</a>)
+     b. 17 December 1883   Georgia
+     m. (1) license 23 September 1905   Georgia
+                 Lula Bishop
+                       b. 6 August 1887   [Georgia or Alabama?]
+                       d. 12 April 1930   Monroe County, Georgia
+                             bur. Forsyth City Cemetery   Forsyth, Georgia
+           (2) Bela M. [&#8230;]
+                       b. 15 September 1902   Georgia
+                       d. 21 October 1985
+                             bur. Macon Memorial Park   Macon, Georgia
+     d. 3 June 1962
+           bur. Forsyth City Cemetery   Forsyth, Georgia
+  
+  <font size=+1>children by Lula Bishop:</font>
+     Bessie M. Vining   b. age 3 y. as of 1910 census   Georgia   -   m. Roy Laurence
+     Louella Vining   b. 23 July 1911   Georgia   -   m. Wallace L. Britt   -   d. 3 June 1944   Monroe County, Georgia   -   bur. Forsyth City Cemetery   Forsyth, Georgia
+     <a href="Jfamilies.htm#JohnW06">John Wesley Vining</a>   b. 17 November 1916   Georgia   -   m. Georgia Mae [&#8230;]   -   d. 28 May 1987   -   bur. Forsyth City Cemetery   Forsyth, Georgia
+     [?] Vining   b. age [?] m. as of 1920 census   Georgia
+     <a href="#MarshallLJr01">Marshall Lee Vining Jr.</a>   b. 17 February 1922   Georgia   -   m. Janelle Chastain   -   d. 18 April 1990   -   bur. Forsyth City Cemetery   Forsyth, Georgia
+     Helen V. Vining   b. age 5 y. as of 1930 census   Georgia   -   m. [&#8230;] Bracewell
+  
+  <a href="Msources/MarshallL01doc.htm">documentation and notes</a>

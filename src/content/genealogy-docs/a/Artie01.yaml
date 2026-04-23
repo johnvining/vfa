@@ -1,0 +1,54 @@
+id: Artie01
+title: Artie Vining - Elenora Nayoma Hall
+displayTitle: Artie Vining - Martha Ann White
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Artie Vining
+          values:
+            - "30"
+        - label: Elenora Nayoma (Hall) Vining
+          values:
+            - "24"
+        - label: Kenneth Leon Vining
+          values:
+            - "7"
+          indent: true
+        - label: Charles Marion Vining
+          values:
+            - "5"
+          indent: true
+        - label: Ruth Vining
+          values:
+            - "4"
+          indent: true
+        - label: Richard W. Vining
+          values:
+            - "2"
+          indent: true
+        - label: Jereld Ray Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Limestone County, Alabama
+        images:
+          - src: Artie01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Artie Vining and Elenora Nayoma (Hall) Vining, in Mount Pleasant Cemetery, Holland Gin,
+          Limestone County, Alabama (from Find A Grave):
+        images:
+          - src: Artie01andwifegravestones.jpg
+      - caption: >-
+          Gravestones for Kenneth Leon Vining and Jereld Ray Vining, sons of Artie Vining and Elenora Nayoma (Hall)
+          Vining, in Mount Pleasant Cemetery, Holland Gin, Limestone County, Alabama (from Find A Grave):
+        images:
+          - src: Artie01sonKennethgravestone.jpg
+          - src: Artie01sonJereldgravestone.jpg
+        inline: true

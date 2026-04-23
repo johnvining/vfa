@@ -1,0 +1,95 @@
+id: ThomasA01
+letter: T
+sequence: 19
+lastUpdated: 9 March 2023
+relationship: son
+parentId: JesseJr01
+parentLetter: J
+parentDesc: Jesse Vining Jr. and Phebe Pledger
+head:
+  givenName: Thomas Alexander
+  birth:
+    date: 17 March 1795
+    place: "Marlboro County, South Carolina"
+  death:
+    date: 26 January 1876
+    place: "Bennettsville, Marlboro County, South Carolina"
+  burial:
+    place: "Salem Baptist Cemetery   Bennettsville, Marlboro County, South Carolina"
+marriages:
+  - number: 1
+    date: 18 March 1824
+    place: "Marlboro County, South Carolina"
+    spouse:
+      givenName: Elizabeth
+      surname: Thomas
+      birth:
+        date: 12 June 1794
+      death:
+        date: "7 August 1856.  Bennettsville, Marlboro County, South Carolina"
+  - number: 2
+    date: 21 May 1857
+    place: "Marlboro County, South Carolina"
+    spouse:
+      givenName: Eliza Jane
+      surname: Thomas
+      birth:
+        date: 3 December 1830
+        place: "Marlboro County, South Carolina"
+      death:
+        date: "28 August 1901.  Bennettville, Marlboro County, South Carolina"
+      burial:
+        place: "Salem Baptist Cemetery   Bennettsville, Marlboro County, South Carolina"
+childrenGroups:
+  - spouseRef: Eliza Jane Thomas
+    children:
+      - name: Theodocia Ernest Vining
+        birth:
+          date: 19 May 1859
+          place: "Bennettsville, Marlboro County, South Carolina"
+        marriages:
+          - date: "John H[a or o?]race Thomas"
+        death:
+          date: "12 April 1898.  Bennettsville, Marlboro County, South Carolina"
+      - name: Jessie Alexander Vining
+        birth:
+          date: 15 September 1862
+          place: "Bennettsville, Marlboro County, South Carolina"
+        marriages:
+          - date: William B. Thompson
+        death:
+          date: 16 November 1928
+          place: "Bennetsville, Marlboro County, South Carolina"
+      - name: Thomas Reese Vining
+        entryId: ThomasR02
+        birth:
+          date: 11 March 1863
+          place: "Bennentsville, Marlboro County, South Carolina"
+        marriages:
+          - date: Lydia Jane Pope
+        death:
+          date: 16 July 1923
+          place: "Greeleyville, Williamsburg County, South Carolina"
+docsUrl: Tsources/ThomasA01doc.htm
+raw: |-
+  <a name="ThomasA01"></a><font size=+2>Thomas Alexander Vining</font>
+     (son of <a href="Jfamilies.htm#JesseJr01">Jesse Vining Jr. and Phebe Pledger</a>)
+     b. 17 March 1795   Marlboro County, South Carolina
+     m. (1) 18 March 1824   Marlboro County, South Carolina
+                 Elizabeth Thomas
+                       b. 12 June 1794
+                       d. 7 August 1856.  Bennettsville, Marlboro County, South Carolina
+           (2) 21 May 1857   Marlboro County, South Carolina
+                 Eliza Jane Thomas
+                       b. 3 December 1830   Marlboro County, South Carolina
+                       d. 28 August 1901.  Bennettville, Marlboro County, South Carolina
+                             bur. Salem Baptist Cemetery   Bennettsville, Marlboro County, South Carolina
+     d. 26 January 1876   Bennettsville, Marlboro County, South Carolina
+           bur. Salem Baptist Cemetery   Bennettsville, Marlboro County, South Carolina
+  
+  <font size=+1>children by Eliza Jane Thomas:</font>
+     Theodocia Ernest Vining   b. 19 May 1859   Bennettsville, Marlboro County, South Carolina   -   m. John H[a or o?]race Thomas   -   d. 12 April 1898.  Bennettsville, Marlboro County, South Carolina
+     Jessie Alexander Vining   b. 15 September 1862   Bennettsville, Marlboro County, South Carolina   -   m. William B. Thompson   -   d. 16 November 1928   Bennetsville, Marlboro County, South Carolina
+     <a href="#ThomasR02">Thomas Reese Vining</a>   b. 11 March 1863   Bennentsville, Marlboro County, South Carolina   -   m. Lydia Jane Pope   -   d. 16 July 1923   Greeleyville, Williamsburg County, South Carolina
+  
+  <a href="Tsources/ThomasA01doc.htm">documentation and notes</a>

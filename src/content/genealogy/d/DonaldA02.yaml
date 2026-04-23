@@ -1,0 +1,37 @@
+id: DonaldA02
+sequence: 71
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AlbertNJr01
+parentLetter: A
+parentDesc: Albert Nelson Vining Jr. and Mary Elodia Landry
+head:
+  givenName: Donald Alan
+  birth:
+    date: 16 November 1942
+    place: "Portland, Maine"
+marriages:
+  - date: 12 June 1965
+    spouse:
+      givenName: Joan Frances
+      surname: Morgan
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Robert Joseph Vining
+        birth:
+          date: 12 October 1967
+          place: "Augusta, Maine"
+        marriages:
+          - date: "10 October 1992   -"
+            spouse: "Rebecca[h?] Sue Hunter"
+raw: |-
+  <a name="DonaldA02"></a><font size=+2>Donald Alan Vining</font>
+     (son of <a href="Afamilies.htm#AlbertNJr01">Albert Nelson Vining Jr. and Mary Elodia Landry</a>)
+     b. 16 November 1942   Portland, Maine
+     m. 12 June 1965
+           Joan Frances Morgan
+  
+  <font size=+1>child:</font>
+     Robert Joseph Vining   b. 12 October 1967   Augusta, Maine   -   m. 10 October 1992   -   Rebecca[h?] Sue Hunter

@@ -1,0 +1,104 @@
+id: EmetJ01
+sequence: 100
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Richard03
+parentLetter: R
+parentDesc: Richard Vining and Emily Jane Winter
+head:
+  givenName: Emet James
+  birth:
+    date: 18 January 1862
+    place: Iowa
+  death:
+    date: 29 July 1941
+    place: "Woodbine, Iowa"
+marriages:
+  - number: 1
+    spouse:
+      givenName: "[...]"
+      surname: ""
+      death:
+        date: before 1900 census
+  - number: 2
+    date: 12 March 1902
+    spouse:
+      givenName: Mary Cecilia
+      surname: Mayer
+      birth:
+        date: "17 August [1870 or 1871?]"
+        place: "Mt. Pulaski, Illinois"
+      death:
+        date: 5 May 1933
+        place: "Woodbine, Iowa"
+      burial:
+        place: "Woodbine Cemetery   Woodbine, Iowa"
+childrenGroups:
+  - spouseRef: Mary Cecilia Mayer
+    children:
+      - name: George Matthew Vining
+        entryId: GeorgeM01
+        entryLetter: G
+        birth:
+          date: 4 February 1903
+          place: Iowa
+        marriages:
+          - spouse: Tillie Elizabeth Sizemore
+        death:
+          date: 9 May 1979
+          place: "Jackson, Mississippi"
+      - name: Charles Mayer Vining
+        entryId: CharlesM01
+        entryLetter: C
+        birth:
+          date: "[17 September 1905 or 9 September 1904?]"
+          place: Iowa
+        marriages:
+          - number: 1
+            date: Jimmie Earline Breckenridge
+          - number: 2
+            date: Christine Woods
+        death:
+          date: 13 June 1967
+          place: "Atlanta, Georgia"
+      - name: Lois Lee Vining
+        birth:
+          date: 8 January 1909
+          place: Iowa
+        marriages:
+          - number: 1
+            date: Walter Johnson
+          - number: 2
+            date: Harley Laflin
+      - name: Richard Emet Vining
+        entryId: RichardE01
+        entryLetter: R
+        birth:
+          date: 3 November 1911
+        marriages:
+          - spouse: Bertie Lee Flowers
+        death:
+          date: 16 July 1991
+          place: "(last residence: Mobile, Alabama)"
+docsUrl: Esources/EmetJ01doc.htm
+raw: |-
+  <a name="EmetJ01"></a><font size=+2>Emet James Vining</font>
+     (son of <a href="Rfamilies.htm#Richard03">Richard Vining and Emily Jane Winter</a>)
+     b. 18 January 1862   Iowa
+     m. (1) [...]
+                    d. before 1900 census
+           (2) 12 March 1902
+                 Mary Cecilia Mayer
+                       b. 17 August [1870 or 1871?]   Mt. Pulaski, Illinois
+                       d. 5 May 1933   Woodbine, Iowa
+                             bur. Woodbine Cemetery   Woodbine, Iowa
+     d. 29 July 1941   Woodbine, Iowa
+  
+  <font size=+1>children by Mary Cecilia Mayer:</font>
+     <a href="Gfamilies.htm#GeorgeM01">George Matthew Vining</a>   b. 4 February 1903   Iowa   -   m. Tillie Elizabeth Sizemore   -   d. 9 May 1979   Jackson, Mississippi
+     <a href="Cfamilies.htm#CharlesM01">Charles Mayer Vining</a>   b. [17 September 1905 or 9 September 1904?]   Iowa   -   m. (1) Jimmie Earline Breckenridge;   (2) Christine Woods   -   d. 13 June 1967   Atlanta, Georgia
+     Lois Lee Vining   b. 8 January 1909   Iowa   -   m. (1) Walter Johnson;   (2) Harley Laflin
+     <a href="Rfamilies.htm#RichardE01">Richard Emet Vining</a>   b. 3 November 1911   -   m. Bertie Lee Flowers   -   d. 16 July 1991   (last residence: Mobile, Alabama)
+  
+  <a href="Esources/EmetJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,31 @@
+id: RobertJ01
+sequence: 105
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: LarryL01
+parentLetter: L
+parentDesc: Larry Lee Vining and Rebecca Sue Carbaugh
+head:
+  givenName: Robert Joseph
+  birth:
+    date: 23 August 1965
+marriages:
+  - date: "1989"
+    spouse:
+      givenName: Lori Sue
+      surname: Lugar
+childrenGroups:
+  - children:
+      - name: Sarah Grace Vining
+      - name: John Daniel Vining
+raw: |-
+  <a name="RobertJ01"></a><font size=+2>Robert Joseph Vining</font>
+     (son of <a href="Lfamilies.htm#LarryL01">Larry Lee Vining and Rebecca Sue Carbaugh</a>)
+     b. 23 August 1965
+     m. 1989
+              Lori Sue Lugar
+  
+  <font size=+1>children:</font>
+     Sarah Grace Vining
+     John Daniel Vining

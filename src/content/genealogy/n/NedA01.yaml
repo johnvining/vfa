@@ -1,0 +1,39 @@
+id: NedA01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: FrankE01
+parentLetter: F
+parentDesc: Frank Ernest Vining and Charlotte Cara Cornwell
+head:
+  givenName: Ned Ansel
+  birth:
+    date: 17 October 1911
+    place: "Walla Walla, Washington"
+  death:
+    date: 21 November 1957
+    place: "Walla Walla, Washington"
+marriages:
+  - spouse:
+      givenName: Margaret Ann
+      surname: Neace
+childrenGroups:
+  - children:
+      - name: Nancy Ann Vining
+        birth:
+          date: 22 May 1933
+          place: Washington
+      - name: Joan Lee Vining
+docsUrl: Nsources/NedA01doc.htm
+raw: |-
+  <a name="NedA01"></a><font size=+2>Ned Ansel Vining</font>
+     (son of <a href="Ffamilies.htm#FrankE01">Frank Ernest Vining and Charlotte Cara Cornwell</a>)
+     b. 17 October 1911   Walla Walla, Washington
+     m. Margaret Ann Neace
+     d. 21 November 1957   Walla Walla, Washington
+  
+  <font size=+1>children:</font>
+     Nancy Ann Vining   b. 22 May 1933   Washington
+     Joan Lee Vining
+  
+  <a href="Nsources/NedA01doc.htm">documentation and notes</a>

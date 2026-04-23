@@ -1,0 +1,59 @@
+id: MichaelW01
+sequence: 33
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: WilfordJ01
+parentLetter: W
+parentDesc: Wilford Jesse Vining and Aurora Helen Grunaw
+head:
+  givenName: Michael Wilford
+  birth:
+    date: 8 August 1937
+marriages:
+  - spouse:
+      givenName: Shirley Lillian
+      surname: Totten
+      parents: "(dau. of Harold Totten and Lillian [...])"
+      birth:
+        date: 18 December 1939
+        place: "Detroit, Michigan"
+      death:
+        date: 4 November 2011
+childrenGroups:
+  - children:
+      - name: Michael Scott Vining
+        birth:
+          date: 3 December 1959
+        marriages:
+          - date: "Carole [...]"
+      - name: Mark Jeffry Vining
+        birth:
+          date: 1 February 1961
+        marriages:
+          - date: "Lori [...]"
+      - name: Brett Patrick Vining
+        birth:
+          date: 14 October 1963
+      - name: Kurt Harold Vining
+        birth:
+          date: 9 July 1965
+        death:
+          date: before 4 November 2011
+docsUrl: Msources/MichaelW01doc.htm
+raw: |-
+  <a name="MichaelW01"></a><font size=+2>Michael Wilford Vining</font>
+     (son of <a href="Wfamilies.htm#WilfordJ01">Wilford Jesse Vining and Aurora Helen Grunaw</a>)
+     b. 8 August 1937
+     m. Shirley Lillian Totten
+              (dau. of Harold Totten and Lillian [...])
+              b. 18 December 1939   Detroit, Michigan
+              d. 4 November 2011
+  
+  <font size=+1>children:</font>
+     Michael Scott Vining   b. 3 December 1959   -   m. Carole [...]
+     Mark Jeffry Vining   b. 1 February 1961   -   m. Lori [...]
+     Brett Patrick Vining   b. 14 October 1963
+     Kurt Harold Vining   b. 9 July 1965   -   d. before 4 November 2011
+  
+  <a href="Msources/MichaelW01doc.htm">documentation and notes</a>

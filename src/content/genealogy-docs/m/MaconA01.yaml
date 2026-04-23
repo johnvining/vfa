@@ -1,0 +1,111 @@
+id: MaconA01
+title: Macon Abner Vining - (1) Emma Averett, (2) Mary Belle Jones
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Macon Abner Vining
+          values:
+            - "26"
+            - "?"
+            - "46"
+            - "56"
+            - dead
+            - ""
+        - label: Emma (Averett) Vining
+          values:
+            - "26"
+            - "?"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Mary Belle (Jones) Vining
+          values:
+            - ""
+            - "?"
+            - "30"
+            - "42"
+            - "52"
+            - dead
+        - label: Dovia Vining
+          values:
+            - 2 m.
+            - "?"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Seth Macon Vining
+          values:
+            - ""
+            - "?"
+            - 11 m.
+            - "11"
+            - "[married and?] living in separate household"
+            - ""
+          indent: true
+        - label: Guy Henry Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+            - "[married and?] living in separate household"
+            - ""
+          indent: true
+        - label: Bama Elizabeth Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "7"
+            - "16"
+            - "?"
+          indent: true
+        - label: Charles Boyd Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "4"
+            - "13"
+            - "?"
+          indent: true
+        - label: Katie Jewell Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Eufaula, Barbour County, Alabama - dwelling 175, family 197
+        images:
+          - src: MaconA01census1880.jpg
+      - year: "1890"
+        caption: "- census data unavailable"
+      - year: "1900"
+        caption: Eufaula, Barbour County, Alabama - dwelling 129, family 132
+        images:
+          - src: MaconA01census1900.jpg
+      - year: "1910"
+        caption: Eufaula, Barbour County, Alabama - dwelling 186, family 190
+        images:
+          - src: MaconA01census1910.jpg
+      - year: "1920"
+        caption: Eufaula (ward 1), Barbour County, Alabama - dwelling 23, family 24
+        images:
+          - src: MaconA01census1920a.jpg
+          - src: MaconA01census1920b.jpg

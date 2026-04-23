@@ -1,0 +1,55 @@
+id: DonaldR01
+sequence: 86
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: RalphM01
+parentLetter: R
+parentDesc: Ralph Merton Vining and Pearl Frances Hirst
+head:
+  givenName: Donald Ralph
+  birth:
+    date: 28 January 1942
+    place: "Lewiston, Maine"
+marriages:
+  - date: 18 January 1964
+    place: "Otisfield, Maine"
+    spouse:
+      givenName: Eleanor
+      surname: Day
+      birth:
+        date: 14 October 1942
+childrenGroups:
+  - children:
+      - name: son   stillborn 16 October 1965
+      - name: Rhonda Lyn Vining
+        birth:
+          date: 7 January 1967
+        marriages:
+          - date: 6 June 1992
+            spouse: Marc Gerard Baillargeon
+      - name: Valerie Ann Vining
+        birth:
+          date: 9 October 1969
+        marriages:
+          - date: Richard Marble
+      - name: Jeffrey Donald Vining
+        entryId: JeffreyD01
+        entryLetter: J
+        birth:
+          date: 26 October 1972
+        marriages:
+          - date: Vicki Kimball
+raw: |-
+  <a name="DonaldR01"></a><font size=+2>Donald Ralph Vining</font>
+     (son of <a href="Rfamilies.htm#RalphM01">Ralph Merton Vining and Pearl Frances Hirst</a>)
+     b. 28 January 1942   Lewiston, Maine
+     m. 18 January 1964   Otisfield, Maine
+           Eleanor Day
+                 b. 14 October 1942
+  
+  <font size=+1>children:</font>
+     son   stillborn 16 October 1965
+     Rhonda Lyn Vining   b. 7 January 1967   -   m. 6 June 1992   Marc Gerard Baillargeon
+     Valerie Ann Vining   b. 9 October 1969   -   m. Richard Marble
+     <a href="Jfamilies.htm#JeffreyD01">Jeffrey Donald Vining</a>   b. 26 October 1972   -   m. Vicki Kimball

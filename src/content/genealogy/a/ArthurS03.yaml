@@ -1,0 +1,55 @@
+id: ArthurS03
+letter: A
+sequence: 96
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JohnS07
+parentLetter: J
+parentDesc: John S. Vining and Lena Willamy
+head:
+  givenName: Arthur S.
+  birth:
+    date: January 1888
+    place: Connecticut
+marriages:
+  - spouse:
+      givenName: Irene
+      surname: Quinn
+      parents: "(dau. of [...] Quinn and Mary E. [...])"
+      birth:
+        date: age 29 y. as of 1920 census
+        place: Connecticut
+childrenGroups:
+  - children:
+      - name: Ethel R. Vining
+        birth:
+          date: "age 2 y., 11 m. as of 1920 census"
+          place: Connecticut
+      - name: Irene V. Vining
+        birth:
+          date: "age 1 y., 5 m. as of 1930 census"
+          place: Connecticut
+      - name: Arthur S. Vining Jr.
+        birth:
+          date: age 0 m. as of 1930 census
+          place: Connecticut
+      - name: Kenneth Vining
+        birth:
+          date: age 8 y. as of 1930 census
+          place: Connecticut
+docsUrl: Asources/ArthurS03doc.htm
+raw: |-
+  <a name="ArthurS03"></a><font size="+2">Arthur S. Vining</font>
+     (son of <a href="Jfamilies.htm#JohnS07">John S. Vining and Lena Willamy</a>)
+     b. January 1888   Connecticut
+     m. Irene Quinn
+              (dau. of [...] Quinn and Mary E. [...])
+              b. age 29 y. as of 1920 census   Connecticut
+  
+  <font size="+1">children:</font>
+     Ethel R. Vining   b. age 2 y., 11 m. as of 1920 census   Connecticut
+     Irene V. Vining   b. age 1 y., 5 m. as of 1930 census   Connecticut
+     Arthur S. Vining Jr.   b. age 0 m. as of 1930 census   Connecticut
+     Kenneth Vining   b. age 8 y. as of 1930 census   Connecticut
+  
+  <a href="Asources/ArthurS03doc.htm">documentation and notes</a>

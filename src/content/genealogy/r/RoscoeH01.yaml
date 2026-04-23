@@ -1,0 +1,48 @@
+id: RoscoeH01
+sequence: 151
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FrankM01
+parentLetter: F
+parentDesc: Frank Melvin Vining and Alice Lavalette
+head:
+  givenName: Roscoe Howard
+  birth:
+    date: 19 August 1887
+  death:
+    date: 16 November 1971
+    place: "(last residence: St. Petersburg, Florida)"
+marriages:
+  - spouse:
+      givenName: "Karolina &#8220Kay&#8221;"
+      surname: Kendall
+childrenGroups:
+  - children:
+      - name: Alice Howard Vining
+        birth:
+          date: 17 June 1922
+      - name: Edward Kendall Vining
+        entryId: EdwardK02
+        entryLetter: E
+        birth:
+          date: 31 March 1925
+        marriages:
+          - date: Helen Williams
+      - name: Margaret Roy Vining
+        birth:
+          date: 27 November 1926
+        marriages:
+          - date: 4 October 1963
+            spouse: "Baltimore, Maryland   Edward Donovan"
+raw: |-
+  <a name="RoscoeH01"></a><font size=+2>Roscoe Howard Vining</font>
+     (son of <a href="Ffamilies.htm#FrankM01">Frank Melvin Vining and Alice Lavalette</a>)
+     b. 19 August 1887
+     m. Karolina &#8220Kay&#8221; Kendall
+     d. 16 November 1971   (last residence: St. Petersburg, Florida)
+  
+  <font size=+1>children:</font>
+     Alice Howard Vining   b. 17 June 1922
+     <a href="Efamilies.htm#EdwardK02">Edward Kendall Vining</a>   b. 31 March 1925   -   m. Helen Williams
+     Margaret Roy Vining   b. 27 November 1926   -   m. 4 October 1963   Baltimore, Maryland   Edward Donovan

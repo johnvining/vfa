@@ -1,0 +1,51 @@
+id: VernonD02
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Vernon Dale
+  birth:
+    date: 12 April 1946
+  death:
+    date: 28 April 2020
+    place: Kansas
+marriages:
+  - spouse:
+      givenName: Marlene
+      surname: Kristofferson
+      birth:
+        date: 29 August 1949
+      death:
+        date: 22 January 2008
+      burial:
+        place: "Odd Fellows Cemetery   Bayou La Batre, Mobile County, Alabama"
+childrenGroups:
+  - children:
+      - name: Vernon Dale Vining Jr.
+        entryId: VernonDJr01
+        birth:
+          date: 23 February 1968
+        death:
+          date: 14 October 2010
+          place: "Mobile, Alabama"
+        burial:
+          place: "Odd Fellows Cemetery   Bayou La Batre, Mobile County, Alabama"
+      - name: Norman Vining
+      - name: Vickey Vining
+        marriages:
+          - date: Tom Andrews
+raw: |-
+  <a name="VernonD02"></a><font size=+2>Vernon Dale Vining</font>
+     (son of [?])
+     b. 12 April 1946
+     m. Marlene Kristofferson
+              b. 29 August 1949
+              d. 22 January 2008
+                    bur. Odd Fellows Cemetery   Bayou La Batre, Mobile County, Alabama
+     d. 28 April 2020   Kansas
+  
+  <font size=+1>children:</font>
+     <a href="#VernonDJr01">Vernon Dale Vining Jr.</a>   b. 23 February 1968   -   d. 14 October 2010   Mobile, Alabama   -   bur. Odd Fellows Cemetery   Bayou La Batre, Mobile County, Alabama
+     Norman Vining
+     Vickey Vining   m. Tom Andrews

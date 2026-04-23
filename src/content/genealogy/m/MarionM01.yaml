@@ -1,0 +1,114 @@
+id: MarionM01
+sequence: 3
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: Ebenezer02
+parentLetter: E
+parentDesc: Ebenezer Vining and Julia Gray
+head:
+  givenName: Marion Mortimer
+  birth:
+    date: 29 May 1853
+    place: Ohio
+  death:
+    date: 1 October 1937
+    place: "Big Rapids, Michigan"
+  burial:
+    place: "Higbee Cemetery   Stanwood, Michigan"
+marriages:
+  - date: July 1873
+    place: "Vermilion, Ohio"
+    spouse:
+      givenName: Flora E.
+      surname: Widdifield
+      birth:
+        date: June 1853
+        place: Ohio
+      death:
+        date: 23 January 1912
+        place: "Stanwood, Michigan"
+      burial:
+        place: "Higbee Cemetery   Stanwood, Michigan"
+childrenGroups:
+  - children:
+      - name: Flora Pearl Vining
+        birth:
+          date: "1874"
+        marriages:
+          - date: Fred D. Sherman
+        death:
+          date: "1943"
+      - name: "Marion A. &#8220;Mamie&#8221; Vining"
+        birth:
+          date: October 1876
+          place: Ohio
+        marriages:
+          - date: Edward L. March
+        death:
+          date: "1936"
+      - name: Ella C. Vining
+        birth:
+          date: August 1881
+          place: Ohio
+        marriages:
+          - date: Charles B. Quigley
+        death:
+          date: "1958"
+      - name: Eva E. Vining
+        birth:
+          date: January 1884
+          place: Ohio
+        death:
+          date: "1964"
+      - name: Roy R. Vining
+        birth:
+          date: "24 January [1888 or 1887?]"
+          place: Ohio
+        death:
+          date: 28 January 1945
+      - name: Lester Raymond Vining
+        entryId: LesterR01
+        entryLetter: L
+        birth:
+          date: 13 July 1890
+          place: "Milan, Ohio"
+        marriages:
+          - date: Laurel Vivian Ladner
+        death:
+          date: 9 June 1958
+          place: "Morley, Michigan"
+        burial:
+          place: "Higbee Cemetery   Stanwood, Michigan"
+      - name: Viola Vining
+        birth:
+          date: 4 October 1894
+        death:
+          date: 16 February 1897
+        burial:
+          place: "North Milan Cemetery   Milan,  Ohio"
+      - name: son
+docsUrl: Msources/MarionM01doc.htm
+raw: |-
+  <a name="MarionM01"></a><font size=+2>Marion Mortimer Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer02">Ebenezer Vining and Julia Gray</a>)
+     b. 29 May 1853   Ohio
+     m. July 1873   Vermilion, Ohio
+           Flora E. Widdifield
+                 b. June 1853   Ohio
+                 d. 23 January 1912   Stanwood, Michigan
+                       bur. Higbee Cemetery   Stanwood, Michigan
+     d. 1 October 1937   Big Rapids, Michigan
+           bur. Higbee Cemetery   Stanwood, Michigan
+  
+  <font size=+1>children:</font>
+     Flora Pearl Vining   b. 1874   -   m. Fred D. Sherman   -   d. 1943
+     Marion A. &#8220;Mamie&#8221; Vining   b. October 1876   Ohio   -   m. Edward L. March   -   d. 1936
+     Ella C. Vining   b. August 1881   Ohio   -   m. Charles B. Quigley   -   d. 1958
+     Eva E. Vining   b. January 1884   Ohio   -   d. 1964
+     Roy R. Vining   b. 24 January [1888 or 1887?]   Ohio   -   d. 28 January 1945
+     <a href="Lfamilies.htm#LesterR01">Lester Raymond Vining</a>   b. 13 July 1890   Milan, Ohio   -   m. Laurel Vivian Ladner   -   d. 9 June 1958   Morley, Michigan   -   bur. Higbee Cemetery   Stanwood, Michigan
+     Viola Vining   b. 4 October 1894   -   d. 16 February 1897   -   bur. North Milan Cemetery   Milan,  Ohio
+     son
+  
+  <a href="Msources/MarionM01doc.htm">documentation and notes</a>

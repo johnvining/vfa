@@ -1,0 +1,57 @@
+id: LesterRJr01
+sequence: 56
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LesterR01
+parentLetter: L
+parentDesc: Lester Raymond Vining and Laurel Vivian Ladner
+head:
+  givenName: Lester Raymond Jr.
+  birth:
+    date: 16 November 1925
+    place: "Morley, Michignan"
+  death:
+    date: 17 April 2013
+    place: "Pagosa Springs, Colorado"
+  burial:
+    description: cremated
+marriages:
+  - date: 16 October 1948
+    place: "Stanwood, Michigan"
+    spouse:
+      givenName: Audrey Jean
+      surname: Armstrong
+childrenGroups:
+  - children:
+      - name: Vicki Ellen Vining
+        marriages:
+          - date: Phillip Welsh
+      - name: Gene Raymond Vining
+        entryId: GeneR01
+        entryLetter: G
+        birth:
+          date: 24 April 1949
+        marriages:
+          - date: "Glowenda Gay &#8220;Wendy&#8221; Lintemuth"
+      - name: Kay Marie Vining
+        marriages:
+          - date: "[1?] Glen Gale Lintemuth, divorced;"
+            spouse: "[2?] [...] Murin"
+      - name: Marlene Fay Vining
+        marriages:
+          - date: Carl Deighton Thayer
+raw: |-
+  <a name="LesterRJr01"></a><font size=+2>Lester Raymond Vining Jr.</font>
+     (son of <a href="Lfamilies.htm#LesterR01">Lester Raymond Vining and Laurel Vivian Ladner</a>)
+     b. 16 November 1925   Morley, Michignan
+     m. 16 October 1948   Stanwood, Michigan
+           Audrey Jean Armstrong
+     d. 17 April 2013   Pagosa Springs, Colorado
+           cremated
+  
+  <font size=+1>children:</font>
+     Vicki Ellen Vining   m. Phillip Welsh
+     <a href="Gfamilies.htm#GeneR01">Gene Raymond Vining</a>   b. 24 April 1949   -   m. Glowenda Gay &#8220;Wendy&#8221; Lintemuth
+     Kay Marie Vining   m. [1?] Glen Gale Lintemuth, divorced;   [2?] [...] Murin
+     Marlene Fay Vining   m. Carl Deighton Thayer

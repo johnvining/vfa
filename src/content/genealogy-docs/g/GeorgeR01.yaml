@@ -1,0 +1,94 @@
+id: GeorgeR01
+title: George Robert Vining - Fidella Emmaline Golladay
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: George Robert Vining
+          values:
+            - "32"
+            - "42"
+        - label: Fidella Emmaline (Golladay) Vining
+          values:
+            - "35"
+            - "45"
+        - label: Sarah Pearl Vining
+          values:
+            - "16"
+            - "[living? in separate household]"
+          indent: true
+        - label: Vera I. Vining
+          values:
+            - "15"
+            - "[living? in separate household]"
+          indent: true
+        - label: Quay Vining
+          values:
+            - "14"
+            - "[living? in separate household]"
+          indent: true
+        - label: Charles C. Vining
+          values:
+            - "11"
+            - "[living? in separate household]"
+          indent: true
+        - label: Wilma I. Vining
+          values:
+            - 1 y., 5 m.
+            - "11"
+          indent: true
+        - label: Marvin D. Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Ronald Reece Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+        - label: Tom Martin Vining
+          values:
+            - ""
+            - "4"
+          indent: true
+        - label: Reta E. Vining
+          values:
+            - ""
+            - 0 m.
+          indent: true
+        - label: Betty Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Portland, Multnomah County, Oregon - dwelling 32, family 58
+        images:
+          - src: GeorgeR01census1930.jpg
+      - year: "1940"
+        caption: West Carlton, Yamhill County, Oregon
+        images:
+          - src: GeorgeR01census1940a.jpg
+          - src: GeorgeR01census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for George Robert Vining and Fidella Emmaline (Golladay) Vining, in Masonic Cemetery, McMinnville,
+          Yamhill County, Oregon (from Find A Grave):
+        images:
+          - src: GeorgeR01andwifeheadstone.jpg
+      - caption: "Tom Martin Vining, son of George Robert Vining and Fidella Emmaline (Golladay) Vining:"
+        images:
+          - src: GeorgeR01sonTomimage.jpg
+          - src: GeorgeR01sonTomobituarya.jpg
+          - src: GeorgeR01sonTomobituaryb.jpg
+      - caption: >-
+          Gravestone for Tom Martin Vining, son of George Robert Vining and Fidella Emmaline (Golladay) Vining (from
+          Find A Grave):
+        images:
+          - src: GeorgeR01sonTomgravestone.jpg

@@ -1,0 +1,52 @@
+id: William16
+title: William Vining - Dora [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Vining
+          values:
+            - "?"
+            - "34"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Dora ([…]) Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Raymond C. Vining
+          values:
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Springfield, Hampden County, Massachusetts - dwelling 349, family 411. Also living in this household in 1900
+          was servant Etta E. Brown (b. July 1877 in Massachusetts).
+        images:
+          - src: William16census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Raymond C. Vining and Ethel J. ([…]) Vining, son and daughter-in-law of William Vining and Dora
+          ([…]) Vining, in Hillcrest Park Cemetery, Springfield, Hampden County, Massachusetts (from Find A Grave):
+        images:
+          - src: William16sonRaymondheadstone.jpg

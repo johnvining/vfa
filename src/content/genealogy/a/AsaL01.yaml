@@ -1,0 +1,41 @@
+id: AsaL01
+letter: A
+sequence: 103
+lastUpdated: 1 February 2021
+relationship: son
+parentId: IsraelL01
+parentLetter: I
+parentDesc: Israel L. Vining and Nancy J. (Matthews) Vining
+head:
+  givenName: Asa L.
+  birth:
+    date: April 1853
+    place: Massachusetts
+marriages:
+  - date: 25 y. as of 1900 census
+    spouse:
+      givenName: Emma D.
+      surname: "[...]"
+      birth:
+        date: August 1855
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Clarence I. Vining
+        birth:
+          date: July 1880
+          place: Massachusetts
+docsUrl: Asources/AsaL01doc.htm
+raw: |-
+  <a name="AsaL01"></a><font size="+2">Asa L. Vining</font>
+     (son of <a href="Ifamilies.htm#IsraelL01">Israel L. Vining and Nancy J. (Matthews) Vining</a>)
+     b. April 1853   Massachusetts
+     m. 25 y. as of 1900 census
+           Emma D. [...]
+                 b. August 1855   Massachusetts
+  
+  <font size="+1">child:</font>
+     Clarence I. Vining   b. July 1880   Massachusetts
+  
+  <a href="Asources/AsaL01doc.htm">documentation and notes</a>

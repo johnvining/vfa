@@ -1,0 +1,50 @@
+id: WalterV01
+title: Walter V. Vining - Grace B. Cheeseman
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Walter V. Vining
+          values:
+            - "26"
+            - "?"
+            - "?"
+        - label: Grace B. ([...]) Vining
+          values:
+            - "34"
+            - "?"
+            - "?"
+        - label: Walter Willard Vining
+          values:
+            - 2 years, 7 months
+            - "?"
+            - "?"
+          indent: true
+        - label: Paul Samuel Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+          indent: true
+        - label: Alice Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Windham, Greene County, New York - dwelling 102, family 120. Also living in this household in 1920 was Floyd
+          Tr[...] (33 y., b. New York).
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Walter V. Vining and Grace B. (Cheeseman) Vining, in Windham Cemetery, Windham, Greene County,
+          New York (from Find A Grave):
+        images:
+          - src: WalterV01andwifeheadstone.jpg

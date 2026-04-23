@@ -1,0 +1,91 @@
+id: EverettC01
+sequence: 130
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: SamuelE02
+parentLetter: S
+parentDesc: Samuel E. Vining and Bessie Curtis
+head:
+  givenName: Everett C.
+  birth:
+    date: "1911"
+  death:
+    date: "1975"
+  burial:
+    place: "Oakwood Cemetery   Joliet, Illinois"
+marriages:
+  - number: 1
+    note: divorced
+    spouse:
+      givenName: Josephine
+      surname: Middleton
+  - number: 2
+    spouse:
+      givenName: Geraldine
+      surname: McGee
+      birth:
+        date: "1919"
+childrenGroups:
+  - spouseRef: Josephone Middleton
+    children:
+      - name: Everett Gene Vining
+        birth:
+          date: 18 February 1933
+        marriages:
+          - spouse: Kathy Donahue
+        death:
+          date: 27 May 1994
+      - name: Ronald Lee Vining
+        entryId: RonaldL01
+        entryLetter: R
+        birth:
+          date: 7 September 1936
+          place: "Joliet, Illinois"
+        marriages:
+          - spouse: Ann Dolnak
+        death:
+          date: 28 July 2010
+      - name: Jack Curtis Vining
+        entryId: JackC01
+        entryLetter: J
+        birth:
+          date: 20 January 1939
+        marriages:
+          - spouse: Loretta Mowrer
+        death:
+          date: 15 October 1994
+          place: "(last residence: Joliet, Illinois)"
+      - name: Jay Middleton Vining
+        entryId: JayM01
+        entryLetter: J
+        birth:
+          date: 20 January 1939
+        marriages:
+          - spouse: "Patricia Altiery,   divorced"
+  - headingText: child by Geraldine McGee
+    children:
+      - name: Gerald Curtis Vining
+        birth:
+          date: 24 December 1950
+docsUrl: Esources/EverettC01doc.htm
+raw: |-
+  <a name="EverettC01"></a><font size=+2>Everett C. Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelE02">Samuel E. Vining and Bessie Curtis</a>)
+     b. 1911
+     m. (1) Josephine Middleton
+                    divorced
+           (2) Geraldine McGee
+                    b. 1919
+     d. 1975
+           bur. Oakwood Cemetery   Joliet, Illinois
+  
+  <font size=+1>children by Josephone Middleton:</font>
+     Everett Gene Vining   b. 18 February 1933   -   m. Kathy Donahue   -   d. 27 May 1994
+     <a href="Rfamilies.htm#RonaldL01">Ronald Lee Vining</a>  b. 7 September 1936   Joliet, Illinois   -   m. Ann Dolnak   -   d. 28 July 2010
+     <a href="Jfamilies.htm#JackC01">Jack Curtis Vining</a>   b. 20 January 1939   -   m. Loretta Mowrer   -   d. 15 October 1994   (last residence: Joliet, Illinois)
+     <a href="Jfamilies.htm#JayM01">Jay Middleton Vining</a>   b. 20 January 1939   -   m. Patricia Altiery,   divorced
+  <font size=+1>child by Geraldine McGee:</font>
+     Gerald Curtis Vining   b. 24 December 1950
+  
+  <a href="Esources/EverettC01doc.htm">documentation and notes</a>

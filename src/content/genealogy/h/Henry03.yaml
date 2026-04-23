@@ -1,0 +1,69 @@
+id: Henry03
+letter: H
+sequence: 706
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HenryL01
+parentDesc: Henry L. Vining and Elizabeth Little
+head:
+  givenName: Henry
+  birth:
+    date: June 1866
+    place: Georgia
+  death:
+    date: 5 October 1920
+    place: "Davisboro, Washington County, Georgia"
+marriages:
+  - date: 19 y. as of 1900 census
+    spouse:
+      givenName: Lucy
+      surname: Calhoun
+      birth:
+        date: May 1872
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: child Vining
+        death:
+          date: before 1900
+      - name: child Vining
+        death:
+          date: before 1900
+      - name: child Vining
+        death:
+          date: before 1900
+      - name: Mary L. Vining
+        birth:
+          date: September 1884
+          place: Georgia
+      - name: Pearl B. Vining
+        birth:
+          date: February 1887
+          place: Georgia
+      - name: Julian Vining
+        entryId: Julian01
+        entryLetter: J
+        birth:
+          date: 25 May 1895
+          place: "Davisboro, Washington County, Georgia"
+        marriages:
+          - date: Addie Lee Bryant
+docsUrl: Hsources/Henry03doc.htm
+raw: |-
+  <a name="Henry03"></a><font size=+2>Henry Vining</font>
+     (son of <a href="#HenryL01">Henry L. Vining and Elizabeth Little</a>)
+     b. June 1866   Georgia
+     m. 19 y. as of 1900 census
+           Lucy Calhoun
+                 b. May 1872   Georgia
+     d. 5 October 1920   Davisboro, Washington County, Georgia
+  
+  <font size=+1>children:</font>
+     child Vining   d. before 1900
+     child Vining   d. before 1900
+     child Vining   d. before 1900
+     Mary L. Vining   b. September 1884   Georgia
+     Pearl B. Vining   b. February 1887   Georgia
+     <a href="Jfamilies.htm#Julian01">Julian Vining</a>   b. 25 May 1895   Davisboro, Washington County, Georgia   -   m. Addie Lee Bryant
+  
+  <a href="Hsources/Henry03doc.htm">documentation and notes</a>

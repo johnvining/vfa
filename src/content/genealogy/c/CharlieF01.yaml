@@ -1,0 +1,42 @@
+id: CharlieF01
+letter: C
+sequence: 108
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Earl03
+parentLetter: E
+parentDesc: Earl Vining and Eva Wilkerson
+head:
+  givenName: Charlie Franklin
+marriages:
+  - spouse:
+      givenName: Julia
+      surname: Smith
+childrenGroups:
+  - children:
+      - name: Charlie Franklin Vining Jr.
+        entryId: CharlieFJr01
+        birth:
+          date: 22 October 1972
+          place: "Douglas, Georgia"
+        marriages:
+          - date: 31 August 1991
+            place: "Pearson, Georgia"
+            spouse: Mary Kim Lott
+      - name: Melynda Vining
+      - name: Melissa Vining
+        marriages:
+          - date: "[...] Corbitt"
+      - name: Jason Vining
+      - name: Mark Vining
+raw: |-
+  <a name="CharlieF01"></a><font size=+2>Charlie Franklin Vining</font>
+     (son of <a href="Efamilies.htm#Earl03">Earl Vining and Eva Wilkerson</a>)
+     m. Julia Smith
+  
+  <font size=+1>children:</font>
+     <a href="#CharlieFJr01">Charlie Franklin Vining Jr.</a>   b. 22 October 1972   Douglas, Georgia   -   m. 31 August 1991   Pearson, Georgia   Mary Kim Lott
+     Melynda Vining
+     Melissa Vining   m. [...] Corbitt
+     Jason Vining
+     Mark Vining

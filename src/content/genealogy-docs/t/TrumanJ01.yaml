@@ -1,0 +1,45 @@
+id: TrumanJ01
+title: Truman J. Vining - Maxine Evelyn Filbeck
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Truman J. Vining
+          values:
+            - "26"
+        - label: Maxine Evelyn Filbeck
+          values:
+            - "19"
+        - label: Linda Darlene Vining
+          values:
+            - ""
+          indent: true
+        - label: Larry Dale Vining
+          values:
+            - ""
+          indent: true
+        - label: Truman J. Vining Jr.
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Aurora, Lawrence County, Missouri. In 1940, Truman J. and Maxine were living in the household of her parents.
+        images:
+          - src: TrumanJ01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Truman J. Vining and Maxine Evelyn (Filbeck) Vining, in Silver Lake Cemetery, Silver Lake,
+          Cowlitz County, Washington (from Find A Grave):
+        images:
+          - src: TrumanJ01gravestone.jpg
+          - src: TrumanJ01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Truman J. Vining Jr., son of Truman J. Vining and Maxine Evelyn (Filbeck) Vining, in Silver
+          Lake Cemetery, Silver Lake, Cowlitz County, Washington (from Find A Grave):
+        images:
+          - src: TrumanJ01sonTrumangravestone.jpg

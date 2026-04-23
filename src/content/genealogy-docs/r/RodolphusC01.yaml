@@ -1,0 +1,112 @@
+id: RodolphusC01
+title: Rodolphus C. Vining - Martha R. Mason
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Rodolphus C. Vining
+          values:
+            - "26"
+            - "35"
+            - "44"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Martha R. (Mason) Vining
+          values:
+            - "26"
+            - "35"
+            - "40"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Osmyn Vining
+          values:
+            - "8"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Franklin Walter Vining
+          values:
+            - "3"
+            - "12"
+            - "23"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Nellie Vining
+          values:
+            - "1"
+            - "11"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Eva M. Vining
+          values:
+            - ""
+            - "10"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Cullen B. Vining
+          values:
+            - ""
+            - 10 m.
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jesse Rodolphus Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Cummington, Hampshire County, Massachusetts - dwelling 1685, family 1713
+        images:
+          - src: RodolphusC01census1860.jpg
+      - year: "1870"
+        caption: Cummington, Hampshire County, Massachusetts - dwelling 43, family 49
+        images:
+          - src: RodolphusC01census1870.jpg
+      - year: "1880"
+        caption: Cummington, Hampshire County, Massachusetts - dwelling 86, family 88
+        images:
+          - src: RodolphusC01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Rodolphus C. Vining and Martha R. (Mason) Vining, in Forestdale Cemetery, Holyoke, Hampden
+          County, Massachusetts (from Find A Grave):
+        images:
+          - src: RodolphusC01andwifeheadstone.jpg

@@ -1,0 +1,60 @@
+id: William13
+sequence: 60
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William
+  birth:
+    date: age 39 y. as of 1870 census
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Angeline S.
+      surname: Dodge
+      birth:
+        date: "age 26 y. as of 1870 census"
+        place: Pennsylvania
+childrenGroups:
+  - children:
+      - name: Daniel J. Vining
+        entryId: DanielJ01
+        entryLetter: D
+        birth:
+          date: "J[une?] 1866"
+          place: Ohio
+        marriages:
+          - number: 1
+            date: 7 y. as of 1900 census
+            spouse: "Edith [A. or B. ?] Springer"
+          - number: 2
+            date: 2 y. as of 1910 census
+            spouse: "Victoria [...]"
+      - name: Sarah F. Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Ohio
+      - name: Nathan E. Vining
+        birth:
+          date: age 1 y. as of 1870 census
+          place: Ohio
+      - name: Mary E. Vining
+        birth:
+          date: age 4 y. as of 1880 census
+          place: Ohio
+docsUrl: Wsources/William13doc.htm
+raw: |-
+  <a name="William13"></a><font size=+2>William Vining</font>
+     (son of [?])
+     b. age 39 y. as of 1870 census   Ohio
+     m. Angeline S. Dodge
+              b. age 26 y. as of 1870 census   Pennsylvania
+  
+  <font size=+1>children:</font>
+     <a href="Dfamilies.htm#DanielJ01">Daniel J. Vining</a>   b. J[une?] 1866   Ohio   -   m. (1) 7 y. as of 1900 census   Edith [A. or B. ?] Springer;   (2) 2 y. as of 1910 census   Victoria [...]
+     Sarah F. Vining   b. age 3 y. as of 1870 census   Ohio
+     Nathan E. Vining   b. age 1 y. as of 1870 census   Ohio
+     Mary E. Vining   b. age 4 y. as of 1880 census   Ohio
+  
+  <a href="Wsources/William13doc.htm">documentation and notes</a>

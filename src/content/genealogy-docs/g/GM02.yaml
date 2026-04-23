@@ -1,0 +1,98 @@
+id: GM02
+title: G. M. Troop Vining - Lucy M. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: G. M. Troop Vining
+          values:
+            - "25"
+            - "37"
+            - "45"
+            - "?"
+            - dead
+            - ""
+        - label: Lucy M. ([...]) Vining
+          values:
+            - "17"
+            - "25"
+            - "36"
+            - "?"
+            - |-
+              56
+              [see note below]
+            - ""
+        - label: Teresa A. Vining
+          values:
+            - 4 months
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jeff T. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Mary J. &#8200Molly” Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "[living? in separate household"
+            - ""
+          indent: true
+        - label: William H. Vining
+          values:
+            - ""
+            - "4"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Laura E. Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "?"
+            - |-
+              32
+              [see note below]
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Rusk (post office), Cherokee County, Texas - dwelling 257, family 257
+        images:
+          - src: GM02census1860.jpg
+      - year: "1870"
+        caption: Fincastle No. 5, Athens post office, Henderson County, Texas - dwelling 291, family 291
+        images:
+          - src: GM02census1870a.jpg
+          - src: GM02census1870b.jpg
+      - year: "1880"
+        caption: Justice Precinct 5, Henderson County, Texas - dwelling 286, family 294
+        images:
+          - src: GM02census1880.jpg
+      - year: "1900"
+        caption: >-
+          Ennis (ward 3), Ellis County, Texas - dwelling 177, family 179. In 1900, Lucy M. (…) Vining was living in the
+          household of daughter Laura E. (Vining) Chilcoat.
+        images:
+          - src: GM02census1900.jpg

@@ -1,0 +1,115 @@
+id: HoraceO01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: DavidH01
+parentLetter: D
+parentDesc: David H. Vining and Rocksy Susan Edwards
+head:
+  givenName: Horace Oscar
+  birth:
+    date: 27 February 1847
+    place: "Palmyra, Pennsylvania"
+  death:
+    date: 19 November 1885
+  burial:
+    place: "Vining Cemetery   Florence, Minnesota"
+marriages:
+  - spouse:
+      givenName: Martha Harrison
+      surname: Chapman
+childrenGroups:
+  - children:
+      - name: Horace Webster Vining
+        entryId: HoraceW01
+        birth:
+          date: "1875"
+          place: Minnesota
+        marriages:
+          - date: Veronica Lucas
+        death:
+          date: "Minneapolis, Minnesota"
+      - name: Libby Roxanne Vining
+        birth:
+          date: "1876"
+        marriages:
+          - date: David Stewart
+      - name: Jessie Addil Vining
+        birth:
+          date: 2 September 1877
+        marriages:
+          - number: 1
+            date: Harry K. Aurandt
+          - number: 2
+            date: Winfield Chapman
+        death:
+          date: "1958"
+          place: "St. Paul, Minnesota"
+      - name: Edath M. Vining
+        birth:
+          date: 9 February 1879
+        death:
+          date: 18 January 1883
+        burial:
+          place: "Vining Cemetery   Florence, Minnesota"
+      - name: James O. Vining
+        entryId: JamesO01
+        entryLetter: J
+        birth:
+          date: 12 August 1880
+        marriages:
+          - date: Bessie Morehouse
+      - name: "Clara Maude &#8220;Daisy&#8221; Vining"
+        birth:
+          date: 1 October 1881
+        marriages:
+          - date: Carl Adams
+      - name: Harrison Vining
+        entryId: Harrison01
+        birth:
+          date: 22 March 1883
+          place: "Florence, Minnesota"
+        marriages:
+          - date: Marie Horejs
+        death:
+          date: "1910"
+          place: "St. Paul, Minnesota"
+      - name: Charles Vining
+        birth:
+          date: 21 July 1884
+        marriages:
+          - date: Meta Schultz
+        death:
+          date: "St. Paul, Minnesota"
+      - name: Oscar David Vining
+        entryId: OscarD01
+        entryLetter: O
+        birth:
+          date: 27 December 1885
+          place: "Lake City, Minnesota"
+        marriages:
+          - date: Emma E. Raddatz
+        death:
+          date: April 1969
+          place: "St. Paul, Minnesota"
+docsUrl: Hsources/HoraceO01doc.htm
+raw: |-
+  <a name="HoraceO01"></a><font size=+2>Horace Oscar Vining</font>
+     (son of <a href="Dfamilies.htm#DavidH01">David H. Vining and Rocksy Susan Edwards</a>)
+     b. 27 February 1847   Palmyra, Pennsylvania
+     m. Martha Harrison Chapman
+     d. 19 November 1885
+           bur. Vining Cemetery   Florence, Minnesota
+  
+  <font size=+1>children:</font>
+     <a href="#HoraceW01">Horace Webster Vining</a>   b. 1875   Minnesota   -   m. Veronica Lucas   -   d. Minneapolis, Minnesota
+     Libby Roxanne Vining   b. 1876   -   m. David Stewart
+     Jessie Addil Vining   b. 2 September 1877   -   m. (1) Harry K. Aurandt;   (2) Winfield Chapman   -   d. 1958   St. Paul, Minnesota
+     Edath M. Vining   b. 9 February 1879   -   d. 18 January 1883   -   bur. Vining Cemetery   Florence, Minnesota
+     <a href="Jfamilies.htm#JamesO01">James O. Vining</a>   b. 12 August 1880   -   m. Bessie Morehouse
+     Clara Maude &#8220;Daisy&#8221; Vining   b. 1 October 1881   -   m. Carl Adams
+     <a href="#Harrison01">Harrison Vining</a>   b. 22 March 1883   Florence, Minnesota   -   m. Marie Horejs   -   d. 1910   St. Paul, Minnesota
+     <a href="Cfamilies.htm#Charles03">Charles Vining<a>   b. 21 July 1884   -   m. Meta Schultz   -   d. St. Paul, Minnesota
+     <a href="Ofamilies.htm#OscarD01">Oscar David Vining</a>   b. 27 December 1885   Lake City, Minnesota   -   m. Emma E. Raddatz   -   d. April 1969   St. Paul, Minnesota
+  
+  <a href="Hsources/HoraceO01doc.htm">documentation and notes</a>

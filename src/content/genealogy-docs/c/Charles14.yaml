@@ -1,0 +1,107 @@
+id: Charles14
+title: Charles Vining - Emma Mary Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Vining
+          values:
+            - "24"
+            - "34"
+            - "?"
+            - "54"
+            - dead
+            - ""
+            - ""
+        - label: Emma Mary (Smith) Vining
+          values:
+            - "25"
+            - "35"
+            - "?"
+            - "54"
+            - |-
+              64
+              [see note below]
+            - "?"
+            - dead
+        - label: Ellen Vining
+          values:
+            - 3 m.
+            - "10"
+            - "?"
+            - living? in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lewis Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - living? in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mary Adeline Vining
+          values:
+            - ""
+            - "[2?]"
+            - "?"
+            - "22"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: James Edward “Edgar” Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "19"
+            - |-
+              29
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Flushing, Genesee County, Michigan - dwelling 41, family 29. In 1870 Charles, Emma, and Ellen were living in a
+          household of John and Jerusha Crottendon.
+        images:
+          - src: Charles14census1870.jpg
+      - year: "1880"
+        caption: >-
+          Flushing, Genesee County, Michigan - dwelling 115, family 117. Also living in this household in 1870 were John
+          [Penell?] (15 y., b. Michigan, "adopted son") and [George?] [Penell?] (6 m., b. Michigan).
+        images:
+          - src: Charles14census1880.jpg
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: Beaverton Township, Gladwyn County, Michigan - dwelling 334, family 342
+        images:
+          - src: Charles14census1900.jpg
+      - year: "1910"
+        caption: >-
+          Beaverton Township, Gladwyn County, Michigan - dwelling 22, family 22. In 1910, the widowed Emma Mary (Smith)
+          Vining was living in the household of son James Edward “Edgar” Vining.
+        images:
+          - src: Charles14census1910.jpg
+  - type: census
+  - type: other
+    items:
+      - caption: Gravestone for Charles Vining, in Beaverton Cemetery, Beaverton, Gladwin County, Michigan (from Find A Grave)
+        images:
+          - src: Charles14gravestone.jpg

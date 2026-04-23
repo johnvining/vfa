@@ -1,0 +1,105 @@
+id: JohnH02
+sequence: 233
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: GordonF02
+parentLetter: G
+parentDesc: Gordon Francis Vining and Nettie Ophelia Passman
+head:
+  givenName: John Henry
+  birth:
+    date: 3 February 1929
+    place: "Amite, Louisiana"
+  death:
+    date: 24 July 2017
+    place: "North Wilkesboro, North Carolina"
+  burial:
+    description: no burial - body donated for medical education and research
+marriages:
+  - date: 2 November 1951
+    spouse:
+      givenName: Janie Rachel
+      surname: Byrd
+      parents: (dau. of George Huey Byrd and Sarah Lavada Ingram)
+      birth:
+        date: 19 April 1934
+        place: Mississippi
+      death:
+        date: 29 June 1916
+        place: "Westminster, Colorada"
+      burial:
+        place: "Horan & McConaty Crematory"
+    note: divorced
+childrenGroups:
+  - children:
+      - name: Jeannie Patricia Vining
+        birth:
+          date: 7 September 1952
+      - name: Lois Elizabeth Vining
+        birth:
+          date: 28 March 1954
+      - name: Janet Ursiline Vining
+        entryId: JanetU01
+        birth:
+          date: 29 July 1955
+      - name: Martha Elaine Vining
+        birth:
+          date: 6 July 1956
+        marriages:
+          - date: Bruce Whiting
+      - name: Shirley Joyce Vining
+        birth:
+          date: 20 January 1959
+        death:
+          date: 23 May 2020
+        burial:
+          place: "Jasper Cemetery   Jasper, Arkansas"
+      - name: Thomas Henry Vining
+        entryId: ThomasH02
+        entryLetter: T
+        birth:
+          date: 8 September 1960
+        marriages:
+          - date: 6 January 1990
+            spouse: "Carol Elaine Stamper,   2009 divorced"
+      - name: John Uriah Vining
+        birth:
+          date: 30 July 1963
+      - name: Rebecca Ann Vining
+        birth:
+          date: 14 September 1965
+      - name: Ester Maureen Vining
+        birth:
+          date: 15 September 1969
+      - name: Jason Hollister Vining
+        birth:
+          date: "February 19[70 or 71]"
+docsUrl: Jsources/JohnH02doc.htm
+raw: |-
+  <a name="JohnH02"></a><font size=+2>John Henry Vining</font>
+     (son of <a href="Gfamilies.htm#GordonF02">Gordon Francis Vining and Nettie Ophelia Passman</a>)
+     b. 3 February 1929   Amite, Louisiana
+     m. 2 November 1951
+           Janie Rachel Byrd
+                 (dau. of George Huey Byrd and Sarah Lavada Ingram)
+                 b. 19 April 1934   Mississippi
+                 d. 29 June 1916   Westminster, Colorada
+                       bur. Horan & McConaty Crematory
+           divorced
+     d. 24 July 2017   North Wilkesboro, North Carolina
+           no burial - body donated for medical education and research
+  
+  <font size=+1>children:</font>
+     Jeannie Patricia Vining   b. 7 September 1952
+     Lois Elizabeth Vining   b. 28 March 1954
+     <a href="#JanetU01">Janet Ursiline Vining</a>   b. 29 July 1955
+     Martha Elaine Vining   b. 6 July 1956   -   m. Bruce Whiting
+     Shirley Joyce Vining   b. 20 January 1959   -   d. 23 May 2020   -   bur. Jasper Cemetery   Jasper, Arkansas
+     <a href="Tfamilies.htm#ThomasH02">Thomas Henry Vining</a>   b. 8 September 1960   -   m. 6 January 1990   Carol Elaine Stamper,   2009 divorced
+     John Uriah Vining   b. 30 July 1963
+     Rebecca Ann Vining   b. 14 September 1965
+     Ester Maureen Vining   b. 15 September 1969
+     Jason Hollister Vining   b. February 19[70 or 71]
+  
+  <a href="Jsources/JohnH02doc.htm">documentation and notes</a>

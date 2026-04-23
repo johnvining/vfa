@@ -1,0 +1,36 @@
+id: Horatio01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Horatio
+marriages:
+  - spouse:
+      givenName: Mary A.
+      surname: Bennett
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Henry Horatio Vining
+        entryId: HenryH02
+        birth:
+          date: 23 June 1856
+          place: "Berwick, Louisiana"
+        marriages:
+          - number: 1
+            date: Marguerite Mirsa Vallet
+          - number: 2
+            date: Emma Garecht
+        death:
+          date: 19 December 1937
+          place: "New Iberia, Louisiana"
+        burial:
+          place: "Willow Grove Cemetery   Berwick, Louisiana"
+raw: |-
+  <a name="Horatio01"></a><font size=+2>Horatio Vining</font>
+     (son of [?])
+     m. Mary A. Bennett
+  
+  <font size=+1>child:</font>
+     <a href="#HenryH02">Henry Horatio Vining</a>   b. 23 June 1856   Berwick, Louisiana   -   m. (1) Marguerite Mirsa Vallet;   (2) Emma Garecht   -   d. 19 December 1937   New Iberia, Louisiana   -   bur. Willow Grove Cemetery   Berwick, Louisiana

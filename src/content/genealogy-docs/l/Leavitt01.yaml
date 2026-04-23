@@ -1,0 +1,141 @@
+id: Leavitt01
+title: Leavitt Vining - Ophronia Swift
+sections:
+  - type: census
+    table:
+      columns:
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+      rows:
+        - label: Leavitt Vining
+          values:
+            - M 26–45
+            - M 26–45
+            - "?"
+            - "?"
+            - |-
+              67
+              [see note below]
+            - |-
+              79
+              [see note below]
+        - label: Ophronia (Swift) Vining
+          values:
+            - F 26–45
+            - F 26–45
+            - "?"
+            - "?"
+            - |-
+              61
+              [see note below]
+            - |-
+              72
+              [see note below]
+        - label: Aletha Vining
+          values:
+            - F under 10
+            - F 10–16
+            - "?"
+            - "?"
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: Alden Dunbar Vining
+          values:
+            - M under 10
+            - M 10–16
+            - "?"
+            - "?"
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: Susan Vining
+          values:
+            - ""
+            - F under 10
+            - "?"
+            - "?"
+            - |-
+              married
+              [see note below]
+            - not living in this household
+          indent: true
+        - label: David A. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Oliver Smith Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+          indent: true
+        - label: John H. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: Heman Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: Theron Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - living in separate household
+            - dead
+          indent: true
+    entries:
+      - year: "1810"
+        caption: Lanesborough, Berkshire County) Massachusetts
+        images:
+          - src: Leavitt01census1810.jpg
+      - year: "1820"
+        caption: Hatfield, Hampshire County, Massachusetts
+        images:
+          - src: Leavitt01census1820.jpg
+      - year: "1850"
+        caption: >-
+          Hatfield, Hampshire County, Massachusetts - dwelling 178, family 204. In 1850, Leavitt Vining and Ophronia
+          (Swift) Vining were living in the dwelling (178), but as a separate family (204), as their daughter (Susan)
+          and her husband (Henry Manchester), who were family 203.
+        images:
+          - src: Leavitt01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Hatfield, Hampshire County, Massachusetts - dwelling 14, family 13. In 1860, Leavitt Vining (79 y., b.
+          Massachusetts) and Ophronia (Swift) Vining (72 y., b. Vermont) were living in the household of son David
+          Vining.

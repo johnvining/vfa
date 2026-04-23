@@ -1,0 +1,97 @@
+id: WilliamB01
+title: William Brown Vining - Harriet Emma Price
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Brown Vining
+          values:
+            - "44"
+            - "52"
+            - "65"
+            - "77"
+        - label: Harriet Emma (Price) Vining
+          values:
+            - "41"
+            - "53"
+            - "61"
+            - "71"
+        - label: Dwight Vining
+          values:
+            - "8"
+            - "18"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: William Brown Vining Jr.
+          values:
+            - "6"
+            - "14"
+            - |-
+              27
+              [see note below]
+            - "[living? in separate household]"
+          indent: true
+        - label: Charles Price Vining
+          values:
+            - 1 y., [?] m.
+            - "11"
+            - "21"
+            - "32"
+          indent: true
+        - label: Howard R. Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "29"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Kansas City (ward 3), Wyandotte County, Kansas - dwelling 12, family 12
+        images:
+          - src: WilliamB01census1910a.jpg
+          - src: WilliamB01census1910b.jpg
+      - year: "1920"
+        caption: Prairie Township, Wyandotte County, Kansas - dwelling 245, family 246
+        images:
+          - src: WilliamB01census1920a.jpg
+          - src: WilliamB01census1920b.jpg
+      - year: "1930"
+        caption: >-
+          Prairie Township, Wyandotte County, Kansas - dwelling 169, family 169. By 1930, William Brown Vining Jr. was
+          married, and he and his wife and son were living in the household of his parents.
+        images:
+          - src: WilliamB01census1930.jpg
+      - year: "1940"
+        caption: Prairie Township, Wyandotte County, Kansas
+        images:
+          - src: WilliamB01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for William Brown Vining and Harriet Emma (Price) Vining, in Tonganoxie Cemetery, Tonganoxie,
+          Leavenworth County, Kansas (from Find A Grave):
+        images:
+          - src: WilliamB01gravestone.jpg
+          - src: WilliamB01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Charles Price Vining, son of William Brown Vining and Harriet Emma (Price) Vining, in
+          Tonganoxie Cemetery, Tonganoxie, Leavenworth County, Kansas (from Find A Grave):
+        images:
+          - src: WilliamB01sonCharlesgravestone.jpg
+  - type: other
+    heading: Howard R. Vining
+    items:
+      - caption: >-
+          Obituary for Nadine (Love) Vining, wife of Howard R. Vining (in The Chieftan 105:12, 5 April 2001, page 2A,
+          columns 4 and 5):
+        images:
+          - src: WilliamB01sonHowardwifeobituarya.jpg
+          - src: WilliamB01sonHowardwifeobituaryb.jpg

@@ -1,0 +1,52 @@
+id: ElmerE02
+title: Elmer E. Vining - Elizabeth E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Elmer E. Vining
+          values:
+            - "?"
+            - "30"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Elizabeth E. ([…]) Vining
+          values:
+            - "?"
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Bertha A. Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Babe Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Pomeroy, Meigs County, Ohio - dwelling 255, family 275
+        images:
+          - src: ElmerE02census1900.jpg

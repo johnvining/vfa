@@ -1,0 +1,105 @@
+id: MichelO01
+sequence: 48
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: HenryH02
+parentLetter: H
+parentDesc: Henry Horatio Vining and Emma Garecht
+head:
+  givenName: Michel Oretio
+  birth:
+    date: 26 May 1890
+    place: "Morgan City, Louisiana"
+  death:
+    date: 11 September 1960
+    place: "Terrebonne Parish, Louisiana"
+marriages:
+  - date: "[1?] Clara Clark"
+    spouse:
+      parents: "(dau. of Charles R. Clark and Hattie [&#8230;])"
+      birth:
+        date: 28 September 1896
+        place: "Police Jury Ward 10, Louisiana"
+      death:
+        date: 16 March 1991
+        place: "Morgan City, Louisiana"
+    note: |-
+      [2?] Pauline Ethel [&#8230;]
+            b. age 75 y. at death   Louisiana
+            d. December 1983   Berwick, Louisiana
+                  bur. Willow Grove Cemetery
+childrenGroups:
+  - headingText: "children [by ?]"
+    children:
+      - name: Mildred Dorothy Vining
+        birth:
+          date: 26 August 1920
+          place: Louisiana
+        marriages:
+          - date: Thomas E. Davis
+        death:
+          date: 4 April 2010
+          place: "Morgan City, Louisiana"
+        burial:
+          place: Morgan City Cemetery and Mausoleum
+      - name: Michael C. Vining
+        birth:
+          date: age 8 y. as of 1930 census
+          place: Louisiana
+      - name: Vera G. Vining
+        birth:
+          date: age 6 y. as of 1930 census
+          place: Louisiana
+        marriages:
+          - date: "[...] Morgan"
+      - name: Clarence Leon Vining
+        birth:
+          date: "age 5 y., 2 m. as of 1930 census"
+          place: Louisiana
+      - name: Beverly Lawrence Vining
+        entryId: BeverlyL01
+        entryLetter: B
+        birth:
+          date: 11 April 1928
+          place: "Berwick, Louisiana"
+        marriages:
+          - date: "Ruby D. [...]"
+        death:
+          date: 20 November 2013
+          place: "Morgan City, Louisiana"
+        burial:
+          place: "Morgan City Cemetery and Mausoleum   Morgan City, Louisiana"
+      - name: Norman Vining
+      - name: Katherine Vining
+        marriages:
+          - date: "[...] Barras"
+      - name: Julius Vining
+      - name: Ruel Vining
+docsUrl: Msources/MitchellO01doc.htm
+raw: |-
+  <a name="MichelO01"></a><font size=+2>Michel Oretio Vining</font>
+     (son of <a href="Hfamilies.htm#HenryH02">Henry Horatio Vining and Emma Garecht</a>)
+     b. 26 May 1890   Morgan City, Louisiana
+     m. [1?] Clara Clark
+                    (dau. of Charles R. Clark and Hattie [&#8230;])
+                    b. 28 September 1896   Police Jury Ward 10, Louisiana
+                    d. 16 March 1991   Morgan City, Louisiana
+           [2?] Pauline Ethel [&#8230;]
+                    b. age 75 y. at death   Louisiana
+                    d. December 1983   Berwick, Louisiana
+                          bur. Willow Grove Cemetery
+     d. 11 September 1960   Terrebonne Parish, Louisiana
+  
+  <font size=+1>children [by ?]:</font>
+     Mildred Dorothy Vining   b. 26 August 1920   Louisiana   -   m. Thomas E. Davis   -   d. 4 April 2010   Morgan City, Louisiana   -   bur. Morgan City Cemetery and Mausoleum
+     Michael C. Vining   b. age 8 y. as of 1930 census   Louisiana
+     Vera G. Vining   b. age 6 y. as of 1930 census   Louisiana   -   m. [...] Morgan
+     Clarence Leon Vining   b. age 5 y., 2 m. as of 1930 census   Louisiana
+     <a href="Bfamilies.htm#BeverlyL01">Beverly Lawrence Vining</a>   b. 11 April 1928   Berwick, Louisiana   -   m. Ruby D. [...]   -   d. 20 November 2013   Morgan City, Louisiana   -   bur. Morgan City Cemetery and Mausoleum   Morgan City, Louisiana
+     Norman Vining
+     Katherine Vining   m. [...] Barras
+     Julius Vining
+     Ruel Vining
+  
+  <a href="Msources/MitchellO01doc.htm">documentation and notes</a>

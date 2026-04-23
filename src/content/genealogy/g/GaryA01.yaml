@@ -1,0 +1,43 @@
+id: GaryA01
+letter: G
+lastUpdated: 22 July 2022
+relationship: son
+parentId: RayA01
+parentLetter: R
+parentDesc: Ray Allen and Srelda Elda Kienast
+head:
+  givenName: Gary Alan
+  birth:
+    date: 30 March 1945
+    place: "Aberdeen, South Dakota"
+  death:
+    date: 28 September 2005
+    place: "Aberdeen, South Dakota"
+  burial:
+    place: "Sunset Memorial Gardens   Aberdeen, South Dakota"
+marriages:
+  - date: 27 July 1974
+    place: "Aberdeen, South Dakota"
+    spouse:
+      givenName: Nancy
+      surname: Gelling
+childrenGroups:
+  - children:
+      - name: Lee Vining
+        marriages:
+          - date: "Kris [...]"
+      - name: Brad Vining
+        marriages:
+          - date: "Jill [...]"
+raw: |-
+  <a name="GaryA01"></a><font size=+2>Gary Alan Vining</font>
+     (son of <a href="Rfamilies.htm#RayA01">Ray Allen and Srelda Elda Kienast</a>)
+     b. 30 March 1945   Aberdeen, South Dakota
+     m. 27 July 1974   Aberdeen, South Dakota
+           Nancy Gelling
+     d. 28 September 2005   Aberdeen, South Dakota
+           bur. Sunset Memorial Gardens   Aberdeen, South Dakota
+  
+  <font size=+1>children:</font>
+     Lee Vining   m. Kris [...]
+     Brad Vining   m. Jill [...]

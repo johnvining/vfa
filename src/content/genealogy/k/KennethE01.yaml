@@ -1,0 +1,103 @@
+id: KennethE01
+letter: K
+sequence: 17
+lastUpdated: 24 July 2022
+relationship: son
+parentId: EdwardL01
+parentLetter: E
+parentDesc: Edward Leander Vining and Marjorie E. Newcomb
+head:
+  givenName: Kenneth Everett
+  birth:
+    date: 26 June 1932
+    place: "Auburn, Maine"
+  death:
+    date: 29 February 2004
+    place: "Poland, Androscoggin County, Maine"
+marriages:
+  - number: 1
+    date: 8 February 1955
+    place: "Leeds, Androscoggin County, Maine"
+    spouse:
+      givenName: Carolyn Fay
+      surname: Child
+      parents: "(dau. of Joseph True Child and Verna Louise Libb[e?]y)"
+      birth:
+        date: 18 May 1934
+        place: "Leeds, Androscoggin County, Maine"
+  - number: 2
+    date: 7 December 1985
+    spouse:
+      givenName: Norma E.
+      surname: Gates
+childrenGroups:
+  - spouseRef: Carolyn Fay Child
+    children:
+      - name: Kenneth Everett Vining Jr.
+        entryId: KennethEJr01
+        birth:
+          date: 1 January 1956
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 23 August 1980
+            spouse: Lori Ann Wright
+        death:
+          date: 23 February 2020
+          place: "Woolwich, Sagadahoc County, Maine"
+      - name: Sharon Eleanor Vining
+        birth:
+          date: 1 June 1957
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 24 April 1976
+            spouse: Dennis Leon Potvin
+      - name: Daniel Jay Vining
+        birth:
+          date: 7 January 1960
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: "Amy [&#8230;]"
+      - name: Thomas Edward Vining
+        entryId: ThomasE04
+        entryLetter: T
+        birth:
+          date: 21 June 1961
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 10 January 1987
+            spouse: Rosemarie Joan Ducharme
+      - name: Sheryl Eileen Vining
+        birth:
+          date: 26 November 1962
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 9 February 1979
+            spouse: Christopher D. Kimball
+      - name: Steven Joseph Vining
+        entryId: StevenJ01
+        entryLetter: S
+        birth:
+          date: 15 September 1964
+          place: "Lewiston, Androscoggin County, Maine"
+        marriages:
+          - date: 18 February 1992
+            spouse: Heidi Marie Edwards
+raw: |-
+  <a name="KennethE01"></a><font size=+2>Kenneth Everett Vining</font>
+     (son of <a href="Efamilies.htm#EdwardL01">Edward Leander Vining and Marjorie E. Newcomb</a>)
+     b. 26 June 1932   Auburn, Maine
+     m. (1) 8 February 1955   Leeds, Androscoggin County, Maine
+                 Carolyn Fay Child
+                       (dau. of Joseph True Child and Verna Louise Libb[e?]y)
+                       b. 18 May 1934   Leeds, Androscoggin County, Maine
+           (2) 7 December 1985
+                 Norma E. Gates
+     d. 29 February 2004   Poland, Androscoggin County, Maine
+  
+  <font size=+1>children by Carolyn Fay Child:</font>
+     <a href="#KennethEJr01">Kenneth Everett Vining Jr.</a>   b. 1 January 1956   Lewiston, Androscoggin County, Maine   -   m. 23 August 1980   Lori Ann Wright   -   d. 23 February 2020   Woolwich, Sagadahoc County, Maine
+     Sharon Eleanor Vining   b. 1 June 1957   Lewiston, Androscoggin County, Maine   -   m. 24 April 1976   Dennis Leon Potvin
+     Daniel Jay Vining   b. 7 January 1960   Lewiston, Androscoggin County, Maine   -   m. Amy [&#8230;]
+     <a href="Tfamilies.htm#ThomasE04">Thomas Edward Vining</a>   b. 21 June 1961   Lewiston, Androscoggin County, Maine   -   m. 10 January 1987   Rosemarie Joan Ducharme
+     Sheryl Eileen Vining   b. 26 November 1962   Lewiston, Androscoggin County, Maine   -   m. 9 February 1979   Christopher D. Kimball
+     <a href="Sfamilies.htm#StevenJ01">Steven Joseph Vining</a>   b. 15 September 1964   Lewiston, Androscoggin County, Maine   -   m. 18 February 1992   Heidi Marie Edwards

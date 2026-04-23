@@ -1,0 +1,54 @@
+id: GeorgeA01
+title: George Albert Vining - Ruby Lee Roten
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: George Albert Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Ruby Lee (Roten) Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: William Macon Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Fitzhugh Vining
+          values:
+            - "2"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Rusk (Justice Precinct 1), Cherokee County, Texas - dwelling 54, family 54
+        images:
+          - src: GeorgeA01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Fitzhugh Vining, son of George Albert Vining and Ruby Lee (Roten), in Cedar Hill Cemetery,
+          Rusk, Cherokee County Texas (from Find A Grave):
+        images:
+          - src: GeorgeA01sonHughgravestone.jpg

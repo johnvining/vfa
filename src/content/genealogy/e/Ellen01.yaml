@@ -1,0 +1,61 @@
+id: Ellen01
+sequence: 82
+letter: E
+lastUpdated: 23 February 2023
+relationship: dau.
+parentId: Owen01
+parentLetter: O
+parentDesc: Owen Vining and Edith Ann Ivey
+head:
+  givenName: Ellen
+  birth:
+    date: 22 June 1850
+    place: Georgia
+  death:
+    date: "1918"
+    place: Georgia
+  burial:
+    place: "Mt. Zion Baptist Church Cemetery   Axson, Georgia"
+childrenGroups:
+  - headingText: "child by [...] Beckum"
+    children:
+      - name: Charles Vining
+        birth:
+          date: January 1876
+          place: Georgia
+        death:
+          date: 27 January 1949
+          place: Georgia
+        burial:
+          place: "Franklin Baptist Church Cemetery   Douglas, Coffee County, Georgia"
+  - headingText: "child by Hezekiah Ponder Williams"
+    children:
+      - name: Owen Franklin Vining
+        entryId: OwenF01
+        entryLetter: O
+        birth:
+          date: 11 September 1878
+          place: "Axson, Georgia"
+        marriages:
+          - date: 13 January 1907
+            place: Georgia
+            spouse: Pearl Woodard
+        death:
+          date: 10 January 1955
+          place: "Douglas, Coffee County, Georgia"
+        burial:
+          place: "Franklin Baptist Church Cemetery   Douglas, Coffee County, Georgia"
+docsUrl: Esources/Ellen01doc.htm
+raw: |-
+  <a name="Ellen01"></a><font size=+2>Ellen Vining</font>
+     (dau. of <a href="Ofamilies.htm#Owen01">Owen Vining and Edith Ann Ivey</a>)
+     b. 22 June 1850   Georgia
+     d. 1918   Georgia
+           bur. Mt. Zion Baptist Church Cemetery   Axson, Georgia
+  
+  <font size=+1>child by [...] Beckum:</font>
+     Charles Vining   b. January 1876   Georgia   -   d. 27 January 1949   Georgia   -   bur. Franklin Baptist Church Cemetery   Douglas, Coffee County, Georgia
+  <font size=+1>child by Hezekiah Ponder Williams:</font>
+     <a href="Ofamilies.htm#OwenF01">Owen Franklin Vining</a>   b. 11 September 1878   Axson, Georgia   -   m. 13 January 1907   Georgia   Pearl Woodard   -   d. 10 January 1955   Douglas, Coffee County, Georgia   -   bur. Franklin Baptist Church Cemetery   Douglas, Coffee County, Georgia
+  
+  <a href="Esources/Ellen01doc.htm">documentation and notes</a>

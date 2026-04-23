@@ -1,0 +1,89 @@
+id: Charles01
+title: Charles Vining - Sophronia K. Neff
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Vining
+          values:
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Sophronia K. (Neff) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Nancy Vining
+          values:
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Benjamin L. Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Vining
+          values:
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: George S. Vining
+          values:
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jenny Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Cincinnatus, Cortland County, New York - dwelling 260, family 270. Also living in this household in 1870 was
+          Eugene Roody (19, b. New York).
+        images:
+          - src: Charles01census1870.jpg

@@ -1,0 +1,118 @@
+id: Thomas07
+letter: T
+sequence: 4
+lastUpdated: 9 March 2023
+relationship: son
+parentId: Jeptha01
+parentLetter: J
+parentDesc: Jeptha Vining and Amy Miller
+head:
+  givenName: Thomas
+  birth:
+    date: "1755"
+    place: "Anson County, North Carolina"
+  death:
+    date: "[22 or 26?] April 1826"
+    place: Alabama
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: Wade
+      parents: "(dau. of Thomas Holden Wade and Jane Boggan)"
+      birth:
+        date: ca. 1759
+        place: "North Carolina"
+      death:
+        date: "1827"
+        place: "Limestone County, Alabama"
+childrenGroups:
+  - children:
+      - name: John Vining
+        entryId: John15
+        entryLetter: J
+        birth:
+          date: 7 January 1786
+          place: "[Anson County, North Carolina or Warren County, Georgia?]"
+        marriages:
+          - number: 1
+            date: 5 January 1809
+            place: "[Upson County or Warren County?], Georgia"
+            spouse: Mary Hubert (d. 1823)
+          - number: 2
+            date: 16 September 1824
+            place: "Madison County, Alabama"
+            spouse: Elvira Harris Shelton (d. 1834)
+          - number: 3
+            date: 29 October 1835
+            spouse: Lucy Wash
+        death:
+          date: "[September or 18 October?] 1847"
+      - name: Jane Vining
+        birth:
+          date: "1792"
+        marriages:
+          - date: George Campbell
+        death:
+          date: "1823"
+      - name: Wade Hampton Vining
+        entryId: WadeH01
+        entryLetter: W
+        birth:
+          date: 26 April 1793
+          place: "Anson County, North Carolina"
+        marriages:
+          - date: 28 May 1817
+            place: "Madison County, Alabama"
+            spouse: Martha Jones
+        death:
+          date: 2 June 1854
+          place: "Clarksville, Red River County, Texas"
+      - name: Matilda Vining
+        birth:
+          date: "1796"
+          place: Georgia
+        marriages:
+          - date: ca. 1809
+            place: "Dixon Springs, Trousdale County, Tennessee"
+            spouse: Thomas Gray
+        death:
+          date: "[Dixon Springs, Trousdale County or Smith County?], Tennessee"
+        burial:
+          place: "[Martin Cemetery   Limestone County, Alabama or Dixon Springs, Trousdale County, Tennessee?]"
+      - name: Nancy Vining
+        birth:
+          date: ca. 1798
+          place: Alabama
+        marriages:
+          - number: 1
+            date: 13 August 1817
+            spouse: Ezekiel Ford (d. 1 May 1839)
+          - number: 2
+            date: John Moseley
+        death:
+          date: "1844"
+          place: "Madison County, Alabama"
+      - name: Martha H. Vining
+        birth:
+          date: ca. 1805
+      - name: Mary Vining
+        marriages:
+          - date: "[&#8230;] Ragsdale"
+raw: |-
+  <a name="Thomas07"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Jfamilies.htm#Jeptha01">Jeptha Vining and Amy Miller</a>)
+     b. 1755   Anson County, North Carolina
+     m. Mary Wade
+              (dau. of Thomas Holden Wade and Jane Boggan)
+              b. ca. 1759   North Carolina
+              d. 1827   Limestone County, Alabama
+     d. [22 or 26?] April 1826   Alabama
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#John15">John Vining</a>   b. 7 January 1786   [Anson County, North Carolina or Warren County, Georgia?]   -   m. (1) 5 January 1809   [Upson County or Warren County?], Georgia   Mary Hubert (d. 1823);   (2) 16 September 1824   Madison County, Alabama   Elvira Harris Shelton (d. 1834);   (3) 29 October 1835   Lucy Wash   -   d. [September or 18 October?] 1847
+     Jane Vining   b. 1792   -   m. George Campbell   -   d. 1823
+     <a href="Wfamilies.htm#WadeH01">Wade Hampton Vining</a>   b. 26 April 1793   Anson County, North Carolina   -   m. 28 May 1817   Madison County, Alabama   Martha Jones   -   d. 2 June 1854   Clarksville, Red River County, Texas
+     Matilda Vining   b. 1796   Georgia   m. ca. 1809   Dixon Springs, Trousdale County, Tennessee   Thomas Gray   -   d. [Dixon Springs, Trousdale County or Smith County?], Tennessee   -   bur. [Martin Cemetery   Limestone County, Alabama or Dixon Springs, Trousdale County, Tennessee?]
+     Nancy Vining   b. ca. 1798   Alabama   -   m. (1) 13 August 1817   Ezekiel Ford (d. 1 May 1839);   (2) John Moseley   -   d. 1844   Madison County, Alabama
+     Martha H. Vining   b. ca. 1805
+     Mary Vining   m. [&#8230;] Ragsdale

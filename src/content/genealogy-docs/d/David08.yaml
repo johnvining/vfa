@@ -1,0 +1,85 @@
+id: David08
+title: David Vining - Hannah L. Green
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: David Vining
+          values:
+            - "26"
+            - "36"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Hannah L. (Green) Vining
+          values:
+            - "21"
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charles Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alvin Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Vining
+          values:
+            - ""
+            - "3"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Ellington, Chautauqua County, New York - dwelling 2183, family 2251
+        images:
+          - src: David08census1850.jpg
+      - year: "1860"
+        caption: >-
+          Randolph, Cattaraugus County, New York - dwelling 412, family 409. Also living in this household in 1860 was
+          John Griffin (28 y., b. Pennsylvania, blacksmith).
+        images:
+          - src: David08census1860.jpg

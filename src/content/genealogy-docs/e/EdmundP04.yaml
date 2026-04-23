@@ -1,0 +1,142 @@
+id: EdmundP04
+title: Edmund Pendleton Vining - (1) Elizabeth Marsteller; (2) Sarah Louise Havens
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edmund Pendleton Vining
+          values:
+            - "25"
+            - "?"
+            - "45"
+            - "55"
+            - "64"
+            - dead
+            - ""
+        - label: Elizabeth (Marsteller) Vining
+          values:
+            - "25"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Sarah Louise (Havens) Vining
+          values:
+            - ""
+            - "?"
+            - "32"
+            - "42"
+            - "52"
+            - |-
+              62
+              [see note below]
+            - "72"
+        - label: Wilkie Leroy "Lee" Vining
+          values:
+            - "1"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Chauncey Havens Vining
+          values:
+            - ""
+            - "?"
+            - "11"
+            - "21"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Robert Jefferson Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "15"
+            - living in separate household
+            - ""
+            - "45"
+          indent: true
+        - label: Edmund Pendleton Vining Jr.
+          values:
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "21"
+            - |-
+              32
+              [see note below]
+            - married and living in separate household
+          indent: true
+        - label: Clifford Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Otto, Kankakee County, Illinois - dwelling 130, family 130
+        images:
+          - src: EdmundP04census1880.jpg
+      - year: "1900"
+        caption: Kankakee Township, Kankakee County, Illinois - dwelling 5, family 5
+        images:
+          - src: EdmundP04census1900.jpg
+      - year: "1910"
+        caption: Kankakee, Kankakee County, Illinois - dwelling 89, family 94
+        images:
+          - src: EdmundP04census1910.jpg
+      - year: "1920"
+        caption: Otto Township, Kankakee County, Illinois - dwelling 167, family 167
+        images:
+          - src: EdmundP04census1920a.jpg
+          - src: EdmundP04census1920b.jpg
+      - year: "1930"
+        caption: >-
+          Kankakee (ward 6), Kankakee County, Illinois - dwelling 109, family 126. In 1930, the widowed Sarah Louise
+          (Havens) Vining was living in the household of son Edmund Pendleton Vining Jr.
+        images:
+          - src: EdmundP04census1930.jpg
+      - year: "1940"
+        caption: Kankakee (ward 4), Kankakee County, Illinois
+        images:
+          - src: EdmundP04census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Edmund Pendleton Vining and Sarah Louise (Havens) Vining, in Mound Grove Cemetery, Kankakee,
+          Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: EdmundP04gravestone.jpg
+          - src: EdmundP04wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Wilkie Leroy Vining, son of Edmund Pendleton Vining and Elizabeth (Marsteller) Vining, in Mound
+          Grove Cemetery, Kankakee, Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: EdmundP04sonWilkiegravestone.jpg
+      - caption: >-
+          Gravestone for Chauncey Havens Vining, son of Edmund Pendleton Vining and Sarah Louise (Havens) Vining, in
+          Mound Grove Cemetery, Kankakee, Kankakee County, Illinois (from Find A Grave):
+        images:
+          - src: EdmundP04sonChaunceygravestone.jpg

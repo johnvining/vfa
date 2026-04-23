@@ -1,0 +1,46 @@
+id: DonaldC01
+sequence: 74
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ClairW01
+parentLetter: C
+parentDesc: Clair Wilbur Vining and Jennie Adelia Rose
+head:
+  givenName: Donald Clair
+  birth:
+    date: 3 October 1916
+  death:
+    date: November 1982
+    place: "(last residence: Binghamton, New York)"
+marriages:
+  - spouse:
+      givenName: Earlbetta De Ette
+      surname: Belles
+childrenGroups:
+  - children:
+      - name: Gary Dee Vining
+        entryId: GaryD01
+        entryLetter: G
+        birth:
+          date: 2 November 1941
+        marriages:
+          - spouse: Barbara Ann Hovancik
+      - name: Donita Christine Vining
+        birth:
+          date: 6 November 1946
+        marriages:
+          - spouse: Norman Rogers Jr.
+docsUrl: Dsources/DonaldC01doc.htm
+raw: |-
+  <a name="DonaldC01"></a><font size=+2>Donald Clair Vining</font>
+     (son of <a href="Cfamilies.htm#ClairW01">Clair Wilbur Vining and Jennie Adelia Rose</a>)
+     b. 3 October 1916
+     m. Earlbetta De Ette Belles
+     d. November 1982   (last residence: Binghamton, New York)
+  
+  <font size=+1>children:</font>
+     <a href="Gfamilies.htm#GaryD01">Gary Dee Vining</a>   b. 2 November 1941   -   m. Barbara Ann Hovancik
+     Donita Christine Vining   b. 6 November 1946   -   m. Norman Rogers Jr.
+  
+  <a href="Dsources/DonaldC01doc.htm">documentation and notes</a>

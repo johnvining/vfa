@@ -1,0 +1,49 @@
+id: LeoR01
+title: Leo Roy Vining - Ada Marian Day
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Leo Roy Vining
+          values:
+            - "24"
+            - "33"
+            - "43"
+        - label: Adree M. (Day) Vining
+          values:
+            - "21"
+            - "29"
+            - "42"
+        - label: Leo Warren Vining
+          values:
+            - "[illegible]"
+            - "13"
+            - "23"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Los Angeles Township (Precinct 160), Los Angeles County, California - dwelling 195, family 230
+        images:
+          - src: LeoR01census1920.jpg
+      - year: "1930"
+        caption: Los Angeles Township (Assembly District 72), Los Angeles County, California - dwelling 243, family 244
+        images:
+          - src: LeoR01census1930a.jpg
+          - src: LeoR01census1930b.jpg
+      - year: "1940"
+        caption: Los Angeles, Los Angeles County, California
+        images:
+          - src: LeoR01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Leo Roy Vining and Adree Marian (Day) Vining, in Fairhaven Memorial Park, Santa Ana,
+          California (Source: Find A Grave):
+        images:
+          - src: LeoR01gravestone.jpg
+          - src: LeoR01wifegravestone.jpg
+        inline: true

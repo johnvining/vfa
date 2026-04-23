@@ -1,0 +1,52 @@
+id: JustinC01
+sequence: 338
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnC04
+parentDesc: "John C. Vining and Kathryn V[&#8230;]"
+head:
+  givenName: Justin C.
+  birth:
+    date: age 74 y. at death
+    place: "Lower Merion, New Jersey"
+  death:
+    date: 11 February 2020
+marriages:
+  - spouse:
+      givenName: Margaret Mary
+      surname: Jordan
+      parents: "(dau. of Vincent Jordan and Agnes [&#8230;])"
+      birth:
+        date: age 75 y. at death
+        place: "Philadelphia, Pennsylvania"
+      death:
+        date: 8 February 2020
+childrenGroups:
+  - children:
+      - name: John C. Vining II
+        marriages:
+          - date: "Nichole [&#8230;]"
+      - name: Colleen Vining
+        birth:
+          date: age 42 y. at death
+        death:
+          date: 24 March 2020
+      - name: Justin Vining Jr.
+docsUrl: Jsources/JustinC01doc.htm
+raw: |-
+  <a name="JustinC01"></a><font size=+2>Justin C. Vining</font>
+     (son of <a href="#JohnC04">John C. Vining and Kathryn V[&#8230;]</a>)
+     b. age 74 y. at death   Lower Merion, New Jersey
+     m. Margaret Mary Jordan
+              (dau. of Vincent Jordan and Agnes [&#8230;])
+              b. age 75 y. at death   Philadelphia, Pennsylvania
+              d. 8 February 2020
+     d. 11 February 2020
+  
+  <font size=+1>children:</font>
+     John C. Vining II   m. Nichole [&#8230;]
+     Colleen Vining   b. age 42 y. at death   -   d. 24 March 2020
+     Justin Vining Jr.
+  
+  <a href="Jsources/JustinC01doc.htm">documentation and notes</a>

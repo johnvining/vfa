@@ -1,0 +1,52 @@
+id: PaulE01
+title: Paul Edward Vining - (1) Lucille Marie King; (2) Goldie [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Paul Edward Vining
+          values:
+            - "30"
+        - label: Lucille Marie (King) Vining
+          values:
+            - "23"
+        - label: Goldie ([...]) Vining
+          values:
+            - ""
+        - label: daughter Vining
+          values:
+            - dead
+          indent: true
+        - label: "[?] Vining"
+          values:
+            - "3"
+          indent: true
+        - label: Dale Vining
+          values:
+            - ""
+          indent: true
+        - label: Terry Vining
+          values:
+            - ""
+          indent: true
+        - label: Gerald Lynn Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Jefferson Township, Washington County, Oklahoma
+        images:
+          - src: PaulE01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Paul Edward Vining:"
+        images:
+          - src: PaulE01obituary.jpg
+      - caption: >-
+          Gravestone for Paul Edward Vining, in Mount Hope Cemetery, Webb City, Jasper County, Missouri (from Find A
+          Grave):
+        images:
+          - src: PaulE01gravestone.jpg

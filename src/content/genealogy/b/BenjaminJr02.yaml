@@ -1,0 +1,65 @@
+id: BenjaminJr02
+letter: B
+sequence: 22
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Benjamin01
+parentLetter: B
+parentDesc: Benjamin Vining and Hannah Pratt
+head:
+  givenName: Benjamin Jr.
+  birth:
+    date: 14 June 1747
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: 18 March 1835
+    place: "Abington, Plymouth County, Massachusetts"
+marriages:
+  - date: 20 November 1782
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Chloe
+      surname: Lane
+childrenGroups:
+  - children:
+      - name: Alexander Vining
+        entryId: Alexander02
+        entryLetter: A
+        birth:
+          date: 26 April 1785
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 3 February 1807
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Abigail Whiton
+          - number: 2
+            date: int. 16 October 1814
+            spouse: "Mary &#8220;Polly&#8221; Jacobs"
+        death:
+          date: 27 October 1818
+        burial:
+          place: "Old Town Cemetery   Rockland, Plymouth County, Massachusetts"
+      - name: Chloe Vining
+        birth:
+          date: 4 April 1787
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: 8 June 1811
+          place: "Abington, Plymouth County, Massachusetts"
+        burial:
+          place: "Old Town Cemetery   Rockland, Massachusetts"
+docsUrl: Bsources/BenjaminJr02doc.htm
+raw: |-
+  <a name="BenjaminJr02"></a><font size=+2>Benjamin Vining Jr.</font>
+     (son of <a href="#Benjamin01">Benjamin Vining and Hannah Pratt</a>)
+     b. 14 June 1747   Weymouth, Norfolk County, Massachusetts
+     m. 20 November 1782   Abington, Plymouth County, Massachusetts
+           Chloe Lane
+     d. 18 March 1835   Abington, Plymouth County, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#Alexander02">Alexander Vining</a>   b. 26 April 1785   Abington, Plymouth County, Massachusetts   -   m. (1) 3 February 1807   Abington, Plymouth County, Massachusetts   Abigail Whiton;   (2) int. 16 October 1814   Mary &#8220;Polly&#8221; Jacobs   -   d. 27 October 1818   -   bur Old Town Cemetery   Rockland, Plymouth County, Massachusetts
+     Chloe Vining   b. 4 April 1787   Abington, Plymouth County, Massachusetts   -   d. 8 June 1811   Abington, Plymouth County, Massachusetts   -   bur. Old Town Cemetery   Rockland, Massachusetts
+  
+  <a href="Bsources/BenjaminJr02doc.htm">documentation and notes</a>

@@ -1,0 +1,44 @@
+id: DesmondL01
+sequence: 65
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WilliamM03
+parentLetter: W
+parentDesc: William Minor Vining and Florence Velda Wonnacott
+head:
+  givenName: Desmond Lynn
+  birth:
+    date: 20 November 1926
+  death:
+    date: 19 December 1977
+marriages:
+  - spouse:
+      givenName: Barbara Ruth
+      surname: Carey
+      birth:
+        date: 5 November 1928
+      death:
+        date: 13 September 2012
+childrenGroups:
+  - children:
+      - name: Carol Vining
+        birth:
+          date: 12 May 1956
+        marriages:
+          - spouse: Carl Rummer
+      - name: Gary Walter Vining
+        birth:
+          date: 22 June 1959
+raw: |-
+  <a name="DesmondL01"></><font size=+2>Desmond Lynn Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamM03">William Minor Vining and Florence Velda Wonnacott</a>)
+     b. 20 November 1926
+     m. Barbara Ruth Carey
+              b. 5 November 1928
+              d. 13 September 2012
+     d. 19 December 1977
+
+  <font size=+1>children:</font>
+     Carol Vining   b. 12 May 1956   -   m. Carl Rummer
+     Gary Walter Vining   b. 22 June 1959

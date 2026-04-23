@@ -1,0 +1,38 @@
+id: NathanielH02
+title: Nathaniel Hanson Vining - Elsie Baird
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Nathaniel Hanson Vining
+          values:
+            - "31"
+        - label: Elsie (Baird) Vining
+          values:
+            - "24"
+        - label: Anna Patricia Vining
+          values:
+            - "8"
+          indent: true
+        - label: Jacqueline M. Vining
+          values:
+            - "6"
+          indent: true
+        - label: Helen N. Vining
+          values:
+            - "4"
+          indent: true
+        - label: Clifford Harold Vining
+          values:
+            - "3"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          St. Albans, Somerset County, Maine. Also living in this household in 1940 were Charles Frost ([28?] y., b.
+          Maine, hired hand) and Millard Blake (62 y., b. Maine, lodger).
+        images:
+          - src: NathanielH02census1940a.jpg
+          - src: NathanielH02census1940b.jpg

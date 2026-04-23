@@ -1,0 +1,77 @@
+id: JohnM03
+sequence: 249
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jeremiah02
+parentDesc: Jeremiah Vining and Emily Lacock
+head:
+  givenName: John M.
+  birth:
+    date: 17 July 1848
+    place: Michigan
+  death:
+    date: 28 December 1907
+    place: "Romulus, Wayne County, Michigan"
+  burial:
+    place: "Romulus Memorial Cemetery   Romulus, Wayne County, Michigan"
+marriages:
+  - spouse:
+      givenName: Emily M.
+      surname: Collard
+      parents: (dau. of Michael Collard and Ester Whitehead)
+      birth:
+        date: August 1847
+        place: Michigan
+      death:
+        date: 21 February 1940
+        place: "Wayne, Wayne County, Michigan"
+childrenGroups:
+  - children:
+      - name: Jessie I. Vining
+        birth:
+          date: 9 August 1868
+          place: Michigan
+        marriages:
+          - date: Amos Spencer
+        death:
+          date: "1960"
+      - name: Rosie May Vining
+        birth:
+          date: 15 December 1868
+          place: "Romulus, Wayne County, Michigan"
+      - name: Rosella E. Vining
+        birth:
+          date: 1 February 1870
+          place: "New Haven, Whiawassee County, Michigan"
+        death:
+          date: "1944"
+          place: "New Haven, Shiawassee County, Michigan"
+      - name: Maud Carrie Vining
+        birth:
+          date: 25 February 1872
+          place: Michigan
+        marriages:
+          - date: Benjamin Franklin Castle
+        death:
+          date: 14 February 1952
+          place: "Ypsilanti, Washtenaw County, Michigan"
+docsUrl: Jsources/JohnM03doc.htm
+raw: |-
+  <a name="JohnM03"></a><font size=+2>John M. Vining</font>
+     (son of <a href="#Jeremiah02">Jeremiah Vining and Emily Lacock</a>)
+     b. 17 July 1848   Michigan
+     m. Emily M. Collard
+              (dau. of Michael Collard and Ester Whitehead)
+              b. August 1847   Michigan
+              d. 21 February 1940   Wayne, Wayne County, Michigan
+     d. 28 December 1907   Romulus, Wayne County, Michigan
+           bur. Romulus Memorial Cemetery   Romulus, Wayne County, Michigan
+  
+  <font size=+1>children:</font>
+     Jessie I. Vining   b. 9 August 1868   Michigan   -   m. Amos Spencer   -   d. 1960
+     Rosie May Vining   b. 15 December 1868   Romulus, Wayne County, Michigan
+     Rosella E. Vining   b. 1 February 1870   New Haven, Whiawassee County, Michigan   -   d. 1944   New Haven, Shiawassee County, Michigan
+     Maud Carrie Vining   b. 25 February 1872   Michigan   -   m. Benjamin Franklin Castle   -   d. 14 February 1952   Ypsilanti, Washtenaw County, Michigan
+  
+  <a href="Jsources/JohnM03doc.htm">documentation and notes</a>

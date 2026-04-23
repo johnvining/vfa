@@ -1,0 +1,79 @@
+id: WilliamT01
+sequence: 137
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John15
+parentLetter: J
+parentDesc: John Vining and Elvira Harris Shelton
+head:
+  givenName: William Thomas
+  birth:
+    date: 1 February 1829
+    place: Alabama
+  death:
+    date: 7 July 1866
+    place: "Cumberland County, Kentucky"
+  burial:
+    place: "Vining Cemetery   Cumberland County, Kentucky"
+marriages:
+  - spouse:
+      givenName: Jane
+      surname: Hunter
+      parents: "(dau. of Micajah Sutton Hunter and Nancy Weatherly)"
+      birth:
+        date: 21 March 1832
+        place: "Cumberland County, Kentucky"
+      death:
+        date: 17 July 1869
+        place: "Burkesville, Cumberland County, Kentucky"
+      burial:
+        place: "Vining Cemetery   Cumberland County, Kentucky"
+childrenGroups:
+  - children:
+      - name: "Micajah Sutton &#8220;Cage&#8221; Vining"
+        birth:
+          date: "1849"
+          place: "Amandaville, Cumberland County, Kentucky"
+        marriages:
+          - date: Lucinda Jones
+        death:
+          date: February 1890
+          place: "Cooke County, Texas"
+      - name: "Nancy Evaline &#8220;Eva&#8221; Vining"
+        birth:
+          date: 9 December 1861
+          place: "Burkesville, Cumberland County, Kentucky"
+        marriages:
+          - date: William A. Egbert
+        death:
+          date: 22 February 1928
+          place: "Cooke, Texas"
+      - name: Elvira Harris Vining
+        birth:
+          date: 9 August 1864
+          place: "Cumberland County, Kentucky"
+        death:
+          date: 27 August 1864
+          place: "Cumberland County, Kentucky"
+        burial:
+          place: "Vining Cemetery   Cumberland County, Kentucky"
+docsUrl: Wsources/WilliamT01doc.htm
+raw: |-
+  <a name="WilliamT01"></a><font size=+2>William Thomas Vining</font>
+     (son of <a href="Jfamilies.htm#John15">John Vining and Elvira Harris Shelton</a>)
+     b. 1 February 1829   Alabama
+     m. Jane Hunter
+              (dau. of Micajah Sutton Hunter and Nancy Weatherly)
+              b. 21 March 1832   Cumberland County, Kentucky
+              d. 17 July 1869   Burkesville, Cumberland County, Kentucky
+                    bur. Vining Cemetery   Cumberland County, Kentucky
+     d. 7 July 1866   Cumberland County, Kentucky
+           bur. Vining Cemetery   Cumberland County, Kentucky
+  
+  <font size=+1>children:</font>
+     Micajah Sutton &#8220;Cage&#8221; Vining   b. 1849   Amandaville, Cumberland County, Kentucky   -   m. Lucinda Jones   -   d. February 1890   Cooke County, Texas
+     Nancy Evaline &#8220;Eva&#8221; Vining   b. 9 December 1861   Burkesville, Cumberland County, Kentucky   -   m. William A. Egbert   -   d. 22 February 1928   Cooke, Texas
+     Elvira Harris Vining   b. 9 August 1864   Cumberland County, Kentucky   -   d. 27 August 1864   Cumberland County, Kentucky   -   bur. Vining Cemetery   Cumberland County, Kentucky
+  
+  <a href="Wsources/WilliamT01doc.htm">documentation and notes</a>

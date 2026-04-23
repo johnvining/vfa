@@ -1,0 +1,78 @@
+id: CharlesEL01
+letter: C
+sequence: 63
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MosesP01
+parentLetter: M
+parentDesc: "Moses P. Vining and Clarinda [Baggs or Briggs?]"
+head:
+  givenName: Charles Ernest Lindel
+  birth:
+    date: 21 December 1867
+    place: "West Gardiner, Kennebec County, Maine"
+  death:
+    date: 14 February 1921
+    place: "Farmington, Maine"
+  burial:
+    place: "Wilton, Maine"
+marriages:
+  - date: 9 January 1890
+    spouse:
+      givenName: Jennie Louise
+      surname: Marston
+      birth:
+        date: 7 May 1871
+        place: "North Yarmouth, Cumberland County, Maine"
+      death:
+        date: 16 December 1957
+      burial:
+        place: "Riverside Cemetery   Yarmouth, Cumberland County, Maine"
+childrenGroups:
+  - children:
+      - name: Oena Gray Vining
+        birth:
+          date: 19 August 1891
+          place: "Wilton, Franklin County, Maine"
+      - name: Vance C. Vining
+        birth:
+          date: 14 August 1893
+          place: "Wilton, Franklin County, Maine"
+        death:
+          date: 9 March 1896
+          place: "Wilton, Franklin County, Maine"
+        burial:
+          place: "Lakeview Cemetery   Wilton, Franklin Dounty, Maine"
+      - name: Philip Loring Vining
+        entryId: PhilipL01
+        entryLetter: P
+        birth:
+          date: 21 July 1899
+          place: "Wilton, Franklin County, Maine"
+        marriages:
+          - date: 27 July 1921
+            place: "Sackville, Westmorland County, New Brunswick, Canada"
+        death:
+          date: 29 April 1991
+          place: "Yarmouth, Cumberland County, Maine"
+        burial:
+          place: "Riverside Cemetery   Yarmouth, Cumberland County, Maine"
+docsUrl: Csources/CharlesEL01doc.htm
+raw: |-
+  <a name="CharlesEL01"></a><font size=+2>Charles Ernest Lindel Vining</font>
+     (son of <a href="Mfamilies.htm#MosesP01">Moses P. Vining and Clarinda [Baggs or Briggs?]</a>)
+     b. 21 December 1867   West Gardiner, Kennebec County, Maine
+     m. 9 January 1890
+           Jennie Louise Marston
+                 b. 7 May 1871   North Yarmouth, Cumberland County, Maine
+                 d. 16 December 1957
+                       bur. Riverside Cemetery   Yarmouth, Cumberland County, Maine
+     d. 14 February 1921   Farmington, Maine
+           bur. Wilton, Maine
+  
+  <font size=+1>children:</font>
+     Oena Gray Vining   b. 19 August 1891   Wilton, Franklin County, Maine
+     Vance C. Vining   b. 14 August 1893   Wilton, Franklin County, Maine   -   d. 9 March 1896   Wilton, Franklin County, Maine   -   bur. Lakeview Cemetery   Wilton, Franklin Dounty, Maine
+     <a href="Pfamilies.htm#PhilipL01">Philip Loring Vining</a>   b. 21 July 1899   Wilton, Franklin County, Maine   -   m. 27 July 1921   Sackville, Westmorland County, New Brunswick, Canada   -   d. 29 April 1991   Yarmouth, Cumberland County, Maine   -   bur. Riverside Cemetery   Yarmouth, Cumberland County, Maine
+  
+  <a href="Csources/CharlesEL01doc.htm">documentation and notes</a>

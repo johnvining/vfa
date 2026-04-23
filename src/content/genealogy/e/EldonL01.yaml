@@ -1,0 +1,45 @@
+id: EldonL01
+sequence: 68
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Howard01
+parentLetter: H
+parentDesc: Howard Vining and Minnie Mae Nelson
+head:
+  givenName: Eldon Lowell
+  birth:
+    date: 11 April 1936
+    place: "Pomeroy, Meigs County, Ohio"
+  death:
+    date: 20 November 2018
+    place: "Gallipolis, Gallia County, Ohio"
+  burial:
+    place: "Miles Cemetery   Rutland, Meigs County, Ohio"
+marriages:
+  - date: 20 August 1956
+    spouse:
+      givenName: Wanda
+      surname: Graham
+childrenGroups:
+  - headingText: child
+    children:
+      - name: "Vickie Vining   [b. and?]"
+        death:
+          date: 1 November 1956
+        burial:
+          place: "Miles Cemetery   Rutland, Ohio"
+docsUrl: Esources/EldonL01doc.htm
+raw: |-
+  <a name="EldonL01"></a><font size=+2>Eldon Lowell Vining</font>
+     (son of <a href="Hfamilies.htm#Howard01">Howard Vining and Minnie Mae Nelson</a>)
+     b. 11 April 1936   Pomeroy, Meigs County, Ohio
+     m. 20 August 1956
+           Wanda Graham
+     d. 20 November 2018   Gallipolis, Gallia County, Ohio
+           bur. Miles Cemetery   Rutland, Meigs County, Ohio 
+  
+  <font size=+1>child:</font>
+     Vickie Vining   [b. and?] d. 1 November 1956   -   bur. Miles Cemetery   Rutland, Ohio
+  
+  <a href="Esources/EldonL01doc.htm">documentation and notes</a>

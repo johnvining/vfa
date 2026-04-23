@@ -1,0 +1,145 @@
+id: DavidH01
+sequence: 45
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: DavidJr02
+parentDesc: David Vining Jr. and Hannah Husted
+head:
+  givenName: David H.
+  birth:
+    date: 25 November 1814
+    place: "Cairo, New York"
+  death:
+    date: 5 August 1894
+    place: "Lake City, Minnesota"
+  burial:
+    place: "Vining Cemetery   Florence, Minnesota"
+marriages:
+  - number: 1
+    date: 1 June 1839
+    place: "Palmyra, Pennsylvania"
+    spouse:
+      givenName: Rocksy Susan
+      surname: Edwards
+      birth:
+        date: "1819"
+        place: Pennsylvania
+      death:
+        date: 15 January 1874
+      burial:
+        place: "Vining Cemetery   Florence, Minnesota"
+  - number: 2
+    date: "1879"
+    spouse:
+      givenName: Mrs. Amanda
+      surname: McNeal
+      birth:
+        date: age 56 y. as of 1880 census
+        place: New York
+childrenGroups:
+  - spouseRef: Rocksy Susan Edwards
+    children:
+      - name: Edward Milton Vining
+        entryId: EdwardM01
+        entryLetter: E
+        birth:
+          date: June 1841
+          place: "Palmyra, Pennsylvania"
+        marriages:
+          - date: 25 December 1866
+            place: "Redwing, Minnesota"
+            spouse: "[Adelia or Adella?] D. Garrity"
+        death:
+          date: "1904 [3 October"
+          place: "McHenry, North Dakota ?]"
+        burial:
+          place: "Lakewood Cemetery   Lake City, Minnesota"
+      - name: Phoebe Jane Vining
+        birth:
+          date: age 4 y. as of 1857 census
+          place: "Palmyra, Pennsylvania"
+        marriages:
+          - date: "Beaconsfield, Iowa"
+            spouse: John Thorpe
+      - name: Horace Oscar Vining
+        entryId: HoraceO01
+        entryLetter: H
+        birth:
+          date: 27 February 1847
+          place: "Palmyra, Pennsylvania"
+        marriages:
+          - spouse: Martha Harrison Chapman
+        death:
+          date: 19 November 1885
+        burial:
+          place: "Vining Cemetery   Florence, Minnesota"
+      - name: George Washington Vining
+        entryId: GeorgeW04
+        entryLetter: G
+        birth:
+          date: 21 December 1850
+          place: "Palmyra, Pennsylvania"
+        marriages:
+          - date: 8 December 1871
+            place: "Pepin, Wisconsin"
+            spouse: Eleanor Adelaide Lampman
+        death:
+          date: 19 August 1907
+          place: Minnesota
+      - name: Alonzo E. Vining
+        birth:
+          date: age 4 y. as of 1857 census
+          place: Pennsylvania
+      - name: Eleanor E. Vining
+        birth:
+          date: age 5 y. as of 1860 census
+          place: Pennsylvania
+        marriages:
+          - date: 3 August 1876
+            place: "Lake City, Minnesota"
+            spouse: Guy Reynolds
+      - name: Otis A. Vining
+        birth:
+          date: February 1855
+          place: "Palmyra, Pennsylvania"
+        death:
+          date: 8 November 1874
+          place: "Florence, Minnesota"
+        burial:
+          place: "Vining Cemetery   Florence, Minnesota"
+      - name: Charles D. Vining
+        birth:
+          date: July 1858
+          place: "Florence, Minnesota"
+        death:
+          date: 19 April 1861
+        burial:
+          place: "Vining Cemetery  Florence, Minnesota"
+docsUrl: Dsources/DavidH01doc.htm
+raw: |-
+  <a name="DavidH01"></a><font size=+2>David H. Vining</font>
+     (son of <a href="#DavidJr02">David Vining Jr. and Hannah Husted</a>)
+     b. 25 November 1814   Cairo, New York
+     m. (1) 1 June 1839   Palmyra, Pennsylvania
+                 Rocksy Susan Edwards
+                       b. 1819   Pennsylvania
+                       d. 15 January 1874
+                             bur. Vining Cemetery   Florence, Minnesota
+           (2) 1879
+                 Mrs. Amanda McNeal
+                       b. age 56 y. as of 1880 census   New York
+     d. 5 August 1894   Lake City, Minnesota
+           bur. Vining Cemetery   Florence, Minnesota
+  
+  <font size=+1>children by Rocksy Susan Edwards:</font>
+     <a href="Efamilies.htm#EdwardM01">Edward Milton Vining</a>   b. June 1841   Palmyra, Pennsylvania   -   m. 25 December 1866   Redwing, Minnesota   [Adelia or Adella?] D. Garrity   -   d. 1904 [3 October   McHenry, North Dakota ?]   -   bur. Lakewood Cemetery   Lake City, Minnesota
+     Phoebe Jane Vining   b. age 4 y. as of 1857 census   Palmyra, Pennsylvania   -   m. Beaconsfield, Iowa   John Thorpe
+     <a href="Hfamilies.htm#HoraceO01">Horace Oscar Vining</a>   b. 27 February 1847   Palmyra, Pennsylvania   -   m. Martha Harrison Chapman   -   d. 19 November 1885   -   bur. Vining Cemetery   Florence, Minnesota
+     <a href="Gfamilies.htm#GeorgeW04">George Washington Vining</a>   b. 21 December 1850   Palmyra, Pennsylvania   -   m. 8 December 1871   Pepin, Wisconsin   Eleanor Adelaide Lampman   -   d. 19 August 1907   Minnesota
+     Alonzo E. Vining   b. age 4 y. as of 1857 census   Pennsylvania   
+     Eleanor E. Vining   b. age 5 y. as of 1860 census   Pennsylvania   -   m. 3 August 1876   Lake City, Minnesota   Guy Reynolds
+     Otis A. Vining   b. February 1855   Palmyra, Pennsylvania   -   d. 8 November 1874   Florence, Minnesota   -   bur. Vining Cemetery   Florence, Minnesota
+     Charles D. Vining   b. July 1858   Florence, Minnesota   -   d. 19 April 1861   -   bur. Vining Cemetery  Florence, Minnesota
+  
+  <a href="Dsources/DavidH01doc.htm">documentation and notes</a>

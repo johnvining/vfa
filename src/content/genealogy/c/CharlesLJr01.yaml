@@ -1,0 +1,52 @@
+id: CharlesLJr01
+letter: C
+sequence: 83
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesL02
+parentDesc: "Charles Leroy Vining and [&#8230;]"
+head:
+  givenName: Charles Leroy Jr.
+  birth:
+    date: 28 September 1935
+    place: "East Carroll Parish, Louisiana"
+  death:
+    date: 30 November 2003
+    place: "West Monroe, Louisiana"
+  burial:
+    place: "Providence Memorial Park   Lake Providence, Louisiana"
+marriages:
+  - spouse:
+      givenName: Reta
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Vicki Vining
+        marriages:
+          - date: John Edward Baker
+      - name: Charles Leroy Vining III
+        marriages:
+          - date: "Bobbie [&#8230;]"
+      - name: Richard Vining
+        marriages:
+          - date: "Jeanie [&#8230;]"
+      - name: Greg Vining
+        marriages:
+          - date: Crystal Paris
+      - name: Sheila Vining
+        marriages:
+          - date: Mark Caballero
+raw: |-
+  <a name="CharlesLJr01"></a><font size=+2>Charles Leroy Vining Jr.</font>
+     (son of <a href="#CharlesL02">Charles Leroy Vining and [&#8230;]</a>)
+     b. 28 September 1935   East Carroll Parish, Louisiana
+     m. Reta [&#8230;]
+     d. 30 November 2003   West Monroe, Louisiana
+           bur. Providence Memorial Park   Lake Providence, Louisiana
+  
+  <font size=+1>children:</font>
+     Vicki Vining   m. John Edward Baker
+     Charles Leroy Vining III   m. Bobbie [&#8230;]
+     Richard Vining   m. Jeanie [&#8230;]
+     Greg Vining   m. Crystal Paris
+     Sheila Vining   m. Mark Caballero

@@ -1,0 +1,64 @@
+id: John26
+sequence: 176
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+  birth:
+    date: age 32 y. as of 1850 census
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Catharine
+      surname: "[...]"
+      birth:
+        date: age 34 y. as of 1850 census
+        place: Virginia
+childrenGroups:
+  - children:
+      - name: Sarah Vining
+        birth:
+          date: age 17 y. as of 1850 census
+          place: Virginia
+      - name: "Carol[ten?] Vining"
+        birth:
+          date: age 15 y. as of 1850 census
+          place: Virginia
+      - name: Jacob Vining
+        entryId: Jacob01
+        birth:
+          date: May 1842
+          place: Illinois
+        marriages:
+          - date: "Mary [...]"
+      - name: Mary Jane Vining
+        birth:
+          date: age 6 y. as of 1850 census
+          place: Illinois
+      - name: William Vining
+        birth:
+          date: age 5 y. as of 1850 census
+          place: Illinois
+      - name: Adeline Vining
+        birth:
+          date: age 3 y. as of 1850 census
+          place: Illinois
+docsUrl: Jsources/John26doc.htm
+raw: |-
+  <a name="John26"></a><font size=+2>John Vining</font>
+     (son of [?])
+     b. age 32 y. as of 1850 census   Ohio
+     m. Catharine [...]
+              b. age 34 y. as of 1850 census   Virginia
+  
+  <font size=+1>children:</font>
+     Sarah Vining   b. age 17 y. as of 1850 census   Virginia
+     Carol[ten?] Vining   b. age 15 y. as of 1850 census   Virginia
+     <a href="#Jacob01">Jacob Vining</a>   b. May 1842   Illinois   -   m. Mary [...]
+     Mary Jane Vining   b. age 6 y. as of 1850 census   Illinois
+     William Vining   b. age 5 y. as of 1850 census   Illinois
+     Adeline Vining   b. age 3 y. as of 1850 census   Illinois
+  
+  <a href="Jsources/John26doc.htm">documentation and notes</a>

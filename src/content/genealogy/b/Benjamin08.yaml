@@ -1,0 +1,40 @@
+id: Benjamin08
+letter: B
+sequence: 21
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Benjamin09
+parentDesc: "Benjamin Vining and [Lula or Louise ?] [McDaniel or McDonald ?]"
+head:
+  givenName: Benjamin
+  birth:
+    date: age 14 y. as of 1910 census
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: Belma
+      surname: "[&#8230;]"
+      birth:
+        date: age 27 y. as of 1930 census
+        place: Louisiana
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Loretta Vining
+        birth:
+          date: age 11 y. as of 1930 census
+          place: Illinois
+        marriages:
+          - date: "[&#8230;] King"
+docsUrl: Bsources/Benjamin08doc.htm
+raw: |-
+  <a name="Benjamin08"></a><font size=+2>Benjamin Vining</font>
+     (son of <a href="#Benjamin09">Benjamin Vining and [Lula or Louise ?] [McDaniel or McDonald ?]</a>)
+     b. age 14 y. as of 1910 census   Louisiana
+     m. Belma [&#8230;]
+              b. age 27 y. as of 1930 census   Louisiana
+  
+  <font size=+1>child:</font>
+     Loretta Vining   b. age 11 y. as of 1930 census   Illinois   -   m. [&#8230;] King
+  
+  <a href="Bsources/Benjamin08doc.htm">documentation and notes</a>

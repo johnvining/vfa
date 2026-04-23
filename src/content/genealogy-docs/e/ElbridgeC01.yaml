@@ -1,0 +1,63 @@
+id: ElbridgeC01
+title: Elbridge C. Vining - (1) Mary Bunker, (2) Patience Watson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Elbridge C. Vining
+          values:
+            - "35"
+            - "43"
+            - "53"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary (Bunker) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Patience (Watson) Vining
+          values:
+            - ""
+            - ""
+            - "57"
+            - "?"
+            - "?"
+            - "?"
+        - label: Abbie Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Rochester, Strafford County, New Hampshire - dwelling 556, family 634. In 1860 Elbridge was single and living
+          in a boarding house while working as a carder.
+        images:
+          - src: ElbridgeC01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Berwick,York County, Maine - dwelling 182, family 198. Also living in this household in 1870 was Martha Vining
+          (mother of Elbridge, 70 y., b. Maine).
+        images:
+          - src: ElbridgeC01census1870.jpg
+      - year: "1880"
+        caption: Rochester, Strafford County, New Hampshire - dwelling 64, family 71
+        images:
+          - src: ElbridgeC01census1880.jpg

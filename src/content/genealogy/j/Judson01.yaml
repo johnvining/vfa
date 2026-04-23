@@ -1,0 +1,88 @@
+id: Judson01
+sequence: 330
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ebed01
+parentLetter: E
+parentDesc: "Ebed Vining and Abigail &#8220;Nabby&#8221; Curtis"
+head:
+  givenName: Judson
+  birth:
+    date: 15 March 1805
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 4 November 1867
+  burial:
+    place: "Hanover Center Cemetery   Hanover, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Sarah W.
+      surname: Briggs
+      parents: "(dau. of Ezra Briggs and Lydia Southward)"
+      birth:
+        date: 3 September 1803
+        place: "Hanover, Plymouth County, Massachusetts"
+      death:
+        date: 28 December 1878
+        place: "Hanover, Plymouth County, Massachusetts"
+      burial:
+        place: "Hanover Center Cemetery   Hanover, Massachusetts"
+childrenGroups:
+  - children:
+      - name: William Judson Vining
+        entryId: WilliamJ02
+        entryLetter: W
+        birth:
+          date: 2 April 1826
+          place: "Hanover, Plymouth County, Massachusetts"
+        marriages:
+          - date: Mercy Turner Bates
+        death:
+          date: 20 April 1904
+          place: "Hanover, Plymouth County, Massachusetts"
+      - name: Thomas J. Vining
+        birth:
+          date: 18 June 1828
+          place: Massachusetts
+        death:
+          date: 16 July 1864
+        burial:
+          place: "Hanover Center Cemetery   Hanover, Massachusetts"
+      - name: Sallie Briggs Vining
+        birth:
+          date: 5 October 1831
+          place: "Hanover, Plymouth County, Massachusetts"
+        marriages:
+          - date: Lucius Curtis Whiting
+        death:
+          date: 2 June 1887
+          place: Massachusetts
+      - name: Lydia Southworth Vining
+        birth:
+          date: 22 October 1834
+          place: Massachusetts
+        death:
+          date: "[6 or 5?] May 1915"
+        burial:
+          place: "Hanover Center Cemetery   Hanover, Massachusetts"
+docsUrl: Jsources/Judson01doc.htm
+raw: |-
+  <a name="Judson01"></a><font size=+2>Judson Vining</font>
+     (son of <a href="Efamilies.htm#Ebed01">Ebed Vining and Abigail &#8220;Nabby&#8221; Curtis</a>)
+     b. 15 March 1805   Abington, Plymouth County, Massachusetts
+     m. Sarah W. Briggs
+              (dau. of Ezra Briggs and Lydia Southward)
+              b. 3 September 1803   Hanover, Plymouth County, Massachusetts
+              d. 28 December 1878   Hanover, Plymouth County, Massachusetts
+                    bur. Hanover Center Cemetery   Hanover, Massachusetts
+     d. 4 November 1867
+           bur. Hanover Center Cemetery   Hanover, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamJ02">William Judson Vining</a>   b. 2 April 1826   Hanover, Plymouth County, Massachusetts   -   m. Mercy Turner Bates   -   d. 20 April 1904   Hanover, Plymouth County, Massachusetts
+     Thomas J. Vining   b. 18 June 1828   Massachusetts   -   d. 16 July 1864   -   bur. Hanover Center Cemetery   Hanover, Massachusetts
+     Sallie Briggs Vining   b. 5 October 1831   Hanover, Plymouth County, Massachusetts   -   m. Lucius Curtis Whiting   -   d. 2 June 1887   Massachusetts
+     Lydia Southworth Vining   b. 22 October 1834   Massachusetts   -   d. [6 or 5?] May 1915   -   bur. Hanover Center Cemetery   Hanover, Massachusetts
+  
+  <a href="Jsources/Judson01doc.htm">documentation and notes</a>

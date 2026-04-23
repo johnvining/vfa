@@ -1,0 +1,142 @@
+id: Reuben03
+title: Reuben Vining - Nancy [Averatt or Avera?]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+      rows:
+        - label: Reuben Vining
+          values:
+            - M 16–26
+            - M 30–30
+            - "?"
+            - "?"
+            - "61"
+            - "?"
+            - "81"
+        - label: Nancy ([Averatt or Avera?]) Vining
+          values:
+            - ""
+            - F 20–30
+            - "?"
+            - "?"
+            - "61"
+            - "?"
+            - "[dead?]"
+        - label: Rebecca Vining
+          values:
+            - ""
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: David Vining
+          values:
+            - ""
+            - M under 5
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Susanna Vining
+          values:
+            - ""
+            - living in separate household
+            - ""
+            - ""
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: John [H.?] Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - |-
+              49
+              [see note below]
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Elijah B. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Nancy Dorenthan Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "18"
+            - "?"
+            - ""
+          indent: true
+        - label: Georgia Ann Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "15"
+            - "?"
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: "[no township listed], Putnam County, Georgia"
+        images:
+          - src: Reuben03census1820.jpg
+      - year: "1830"
+        caption: >-
+          [no township listed], Putnam County, Georgia - Also living with this household in 1830 were 6 slaves: 2 males
+          under 10, 2 males "of 24 and under 36", 1 female under 10, and 1 female "of 24 and under 36". More research is
+          needed to determine the composition of this household in 1830.
+        images:
+          - src: Reuben03census1830.jpg
+      - year: "1860"
+        caption: Eastern Division (Bibb post office), Pike County, Georgia - dwelling 934, family 945
+        images:
+          - src: Reuben03census1860.jpg
+      - year: "1880"
+        caption: Commissioners Precinct 3 and 4, Duval County, Texas - dwelling 57, family 60
+        images:
+          - src: Reuben03census1880.jpg
+  - type: other
+    heading: Land Ownership
+    text: >-
+      (from Cherokee County [Texas] History, publication date not given):
+
+
+      “The first Vining deeds recorded in Murray County [Georgia], were to Reuben Vining of Putnam County [Georgia]. He
+      did not remain in the county long, but emigrated to Alabama and then to Duval Co., Tex.” (p. 574.)

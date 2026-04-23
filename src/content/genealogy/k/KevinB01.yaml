@@ -1,0 +1,29 @@
+id: KevinB01
+letter: K
+sequence: 29
+lastUpdated: 24 July 2022
+relationship: son
+parentId: DavidB01
+parentLetter: D
+parentDesc: David Burchim Vining and Beatrice Orins
+head:
+  givenName: Kevin Brian
+  birth:
+    date: 26 July 1957
+marriages:
+  - spouse:
+      givenName: Luann
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Cody Vining
+      - name: Cory Jo Vining
+raw: |-
+  <a name="KevinB01"></a><font size=+2>Kevin Brian Vining</font>
+     (son of <a href="Dfamilies.htm#DavidB01">David Burchim Vining and Beatrice Orins</a>)
+     b. 26 July 1957
+     m. Luann [...]
+  
+  <font size=+1>children:</font>
+     Cody Vining
+     Cory Jo Vining

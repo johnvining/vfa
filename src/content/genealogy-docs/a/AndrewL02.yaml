@@ -1,0 +1,35 @@
+id: AndrewL02
+title: Andrew Lee Otis Vining - Elizabeth E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Andrew Lee Otis Vining
+          values:
+            - "41"
+        - label: Elizabeth E. ([...]) Vining
+          values:
+            - "28"
+        - label: Otis C. Vining
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Kelso City, Cowlitz County, Washington
+        images:
+          - src: AndrewL02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Andrew Lee Otis Vining and Elizabeth E. ([...]) Vining, in Woodbine Cemetery, Ranier Columbia
+          County, Oregon (from Find A Grave):
+        images:
+          - src: AndrewL02andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Otis C. Vining, son of Andrew Lee Otis Vining and Elizabeth E. ([...]) Vining, in Woodbine
+          Cemetery, Ranier, Columbia County, Oregon (from Find A Grave):
+        images:
+          - src: AndrewL02sonOtisgravestone.jpg

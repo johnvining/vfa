@@ -1,0 +1,101 @@
+id: Lafayette01
+title: Lafayette Vining - Phebe [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Lafayette Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - "?"
+            - "?"
+            - "?"
+        - label: Phebe ([...]) Vining
+          values:
+            - "27"
+            - "37"
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+        - label: "[Elizabeth C. or Elmira E. ?] Vining"
+          values:
+            - 4 [Elizabeth C.]
+            - 14 [Elmira E.]
+            - 24 [Elizabeth]
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ellis O. Vining
+          values:
+            - "2"
+            - "12"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Elmer John Vining
+          values:
+            - |-
+              3/4 y.
+              [see note below]
+            - "10"
+            - "20"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Ida May Vining
+          values:
+            - ""
+            - "8"
+            - "17"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Sarah Viola Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: William Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - single and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          Porter Township, Delaware County, Ohio - dwelling 1336, family 1342. The “unnamed” child in 1860 was referred
+          to in the 1880 census as “John Elmer”, but his gravestone reads “Elmer J.”. His birth certificate is needed to
+          clarify this matter.
+        images:
+          - src: Lafayette01census1860.jpg
+      - year: "1870"
+        caption: Porter Township, Delaware County, Ohio - dwelling 10, family 10
+        images:
+          - src: Lafayette01census1870.jpg
+      - year: "1880"
+        caption: Porter Township, Delaware County, Ohio - dwelling [4 or 32?], family [4 or 32?]
+        images:
+          - src: Lafayette01census1880.jpg

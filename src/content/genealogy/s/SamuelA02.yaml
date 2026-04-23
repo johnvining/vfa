@@ -1,0 +1,58 @@
+id: SamuelA02
+sequence: 13
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: NoahF01
+parentLetter: N
+parentDesc: Noah Franklin Vining and Lydia Emeline Gowell
+head:
+  givenName: Samuel Albert
+  birth:
+    date: 13 October 1873
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: "Cranston, Providence County, Rhode Island"
+marriages:
+  - date: 3 October 1899
+    place: "Weymouth, Norfolk County, Massachsetts"
+    spouse:
+      givenName: Mary Goodwin
+      surname: Reed
+      birth:
+        date: June 1877
+        place: "Kennebunk, York County, Maine"
+      death:
+        date: 12 October 1933
+        place: "Cranston, Providence County, Rhode Island"
+childrenGroups:
+  - children:
+      - name: Katherine Reed Vining
+        birth:
+          date: 8 February 1901
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Ruth Gurney Vining
+        birth:
+          date: 12 July 1902
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Helen Dowell Vining
+        birth:
+          date: 31 January 1906
+          place: Rhode Island
+docsUrl: Ssources/SamuelA02doc.htm
+raw: |-
+  <a name="SamuelA02"></a><font size=+2>Samuel Albert Vining</font>
+     (son of <a href="Nfamilies.htm#NoahF01">Noah Franklin Vining and Lydia Emeline Gowell</a>)
+     b. 13 October 1873   Weymouth, Norfolk County, Massachusetts
+     m. 3 October 1899   Weymouth, Norfolk County, Massachsetts
+           Mary Goodwin Reed
+                 b. June 1877   Kennebunk, York County, Maine
+                 d. 12 October 1933   Cranston, Providence County, Rhode Island
+     d. Cranston, Providence County, Rhode Island
+  
+  <font size=+1>children:</font>
+     Katherine Reed Vining   b. 8 February 1901   Weymouth, Norfolk County, Massachusetts
+     Ruth Gurney Vining   b. 12 July 1902   Weymouth, Norfolk County, Massachusetts
+     Helen Dowell Vining   b. 31 January 1906   Rhode Island
+  
+  <a href="Ssources/SamuelA02doc.htm">documentation and notes</a>

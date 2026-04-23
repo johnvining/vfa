@@ -1,0 +1,58 @@
+id: CharlesT02
+letter: C
+sequence: 102
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasJ02
+parentLetter: T
+parentDesc: "Thomas J. Vining and Viola [&#8230;]"
+head:
+  givenName: Charles Thomas
+  birth:
+    date: 20 May 1938
+    place: Alabama
+  death:
+    date: 9 July 2019
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+marriages:
+  - spouse:
+      givenName: Ruth
+      surname: Curb
+      parents: "(dau. of Jack Curb and Era [&#8230;])"
+      birth:
+        date: age 82 y. at death
+      death:
+        date: 2 August 2018
+      burial:
+        place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+childrenGroups:
+  - children:
+      - name: Barry Alan Vining
+        death:
+          date: 14 November 1964
+        burial:
+          place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+      - name: Rebecca Vining
+        marriages:
+          - date: Tracy McElroy
+      - name: "Michael Vining   m Georgette [&#8230;]"
+docsUrl: Csources/CharlesT02doc.htm
+raw: |-
+  <a name="CharlesT02"></a><font size=+2>Charles Thomas Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasJ02">Thomas J. Vining and Viola [&#8230;]</a>)
+     b. 20 May 1938   Alabama
+     m. Ruth Curb
+              (dau. of Jack Curb and Era [&#8230;])
+              b. age 82 y. at death
+              d. 2 August 2018
+                    bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+     d. 9 July 2019
+           bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+  
+  <font size=+1>children:</font>
+     Barry Alan Vining   d. 14 November 1964   -   bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+     Rebecca Vining   m. Tracy McElroy
+     Michael Vining   m Georgette [&#8230;]
+  
+  <a href="Csources/CharlesT02doc.htm">documentation and notes</a>

@@ -1,0 +1,42 @@
+id: NeilC01
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: RichardN01
+parentLetter: R
+parentDesc: Richard Neil Vining and Helen Ridgely Lyon Van Ness
+head:
+  givenName: Neil Carroll
+  birth:
+    date: 10 November 1970
+    place: "Munich, Germany"
+marriages:
+  - number: 1
+    date: "1989"
+    spouse:
+      givenName: Jodi Lynn
+      surname: Jenson
+    note: "divorced 1998"
+  - number: 2
+    date: "2001"
+    spouse:
+      givenName: Suzanne
+      surname: Strandhoy
+childrenGroups:
+  - spouseRef: Jodi Lynn Jenson
+    children:
+      - name: Alexander Quinn Vining
+      - name: Devyn Ridgely Vining
+raw: |-
+  <a name="NeilC01"></a><font size=+2>Neil Carroll Vining</font>
+     (son of <a href="Rfamilies.htm#RichardN01">Richard Neil Vining and Helen Ridgely Lyon Van Ness</a>)
+     b. 10 November 1970   Munich, Germany
+     m. (1) 1989
+                 Jodi Lynn Jenson
+                 divorced 1998
+           (2) 2001
+                 Suzanne Strandhoy
+  
+  <font size=+1>children by Jodi Lynn Jenson:</font>
+     Alexander Quinn Vining
+     Devyn Ridgely Vining

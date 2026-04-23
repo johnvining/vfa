@@ -1,0 +1,65 @@
+id: Charles11
+title: Charles Vining - Celia [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Charles Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Celia ([...]) Vining
+          values:
+            - |-
+              19
+              [see note below]
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charles Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joseph Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jane Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Beat No. 1 (Jefferson post office), Marion County, Texas - dwelling 46, family 51. If Celia had been the
+          mother of these children, she would have been 13 years old at the birth of Charles.
+        images:
+          - src: Charles11census1870.jpg

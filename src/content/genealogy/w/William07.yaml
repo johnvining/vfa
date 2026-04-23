@@ -1,0 +1,109 @@
+id: William07
+sequence: 59
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ebed01
+parentLetter: E
+parentDesc: "Ebed Vining and Abigail &#8220;Nabby&#8221; Curtis"
+head:
+  givenName: William
+  birth:
+    date: 9 September 1811
+    place: "Abington, Massachusetts"
+  death:
+    date: 22 January 1857
+    place: "Abington, Massachusetts"
+  burial:
+    place: "Maplewood Cemetery   Rockland, Massachusetts"
+marriages:
+  - date: int. 1 December 1833
+    place: "[Abington or Bridgewater?], Massachusetts"
+    spouse:
+      givenName: Hannah
+      surname: Crocker
+      parents: "(dau. of Ensign Crocker and Hannah Munroe)"
+      birth:
+        date: 28 August 1812
+        place: "East Bridgewater, Massachusetts"
+      death:
+        date: 24 July 1854
+        place: "Abington, Massachusetts"
+      burial:
+        place: "Maplewood Cemetery   Rockland, Massachusetts"
+childrenGroups:
+  - children:
+      - name: William Vining Jr.
+        entryId: WilliamJr02
+        birth:
+          date: 3 November 1834
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: 22 September 1861
+            spouse: Lucy Turner (Mann) Dunham
+        death:
+          date: 7 October 1898
+          place: "Rockland, Massachusetts"
+        burial:
+          place: "Mount Pleasant Cemetery   Rockland, Massachusetts"
+      - name: Betsey Vining
+        birth:
+          date: 23 May 1837
+          place: "Abington, Massachusetts"
+      - name: James Webster Vining
+        birth:
+          date: 23 December 1839
+          place: "Abington, Massachusetts"
+      - name: Elmer Hewitt Vining
+        entryId: ElmerH03
+        entryLetter: E
+        birth:
+          date: 3 September 1842
+          place: "Abington, Massachusetts"
+      - name: John Quincy Vining
+        entryId: JohnQ01
+        entryLetter: J
+        birth:
+          date: 1 May 1846
+          place: "Abington, Massachusetts"
+        marriages:
+          - date: "Sarah A. [&#8230;]"
+      - name: Hannah Abigail Vining
+        birth:
+          date: 16 December 1848
+          place: "Abington, Massachusetts"
+        death:
+          date: "1864"
+        burial:
+          place: "Maplewood Cemetery   Rockland, Massachusetts"
+  - headingText: "child?"
+    children:
+      - name: Mary Ella Vining
+        birth:
+          date: 22 May 1852
+          place: "Abington, Massachusetts"
+docsUrl: Wsources/William07doc.htm
+raw: |-
+  <a name="William07"></a><font size=+2>William Vining</font>
+     (son of <a href="Efamilies.htm#Ebed01">Ebed Vining and Abigail &#8220;Nabby&#8221; Curtis</a>)
+     b. 9 September 1811   Abington, Massachusetts
+     m. int. 1 December 1833   [Abington or Bridgewater?], Massachusetts
+           Hannah Crocker
+                 (dau. of Ensign Crocker and Hannah Munroe)
+                 b. 28 August 1812   East Bridgewater, Massachusetts
+                 d. 24 July 1854   Abington, Massachusetts
+                       bur. Maplewood Cemetery   Rockland, Massachusetts
+     d. 22 January 1857   Abington, Massachusetts
+           bur. Maplewood Cemetery   Rockland, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="#WilliamJr02">William Vining Jr.</a>   b. 3 November 1834   Abington, Massachusetts   -   m. 22 September 1861   Lucy Turner (Mann) Dunham   -   d. 7 October 1898   Rockland, Massachusetts   -   bur. Mount Pleasant Cemetery   Rockland, Massachusetts
+     Betsey Vining   b. 23 May 1837   Abington, Massachusetts
+     James Webster Vining   b. 23 December 1839   Abington, Massachusetts
+     <a href="Efamilies.htm#ElmerH03">Elmer Hewitt Vining</a>   b. 3 September 1842   Abington, Massachusetts
+     <a href="Jfamilies.htm#JohnQ01">John Quincy Vining</a>   b. 1 May 1846   Abington, Massachusetts   -   m. Sarah A. [&#8230;]
+     Hannah Abigail Vining   b. 16 December 1848   Abington, Massachusetts   -   d. 1864   -   bur. Maplewood Cemetery   Rockland, Massachusetts
+  <font size=+1>child?:</font>
+     Mary Ella Vining   b. 22 May 1852   Abington, Massachusetts
+  
+  <a href="Wsources/William07doc.htm">documentation and notes</a>

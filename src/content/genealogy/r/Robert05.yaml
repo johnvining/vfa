@@ -1,0 +1,42 @@
+id: Robert05
+sequence: 82
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: EugeneF01
+parentLetter: E
+parentDesc: Eugene F. Vining and Rosella L. Dull
+head:
+  givenName: Robert
+  birth:
+    date: 20 November 1946
+    place: "Van Wert, Ohio"
+  death:
+    date: 17 October 2006
+    place: "Celina, Ohio"
+  burial:
+    place: "Willshire Cemetery   Willshire, Ohio"
+marriages:
+  - spouse:
+      givenName: Martha
+      surname: White
+childrenGroups:
+  - children:
+      - name: Patricia Vining
+        marriages:
+          - date: Tony Maravolo
+      - name: Barbara Vining
+docsUrl: Rsources/Robert05doc.htm
+raw: |-
+  <a name="Robert05"></a><font size=+2>Robert Vining</font>
+     (son of <a href="Efamilies.htm#EugeneF01">Eugene F. Vining and Rosella L. Dull</a>)
+     b. 20 November 1946   Van Wert, Ohio
+     m. Martha White
+     d. 17 October 2006   Celina, Ohio
+           bur. Willshire Cemetery   Willshire, Ohio
+  
+  <font size=+1>children:</font>
+     Patricia Vining   m. Tony Maravolo
+     Barbara Vining
+  
+  <a href="Rsources/Robert05doc.htm">documentation and notes</a>

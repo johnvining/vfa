@@ -1,0 +1,39 @@
+id: Dale01
+sequence: 1
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: James03
+parentLetter: J
+parentDesc: "James Vining and Marie [&#8230;]"
+head:
+  givenName: Dale
+  birth:
+    date: "b, 11 May 1946"
+  death:
+    date: 28 April 2020
+marriages:
+  - spouse:
+      givenName: Billie
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Rachelle Vining
+        marriages:
+          - spouse: Gary Pitzer
+      - name: Mike Vining
+        marriages:
+          - spouse: "Terri [&#8230;]"
+docsUrl: Dsources/Dale01doc.htm
+raw: |-
+  <a name="Dale01"></a><font size=+2>Dale Vining</font>
+     (son of <a href="Jfamilies.htm#James03">James Vining and Marie [&#8230;]</a>)
+     b, 11 May 1946
+     m. Billie [&#8230;]
+     d. 28 April 2020
+  
+  <font size=+1>children:</font>
+     Rachelle Vining   m. Gary Pitzer
+     Mike Vining   m. Terri [&#8230;]
+  
+  <a href="Dsources/Dale01doc.htm">documentation and notes</a>

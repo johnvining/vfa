@@ -1,0 +1,74 @@
+id: JamesM04
+sequence: 80
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: HaroldM01
+parentLetter: H
+parentDesc: Harold Marquardt Vining and Marjory Williams
+head:
+  givenName: James Marquardt
+  birth:
+    date: 26 June 1923
+    place: "Johannesburg, South Africa"
+  death:
+    date: 11 December 2010
+    place: "Benoni, South Africa"
+marriages:
+  - date: 4 October 1952
+    place: "Brakpan, South Africa"
+    spouse:
+      givenName: Barbara Elizabeth
+      surname: Nel
+      birth:
+        date: 9 January 1933
+        place: "Brakpan, South Africa"
+      death:
+        date: 11 August 2016
+        place: "Benoni, South Africa"
+childrenGroups:
+  - children:
+      - name: Glynis Vining
+        birth:
+          date: 21 July 1953
+        marriages:
+          - date: Eugene Glen Van Der Watt
+      - name: Charles Marquardt Vining
+        birth:
+          date: 23 January 1955
+        marriages:
+          - date: Voula Vassilopoulos
+      - name: Douglas Marquardt Vining
+        entryId: DouglasM01
+        entryLetter: D
+        birth:
+          date: 3 November 1956
+          place: "Springs, South Africa"
+        marriages:
+          - date: 11 August 1979
+            place: "Pretoria, South Africa"
+            spouse: "Len&#233;l Strydom"
+      - name: John Marquardt Vining
+        birth:
+          date: 22 July 1963
+        death:
+          date: 22 September 1987
+      - name: Richard Marquardt Vining
+        birth:
+          date: 17 February 1966
+raw: |-
+  <a name="JamesM04"></a><font size=+2>James Marquardt Vining</font>
+     (son of <a href="Hfamilies.htm#HaroldM01">Harold Marquardt Vining and Marjory Williams</a>)
+     b. 26 June 1923   Johannesburg, South Africa
+     m. 4 October 1952   Brakpan, South Africa
+              Barbara Elizabeth Nel
+                    b. 9 January 1933   Brakpan, South Africa
+                    d. 11 August 2016   Benoni, South Africa
+     d. 11 December 2010   Benoni, South Africa
+  
+  <font size=+1>children:</font>
+     Glynis Vining   b. 21 July 1953   -   m. Eugene Glen Van Der Watt
+     Charles Marquardt Vining   b. 23 January 1955   -   m. Voula Vassilopoulos
+     <a href="Dfamilies.htm#DouglasM01">Douglas Marquardt Vining</a>   b. 3 November 1956   Springs, South Africa   -   m. 11 August 1979   Pretoria, South Africa   Len&#233;l Strydom
+     John Marquardt Vining   b. 22 July 1963   -   d. 22 September 1987
+     Richard Marquardt Vining   b. 17 February 1966

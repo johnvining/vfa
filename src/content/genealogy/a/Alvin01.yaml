@@ -1,0 +1,47 @@
+id: Alvin01
+letter: A
+sequence: 61
+lastUpdated: 1 February 2021
+relationship: son
+parentId: Alexander01
+parentDesc: Alexander Vining and Olive Louisa Pease
+head:
+  givenName: Alvin
+  birth:
+    date: 20 May 1783
+    place: "East Windsor, Hartford County, Connecticut"
+  death:
+    date: 2 February 1847
+    place: "Longmeadow, Hampden County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Sarah
+      surname: Stone
+      birth:
+        date: age 72 y. as of 1860 census
+        place: Massachusetts
+childrenGroups:
+  - headingText: child
+    children:
+      - name: William Otis Vining
+        entryId: WilliamO02
+        entryLetter: W
+        birth:
+          date: 13 August 1813
+          place: "Suffield, Hartford County, Connecticut"
+        marriages:
+          - date: 27 January 1840
+            spouse: Eunice Horton Dwight
+docsUrl: Asources/Alvin01doc.htm
+raw: |-
+  <a name="Alvin01"></a><font size="+2">Alvin Vining</font>
+     (son of <a href="#Alexander01">Alexander Vining and Olive Louisa Pease</a>)
+     b. 20 May 1783   East Windsor, Hartford County, Connecticut
+     m. Sarah Stone
+              b. age 72 y. as of 1860 census   Massachusetts
+     d. 2 February 1847   Longmeadow, Hampden County, Massachusetts
+  
+  <font size="+1">child:</font>
+     <a href="Wfamilies.htm#WilliamO02">William Otis Vining</a>   b. 13 August 1813   Suffield, Hartford County, Connecticut   -   m. 27 January 1840   Eunice Horton Dwight
+  
+  <a href="Asources/Alvin01doc.htm">documentation and notes</a>

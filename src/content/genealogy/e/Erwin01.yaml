@@ -1,0 +1,90 @@
+id: Erwin01
+sequence: 122
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: FranklinE01
+parentLetter: F
+parentDesc: Franklin E. Vining and Alice Flossie Lindsley
+head:
+  givenName: Erwin
+  birth:
+    date: 14 May 1878
+    place: Kansas
+  death:
+    date: 17 September 1956
+    place: "Los Angeles County, California"
+marriages:
+  - date: 8 May 1905
+    place: "Fredonia, Kansas"
+    spouse:
+      givenName: Clara
+      surname: Ewing
+      birth:
+        date: 23 October 1888
+        place: "Buffalo, Kansas"
+      death:
+        date: "1918"
+      burial:
+        place: "Larned Cemetery   Larned, Kansas"
+childrenGroups:
+  - children:
+      - name: Ruth Vining
+        birth:
+          date: 16 June 1908
+          place: Kansas
+        marriages:
+          - spouse: "[&#8230;] Edwards"
+      - name: Charlotte Blanche Vining
+        birth:
+          date: 31 January 1910
+          place: "Larned, Kansas"
+        death:
+          date: 17 June 1990
+          place: "Fredonia, Kansas"
+        burial:
+          place: "White Chapel Memorial Gardens   Wichita, Kansas"
+      - name: Charles A. Vining
+        birth:
+          date: 23 May 1912
+          place: Kansas
+        marriages:
+          - spouse: Mildred Blanche Harriman
+        death:
+          date: 13 March 1963
+          place: "Crescent City, California"
+        burial:
+          place: "IOOF Cemetery   Crescent City, California"
+      - name: Franklin Erwin Vining
+        entryId: FranklinE02
+        entryLetter: F
+        birth:
+          date: 21 February 1914
+          place: Kansas
+        marriages:
+          - spouse: Gladys Opal Carter
+        death:
+          date: June 1984
+        burial:
+          place: "Harrison Cemetery   Thayer, Kansas"
+      - name: Earl B. Vining
+docsUrl: Esources/Erwin01doc.htm
+raw: |-
+  <a name="Erwin01"></a><font size=+2>Erwin Vining</font>
+     (son of <a href="Ffamilies.htm#FranklinE01">Franklin E. Vining and Alice Flossie Lindsley</a>)
+     b. 14 May 1878   Kansas
+     m. 8 May 1905   Fredonia, Kansas
+           Clara Ewing
+                 b. 23 October 1888   Buffalo, Kansas
+                 d. 1918
+                       bur. Larned Cemetery   Larned, Kansas
+     d. 17 September 1956   Los Angeles County, California
+  
+  <font size=+1>children:</font>
+     Ruth Vining   b. 16 June 1908   Kansas   -   m. [&#8230;] Edwards
+     Charlotte Blanche Vining   b. 31 January 1910   Larned, Kansas   -   d. 17 June 1990   Fredonia, Kansas   -   bur. White Chapel Memorial Gardens   Wichita, Kansas
+     Charles A. Vining   b. 23 May 1912   Kansas   -   m. Mildred Blanche Harriman   -   d. 13 March 1963   Crescent City, California   -   bur. IOOF Cemetery   Crescent City, California
+     <a href="Ffamilies.htm#FranklinE02">Franklin Erwin Vining</a>   b. 21 February 1914   Kansas   -   m. Gladys Opal Carter   -   d. June 1984   -   bur. Harrison Cemetery   Thayer, Kansas
+     Earl B. Vining
+  
+  <a href="Esources/Erwin01doc.htm">documentation and notes</a>

@@ -1,0 +1,89 @@
+id: WilliamE06
+sequence: 87
+letter: W
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML omitted d. death marker; added in new rendering."
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William Edgar
+  birth:
+    date: "1876"
+    place: Ohio
+marriages:
+  - date: "[1?] [?]"
+    note: |-
+      [2?] 5 y. as of 1910 census
+      Charlotte Smith
+      (dau. of George Henry Smith and Charlotte Hamilton)
+      b. 21 july 1879   Nottingham, Nottinghamshire, England
+      d. 8 February 1976   Bridgeport, Fairfield County, Connecticut
+childrenGroups:
+  - headingText: "child by [?]"
+    children:
+      - name: Helen Vining
+        birth:
+          date: ca. 1896
+          place: Ohio
+  - spouseRef: "Charlotte Smith"
+    children:
+      - name: Charlotte Hazel Vining
+        birth:
+          date: 9 March 1906
+          place: New York
+        marriages:
+          - date: Norman M. Wilson
+        death:
+          date: January 1941
+          place: Connecticut
+      - name: Hazel M. Vining
+        birth:
+          date: age 2 y. as of 1910 census
+          place: Connecticut
+        marriages:
+          - date: Grato A. Angiono
+        death:
+          date: ca. July 1965
+      - name: Chancelor Livingston Vining
+        birth:
+          date: "1907"
+          place: New York
+        marriages:
+          - date: Lucille Binney
+        death:
+          date: 14 September 1929
+          place: "Bridgeport, Fairfield County, Connecticut"
+        burial:
+          place: "Lakeview Cemetery   Bridgeport, Connecticut"
+      - name: Richard Worthington Vining
+        entryId: RichardW03
+        entryLetter: R
+        birth:
+          date: 6 July 1910
+          place: Cleveland Ohio
+        marriages:
+          - date: Dorothy Higgins
+        note: "d, 15 June 1990   New Haven, New Haven County, Connecticut"
+      - name: Beatrice E. Vining
+        birth:
+          date: ca. 1915
+          place: "Detroit, Wayne County, Michigan"
+raw: |-
+  <a name="WilliamE06"></a><font size=+2>William Edgar Vining</font>
+     (son of [?])
+     b. 1876   Ohio
+     m. [1?] [?]
+           [2?] 5 y. as of 1910 census
+                    Charlotte Smith
+                          (dau. of George Henry Smith and Charlotte Hamilton)
+                          b. 21 july 1879   Nottingham, Nottinghamshire, England
+                          d. 8 February 1976   Bridgeport, Fairfield County, Connecticut
+
+  <font size=+1>child by [?]:</font>
+     Helen Vining   b. ca. 1896   Ohio
+  <font size=+1>children by Charlotte Smith]:</font>
+     Charlotte Hazel Vining   b. 9 March 1906   New York   -   m. Norman M. Wilson   -   d. January 1941   Connecticut
+     Hazel M. Vining   b. age 2 y. as of 1910 census   Connecticut   -   m. Grato A. Angiono   -   ca. July 1965
+     Chancelor Livingston Vining   b. 1907   New York   -   m. Lucille Binney   -   d. 14 September 1929   Bridgeport, Fairfield County, Connecticut   -   bur. Lakeview Cemetery   Bridgeport, Connecticut
+     <a href="Rfamilies.htm#RichardW03">Richard Worthington Vining</a>   b. 6 July 1910   Cleveland Ohio   -   m. Dorothy Higgins   -   d, 15 June 1990   New Haven, New Haven County, Connecticut
+     Beatrice E. Vining   b. ca. 1915   Detroit, Wayne County, Michigan

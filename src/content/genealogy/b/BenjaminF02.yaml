@@ -1,0 +1,77 @@
+id: BenjaminF02
+letter: B
+sequence: 31
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Ammi01
+parentLetter: A
+parentDesc: Ammi Vining and Susanna Gerrish
+head:
+  givenName: Benjamin Franklin
+  birth:
+    date: 2 April 1836
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 23 March 1886
+    place: "Durham, Androscoggin County, Maine"
+  burial:
+    place: "Cedar Grove Cemetery   Durham, Androscoggin County, Maine"
+marriages:
+  - date: prior to 1870 census
+    spouse:
+      givenName: "Sarah Jane"
+      surname: Richards
+      parents: (dau. of Ira B. Richards and Sarah Gerrish)
+      birth:
+        date: 6 March 1842
+        place: "Durham, Androscoggin County, Maine"
+      death:
+        date: 13 April 1928
+        place: "Billerica, Middlesex County, Massachusetts"
+      burial:
+        place: "Cedar Grove Cemetery   Durham, Androscoggin County, Maine"
+childrenGroups:
+  - children:
+      - name: Eugene Conrad Vining
+        entryId: EugeneC01
+        entryLetter: E
+        birth:
+          date: 27 July 1874
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: "[19 or 10?] August 1903"
+            place: "Boston, Suffolk County, Massachusetts"
+            spouse: Ellen Blanchard Ewell
+        death:
+          date: 7 July 1953
+          place: "Billerica, Middlesex, Massachusetts"
+        burial:
+          place: "North Cemetery   Billerica, Middlesex County, Massachusetts"
+      - name: Ira R. Vining
+        birth:
+          date: June 1876
+          place: "Durham, Androscoggin County, Maine"
+        death:
+          date: 1 July 1910
+          place: "Freeport, Cumberland County, Maine"
+        burial:
+          place: "Cedar Grove Cemetery   Durham, Androscoggin County, Maine"
+docsUrl: Bsources/BenjaminF02doc.htm
+raw: |-
+  <a name="BenjaminF02"></a><font size=+2>Benjamin Franklin Vining</font>
+     (son of <a href="Afamilies.htm#Ammi01">Ammi Vining and Susanna Gerrish</a>)
+     b. 2 April 1836   Durham, Androscoggin County, Maine
+     m. prior to 1870 census
+           Sarah Jane Richards
+                 (dau. of Ira B. Richards and Sarah Gerrish)
+                 b. 6 March 1842   Durham, Androscoggin County, Maine
+                 d. 13 April 1928   Billerica, Middlesex County, Massachusetts
+                       bur. Cedar Grove Cemetery   Durham, Androscoggin County, Maine
+     d. 23 March 1886   Durham, Androscoggin County, Maine
+           bur. Cedar Grove Cemetery   Durham, Androscoggin County, Maine
+  
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EugeneC01">Eugene Conrad Vining</a>   b. 27 July 1874   Durham, Androscoggin County, Maine   -   m. [19 or 10?] August 1903   Boston, Suffolk County, Massachusetts   Ellen Blanchard Ewell   -   d. 7 July 1953   Billerica, Middlesex, Massachusetts   -   bur. North Cemetery   Billerica, Middlesex County, Massachusetts
+     Ira R. Vining   b. June 1876   Durham, Androscoggin County, Maine   -   d. 1 July 1910   Freeport, Cumberland County, Maine   -   bur. Cedar Grove Cemetery   Durham, Androscoggin County, Maine
+  
+  <a href="Bsources/BenjaminF02doc.htm">documentation and notes</a>

@@ -1,0 +1,148 @@
+id: JohnH03
+sequence: 231
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnS06
+parentDesc: John Sasser Vining and Mary Jane Beard
+head:
+  givenName: John Henry
+  birth:
+    date: 4 February 1874
+    place: Alabama
+  death:
+    date: 26 January 1942
+    place: "Athens, Alabama"
+  burial:
+    place: "Reunion Cemetery   Thach, Alabama"
+marriages:
+  - spouse:
+      givenName: Virgie Lorene
+      surname: Holt
+      parents: (dau. of James David Holt and Maggie L. Smith)
+      birth:
+        date: 24 January 1884
+        place: "Athens, Alabama"
+      death:
+        date: 10 November 1960
+        place: "Athens, Alabama"
+      burial:
+        place: "Reunion Cemetery   Thach, Alabama"
+childrenGroups:
+  - children:
+      - name: Cephas Andrew Vining
+        entryId: CephasA01
+        entryLetter: C
+        birth:
+          date: 7 May 1905
+          place: Alabama
+        marriages:
+          - date: 10 August 1924
+            spouse: Nina Ruth Hargrove
+        death:
+          date: 3 April 1977
+          place: "Athens, AL"
+        burial:
+          place: "Athens City Cemetery   Athens, Alabama"
+      - name: Cecile Ester Vining
+        birth:
+          date: 24 November 1906
+          place: Alabama
+        marriages:
+          - date: O. Z. Myers Bowers
+        death:
+          date: 26 October 1972
+        burial:
+          place: "Reunion Cemetery   Thach, Alabama"
+      - name: Floyd R. Vining
+        entryId: FloydR01
+        entryLetter: F
+        birth:
+          date: 26 June 1908
+          place: Alabama
+        marriages:
+          - date: Pearlie May Brooks
+        death:
+          date: 19 February 1995
+          place: "Elkmont, Alabama"
+        burial:
+          place: "Antioch Cemetery   Elkmont, Alabama"
+      - name: Artie Vining
+        entryId: Artie01
+        entryLetter: A
+        birth:
+          date: 13 March 1910
+          place: Alabama
+        marriages:
+          - date: Elenora Nayoma Hall
+        death:
+          date: 20 October 1942
+          place: "Athens, Alabama"
+        burial:
+          place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
+      - name: Allen Vining
+        entryId: Allen03
+        entryLetter: A
+        birth:
+          date: 25 March 1913
+          place: Alabama
+        marriages:
+          - number: 1
+            date: "Marie L. [..]"
+          - number: 2
+            date: Lois Webb
+        death:
+          date: 16 February 1952
+        burial:
+          place: "Reunion Cemetery   Thach, Alabama"
+      - name: Eunice Vining
+        birth:
+          date: 27 April 1915
+          place: Alabama
+        marriages:
+          - date: 16 November 1935
+            spouse: William Buren Guthrie
+        death:
+          date: 18 September 2001
+        burial:
+          place: "Reunion Cemetery   Thach, Alabama"
+      - name: Odell Vining
+        birth:
+          date: "age 2 y., 6 m. as of 1920 census"
+          place: Alabama
+        marriages:
+          - date: Leonard Hasting
+        death:
+          place: Kentucky
+        burial:
+          place: Kentucky
+      - name: Evie Vining
+        birth:
+          date: age 10 y. as of 1930 census
+          place: Alabama
+        marriages:
+          - date: James R. Hughes
+docsUrl: Jsources/JohnH03doc.htm
+raw: |-
+  <a name="JohnH03"></a><font size=+2>John Henry Vining</font>
+     (son of <a href="#JohnS06">John Sasser Vining and Mary Jane Beard</a>)
+     b. 4 February 1874   Alabama
+     m. Virgie Lorene Holt
+              (dau. of James David Holt and Maggie L. Smith)
+              b. 24 January 1884   Athens, Alabama
+              d. 10 November 1960   Athens, Alabama
+                    bur. Reunion Cemetery   Thach, Alabama
+     d. 26 January 1942   Athens, Alabama
+           bur. Reunion Cemetery   Thach, Alabama
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#CephasA01">Cephas Andrew Vining</a>   b. 7 May 1905   Alabama   -   m. 10 August 1924   Nina Ruth Hargrove   -   d. 3 April 1977   Athens, AL   -   bur. Athens City Cemetery   Athens, Alabama
+     Cecile Ester Vining   b. 24 November 1906   Alabama   -   m. O. Z. Myers Bowers   -   d. 26 October 1972   -   bur. Reunion Cemetery   Thach, Alabama
+     <a href="Ffamilies.htm#FloydR01">Floyd R. Vining</a>   b. 26 June 1908   Alabama   -   m. Pearlie May Brooks   -   d. 19 February 1995   Elkmont, Alabama   -   bur. Antioch Cemetery   Elkmont, Alabama
+     <a href="Afamilies.htm#Artie01">Artie Vining</a>    b. 13 March 1910   Alabama   -   m. Elenora Nayoma Hall   -   d. 20 October 1942   Athens, Alabama   -   bur. Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama
+     <a href="Afamilies.htm#Allen03">Allen Vining</a>   b. 25 March 1913   Alabama   -   m. (1) Marie L. [..];   (2) Lois Webb   -   d. 16 February 1952   -   bur. Reunion Cemetery   Thach, Alabama
+     Eunice Vining   b. 27 April 1915   Alabama   -   m. 16 November 1935   William Buren Guthrie   -   d. 18 September 2001   -   bur. Reunion Cemetery   Thach, Alabama
+     Odell Vining   b. age 2 y., 6 m. as of 1920 census   Alabama   -   m. Leonard Hasting   -   d. Kentucky   -   bur. Kentucky
+     Evie Vining   b. age 10 y. as of 1930 census   Alabama   -   m. James R. Hughes
+  
+  <a href="Jsources/JohnH03doc.htm">documentation and notes</a>

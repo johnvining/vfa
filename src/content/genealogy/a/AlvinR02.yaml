@@ -1,0 +1,67 @@
+id: AlvinR02
+letter: A
+sequence: 64
+lastUpdated: 1 February 2021
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Alvin Raymond
+  birth:
+    date: age 33 y. as of 1940 census
+    place: Louisiana
+marriages:
+  - spouse:
+      givenName: "Mary Louise Lodrigue [her second"
+      surname: "marriage]"
+      parents: (dau. of Octave Rameaux Lodrigue and Esteran Margarite Hotard)
+      birth:
+        date: 17 April 1908
+        place: "Morgan City, Saint Mary Parish, Louisiana"
+      death:
+        date: 13 October 2005
+      burial:
+        place: "Iberts Memorial Park   Patterson, Saint Mary Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: "[stepson] Elmer Vining"
+        birth:
+          date: age 9 y. as of 1940 census
+          place: Louisiana
+      - name: "[stopson] Henry Vining"
+        birth:
+          date: age 7 y. as of 1940 census
+          place: Louisiana
+      - name: "B[urnita?] Vining"
+        birth:
+          date: age 6 y. as of 1940 census
+          place: Louisiana
+      - name: Alvin Raymond Vining Jr.
+        entryId: AlvinRJr01
+        birth:
+          date: 4 July 1938
+          place: "Lockport, Louisiana"
+        marriages:
+          - date: Shirley Mae Barrilleaux
+        death:
+          date: 28 October 2014
+          place: "Houma, Terrebonne Parish, Louisiana"
+        burial:
+          place: "Gibson Baptist Church Cemetery   Gibson, Terrebonne Parish, Louisiana"
+docsUrl: Asources/AlvinR02doc.htm
+raw: |-
+  <a name="AlvinR02"></a><font size="+2">Alvin Raymond Vining</font>
+     (son of [?])
+     b. age 33 y. as of 1940 census   Louisiana
+     m. Mary Louise Lodrigue [her second marriage]
+              (dau. of Octave Rameaux Lodrigue and Esteran Margarite Hotard)
+              b. 17 April 1908   Morgan City, Saint Mary Parish, Louisiana
+              d. 13 October 2005
+                    bur. Iberts Memorial Park   Patterson, Saint Mary Parish, Louisiana
+  
+  <font size="+1">children:</font>
+     [stepson] Elmer Vining   b. age 9 y. as of 1940 census   Louisiana
+     [stopson] Henry Vining   b. age 7 y. as of 1940 census   Louisiana
+     B[urnita?] Vining   b. age 6 y. as of 1940 census   Louisiana
+     <a href="#AlvinRJr01">Alvin Raymond Vining Jr.</a>   b. 4 July 1938   Lockport, Louisiana   -   m. Shirley Mae Barrilleaux   -   d. 28 October 2014   Houma, Terrebonne Parish, Louisiana   -   bur. Gibson Baptist Church Cemetery   Gibson, Terrebonne Parish, Louisiana
+  
+  <a href="Asources/AlvinR02doc.htm">documentation and notes</a>

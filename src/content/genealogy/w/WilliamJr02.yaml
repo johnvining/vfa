@@ -1,0 +1,72 @@
+id: WilliamJr02
+sequence: 69
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: William07
+parentDesc: William Vining and Hannah Crocker
+head:
+  givenName: William Jr.
+  birth:
+    date: 3 November 1834
+    place: "Abington, Massachusetts"
+  death:
+    date: 7 October 1898
+    place: "Rockland, Massachusetts"
+  burial:
+    place: "Mount Pleasant Cemetery   Rockland, Massachusetts"
+marriages:
+  - date: 22 September 1861
+    spouse:
+      givenName: Lucy Turner (Mann)
+      surname: Dunham
+      parents: "(dau. of John Mann and Harriet Turner)"
+      birth:
+        date: 4 August 1828
+        place: "Hanover, Massachusetts"
+      death:
+        date: 2 January 1910
+      burial:
+        place: "Mount Pleasant Cemetery   Rockland, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Edith Elwood Vining
+        birth:
+          date: 10 June 1862
+          place: "Abington, Massachusetts"
+      - name: William Everett Vining
+        entryId: WilliamE02
+        birth:
+          date: 11 July 1864
+          place: "Abington, Massachusetts"
+        marriages:
+          - number: 1
+            date: 25 September 1901
+            spouse: "Eleanor Maud Burbank,   divorced"
+          - number: 2
+            date: 3 October 1930
+            spouse: Gertrude May (Chase) Ornvoll
+        death:
+          date: 28 October 1942
+          place: "Rockland, Massachusetts"
+        burial:
+          place: "Mount Pleasant Cemetery   Rockland, Massachusetts"
+docsUrl: Wsources/WilliamJr02doc.htm
+raw: |-
+  <a name="WilliamJr02"></a><font size=+2>William Vining Jr.</font>
+     (son of <a href="#William07">William Vining and Hannah Crocker</a>)
+     b. 3 November 1834   Abington, Massachusetts
+     m. 22 September 1861
+           Lucy Turner (Mann) Dunham
+                 (dau. of John Mann and Harriet Turner)
+                 b. 4 August 1828   Hanover, Massachusetts
+                 d. 2 January 1910
+                       bur. Mount Pleasant Cemetery   Rockland, Massachusetts
+     d. 7 October 1898   Rockland, Massachusetts
+           bur. Mount Pleasant Cemetery   Rockland, Massachusetts
+  
+  <font size=+1>children:</font>
+     Edith Elwood Vining   b. 10 June 1862   Abington, Massachusetts
+     <a href="#WilliamE02">William Everett Vining</a>   b. 11 July 1864   Abington, Massachusetts   -   m. (1) 25 September 1901   Eleanor Maud Burbank,   divorced;   (2) 3 October 1930   Gertrude May (Chase) Ornvoll   -   d. 28 October 1942   Rockland, Massachusetts   -   bur. Mount Pleasant Cemetery   Rockland, Massachusetts
+  
+  <a href="Wsources/WilliamJr02doc.htm">documentation and notes</a>

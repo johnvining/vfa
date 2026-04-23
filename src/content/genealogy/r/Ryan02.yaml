@@ -1,0 +1,19 @@
+id: Ryan02
+sequence: 181
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Robert10
+parentDesc: Robert Vining
+head:
+  givenName: Ryan
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Myan Vining
+raw: |-
+  <a name="Ryan02"></a><font size=+2>Ryan Vining</font>
+     (son of <a href="#Robert10">Robert Vining</a>)
+  
+  <font size=+1>child:</font>
+     Myan Vining

@@ -1,0 +1,52 @@
+id: DavidB03
+sequence: 39
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Robert02
+parentLetter: R
+parentDesc: Robert Vining and Polly Waters
+head:
+  givenName: David B.
+  birth:
+    date: 3 May 1840
+    place: New York
+  death:
+    date: 5 March 1915
+    place: "Windham, New York"
+  burial:
+    place: "Maplecrest Cemetery   Windham, New York"
+marriages:
+  - spouse:
+      givenName: Lucy
+      surname: Gordon
+      birth:
+        date: "1838"
+        place: New York
+      death:
+        date: "1913"
+      burial:
+        place: "Maplecrest Cemetery   Windham, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Elnora Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: New York
+docsUrl: Dsources/DavidB03doc.htm
+raw: |-
+  <a name="DavidB03"></a><font size=+2>David B. Vining</font>
+     (son of <a href="Rfamilies.htm#Robert02">Robert Vining and Polly Waters</a>)
+     b. 3 May 1840   New York
+     m. Lucy Gordon
+              b. 1838   New York
+              d. 1913
+                    bur. Maplecrest Cemetery   Windham, New York
+     d. 5 March 1915   Windham, New York
+           bur. Maplecrest Cemetery   Windham, New York
+  
+  <font size=+1>child:</font>
+     Elnora Vining   b. age 6 y. as of 1870 census   New York
+  
+  <a href="Dsources/DavidB03doc.htm">documentation and notes</a>

@@ -1,0 +1,104 @@
+id: Alonzo02
+title: Alonzo Vining - Susan Maria Reynolds
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Alonzo Vining
+          values:
+            - "25"
+            - "35"
+            - "45"
+            - dead
+            - ""
+            - ""
+        - label: Susan Maria (Reynolds) Vining
+          values:
+            - "21"
+            - "31"
+            - "41"
+            - "?"
+            - "61"
+            - "71"
+        - label: William Merton Vining
+          values:
+            - "2"
+            - "12"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Alice F. Vining
+          values:
+            - ""
+            - "3"
+            - "13"
+            - "?"
+            - 32, married and living in same household
+            - 43, married and living in same household
+          indent: true
+        - label: Charles A. Vining
+          values:
+            - ""
+            - 4 months
+            - "10"
+            - "?"
+            - "30"
+            - "40"
+          indent: true
+        - label: Edward H. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - not living in this household
+            - not living in this household
+          indent: true
+        - label: John Solon Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "?"
+            - "23"
+            - "33"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Abington, Plymouth County, Massachusetts - dwelling 1299, family 1609
+        images:
+          - src: Alonzo02census1860.jpg
+      - year: "1870"
+        caption: Weymouth, Plymouth County, Massachusetts - dwelling 1390, family 1681
+        images:
+          - src: Alonzo02census1870.jpg
+      - year: "1880"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 362, family 448. Also living with this family in 1880 was
+          Jared Vining (79, b. Massachusetts; father of Alonzo Vining).
+        images:
+          - src: Alonzo02census1880.jpg
+      - year: "1900"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 289, family 307
+        images:
+          - src: Alonzo02census1900.jpg
+      - year: "1910"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 312, family 348
+        images:
+          - src: Alonzo02census1910.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for most of the family of Alonzo Vining and Susan Maria (Reynolds) Vining, in Mount Hope Cemetery,
+          Weymouth, Norfolk County, Massachusetts (from Find A Grave):
+        images:
+          - src: Alonzo02familyheadstone.jpg

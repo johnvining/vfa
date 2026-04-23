@@ -1,0 +1,83 @@
+id: JohnM03
+title: John M. Vining - John M. Vining
+displayTitle: John M. Vining - Emily M. Collard
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John M. Vining
+          values:
+            - "21"
+            - "31"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Emily M. (Collard) Vining
+          values:
+            - "23"
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Jessie I. Vining
+          values:
+            - "1"
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rose May Vining
+          values:
+            - 6 m.
+            - "11"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rosella E. Vining
+          values:
+            - ""
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Maud Carrie Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Romulus, Wayne County, Michigan - dwelling 201, family 191
+        images:
+          - src: JohnM03census1870a.jpg
+          - src: JohnM03census1870b.jpg
+      - year: "1880"
+        caption: Huron, Wayne County, Michigan - dwelling 281, family 283
+        images:
+          - src: JohnM03census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for John M. Vining, in Romulus Memorial Cemetery, Romulus, Wayne County, Michigan (from Find A
+          Grave):
+        images:
+          - src: JohnM03gravestone.jpg

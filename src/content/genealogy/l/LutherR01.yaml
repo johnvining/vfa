@@ -1,0 +1,43 @@
+id: LutherR01
+sequence: 81
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: John07
+parentLetter: J
+parentDesc: John Vining and Fanny Richardson
+head:
+  givenName: Luther Richardson
+  birth:
+    date: 20 May 1812
+    place: "Templeton, Massachusetts"
+marriages:
+  - date: 27 November 1833
+    spouse:
+      givenName: Mary
+      surname: Richardson
+      parents: (dau. of Calvin Richardson and Sarah Steele)
+      birth:
+        date: 4 May 1814
+childrenGroups:
+  - children:
+      - name: Mary Elizabeth Vining
+        birth:
+          date: 25 August 1834
+      - name: Sarah Frances Vining
+        birth:
+          date: 23 September 1835
+        death:
+          date: 18 April 1849
+raw: |-
+  <a name="LutherR01"></a><font size=+2>Luther Richardson Vining</font>
+     (son of <a href="Jfamilies.htm#John07">John Vining and Fanny Richardson</a>)
+     b. 20 May 1812   Templeton, Massachusetts
+     m. 27 November 1833
+           Mary Richardson
+                 (dau. of Calvin Richardson and Sarah Steele)
+                 b. 4 May 1814
+  
+  <font size=+1>children:</font>
+     Mary Elizabeth Vining   b. 25 August 1834
+     Sarah Frances Vining   b. 23 September 1835   -   d. 18 April 1849

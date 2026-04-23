@@ -1,0 +1,99 @@
+id: JonasN01
+title: Jonas N. Vining - (1) Malinda Bowen, (2) Sarah A. "Nancy" Columbes
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Jonas N. Vining
+          values:
+            - "33"
+            - "40"
+            - "?"
+            - "61"
+            - "72"
+            - "?"
+            - "?"
+        - label: Malinda (Bowen) Vining
+          values:
+            - "28"
+            - "37"
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Sarah A. "Nancy" (Columbes) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "44"
+            - "52"
+            - "?"
+            - "?"
+        - label: Edith M. Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+            - not living in this household
+            - not living in this household
+            - "?"
+            - "?"
+          indent: true
+        - label: Leo Nelson Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lloyd Ozias Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - 8 m.
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Dover Township, Union County, Ohio - dwelling 32, family 33
+        images:
+          - src: JonasN01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Peoria, Franklin County, Kansas - Also living in this household in 1880 was Benjamin F. Beck (44 y., b. Ohio),
+          a cousin of Jonas N. Vining.
+        images:
+          - src: JonasN01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Scioto Township, Delaware County, Ohio - dwelling 270, family 272. Also living in this household in 1900 were
+          Jessie Ormerod[?] (b. September 1885, Ohio) and Paul Ormerod[?] (b. November 1890, Ohio), both children of
+          Sarah A. "Nancy" Columbes by a previous marriage.
+      - year: "1910"
+        caption: >-
+          Dover Township, Ohio (Union County) - dwelling 141, family 145. Also living in this household in 1910 was Paul
+          C. Ormerod[?] (19 y., b. Ohio), stepson of Jonas N. Vining.
+  - type: death
+    items:
+      - caption: "Gravestone for Jonas N. Vining, in Oakdale Cemetery, Marysville, Union County, Ohio (from Find A Grave):"
+        images:
+          - src: JonasN01gravestone.jpg
+      - caption: "Gravestone for Malinda (Bowen) Vining, in Buxton Cemetery, Franklin County, Virginia (from Find A Grave):"
+        images:
+          - src: JonasN01wifeMalindagravestone.jpg

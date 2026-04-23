@@ -1,0 +1,90 @@
+id: WarrenCJr01
+sequence: 31
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WarrenC01
+parentDesc: Warren Clifford Vining and Elizabeth Rosie Vogel
+head:
+  givenName: Warren Clifford Jr.
+  birth:
+    date: 26 October 1918
+    place: "Chicago, Illinois"
+  death:
+    date: 21 July 1999
+  burial:
+    place: "Mission Garden of Memories   Clovis, New Mexico"
+marriages:
+  - date: 4 October 1941
+    place: "New Castle, Pennsylvania"
+    spouse:
+      givenName: Elizabeth Ruth
+      surname: Gustafson
+      birth:
+        date: 10 June 1918
+        place: India
+      death:
+        date: 30 March 1994
+        place: "Amarillo, Texas"
+      burial:
+        place: "Mission Garden of Memories   Clovis, New Mexico"
+childrenGroups:
+  - children:
+      - name: Warren Clifford Vining III
+        birth:
+          date: 1 December 1942
+          place: "Kansas City, Missouri"
+        death:
+          date: 19 February 2005
+      - name: Dana Ruth Vining
+        birth:
+          date: 16 March 1945
+          place: "Geneva, IL"
+        marriages:
+          - date: June 1969
+            spouse: John Charles Mellis
+      - name: Mark Sutherland Vining
+        entryId: MarkS01
+        entryLetter: M
+        birth:
+          date: 30 September 1950
+          place: "Jorhat, Assam, India"
+        marriages:
+          - date: 21 December 1996
+            spouse: Katherine Elizabeth Barth
+        death:
+          date: 3 August 2016
+          place: Arizona
+      - name: Robert Lloyd McKinney Vining
+        entryId: RobertLM01
+        entryLetter: R
+        birth:
+          date: 20 August 1952
+          place: "Gustine, California"
+        marriages:
+          - number: 1
+            date: 6 August 1977
+            spouse: "Janet Kathleen Howard,   divorced"
+          - number: 2
+            date: 18 November 1989
+            spouse: Sheri L. Connelly
+docsUrl: Wsources/WarrenCJr01doc.htm
+raw: |-
+  <a name="WarrenCJr01"></a><font size=+2>Warren Clifford Vining Jr.</font>
+     (son of <a href="#WarrenC01">Warren Clifford Vining and Elizabeth Rosie Vogel</a>)
+     b. 26 October 1918   Chicago, Illinois
+     m. 4 October 1941   New Castle, Pennsylvania
+           Elizabeth Ruth Gustafson
+                 b. 10 June 1918   India
+                 d. 30 March 1994   Amarillo, Texas
+                       bur. Mission Garden of Memories   Clovis, New Mexico
+     d. 21 July 1999
+           bur. Mission Garden of Memories   Clovis, New Mexico
+  
+  <font size=+1>children:</font>
+     Warren Clifford Vining III   b. 1 December 1942   Kansas City, Missouri   -   d. 19 February 2005
+     Dana Ruth Vining   b. 16 March 1945   Geneva, IL   -   m. June 1969   John Charles Mellis
+     <a href="Mfamilies.htm#MarkS01">Mark Sutherland Vining</a>   b. 30 September 1950   Jorhat, Assam, India   -   m. 21 December 1996   Katherine Elizabeth Barth   -   d. 3 August 2016   Arizona
+     <a href="Rfamilies.htm#RobertLM01">Robert Lloyd McKinney Vining</a>   b. 20 August 1952   Gustine, California   -   m. (1) 6 August 1977   Janet Kathleen Howard,   divorced; (2) 18 November 1989   Sheri L. Connelly
+  
+  <a href="Wsources/WarrenCJr01doc.htm">documentation and notes</a>

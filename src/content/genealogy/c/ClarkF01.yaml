@@ -1,0 +1,33 @@
+id: ClarkF01
+letter: C
+sequence: 130
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MurrayF01
+parentLetter: M
+parentDesc: Murray Fraine Vining and Emma Gertrude Williamson
+head:
+  givenName: Clark Fraine
+  birth:
+    date: 14 July 1947
+    place: "Pictou, Nova Scotia"
+marriages:
+  - date: 28 September 1968
+    spouse:
+      givenName: Dorothy Louise
+      surname: Chaput
+    note: divorced
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Suzanne Vining
+raw: |-
+  <a name="ClarkF01"></a><font size=+2>Clark Fraine Vining</font>
+     (son of <a href="Mfamilies.htm#MurrayF01">Murray Fraine Vining and Emma Gertrude Williamson</a>)
+     b. 14 July 1947   Pictou, Nova Scotia
+     m. 28 September 1968
+           Dorothy Louise Chaput
+           divorced
+  
+  <font size=+1>child:</font>
+     Suzanne Vining

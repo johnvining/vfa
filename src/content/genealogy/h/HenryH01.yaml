@@ -1,0 +1,56 @@
+id: HenryH01
+letter: H
+sequence: 804
+lastUpdated: 30 July 2022
+relationship: son
+parentId: WilliamHJr01
+parentLetter: W
+parentDesc: William Henry Vining Jr. and Jane Susanna Hart
+head:
+  givenName: Henry Hart
+  birth:
+    date: 14 January 1890
+  death:
+    date: July 1974
+    place: "(last residence: East Canaan, Connecticut)"
+  burial:
+    place: "Colebrook Center Cemetery   Colebrook, Connecticut"
+marriages:
+  - spouse:
+      givenName: Walpurga
+      surname: Stein
+      birth:
+        date: "1892"
+      death:
+        date: "1985"
+      burial:
+        place: "Colebrook Center Cemetery   Colebrook, Connecticut"
+childrenGroups:
+  - children:
+      - name: Florence Margaret Vining
+        birth:
+          date: "Windsted, Connecticut"
+        marriages:
+          - number: 1
+            date: "Norfolk, Connecticut"
+            spouse: "Earle A. Crump, divorced"
+          - number: 2
+            date: "[...] Thomen"
+      - name: George Vining
+docsUrl: Hsources/HenryH01doc.htm
+raw: |-
+  <a name="HenryH01"></a><font size=+2>Henry Hart Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamHJr01">William Henry Vining Jr. and Jane Susanna Hart</a>)
+     b. 14 January 1890
+     m. Walpurga Stein
+              b. 1892
+              d. 1985
+                    bur. Colebrook Center Cemetery   Colebrook, Connecticut
+     d. July 1974   (last residence: East Canaan, Connecticut)
+           bur. Colebrook Center Cemetery   Colebrook, Connecticut
+  
+  <font size=+1>children:</font>
+     Florence Margaret Vining   b. Windsted, Connecticut   -   m. (1) Norfolk, Connecticut   Earle A. Crump, divorced;   (2) [...] Thomen
+     George Vining
+  
+  <a href="Hsources/HenryH01doc.htm">documentation and notes</a>

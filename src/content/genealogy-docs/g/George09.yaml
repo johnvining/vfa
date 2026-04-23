@@ -1,0 +1,43 @@
+id: George09
+title: George Vining - Amanda [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: George Vining
+          values:
+            - "24"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Amanda ([...]) Vining
+          values:
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: George L. Vining
+          values:
+            - 8 m.
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: East Bridgewater, Plymouth County, Massachusetts - dwelling 181, family 186
+        images:
+          - src: George09census1860.jpg

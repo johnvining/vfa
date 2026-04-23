@@ -1,0 +1,71 @@
+id: David02
+sequence: 23
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Elisha01
+parentLetter: E
+parentDesc: Elisha Vining and Mary Leavitt
+head:
+  givenName: David
+  birth:
+    date: 14 January 1753
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: ca. 1795
+    place: "Coxsackie, Greene County, New York"
+marriages:
+  - date: int. 12 February 1774
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Esther
+      surname: Corthel
+childrenGroups:
+  - children:
+      - name: child
+        birth:
+          date: ca. 1775
+        death:
+          date: 15 October 1778
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: Esther Vining
+        birth:
+          date: 8 January 1776
+          place: "Abington, Plymouth County, Massachusetts"
+      - name: David Vining Jr.
+        entryId: DavidJr02
+        birth:
+          date: ca. 1780
+        marriages:
+          - spouse: Hannah Husted
+        death:
+          date: 21 May 1840
+          place: "Cairo, Greene County, New York"
+        burial:
+          place: "Parks Cemetery   Cairo, Greene County, New York"
+      - name: daughter
+      - name: daughter
+      - name: "Jonathan Vining?"
+        birth:
+          date: ca. 1792
+        death:
+          date: ca. December 1836
+          place: "Cairo, New York"
+docsUrl: Dsources/David02doc.htm
+raw: |-
+  <a name="David02"></a><font size=+2>David Vining</font>
+     (son of <a href="Efamilies.htm#Elisha01">Elisha Vining and Mary Leavitt</a>)
+     b. 14 January 1753   Abington, Plymouth County, Massachusetts
+     m. int. 12 February 1774   Abington, Plymouth County, Massachusetts
+           Esther Corthel
+     d. ca. 1795   Coxsackie, Greene County, New York
+  
+  <font size=+1>children:</font>
+     child   b. ca. 1775   -   d. 15 October 1778   Abington, Plymouth County, Massachusetts
+     Esther Vining   b. 8 January 1776   Abington, Plymouth County, Massachusetts
+     <a href="#DavidJr02">David Vining Jr.</a>   b. ca. 1780   -   m. Hannah Husted   -   d. 21 May 1840   Cairo, Greene County, New York   -   bur. Parks Cemetery   Cairo, Greene County, New York
+     daughter
+     daughter
+     Jonathan Vining?   b. ca. 1792   -   d. ca. December 1836   Cairo, New York
+  
+  <a href="Dsources/David02doc.htm">documentation and notes</a>

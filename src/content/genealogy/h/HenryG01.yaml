@@ -1,0 +1,36 @@
+id: HenryG01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Henry G.
+  birth:
+    date: age 22 y. as of 1940 census
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Mary Lee
+      surname: "[&#8230;]"
+      birth:
+        date: age 22 y. as of 1940 census
+        place: Georgia
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Leo Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Georgia
+docsUrl: Hsources/HenryG01doc.htm
+raw: |-
+  <a name="HenryG01"></a><font size=+2>Henry G. Vining</font>
+     (son of [?])
+     b. age 22 y. as of 1940 census   Georgia
+     m. Mary Lee [&#8230;]
+              b. age 22 y. as of 1940 census   Georgia
+  
+  <font size=+1>child:</font>
+     Leo Vining   b. age 1 y. as of 1940 census   Georgia
+  
+  <a href="Hsources/HenryG01doc.htm">documentation and notes</a>

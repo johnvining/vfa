@@ -1,0 +1,48 @@
+id: ClarenceL01
+letter: C
+sequence: 124
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesA08
+parentDesc: Charles Arnold Vining and Mary Alice Pyle
+head:
+  givenName: Clarence Lee
+  birth:
+    date: 13 March 1891
+    place: "Otter Creek, Iowa"
+  death:
+    date: September 1974
+    place: "San Mateo, California"
+marriages:
+  - date: 20 y. as of 1930 census
+    spouse:
+      givenName: Jennie M.
+      surname: "[&#8230;]"
+      birth:
+        date: age 28 y. as of 1920 census
+        place: Illinois
+childrenGroups:
+  - children:
+      - name: Dorothy Vining
+        birth:
+          date: "age 3 y., 11 m. as of 1920 census"
+          place: Idaho
+      - name: Clarence Lee Vining Jr.
+        birth:
+          date: age 7 y. as of 1930 census
+          place: Idaho
+docsUrl: Csources/ClarenceL01doc.htm
+raw: |-
+  <a name="ClarenceL01"></a><font size=+2>Clarence Lee Vining</font>
+     (son of <a href="#CharlesA08">Charles Arnold Vining and Mary Alice Pyle</a>)
+     b. 13 March 1891   Otter Creek, Iowa
+     m. 20 y. as of 1930 census
+           Jennie M. [&#8230;]
+                 b. age 28 y. as of 1920 census   Illinois
+     d. September 1974   San Mateo, California
+  
+  <font size=+1>children:</font>
+     Dorothy Vining   b. age 3 y., 11 m. as of 1920 census   Idaho
+     Clarence Lee Vining Jr.   b. age 7 y. as of 1930 census   Idaho
+  
+  <a href="Csources/ClarenceL01doc.htm">documentation and notes</a>

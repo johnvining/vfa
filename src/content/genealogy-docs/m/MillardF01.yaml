@@ -1,0 +1,97 @@
+id: MillardF01
+title: Millard F. Vining - Emma A. Gilkey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Millard F. Vining
+          values:
+            - "23"
+            - "33"
+            - "?"
+            - "52"
+            - "?"
+            - "?"
+        - label: Emma A. (Gilkey) Vining
+          values:
+            - "22"
+            - "32"
+            - "?"
+            - "46"
+            - "?"
+            - "?"
+        - label: Jennie A. Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - |-
+              not living in this household
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Lula M. Vining
+          values:
+            - ""
+            - "7"
+            - "?"
+            - |-
+              not living in this household
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: William F. Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Hattie M. Vining
+          values:
+            - ""
+            - "1"
+            - "?"
+            - |-
+              not living in this household
+              [see note below]
+            - "?"
+            - "?"
+          indent: true
+        - label: Bissie M. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 56, family 61. In 1870, Millard F. and Emma A. were living in the
+          household of his mother, Jane C. (Thomas) Vining.
+        images:
+          - src: MillardF01census1870.jpg
+      - year: "1880"
+        caption: Grand Meadow, Mower County, Minnesota - dwelling 44, family 44
+        images:
+          - src: MillardF01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Minneapolis (Ward 8), Hennipen County, Minnesota - dwelling 190?, family 225?. By 1900, 5 children had been
+          born to Millard F. and Emma A. (Gilkey) Vining, but only 4 were living.
+        images:
+          - src: MillardF01census1900.jpg

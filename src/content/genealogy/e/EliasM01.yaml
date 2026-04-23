@@ -1,0 +1,58 @@
+id: EliasM01
+sequence: 74
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Calvin01
+parentLetter: C
+parentDesc: Calvin Vining and Mary Ann Noe
+head:
+  givenName: Elias M.
+  birth:
+    date: age 26 y. as of 1850 census
+    place: Ohio
+marriages:
+  - date: January 1846
+    spouse:
+      givenName: Jane
+      surname: Bunker
+      birth:
+        date: age 33 y. as of 1860 census
+        place: Virginia
+      death:
+        date: before 1900 census
+childrenGroups:
+  - children:
+      - name: Clara A. B. Vining
+        birth:
+          date: age 13 y. as of 1860 census
+          place: Ohio
+      - name: James P. Vining
+        entryId: JamesP02
+        entryLetter: J
+        birth:
+          date: "1857"
+          place: Ohio
+        marriages:
+          - date: 28 July 1881
+            place: "Crawford, Ohio"
+            spouse: Lillie M. Davis
+        death:
+          date: 8 July 1925
+        burial:
+          place: "Saint Mary Cemetery   Delaware, Ohio"
+docsUrl: Esources/EliasM01doc.htm
+raw: |-
+  <a name="EliasM01"></a><font size=+2>Elias M. Vining</font>
+     (son of <a href="Cfamilies.htm#Calvin01">Calvin Vining and Mary Ann Noe</a>)
+     b. age 26 y. as of 1850 census   Ohio
+     m. January 1846
+           Jane Bunker
+                 b. age 33 y. as of 1860 census   Virginia
+                 d. before 1900 census
+  
+  <font size=+1>children:</font>
+     Clara A. B. Vining   b. age 13 y. as of 1860 census   Ohio
+     <a href="Jfamilies.htm#JamesP02">James P. Vining</a>   b. 1857   Ohio   -   m. 28 July 1881   Crawford, Ohio   Lillie M. Davis   -   d. 8 July 1925   -   bur. Saint Mary Cemetery   Delaware, Ohio
+  
+  <a href="Esources/EliasM01doc.htm">documentation and notes</a>

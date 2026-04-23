@@ -1,0 +1,72 @@
+id: John06
+title: John Vining - Hannah Reed
+sections:
+  - type: census
+    table:
+      columns:
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: John Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "72"
+            - dead
+            - ""
+        - label: Hannah (Reed) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "68"
+            - |-
+              78
+              [see note below]
+            - dead
+        - label: Mary Vining
+          values:
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jairus Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married [and living in separate household?]
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Weymount, Norfolk County, Massachusetts - dwelling 285, family 348
+        images:
+          - src: John06census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weymount, Norfolk County, Massachusetts - dwelling 1082, family 1263. In 1860 Hannah was living in the
+          household of her daughter, Mary (Vining) Hunt.
+        images:
+          - src: John06census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for John Vining and Hannah (Reed) Vining, in Reed Cemetery, Weymouth, Norfolk County, Massachusetts
+          (from Find A Grave):
+        images:
+          - src: John06andwifeheadstone.jpg

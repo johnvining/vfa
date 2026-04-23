@@ -1,0 +1,51 @@
+id: JohnB04
+sequence: 202
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John B.
+  birth:
+    date: ca. 1815
+    place: New York
+marriages:
+  - date: 26 March 1873
+    place: Indiana
+    spouse:
+      givenName: Rhue Ann
+      surname: McClain
+      birth:
+        date: ca. 1838
+        place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John A. Bradley Vining
+        entryId: JohnAB01
+        entryLetter: J
+        birth:
+          date: 16 April 1871
+          place: Ohio
+        marriages:
+          - date: 14 April 1897
+            place: Indiana
+            spouse: Sarah Jane Brown
+        death:
+          date: 26 December 1956
+          place: Indiana
+        burial:
+          place: "Beech Grove Cemetery   Muncie, Indiana"
+docsUrl: Jsources/JohnB04doc.htm
+raw: |-
+  <a name="JohnB04"></a><font size=+2>John B. Vining</font>
+     (son of [?])
+     b. ca. 1815   New York
+     m. 26 March 1873   Indiana
+           Rhue Ann McClain
+                 b. ca. 1838   Ohio
+  
+  <font size=+1>child:</font>
+     <a href="#JohnAB01">John A. Bradley Vining</a>   b. 16 April 1871   Ohio   -   m. 14 April 1897   Indiana   Sarah Jane Brown   -   d. 26 December 1956   Indiana   -   bur. Beech Grove Cemetery   Muncie, Indiana
+  
+  <a href="Jsources/JohnB04doc.htm">documentation and notes</a>

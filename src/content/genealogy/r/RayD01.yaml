@@ -1,0 +1,57 @@
+id: RayD01
+sequence: 13
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: "Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins"
+head:
+  givenName: Ray Dean
+  birth:
+    date: 15 December 1924
+  death:
+    date: 11 September 2012
+  burial:
+    place: "Cortez Cemetery   Cortez, Colorado"
+marriages:
+  - spouse:
+      givenName: Helen Claire
+      surname: "[&#8230;]"
+      birth:
+        date: "1924"
+      death:
+        date: "1977"
+      burial:
+        place: "Cortez Cemetery   Cortez, Colorado"
+childrenGroups:
+  - children:
+      - name: Mary Vining
+        marriages:
+          - date: Rod Davis
+      - name: Frances Vining
+      - name: Jerry Ray Vining
+        birth:
+          date: 24 August 1948
+        death:
+          date: 26 November 1963
+        burial:
+          place: "Cortez Cemetery   Cortez, Colorado"
+docsUrl: Rsources/RayD01doc.htm
+raw: |-
+  <a name="RayD01"></a><font size=+2>Ray Dean Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins</a>)
+     b. 15 December 1924
+     m. Helen Claire [&#8230;]
+              b. 1924
+              d. 1977
+                    bur. Cortez Cemetery   Cortez, Colorado
+     d. 11 September 2012
+           bur. Cortez Cemetery   Cortez, Colorado
+  
+  <font size=+1>children:</font>
+     Mary Vining   m. Rod Davis
+     Frances Vining
+     Jerry Ray Vining   b. 24 August 1948   -   d. 26 November 1963   -   bur. Cortez Cemetery   Cortez, Colorado
+  
+  <a href="Rsources/RayD01doc.htm">documentation and notes</a>

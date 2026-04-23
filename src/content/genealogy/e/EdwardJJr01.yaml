@@ -1,0 +1,54 @@
+id: EdwardJJr01
+sequence: 37
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwardJ04
+parentDesc: "Edward Judson Vining and Vernon Hazel [...]"
+head:
+  givenName: Edward Judson Jr.
+  birth:
+    date: 26 May 1922
+  death:
+    date: 3 March 2013
+  burial:
+    place: "Riverside Memorial Park   Jacksonville, Florida"
+marriages:
+  - spouse:
+      givenName: Pauline
+      surname: Dekle
+      parents: "(dau of Ernest Dekle and Bruce Wenona [...])"
+      birth:
+        date: 27 August 1924
+        place: "Jacksonville, Florida"
+      death:
+        date: 31 January 2010
+        place: "Jacksonville, Florida"
+      burial:
+        place: "Riverside Memorial Park   Jacksonville, Florida"
+childrenGroups:
+  - children:
+      - name: "[Judy or Judee?] Vining"
+        marriages:
+          - spouse: "[...] Suber"
+      - name: Elaine Vining
+        marriages:
+          - spouse: Ted Sills
+docsUrl: Esources/EdwardJJr01doc.htm
+raw: |-
+  <a name="EdwardJJr01"></a><font size=+2>Edward Judson Vining Jr.</font>
+     (son of <a href="#EdwardJ04">Edward Judson Vining and Vernon Hazel [...]</a>)
+     b. 26 May 1922
+     m. Pauline Dekle
+              (dau of Ernest Dekle and Bruce Wenona [...])
+              b. 27 August 1924   Jacksonville, Florida
+              d. 31 January 2010   Jacksonville, Florida
+                    bur. Riverside Memorial Park   Jacksonville, Florida
+     d. 3 March 2013
+           bur. Riverside Memorial Park   Jacksonville, Florida
+  
+  <font size=+1>children:</font>
+     [Judy or Judee?] Vining   m. [...] Suber
+     Elaine Vining   m. Ted Sills
+  
+  <a href="Esources/EdwardJJr01doc.htm">documentation and notes</a>

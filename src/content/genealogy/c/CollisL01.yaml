@@ -1,0 +1,38 @@
+id: CollisL01
+letter: C
+sequence: 151
+lastUpdated: 25 February 2023
+relationship: son
+parentId: HughD01
+parentLetter: H
+parentDesc: Hugh Dorsey Vining and Frances Graddy
+head:
+  givenName: Collis Linwood
+  birth:
+    date: 16 October 1937
+    place: "Spalding County, Georgia"
+  death:
+    date: 3 February 2021
+marriages:
+  - spouse:
+      givenName: Nora Jean
+      surname: Oxford
+childrenGroups:
+  - children:
+      - name: Randy Vining
+      - name: Fay Vining
+        marriages:
+          - date: "[&#8230;] McDaniel"
+docsUrl: Csources/CollisL01doc.htm
+raw: |-
+  <a name="CollisL01"></a><font size=+2>Collis Linwood Vining</font>
+     (son of <a href="Hfamilies.htm#HughD01">Hugh Dorsey Vining and Frances Graddy</a>)
+     b. 16 October 1937   Spalding County, Georgia
+     m. Nora Jean Oxford
+     d. 3 February 2021
+  
+  <font size=+1>children:</font>
+     Randy Vining
+     Fay Vining   m. [&#8230;] McDaniel
+  
+  <a href="Csources/CollisL01doc.htm">documentation and notes</a>

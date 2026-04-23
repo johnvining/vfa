@@ -1,0 +1,81 @@
+id: SolomonB01
+title: Solomon Benjamin Vining - Ruby Whittington
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Solomon Benjamin Vining
+          values:
+            - "33"
+            - "43"
+        - label: Ruby (Whittington) Vining
+          values:
+            - "28"
+            - "38"
+        - label: Clara Vining
+          values:
+            - 3 y., 10 m.
+            - "13"
+          indent: true
+        - label: Solomon Benjamin Vining Jr.
+          values:
+            - 1 y., [7?] m.
+            - "11"
+          indent: true
+        - label: Robert Gray Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Harold Vining
+          values:
+            - ""
+            - "7"
+          indent: true
+        - label: Eloise Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Albert Edward Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+        - label: Betty Jo Vining
+          values:
+            - ""
+            - 5 m.
+          indent: true
+        - label: Doris Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: William Berner Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Marshallville Militia District 543, Macon County, Georgia - dwelling 309, family 312
+        images:
+          - src: SolomonB01census1930.jpg
+      - year: "1940"
+        caption: Militia District 543, Macon County, Georgia
+        images:
+          - src: SolomonB01census1940.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Solomon Benjamin Vining:"
+        images:
+          - src: SolomonB01obituary.jpg
+      - caption: >-
+          Gravestone for Robert Gray Vining, son of Solomon Benjamin Vining and Ruby (Whittington) Vining, in Fort
+          Benning Post Cemetery Fort Benning, Georgia (from Find A Grave):
+        images:
+          - src: SolomonB01sonRobertgravestone.jpg

@@ -1,0 +1,39 @@
+id: JonR01
+sequence: 281
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: NormanA01
+parentLetter: N
+parentDesc: Norman Arthur Vining and Frances Rockwell
+head:
+  givenName: Jon Rockwell
+  birth:
+    date: 22 February 1939
+marriages:
+  - date: 21 June 1964
+    spouse:
+      givenName: Paula Louise
+      surname: Carlson
+childrenGroups:
+  - children:
+      - name: William Jon Vining
+        birth:
+          date: 30 October 1965
+      - name: Christine Louise Vining
+        birth:
+          date: 11 May 1968
+      - name: David Allan Vining
+        birth:
+          date: 2 February 1970
+raw: |-
+  <a name="JonR01"></a><font size=+2>Jon Rockwell Vining</font>
+     (son of <a href="Nfamilies.htm#NormanA01">Norman Arthur Vining and Frances Rockwell</a>)
+     b. 22 February 1939
+     m. 21 June 1964
+           Paula Louise Carlson
+  
+  <font size=+1>children:</font>
+     William Jon Vining   b. 30 October 1965
+     Christine Louise Vining   b. 11 May 1968
+     David Allan Vining   b. 2 February 1970

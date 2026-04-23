@@ -1,0 +1,69 @@
+id: Steven01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BenjaminL02
+parentLetter: B
+parentDesc: "Benjamin L. Vining and Esther [Kellyhouse or Callyhouse?]"
+head:
+  givenName: Steven
+  birth:
+    date: age 7 y. as of 1910 census
+    place: New York
+  death:
+    date: 10 September 1963
+    place: "Sherburne, New York"
+  burial:
+    place: "Sherburne, New York"
+marriages:
+  - number: 1
+    spouse:
+      givenName: Grace
+      surname: Sherwood
+      death:
+        date: 24 April 1942
+        place: "Greenport, New York"
+  - number: 2
+    spouse:
+      givenName: Alice Elma
+      surname: Bliss
+      birth:
+        date: 31 October 1906
+        place: "Scott, New York"
+      death:
+        date: 31 July 1984
+        place: "Cortland, New York"
+      burial:
+        place: "Truxton Cemetery   Truxton, New York"
+childrenGroups:
+  - spouseRef: Grace Sherwood
+    children:
+      - name: Helen Luellan Vining   b age 10 y. as of 1930 census   New York
+      - name: Mildred G. Vining
+        birth:
+          date: age 8 y. as of 1930 census
+          place: New York
+      - name: Steven J. Vining
+        birth:
+          date: age 3 y. as of 1940 census
+          place: New York
+docsUrl: Ssources/Steven01doc.htm
+raw: |-
+  <a name="Steven01"></a><font size=+2>Steven Vining</font>
+     (son of <a href="Bfamilies.htm#BenjaminL02">Benjamin L. Vining and Esther [Kellyhouse or Callyhouse?]</a>)
+     b. age 7 y. as of 1910 census   New York
+     m. (1) Grace Sherwood
+                    d. 24 April 1942   Greenport, New York
+           (2) Alice Elma Bliss
+                    b. 31 October 1906   Scott, New York
+                    d. 31 July 1984   Cortland, New York
+                          bur. Truxton Cemetery   Truxton, New York
+     d. 10 September 1963   Sherburne, New York
+           bur. Sherburne, New York
+  
+  <font size=+1>children by Grace Sherwood:</font>
+     Helen Luellan Vining   b age 10 y. as of 1930 census   New York
+     Mildred G. Vining   b. age 8 y. as of 1930 census   New York
+     Steven J. Vining   b. age 3 y. as of 1940 census   New York
+  
+  <a href="Ssources/Steven01doc.htm">documentation and notes</a>

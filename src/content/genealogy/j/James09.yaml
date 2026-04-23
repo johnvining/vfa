@@ -1,0 +1,34 @@
+id: James09
+sequence: 21
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James
+  birth:
+    date: age 60 y. as of 1920 census
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Celia
+      surname: "[...]"
+      birth:
+        date: age 55 y. as of 1920 census
+        place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Daisy Vining
+        birth:
+          date: age 40 y. as of 1920 census
+          place: Ohio
+raw: |-
+  <a name="James09"></a><font size=+2>James Vining</font>
+     (son of [?])
+     b. age 60 y. as of 1920 census   Ohio
+     m. Celia [...]
+              b. age 55 y. as of 1920 census   Ohio
+  
+  <font size=+1>child:</font>
+     Daisy Vining   b. age 40 y. as of 1920 census   Ohio

@@ -1,0 +1,89 @@
+id: WilliamE02
+sequence: 90
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamJr02
+parentDesc: William Vining Jr. and Lucy T. (Mann) Dunham
+head:
+  givenName: William Everett
+  birth:
+    date: 11 July 1864
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 28 October 1942
+    place: "Rockland, Massachusetts"
+marriages:
+  - number: 1
+    date: 25 September 1901
+    spouse:
+      givenName: Eleanor Maud
+      surname: Burbank
+      parents: "(dau. of George Washington Burbank and Harriet Almira Hodge)"
+      birth:
+        date: 10 February 1881
+        place: "Gorham, Coos County, New Hampshire"
+      death:
+        date: 19 July 1958
+        place: "Rockland, Plymouth County, Massachusetts"
+      burial:
+        place: "Mount Pleasant Cemetery   Rockland, Plymouth County, Massachusetts"
+    note: divorced
+  - number: 2
+    date: 3 October 1930
+    spouse:
+      givenName: Gertrude May (Chase)
+      surname: Ornvoll
+      parents: "(dau. of George G. Chase and Mary Clark)"
+      birth:
+        date: 4 September 1883
+      death:
+        date: December 1964
+        place: "(last residence: Massachusetts)"
+childrenGroups:
+  - spouseRef: Eleanor Maud Burbank
+    children:
+      - name: Mildred Vining
+        birth:
+          date: 19 December 1909
+          place: "Rockland, Plymouth County, Massachusetts"
+        death:
+          date: 20 December 1909
+          place: "Rockland, Plymouth County, Massachusetts"
+      - name: George Henry Vining
+        entryId: GeorgeH03
+        entryLetter: G
+        birth:
+          date: 29 August 1925
+          place: "Boston, Suffolk County, Massachusetts"
+        marriages:
+          - date: Edith Christina Schmook
+        death:
+          date: 10 July 2013
+          place: "Casco, Cumberland County, Maine"
+        burial:
+          place: "Mt. Pleasant Cemetery   Pembroke, Plymouth County, Massachusetts"
+docsUrl: Wsources/WilliamE02doc.htm
+raw: |-
+  <a name="WilliamE02"></a><font size=+2>William Everett Vining</font>
+     (son of <a href="#WilliamJr02">William Vining Jr. and Lucy T. (Mann) Dunham</a>)
+     b. 11 July 1864   Abington, Plymouth County, Massachusetts
+     m. (1) 25 September 1901
+                 Eleanor Maud Burbank
+                       (dau. of George Washington Burbank and Harriet Almira Hodge)
+                       b. 10 February 1881   Gorham, Coos County, New Hampshire
+                       d. 19 July 1958   Rockland, Plymouth County, Massachusetts
+                             bur. Mount Pleasant Cemetery   Rockland, Plymouth County, Massachusetts
+                 divorced
+           (2) 3 October 1930
+                 Gertrude May (Chase) Ornvoll
+                       (dau. of George G. Chase and Mary Clark)
+                       b. 4 September 1883
+                       d. December 1964   (last residence: Massachusetts)
+     d. 28 October 1942   Rockland, Massachusetts
+  
+  <font size=+1>children by Eleanor Maud Burbank:</font>
+     Mildred Vining   b. 19 December 1909   Rockland, Plymouth County, Massachusetts   -   d. 20 December 1909   Rockland, Plymouth County, Massachusetts
+     <a href="Gfamilies.htm#GeorgeH03">George Henry Vining</a>   b. 29 August 1925   Boston, Suffolk County, Massachusetts   -   m. Edith Christina Schmook   -   d. 10 July 2013   Casco, Cumberland County, Maine   -   bur. Mt. Pleasant Cemetery   Pembroke, Plymouth County, Massachusetts
+  
+  <a href="Wsources/WilliamE02doc.htm">documentation and notes</a>

@@ -1,0 +1,45 @@
+id: RobertA02
+sequence: 86
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesO04
+parentLetter: J
+parentDesc: James Orrin Vining and Katherine Nantz
+head:
+  givenName: Robert A.
+  birth:
+    date: 21 April 1940
+    place: "Seattle, Washington"
+  death:
+    date: 30 March 2011
+marriages:
+  - date: 18 July 1964
+    place: "Seattle, Washington"
+    spouse:
+      givenName: Patricia
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Clark Vining
+        entryId: Clark01
+        entryLetter: C
+        marriages:
+          - date: "Megan [...]"
+      - name: Kate Vining
+        marriages:
+          - date: Raed Gyekis
+docsUrl: Rsources/RobertA02doc.htm
+raw: |-
+  <a name="RobertA02"></a><font size=+2>Robert A. Vining</font>
+     (son of <a href="Jfamilies.htm#JamesO04">James Orrin Vining and Katherine Nantz</a>)
+     b. 21 April 1940   Seattle, Washington
+     m. 18 July 1964   Seattle, Washington
+           Patricia [...]
+     d. 30 March 2011
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#Clark01">Clark Vining</a>   m. Megan [...]
+     Kate Vining   m. Raed Gyekis
+  
+  <a href="Rsources/RobertA02doc.htm">documentation and notes</a>

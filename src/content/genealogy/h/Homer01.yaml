@@ -1,0 +1,54 @@
+id: Homer01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: JonahL01
+parentLetter: J
+parentDesc: Jonah L. Vining and Addie Wright
+head:
+  givenName: Homer
+  birth:
+    date: 18 August 1915
+    place: Alabama
+  death:
+    date: 25 November 1958
+  burial:
+    place: Green Pond Presbyterian Church Cemetery
+marriages:
+  - spouse:
+      givenName: Odell
+      surname: "[...]"
+      birth:
+        date: 18 October 1916
+        place: Alabama
+      death:
+        date: 5 June 1997
+      burial:
+        place: Green Pond Presbyterian Church Cemetery
+childrenGroups:
+  - children:
+      - name: Homer Vining Jr.
+        birth:
+          date: age 4 y. as of 1940 census
+          place: Alabama
+      - name: Betty Jean Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Alabama
+docsUrl: Hsources/Homer01doc.htm
+raw: |-
+  <a name="Homer01"></a><font size=+2>Homer Vining</font>
+     (son of <a href="Jfamilies.htm#JonahL01">Jonah L. Vining and Addie Wright</a>)
+     b. 18 August 1915   Alabama
+     m. Odell [...]
+              b. 18 October 1916   Alabama
+              d. 5 June 1997
+                    bur. Green Pond Presbyterian Church Cemetery
+     d. 25 November 1958
+           bur. Green Pond Presbyterian Church Cemetery
+  
+  <font size=+1>children:</font>
+     Homer Vining Jr.   b. age 4 y. as of 1940 census   Alabama
+     Betty Jean Vining   b. age 1 y. as of 1940 census   Alabama
+  
+  <a href="Hsources/Homer01doc.htm">documentation and notes</a>

@@ -1,0 +1,45 @@
+id: BeverlyL01
+letter: B
+sequence: 46
+lastUpdated: 25 February 2023
+relationship: son
+parentId: MitchellO01
+parentLetter: M
+parentDesc: Mitchell O. Vining and Clara Clark
+head:
+  givenName: Beverly Lawrence
+  birth:
+    date: 11 April 1928
+    place: "Berwick, St. Mary Parish, Louisiana"
+  death:
+    date: 20 November 2013
+    place: "Morgan City, St. Mary Parish, Louisiana"
+  burial:
+    place: "Morgan City Cemetery and Mausoleum   Morgan City, St. Mary Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Ruby D.
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Susan Vining
+        marriages:
+          - date: Keith Dupre
+      - name: Bryan L. Vining
+        marriages:
+          - date: "Dallas [...]"
+      - name: Lori Vining
+        marriages:
+          - date: William McCarthy
+raw: |-
+  <a name="BeverlyL01"></a><font size=+2>Beverly Lawrence Vining</font>
+     (son of <a href="Mfamilies.htm#MitchellO01">Mitchell O. Vining and Clara Clark</a>)
+     b. 11 April 1928   Berwick, St. Mary Parish, Louisiana
+     m. Ruby D. [...]
+     d. 20 November 2013   Morgan City, St. Mary Parish, Louisiana
+           bur. Morgan City Cemetery and Mausoleum   Morgan City, St. Mary Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     Susan Vining   m. Keith Dupre
+     Bryan L. Vining   m. Dallas [...]
+     Lori Vining   m. William McCarthy

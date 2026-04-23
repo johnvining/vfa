@@ -1,0 +1,74 @@
+id: ErastusC01
+sequence: 106
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JamesM03
+parentLetter: J
+parentDesc: James M. Vining and Almira H. Buckland
+head:
+  givenName: Erastus Clarkson
+  birth:
+    date: 12 June 1841
+    place: Iowa
+  death:
+    date: 12 March 1906
+    place: Missouri
+  burial:
+    place: "Evergreen Cemetery   Branson, Missouri"
+marriages:
+  - date: 13 July 1865
+    spouse:
+      givenName: Elizabeth E.
+      surname: Ritson
+childrenGroups:
+  - children:
+      - name: Dora May Vining
+        birth:
+          date: age 8 m. as of 1870 census
+          place: Kansas
+        marriages:
+          - spouse: George Boraker
+      - name: Walter James Vining
+        entryId: WalterJ01
+        entryLetter: W
+        birth:
+          date: age 8 y. as of 1880 census
+          place: Kansas
+        marriages:
+          - spouse: "Minnie [&#8230;]"
+      - name: Edwin F. Vining
+        birth:
+          date: age 5 y. as of 1880 census
+          place: Kansas
+      - name: Charles Augustus Vining
+        entryId: CharlesA03
+        entryLetter: C
+        birth:
+          date: 16 April 1880
+          place: Kansas
+        death:
+          date: 22 January 1951
+        burial:
+          place: "Evergreen Cemetery   Branson, Missouri"
+      - name: child
+      - name: child
+docsUrl: Esources/ErastusC01doc.htm
+raw: |-
+  <a name="ErastusC01"></a><font size=+2>Erastus Clarkson Vining</font>
+     (son of <a href="Jfamilies.htm#JamesM03">James M. Vining and Almira H. Buckland</a>)
+     b. 12 June 1841   Iowa
+     m. 13 July 1865
+           Elizabeth E. Ritson
+     d. 12 March 1906   Missouri
+           bur. Evergreen Cemetery   Branson, Missouri
+  
+  <font size=+1>children:</font>
+     Dora May Vining   b. age 8 m. as of 1870 census   Kansas   -   m. George Boraker
+     <a href="Wfamilies.htm#WalterJ01">Walter James Vining</a>   b. age 8 y. as of 1880 census   Kansas   -   m. Minnie [&#8230;]
+     Edwin F. Vining   b. age 5 y. as of 1880 census   Kansas
+     <a href="Cfamilies.htm#CharlesA03">Charles Augustus Vining</a>   b. 16 April 1880   Kansas   -   d. 22 January 1951   -   bur. Evergreen Cemetery   Branson, Missouri
+     child
+     child
+  
+  <a href="Esources/ErastusC01doc.htm">documentation and notes</a>

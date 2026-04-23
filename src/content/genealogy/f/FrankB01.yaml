@@ -1,0 +1,33 @@
+id: FrankB01
+sequence: 29
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: SamuelE01
+parentLetter: S
+parentDesc: Samuel E. Vining and Harriet A. Booth
+head:
+  givenName: Frank Booth
+  birth:
+    date: 8 March 1889
+    place: "Sedalia, Missouri"
+  death:
+    date: 13 September 1974
+    place: "New York, New York"
+marriages:
+  - spouse:
+      givenName: Ruth
+      surname: Stickel
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Frank Booth Vining Jr.
+raw: |-
+  <a name="FrankB01"></a><font size=+2>Frank Booth Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelE01">Samuel E. Vining and Harriet A. Booth<a>)
+     b. 8 March 1889   Sedalia, Missouri
+     m. Ruth Stickel
+     d. 13 September 1974   New York, New York
+  
+  <font size=+1>child:</font>
+     Frank Booth Vining Jr.

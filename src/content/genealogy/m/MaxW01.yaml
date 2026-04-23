@@ -1,0 +1,57 @@
+id: MaxW01
+sequence: 19
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: ClarenceD02
+parentLetter: C
+parentDesc: Clarence Donavon Vining and Iva Travis
+head:
+  givenName: Max W.
+  birth:
+    date: 24 March 1928
+    place: Michigan
+  death:
+    date: 10 December 2000
+    place: "(last residence: Saginaw, Michigan)"
+  burial:
+    place: "Johnson Cemetery   Michigan"
+marriages:
+  - spouse:
+      givenName: Lois Marjorie
+      surname: Potter
+      parents: "(dau. of Russel Marshall Potter and Flora Eva Lothrop)"
+      birth:
+        date: 14 January 1931
+        place: "Marlette, Michigan"
+      death:
+        date: 19 January 1995
+        place: Florida
+      burial:
+        place: "Johnson Cemetery   Michigan"
+childrenGroups:
+  - children:
+      - name: Russel Vining
+        birth:
+          date: 17 November 1957
+      - name: Brenda Vining
+        birth:
+          date: 21 March 1959
+docsUrl: Msources/MaxW01doc.htm
+raw: |-
+  <a name="MaxW01"></a><font size=+2>Max W. Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceD02">Clarence Donavon Vining and Iva Travis</a>)
+     b. 24 March 1928   Michigan
+     m. Lois Marjorie Potter
+              (dau. of Russel Marshall Potter and Flora Eva Lothrop)
+              b. 14 January 1931   Marlette, Michigan
+              d. 19 January 1995   Florida
+                    bur. Johnson Cemetery   Michigan
+     d. 10 December 2000   (last residence: Saginaw, Michigan)
+           bur. Johnson Cemetery   Michigan
+  
+  <font size=+1>children:</font>
+     Russel Vining   b. 17 November 1957
+     Brenda Vining   b. 21 March 1959
+  
+  <a href="Msources/MaxW01doc.htm">documentation and notes</a>

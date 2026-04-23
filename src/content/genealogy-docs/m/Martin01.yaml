@@ -1,0 +1,105 @@
+id: Martin01
+title: Martin Vining - Lucy Allen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Martin Vining
+          values:
+            - "?"
+            - "42"
+            - "52"
+            - "62"
+            - "?"
+            - "?"
+        - label: Lucy (Allen) Vining
+          values:
+            - "?"
+            - "40"
+            - "50"
+            - "60"
+            - "?"
+            - "?"
+        - label: George W. Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: William Allen Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Samuel Hildreth Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Andrew J. Vining
+          values:
+            - ""
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: George H. Vining
+          values:
+            - ""
+            - "2"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Howard Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Wallace Vining
+          values:
+            - ""
+            - 4 m.
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 16, family 17
+        images:
+          - src: Martin01census1850.jpg
+      - year: "1860"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 725, family 827
+        images:
+          - src: Martin01census1860.jpg
+      - year: "1870"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 1588, family 1933
+        images:
+          - src: Martin01census1870.jpg

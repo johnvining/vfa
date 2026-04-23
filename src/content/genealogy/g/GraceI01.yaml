@@ -1,0 +1,25 @@
+id: GraceI01
+letter: G
+lastUpdated: 22 July 2022
+relationship: dau.
+parentId: Agustus01
+parentLetter: A
+parentDesc: "[Agustus Vining and Jessie Page?]"
+head:
+  givenName: Grace I.
+  birth:
+    date: June 1888
+    place: Ohio
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Hermon Vining
+        birth:
+          date: 20 April 1903
+raw: |-
+  <a name="GraceI01"></a><font size=+2>Grace I. Vining</font>
+     (dau. of <a href="Afamilies.htm#Agustus01">[Agustus Vining and Jessie Page?]</a>)
+     b. June 1888   Ohio
+  
+  <font size=+1>child:</font>
+     Hermon Vining   b. 20 April 1903

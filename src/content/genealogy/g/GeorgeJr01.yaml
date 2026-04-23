@@ -1,0 +1,84 @@
+id: GeorgeJr01
+letter: G
+sequence: 12
+lastUpdated: 22 July 2022
+relationship: son
+parentId: George02
+parentDesc: George Vining and Abigail Alden
+head:
+  givenName: George Jr.
+  birth:
+    date: 3 August 1789
+    place: "Bridgewater, Plymouth County, Massachusetts"
+  death:
+    date: 19 June 1871
+marriages:
+  - date: 19 June 1817
+    spouse:
+      givenName: Susan
+      surname: Woods
+      birth:
+        date: age 52 y. as of 1850 census
+        place: Massachusetts
+      death:
+        date: 19 November 1867
+        place: "Plainfield, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Alden Barr Vining
+        entryId: AldenB01
+        entryLetter: A
+        birth:
+          date: 23 June 1818
+          place: "Plainfield, Massachusetts"
+        marriages:
+          - date: "[1843 or 1844]"
+            place: "Cummington, Massachusetts"
+            spouse: Philomela F. Reed
+        death:
+          date: "21 October [1857 or 1859?]"
+          place: "Bridgeport, Connecticut"
+        burial:
+          place: "Hilltop Cemetery   Plainfield, Hampshire County, Massachusetts"
+      - name: Calcina Catharine Vining
+        birth:
+          date: 3 May 1820
+        marriages:
+          - date: int. 19 April 1841
+            spouse: William Robinson
+      - name: George Whitefield Vining
+        entryId: GeorgeW01
+        birth:
+          date: 16 March 1822
+        marriages:
+          - date: Emily Holland
+        death:
+          date: 28 April 1879
+          place: "Denver, Colorado"
+        burial:
+          place: "Forest Lawn Cemetery   Buffalo, New York"
+      - name: Jonathan Edwards Vining
+        birth:
+          date: age 2 weeks at death
+        death:
+          date: 3 November 1824
+        burial:
+          place: "West Hill Cemetery   Plainfield, Massachusetts"
+docsUrl: Gsources/GeorgeJr01doc.htm
+raw: |-
+  <a name="GeorgeJr01"></a><font size=+2>George Vining Jr.</font>
+     (son of <a href="#George02">George Vining and Abigail Alden</a>)
+     b. 3 August 1789   Bridgewater, Plymouth County, Massachusetts
+     m. 19 June 1817
+           Susan Woods
+                 b. age 52 y. as of 1850 census   Massachusetts
+                 d. 19 November 1867   Plainfield, Massachusetts
+     d. 19 June 1871
+  
+  <font size=+1>children:</font>
+     <a href="Afamilies.htm#AldenB01">Alden Barr Vining</a>   b. 23 June 1818   Plainfield, Massachusetts   -   m. [1843 or 1844]   Cummington, Massachusetts   Philomela F. Reed   -   d. 21 October [1857 or 1859?]   Bridgeport, Connecticut   -   bur. Hilltop Cemetery   Plainfield, Hampshire County, Massachusetts
+     Calcina Catharine Vining   b. 3 May 1820   -   m. int. 19 April 1841   William Robinson
+     <a href="#GeorgeW01">George Whitefield Vining</a>   b. 16 March 1822   -   m. Emily Holland   -   d. 28 April 1879   Denver, Colorado   -   bur. Forest Lawn Cemetery   Buffalo, New York
+     Jonathan Edwards Vining   b. age 2 weeks at death   -   d. 3 November 1824   -   bur. West Hill Cemetery   Plainfield, Massachusetts
+  
+  <a href="Gsources/GeorgeJr01doc.htm">documentation and notes</a>

@@ -1,0 +1,56 @@
+id: AubreyE01
+title: Aubrey Elliott Vining - Florence Frances McCarthy
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Aubrey Elliott Vining
+          values:
+            - "?"
+            - "32"
+        - label: Florence Frances (McCarthy) Vining
+          values:
+            - "?"
+            - "28"
+        - label: Frank Aubrey Vining
+          values:
+            - "?"
+            - dead
+          indent: true
+        - label: Beverly Jean Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Robert Elliott Vining
+          values:
+            - ""
+            - dead
+          indent: true
+        - label: Audrey Ellen Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Jacqueline Ruth Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Ward 4, Tangipahoa Parish, Louisiana
+        images:
+          - src: AubreyE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Aubrey Elliott Vining and Florence Frances (McCarthy) Vining, in Mulberry Street Cemetery,
+          Amite, Tangipahoa Parish, Louisiana (from Find A Grave):
+        images:
+          - src: AubreyE01gravestone.jpg
+          - src: AubreyE01wifegravestone.jpg
+        inline: true

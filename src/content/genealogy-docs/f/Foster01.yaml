@@ -1,0 +1,58 @@
+id: Foster01
+title: Foster Vining - Ida Eliza Allen
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Foster Vining
+          values:
+            - "?"
+            - "38"
+            - "48"
+            - "?"
+            - "66"
+            - dead
+        - label: Ida Eliza (Allen) Vining
+          values:
+            - "?"
+            - "47"
+            - "57"
+            - "?"
+            - "76"
+            - "?"
+        - label: child Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 161, family 170
+        images:
+          - src: Foster01census1900.jpg
+      - year: "1910"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 83, family 85
+        images:
+          - src: Foster01census1910.jpg
+      - year: "1930"
+        caption: Southwick, Hampden County, Massachusetts - dwelling 166, family 181
+        images:
+          - src: Foster01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Foster Vining and Ida Eliza (Allen) Vining, in Southwick Cemetery, Southwick, Hampden County,
+          Massachusetts (from Find A Grave):
+        images:
+          - src: Foster01andwifeheadstone.jpg

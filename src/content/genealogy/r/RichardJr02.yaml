@@ -1,0 +1,67 @@
+id: RichardJr02
+sequence: 47
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Richard09
+parentDesc: "Richard Vining and [?]"
+head:
+  givenName: Richard Jr.
+  birth:
+    date: age 34 y. at death
+    place: "Granby, Hartford County, Connecticut"
+  death:
+    date: 7 May 1811
+    place: "West Granby, Hartford County, Connecticut"
+  burial:
+    place: "West Granby Cemetery   Granby, Hartford County, Connecticut"
+marriages:
+  - date: 1 September 1803
+    place: Connecticut
+    spouse:
+      givenName: "Melinda Banning [she m. (2) John"
+      surname: "Robbins]"
+      birth:
+        date: "1777"
+        place: "Hartland, Hartford County, Connecticut"
+      death:
+        date: 26 July 1815
+        place: "Granby, Hartford County, Connecticut"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Abner Banning Vining
+        entryId: AbnerB02
+        entryLetter: A
+        birth:
+          date: 4 September 1807
+          place: "Granby, Hartford County, Connecticut"
+        marriages:
+          - number: 1
+            date: 10 October 1833
+            spouse: "Ellen C. Bester (d. 1863)"
+          - number: 2
+            date: 20 August 1864
+            place: "Adams, Illinois"
+            spouse: "Mrs. Sarah R. Tarbell (n&#233;e Kidder)"
+        death:
+          date: 7 August 1882
+          place: Illinois
+        burial:
+          place: "Stewart Cemetery   Plainville, Adams County, Illinois"
+docsUrl: Rsources/RichardJr02doc.htm
+raw: |-
+  <a name="RichardJr02"></a><font size=+2>Richard Vining Jr.</font>
+     (son of <a href="#Richard09">Richard Vining and [?]</a>)
+     b. age 34 y. at death   Granby, Hartford County, Connecticut
+     m. 1 September 1803   Connecticut
+           Melinda Banning [she m. (2) John Robbins]
+                 b. 1777   Hartland, Hartford County, Connecticut
+                 d. 26 July 1815   Granby, Hartford County, Connecticut
+     d. 7 May 1811   West Granby, Hartford County, Connecticut
+           bur. West Granby Cemetery   Granby, Hartford County, Connecticut
+  
+  <font size=+1>child:</font>
+     <a href="Afamilies.htm#AbnerB02">Abner Banning Vining</a>   b. 4 September 1807   Granby, Hartford County, Connecticut   -   m. (1) 10 October 1833   Ellen C. Bester (d. 1863);   (2) 20 August 1864   Adams, Illinois   Mrs. Sarah R. Tarbell (n&#233;e Kidder)   -   d. 7 August 1882   Illinois   -   bur. Stewart Cemetery   Plainville, Adams County, Illinois
+  
+  <a href="Rsources/RichardJr02doc.htm">documentation and notes</a>

@@ -1,0 +1,69 @@
+id: Isaiah01
+letter: I
+lastUpdated: 9 March 2021
+relationship: son
+parentId: LeonP01
+parentLetter: L
+parentDesc: Leon Percy Vining and Ida Lewis
+head:
+  givenName: Isaiah
+  birth:
+    date: 5 April 1936
+marriages:
+  - number: 1
+    date: 11 June 1955
+    place: "Orleans Parish, Louisiana"
+    spouse:
+      givenName: Melba Fae
+      surname: Esteen
+      parents: "(dau. of John Esteen and Mary Bridgewater)"
+      birth:
+        date: age 17 y. at marriage
+      death:
+        date: before 30 July 2010
+  - number: 2
+    date: "Rachel [...]"
+childrenGroups:
+  - children:
+      - name: Brian James Vining
+        birth:
+          date: 5 January 1958
+          place: "New Orleans, Orleans Parish, Louisiana"
+        marriages:
+          - date: 15 September 1995
+            spouse: Flora Bassett
+        death:
+          date: 30 July 2010
+          place: "Jefferson Parish, Louisiana"
+        burial:
+          place: Rocky Hill Cemetery   Montpelier
+      - name: Brenda Vining
+        birth:
+          date: 5 January 1958
+      - name: Isaiah Vining Jr.
+      - name: Keith Anthony Vining
+        birth:
+          date: 7 August 1964
+      - name: Belinda Vining
+        marriages:
+          - date: Andrew Trepagnier
+docsUrl: Isources/Isaiah01doc.htm
+raw: |-
+  <a name="Isaiah01"></a><font size=+2>Isaiah Vining</font>
+     (son of <a href="Lfamilies.htm#LeonP01">Leon Percy Vining and Ida Lewis</a>)
+     b. 5 April 1936
+     m. (1) 11 June 1955   Orleans Parish, Louisiana
+                 Melba Fae Esteen
+                       (dau. of John Esteen and Mary Bridgewater)
+                       b. age 17 y. at marriage
+                       d. before 30 July 2010
+           (2) Rachel [...]
+  
+  <font size=+1>children:</font>
+     Brian James Vining   b. 5 January 1958   New Orleans, Orleans Parish, Louisiana   -   m. 15 September 1995   Flora Bassett   -   d. 30 July 2010   Jefferson Parish, Louisiana   -   bur. Rocky Hill Cemetery   Montpelier
+     Brenda Vining   b. 5 January 1958
+     Isaiah Vining Jr.
+     Keith Anthony Vining   b. 7 August 1964
+     Belinda Vining   m. Andrew Trepagnier
+  
+  <a href="Isources/Isaiah01doc.htm">documentation and notes</a>

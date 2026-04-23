@@ -1,0 +1,190 @@
+id: Bana01
+title: Bana Vining - (1) Martha Jane Crosby; (2) Frances Jane Gillis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Bana (Bainley, Bench) Vining
+          values:
+            - "27"
+            - "?"
+            - "47"
+            - "57"
+            - "68"
+            - dead
+            - ""
+        - label: Martha Jane (Crosby) Vining
+          values:
+            - "27"
+            - "?"
+            - "[divorced?]"
+            - ""
+            - ""
+            - dead
+            - ""
+        - label: Frances Jane (Gillis) Vining
+          values:
+            - ""
+            - ""
+            - "32"
+            - "42"
+            - "55"
+            - "?"
+            - dead
+        - label: Agnes Vining
+          values:
+            - "3"
+            - "?"
+            - "[living? in separate household"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ida Vining
+          values:
+            - "2"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Alice Vining
+          values:
+            - "1"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Edgar Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Verjal Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Tessica Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Oscar Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Olin Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "16"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Eula Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Lilla Vining
+          values:
+            - ""
+            - ""
+            - 9 months
+            - "11"
+            - "19"
+            - "?"
+            - "?"
+          indent: true
+        - label: Ellen Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+        - label: Malinda Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: District 1130, Coffee County, Georgia - dwelling 496, family 514
+        images:
+          - src: Bana01census1880.jpg
+      - year: "1900"
+        caption: Militia District 1353, Coffee County, Georgia - dwelling 120, family 120
+        images:
+          - src: Bana01census1900.jpg
+      - year: "1910"
+        caption: Pearson (Militia District [1130 or 1150?]), Coffee County, Georgia - dwelling [number not given], family 275
+        images:
+          - src: Bana01census1910.jpg
+      - year: "1920"
+        caption: Douglas (District 748), Coffee County, Georgia - dwelling 559, family 592
+        images:
+          - src: Bana01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Ida (Vining) Gillis, daughter of Bana Vining and Martha Jane (Crosby) Vining, in Salem
+          Cemetery, Douglas, Coffee County, Georgia (from Find A Grave):
+        images:
+          - src: Bana01dauIdagravestone.jpg
+      - caption: >-
+          Gravestone for Verjal Vining, son of Bana Vining and Martha Jane (Crosby) Vining, in Union Hill Cemetery,
+          Axson, Atkinson County, Georgia (from Find A Grave):
+        images:
+          - src: Bana01sonVerjalgravestone.jpg

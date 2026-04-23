@@ -1,0 +1,161 @@
+id: JohnS03
+title: John Sanders Vining - Elizabeth Louiza Worthington
+intro:
+  - caption: "Thank you to Janice Roden for her contributions to this page. John Sanders Vining:"
+    images:
+      - src: JohnS03photograph.jpg
+        height: 400
+sections:
+  - type: notes
+    heading: Note
+    text: >-
+      A newspaper obituary written by “a friend” said that John Sanders Vining and Elizabeth Louiza (Worthington) Vining
+      has “fifteen children, six dying in infancy and six lived to be grown.” This leaves some question as to whether
+      there were four or seven children not accounted for below.
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Sanders Vining
+          values:
+            - "32"
+            - "40"
+            - "45"
+            - "?"
+            - |-
+              72
+              [see note below]
+            - |-
+              82
+              [see note below]
+            - dead
+        - label: Elizabeth Louiza (Worthington) Vining
+          values:
+            - "24"
+            - "38"
+            - "43"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Mary Jane Vining
+          values:
+            - "6"
+            - "16"
+            - living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: John Wesley Vining
+          values:
+            - "4"
+            - "14"
+            - "25"
+            - married and [living in separate household ?]
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: James M. Vining
+          values:
+            - "1"
+            - "11"
+            - "21"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Lou Vining
+          values:
+            - ""
+            - living in separate household
+            - "18"
+            - "?"
+            - |-
+              38
+              [see note below]
+            - dead
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - living in separate household
+            - "16"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Julius Cornelius Vining
+          values:
+            - ""
+            - living in separate household
+            - "14"
+            - married [and living in separate household?]
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Ida Vining
+          values:
+            - ""
+            - living in separate household
+            - "12"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Mittie Lee Vining
+          values:
+            - ""
+            - ""
+            - "10"
+            - "?"
+            - married and living in separate household
+            - |-
+              38
+              [see note below]
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Thomaston (post office), 537 District G. M., Upson County, Georgia - dwelling 222, family 201
+        images:
+          - src: JohnS03census1860.jpg
+      - year: "1870"
+        caption: Thomaston (post office), Upson County, Georgia - dwelling 857, family 857
+        images:
+          - src: JohnS03census1870.jpg
+      - year: "1880"
+        caption: Flint, Upson County, Georgia - dwelling 430, family 430
+        images:
+          - src: JohnS03census1880.jpg
+      - year: "1900"
+        caption: >-
+          Reeves, Upson County, Georgia - dwelling 186, family 186. By 1900, Lou (Vining) Pasley was widowed, and her
+          father was living with her and her family.
+        images:
+          - src: JohnS03census1900.jpg
+      - year: "1910"
+        caption: >-
+          Reeves, Upson County, Georgia - dwelling 77, family 78. By 1910, Mittie Lee Vining had been married for 20
+          years, to Robert Lee Smith, and her father was living with her and her family.
+        images:
+          - src: JohnS03census1910.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Elizabeth Louiza Worthington, in Smith Cemetery, Upson County, Georgia (from Fina A Grave):"
+        images:
+          - src: JohnS03wifegravestone.jpg

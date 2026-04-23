@@ -1,0 +1,74 @@
+id: JohnF04
+sequence: 225
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamH08
+parentLetter: W
+parentDesc: "William Hallet Vining and Harriet [...]"
+head:
+  givenName: John Franklin
+  birth:
+    date: March 1874
+    place: Ohio
+  death:
+    date: 31 December 1938
+    place: "Delaware County, Ohio"
+marriages:
+  - date: 12 y. as of 1910 census
+    spouse:
+      givenName: Angie L.
+      surname: "[...]"
+      birth:
+        date: July 1874
+        place: Indiana
+      death:
+        date: before 1930 census
+childrenGroups:
+  - children:
+      - name: Kenneth E. Vining
+        entryId: KennethE02
+        entryLetter: K
+        birth:
+          date: March 1900
+          place: Ohio
+        marriages:
+          - date: Rachel A. Lane
+        death:
+          date: "1960"
+        burial:
+          place: "Greenlawn Union Cemetery   Perrysville, Ohio"
+      - name: Carl Harrison Vining
+        entryId: CarlH02
+        entryLetter: C
+        birth:
+          date: 17 March 1904
+          place: "Oxford, Ohio"
+        marriages:
+          - date: Dorothy Grace Fegley
+        death:
+          date: 24 July 1948
+          place: Ohio
+        burial:
+          place: "Green Mound Cemetery   Kilbourne, Ohio"
+      - name: Edna B. Vining
+        birth:
+          date: age 7 y. as of 1920 census
+          place: Ohio
+docsUrl: Jsources/JohnF04doc.htm
+raw: |-
+  <a name="JohnF04"></a><font size=+2>John Franklin Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamH08">William Hallet Vining and Harriet [...]</a>)
+     b. March 1874   Ohio
+     m. 12 y. as of 1910 census
+           Angie L. [...]
+                 b. July 1874   Indiana
+                 d. before 1930 census
+     d. 31 December 1938   Delaware County, Ohio
+  
+  <font size=+1>children:</font>
+     <a href="Kfamilies.htm#KennethE02">Kenneth E. Vining</a>   b. March 1900   Ohio   -   m. Rachel A. Lane   -   d. 1960   -   bur. Greenlawn Union Cemetery   Perrysville, Ohio
+     <a href="Cfamilies.htm#CarlH02">Carl Harrison Vining</a>   b. 17 March 1904   Oxford, Ohio   -   m. Dorothy Grace Fegley   -   d. 24 July 1948   Ohio   -   bur. Green Mound Cemetery   Kilbourne, Ohio
+     Edna B. Vining   b. age 7 y. as of 1920 census   Ohio
+  
+  <a href="Jsources/JohnF04doc.htm">documentation and notes</a>

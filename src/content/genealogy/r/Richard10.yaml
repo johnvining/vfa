@@ -1,0 +1,34 @@
+id: Richard10
+sequence: 43
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: GeorgeH03
+parentLetter: G
+parentDesc: George Henry Vining and Edith Christine Schmook
+head:
+  givenName: Richard
+  birth:
+    date: 29 January 1952
+marriages:
+  - date: "(1?) Nancy [&#8230;]"
+    note: "(2?) Karen [&#8230;]"
+childrenGroups:
+  - spouseRef: "[?]"
+    children:
+      - name: Richard Vining Jr.
+        birth:
+          date: 29 February 1972
+      - name: Michael Vining
+        birth:
+          date: 20 May 1974
+raw: |-
+  <a name="Richard10"></a><font size=+2>Richard Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeH03">George Henry Vining and Edith Christine Schmook</a>)
+     b. 29 January 1952
+     m. (1?) Nancy [&#8230;]
+           (2?) Karen [&#8230;]
+  
+  <font size=+1>children by [?]:</font>
+     Richard Vining Jr.   b. 29 February 1972
+     Michael Vining   b. 20 May 1974

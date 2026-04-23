@@ -1,0 +1,43 @@
+id: EmmettA01
+sequence: 101
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: JamesW06
+parentLetter: J
+parentDesc: "James Wesley Vining and Florence A. [&#8230;]"
+head:
+  givenName: Emmett A.
+  birth:
+    date: 15 December 1906
+    place: Louisiana
+  death:
+    date: September 1978
+    place: "Tulsa, Oklahoma"
+marriages:
+  - spouse:
+      givenName: Catherine V.
+      surname: "[&#8230;]"
+      birth:
+        date: age 20 y. as of 1930 census
+        place: Arkansas
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Willa J. Vining
+        birth:
+          date: age 1 y., 5 m. as of 1930 census
+          place: Oklahoma
+docsUrl: Esources/EmmettA01doc.htm
+raw: |-
+  <a name="EmmettA01"></a><font size=+2>Emmett A. Vining</font>
+     (son of <a href="Jfamilies.htm#JamesW06">James Wesley Vining and Florence A. [&#8230;]</a>)
+     b. 15 December 1906   Louisiana
+     m. Catherine V. [&#8230;]
+              b. age 20 y. as of 1930 census   Arkansas
+     d. September 1978   Tulsa, Oklahoma
+  
+  <font size=+1>child:</font>
+     Willa J. Vining   b. age 1 y., 5 m. as of 1930 census   Oklahoma
+  
+  <a href="Esources/EmmettA01doc.htm">documentation and notes</a>

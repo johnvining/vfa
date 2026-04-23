@@ -1,0 +1,86 @@
+id: MiltonW01
+sequence: 42
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: AlbertE01
+parentLetter: A
+parentDesc: Albert Edwin Vining and Nora Gertrude Stevens
+head:
+  givenName: Milton Wayne
+  birth:
+    date: 24 May 1929
+    place: "Lewiston, Maine"
+  death:
+    date: 14 February 2000
+    place: "Fryeburg, Maine"
+marriages:
+  - date: 27 November 1953
+    place: "Lawrenceburg, Indiana"
+    spouse:
+      givenName: Ruth Edna
+      surname: Conway
+      parents: "(dau. of William Riley Conway and Eunice Hudspeth)"
+      birth:
+        date: 14 March 1927
+      death:
+        date: 7 January 2004
+        place: "Fairfield, Illinois"
+childrenGroups:
+  - children:
+      - name: Debra Sue Vining
+        birth:
+          date: 27 December 1954
+          place: "Cincinnati, Ohio"
+        marriages:
+          - date: 21 December 1973
+            spouse: Gary Russell Hughes
+      - name: Steven Mark Vining
+        entryId: StevenM01
+        entryLetter: S
+        birth:
+          date: 7 February 1956
+          place: "Cincinnati, Ohio"
+        marriages:
+          - date: 28 May 1977
+            spouse: "Marion Olive Stevens,   divorced 1980s"
+        death:
+          date: "November 8, 2022"
+      - name: Richard Wayne Vining
+        birth:
+          date: 26 April 1957
+          place: "Cincinnati, Ohio"
+        death:
+          date: 1 January 2010
+      - name: John Edwin Vining
+        entryId: JohnE01
+        entryLetter: J
+        birth:
+          date: 26 November 1959
+          place: "Cincinnati, Ohio"
+        marriages:
+          - number: 1
+            date: 23 December 1980
+            spouse: "Fairfield, IL   Darla Sue Bruce,   divorced 19 December 1997"
+          - number: 2
+            date: 26 November 2003
+            spouse: Ninfa R. Munarriz
+docsUrl: Msources/MiltonW01doc.htm
+raw: |-
+  <a name="MiltonW01"></a><font size=+2>Milton Wayne Vining</font>
+     (son of <a href="Afamilies.htm#AlbertE01">Albert Edwin Vining and Nora Gertrude Stevens</a>)
+     b. 24 May 1929   Lewiston, Maine
+     m. 27 November 1953   Lawrenceburg, Indiana
+           Ruth Edna Conway
+                 (dau. of William Riley Conway and Eunice Hudspeth)
+                 b. 14 March 1927
+                 d. 7 January 2004   Fairfield, Illinois
+     d. 14 February 2000   Fryeburg, Maine
+  
+  <font size=+1>children:</font>
+     Debra Sue Vining   b. 27 December 1954   Cincinnati, Ohio   -   m. 21 December 1973   Gary Russell Hughes
+     <a href="Sfamilies.htm#StevenM01">Steven Mark Vining</a>   b. 7 February 1956   Cincinnati, Ohio   -   m. 28 May 1977   Marion Olive Stevens,   divorced 1980s   -   d. November 8, 2022
+     Richard Wayne Vining   b. 26 April 1957   Cincinnati, Ohio   -   d. 1 January 2010
+     <a href="Jfamilies.htm#JohnE01">John Edwin Vining</a>   b. 26 November 1959   Cincinnati, Ohio   -   m. (1) 23 December 1980   Fairfield, IL   Darla Sue Bruce,   divorced 19 December 1997;   (2) 26 November 2003   Ninfa R. Munarriz
+  
+  <a href="Msources/MiltonW01doc.htm">documentation and notes</a>

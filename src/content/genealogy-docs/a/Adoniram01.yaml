@@ -1,0 +1,124 @@
+id: Adoniram01
+title: Adoniram Vining - Lydia Tirrell Shaw
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Adoniram Vining
+          values:
+            - M 20–29
+            - "36"
+            - "46"
+            - "56"
+            - "66"
+            - "?"
+            - "?"
+            - dead
+        - label: Lydia Tirrell (Shaw) Vining
+          values:
+            - F 20–29
+            - "34"
+            - "44"
+            - "55"
+            - "64"
+            - dead
+            - ""
+            - ""
+        - label: Margaret Ann Vining
+          values:
+            - F under 5
+            - "12"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Adoniram Elliot Vining
+          values:
+            - ""
+            - "9"
+            - "[20 or 21?]"
+            - not living in this household
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lydia Arabella Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - |-
+              living in separate household
+              [see note below]
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Wellman Eustis Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "19"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1840"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts. To be determined is the identity of a male under 5, three males
+          20–29, and a female 20–29.
+        images:
+          - src: Adoniram01census1840.jpg
+      - year: "1850"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 215, family 260
+        images:
+          - src: Adoniram01census1850.jpg
+      - year: "1860"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1009, family 1295. Also living in this household in 1860
+          were Spencer G[...?] and Lydia and [...?], presumably his wife and daughter.
+        images:
+          - src: Adoniram01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 1262, family 1520. Lydia Arabella was living in dwelling
+          512, family 610, Weymouth, Norfolk County, Massachusetts, in 1870.
+        images:
+          - src: Adoniram01census1870.jpg
+      - year: "1880"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 121, family 156
+        images:
+          - src: Adoniram01census1880.jpg
+  - type: death
+    items:
+      - caption: Monument size for Adoniram Vining, wife Lydia Tirrell (Shaw) Vining, and son Wellman Vining
+        images:
+          - src: Adoniram01familymonumentside.jpg

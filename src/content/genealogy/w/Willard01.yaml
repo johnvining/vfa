@@ -1,0 +1,40 @@
+id: Willard01
+sequence: 50
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John07
+parentLetter: J
+parentDesc: John Vining and Fanny Richardson
+head:
+  givenName: Willard
+  birth:
+    date: 23 March 1821
+    place: "Templeton, Massachusetts"
+  death:
+    date: "1849"
+  burial:
+    description: "bur. at sea"
+marriages:
+  - date: 24 July 1843
+    spouse:
+      givenName: Miranda
+      surname: Cody
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Fannie Marie Vining
+        birth:
+          date: 27 June 1844
+          place: "Webster, Massachusetts"
+raw: |-
+  <a name="Willard01"></a><font size=+2>Willard Vining</font>
+     (son of <a href="Jfamilies.htm#John07">John Vining and Fanny Richardson</a>)
+     b. 23 March 1821   Templeton, Massachusetts
+     m. 24 July 1843
+           Miranda Cody
+     d. 1849
+           bur. at sea
+  
+  <font size=+1>child:</font>
+     Fannie Marie Vining   b. 27 June 1844   Webster, Massachusetts

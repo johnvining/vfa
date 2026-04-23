@@ -1,0 +1,54 @@
+id: WilliamS02
+sequence: 134
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WoodsonP01
+parentDesc: "Woodson P. Vining and Emma [&#8230;]"
+head:
+  givenName: William Sitz
+  birth:
+    date: 18 January 1898
+  death:
+    date: 11 November 1963
+  burial:
+    place: "Bonaventure Cemetery   Savannah, Georgia"
+marriages:
+  - spouse:
+      givenName: Effie
+      surname: Chambers
+      death:
+        date: 6 December 1982
+      burial:
+        place: "Bonaventure Cemetery   Savannah, Georgia"
+childrenGroups:
+  - children:
+      - name: William Sitz Vining Jr.
+        entryId: WilliamSJr01
+        birth:
+          date: 30 December 1928
+          place: "Savannah, Georgia"
+        marriages:
+          - date: 46 y. as of 2009
+            spouse: Jean Wingate
+        death:
+          date: 11 September 2009
+          place: "Houston, Texas"
+        burial:
+          place: "Bonaventure Cemetery   Savannah, Georgia"
+      - name: Donald C. Vining
+        entryId: DonaldC02
+        entryLetter: D
+raw: |-
+  <a name="WilliamS02"></a><font size=+2>William Sitz Vining</font>
+     (son of <a href="#WoodsonP01">Woodson P. Vining and Emma [&#8230;]</a>)
+     b. 18 January 1898
+     m. Effie Chambers
+              d. 6 December 1982
+                    bur. Bonaventure Cemetery   Savannah, Georgia
+     d. 11 November 1963
+           bur. Bonaventure Cemetery   Savannah, Georgia
+  
+  <font size=+1>children:</font>
+     <a href="#WilliamSJr01">William Sitz Vining Jr.</a>   b. 30 December 1928   Savannah, Georgia   -   m. 46 y. as of 2009   Jean Wingate   -   d. 11 September 2009   Houston, Texas   -   bur. Bonaventure Cemetery   Savannah, Georgia
+     <a href="Dfamilies.htm#DonaldC02">Donald C. Vining</a>

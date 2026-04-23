@@ -1,0 +1,62 @@
+id: BenD01
+letter: B
+sequence: 12
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ShedrickW01
+parentLetter: S
+parentDesc: Shedrick W. Vining and Virginia Fay Huett
+head:
+  givenName: Ben David
+  birth:
+    date: 25 January 1892
+    place: "Jefferson [County?], Alabama"
+marriages:
+  - spouse:
+      givenName: Bertha Mae
+      surname: Bunn
+      birth:
+        date: age 25 y. as of 1930 census
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: Katherine Vining
+        birth:
+          date: age 5 y. as of 1930 census
+          place: Alabama
+        marriages:
+          - date: "[&#8230;] Thornton"
+        death:
+          date: 11 January 2003
+          place: Alabama
+      - name: Jessie Mae Vining
+        birth:
+          date: age 9 m. as of 1930 census
+          place: Alabama
+        marriages:
+          - date: "[&#8230;] Hogue"
+      - name: Bennie Edward Vining
+        entryId: BennieE01
+        birth:
+          date: 14 January 1931
+          place: Alabama
+        marriages:
+          - date: Elizabeth Finn
+        death:
+          date: 19 May 2013
+        burial:
+          place: "Cedar Hill Cemetery   Bessemer, Jefferson County, Alabama"
+docsUrl: Bsources/BenD01doc.htm
+raw: |-
+  <a name="BenD01"></a><font size=+2>Ben David Vining</font>
+     (son of <a href="Sfamilies.htm#ShedrickW01">Shedrick W. Vining and Virginia Fay Huett</a>)
+     b. 25 January 1892   Jefferson [County?], Alabama
+     m. Bertha Mae Bunn
+              b. age 25 y. as of 1930 census   Alabama
+  
+  <font size=+1>children:</font>
+     Katherine Vining   b. age 5 y. as of 1930 census   Alabama   -   m. [&#8230;] Thornton   -   d. 11 January 2003   Alabama
+     Jessie Mae Vining   b. age 9 m. as of 1930 census   Alabama   -   m. [&#8230;] Hogue
+     <a href="#BennieE01">Bennie Edward Vining</a>   b. 14 January 1931   Alabama   -   m. Elizabeth Finn   -   d. 19 May 2013   -   bur. Cedar Hill Cemetery   Bessemer, Jefferson County, Alabama
+  
+  <a href="Bsources/BenD01doc.htm">documentation and notes</a>

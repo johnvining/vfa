@@ -1,0 +1,61 @@
+id: RichardB03
+sequence: 52
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: JamesC02
+parentLetter: J
+parentDesc: James C. Vining and Abigail Willoughby
+head:
+  givenName: Richard Buchanan
+  birth:
+    date: 12 May 1857
+    place: "Cambridge, Henry County, Illinois"
+  death:
+    date: 2 December 1938
+    place: "Ashland, Oregon"
+marriages:
+  - date: 5 June 1887
+    place: "Norton, Norton County, Kansas"
+    spouse:
+      givenName: Mary Ellen
+      surname: Kelly
+      parents: "(dau. of John Kelly and Nancy Eleanor McSweeny)"
+      birth:
+        date: 5 June 1866
+        place: "Indiana County, Pennsylvania"
+      death:
+        date: 5 March 1945
+        place: "San Francisco, San Francisco County, California"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Lloyd Kelly Vining
+        entryId: LloydK01
+        entryLetter: L
+        birth:
+          date: 3 October 1892
+          place: "Norton, Norton County, Kansas"
+        marriages:
+          - date: Clara Christina Coates
+        death:
+          date: 31 August 1953
+          place: "Ogden, Weber County, Utah"
+        burial:
+          place: "Washington Heights Memorial Park   Ogden, Utah"
+docsUrl: Rsources/RichardB03doc.htm
+raw: |-
+  <a name="RichardB03"></a><font size=+2>Richard Buchanan Vining</font>
+     (son of <a href="Jfamilies.htm#JamesC02">James C. Vining and Abigail Willoughby</a>)
+     b. 12 May 1857   Cambridge, Henry County, Illinois
+     m. 5 June 1887   Norton, Norton County, Kansas
+           Mary Ellen Kelly
+                 (dau. of John Kelly and Nancy Eleanor McSweeny)
+                 b. 5 June 1866   Indiana County, Pennsylvania
+                 d. 5 March 1945   San Francisco, San Francisco County, California
+     d. 2 December 1938   Ashland, Oregon
+  
+  <font size=+1>child:</font>
+     <a href="Lfamilies.htm#LloydK01">Lloyd Kelly Vining</a>   b. 3 October 1892   Norton, Norton County, Kansas   -   m. Clara Christina Coates   -   d. 31 August 1953   Ogden, Weber County, Utah   -   bur. Washington Heights Memorial Park   Ogden, Utah
+  
+  <a href="Rsources/RichardB03doc.htm">documentation and notes</a>

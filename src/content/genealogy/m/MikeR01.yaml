@@ -1,0 +1,34 @@
+id: MikeR01
+sequence: 35
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: RogerE01
+parentLetter: R
+parentDesc: Roger Earl Vining and Dolores Arlene Croff
+head:
+  givenName: Mike Roger
+  birth:
+    date: 12 August 1950
+    place: "Greenville, Michigan"
+marriages:
+  - spouse:
+      givenName: Francine Arlene
+      surname: Troupe
+childrenGroups:
+  - children:
+      - name: Terri Beth Vining
+        birth:
+          date: 9 February 1973
+      - name: Lorri June Vining
+        birth:
+          date: 20 June 1975
+raw: |-
+  <a name="MikeR01"></a><font size=+2>Mike Roger Vining</font>
+     (son of <a href="Rfamilies.htm#RogerE01">Roger Earl Vining and Dolores Arlene Croff</a>)
+     b. 12 August 1950   Greenville, Michigan
+     m. Francine Arlene Troupe
+  
+  <font size=+1>children:</font>
+     Terri Beth Vining   b. 9 February 1973
+     Lorri June Vining   b. 20 June 1975

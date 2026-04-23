@@ -1,0 +1,38 @@
+id: Oscar01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Bana01
+parentLetter: B
+parentDesc: "Bana Vining and Frances J. [...]"
+head:
+  givenName: Oscar
+  birth:
+    date: February 1892
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Alma
+      surname: "[...]"
+      birth:
+        date: age 17 y. as of 1920 census
+        place: Georgia
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: "Vi[dar?] Vining (female)"
+        birth:
+          date: age 1 y. as of 1920 census
+          place: Georgia
+docsUrl: Osources/Oscar01doc.htm
+raw: |-
+  <a name="Oscar01"></a><font size=+2>Oscar Vining</font>
+     (son of <a href="Bfamilies.htm#Bana01">Bana Vining and Frances J. [...]</a>)
+     b. February 1892   Georgia
+     m. Alma [...]
+              b. age 17 y. as of 1920 census   Georgia
+  
+  <font size=+1>child:</font>
+     Vi[dar?] Vining (female)   b. age 1 y. as of 1920 census   Georgia
+  
+  <a href="Osources/Oscar01doc.htm">documentation and notes</a>

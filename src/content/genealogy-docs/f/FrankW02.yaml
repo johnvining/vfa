@@ -1,0 +1,49 @@
+id: FrankW02
+title: Frank W. Vining - Alice Katherine Healy
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank W. Vining
+          values:
+            - "37"
+            - dead
+            - ""
+        - label: Alice Katherine (Healy) Vining
+          values:
+            - "38"
+            - "?"
+            - "?"
+        - label: Joseph Alexander Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+          indent: true
+        - label: John Francis Vining
+          values:
+            - "2"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Lisbon, St. Lawrence County, New York - dwelling 210, family 210
+        images:
+          - src: FrankW02census1920.jpg
+  - type: death
+    items:
+      - caption: "Obituary for Mary (Vining) Brassel, daughter of Frank W. Vining and Alice Katherine (Healy) Vining:"
+        images:
+          - src: FrankW02dauMaryobituarya.jpg
+          - src: FrankW02dauMaryobituaryb.jpg

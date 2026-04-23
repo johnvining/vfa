@@ -1,0 +1,82 @@
+id: SamuelJ01
+sequence: 20
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ShadrackJ01
+parentDesc: Shadrack Joshua Vining and Nancy Margrete Oglesby
+head:
+  givenName: Samuel Jehue
+  birth:
+    date: 26 October 1888
+    place: Alabama
+  death:
+    date: 15 March 1979
+    place: "(last residence: McCalla, Jefferson County, Alabama)"
+  burial:
+    place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+marriages:
+  - date: October 1912
+    spouse:
+      givenName: "Mary Lucretia &#8220;Lucy&#8221;"
+      surname: Chesser
+      birth:
+        date: 16 March 1897
+        place: Alabama
+      death:
+        date: 24 June 1992
+        place: Alabama
+      burial:
+        place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+childrenGroups:
+  - children:
+      - name: Lois Mae Vining
+        birth:
+          date: "1913"
+          place: Alabama
+      - name: Floyd Vining
+        entryId: Floyd01
+        entryLetter: F
+        birth:
+          date: 15 December 1915
+          place: Masena Alabama
+        marriages:
+          - date: Mildred Jeannette Williams
+        death:
+          date: 31 October 1994
+          place: "Birmingham, Alabama"
+        burial:
+          place: "Highland Memorial Gardens   Bessemer, Alabama"
+      - name: Hugh Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: Alabama
+      - name: "L[&#8230;] Vining"
+        birth:
+          date: age 3 y. as of 1930 census
+          place: Alabama
+      - name: "N[orma?] Vining"
+        birth:
+          date: age 1 m. as of 1930 census
+          place: Alabama
+docsUrl: Ssources/SamuelJ01doc.htm
+raw: |-
+  <a name="SamuelJ01"></a><font size=+2>Samuel Jehue Vining</font>
+     (son of <a href="#ShadrackJ01">Shadrack Joshua Vining and Nancy Margrete Oglesby</a>)
+     b. 26 October 1888   Alabama
+     m. October 1912
+           Mary Lucretia &#8220;Lucy&#8221; Chesser
+                 b. 16 March 1897   Alabama
+                 d. 24 June 1992   Alabama
+                       bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+     d. 15 March 1979   (last residence: McCalla, Jefferson County, Alabama)
+           bur. Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama
+  
+  <font size=+1>children:</font>
+     Lois Mae Vining   b. 1913   Alabama
+     <a href="Ffamilies.htm#Floyd01">Floyd Vining</a>   b. 15 December 1915   Masena Alabama   -   m. Mildred Jeannette Williams   -   d. 31 October 1994   Birmingham, Alabama   -   bur. Highland Memorial Gardens   Bessemer, Alabama
+     Hugh Vining   b. age 9 y. as of 1930 census   Alabama
+     L[&#8230;] Vining   b. age 3 y. as of 1930 census   Alabama
+     N[orma?] Vining   b. age 1 m. as of 1930 census   Alabama
+  
+  <a href="Ssources/SamuelJ01doc.htm">documentation and notes</a>

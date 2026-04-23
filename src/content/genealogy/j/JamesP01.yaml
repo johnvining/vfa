@@ -1,0 +1,59 @@
+id: JamesP01
+sequence: 90
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James P.
+  death:
+    date: before 19 January 2011
+marriages:
+  - spouse:
+      givenName: Frances Louise
+      surname: Vernon
+      parents: (dau. of Edgar Vernon and Theo Perry)
+      birth:
+        date: 27 September 1932
+      death:
+        date: 19 January 2011
+      burial:
+        place: "Scottsville Cemetery   Scottsville, Alabama"
+childrenGroups:
+  - children:
+      - name: Lisa Vining
+        marriages:
+          - date: Roger Smith
+      - name: Ann Smitherman Vining
+        marriages:
+          - date: Paul Lawrence
+      - name: Jamie Vining
+        marriages:
+          - date: Greg Bruner
+      - name: LaDonna Vining
+        marriages:
+          - date: "[...] Fortenbury"
+      - name: Holly Vining
+        marriages:
+          - date: John Stiles
+      - name: James P. Vining Jr.
+        entryId: JamesPJr01
+        marriages:
+          - date: "Tina [...]"
+raw: |-
+  <a name="JamesP01"></a><font size=+2>James P. Vining</font>
+     (son of [?])
+     m. Frances Louise Vernon
+              (dau. of Edgar Vernon and Theo Perry)
+              b. 27 September 1932
+              d. 19 January 2011
+                    bur. Scottsville Cemetery   Scottsville, Alabama
+     d. before 19 January 2011
+  
+  <font size=+1>children:</font>
+     Lisa Vining   m. Roger Smith
+     Ann Smitherman Vining   m. Paul Lawrence
+     Jamie Vining   m. Greg Bruner
+     LaDonna Vining   m. [...] Fortenbury
+     Holly Vining   m. John Stiles
+     <a href="#JamesPJr01">James P. Vining Jr.</a>   -   m. Tina [...]

@@ -1,0 +1,41 @@
+id: BenjaminJ01
+letter: B
+sequence: 35
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnE01
+parentLetter: J
+parentDesc: John Edwin Vining and Darla Sue Bruce
+head:
+  givenName: Benjamin John
+  birth:
+    date: 22 December 1982
+    place: "Fairfield, Wayne County, Illinois"
+  death:
+    date: 23 December 2020
+marriages:
+  - date: 11 October 2014
+    spouse:
+      givenName: Erica Jean
+      surname: Whitledge
+      parents: "(dau. of Bobby Whitledge and Julie [...])"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Rosalind Nicole Vining
+        birth:
+          date: 18 November 2015
+docsUrl: Bsources/BenjaminJ01doc.htm
+raw: |-
+  <a name="BenjaminJ01"></a><font size=+2>Benjamin John Vining</font>
+     (son of <a href="Jfamilies.htm#JohnE01">John Edwin Vining and Darla Sue Bruce</a>)
+     b. 22 December 1982   Fairfield, Wayne County, Illinois
+     m. 11 October 2014
+           Erica Jean Whitledge
+                 (dau. of Bobby Whitledge and Julie [...])
+     d. 23 December 2020
+  
+  <font size=+1>child:</font>
+     Rosalind Nicole Vining   b. 18 November 2015
+  
+  <a href="Bsources/BenjaminJ01doc.htm">documentation and notes</a>

@@ -1,0 +1,54 @@
+id: RoyLJr01
+sequence: 162
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RoyL01
+parentDesc: Roy Lee Vining and Ruby Lee Whitten
+head:
+  givenName: Roy Lee Jr.
+  birth:
+    date: 29 November 1924
+    place: Georgia
+  death:
+    date: 6 May 2011
+    place: "Eatonton, Georgia"
+  burial:
+    place: "Crestlawn Memorial Gardens   Eatonton, Georgia"
+marriages:
+  - spouse:
+      givenName: Betty Allene
+      surname: Clyborne
+      birth:
+        date: 12 January 1933
+      death:
+        date: 21 November 2002
+      burial:
+        place: "Crestlawn Memorial Gardens   Eatonton, Georgia"
+childrenGroups:
+  - children:
+      - name: Roger Vining
+        marriages:
+          - date: "Jeanne [...]"
+      - name: Lesia Vining
+        marriages:
+          - date: Steve Reid
+      - name: Jennifer Vining
+docsUrl: Rsources/RoyLJr01doc.htm
+raw: |-
+  <a name="RoyLJr01"></a><font size=+2>Roy Lee Vining Jr.</font>
+     (son of <a href="#RoyL01">Roy Lee Vining and Ruby Lee Whitten</a>)
+     b. 29 November 1924   Georgia
+     m. Betty Allene Clyborne
+              b. 12 January 1933
+              d. 21 November 2002
+                    bur. Crestlawn Memorial Gardens   Eatonton, Georgia
+     d. 6 May 2011   Eatonton, Georgia
+           bur. Crestlawn Memorial Gardens   Eatonton, Georgia
+  
+  <font size=+1>children:</font>
+     Roger Vining   m. Jeanne [...]
+     Lesia Vining   m. Steve Reid
+     Jennifer Vining
+  
+  <a href="Rsources/RoyLJr01doc.htm">documentation and notes</a>

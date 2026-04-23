@@ -1,0 +1,110 @@
+id: OscarA01
+title: Oscar Adam Vining - (1) Corine Marie Parrah;   (2) Lorena [...]
+displayTitle: Oscar Adam Vining - (1) Corine Marie Parrah; (2) Lorena […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Oscar Adam Vining
+          values:
+            - "30"
+            - "39"
+            - "49"
+            - "?"
+        - label: Corine Marie (Parrah) Vining
+          values:
+            - "24"
+            - "35"
+            - "[divorced?]"
+            - ""
+        - label: Lorena ([…]) Vining
+          values:
+            - ""
+            - ""
+            - "19"
+            - "?"
+        - label: Eugene Vining
+          values:
+            - "7"
+            - "16"
+            - "26"
+            - "?"
+          indent: true
+        - label: Effie Vining
+          values:
+            - "5"
+            - "15"
+            - |-
+              25
+              [see note below]
+            - "?"
+          indent: true
+        - label: Junius Vining
+          values:
+            - "2"
+            - "13"
+            - "22"
+            - "?"
+          indent: true
+        - label: Sterling Vining
+          values:
+            - "[3?] m."
+            - "9"
+            - "20"
+            - "?"
+          indent: true
+        - label: Agnes Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "?"
+          indent: true
+        - label: Corine V. Vining
+          values:
+            - ""
+            - "5"
+            - "14"
+            - "?"
+          indent: true
+        - label: Ira John Vining
+          values:
+            - ""
+            - 3 y., [?] m.
+            - "13"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Police Jury Ward 8, St. Mary Parish, Louisiana - dwelling 396, family 421
+        images:
+          - src: OscarA01census1910.jpg
+      - year: "1920"
+        caption: Berwick (Ward 8), St. Mary Parish, Louisiana - dwelling 333, family 347
+        images:
+          - src: OscarA01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Berwick (Ward 8), St. Mary Parish, Louisiana - dwelling 343, family 350. By 1930, Effie Vining was married, to
+          James Rink, and she and her family were living in the household of her father.
+        images:
+          - src: OscarA01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Oscar Adam Vining and Corine Marie (Parrah) Vining, in Morgan City Cemetery and Mausoleum,
+          Morgan City, St. Mary Parish, Louisiana (from Find A Grave):
+        images:
+          - src: OscarA01gravestone.jpg
+          - src: OscarA01wifegravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Ira John Vining, son of Oscar Adam Vining and Corine Marie (Parrah) Vining, in Morgan City
+          Cemetery and Mausoleum, Morgan City, St. Mary Parish, Louisiana (from Find A Grave):
+        images:
+          - src: OscarA01sonIragravestone.jpg

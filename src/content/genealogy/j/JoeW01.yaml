@@ -1,0 +1,54 @@
+id: JoeW01
+sequence: 154
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JoeJ01
+parentDesc: Joe Johnson Vining and Gladys Pierce
+head:
+  givenName: Joe Wade
+  birth:
+    date: 12 September 1928
+  death:
+    date: 8 September 2015
+  burial:
+    place: "Salem Cemetery   Rusk, Texas"
+marriages:
+  - date: 26 June 1948
+    spouse:
+      givenName: Nelleva
+      surname: "[&#8230;]"
+      birth:
+        date: 5 November 1934
+childrenGroups:
+  - children:
+      - name: Jerry Vining
+        marriages:
+          - date: "Debbie [&#8230;]"
+      - name: Terry Vining
+        marriages:
+          - date: "Julia [&#8230;]"
+      - name: Jo Nell Vining
+        marriages:
+          - date: David Strickler
+      - name: Jenny Vining
+        marriages:
+          - date: Mark Sitterle
+docsUrl: Jsources/JoeW01doc.htm
+raw: |-
+  <a name="JoeW01"></a><font size=+2>Joe Wade Vining</font>
+     (son of <a href="#JoeJ01">Joe Johnson Vining and Gladys Pierce</a>)
+     b. 12 September 1928
+     m. 26 June 1948
+           Nelleva [&#8230;]
+                 b. 5 November 1934
+     d. 8 September 2015
+           bur. Salem Cemetery   Rusk, Texas
+  
+  <font size=+1>children:</font>
+     Jerry Vining   m. Debbie [&#8230;]
+     Terry Vining   m. Julia [&#8230;]
+     Jo Nell Vining   m. David Strickler
+     Jenny Vining   m. Mark Sitterle
+  
+  <a href="Jsources/JoeW01doc.htm">documentation and notes</a>

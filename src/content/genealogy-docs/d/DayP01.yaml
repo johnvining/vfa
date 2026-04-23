@@ -1,0 +1,90 @@
+id: DayP01
+title: Day Preston Vining - Irene McVey
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Day Preston Vining
+          values:
+            - "33"
+            - "43"
+            - dead
+            - ""
+        - label: Margaret Irene (McVey) Vining
+          values:
+            - "33"
+            - "43"
+            - "53"
+            - "?"
+        - label: Angela Evelyn Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Bernice Marjorie Vining
+          values:
+            - 1 y., [?] m.
+            - "11"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Victor Paul Vining
+          values:
+            - 0 m.
+            - "9"
+            - "20"
+            - "?"
+          indent: true
+        - label: Hubert Lawrence Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "?"
+          indent: true
+        - label: Charles Franklin Vining
+          values:
+            - ""
+            - 4 y., 4 m.
+            - "14"
+            - "?"
+          indent: true
+        - label: Robert Eugene Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Jackson (ward 5), Jackson County, Michigan - dwelling 334, family 344. Also living in this household in 1910
+          were Beulah (Vining) Harris (sister of Day Preston Vining, 24 y., b. Michigan) and husband Grover C. Harris
+          (25 y., b. Michigan).
+        images:
+          - src: DayP01census1910.jpg
+      - year: "1920"
+        caption: Jackson (ward 3), Jackson County, Michigan - dwelling 226, family 278
+        images:
+          - src: DayP01census1920.jpg
+      - year: "1930"
+        caption: Jackson (ward 3), Jackson County, Michigan - dwelling 200, family 218
+        images:
+          - src: DayP01census1930a.jpg
+          - src: DayP01census1930b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones of Day Preston Vining (nicknamed David) and daughter Angela Evelyn Vining, in St. John's Catholic
+          Cemetery, Jackson, Michigan:
+        images:
+          - src: DayP01gravestone.jpg
+          - src: DayP01dauAngelagravestone.jpg

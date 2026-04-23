@@ -1,0 +1,56 @@
+id: JohnW03
+sequence: 273
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John Wesley
+  birth:
+    date: February 1834
+    place: Ohio
+marriages:
+  - date: 16 y. as of 1900 census
+    spouse:
+      givenName: Rosetta
+      surname: Clark
+      birth:
+        date: March 1860
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: James Vining
+        birth:
+          date: July 1889
+          place: Ohio
+      - name: Howard Vining
+        entryId: Howard01
+        entryLetter: H
+        birth:
+          date: 15 June 1890
+          place: Ohio
+        marriages:
+          - date: Minnie Mae Nelson
+        death:
+          date: 15 August 1956
+          place: Ohio
+        burial:
+          place: "Bradford Cemetery   Bradbury, Ohio"
+      - name: Emma Vining
+        birth:
+          date: June 1895
+          place: Ohio
+      - name: child
+raw: |-
+  <a name="JohnW03"></a><font size=+2>John Wesley Vining</font>
+     (son of [?])
+     b. February 1834   Ohio
+     m. 16 y. as of 1900 census
+           Rosetta Clark
+                 b. March 1860   Ohio
+  
+  <font size=+1>children:</font>
+     James Vining   b. July 1889   Ohio
+     <a href="Hfamilies.htm#Howard01">Howard Vining</a>   b. 15 June 1890   Ohio   -   m. Minnie Mae Nelson   -   d. 15 August 1956   Ohio   -   bur. Bradford Cemetery   Bradbury, Ohio
+     Emma Vining   b. June 1895   Ohio
+     child

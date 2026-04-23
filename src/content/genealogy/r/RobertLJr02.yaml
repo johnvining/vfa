@@ -1,0 +1,45 @@
+id: RobertLJr02
+sequence: 107
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RobertL05
+parentDesc: Robert L. Vining and Kate Lynn Jefferson
+head:
+  givenName: Robert L. Jr.
+  birth:
+    date: 30 March 1931
+marriages:
+  - spouse:
+      givenName: Martha Sue
+      surname: Cate
+      parents: "(dau. of Grover C. Cate and Annie Howell)"
+      birth:
+        date: 21 December 1928
+        place: "Ocoee, Tennessee"
+      death:
+        date: 8 January 2007
+        place: "Dalton, Georgia"
+      burial:
+        place: "Chatsworth Heights Cemetery   Chatsworth, Georgia"
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Laura Vining
+        marriages:
+          - date: Mark Orr
+docsUrl: Rsources/RobertLJr02doc.htm
+raw: |-
+  <a name="RobertLJr02"></a><font size=+2>Robert L. Vining Jr.</font>
+     (son of <a href="#RobertL05">Robert L. Vining and Kate Lynn Jefferson</a>)
+     b. 30 March 1931
+     m. Martha Sue Cate
+              (dau. of Grover C. Cate and Annie Howell)
+              b. 21 December 1928   Ocoee, Tennessee
+              d. 8 January 2007   Dalton, Georgia
+                    bur. Chatsworth Heights Cemetery   Chatsworth, Georgia
+  
+  <font size=+1>child:</font>
+     Laura Vining   m. Mark Orr
+  
+  <a href="Rsources/RobertLJr02doc.htm">documentation and notes</a>

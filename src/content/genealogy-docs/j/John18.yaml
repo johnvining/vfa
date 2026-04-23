@@ -1,0 +1,52 @@
+id: John18
+title: John Vining - Gracy [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: John Vining
+          values:
+            - "50"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Gracy ([...]) Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Margarett Vining
+          values:
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: El[a?]dora Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Gibson post office, Glascock County, Georgia - dwelling 196, family 196
+        images:
+          - src: John18census1870.jpg

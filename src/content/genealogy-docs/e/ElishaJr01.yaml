@@ -1,0 +1,41 @@
+id: ElishaJr01
+title: Elisha Vining Jr. - Deborah Fullerton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1790"
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+      rows:
+        - label: Elisha Vining Jr.
+          values:
+            - M 16 and upward
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Deborah (Fullerton) Vining
+          values:
+            - F
+            - "?"
+            - "?"
+            - "?"
+            - dead
+        - label: Deborah Vining
+          values:
+            - F
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1790"
+        caption: >-
+          Abington, Plymouth County, Massachusetts. The age of each member of this family in 1790 matches the expected
+          age category in the 1790 census record.
+        images:
+          - src: ElishaJr01census1790.jpg

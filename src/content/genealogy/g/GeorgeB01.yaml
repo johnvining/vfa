@@ -1,0 +1,130 @@
+id: GeorgeB01
+letter: G
+sequence: 16
+lastUpdated: 22 July 2022
+relationship: son
+parentId: George01
+parentDesc: George Vining and Hannah Judkins
+head:
+  givenName: George B.
+  birth:
+    date: "1716"
+marriages:
+  - number: 1
+    date: 3 December 1741
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Ruth
+      surname: Derby
+      parents: "(dau. of Jonathan Derby and Ruth Shaw)"
+      birth:
+        date: 14 December 1722
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: 15 January 1755
+  - number: 2
+    date: 13 March 1755
+    spouse:
+      givenName: Mary
+      surname: Dunham
+      parents: "(dau. of Nathaniel Dunham and [Mercy or Marcey?] [...])"
+      birth:
+        date: 17 August 1724
+        place: "Norton, Massachusetts"
+childrenGroups:
+  - spouseRef: Ruth Derby
+    children:
+      - name: Abner Vining
+        birth:
+          date: 20 October 1742
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 20 January 1742/43
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Abner Vining
+        birth:
+          date: 16 November 1743
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Ruth Vining
+        birth:
+          date: 7 February 1744/1745
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: 4 September 1760
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Lemuel Bicknell
+        death:
+          date: 2 March 1802
+          place: "Westford, Massachusetts"
+      - name: Leah Vining
+        birth:
+          date: 17 February 1746/47
+          place: "Weymouh, Massachusetts"
+        death:
+          date: 29 June 1750
+          place: "Norton, Massachusetts"
+      - name: Eli Vining
+        birth:
+          date: 17 February 1748/49
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 30 June 1750
+          place: "Norton, Massachusetts"
+      - name: Leah Vining
+        birth:
+          date: 13 November 1750
+          place: "Norton, Massachusetts"
+        marriages:
+          - date: 30 July 1772
+            place: "Hingham, Massachusetts"
+            spouse: "Isaiah Bangs?"
+      - name: Eli Vining
+        birth:
+          date: 23 July 1752
+          place: "Norton, Massachusetts"
+      - name: George Vining
+        entryId: George02
+        birth:
+          date: 24 December 1754
+          place: "Norton, Massachusetts"
+        marriages:
+          - date: 27 July 1778
+            place: "Bridgewater, Plymouth County, Massachusetts"
+            spouse: Abigail Alden
+        death:
+          date: 8 April 1822
+          place: "Plainfield, Massachusetts"
+        burial:
+          place: "West Hill Cemetery   Plainfield, Massachusetts"
+  - spouseRef: Mary Dunham
+    children:
+      - name: "Mercy Vining   bapt. 9 May 1756   Norton, Massachusetts"
+      - name: "Molly Vining   bapt. 8 May 1757   Norton, Massachusetts"
+      - name: "Nathaniel Vining   bapt. 17 June 1759   Norton, Massachusetts"
+raw: |-
+  <a name="GeorgeB01"></a><font size=+2>George B. Vining</font>
+     (son of <a href="#George01">George Vining and Hannah Judkins</a>)
+     b. 1716
+     m. (1) 3 December 1741   Weymouth, Norfolk County, Massachusetts
+                 Ruth Derby
+                       (dau. of Jonathan Derby and Ruth Shaw)
+                       b. 14 December 1722   Weymouth, Norfolk County, Massachusetts
+                       d. 15 January 1755
+           (2) 13 March 1755
+                 Mary Dunham
+                       (dau. of Nathaniel Dunham and [Mercy or Marcey?] [...])
+                       b. 17 August 1724   Norton, Massachusetts
+  
+  <font size=+1>children by Ruth Derby:</font>
+     Abner Vining   b. 20 October 1742   Weymouth, Norfolk County, Massachusetts   -   d. 20 January 1742/43   Weymouth, Norfolk County, Massachusetts
+     Abner Vining   b. 16 November 1743   Weymouth, Norfolk County, Massachusetts
+     Ruth Vining   b. 7 February 1744/1745   Weymouth, Norfolk County, Massachusetts   -   m. 4 September 1760   Weymouth, Norfolk County, Massachusetts   Lemuel Bicknell   -   d. 2 March 1802   Westford, Massachusetts
+     Leah Vining   b. 17 February 1746/47   Weymouh, Massachusetts   -   d. 29 June 1750   Norton, Massachusetts
+     Eli Vining   b. 17 February 1748/49   Weymouth, Norfolk County, Massachusetts   -   d. 30 June 1750   Norton, Massachusetts
+     Leah Vining   b. 13 November 1750   Norton, Massachusetts   -   m. 30 July 1772   Hingham, Massachusetts   Isaiah Bangs?
+     Eli Vining   b. 23 July 1752   Norton, Massachusetts
+     <a href="#George02">George Vining</a>   b. 24 December 1754   Norton, Massachusetts   -   m. 27 July 1778   Bridgewater, Plymouth County, Massachusetts   Abigail Alden   -   d. 8 April 1822   Plainfield, Massachusetts   -   bur. West Hill Cemetery   Plainfield, Massachusetts
+  <font size=+1>children by Mary Dunham:</font>
+     Mercy Vining   bapt. 9 May 1756   Norton, Massachusetts
+     Molly Vining   bapt. 8 May 1757   Norton, Massachusetts
+     Nathaniel Vining   bapt. 17 June 1759   Norton, Massachusetts

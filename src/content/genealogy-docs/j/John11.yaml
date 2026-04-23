@@ -1,0 +1,158 @@
+id: John11
+title: John Vining - (1) Lucinda E. Farber; (2) Lydia M. Pellett
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: John Vining
+          values:
+            - "?"
+            - "37"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: (1) Lucinda E. (Farber) Vining
+          values:
+            - "?"
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: (2) Lydia M. (Pellett) Vining
+          values:
+            - ""
+            - "33"
+            - "44"
+            - "?"
+            - "64"
+            - "?"
+        - label: Josephine Vining
+          values:
+            - "?"
+            - "14"
+            - 24; married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Jane Vining
+          values:
+            - "?"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Uria Vining
+          values:
+            - "?"
+            - "12"
+            - "21"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Benjamin Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: William Elmer Vining
+          values:
+            - ""
+            - "9"
+            - "19"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: "[Amelia E. or Melissa?] Vining"
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Clara Vining
+          values:
+            - ""
+            - "7"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Robert Henry Vining
+          values:
+            - ""
+            - "5"
+            - "14"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Minor Simon/Simeon Vining
+          values:
+            - ""
+            - "3"
+            - "12"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: John Franklin Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - |-
+              [28?]
+              [see note below]
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 104, family 104
+        images:
+          - src: John11census1870.jpg
+      - year: "1880"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 211, family 259
+        images:
+          - src: John11census1880.jpg
+      - year: "1900"
+        caption: >-
+          Tippecanoe Township, Marshall County, Indiana - dwelling 227, family 231. By 1900, John Franklin Vining was
+          married, and he and his wife and daughter were living in the household of his mother.
+        images:
+          - src: John11census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for John Vining and Lucinda E. Farber, in Etna Green Cemetery, Etna Green, Kosciusko County,
+          Indiana (from Find A Grave):
+        images:
+          - src: John11gravestone.jpg
+          - src: John11wifeLucindagravestone.jpg
+        inline: true
+      - caption: >-
+          Gravestone for Lydia M. (Pellett) Vining, in Summit Chapel Cemetery, Bourbon, Marshall County, Indiana (from
+          Find A Grave):
+        images:
+          - src: John11wifeLydiagravestone.jpg

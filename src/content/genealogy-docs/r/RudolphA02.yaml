@@ -1,0 +1,51 @@
+id: RudolphA02
+title: Rudolph Adam Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Rudolph Adam Vining
+          values:
+            - "31"
+            - "41"
+        - label: Mary ([…]) Vining
+          values:
+            - "23"
+            - "33"
+        - label: Milton Vining
+          values:
+            - "6"
+            - "18"
+          indent: true
+        - label: Verna Vining
+          values:
+            - "3"
+            - "14"
+          indent: true
+        - label: Woodzay Joseph Vining
+          values:
+            - 5 months
+            - "10"
+          indent: true
+        - label: Amy Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Leonia Eva Vining
+          values:
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Police Jury Ward 4, St. John the Baptist Parish, Louisiana - dwelling 552, family 648
+        images:
+          - src: RudolphA02census1930.jpg
+      - year: "1940"
+        caption: Ward 4, St. Mary Parish, Louisiana
+        images:
+          - src: RudolphA02census1940.jpg

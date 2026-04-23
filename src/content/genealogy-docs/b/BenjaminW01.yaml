@@ -1,0 +1,47 @@
+id: BenjaminW01
+title: Benjamin Wallace Vining - Pet Katherine Grant
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Benjamin Wallace Vining
+          values:
+            - "30"
+            - "?"
+            - dead
+        - label: Pet Katherine (Grant) Vining
+          values:
+            - "25"
+            - "?"
+            - "?"
+        - label: Loula Ben Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+        - label: Benjamin Wallace Vining Jr.
+          values:
+            - "2"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Justice Precinct 5, Temple City, Bell County, Texas - dwelling 423, family 423
+        images:
+          - src: BenjaminW01census1910.jpg
+  - type: death
+    items:
+      - caption: "Obituary and burial notice for Benjamin Wallace Vining:"
+        images:
+          - src: BenjaminW01obituary.jpg
+          - src: BenjaminW01burialnotice.jpg
+        inline: true
+      - caption: "Gravestones for Benjamin Wallace Vining and Pet Katherine (Grant) Vining, in Oakwood Cemetery, Waco, Texas:"
+        images:
+          - src: BenjaminW01andwifegravestones.jpg

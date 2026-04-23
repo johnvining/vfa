@@ -1,0 +1,79 @@
+id: LeroyL01
+sequence: 47
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: WilliamA01
+parentLetter: W
+parentDesc: William Albert Vining and Charlotte Olivia Burley
+head:
+  givenName: Leroy Leslie
+  birth:
+    date: 24 April 1887
+    place: New York
+  death:
+    date: 25 June 1958
+    place: "South Windsor, New York"
+marriages:
+  - date: 17 y. as of 1930 census
+    spouse:
+      givenName: Jennie
+      surname: Worden
+      birth:
+        date: age 39 y. as of 1930 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Richard Leroy Vining
+        entryId: RichardL01
+        entryLetter: R
+        birth:
+          date: 31 March 1914
+          place: New York
+        marriages:
+          - date: Margery Nabinger
+        death:
+          date: 5 November 1985
+          place: "(last residence: Ouaquaga, New York)"
+        burial:
+          place: "South Windsor Cemetery   South Windsor, New York"
+      - name: Esther Louise Vining
+        birth:
+          date: 28 October 1915
+          place: "Occanum, New York"
+        marriages:
+          - date: Carlton Bennett
+      - name: Grace Virginia Vining
+        birth:
+          date: 22 October 1917
+          place: "South Windsor, New York"
+        marriages:
+          - date: "Church Hollow, New York"
+            spouse: Clayton Ives
+      - name: Robert William Vining
+        entryId: RobertW01
+        entryLetter: R
+        birth:
+          date: 23 July 1920
+          place: "South Windsor, New York"
+        marriages:
+          - date: Jean Rosemond Nabinger
+        death:
+          date: March 1992
+docsUrl: Lsources/LeroyL01doc.htm
+raw: |-
+  <a name="LeroyL01"></a><font size=+2>Leroy Leslie Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamA01">William Albert Vining and Charlotte Olivia Burley</a>)
+     b. 24 April 1887   New York
+     m. 17 y. as of 1930 census
+           Jennie Worden
+                 b. age 39 y. as of 1930 census   New York
+     d. 25 June 1958   South Windsor, New York
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RichardL01">Richard Leroy Vining</a>   b. 31 March 1914   New York   -   m. Margery Nabinger   -   d. 5 November 1985   (last residence: Ouaquaga, New York)   -   bur. South Windsor Cemetery   South Windsor, New York
+     Esther Louise Vining   b. 28 October 1915   Occanum, New York   -   m. Carlton Bennett
+     Grace Virginia Vining   b. 22 October 1917   South Windsor, New York   -   m. Church Hollow, New York   Clayton Ives
+     <a href="Rfamilies.htm#RobertW01">Robert William Vining</a>   b. 23 July 1920   South Windsor, New York   -   m. Jean Rosemond Nabinger   -   d. March 1992
+  
+  <a href="Lsources/LeroyL01doc.htm">documentation and notes</a>

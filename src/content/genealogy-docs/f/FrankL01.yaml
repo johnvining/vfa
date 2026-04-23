@@ -1,0 +1,72 @@
+id: FrankL01
+title: Frank Lathan Vining - Margaret Todd
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Frank Lathan Vining
+          values:
+            - "37"
+            - "48"
+        - label: Margaret (Todd) Vining
+          values:
+            - "32"
+            - "42"
+        - label: Frank Lathan Vining Jr.
+          values:
+            - "9"
+            - "19"
+          indent: true
+        - label: Marjorie Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Robert J. Vining
+          values:
+            - "4"
+            - "14"
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - "2"
+            - "12"
+          indent: true
+        - label: Thomas Harry Vining
+          values:
+            - ""
+            - "10"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Great Falls, Cascade County, Montana - dwelling 80, family 86
+        images:
+          - src: FrankL01census1930.jpg
+      - year: "1940"
+        caption: Great Falls, Cascade County, Montana
+        images:
+          - src: FrankL01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Frank Lathan Vining and Margaret (Todd) Vining, in Highland Cemetery, Great Falls, Cascade
+          County, Montana (from Find A Grave):
+        images:
+          - src: FrankL01andwifeheadstone.jpg
+      - caption: >-
+          Gravestone for Margaret (Todd) Vining, in Highland Cemetery, Great Falls, Cascade County, Montana (from Find A
+          Grave):
+        images:
+          - src: FrankL01wifegravestone.jpg
+      - caption: >-
+          Headstone for Frank Lathan Vining Jr. and Jennie N. ([…]) Vining, son and daughter-in-law of Frank Lathan
+          Vining and Margaret (Todd) Vining, in Highland Cemetery, Great Falls, Cascade County, Montana (from Find A
+          Grave):
+        images:
+          - src: FrankL01sonFrankandwifeheadstone.jpg
+      - caption: "Obituary (source unknown) for Robert J. Vining, son of Frank Lathan Vining and Margaret (Todd) Vining:"
+        images:
+          - src: FrankL01sonRobertobituary.jpg

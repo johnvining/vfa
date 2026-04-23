@@ -1,0 +1,128 @@
+id: DariusT01
+sequence: 18
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnT02
+parentLetter: J
+parentDesc: John Thomas Vining and Catherine Elizabeth Townsend
+head:
+  givenName: Darius Townsend
+  birth:
+    date: 17 October 1856
+    place: Georgia
+  death:
+    date: 10 April 1930
+  burial:
+    place: "Greenwood Cemetery   Wildwood, Sumter County, Florida"
+marriages:
+  - date: 10 October 1883
+    spouse:
+      givenName: Eulalia Carroll
+      surname: McClellan
+      birth:
+        date: January 1859
+        place: Florida
+      death:
+        date: "1930"
+      burial:
+        place: "Greenwood Cemetery   Wildwood, Sumter County, Florida"
+childrenGroups:
+  - children:
+      - name: Milford E. Vining
+        birth:
+          date: August 1884
+          place: Florida
+      - name: Elizabeth M. Vining
+        birth:
+          date: October 1885
+          place: Florida
+      - name: Charles Thomas Vining
+        entryId: CharlesT01
+        entryLetter: C
+        birth:
+          date: 16 April 1887
+          place: "Wildwood, Florida"
+        marriages:
+          - spouse: Fannie Jones
+        death:
+          date: 13 January 1949
+          place: "Rockledge, Brevard County, Florida"
+        burial:
+          place: "LaGrange Cemetery   Mims, Brevard County, Florida"
+      - name: Judson C. Vining
+        birth:
+          date: 8 September 1888
+          place: Florida
+        death:
+          date: 11 May 1958
+        burial:
+          place: "Woodlawn Cemetery   Tampa, Hillsborough County, Florida"
+      - name: Ida B. Vining
+        birth:
+          date: January 1890
+          place: Florida
+      - name: Henrietta Vining
+        birth:
+          date: May 1891
+          place: Florida
+      - name: Mary E. Vining
+        birth:
+          date: November 1892
+          place: Florida
+      - name: Roberta G. Vining
+        birth:
+          date: July 1894
+          place: Florida
+      - name: John William Vining
+        entryId: JohnW08
+        entryLetter: J
+        birth:
+          date: 24 November 1896
+          place: "Wildwood, Sumter County, Florida"
+        marriages:
+          - spouse: Annie Lou Ball
+      - name: Hammond Vining
+        birth:
+          date: age 8 y. as of 1910 census
+          place: Florida
+      - name: Joseph Oswald Vining
+        entryId: JosephO01
+        entryLetter: J
+        birth:
+          date: 13 August 1901
+          place: Florida
+        marriages:
+          - spouse: Ida Sue Britt
+        death:
+          date: 10 February 1984
+          place: "Apopka, Orange County, Florida"
+        burial:
+          place: "Greenwood Cemetery   Orlando, Orange County, Florida"
+docsUrl: Dsources/DariusT01doc.htm
+raw: |-
+  <a name="DariusT01"></a><font size=+2>Darius Townsend Vining</font>
+     (son of <a href="Jfamilies.htm#JohnT02">John Thomas Vining and Catherine Elizabeth Townsend</a>)
+     b. 17 October 1856   Georgia
+     m. 10 October 1883
+           Eulalia Carroll McClellan
+                 b. January 1859   Florida
+                 d. 1930
+                       bur. Greenwood Cemetery   Wildwood, Sumter County, Florida
+     d. 10 April 1930
+           bur. Greenwood Cemetery   Wildwood, Sumter County, Florida
+  
+  <font size=+1>children:</font>
+     Milford E. Vining   b. August 1884   Florida
+     Elizabeth M. Vining   b. October 1885   Florida
+     <a href="Cfamilies.htm#CharlesT01">Charles Thomas Vining</a>   b. 16 April 1887   Wildwood, Florida   -   m. Fannie Jones   -   d. 13 January 1949   Rockledge, Brevard County, Florida   -   bur. LaGrange Cemetery   Mims, Brevard County, Florida
+     Judson C. Vining   b. 8 September 1888   Florida   -   d. 11 May 1958   -   bur. Woodlawn Cemetery   Tampa, Hillsborough County, Florida
+     Ida B. Vining   b. January 1890   Florida
+     Henrietta Vining   b. May 1891   Florida
+     Mary E. Vining   b. November 1892   Florida
+     Roberta G. Vining   b. July 1894   Florida
+     <a href="Jfamilies.htm#JohnW08">John William Vining</a>   b. 24 November 1896   Wildwood, Sumter County, Florida   -   m. Annie Lou Ball
+     Hammond Vining   b. age 8 y. as of 1910 census   Florida
+     <a href="Jfamilies.htm#JosephO01">Joseph Oswald Vining</a>   b. 13 August 1901   Florida   -   m. Ida Sue Britt   -   d. 10 February 1984   Apopka, Orange County, Florida   -   bur. Greenwood Cemetery   Orlando, Orange County, Florida
+  
+  <a href="Dsources/DariusT01doc.htm">documentation and notes</a>

@@ -1,0 +1,107 @@
+id: HomerT01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: AlbertT01
+parentLetter: A
+parentDesc: Albert Thadd Vining and Lena Monk
+head:
+  givenName: Homer Thadd
+  birth:
+    date: 25 November 1902
+    place: "Star City, Lincoln County, Arkansas"
+  death:
+    date: 2 February 1975
+    place: "Caddo Mills, Dallas, Hunt County, Texas"
+marriages:
+  - spouse:
+      givenName: Neva Dell
+      surname: McGregor
+      parents: "(dau. of Wiley Albert McGregor and Annie E. Hildesheim)"
+      birth:
+        date: 23 September 1904
+        place: "Yorktown, Lincoln Couonty, Arkansas"
+      death:
+        date: 26 February 1992
+        place: "Jackson, Hinds County, Mississippi"
+childrenGroups:
+  - children:
+      - name: Homer Thadd Vining Jr.
+        entryId: HomerTJr01
+        birth:
+          date: 1 January 1925
+        marriages:
+          - date: Gladys Adele Carroll
+        death:
+          date: March 1991
+          place: "Memphis, Tennessee"
+      - name: Herman Albert Vining
+        entryId: HermanA01
+        birth:
+          date: 11 May 1926
+          place: "Star City, Lincoln County, Arkansas"
+        marriages:
+          - date: 3 January 1948
+            spouse: Montyza Marie McDaniel
+        death:
+          date: 20 December 1996
+          place: "Greenwood, Leflore County, Mississippi"
+      - name: Nellie Bernice Vining
+        birth:
+          date: 4 February 1928
+          place: "Star City, Lincoln County, Arkansas"
+        marriages:
+          - date: Irvin Arnold Kent
+        death:
+          date: 13 November 2002
+          place: "Greenwood, Leflore County, Mississippi"
+      - name: Esther Geneva Vining
+        birth:
+          date: 1 July 1929
+          place: "Star City, Lincoln County, Arkansas"
+        marriages:
+          - date: Gerold Kent
+        death:
+          date: 17 October 2014
+          place: "Charleston, Tallahatchie County, Mississippi"
+      - name: Richard Franklin Vining
+        entryId: RichardF01
+        entryLetter: R
+        birth:
+          date: 6 March 1933
+          place: "Star City, Arkansas"
+        marriages:
+          - date: Gwendolyn Markley
+        death:
+          date: 27 July 2011
+          place: "Falling Waters, West Virginia"
+      - name: Fanny Mae Vining
+        birth:
+          date: 19 March 1931
+        marriages:
+          - date: Robert Clint Carpenter
+        death:
+          date: 11 Octobr 2014
+          place: "Carroll County, Mississippisi"
+      - name: "Alvia \"Cissy\" Elizabeth Vining  b. Missisippi  -  m. [...] Albritton  -  m. [...] Mercer"
+docsUrl: Hsources/HomerT01doc.htm
+raw: |-
+  <a name="HomerT01"></a><font size=+2>Homer Thadd Vining</font>
+     (son of <a href="Afamilies.htm#AlbertT01">Albert Thadd Vining and Lena Monk</a>)
+     b. 25 November 1902   Star City, Lincoln County, Arkansas
+     m. Neva Dell McGregor
+              (dau. of Wiley Albert McGregor and Annie E. Hildesheim)
+              b. 23 September 1904   Yorktown, Lincoln Couonty, Arkansas
+              d. 26 February 1992   Jackson, Hinds County, Mississippi
+     d. 2 February 1975   Caddo Mills, Dallas, Hunt County, Texas
+  
+  <font size=+1>children:</font>
+     <a href="#HomerTJr01">Homer Thadd Vining Jr.</a>   b. 1 January 1925   -   m. Gladys Adele Carroll   -   d. March 1991   Memphis, Tennessee
+     <a href="#HermanA01">Herman Albert Vining</a>   b. 11 May 1926   Star City, Lincoln County, Arkansas   -   m. 3 January 1948   Montyza Marie McDaniel   -   d. 20 December 1996   Greenwood, Leflore County, Mississippi
+     Nellie Bernice Vining   b. 4 February 1928   Star City, Lincoln County, Arkansas   -   m. Irvin Arnold Kent   -   d. 13 November 2002   Greenwood, Leflore County, Mississippi
+     Esther Geneva Vining   b. 1 July 1929   Star City, Lincoln County, Arkansas   -   m. Gerold Kent   -   d. 17 October 2014   Charleston, Tallahatchie County, Mississippi
+     <a href="Rfamilies.htm#RichardF01">Richard Franklin Vining</a>   b. 6 March 1933   Star City, Arkansas   -   m. Gwendolyn Markley   -   d. 27 July 2011   Falling Waters, West Virginia
+     Fanny Mae Vining   b. 19 March 1931   -   m. Robert Clint Carpenter   -   d. 11 Octobr 2014   Carroll County, Mississippisi
+     Alvia "Cissy" Elizabeth Vining  b. Missisippi  -  m. [...] Albritton  -  m. [...] Mercer
+  
+  <a href="Hsources/HomerT01doc.htm">documentation and notes</a>

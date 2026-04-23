@@ -1,0 +1,45 @@
+id: JohnH05
+sequence: 232
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: HenryC02
+parentLetter: H
+parentDesc: Henry Calvin Vining and Gertrude Delia Mewherter
+head:
+  givenName: John Henry
+  birth:
+    date: 4 June 1926
+    place: "Clinton, Iowa"
+marriages:
+  - spouse:
+      givenName: Verna Belle
+      surname: Dyke
+childrenGroups:
+  - children:
+      - name: Deborah Sue Vining
+        birth:
+          date: 13 May 1954
+          place: "Clinton, Iowa"
+        marriages:
+          - date: 26 June 1971
+            spouse: "Terry Ray Jones,   divorced"
+      - name: John Vining
+      - name: Mark Raymond Vining
+        entryId: MarkR01
+        entryLetter: M
+        birth:
+          date: 31 August 1961
+          place: "Clinton, Iowa"
+        marriages:
+          - date: Lynn Ann Willenburg
+raw: |-
+  <a name="JohnH05"></a><font size=+2>John Henry Vining</font>
+     (son of <a href="Hfamilies.htm#HenryC02">Henry Calvin Vining and Gertrude Delia Mewherter</a>)
+     b. 4 June 1926   Clinton, Iowa
+     m. Verna Belle Dyke
+  
+  <font size=+1>children:</font>
+     Deborah Sue Vining   b. 13 May 1954   Clinton, Iowa   -   m. 26 June 1971   Terry Ray Jones,   divorced
+     John Vining
+     <a href="Mfamilies.htm#MarkR01">Mark Raymond Vining</a>   b. 31 August 1961   Clinton, Iowa   -   m. Lynn Ann Willenburg

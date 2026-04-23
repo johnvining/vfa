@@ -1,0 +1,73 @@
+id: CharlesM03
+letter: C
+sequence: 85
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CharlesA05
+parentDesc: Charles Albert Vining and Harriet Alice Roten
+head:
+  givenName: "Charles Macon &#8220;Pat&#8221;"
+  birth:
+    date: 20 September 1898
+    place: "Rusk, Texas"
+  death:
+    date: 28 April 1956
+    place: "Dallas, Texas"
+  burial:
+    place: "Laurel Land Memorial Park   Dallas, Texas"
+marriages:
+  - number: 1
+    date: Anna Leona Banks
+    spouse:
+      birth:
+        date: 9 December 1902
+      death:
+        date: 31 March 2000
+      burial:
+        place: "Laurel Land Memorial Park   Dallas, Texas"
+  - number: 2
+    date: Gene O. Young
+    spouse:
+      birth:
+        date: 4 August 1927
+childrenGroups:
+  - headingText: child by Anna Leona Banks
+    children:
+      - name: Gerald Banks Vining
+        entryId: GeraldB01
+        entryLetter: G
+        birth:
+          date: 17 July 1921
+          place: Texas
+        marriages:
+          - date: Jean Oleta Young
+        death:
+          date: 23 August 1984
+          place: "Texas   (last residence: Dallas, Texas)"
+        burial:
+          place: "Restland Memorial Park   Dallas, Texas"
+  - headingText: child by Gene O. Young
+    children:
+      - name: Gerald Madison Vining
+        birth:
+          date: 12 January 1947
+docsUrl: Csources/CharlesM03doc.htm
+raw: |-
+  <a name="CharlesM03"></a><font size=+2>Charles Macon &#8220;Pat&#8221; Vining</font>
+     (son of <a href="#CharlesA05">Charles Albert Vining and Harriet Alice Roten</a>)
+     b. 20 September 1898   Rusk, Texas
+     m. (1) Anna Leona Banks
+                    b. 9 December 1902
+                    d. 31 March 2000
+                          bur. Laurel Land Memorial Park   Dallas, Texas
+           (2) Gene O. Young
+                    b. 4 August 1927
+     d. 28 April 1956   Dallas, Texas
+           bur. Laurel Land Memorial Park   Dallas, Texas
+  
+  <font size=+1>child by Anna Leona Banks:</font>
+     <a href="Gfamilies.htm#GeraldB01">Gerald Banks Vining</a>   b. 17 July 1921   Texas   -   m. Jean Oleta Young   -   d. 23 August 1984   Texas   (last residence: Dallas, Texas)   -   bur. Restland Memorial Park   Dallas, Texas
+  <font size=+1>child by Gene O. Young:</font>
+     Gerald Madison Vining   b. 12 January 1947
+  
+  <a href="Csources/CharlesM03doc.htm">documentation and notes</a>

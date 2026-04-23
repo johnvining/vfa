@@ -1,0 +1,60 @@
+id: LemuelB01
+sequence: 27
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: WillardB01
+parentLetter: W
+parentDesc: Willard B. Vining and Jessie Hitchcock
+head:
+  givenName: Lemuel B.
+  birth:
+    date: 5 June 1908
+  death:
+    date: 18 September 2003
+    place: "(last residence: Maplecrest, New York)"
+  burial:
+    place: "Maplecrest Cemetery   Windham, New York"
+marriages:
+  - spouse:
+      givenName: Thelma A.
+      surname: Swanker
+      birth:
+        date: "1903"
+      death:
+        date: "1976"
+      burial:
+        place: "Maplecrest Cemetery   Windham, New York"
+childrenGroups:
+  - children:
+      - name: Lemuel B. Vining Jr.
+        entryId: LemuelBJr01
+        entryLetter: L
+        birth:
+          date: 18 January 1931
+        marriages:
+          - date: Joan Tessaro
+      - name: Paul W. Vining
+        birth:
+          date: "1935"
+        death:
+          date: "1935"
+        burial:
+          place: "Maplecrest Cemetery   Windham, New York"
+docsUrl: Lsources/LemuelB01doc.htm
+raw: |-
+  <a name="LemuelB01"></a><font size=+2>Lemuel B. Vining</font>
+     (son of <a href="Wfamilies.htm#WillardB01">Willard B. Vining and Jessie Hitchcock</a>)
+     b. 5 June 1908
+     m. Thelma A. Swanker
+              b. 1903
+              d. 1976
+                    bur. Maplecrest Cemetery   Windham, New York
+     d. 18 September 2003   (last residence: Maplecrest, New York)
+           bur. Maplecrest Cemetery   Windham, New York
+  
+  <font size=+1>children:</font>
+     <a href="Lfamilies.htm#LemuelBJr01">Lemuel B. Vining Jr.</a>   b. 18 January 1931   -   m. Joan Tessaro
+     Paul W. Vining   b. 1935   -   d. 1935   -   bur. Maplecrest Cemetery   Windham, New York
+  
+  <a href="Lsources/LemuelB01doc.htm">documentation and notes</a>

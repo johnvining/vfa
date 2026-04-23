@@ -1,0 +1,67 @@
+id: FredE01
+sequence: 50
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: GeorgeJ01
+parentLetter: G
+parentDesc: George Joseph Vining and Cornelia Aldridge
+head:
+  givenName: Fred Earnest
+  birth:
+    date: 5 January 1878
+    place: "Mattoon, Illinois"
+  death:
+    date: 19 August 1956
+    place: "Greenwood, Mississippi"
+  burial:
+    place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+marriages:
+  - date: 11 December 1906
+    spouse:
+      givenName: Minnie Frances
+      surname: Payne
+      birth:
+        date: age 22 y. as of 1910 census
+        place: Arkansas
+childrenGroups:
+  - children:
+      - name: Fred Earnest Vining Jr.
+        birth:
+          date: 19 January 1908
+        death:
+          date: May 1973
+          place: "(last residence: Pine Bluff, Arkansas)"
+      - name: Raymond Vining
+        birth:
+          date: age 1 m. as of 1910 census
+          place: Arkansas
+      - name: Paul Christopher Vining
+        entryId: PaulC02
+        entryLetter: P
+        birth:
+          date: 4 August 1919
+          place: "Pine Bluff, Arkansas"
+        marriages:
+          - date: Florence Haynes
+        death:
+          date: 23 July 2006
+        burial:
+          place: "Memory Gardens of Fairhope   Fairhope, Alabama"
+docsUrl: Fsources/FredE01doc.htm
+raw: |-
+  <a name="FredE01"></a><font size=+2>Fred Earnest Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeJ01">George Joseph Vining and Cornelia Aldridge</a>)
+     b. 5 January 1878   Mattoon, Illinois
+     m. 11 December 1906
+           Minnie Frances Payne
+                 b. age 22 y. as of 1910 census   Arkansas
+     d. 19 August 1956   Greenwood, Mississippi
+           bur. Bellwood Cemetery Annex   Pine Bluff, Arkansas
+  
+  <font size=+1>children:</font>
+     Fred Earnest Vining Jr.   b. 19 January 1908   -   d. May 1973   (last residence: Pine Bluff, Arkansas)
+     Raymond Vining   b. age 1 m. as of 1910 census   Arkansas
+     <a href="Pfamilies.htm#PaulC02">Paul Christopher Vining</a>   b. 4 August 1919   Pine Bluff, Arkansas   -   m. Florence Haynes   -   d. 23 July 2006   -   bur. Memory Gardens of Fairhope   Fairhope, Alabama
+  
+  <a href="Fsources/FredE01doc.htm">documentation and notes</a>

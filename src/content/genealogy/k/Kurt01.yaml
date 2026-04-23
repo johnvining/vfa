@@ -1,0 +1,47 @@
+id: Kurt01
+letter: K
+sequence: 32
+lastUpdated: 24 July 2022
+relationship: son
+parentId: CurtisL01
+parentLetter: C
+parentDesc: Curtis L. Vining and Rosalind M. Raymond
+head:
+  givenName: Kurt
+  birth:
+    date: 3 May 1943
+marriages:
+  - spouse:
+      givenName: Lois Ann
+      surname: Schroeder
+childrenGroups:
+  - children:
+      - name: Vicki Lynn Vining
+        birth:
+          date: 16 December 1966
+        marriages:
+          - date: 14 January 1995
+            spouse: Nicholas Joseph Loisi
+      - name: Erik Eugene Vining
+        birth:
+          date: 13 May 1969
+        marriages:
+          - date: 20 August 2005
+            spouse: Angela Spero
+      - name: Traci Ann Vining
+        birth:
+          date: 27 August 1976
+          place: "Evergreen Park, Cook County, Illinois"
+        marriages:
+          - date: 13 February 2004
+            spouse: Aaron Lacheta
+raw: |-
+  <a name="Kurt01"></a><font size=+2>Kurt Vining</font>
+     (son of <a href="Cfamilies.htm#CurtisL01">Curtis L. Vining and Rosalind M. Raymond</a>)
+     b. 3 May 1943
+     m. Lois Ann Schroeder
+  
+  <font size=+1>children:</font>
+     Vicki Lynn Vining   b. 16 December 1966   -   m. 14 January 1995   Nicholas Joseph Loisi
+     Erik Eugene Vining   b. 13 May 1969   -   m. 20 August 2005   Angela Spero
+     Traci Ann Vining   b. 27 August 1976   Evergreen Park, Cook County, Illinois   -   m. 13 February 2004   Aaron Lacheta

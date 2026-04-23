@@ -1,0 +1,60 @@
+id: JamesN01
+sequence: 84
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EltonC01
+parentLetter: E
+parentDesc: Elton Cassius Vining and Anna Banta
+head:
+  givenName: James N.
+  birth:
+    date: 17 August 1913
+  death:
+    date: July 1986
+    place: "(last residence: Celina, Ohio)"
+  burial:
+    place: "Willshire Cemetery   Willshire, Ohio"
+marriages:
+  - spouse:
+      givenName: Mildred Marcella
+      surname: Carver
+      birth:
+        date: "1913"
+      death:
+        date: "2002"
+      burial:
+        place: "Willshire Cemetery   Willshire, Ohio"
+childrenGroups:
+  - children:
+      - name: Brenda Sue Vining
+        birth:
+          date: 2 April 1939
+          place: Indiana
+        death:
+          date: 7 September 1966
+          place: Ohio
+        burial:
+          place: "Willshire Cemetery   Willshire, Ohio"
+      - name: Nila Lou Vining
+        birth:
+          date: 8 November 1941
+        marriages:
+          - date: Carl L. Swander
+docsUrl: Jsources/JamesN01doc.htm
+raw: |-
+  <a name="JamesN01"></a><font size=+2>James N. Vining</font>
+     (son of <a href="Efamilies.htm#EltonC01">Elton Cassius Vining and Anna Banta</a>)
+     b. 17 August 1913
+     m. Mildred Marcella Carver
+              b. 1913
+              d. 2002
+                    bur. Willshire Cemetery   Willshire, Ohio
+     d. July 1986   (last residence: Celina, Ohio)
+           bur. Willshire Cemetery   Willshire, Ohio
+  
+  <font size=+1>children:</font>
+     Brenda Sue Vining   b. 2 April 1939   Indiana   -   d. 7 September 1966   Ohio   -   bur. Willshire Cemetery   Willshire, Ohio
+     Nila Lou Vining   b. 8 November 1941   -   m. Carl L. Swander
+  
+  <a href="Jsources/JamesN01doc.htm">documentation and notes</a>

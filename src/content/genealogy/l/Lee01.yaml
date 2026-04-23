@@ -1,0 +1,26 @@
+id: Lee01
+sequence: 22
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: Tim01
+parentLetter: T
+parentDesc: Tim Vining and Linda Davis
+head:
+  givenName: Lee
+marriages:
+  - spouse:
+      givenName: Cyndie
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Devon Vining
+      - name: Rowan Vining
+raw: |-
+  <a name="Lee01"></a><font size=+2>Lee Vining</font>
+     (son of <a href="Tfamilies.htm#Tim01">Tim Vining and Linda Davis</a>)
+     m. Cyndie [...]
+  
+  <font size=+1>children:</font>
+     Devon Vining
+     Rowan Vining

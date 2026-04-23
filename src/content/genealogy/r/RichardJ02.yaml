@@ -1,0 +1,73 @@
+id: RichardJ02
+sequence: 60
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RichardM02
+parentDesc: Richard Mogg Vining and Hannah Pitt
+head:
+  givenName: Richard John
+  birth:
+    date: "1837"
+    place: England
+  death:
+    date: "1903"
+    place: "Alexandra, Victoria   Australia"
+marriages:
+  - date: 26 December 1862
+    spouse:
+      givenName: Eliza
+      surname: Morgan
+      birth:
+        date: "[&#8230;]"
+      death:
+        date: "1920"
+childrenGroups:
+  - children:
+      - name: Walter Edmund Vining
+        entryId: WalterE01
+        entryLetter: W
+        birth:
+          date: "1864"
+        marriages:
+          - date: Emily Dreger
+        death:
+          date: "1947"
+      - name: Richard Charles Vining
+        birth:
+          date: "1870"
+        death:
+          date: "1944"
+      - name: Ernest James Vining
+        entryId: ErnestJ01
+        entryLetter: E
+        birth:
+          date: "1879"
+        marriages:
+          - date: Emma Louise Curtis
+        death:
+          date: "1947"
+          place: "Caulfield, Victoria"
+      - name: Florence Violet Vining
+        birth:
+          date: "1884"
+        death:
+          date: "1962"
+docsUrl: Rsources/RichardJ02doc.htm
+raw: |-
+  <a name="RichardJ02"></a><font size=+2>Richard John Vining</font>
+     (son of <a href="#RichardM02">Richard Mogg Vining and Hannah Pitt</a>)
+     b. 1837   England
+     m. 26 December 1862
+           Eliza Morgan
+                 b. [&#8230;]
+                 d. 1920
+     d. 1903   Alexandra, Victoria   Australia
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WalterE01">Walter Edmund Vining</a>   b. 1864   -   m. Emily Dreger   -   d. 1947
+     Richard Charles Vining   b. 1870   -   d. 1944
+     <a href="Efamilies.htm#ErnestJ01">Ernest James Vining</a>   b. 1879   -   m. Emma Louise Curtis   -   d. 1947   Caulfield, Victoria
+     Florence Violet Vining   b. 1884   -   d. 1962
+  
+  <a href="Rsources/RichardJ02doc.htm">documentation and notes</a>

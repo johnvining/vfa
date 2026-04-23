@@ -1,0 +1,41 @@
+id: John23
+sequence: 174
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+  birth:
+    date: age 45 y. as of 1860 census
+    place: Ohio
+marriages:
+  - spouse:
+      givenName: Ann
+      surname: "[...]"
+      birth:
+        date: age 23 y. as of 1860 census
+        place: Ohio
+childrenGroups:
+  - children:
+      - name: "William [H. or A.?] Vining"
+        birth:
+          date: age 5 y. as of 1860 census
+          place: Ohio
+      - name: Alexander Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Ohio
+docsUrl: Jsources/John23doc.htm
+raw: |-
+  <a name="John23"></a><font size=+2>John Vining</font>
+     (son of [?])
+     b. age 45 y. as of 1860 census   Ohio
+     m. Ann [...]
+              b. age 23 y. as of 1860 census   Ohio
+  
+  <font size=+1>children:</font>
+     William [H. or A.?] Vining   b. age 5 y. as of 1860 census   Ohio
+     Alexander Vining   b. age 3 y. as of 1860 census   Ohio
+  
+  <a href="Jsources/John23doc.htm">documentation and notes</a>

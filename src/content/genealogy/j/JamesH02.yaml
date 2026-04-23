@@ -1,0 +1,61 @@
+id: JamesH02
+sequence: 61
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JamesJ03
+parentDesc: James Jenkins Vining and Ellen Catherine Lee
+head:
+  givenName: James Henry
+  birth:
+    date: 9 September 1884
+    place: Florida
+  death:
+    date: "1938"
+  burial:
+    place: "Glenwood Cemetery   West Long Branch, New Jersey"
+marriages:
+  - spouse:
+      givenName: Jennie C.
+      surname: Sherman
+      birth:
+        date: "1888"
+      death:
+        date: "1971"
+      burial:
+        place: "Glenwood Cemetery   West Long Branch, New Jersey"
+childrenGroups:
+  - children:
+      - name: Dorothy Rosalee Vining
+        birth:
+          date: "1913"
+        death:
+          date: "1998"
+      - name: Thomas Sherman Vining
+        birth:
+          date: 6 April 1915
+          place: New Jersey
+        marriages:
+          - date: "Ethel R. [...]"
+        death:
+          date: 1 August 1997
+          place: "Long Branch, Monmouth County, New Jersey"
+        burial:
+          place: "Glenwood Cemetery   West Long Branch, Monmouth County, New Jersey"
+docsUrl: Jsources/JamesH02doc.htm
+raw: |-
+  <a name="JamesH02"></a><font size=+2>James Henry Vining</font>
+     (son of <a href="#JamesJ03">James Jenkins Vining and Ellen Catherine Lee</a>)
+     b. 9 September 1884   Florida
+     m. Jennie C. Sherman
+              b. 1888
+              d. 1971
+                    bur. Glenwood Cemetery   West Long Branch, New Jersey
+     d. 1938
+           bur. Glenwood Cemetery   West Long Branch, New Jersey
+  
+  <font size=+1>children:</font>
+     Dorothy Rosalee Vining   b. 1913   -   d. 1998
+     Thomas Sherman Vining   b. 6 April 1915   New Jersey   -   m. Ethel R. [...]   -   d. 1 August 1997   Long Branch, Monmouth County, New Jersey   -   bur. Glenwood Cemetery   West Long Branch, Monmouth County, New Jersey
+  
+  <a href="Jsources/JamesH02doc.htm">documentation and notes</a>

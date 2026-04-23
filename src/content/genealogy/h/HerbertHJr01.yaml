@@ -1,0 +1,41 @@
+id: HerbertHJr01
+letter: H
+sequence: 907
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HerbertH01
+parentDesc: Herbert Hampton Vining and Margaret Faulkner
+head:
+  givenName: Herbert Hampton Jr.
+marriages:
+  - spouse:
+      givenName: Nancy Denise
+      surname: Brady
+      parents: "(dau. of Charles C. Brady and Pearl Hardy)"
+      birth:
+        date: 28 July 1954
+      death:
+        date: 6 February 2008
+        place: "Augusta, Georgia"
+      burial:
+        place: "Westover Memorial Park   Augusta, Georgia"
+childrenGroups:
+  - children:
+      - name: Wesley Hampton Vining
+      - name: Kristen Michele Vining
+      - name: Margaret Elizabeth Vining
+        marriages:
+          - date: Richard Nevils
+raw: |-
+  <a name="HerbertHJr01"></a><font size=+2>Herbert Hampton Vining Jr.</font>
+     (son of <a href="#HerbertH01">Herbert Hampton Vining and Margaret Faulkner</a>)
+     m. Nancy Denise Brady
+              (dau. of Charles C. Brady and Pearl Hardy)
+              b. 28 July 1954
+              d. 6 February 2008   Augusta, Georgia
+                    bur. Westover Memorial Park   Augusta, Georgia
+  
+  <font size=+1>children:</font>
+     Wesley Hampton Vining
+     Kristen Michele Vining
+     Margaret Elizabeth Vining   m. Richard Nevils

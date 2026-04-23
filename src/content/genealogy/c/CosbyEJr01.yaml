@@ -1,0 +1,58 @@
+id: CosbyEJr01
+letter: C
+sequence: 159
+lastUpdated: 25 February 2023
+relationship: son
+parentId: CosbyE02
+parentDesc: Cosby Eugene Vining and Carolyn Sue Carroll
+head:
+  givenName: Cosby Eugene Jr.
+  birth:
+    date: 1 June 1956
+marriages:
+  - number: 1
+    date: June 1977
+    spouse:
+      givenName: Vicky L.
+      surname: Odell
+    note: divorced 1985
+  - number: 2
+    date: "(common law) 1992&#8211;2008"
+    spouse:
+      givenName: Susan F.
+      surname: Poe
+  - number: 3
+    date: 23 April 2011
+    place: "Little River-Academy, Texas"
+    spouse:
+      givenName: Yvonne Lewis
+      surname: Dolezel
+childrenGroups:
+  - headingText: child by Vicky L. Odell
+    children:
+      - name: Christopher Eugene Vining
+        birth:
+          date: 10 March 1982
+          place: "Burlington, North Carolina"
+  - headingText: child by Susan F. Poe
+    children:
+      - name: Sarah Nicole Poe
+        birth:
+          date: 4 November 1995
+          place: "Pinehurst, North Carolina"
+raw: |-
+  <a name="CosbyEJr01"></a><font size=+2>Cosby Eugene Vining Jr.</font>
+     (son of <a href="#CosbyE02">Cosby Eugene Vining and Carolyn Sue Carroll</a>)
+     b. 1 June 1956
+     m. (1) June 1977
+                    Vicky L. Odell
+              divorced 1985
+        (2) (common law) 1992&#8211;2008
+                    Susan F. Poe
+        (3) 23 April 2011   Little River-Academy, Texas
+                    Yvonne Lewis Dolezel
+  
+  <font size=+1>child by Vicky L. Odell:</font>
+     Christopher Eugene Vining   b. 10 March 1982   Burlington, North Carolina
+  <font size=+1>child by Susan F. Poe:</font>
+     Sarah Nicole Poe   b. 4 November 1995   Pinehurst, North Carolina

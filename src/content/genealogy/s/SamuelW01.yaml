@@ -1,0 +1,53 @@
+id: SamuelW01
+sequence: 25
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Calvin01
+parentLetter: C
+parentDesc: Calvin Vining and Mary Ann Noe
+head:
+  givenName: Samuel Wesley
+  birth:
+    date: 24 November 1840
+    place: Ohio
+  death:
+    date: 21 September 1911
+    place: "Mount Gilead, Ohio"
+  burial:
+    place: "Rivercliff Cemetery   Mount Gilead, Ohio"
+marriages:
+  - spouse:
+      givenName: Ellen B.
+      surname: "[...]"
+      birth:
+        date: 1 February 1846
+        place: "Cardington, Ohio"
+      death:
+        date: 27 February 1927
+        place: "Mount Gilead, Ohio"
+      burial:
+        place: "Rivercliff Cemetery   Mount Gilead, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Mary Vining
+        birth:
+          date: June 1869
+          place: Ohio
+docsUrl: Ssources/SamuelW01doc.htm
+raw: |-
+  <a name="SamuelW01"></a><font size=+2>Samuel Wesley Vining</font>
+     (son of <a href="Cfamilies.htm#Calvin01">Calvin Vining and Mary Ann Noe</a>)
+     b. 24 November 1840   Ohio
+     m. Ellen B. [...]
+              b. 1 February 1846   Cardington, Ohio
+              d. 27 February 1927   Mount Gilead, Ohio
+                    bur. Rivercliff Cemetery   Mount Gilead, Ohio
+     d. 21 September 1911   Mount Gilead, Ohio
+           bur. Rivercliff Cemetery   Mount Gilead, Ohio
+  
+  <font size=+1>child:</font>
+     Mary Vining   b. June 1869   Ohio
+  
+  <a href="Ssources/SamuelW01doc.htm">documentation and notes</a>

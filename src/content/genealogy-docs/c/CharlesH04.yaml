@@ -1,0 +1,85 @@
+id: CharlesH04
+title: Charles Horace Vining - Mary Jane Ruic
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles Horace Vining
+          values:
+            - "40"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary Jane/“Jennie” (Ruic) Vining
+          values:
+            - "34"
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+        - label: Cora May Vining
+          values:
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lilla Sarah Vining
+          values:
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Horace Vining Jr.
+          values:
+            - "8"
+            - living in separate household
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edith Loretta Vining
+          values:
+            - dead?
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ruth Charlotte Vining
+          values:
+            - 4 m.
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Gertrude Mildred Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: >-
+          Barkhamsted, Litchfield County, Connecticut - dwelling 210, family 219. Also living in this household in 1900
+          was Oran[...] Case (73 y., b. Connecticut, boarder).
+        images:
+          - src: CharlesH04census1900.jpg
+      - year: "1910"
+        caption: Canton Township, Hartford County, Connecticut - dwelling 180, family 196.
+        images:
+          - src: CharlesH04census1910.jpg

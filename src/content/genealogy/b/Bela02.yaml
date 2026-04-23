@@ -1,0 +1,104 @@
+id: Bela02
+letter: B
+sequence: 9
+lastUpdated: 25 February 2023
+relationship: son
+parentId: David01
+parentLetter: D
+parentDesc: David Vining and Lydia Torrey
+head:
+  givenName: Bela
+  birth:
+    date: "[6 or 8?] August 1776"
+    place: "Weymouth, Norfolk County, Massachusetts"
+  death:
+    date: "[28 or 8?] January 1860"
+    place: "Weymouth, Norfolk County, Massachusetts"
+  burial:
+    place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+marriages:
+  - date: 20 March 1799
+    place: "Weymouth, Norfolk County, Massachusetts"
+    spouse:
+      givenName: Content
+      surname: Pratt
+      parents: (dau. of Benjamin Pratt and Love Lincoln)
+      birth:
+        date: 22 September 1776
+        place: "Weymouth, Norfolk County, Massachusetts"
+      death:
+        date: "28 September [1841 or 1842?]"
+        place: "Weymouth, Norfolk County, Massachusetts"
+      burial:
+        place: "North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Hervey Vining
+        birth:
+          date: "bapt. 27 September 1801"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        death:
+          date: 26 February 1803
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Eveline Lincoln Vining
+        birth:
+          date: "bapt. 31 March 1805"
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - date: "int. 6 August 1824"
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: Ezra Pratt
+        death:
+          date: 7 January 1868
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Eliza Ann Vining
+        birth:
+          date: "bapt. 2 August 1807"
+          place: "Weymouth, Norfolk County, Massachusetts"
+      - name: Maria Vining
+        birth:
+          date: 21 August 1807
+          place: "Weymouth, Norfolk Counnty, Massachusetts"
+        marriages:
+          - date: 15 April 1835
+            place: "Weymouth, Norfolk County, Massachusetts"
+            spouse: John D. Salisbury
+      - name: Daniel Hervey Vining
+        entryId: DanielH01
+        entryLetter: D
+        birth:
+          date: 5 August 1813
+          place: "Weymouth, Norfolk County, Massachusetts"
+        marriages:
+          - number: 1
+            date: 9 December 1830
+            place: "[Hingham, Plymouth County or Weymouth, Norfolk County?], Massachusetts"
+            spouse: Anna Binney (d. 6 September 1864)
+          - number: 2
+            date: 24 May 1866
+            spouse: Lydia J. Holbrook
+        death:
+          date: 6 March 1885
+          place: "Weymouth, Norfolk County, Massachusetts"
+docsUrl: Bsources/Bela02doc.htm
+raw: |-
+  <a name="Bela02"></a><font size=+2>Bela Vining</font> 
+     (son of <a href="Dfamilies.htm#David01">David Vining and Lydia Torrey</a>)
+     b. [6 or 8?] August 1776   Weymouth, Norfolk County, Massachusetts
+     m. 20 March 1799   Weymouth, Norfolk County, Massachusetts
+           Content Pratt
+                 (dau. of Benjamin Pratt and Love Lincoln)
+                 b. 22 September 1776   Weymouth, Norfolk County, Massachusetts
+                 d. 28 September [1841 or 1842?]   Weymouth, Norfolk County, Massachusetts
+                       bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+     d. [28 or 8?] January 1860   Weymouth, Norfolk County, Massachusetts
+           bur. North Weymouth Cemetery   Weymouth, Norfolk County, Massachusetts
+  
+  <font size=+1>children:</font>
+     Hervey Vining   bapt. 27 September 1801   Weymouth, Norfolk County, Massachusetts   -   d. 26 February 1803   Weymouth, Norfolk County, Massachusetts
+     Eveline Lincoln Vining   bapt. 31 March 1805   Weymouth, Norfolk County, Massachusetts   -   m. int. 6 August 1824   Weymouth, Norfolk County, Massachusetts   Ezra Pratt   -   d. 7 January 1868   Weymouth, Norfolk County, Massachusetts
+     Eliza Ann Vining   bapt. 2 August 1807   Weymouth, Norfolk County, Massachusetts
+     Maria Vining   b. 21 August 1807   Weymouth, Norfolk Counnty, Massachusetts   -   m. 15 April 1835   Weymouth, Norfolk County, Massachusetts   John D. Salisbury
+     <a href="Dfamilies.htm#DanielH01">Daniel Hervey Vining</a>   b. 5 August 1813   Weymouth, Norfolk County, Massachusetts   -   m. (1) 9 December 1830   [Hingham, Plymouth County or Weymouth, Norfolk County?], Massachusetts   Anna Binney (d. 6 September 1864);   (2) 24 May 1866   Lydia J. Holbrook   -   d. 6 March 1885   Weymouth, Norfolk County, Massachusetts
+  
+  <a href="Bsources/Bela02doc.htm">documentation and notes</a>

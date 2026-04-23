@@ -1,0 +1,144 @@
+id: William02
+title: William Vining - Nancy Ragoon
+sections:
+  - type: family
+    items:
+      - caption: >-
+          The town of Durham, Androscoggin County, Maine, has photocopied its vital record books, and those photocopies
+          are available for public viewing. Unfortunately, much of the photocopied material is very difficult to
+          impossible to read. Below are (1) the page (greatly enlarged) that reports the family of William Vining and
+          Nancy Ragoon and (2) an image of the gravestone of James E. Vining. All the information on the vital record
+          page appears to have been entered at the same time (27 February 1865) by James Strout Jr., the town clerk, and
+          covered events that occurred from about 15 to almost 75 years earlier. Note the contradictory information
+          about the death date for James E. Vining (20 April in Durham's vital records and 22 April on his gravestone
+          shown at the bottom of this page).
+        images:
+          - src: William02Durhamrecordsp420.jpg
+  - type: census
+    table:
+      columns:
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+      rows:
+        - label: William Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "58"
+            - "63"
+            - dead
+        - label: Nancy (Ragoon) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "52"
+            - "60"
+            - "?"
+        - label: Mary Jane Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Caroline Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Elizabeth A. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Emily Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "22"
+            - "30"
+            - "?"
+          indent: true
+        - label: Bela A. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "20"
+            - "29"
+            - "?"
+          indent: true
+        - label: James E. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Frances A. "Fannie" Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Sarah D. Vining
+          values:
+            - ""
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sarah Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+            - "19"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - dwelling 122, family 136. Also
+          living in this household in 1850 was Thankful Vining (87 y., b. Maine), William Vining's mother. (William's
+          father, Bela Vining, died 17 February 1846.)
+        images:
+          - src: William02census1850.jpg
+      - year: "1860"
+        caption: Durham, Androscoggin county, Maine - dwelling 181, family 193
+        images:
+          - src: William02census1860.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for James E. Vining and Sarah D. Vining, children of William Vining and Nancy (Ragoon) Vining, in
+          Sawyer Cemetery, Durham, Androscoggin County, Maine:
+        images:
+          - src: William02sonJamesgravestone.jpg
+          - src: William02dauSarahDgravestone.jpg
+        inline: true

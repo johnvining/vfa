@@ -1,0 +1,53 @@
+id: MarkL01
+sequence: 6
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JohnH01
+parentLetter: J
+parentDesc: John Hamilton Vining and Mary Cordelia Canovan
+head:
+  givenName: Mark Lyman
+  birth:
+    date: 24 August 1842
+    place: "Troy, Michigan"
+  death:
+    date: 30 December 1907
+  burial:
+    place: "Highland Cemetery   Ypsilanti, Michigan"
+marriages:
+  - number: 1
+    date: Celestine Richardson
+  - number: 2
+    date: Adelle G. Billings Henry
+    spouse:
+      birth:
+        date: "1853"
+      death:
+        date: "1924"
+      burial:
+        place: "Highland Cemetery   Ypsilanti, Michigan"
+childrenGroups:
+  - headingText: "child by Celestine Richardson"
+    children:
+      - name: Julia May Vining
+        death:
+          date: age 16 y. at death
+          place: California
+docsUrl: Msources/MarkL01doc.htm
+raw: |-
+  <a name="MarkL01"></a><font size=+2>Mark Lyman Vining</font>
+     (son of <a href="Jfamilies.htm#JohnH01">John Hamilton Vining and Mary Cordelia Canovan</a>)
+     b. 24 August 1842   Troy, Michigan
+     m. (1) Celestine Richardson
+           (2) Adelle G. Billings Henry
+                       b. 1853
+                       d. 1924
+                             bur. Highland Cemetery   Ypsilanti, Michigan
+     d. 30 December 1907
+           bur. Highland Cemetery   Ypsilanti, Michigan
+  
+  <font size=+1>child by Celestine Richardson:</font>
+     Julia May Vining   d. age 16 y. at death   California
+  
+  <a href="Msources/MarkL01doc.htm">documentation and notes</a>

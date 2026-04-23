@@ -1,0 +1,50 @@
+id: CharlesW01
+title: Charles Wendell Vining - (1) Millicent Craft;   (2) Mary M. Whitker
+displayTitle: Charles Wendell Vining - (1) Millicent Craft; (2) Mary M. Whitker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Charles Wendell Vining
+          values:
+            - "23"
+        - label: Millicent (Craft) Vining
+          values:
+            - "20"
+        - label: Mary M. (Whitker) Vining
+          values:
+            - ""
+        - label: Virginia Carol Vining
+          values:
+            - "2"
+          indent: true
+        - label: Forest Glee Vining
+          values:
+            - "[illegible]"
+          indent: true
+        - label: Beverly Ann Vining
+          values:
+            - ""
+          indent: true
+        - label: Sharon Louise Vining
+          values:
+            - ""
+          indent: true
+        - label: Charles Wendell Vining Jr.
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Prairie, Kosciusco County, Indiana
+        images:
+          - src: CharlesW01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Charles Wendell Vining and Mary M. (Whitker) Vining, in Woodlawn Cemetery, Leslie, Ingham
+          County, Michigan (from Find A Grave):
+        images:
+          - src: CharlesW01andwifeMaryheadstone.jpg

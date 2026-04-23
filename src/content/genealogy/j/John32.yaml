@@ -1,0 +1,25 @@
+id: John32
+sequence: 189
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnC02
+parentDesc: John Carl Vining and Clara Pugh
+head:
+  givenName: John
+marriages:
+  - spouse:
+      givenName: Nancy
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Leah Vining
+      - name: Dustin Vining
+raw: |-
+  <a name="John32"></a><font size=+2>John Vining</font>
+     (son of <a href="#JohnC02">John Carl Vining and Clara Pugh</a>)
+     m. Nancy [...]
+  
+  <font size=+1>children:</font>
+     Leah Vining
+     Dustin Vining

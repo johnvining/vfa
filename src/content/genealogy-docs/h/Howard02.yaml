@@ -1,0 +1,44 @@
+id: Howard02
+title: Howard Vining - (1) Rose Gross;   (2) Hulda Anderson
+displayTitle: Howard Vining - (1) Rose Gross; (2) Hulda Anderson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Howard Vining
+          values:
+            - "?"
+            - "43"
+        - label: Rose ([...]) Vining
+          values:
+            - "?"
+            - "43"
+        - label: Hulda ([...]) Vining
+          values:
+            - "?"
+            - ""
+        - label: Lawrence H. Vining
+          values:
+            - "?"
+            - "15"
+          indent: true
+        - label: Pauline Vining
+          values:
+            - "?"
+            - "13"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Momence, Kankakee County, Illinois
+        images:
+          - src: Howard02census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Howard Vining and Hulda Anderson, in Limestone Cemetery, West Kankakee, Kankakee County,
+          Illinois (from Find A Grave):
+        images:
+          - src: Howard02andwifeheadstone.jpg

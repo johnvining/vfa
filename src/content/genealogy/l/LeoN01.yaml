@@ -1,0 +1,43 @@
+id: LeoN01
+sequence: 35
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: JonasN01
+parentLetter: J
+parentDesc: "Jonas N. Vining and Sarah A. &#8220;Nancy&#8221; Columbes"
+head:
+  givenName: Leo Nelson
+  birth:
+    date: 11 July 1896
+    place: Ohio
+  death:
+    date: January 1951
+marriages:
+  - spouse:
+      givenName: Jean
+      surname: McLean
+childrenGroups:
+  - children:
+      - name: Vic Nelson Vining
+        birth:
+          date: 20 July 1943
+      - name: "Sara &#8220;Nan&#8221; Vining"
+        birth:
+          date: 19 March 1950
+          place: Delaware
+        death:
+          date: 27 February 2010
+          place: "Columbus, Delaware"
+        burial:
+          place: "Oakdale Cemetery   Marysville, Ohio"
+raw: |-
+  <a name="LeoN01"></a><font size=+2>Leo Nelson Vining</font>
+     (son of <a href="Jfamilies.htm#JonasN01">Jonas N. Vining and Sarah A. &#8220;Nancy&#8221; Columbes</a>)
+     b. 11 July 1896   Ohio
+     m. Jean McLean
+     d. January 1951
+  
+  <font size=+1>children:</font>
+     Vic Nelson Vining   b. 20 July 1943
+     Sara &#8220;Nan&#8221; Vining   b. 19 March 1950   Delaware   -   d. 27 February 2010   Columbus, Delaware   -   bur. Oakdale Cemetery   Marysville, Ohio

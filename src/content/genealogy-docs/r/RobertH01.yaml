@@ -1,0 +1,98 @@
+id: RobertH01
+title: Robert Henry Vining - Sarah Elizabeth Eaglebarger
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Robert Henry Vining
+          values:
+            - "?"
+            - "34"
+            - "44"
+            - "53"
+            - "63"
+            - dead
+        - label: Sarah Elizabeth (Eaglebarger) Vining
+          values:
+            - "?"
+            - "30"
+            - "40"
+            - "50"
+            - "60"
+            - "?"
+        - label: Clarence Delbert Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Nancy Leora Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "26"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Lucetta Leona Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Zedna Leotta Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Iloe Theodora Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "22"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 236, family 240
+        images:
+          - src: RobertH01census1900.jpg
+      - year: "1910"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 77, family 77
+        images:
+          - src: RobertH01census1910.jpg
+      - year: "1920"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 13, family 13
+        images:
+          - src: RobertH01census1920.jpg
+      - year: "1920"
+        caption: Tippecanoe Township, Marshall County, Indiana - dwelling 35, family 35
+        images:
+          - src: RobertH01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Robert Henry Vining and Sarah Elizabeth (Eaglebarger) Vining, in Summit Chapel Cemetery,
+          Bourbon, Indiana (from Find A Grave):
+        images:
+          - src: RobertH01headstone.jpg

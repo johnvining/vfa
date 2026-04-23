@@ -1,0 +1,47 @@
+id: CharlesW02
+title: Charles W. Vining - Josephine M. White
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Charles W. Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Josephine M. (White) Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Donald C. Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charles Edward Vining
+          values:
+            - "[8?] months"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Essex Township, Kankakee County, Illinois - dwelling 140, family 141
+        images:
+          - src: CharlesW02census1900.jpg

@@ -1,0 +1,42 @@
+id: MelvinD01
+sequence: 20
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: FrancisH01
+parentLetter: F
+parentDesc: "Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins"
+head:
+  givenName: Melvin Dale
+  birth:
+    date: 3 September 1927
+marriages:
+  - spouse:
+      givenName: Larue M.
+      surname: "[&#8230;]"
+      birth:
+        date: 17 May 1925
+      death:
+        date: 5 July 1997
+      burial:
+        place: "Southern Nevada Veterans Memorial Cemetery   Boulder City, Nevada"
+childrenGroups:
+  - headingText: "adopted children"
+    children:
+      - name: Scotty Vining
+      - name: Ricky Vining
+docsUrl: Msources/MelvinD01doc.htm
+raw: |-
+  <a name="MelvinD01"></a><font size=+2>Melvin Dale Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisH01">Francis Henry Vining and Alice [Lenora or Lenore?] Hawkins</a>
+     b. 3 September 1927
+     m. Larue M. [&#8230;]
+              b. 17 May 1925
+              d. 5 July 1997
+                    bur. Southern Nevada Veterans Memorial Cemetery   Boulder City, Nevada
+  
+  <font size=+1>adopted children:</font>
+     Scotty Vining
+     Ricky Vining
+  
+  <a href="Msources/MelvinD01doc.htm">documentation and notes</a>

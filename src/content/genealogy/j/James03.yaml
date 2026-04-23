@@ -1,0 +1,34 @@
+id: James03
+sequence: 25
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: James
+marriages:
+  - spouse:
+      givenName: Marie
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Bob Vining
+      - name: Virginia Vining
+      - name: Dale Vining
+        entryId: Dale01
+        entryLetter: D
+        birth:
+          date: 11 May 1946
+        marriages:
+          - date: "Billie [&#8230;]"
+        death:
+          date: 28 April 2020
+raw: |-
+  <a name="James03"></a><font size=+2>James Vining</font>
+     (son of [?])
+     m. Marie [&#8230;]
+  
+  <font size=+1>children:</font>
+     Bob Vining
+     Virginia Vining
+     <a href="Dfamilies.htm#Dale01">Dale Vining</a>   b. 11 May 1946   -   m. Billie [&#8230;]   -   d. 28 April 2020

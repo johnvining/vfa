@@ -1,0 +1,102 @@
+id: DanielJ02
+sequence: 13
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Ebenezer01
+parentLetter: E
+parentDesc: Ebenezer Vining and Abigail Eason
+head:
+  givenName: Daniel Josiah
+  birth:
+    date: 11 May 1791
+    place: "Chesterfield, Hampshire County, Massachusetts"
+  death:
+    date: "1871"
+    place: (Ontario or Michigan)
+marriages:
+  - spouse:
+      givenName: "[Diantha or Dorothy?] [&#8230;]"
+      birth:
+        date: 13 March 1784
+        place: "Chesterfield, Hampshire County, Massachusetts"
+      death:
+        date: December 1859
+        place: "Jackson [County?], Michigan"
+childrenGroups:
+  - children:
+      - name: Ebenezer Willard Vining
+        entryId: EbenezerW01
+        entryLetter: E
+        birth:
+          date: 12 January 1814
+          place: Connecticut
+        marriages:
+          - date: 4 October 1847
+            place: "Kane County, Illinois"
+            spouse: Amelia Catherine Heath
+      - name: Cornelius Wright Vining
+        entryId: CorneliusW01
+        entryLetter: C
+        birth:
+          date: "1817"
+          place: "Sweden, Monroe County, New York"
+        marriages:
+          - date: 9 May 1838
+            place: "Cattaraugus County, New York"
+            spouse: Zipporah Clarke
+        death:
+          date: 4 February 1883
+          place: "Liberty Township, Jackson County, Michigan"
+      - name: Joseph Eason Vining
+        entryId: JosephE02
+        entryLetter: J
+        birth:
+          date: 12 June 1820
+          place: New York
+        marriages:
+          - date: June 1848
+            spouse: Eliza Clipperton
+        death:
+          date: 5 August 1876
+          place: "Ontario, Canada"
+      - name: Lydia Vining
+        birth:
+          date: "1822"
+          place: "Chesterfield, Hampshire County, Massachusetts"
+        marriages:
+          - spouse: "[...] Bir[t]ch"
+      - name: Pamelia Sarah Vining
+        birth:
+          date: 10 April 1826
+          place: "Verona, New York"
+        marriages:
+          - date: 6 April 1866
+            spouse: James Cotton Yule
+        death:
+          date: 6 March 1897
+          place: "Peebles Corner, West Oxford, Ontario, Canada"
+      - name: Mabel Vining
+        birth:
+          date: "1832"
+          place: "Verona, New York"
+        marriages:
+          - spouse: Alexander Conley
+        death:
+          date: 16 May 1899
+raw: |-
+  <a name="DanielJ02"></a><font size=+2>Daniel Josiah Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer01">Ebenezer Vining and Abigail Eason</a>)
+     b. 11 May 1791   Chesterfield, Hampshire County, Massachusetts
+     m. [Diantha or Dorothy?] [&#8230;]
+              b. 13 March 1784   Chesterfield, Hampshire County, Massachusetts
+              d. December 1859   Jackson [County?], Michigan
+     d. 1871   (Ontario or Michigan)
+
+  <font size=+1>children:</font>
+     <a href="Efamilies.htm#EbenezerW01">Ebenezer Willard Vining</a>   b. 12 January 1814   Connecticut   -   m. 4 October 1847   Kane County, Illinois   Amelia Catherine Heath
+     <a href="Cfamilies.htm#CorneliusW01">Cornelius Wright Vining</a>   b. 1817   Sweden, Monroe County, New York   -   m. 9 May 1838   Cattaraugus County, New York   Zipporah Clarke   -   d. 4 February 1883   Liberty Township, Jackson County, Michigan
+     <a href="Jfamilies.htm#JosephE02">Joseph Eason Vining</a>   b. 12 June 1820   New York   -   m. June 1848   Eliza Clipperton   -   d. 5 August 1876   Ontario, Canada
+     Lydia Vining   b. 1822   Chesterfield, Hampshire County, Massachusetts   -   m. [...] Bir[t]ch
+     Pamelia Sarah Vining   b. 10 April 1826   Verona, New York   -   m. 6 April 1866   James Cotton Yule   -   d. 6 March 1897   Peebles Corner, West Oxford, Ontario, Canada
+     Mabel Vining   b. 1832   Verona, New York   -   m. Alexander Conley   -   d. 16 May 1899

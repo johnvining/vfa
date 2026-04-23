@@ -1,0 +1,79 @@
+id: CharlesL01
+letter: C
+sequence: 81
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasR01
+parentLetter: T
+parentDesc: Thomas Raymond Vining and Gertrude Michaelson
+head:
+  givenName: Charles L.
+  birth:
+    date: 1 February 1919
+    place: "Mitchell, South Dakota"
+  death:
+    date: 27 June 2004
+    place: "(last residence: Cambridge, Minnesota)"
+  burial:
+    place: "South Maple Ridge Cemetery   Isanti County, Minnesota"
+marriages:
+  - date: 25 October 1939
+    spouse:
+      givenName: "Lenora &#8220;Lee&#8221;"
+      surname: Elder
+      parents: "(dau. of Howard Elder and Hilma [...])"
+      birth:
+        date: 16 June 1919
+        place: "St. Paul, Minnesota"
+      death:
+        date: 7 June 2006
+        place: "Cambridge, Minnesota"
+      burial:
+        place: "South Maple Ridge Cemetery   Isanti County, Minnesota"
+childrenGroups:
+  - children:
+      - name: Judy Vining
+        birth:
+          date: 30 July 1941
+          place: "St. Paul, Minnesota"
+        marriages:
+          - date: Duane H. Schroeder
+      - name: Jo Anne Vining
+        birth:
+          date: 29 August 1944
+          place: "St. Paul, Minnesota"
+        marriages:
+          - date: Thomas Wilkinson
+      - name: Linda Vining
+        birth:
+          date: 5 November 1948
+          place: "St. Paul, Minnesota"
+        marriages:
+          - date: June 1968
+            spouse: Glenn Nelson
+      - name: Laurie Vining
+        birth:
+          date: 2 February 1960
+        marriages:
+          - date: Dennis Norberg
+docsUrl: Csources/CharlesL01doc.htm
+raw: |-
+  <a name="CharlesL01"></a><font size=+2>Charles L. Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasR01">Thomas Raymond Vining and Gertrude Michaelson</a>)
+     b. 1 February 1919   Mitchell, South Dakota
+     m. 25 October 1939
+           Lenora &#8220;Lee&#8221; Elder
+                 (dau. of Howard Elder and Hilma [...])
+                 b. 16 June 1919   St. Paul, Minnesota
+                 d. 7 June 2006   Cambridge, Minnesota
+                       bur. South Maple Ridge Cemetery   Isanti County, Minnesota
+     d. 27 June 2004   (last residence: Cambridge, Minnesota)
+           bur. South Maple Ridge Cemetery   Isanti County, Minnesota
+  
+  <font size=+1>children:</font>
+     Judy Vining   b. 30 July 1941   St. Paul, Minnesota   -   m. Duane H. Schroeder
+     Jo Anne Vining   b. 29 August 1944   St. Paul, Minnesota   -   m. Thomas Wilkinson
+     Linda Vining   b. 5 November 1948   St. Paul, Minnesota   -   m. June 1968   Glenn Nelson
+     Laurie Vining   b. 2 February 1960   -   m. Dennis Norberg
+  
+  <a href="Csources/CharlesL01doc.htm">documentation and notes</a>

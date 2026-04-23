@@ -1,0 +1,149 @@
+id: JohnL02
+sequence: 244
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Abraham01
+parentLetter: A
+parentDesc: "Abraham Vining and [Elinor or Elanora?] [...]"
+head:
+  givenName: John Lee
+  birth:
+    date: 27 September 1819
+    place: Georgia
+  death:
+    date: 17 July 1895
+    place: "Graham, Oklahoma"
+  burial:
+    place: "Oil Spring Cemetery   Healdton, Oklahoma"
+marriages:
+  - number: 1
+    date: 29 May 1841
+    place: Georgia
+    spouse:
+      givenName: Elizabeth Jane
+      surname: Hadden
+      parents: "(dau. of William Hadden and Elizabeth Hannah [...])"
+      birth:
+        date: 10 April 1823
+        place: Georgia
+      death:
+        date: 4 October 1855
+        place: Georgia
+  - number: 2
+    date: 8 March 1859
+    place: Georgia
+    spouse:
+      givenName: Gracie
+      surname: Cain
+      birth:
+        date: 26 June 1837
+        place: Georgia
+      death:
+        date: 14 October 1900
+        place: "Graham, Oklahoma"
+      burial:
+        place: "Drake-Nebo Cemetery   Drake, Oklahoma"
+childrenGroups:
+  - spouseRef: Elizabeth Jane Hadden
+    children:
+      - name: William Ebenezer Vining
+        birth:
+          date: 16 August 1842
+          place: Georgia
+        death:
+          date: 3 May 1863
+          place: "Chancellorsville, Virginia"
+      - name: Mary Jane Vining
+        birth:
+          date: 2 September 1844
+          place: Georgia
+        death:
+          date: 5 July 1864
+          place: Georgia
+      - name: Millard Filmore Vining
+        birth:
+          date: 4 May 1851
+          place: Georgia
+        death:
+          date: 2 June 1852
+          place: Georgia
+      - name: Thomas Jasper Vining
+        birth:
+          date: 28 August 1855
+          place: Georgia
+        death:
+          date: 4 April 1856
+          place: Georgia
+  - spouseRef: Gracie Cain
+    children:
+      - name: Margaret Vining
+        birth:
+          date: 3 February 1860
+          place: "Cartersville, Georgia"
+        marriages:
+          - date: 13 May 1880
+            place: "Poetry, Texas"
+            spouse: Martin Van Buren Tate
+        death:
+          date: 18 December 1914
+          place: "Thatcher, Arizona"
+        burial:
+          place: "Thatcher, Arizona"
+      - name: Webster Vining
+        birth:
+          date: 15 June 1861
+          place: "Cartersville, Georgia"
+        death:
+          date: 19 August 1862
+          place: "Cartersville, Georgia"
+      - name: Cicero Vining
+        birth:
+          date: 28 September 1863
+          place: "Cartersville, Georgia"
+        death:
+          date: 15 July 1865
+          place: "Cartersville, Georgia"
+      - name: Eldora Lee Vining
+        birth:
+          date: 1 November 1868
+          place: "Cartersville, Georgia"
+        marriages:
+          - date: 13 September 1887
+            place: Texas
+            spouse: John Oliver Dudley
+        death:
+          date: 22 September 1946
+          place: TX
+        burial:
+          place: "Ackerly Cemetery   Ackerly, Texas"
+docsUrl: Jsources/JohnL02doc.htm
+raw: |-
+  <a name="JohnL02"></a><font size=+2>John Lee Vining</font>
+     (son of <a href="Afamilies.htm#Abraham01">Abraham Vining and [Elinor or Elanora?] [...]</a>)
+     b. 27 September 1819   Georgia
+     m. (1) 29 May 1841   Georgia
+                 Elizabeth Jane Hadden
+                       (dau. of William Hadden and Elizabeth Hannah [...])
+                       b. 10 April 1823   Georgia
+                       d. 4 October 1855   Georgia
+           (2) 8 March 1859   Georgia
+                 Gracie Cain
+                       b. 26 June 1837   Georgia
+                       d. 14 October 1900   Graham, Oklahoma
+                             bur. Drake-Nebo Cemetery   Drake, Oklahoma
+     d. 17 July 1895   Graham, Oklahoma
+           bur. Oil Spring Cemetery   Healdton, Oklahoma
+  
+  <font size=+1>children by Elizabeth Jane Hadden:</font>
+     William Ebenezer Vining   b. 16 August 1842   Georgia   -   d. 3 May 1863   Chancellorsville, Virginia
+     Mary Jane Vining   b. 2 September 1844   Georgia   -   d. 5 July 1864   Georgia
+     Millard Filmore Vining   b. 4 May 1851   Georgia   -   d. 2 June 1852   Georgia
+     Thomas Jasper Vining   b. 28 August 1855   Georgia   -   d. 4 April 1856   Georgia
+  <font size=+1>children by Gracie Cain:</font>
+     Margaret Vining   b. 3 February 1860   Cartersville, Georgia   -   m. 13 May 1880   Poetry, Texas   Martin Van Buren Tate   -   d. 18 December 1914   Thatcher, Arizona   -   bur. Thatcher, Arizona
+     Webster Vining   b. 15 June 1861   Cartersville, Georgia   -   d. 19 August 1862   Cartersville, Georgia
+     Cicero Vining   b. 28 September 1863   Cartersville, Georgia   -   d. 15 July 1865   Cartersville, Georgia
+     Eldora Lee Vining   b. 1 November 1868   Cartersville, Georgia   -   m. 13 September 1887   Texas   John Oliver Dudley   -   d. 22 September 1946   TX   -   bur. Ackerly Cemetery   Ackerly, Texas
+  
+  <a href="Jsources/JohnL02doc.htm">documentation and notes</a>

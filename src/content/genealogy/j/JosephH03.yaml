@@ -1,0 +1,50 @@
+id: JosephH03
+sequence: 312
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: IsraelL01
+parentLetter: I
+parentDesc: Israel L. Vining and Nancy J. Matthews
+head:
+  givenName: Joseph Henry
+  birth:
+    date: October 1855
+    place: Massachusetts
+  death:
+    date: between 1920 and 1930 censuses
+marriages:
+  - spouse:
+      givenName: Alice M.
+      surname: Leavitt
+      parents: "(dau. of [&#8230;] Leavitt and Rosa A. [&#8230;])"
+      birth:
+        date: September 1857
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: "Alma [L.?] Vining"
+        birth:
+          date: April 1881
+          place: Massachusetts
+      - name: Flora F. Vining
+        birth:
+          date: January 1884
+          place: Massachusetts
+        marriages:
+          - date: Oscar F. Vargus
+docsUrl: Jsources/JosephH03doc.htm
+raw: |-
+  <a name="JosephH03"></a><font size=+2>Joseph Henry Vining</font>
+     (son of <a href="Ifamilies.htm#IsraelL01">Israel L. Vining and Nancy J. Matthews</a>)
+     b. October 1855   Massachusetts
+     m. Alice M. Leavitt
+              (dau. of [&#8230;] Leavitt and Rosa A. [&#8230;])
+              b. September 1857   Massachusetts
+     d. between 1920 and 1930 censuses
+  
+  <font size=+1>children:</font>
+     Alma [L.?] Vining   b. April 1881   Massachusetts
+     Flora F. Vining   b. January 1884   Massachusetts   -   m. Oscar F. Vargus
+  
+  <a href="Jsources/JosephH03doc.htm">documentation and notes</a>

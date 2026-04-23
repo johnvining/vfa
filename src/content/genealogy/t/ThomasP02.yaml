@@ -1,0 +1,92 @@
+id: ThomasP02
+letter: T
+sequence: 51
+lastUpdated: 9 March 2023
+relationship: son
+parentId: JamesT01
+parentLetter: J
+parentDesc: James Thomas Vining and Philena Durfey
+head:
+  givenName: Thomas Patterson
+  birth:
+    date: 4 July 1846
+    place: "Delaware, Ohio"
+  death:
+    date: 14 September 1924
+  burial:
+    place: "Oak Grove Cemetery   Delaware, Ohio"
+marriages:
+  - number: 1
+    date: 3 October 1867
+    spouse:
+      givenName: Cynthia
+      surname: Fritz
+      death:
+        date: "[?]"
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
+  - number: 2
+    spouse:
+      givenName: Elnora Baker
+      surname: Laurence
+      birth:
+        date: "1852"
+      death:
+        date: 20 December 1928
+      burial:
+        place: "Oak Grove Cemetery   Delaware, Ohio"
+childrenGroups:
+  - headingText: child by Cynthia Fritz
+    children:
+      - name: Minnie Vining
+        birth:
+          date: ca. 1868
+        marriages:
+          - date: H. C. Price
+        death:
+          date: "Chicago, Illinois"
+  - spouseRef: Elnora Baker Laurence
+    children:
+      - name: Edward Thomas Vining
+        entryId: EdwardT01
+        entryLetter: E
+        birth:
+          date: 20 November 1871
+          place: "Delaware, Ohio"
+        marriages:
+          - date: 14 July 1898
+            spouse: Sadie Ellistine Crosby
+        death:
+          date: ca. 1954
+          place: "Chicago, Illinois"
+      - name: Cora Vining
+        marriages:
+          - date: "[...] Hale"
+        death:
+          date: "[Delaware, Ohio?]"
+docsUrl: Tsources/ThomasP02doc.htm
+notes: "note: much work needs to be done with this family"
+raw: |-
+  <a name="ThomasP02"></a><font size=+2>Thomas Patterson Vining</font>
+     (son of <a href="Jfamilies.htm#JamesT01">James Thomas Vining and Philena Durfey</a>)
+     b. 4 July 1846   Delaware, Ohio
+     m. (1) 3 October 1867
+              Cynthia Fritz
+                    d. [?]
+                          bur. Oak Grove Cemetery   Delaware, Ohio
+            (2) Elnora Baker Laurence
+                    b. 1852
+                    d. 20 December 1928
+                          bur. Oak Grove Cemetery   Delaware, Ohio
+     d. 14 September 1924
+           bur. Oak Grove Cemetery   Delaware, Ohio
+  
+  <font size=+1>child by Cynthia Fritz:</font>
+     Minnie Vining   b. ca. 1868   -   m. H. C. Price   -   d. Chicago, Illinois
+  <font size=+1>children by Elnora Baker Laurence:</font>
+     <a href="Efamilies.htm#EdwardT01">Edward Thomas Vining</a>   b. 20 November 1871   Delaware, Ohio   -   m. 14 July 1898   Sadie Ellistine Crosby   -   d. ca. 1954   Chicago, Illinois
+     Cora Vining   m. [...] Hale   -   d. [Delaware, Ohio?]
+  
+  <a href="Tsources/ThomasP02doc.htm">documentation and notes</a>
+  
+     note: much work needs to be done with this family

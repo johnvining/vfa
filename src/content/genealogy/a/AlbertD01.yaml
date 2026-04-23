@@ -1,0 +1,87 @@
+id: AlbertD01
+letter: A
+sequence: 21
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AlbertS01
+parentDesc: Albert Scott Vining and Mary Haase
+head:
+  givenName: Albert Dewey
+  birth:
+    date: 24 October 1898
+    place: "Big Rapids, Mecosta County, Michigan"
+  death:
+    date: 27 February 1992
+  burial:
+    place: "Forest Home Cemetery   Greenville, Montcalm County, Michigan"
+marriages:
+  - date: 28 June 1923
+    spouse:
+      givenName: Esther C.
+      surname: Miller
+      birth:
+        date: 22 October 1900
+      death:
+        date: 13 December 1972
+      burial:
+        place: "Forest Home Cemetery   Greenville, Montcalm County, Michigan"
+childrenGroups:
+  - children:
+      - name: Mary Charlotte Vining
+        birth:
+          date: 3 April 1924
+          place: Michigan
+        marriages:
+          - date: Robert Powers
+        death:
+          date: 1 August 1982
+        burial:
+          place: "Forest Home Cemetery   Greenville, Montcalm County, Michigan"
+      - name: Shirley A. Vining
+        birth:
+          date: age 6 y. as of 1930 census
+          place: Michigan
+        marriages:
+          - date: John Newmann
+      - name: Charles Miller Vining
+        entryId: CharlesM06
+        entryLetter: C
+        birth:
+          date: 24 April 1927
+          place: Michigan
+        marriages:
+          - date: 30 June 1951
+            spouse: Barbara Phillips
+        death:
+          date: 14 June 2003
+          place: "Indian River, Cheboygan County, Michigan"
+        burial:
+          place: "Forest Home Cemetery   Greenville, Montcalm County, Michigan"
+      - name: Albert Dewey Vining Jr.
+        birth:
+          date: 29 May 1928
+          place: Michigan
+        death:
+          date: 24 October 2004
+        burial:
+          place: "Forest Home Cemetery   Greenville, Montcalm County, Michigan"
+docsUrl: Asources/AlbertD01doc.htm
+raw: |-
+  <a name="AlbertD01"></a><font size="+2">Albert Dewey Vining</font>
+     (son of <a href="#AlbertS01">Albert Scott Vining and Mary Haase</a>)
+     b. 24 October 1898   Big Rapids, Mecosta County, Michigan
+     m. 28 June 1923
+           Esther C. Miller
+                 b. 22 October 1900
+                 d. 13 December 1972
+                       bur. Forest Home Cemetery   Greenville, Montcalm County, Michigan
+     d. 27 February 1992
+           bur. Forest Home Cemetery   Greenville, Montcalm County, Michigan
+  
+  <font size="+1">children:</font>
+     Mary Charlotte Vining   b. 3 April 1924   Michigan   -   m. Robert Powers   -   d. 1 August 1982   -   bur. Forest Home Cemetery   Greenville, Montcalm County, Michigan
+     Shirley A. Vining   b. age 6 y. as of 1930 census   Michigan   -   m. John Newmann
+     <a href="Cfamilies.htm#CharlesM06">Charles Miller Vining</a>   b. 24 April 1927   Michigan   -   m. 30 June 1951   Barbara Phillips   -   d. 14 June 2003   Indian River, Cheboygan County, Michigan   -   bur. Forest Home Cemetery   Greenville, Montcalm County, Michigan
+     Albert Dewey Vining Jr.   b. 29 May 1928   Michigan   -   d. 24 October 2004   -   bur. Forest Home Cemetery   Greenville, Montcalm County, Michigan
+  
+  <a href="Asources/AlbertD01doc.htm">documentation and notes</a>

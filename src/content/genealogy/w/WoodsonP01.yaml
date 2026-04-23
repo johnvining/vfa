@@ -1,0 +1,60 @@
+id: WoodsonP01
+sequence: 154
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ElijahH01
+parentLetter: E
+parentDesc: "Elijah H. Vining and [Missourie?] [...]"
+head:
+  givenName: Woodson P.
+  birth:
+    date: June 1870
+    place: Georgia
+  death:
+    date: 11 December 1938
+    place: "Savannah, Chatham County, Georgia"
+marriages:
+  - date: 10 y. as of 1900 census
+    spouse:
+      givenName: Emma
+      surname: "[...]"
+      birth:
+        date: August 1869
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Agnes Iona Vining
+        birth:
+          date: September 1893
+          place: Georgia
+        death:
+          date: 19 October 1963
+        burial:
+          place: "Bonaventure Cemetery   Savannah, Georgia"
+      - name: William Sitz Vining
+        entryId: WilliamS02
+        birth:
+          date: 18 January 1898
+          place: Georgia
+        marriages:
+          - date: Effie Chambers
+        death:
+          date: 11 November 1963
+        burial:
+          place: "Bonaventure Cemetery   Savannah, Georgia"
+docsUrl: Wsources/WoodsonP01doc.htm
+raw: |-
+  <a name="WoodsonP01"></a><font size=+2>Woodson P. Vining</font>
+     (son of <a href="Efamilies.htm#ElijahH01">Elijah H. Vining and [Missourie?] [...]</a>)
+     b. June 1870   Georgia
+     m. 10 y. as of 1900 census
+           Emma [...]
+                 b. August 1869   Georgia
+     d. 11 December 1938   Savannah, Chatham County, Georgia
+  
+  <font size=+1>children:</font>
+     Agnes Iona Vining   b. September 1893   Georgia   -   d. 19 October 1963   -   bur. Bonaventure Cemetery   Savannah, Georgia
+     <a href="#WilliamS02">William Sitz Vining</a>   b. 18 January 1898   Georgia   -   m. Effie Chambers   -   d. 11 November 1963   -   bur. Bonaventure Cemetery   Savannah, Georgia
+  
+  <a href="Wsources/WoodsonP01doc.htm">documentation and notes</a>

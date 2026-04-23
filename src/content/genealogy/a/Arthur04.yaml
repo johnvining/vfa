@@ -1,0 +1,63 @@
+id: Arthur04
+letter: A
+sequence: 85
+lastUpdated: 1 February 2021
+relationship: son
+parentId: John21
+parentLetter: J
+parentDesc: "John Vining and Julia [&#8230;]"
+head:
+  givenName: Arthur
+  birth:
+    date: June 1862
+    place: Texas
+marriages:
+  - date: 16 y. as of 1900 census
+    spouse:
+      givenName: "Mary [J.?]"
+      surname: "[...]"
+      birth:
+        date: September 1868
+        place: Texas
+childrenGroups:
+  - children:
+      - name: "Anna [K.?] Vining"
+        birth:
+          date: October 1884
+          place: Texas
+      - name: Archie Vining
+        entryId: Archie01
+        birth:
+          date: March 1886
+          place: Texas
+        marriages:
+          - date: "Alberta [&#8230;]"
+      - name: Lillie Vining
+        birth:
+          date: June 1890
+          place: Texas
+      - name: Wesley Vining
+        birth:
+          date: September 1893
+          place: Texas
+      - name: "Lou[...]inia Vining"
+        birth:
+          date: December 1896
+          place: Texas
+docsUrl: Asources/Arthur04doc.htm
+raw: |-
+  <a name="Arthur04"></a><font size="+2">Arthur Vining</font>
+     (son of <a href="Jfamilies.htm#John21">John Vining and Julia [&#8230;]</a>)
+     b. June 1862   Texas
+     m. 16 y. as of 1900 census
+           Mary [J.?] [...]
+                 b. September 1868   Texas
+  
+  <font size="+1">children:</font>
+     Anna [K.?] Vining   b. October 1884   Texas
+     <a href="#Archie01">Archie Vining</a>   b. March 1886   Texas   -   m. Alberta [&#8230;]
+     Lillie Vining   b. June 1890   Texas
+     Wesley Vining   b. September 1893   Texas
+     Lou[...]inia Vining   b. December 1896   Texas
+  
+  <a href="Asources/Arthur04doc.htm">documentation and notes</a>

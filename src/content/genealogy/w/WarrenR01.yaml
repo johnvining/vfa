@@ -1,0 +1,78 @@
+id: WarrenR01
+sequence: 36
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WalterR01
+parentDesc: Walter Ray Vining and Alice Anderson
+head:
+  givenName: Warren Richard
+  birth:
+    date: 26 July 1934
+marriages:
+  - number: 1
+    date: Patsy Stanfill
+    spouse:
+      death:
+        date: 15 June 1996
+  - number: 2
+    date: 15 October 2000
+    spouse:
+      givenName: "Juanita Clark (nee Stanfill)"
+childrenGroups:
+  - children:
+      - name: Robert Warren Vining
+        entryId: RobertW04
+        entryLetter: R
+        birth:
+          date: 12 August 1958
+        marriages:
+          - date: "Lisa [...]"
+      - name: James David Vining
+        entryId: JamesD02
+        entryLetter: J
+        birth:
+          date: 31 January 1960
+        marriages:
+          - date: "Gail [...]"
+      - name: Debra Sue Vining
+        birth:
+          date: 28 July 1961
+        marriages:
+          - number: 1
+            date: 19 September 1980
+            spouse: "Eric Lindau,   divorced 1986"
+          - number: 2
+            date: "Jim Smith,"
+            spouse: divorced 1995
+          - number: 3
+            date: 26 August 1995
+            spouse: Thomas A. Theroux
+      - name: Paul Douglas Vining
+        birth:
+          date: 9 November 1962
+      - name: Michael Edward Vining
+        entryId: MichaelE01
+        entryLetter: M
+        birth:
+          date: 11 April 1968
+        marriages:
+          - date: "1995"
+            spouse: "Michelle [...]"
+      - name: Amy Marie Vining   stillborn 11 April 1968
+raw: |-
+  <a name="WarrenR01"></a><font size=+2>Warren Richard Vining</font>
+     (son of <a href="#WalterR01">Walter Ray Vining and Alice Anderson</a>)
+     b. 26 July 1934
+     m. (1) Patsy Stanfill
+                       d. 15 June 1996
+           (2) 15 October 2000
+                 Juanita Clark (nee Stanfill)
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RobertW04">Robert Warren Vining</a>   b. 12 August 1958   -   m. Lisa [...]
+     <a href="Jfamilies.htm#JamesD02">James David Vining</a>   b. 31 January 1960   -   m. Gail [...]
+     Debra Sue Vining   b. 28 July 1961   -   m. (1) 19 September 1980   Eric Lindau,   divorced 1986;   (2) Jim Smith,   divorced 1995;   (3) 26 August 1995   Thomas A. Theroux
+     Paul Douglas Vining   b. 9 November 1962
+     <a href="Mfamilies.htm#MichaelE01">Michael Edward Vining</a>   b. 11 April 1968   -   m. 1995   Michelle [...]
+     Amy Marie Vining   stillborn 11 April 1968

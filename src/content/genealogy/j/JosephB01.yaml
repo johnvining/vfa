@@ -1,0 +1,72 @@
+id: JosephB01
+sequence: 305
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: ColumbusS01
+parentLetter: C
+parentDesc: Columbus Simon Vining and Catherine Alcox
+head:
+  givenName: Joseph Burton F.
+  birth:
+    date: 7 February 1887
+  death:
+    date: 16 April 1962
+    place: Georgia
+  burial:
+    place: "Lovejoy Cemetery   Stockton, Georgia"
+marriages:
+  - spouse:
+      givenName: Florence Imogene
+      surname: Jackson
+      parents: "(dau. of Francis Marion Jackson and Mary Griffin)"
+      birth:
+        date: 29 November 1882
+        place: Georgia
+      death:
+        date: 10 August 1959
+        place: Georgia
+      burial:
+        place: "Lovejoy Cemetery   Stockton, Georgia"
+childrenGroups:
+  - children:
+      - name: Ila Doris Vining
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Georgia
+      - name: Aline Daisy Vining
+        birth:
+          date: "age 4 y., 9 m. as of 1920 census"
+          place: Georgia
+      - name: Joseph Burton Vining Jr.
+        birth:
+          date: 21 December 1921
+        death:
+          date: 26 November 1924
+          place: Georgia
+        burial:
+          place: "Lovejoy Cemetery   Stockton, Georgia"
+      - name: Dorothy Vining
+        birth:
+          date: "4 y., [6?] m. as of 1930 census"
+          place: Georgia
+docsUrl: Jsources/JosephB01doc.htm
+raw: |-
+  <a name="JosephB01"></a><font size=+2>Joseph Burton F. Vining</font>
+     (son of <a href="Cfamilies.htm#ColumbusS01">Columbus Simon Vining and Catherine Alcox</a>)
+     b. 7 February 1887
+     m. Florence Imogene Jackson
+              (dau. of Francis Marion Jackson and Mary Griffin)
+              b. 29 November 1882   Georgia
+              d. 10 August 1959   Georgia
+                    bur. Lovejoy Cemetery   Stockton, Georgia
+     d. 16 April 1962   Georgia
+           bur. Lovejoy Cemetery   Stockton, Georgia
+  
+  <font size=+1>children:</font>
+     Ila Doris Vining   b. age 8 y. as of 1920 census   Georgia
+     Aline Daisy Vining   b. age 4 y., 9 m. as of 1920 census   Georgia
+     Joseph Burton Vining Jr.   b. 21 December 1921   -   d. 26 November 1924   Georgia   -   bur. Lovejoy Cemetery   Stockton, Georgia
+     Dorothy Vining   b. 4 y., [6?] m. as of 1930 census   Georgia
+  
+  <a href="Jsources/JosephB01doc.htm">documentation and notes</a>

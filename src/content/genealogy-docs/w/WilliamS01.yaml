@@ -1,0 +1,131 @@
+id: WilliamS01
+title: William Shadrack Vining - (1) Julia Thurmon;   (2) Addie Sanders Wellborn
+displayTitle: William Shadrack Vining - (1) Julia Thurmon; (2) Addie Sanders Wellborn
+sections:
+  - type: census
+    table:
+      columns:
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Shadrack Vining
+          values:
+            - "?"
+            - "35"
+            - "46"
+            - "56"
+            - "?"
+            - dead
+        - label: (1) Julia (Thurmon) Vining
+          values:
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: (2) Addie Sanders (Wellborn) Vining
+          values:
+            - ""
+            - "29"
+            - "38"
+            - "50"
+            - "?"
+            - "?"
+        - label: Arthur James Vining
+          values:
+            - "?"
+            - "11"
+            - "21"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Willie Mae Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Marie Virginia Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Marion Elizabeth Vining
+          values:
+            - ""
+            - "1"
+            - "11"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: William Carroll Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Marshall Edwin Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joseph Hall Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "12"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Margaret Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Atlanta (ward 3), Fulton County, Georgia - dwelling 224, family 316
+        images:
+          - src: WilliamS01census1900.jpg
+      - year: "1910"
+        caption: Atlanta (ward 3), Fulton County, Georgia - dwelling 235, family 282
+        images:
+          - src: WilliamS01census1910a.jpg
+          - src: WilliamS01census1910b.jpg
+      - year: "1920"
+        caption: Atlanta (ward 3), Fulton County, Georgia - dwelling 266, family 334
+        images:
+          - src: WilliamS01census1920.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for William Shadrack Vining and Addie Sanders (Wellborn) Vining, in Crestlawn Cemetery, Atlanta,
+          Fulton County, Georgia (from Find A Grave):
+        images:
+          - src: WilliamS01andwifeAddiegravestones.jpg

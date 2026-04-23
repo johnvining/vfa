@@ -1,0 +1,56 @@
+id: Archie01
+title: Archie Vining - Alberta [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Archie Vining
+          values:
+            - "44"
+            - "60"
+        - label: Alberta ([...]) Vining
+          values:
+            - "31"
+            - "42"
+        - label: Richard Vining
+          values:
+            - "3"
+            - "13"
+          indent: true
+        - label: Alice Lee Vining
+          values:
+            - "2"
+            - "11"
+          indent: true
+        - label: Elza Vining
+          values:
+            - 3 m.
+            - "10"
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Dale Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Wesley Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Fort Worth (9 East Ward), Tarrant County, Texas - dwelling 93, family 96
+        images:
+          - src: Archie01census1930.jpg
+      - year: "1940"
+        caption: Justice Precinct 1, Tarrant County, Texas
+        images:
+          - src: Archie01census1940.jpg

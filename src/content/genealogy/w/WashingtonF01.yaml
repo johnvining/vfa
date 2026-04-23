@@ -1,0 +1,46 @@
+id: WashingtonF01
+sequence: 38
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Samuel09
+parentLetter: S
+parentDesc: Samuel Vining and Jane McBride
+head:
+  givenName: Washington Franklin
+  birth:
+    date: 1 December 1831
+    place: Georgia
+  death:
+    date: 12 September 1862
+marriages:
+  - spouse:
+      givenName: Martha
+      surname: "[&#8230;]"
+      birth:
+        date: "age 32 y. as of 1860 census"
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: "Sarah [J.?] Vining"
+        birth:
+          date: age 4 y. as of 1860 census
+          place: Georgia
+      - name: "Emily [T.?] Vining"
+        birth:
+          date: age 2 y. as of 1860 census
+          place: Georgia
+docsUrl: Wsources/WashingtonF01doc.htm
+raw: |-
+  <a name="WashingtonF01"></a><font size=+2>Washington Franklin Vining</font>
+     (son of <a href="Sfamilies.htm#Samuel09">Samuel Vining and Jane McBride</a>)
+     b. 1 December 1831   Georgia
+     m. Martha [&#8230;]
+              b. age 32 y. as of 1860 census   Georgia
+     d. 12 September 1862
+  
+  <font size=+1>children:</font>
+     Sarah [J.?] Vining   b. age 4 y. as of 1860 census   Georgia
+     Emily [T.?] Vining   b. age 2 y. as of 1860 census   Georgia
+  
+  <a href="Wsources/WashingtonF01doc.htm">documentation and notes</a>

@@ -1,0 +1,75 @@
+id: JamesL04
+sequence: 69
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Henry07
+parentLetter: H
+parentDesc: "Henry Vining and Rebecca [&#8230;]"
+head:
+  givenName: James L.
+  birth:
+    date: "1813"
+    place: Delaware
+  death:
+    date: "1853"
+    place: California
+  burial:
+    place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+marriages:
+  - spouse:
+      givenName: Margaret
+      surname: Robinson
+      birth:
+        date: 30 January 1817
+        place: Delaware
+      death:
+        date: 13 August 1893
+      burial:
+        place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+childrenGroups:
+  - children:
+      - name: Hestelena Vining
+        birth:
+          date: age 14 y. as of 1850 census
+          place: Delaware
+      - name: William H. Vining
+        birth:
+          date: age 10 y. as of 1850 census
+          place: Delaware
+      - name: Ellen Vining
+        birth:
+          date: age 7 y. as of 1850 census
+          place: Delaware
+      - name: Anna Vining
+        birth:
+          date: "1845"
+          place: Delaware
+        death:
+          date: "1932"
+        burial:
+          place: "Immanuel Episcopal Churchyard   New Castle, Delaware"
+      - name: Rebecca Vining
+        birth:
+          date: age 2 y. as of 1850 census
+          place: Delaware
+docsUrl: Jsources/JamesL04doc.htm
+raw: |-
+  <a name="JamesL04"></a><font size=+2>James L. Vining</font>
+     (son of <a href="Hfamilies.htm#Henry07">Henry Vining and Rebecca [&#8230;]</a>)
+     b. 1813   Delaware
+     m. Margaret Robinson
+              b. 30 January 1817   Delaware
+              d. 13 August 1893
+                    bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+     d. 1853   California
+           bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+  
+  <font size=+1>children:</font>
+     Hestelena Vining   b. age 14 y. as of 1850 census   Delaware
+     William H. Vining   b. age 10 y. as of 1850 census   Delaware
+     Ellen Vining   b. age 7 y. as of 1850 census   Delaware
+     Anna Vining   b. 1845   Delaware   -   d. 1932   -   bur. Immanuel Episcopal Churchyard   New Castle, Delaware
+     Rebecca Vining   b. age 2 y. as of 1850 census   Delaware
+  
+  <a href="Jsources/JamesL04doc.htm">documentation and notes</a>

@@ -1,0 +1,90 @@
+id: FrankJ01
+sequence: 35
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Rufus02
+parentLetter: R
+parentDesc: Rufus Vining and Julia Gentleman
+head:
+  givenName: Frank J.
+  birth:
+    date: 27 June 1871
+    place: Ohio
+  death:
+    date: 7 April 1929
+  burial:
+    place: "St. Mary Cemetery   Delaware, Ohio"
+marriages:
+  - date: 16 y. as of 1910 census
+    spouse:
+      givenName: Anna May
+      surname: Haas
+      birth:
+        date: 21 July 1874
+      death:
+        date: "[15 or 30?] March 1966"
+      burial:
+        place: "St. Mary Cemetery   Delaware, Ohio"
+childrenGroups:
+  - children:
+      - name: Charles Aloysius Vining
+        birth:
+          date: 1 September 1895
+          place: Ohio
+        marriages:
+          - date: Evelyn Burdette
+        death:
+          date: 18 March 1955
+        burial:
+          place: "St. Mary Cemetery   Delaware, Ohio"
+      - name: Mary Frances Vining
+        birth:
+          date: 26 August 1897
+          place: Ohio
+        death:
+          date: 26 October 1972
+          place: "(last residence: Delaware, Ohio)"
+      - name: Catherine Colette Vining
+        birth:
+          date: 6 June 1901
+          place: Ohio
+        marriages:
+          - date: "[&#8230;] Mayer"
+        death:
+          date: 10 June 1948
+      - name: Louis Franklin Vining
+        entryId: LouisF01
+        entryLetter: L
+        birth:
+          date: 3 March 1905
+          place: Ohio
+        marriages:
+          - date: Tillie Patapchuk
+      - name: Patricia Lillian Vining
+        birth:
+          date: 21 October 1908
+          place: Ohio
+        marriages:
+          - date: Harry L. Johnson
+docsUrl: Fsources/FrankJ01doc.htm
+raw: |-
+  <a name="FrankJ01"></a><font size=+2>Frank J. Vining</font>
+     (son of <a href="Rfamilies.htm#Rufus02">Rufus Vining and Julia Gentleman</a>)
+     b. 27 June 1871   Ohio
+     m. 16 y. as of 1910 census
+           Anna May Haas
+                 b. 21 July 1874
+                 d. [15 or 30?] March 1966
+                       bur. St. Mary Cemetery   Delaware, Ohio
+     d. 7 April 1929
+           bur. St. Mary Cemetery   Delaware, Ohio
+  
+  <font size=+1>children:</font>
+     Charles Aloysius Vining   b. 1 September 1895   Ohio   -   m. Evelyn Burdette   -   d. 18 March 1955   -   bur. St. Mary Cemetery   Delaware, Ohio
+     Mary Frances Vining   b. 26 August 1897   Ohio   -   d. 26 October 1972   (last residence: Delaware, Ohio)
+     Catherine Colette Vining   b. 6 June 1901   Ohio   -   m. [&#8230;] Mayer   -   d. 10 June 1948
+     <a href="Lfamilies.htm#LouisF01">Louis Franklin Vining</a>   b. 3 March 1905   Ohio   -   m. Tillie Patapchuk
+     Patricia Lillian Vining   b. 21 October 1908   Ohio   -   m. Harry L. Johnson
+  
+  <a href="Fsources/FrankJ01doc.htm">documentation and notes</a>

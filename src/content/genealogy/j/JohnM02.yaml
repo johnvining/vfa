@@ -1,0 +1,66 @@
+id: JohnM02
+sequence: 251
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John17
+parentDesc: John Vining and Phoebe Wynkoop
+head:
+  givenName: John Middleton
+  birth:
+    date: 23 December 1758
+    place: "Dover, Delaware"
+  death:
+    date: February 1802
+  burial:
+    place: "Christ Episcopal Church Cemetery   Dover, Delaware"
+marriages:
+  - date: "[24 or 29?] November 1790"
+    place: "[New York?]"
+    spouse:
+      givenName: Anna Maria
+      surname: Seton
+      parents: (dau. of William Seaton)
+      death:
+        date: "1800"
+      burial:
+        place: "Christ Episcopal Church Cemetery   Dover, Delaware"
+childrenGroups:
+  - children:
+      - name: John Seton Vining
+        birth:
+          date: 21 NOvember 1791
+        death:
+          date: "1817"
+      - name: William Henry Vining
+        birth:
+          date: "1794"
+        death:
+          date: "1822"
+      - name: Benjamin Vining
+        birth:
+          date: ca. 1796
+        death:
+          date: "1822"
+      - name: Charles Ridgely Vining
+        birth:
+          date: "1798"
+        death:
+          date: "1821"
+raw: |-
+  <a name="JohnM02"></a><font size=+2>John Middleton Vining</font>
+     (son of <a href="#John17">John Vining and Phoebe Wynkoop</a>)
+     b. 23 December 1758   Dover, Delaware
+     m. [24 or 29?] November 1790   [New York?]
+           Anna Maria Seton
+                 (dau. of William Seaton)
+                 d. 1800
+                       bur. Christ Episcopal Church Cemetery   Dover, Delaware
+     d. February 1802
+           bur. Christ Episcopal Church Cemetery   Dover, Delaware
+  
+  <font size+1>children:</font>
+     John Seton Vining   b. 21 NOvember 1791   -   d. 1817
+     William Henry Vining   b. 1794   -   d. 1822
+     Benjamin Vining   b. ca. 1796   -   d. 1822
+     Charles Ridgely Vining   b. 1798   -   d. 1821

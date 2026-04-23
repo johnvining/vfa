@@ -1,0 +1,53 @@
+id: George08
+title: George Vining - Susanna K. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: George Vining
+          values:
+            - "26"
+            - "35"
+        - label: Susanna Katherine (Rice) Vining
+          values:
+            - "22"
+            - "32"
+        - label: Mae Josephine Vining
+          values:
+            - 1 y., 1 m.
+            - "11"
+          indent: true
+        - label: Paul J. Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Earl Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: George Vining Jr.
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Fort Wayne (ward 8), Allen County, Indiana - dwelling 23, family 25
+        images:
+          - src: George08census1930.jpg
+      - year: "1940"
+        caption: Fort Wayne (ward 8), Allen County, Indiana
+        images:
+          - src: George08census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for George Vining and Susanna K. ([…]) Vining, in IOOF Cemetery, New Haven, Allen County, Indiana
+          (from Find A Grave):
+        images:
+          - src: George08andwifeheadstone.jpg

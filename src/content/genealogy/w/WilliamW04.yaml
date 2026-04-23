@@ -1,0 +1,62 @@
+id: WilliamW04
+sequence: 140
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamE03
+parentDesc: William Eddington Vining and Laura Kieffer Tannery
+head:
+  givenName: William Wade
+  birth:
+    date: 17 June 1907
+    place: "Alto, Texas"
+  death:
+    date: 27 April 1998
+    place: "(last residence: Rusk, Cherokee County, Texas)"
+  burial:
+    place: "Alto City Cemetery   Alto, Texas"
+marriages:
+  - date: 20 January 1929
+    place: "Alto, Texas"
+    spouse:
+      givenName: Mabel
+      surname: Simmons
+      birth:
+        date: 5 December 1907
+        place: "Nacogdoches, Texas"
+      death:
+        date: 11 March 1994
+        place: "Tyler, Texas"
+      burial:
+        place: "Alto City Cemetery   Alto, Texas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Dorothy Louise Vining
+        birth:
+          date: 14 December 1929
+          place: "Alto, Texas"
+        marriages:
+          - date: Garland Morgan
+        death:
+          date: 19 March 2011
+          place: "Rusk, Cherokee County, Texas"
+        burial:
+          place: "Alto City Cemetery   Alto, Texas"
+docsUrl: Wsources/WilliamW04doc.htm
+raw: |-
+  <a name="WilliamW04"></a><font size=+2>William Wade Vining</font>
+     (son of <a href="#WilliamE03">William Eddington Vining and Laura Kieffer Tannery</a>)
+     b. 17 June 1907   Alto, Texas
+     m. 20 January 1929   Alto, Texas
+           Mabel Simmons
+                 b. 5 December 1907   Nacogdoches, Texas
+                 d. 11 March 1994   Tyler, Texas
+                       bur. Alto City Cemetery   Alto, Texas
+     d. 27 April 1998   (last residence: Rusk, Cherokee County, Texas)
+           bur. Alto City Cemetery   Alto, Texas
+  
+  <font size=+1>child:</font>
+     Dorothy Louise Vining   b. 14 December 1929   Alto, Texas   -   m. Garland Morgan   -   d. 19 March 2011   Rusk, Cherokee County, Texas   -   bur. Alto City Cemetery   Alto, Texas
+  
+  <a href="Wsources/WilliamW04doc.htm">documentation and notes</a>

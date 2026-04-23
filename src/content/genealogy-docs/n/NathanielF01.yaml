@@ -1,0 +1,59 @@
+id: NathanielF01
+title: Nathaniel Frier Vining - (1) Pollie Davis, (2) Effie Jane Jackson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Nathaniel Frier Vining
+          values:
+            - "40"
+            - "50"
+            - dead
+        - label: Pollie (Davis) Vining
+          values:
+            - dead
+            - ""
+            - ""
+        - label: Effie Jane (Jackson) Vining
+          values:
+            - "17"
+            - "28"
+            - "?"
+        - label: Thomas B. Vining
+          values:
+            - "7"
+            - "17"
+            - "?"
+          indent: true
+        - label: Estelle Virginia Vining
+          values:
+            - ""
+            - "[8?]"
+            - "?"
+          indent: true
+        - label: Eugenia Vining
+          values:
+            - ""
+            - ""
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Miami (12th precinct), Dade County, Florida - dwelling 87, family 88
+        images:
+          - src: NathanielF01census1920.jpg
+      - year: "1930"
+        caption: Miami (election precinct 48), Dade County, Florida - dwelling 157, family 218
+        images:
+          - src: NathanielF01census1930.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for Nathaniel Frier Vining:"
+        images:
+          - src: NathanielF01WWIregistrationcarda.jpg
+          - src: NathanielF01WWIregistrationcardb.jpg
+        inline: true

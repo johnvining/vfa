@@ -1,0 +1,82 @@
+id: JosephAL01
+sequence: 299
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisMJr01
+parentLetter: F
+parentDesc: Francis Marion Vining Jr. and Mary Dora Kinman
+head:
+  givenName: Joseph Alford Lee
+  birth:
+    date: 1 June 1886
+    place: "Jackson Parish, Louisiana"
+  death:
+    date: 27 February 1955
+  burial:
+    place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Gracie Gustavia
+      surname: Fryday
+      birth:
+        date: 12 March 1888
+      death:
+        date: 7 February 1967
+      burial:
+        place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+childrenGroups:
+  - children:
+      - name: Norman Lee Vining
+        entryId: NormanL01
+        entryLetter: N
+        birth:
+          date: 14 August 1913
+          place: Louisiana
+        marriages:
+          - date: Pauline Owens
+        death:
+          date: 1 March 1971
+        burial:
+          place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+      - name: Iva S. Vining
+        birth:
+          date: 9 June 1915
+          place: "Madison Parish, Louisiana"
+        marriages:
+          - date: "[...] Owens"
+        death:
+          date: 18 January 1997
+        burial:
+          place: "Redwing Cemetery   Oak Grove, West Carroll Parish, Louisiana"
+      - name: Theron Nash Vining
+        entryId: TheronN01
+        entryLetter: T
+        birth:
+          date: 15 January 1917
+          place: "Madison Parish, Louisiana"
+        marriages:
+          - date: Eva Mae Grubbs
+        death:
+          date: 11 June 1989
+          place: "Webster Parish, Louisiana"
+        burial:
+          place: "New Forest Cemetery   Forest, West Carroll Parish, Louisiana"
+docsUrl: Jsources/JosephAL01doc.htm
+raw: |-
+  <a name="JosephAL01"></a><font size=+2>Joseph Alford Lee Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisMJr01">Francis Marion Vining Jr. and Mary Dora Kinman</a>)
+     b. 1 June 1886   Jackson Parish, Louisiana
+     m. Gracie Gustavia Fryday
+              b. 12 March 1888
+              d. 7 February 1967
+                    bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+     d. 27 February 1955
+           bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="Nfamilies.htm#NormanL01">Norman Lee Vining</a>   b. 14 August 1913   Louisiana   -   m. Pauline Owens   -   d. 1 March 1971   -   bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+     Iva S. Vining   b. 9 June 1915   Madison Parish, Louisiana   -   m. [...] Owens   -   d. 18 January 1997   -   bur. Redwing Cemetery   Oak Grove, West Carroll Parish, Louisiana
+     <a href="Tfamilies.htm#TheronN01">Theron Nash Vining</a>   b. 15 January 1917   Madison Parish, Louisiana   -   m. Eva Mae Grubbs   -   d. 11 June 1989   Webster Parish, Louisiana   -   bur. New Forest Cemetery   Forest, West Carroll Parish, Louisiana
+  
+  <a href="Jsources/JosephAL01doc.htm">documentation and notes</a>

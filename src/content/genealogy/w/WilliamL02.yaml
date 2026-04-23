@@ -1,0 +1,72 @@
+id: WilliamL02
+sequence: 116
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: James04
+parentLetter: J
+parentDesc: James Vining and Sarah Brooker
+head:
+  givenName: William Lee
+  birth:
+    date: 9 February 1867
+    place: Georgia
+  death:
+    date: "1946"
+    place: Georgia
+marriages:
+  - date: 14 February 1892
+    spouse:
+      givenName: Frances
+      surname: Gaskins
+      parents: "(dau. of David Gaskins and Elizabeth Wilcox)"
+      birth:
+        date: 18 February 1865
+        place: Georgia
+      death:
+        date: 6 May 1952
+        place: "Jacksonville, Florida"
+      burial:
+        place: Union Hill Congregational Church Cemetery   Georgia
+childrenGroups:
+  - children:
+      - name: Sarah Vining
+        birth:
+          date: "1892"
+      - name: Bettie Vining
+        birth:
+          date: "1894"
+      - name: Robert Vining
+        birth:
+          date: "1896"
+      - name: Thomas Vining
+        entryId: Thomas06
+        entryLetter: T
+        birth:
+          date: 16 May 1899
+        marriages:
+          - date: Fannie Corbitt
+        death:
+          date: April 1950
+        burial:
+          place: "Red Bluff Cemetery   Pearson, Georgia"
+docsUrl: Wsources/WilliamL02doc.htm
+raw: |-
+  <a name="WilliamL02"></a><font size=+2>William Lee Vining</font>
+     (son of <a href="Jfamilies.htm#James04">James Vining and Sarah Brooker</a>)
+     b. 9 February 1867   Georgia
+     m. 14 February 1892
+           Frances Gaskins
+                 (dau. of David Gaskins and Elizabeth Wilcox)
+                 b. 18 February 1865   Georgia
+                 d. 6 May 1952   Jacksonville, Florida
+                       bur. Union Hill Congregational Church Cemetery   Georgia
+     d. 1946   Georgia
+  
+  <font size=+1>children:</font>
+     Sarah Vining   b. 1892
+     Bettie Vining   b. 1894
+     Robert Vining   b. 1896
+     <a href="Tfamilies.htm#Thomas06">Thomas Vining</a>   b. 16 May 1899   -   m. Fannie Corbitt   -   d. April 1950   -   bur. Red Bluff Cemetery   Pearson, Georgia
+  
+  <a href="Wsources/WilliamL02doc.htm">documentation and notes</a>

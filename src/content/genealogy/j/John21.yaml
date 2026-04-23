@@ -1,0 +1,56 @@
+id: John21
+sequence: 178
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+  birth:
+    date: age 50 y. as of 1870 census
+    place: North Carolina
+marriages:
+  - spouse:
+      givenName: Julia A.
+      surname: "[...]"
+      birth:
+        date: age 40 y. as of 1870 census
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: John H. Vining
+        birth:
+          date: age 13 y. as of 1870 census
+          place: Texas
+      - name: Alice Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Texas
+      - name: Arthur Vining
+        entryId: Arthur04
+        entryLetter: A
+        birth:
+          date: June 1862
+          place: Texas
+        marriages:
+          - date: 16 y. as of 1900 census
+            spouse: "Mary [J.?] [...]"
+      - name: Mary J. Vining
+        birth:
+          date: age 6 y. as of 1870 census
+          place: Texas
+docsUrl: Jsources/John21doc.htm
+raw: |-
+  <a name="John21"></a><font size=+2>John Vining</font>
+     (son of [?])
+     b. age 50 y. as of 1870 census   North Carolina
+     m. Julia A. [...]
+              b. age 40 y. as of 1870 census   Alabama
+  
+  <font size=+1>children:</font>
+     John H. Vining   b. age 13 y. as of 1870 census   Texas
+     Alice Vining   b. age 9 y. as of 1870 census   Texas
+     <a href="Afamilies.htm#Arthur04">Arthur Vining</a>   b. June 1862   Texas   -   m. 16 y. as of 1900 census   Mary [J.?] [...]
+     Mary J. Vining   b. age 6 y. as of 1870 census   Texas
+  
+  <a href="Jsources/John21doc.htm">documentation and notes</a>

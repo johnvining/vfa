@@ -1,0 +1,63 @@
+id: Alexander05
+letter: A
+sequence: 45
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JamesW03
+parentLetter: J
+parentDesc: "James Washington Vining and [?]"
+head:
+  givenName: Alexander
+  birth:
+    date: "1853"
+    place: New York
+  death:
+    date: 2 June 1926
+    place: "Athens, Greene County, New York"
+  burial:
+    place: "Athens Rural Cemetery   Athens, Greene County, New York"
+marriages:
+  - spouse:
+      givenName: Alice
+      surname: Edwards
+      birth:
+        date: "1856"
+        place: New York
+      death:
+        date: "[...]"
+      burial:
+        place: "Athens Rural Cemetery   Athens, Greene County, New York"
+childrenGroups:
+  - children:
+      - name: Minnie E. Vining
+        birth:
+          date: 22 May 1880
+          place: "Athens, Greene County, New York"
+        marriages:
+          - date: Charles Wesley Garrison
+        death:
+          date: 17 May 1905
+          place: "Athens, Greene County, New York"
+        burial:
+          place: "Athens Rural Cemetery   Athens, Greene County, New York"
+      - name: James M. Vining
+        birth:
+          date: April 1887
+          place: New York
+docsUrl: Asources/Alexander05doc.htm
+raw: |-
+  <a name="Alexander05"></a><font size="+2">Alexander Vining</font>
+     (son of <a href="Jfamilies.htm#JamesW03">James Washington Vining and [?]</a>)
+     b. 1853   New York
+     m. Alice Edwards
+              b. 1856   New York
+              d. [...]
+                    bur. Athens Rural Cemetery   Athens, Greene County, New York
+     d. 2 June 1926   Athens, Greene County, New York
+           bur. Athens Rural Cemetery   Athens, Greene County, New York
+  
+  <font size="+1">children:</font>
+     Minnie E. Vining   b. 22 May 1880   Athens, Greene County, New York   -   m. Charles Wesley Garrison   -   d. 17 May 1905   Athens, Greene County, New York   -   bur. Athens Rural Cemetery   Athens, Greene County, New York
+     James M. Vining   b. April 1887   New York
+  
+  <a href="Asources/Alexander05doc.htm">documentation and notes</a>

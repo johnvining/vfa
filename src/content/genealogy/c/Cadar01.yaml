@@ -1,0 +1,58 @@
+id: Cadar01
+letter: C
+sequence: 2
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John13
+parentLetter: J
+parentDesc: John Vining and Sarah Ratcliff(e)
+head:
+  givenName: Cadar
+  birth:
+    date: "1748"
+    place: "Jefferson, Jackson County, Georgia"
+  death:
+    date: "1832"
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Nancy
+      surname: Bush
+childrenGroups:
+  - children:
+      - name: Abraham Vining
+        birth:
+          date: "1778"
+          place: Georgia
+        marriages:
+          - date: "Eleanor [&#8230;]"
+        death:
+          date: "1825"
+          place: "Burke County, Georgia"
+      - name: John Vining
+        birth:
+          date: 3 May 1795
+          place: "Warren, Jefferson County, Georgia"
+        death:
+          date: September 1841
+          place: "Upson, Georgia"
+      - name: Rachel Vining
+        birth:
+          date: 14 December 1799
+          place: "Jefferson, Jackson County, Georgia"
+        death:
+          date: 22 July 1848
+          place: "Jefferson, Jackson County, Georgia"
+      - name: "Rhoda Vining   [Jefferson, Georgia ?]"
+raw: |-
+  <a name="Cadar01"></a><font size=+2>Cadar Vining</font>
+     (son of <a href="Jfamilies.htm#John13">John Vining and Sarah Ratcliff(e)</a>)
+     b. 1748   Jefferson, Jackson County, Georgia
+     m. Nancy Bush
+     d. 1832   Georgia
+  
+  <font size=+1>children:</font>
+     Abraham Vining   b. 1778   Georgia   -   m. Eleanor [&#8230;]   -   d. 1825   Burke County, Georgia
+     John Vining   b. 3 May 1795   Warren, Jefferson County, Georgia   -   d. September 1841   Upson, Georgia
+     Rachel Vining   b. 14 December 1799   Jefferson, Jackson County, Georgia   -   d. 22 July 1848   Jefferson, Jackson County, Georgia
+     Rhoda Vining   [Jefferson, Georgia ?]

@@ -1,0 +1,65 @@
+id: WalterL04
+sequence: 16
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JuliusC01
+parentLetter: J
+parentDesc: Julius Cornelius Vining and Mattie Lee Johnson
+head:
+  givenName: Walter Lawson
+  birth:
+    date: 11 August 1908
+    place: "Caddo Mills, Hunt County, Texas"
+  death:
+    date: 24 March 1970
+    place: "Dallas, Dallas County, Texas"
+  burial:
+    place: "Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas"
+marriages:
+  - spouse:
+      givenName: Betty M.
+      surname: "[&#8230;]"
+      birth:
+        date: "1910"
+        place: Texas
+      death:
+        date: "1994"
+      burial:
+        place: "Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas"
+childrenGroups:
+  - children:
+      - name: Walter Anthony Vining
+        entryId: WalterA01
+        birth:
+          date: 1 October 1934
+          place: Texas
+        death:
+          date: 30 December 2014
+        burial:
+          place: "Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas"
+      - name: Lucille Vining
+        birth:
+          date: age 1 y. as of 1940 census
+          place: Texas
+        marriages:
+          - date: "[&#8230;] Pierce"
+      - name: Lowery Benjamin Vining
+docsUrl: Wsources/WalterL04doc.htm
+raw: |-
+  <a name="WalterL04"></a><font size=+2>Walter Lawson Vining</font>
+     (son of <a href="Jfamilies.htm#JuliusC01">Julius Cornelius Vining and Mattie Lee Johnson</a>)
+     b. 11 August 1908   Caddo Mills, Hunt County, Texas
+     m. Betty M. [&#8230;]
+              b. 1910   Texas
+              d. 1994
+                    bur. Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas
+     d. 24 March 1970   Dallas, Dallas County, Texas
+           bur. Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas
+  
+  <font size=+1>children:</font>
+     <a href="#WalterA01">Walter Anthony Vining</a>   b. 1 October 1934   Texas   -   d. 30 December 2014   -   bur. Calvary Hill Cemetery and Mausoleum   Dallas, Dallas County, Texas
+     Lucille Vining   b. age 1 y. as of 1940 census   Texas   -   m. [&#8230;] Pierce
+     Lowery Benjamin Vining
+  
+  <a href="Wsources/WalterL04doc.htm">documentation and notes</a>

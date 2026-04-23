@@ -1,0 +1,52 @@
+id: JohnD01
+title: John Decker Vining - Julia Wilbur
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: John Decker Vining
+          values:
+            - "32"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Julia (Wilbur) Vining
+          values:
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Clair Wilbur Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Conklin, Broome County, New York - dwelling 115, family 105
+        images:
+          - src: JohnD01census1900.jpg
+  - type: death
+    items:
+      - caption: "Obituary for John Decker Vining, published Monday, 1 July 1946, in Binghamton Press, Binghamton, New York:"
+        images:
+          - src: JohnD01obituary.jpg
+      - caption: >-
+          Gravestone for John Decker Vining, in Vestal Hills Memorial Park, Vestal, Broome County, New York (from Find A
+          Grave):
+        images:
+          - src: JohnD01gravestone.jpg
+      - caption: "Obituary for Julia Wilbur, published Tuesday, 19 January 1960, in Binghamton Press, Binghamton, New York:"
+        images:
+          - src: JohnD01wifeobituary.jpg

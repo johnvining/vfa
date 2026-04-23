@@ -1,0 +1,44 @@
+id: JackC01
+sequence: 2
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: EverettC01
+parentLetter: E
+parentDesc: Everett C. Vining and Josephine Middleton
+head:
+  givenName: Jack Curtis
+  birth:
+    date: 20 January 1939
+  death:
+    date: 15 October 1994
+    place: "(last residence: Joliet: Illinois)"
+marriages:
+  - spouse:
+      givenName: Loretta
+      surname: Mowrer
+childrenGroups:
+  - children:
+      - name: Jack Curtis Vining Jr.
+        birth:
+          date: 4 March 1960
+        death:
+          date: 20 May 2001
+          place: "(last residence: Largo, Florida)"
+      - name: Tammy Marie Vining
+        birth:
+          date: 29 January 1963
+      - name: Joan Marcella Vining
+        birth:
+          date: 25 September 1964
+raw: |-
+  <a name="JackC01"></a><font size=+2>Jack Curtis Vining</font>
+     (son of <a href="Efamilies.htm#EverettC01">Everett C. Vining and Josephine Middleton</a>)
+     b. 20 January 1939
+     m. Loretta Mowrer
+     d. 15 October 1994   (last residence: Joliet: Illinois)
+  
+  <font size=+1>children:</font>
+     Jack Curtis Vining Jr.   b. 4 March 1960   -   d. 20 May 2001   (last residence: Largo, Florida)
+     Tammy Marie Vining   b. 29 January 1963
+     Joan Marcella Vining   b. 25 September 1964

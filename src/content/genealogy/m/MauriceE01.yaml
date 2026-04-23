@@ -1,0 +1,60 @@
+id: MauriceE01
+sequence: 17
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: HaroldH01
+parentLetter: H
+parentDesc: Harold Herbert Vining and Mildred Edith Morrison
+head:
+  givenName: Maurice Edwin
+  birth:
+    date: 18 June 1931
+    place: "Cooper, Maine"
+  death:
+    date: 3 March 2007
+    place: "North Windham, Connecticut"
+marriages:
+  - date: 18 June 1953
+    place: "Alexander, Maine"
+    spouse:
+      givenName: Gloria Marianne
+      surname: Lord
+      parents: "(dau. of Joseph D. Lord and Althea Davis)"
+      birth:
+        date: age 18 y. as of 18 June 1953
+        place: "Calais, Maine"
+childrenGroups:
+  - children:
+      - name: Douglas Vining
+        marriages:
+          - date: "Rosita [&#8230;]"
+      - name: Robert Vining
+        marriages:
+          - date: "Dani [&#8230;]"
+      - name: Maurice Edwin Vining Jr.
+        marriages:
+          - date: "Priscilla [&#8230;]"
+      - name: Marilyn Vining
+        marriages:
+          - date: "[...] Kelley"
+      - name: Debra Vining
+docsUrl: Msources/MauriceE01doc.htm
+raw: |-
+  <a name="MauriceE01"></a><font size=+2>Maurice Edwin Vining</font>
+     (son of <a href="Hfamilies.htm#HaroldH01">Harold Herbert Vining and Mildred Edith Morrison</a>)
+     b. 18 June 1931   Cooper, Maine
+     m. 18 June 1953   Alexander, Maine
+           Gloria Marianne Lord
+                 (dau. of Joseph D. Lord and Althea Davis)
+                 b. age 18 y. as of 18 June 1953   Calais, Maine
+     d. 3 March 2007   North Windham, Connecticut
+  
+  <font size=+1>children:</font>
+     Douglas Vining   m. Rosita [&#8230;]
+     Robert Vining   m. Dani [&#8230;]
+     Maurice Edwin Vining Jr.   m. Priscilla [&#8230;]
+     Marilyn Vining   m. [...] Kelley
+     Debra Vining
+  
+  <a href="Msources/MauriceE01doc.htm">documentation and notes</a>

@@ -1,0 +1,52 @@
+id: LeonardEJr01
+sequence: 42
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: LeonardE01
+parentDesc: Leonard Edwin Vining and Ada Albena Walker
+head:
+  givenName: Leonard Edwin Jr.
+  birth:
+    date: age 15 y. as of 1930 census
+    place: Virginia
+  death:
+    date: 27 September 1972
+  burial:
+    place: "Forest Lawn Cemetery   Norfolk, Virginia"
+marriages:
+  - spouse:
+      givenName: Sara Virginia
+      surname: Drury
+      birth:
+        date: 7 January 1915
+        place: "Norfolk City, Virginia"
+      death:
+        date: 12 June 1990
+        place: "Norfolk City, Virginia"
+      burial:
+        place: "Forest Lawn Cemetery   Norfolk, Virginia"
+childrenGroups:
+  - children:
+      - name: Leonard E. Vining III
+        birth:
+          date: age 3 y. as of 1940 census
+          place: Virginia
+      - name: William D. Vining
+docsUrl: Lsources/LeonardEJr01doc.htm
+raw: |-
+  <a name="LeonardEJr01"></a><font size=+2>Leonard Edwin Vining Jr.</font>
+     (son of <a href="#LeonardE01">Leonard Edwin Vining and Ada Albena Walker</a>)
+     b. age 15 y. as of 1930 census   Virginia
+     m. Sara Virginia Drury
+              b. 7 January 1915   Norfolk City, Virginia
+              d. 12 June 1990   Norfolk City, Virginia
+                    bur. Forest Lawn Cemetery   Norfolk, Virginia
+     d. 27 September 1972
+           bur. Forest Lawn Cemetery   Norfolk, Virginia
+  
+  <font size=+1>children:</font>
+     Leonard E. Vining III   b. age 3 y. as of 1940 census   Virginia
+     William D. Vining
+  
+  <a href="Lsources/LeonardEJr01doc.htm">documentation and notes</a>

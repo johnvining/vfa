@@ -1,0 +1,76 @@
+id: Thomas15
+letter: T
+sequence: 12
+lastUpdated: 9 March 2023
+relationship: son
+parentId: GeorgeJ01
+parentLetter: G
+parentDesc: George Joseph Vining and Cornelia Aldridge
+head:
+  givenName: Thomas
+  birth:
+    date: April 1864
+    place: Illinois
+marriages:
+  - date: 4 y. as of 1900 census
+    spouse:
+      givenName: Fannie E.
+      surname: "[&#8230;]"
+      birth:
+        date: "J[une?] 18[80?]"
+        place: Arkansas
+      death:
+        date: between 1910 and 1920 censuses
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Fred M. Vining
+        entryId: FredM01
+        entryLetter: F
+        birth:
+          date: "1897"
+          place: Arkansas
+        marriages:
+          - date: Carrie C. Bono
+        death:
+          date: "1958"
+        burial:
+          place: "Bellwood Cemetery Annex   Pine Bluff, Arkansas"
+      - name: George J. Vining
+        birth:
+          date: 24 May 1900
+          place: Arkansas
+        death:
+          date: 13 January 1948
+        burial:
+          place: "Little Rock National Cemetery   Little Rock, Arkansas"
+      - name: Ira Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Arkansas
+      - name: Nellie Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Arkansas
+      - name: Vinnie Vining
+        birth:
+          date: age 3 y. as of 1910 census
+          place: Arkansas
+docsUrl: Tsources/Thomas15doc.htm
+raw: |-
+  <a name="Thomas15"></a><font size=+2>Thomas Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeJ01">George Joseph Vining and Cornelia Aldridge</a>)
+     b. April 1864   Illinois
+     m. 4 y. as of 1900 census
+           Fannie E. [&#8230;]
+                 b. J[une?] 18[80?]   Arkansas
+                 d. between 1910 and 1920 censuses
+  
+  <font size=+1>child:</font>
+     <a href="Ffamilies.htm#FredM01">Fred M. Vining</a>   b. 1897   Arkansas   -   m. Carrie C. Bono   -   d. 1958   -   bur. Bellwood Cemetery Annex   Pine Bluff, Arkansas
+     George J. Vining   b. 24 May 1900   Arkansas   -   d. 13 January 1948   -   bur. Little Rock National Cemetery   Little Rock, Arkansas
+     Ira Vining   b. age 7 y. as of 1910 census   Arkansas
+     Nellie Vining   b. age 6 y. as of 1910 census   Arkansas
+     Vinnie Vining   b. age 3 y. as of 1910 census   Arkansas
+  
+  <a href="Tsources/Thomas15doc.htm">documentation and notes</a>

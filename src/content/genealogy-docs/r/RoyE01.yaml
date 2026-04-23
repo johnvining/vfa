@@ -1,0 +1,87 @@
+id: RoyE01
+title: Roy E. Vining - Maggie M. Randall
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roy E. Vining
+          values:
+            - "25"
+            - "36"
+        - label: Maggie M. (Randall) Vining
+          values:
+            - "21"
+            - "31"
+        - label: Rudene Vining
+          values:
+            - "5"
+            - "15"
+          indent: true
+        - label: Clinton Edwin Vining
+          values:
+            - 1 y., 11 m.
+            - "12"
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - "10"
+          indent: true
+        - label: Rudolph Vining
+          values:
+            - ""
+            - "8"
+          indent: true
+        - label: Bobby Frank Vining
+          values:
+            - ""
+            - "5"
+          indent: true
+        - label: Earl Vining
+          values:
+            - ""
+            - "2"
+          indent: true
+        - label: Richard Vining
+          values:
+            - ""
+            - "1"
+          indent: true
+        - label: Linda Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Sylvia Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Ramona Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Larry Vining
+          values:
+            - ""
+            - ""
+          indent: true
+        - label: Terry Vining
+          values:
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Fayette County, Georgia - dwelling 97, family 102
+        images:
+          - src: RoyE01census1930.jpg
+      - year: "1940"
+        caption: Steam Mill, Muscogee County, Georgia
+        images:
+          - src: RoyE01census1940a.jpg
+          - src: RoyE01census1940b.jpg

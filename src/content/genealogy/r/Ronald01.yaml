@@ -1,0 +1,43 @@
+id: Ronald01
+sequence: 141
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Robert09
+parentDesc: "Robert Vining and Donna [&#8230;]"
+head:
+  givenName: Ronald
+  birth:
+    date: 29 January 1954
+    place: "Colville, Washington"
+  death:
+    date: 27 July 2015
+    place: "Kettle Falls, Washington"
+childrenGroups:
+  - children:
+      - name: Joshua Robert Vining
+        birth:
+          date: 24 September 1975
+        marriages:
+          - date: "Anna [&#8230;]"
+      - name: Nathan Alan Vining
+        birth:
+          date: 30 June 1985
+        marriages:
+          - date: "Shanda [&#8230;]"
+      - name: Tyler Michael Vining
+        birth:
+          date: 10 November 1994
+docsUrl: Rsources/Ronald01doc.htm
+raw: |-
+  <a name="Ronald01"></a><font size=+2>Ronald Vining</font>
+     (son of <a href="#Robert09">Robert Vining and Donna [&#8230;]</a>)
+     b. 29 January 1954   Colville, Washington
+     d. 27 July 2015   Kettle Falls, Washington
+  
+  <font size=+1>children:</font>
+     Joshua Robert Vining   b. 24 September 1975   -   m. Anna [&#8230;]
+     Nathan Alan Vining   b. 30 June 1985   -   m. Shanda [&#8230;]
+     Tyler Michael Vining   b. 10 November 1994
+     
+  <a href="Rsources/Ronald01doc.htm">documentation and notes</a>

@@ -1,0 +1,41 @@
+id: CarlA01
+title: Carl Austin Vining - (1) Bernice Rademacher;   (2) Margaret Phelan;   (3) Mrs. Ha Mae Pope Baker
+displayTitle: Carl Austin Vining - (1) Bernice Rademacher; (2) Margaret Phelan; (3) Mrs. Ha Mae Pope Baker
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Carl Austin Vining
+          values:
+            - "20"
+        - label: Bernice (Rademacher) Vining
+          values:
+            - "20"
+        - label: Mrs. Ha Mae (Pope) (Baker) Vining
+          values:
+            - ""
+        - label: Margaret (Phelan) Vining
+          values:
+            - ""
+        - label: Carol Neanetta Vining
+          values:
+            - ""
+          indent: true
+        - label: Floyd Clarence Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Wilmington Township, Will County, Illinois
+        images:
+          - src: CarlA01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Carl Austin Vining, in Woodland Memorial Park I, Joliet, Will County, Illinois (from Find A
+          Grave):
+        images:
+          - src: CarlA01gravestone.jpg

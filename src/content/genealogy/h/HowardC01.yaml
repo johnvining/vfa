@@ -1,0 +1,59 @@
+id: HowardC01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: DavidJr03
+parentLetter: D
+parentDesc: David Vining Jr. and Cynthia A. Cobb
+head:
+  givenName: Howard C.
+  birth:
+    date: age 8 m. as of 1850 census
+    place: Massachusetts
+marriages:
+  - number: 1
+    date: 28 November 1872
+    place: "Brewster, Massachusetts"
+    spouse:
+      givenName: M. Emma
+      surname: Small
+      birth:
+        date: 21 September 1847
+      death:
+        date: 27 April 1881
+      burial:
+        place: "Brewster Cemetery   Brewster, Massachusetts"
+  - number: 2
+    date: 14 y. as of 1900 census
+    spouse:
+      givenName: Lottie J.
+      surname: "[&#8230;]"
+childrenGroups:
+  - headingText: "child by M. Emma Small"
+    children:
+      - name: C. Adele Vining
+        birth:
+          date: 18 June 1874
+        marriages:
+          - date: Alexander C. McCormack
+        death:
+          date: 6 February 1912
+        burial:
+          place: "Brewster Cemetery   Brewster, Massachusetts"
+docsUrl: Hsources/HowardC01doc.htm
+raw: |-
+  <a name="HowardC01"></a><font size=+2>Howard C. Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJr03">David Vining Jr. and Cynthia A. Cobb</a>)
+     b. age 8 m. as of 1850 census   Massachusetts
+     m. (1) 28 November 1872   Brewster, Massachusetts
+                 M. Emma Small
+                       b. 21 September 1847
+                       d. 27 April 1881
+                             bur. Brewster Cemetery   Brewster, Massachusetts
+           (2) 14 y. as of 1900 census
+                 Lottie J. [&#8230;]
+  
+  <font size=+1>child by M. Emma Small:</font>
+     C. Adele Vining   b. 18 June 1874   -   m. Alexander C. McCormack   -   d. 6 February 1912   -   bur. Brewster Cemetery   Brewster, Massachusetts
+  
+  <a href="Hsources/HowardC01doc.htm">documentation and notes</a>

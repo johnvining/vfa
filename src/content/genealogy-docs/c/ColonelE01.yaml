@@ -1,0 +1,57 @@
+id: ColonelE01
+title: Colonel Emmett Vining - Mary C. Gates
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Colonel Emmett Vining
+          values:
+            - "?"
+            - "40"
+            - "?"
+            - "?"
+        - label: Mary C. (Gates) Vining
+          values:
+            - "?"
+            - "39"
+            - "?"
+            - "?"
+        - label: Francis Lucille Vining
+          values:
+            - "?"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lillian Adelle Vining
+          values:
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+        - label: Grace Pauline Vining
+          values:
+            - "?"
+            - "10"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Bennington, Wyoming County, New York - dwelling 200, family 202
+        images:
+          - src: ColonelE01census1920a.jpg
+          - src: ColonelE01census1920b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Colonel Emmett Vining and Mary C. (Gates) Vining, in Cowlesville Cemetery, Cowlesville, Wyoming
+          County, New York (from Find A Grave):
+        images:
+          - src: ColonelE01andwifeheadstone.jpg

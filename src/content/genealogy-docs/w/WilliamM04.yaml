@@ -1,0 +1,83 @@
+id: WilliamM04
+title: William Morris Vining - Eva [...]
+intro:
+  - caption: Thank you to L. Scott Vining for his contributions to this page.
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William Morris Vining
+          values:
+            - "30"
+            - "41"
+            - "51"
+        - label: Eva ([…]) Vining
+          values:
+            - "29"
+            - "40"
+            - "50"
+        - label: William Morris Vining Jr.
+          values:
+            - 5 y., 6 m.
+            - "15"
+            - married and living in separate household
+          indent: true
+        - label: Louis Dozier Vining
+          values:
+            - 3 y., 8 m.
+            - "13"
+            - "24"
+          indent: true
+        - label: Morris G. Vining
+          values:
+            - 9 m.
+            - "11"
+            - "21"
+          indent: true
+        - label: Sarah K. Vining
+          values:
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Eva Vining
+          values:
+            - ""
+            - 1 y., 2 m.
+            - "11"
+          indent: true
+        - label: Earle Vining
+          values:
+            - ""
+            - ""
+            - "9"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Conshohocken Borough (ward 5), Montgomery County, Pennsylvania - dwelling 188, family 199
+        images:
+          - src: WilliamM04census1920.jpg
+      - year: "1930"
+        caption: West Conshohocken, Montgomery County, Pennsylvania - dwelling 143, family 145
+        images:
+          - src: WilliamM04census1930.jpg
+      - year: "1940"
+        caption: West Conshohocken, Montgomery County, Pennsylvania
+        images:
+          - src: WilliamM04census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for William Morris Vining:"
+        images:
+          - src: WilliamM04WWIregistrationcarda.jpg
+          - src: WilliamM04WWIregistrationcardb.jpg
+        inline: true
+      - caption: "World War II registration card for William Morris Vining:"
+        images:
+          - src: WilliamM04WWIIregistrationcarda.jpg
+          - src: WilliamM04WWIIregistrationcardb.jpg
+        inline: true

@@ -1,0 +1,65 @@
+id: WilliamH04
+sequence: 105
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: VernT01
+parentLetter: V
+parentDesc: Vern Terrence Vining and Myrtle Maynard
+head:
+  givenName: William Henry
+  birth:
+    date: 12 April 1918
+    place: "Athelstaine, Wisconsin"
+  death:
+    date: 25 January 2001
+    place: "Albuquerque, New Mexico"
+  burial:
+    place: "Sunset Memorial Park   [Albuquerque, New Mexico?]"
+marriages:
+  - spouse:
+      givenName: Guillerma "Minnie"
+      surname: Sanchez
+      death:
+        date: "1970"
+childrenGroups:
+  - children:
+      - name: Robert William Vining
+        entryId: RobertW03
+        entryLetter: R
+        birth:
+          date: 5 July 1945
+          place: "Baraboo, Wisconsin"
+        marriages:
+          - date: Dorothy Ann Cook
+      - name: David Vern Vining
+        birth:
+          date: 4 December 1948
+          place: "Denver, Colorado"
+      - name: Elaine Joyce Vining
+        birth:
+          date: 4 March 1951
+        marriages:
+          - date: "[...] Fry"
+      - name: Linda Sue Vining
+        entryId: LindaS01
+        entryLetter: L
+        birth:
+          date: 21 May 1953
+docsUrl: Wsources/WilliamH04doc.htm
+raw: |-
+  <a name="WilliamH04"></a><font size=+2>William Henry Vining</font>
+     (son of <a href="Vfamilies.htm#VernT01">Vern Terrence Vining and Myrtle Maynard</a>)
+     b. 12 April 1918   Athelstaine, Wisconsin
+     m. Guillerma "Minnie" Sanchez
+              d. 1970
+     d. 25 January 2001   Albuquerque, New Mexico
+           bur. Sunset Memorial Park   [Albuquerque, New Mexico?]
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RobertW03">Robert William Vining</a>   b. 5 July 1945   Baraboo, Wisconsin   -   m. Dorothy Ann Cook
+     David Vern Vining   b. 4 December 1948   Denver, Colorado
+     Elaine Joyce Vining   b. 4 March 1951   -   m. [...] Fry
+     <a href="Lfamilies.htm#LindaS01">Linda Sue Vining</a>   b. 21 May 1953
+  
+  <a href="Wsources/WilliamH04doc.htm">documentation and notes</a>

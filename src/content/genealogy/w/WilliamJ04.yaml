@@ -1,0 +1,66 @@
+id: WilliamJ04
+sequence: 112
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamH11
+parentDesc: William Henry Vining and Leona G. Kelker
+head:
+  givenName: William J.
+  birth:
+    date: "1901"
+  death:
+    date: "1957"
+  burial:
+    place: "Catholic Cemetery   Fort Wayne, Indiana"
+marriages:
+  - spouse:
+      givenName: Irene E.
+      surname: Blosser
+      parents: "(dau. of William Irven Blosser and Gertrude R. Gleich)"
+      birth:
+        date: "1905"
+      death:
+        date: "1995"
+      burial:
+        place: "Catholic Cemetery   Fort Wayne, Indiana"
+childrenGroups:
+  - children:
+      - name: Joyce Leona Vining
+        birth:
+          date: "1929"
+        death:
+          date: "1958"
+      - name: Patricia A. Vining
+        birth:
+          date: 9 October 1931
+          place: "Fort Wayne, Indiana"
+        marriages:
+          - date: W. Hoyt Summers
+        death:
+          date: 16 March 2013
+          place: "Fort Wayne, Indiana"
+        burial:
+          place: "Lindenwood Cemetery   Fort Wayne, Indiana"
+      - name: William Vining
+        marriages:
+          - date: "Dee [...]"
+docsUrl: Wsources/WilliamJ04doc.htm
+raw: |-
+  <a name="WilliamJ04"></a><font size=+2>William J. Vining</font>
+     (son of <a href="#WilliamH11">William Henry Vining and Leona G. Kelker</a>)
+     b. 1901
+     m. Irene E. Blosser
+              (dau. of William Irven Blosser and Gertrude R. Gleich)
+              b. 1905
+              d. 1995
+                    bur. Catholic Cemetery   Fort Wayne, Indiana
+     d. 1957
+           bur. Catholic Cemetery   Fort Wayne, Indiana
+  
+  <font sizd=+1>children:</font>
+     Joyce Leona Vining   b. 1929   -   d. 1958
+     Patricia A. Vining   b. 9 October 1931   Fort Wayne, Indiana   -   m. W. Hoyt Summers   -   d. 16 March 2013   Fort Wayne, Indiana   -   bur. Lindenwood Cemetery   Fort Wayne, Indiana
+     William Vining   m. Dee [...]
+  
+  <a href="Wsources/WilliamJ04doc.htm">documentation and notes</a>

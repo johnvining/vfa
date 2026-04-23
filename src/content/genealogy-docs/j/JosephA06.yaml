@@ -1,0 +1,53 @@
+id: JosephA06
+title: Joseph Allen Vining - Delma [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Joseph Allen Vining
+          values:
+            - "29"
+            - "38"
+            - "?"
+        - label: Delma ([…]) Vining
+          values:
+            - "25"
+            - "34"
+            - "?"
+        - label: Edna Vining
+          values:
+            - 2 y., 9 m.
+            - "12"
+            - "?"
+          indent: true
+        - label: John Daniel Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+          indent: true
+        - label: Robert Vining
+          values:
+            - ""
+            - "5"
+            - "?"
+          indent: true
+        - label: Jesse Cecil Vining
+          values:
+            - ""
+            - 2 y., 8 m.
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Brighton, Duval County, Florida - dwelling 309, family 321
+        images:
+          - src: JosephA06census1920.jpg
+      - year: "1930"
+        caption: Jacksonville, Duval County, Florida - dwelling 6, family 6
+        images:
+          - src: JosephA06census1930.jpg

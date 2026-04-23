@@ -1,0 +1,52 @@
+id: FredD01
+sequence: 48
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: Nathaniel01
+parentLetter: N
+parentDesc: Nathaniel Vining and Lucille Taylor
+head:
+  givenName: Fred Douglas
+  birth:
+    date: 21 December 1946
+    place: "New Kensington, Pennsylvania"
+  death:
+    date: 27 December 2013
+    place: "Upper Burrell Township, Pennsylvania"
+  burial:
+    place: "National Cemetery of the Alleghenies   Bridgeville, Pensylvania"
+marriages:
+  - spouse:
+      givenName: Constance
+      surname: Sutton
+childrenGroups:
+  - children:
+      - name: Fred Douglas Vining Jr.
+      - name: William D. Vining
+      - name: Naomi Grace Vining
+        marriages:
+          - date: "[&#8230;] Gaither"
+      - name: Robert Maxwell Vining
+      - name: Amy Louise Vining
+      - name: Kelly L. Vining
+        marriages:
+          - date: "[&#8230;] Moore"
+docsUrl: Fsources/FredD01doc.htm
+raw: |-
+  <a name="FredD01"></a><font size=+2>Fred Douglas Vining</font>
+     (son of <a href="Nfamilies.htm#Nathaniel01">Nathaniel Vining and Lucille Taylor</a>)
+     b. 21 December 1946   New Kensington, Pennsylvania
+     m. Constance Sutton
+     d. 27 December 2013   Upper Burrell Township, Pennsylvania
+           bur. National Cemetery of the Alleghenies   Bridgeville, Pensylvania
+  
+  <font size=+1>children:</font>
+     Fred Douglas Vining Jr.
+     William D. Vining
+     Naomi Grace Vining   m. [&#8230;] Gaither
+     Robert Maxwell Vining
+     Amy Louise Vining
+     Kelly L. Vining   m. [&#8230;] Moore
+  
+  <a href="Fsources/FredD01doc.htm">documentation and notes</a>

@@ -1,0 +1,69 @@
+id: EdwardC02
+sequence: 28
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwardS01
+parentDesc: Edward Sumner Vining and Daisy Mildred Olive
+head:
+  givenName: Edward Clyde
+  birth:
+    date: 8 March 1899
+    place: Florida
+  death:
+    date: 11 June 1964
+  burial:
+    place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
+marriages:
+  - spouse:
+      givenName: Pearl Mae
+      surname: Edwards
+      birth:
+        date: 19 July 1905
+        place: Florida
+      death:
+        date: 7 May 1992
+      burial:
+        place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
+childrenGroups:
+  - children:
+      - name: Edward Clyde Vining Jr.
+        entryId: EdwardCJr01
+        birth:
+          date: 9 January 1928
+          place: Florida
+        death:
+          date: 4 November 2003
+        burial:
+          place: "Woodlawn Park North Cemetery and Mausoleum   Miami, Florida"
+      - name: "Bruce Vining   [m. Gail [&#8230;]?]"
+      - name: Donald Q. Vining
+        birth:
+          date: 9 May 1938
+          place: "Miami, Florida"
+        marriages:
+          - spouse: Beverly Wirch
+        death:
+          date: 7 April 2016
+      - name: Trez Vining
+        marriages:
+          - spouse: "Susan [&#8230;]"
+docsUrl: Esources/EdwardC02doc.htm
+raw: |-
+  <a name="EdwardC02"></a><font size=+2>Edward Clyde Vining</font>
+     (son of <a href="#EdwardS01">Edward Sumner Vining and Daisy Mildred Olive</a>)
+     b. 8 March 1899   Florida
+     m. Pearl Mae Edwards
+              b. 19 July 1905   Florida
+              d. 7 May 1992
+                    bur. Woodlawn Park North Cemetery and Mausoleum   Miami, Florida
+     d. 11 June 1964
+           bur. Woodlawn Park North Cemetery and Mausoleum   Miami, Florida
+  
+  <font size=+1>children:</font>
+     <a href="#EdwardCJr01">Edward Clyde Vining Jr.</a>   b. 9 January 1928   Florida   -   d. 4 November 2003   -   bur. Woodlawn Park North Cemetery and Mausoleum   Miami, Florida
+     Bruce Vining   [m. Gail [&#8230;]?]
+     Donald Q. Vining   b. 9 May 1938   Miami, Florida   -   m. Beverly Wirch   -   d. 7 April 2016
+     Trez Vining   m. Susan [&#8230;]
+  
+  <a href="Esources/EdwardC02doc.htm">documentation and notes</a>

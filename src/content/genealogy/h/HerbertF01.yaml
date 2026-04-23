@@ -1,0 +1,53 @@
+id: HerbertF01
+letter: H
+sequence: 905
+lastUpdated: 30 July 2022
+relationship: son
+parentId: AdoniramE01
+parentLetter: A
+parentDesc: Adoniram Elliot Vining and Martha Anne White
+head:
+  givenName: Herbert F.
+  birth:
+    date: December 1873
+    place: Massachusetts
+marriages:
+  - spouse:
+      givenName: Mabel S.
+      surname: "[...]"
+      birth:
+        date: age 35 as of 1910 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: Helen S. Vining
+        birth:
+          date: age 6 y. as of 1910 census
+          place: Massachusetts
+      - name: Martha Vining
+        birth:
+          date: age 2 y. as of 1910 census
+          place: Massachusetts
+      - name: Wellman Stuart Vining
+        birth:
+          date: "age 1 y., 9 m. as of 1910 census"
+          place: Massachusetts
+      - name: Elliot G. Vining
+        birth:
+          date: age 6 y. as of 1920 census
+          place: Massachusetts
+docsUrl: Hsources/HerbertF01doc.htm
+raw: |-
+  <a name="HerbertF01"></a><font size=+2>Herbert F. Vining</font>
+     (son of <a href="Afamilies.htm#AdoniramE01">Adoniram Elliot Vining and Martha Anne White</a>)
+     b. December 1873   Massachusetts
+     m. Mabel S. [...]
+              b. age 35 as of 1910 census   Massachusetts
+  
+  <font size=+1>children:</font>
+     Helen S. Vining   b. age 6 y. as of 1910 census   Massachusetts
+     Martha Vining   b. age 2 y. as of 1910 census   Massachusetts
+     Wellman Stuart Vining   b. age 1 y., 9 m. as of 1910 census   Massachusetts
+     Elliot G. Vining   b. age 6 y. as of 1920 census   Massachusetts
+  
+  <a href="Hsources/HerbertF01doc.htm">documentation and notes</a>

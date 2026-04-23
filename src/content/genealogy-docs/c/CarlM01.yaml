@@ -1,0 +1,44 @@
+id: CarlM01
+title: Carl Merton Vining - Mabel Catherine Vogel
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Carl Merton Vining
+          values:
+            - "32"
+            - "42"
+        - label: Mabel Catherine (Vogel) Vining
+          values:
+            - "33"
+            - "43"
+        - label: Carl Merton Vining Jr.
+          values:
+            - 2 y., 10 m.
+            - "12"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: >-
+          Milton Township, DuPage County, Illinois - dwelling 158, family 168. Also living in this household in 1930 was
+          Elizabeth Vogel (68 y., Canada), the widowed mother of Mabel Catherine (Vogel) Vining.
+        images:
+          - src: CarlM01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Wheaton, Milton Township, DuPage County, Illinois. Also living in this household in 1940 was Elizabeth Vogel
+          (78 y., Canada), the widowed mother of Mabel Catherine (Vogel) Vining.
+        images:
+          - src: CarlM01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Carl Merton Vining and Mabel Catherine (Vogel) Vining, in Wheaton Cemetery, Wheaton, DuPage
+          County, Illinois (from Find A Grave):
+        images:
+          - src: CarlM01gravestone.jpg
+          - src: CarlM01wifegravestone.jpg
+        inline: true

@@ -1,0 +1,122 @@
+id: Samuel10
+letter: S
+sequence: 8
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Samuel
+  birth:
+    date: age 30 y. as of 1850 census
+    place: Ohio
+marriages:
+  - date: 20 October 1844
+    spouse:
+      givenName: Lucy
+      surname: Cooley
+      birth:
+        date: age 26 y. as of 1850 census
+        place: Virginia
+      death:
+        date: "1885"
+      burial:
+        place: "Ashley Union Cemetery   Ashley, Delaware, Ohio"
+childrenGroups:
+  - children:
+      - name: John Vining
+        birth:
+          date: age 5 y. as of 1850 census
+          place: Ohio
+      - name: Warner Emerson Vining
+        entryId: WarnerE01
+        entryLetter: W
+        birth:
+          date: 6 March 1847
+          place: Ohio
+        marriages:
+          - date: "Annie [...]"
+        death:
+          date: 26 August 1920
+          place: "Ashley, Delaware County, Ohio"
+        burial:
+          place: "Ashley Cemetery   Ashley, Delaware County, Ohio"
+      - name: William Hallet Vining
+        entryId: WilliamH08
+        entryLetter: W
+        birth:
+          date: age 1 y. as of 1850 census
+          place: Ohio
+        marriages:
+          - date: 27 y. as of 1900 census
+            spouse: "Harriet [...]"
+      - name: Simeon B. Vining
+        entryId: SimeonB02
+        birth:
+          date: 3 February 1852
+          place: Ohio
+        marriages:
+          - date: Ella Cramer
+        death:
+          date: 6 April 1920
+          place: Ohio
+        burial:
+          place: "Ashley Union Cemetery   Ashley, Delaware County, Ohio"
+      - name: Phebe C. Vining
+        birth:
+          date: age 5 y. as of 1860 census
+          place: Ohio
+      - name: Thomas Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Ohio
+      - name: Eva J. Vining
+        birth:
+          date: 26 May 1859
+          place: Ohio
+        marriages:
+          - date: Oliver R. Aldrich
+        death:
+          date: 23 April 1929
+        burial:
+          place: "Ashley Union Cemetery   Ashley, Delaware County, Ohio"
+      - name: Ada Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Ohio
+      - name: Elisabeth Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: Ohio
+      - name: David Vining
+        birth:
+          date: age 5 y. as of 1870 census
+          place: Ohio
+      - name: Charles Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Ohio
+docsUrl: Ssources/Samuel10doc.htm
+raw: |-
+  <a name="Samuel10"></a><font size=+2>Samuel Vining</font>
+     (son of [?])
+     b. age 30 y. as of 1850 census   Ohio
+     m. 20 October 1844
+           Lucy Cooley
+                 b. age 26 y. as of 1850 census   Virginia
+                 d. 1885
+                       bur. Ashley Union Cemetery   Ashley, Delaware, Ohio
+  
+  <font size=+1>children:</font>
+     John Vining   b. age 5 y. as of 1850 census   Ohio
+     <a href="Wfamilies.htm#WarnerE01">Warner Emerson Vining</a>   b. 6 March 1847   Ohio   -   m. Annie [...]   -   d. 26 August 1920   Ashley, Delaware County, Ohio   -   bur. Ashley Cemetery   Ashley, Delaware County, Ohio
+     <a href="Wfamilies.htm#WilliamH08">William Hallet Vining</a>   b. age 1 y. as of 1850 census   Ohio   -   m. 27 y. as of 1900 census   Harriet [...]
+     <a href="#SimeonB02">Simeon B. Vining</a>   b. 3 February 1852   Ohio   -   m. Ella Cramer   -   d. 6 April 1920   Ohio   -   bur. Ashley Union Cemetery   Ashley, Delaware County, Ohio
+     Phebe C. Vining   b. age 5 y. as of 1860 census   Ohio
+     Thomas Vining   b. age 3 y. as of 1860 census   Ohio
+     Eva J. Vining   b. 26 May 1859   Ohio   -   m. Oliver R. Aldrich   -   d. 23 April 1929   -   bur. Ashley Union Cemetery   Ashley, Delaware County, Ohio
+     Ada Vining   b. age 1 y. as of 1860 census   Ohio
+     Elisabeth Vining   b. age 9 y. as of 1870 census   Ohio
+     David Vining   b. age 5 y. as of 1870 census   Ohio
+     Charles Vining   b. age 3 y. as of 1870 census   Ohio
+  
+  <a href="Ssources/Samuel10doc.htm">documentation and notes</a>

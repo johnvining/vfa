@@ -1,0 +1,25 @@
+id: Stephen01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: EdmundP03
+parentLetter: E
+parentDesc: Edmund P. Vining and Natalie Ann Kremer
+head:
+  givenName: Stephen
+marriages:
+  - spouse:
+      givenName: Sheila
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Kirsten Vining
+      - name: Rachel Vining
+raw: |-
+  <a name="Stephen01"></a><font size=+2>Stephen Vining</font>
+     (son of <a href="Efamilies.htm#EdmundP03">Edmund P. Vining and Natalie Ann Kremer</a>)
+     m. Sheila [...]
+  
+  <font size=+1>children:</font>
+     Kirsten Vining
+     Rachel Vining

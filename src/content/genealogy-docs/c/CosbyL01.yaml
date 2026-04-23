@@ -1,0 +1,122 @@
+id: CosbyL01
+title: Cosby Littleberry Vining - Evaline Elizabeth Routh
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Cosby Littleberry Vining
+          values:
+            - "?"
+            - "35"
+            - "42"
+            - "53"
+            - dead
+            - ""
+            - ""
+        - label: Evaline Elizabeth (Routh) Vining
+          values:
+            - "?"
+            - "29"
+            - "40"
+            - "50"
+            - "?"
+            - |-
+              70
+              [see note below]
+            - dead
+        - label: Margaret A. Vining
+          values:
+            - "?"
+            - "10"
+            - "20"
+            - "30"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Claris[s]a Amanda Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "27"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alfred M. Vining
+          values:
+            - ""
+            - "3"
+            - not living in this household
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Benjamin Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "15"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Elizabeth Berlin Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Fanny Ida Vining
+          values:
+            - ""
+            - ""
+            - 3 m.
+            - "10"
+            - "?"
+            - dead
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Wood Lawn (post office), Murray County, Georgia - dwelling 217, family 217
+        images:
+          - src: CosbyL01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Marshallville, Macon County, Georgia - dwelling 19, family 19. Also living in this household in 1870 was
+          Harv[e]y Routh (20 y., b. Georgia).
+        images:
+          - src: CosbyL01census1870.jpg
+      - year: "1880"
+        caption: Militia District 543, Macon County, Georgia - dwelling 242, family 242
+        images:
+          - src: CosbyL01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Militia District 543 (excluding Marshallville Village), Macon County, Georgia - dwelling 274, family 274. In
+          1900, Evaline Elizabeth (Routh) Vining was living in the household of son James Benjamin Vining.
+        images:
+          - src: CosbyL01census1900.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Cosby Littleberry Vining, in Marshallville City Cemetery, Marshallville, Macon County, Georgia
+          (from Find A Grave):
+        images:
+          - src: CosbyL01gravestone.jpg

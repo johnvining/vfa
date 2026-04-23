@@ -1,0 +1,63 @@
+id: HubertL01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: DayP01
+parentLetter: D
+parentDesc: Day Preston Vining and Margaret Irene McVey
+head:
+  givenName: Hubert Lawrence
+  birth:
+    date: 28 August 1912
+    place: Michigan
+  death:
+    date: 1 January 2001
+    place: "(last residence: Ypsilanti, Michigan)"
+marriages:
+  - number: 1
+    date: Helen Riggs
+    spouse:
+      givenName: divorced
+      surname: "1937"
+  - number: 2
+    date: Frances Riggs
+  - number: 3
+    date: 18 July 1960
+    spouse:
+      givenName: Berta Jean
+      surname: Williams
+      birth:
+        date: 30 January 1921
+childrenGroups:
+  - spouseRef: "[?]"
+    children:
+      - name: Gordon Vining
+      - name: David Vining
+      - name: Margaret Vining
+      - name: Darlene Vining
+      - name: Lourine Vining
+  - headingText: "child by Berta Jean Williams"
+    children:
+      - name: Jeana Marie Vining
+        birth:
+          date: 5 February 1960
+raw: |-
+  <a name="HubertL01"></a><font size=+2>Hubert Lawrence Vining</font>
+     (son of <a href="Dfamilies.htm#DayP01">Day Preston Vining and Margaret Irene McVey</a>)
+     b. 28 August 1912   Michigan
+     m. (1) Helen Riggs
+                 divorced 1937
+           (2) Frances Riggs
+           (3) 18 July 1960
+                 Berta Jean Williams
+                       b. 30 January 1921
+     d. 1 January 2001   (last residence: Ypsilanti, Michigan)
+  
+  <font size=+1>children by [?]:</font>
+     Gordon Vining
+     David Vining
+     Margaret Vining
+     Darlene Vining
+     Lourine Vining
+  <font size=+1>child by Berta Jean Williams:</font>
+     Jeana Marie Vining   b. 5 February 1960

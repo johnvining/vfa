@@ -1,0 +1,45 @@
+id: JoelB01
+sequence: 155
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JesseJr02
+parentDesc: Jesse Vining Jr. and Martha Foster
+head:
+  givenName: Joel Benson
+  birth:
+    date: "1839"
+    place: LA
+  death:
+    date: "15 June [year?]"
+    place: Mississippi
+marriages:
+  - date: 15 October 1857
+    place: "Amite, Mississippi"
+    spouse:
+      givenName: Sophrona
+      surname: Foster
+      birth:
+        date: age 19 y. as of 1860 census
+        place: Louisiana
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: Martha Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Louisiana
+docsUrl: Jsources/JoelB01doc.htm
+raw: |-
+  <a name="JoelB01"></a><font size=+2>Joel Benson Vining</font>
+     (son of <a href="#JesseJr02">Jesse Vining Jr. and Martha Foster</a>)
+     b. 1839   LA
+     m. 15 October 1857   Amite, Mississippi
+           Sophrona Foster
+                 b. age 19 y. as of 1860 census   Louisiana
+     d. 15 June [year?]   Mississippi
+  
+  <font size=+1>child:</font>
+     Martha Vining   b. age 1 y. as of 1860 census   Louisiana
+  
+  <a href="Jsources/JoelB01doc.htm">documentation and notes</a>

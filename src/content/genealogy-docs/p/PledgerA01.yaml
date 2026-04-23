@@ -1,0 +1,43 @@
+id: PledgerA01
+title: Pledger Arline Vining - Daisy M. Ray
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Pledger Arline Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+        - label: Daisy M. (Ray) Vining
+          values:
+            - "31"
+            - "?"
+            - "?"
+        - label: Wilfred E. Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+        - label: Doris M. Vining
+          values:
+            - 3 y., 10 m.
+            - "?"
+            - "?"
+          indent: true
+        - label: Bobby M. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Winter Garden (precinct 11), Orange County, Florida - dwelling 83, family 88
+        images:
+          - src: PledgerA01census1920.jpg

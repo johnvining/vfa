@@ -1,0 +1,23 @@
+id: ArthurF02
+title: Arthur F. Vining - Edna [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Arthur F. Vining
+          values:
+            - "34"
+        - label: Edna ([...]) Vining
+          values:
+            - "29"
+        - label: Andrea Vining
+          values:
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Cheyenne, Laramie County, Wyoming
+        images:
+          - src: ArthurF02census1940.jpg

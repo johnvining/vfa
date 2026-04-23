@@ -1,0 +1,51 @@
+id: JohnJr04
+sequence: 194
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John13
+parentDesc: John Vining and Sarah Ratcliff(e)
+head:
+  givenName: "John Jr."
+  birth:
+    date: ca. 1758
+    place: "Johnston County, North Carolina"
+  death:
+    date: "1832–1833"
+    place: "Jefferson County, Georgia"
+marriages:
+  - spouse:
+      givenName: Sarah
+      surname: Ratcliff
+childrenGroups:
+  - headingText: "child"
+    children:
+      - name: John Vining III
+        entryId: JohnIII01
+        birth:
+          date: ca. 1795
+          place: "Warren County, Georgia"
+        marriages:
+          - number: 1
+            date: 4 February 1819
+            place: "Jefferson County, Georgia"
+            spouse: Mary Hudson
+          - number: 2
+            date: license issued 7 April 1829
+            place: "Jefferson County, Georgia"
+            spouse: "Esibah [Hephezibah?] Price"
+          - number: 3
+            date: "1830"
+            spouse: Elizabeth Welsh
+        death:
+          date: "1838"
+          place: "Upson County, Georgia"
+raw: |-
+  <a name="JohnJr04"></i><font size=+2>John Vining Jr.</font>
+     (son of <a href="#John13">John Vining and Sarah Ratcliff(e)</a>)
+     b. ca. 1758   Johnston County, North Carolina
+     m. Sarah Ratcliff
+     d. 1832&#8211;1833   Jefferson County, Georgia
+
+  <font size=+1>child:</font>
+     <a href="#JohnIII01">John Vining</a> III   b. ca. 1795   Warren County, Georgia   -      m. (1) 4 February 1819   Jefferson County, Georgia   Mary Hudson;   (2) license issued 7 April 1829   Jefferson County, Georgia   Esibah [Hephezibah?] Price;   (3) 1830   Elizabeth Welsh   -   d. 1838   Upson County, Georgia

@@ -1,0 +1,66 @@
+id: John22
+sequence: 181
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John
+  birth:
+    date: age 34 y. as of 1860 census
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Sarah
+      surname: "[...]"
+      birth:
+        date: age 37 y. as of 1860 census
+        place: Alabama
+childrenGroups:
+  - children:
+      - name: Phalalah Vining
+        birth:
+          date: age 12 y. as of 1860 census
+          place: Alabama
+      - name: Sarah Vining
+        birth:
+          date: age 10 y. as of 1860 census
+          place: Alabama
+      - name: Jane Vining
+        birth:
+          date: age 9 y. as of 1860 census
+          place: Alabama
+      - name: Mary Vining
+        birth:
+          date: age 7 y. as of 1860 census
+          place: Alabama
+      - name: Benjamin Vining
+        birth:
+          date: age 7 y. as of 1860 census
+          place: Alabama
+      - name: Louisa Vining
+        birth:
+          date: age 3 y. as of 1860 census
+          place: Alabama
+      - name: Joanah Vining
+        birth:
+          date: age 1 y. as of 1860 census
+          place: Alabama
+docsUrl: Jsources/John22doc.htm
+raw: |-
+  <a name="John22"></a><font size=+2>John Vining</font>
+     (son of [?])
+     b. age 34 y. as of 1860 census   Georgia
+     m. Sarah [...]
+              b. age 37 y. as of 1860 census   Alabama
+  
+  <font size=+1>children:</font>
+     Phalalah Vining   b. age 12 y. as of 1860 census   Alabama
+     Sarah Vining   b. age 10 y. as of 1860 census   Alabama
+     Jane Vining   b. age 9 y. as of 1860 census   Alabama
+     Mary Vining   b. age 7 y. as of 1860 census   Alabama
+     Benjamin Vining   b. age 7 y. as of 1860 census   Alabama
+     Louisa Vining   b. age 3 y. as of 1860 census   Alabama
+     Joanah Vining   b. age 1 y. as of 1860 census   Alabama
+  
+  <a href="Jsources/John22doc.htm">documentation and notes</a>

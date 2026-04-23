@@ -1,0 +1,62 @@
+id: Olin01
+title: Olin Vining - Hattie Crosby
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Olin Vining
+          values:
+            - "26"
+            - "36"
+            - dead
+        - label: Hattie (Crosby) Vining
+          values:
+            - "21"
+            - "30"
+            - "41"
+        - label: Guy Vining
+          values:
+            - "3"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Clyde Vining
+          values:
+            - "1"
+            - "12"
+            - "22"
+          indent: true
+        - label: Lucille Vining
+          values:
+            - 1 m.
+            - dead
+            - ""
+          indent: true
+        - label: Lillie Mae Vining
+          values:
+            - ""
+            - "9"
+            - living in separate household
+          indent: true
+    entries:
+      - year: "1920"
+        caption: District 748, Douglas, Coffee County, Georgia - dwelling 560, family 593
+        images:
+          - src: Olin01census1920.jpg
+      - year: "1930"
+        caption: Axson, Atkinson County, Georgia - dwelling 258, family 251
+        images:
+          - src: Olin01census1930.jpg
+      - year: "1940"
+        caption: Axson, Atkinson County, Georgia
+        images:
+          - src: Olin01census1940.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for Olin Vining, in Mount Zion Cemetery, Axson, Atkinson County, Georgia (from Find A Grave):"
+        images:
+          - src: Olin01gravestone.jpg

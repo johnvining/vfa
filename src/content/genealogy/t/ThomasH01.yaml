@@ -1,0 +1,52 @@
+id: ThomasH01
+letter: T
+sequence: 36
+lastUpdated: 9 March 2023
+relationship: son
+parentId: FrankL01
+parentLetter: F
+parentDesc: Frank Lathan Vining and Margaret Todd
+head:
+  givenName: Thomas Harry
+  birth:
+    date: 9 September 1930
+    place: "Great Falls, Montana"
+  death:
+    date: 2 March 2001
+    place: "Phoenix, Arizona"
+  burial:
+    place: "Highland Cemetery   Great Falls, Montana"
+marriages:
+  - date: 4 March 1951
+    place: "Great Falls, Montana"
+    spouse:
+      givenName: Georgia A.
+      surname: Renning
+      birth:
+        date: 5 August 1932
+childrenGroups:
+  - children:
+      - name: Susan Vining
+        marriages:
+          - date: "[...] Hadnot"
+      - name: Brian Vining
+      - name: Kevin Vining
+      - name: Brad Vining
+docsUrl: Tsources/ThomasH01doc.htm
+raw: |-
+  <a name="ThomasH01"></a><font size=+2>Thomas Harry Vining</font>
+     (son of <a href="Ffamilies.htm#FrankL01">Frank Lathan Vining and Margaret Todd</a>)
+     b. 9 September 1930   Great Falls, Montana
+     m. 4 March 1951   Great Falls, Montana
+           Georgia A. Renning
+                 b. 5 August 1932
+     d. 2 March 2001   Phoenix, Arizona
+           bur. Highland Cemetery   Great Falls, Montana
+  
+  <font size=+1>children:</font>
+     Susan Vining   m. [...] Hadnot
+     Brian Vining
+     Kevin Vining
+     Brad Vining
+  
+  <a href="Tsources/ThomasH01doc.htm">documentation and notes</a>

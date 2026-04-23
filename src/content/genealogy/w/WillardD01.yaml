@@ -1,0 +1,80 @@
+id: WillardD01
+sequence: 53
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JohnF01
+parentLetter: J
+parentDesc: John Franklin Vining and Clara Belle Hershberger
+head:
+  givenName: Willard Devon
+  birth:
+    date: 30 August 1914
+    place: "Etna Green, Indiana"
+  death:
+    date: 14 November 1999
+    place: "Etna Green, Indiana"
+  burial:
+    place: "Etna Green Cemetery   Etna Green, Indiana"
+marriages:
+  - spouse:
+      givenName: Mary K.
+      surname: Yocum
+      birth:
+        date: 13 April 1915
+      death:
+        date: 27 August 2003
+      burial:
+        place: "Etna Green Cemetery   Etna Green, Indiana"
+childrenGroups:
+  - children:
+      - name: Richard L. Vining
+        entryId: RichardL02
+        entryLetter: R
+        birth:
+          date: 29 May 1940
+          place: "Warsaw, Indiana"
+        marriages:
+          - date: 2 September 1961
+            spouse: Lynne Worsham
+        death:
+          date: 20 January 2013
+          place: "Warsaw, Indiana"
+        burial:
+          place: "Summit Chapel Cemetery   Bourbon, Indiana"
+      - name: John L. Vining
+        birth:
+          date: 31 August 1943
+        marriages:
+          - date: Alice Stavedahl
+      - name: Louis D. Vining
+        birth:
+          date: 26 January 1946
+        marriages:
+          - date: "Lois [&#8230;]"
+      - name: Russel Jay Vining
+        birth:
+          date: 6 April 1952
+        death:
+          date: 7 April 1952
+        burial:
+          place: "Summit Chapel Cemetery   Bourbon, Indiana"
+docsUrl: Wsources/WillardD01doc.htm
+raw: |-
+  <a name="WillardD01"></a><font size=+2>Willard Devon Vining</font>
+     (son of <a href="Jfamilies.htm#JohnF01">John Franklin Vining and Clara Belle Hershberger</a>)
+     b. 30 August 1914   Etna Green, Indiana
+     m. Mary K. Yocum
+              b. 13 April 1915
+              d. 27 August 2003
+                    bur. Etna Green Cemetery   Etna Green, Indiana
+     d. 14 November 1999   Etna Green, Indiana
+           bur. Etna Green Cemetery   Etna Green, Indiana
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RichardL02">Richard L. Vining</a>   b. 29 May 1940   Warsaw, Indiana   -   m. 2 September 1961   Lynne Worsham   -   d. 20 January 2013   Warsaw, Indiana   -   bur. Summit Chapel Cemetery   Bourbon, Indiana
+     John L. Vining   b. 31 August 1943   -   m. Alice Stavedahl
+     Louis D. Vining   b. 26 January 1946   -   m. Lois [&#8230;]
+     Russel Jay Vining   b. 6 April 1952   -   d. 7 April 1952   -   bur. Summit Chapel Cemetery   Bourbon, Indiana
+  
+  <a href="Wsources/WillardD01doc.htm">documentation and notes</a>

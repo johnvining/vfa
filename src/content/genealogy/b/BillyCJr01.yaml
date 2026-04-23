@@ -1,0 +1,31 @@
+id: BillyCJr01
+letter: B
+sequence: 48
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BillyC01
+parentLetter: B
+parentDesc: Billy Coleman Vining and Mary Ann Strickland
+head:
+  givenName: Billy Coleman Jr.
+  birth:
+    date: "Bufaula, Oklahoma"
+marriages:
+  - spouse:
+      givenName: Marsha
+      surname: Lackey
+childrenGroups:
+  - children:
+      - name: Kristen Alison Vining
+      - name: Mathew Lackey Vining
+      - name: Mark Strickland Vining
+raw: |-
+  <a name="BillyCJr01"></a><font size=+2>Billy Coleman Vining Jr.</font>
+     (son of <a href="#BillyC01">Billy Coleman Vining and Mary Ann Strickland</a>)
+     b. Bufaula, Oklahoma
+     m. Marsha Lackey
+  
+  <font size=+1>children:</font>
+     Kristen Alison Vining
+     Mathew Lackey Vining
+     Mark Strickland Vining

@@ -1,0 +1,104 @@
+id: OscarA01
+letter: O
+lastUpdated: 27 May 2020
+relationship: son
+parentId: HenryH02
+parentLetter: H
+parentDesc: Henry Horatio Vining and Marguerite Mirsa Vallet
+head:
+  givenName: Oscar Adam
+  birth:
+    date: 23 October 1880
+    place: "Morgan City, Louisiana"
+  death:
+    date: 16 February 1948
+    place: "Morgan City, Louisiana"
+  burial:
+    place: "Morgan City Cemetery and Mausoleum   Morgan City, Louisiana"
+marriages:
+  - number: 1
+    date: 7 y. as of 1910 census (her second marriage)
+    spouse:
+      givenName: Corine Marie
+      surname: Parrah
+      birth:
+        date: 6 July 1884
+        place: Louisiana
+      death:
+        date: 22 May 1950
+      burial:
+        place: "Morgan City Cemetery and Mausoleum   Morgan City, Louisiana"
+  - number: 2
+    date: 1 y. as of 1930 census
+    spouse:
+      givenName: Lorena
+      surname: "[&#8230;]"
+childrenGroups:
+  - spouseRef: Corine Marie Parrah
+    children:
+      - name: Eugene Vining
+        birth:
+          date: age 7 y. as of 1910 census
+          place: Louisiana
+      - name: Effie Vining
+        birth:
+          date: age 5 y. as of 1910 census
+          place: Louisiana
+        marriages:
+          - date: 4 y. as of 1930 census
+            spouse: James Rink
+      - name: Junius Vining
+        birth:
+          date: age 2 y. as of 1910 census
+          place: Louisiana
+      - name: Sterling Vining
+        entryId: Sterling01
+        entryLetter: S
+        birth:
+          date: "age [3?] m. as of 1910 census"
+          place: Louisiana
+        marriages:
+          - date: Essie Ratcliff
+        death:
+          date: ca. 1992
+      - name: Agnes Vining
+        birth:
+          date: age 7 y. as of 1920 census
+          place: Louisiana
+      - name: Corine V. Vining
+        birth:
+          date: age 5 y. as of 1920 census
+          place: Louisiana
+      - name: Ira John Vining
+        birth:
+          date: 5 December 1916
+          place: Louisiana
+        death:
+          date: 14 May 1969
+        burial:
+          place: "Morgan City Cemetery and Mausoleum   Morgan City, Louisiana"
+docsUrl: Osources/OscarA01doc.htm
+raw: |-
+  <a name="OscarA01"></a><font size=+2>Oscar Adam Vining</font>
+     (son of <a href="Hfamilies.htm#HenryH02">Henry Horatio Vining and Marguerite Mirsa Vallet</a>)
+     b. 23 October 1880   Morgan City, Louisiana
+     m. (1) 7 y. as of 1910 census (her second marriage)
+                 Corine Marie Parrah
+                       b. 6 July 1884   Louisiana
+                       d. 22 May 1950
+                             bur. Morgan City Cemetery and Mausoleum   Morgan City, Louisiana
+           (2) 1 y. as of 1930 census
+                 Lorena [&#8230;]
+     d. 16 February 1948   Morgan City, Louisiana
+           bur. Morgan City Cemetery and Mausoleum   Morgan City, Louisiana
+  
+  <font size=+1>children by Corine Marie Parrah:</font>
+     Eugene Vining   b. age 7 y. as of 1910 census   Louisiana
+     Effie Vining   b. age 5 y. as of 1910 census   Louisiana   -   m. 4 y. as of 1930 census   James Rink
+     Junius Vining   b. age 2 y. as of 1910 census   Louisiana
+     <a href="Sfamilies.htm#Sterling01">Sterling Vining</a>   b. age [3?] m. as of 1910 census   Louisiana   -   m. Essie Ratcliff   -   d. ca. 1992
+     Agnes Vining   b. age 7 y. as of 1920 census   Louisiana
+     Corine V. Vining   b. age 5 y. as of 1920 census   Louisiana
+     Ira John Vining   b. 5 December 1916   Louisiana   -   d. 14 May 1969   -   bur. Morgan City Cemetery and Mausoleum   Morgan City, Louisiana
+  
+  <a href="Osources/OscarA01doc.htm">documentation and notes</a>

@@ -1,0 +1,34 @@
+id: Richard09
+sequence: 38
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Richard
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Richard Vining Jr.
+        entryId: RichardJr02
+        birth:
+          date: age 34 y. at death
+          place: "Granby, Hartford County, Connecticut"
+        marriages:
+          - date: 1 September 1803
+            place: Connecticut
+            spouse: Melinda Banning
+        death:
+          date: 7 May 1811
+          place: "West Granby, Hartford County, Connecticut"
+        burial:
+          place: "West Granby Cemetery   Granby, Hartford County, Connecticut"
+notes: "Note: Richard Vining [Sr.] is likely the Richard Vining in the 1790 census of Granby, Hartford County, Connecticut."
+raw: |-
+  <a name="Richard09"></a><font size=+2>Richard Vining</font>
+     (son of [?])
+  
+  <font size=+1>child:</font>
+     <a href="#RichardJr02">Richard Vining Jr.</a>   b. age 34 y. at death   Granby, Hartford County, Connecticut   -   m. 1 September 1803   Connecticut   Melinda Banning   -   d. 7 May 1811   West Granby, Hartford County, Connecticut   -   bur. West Granby Cemetery   Granby, Hartford County, Connecticut
+  
+  Note: Richard Vining [Sr.] is likely the Richard Vining in the 1790 census of Granby, Hartford County, Connecticut.

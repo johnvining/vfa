@@ -1,0 +1,79 @@
+id: CharlesF04
+letter: C
+sequence: 69
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FelixJ01
+parentLetter: F
+parentDesc: Felix Joseph Vining and Sarah Elizabeth Cain
+head:
+  givenName: Charles Freeman
+  birth:
+    date: May 1897
+    place: Georgia
+  death:
+    date: "1937"
+  burial:
+    place: "Dawnville Cemetery   Dawnville, Georgia"
+marriages:
+  - date: "approx. 15 y. as of 1930 census"
+    spouse:
+      givenName: Demmie
+      surname: Lotspeich
+      birth:
+        date: "1892"
+        place: Georgia
+      death:
+        date: 9 August 1896
+      burial:
+        place: "Dawnville Cemetery   Dawnville, Georgia"
+childrenGroups:
+  - children:
+      - name: Emily Grace Vining
+        birth:
+          date: "age 3 y., 2 m. as of 1920 census"
+          place: Georgia
+      - name: Elizabeth Vining
+        birth:
+          date: age 9 y. as of 1930 census
+          place: Georgia
+      - name: Charles Freeman Vining Jr.
+        entryId: CharlesFJr01
+        birth:
+          date: 29 August 1923
+          place: Georgia
+        marriages:
+          - date: Starr Cashon
+        death:
+          date: 24 July 2000
+        burial:
+          place: "Dawn Rest Cemetery   Dalton, Georgia"
+      - name: Bonnie J. Vining
+        birth:
+          date: "age 4 y., 5 m. as of 1930 census"
+          place: Georgia
+      - name: Janice Vining
+        birth:
+          date: "age 2 y., 7 m. as of 1930 census"
+          place: Georgia
+docsUrl: Csources/CharlesF04doc.htm
+raw: |-
+  <a name="CharlesF04"></a><font size=+2>Charles Freeman Vining</font>
+     (son of <a href="Ffamilies.htm#FelixJ01">Felix Joseph Vining and Sarah Elizabeth Cain</a>)
+     b. May 1897   Georgia
+     m. approx. 15 y. as of 1930 census
+           Demmie Lotspeich
+                 b. 1892   Georgia
+                 d. 9 August 1896
+                       bur. Dawnville Cemetery   Dawnville, Georgia
+     d. 1937
+           bur. Dawnville Cemetery   Dawnville, Georgia
+  
+  <font size=+1>children:</font>
+     Emily Grace Vining   b. age 3 y., 2 m. as of 1920 census   Georgia
+     Elizabeth Vining   b. age 9 y. as of 1930 census   Georgia
+     <a href="#CharlesFJr01">Charles Freeman Vining Jr.</a>   b. 29 August 1923   Georgia   -   m. Starr Cashon   -   d. 24 July 2000   -   bur. Dawn Rest Cemetery   Dalton, Georgia
+     Bonnie J. Vining   b. age 4 y., 5 m. as of 1930 census   Georgia
+     Janice Vining   b. age 2 y., 7 m. as of 1930 census   Georgia
+  
+  <a href="Csources/CharlesF04doc.htm">documentation and notes</a>

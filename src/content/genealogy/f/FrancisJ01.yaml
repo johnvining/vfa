@@ -1,0 +1,113 @@
+id: FrancisJ01
+sequence: 14
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: JohnIII01
+parentLetter: J
+parentDesc: John Vining III and Elizabeth Welsh
+head:
+  givenName: Francis Jefferson
+  birth:
+    date: 3 April 1834
+    place: Georgia
+marriages:
+  - date: 9 November 1865
+    place: "Upson County, Georgia"
+    spouse:
+      givenName: Falba J.
+      surname: Starling
+      birth:
+        date: April 1848
+        place: Georgia
+      death:
+        date: February 1931
+      burial:
+        place: "Antioch United Methodist Cemetery   Thomaston, Georgia"
+childrenGroups:
+  - children:
+      - name: Ida Vining
+        birth:
+          date: age 3 y. as of 1870 census
+          place: Georgia
+      - name: Charles Stewart Vining
+        entryId: CharlesS01
+        entryLetter: C
+        birth:
+          date: January 1869
+          place: Georgia
+        marriages:
+          - date: 15 December 1891
+            spouse: Sara Harriett Smith
+        death:
+          date: 8 May 1958
+          place: Georgia
+        burial:
+          place: "Southview Cemetery   Thomaston, Georgia"
+      - name: Mary L. E. Vining
+        birth:
+          date: January 1872
+          place: Georgia
+      - name: John Gordon Vining
+        entryId: JohnG01
+        entryLetter: J
+        birth:
+          date: 13 March 1874
+          place: Georgia
+        marriages:
+          - date: Beulah Turner
+        death:
+          date: 26 July 1954
+        burial:
+          place: "Southview Cemetery   Thomaston, Georgia"
+      - name: Mattie Vining
+        birth:
+          date: May 1879
+          place: Georgia
+        death:
+          date: June 1968
+        burial:
+          place: "Antioch United Methodist Cemetery   Thomaston, Georgia"
+      - name: Josephine Vining
+        birth:
+          date: April 1880
+          place: Georgia
+      - name: Annie Pearl Vining
+        birth:
+          date: September 1884
+        marriages:
+          - date: "[&#8230;] Warren"
+        death:
+          date: "1961"
+      - name: Thomas Bernard Vining
+        entryId: ThomasB04
+        entryLetter: T
+        birth:
+          date: July 1887
+          place: Georgia
+        marriages:
+          - date: Lillie Beverly
+        death:
+          date: "1953"
+docsUrl: Fsources/FrancisJ01doc.htm
+raw: |-
+  <a name="FrancisJ01"></a><font size=+2>Francis Jefferson Vining</font>
+     (son of <a href="Jfamilies.htm#JohnIII01">John Vining III and Elizabeth Welsh</a>)
+     b. 3 April 1834   Georgia
+     m. 9 November 1865   Upson County, Georgia
+           Falba J. Starling
+                 b. April 1848   Georgia
+                 d. February 1931
+                       bur. Antioch United Methodist Cemetery   Thomaston, Georgia
+  
+  <font size=+1>children:</font>
+     Ida Vining   b. age 3 y. as of 1870 census   Georgia
+     <a href="Cfamilies.htm#CharlesS01">Charles Stewart Vining</a>   b. January 1869   Georgia   -   m. 15 December 1891   Sara Harriett Smith   -   d. 8 May 1958   Georgia   -   bur. Southview Cemetery   Thomaston, Georgia
+     Mary L. E. Vining   b. January 1872   Georgia
+     <a href="Jfamilies.htm#JohnG01">John Gordon Vining</a>   b. 13 March 1874   Georgia   -   m. Beulah Turner   -   d. 26 July 1954   -   bur. Southview Cemetery   Thomaston, Georgia
+     Mattie Vining   b. May 1879   Georgia   -   d. June 1968   -   bur. Antioch United Methodist Cemetery   Thomaston, Georgia
+     Josephine Vining   b. April 1880   Georgia
+     Annie Pearl Vining   b. September 1884   -   m. [&#8230;] Warren   -   d. 1961
+     <a href="Tfamilies.htm#ThomasB04">Thomas Bernard Vining</a>   b. July 1887   Georgia   -   m. Lillie Beverly   -   d. 1953
+  
+  <a href="Fsources/FrancisJ01doc.htm">documentation and notes</a>

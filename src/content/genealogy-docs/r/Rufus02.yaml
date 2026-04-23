@@ -1,0 +1,99 @@
+id: Rufus02
+title: Rufus Vining - Julia Gentleman
+intro:
+  - caption: Thank you to James Borneman for his contributions to this page.
+sections:
+  - type: marriage
+    items:
+      - caption: >-
+          Marriage record for Rufus Vining and Julia Gentleman, from records of St. Peter's Episcopal Church, Delaware,
+          Ohio:
+        images:
+          - src: Rufus02marriagerecord.jpg
+      - caption: "Marriage record for Julia C. Vining, daughter of Rufus Vining and Julia Gentleman:"
+        images:
+          - src: Rufus02dauJuliamarriagerec.jpg
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Rufus Vining
+          values:
+            - "28"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Julia (Gentleman) Vining
+          values:
+            - "29"
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+        - label: Sarah Vining
+          values:
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Vining
+          values:
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Roxana Vining
+          values:
+            - 8 m.
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Frank J. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Julia C. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Delaware, Delaware County, Ohio - dwelling 795, family 803
+        images:
+          - src: Rufus02census1870.jpg
+  - type: death
+    items:
+      - caption: Death certificatefor Rufus Vining
+        images:
+          - src: Rufus02deathcertificate.jpg
+      - caption: "Gravestone for Rufus Vining, in Oak Grove Cemetery, Delaware, Ohio:"
+        images:
+          - src: Rufus02gravestone.jpg

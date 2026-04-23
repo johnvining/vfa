@@ -1,0 +1,62 @@
+id: LowellG01
+sequence: 76
+letter: L
+lastUpdated: 26 July 2022
+relationship: son
+parentId: ClarenceD01
+parentLetter: C
+parentDesc: Clarence Delbert Vining and Ola Guy
+head:
+  givenName: Lowell Guy
+  birth:
+    date: 16 February 1927
+  death:
+    date: 11 February 1992
+  burial:
+    place: "Etna Green East Cemetery   Etna Township, Indiana"
+marriages:
+  - date: 29 August 1954
+    place: Indiana
+    spouse:
+      givenName: Doris Jean
+      surname: DeHaven
+      birth:
+        date: 16 September 1931
+childrenGroups:
+  - children:
+      - name: Myron Lee Vining +
+        birth:
+          date: 26 June 1956
+        marriages:
+          - date: "[...] Rector"
+      - name: Jean Ann Vining
+        birth:
+          date: 14 May 1958
+        marriages:
+          - date: "[...] Bordner"
+      - name: Lynn Duane Vining +
+        birth:
+          date: 28 April 1962
+        marriages:
+          - date: "[...] Backport"
+      - name: Clinton Vining
+        birth:
+          date: 10 October 1972
+docsUrl: Lsources/LowellG01doc.htm
+raw: |-
+  <a name="LowellG01"></a><font size=+2>Lowell Guy Vining</font>
+     (son of <a href="Cfamilies.htm#ClarenceD01">Clarence Delbert Vining and Ola Guy</a>)
+     b. 16 February 1927
+     m. 29 August 1954   Indiana
+           Doris Jean DeHaven
+                 b. 16 September 1931
+     d. 11 February 1992
+           bur. Etna Green East Cemetery   Etna Township, Indiana
+  
+  <font size=+1>children:</font>
+     Myron Lee Vining +    b. 26 June 1956   -   m. [...] Rector
+     Jean Ann Vining   b. 14 May 1958   -   m. [...] Bordner
+     Lynn Duane Vining +    b. 28 April 1962   -   m. [...] Backport
+     Clinton Vining   b. 10 October 1972
+  
+  <a href="Lsources/LowellG01doc.htm">documentation and notes</a>

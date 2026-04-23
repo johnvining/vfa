@@ -1,0 +1,72 @@
+id: Jacob01
+title: Jacob Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: Jacob Vining
+          values:
+            - "28"
+            - "38"
+            - "?"
+            - "58"
+            - "68"
+            - "?"
+        - label: Mary J. (Ross) Vining
+          values:
+            - "?"
+            - "36"
+            - "?"
+            - "54"
+            - "[dead?]"
+            - ""
+        - label: William Vining
+          values:
+            - "?"
+            - "14"
+            - "?"
+            - "36"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Fannie Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - |-
+              26
+              [see note below]
+            - "[living? in separate household]"
+            - ""
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Quincy (ward 3), Adams County, Illinois - dwelling 555, family 673
+        images:
+          - src: Jacob01census1870.jpg
+      - year: "1880"
+        caption: Shirley, McLean County, Illinois - dwelling 73, family 73
+        images:
+          - src: Jacob01census1880.jpg
+      - year: "1900"
+        caption: >-
+          Atlanta Township, Logan County, Illinois - dwelling 85, family 89. By 1900, Fannie Vining was married, to
+          George Lope{r?}, and she and her husband were living in the household of her parents. Also living in this
+          household in 1900 was Edna Vining, listed as a granddaughter, but William Vining was reported as being
+          “S”ingle.
+        images:
+          - src: Jacob01census1900.jpg
+      - year: "1910"
+        caption: >-
+          Atlanta (ward 3), Logan County, Illinois - dwelling 296, family 308. Also living in this household in 1910 was
+          granddaughter Edna Vining (18 y., b. Illinois).
+        images:
+          - src: Jacob01census1910.jpg

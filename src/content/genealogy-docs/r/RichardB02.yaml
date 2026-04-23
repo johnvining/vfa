@@ -1,0 +1,39 @@
+id: RichardB02
+title: Richard Bruce Vining - Lucille M. Quirico
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Richard Bruce Vining
+          values:
+            - "29"
+        - label: Lucill M. (Quirico) Vining
+          values:
+            - "27"
+        - label: Walter Gene Vining
+          values:
+            - "4"
+          indent: true
+        - label: Shirley A. Vining
+          values:
+            - "2"
+          indent: true
+        - label: Robert H. Vining
+          values:
+            - "1"
+          indent: true
+        - label: Colleen Vining
+          values:
+            - ""
+          indent: true
+        - label: Edward Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Pueblo, Pueblo County, Colorado
+        images:
+          - src: RichardB02census1940.jpg

@@ -1,0 +1,66 @@
+id: AustinJJr01
+letter: A
+sequence: 113
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AustinJ01
+parentDesc: Austin James Vining and Fanny Darby
+head:
+  givenName: Austin James Jr.
+  birth:
+    date: 21 March 1926
+  death:
+    date: 2 July 1983
+  burial:
+    place: "North Providence Ridge Cemetery   Elwood, Peoria County, Illinois"
+marriages:
+  - spouse:
+      givenName: Dorothy M. Wandless
+      surname: (Byford)
+      parents: (dau. of David Wandless and Myrtle Faulkner)
+      birth:
+        date: 26 May 1919
+        place: "Fairmont, Will County, Illinois"
+      death:
+        date: 11 June 2000
+        place: "Dwight, Illinois"
+      burial:
+        place: "North Providence Ridge Cemetery   Elwood, Peoria County, Illinois"
+childrenGroups:
+  - children:
+      - name: Sharon Vining
+        marriages:
+          - date: Mark Hill
+      - name: Ronald Vining
+        marriages:
+          - date: "Sharon [...]"
+      - name: "Austin J[ames?]. Vining [III?]"
+        birth:
+          date: age 16 y. as of 1970
+        marriages:
+          - date: "Sue [...]"
+      - name: Adele Vining
+        birth:
+          date: age 7 y. as of 1970
+        marriages:
+          - date: Donald Chaplin
+docsUrl: Asources/AustinJJr01doc.htm
+raw: |-
+  <a name="AustinJJr01"></a><font size="+2">Austin James Vining Jr.</font>
+     (son of <a href="#AustinJ01">Austin James Vining and Fanny Darby</a>)
+     b. 21 March 1926
+     m. Dorothy M. Wandless (Byford)
+              (dau. of David Wandless and Myrtle Faulkner)
+              b. 26 May 1919   Fairmont, Will County, Illinois
+              d. 11 June 2000   Dwight, Illinois
+                    bur. North Providence Ridge Cemetery   Elwood, Peoria County, Illinois
+     d. 2 July 1983
+           bur. North Providence Ridge Cemetery   Elwood, Peoria County, Illinois
+  
+  <font size="+1">children:</font>
+     Sharon Vining   m. Mark Hill
+     Ronald Vining   m. Sharon [...]
+     Austin J[ames?]. Vining [III?]   b. age 16 y. as of 1970   -   m. Sue [...]
+     Adele Vining   b. age 7 y. as of 1970   -   m. Donald Chaplin
+  
+  <a href="Asources/AustinJJr01doc.htm">documentation and notes</a>

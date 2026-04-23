@@ -1,0 +1,60 @@
+id: WilliamW06
+sequence: 138
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: William W.
+  birth:
+    date: age 62 y. at death
+  death:
+    date: 28 February 1929
+marriages:
+  - date: 4 December 1897
+    place: "Lorain, Ohio"
+    spouse:
+      givenName: Charlotte M.
+      surname: Higgins
+      parents: "(dau. of Daniel Blanchard Higgins and Louisa Church)"
+      birth:
+        date: 29 January 1876
+        place: Ohio
+      death:
+        date: 10 November 1934
+        place: Ohio
+    note: "divorced 1909"
+childrenGroups:
+  - children:
+      - name: son
+        death:
+          date: at birth
+      - name: Donald Erhart Vining
+        entryId: DonaldE01
+        entryLetter: D
+        birth:
+          date: 11 February 1902
+          place: "Lorain, Ohio"
+        marriages:
+          - date: 9 October 1927
+            spouse: Mildred Agnes Banks
+        death:
+          date: May 1970
+          place: "(last residence: Strongsville, Ohio)"
+        burial:
+          place: "Strongsville, Ohio"
+raw: |-
+  <a name="WilliamW06"></a><font size=+2>William W. Vining</font>
+     (son of [?])
+     b. age 62 y. at death
+     m. 4 December 1897   Lorain, Ohio
+           Charlotte M. Higgins
+                 (dau. of Daniel Blanchard Higgins and Louisa Church)
+                 b. 29 January 1876   Ohio
+                 d. 10 November 1934   Ohio
+           divorced 1909
+     d. 28 February 1929
+  
+  <font size=+1>children:</font>
+     son   d. at birth
+     <a href="Dfamilies.htm#DonaldE01">Donald Erhart Vining</a>   b. 11 February 1902   Lorain, Ohio   -   m. 9 October 1927   Mildred Agnes Banks   -   d. May 1970   (last residence: Strongsville, Ohio)   -   bur. Strongsville, Ohio

@@ -1,0 +1,42 @@
+id: CharlesA07
+title: Charles Augustus Vining - Mary [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Charles Augustus Vining
+          values:
+            - "55"
+            - "?"
+            - "?"
+            - "?"
+        - label: Mary ([...]) Vining
+          values:
+            - "46"
+            - "?"
+            - "?"
+            - "?"
+        - label: Charles A. Vining
+          values:
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: George F. Vining
+          values:
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Kansas City (ward 3), Jackson County, Missouri - dwelling 55, family 110
+        images:
+          - src: CharlesA07census1900.jpg

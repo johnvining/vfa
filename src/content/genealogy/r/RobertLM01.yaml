@@ -1,0 +1,49 @@
+id: RobertLM01
+sequence: 116
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: WarrenCJr01
+parentLetter: W
+parentDesc: Warren Clifford Vining Jr. and Elizabeth Ruth Gustafson
+head:
+  givenName: Robert Lloyd McKinney
+  birth:
+    date: 20 August 1952
+    place: "Gustine, California"
+marriages:
+  - number: 1
+    date: 6 August 1977
+    spouse:
+      givenName: Janet Kathleen
+      surname: Howard
+    note: divorced
+  - number: 2
+    date: 18 November 1989
+    spouse:
+      givenName: Sheri L.
+      surname: Connelly
+childrenGroups:
+  - headingText: "child by Janet Kathleen Howard"
+    children:
+      - name: Bryant Robert Vining
+        entryId: BryantR01
+        entryLetter: B
+        birth:
+          date: 16 May 1982
+        marriages:
+          - date: 31 May 2014
+            place: "Bakersfield, California"
+            spouse: Ashley Jean Rhoades
+raw: |-
+  <a name="RobertLM01"></a><font size=+2>Robert Lloyd McKinney Vining</font>
+     (son of <a href="Wfamilies.htm#WarrenCJr01">Warren Clifford Vining Jr. and Elizabeth Ruth Gustafson</a>)
+     b. 20 August 1952   Gustine, California
+     m. (1) 6 August 1977
+                 Janet Kathleen Howard
+                 divorced
+           (2) 18 November 1989
+                 Sheri L. Connelly
+  
+  <font size=+1>child by Janet Kathleen Howard:</font>
+     <a href=Bfamilies.htm#BryantR01">Bryant Robert Vining</a>   b. 16 May 1982   -   m. 31 May 2014   Bakersfield, California   Ashley Jean Rhoades

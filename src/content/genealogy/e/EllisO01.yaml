@@ -1,0 +1,56 @@
+id: EllisO01
+sequence: 84
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: Lafayette01
+parentLetter: L
+parentDesc: Lafayette Vining and Phebe Rinehart
+head:
+  givenName: Ellis O.
+  birth:
+    date: age 2 y. as of 1860 census
+    place: Ohio
+  death:
+    date: 12 January 1897
+    place: "Bennington Township, Ohio"
+  burial:
+    place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+marriages:
+  - date: 4 September 1884
+    place: "Morrow County, Ohio"
+    spouse:
+      givenName: Lillie
+      surname: Morton
+      parents: "(dau. of [&#8230;]) Morton and Laura [&#8230;])"
+      birth:
+        date: April 1861
+      death:
+        date: "1936"
+      burial:
+        place: "Fargo Methodist Episcopal Cemetery   Marengo, Ohio"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Alice Vining
+        birth:
+          date: 18 September 1886
+          place: "Pagetown, Ohio"
+docsUrl: Esources/EllisO01doc.htm
+raw: |-
+  <a name="EllisO01"></a><font size=+2>Ellis O. Vining</font>
+     (son of <a href="Lfamilies.htm#Lafayette01">Lafayette Vining and Phebe Rinehart</a>)
+     b. age 2 y. as of 1860 census   Ohio
+     m. 4 September 1884   Morrow County, Ohio
+           Lillie Morton
+                 (dau. of [&#8230;]) Morton and Laura [&#8230;])
+                 b. April 1861
+                 d. 1936
+                       bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+     d. 12 January 1897   Bennington Township, Ohio
+           bur. Fargo Methodist Episcopal Cemetery   Marengo, Ohio
+  
+  <font size=+1>child:</font>
+     Alice Vining   b. 18 September 1886   Pagetown, Ohio
+  
+  <a href="Esources/EllisO01doc.htm">documentation and notes</a>

@@ -1,0 +1,83 @@
+id: DonaldR02
+sequence: 85
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: FranklinE02
+parentLetter: F
+parentDesc: Franklin Erwin Vining and Gladys Opal Carter
+head:
+  givenName: Donald R.
+  birth:
+    date: 30 September 1936
+    place: "Thayer, Kansas"
+  death:
+    date: 2 July 2009
+    place: "Chanute, Kansas"
+  burial:
+    place: "Harrison Cemetery   Thayer, Kansas"
+marriages:
+  - date: 26 November 1960
+    place: "Las Vegal, Nevada"
+    spouse:
+      givenName: Patricia E.
+      surname: Roney
+      birth:
+        date: 8 March 1942
+        place: "Los Angeles, California"
+      death:
+        date: 22 September 2016
+        place: "Thayer, Kansas"
+      burial:
+        place: "Harrison Cemetery   Thayer, Kansas"
+childrenGroups:
+  - children:
+      - name: Kelli Jean Vining
+        birth:
+          date: 7 October 1966
+          place: "Long Beach, California"
+        marriages:
+          - date: Eric Hohler;
+            spouse: divorced
+        death:
+          date: 13 November 2010
+          place: "Parsons, Kansas"
+        burial:
+          place: "Harrison Cemetery   Wilson County, Kansas"
+      - name: Anthony J. Vining
+        marriages:
+          - spouse: "Tammy [&#8230;]"
+      - name: Donald F. Vining
+        marriages:
+          - spouse: "Mindy [&#8230;]"
+      - name: William M. Vining
+        marriages:
+          - spouse: "Amy [&#8230;]"
+      - name: Bettina J. Vining
+        marriages:
+          - spouse: Stan Wheeler
+      - name: Brenda J. Vining
+        marriages:
+          - spouse: Kevin Cox
+docsUrl: Dsources/DonaldR02doc.htm
+raw: |-
+  <a name="DonaldR02"></a><font size=+2>Donald R. Vining</font>
+     (son of <a href="Ffamilies.htm#FranklinE02">Franklin Erwin Vining and Gladys Opal Carter</a>)
+     b. 30 September 1936   Thayer, Kansas
+     m. 26 November 1960   Las Vegal, Nevada
+           Patricia E. Roney
+                 b. 8 March 1942   Los Angeles, California
+                 d. 22 September 2016   Thayer, Kansas
+                       bur. Harrison Cemetery   Thayer, Kansas
+     d. 2 July 2009   Chanute, Kansas
+           bur. Harrison Cemetery   Thayer, Kansas
+  
+  <font size=+1>children:</font>
+     Kelli Jean Vining   b. 7 October 1966   Long Beach, California   -   m. Eric Hohler;   divorced   -   d. 13 November 2010   Parsons, Kansas   -   bur. Harrison Cemetery   Wilson County, Kansas
+     Anthony J. Vining   m. Tammy [&#8230;]
+     Donald F. Vining   m. Mindy [&#8230;]
+     William M. Vining   m. Amy [&#8230;]
+     Bettina J. Vining   m. Stan Wheeler
+     Brenda J. Vining   m. Kevin Cox
+  
+  <a href="Dsources/DonaldR02doc.htm">documentation and notes</a>

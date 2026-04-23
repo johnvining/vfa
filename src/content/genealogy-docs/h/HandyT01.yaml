@@ -1,0 +1,31 @@
+id: HandyT01
+title: Handy Thomas Vining - Charlie May […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Handy Thomas Vining
+          values:
+            - "24"
+        - label: Mary Dolly ([…]) Vining
+          values:
+            - "31"
+        - label: Tracy Vining
+          values:
+            - ""
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - ""
+          indent: true
+        - label: Tasha Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Millegeville, Baldwin County, Georgia.
+        images:
+          - src: HandyT01census1940.jpg

@@ -1,0 +1,77 @@
+id: Joseph05
+sequence: 293
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Joseph
+  birth:
+    date: age 60 y. at death
+  death:
+    date: 16 February 1856
+  burial:
+    place: "Maplewood Cemetery   Rockland, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Hannah
+      surname: Gardner
+      parents: "(dau. of Caleb Gardner and Alethea Cha[i?]rd)"
+      birth:
+        date: 25 May 1785
+        place: "Abington, Massachusetts"
+      death:
+        date: 15 December 1877
+        place: "Hanover, Massachusetts"
+      burial:
+        place: "Maplewood Cemetery   Rockland, Massachusetts"
+childrenGroups:
+  - children:
+      - name: William Henry Harrison Vining
+        entryId: WilliamHH01
+        entryLetter: W
+        birth:
+          date: 24 May 1840
+          place: "Hanover, Plymouth County, Massachusetts"
+        marriages:
+          - date: Mary Elizabeth Beal
+        death:
+          date: 31 January 1889
+          place: "Rockland, Plymouth County, Massachusetts"
+        burial:
+          place: "Maplewood Cemetery   Rockland, Plymouth County, Massachusetts"
+      - name: Joseph Vining
+        birth:
+          date: "1828"
+        death:
+          date: 17 November 1910
+        burial:
+          place: "Maplewood Cemetery   Rockland, Massachusetts"
+      - name: Levi Lincoln Vining
+        birth:
+          date: "1832"
+        marriages:
+          - date: "Mary [&#8230;]"
+        death:
+          date: 13 December 1901
+        burial:
+          place: "Maplewood Cemetery   Rockland, Massachusetts"
+docsUrl: Jsources/Joseph05doc.htm
+raw: |-
+  <a name="Joseph05"></a><font size=+2>Joseph Vining</font>
+     (son of [?])
+     b. age 60 y. at death
+     m. Hannah Gardner
+              (dau. of Caleb Gardner and Alethea Cha[i?]rd)
+              b. 25 May 1785   Abington, Massachusetts
+              d. 15 December 1877   Hanover, Massachusetts
+                    bur. Maplewood Cemetery   Rockland, Massachusetts
+     d. 16 February 1856
+           bur. Maplewood Cemetery   Rockland, Massachusetts
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamHH01">William Henry Harrison Vining</a>   b. 24 May 1840   Hanover, Plymouth County, Massachusetts   -   m. Mary Elizabeth Beal   -   d. 31 January 1889   Rockland, Plymouth County, Massachusetts   -   bur. Maplewood Cemetery   Rockland, Plymouth County, Massachusetts
+    Joseph Vining   b. 1828   -   d. 17 November 1910   -   bur. Maplewood Cemetery   Rockland, Massachusetts
+     Levi Lincoln Vining   b. 1832   -   m. Mary [&#8230;]   -   d. 13 December 1901   -   bur. Maplewood Cemetery   Rockland, Massachusetts
+  
+  <a href="Jsources/Joseph05doc.htm">documentation and notes</a>

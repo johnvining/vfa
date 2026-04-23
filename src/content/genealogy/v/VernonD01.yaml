@@ -1,0 +1,58 @@
+id: VernonD01
+letter: V
+lastUpdated: 10 January 2018
+relationship: son
+parentId: Francis01
+parentLetter: F
+parentDesc: "Francis &#8220;Frank&#8221; Vining and Sarah &#8220;Sadie&#8221; Hoon"
+head:
+  givenName: Vernon D.
+  birth:
+    date: 7 November 1903
+    place: "Kalida, Ohio"
+  death:
+    date: 14 May 1961
+    place: "Munising, Michigan"
+  burial:
+    place: "Maple Grove Cemetery   Munising, Alger County, Michigan"
+marriages:
+  - spouse:
+      givenName: Elinor Van
+      surname: Alla
+      birth:
+        date: "1904"
+        place: Michigan
+      death:
+        date: "[?]"
+      burial:
+        place: "Maple Grove Cemetery   Munising, Alger County, Michigan"
+childrenGroups:
+  - children:
+      - name: Joyce Vining
+        birth:
+          date: "age 3 y., [8?] m. as of 1930 census"
+          place: Michigan
+      - name: Leslie Vining
+        birth:
+          date: 17 September 1928
+          place: Michigan
+        death:
+          date: 23 February 2005
+          place: Michigan
+docsUrl: Vsources/VernonD01doc.htm
+raw: |-
+  <a name="VernonD01"></a><font size=+2>Vernon D. Vining</font>
+     (son of <a href="Ffamilies.htm#Francis01">Francis &#8220;Frank&#8221; Vining and Sarah &#8220;Sadie&#8221; Hoon</a>)
+     b. 7 November 1903   Kalida, Ohio
+     m. Elinor Van Alla
+              b. 1904   Michigan
+              d. [?]
+                    bur. Maple Grove Cemetery   Munising, Alger County, Michigan
+     d. 14 May 1961   Munising, Michigan
+           bur. Maple Grove Cemetery   Munising, Alger County, Michigan
+
+  <font size=+1>children:</font>
+     Joyce Vining   b. age 3 y., [8?] m. as of 1930 census   Michigan
+     Leslie Vining   b. 17 September 1928   Michigan   -   d. 23 February 2005   Michigan
+
+  <a href="Vsources/VernonD01doc.htm">documentation and notes</a>

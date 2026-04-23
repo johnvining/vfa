@@ -1,0 +1,70 @@
+id: RalphW01
+title: Ralph Warren Vining - Elizabeth Varner (nee Brown)
+displayTitle: Ralph Warren Vining - Elizabeth Varner (née Brown)
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Ralph Warren Vining
+          values:
+            - "29"
+            - "38"
+            - "49"
+            - "58"
+        - label: Elizabeth (Brown) (Varner) Vining
+          values:
+            - "31"
+            - "41"
+            - "51"
+            - "61"
+        - label: Ray W. Vining
+          values:
+            - ""
+            - "6"
+            - "16"
+            - "26"
+          indent: true
+        - label: Wilma Ruth Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - married and living in separate household
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Guilford Township, Wilson County, Kansas - dwelling 92, family 92. In 1910, Nellie A. Vining, a younger sister
+          of Ralph Warren Vining, was listed in this household (see image below) as well as in the household of her
+          parents (Fall River Township, Wilson County, Kansas). Also living in this household in 1910 was Henry Varner
+          (12 y., b. West Virginia), son of Elizabeth (Brown) (Varner) Vining by her first marriage.
+        images:
+          - src: RalphW01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Guilford Township, Wilson County, Kansas - dwelling 62, family 62. Also living in this household in 1920 was
+          Henry Varner (21 y., b. West Virginia), son of Elizabeth (Brown) (Varner) Vining by her first marriage.
+        images:
+          - src: RalphW01census1920.jpg
+      - year: "1930"
+        caption: Guilford Township, Wilson County, Kansas - dwelling 82, family 86
+        images:
+          - src: RalphW01census1930.jpg
+      - year: "1940"
+        caption: >-
+          Guilford, Wilson County, Kansas. Also living in this household in 1940 were Frances Vining (wife of Ray W.
+          Vining; 24 y., b. Kansas) and Donna Vining (daughter of Ray W. and Frances, 6 y., b. Kansas).
+        images:
+          - src: RalphW01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Ralph Warren Vining and Elizabeth B. (Brown) (Varner) Vining, in High Prairie Cemetery, Altoona,
+          Wilson County, Kansas (from Find A Grave):
+        images:
+          - src: RalphW01andwifeheadstone.jpg

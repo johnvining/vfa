@@ -1,0 +1,101 @@
+id: RoscoeD01
+sequence: 150
+letter: R
+lastUpdated: 15 January 2024
+migrationNote: "Original HTML had malformed anchor tag: <a name=\"RoscoeD01\"</a> (missing closing >)."
+relationship: son
+parentId: EdwardP01
+parentLetter: E
+parentDesc: Edward Payson Vining and Esther May Burbank
+head:
+  givenName: Roscoe Dyar
+  birth:
+    date: 12 January 1886
+    place: "Weld, Franklin County, Maine"
+  death:
+    date: 27 May 1954
+  burial:
+    place: "Village Cemetery   Strong, Franklin County, Maine"
+marriages:
+  - number: 1
+    date: 16 May 1908
+    place: "Freeman, Franklin County, Maine"
+    spouse:
+      givenName: Addie Ora
+      surname: Blackwell
+      parents: "(dau. of Carroll N. Blackwell and Emma M. Childs)"
+      birth:
+        date: 25 December 1884
+        place: "Salem, Franklin County, Maine"
+      death:
+        date: 18 July 1939
+        place: "Kingfield, Frankli County, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Franklin County, Maine"
+  - number: 2
+    date: 31 December 1940
+    place: "Kingfield, Franklin County, Maine"
+    spouse:
+      givenName: Clarissa Hester
+      surname: Ellsworth
+      parents: "(dau. of John Albert Ellsworth and Mary Ella Wilder)"
+      birth:
+        date: "1893"
+      death:
+        date: 10 August 1960
+        place: "Farmington, Franklin County, Maine"
+      burial:
+        place: "Village Cemetery   Strong, Franklin County, Maine"
+childrenGroups:
+  - spouseRef: Addie Ora Blackwell
+    children:
+      - name: Mabel Agnes Vining
+        birth:
+          date: 10 April 1909
+          place: "Freeman, Franklin County, Maine"
+        marriages:
+          - date: 12 August 1937
+            spouse: Francis Hamlin
+        death:
+          date: "1996"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+      - name: Marion Emma Vining
+        birth:
+          date: 26 December 1917
+          place: "Freeman, Franklin County, Maine"
+        marriages:
+          - date: 28 September 1940
+            spouse: Herbert Hall
+      - name: son
+        birth:
+          date: stillborn 2 June 1928
+          place: "Freeman, Franklin County, Maine"
+        burial:
+          place: "Village Cemetery   Strong, Franklin County, Maine"
+docsUrl: Rsources/RoscoeD01doc.htm
+raw: |-
+  <a name="RoscoeD01"</a><font size=+2>Roscoe Dyar Vining</font>
+     (son of <a href="Efamilies.htm#EdwardP01">Edward Payson Vining and Esther May Burbank</a>)
+     b. 12 January 1886   Weld, Franklin County, Maine
+     m. (1) 16 May 1908   Freeman, Franklin County, Maine
+                 Addie Ora Blackwell
+                       (dau. of Carroll N. Blackwell and Emma M. Childs)
+                       b. 25 December 1884   Salem, Franklin County, Maine
+                       d. 18 July 1939   Kingfield, Frankli County, Maine
+                             bur. Village Cemetery   Strong, Franklin County, Maine
+           (2) 31 December 1940   Kingfield, Franklin County, Maine
+                 Clarissa Hester Ellsworth
+                       (dau. of John Albert Ellsworth and Mary Ella Wilder)
+                       b. 1893
+                       d. 10 August 1960   Farmington, Franklin County, Maine
+                             bur. Village Cemetery   Strong, Franklin County, Maine
+     d. 27 May 1954
+           bur. Village Cemetery   Strong, Franklin County, Maine
+
+  <font size=+1>children by Addie Ora Blackwell:</font>
+     Mabel Agnes Vining   b. 10 April 1909   Freeman, Franklin County, Maine   -   m. 12 August 1937   Francis Hamlin   -   d. 1996   -   bur. Village Cemetery   Strong, Franklin County, Maine
+     Marion Emma Vining   b. 26 December 1917   Freeman, Franklin County, Maine   -   m. 28 September 1940   Herbert Hall
+     son   stillborn 2 June 1928   Freeman, Franklin County, Maine   -   bur. Village Cemetery   Strong, Franklin County, Maine
+
+  <a href="Rsources/RoscoeD01doc.htm">documentation and notes</a>

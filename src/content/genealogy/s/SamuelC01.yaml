@@ -1,0 +1,56 @@
+id: SamuelC01
+sequence: 15
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Samuel04
+parentDesc: Samuel Vining and Rhoda Pettibone
+head:
+  givenName: Samuel C.
+  birth:
+    date: ca. 1797
+  death:
+    date: "18 May 1875[?]"
+marriages:
+  - date: "1823"
+    spouse:
+      givenName: Lydia
+      surname: Bartlett
+      parents: "(dau. of Noah Bartlett and Lydia [...])"
+      birth:
+        date: "1805"
+childrenGroups:
+  - children:
+      - name: Homer C. Vining
+        entryId: HomerC01
+        entryLetter: H
+        birth:
+          date: 20 October 1826
+          place: "Southwick, Hampden County, Massachusetts"
+        marriages:
+          - date: 10 March 1852
+            spouse: Sarah Fowler
+        death:
+          date: 27 April 1896
+          place: "Southwick, Hampden County, Massachusetts"
+      - name: Truman Vining
+      - name: Hiram Vining
+      - name: Pamelia Vining
+        marriages:
+          - date: 18 April 1848
+            spouse: Samuel E. Ensign
+raw: |-
+  <a name="SamuelC01"></a><font size=+2>Samuel C. Vining</font>
+     (son of <a href="#Samuel04">Samuel Vining and Rhoda Pettibone</a>)
+     b. ca. 1797
+     m. 1823
+           Lydia Bartlett
+                 (dau. of Noah Bartlett and Lydia [...])
+                 b. 1805
+     d. 18 May 1875[?]
+  
+  <font size=+1>children:</font>
+     <a href="Hfamilies.htm#HomerC01">Homer C. Vining</a>   b. 20 October 1826   Southwick, Hampden County, Massachusetts   -   m. 10 March 1852   Sarah Fowler   -   d. 27 April 1896   Southwick, Hampden County, Massachusetts
+     Truman Vining
+     Hiram Vining
+     Pamelia Vining   m. 18 April 1848   Samuel E. Ensign

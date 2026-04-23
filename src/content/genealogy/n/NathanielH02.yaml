@@ -1,0 +1,82 @@
+id: NathanielH02
+letter: N
+lastUpdated: 3 February 2021
+relationship: son
+parentId: FrankN01
+parentLetter: F
+parentDesc: "Frank Newell Vining and Clara Belle &#8220;Carrie&#8221; Hanson"
+head:
+  givenName: Nathaniel Hanson
+  birth:
+    date: 2 March 1909
+    place: Maine
+  death:
+    date: 16 June 1971
+    place: "Pittsfield, Maine"
+marriages:
+  - date: 27 December 1930
+    place: "Pittsfield, Maine"
+    spouse:
+      givenName: Elsie
+      surname: Baird
+      parents: "(dau. of Harold Baird and Etta Bennett)"
+      birth:
+        date: age 15 y. at marriage
+        place: "St. Albans, Maine"
+    note: "divorced (she m. (2) [&#8230;] Kinney)"
+childrenGroups:
+  - children:
+      - name: Anna Patricia Vining
+        birth:
+          date: 16 June 1931
+          place: "Hartland, Maine"
+        marriages:
+          - date: Clayton G. Merrill
+      - name: Jacqueline M. Vining
+        birth:
+          date: 10 March 1934
+          place: "St. Albans, Maine"
+        marriages:
+          - number: 1
+            date: 14 March 1954
+            spouse: Raymond Morrison
+          - number: 2
+            date: Paul J. McCourtney
+      - name: Helen N. Vining
+        birth:
+          date: 4 May 1935
+          place: St. Albans
+        marriages:
+          - date: 7 June 1953
+            spouse: Lawrence G. Springer
+      - name: Clifford Harold Vining
+        entryId: CliffordH01
+        entryLetter: C
+        birth:
+          date: 11 December 1936
+          place: "St. Albans, Maine"
+        marriages:
+          - date: 5 January 1957
+            spouse: Thelma June Sennett
+        death:
+          date: 4 February 2018
+          place: "Fort Myers, Florida"
+docsUrl: Nsources/NathanielH02doc.htm
+raw: |-
+  <a name="NathanielH02"></a><font size=+2>Nathaniel Hanson Vining</font>
+     (son of <a href="Ffamilies.htm#FrankN01">Frank Newell Vining and Clara Belle &#8220;Carrie&#8221; Hanson</a>)
+     b. 2 March 1909   Maine
+     m. 27 December 1930   Pittsfield, Maine
+           Elsie Baird
+                 (dau. of Harold Baird and Etta Bennett)
+                 b. age 15 y. at marriage   St. Albans, Maine
+           divorced (she m. (2) [&#8230;] Kinney)
+     d. 16 June 1971   Pittsfield, Maine
+  
+  <font size=+1>children:</font>
+     Anna Patricia Vining   b. 16 June 1931   Hartland, Maine   -   m. Clayton G. Merrill
+     Jacqueline M. Vining   b. 10 March 1934   St. Albans, Maine   -   m. (1) 14 March 1954   Raymond Morrison;   (2) Paul J. McCourtney
+     Helen N. Vining   b. 4 May 1935   St. Albans   -   m. 7 June 1953   Lawrence G. Springer
+     <a href="Cfamilies.htm#CliffordH01">Clifford Harold Vining</a>   b. 11 December 1936   St. Albans, Maine   -   m. 5 January 1957   Thelma June Sennett   -   d. 4 February 2018   Fort Myers, Florida
+  
+  <a href="Nsources/NathanielH02doc.htm">documentation and notes</a>

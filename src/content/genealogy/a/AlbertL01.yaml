@@ -1,0 +1,58 @@
+id: AlbertL01
+letter: A
+sequence: 31
+lastUpdated: 1 February 2021
+relationship: son
+parentId: WilliamH06
+parentLetter: W
+parentDesc: William Henry Vining and Orpha Hart
+head:
+  givenName: Albert Lathan
+  birth:
+    date: 2 December 1832
+    place: "Burnham, Connecticut"
+  death:
+    date: "[25 December 1895"
+    place: "Hamden, New Haven County, Connecticut ?]"
+marriages:
+  - date: 6 June 1858
+    place: "Avon, Hartford County, Connecticut"
+    spouse:
+      givenName: Julia E.
+      surname: Hough
+      birth:
+        date: age 32 y. as of 1870 census
+        place: New York
+childrenGroups:
+  - children:
+      - name: Addie J. Vining
+        birth:
+          date: age 10 y. as of 1870 census
+          place: Connecticut
+        death:
+          date: 19 May 1934
+        burial:
+          place: "Whitneyville Cemetery   Hamden, New Haven County, Connecticut"
+      - name: Frank Albert Vining
+        entryId: FrankA03
+        entryLetter: F
+        birth:
+          date: October 1864
+          place: Massachusetts
+        marriages:
+          - date: "1888"
+            spouse: "Jane Eliza &#8220;Jennie&#8221; Hopcroft"
+        death:
+          date: 25 July 1931
+raw: |-
+  <a name="AlbertL01"></a><font size="+2">Albert Lathan Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamH06">William Henry Vining and Orpha Hart</a>)
+     b. 2 December 1832   Burnham, Connecticut
+     m. 6 June 1858   Avon, Hartford County, Connecticut
+           Julia E. Hough
+                 b. age 32 y. as of 1870 census   New York
+     d. [25 December 1895   Hamden, New Haven County, Connecticut ?]
+  
+  <font size="+1">children:</font>
+     Addie J. Vining   b. age 10 y. as of 1870 census   Connecticut   -   d. 19 May 1934   -   bur. Whitneyville Cemetery   Hamden, New Haven County, Connecticut
+     <a href="Ffamilies.htm#FrankA03">Frank Albert Vining</a>   b. October 1864   Massachusetts   -   m. 1888   Jane Eliza &#8220;Jennie&#8221; Hopcroft   -   d. 25 July 1931

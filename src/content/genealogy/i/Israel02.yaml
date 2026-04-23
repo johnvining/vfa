@@ -1,0 +1,95 @@
+id: Israel02
+letter: I
+lastUpdated: 9 March 2021
+relationship: son
+parentId: Josiah02
+parentLetter: J
+parentDesc: Josiah Vining and Esther Clough
+head:
+  givenName: Israel
+  birth:
+    date: 11 March 1808
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 20 June 1860
+marriages:
+  - number: 1
+    date: Rebecca Norton
+  - number: 2
+    date: 19 November 1837
+    spouse:
+      givenName: "Joan[n?] (Bigelow)"
+      surname: Haws
+      birth:
+        date: age 41 as of 1850 census
+        place: "[Bloomfield?], Somerset County, Maine"
+childrenGroups:
+  - spouseRef: Joan (Bigelow) Haws
+    children:
+      - name: Nathaniel Haws Vining
+        entryId: NathanielH01
+        entryLetter: N
+        birth:
+          date: 13 July 1839
+        marriages:
+          - date: 23 September 1864
+            spouse: Lucinda Ann Stone
+        death:
+          date: 4 March 1899
+          place: "St. Albans, Somerset County, Maine"
+        burial:
+          place: "St. Albans, Somerset County, Maine"
+      - name: James Seldon Vining
+        birth:
+          date: 17 September 1843
+        death:
+          date: "1846?"
+      - name: Henry Clay Vining
+        birth:
+          date: 23 February 1846
+        marriages:
+          - date: "Fairfield, Somerset County, Maine"
+            spouse: Villa A. Amos
+      - name: George Washington Vining
+        entryId: GeorgeW03
+        entryLetter: G
+        birth:
+          date: 21 February 1848
+        marriages:
+          - date: 16 March 1878
+            spouse: Mary Edna Lucas
+        death:
+          date: 27 November 1915
+        burial:
+          place: "Evergreen Washelli Memorial Park   Seattle, King County, Washington"
+      - name: Josiah Bigelow Vining
+      - name: Joshua Cushman Vining
+        entryId: JoshuaC01
+        entryLetter: J
+        birth:
+          date: March 1850
+          place: Maine
+        marriages:
+          - date: "Ella E. [&#8230;]"
+        death:
+          date: between 1920 and 1930 censuses
+docsUrl: Isources/Israel02doc.htm
+raw: |-
+  <a name="Israel02"></a><font size=+2>Israel Vining</font>
+     (son of <a href="Jfamilies.htm#Josiah02">Josiah Vining and Esther Clough</a>)
+     b. 11 March 1808   Durham, Androscoggin County, Maine
+     m. (1) Rebecca Norton
+           (2) 19 November 1837
+                 Joan[n?] (Bigelow) Haws
+                       b. age 41 as of 1850 census   [Bloomfield?], Somerset County, Maine
+     d. 20 June 1860
+  
+  <font size=+1>children by Joan (Bigelow) Haws:</font>
+     <a href="Nfamilies.htm#NathanielH01">Nathaniel Haws Vining</a>   b. 13 July 1839   -   m. 23 September 1864   Lucinda Ann Stone   -   d. 4 March 1899   St. Albans, Somerset County, Maine   -   bur. St. Albans, Somerset County, Maine
+     James Seldon Vining   b. 17 September 1843   -   d. 1846?
+     Henry Clay Vining   b. 23 February 1846   -   m. Fairfield, Somerset County, Maine   Villa A. Amos
+     <a href="Gfamilies.htm#GeorgeW03">George Washington Vining</a>   b. 21 February 1848   -   m. 16 March 1878   Mary Edna Lucas   -   d. 27 November 1915   -   bur. Evergreen Washelli Memorial Park   Seattle, King County, Washington
+     Josiah Bigelow Vining
+     <a href="Jfamilies.htm#JoshuaC01">Joshua Cushman Vining</a>   b. March 1850   Maine   -   m. Ella E. [&#8230;]   -   d. between 1920 and 1930 censuses
+  
+  <a href="Isources/Israel02doc.htm">documentation and notes</a>

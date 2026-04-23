@@ -1,0 +1,95 @@
+id: James12
+title: James Vining - Ellen [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: James Vining
+          values:
+            - "?"
+            - "?"
+            - "40"
+            - "?"
+            - "?"
+        - label: Ellen ([…]) Vining
+          values:
+            - "?"
+            - "?"
+            - "38"
+            - "?"
+            - "?"
+        - label: Mary Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - "28"
+            - "?"
+          indent: true
+        - label: Joseph Vining
+          values:
+            - ""
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+        - label: Henry Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - "?"
+            - "?"
+          indent: true
+        - label: child Vining
+          values:
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: child Vining
+          values:
+            - "?"
+            - "?"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Rose Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "?"
+          indent: true
+        - label: Lillie Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jessie Vining
+          values:
+            - ""
+            - ""
+            - "2"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Precinct 14, Orange County, Florida
+        images:
+          - src: James12census1900.jpg

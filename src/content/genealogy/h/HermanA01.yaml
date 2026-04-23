@@ -1,0 +1,66 @@
+id: HermanA01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HomerT01
+parentDesc: Homer Thadd Vining and Neva Dell McGregor
+head:
+  givenName: Herman Albert
+  birth:
+    date: 11 May 1926
+    place: "Star City, Lincoln County, Mississippi"
+  death:
+    date: 20 December 1996
+    place: "Greenwood, Leflere County, Mississippi"
+  burial:
+    place: "Centerville Cemetery   Carroll County, Mississippi"
+marriages:
+  - date: 3 January 1948
+    spouse:
+      givenName: Montyza Marie
+      surname: McDaniel
+      birth:
+        date: 10 February 1934
+      death:
+        date: 25 November 2000
+      burial:
+        place: "Centerville Cemetery   Carroll County, Mississippi"
+childrenGroups:
+  - children:
+      - name: Linda Vining
+        marriages:
+          - date: "[...] Smith"
+      - name: Jo Ann Vining
+        marriages:
+          - number: 1
+            date: "[...] Weeks"
+          - number: 2
+            date: "[...] Williamson"
+      - name: June Vining
+        marriages:
+          - date: "[...] Gibson"
+      - name: Danny Vining
+      - name: Douglas Vining
+      - name: Jerry Vining
+docsUrl: Hsources/HermanA01doc.htm
+raw: |-
+  <a name="HermanA01"></a><font size=+2>Herman Albert Vining</font>
+     (son of <a href="#HomerT01">Homer Thadd Vining and Neva Dell McGregor</a>)
+     b. 11 May 1926   Star City, Lincoln County, Mississippi
+     m. 3 January 1948
+           Montyza Marie McDaniel
+                 b. 10 February 1934
+                 d. 25 November 2000
+                       bur. Centerville Cemetery   Carroll County, Mississippi
+     d. 20 December 1996   Greenwood, Leflere County, Mississippi
+           bur. Centerville Cemetery   Carroll County, Mississippi
+  
+  <font size=+1>children:</font>
+     Linda Vining   m. [...] Smith
+     Jo Ann Vining   m. (1) [...] Weeks;   (2) [...] Williamson
+     June Vining   m. [...] Gibson
+     Danny Vining
+     Douglas Vining
+     Jerry Vining
+  
+  <a href="Hsources/HermanA01doc.htm">documentation and notes</a>

@@ -1,0 +1,53 @@
+id: StanleyA01
+letter: S
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JohnF05
+parentLetter: J
+parentDesc: John Floyd Vining and Nancy Louise Royal
+head:
+  givenName: Stanley Alvis
+  birth:
+    date: 23 September 1941
+  death:
+    date: 7 June 2017
+    place: "Birmingham, Alabama"
+marriages:
+  - spouse:
+      givenName: Cheryl
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Stanley Alvis Vining Jr.
+        marriages:
+          - date: "Cindy [&#8230;]"
+      - name: James Vining
+        marriages:
+          - date: "Lisa [&#8230;]"
+      - name: Dena Vining
+        marriages:
+          - date: Dewayne Spivey
+      - name: Suzanne Vining
+      - name: Alyson Vining
+        marriages:
+          - date: James Mellon
+      - name: Angie Vining
+        marriages:
+          - date: Chuck Ellis
+docsUrl: Ssources/StanleyA01doc.htm
+raw: |-
+  <a name="StanleyA01"></a><font size=+2>Stanley Alvis Vining</font>
+     (son of <a href="Jfamilies.htm#JohnF05">John Floyd Vining and Nancy Louise Royal</a>)
+     b. 23 September 1941
+     m. Cheryl [&#8230;]
+     d. 7 June 2017   Birmingham, Alabama
+  
+  <font size=+1>children:</font>
+     Stanley Alvis Vining Jr.   m. Cindy [&#8230;]
+     James Vining   m. Lisa [&#8230;]
+     Dena Vining   m. Dewayne Spivey
+     Suzanne Vining
+     Alyson Vining   m. James Mellon
+     Angie Vining   m. Chuck Ellis
+  
+  <a href="Ssources/StanleyA01doc.htm">documentation and notes</a>

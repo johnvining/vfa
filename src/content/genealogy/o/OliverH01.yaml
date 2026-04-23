@@ -1,0 +1,41 @@
+id: OliverH01
+letter: O
+sequence: 295
+lastUpdated: 27 May 2020
+relationship: son
+parentId: Oliver03
+parentDesc: Oliver Vining and Ella Simpson
+head:
+  givenName: Oliver H.
+  birth:
+    date: 22 September 1922
+    place: "Oneonta, Otsego County, New York"
+  death:
+    date: January 1973
+    place: "Bridgeport, Connecticut"
+  burial:
+    place: "Mountain Grove Cemetery and Mausoleum   Bridgeport, Connecticut"
+marriages:
+  - spouse:
+      givenName: Emma
+      surname: Jones
+childrenGroups:
+  - children:
+      - name: Oliver Vining
+      - name: Rodney Vining
+      - name: Sandra Vining
+docsUrl: Osources/OliverH01doc.htm
+raw: |-
+  <a name="OliverH01"></a><font size=+2>Oliver H. Vining</font>
+     (son of <a href="#Oliver03">Oliver Vining and Ella Simpson</a>)
+     b. 22 September 1922   Oneonta, Otsego County, New York
+     m. Emma Jones
+     d. January 1973   Bridgeport, Connecticut
+           bur. Mountain Grove Cemetery and Mausoleum   Bridgeport, Connecticut
+  
+  <font size=+1>children:</font>
+     Oliver Vining
+     Rodney Vining
+     Sandra Vining
+  
+  <a href="Osources/OliverH01doc.htm">documentation and notes</a>

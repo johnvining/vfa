@@ -1,0 +1,45 @@
+id: AsaL01
+title: Asa L. Vining - Emma D. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Asa L. Vining
+          values:
+            - "?"
+            - "?"
+            - "47"
+            - "?"
+            - "?"
+            - "?"
+        - label: Emma D. ([...]) Vining
+          values:
+            - "?"
+            - "?"
+            - "44"
+            - "?"
+            - "?"
+            - "?"
+        - label: Clarence I. Vining
+          values:
+            - ""
+            - "?"
+            - "19"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1890"
+        caption: Census data are unavailable.
+      - year: "1900"
+        caption: Norwell, Plymouth County, Massachusetts - dwelling 230, family 235
+        images:
+          - src: AsaL01census1900.jpg

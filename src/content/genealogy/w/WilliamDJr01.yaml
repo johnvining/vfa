@@ -1,0 +1,48 @@
+id: WilliamDJr01
+sequence: 83
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: WilliamD04
+parentDesc: William David Vining and Minnie Belle Fuller
+head:
+  givenName: William David Jr.
+  birth:
+    date: 23 December 1921
+    place: "Vardaman, Calhoun County, Mississippi"
+  death:
+    date: 22 October 2002
+    place: "Helena, Phillips County, Arkansas"
+  burial:
+    place: "Sunset Memorial Park   Walnut Corner, Arkansas"
+marriages:
+  - spouse:
+      givenName: Helen
+      surname: Brown
+      parents: "(dau. of Whit Brown and Gertrude Hartsfield)"
+      birth:
+        date: 7 November 1928
+      death:
+        date: 4 January 2014
+        place: "Athens, Alabama"
+      burial:
+        place: "Sunset Memorial Park   Walnut Corner, Arkansas"
+childrenGroups:
+  - children:
+      - name: William Vining
+      - name: Phyllis Vining
+raw: |-
+  <a name="WilliamDJr01"></a><font size=+2>William David Vining Jr.</font>
+     (son of <a href="#WilliamD04">William David Vining and Minnie Belle Fuller</a>)
+     b. 23 December 1921   Vardaman, Calhoun County, Mississippi
+     m. Helen Brown
+              (dau. of Whit Brown and Gertrude Hartsfield)
+              b. 7 November 1928
+              d. 4 January 2014   Athens, Alabama
+                    bur. Sunset Memorial Park   Walnut Corner, Arkansas
+     d. 22 October 2002   Helena, Phillips County, Arkansas
+           bur. Sunset Memorial Park   Walnut Corner, Arkansas
+  
+  <font size=+1>children:</font>
+     William Vining
+     Phyllis Vining

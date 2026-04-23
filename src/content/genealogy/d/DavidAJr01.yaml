@@ -1,0 +1,38 @@
+id: DavidAJr01
+sequence: 38
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: DavidA01
+parentDesc: David Allen Vining and Beverly Hansen
+head:
+  givenName: David Allen Jr.
+  birth:
+    date: 4 April 1952
+    place: "Anchorage, Alaska"
+marriages:
+  - spouse:
+      givenName: Patricia Ann
+      surname: Amburgey
+      birth:
+        date: 15 March 1953
+childrenGroups:
+  - children:
+      - name: Matthew Vining
+        birth:
+          date: 13 March 1984
+          place: "Tacoma, Washington"
+      - name: Chris Vining
+        birth:
+          date: 20 March 1987
+          place: "Tacoma, Washington"
+raw: |-
+  <a name="DavidAJr01"></a><font size=+2>David Allen Vining Jr.</font>
+     (son of <a href="#DavidA01">David Allen Vining and Beverly Hansen</a>)
+     b. 4 April 1952   Anchorage, Alaska
+     m. Patricia Ann Amburgey
+              b. 15 March 1953
+  
+  <font size=+1>children:</font>
+     Matthew Vining   b. 13 March 1984   Tacoma, Washington
+     Chris Vining   b. 20 March 1987   Tacoma, Washington

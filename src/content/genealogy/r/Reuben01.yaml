@@ -1,0 +1,114 @@
+id: Reuben01
+sequence: 30
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: John05
+parentLetter: J
+parentDesc: John Vining and Mary Goodwin
+head:
+  givenName: Reuben
+  birth:
+    date: 20 July 1799
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 6 August 1857
+    place: "Durham, Androscoggin County, Maine"
+  burial:
+    place: "Vining Cemetery   Durham, Androscoggin County, Maine"
+marriages:
+  - spouse:
+      givenName: "Mercy Lunt (of Brunswick, Cumberland County,"
+      surname: Maine)
+      parents: "(dau. of Josiah Lunt and Mary Cole)"
+      birth:
+        date: 30 January 1811
+        place: "Brunswick, Cumberland County, Maine"
+      death:
+        date: 20 April 1898
+        place: "Durham, Androscoggin County, Maine"
+      burial:
+        place: "Vining Cemetery   Durham, Androscoggin County, Maine"
+childrenGroups:
+  - children:
+      - name: Martha R. Vining
+        birth:
+          date: 3 December 1837
+          place: "Durham, Androscoggin County, Maine"
+        death:
+          date: 18 September 1905
+          place: "Durham, Androscoggin County, Maine"
+        burial:
+          place: "Vining Cemetery   Durham, Androscoggin County, Maine"
+      - name: John A. Vining
+        entryId: JohnA01
+        entryLetter: J
+        birth:
+          date: 21 September 1839
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: 8 June 1869
+            place: Letitia McMullen (of New York)
+        death:
+          date: 20 October 1869
+          place: "Walpole, Norfolk County, Massachusetts"
+        burial:
+          place: "Vining Cemetery   Durham, Androscoggin County, Maine"
+      - name: Josiah L. Vining
+        birth:
+          date: 23 September 1842
+          place: "Durham, Androscoggin County, Maine"
+        death:
+          date: 9 May 1915
+          place: "Durham, Androscoggin County, Maine"
+        burial:
+          place: "Vining Cemetery   Durham, Androscoggin County, Maine"
+      - name: George H. Vining
+        birth:
+          date: 13 August 1846
+          place: "Durham, Androscoggin County, Maine"
+        death:
+          date: 1 January 1895
+          place: "Durham, Androscoggin County, Maine"
+        burial:
+          place: "Vining Cemetery   Durham, Androscoggin County, Maine"
+      - name: Edwin R. Vining
+        entryId: EdwinR01
+        entryLetter: E
+        birth:
+          date: 22 February 1850
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - number: 1
+            date: 1 January 1873
+            place: "Bangor, Penobscot County, Maine"
+            spouse: Ada L. Morse
+          - number: 2
+            date: 7 November 1907
+            spouse: Mrs. Flora Hutchinson (her 3rd marriage)
+        death:
+          date: 17 May 1929
+          place: "Auburn, Androscoggin County, Maine"
+        burial:
+          place: "Mount Auburn Cemetery   Auburn, Androscoggin County, Maine"
+docsUrl: Rsources/Reuben01doc.htm
+raw: |-
+  <a name="Reuben01"></a><font size=+2>Reuben Vining</font>
+     (son of <a href="Jfamilies.htm#John05">John Vining and Mary Goodwin</a>)
+     b. 20 July 1799   Durham, Androscoggin County, Maine
+     m. Mercy Lunt (of Brunswick, Cumberland County, Maine)
+              (dau. of Josiah Lunt and Mary Cole)
+              b. 30 January 1811   Brunswick, Cumberland County, Maine
+              d. 20 April 1898   Durham, Androscoggin County, Maine
+                    bur. Vining Cemetery   Durham, Androscoggin County, Maine
+     d. 6 August 1857   Durham, Androscoggin County, Maine
+           bur. Vining Cemetery   Durham, Androscoggin County, Maine
+  
+  <font size=+1>children:</font>
+     Martha R. Vining   b. 3 December 1837   Durham, Androscoggin County, Maine   -   d. 18 September 1905   Durham, Androscoggin County, Maine   -   bur. Vining Cemetery   Durham, Androscoggin County, Maine
+     <a href="Jfamilies.htm#JohnA01">John A. Vining</a>   b. 21 September 1839   Durham, Androscoggin County, Maine   -   m. 8 June 1869   Letitia McMullen (of New York)   -   d. 20 October 1869   Walpole, Norfolk County, Massachusetts   -   bur. Vining Cemetery   Durham, Androscoggin County, Maine
+     Josiah L. Vining   b. 23 September 1842   Durham, Androscoggin County, Maine   -   d. 9 May 1915   Durham, Androscoggin County, Maine   -   bur. Vining Cemetery   Durham, Androscoggin County, Maine
+     George H. Vining   b. 13 August 1846   Durham, Androscoggin County, Maine   -   d. 1 January 1895   Durham, Androscoggin County, Maine   -   bur. Vining Cemetery   Durham, Androscoggin County, Maine
+     <a href="Efamilies.htm#EdwinR01">Edwin R. Vining</a>   b. 22 February 1850   Durham, Androscoggin County, Maine   -   m. (1) 1 January 1873   Bangor, Penobscot County, Maine   Ada L. Morse;   (2) 7 November 1907   Mrs. Flora Hutchinson (her 3rd marriage)   -   d. 17 May 1929   Auburn, Androscoggin County, Maine   -   bur. Mount Auburn Cemetery   Auburn, Androscoggin County, Maine
+  
+  <a href="Rsources/Reuben01doc.htm">documentation and notes</a>

@@ -1,0 +1,53 @@
+id: JohnC03
+sequence: 213
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: John Coates
+marriages:
+  - date: "1954"
+    spouse:
+      givenName: Kay Elizabeth
+      surname: Rasmussen
+      parents: (dau. of LeRoy Wayne Rasmussen and Nell Evelyn Woods)
+      birth:
+        date: 12 Junne 1935
+        place: "Ogden, Utah"
+      death:
+        date: 8 March 2018
+      burial:
+        place: "Ogden City Cemetery   Ogden, Utah"
+childrenGroups:
+  - children:
+      - name: John Vining
+        marriages:
+          - date: "Connie [&#8230;]"
+      - name: Linda Vining
+        marriages:
+          - date: Rick Black
+      - name: Julene Vining
+        marriages:
+          - date: Alan West
+      - name: Lisa Vining
+        marriages:
+          - date: Brian Shupe
+docsUrl: Jsources/JohnC03doc.htm
+raw: |-
+  <a name="JohnC03"></a><font size=+2>John Coates Vining</font>
+     (son of [?])
+     m. 1954
+           Kay Elizabeth Rasmussen
+                 (dau. of LeRoy Wayne Rasmussen and Nell Evelyn Woods)
+                 b. 12 Junne 1935   Ogden, Utah
+                 d. 8 March 2018
+                       bur. Ogden City Cemetery   Ogden, Utah
+  
+  <font size=+1>children:</font>
+     John Vining   m. Connie [&#8230;]
+     Linda Vining   m. Rick Black
+     Julene Vining   m. Alan West
+     Lisa Vining   m. Brian Shupe
+  
+  <a href="Jsources/JohnC03doc.htm">documentation and notes</a>

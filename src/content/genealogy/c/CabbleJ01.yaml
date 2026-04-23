@@ -1,0 +1,70 @@
+id: CabbleJ01
+letter: C
+sequence: 1
+lastUpdated: 25 February 2023
+relationship: son
+parentDesc: "[?] and Lottie [&#8230;]"
+head:
+  givenName: Cabble J.
+  birth:
+    date: "29 December 189[2 or 3]"
+    place: "Plymouth, Hancock County, Illinois"
+  death:
+    date: 9 April 1980
+    place: "[last place of residence: Monroe, Missouri]"
+  burial:
+    place: "Pleasant Hill Cemetery   Paris, Monroe County, Missouri"
+marriages:
+  - date: 23 December 1914
+    place: "Paris, Monroe County, Missouri"
+    spouse:
+      givenName: Bess Ruth
+      surname: Infield
+      parents: (dau. of Joseph William Infield and Susanna Frances White)
+      birth:
+        date: 26 January 1893
+        place: "Monroe County, Missouri"
+      death:
+        date: 21 December 1981
+        place: "Paris, Monroe County, Missouri"
+      burial:
+        place: "Pleasant Hill Cemetery   Paris, Monroe County, Missouri"
+childrenGroups:
+  - children:
+      - name: Charles Eugene Vining
+        entryId: CharlesE05
+        birth:
+          date: 11 February 1920
+          place: "Paris, Monroe, County, Missouri"
+        marriages:
+          - date: 7 August 1949
+            spouse: Alma Rose Downing
+        death:
+          date: 25 December 1990
+        burial:
+          place: "Riverview Cemetery   Hamilton, Ravalli County, Montana"
+      - name: Mildred F. Vining
+        birth:
+          date: "age 3 y., [?] m. as of 1920 census"
+          place: Missouri
+        marriages:
+          - date: Edwin Heathman
+docsUrl: Csources/CabbleJ01doc.htm
+raw: |-
+  <a name="CabbleJ01"></a><font size=+2>Cabble J. Vining</font>
+     (son of [?] and Lottie [&#8230;])
+     b. 29 December 189[2 or 3]   Plymouth, Hancock County, Illinois
+     m. 23 December 1914   Paris, Monroe County, Missouri
+           Bess Ruth Infield
+                 (dau. of Joseph William Infield and Susanna Frances White)
+                 b. 26 January 1893   Monroe County, Missouri
+                 d. 21 December 1981   Paris, Monroe County, Missouri
+                       bur. Pleasant Hill Cemetery   Paris, Monroe County, Missouri
+     d. 9 April 1980   [last place of residence: Monroe, Missouri]
+           bur. Pleasant Hill Cemetery   Paris, Monroe County, Missouri
+  
+  <font size=+1>children:</font>
+     <a href="#CharlesE05">Charles Eugene Vining</a>   b. 11 February 1920   Paris, Monroe, County, Missouri   -   m. 7 August 1949   Alma Rose Downing   -   d. 25 December 1990   -   bur. Riverview Cemetery   Hamilton, Ravalli County, Montana
+     Mildred F. Vining   b. age 3 y., [?] m. as of 1920 census   Missouri   -   m. Edwin Heathman
+  
+  <a href="Csources/CabbleJ01doc.htm">documentation and notes</a>

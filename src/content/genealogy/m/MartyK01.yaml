@@ -1,0 +1,32 @@
+id: MartyK01
+sequence: 15
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JeffersonL01
+parentLetter: J
+parentDesc: Jefferson Lee Vining and Sarah Louise Burch
+head:
+  givenName: Marty Kevin
+  birth:
+    date: 8 January 1964
+    place: "Jacksonville, Florida"
+  death:
+    date: 3 January 2018
+    place: "Brunswick, Georgia"
+childrenGroups:
+  - children:
+      - name: Dustie Vining
+      - name: Marty Kevin Vining Jr.
+docsUrl: Msources/MartyK01doc.htm
+raw: |-
+  <a name="MartyK01"></a><font size=+2>Marty Kevin Vining</font>
+     (son of <a href="Jfamilies.htm#JeffersonL01">Jefferson Lee Vining and Sarah Louise Burch</a>)
+     b. 8 January 1964   Jacksonville, Florida
+     d. 3 January 2018   Brunswick, Georgia
+  
+  <font size=+1>children:</font>
+     Dustie Vining
+     Marty Kevin Vining Jr.
+  
+  <a href="Msources/MartyK01doc.htm">documentation and notes</a>

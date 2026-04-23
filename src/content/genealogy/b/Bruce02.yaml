@@ -1,0 +1,39 @@
+id: Bruce02
+letter: B
+sequence: 63
+lastUpdated: 25 February 2023
+relationship: son
+parentId: GeorgeW07
+parentLetter: G
+parentDesc: "George Washington &#8220;Sonny&#8221; Vining and Robbie Nell Wheeles"
+head:
+  givenName: Bruce
+marriages:
+  - spouse:
+      givenName: Iris Marcia
+      surname: Taylor
+      parents: (dau. of Marshall Bruce Taylor and Wilda Alderman)
+      birth:
+        date: 3 December 1960
+        place: "Lowndes County, Georgia"
+      death:
+        date: 7 February 2015
+        place: "Adel, Cook County, Georgia"
+      burial:
+        place: "Woodlawn Memorial Gardens   Adel, Cook County, Georgia"
+childrenGroups:
+  - children:
+      - name: Carli Vining
+      - name: Caleb Vining
+raw: |-
+  <a name="Bruce02"></a><font size=+2>Bruce Vining</font>
+     (son of <a href="Gfamilies.htm#GeorgeW07">George Washington &#8220;Sonny&#8221; Vining and Robbie Nell Wheeles</a>)
+     m. Iris Marcia Taylor
+              (dau. of Marshall Bruce Taylor and Wilda Alderman)
+              b. 3 December 1960   Lowndes County, Georgia
+              d. 7 February 2015   Adel, Cook County, Georgia
+                    bur. Woodlawn Memorial Gardens   Adel, Cook County, Georgia
+  
+  <font size=+1>children:</font>
+     Carli Vining
+     Caleb Vining

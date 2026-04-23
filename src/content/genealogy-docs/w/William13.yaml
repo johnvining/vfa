@@ -1,0 +1,82 @@
+id: William13
+title: William Vining - Angeline S. Dodge
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+      rows:
+        - label: William Vining
+          values:
+            - "39"
+            - "50"
+            - "?"
+            - "?"
+            - dead
+            - ""
+        - label: Angeline S. (Dodge) Vining
+          values:
+            - "26"
+            - "37"
+            - "?"
+            - "?"
+            - |-
+              66
+              [see note below]
+            - "?"
+        - label: Daniel J. Vining
+          values:
+            - "[5?]"
+            - "15"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sarah F. Vining
+          values:
+            - "3"
+            - "10"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Nathan E. Vining
+          values:
+            - "1"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary E. Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Adams Township, Allen County, Indiana - dwelling 248, family 252
+        images:
+          - src: William13census1870.jpg
+      - year: "1880"
+        caption: Union Township, Putnam County, Ohio - dwelling 10, family 10
+        images:
+          - src: William13census1880.jpg
+      - year: "1910"
+        caption: >-
+          Jackson Township, Putnam County, Ohio - dwelling 10, family 10. In 1910, Angeline L. ([...]) Vining was living
+          in the household of son Daniel J. Vining and his family.
+        images:
+          - src: William13census1910.jpg

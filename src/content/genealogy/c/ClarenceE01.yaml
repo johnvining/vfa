@@ -1,0 +1,62 @@
+id: ClarenceE01
+letter: C
+sequence: 119
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ClarenceD02
+parentDesc: Clarence Donavon Vining and Iva Travis
+head:
+  givenName: "Clarence E. &#8220;Pete&#8221;"
+  birth:
+    date: 2 November 1935
+    place: "Decker, Michigan"
+  death:
+    date: 10 August 2007
+    place: "Saginaw, Michigan"
+marriages:
+  - number: 1
+    date: Kay Smith
+    note: divorced
+  - number: 2
+    date: 13 November 1971
+    place: "Decker, Michigan"
+    note: "Violet L. Phetteplace (ne&#233; Loutzenhiser)"
+childrenGroups:
+  - spouseRef: Kay Smith
+    headingText: children by Kay Smith
+    children:
+      - name: Matthew Vining
+        birth:
+          date: 26 February 1962
+        death:
+          date: before 10 August 2007
+      - name: Donavon N. Vining
+        entryId: DonavonN01
+        entryLetter: D
+        birth:
+          date: 17 June 1963
+        marriages:
+          - date: Lu Ann Bradley
+        death:
+          date: 26 September 2003
+          place: "(last residence: Saginaw, Michigan)"
+      - name: Linda Vining
+        birth:
+          date: 13 August 1964
+docsUrl: Csources/ClarenceE01doc.htm
+raw: |-
+  <a name="ClarenceE01"></a><font size=+2>Clarence E. &#8220;Pete&#8221; Vining</font>
+     (son of <a href="#ClarenceD02">Clarence Donavon Vining and Iva Travis</a>)
+     b. 2 November 1935   Decker, Michigan
+     m. (1) Kay Smith
+                 divorced
+           (2) 13 November 1971   Decker, Michigan
+                    Violet L. Phetteplace (ne&#233; Loutzenhiser)
+     d. 10 August 2007   Saginaw, Michigan
+  
+  <font size=+1>children by Kay Smith:</font>
+     Matthew Vining   b. 26 February 1962   -   d. before 10 August 2007
+     <a href="Dfamilies.htm#DonavonN01">Donavon N. Vining</a>   b. 17 June 1963   -   m. Lu Ann Bradley   -   d. 26 September 2003   (last residence: Saginaw, Michigan)
+     Linda Vining   b. 13 August 1964
+  
+  <a href="Csources/ClarenceE01doc.htm">documentation and notes</a>

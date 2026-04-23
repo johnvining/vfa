@@ -1,0 +1,120 @@
+id: SamuelB01
+title: Samuel B. Vining - Jane E. Smith
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Samuel B. Vining
+          values:
+            - "25"
+            - "36"
+            - "46"
+            - "56"
+            - dead
+            - ""
+        - label: Jane E. (Smith) Vining
+          values:
+            - "24"
+            - "35"
+            - "44"
+            - "56"
+            - "?"
+            - dead
+        - label: Walter Todd Vining
+          values:
+            - "3"
+            - "12"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Arthur R. Vining
+          values:
+            - "1"
+            - "10"
+            - "21"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Frank Winslow Vining
+          values:
+            - ""
+            - "8"
+            - "19"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Lucy Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: William Vining
+          values:
+            - ""
+            - "4"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: "[Emma or Emily] Vining"
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "21"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: Benjamin Vining
+          values:
+            - ""
+            - ""
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1850"
+        caption: Census District 21, Iroquois County, Illinois - dwelling 465, family [not given]
+        images:
+          - src: SamuelB01census1850.jpg
+      - year: "1860"
+        caption: Limestone, Kankakee County, Illinois - dwelling 1851, family 1756
+        images:
+          - src: SamuelB01census1860.jpg
+      - year: "1870"
+        caption: Limestone, Kankakee County, Illinois - dwelling 125, family 125
+        images:
+          - src: SamuelB01census1870.jpg
+      - year: "1880"
+        caption: >-
+          Limestone, Kankakee County, Illinois - Also living with this family in 1880 was Remus Arnold (16 y., b.
+          Illinois).
+        images:
+          - src: SamuelB01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones for Samuel B. Vining and Jane E. Smith, in Limestone Cemetery, West Kankakee, Kankakee County,
+          Illinois (from Find A Grave):
+        images:
+          - src: SamuelB01gravestone.jpg
+          - src: SamuelB01wifegravestone.jpg
+        inline: true

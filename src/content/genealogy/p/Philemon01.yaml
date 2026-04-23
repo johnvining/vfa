@@ -1,0 +1,68 @@
+id: Philemon01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: Willard02
+parentLetter: W
+parentDesc: Willard Vining and Josephine Brownell
+head:
+  givenName: Philemon
+  birth:
+    date: 16 November 1889
+    place: "Clark, South Dakota"
+  death:
+    date: 28 September 1963
+    place: "(last residence: Wisconsin)"
+  burial:
+    place: "Sunset Memorial Park   Coos Bay, Oregon"
+marriages:
+  - date: 22 August 1917
+    spouse:
+      givenName: Eva Mae
+      surname: Peterson
+      birth:
+        date: age 21 y. as of 1920 census
+        place: "[Wisconsin?]"
+childrenGroups:
+  - children:
+      - name: Dorothy Mae Vining
+        birth:
+          date: 12 November 1918
+          place: "[Wisconsin?]"
+        marriages:
+          - date: 23 June 1938
+            spouse: Duane E. Waddell
+      - name: Merwin Wilfred Vining
+        entryId: MerwinW01
+        entryLetter: M
+        birth:
+          date: 26 November 1922
+        marriages:
+          - date: 9 June 1945
+            spouse: Phyllis Baber
+      - name: Robert Andrew Vining
+        entryId: RobertA01
+        entryLetter: R
+        birth:
+          date: 18 May 1925
+        marriages:
+          - date: 21 June 1947
+            place: "Beaver Dam, Wisconsin"
+            spouse: "[Wynetta or Winnetta?] Tammings"
+docsUrl: Psources/Philemon01doc.htm
+raw: |-
+  <a name="Philemon01"></a><font size=+2>Philemon Vining</font>
+     (son of <a href="Wfamilies.htm#Willard02">Willard Vining and Josephine Brownell</a>)
+     b. 16 November 1889   Clark, South Dakota
+     m. 22 August 1917
+           Eva Mae Peterson
+                 b. age 21 y. as of 1920 census   [Wisconsin?]
+     d. 28 September 1963   (last residence: Wisconsin)
+           bur. Sunset Memorial Park   Coos Bay, Oregon
+  
+  <font size=+1>children:</font>
+     Dorothy Mae Vining   b. 12 November 1918   [Wisconsin?]   -   m. 23 June 1938   Duane E. Waddell
+     <a href="Mfamilies.htm#MerwinW01">Merwin Wilfred Vining</a>   b. 26 November 1922   -   m. 9 June 1945   Phyllis Baber
+     <a href="Rfamilies.htm#RobertA01">Robert Andrew Vining</a>   b. 18 May 1925   -   m. 21 June 1947   Beaver Dam, Wisconsin   [Wynetta or Winnetta?] Tammings
+  
+  <a href="Psources/Philemon01doc.htm">documentation and notes</a>

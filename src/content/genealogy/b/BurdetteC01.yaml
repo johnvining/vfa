@@ -1,0 +1,50 @@
+id: BurdetteC01
+letter: B
+sequence: 68
+lastUpdated: 25 February 2023
+relationship: son
+parentId: LeonardJ01
+parentLetter: L
+parentDesc: Leonard John Vining and Louise Chatfield
+head:
+  givenName: Burdette C.
+  birth:
+    date: 20 September 1935
+  death:
+    date: "1963"
+    place: "Windham, Greene County, New York"
+  burial:
+    place: "Maplecrest Cemetery   Windham, Greene County, New York"
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: Woodward
+      birth:
+        date: 19 February 1938
+childrenGroups:
+  - children:
+      - name: David Vining
+        birth:
+          date: 17 November 1956
+      - name: Melinda Vining
+        birth:
+          date: 2 April 1959
+      - name: Cynthia Vining
+        birth:
+          date: 6 June 1962
+docsUrl: Bsources/BurdetteC01doc.htm
+raw: |-
+  <a name="BurdetteC01"></a><font size=+2>Burdette C. Vining</font>
+     (son of <a href="Lfamilies.htm#LeonardJ01">Leonard John Vining and Louise Chatfield</a>)
+     b. 20 September 1935
+     m. Mary Woodward
+              b. 19 February 1938
+     d. 1963   Windham, Greene County, New York
+           bur. Maplecrest Cemetery   Windham, Greene County, New York
+  
+  <font size=+1>children:</font>
+     David Vining   b. 17 November 1956
+     Melinda Vining   b. 2 April 1959
+     Cynthia Vining   b. 6 June 1962
+  
+  <a href="Bsources/BurdetteC01doc.htm">documentation and notes</a>

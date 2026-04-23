@@ -1,0 +1,149 @@
+id: DavidC01
+sequence: 42
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ThomasB02
+parentLetter: T
+parentDesc: Thomas Berry Vining and Barbara Elizabeth Harris
+head:
+  givenName: "David Clayton &#8220;Bud&#8221;"
+  birth:
+    date: March 1862
+    place: Georgia
+  death:
+    date: 20 February 1924
+    place: Texas
+marriages:
+  - number: 1
+    date: 11 October 1885
+    place: Georgia
+    spouse:
+      givenName: "Caroline Elizabeth &#8220;Carrie&#8221;"
+      surname: Beck
+      parents: "(dau. of William James Beck and Mary Jane McEntire)"
+      birth:
+        date: 15 January 1868
+        place: Georgia
+      death:
+        date: 14 July 1952
+        place: "Tyler, Texas"
+    note: "separated 1893\ndivorced 1895   Texas"
+  - number: 2
+    date: 15 December 1895
+    place: "Cherokee County, Texas"
+    spouse:
+      givenName: Alice Isaac
+      surname: Martin
+      birth:
+        date: "1874"
+      death:
+        date: "1965"
+        place: "Tampa, Florida"
+childrenGroups:
+  - spouseRef: "Caroline Elizabeth &#8220;Carrie&#8221; Beck"
+    children:
+      - name: James Henry Vining
+        birth:
+          date: 23 July 1886
+          place: Georgia
+        death:
+          date: 7 September 1904
+          place: "Haughton, Louisiana"
+      - name: Cora Katrine Vining
+        birth:
+          date: 23 July 1888
+          place: "Eaton, Georgia"
+        marriages:
+          - date: "14 November [1916 or 1915?]"
+            place: "Mount Selman, Texas"
+            spouse: Bennett Cleveland Shattuck
+        death:
+          date: 9 April 1956
+          place: "Redlands, California"
+      - name: Rose Edna Vining
+        birth:
+          date: 17 August 1889
+          place: Texas
+        marriages:
+          - date: 14 September 1910
+            place: "Mt. Selman, Texas"
+        death:
+          date: 1 March 1960
+          place: "Jacksonville, Texas"
+      - name: "Isaac Elbridge &#8220;Ike&#8221; Vining"
+        entryId: IsaacE01
+        entryLetter: I
+        birth:
+          date: 7 August 1892
+          place: Texas
+        marriages:
+          - date: "1911"
+            spouse: Lena Jo Martin
+        death:
+          date: 13 December 1957
+          place: "Palestine, Texas"
+        burial:
+          place: "Palestine City Cemetery   Palestine, Texas"
+  - spouseRef: Alice Isaac Martin
+    children:
+      - name: Ora Wincie Vining
+        birth:
+          date: "1896"
+        death:
+          date: "1900"
+      - name: Jesse Minyard Vining
+        entryId: JesseM01
+        entryLetter: J
+        birth:
+          date: 3 May 1898
+          place: Texas
+        marriages:
+          - date: "1922"
+            spouse: Caledonia Elizabeth Wofford
+        death:
+          date: 28 November 1958
+        burial:
+          place: Larissa Cemetery   Mount Selman Texas
+      - name: Lou Myrtis Vining
+        birth:
+          date: "1905"
+        marriages:
+          - number: 1
+            date: "1931"
+            spouse: Clinton Pinckney
+          - number: 2
+            date: Dexter W. Phillips
+        death:
+          date: "1961"
+      - name: son Vining
+docsUrl: Dsources/DavidC01doc.htm
+raw: |-
+  <a name="DavidC01"></a><font size=+2>David Clayton &#8220;Bud&#8221; Vining</font>
+     (son of <a href="Tfamilies.htm#ThomasB02">Thomas Berry Vining and Barbara Elizabeth Harris</a>)
+     b. March 1862   Georgia
+     m. (1) 11 October 1885   Georgia
+                 Caroline Elizabeth &#8220;Carrie&#8221; Beck
+                       (dau. of William James Beck and Mary Jane McEntire)
+                       b. 15 January 1868   Georgia
+                       d. 14 July 1952   Tyler, Texas
+                 separated 1893
+                 divorced 1895   Texas
+           (2) 15 December 1895   Cherokee County, Texas
+                 Alice Isaac Martin
+                       b. 1874
+                       d. 1965   Tampa, Florida
+     d. 20 February 1924   Texas
+  
+  <font size=+1>children by Caroline Elizabeth &#8220;Carrie&#8221; Beck:</font>
+     James Henry Vining   b. 23 July 1886   Georgia   -   d. 7 September 1904   Haughton, Louisiana
+     Cora Katrine Vining   b. 23 July 1888   Eaton, Georgia   -   m. 14 November [1916 or 1915?]   Mount Selman, Texas   Bennett Cleveland Shattuck   -   d. 9 April 1956   Redlands, California
+     Rose Edna Vining   b. 17 August 1889   Texas   -   m. 14 September 1910   Mt. Selman, Texas   -   d. 1 March 1960   Jacksonville, Texas
+     <a href="Ifamilies.htm#IsaacE01">Isaac Elbridge &#8220;Ike&#8221; Vining</a>   b. 7 August 1892   Texas   -   m. 1911   Lena Jo Martin   -   d. 13 December 1957   Palestine, Texas   -   bur. Palestine City Cemetery   Palestine, Texas
+  <font size=+1>children by Alice Isaac Martin:</font>
+     Ora Wincie Vining   b. 1896   -   d. 1900
+     <a href="Jfamilies.htm#JesseM01">Jesse Minyard Vining</a>   b. 3 May 1898   Texas   -   m. 1922   Caledonia Elizabeth Wofford   -   d. 28 November 1958   -   bur. Larissa Cemetery   Mount Selman Texas
+     Lou Myrtis Vining   b. 1905   -   m. (1) 1931   Clinton Pinckney;   (2) Dexter W. Phillips   -   d. 1961
+     son Vining
+  
+  <a href="Dsources/DavidC01doc.htm">documentation and notes</a>

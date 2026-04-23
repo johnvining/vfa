@@ -1,0 +1,67 @@
+id: CliffordA01
+letter: C
+sequence: 137
+lastUpdated: 25 February 2023
+relationship: son
+parentId: AlbertNJr01
+parentLetter: A
+parentDesc: Albert Nelson Vining Jr. and Mary Elodia Landry
+head:
+  givenName: Clifford Albert
+  birth:
+    date: 29 July 1939
+    place: "Portland, Maine"
+marriages:
+  - number: 1
+    date: 1 October 1961
+    spouse:
+      givenName: Sally Frances
+      surname: Parker
+      parents: (dau. of Lee Parker and Barbara Flaherty)
+      birth:
+        date: "Portland, Maine"
+      death:
+        date: 18 August 1997
+        place: "Sarasota, Florida"
+      burial:
+        place: "New Calvary Cemetery   South Portland, Maine"
+  - number: 2
+    date: 28 September 2002
+    spouse:
+      givenName: Anne M.
+      surname: Dugas
+childrenGroups:
+  - spouseRef: Sally Frances Parker
+    headingText: children by Sally Frances Parker
+    children:
+      - name: Susan Diane Vining
+        birth:
+          date: 18 June 1966
+          place: "Portland, Maine"
+        marriages:
+          - date: 26 September 1993
+            spouse: Joseph Emerson Jones
+        death:
+          date: 13 September 2016
+        burial:
+          place: "Holy Cross Cemetery   Yarmouth, Maine"
+      - name: Stacie Erin Vining
+docsUrl: Csources/CliffordA01doc.htm
+raw: |-
+  <a name="CliffordA01"></a><font size=+2>Clifford Albert Vining</font>
+     (son of <a href="Afamilies.htm#AlbertNJr01">Albert Nelson Vining Jr. and Mary Elodia Landry</a>)
+     b. 29 July 1939   Portland, Maine
+     m. (1) 1 October 1961
+                 Sally Frances Parker
+                       (dau. of Lee Parker and Barbara Flaherty)
+                       b. Portland, Maine
+                       d. 18 August 1997   Sarasota, Florida
+                             bur. New Calvary Cemetery   South Portland, Maine
+           (2) 28 September 2002
+                 Anne M. Dugas
+  
+  <font size=+1>children by Sally Frances Parker:</font>
+     Susan Diane Vining   b. 18 June 1966   Portland, Maine   -   m. 26 September 1993   Joseph Emerson Jones   -   d. 13 September 2016   -   bur. Holy Cross Cemetery   Yarmouth, Maine
+     Stacie Erin Vining
+  
+  <a href="Csources/CliffordA01doc.htm">documentation and notes</a>

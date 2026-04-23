@@ -1,0 +1,83 @@
+id: AlbertH01
+letter: A
+sequence: 27
+lastUpdated: 1 February 2021
+relationship: son
+parentId: AustinS01
+parentDesc: Austin Shorter Vining and Jane A. Patterson
+head:
+  givenName: Albert Helon
+  birth:
+    date: July 1868
+    place: Georgia
+  death:
+    date: between 1920 and 1930 censuses
+marriages:
+  - date: 10 y. as of 1900 census
+    spouse:
+      givenName: Lillie
+      surname: Quillan
+      birth:
+        date: February 1870
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Lamar Alexander Vining
+        birth:
+          date: August 1891
+          place: Georgia
+      - name: Belle Vining
+        birth:
+          date: November 1892
+          place: Georgia
+      - name: Sallie Vining
+        birth:
+          date: August 1895
+          place: Georgia
+      - name: Willie May Vining
+        birth:
+          date: July 1897
+          place: Georgia
+      - name: Tye Quillion Vining
+        birth:
+          date: April 1900
+          place: Georgia
+        marriages:
+          - date: "Jean M. [...]"
+      - name: Thomas Monroe Vining
+        entryId: ThomasM02
+        entryLetter: T
+        birth:
+          date: 29 July 1901
+          place: "Whitfield [County?], Georgia"
+        marriages:
+          - date: 3 June 1923
+            place: "Chatsworth, Murray County, Georgia"
+            spouse: Nora Willena Smith
+        death:
+          date: 1 December 1985
+          place: "Atlanta, Fulton County, Georgia"
+      - name: Mary Louise Vining
+        birth:
+          date: age 2 y. as of 1910 census
+          place: Alabama
+docsUrl: Asources/AlbertH01doc.htm
+raw: |-
+  <a name="AlbertH01"></a><font size="+2">Albert Helon Vining</font>
+     (son of <a href="#AustinS01">Austin Shorter Vining and Jane A. Patterson<a/>)
+     b. July 1868   Georgia
+     m. 10 y. as of 1900 census
+           Lillie Quillan
+                 b. February 1870   Georgia
+     d. between 1920 and 1930 censuses
+  
+  <font size="+1">children:</font>
+     Lamar Alexander Vining   b. August 1891   Georgia
+     Belle Vining   b. November 1892   Georgia
+     Sallie Vining   b. August 1895   Georgia
+     Willie May Vining   b. July 1897   Georgia
+     Tye Quillion Vining   b. April 1900   Georgia   -   m. Jean M. [...] 
+     <a href="Tfamilies.htm#ThomasM02">Thomas Monroe Vining</a>   b. 29 July 1901   Whitfield [County?], Georgia   -   m. 3 June 1923   Chatsworth, Murray County, Georgia   Nora Willena Smith   -   d. 1 December 1985   Atlanta, Fulton County, Georgia
+     Mary Louise Vining   b. age 2 y. as of 1910 census   Alabama
+  
+  <a href="Asources/AlbertH01doc.htm">documentation and notes</a>

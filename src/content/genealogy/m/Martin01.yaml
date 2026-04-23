@@ -1,0 +1,91 @@
+id: Martin01
+sequence: 13
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: James01
+parentLetter: J
+parentDesc: James Vining and Lucy Cushing
+head:
+  givenName: Martin
+  birth:
+    date: 20 March 1808
+    place: "Weymouth, Massachusetts"
+  death:
+    date: 31 March 1876
+    place: "Weymouth, Massachusetts"
+marriages:
+  - date: 16 December 1835
+    place: "East Bridgewater, Massachusetts"
+    spouse:
+      givenName: Lucy
+      surname: Allen
+      birth:
+        date: age 50 y. as of 1860 census
+        place: Massachusetts
+childrenGroups:
+  - children:
+      - name: George W. Vining
+        birth:
+          date: "1838"
+        death:
+          date: "[14 or 13?] August 1839"
+          place: "Weymouth, Massachusetts"
+        burial:
+          place: "Central Cemetery   East Bridgewater, Massachusetts"
+      - name: William Allen Vining
+        entryId: WilliamA03
+        entryLetter: W
+        birth:
+          date: 17 October 1839
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: "Mary [Edna or Ellen?] Shaw"
+      - name: Samuel Hildreth Vining
+        birth:
+          date: "age 2 y., 4 m., 28 d. at death"
+          place: "Weymouth, Massachusetts"
+        death:
+          date: 23 May 1845
+          place: "Weymouth, Massachusetts"
+      - name: Andrew Jackson Vining
+        entryId: AndrewJ01
+        entryLetter: A
+        birth:
+          date: 25 February 1845
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 26 y. as of 1900 census
+            spouse: "Josephine [...]"
+        death:
+          date: 5 December 1930
+          place: California
+        burial:
+          place: "San Francisco National Cemetery   San Francisco, California"
+      - name: George H. Vining
+        birth:
+          date: "age [12?] y. as of 1860 census"
+          place: Massachusetts
+      - name: Howard Vining
+        death:
+          date: "1849"
+          place: "Weymouth, Massachusetts"
+docsUrl: Msources/Martin01doc.htm
+raw: |-
+  <a name="Martin01"></a><font size=+2>Martin Vining</font>
+     (son of <a href="Jfamilies.htm#James01">James Vining and Lucy Cushing</a>)
+     b. 20 March 1808   Weymouth, Massachusetts
+     m. 16 December 1835   East Bridgewater, Massachusetts
+           Lucy Allen
+                 b. age 50 y. as of 1860 census   Massachusetts
+     d. 31 March 1876   Weymouth, Massachusetts
+  
+  <font size=+1>children:</font>
+     George W. Vining   b. 1838   -   d. [14 or 13?] August 1839   Weymouth, Massachusetts   -   bur. Central Cemetery   East Bridgewater, Massachusetts
+     <a href="Wfamilies.htm#WilliamA03">William Allen Vining</a>   b. 17 October 1839   Weymouth, Massachusetts   -   m. Mary [Edna or Ellen?] Shaw
+     Samuel Hildreth Vining   b. age 2 y., 4 m., 28 d. at death   Weymouth, Massachusetts   -   d. 23 May 1845   Weymouth, Massachusetts
+     <a href="Afamilies.htm#AndrewJ01">Andrew Jackson Vining</a>   b. 25 February 1845   Weymouth, Massachusetts   -   m. 26 y. as of 1900 census   Josephine [...]   -   d. 5 December 1930   California   -   bur. San Francisco National Cemetery   San Francisco, California
+     George H. Vining   b. age [12?] y. as of 1860 census   Massachusetts
+     Howard Vining   d. 1849   Weymouth, Massachusetts
+  
+  <a href="Msources/Martin01doc.htm">documentation and notes</a>

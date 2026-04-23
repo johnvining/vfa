@@ -1,0 +1,80 @@
+id: Byron01
+letter: B
+sequence: 70
+lastUpdated: 25 February 2023
+relationship: son
+parentId: GorhamP01
+parentLetter: G
+parentDesc: Gorham Parsons Vining and Mary Eliza Huxley
+head:
+  givenName: Byron
+  birth:
+    date: "[17 or 21?] January 1860"
+    place: "Neenah, Winnebago County, Wisconsin"
+  death:
+    date: 30 January 1937
+    place: "Phoenix, Maricopa County, Arizona"
+  burial:
+    place: "Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona"
+marriages:
+  - date: 3 y. as of 1900 census
+    spouse:
+      givenName: Estelle
+      surname: Hollingsworth
+      birth:
+        date: April 1873
+        place: Kansas
+      death:
+        date: "1966"
+      burial:
+        place: "Greenwood Cemetery   Newton, Harvey County, Kansas"
+childrenGroups:
+  - children:
+      - name: Willard F. Vining
+        birth:
+          date: December 1898
+          place: Colorado
+      - name: Margaret C. Vining
+        birth:
+          date: March 1900
+          place: Colorado
+      - name: Francis Byron Vining
+        birth:
+          date: 4 March 1901
+          place: Colorado
+        marriages:
+          - date: "Edith R. [&#8230;]"
+        death:
+          date: 29 February 1956
+          place: "Phoenix, Arizona"
+        burial:
+          place: "Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona"
+      - name: Charles Frederick Vining
+        birth:
+          date: 16 April 1905
+          place: "Torrington, Goshen County, Wyoming"
+        death:
+          date: 16 April 1932
+          place: "Phoenix, Maricopa County, Arizona"
+        burial:
+          place: "Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona"
+docsUrl: Bsources/Byron01doc.htm
+raw: |-
+  <a name="Byron01"></a><font size=+2>Byron Vining</font>
+     (son of <a href="Gfamilies.htm#GorhamP01">Gorham Parsons Vining and Mary Eliza Huxley</a>)
+     b. [17 or 21?] January 1860   Neenah, Winnebago County, Wisconsin
+     m. 3 y. as of 1900 census
+           Estelle Hollingsworth
+                 b. April 1873   Kansas
+                 d. 1966
+                       bur. Greenwood Cemetery   Newton, Harvey County, Kansas
+     d. 30 January 1937   Phoenix, Maricopa County, Arizona
+           bur. Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona
+  
+  <font size=+1>children:</font>
+     Willard F. Vining   b. December 1898   Colorado
+     Margaret C. Vining   b. March 1900   Colorado
+     Francis Byron Vining   b. 4 March 1901   Colorado   -   m. Edith R. [&#8230;]   -   d. 29 February 1956   Phoenix, Arizona   -   bur. Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona
+     Charles Frederick Vining   b. 16 April 1905   Torrington, Goshen County, Wyoming   -   d. 16 April 1932   Phoenix, Maricopa County, Arizona   -   bur. Greenwood Memory Lawn Cemetery   Phoenix, Maricopa County, Arizona
+  
+  <a href="Bsources/Byron01doc.htm">documentation and notes</a>

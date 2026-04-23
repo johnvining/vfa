@@ -1,0 +1,59 @@
+id: EzraB01
+sequence: 137
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: OI01
+parentLetter: O
+parentDesc: O. Israel Fifield Vining and Elvira S. Thomas
+head:
+  givenName: Ezra Bonney
+  birth:
+    date: 18 February 1852
+    place: Maine
+  death:
+    date: "1922"
+  burial:
+    place: "Millville Cemetery   Millville, New York"
+marriages:
+  - date: 3 September 1881
+    place: "Conway, Massachusetts"
+    spouse:
+      givenName: Alice Gould
+      surname: Page
+      parents: (dau. of Elijah Page and Kezia Foster Bardwell)
+      birth:
+        date: November 1852
+        place: "[Conway?], Massachusetts"
+      death:
+        date: "1938"
+      burial:
+        place: "Millville Cemetery   Millville, New York"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Mary Kezia Vining
+        birth:
+          date: 4 May 1883
+          place: "Conway, Massachusetts"
+        death:
+          date: 18 February 1928
+          place: "Chicago, Illinois"
+docsUrl: Esources/EzraB01doc.htm
+raw: |-
+  <a name="EzraB01"></a><font size=+2>Ezra Bonney Vining</font>
+     (son of <a href="Ofamilies.htm#OI01">O. Israel Fifield Vining and Elvira S. Thomas</a>)
+     b. 18 February 1852   Maine
+     m. 3 September 1881   Conway, Massachusetts
+           Alice Gould Page
+                 (dau. of Elijah Page and Kezia Foster Bardwell)
+                 b. November 1852   [Conway?], Massachusetts
+                 d. 1938
+                       bur. Millville Cemetery   Millville, New York
+     d. 1922
+           bur. Millville Cemetery   Millville, New York
+  
+  <font size=+1>child:</font>
+     Mary Kezia Vining   b. 4 May 1883   Conway, Massachusetts   -   d. 18 February 1928   Chicago, Illinois
+  
+  <a href="Esources/EzraB01doc.htm">documentation and notes</a>

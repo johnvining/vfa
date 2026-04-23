@@ -1,0 +1,71 @@
+id: FrankA02
+sequence: 28
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: WilliamW01
+parentLetter: W
+parentDesc: William Warline Vining and Elizabeth Bainbridge
+head:
+  givenName: Frank Arnold
+  birth:
+    date: "1912"
+    place: Iowa
+  death:
+    date: 31 August 1977
+  burial:
+    place: "Kingsley Cemetery   Kingsley, Iowa"
+marriages:
+  - date: 21 August 1929
+    spouse:
+      givenName: "Wynola M. &#8220;Hoby&#8221;"
+      surname: Clark
+      parents: (dau. of William D. Clark and Frances Koon)
+      birth:
+        date: 22 November 1910
+        place: "Moville, Iowa"
+      death:
+        date: 12 December 1997
+        place: "Kingsley, Iowa"
+      burial:
+        place: "Kingsley Cemetery   Kingsley, Iowa"
+childrenGroups:
+  - children:
+      - name: Wyman A. Vining
+        birth:
+          date: age 10 y. as of 1940 census
+          place: Iowa
+        marriages:
+          - date: "[...] LaVonne"
+      - name: Darla Vining
+        marriages:
+          - date: Jim Rock
+      - name: Penny Vining
+        marriages:
+          - date: Larry Klingensmith
+      - name: Terry Dale Vining
+        birth:
+          date: "1937"
+        death:
+          date: "1937"
+docsUrl: Fsources/FrankA02doc.htm
+raw: |-
+  <a name="FrankA02"></a><font size=+2>Frank Arnold Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamW01">William Warline Vining and Elizabeth Bainbridge<a>)
+     b. 1912   Iowa
+     m. 21 August 1929
+           Wynola M. &#8220;Hoby&#8221; Clark
+                 (dau. of William D. Clark and Frances Koon)
+                 b. 22 November 1910   Moville, Iowa
+                 d. 12 December 1997   Kingsley, Iowa
+                       bur. Kingsley Cemetery   Kingsley, Iowa
+     d. 31 August 1977
+           bur. Kingsley Cemetery   Kingsley, Iowa
+  
+  <font size=+1>children:</font>
+     Wyman A. Vining   b. age 10 y. as of 1940 census   Iowa   -   m. [...] LaVonne
+     Darla Vining   m. Jim Rock
+     Penny Vining   m. Larry Klingensmith
+     Terry Dale Vining   b. 1937   -   d. 1937
+  
+  <a href="Fsources/FrankA02doc.htm">documentation and notes</a>

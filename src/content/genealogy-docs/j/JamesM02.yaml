@@ -1,0 +1,62 @@
+id: JamesM02
+title: James Monroe Vining - Elizabeth Cary
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: James Monroe Vining
+          values:
+            - "25"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+        - label: Elizabeth (Cary) Vining
+          values:
+            - "24"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Lillie E. Vining
+          values:
+            - "5"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Alonson Vining
+          values:
+            - "1"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Henry Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Huron, Wayne County, Michigan - dwelling 25, family 24
+        images:
+          - src: JamesM02census1870.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for James Monroe Vining, in Chippewa Township Cemetery, Mount Pleasant, Isabella County, Michigan
+          (from Find A Grave):
+        images:
+          - src: JamesM02gravestone.jpg

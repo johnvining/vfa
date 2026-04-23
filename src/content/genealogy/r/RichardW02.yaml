@@ -1,0 +1,53 @@
+id: RichardW02
+sequence: 69
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: RichardW01
+parentDesc: Richard W. Vining and Eleanor Dupont
+head:
+  givenName: Richard Willie
+  birth:
+    date: 16 February 1911
+    place: Louisiana
+  death:
+    date: 20 May 1996
+  burial:
+    place: "Odd Fellows Cemetery   Bayou La Batre, Alabama"
+marriages:
+  - date: 17 October 1938
+    spouse:
+      givenName: Willie Marie
+      surname: Bosarge
+      parents: "(dau. of Norman Garland Bosarge and Effie Bryant)"
+      birth:
+        date: 3 July 1917
+        place: Alabama
+      death:
+        date: 30 August 1996
+      burial:
+        place: "Odd Fellows Cemetery   Bayou La Batre, Alabama"
+childrenGroups:
+  - headingText: "child(ren?)"
+    children:
+      - name: child
+      - name: "[child?]"
+docsUrl: Rsources/RichardW02doc.htm
+raw: |-
+  <a name="RichardW02"></a><font size=+2>Richard Willie Vining</font>
+     (son of <a href="#RichardW01">Richard W. Vining and Eleanor Dupont</a>)
+     b. 16 February 1911   Louisiana
+     m. 17 October 1938
+           Willie Marie Bosarge
+                 (dau. of Norman Garland Bosarge and Effie Bryant)
+                 b. 3 July 1917   Alabama
+                 d. 30 August 1996
+                       bur. Odd Fellows Cemetery   Bayou La Batre, Alabama
+     d. 20 May 1996
+           bur. Odd Fellows Cemetery   Bayou La Batre, Alabama
+  
+  <font size=+1>child(ren?)</font>
+     child
+     [child?]
+  
+  <a href="Rsources/RichardW02doc.htm">documentation and notes</a>

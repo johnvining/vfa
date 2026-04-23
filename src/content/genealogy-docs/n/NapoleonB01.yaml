@@ -1,0 +1,38 @@
+id: NapoleonB01
+title: Napoleon B. Vining - Carrie Louise Collins
+sections:
+  - type: census
+    table:
+      columns:
+        - "1930"
+        - "1940"
+      rows:
+        - label: Napoleon B. Vining
+          values:
+            - "26"
+            - "36"
+        - label: Carrie Louise (Collins) Vining
+          values:
+            - "25"
+            - "35"
+        - label: Mary Vining
+          values:
+            - 1 m.
+            - "[living? in separate household]"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Monroe, Monroe County, Michigan - dwelling 178, family 185
+        images:
+          - src: NapoleonB01census1930.jpg
+      - year: "1940"
+        caption: Gastonia City, Gaston County, North Carolina
+        images:
+          - src: NapoleonB01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Napoleon B. Vining, in Rosehill Cemetery, Gastonia, Gaston County, North Carolina (from Find A
+          Grave):
+        images:
+          - src: NapoleonB01gravestone.jpg

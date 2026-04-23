@@ -1,0 +1,72 @@
+id: JamesC04
+title: James C. Vining - Annie [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: James C. Vining
+          values:
+            - "?"
+            - "?"
+            - "[38?]"
+            - "?"
+            - "?"
+        - label: Annie ([…]) Vining
+          values:
+            - "?"
+            - "?"
+            - "33"
+            - "?"
+            - "?"
+        - label: Ethel Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rosa J. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+        - label: Alice Vining
+          values:
+            - ""
+            - ""
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+        - label: ASnnie Vining
+          values:
+            - ""
+            - ""
+            - 4 y., 0 m.
+            - "?"
+            - "?"
+          indent: true
+        - label: Jimmie Vining
+          values:
+            - ""
+            - ""
+            - 1 y., 11 m.
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Tallapoosa City, Haralson County, Georgia - dwelling 195, family 207
+        images:
+          - src: JamesC04census1920a.jpg
+          - src: JamesC04census1920b.jpg

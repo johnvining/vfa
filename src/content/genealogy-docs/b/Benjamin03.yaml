@@ -1,0 +1,135 @@
+id: Benjamin03
+title: Benjamin Vining - Amanda [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Benjamin Vining
+          values:
+            - |-
+              ?
+              [see note below]
+            - "44"
+            - "53"
+            - "?"
+            - "[77?]"
+            - "?"
+        - label: Amanda ([...]) Vining
+          values:
+            - ""
+            - ""
+            - "31"
+            - "?"
+            - "55"
+            - "?"
+        - label: "[Sophia Vining?]"
+          values:
+            - |-
+              ?
+              [see note below]
+            - "24"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Mahala Vining
+          values:
+            - |-
+              ?
+              [see note below]
+            - "14"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Catharine Vining
+          values:
+            - ""
+            - "9"
+            - "18"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Emily Vining
+          values:
+            - ""
+            - "7"
+            - "16"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Sally Vining
+          values:
+            - ""
+            - "4"
+            - "14"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Esther Vining
+          values:
+            - ""
+            - "2"
+            - "11"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Harriet Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Oliver Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "?"
+            - living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: >-
+          In 1860, most black persons were slaves and considered property, so they were not reported in the regular
+          census records.
+      - year: "1870"
+        caption: Greensburg (ward 2), St. Helena County, Alabama - dwelling 106, family 106
+        images:
+          - src: Benjamin03census1870.jpg
+      - year: "1880"
+        caption: Ward 2, St. Helena County, Alabama - dwelling 396, family 409
+        images:
+          - src: Benjamin03census1880.jpg
+      - year: "1890"
+        caption: census data unavailable
+      - year: "1900"
+        caption: Greensburg (ward 2), St. Helena County, Alabama - dwelling 308, family 308
+        images:
+          - src: Benjamin03census1900.jpg

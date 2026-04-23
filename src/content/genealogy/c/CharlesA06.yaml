@@ -1,0 +1,87 @@
+id: CharlesA06
+letter: C
+sequence: 50
+lastUpdated: 25 February 2023
+relationship: son
+parentId: JosephM02
+parentLetter: J
+parentDesc: Joseph Martin Vining and Eleanor Rose Goodbread
+head:
+  givenName: Charles Andrew
+  birth:
+    date: 23 April 1924
+    place: "Sanford, Seminole County, Florida"
+  death:
+    date: 10 August 2004
+    place: "Lake City, Columbia County, Florida"
+  burial:
+    description: "cremated, ashes scatted at sea"
+marriages:
+  - date: 13 June 1946
+    place: "Beaumont, Jefferson County, Texas"
+    spouse:
+      givenName: Billie June
+      surname: Landry
+      parents: (dau. of Junius Landry and Mildred Ophelia Hargraves)
+      birth:
+        date: 21 April 1925
+        place: "Houston, Harris County, Texas"
+      death:
+        date: 24 September 2006
+        place: "Lake City, Columbia County, Florida"
+childrenGroups:
+  - children:
+      - name: Charles Martin Vining
+        entryId: CharlesM07
+        birth:
+          date: 28 January 1948
+          place: "Key West, Monroe County, Florida"
+        marriages:
+          - date: 12 July 1968
+            place: "Kingsland, Camden County, Georgia"
+            spouse: Gillian Hilda Anderson
+      - name: Richard Bryan Vining
+        birth:
+          date: 19 March 1953
+          place: "Portsmouth, Virginia"
+        marriages:
+          - date: 9 November 1978
+            spouse: Sharon Kenison
+      - name: Eleanor Gayle Vining
+        birth:
+          date: 17 February 1955
+          place: "Millington, Shelby County, Tennessee"
+        marriages:
+          - date: 4 September 1981
+            place: "Richardson, Texas"
+            spouse: Gregory Dean Stockton
+      - name: Kenneth Wayne Vining
+        entryId: KennethW02
+        entryLetter: K
+        birth:
+          date: 31 March 1956
+          place: "Millington, Shelby County, Tennessee"
+        marriages:
+          - date: 14 May 1976
+            place: "Corpus Christi, Nueces County, Texas"
+            spouse: Barbara Ann Benka;   divorced
+docsUrl: Csources/CharlesA06doc.htm
+raw: |-
+  <a name="CharlesA06"></a><font size=+2>Charles Andrew Vining</font>
+     (son of <a href="Jfamilies.htm#JosephM02">Joseph Martin Vining and Eleanor Rose Goodbread</a>)
+     b. 23 April 1924   Sanford, Seminole County, Florida
+     m. 13 June 1946   Beaumont, Jefferson County, Texas
+           Billie June Landry
+                 (dau. of Junius Landry and Mildred Ophelia Hargraves)
+                 b. 21 April 1925   Houston, Harris County, Texas
+                 d. 24 September 2006   Lake City, Columbia County, Florida
+     d. 10 August 2004   Lake City, Columbia County, Florida
+           cremated, ashes scatted at sea
+  
+  <font size=+1>children:</font>
+     <a href="#CharlesM07">Charles Martin Vining</a>   b. 28 January 1948   Key West, Monroe County, Florida   -   m. 12 July 1968   Kingsland, Camden County, Georgia   Gillian Hilda Anderson
+     Richard Bryan Vining   b. 19 March 1953   Portsmouth, Virginia   -   m. 9 November 1978   Sharon Kenison
+     Eleanor Gayle Vining   b. 17 February 1955   Millington, Shelby County, Tennessee   -  m. 4 September 1981   Richardson, Texas   Gregory Dean Stockton
+     <a href="Kfamilies.htm#KennethW02">Kenneth Wayne Vining</a>   b. 31 March 1956   Millington, Shelby County, Tennessee   -   m. 14 May 1976   Corpus Christi, Nueces County, Texas   Barbara Ann Benka;   divorced
+  
+  <a href="Csources/CharlesA06doc.htm">documentation and notes</a>

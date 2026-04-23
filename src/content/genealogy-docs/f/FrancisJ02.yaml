@@ -1,0 +1,23 @@
+id: FrancisJ02
+title: Francis Joseph Vining - Alice Martha Maurer
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Francis Joseph Vining
+          values:
+            - "32"
+        - label: Alice Martha (Maurer) Vining
+          values:
+            - "29"
+        - label: Kathleen Janet Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: West St. Paul, Dakota County, Minnesota
+        images:
+          - src: FrancisJ02census1940.jpg

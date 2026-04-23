@@ -1,0 +1,52 @@
+id: EzraW01
+title: Ezra Webster Vining - Martha Brooks Williamson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Ezra Webster Vining
+          values:
+            - "27"
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Martha Brooks (Williamson) Vining
+          values:
+            - "26"
+            - "[see note below]"
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Fannie Webster Vining
+          values:
+            - "5"
+            - |-
+              15
+              [see note below]
+            - married and living in household of inlaws
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1860"
+        caption: Weymouth, Norfolk County, Massachusetts - dwelling 1066, family 1245
+        images:
+          - src: EzraW01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Weymouth, Norfolk County, Massachusetts - dwelling 857, family 1008. Following the death of her father and the
+          remarriage of her mother, to Benjamin C. Reed in 1869, Fannie Webster Vining was living in the household of a
+          Powers family.
+        images:
+          - src: EzraW01census1870.jpg

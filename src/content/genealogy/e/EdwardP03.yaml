@@ -1,0 +1,72 @@
+id: EdwardP03
+sequence: 48
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwardH01
+parentDesc: "Edward Harrison &#8220;Harry&#8221; Vining and Mary Ella Chapman"
+head:
+  givenName: "Edward Penfield &#8220;Buck&#8221;"
+  birth:
+    date: 29 September 1912
+    place: "Mason City, Cerro Gordo County, Iowa"
+  death:
+    date: 28 September 1977
+    place: "Charles City, Floyd County, Iowa"
+  burial:
+    place: "Riverside Cemetery   Charles City, Floyd County, Iowa"
+marriages:
+  - spouse:
+      givenName: Pauline Doris
+      surname: Chinnery
+      birth:
+        date: 30 May 1918
+        place: "Charles City, Floyd County, Iowa"
+      death:
+        date: 29 May 1993
+        place: "Charles City, Floyd County, Iowa"
+      burial:
+        place: "Riverside Cemetery   Charles City, Floyd County, Iowa"
+childrenGroups:
+  - children:
+      - name: William Dale Vining
+        entryId: WilliamD05
+        entryLetter: W
+        birth:
+          date: 16 August 1939
+          place: "Charles City, Iowa"
+        marriages:
+          - number: 1
+            date: Joan Elaine Lockwood
+          - number: 2
+            date: "Susan M. [&#8230;]"
+        death:
+          date: 24 February 1992
+        burial:
+          place: "Riverside Cemetery   Charles City, Floyd County, Iowa"
+      - name: Bonnie Jean Vining
+        birth:
+          date: 26 February 1941
+          place: "Charles City, Floyd County, Iowa"
+        marriages:
+          - number: 1
+            date: Charles Whitmarsh
+          - number: 2
+            date: Roger Morgan
+docsUrl: Esources/EdwardP03doc.htm
+raw: |-
+  <a name="EdwardP03"></a><font size=+2>Edward Penfield &#8220;Buck&#8221; Vining</font>
+     (son of <a href="#EdwardH01">Edward Harrison &#8220;Harry&#8221; Vining and Mary Ella Chapman</a>)
+     b. 29 September 1912   Mason City, Cerro Gordo County, Iowa
+     m. Pauline Doris Chinnery
+              b. 30 May 1918   Charles City, Floyd County, Iowa
+              d. 29 May 1993   Charles City, Floyd County, Iowa
+                    bur. Riverside Cemetery   Charles City, Floyd County, Iowa
+     d. 28 September 1977   Charles City, Floyd County, Iowa
+           bur. Riverside Cemetery   Charles City, Floyd County, Iowa
+  
+  <font size=+1>children:</font>
+     <a href="Wfamilies.htm#WilliamD05">William Dale Vining</a>   b. 16 August 1939   Charles City, Iowa   -   m. (1) Joan Elaine Lockwood;   (2) Susan M. [&#8230;]   -   d. 24 February 1992   -   bur. Riverside Cemetery   Charles City, Floyd County, Iowa
+     Bonnie Jean Vining   b. 26 February 1941   Charles City, Floyd County, Iowa   -   m. (1) Charles Whitmarsh;   (2) Roger Morgan
+  
+  <a href="Esources/EdwardP03doc.htm">documentation and notes</a>

@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+const allNews = await getCollection('news');
+allNews.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const rendered = await Promise.all(
+  allNews.map(async (entry) => {
+    const { Content } = await render(entry);
+    return { entry, Content };
+  })
+);
+
+function monthName(date: Date) {
+  return date.toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+}
+---
+
+<Base
+  title="Vining Newsletter Archive"
+  description="Newsletter of the Vining Family Association."
+  keywords="genealogy, Vining, Vining family, newsletter"
+  activePage="News and Notes"
+>
+
+<br><br>
+
+<font size="+2">Do you have any news to share about the Vining family? births, marriages, deaths? graduations? honors received? genealogical puzzles solved? Please send them along for inclusion in our News and Notes.</font>
+
+{rendered.map(({ entry, Content }, i) => {
+  const prev = i > 0 ? rendered[i - 1].entry : null;
+  const newSeason = !prev || prev.data.season !== entry.data.season;
+  const newMonth = newSeason || monthName(prev!.data.date) !== monthName(entry.data.date);
+  return (
+    <Fragment>
+      {newSeason && (
+        <Fragment>
+          <br /><br /><br />
+          <font size="+2"><b>{entry.data.season}</b></font><br />
+        </Fragment>
+      )}
+      {newMonth && entry.data.showMonthHeading && (
+        <Fragment>
+          <font size="+1"><b>{monthName(entry.data.date)}</b></font><br />
+        </Fragment>
+      )}
+      <Content />
+    </Fragment>
+  );
+})}
+
+</Base>

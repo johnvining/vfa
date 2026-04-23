@@ -1,0 +1,137 @@
+id: Ammi01
+title: Ammi Vining - Susanna Gerrish
+sections:
+  - type: birth
+    items:
+      - caption: >-
+          The town of Durham, Androscoggin County, Maine, has photocopied its vital record books, and those photocopies
+          are available for public viewing. Unfortunately, much of the photocopied material is very difficult to
+          impossible to read. Below is the page (greatly enlarged) recording the family of Ammi Vining and Susanna
+          "Susan" Gerrish. The information on this page was entered by what appears to be three individuals. The
+          earliest (and lightest) entries were made on 27 February 1865 by James Strout Jr., the town clerk, and
+          recorded events that occurred from only a few to more than 50 years earlier.
+        images:
+          - src: Ammi01Durhamrecordsp419.jpg
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+      rows:
+        - label: Ammi Vining
+          values:
+            - M 30–39
+            - "40"
+            - "53"
+            - dead
+            - ""
+            - ""
+        - label: Susanna "Susan" (Gerrish) Vining
+          values:
+            - F 20–29
+            - "35"
+            - "49"
+            - "59"
+            - "69"
+            - "?"
+        - label: Mary V. Vining
+          values:
+            - F 5–9
+            - "16"
+            - "26"
+            - "36"
+            - dead
+            - ""
+          indent: true
+        - label: Benjamin Franklin Vining
+          values:
+            - M under 5
+            - "14"
+            - "24"
+            - not living in this household
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Matilda G. Vining
+          values:
+            - F under 5
+            - "11"
+            - "20"
+            - not living in this household
+            - "?"
+            - "?"
+          indent: true
+        - label: Laura P. Vining
+          values:
+            - F under 5
+            - "11"
+            - "20"
+            - not living in this household
+            - "?"
+            - "?"
+          indent: true
+        - label: Israel H. Vining
+          values:
+            - ""
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Israetta P. Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "28"
+            - dead
+          indent: true
+        - label: Emma E. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - dead
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1840"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine. The age of each member of this family
+          in 1840 matches the expected age category in the 1840 census report.
+      - year: "1850"
+        caption: Durham, Cumberland County [Durham is now in Androscoggin County], Maine - dwelling 4, family 5
+        images:
+          - src: Ammi01census1850.jpg
+      - year: "1860"
+        caption: Durham, Androscoggin County, Maine - dwelling 315, family 329
+        images:
+          - src: Ammi01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Durham, Androscoggin County, Maine - dwelling 261, family 271. Also living in this household in 1870 was John
+          Carney (14, b. Maine).
+        images:
+          - src: Ammi01census1870.jpg
+      - year: "1880"
+        caption: Durham, Androscoggin County, Maine - dwelling 283, family 307
+        images:
+          - src: Ammi01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Below are two images (a distant view and a close-up) of the gravestone of Ammi Vining and Susanna "Susan"
+          (Gerrish) Vining. This stone is in the Vining Cemetery in Durham, Androscoggin County, Maine.
+        images:
+          - src: Ammi01gravestone1.jpg
+          - src: Ammi01gravestone2.jpg
+          - src: Ammi01childrengravestone.jpg
+          - src: Ammi01sonIsraelgravestone.jpg
+          - src: Ammi01dauEmmagravestone.jpg

@@ -1,0 +1,70 @@
+id: JamesM02
+sequence: 81
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Jeremiah02
+parentDesc: Jeremiah Vining and Emily Lacock
+head:
+  givenName: James Monroe
+  birth:
+    date: 15 November 1844
+    place: Michigan
+  death:
+    date: 24 March 1922
+    place: Michigan
+  burial:
+    place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
+marriages:
+  - spouse:
+      givenName: Elizabeth
+      surname: Cary
+      birth:
+        date: "1845"
+        place: "New York"
+      death:
+        date: 6 November 1873
+        place: Michigan
+      burial:
+        place: "Chippewa Township Cemetery   Mount Pleasant, Michigan"
+childrenGroups:
+  - children:
+      - name: Lillie E. Vining
+        birth:
+          date: 7 January 1865
+          place: Michigan
+        death:
+          date: November 1929
+      - name: James Alonson Vining
+        entryId: JamesA03
+        birth:
+          date: 6 August 1868
+          place: Michigan
+        marriages:
+          - date: Mary Ella Linebaugh
+        death:
+          date: 7 August 1951
+        burial:
+          place: "Forest View Cemetery   Forest Grove, Oregon"
+      - name: Henry Jeremiah Vining
+        birth:
+          date: 23 July 1870
+          place: "Huron, Michigan"
+docsUrl: Jsources/JamesM02doc.htm
+raw: |-
+  <a name="JamesM02"></a><font size=+2>James Monroe Vining</font>
+     (son of <a href="#Jeremiah02">Jeremiah Vining and Emily Lacock</a>)
+     b. 15 November 1844   Michigan
+     m. Elizabeth Cary
+              b. 1845   New York
+              d. 6 November 1873   Michigan
+                    bur. Chippewa Township Cemetery   Mount Pleasant, Michigan
+     d. 24 March 1922   Michigan
+           bur. Chippewa Township Cemetery   Mount Pleasant, Michigan
+  
+  <font size=+1>children:</font>
+     Lillie E. Vining   b. 7 January 1865   Michigan   -   d. November 1929
+     <a href="#JamesA03">James Alonson Vining</a>   b. 6 August 1868   Michigan   -   m. Mary Ella Linebaugh   -   d. 7 August 1951   -   bur. Forest View Cemetery   Forest Grove, Oregon
+     Henry Jeremiah Vining   b. 23 July 1870   Huron, Michigan
+  
+  <a href="Jsources/JamesM02doc.htm">documentation and notes</a>

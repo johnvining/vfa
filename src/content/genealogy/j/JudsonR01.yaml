@@ -1,0 +1,61 @@
+id: JudsonR01
+sequence: 333
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ebenezer03
+parentLetter: E
+parentDesc: Ebenezer Vining and Clara Beatrice Delmage
+head:
+  givenName: Judson Rutherford
+  birth:
+    date: 5 September1908
+    place: "Thorndale, Ontario"
+  death:
+    date: 27 August 1972
+    place: "Potsdam, New York"
+  burial:
+    place: "Vining Cemetery   Thorndale, Ontario"
+marriages:
+  - date: 19 May 1931
+    place: "[Bellingham, Washington or Revelstoke, British Columbia?]"
+    spouse:
+      givenName: Helen Kathleen
+      surname: Southwell
+      birth:
+        date: 26 January 1907
+      death:
+        date: 1 April 1997
+childrenGroups:
+  - children:
+      - name: Beverly Joan Vining
+        birth:
+          date: 12 October 1932
+        marriages:
+          - date: 5 October 1962
+            spouse: Richard James
+      - name: William Carey Southwell Vining
+        entryId: WilliamCS01
+        entryLetter: W
+        birth:
+          date: 9 May 1935
+        marriages:
+          - date: 10 December 1955
+            spouse: Margaret Ann Popple
+        death:
+          date: 17 May 2000
+          place: "(last residence: Hermon, New York)"
+raw: |-
+  <a name="JudsonR01"></a><font size=+2>Judson Rutherford Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer03">Ebenezer Vining and Clara Beatrice Delmage</a>)
+     b. 5 September1908   Thorndale, Ontario
+     m. 19 May 1931   [Bellingham, Washington or Revelstoke, British Columbia?]
+           Helen Kathleen Southwell
+                 b. 26 January 1907
+                 d. 1 April 1997
+     d. 27 August 1972   Potsdam, New York
+           bur. Vining Cemetery   Thorndale, Ontario
+  
+  <font size=+1>children:</font>
+     Beverly Joan Vining   b. 12 October 1932   -   m. 5 October 1962   Richard James
+     <a href="Wfamilies.htm#WilliamCS01">William Carey Southwell Vining</a>   b. 9 May 1935   -   m. 10 December 1955   Margaret Ann Popple   -   d. 17 May 2000   (last residence: Hermon, New York)

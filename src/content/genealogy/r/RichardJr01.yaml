@@ -1,0 +1,60 @@
+id: RichardJr01
+sequence: 48
+letter: R
+lastUpdated: 15 January 2024
+relationship: son
+parentId: Richard02
+parentDesc: Richard Vining and Susannah Pratt
+head:
+  givenName: Richard Jr.
+  birth:
+    date: 29 September 1809
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 2 September 1888
+    place: "Abington, Plymouth County, Massachusetts"
+  burial:
+    place: "Colebrook Cemetery   Whitman, Plymouth County, Massachusetts"
+marriages:
+  - date: 30 July 1844
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Lucretia Persons
+      surname: Fullerton
+      parents: "(dau. of Noah Fullerton and Silence Dayley)"
+      birth:
+        date: 23 March 1824
+        place: "Abington, Plymouth County, Massachusetts"
+      death:
+        date: 18 February 1882
+        place: "Abington, Plymouth County, Massachusetts"
+      burial:
+        place: "Colebrook Cemetery   Whitman, Plymouth County, Massachusetts"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Richard Elmore Vining
+        birth:
+          date: 21 December 1844
+          place: "Abington, Plymouth County, Massachusetts"
+        death:
+          date: "[7 or 8?] April 1845"
+          place: "Abington, Plymouth County, Massachusetts"
+docsUrl: Rsources/RichardJr01doc.htm
+raw: |-
+  <a name="RichardJr01"></a><font size=+2>Richard Vining Jr.</font>
+     (son of <a href="#Richard02">Richard Vining and Susannah Pratt</a>)
+     b. 29 September 1809   Abington, Plymouth County, Massachusetts
+     m. 30 July 1844   Abington, Plymouth County, Massachusetts
+           Lucretia Persons Fullerton
+                 (dau. of Noah Fullerton and Silence Dayley)
+                 b. 23 March 1824   Abington, Plymouth County, Massachusetts
+                 d. 18 February 1882   Abington, Plymouth County, Massachusetts
+                       bur. Colebrook Cemetery   Whitman, Plymouth County, Massachusetts
+     d. 2 September 1888   Abington, Plymouth County, Massachusetts
+           bur. Colebrook Cemetery   Whitman, Plymouth County, Massachusetts
+  
+  <font size=+1>child:</font>
+     Richard Elmore Vining   b. 21 December 1844   Abington, Plymouth County, Massachusetts   -   d. [7 or 8?] April 1845   Abington, Plymouth County, Massachusetts
+  
+  <a href="Rsources/RichardJr01doc.htm">documentation and notes</a>

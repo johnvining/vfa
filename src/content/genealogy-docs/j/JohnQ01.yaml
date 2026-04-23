@@ -1,0 +1,70 @@
+id: JohnQ01
+title: John Quincy Vining - Sarah A. [...]
+displayTitle: John Quincy Vining - Sarah A. […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: John Quincy Vining
+          values:
+            - "?"
+            - 23 [sic]
+            - "?"
+            - "54"
+            - "64"
+            - "74"
+            - "?"
+        - label: Sarah A. ([…]) Vining
+          values:
+            - "?"
+            - 26 [sic]
+            - "?"
+            - "45"
+            - "57"
+            - "67"
+            - "?"
+        - label: "[Mary Vining ?]"
+          values:
+            - "?"
+            - "13"
+            - "[living? in separate household"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Arthur W. Vining
+          values:
+            - "?"
+            - "1"
+            - "?"
+            - "21"
+            - "32"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Auburn (4th ward), Cayuga County, New York - dwelling 91, family 109
+        images:
+          - src: JohnQ01census1880.jpg
+      - year: "1900"
+        caption: South Braintree, Norfolk County, Massachusetts - dwelling 239, family 271
+        images:
+          - src: JohnQ01census1900.jpg
+      - year: "1910"
+        caption: Braintree, Norfolk County, Massachusetts - dwelling 76, family 87
+        images:
+          - src: JohnQ01census1910.jpg
+      - year: "1920"
+        caption: Holbrook, Norfolk County, Massachusetts - dwelling 409, family 455
+        images:
+          - src: JohnQ01census1920.jpg

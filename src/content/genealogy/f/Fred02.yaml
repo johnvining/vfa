@@ -1,0 +1,43 @@
+id: Fred02
+sequence: 46
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: GliddenB01
+parentLetter: G
+parentDesc: Glidden Bodwell Vining and Rebecca Gleason
+head:
+  givenName: Fred
+  birth:
+    date: 19 July 1864
+  death:
+    date: December 1936
+marriages:
+  - spouse:
+      givenName: Gertrude
+      surname: Ervin
+childrenGroups:
+  - children:
+      - name: Frank Vining
+        entryId: Frank04
+        birth:
+          date: 4 April 1893
+        marriages:
+          - date: Myrtle Henderson
+        death:
+          date: April 1950
+      - name: Delia Vining
+        birth:
+          date: 6 April 1899
+        marriages:
+          - date: Leslie Breckenridge
+raw: |-
+  <a name="Fred02"></a><font size=+2>Fred Vining</font>
+     (son of <a href="Gfamilies.htm#GliddenB01">Glidden Bodwell Vining and Rebecca Gleason</a>)
+     b. 19 July 1864
+     m. Gertrude Ervin
+     d. December 1936
+  
+  <font size=+1>children:</font>
+     <a href="#Frank04">Frank Vining</a>   b. 4 April 1893   -   m. Myrtle Henderson   -   d. April 1950
+     Delia Vining   b. 6 April 1899   -   m. Leslie Breckenridge

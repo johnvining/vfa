@@ -1,0 +1,111 @@
+id: WymanL01
+sequence: 156
+letter: W
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Nathan02
+parentLetter: N
+parentDesc: Nathan Vining and Mary Elizabeth "May" Huntley
+head:
+  givenName: Wyman Leavitt
+  birth:
+    date: 17 August 1852
+    place: "Cooper, Maine"
+  death:
+    date: 26 October 1927
+    place: "Cooper, Maine"
+  burial:
+    place: "Cooper, Maine"
+marriages:
+  - date: 25 April 1903
+    place: "Cooper, Maine"
+    spouse:
+      givenName: Adeline Rachel
+      surname: Ireland
+      parents: "(dau. of Abram Ireland and Sarah A. Pottle)"
+      birth:
+        date: 17 June 1884
+        place: "Cooper, Maine"
+      death:
+        date: 1 November 1935
+        place: "Cooper, Maine"
+      burial:
+        place: "Cooper, Maine"
+childrenGroups:
+  - children:
+      - name: Karl Vining
+        birth:
+          date: 11 May 1904
+          place: "Cooper, Maine"
+        death:
+          date: 14 May 1904
+          place: "Cooper, Maine"
+        burial:
+          place: "Cooper, Maine"
+      - name: Wilfred Wyman Vining
+        birth:
+          date: 10 January 1906
+          place: "Cooper, Maine"
+        death:
+          date: 29 April 1910
+          place: "Plantation 14, Maine"
+      - name: Harold Herbert Vining
+        entryId: HaroldH01
+        entryLetter: H
+        birth:
+          date: 28 June 1908
+          place: "Cooper, Maine"
+        marriages:
+          - date: 20 September 1930
+            place: "Pembroke, Maine"
+            spouse: Mildred Edith Morrison
+        death:
+          date: 16 May 1990
+          place: "Bangor, Maine"
+      - name: Eveline May Vining
+        birth:
+          date: 6 May 1911
+          place: "Cooper, Maine"
+        marriages:
+          - date: "[1 September 1934 or 17 March 1935?]"
+            spouse: Winslow C. Brown
+        death:
+          date: "1961"
+          place: "Princeton, Maine"
+      - name: "[Hubert or Herbert?] Harland Vining"
+        birth:
+          date: 25 June 1920
+          place: "Cooper, Maine"
+        marriages:
+          - date: 1 June 1946
+            place: "Pembroke, Maine"
+            spouse: Nellie Eva Jones
+        death:
+          date: October 1983
+          place: "bur. Pembroke, Maine"
+      - name: Florence Vining
+        birth:
+          date: 24 October 1921
+          place: "Cooper, Maine"
+        marriages:
+          - date: John Chabak
+raw: |-
+  <a name="WymanL01"></a><font size=+2>Wyman Leavitt Vining</font>
+     (son of <a href="Nfamilies.htm#Nathan02">Nathan Vining and Mary Elizabeth "May" Huntley</a>)
+     b. 17 August 1852   Cooper, Maine
+     m. 25 April 1903   Cooper, Maine
+           Adeline Rachel Ireland
+                 (dau. of Abram Ireland and Sarah A. Pottle)
+                 b. 17 June 1884   Cooper, Maine
+                 d. 1 November 1935   Cooper, Maine
+                       bur. Cooper, Maine
+     d. 26 October 1927   Cooper, Maine
+           bur. Cooper, Maine
+  
+  <font size=+1>children:</font>
+     Karl Vining   b. 11 May 1904   Cooper, Maine   -   d. 14 May 1904   Cooper, Maine   -   bur. Cooper, Maine
+     Wilfred Wyman Vining   b. 10 January 1906   Cooper, Maine   -   d. 29 April 1910   Plantation 14, Maine
+     <a href="Hfamilies.htm#HaroldH01">Harold Herbert Vining</a>   b. 28 June 1908   Cooper, Maine   -   m. 20 September 1930   Pembroke, Maine   Mildred Edith Morrison   -   d. 16 May 1990   Bangor, Maine
+     Eveline May Vining   b. 6 May 1911   Cooper, Maine   -   m. [1 September 1934 or 17 March 1935?]   Winslow C. Brown   -   d. 1961   Princeton, Maine
+     [Hubert or Herbert?] Harland Vining   b. 25 June 1920   Cooper, Maine   -   m. 1 June 1946   Pembroke, Maine   Nellie Eva Jones   -   d. October 1983   bur. Pembroke, Maine
+     Florence Vining   b. 24 October 1921   Cooper, Maine   -   m. John Chabak

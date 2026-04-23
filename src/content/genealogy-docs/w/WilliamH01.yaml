@@ -1,0 +1,63 @@
+id: WilliamH01
+title: William H. Vining - Flora Belle Marson
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: William H. Vining
+          values:
+            - "21"
+            - 41 [sic]
+            - "42"
+            - "?"
+        - label: Flora Belle (Marson) Vining
+          values:
+            - "16"
+            - dead
+            - ""
+            - ""
+        - label: Birdena Vining
+          values:
+            - 7 months
+            - "10"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Hiram Wilson Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: >-
+          Avon, Franklin County, Maine - dwelling 85, family 86. In 1910, William H. Vining was living in the household
+          of Hervey E. Vining (his brother).
+        images:
+          - src: WilliamH01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 135, family 166. In 1920, William H. Vining was living in the
+          household of Elbridge W. Vining (his father).
+        images:
+          - src: WilliamH01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 203, family 213. In 1930, William H. Vining was living in the
+          household of Elbridge W. Vining (his father).
+        images:
+          - src: WilliamH01census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for William H. Vining and Flora Belle (Marson) Vining, in Village Cemetery, Strong, Franklin County,
+          Maine (from Find A Grave):
+        images:
+          - src: WilliamH01andwifeheadstone.jpg

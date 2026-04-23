@@ -1,0 +1,113 @@
+id: ElishaW01
+sequence: 81
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: DavidJr02
+parentLetter: D
+parentDesc: David Vining Jr. and Hannah Husted
+head:
+  givenName: Elisha W.
+  birth:
+    date: 4 April 1817
+    place: "Cairo, New York"
+  death:
+    date: 16 February 1893
+    place: "Dallas, Pennsylvania"
+  burial:
+    place: "Grove Cemetery   Trumansburg, New York"
+marriages:
+  - spouse:
+      givenName: Adaline
+      surname: Drew
+      parents: (dau. of William Drew and [...])
+      birth:
+        date: 18 April 1819
+        place: "[New Baltimore or Cairo?], New York"
+      death:
+        date: 20 March 1888
+        place: "Trumansburg, New York"
+      burial:
+        place: "Grove City Cemetery   Trumansburg, New York"
+childrenGroups:
+  - children:
+      - name: Phoebe C. Vining
+        birth:
+          date: "1837"
+        marriages:
+          - spouse: Thomas W. Auble
+        death:
+          date: 27 November 1902
+          place: "Trumansburg, New York"
+      - name: Jonathan D. Vining
+        birth:
+          date: "1840"
+          place: New York
+        death:
+          date: 28 May 1872
+        burial:
+          place: "Grove Cemetery   Trumansburg, New York"
+      - name: Imogene Vining
+        birth:
+          date: "1842"
+          place: New York
+      - name: Isaac W. Vining
+        birth:
+          date: November 1845
+          place: New York
+        marriages:
+          - date: 33 y. as of 1900 census
+            spouse: "Eliza A. [...]"
+        death:
+          date: "1909"
+        burial:
+          place: "Lakeview Cem   Interlaken, New York"
+      - name: Sarah Vining
+        birth:
+          date: "1846"
+          place: New York
+        death:
+          date: 31 March 1897
+          place: "Ithaca, New York"
+        burial:
+          place: "Trumansburg, New York"
+      - name: Philip Vining
+        entryId: Philip02
+        entryLetter: P
+        birth:
+          date: August 1856
+          place: New York
+        marriages:
+          - date: 22 y. as of 1900 census
+            spouse: Louise E. Wixom
+        death:
+          date: 21 October 1943
+        burial:
+          place: "Lake View Cemetery   Interlaken, New York"
+      - name: Mary Vining
+        birth:
+          date: age 9 y. as of 1870 census
+          place: New York
+docsUrl: Esources/ElishaW01doc.htm
+raw: |-
+  <a name="ElishaW01"></a><font size=+2>Elisha W. Vining</font>
+     (son of <a href="Dfamilies.htm#DavidJr02">David Vining Jr. and Hannah Husted</a>)
+     b. 4 April 1817   Cairo, New York
+     m. Adaline Drew
+              (dau. of William Drew and [...])
+              b. 18 April 1819   [New Baltimore or Cairo?], New York
+              d. 20 March 1888   Trumansburg, New York
+                    bur. Grove City Cemetery   Trumansburg, New York
+     d. 16 February 1893   Dallas, Pennsylvania
+           bur. Grove Cemetery   Trumansburg, New York
+  
+  <font size=+1>children:</font>
+     Phoebe C. Vining   b. 1837   -   m. Thomas W. Auble   -   d. 27 November 1902   Trumansburg, New York
+     Jonathan D. Vining   b. 1840   New York   -   d. 28 May 1872   -   bur. Grove Cemetery   Trumansburg, New York
+     Imogene Vining   b. 1842   New York
+     Isaac W. Vining   b. November 1845   New York   -   m. 33 y. as of 1900 census   Eliza A. [...]   -   d. 1909   -   bur. Lakeview Cem   Interlaken, New York
+     Sarah Vining   b. 1846   New York   -   d. 31 March 1897   Ithaca, New York   -   bur. Trumansburg, New York
+     <a href="Pfamilies.htm#Philip02">Philip Vining</a>   b. August 1856   New York   -   m. 22 y. as of 1900 census   Louise E. Wixom   -   d. 21 October 1943   -   bur. Lake View Cemetery   Interlaken, New York
+     Mary Vining   b. age 9 y. as of 1870 census   New York
+  
+  <a href="Esources/ElishaW01doc.htm">documentation and notes</a>

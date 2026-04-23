@@ -1,0 +1,74 @@
+id: HarryD01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: HomerC01
+parentDesc: Homer C. Vining and Sarah Fowler
+head:
+  givenName: Harry D.
+  birth:
+    date: "[22 or 26?] June 1865"
+    place: Massachusetts
+  death:
+    date: 9 October 1929
+    place: "West Springfield, Massachusetts"
+  burial:
+    place: "Meeting House Hill Cemetery   West Springfield, Massachusetts"
+marriages:
+  - number: 1
+    date: Bertha C. Crane
+    spouse:
+      birth:
+        date: "1866"
+      death:
+        date: "1893"
+      burial:
+        place: "Southwick Cemetery   Southwick, Massachusetts"
+  - number: 2
+    date: 16 y. as of 1910 census
+    spouse:
+      givenName: Linwood C.
+      surname: Merrill
+      birth:
+        date: December 1870
+        place: Vermont
+      death:
+        date: "1960"
+      burial:
+        place: "Meeting House Hill Cemetery   West Springfield, Massachusetts"
+childrenGroups:
+  - headingText: "child by Bertha C. Crane"
+    children:
+      - name: Bertha Vining
+        birth:
+          date: January 1893
+          place: Massachusetts
+  - headingText: "child by Linwood C. Merrill"
+    children:
+      - name: Bessie Vining
+        birth:
+          date: "[age 11 y. as of 1910 census ?]"
+          place: Massachusetts
+docsUrl: Hsources/HarryD01doc.htm
+raw: |-
+  <a name="HarryD01"></a><font size=+2>Harry D. Vining</font>
+     (son of <a href="#HomerC01">Homer C. Vining and Sarah Fowler</a>)
+     b. [22 or 26?] June 1865   Massachusetts
+     m. (1) Bertha C. Crane
+                       b. 1866
+                       d. 1893
+                             bur. Southwick Cemetery   Southwick, Massachusetts
+           (2) 16 y. as of 1910 census
+                 Linwood C. Merrill
+                       b. December 1870   Vermont
+                       d. 1960
+                             bur. Meeting House Hill Cemetery   West Springfield, Massachusetts
+     d. 9 October 1929   West Springfield, Massachusetts
+           bur. Meeting House Hill Cemetery   West Springfield, Massachusetts
+  
+  <font size=+1>child by Bertha C. Crane:</font>
+     Bertha Vining   b. January 1893   Massachusetts
+  <font size=+1>child by Linwood C. Merrill:</font>
+     Bessie Vining   b. [age 11 y. as of 1910 census ?]   Massachusetts
+     
+  <a href="Hsources/HarryD01doc.htm">documentation and notes</a>

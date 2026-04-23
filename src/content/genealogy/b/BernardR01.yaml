@@ -1,0 +1,64 @@
+id: BernardR01
+letter: B
+sequence: 44
+lastUpdated: 25 February 2023
+relationship: son
+parentId: BertrandG01
+parentDesc: Bertrand Guy Vining and Violet Marion Whitney
+head:
+  givenName: Bernard Roy
+  birth:
+    date: 23 February 1925
+    place: "Weld, Franklin County, Maine"
+marriages:
+  - date: 4 May 1947
+    place: "Farmington, Franklin County, Maine"
+    spouse:
+      givenName: Shirley Jane
+      surname: Foote
+      parents: (dau. of Harry Foote and Edith Crosby)
+      birth:
+        date: 29 January 1925
+        place: "Bath, Sagadahoc County, Maine"
+      death:
+        date: 22 February 2017
+        place: "Weld, Franklin County, Maine"
+childrenGroups:
+  - children:
+      - name: Bernard Randall Vining
+        birth:
+          date: 19 November 1951
+          place: "Rumford, Oxford County, Maine"
+        marriages:
+          - date: 11 August 1979
+            spouse: Debra Stinneford
+      - name: Michael Scott Vining
+        birth:
+          date: 10 August 1953
+          place: "Rumford, Oxford County, Maine"
+        marriages:
+          - date: 10 December 1977
+            spouse: Juanita C. Collins
+      - name: Rachael Jane Vining
+        birth:
+          date: 17 December 1958
+        marriages:
+          - date: 8 August 1981
+            spouse: Kurtis E. Moody
+docsUrl: Bsources/BernardR01doc.htm
+raw: |-
+  <a name="BernardR01"></a><font size=+2>Bernard Roy Vining</font>
+     (son of <a href="#BertrandG01">Bertrand Guy Vining and Violet Marion Whitney</a>)
+     b. 23 February 1925   Weld, Franklin County, Maine
+     m. 4 May 1947   Farmington, Franklin County, Maine
+           Shirley Jane Foote
+                 (dau. of Harry Foote and Edith Crosby)
+                 b. 29 January 1925   Bath, Sagadahoc County, Maine
+                 d. 22 February 2017   Weld, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     Bernard Randall Vining   b. 19 November 1951   Rumford, Oxford County, Maine   -   m. 11 August 1979   Debra Stinneford
+     Michael Scott Vining   b. 10 August 1953   Rumford, Oxford County, Maine   -   m. 10 December 1977   Juanita C. Collins
+     Rachael Jane Vining   b. 17 December 1958   -   m. 8 August 1981   Kurtis E. Moody
+  
+  <a href="Bsources/BernardR01doc.htm">documentation and notes</a>

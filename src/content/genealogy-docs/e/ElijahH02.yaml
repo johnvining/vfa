@@ -1,0 +1,66 @@
+id: ElijahH02
+title: Elijah Hall Vining - Caroline Olive Davis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Elijah Hall Vining
+          values:
+            - "36"
+            - dead
+            - ""
+            - ""
+            - ""
+        - label: Caroline Olive (Davis) Vining
+          values:
+            - "20"
+            - "29"
+            - "?"
+            - "?"
+            - dead
+        - label: Mary Vining
+          values:
+            - "2"
+            - "[living?] in separate household"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Robert Elijah Vining
+          values:
+            - "1"
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Walter Davis Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1870"
+        caption: Braggs Store, Beat No. 6, Lowndes County, Alabama
+        images:
+          - src: ElijahH02census1870.jpg
+      - year: "1880"
+        caption: Eatonton, Putnam County, Georgia
+        images:
+          - src: ElijahH02census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Elijah B. [Hall?] Vining, in Pine Grove Cemetery, Eatonton, Putnam County, Georgia (from Find A
+          Grave):
+        images:
+          - src: ElijahH02gravestone.jpg

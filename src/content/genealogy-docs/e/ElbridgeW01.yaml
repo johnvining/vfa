@@ -1,0 +1,107 @@
+id: ElbridgeW01
+title: Elbridge W. Vining - Elvira W. Keene
+sections:
+  - type: census
+    table:
+      columns:
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Elbridge W. Vining
+          values:
+            - "25"
+            - "?"
+            - "45"
+            - "55"
+            - "65"
+            - "75"
+            - "?"
+        - label: Elvira W. (Keene) Vining
+          values:
+            - "20"
+            - "?"
+            - "40"
+            - "41"
+            - "59"
+            - "69"
+            - "?"
+        - label: Hervey E. Vining
+          values:
+            - 6 months
+            - "?"
+            - "20"
+            - "?"
+            - living in separate household
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: William H. Vining
+          values:
+            - ""
+            - "?"
+            - "12"
+            - "?"
+            - |-
+              41 [sic]
+              [see note below]
+            - "42"
+            - "?"
+          indent: true
+        - label: "[Mary F. Vining?]"
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: "[child Vining?]"
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1880"
+        caption: Avon, Franklin County, Maine - dwelling 99, family 106
+        images:
+          - src: ElbridgeW01census1880.jpg
+      - year: "1900"
+        caption: Strong, Franklin County, Maine - dwelling 73, family 80
+        images:
+          - src: ElbridgeW01census1900.jpg
+      - year: "1910"
+        caption: Strong, Franklin County, Maine - dwelling 149, family 149
+        images:
+          - src: ElbridgeW01census1910.jpg
+      - year: "1920"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 135, family 166. The recently widowed (5 June 1919) William H.
+          Vining returned home with his two children, Birdena [V. or U.?] and Hiram W.
+        images:
+          - src: ElbridgeW01census1920.jpg
+      - year: "1930"
+        caption: >-
+          Strong, Franklin County, Maine - dwelling 203, family 213. Also living in this household in 1930 was Hiram W.
+          Vining (17 y., b. Maine), son of William H. Vining.
+        images:
+          - src: ElbridgeW01census1930.jpg
+  - type: death
+    items:
+      - caption: "Death records, for Elbridge W. Vining and Elvira W. (Keene) Vining:"
+        images:
+          - src: ElbridgeW01deathrecorda.jpg
+          - src: ElbridgeW01deathrecordb.jpg
+          - src: ElbridgeW01wifedeathrecorda.jpg
+          - src: ElbridgeW01wifedeathrecordb.jpg

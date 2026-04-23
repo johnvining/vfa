@@ -1,0 +1,74 @@
+id: MurrayF01
+sequence: 55
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: WillisJ01
+parentLetter: W
+parentDesc: Willis Josiah Vining and Helen Sawyer Fraine
+head:
+  givenName: Murray Fraine
+  birth:
+    date: 18 November 1910
+    place: "Lewiston, Maine"
+  death:
+    date: 23 April 1978
+  burial:
+    place: "St. Peter's Cemetery   Woodman's Point, New Brunswick"
+marriages:
+  - date: 17 August 1940
+    spouse:
+      givenName: Emma Gertrude
+      surname: Williamson
+      parents: "(dau. of John Williamson and Nellie Clarke)"
+      birth:
+        date: 28 March 1914
+        place: "West Saint John, New Brunswick"
+      death:
+        date: 23 November 2006
+      burial:
+        place: "St. Peter's Cemetery   Woodman's Point, New Brunswick"
+childrenGroups:
+  - children:
+      - name: Sandra M Vining
+        birth:
+          date: 9 November 1945
+          place: "Pictou, Nova Scotia"
+      - name: Clark Fraine Vining
+        entryId: ClarkF01
+        entryLetter: C
+        birth:
+          date: 14 July 1947
+          place: "Pictou, Nova Scotia"
+        marriages:
+          - date: 28 September 1968
+            spouse: "Dorothy Louise Chaput,   divorced"
+      - name: Jack Willis Vining
+        entryId: JackW01
+        entryLetter: J
+        birth:
+          date: 24 September 1948
+          place: "Pictou, Nova Scotia"
+        marriages:
+          - date: 28 September 1974
+            spouse: Deborah Rosemary Williams
+docsUrl: Msources/MurrayF01doc.htm
+raw: |-
+  <a name="MurrayF01"></a><font size=+2>Murray Fraine Vining</font>
+     (son of <a href="Wfamilies.htm#WillisJ01">Willis Josiah Vining and Helen Sawyer Fraine</a>)
+     b. 18 November 1910   Lewiston, Maine
+     m. 17 August 1940
+           Emma Gertrude Williamson
+                 (dau. of John Williamson and Nellie Clarke)
+                 b. 28 March 1914   West Saint John, New Brunswick
+                 d. 23 November 2006
+                       bur. St. Peter's Cemetery   Woodman's Point, New Brunswick
+     d. 23 April 1978
+           bur. St. Peter's Cemetery   Woodman's Point, New Brunswick
+  
+  <font size=+1>children:</font>
+     Sandra M Vining   b. 9 November 1945   Pictou, Nova Scotia
+     <a href="Cfamilies.htm#ClarkF01">Clark Fraine Vining</a>   b. 14 July 1947   Pictou, Nova Scotia   -   m. 28 September 1968   Dorothy Louise Chaput,   divorced
+     <a href="Jfamilies.htm#JackW01">Jack Willis Vining</a>   b. 24 September 1948   Pictou, Nova Scotia   -   m. 28 September 1974   Deborah Rosemary Williams
+  
+  <a href="Msources/MurrayF01doc.htm">documentation and notes</a>

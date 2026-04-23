@@ -1,0 +1,142 @@
+id: ErnestL01
+sequence: 113
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: EdwardM01
+parentDesc: Edward Milton Vining and Adelia D. Garrity
+head:
+  givenName: Ernest L.
+  birth:
+    date: 5 April 1871
+    place: "Florence Township, North Dakota"
+  death:
+    date: 16 May 1919
+    place: "Alice, North Dakota"
+  burial:
+    place: "Watson Cemetery   Leonard, North Dakota"
+marriages:
+  - date: 10 October 1900
+    spouse:
+      givenName: Hattie M.
+      surname: Schoessow
+      parents: (dau. of Henrich J. Schoessow and Amellia Voigt)
+      birth:
+        date: 20 January 1883
+        place: North Dakota
+      death:
+        date: 8 December 1913
+      burial:
+        place: "Watson Cemetery   Leonard, North Dakota"
+childrenGroups:
+  - children:
+      - name: Clifford R. Vining
+        birth:
+          date: 6 March 1901
+        death:
+          date: 10 January 1909
+        burial:
+          place: "Watson Cemetery   Leonard, North Dakota"
+      - name: Lenley Loren Vining
+        entryId: LenleyL01
+        entryLetter: L
+        birth:
+          date: 29 May 1903
+          place: "[Chaffee or Walburg Township?], North Dakota"
+        marriages:
+          - date: 28 December 1926
+            place: "Moorhead, Minnesota"
+            spouse: Marion O'Bleness
+        death:
+          date: 7 May 1993
+          place: "Walburg Township, North Dakota"
+        burial:
+          place: "Watson Township, North Dakota"
+      - name: Delia E. Vining
+        birth:
+          date: 26 March 1905
+          place: "Chaffee, North Dakota"
+        marriages:
+          - spouse: William Pontell
+        death:
+          date: 11 June 1974
+          place: "Milwaukee, Wisconsin"
+        burial:
+          place: "Watson Township, North Dakota"
+      - name: Earl Arthur Vining
+        entryId: EarlA01
+        birth:
+          date: 3 December 1906
+          place: "Walburg Township, North Dakota"
+        marriages:
+          - date: 27 July 1927
+            place: "Fargo, North Dakota"
+            spouse: "Frances O'Bleness"
+        death:
+          date: 1 April 1984
+          place: "Casseltn, Cass County, North Dakota"
+        burial:
+          place: "Casselton Cemetery   Casseltn, Cass County, North Dakota"
+      - name: Altha E. Vining
+        birth:
+          date: 21 May 1908
+          place: "[Chaffee or Walburg Township?], North Dakota"
+        marriages:
+          - date: 19 June 1929
+            spouse: August Marschke
+        death:
+          date: 24 July 1969
+          place: "Fargo, North Dakota"
+        burial:
+          place: "Watson Township, North Dakota"
+      - name: Cecil Frank Vining
+        entryId: CecilF01
+        entryLetter: C
+        birth:
+          date: 12 May 1910
+          place: "Walburg Township, North Dakota"
+        marriages:
+          - spouse: "[...] Howe"
+        death:
+          date: 23 August 1965
+          place: "Oroville, Washington"
+      - name: Clair Vining
+        birth:
+          date: 30 March 1912
+        death:
+          date: 20 February 1991
+          place: "(last residence: Naches, Washington)"
+      - name: Melvin Frederick Vining
+        birth:
+          date: 17 September 1913
+          place: North Dakota
+        death:
+          date: 11 June 1914
+          place: North Dakota
+        burial:
+          place: "Watson Township, North Dakota"
+docsUrl: Esources/ErnestL01doc.htm
+raw: |-
+  <a name="ErnestL01"></a><font size=+2>Ernest L. Vining</font>
+     (son of <a href="#EdwardM01">Edward Milton Vining and Adelia D. Garrity</a>)
+     b. 5 April 1871   Florence Township, North Dakota
+     m. 10 October 1900
+           Hattie M. Schoessow
+                 (dau. of Henrich J. Schoessow and Amellia Voigt)
+                 b. 20 January 1883   North Dakota
+                 d. 8 December 1913
+                       bur. Watson Cemetery   Leonard, North Dakota
+     d. 16 May 1919   Alice, North Dakota
+           bur. Watson Cemetery   Leonard, North Dakota
+  
+  <font size=+1>children:</font>
+     Clifford R. Vining   b. 6 March 1901   -   d. 10 January 1909   -   bur. Watson Cemetery   Leonard, North Dakota
+     <a href="Lfamilies.htm#LenleyL01">Lenley Loren Vining</a>   b. 29 May 1903   [Chaffee or Walburg Township?], North Dakota   -   m. 28 December 1926   Moorhead, Minnesota   Marion O'Bleness   -   d. 7 May 1993   Walburg Township, North Dakota   -   bur. Watson Township, North Dakota
+     Delia E. Vining   b. 26 March 1905   Chaffee, North Dakota   -   m. William Pontell   -   d. 11 June 1974   Milwaukee, Wisconsin   -   bur. Watson Township, North Dakota
+     <a href="#EarlA01">Earl Arthur Vining</a>   b. 3 December 1906   Walburg Township, North Dakota   -   m. 27 July 1927   Fargo, North Dakota   Frances O'Bleness   -   d. 1 April 1984   Casseltn, Cass County, North Dakota   -   bur. Casselton Cemetery   Casseltn, Cass County, North Dakota
+     Altha E. Vining   b. 21 May 1908   [Chaffee or Walburg Township?], North Dakota   -   m. 19 June 1929   August Marschke   -   d. 24 July 1969   Fargo, North Dakota   -   bur. Watson Township, North Dakota
+     <a href="Cfamilies.htm#CecilF01">Cecil Frank Vining</a>   b. 12 May 1910   Walburg Township, North Dakota   -   m. [...] Howe   -   d. 23 August 1965   Oroville, Washington
+     Clair Vining   b. 30 March 1912   -   d. 20 February 1991   (last residence: Naches, Washington)
+     Melvin Frederick Vining   b. 17 September 1913   North Dakota   -   d. 11 June 1914   North Dakota   -   bur. Watson Township, North Dakota
+  
+  <a href="Esources/ErnestL01doc.htm">documentation and notes</a>

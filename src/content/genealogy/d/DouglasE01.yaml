@@ -1,0 +1,75 @@
+id: DouglasE01
+sequence: 91
+letter: D
+lastUpdated: 25 February 2023
+relationship: son
+parentId: ClairW01
+parentLetter: C
+parentDesc: Clair Wilbur Vining and Jennie Adelia Rose
+head:
+  givenName: Douglas Earl
+  birth:
+    date: 16 June 1919
+    place: "Binghamton, New York"
+  death:
+    date: 3 January 2001
+    place: "Merced, California"
+  burial:
+    place: "Golden Gate National Cemetery   San Bruno, California"
+marriages:
+  - date: 16 June 1941
+    spouse:
+      givenName: Elizabeth Rose
+      surname: Jones
+      parents: "(dau. of Joseph George Jones and Irene Mae Jenks)"
+      birth:
+        date: 12 July 1920
+        place: "Tampa, Florida"
+      death:
+        date: 5 January 1998
+        place: "Merced, California"
+      burial:
+        place: "Golden Gate National Cemetery   San Bruno, California"
+childrenGroups:
+  - children:
+      - name: Richard Jay Vining
+        entryId: RichardJ01
+        entryLetter: R
+        birth:
+          date: November 1942
+      - name: Robin Jay Vining
+        birth:
+          date: June 1946
+      - name: Raymond D. Vining
+        entryId: RaymondD01
+        entryLetter: R
+        birth:
+          date: 13 December 1949
+      - name: Robert Wayne Vining
+        birth:
+          date: 24 September 1950
+        death:
+          date: 19 May 1958
+        burial:
+          place: "Golden Gate National Cemetery   San Bruno, California"
+docsUrl: Dsources/DouglasE01doc.htm
+raw: |-
+  <a name="DouglasE01"></a><font size=+2>Douglas Earl Vining</font>
+     (son of <a href="Cfamilies.htm#ClairW01">Clair Wilbur Vining and Jennie Adelia Rose</a>)
+     b. 16 June 1919   Binghamton, New York
+     m. 16 June 1941
+           Elizabeth Rose Jones
+                 (dau. of Joseph George Jones and Irene Mae Jenks)
+                 b. 12 July 1920   Tampa, Florida
+                 d. 5 January 1998   Merced, California
+                       bur. Golden Gate National Cemetery   San Bruno, California
+     d. 3 January 2001   Merced, California
+           bur. Golden Gate National Cemetery   San Bruno, California
+  
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#RichardJ01">Richard Jay Vining</a>   b. November 1942
+     Robin Jay Vining   b. June 1946
+     <a href="Rfamilies.htm#RaymondD01">Raymond D. Vining</a>   b. 13 December 1949
+     Robert Wayne Vining   b. 24 September 1950   -   d. 19 May 1958   -   bur. Golden Gate National Cemetery   San Bruno, California
+  
+  <a href="Dsources/DouglasE01doc.htm">documentation and notes</a>

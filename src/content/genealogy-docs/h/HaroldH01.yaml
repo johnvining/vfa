@@ -1,0 +1,45 @@
+id: HaroldH01
+title: Harold Herbert Vining - Mildred Edith Morrison
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Harold Herbert Vining:"
+        images:
+          - src: HaroldH01birthrecord.jpg
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Harold Herbert Vining
+          values:
+            - "31"
+        - label: Mildred Edith (Morrison) Vining
+          values:
+            - "31"
+        - label: Maurice Edwin Vining
+          values:
+            - "7"
+          indent: true
+        - label: Shirley Joyce Vining
+          values:
+            - "6"
+          indent: true
+        - label: Dorothy Mae Vining
+          values:
+            - "4"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          Cooper, Washington County, Maine. Also living in this household in 1940 was Herbert Vining (19 y., b. Maine),
+          a brother of Harold Herbert Vining.
+        images:
+          - src: HaroldH01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Harold Herbert Vining and Mildred Edith (Morrison) Vining, in West Ridge Cemetery, Cooper,
+          Washington County, Maine (from Find A Grave):
+        images:
+          - src: HaroldH01andwifeheadstone.jpg

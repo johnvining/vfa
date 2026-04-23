@@ -1,0 +1,66 @@
+id: JohnS04
+sequence: 267
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: FrancisM01
+parentLetter: F
+parentDesc: Francis Marion Vining and Elizabeth Scott
+head:
+  givenName: John Simion
+  birth:
+    date: 26 April 1857
+    place: Louisiana
+  death:
+    date: "1931"
+  burial:
+    place: "Beulah Cemetery   Calhoun, Louisiana"
+marriages:
+  - spouse:
+      givenName: Mary
+      surname: Geuin
+      birth:
+        date: "1863"
+      death:
+        date: "1925"
+      burial:
+        place: "Beulah Cemetery   Calhoun, Louisiana"
+childrenGroups:
+  - children:
+      - name: Clarence Vining
+        entryId: ClarenceE02
+        entryLetter: C
+        birth:
+          date: "1886"
+        marriages:
+          - date: Elva Waters
+        death:
+          date: "1958"
+        burial:
+          place: "Beulah Cemetery   Calhoun, Louisiana"
+      - name: Clara Vining
+      - name: Myrdie Vining
+      - name: Lizzie Vining
+        marriages:
+          - date: "[...] Riser"
+      - name: Floy Vining
+docsUrl: Jsources/JohnS04doc.htm
+raw: |-
+  <a name="JohnS04"></a><font size=+2>John Simion Vining</font>
+     (son of <a href="Ffamilies.htm#FrancisM01">Francis Marion Vining and Elizabeth Scott</a>)
+     b. 26 April 1857   Louisiana
+     m. Mary Geuin
+              b. 1863
+              d. 1925
+                    bur Beulah Cemetery   Calhoun, Louisiana
+     d. 1931
+           bur. Beulah Cemetery   Calhoun, Louisiana
+  
+  <font size=+1>children:</font>
+     <a href="Cfamilies.htm#ClarenceE02">Clarence Vining</a>   b. 1886   -   m. Elva Waters   -   d. 1958   -   bur. Beulah Cemetery   Calhoun, Louisiana
+     Clara Vining
+     Myrdie Vining
+     Lizzie Vining   m. [...] Riser
+     Floy Vining
+  
+  <a href="Jsources/JohnS04doc.htm">documentation and notes</a>

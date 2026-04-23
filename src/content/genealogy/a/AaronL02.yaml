@@ -1,0 +1,38 @@
+id: AaronL02
+letter: A
+sequence: 3
+lastUpdated: 1 February 2021
+relationship: son
+parentId: JohnS02
+parentLetter: J
+parentDesc: John Sanford Vining and Claudia Camille Smith
+head:
+  givenName: Aaron Lee
+  birth:
+    date: 11 May 1971
+    place: "Sacramento, Sacramento County, California"
+marriages:
+  - date: 27 April 1996
+    spouse:
+      givenName: Luz Maria
+      surname: Garcia
+childrenGroups:
+  - children:
+      - name: Matthew Aaron Vining
+        birth:
+          date: 23 October 1998
+          place: "Tacoma, Pierce, Washington"
+      - name: Lauren Marie Vining
+        birth:
+          date: 6 October 2001
+          place: "Tacoma, Pierce County, Washington"
+raw: |-
+  <a name="AaronL02"></a><font size="+2">Aaron Lee Vining</font>
+     (son of <a href="Jfamilies.htm#JohnS02">John Sanford Vining and Claudia Camille Smith</a>)
+     b. 11 May 1971   Sacramento, Sacramento County, California
+     m. 27 April 1996
+           Luz Maria Garcia
+  
+  <font size="+1">children:</font>
+     Matthew Aaron Vining   b. 23 October 1998   Tacoma, Pierce, Washington
+     Lauren Marie Vining   b. 6 October 2001   Tacoma, Pierce County, Washington

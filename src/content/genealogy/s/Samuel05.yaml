@@ -1,0 +1,87 @@
+id: Samuel05
+letter: S
+sequence: 4
+lastUpdated: 25 February 2023
+relationship: son
+parentId: John05
+parentLetter: J
+parentDesc: John Vining and Mary Goodwin
+head:
+  givenName: Samuel
+  birth:
+    date: 26 May 1795
+    place: "Durham, Androscoggin County, Maine"
+  death:
+    date: 26 July 1842
+    place: Troy
+  burial:
+    place: "Lisbon Cemetery   Lisbon, Androscoggin County, Maine"
+marriages:
+  - date: int. 3 April 1825
+    place: "Lisbon, Androscoggin County, Maine"
+    spouse:
+      givenName: "Mary &#8220;Polly&#8221;"
+      surname: Smith
+      birth:
+        date: 2 December 1794
+        place: "Lisbon, Androscoggin County, Maine"
+      death:
+        date: 28 October 1872
+      burial:
+        place: "Lisbon Cemetery   Lisbon, Androscoggin County, Maine"
+childrenGroups:
+  - children:
+      - name: Mary A. Vining
+        birth:
+          date: 26 March 1826
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: int. 20 October 1871
+            place: "Lisbon, Androscoggin County, Maine"
+            spouse: Harvey Barrows
+        death:
+          date: "1872"
+        burial:
+          place: "Lisbon Cemetery   Lisbon, Androscoggin County, Maine"
+      - name: Otis Smith Vining
+        entryId: OtisS01
+        entryLetter: O
+        birth:
+          date: 18 November 1830
+          place: "Durham, Androscoggin County, Maine"
+        marriages:
+          - date: int. 3 October 1852
+            place: "Lisbon, Androscoggin County, Maine"
+            spouse: Minerva A. Stover
+        death:
+          date: 19 April 1889
+          place: "Lisbon, Androscoggin County, Maine"
+        burial:
+          place: "Hillside Cemetery   Lisbon, Androscoggin County, Maine"
+      - name: Martha Elizabeth Vining
+        birth:
+          date: 20 October 1835
+          place: Troy
+        death:
+          date: 21 September 1872
+        burial:
+          place: "Lisbon Cemetery   Lisbon, Androscoggin County, Maine"
+docsUrl: Ssources/Samuel05doc.htm
+raw: |-
+  <a name="Samuel05"></a><font size=+2>Samuel Vining</font>
+     (son of <a href="Jfamilies.htm#John05">John Vining and Mary Goodwin</a>)
+     b. 26 May 1795   Durham, Androscoggin County, Maine
+     m. int. 3 April 1825   Lisbon, Androscoggin County, Maine
+           Mary &#8220;Polly&#8221; Smith
+                 b. 2 December 1794   Lisbon, Androscoggin County, Maine
+                 d. 28 October 1872
+                       bur. Lisbon Cemetery   Lisbon, Androscoggin County, Maine
+     d. 26 July 1842   Troy   
+           bur. Lisbon Cemetery    Lisbon, Androscoggin County, Maine
+  
+  <font size=+1>children:</font>
+     Mary A. Vining   b. 26 March 1826   Durham, Androscoggin County, Maine   -   m. int. 20 October 1871   Lisbon, Androscoggin County, Maine   Harvey Barrows   -   d. 1872   -   bur. Lisbon Cemetery   Lisbon, Androscoggin County, Maine
+     <a href="Ofamilies.htm#OtisS01">Otis Smith Vining</a>   b. 18 November 1830   Durham, Androscoggin County, Maine   -   m. int. 3 October 1852   Lisbon, Androscoggin County, Maine   Minerva A. Stover   -   d. 19 April 1889   Lisbon, Androscoggin County, Maine   -   bur. Hillside Cemetery   Lisbon, Androscoggin County, Maine
+     Martha Elizabeth Vining   b. 20 October 1835   Troy   -   d. 21 September 1872   -   bur. Lisbon Cemetery   Lisbon, Androscoggin County, Maine
+  
+  <a href="Ssources/Samuel05doc.htm">documentation and notes</a>

@@ -1,0 +1,107 @@
+id: ClarenceD02
+letter: C
+sequence: 117
+lastUpdated: 25 February 2023
+relationship: son
+parentId: Edgar01
+parentLetter: E
+parentDesc: "Edgar &#8220;Dutch&#8221; Vining and Mary Kelly"
+head:
+  givenName: Clarence Donavon
+  birth:
+    date: 7 May 1906
+    place: Michigan
+  death:
+    date: June 1980
+    place: "(last residence: Snover, Michigan)"
+marriages:
+  - spouse:
+      givenName: Iva
+      surname: Travis
+childrenGroups:
+  - children:
+      - name: Robert Vining
+        entryId: Robert03
+        entryLetter: R
+        birth:
+          date: 24 July 1926
+        marriages:
+          - date: Betty Fogal
+      - name: Max W. Vining
+        entryId: MaxW01
+        entryLetter: M
+        birth:
+          date: 24 March 1928
+          place: Michigan
+        marriages:
+          - date: Lois Marjorie Potter
+        death:
+          date: 10 December 2000
+          place: "(last residence: Saginaw, Michigan)"
+        burial:
+          place: Johnson Cemetery   Michigan
+      - name: Doris Vining
+        birth:
+          date: 21 August 1929
+        marriages:
+          - date: Lee Galloway
+      - name: Ronald Wayne Vining
+        entryId: RonaldW02
+        entryLetter: R
+        birth:
+          date: 3 December 1930
+        marriages:
+          - date: 28 December 1952
+            place: "Chicago, Illinois"
+            spouse: Leona Rose Hunt
+        death:
+          date: 23 September 2009
+          place: "Clinton Township, Michigan"
+      - name: Mary Anne Vining
+        birth:
+          date: 28 March 1932
+        marriages:
+          - date: Darwin Donley
+        death:
+          date: before 10 August 2007
+      - name: "Clarence E. &#8220;Pete&#8221; Vining"
+        entryId: ClarenceE01
+        birth:
+          date: 2 November 1935
+          place: "Decker, Michigan"
+        marriages:
+          - number: 1
+            date: "Kay Smith,"
+            spouse: divorced
+          - number: 2
+            date: 13 November 1971
+            spouse: "Violet L. Phetteplace (n&#233;e Loutzenhiser)"
+        death:
+          date: 10 August 2007
+          place: "Saginaw, Michigan"
+      - name: Donna Leone Vining
+        birth:
+          date: 24 July 1938
+          place: "Decker, Michigan"
+        marriages:
+          - date: Merle Ford
+        death:
+          date: 31 January 2001
+          place: "(last residence: Venice, Florida)"
+        burial:
+          place: "Mooretown Cemetery   Snover, Michigan"
+raw: |-
+  <a name="ClarenceD02"></a><font size=+2>Clarence Donavon Vining</font>
+     (son of <a href="Efamilies.htm#Edgar01">Edgar &#8220;Dutch&#8221; Vining and Mary Kelly</a>)
+     b. 7 May 1906   Michigan
+     m. Iva Travis
+     d. June 1980   (last residence: Snover, Michigan)
+    
+  <font size=+1>children:</font>
+     <a href="Rfamilies.htm#Robert03">Robert Vining</a>   b. 24 July 1926   -   m. Betty Fogal
+     <a href="Mfamilies.htm#MaxW01">Max W. Vining</a>   b. 24 March 1928   Michigan   -   m. Lois Marjorie Potter   -   d. 10 December 2000   (last residence: Saginaw, Michigan)   -   bur. Johnson Cemetery   Michigan
+     Doris Vining   b. 21 August 1929   -   m. Lee Galloway
+     <a href="Rfamilies.htm#RonaldW02">Ronald Wayne Vining</a>   b. 3 December 1930   -   m. 28 December 1952   Chicago, Illinois   Leona Rose Hunt   -   d. 23 September 2009   Clinton Township, Michigan
+     Mary Anne Vining   b. 28 March 1932   -   m. Darwin Donley   -   d. before 10 August 2007
+     <a href="#ClarenceE01">Clarence E. &#8220;Pete&#8221; Vining</a>   b. 2 November 1935   Decker, Michigan   -   m. (1) Kay Smith,   divorced;   (2) 13 November 1971   Violet L. Phetteplace (n&#233;e Loutzenhiser)   -   d. 10 August 2007   Saginaw, Michigan
+     Donna Leone Vining   b. 24 July 1938   Decker, Michigan   -   m. Merle Ford   -   d. 31 January 2001   (last residence: Venice, Florida)   -   bur. Mooretown Cemetery   Snover, Michigan

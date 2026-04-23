@@ -1,0 +1,133 @@
+id: JamesC02
+title: James C. Vining - Abigail Willoughby
+sections:
+  - type: census
+    table:
+      columns:
+        - "1840"
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1875"
+        - "1880"
+      rows:
+        - label: James C. Vining
+          values:
+            - |-
+              20–30
+              [see note below]
+            - "38"
+            - "?"
+            - "54"
+            - dead
+            - ""
+        - label: Abigail (Willoughby) Vining
+          values:
+            - "?"
+            - "28"
+            - "?"
+            - "50"
+            - "54"
+            - |-
+              59
+              [see note below]
+        - label: Martha Vining
+          values:
+            - "?"
+            - "11"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Abigail Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Robert H. Vining
+          values:
+            - ""
+            - "2"
+            - "?"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Richard Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "18"
+            - 18 [sic]
+            - "[living? in separate household]"
+          indent: true
+        - label: Emma Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "10"
+            - "15"
+            - "[living? in separate household]"
+          indent: true
+        - label: George G. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "7"
+            - "12"
+            - "17"
+          indent: true
+        - label: Laura E. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "2"
+            - "7"
+            - "12"
+          indent: true
+    entries:
+      - year: "1840"
+        caption: >-
+          Covington, Tioga County, Pennsylvania. Only James was reported to be living in this household, but the "total"
+          reported on the following page was 3.
+      - year: "1850"
+        caption: "[no town name given], Henry County, Illinois - dwelling 55, family 55"
+        images:
+          - src: JamesC02census1850.jpg
+      - year: "1870"
+        caption: Cambridge, Henry County, Illinois - dwelling 233, family 239
+        images:
+          - src: JamesC02census1870a.jpg
+          - src: JamesC02census1870b.jpg
+      - year: "1875"
+        caption: "[illegible town name], Republic County, Kansas - dwelling 83, family 84"
+        images:
+          - src: JamesC02Kansascensus1875.jpg
+      - year: "1880"
+        caption: >-
+          Solomon Township, Norton County, Kansas - dwelling 2, family 2. By 1880, Abigail had married Silas Zenus
+          Waters.
+        images:
+          - src: JamesC02census1880.jpg
+  - type: military
+    items:
+      - caption: "Military record of Robert H. Vining, son of James C. Vining and Abigail Willoughby:"
+        images:
+          - src: JamesC02sonRobertmilitaryrec.jpg
+  - type: other
+    heading: Personal Data
+    items:
+      - caption: >-
+          Newpaper notice to creditors (from Tioga Eagle (Wellsboro, Pennsylvania), Wednesday, 26 October 1842, page 3,
+          column 4):
+        images:
+          - src: JamesC02noticetocreditors.jpg

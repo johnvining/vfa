@@ -1,0 +1,50 @@
+id: GeorgeH05
+title: George H. Vining - Dora P. Scheele
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: George H. Vining
+          values:
+            - "28"
+            - dead
+            - ""
+        - label: Dora P. (Scheele) Vining
+          values:
+            - "24"
+            - "34"
+            - "44"
+        - label: Mary E. Vining
+          values:
+            - ""
+            - "9"
+            - "[living? in separate household]"
+          indent: true
+        - label: Donald G. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Jackson (ward 5, precinct 1), Jackson County, Michigan - dwelling 194, family 228
+        images:
+          - src: GeorgeH05census1920.jpg
+      - year: "1930"
+        caption: Jackson (ward 2), Jackson County, Michigan - dwelling 185, family 234
+        images:
+          - src: GeorgeH05census1930.jpg
+      - year: "1940"
+        caption: Waterloo Township, Jackson County, Michigan
+        images:
+          - src: GeorgeH05census1940.jpg
+  - type: death
+    items:
+      - caption: "Gravestone for George H. Vining, in Woodland Cemetery, Jackson, Jackson County, Michigan (from Find A Grave):"
+        images:
+          - src: GeorgeH05gravestone.jpg

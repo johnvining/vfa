@@ -1,0 +1,64 @@
+id: GuyE01
+title: Guy Ellsworth Vining - Flora M. Davis
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Guy Ellsworth Vining
+          values:
+            - "29"
+            - "37"
+            - "46"
+        - label: Flora M. (Davis) Vining
+          values:
+            - "26"
+            - "36"
+            - "45"
+        - label: Guy Ellsworth Vining Jr.
+          values:
+            - 4 years, 10 months
+            - "15"
+            - living in separate household
+          indent: true
+        - label: Leland Paul Vining
+          values:
+            - 1 year, 9 months
+            - "11"
+            - "21"
+          indent: true
+        - label: William Albert Vining
+          values:
+            - ""
+            - "[2 m.?]"
+            - "12"
+          indent: true
+        - label: Milton James Vining
+          values:
+            - ""
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: Dunning, Blaine County, Nebraska - dwelling 142, family 150
+        images:
+          - src: GuyE01census1920.jpg
+      - year: "1930"
+        caption: Marshall Township (Waterville Village), Oneida County, New York - dwelling 10, family 10
+        images:
+          - src: GuyE01census1930.jpg
+      - year: "1940"
+        caption: Waterville Village, Oneida County, New York
+        images:
+          - src: GuyE01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Guy Ellsworth Vining and Flora M. (Davis) Vining, in Kattellville Cemetery, Kattellville, Broome
+          County, New York (from Find A Grave):
+        images:
+          - src: GuyE01andwifeheadstone.jpg

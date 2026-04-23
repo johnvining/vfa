@@ -1,0 +1,117 @@
+id: MelvinL03
+sequence: 22
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: AlbertE02
+parentLetter: A
+parentDesc: Albert Edward Vining and Estelle A. Raybold
+head:
+  givenName: Melvin Lapham
+  birth:
+    date: 8 July 1883
+    place: "Pittsfield, Massachusetts"
+  death:
+    date: 14 October 1946
+    place: "Milwaukee, Wisconsin"
+  burial:
+    place: "Wood National Cemetery   Milwaukee. Wisconsin"
+marriages:
+  - number: 1
+    date: 13 January 1906
+    place: "Springfield, Massachusetts"
+    spouse:
+      givenName: Hazel
+      surname: Elliott
+      parents: "(dau. of Ernest Elliott and Gertrude Bugbee)"
+      birth:
+        date: "1888"
+    note: divorced
+  - number: 2
+    date: 8 April 1912
+    place: "Skowhegan, Maine"
+    spouse:
+      givenName: Emeline
+      surname: Barnes
+      parents: "(dau. of William Barnes and Lucy Ogden)"
+      birth:
+        date: "1883"
+        place: England
+      death:
+        date: 6 September 1941
+      burial:
+        place: "North Burial Ground   Providence, Rhode Island"
+  - number: 3
+    date: Olga Maria Laine
+    spouse:
+      birth:
+        date: "[15 or 20?] September [1890 or 1889?]"
+        place: Finland
+      death:
+        date: 22 September 1973
+      burial:
+        place: "Wood National Cemetery   Milwaukee. Wisconsin"
+childrenGroups:
+  - headingText: "child [by Hazel Elliott ?]"
+    children:
+      - name: Dorothy E. Vining
+        birth:
+          date: age 9 y. as of 1920 census
+          place: "[Rhode Island ?]"
+  - headingText: "child by Emeline Barnes"
+    children:
+      - name: Esther A. Vining
+        birth:
+          date: 1 October 1913
+          place: "Skowhegan, Maine"
+  - spouseRef: Olga Maria Laine
+    children:
+      - name: Kenwood Wesley Vining
+        entryId: KenwoodW01
+        entryLetter: K
+        birth:
+          date: 24 October 1925
+          place: "Helena, Montana"
+        marriages:
+          - date: Shirley Joanne Peterson
+        death:
+          date: 24 March 2006
+          place: "Williamsburg, Virginia"
+      - name: Eunice Vining
+        birth:
+          date: age 13 y. as of 1940 census
+          place: Oregon
+        marriages:
+          - date: "[&#8230;] Adachi"
+docsUrl: Msources/MelvinL03doc.htm
+raw: |-
+  <a name="MelvinL03"></a><font size=+2>Melvin Lapham Vining</font>
+     (son of <a href="Afamilies.htm#AlbertE02">Albert Edward Vining and Estelle A. Raybold</a>)
+     b. 8 July 1883   Pittsfield, Massachusetts
+     m. (1) 13 January 1906   Springfield, Massachusetts
+                 Hazel Elliott
+                       (dau. of Ernest Elliott and Gertrude Bugbee)
+                       b. 1888
+                 divorced
+           (2) 8 April 1912   Skowhegan, Maine
+                 Emeline Barnes
+                       (dau. of William Barnes and Lucy Ogden)
+                       b. 1883   England
+                       d. 6 September 1941
+                             bur. North Burial Ground   Providence, Rhode Island
+           (3) Olga Maria Laine
+                       b. [15 or 20?] September [1890 or 1889?]   Finland
+                       d. 22 September 1973
+                             bur. Wood National Cemetery   Milwaukee. Wisconsin
+     d. 14 October 1946   Milwaukee, Wisconsin
+           bur. Wood National Cemetery   Milwaukee. Wisconsin
+  
+  <font size=+1>child [by Hazel Elliott ?]:</font>
+     Dorothy E. Vining   b. age 9 y. as of 1920 census   [Rhode Island ?]
+  <font size=+1>child by Emeline Barnes:</font>
+     Esther A. Vining   b. 1 October 1913   Skowhegan, Maine
+  <font size=+1>children by Olga Maria Laine:</font>
+     <a href="Kfamilies.htm#KenwoodW01">Kenwood Wesley Vining</a>   b. 24 October 1925   Helena, Montana   -   m. Shirley Joanne Peterson   -   d. 24 March 2006   Williamsburg, Virginia
+     Eunice Vining   b. age 13 y. as of 1940 census   Oregon   -   m. [&#8230;] Adachi
+  
+  <a href="Msources/MelvinL03doc.htm">documentation and notes</a>

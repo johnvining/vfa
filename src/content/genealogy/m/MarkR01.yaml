@@ -1,0 +1,45 @@
+id: MarkR01
+sequence: 7
+letter: M
+lastUpdated: 13 January 2021
+relationship: son
+parentId: JohnH05
+parentLetter: J
+parentDesc: John Henry Vining and Verna Belle Dyke
+head:
+  givenName: Mark Raymond
+  birth:
+    date: 31 August 1961
+    place: "Clinton, Iowa"
+marriages:
+  - spouse:
+      givenName: Lynn Ann
+      surname: Willenburg
+      birth:
+        date: 14 January 1956
+        place: "Petersburg, Iowa"
+childrenGroups:
+  - children:
+      - name: Leah Ann Vining
+        birth:
+          date: 20 April 1990
+          place: "Iowa City, Iowa"
+      - name: Brett Matthew Vining
+        birth:
+          date: 14 June 1991
+          place: "Iowa City, Iowa"
+      - name: Sarah Elizabeth Vining
+        birth:
+          date: 29 January 1994
+          place: "Iowa City, Iowa"
+raw: |-
+  <a name="MarkR01"></a><font size=+2>Mark Raymond Vining</font>
+     (son of <a href="Jfamilies.htm#JohnH05">John Henry Vining and Verna Belle Dyke</a>)
+     b. 31 August 1961   Clinton, Iowa
+     m. Lynn Ann Willenburg
+              b. 14 January 1956   Petersburg, Iowa
+  
+  <font size=+1>children:</font>
+     Leah Ann Vining   b. 20 April 1990   Iowa City, Iowa
+     Brett Matthew Vining   b. 14 June 1991   Iowa City, Iowa
+     Sarah Elizabeth Vining   b. 29 January 1994   Iowa City, Iowa

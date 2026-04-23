@@ -1,0 +1,185 @@
+id: Alonzo01
+title: Alonzo Vining - Jane McNee
+sections:
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - 1881 (Canada)
+        - "1890"
+        - "1900"
+      rows:
+        - label: Alonzo Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "57"
+            - "?"
+            - "?"
+        - label: Jane (McNee) Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "54"
+            - "?"
+            - "?"
+        - label: Andrew Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Pamelia M. Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Sabrina Vining
+          values:
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mary Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Annie Jane Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "28"
+            - "?"
+            - "?"
+          indent: true
+        - label: Charlotte Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "26"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joseph Alonzo Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "24"
+            - married [and living in separate household?]
+            - ""
+          indent: true
+        - label: James G. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "22"
+            - dead
+            - ""
+          indent: true
+        - label: Emily M. Vining
+          values:
+            - ""
+            - "?"
+            - "?"
+            - "?"
+            - "[married and living in separate household?]"
+            - ""
+            - ""
+          indent: true
+        - label: John Paul Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+        - label: Mattie C. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - "15"
+            - dead
+            - ""
+          indent: true
+        - label: Edwin L. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hannah Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "?"
+            - "8"
+            - "?"
+            - dead
+          indent: true
+    entries:
+      - year: "1881"
+        caption: Nissouri West, Middlesex East, Ontario
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Alonzo Vining, Jane (McNee) Vining, and daughter Hannah G. Vining, in Vining Cemetery, Friendly
+          Corners, West Nissouri Township, Middlesex County, Ontario (from Find A Grave):
+        images:
+          - src: Alonzo01familyheadstonefront.jpg
+      - caption: >-
+          Headstone for Annie Jane (Vining) Harris, Mattie C. Vining, and Edwin L. Vining, children of Alonzo Vining and
+          Jane (McNee) Vining, in Vining Cemetery, Friendly Corners, West Nissouri Township, Middlesex County, Ontario
+          (from Find A Grave):
+        images:
+          - src: Alonzo01childrenheadstone.jpg
+      - caption: >-
+          Monument sides for Andrew Vining and James G. Vining, sons of Alonzo Vining and Jane (McNee) Vining, in Vining
+          Cemetery, Friendly Corners, West Nissouri Township, Middlesex County, Ontario (from Find A Grave):
+        images:
+          - src: Alonzo01sonAndrewmonumentside.jpg
+          - src: Alonzo01sonJamesmonumentside.jpg
+        inline: true

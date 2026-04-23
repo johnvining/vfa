@@ -1,0 +1,39 @@
+id: AlbertL02
+title: Albert L. Vining - Lillian W. [...]
+displayTitle: Albert L. Vining - Lillian W. […]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Albert L. Vining
+          values:
+            - "?"
+            - "40"
+            - "?"
+        - label: Lillian W. ([…]) Vining
+          values:
+            - "?"
+            - "38"
+            - "?"
+        - label: "[adopted son] Lester Vining"
+          values:
+            - ""
+            - "9"
+            - "?"
+          indent: true
+    entries:
+      - year: "1930"
+        caption: Havre (ward 3), Hill County, Montata - dwelling 15, family 16
+        images:
+          - src: AlbertL02census1930.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Albert L. Vining and Lillian W. ([…]) Vining, in Whitefish Cemetery, Whitefish, Flathead County,
+          Montana (from Find A Grave):
+        images:
+          - src: AlbertL02andwifeheadstone.jpg

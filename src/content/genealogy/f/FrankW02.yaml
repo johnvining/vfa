@@ -1,0 +1,73 @@
+id: FrankW02
+sequence: 40
+letter: F
+lastUpdated: 26 February 2023
+relationship: son
+parentId: JamesB02
+parentLetter: J
+parentDesc: James Bodwell Vining and Margaret E. Quinn
+head:
+  givenName: Frank W.
+  birth:
+    date: 11 March 1882
+    place: Canada
+  death:
+    date: 21 October 1920
+    place: "Jersey City, New York"
+marriages:
+  - spouse:
+      givenName: Alice Katherine
+      surname: Healy
+      birth:
+        date: age 38 y. as of 1920 census
+        place: Canada
+childrenGroups:
+  - children:
+      - name: Joseph Alexander Vining
+        entryId: JosephA03
+        entryLetter: J
+        birth:
+          date: 29 January 1914
+          place: "[country of] Aden"
+        marriages:
+          - date: Beatrice A. Curtis
+        death:
+          date: 5 March 1972
+          place: "Toronto, Ontario"
+      - name: Mary Vining
+        birth:
+          date: 18 September 1915
+          place: "Strathroy, Ontario"
+        marriages:
+          - date: James H. Brassel (d. 1976)
+        death:
+          date: 1 November 2013
+          place: "Staten Island, New York"
+        burial:
+          place: "St. James Cemetery   North Creek, New York"
+      - name: John Francis Vining
+        entryId: JohnF03
+        entryLetter: J
+        birth:
+          date: 3 July 1917
+          place: "Lisbon, New York"
+        marriages:
+          - date: Eugenia Swantic
+        death:
+          date: 27 June 2006
+          place: "Guilford, Connecticut"
+docsUrl: Fsources/FrankW02doc.htm
+raw: |-
+  <a name="FrankW02"></a><font size=+2>Frank W. Vining</font>
+     (son of <a href="Jfamilies.htm#JamesB02">James Bodwell Vining and Margaret E. Quinn</a>)
+     b. 11 March 1882   Canada
+     m. Alice Katherine Healy
+              b. age 38 y. as of 1920 census   Canada
+     d. 21 October 1920   Jersey City, New York
+  
+  <font size=+1>children:</font>
+     <a href="Jfamilies.htm#JosephA03">Joseph Alexander Vining</a>   b. 29 January 1914   [country of] Aden   -   m. Beatrice A. Curtis   -   d. 5 March 1972   Toronto, Ontario
+     Mary Vining   b. 18 September 1915   Strathroy, Ontario   -   m. James H. Brassel (d. 1976)   -   d. 1 November 2013   Staten Island, New York   -   bur. St. James Cemetery   North Creek, New York
+     <a href="Jfamilies.htm#JohnF03">John Francis Vining</a>   b. 3 July 1917   Lisbon, New York   -   m. Eugenia Swantic   -   d. 27 June 2006   Guilford, Connecticut
+  
+  <a href="Fsources/FrankW02doc.htm">documentation and notes</a>

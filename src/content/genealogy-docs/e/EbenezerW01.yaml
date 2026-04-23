@@ -1,0 +1,100 @@
+id: EbenezerW01
+title: Ebenezer Willard Vining - Amelia Catherine Heath
+intro:
+  - caption: Thank you to Alicea Tell for her contributions to this page.
+sections:
+  - type: notes
+    text: >-
+      1. James M. Vining and Laura Ann Vining were children of Amelia Catherine (Heath) by Norman Wells, her first
+      husband (who died). It is uncertain whether they were legally adopted by Ebenezer Willard Vining or simply took
+      the surname Vining.
+
+
+      2. No census record has been found for this family after 1870.
+  - type: family
+    items:
+      - caption: >-
+          Events in the life of Ebenezer Willard Vining: 1844 June 6 - delegate from Kane County, Illinois, at Second
+          Democratic Convention of Fourth Illinois Congressional District, held at Ottawa (source: A Discourse on the
+          Aborigines of the Ohio Valley) 1867 and 1869 - served as Mail Route messenger on Fox River Valley Line, an
+          extension of the Galena & Chicago Union Railroad. (source: U. S. Philatelic Classics Society The Chronicle of
+          the U.S. Classic Postal Issues, vol. 38, no. 3, p. 209.)
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: Ebenezer Willard Vining
+          values:
+            - "36"
+            - "46"
+            - "56"
+            - "?"
+            - "?"
+            - "?"
+        - label: Amelia Catherine (Heath) Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+            - "?"
+            - "?"
+            - "?"
+        - label: James M. Vining
+          values:
+            - "9"
+            - "18"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Laura Ann Vining
+          values:
+            - "6"
+            - "16"
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Pa[r?]melia [A. or M.?] Vining
+          values:
+            - 4 m.
+            - "10"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Smith [B. or D.?] Vining
+          values:
+            - ""
+            - "2"
+            - "12"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1850"
+        caption: >-
+          Dundee, Kane County, Illinois - dwelling 172, family 760. Also living in this household in 1850 was Mary Heath
+          (73 y., b. Connecticut).
+        images:
+          - src: EbenezerW01census1850.jpg
+      - year: "1860"
+        caption: Dundee, Kane County, Illinois - dwelling 7869, family 4914
+        images:
+          - src: EbenezerW01census1860.jpg
+      - year: "1870"
+        caption: >-
+          Elgin, Kane County, Illinois - dwelling 107, family 107. Also living in this household in 1870 were Alice
+          Heath (20, b. Illinois) and T. C. Sprague (63, b. New York).
+        images:
+          - src: EbenezerW01census1870.jpg

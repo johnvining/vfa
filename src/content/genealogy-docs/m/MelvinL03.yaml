@@ -1,0 +1,95 @@
+id: MelvinL03
+title: Melvin Lapham Vining - (1) Hazel Elliott;   (2) Emeline Barnes;   (3) Olga Marie Laine
+displayTitle: Melvin Lapham Vining - (1) Hazel Elliott; (2) Emeline Barnes; (3) Olga Marie Laine
+sections:
+  - type: birth
+    items:
+      - caption: "Birth record for Esther A. Vining, daughter of Melvin Lapham Vining and Emeline (Barnes) Vining:"
+        images:
+          - src: MelvinL03dauEstherbirthrecord.jpg
+  - type: marriage
+    items:
+      - caption: "Marriage record for Melvin Lapham Vining and Emeline Barnes:"
+        images:
+          - src: MelvinL03marriage2recorda.jpg
+          - src: MelvinL03marriage2recordb.jpg
+        inline: true
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Melvin Lapham Vining
+          values:
+            - "?"
+            - "35"
+            - "?"
+            - "58"
+        - label: Hazel (Elliott) Vining
+          values:
+            - "?"
+            - ""
+            - ""
+            - ""
+        - label: Emeline (Barnes) Vining
+          values:
+            - ""
+            - "36"
+            - "?"
+            - ""
+        - label: Olga Marie (Laine) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "43"
+        - label: Dorothy E. Vining
+          values:
+            - ""
+            - "9"
+            - "?"
+            - "?"
+          indent: true
+        - label: Esther A. Vining
+          values:
+            - ""
+            - "6"
+            - "?"
+            - "?"
+          indent: true
+        - label: Kenwood Wesley Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "14"
+          indent: true
+        - label: Eunice E. Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "13"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Providence (ward 3; Jefferson Street), Providence County, Rhode Island - dwelling 20, family 34. Also living
+          in this household in 1920 were Sarah A. Young (66 y., b. Rhode Island) and Dorothy Young (8 y., b.
+          Massachusetts).
+        images:
+          - src: MelvinL03census1920.jpg
+      - year: "1940"
+        caption: Milwaukee (ward 23), Milwaukee County, Wisconsin
+        images:
+          - src: MelvinL03census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Emeline (Barnes) Vining, in North Burial Ground, Providence, Providence County, Rhode Island
+          (from Find A Grave):
+        images:
+          - src: MelvinL03wifeEmelinegravestone.jpg

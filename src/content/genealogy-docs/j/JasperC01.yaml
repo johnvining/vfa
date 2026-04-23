@@ -1,0 +1,30 @@
+id: JasperC01
+title: Jasper C. Vining - Jessie N. Burnett
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Jasper C. Vining
+          values:
+            - "28"
+        - label: Jessie N. (Burnett) Vining
+          values:
+            - "26"
+        - label: Fred Stone Vining
+          values:
+            - "5"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: 4th district, Giles County, Tennessee
+        images:
+          - src: JasperC01census1940.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for Jasper C. Vining and Jessie N. (Burnett) Vining, in Maplewood Cemetery, Pulaski, Giles County,
+          Tennessee (from Find A Grave):
+        images:
+          - src: JasperC01andwifeheadstone.jpg

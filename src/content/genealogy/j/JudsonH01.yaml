@@ -1,0 +1,90 @@
+id: JudsonH01
+sequence: 332
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: JesseP01
+parentDesc: "Jesse Pledger Vining and Mary Ann &#8220;Polly&#8221; Coxe"
+head:
+  givenName: Judson Hale
+  birth:
+    date: 26 October 1837
+    place: "Bennettsville, Marlboro County, South Carolina"
+  death:
+    date: 16 July 1911
+    place: "Lake Butler, Union County, Florida"
+  burial:
+    place: "Swift Creek Cemetery   Lake Butler, Florida"
+marriages:
+  - spouse:
+      givenName: Charlotte Elizabeth
+      surname: Alcox
+      birth:
+        date: December 1845
+        place: Georgia
+      death:
+        date: 10 September 1932
+        place: "Union County, Florida"
+      burial:
+        place: "Swift Creek Cemetery   Lake Butler, Florida"
+childrenGroups:
+  - children:
+      - name: Susan Ella Vining
+        birth:
+          date: 18 October 1867
+          place: Florida
+        marriages:
+          - date: "1886"
+            spouse: Daniel Judson Shaw
+        death:
+          date: 21 March 1942
+          place: "Duval County, Florida"
+      - name: John Colson Vining
+        birth:
+          date: July 1870
+          place: Florida
+        marriages:
+          - date: "1891"
+            spouse: Antoinette Criftine Thomas
+        death:
+          date: 28 December 1925
+          place: Florida
+      - name: Emily Lucretia Vining
+        birth:
+          date: "1876"
+          place: Florida
+        marriages:
+          - date: Mathuel H. Hurse
+        death:
+          date: "1938"
+          place: Union County   Florida
+      - name: Jesse Wells Vining
+        birth:
+          date: 18 August 1877
+          place: "Union County, Florida"
+        marriages:
+          - date: Kate Green
+        death:
+          date: 13 July 1959
+          place: "Union County, Florida"
+        burial:
+          place: "South Prong Cemetery   Sanderson, Florida"
+docsUrl: Jsources/JudsonH01doc.htm
+raw: |-
+  <a name="JudsonH01"></a><font size=+2>Judson Hale Vining</font>
+     (son of <a href="#JesseP01">Jesse Pledger Vining and Mary Ann &#8220;Polly&#8221; Coxe</a>)
+     b. 26 October 1837   Bennettsville, Marlboro County, South Carolina
+     m. Charlotte Elizabeth Alcox
+              b. December 1845   Georgia
+              d. 10 September 1932   Union County, Florida
+                    bur. Swift Creek Cemetery   Lake Butler, Florida
+     d. 16 July 1911   Lake Butler, Union County, Florida
+           bur. Swift Creek Cemetery   Lake Butler, Florida
+  
+  <font size=+1>children:</font>
+     Susan Ella Vining   b. 18 October 1867   Florida   -   m. 1886   Daniel Judson Shaw   -   d. 21 March 1942   -   Duval County, Florida
+     <a href="JohnC05">John Colson Vining</a>   b. July 1870   Florida   -   m. 1891   Antoinette Criftine Thomas   -   d. 28 December 1925   Florida
+     Emily Lucretia Vining   b. 1876   Florida   -   m. Mathuel H. Hurse   -   d. 1938   Union County   Florida
+     Jesse Wells Vining   b. 18 August 1877   Union County, Florida   -   m. Kate Green   -   d. 13 July 1959   Union County, Florida   -   bur. South Prong Cemetery   Sanderson, Florida
+  
+  <a href="Jsources/JudsonH01doc.htm">documentation and notes</a>

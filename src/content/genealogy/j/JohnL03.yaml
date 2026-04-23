@@ -1,0 +1,71 @@
+id: JohnL03
+sequence: 247
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: John12
+parentDesc: "John Vining and [...]"
+head:
+  givenName: John Llewellyn
+  birth:
+    date: "ca. July&#8211;September 1829"
+    place: "Bristol, England"
+  death:
+    date: "ca. April &#8211;June 1872"
+    place: "Clifton, Bristol, England"
+marriages:
+  - date: 1 July 1873
+    place: "St. Clements, Worcester, England"
+    spouse:
+      givenName: Mary Louisa
+      surname: Hughes
+      birth:
+        date: "1837"
+        place: "Bristol, England"
+childrenGroups:
+  - children:
+      - name: John Vining
+        birth:
+          date: "1864"
+          place: "Down End, Gloucestershire, England"
+      - name: Ivan Llewellyn Vining
+        entryId: IvanL01
+        entryLetter: I
+        birth:
+          date: 18 April 1864
+          place: "Mangotsfield, Gloucestershire, England"
+        marriages:
+          - date: "Henrietta [...]"
+      - name: Harold Despard Vining
+        entryId: HaroldD01
+        entryLetter: H
+        birth:
+          date: "1865"
+          place: "Down End, Gloucestershire, England"
+        death:
+          date: "1935"
+        burial:
+          place: "Churcham, Gloucestershire, England"
+      - name: Clare Agnes Mary Vining
+        birth:
+          date: "1869"
+          place: "Langham, Carmarthenshire"
+      - name: Oswald R. Vining
+        birth:
+          date: "1872"
+          place: "Pilton, Somerset, England"
+raw: |-
+  <a name="JohnL03"></a><font size=+2>John Llewellyn Vining</font>
+     (son of <a href="#John12">John Vining and [...]</a>)
+     b. ca. July&#8211;September 1829   Bristol, England
+     m. 1 July 1873   St. Clements, Worcester, England
+           Mary Louisa Hughes
+                 b. 1837   Bristol, England
+     d. ca. April &#8211;June 1872   Clifton, Bristol, England
+  
+  <font size=+1>children:</font>
+     John Vining   b. 1864   Down End, Gloucestershire, England
+     <a href="Ifamilies.htm#IvanL01">Ivan Llewellyn Vining</a>   b. 18 April 1864   Mangotsfield, Gloucestershire, England   -   m. Henrietta [...]
+     <a href="Hfamilies.htm#HaroldD01">Harold Despard Vining</a>   b. 1865   Down End, Gloucestershire, England   -   d. 1935   -   bur. Churcham, Gloucestershire, England
+     Clare Agnes Mary Vining   b. 1869   Langham, Carmarthenshire
+     Oswald R. Vining   b. 1872   Pilton, Somerset, England

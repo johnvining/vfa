@@ -1,0 +1,132 @@
+id: Edgar01
+title: Edgar "Dutch" Vining - Mary Kelly
+displayTitle: Edgar “Dutch” Vining - Mary Kelly
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Edgar “Dutch” Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+            - "59"
+            - dead
+        - label: Mary (Kelly) Vining
+          values:
+            - "28"
+            - "39"
+            - "49"
+            - "59"
+            - "?"
+        - label: Jean Vining
+          values:
+            - "[living? in separate household]"
+            - ""
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Nettie Vining
+          values:
+            - "5"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Mabel Vining
+          values:
+            - "4"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - "2"
+            - "12"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Norman Vining
+          values:
+            - 3 months
+            - "10"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Mary Edith Vining
+          values:
+            - ""
+            - "8"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Charlotte G. Vining
+          values:
+            - ""
+            - "6"
+            - "15"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Clarence Donavon Vining
+          values:
+            - ""
+            - "4"
+            - "13"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Arthur Vining
+          values:
+            - ""
+            - "1"
+            - "[living? in separate household]"
+            - ""
+            - ""
+          indent: true
+        - label: Helen M. Vining
+          values:
+            - ""
+            - ""
+            - "9"
+            - "19"
+            - "?"
+          indent: true
+        - label: Merle C. Vining
+          values:
+            - ""
+            - ""
+            - "4"
+            - "14"
+            - "?"
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Marlette, Sanilac County, Michigan - dwelling 34, family 35
+        images:
+          - src: Edgar01census1900.jpg
+      - year: "1910"
+        caption: Lamotte, Sanilac County, Michigan - dwelling 287, family 287
+        images:
+          - src: Edgar01census1910.jpg
+      - year: "1920"
+        caption: Lamotte, Sanilac County, Michigan - dwelling 164, family 165
+        images:
+          - src: Edgar01census1920.jpg
+      - year: "1930"
+        caption: Lamotte, Sanilac County, Michigan - dwelling 43, family 44
+        images:
+          - src: Edgar01census1900.jpg

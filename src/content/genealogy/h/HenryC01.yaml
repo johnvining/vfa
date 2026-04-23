@@ -1,0 +1,46 @@
+id: HenryC01
+letter: H
+lastUpdated: 30 July 2022
+relationship: son
+parentId: SewardP01
+parentLetter: S
+parentDesc: Seward P. Vining and Martha C. Thomas
+head:
+  givenName: Henry C.
+  birth:
+    date: age 12 y. as of 1850 census
+  death:
+    date: 4 March 1914
+    place: "Haverhill, Essex County, Massachusetts"
+  burial:
+    place: "Strong, Franklin County, Maine"
+marriages:
+  - date: 26 March 1862
+    spouse:
+      givenName: "Ella [N.?]"
+      surname: Collins
+      parents: "(dau. of John Collins and Annie [&#8230;])"
+      birth:
+        place: "Nantucket, Nantucket County, Massachusetts"
+childrenGroups:
+  - children:
+      - name: "child (=Fred Vining of West Epping, New Hampshire?)"
+        birth:
+          date: 17 May 1897
+      - name: "child (=William Vining of Newton, Massachusetts?)"
+        birth:
+          date: 17 May 1897
+raw: |-
+  <a name="HenryC01"></a><font size=+2>Henry C. Vining</font>
+     (son of <a href="Sfamilies.htm#SewardP01">Seward P. Vining and Martha C. Thomas</a>)
+     b. age 12 y. as of 1850 census
+     m. 26 March 1862
+              Ella [N.?] Collins
+                    (dau. of John Collins and Annie [&#8230;])
+                    b. Nantucket, Nantucket County, Massachusetts
+     d. 4 March 1914   Haverhill, Essex County, Massachusetts
+           bur. Strong, Franklin County, Maine
+  
+  <font size=+1>children:</font>
+     child (=Fred Vining of West Epping, New Hampshire?)   b. 17 May 1897
+     child (=William Vining of Newton, Massachusetts?)   b. 17 May 1897

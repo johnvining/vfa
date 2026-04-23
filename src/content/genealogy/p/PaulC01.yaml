@@ -1,0 +1,37 @@
+id: PaulC01
+letter: P
+lastUpdated: 5 May 2021
+relationship: son
+parentId: LawrenceC01
+parentLetter: L
+parentDesc: "Lawrence Claud[e?] Vining and Martha Ernestina Hielscher"
+head:
+  givenName: Paul Charles
+  birth:
+    date: 6 March 1941
+    place: "Lake City, Minnesota"
+marriages:
+  - date: 7 May 1960
+    spouse:
+      givenName: Kathleen
+      surname: Hoops
+childrenGroups:
+  - children:
+      - name: Kimberly Vining
+        birth:
+          date: 22 November 1962
+          place: "Olatha, Kansas"
+      - name: Amy Vining
+        birth:
+          date: 21 November 1972
+          place: "Norfolk, Virginia"
+raw: |-
+  <a name="PaulC01"></a><font size=+2>Paul Charles Vining</font>
+     (son of <a href="Lfamilies.htm#LawrenceC01">Lawrence Claud[e?] Vining and Martha Ernestina Hielscher</a>)
+     b. 6 March 1941   Lake City, Minnesota
+     m. 7 May 1960
+           Kathleen Hoops
+  
+  <font size=+1>children:</font>
+     Kimberly Vining   b. 22 November 1962   Olatha, Kansas
+     Amy Vining   b. 21 November 1972   Norfolk, Virginia

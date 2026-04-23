@@ -1,0 +1,142 @@
+id: Jared01
+sequence: 108
+letter: J
+lastUpdated: 10 March 2023
+relationship: son
+parentId: Ebenezer01
+parentLetter: E
+parentDesc: Ebenezer Vining and Abigail Eason
+head:
+  givenName: Jared
+  birth:
+    date: 21 March 1789
+    place: "Chesterville, Massachusetts"
+  death:
+    date: 8 September 1858
+    place: "West Nissouri Township, Ontario"
+marriages:
+  - number: 1
+    date: "1810"
+    place: "Bridgewater, New York"
+    spouse:
+      givenName: Louise
+      surname: Morgan
+      birth:
+        date: "1788"
+        place: "Bridgewater, New York"
+      death:
+        date: "1815"
+        place: New York
+  - number: 2
+    date: "1815"
+    place: "Sweden, New York"
+    spouse:
+      givenName: Charlotte
+      surname: Bodwell
+      birth:
+        date: "1791"
+      death:
+        date: "1870"
+childrenGroups:
+  - spouseRef: Louise Morgan
+    children:
+      - name: Jared Morgan Vining
+        entryId: JaredM01
+        birth:
+          date: "1812"
+          place: "Bridgewater, New York"
+        marriages:
+          - date: 30 October 1839
+            spouse: "Nissouri Townshipl, Ontario   Ellen Vandenbergh"
+      - name: Louis Vining
+        birth:
+          date: "1814"
+  - spouseRef: Charlotte Bodwell
+    children:
+      - name: Mary Jane Vining
+        birth:
+          date: 24 July 1818
+          place: "Sweden, New York"
+        marriages:
+          - date: 24 July 1844
+            spouse: Mervin Cody
+        death:
+          date: 20 June 1878
+          place: "Embro, Ontario"
+      - name: Wilbur Records Vining
+        entryId: WilburR01
+        entryLetter: W
+        birth:
+          date: 22 November 1819
+          place: New York
+        marriages:
+          - date: "1854"
+            spouse: Margaret Molloy
+        death:
+          date: 6 January 1892
+          place: "London, Ontario"
+      - name: Tryphena Maria Vining
+        birth:
+          date: "1821"
+        marriages:
+          - date: Samuel Crone
+        death:
+          date: 18 January 1882
+          place: "East London, Ontario"
+      - name: James Bodwell Vining
+        birth:
+          date: "1823"
+      - name: Caroline Elizabeth Vining
+        birth:
+          date: "1825"
+        marriages:
+          - date: Joseph Uren
+        death:
+          date: 26 December 1907
+      - name: Josiah Millard Vining
+        entryId: JosiahM01
+        birth:
+          date: "1826"
+          place: Ontario
+        marriages:
+          - date: 9 September 1862
+            spouse: Rachel McLeod
+        death:
+          date: 24 January 1903
+        burial:
+          place: "Mount Pleasant Cemetery   London, Ontario"
+      - name: Sarah Amelia Vining
+        birth:
+          date: "1829"
+        marriages:
+          - date: James McLeod
+        death:
+          date: 5 October 1886
+docsUrl: Jsources/Jared01doc.htm
+raw: |-
+  <a name="Jared01"></a><font size=+2>Jared Vining</font>
+     (son of <a href="Efamilies.htm#Ebenezer01">Ebenezer Vining and Abigail Eason</a>)
+     b. 21 March 1789   Chesterville, Massachusetts
+     m. (1) 1810   Bridgewater, New York
+                 Louise Morgan
+                       b. 1788   Bridgewater, New York
+                       d. 1815   New York
+           (2) 1815   Sweden, New York
+                 Charlotte Bodwell
+                       b. 1791
+                       d. 1870
+     d. 8 September 1858   West Nissouri Township, Ontario
+  
+  <font size=+1>children by Louise Morgan:</font>
+     <a href="#JaredM01">Jared Morgan Vining</a>   b. 1812   Bridgewater, New York   -   m. 30 October 1839   Nissouri Townshipl, Ontario   Ellen Vandenbergh
+     Louis Vining   b. 1814
+  <font size=+1>children by Charlotte Bodwell:</font>
+     Mary Jane Vining   b. 24 July 1818   Sweden, New York   -   m. 24 July 1844   Mervin Cody   -   d. 20 June 1878   Embro, Ontario
+     <a href="Wfamilies.htm#WilburR01">Wilbur Records Vining</a>   b. 22 November 1819   New York   -   m. 1854   Margaret Molloy   -   d. 6 January 1892   London, Ontario
+     Tryphena Maria Vining   b. 1821   -   m. Samuel Crone   -   d. 18 January 1882   East London, Ontario
+     James Bodwell Vining   b. 1823
+     Caroline Elizabeth Vining   b. 1825   -   m. Joseph Uren   -   d. 26 December 1907
+     <a href="#JosiahM01">Josiah Millard Vining</a>   b. 1826   Ontario   -   m. 9 September 1862   Rachel McLeod   -   d. 24 January 1903   -   bur. Mount Pleasant Cemetery   London, Ontario
+     Sarah Amelia Vining   b. 1829   -   m. James McLeod   -   d. 5 October 1886
+  
+  <a href="Jsources/Jared01doc.htm">documentation and notes</a>

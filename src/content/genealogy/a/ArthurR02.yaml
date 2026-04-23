@@ -1,0 +1,51 @@
+id: ArthurR02
+letter: A
+sequence: 93
+lastUpdated: 1 February 2021
+relationship: son
+parentId: SamuelB01
+parentLetter: S
+parentDesc: Samuel B. Vining and Jane E. Smith
+head:
+  givenName: Arthur R.
+  birth:
+    date: "age 36 y., 10 m., 12 d. at death"
+    place: Illinois
+  death:
+    date: 26 April 1886
+  burial:
+    place: "Limestone Cemetery   West Kankakee, Kankakee County, Illinois"
+marriages:
+  - spouse:
+      givenName: Agnes
+      surname: "[...]"
+      birth:
+        date: "1855"
+        place: Indiana
+      death:
+        date: "1933"
+      burial:
+        place: "Park Cemetery   Columbus, Cherokee County, Kansas"
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Maud Vining
+        birth:
+          date: age 2 y. as of 1880 census
+          place: Illinois
+docsUrl: Asources/ArthurR02doc.htm
+raw: |-
+  <a name="ArthurR02"></a><font size="+2">Arthur R. Vining</font>
+     (son of <a href="Sfamilies.htm#SamuelB01">Samuel B. Vining and Jane E. Smith</a>)
+     b. age 36 y., 10 m., 12 d. at death   Illinois
+     m. Agnes [...]
+              b. 1855   Indiana
+              d. 1933
+                    bur. Park Cemetery   Columbus, Cherokee County, Kansas
+     d. 26 April 1886
+           bur. Limestone Cemetery   West Kankakee, Kankakee County, Illinois
+  
+  <font size="+1">child:</font>
+     Maud Vining   b. age 2 y. as of 1880 census   Illinois
+  
+  <a href="Asources/ArthurR02doc.htm">documentation and notes</a>

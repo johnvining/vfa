@@ -1,0 +1,129 @@
+id: JamesT03
+sequence: 97
+letter: J
+lastUpdated: 10 March 2023
+migrationNote: "Original HTML had \"b. baptized 4 April 1809\" (redundant b. prefix before \"baptized\"); new renderer correctly omits b. when date begins with \"baptized\"."
+relationship: son
+parentId: Charles06
+parentLetter: C
+parentDesc: Charles Vining and Sophia Hobbs
+head:
+  givenName: James Tally
+  birth:
+    date: baptized 4 April 1809
+    place: "Yeovil St. John, Somerset, England"
+  death:
+    date: 16 October 1871
+    place: "Kent, England"
+marriages:
+  - number: 1
+    date: 8 May 1833
+    place: "Yeovil, Somerset, England"
+    spouse:
+      givenName: Mary Webb
+      surname: Wellington
+      birth:
+        date: 21 December 1808
+        place: "Yeovil, Somerset, England"
+      death:
+        date: 27 August 1842
+        place: "Yeovil, Somerset, England"
+  - number: 2
+    date: 30 August 1843
+    place: "Yeovil, Somerset, England"
+    spouse:
+      givenName: Emma
+      surname: Mayo
+      parents: (dau. of George Mayo and Jane Randall)
+      birth:
+        date: "1820"
+        place: "Yeovil, Somerset, England"
+      death:
+        date: "1920"
+        place: "Forst Hill, Kent, England"
+childrenGroups:
+  - spouseRef: Mary Webb Wellington
+    children:
+      - name: James Wellington Vining
+      - name: George Charles Vining
+      - name: Mary Matilda Vining
+      - name: William Richard Vining
+      - name: Charles Henry Vining
+  - spouseRef: Emma Mayo
+    children:
+      - name: "[John Kebbell ?]"
+      - name: "[Charles Henry Vissing ?]"
+      - name: Reginald Maline Vining
+        entryId: ReginaldM01
+        entryLetter: R
+        birth:
+          date: 18 August 1844
+          place: "Yeoville, Somerset, England"
+        marriages:
+          - date: Mary Eliza Thomson
+        death:
+          date: July 1908
+          place: "Camberwell, London, England"
+      - name: Elizabeth Vining
+      - name: Emma Sophia Vining
+      - name: "[another Emma Sophia Vining ?]"
+      - name: John Randall Vining
+      - name: Alice Vining
+      - name: Annie Jane Vining
+      - name: R. Willoughby Vining
+      - name: Georgina Vining
+      - name: Mary Elizabeth Maline Vining
+      - name: Georgina A. Vining
+      - name: Kate Vining
+      - name: Katherine Drury Vining
+      - name: Albert Frederick Hall Vining
+      - name: William Graham Malone Vining
+        entryId: WilliamG01
+        entryLetter: W
+        birth:
+          date: January 1865
+          place: "Forest Hill, London Borough of Lewisham, Greater London, England"
+        marriages:
+          - date: "Margaret Ke[e?]b[b?]ell"
+        death:
+          date: 18 October 1948
+          place: "Nelson, New Zealand"
+raw: |-
+  <a name="JamesT03"></a><font size=+2>James Tally Vining</font>
+     (son of <a href="Cfamilies.htm#Charles06">Charles Vining and Sophia Hobbs</a>)
+     b. baptized 4 April 1809   Yeovil St. John, Somerset, England
+     m. (1) 8 May 1833   Yeovil, Somerset, England
+                 Mary Webb Wellington
+                    b. 21 December 1808   Yeovil, Somerset, England
+                    d. 27 August 1842   Yeovil, Somerset, England
+           (2) 30 August 1843   Yeovil, Somerset, England
+                 Emma Mayo
+                       (dau. of George Mayo and Jane Randall)
+                       b. 1820   Yeovil, Somerset, England
+                       d. 1920   Forst Hill, Kent, England
+     d. 16 October 1871   Kent, England
+  
+  <font size=+1>children by Mary Webb Wellington:</font>
+     James Wellington Vining
+     George Charles Vining
+     Mary Matilda Vining
+     William Richard Vining
+     Charles Henry Vining
+  <font size=+1>children by Emma Mayo:</font>
+     [John Kebbell ?]
+     [Charles Henry Vissing ?]
+     <a href="Rfamilies.htm#ReginaldM01">Reginald Maline Vining</a>   b. 18 August 1844   Yeoville, Somerset, England   -   m. Mary Eliza Thomson   -   d. July 1908   Camberwell, London, England
+     Elizabeth Vining
+     Emma Sophia Vining
+     [another Emma Sophia Vining ?]
+     John Randall Vining
+     Alice Vining
+     Annie Jane Vining
+     R. Willoughby Vining
+     Georgina Vining
+     Mary Elizabeth Maline Vining
+     Georgina A. Vining
+     Kate Vining
+     Katherine Drury Vining
+     Albert Frederick Hall Vining
+     <a href="Wfamilies.htm#WilliamG01">William Graham Malone Vining</a>   b. January 1865   Forest Hill, London Borough of Lewisham, Greater London, England   -   m. Margaret Ke[e?]b[b?]ell   -   d. 18 October 1948   Nelson, New Zealand

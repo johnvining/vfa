@@ -1,0 +1,154 @@
+id: JohnJr05
+title: John Vining Jr. - Ann S. Carty
+sections:
+  - type: marriage
+    items:
+      - caption: "Marriage license for John Vining Jr. and Ann S. Carty:"
+        images:
+          - src: JohnJr05andwifemarriagelic.jpg
+  - type: census
+    table:
+      columns:
+        - "1850"
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+      rows:
+        - label: John Vining Jr
+          values:
+            - "?"
+            - "35"
+            - "44"
+            - "54"
+            - "?"
+            - dead
+        - label: Ann S. (Carty) Vining
+          values:
+            - "?"
+            - "31"
+            - "41"
+            - "52"
+            - "?"
+            - "?"
+        - label: John Vining III
+          values:
+            - "?"
+            - "[15?]"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Benjamin Carty Vining
+          values:
+            - "?"
+            - "10"
+            - not living in this household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: L[uella or ouisa?] R. Vining
+          values:
+            - ""
+            - "7"
+            - "17"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: Charles C. Vining
+          values:
+            - ""
+            - "[5?]"
+            - "15"
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: James Vining
+          values:
+            - ""
+            - "1"
+            - "10"
+            - not living in this household
+            - ""
+            - ""
+          indent: true
+        - label: George Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: Catherine Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+            - "?"
+            - "?"
+          indent: true
+        - label: Eliza Vining
+          values:
+            - ""
+            - ""
+            - "5"
+            - "15"
+            - "?"
+            - "?"
+          indent: true
+        - label: Joseph Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - "12"
+            - "?"
+            - "?"
+          indent: true
+        - label: Edward Lee Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "7"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: District 19, Lincoln County, Tennessee - dwelling 422, family 422
+        images:
+          - src: JohnJr05census1860.jpg
+      - year: "1870"
+        caption: Civil District 19, Lincoln County, Tennessee - dwelling 53, family 52
+        images:
+          - src: JohnJr05census1870.jpg
+      - year: "1880"
+        caption: Civil District 19, Lincoln County, Tennessee - dwelling 187, family 187
+        images:
+          - src: JohnJr05census1880.jpg
+  - type: other
+    heading: Pension Data
+    items:
+      - caption: "Pension claim for Ann S. (Carty) Vining:"
+        images:
+          - src: JohnJr05wifepensionclaim1.jpg
+      - images:
+          - src: JohnJr05wifepensionclaim2.jpg
+      - images:
+          - src: JohnJr05wifepensionclaim3.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for Charles C. Vining, son of John Vining Jr. and Ann S. (Carty) Vining, in State Line Cemetery,
+          Hazel Green, Madison County, Alabama (from Find A Grave):
+        images:
+          - src: JohnJr05sonCharlesgravestone.jpg

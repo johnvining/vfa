@@ -1,0 +1,40 @@
+id: BenjaminH01
+letter: B
+sequence: 33
+lastUpdated: 25 February 2023
+relationship: son
+parentId: WalterD02
+parentLetter: W
+parentDesc: Walter David Vining and Grace Jane Reeves
+head:
+  givenName: Benjamin Harrison
+  birth:
+    date: 2 January 1909
+    place: Georgia
+  death:
+    date: 24 January 1998
+    place: "Thomaston, Upson County, Georgia"
+  burial:
+    place: "Glenwood Cemetery   Thomaston, Upson County, Georgia"
+marriages:
+  - spouse:
+      givenName: Lucile
+      surname: Braswell
+childrenGroups:
+  - headingText: child
+    children:
+      - name: Benjamin Harrison Vining Jr.
+        entryId: BenjaminHJr01
+        entryLetter: B
+        marriages:
+          - spouse: "Patricia [&#8230;]"
+raw: |-
+  <a name="BenjaminH01"></a><font size=+2>Benjamin Harrison Vining</font>
+     (son of <a href="Wfamilies.htm#WalterD02">Walter David Vining and Grace Jane Reeves</a>)
+     b. 2 January 1909   Georgia
+     m. Lucile Braswell
+     d. 24 January 1998   Thomaston, Upson County, Georgia
+           bur. Glenwood Cemetery   Thomaston, Upson County, Georgia
+  
+  <font size=+1>child:</font>
+     <a href="#BenjaminHJr01">Benjamin Harrison Vining Jr.</a>   -   m. Patricia [&#8230;]

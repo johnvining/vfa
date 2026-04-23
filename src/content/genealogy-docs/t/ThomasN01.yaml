@@ -1,0 +1,122 @@
+id: ThomasN01
+title: Thomas Newton Vining - (1) Mary E. Posey; (2) Leacy (Lucy or Alicia) Frances Brown
+sections:
+  - type: family
+    items:
+      - caption: "Thomas Newton Vining:"
+        images:
+          - src: ThomasN01.jpg
+  - type: census
+    table:
+      columns:
+        - "1860"
+        - "1870"
+        - "1880"
+        - "1890"
+        - "1900"
+        - "1910"
+      rows:
+        - label: Thomas Newton Vining
+          values:
+            - "35"
+            - "?"
+            - "55"
+            - "?"
+            - dead
+            - ""
+        - label: Mary E. (Posey) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+            - ""
+        - label: Leacy (Lucy or Alicia) (Brown) Vining
+          values:
+            - "23"
+            - "?"
+            - "43"
+            - "?"
+            - "?"
+            - dead
+        - label: Ann E. Vining
+          values:
+            - "9"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Virginia Vining
+          values:
+            - "8"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: Georgia Vining
+          values:
+            - "2"
+            - "?"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: LaFrance Vining
+          values:
+            - 6 m.
+            - "?"
+            - "20"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+        - label: DeQuincy Vining
+          values:
+            - ""
+            - "?"
+            - "18"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Estelle Brown Vining
+          values:
+            - ""
+            - "?"
+            - "16"
+            - married [and living in separate household?]
+            - ""
+            - ""
+          indent: true
+        - label: Homer Vining
+          values:
+            - ""
+            - "?"
+            - "13"
+            - "?"
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1860"
+        caption: East Macon District, Bibb County, Georgia - dwelling 1104, family 1149
+        images:
+          - src: ThomasN01census1860a.jpg
+          - src: ThomasN01census1860b.jpg
+      - year: "1880"
+        caption: District 691, Coweta County, Georgia - dwelling 61, family 61
+        images:
+          - src: ThomasN01census1880.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestone for LaFrance Vining, son of Thomas Newton Vining and Leacy (Lucy or Alicia) Frances (Brown) Vining,
+          in Senoia City Cemetery, Senoia, Coweta County, Georgia (from Find A Grave):
+        images:
+          - src: ThomasN01sonLaFrancegravestone.jpg

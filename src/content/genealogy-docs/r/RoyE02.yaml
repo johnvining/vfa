@@ -1,0 +1,117 @@
+id: RoyE02
+title: Roy Ellis Vining - Hazel M. [..]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Roy Ellis Vining
+          values:
+            - "24"
+            - "34"
+            - "43"
+            - "55"
+        - label: Hazel M. ([…]) Vining
+          values:
+            - "22"
+            - "32"
+            - "42"
+            - "52"
+        - label: Bronson Vining
+          values:
+            - "3"
+            - "13"
+            - living in separate household
+            - ""
+          indent: true
+        - label: Richard Vining
+          values:
+            - "2"
+            - "11"
+            - "21"
+            - "[living? in separate household]"
+          indent: true
+        - label: Norma M. Vining
+          values:
+            - 2 m.
+            - "10"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Howard W. Vining
+          values:
+            - ""
+            - "6"
+            - "17"
+            - married and living in separate household
+          indent: true
+        - label: Dorothy Vining
+          values:
+            - ""
+            - 2 y., 6 m.
+            - "12"
+            - "[living? in separate household]"
+          indent: true
+        - label: Florence Vining
+          values:
+            - ""
+            - ""
+            - "8"
+            - "18"
+          indent: true
+        - label: Raymond Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+          indent: true
+        - label: Robert Vining
+          values:
+            - ""
+            - ""
+            - "7"
+            - "17"
+          indent: true
+        - label: Lois J. Vining
+          values:
+            - ""
+            - ""
+            - 4 y., 11 m.
+            - "14"
+          indent: true
+        - label: Mary Lou Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "8"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Toledo (ward 12), Lucas County, Ohio - dwelling 173, family 175
+        images:
+          - src: RoyE02census1910.jpg
+      - year: "1920"
+        caption: Toledo (ward 15), Lucas County, Ohio - dwelling 318, family 332
+        images:
+          - src: RoyE02census1920.jpg
+      - year: "1930"
+        caption: Toledo (ward 20), Lucas County, Ohio - dwelling 276, family 276
+        images:
+          - src: RoyE02census1930.jpg
+      - year: "1940"
+        caption: Toledo (ward 20, block 10), Lucas County, Ohio
+        images:
+          - src: RoyE02census1940.jpg
+  - type: military
+    items:
+      - caption: "World War I registration card for Roy Ellis Vining:"
+        images:
+          - src: RoyE02WWIregistrationcarda.jpg
+          - src: RoyE02WWIregistrationcardb.jpg
+        inline: true

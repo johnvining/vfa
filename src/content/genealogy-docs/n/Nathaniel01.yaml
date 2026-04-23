@@ -1,0 +1,47 @@
+id: Nathaniel01
+title: Nathaniel Vining - Lucille Taylor
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: Nathaniel Vining
+          values:
+            - "32"
+        - label: Lucille (Taylor) Vining
+          values:
+            - "17"
+        - label: Mary Viola Vining
+          values:
+            - 3 m.
+          indent: true
+        - label: Nathaniel Vining Jr.
+          values:
+            - ""
+          indent: true
+        - label: Robert L. Vining
+          values:
+            - ""
+          indent: true
+        - label: Delphia Vining
+          values:
+            - ""
+          indent: true
+        - label: Frances Vining
+          values:
+            - ""
+          indent: true
+        - label: Fred Douglas Vining
+          values:
+            - ""
+          indent: true
+        - label: Napoleon Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Upper Burrell, Westmoreland County, Pennsylvania
+        images:
+          - src: Nathaniel01census1940.jpg

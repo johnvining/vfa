@@ -1,0 +1,81 @@
+id: HenryH04
+title: Henry H. Vining - Susie E. [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1910"
+        - "1920"
+        - "1930"
+        - "1940"
+      rows:
+        - label: Henry H. Vining
+          values:
+            - "28"
+            - dead
+            - ""
+            - ""
+        - label: Susie E. ([…]) Vining
+          values:
+            - "26"
+            - "35"
+            - "?"
+            - "?"
+        - label: child Vining
+          values:
+            - dead
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Agnes M. Vining
+          values:
+            - "7"
+            - "17"
+            - "?"
+            - "?"
+          indent: true
+        - label: Jennie Cardella Vining
+          values:
+            - "4"
+            - "13"
+            - "?"
+            - "?"
+          indent: true
+        - label: Aubrey Lee Vining
+          values:
+            - 1 y., 6 m.
+            - "11"
+            - "?"
+            - "?"
+          indent: true
+        - label: James Vining
+          values:
+            - ""
+            - "8"
+            - "?"
+            - "?"
+          indent: true
+        - label: Rufus Vining
+          values:
+            - ""
+            - "4"
+            - "?"
+            - "?"
+          indent: true
+        - label: Harold B. Vining
+          values:
+            - ""
+            - 1 y., 10 m.
+            - "?"
+            - "?"
+          indent: true
+    entries:
+      - year: "1910"
+        caption: Cedar Shoals, Newton County, Georgia - dwelling 108, family 109
+        images:
+          - src: HenryH04census1910.jpg
+      - year: "1920"
+        caption: Porterdale, Newton County, Georgia - dwelling 367, family 505
+        images:
+          - src: HenryH04census1920.jpg

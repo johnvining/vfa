@@ -1,0 +1,172 @@
+id: Bela01
+title: Bela Vining - Thankful Millbanks
+sections:
+  - type: family
+    items:
+      - caption: >-
+          The town of Durham, Androscoggin County, Maine, has photocopied its vital record books, and those photocopies
+          are available for public viewing. Unfortunately, much of the photocopied material is very difficult to
+          impossible to read. Below is the page (greatly enlarged) recording the "family Record" of Bela Vining (minus
+          his wife).
+        images:
+          - src: Bela01Durhamrecordsp15.jpg
+  - type: census
+    table:
+      columns:
+        - "1800"
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+      rows:
+        - label: Bela Vining
+          values:
+            - M 26–45
+            - M 45 and over [although he was 44]
+            - M 45 and over
+            - M 60–70
+            - M 70–80
+            - dead
+        - label: Thankful (Millbanks) Vining
+          values:
+            - F 26–45
+            - F 26–45
+            - F 45 and older
+            - "[see note below]"
+            - F 60–70
+            - |-
+              87
+              [see note below]
+        - label: William Vining
+          values:
+            - M under 10
+            - M 16–26
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Hannah Vining
+          values:
+            - F under 10
+            - F 16–26
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Ammi Vining
+          values:
+            - M under 10
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Lucy Vining
+          values:
+            - F under 10
+            - F 10–16
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Bela Vining Jr.
+          values:
+            - M under 10
+            - M under 10 [although he was 10]
+            - M 16–26
+            - dead
+            - ""
+            - ""
+          indent: true
+        - label: Samuel Vining
+          values:
+            - ""
+            - M under 10
+            - M 16–26
+            - "[see note below]"
+            - ""
+            - ""
+          indent: true
+        - label: Sarah S. Vining
+          values:
+            - ""
+            - F under 10
+            - F 10–16
+            - married and living in separate household
+            - ""
+            - ""
+          indent: true
+        - label: Sewall Vining
+          values:
+            - ""
+            - M under 10
+            - M 10–16
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Mary Millbanks Vining
+          values:
+            - ""
+            - F under 10
+            - "[see note below]"
+            - "[see note below]"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1800"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - Also living in this household in
+          1800 were a male (45 and over) and a female (45 and over).
+        images:
+          - src: Bela01census1800.jpg
+      - year: "1810"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - No male 10–16 was reported for this
+          household in 1810. Also living in this household in 1810 were a male (45 and over) and a female (45 and over).
+        images:
+          - src: Bela01census1810.jpg
+      - year: "1820"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - One female under 10 and two females
+          10–16 were reported for this household in 1820. Mary Millbanks (10) and Sarah (15) were likely the two who
+          were 10–16. This leaves an unknown female under 10 in this household. If Mary Millbanks had been reported as a
+          female under 10, this would leave an unknown female 10–16 in this household in 1820. Lucy was 22 by then and,
+          although not married until 30 November 1820, would likely not be listed as 10–16.
+        images:
+          - src: Bela01census1820.jpg
+      - year: "1830"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - No females were reported for this
+          household in 1830. An unknown male 10–15 was reported for this household. Only one male 20–30 was reported for
+          this household. That could have been either Sewall (22) or Samuel (28), likely Sewall as there was a Samuel (M
+          30–45) listed as a head of the household in Durham in 1830.
+        images:
+          - src: Bela01census1830.jpg
+      - year: "1840"
+        caption: Durham, Cumberland County [Durham is now in Androscoggin County], Maine
+        images:
+          - src: Bela01census1840a.jpg
+          - src: Bela01census1840b.jpg
+      - year: "1850"
+        caption: >-
+          Durham, Cumberland County [Durham is now in Androscoggin County], Maine - dwelling 122, family 136. In 1850,
+          Thankful (Millbanks) Vining was living in the household of son William. It is unlikely, however, that she was
+          87 years old in 1850.
+        images:
+          - src: Bela01census1850.jpg
+  - type: death
+    items:
+      - caption: >-
+          Gravestones of Thankful (Millbanks) Vining, and both Thankful and Bela Vining. The inscription on Bela
+          Vining's stone (the right hand stone of the pair) is mostly below ground.
+        images:
+          - src: Bela01wifegravestone.jpg
+          - src: Bela01andwifegravestones.jpg
+        inline: true

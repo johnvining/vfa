@@ -1,0 +1,101 @@
+id: Abraham01
+title: Abraham Vining - [Elinor or Elanora?] [...]
+sections:
+  - type: census
+    table:
+      columns:
+        - "1810"
+        - "1820"
+        - "1830"
+        - "1840"
+        - "1850"
+        - "1860"
+      rows:
+        - label: Abraham Vining
+          values:
+            - "?"
+            - M 26-45
+            - "?"
+            - "?"
+            - "[dead?]"
+            - ""
+        - label: "[Elinor or Elanora?] ([...]) Vining"
+          values:
+            - "?"
+            - F 26–45
+            - "?"
+            - "?"
+            - "66"
+            - "?"
+        - label: Owen Vining
+          values:
+            - "?"
+            - M 10-16
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Elizabeth Vining
+          values:
+            - "?"
+            - F 10–16
+            - married [and living in separate household?]
+            - "?"
+            - "[living? in separate household]"
+            - ""
+          indent: true
+        - label: Nancy Vining
+          values:
+            - ""
+            - F under 10
+            - married [and living in separate household?]
+            - "?"
+            - "37"
+            - "?"
+          indent: true
+        - label: Elza Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - "?"
+            - married and living in separate household
+            - "?"
+          indent: true
+        - label: Jasper Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - "?"
+            - "32"
+            - "?"
+          indent: true
+        - label: John Lee Vining
+          values:
+            - ""
+            - M under 10
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+        - label: Thomas Newton Vining
+          values:
+            - ""
+            - ""
+            - "?"
+            - "?"
+            - married and living in separate household
+            - ""
+          indent: true
+    entries:
+      - year: "1820"
+        caption: "[town not given], Jefferson County, Georgia"
+        images:
+          - src: Abraham01census1820.jpg
+      - year: "1850"
+        caption: District No. 48, Jefferson County, Georgia - dwelling 313, family 313
+        images:
+          - src: Abraham01census1850.jpg

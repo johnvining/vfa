@@ -1,0 +1,132 @@
+id: EltonC01
+sequence: 98
+letter: E
+lastUpdated: 23 February 2023
+relationship: son
+parentId: WilliamE01
+parentLetter: W
+parentDesc: William Elmer Vining and Anzina Figley (Morrison)
+head:
+  givenName: Elton Cassius
+  birth:
+    date: 22 August 1890
+    place: "Rockford, Ohio"
+  death:
+    date: 22 April 1960
+    place: "Willshire, Ohio"
+  burial:
+    place: "Willshire Cemetery   Willshire, Ohio"
+marriages:
+  - number: 1
+    date: 31 January 1912
+    spouse:
+      givenName: Anna
+      surname: Banta
+      parents: (dau. James D. Banta and Mary C. Exline)
+      birth:
+        date: 12 August 1890
+      death:
+        date: "1947"
+      burial:
+        place: "Willshire Cemetery   Willshire, Ohio"
+  - number: 2
+    spouse:
+      givenName: Lou
+      surname: "Weimer (Ellis)"
+      birth:
+        date: 10 April 1891
+        place: "Willshire, Ohio"
+      death:
+        date: 3 March 1966
+        place: "Lima, Ohio"
+      burial:
+        place: "Willshire Cemetery   Willshire, Ohio"
+childrenGroups:
+  - headingText: "chldren: by Anna Banta"
+    children:
+      - name: James N. Vining
+        entryId: JamesN01
+        entryLetter: J
+        birth:
+          date: 17 August 1913
+        marriages:
+          - spouse: Mildred Marcella Carver
+        death:
+          date: July 1986
+          place: "(last residence: Celina, Ohio)"
+        burial:
+          place: "Willshire Cemetery   Willshire, Ohio"
+      - name: Beatrice Delores Vining
+        birth:
+          date: 6 December 1915
+        marriages:
+          - spouse: Woodrow Rogers
+        death:
+          date: "1997"
+      - name: Eugene F. Vining
+        entryId: EugeneF01
+        birth:
+          date: 18 October 1917
+          place: "Van Wert County, Ohio"
+        marriages:
+          - date: 20 February 1943
+            spouse: Rosella L. Dull
+        death:
+          date: 25 October 1999
+          place: "Van Wert, Ohio"
+        burial:
+          place: "Willshire Cemetery   Willshire, Ohio"
+      - name: Velma Anzina Vining
+        birth:
+          date: 19 July 1919
+        marriages:
+          - date: 19 October 1941
+            spouse: Robert F. Hoffman
+        death:
+          date: "1990"
+      - name: Lois N. Vining
+        birth:
+          date: 30 May 1921
+        marriages:
+          - spouse: Robert Merinar
+        death:
+          date: "1974"
+      - name: Carl D. Vining
+        entryId: CarlD01
+        entryLetter: C
+        birth:
+          date: 5 September 1928
+        marriages:
+          - spouse: JoAnn Secrest
+        death:
+          date: 10 July 1999
+          place: "(last residence: Fort Wayne, Indiana)"
+        burial:
+          place: "Covington Memorial Gardens   Fort Wayne, Indiana"
+docsUrl: Esources/EltonC01doc.htm
+raw: |-
+  <a name="EltonC01"></a><font size=+2>Elton Cassius Vining</font>
+     (son of <a href="Wfamilies.htm#WilliamE01">William Elmer Vining and Anzina Figley (Morrison)</a>)
+     b. 22 August 1890   Rockford, Ohio
+     m. (1) 31 January 1912
+                 Anna Banta
+                       (dau. James D. Banta and Mary C. Exline)
+                       b. 12 August 1890
+                       d. 1947
+                             bur. Willshire Cemetery   Willshire, Ohio
+           (2) Lou Weimer (Ellis)
+                       b. 10 April 1891   Willshire, Ohio
+                       d. 3 March 1966   Lima, Ohio
+                             bur. Willshire Cemetery   Willshire, Ohio
+     d. 22 April 1960   Willshire, Ohio
+           bur. Willshire Cemetery   Willshire, Ohio
+  
+  <font size=+1>chldren: by Anna Banta:</font>
+     <a href="Jfamilies.htm#JamesN01">James N. Vining</a>   b. 17 August 1913   -   m. Mildred Marcella Carver   -   d. July 1986   (last residence: Celina, Ohio)   -   bur. Willshire Cemetery   Willshire, Ohio
+     Beatrice Delores Vining   b. 6 December 1915   -   m. Woodrow Rogers   -   d. 1997
+     <a href="#EugeneF01">Eugene F. Vining</a>   b. 18 October 1917   Van Wert County, Ohio   -   m. 20 February 1943   Rosella L. Dull   -   d. 25 October 1999   Van Wert, Ohio   -   bur. Willshire Cemetery   Willshire, Ohio
+     Velma Anzina Vining   b. 19 July 1919   -   m. 19 October 1941   Robert F. Hoffman   -   d. 1990
+     Lois N. Vining   b. 30 May 1921   -   m. Robert Merinar   -   d. 1974
+     <a href="Cfamilies.htm#CarlD01">Carl D. Vining</a>   b. 5 September 1928   -   m. JoAnn Secrest   -   d. 10 July 1999   (last residence: Fort Wayne, Indiana)   -   bur. Covington Memorial Gardens   Fort Wayne, Indiana
+  
+  <a href="Esources/EltonC01doc.htm">documentation and notes</a>

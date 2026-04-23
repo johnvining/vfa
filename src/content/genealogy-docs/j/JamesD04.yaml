@@ -1,0 +1,49 @@
+id: JamesD04
+title: James David Vining - Bessie Singleton
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: James David Vining
+          values:
+            - "35"
+        - label: Bessie (Singleton) Vining
+          values:
+            - "34"
+        - label: James David Vining Jr.
+          values:
+            - "5"
+          indent: true
+        - label: Donald R. Vining
+          values:
+            - 0 m.
+          indent: true
+        - label: Ray Vining
+          values:
+            - ""
+          indent: true
+        - label: Carl Vining
+          values:
+            - ""
+          indent: true
+        - label: Sara Vining
+          values:
+            - ""
+          indent: true
+    entries:
+      - year: "1940"
+        caption: Browning District, DeKalb County, Georgia - dwelling
+        images:
+          - src: JamesD04census1940.jpg
+  - type: other
+    items:
+      - caption: "'"
+  - type: death
+    items:
+      - caption: >-
+          Headstone for James David Vining and Bessie (Singleton) Vining, in Melwood Cemetery, Stone Mountain, DeKalb
+          County, Georgia (from Find A Grave):
+        images:
+          - src: JamesD04andwifeheadstone.jpg

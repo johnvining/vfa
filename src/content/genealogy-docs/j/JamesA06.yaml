@@ -1,0 +1,33 @@
+id: JamesA06
+title: James A. Vining - Elaine Lehner
+sections:
+  - type: census
+    table:
+      columns:
+        - "1940"
+      rows:
+        - label: James A. Vining
+          values:
+            - "28"
+        - label: Elaine (Lehner) Vining
+          values:
+            - "27"
+        - label: Dolores Vining
+          values:
+            - "2"
+          indent: true
+    entries:
+      - year: "1940"
+        caption: >-
+          Fort Wayne, Allen County, Indiana. Also living in this household in 1940 was William H. Vining (54 y., b.
+          Indiana), widowed father of James A. Vining.
+        images:
+          - src: JamesA06census1940a.jpg
+          - src: JamesA06census1940b.jpg
+  - type: death
+    items:
+      - caption: >-
+          Headstone for James A. Vining and Elaine (Lehner) Vining, in Lindenwood Cemetery, Fort Wayne, Allen County,
+          Indiana (from Find A Grave):
+        images:
+          - src: JamesA06andwifeheadstone.jpg
