@@ -82,7 +82,7 @@ function defaultHeading(type: string): string {
     {section.type === 'census' && (
       <div>
         {section.table && (
-          <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+          <table class="data-table">
             <tr>
               <td align="left">&nbsp;</td>
               {section.table.columns.map(col => (
