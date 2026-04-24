@@ -1,5 +1,8 @@
 body {
 	background-color: white;
+	max-width: 950px;
+	min-width: 600px;
+	margin: 0 auto;
 }
 
 a:link { color: #1a5296; }
