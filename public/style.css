@@ -13,6 +13,14 @@ a:visited { color: #6b3a8a; }
 	font-size: 0.85em;
 }
 
+.section-heading {
+	display: block;
+	color: #006600;
+	font-size: 1.3em;
+	margin-top: 0.6em;
+	margin-bottom: 0.2em;
+}
+
 .people-divider {
 	width: 80px;
 	margin-left:0;
