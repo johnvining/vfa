@@ -2,6 +2,14 @@ body {
 	background-color: white;
 }
 
+a:link { color: #1a5296; }
+a:visited { color: #6b3a8a; }
+
+.nav-item {
+	white-space: nowrap;
+	font-size: 0.85em;
+}
+
 .people-divider {
 	width: 80px;
 	margin-left:0;
