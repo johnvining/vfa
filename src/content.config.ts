@@ -96,6 +96,11 @@ const genealogy = defineCollection({
     docsUrl: z.string().optional(),
     notes: z.string().optional(),
     raw: z.string().optional(),
+    updates: z.array(z.object({
+      date: z.string(),           // YYYY-MM or YYYY-MM-DD
+      what: z.string().optional(),
+      thanks: z.string().optional(),
+    })).optional(),
   }),
 });
 

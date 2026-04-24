@@ -51,6 +51,12 @@ interface ChildrenGroup {
   children: Child[];
 }
 
+interface Update {
+  date: string;    // YYYY-MM or YYYY-MM-DD
+  what?: string;
+  thanks?: string;
+}
+
 interface EntryData {
   id: string;
   letter: string;
@@ -71,6 +77,13 @@ interface EntryData {
   childrenGroups?: ChildrenGroup[];
   docsUrl?: string;
   notes?: string;
+  updates?: Update[];
+}
+
+function formatUpdateDate(dateStr: string): string {
+  const [y, m] = dateStr.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, 1))
+    .toLocaleString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' });
 }
 
 function dp(field: DatePlace): string {
@@ -361,6 +374,20 @@ export function renderEntry(data: EntryData): string {
   // Notes (e.g. surname change, annotation — rendered after docs link, matching original layout)
   if (data.notes) lines.push('');
   if (data.notes) lines.push(`   ${data.notes}`);
+
+  // Updates section
+  if (data.updates && data.updates.length > 0) {
+    lines.push('');
+    lines.push('<font size="-1"><i>Updates:</i></font>');
+    const sorted = [...data.updates].sort((a, b) => a.date.localeCompare(b.date));
+    for (const u of sorted) {
+      let line = `<font size="-1">   ${formatUpdateDate(u.date)}`;
+      if (u.what) line += ` — ${u.what}`;
+      if (u.thanks) line += ` (thanks to ${u.thanks})`;
+      line += '</font>';
+      lines.push(line);
+    }
+  }
 
   return lines.join('\n');
 }

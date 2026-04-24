@@ -2,18 +2,137 @@
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 
+// Manual news entries
 const allNews = await getCollection('news');
 allNews.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
-const rendered = await Promise.all(
+const renderedNews = await Promise.all(
   allNews.map(async (entry) => {
     const { Content } = await render(entry);
     return { entry, Content };
   })
 );
 
-function monthName(date: Date) {
+// Genealogy updates: collected from all YAML entries that have an updates: block
+const allGenealogy = await getCollection('genealogy');
+
+type GeoUpdate = {
+  id: string;
+  letter: string;
+  name: string;
+  what?: string;
+  thanks?: string;
+};
+
+const geoByMonth = new Map<string, GeoUpdate[]>();
+
+for (const entry of allGenealogy) {
+  if (!entry.data.updates) continue;
+  for (const update of entry.data.updates) {
+    const monthKey = update.date.slice(0, 7); // YYYY-MM
+    if (!geoByMonth.has(monthKey)) geoByMonth.set(monthKey, []);
+    const surname = entry.data.head.surname ?? 'Vining';
+    geoByMonth.get(monthKey)!.push({
+      id: entry.data.id,
+      letter: entry.data.letter.toUpperCase(),
+      name: `${entry.data.head.givenName} ${surname}`,
+      what: update.what,
+      thanks: update.thanks,
+    });
+  }
+}
+
+function toUTCDate(dateStr: string): Date {
+  const [y, m] = dateStr.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, 1));
+}
+
+function monthLabel(date: Date): string {
   return date.toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+}
+
+// Merge news and genealogy-update events into a single chronological list
+type NewsEvent = {
+  type: 'news';
+  date: Date;
+  season: string;
+  rendered: { entry: typeof allNews[0]; Content: any };
+};
+type GeoEvent = {
+  type: 'geo';
+  date: Date;
+  monthKey: string;
+  updates: GeoUpdate[];
+};
+
+const events: (NewsEvent | GeoEvent)[] = [
+  ...renderedNews.map(r => ({
+    type: 'news' as const,
+    date: r.entry.data.date,
+    season: r.entry.data.season,
+    rendered: r,
+  })),
+  ...[...geoByMonth.entries()].map(([monthKey, updates]) => ({
+    type: 'geo' as const,
+    date: toUTCDate(monthKey),
+    monthKey,
+    updates,
+  })),
+];
+events.sort((a, b) => b.date.getTime() - a.date.getTime());
+
+// Pre-compute heading flags so template stays declarative
+type RenderItem =
+  | {
+      kind: 'news';
+      showSeasonHeader: boolean;
+      season: string;
+      showMonthHeader: boolean;
+      month: string;
+      Content: any;
+    }
+  | {
+      kind: 'geo';
+      showSeasonHeader: false;
+      season: '';
+      showMonthHeader: boolean;
+      month: string;
+      updates: GeoUpdate[];
+    };
+
+const renderItems: RenderItem[] = [];
+let lastSeason = '';
+let lastMonth = '';
+
+for (const event of events) {
+  const month = monthLabel(event.date);
+
+  if (event.type === 'news') {
+    const season = event.season;
+    const showSeasonHeader = season !== lastSeason;
+    const showMonthHeader = event.rendered.entry.data.showMonthHeading && month !== lastMonth;
+    if (showSeasonHeader) lastSeason = season;
+    if (month !== lastMonth) lastMonth = month;
+    renderItems.push({
+      kind: 'news',
+      showSeasonHeader,
+      season,
+      showMonthHeader,
+      month,
+      Content: event.rendered.Content,
+    });
+  } else {
+    const showMonthHeader = month !== lastMonth;
+    if (showMonthHeader) lastMonth = month;
+    renderItems.push({
+      kind: 'geo',
+      showSeasonHeader: false,
+      season: '',
+      showMonthHeader,
+      month,
+      updates: event.updates,
+    });
+  }
 }
 ---
 
@@ -28,24 +147,40 @@ function monthName(date: Date) {
 
 <font size="+2">Do you have any news to share about the Vining family? births, marriages, deaths? graduations? honors received? genealogical puzzles solved? Please send them along for inclusion in our News and Notes.</font>
 
-{rendered.map(({ entry, Content }, i) => {
-  const prev = i > 0 ? rendered[i - 1].entry : null;
-  const newSeason = !prev || prev.data.season !== entry.data.season;
-  const newMonth = newSeason || monthName(prev!.data.date) !== monthName(entry.data.date);
+{renderItems.map(item => {
+  const Content = item.kind === 'news' ? item.Content : null;
+  const geoUpdates = item.kind === 'geo' ? item.updates : [];
+  const thanks = item.kind === 'geo'
+    ? [...new Set(geoUpdates.map(u => u.thanks).filter((t): t is string => Boolean(t)))]
+    : [];
   return (
     <Fragment>
-      {newSeason && (
+      {item.showSeasonHeader && (
         <Fragment>
           <br /><br /><br />
-          <font size="+2"><b>{entry.data.season}</b></font><br />
+          <font size="+2"><b>{item.season}</b></font><br />
         </Fragment>
       )}
-      {newMonth && entry.data.showMonthHeading && (
+      {item.showMonthHeader && (
         <Fragment>
-          <font size="+1"><b>{monthName(entry.data.date)}</b></font><br />
+          <font size="+1"><b>{item.month}</b></font><br />
         </Fragment>
       )}
-      <Content />
+      {item.kind === 'news' && Content && <Content />}
+      {item.kind === 'geo' && (
+        <div class="geo-updates">
+          <div class="geo-updates-label">Genealogy updates:</div>
+          {geoUpdates.map(u => (
+            <div class="geo-updates-entry">
+              <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
+              {u.what && <Fragment> &#8212; {u.what}</Fragment>}
+            </div>
+          ))}
+          {thanks.length > 0 && (
+            <div class="geo-updates-thanks">Thanks to: {thanks.join(', ')}.</div>
+          )}
+        </div>
+      )}
     </Fragment>
   );
 })}

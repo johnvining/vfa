@@ -40,6 +40,27 @@ a:visited { color: #6b3a8a; }
 	padding: 5px;
 }
 
+.geo-updates {
+	margin: 0.25em 0 0.75em 1.5em;
+}
+
+.geo-updates-label {
+	font-weight: bold;
+	font-size: 0.9em;
+	color: #444;
+}
+
+.geo-updates-entry {
+	margin-left: 1.25em;
+}
+
+.geo-updates-thanks {
+	margin-left: 1.25em;
+	font-style: italic;
+	font-size: 0.9em;
+	color: #555;
+}
+
 .nav-divider {
 	width: 100%;
 	border-style: solid;
