@@ -13,7 +13,7 @@ body {
 	max-width: 950px;
 	min-width: 600px;
 	margin: 0 auto;
-	padding: 0 1rem;
+	padding: 0.75rem 1rem 1.5rem;
 	line-height: 1.5;
 	font-family: var(--font-body);
 	overflow-x: hidden;
@@ -56,6 +56,10 @@ a:active           { color: #ff0000; }
 .doc-page img {
 	max-width: 100%;
 	height: auto;
+}
+
+.doc-image-block {
+	margin-bottom: 1.5em;
 }
 
 .doc-back {
@@ -123,8 +127,12 @@ a:active           { color: #ff0000; }
 	display: block;
 	color: var(--color-green);
 	font-size: 1.3em;
-	margin-top: 0.6em;
-	margin-bottom: 0.2em;
+	margin-top: 1.5em;
+	margin-bottom: 0.4em;
+}
+
+.section-gap {
+	margin-top: 1.5em;
 }
 
 .people-divider {
@@ -138,6 +146,7 @@ a:active           { color: #ff0000; }
 	width: 100%;
 	border-collapse: collapse;
 	border: 1px solid #111111;
+	margin-top: 0.8em;
 }
 
 .data-table td, .data-table th {

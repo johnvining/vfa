@@ -61,11 +61,11 @@ function defaultHeading(type: string): string {
     {item.caption && <Fragment set:html={`${item.caption}<br>`} />}
     {item.images && (
       item.inline
-        ? <Fragment set:html={item.images.map(img =>
+        ? <div class="doc-image-block"><Fragment set:html={item.images.map(img =>
             `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
-          ).join('&nbsp;&nbsp;&nbsp;') + '<br><br><br>'} />
+          ).join('&nbsp;&nbsp;&nbsp;')} /></div>
         : item.images.map(img => (
-            <Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}"><br><br><br>`} />
+            <div class="doc-image-block"><Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`} /></div>
           ))
     )}
   </div>
@@ -103,39 +103,35 @@ function defaultHeading(type: string): string {
           </table>
         )}
 
-        <br /><br />
-
         {section.entries && section.entries.map(entry => (
-          <div>
+          <div class="doc-image-block">
             <b class="doc-year">{entry.year}</b>
             {entry.caption && <Fragment set:html={` ${entry.caption}:`} />}
             <br />
             {entry.images && (
               entry.inline
-                ? <Fragment set:html={entry.images.map(img =>
+                ? <div class="doc-image-block"><Fragment set:html={entry.images.map(img =>
                     `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
-                  ).join('&nbsp;&nbsp;&nbsp;') + '<br><br><br>'} />
+                  ).join('&nbsp;&nbsp;&nbsp;')} /></div>
                 : entry.images.map(img => (
-                    <Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}"><br>`} />
+                    <div class="doc-image-block"><Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`} /></div>
                   ))
             )}
-            {(!entry.images || entry.images.length === 0) && <br />}
-            <br /><br />
           </div>
         ))}
       </div>
     )}
 
     {section.type !== 'census' && section.items && section.items.map(item => (
-      <div>
+      <div class="doc-image-block">
         {item.caption && <Fragment set:html={`${item.caption}<br>`} />}
         {item.images && (
           item.inline
-            ? <Fragment set:html={item.images.map(img =>
+            ? <div class="doc-image-block"><Fragment set:html={item.images.map(img =>
                 `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
-              ).join('&nbsp;&nbsp;&nbsp;') + '<br><br><br>'} />
+              ).join('&nbsp;&nbsp;&nbsp;')} /></div>
             : item.images.map(img => (
-                <Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}"><br><br><br>`} />
+                <div class="doc-image-block"><Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`} /></div>
               ))
         )}
       </div>
