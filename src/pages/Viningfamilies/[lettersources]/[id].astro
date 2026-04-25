@@ -22,6 +22,7 @@ const { title, displayTitle, intro, sections } = doc.data;
 const headingTitle = displayTitle ?? title;
 const letter = doc.id.split('/')[0].toUpperCase();
 const imageBase = `${import.meta.env.BASE_URL}genealogy-images/${doc.id.split('/')[0]}`;
+const backHref = `../${letter}families.htm#${doc.data.id}`;
 
 function defaultHeading(type: string): string {
   const map: Record<string, string> = {
@@ -38,22 +39,22 @@ function defaultHeading(type: string): string {
 }
 ---
 
-{/* TODO: add site header/nav back to doc pages */}
 <BaseInner
   title={`Documentation - ${title}`}
   description={`Documentation for ${title}`}
   keywords={`Vining, ${title}, Vining family, genealogy`}
   activePage="Online Genealogy"
-  noHeader
 >
 
-<br><br>
+<p class="doc-back"><a href={backHref}>&larr; Back to {headingTitle}</a></p>
 
 <center>
   <span class="doc-page-title">Documentation for {headingTitle}</span>
 </center>
 
-<br><br>
+<br>
+
+<div class="doc-page">
 
 {intro && intro.map(item => (
   <div>
@@ -151,6 +152,8 @@ function defaultHeading(type: string): string {
   </div>
 ))}
 
-<br><br>
+</div>
+
+<p class="doc-back"><a href={backHref}>&larr; Back to {headingTitle}</a></p>
 
 </BaseInner>

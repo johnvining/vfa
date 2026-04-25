@@ -42,6 +42,16 @@ a:link { color: #1a5296; }
 	font-size: 1.4em;
 }
 
+.doc-page img {
+	max-width: 100%;
+	height: auto;
+}
+
+.doc-back {
+	font-size: 0.9em;
+	margin-bottom: 0.5em;
+}
+
 .doc-page-title {
 	font-size: 1.4em;
 	font-weight: bold;
