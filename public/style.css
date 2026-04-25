@@ -76,6 +76,23 @@ a:active           { color: #ff0000; }
 	font-size: 1.05em;
 }
 
+.site-header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 5rem;
+	padding: 0.5rem 0;
+}
+
+.site-logo {
+	height: 140px;
+	width: auto;
+}
+
+.site-header-text {
+	text-align: center;
+}
+
 .main-nav {
 	display: flex;
 	justify-content: space-evenly;
