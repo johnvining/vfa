@@ -40,7 +40,8 @@ body {
 	font-size: 0.85em;
 }
 
-a:link { color: var(--color-link); }
+a:link, a:visited { color: var(--color-link); }
+a:active           { color: #ff0000; }
 
 .site-title {
 	color: var(--color-green);
