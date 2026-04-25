@@ -180,7 +180,8 @@ a:active           { color: #ff0000; }
 	padding: 5px;
 }
 
-.data-table .cell-header {
+.data-table tr:first-child td,
+.data-table tr:first-child th {
 	background-color: #dddddd;
 }
 
