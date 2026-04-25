@@ -1,3 +1,13 @@
+:root {
+	--color-green: #006600;
+	--color-link: #1a5296;
+	--color-active-bg: #f0f8f0;
+	--color-active-text: #222;
+	--color-border: #ababab;
+	--font-body: Georgia, 'Palatino Linotype', Palatino, serif;
+	--font-geo: 'Times New Roman', Times, serif;
+}
+
 body {
 	background-color: white;
 	max-width: 950px;
@@ -5,12 +15,12 @@ body {
 	margin: 0 auto;
 	padding: 0 1rem;
 	line-height: 1.5;
-	font-family: Georgia, 'Palatino Linotype', Palatino, serif;
+	font-family: var(--font-body);
 	overflow-x: hidden;
 }
 
 .geo-pre {
-	font-family: 'Times New Roman', Times, serif;
+	font-family: var(--font-geo);
 }
 
 .geo-line {
@@ -30,15 +40,15 @@ body {
 	font-size: 0.85em;
 }
 
-a:link { color: #1a5296; }
+a:link { color: var(--color-link); }
 
 .site-title {
-	color: #006600;
+	color: var(--color-green);
 	font-size: 2em;
 }
 
 .site-subtitle {
-	color: #006600;
+	color: var(--color-green);
 	font-size: 1.4em;
 }
 
@@ -79,12 +89,12 @@ a:link { color: #1a5296; }
 
 .nav-item a {
 	text-decoration: none;
-	color: #1a5296;
+	color: var(--color-link);
 }
 
 .nav-item b {
-	background-color: #f0f8f0;
-	color: #222;
+	background-color: var(--color-active-bg);
+	color: var(--color-active-text);
 	padding: 3px 8px;
 	border-radius: 3px;
 	font-weight: normal;
@@ -92,7 +102,7 @@ a:link { color: #1a5296; }
 
 .section-heading {
 	display: block;
-	color: #006600;
+	color: var(--color-green);
 	font-size: 1.3em;
 	margin-top: 0.6em;
 	margin-bottom: 0.2em;
@@ -175,13 +185,13 @@ a:link { color: #1a5296; }
 
 .letter-nav a {
 	text-decoration: none;
-	color: #1a5296;
+	color: var(--color-link);
 }
 
 .letter-nav-current {
 	font-weight: normal;
-	background-color: #f0f8f0;
-	color: #222;
+	background-color: var(--color-active-bg);
+	color: var(--color-active-text);
 	border-radius: 3px;
 }
 
@@ -242,5 +252,5 @@ a.newsletter-link {
 	width: 100%;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #ababab;
+	border-color: var(--color-border);
 }
