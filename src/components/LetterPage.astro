@@ -26,8 +26,20 @@ const pageTitle = `Vining Genealogy - "${letter}" List`;
 const lastUpdated = entries[0]?.data.lastUpdated;
 
 const DIVIDER = '\n<hr class="people-divider" />\n';
-const preInner = entries.map(e => renderEntry(e.data) + '\n' + DIVIDER).join('\n')
-  + '\n'.repeat(40);
+const rawContent = entries.map(e => renderEntry(e.data) + '\n' + DIVIDER).join('\n');
+
+// Each line: margin-left positions the line at its natural indent level.
+// padding-left + negative text-indent make continuation (wrapped) lines land
+// further right than the first visual line — the classic hanging indent.
+const SPACE_EM = 0.27; // approximate em width of one space in Times New Roman
+const HANG_EM = 1.5;   // extra rightward shift for continuation lines
+const geoHtml = rawContent.split('\n').map(line => {
+  const spaces = (line.match(/^( *)/) ?? ['', ''])[1].length;
+  const content = line.trimStart() || ' ';
+  const base = (spaces * SPACE_EM).toFixed(2);
+  const style = `margin-left:${base}em;padding-left:${HANG_EM}em;text-indent:-${HANG_EM}em`;
+  return `<div class="geo-line" style="${style}">${content}</div>`;
+}).join('');
 
 const navLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 const unavailable = new Set(['X', 'Y', 'Z']);
@@ -76,9 +88,7 @@ const unavailable = new Set(['X', 'Y', 'Z']);
 
 <hr class="nav-divider" />
 
-<pre>
-   <font FACE="TIMES NEW ROMAN">
-
-<Fragment set:html={preInner} />
-</pre>
+<div class="geo-pre">
+<Fragment set:html={geoHtml} />
+</div>
 </BaseInner>
