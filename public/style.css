@@ -123,10 +123,10 @@ a:active           { color: #ff0000; }
 	text-decoration: none;
 }
 
-.section-heading {
-	display: block;
+h2.section-heading {
 	color: var(--color-green);
 	font-size: 1.3em;
+	font-weight: normal;
 	margin-top: 1.5em;
 	margin-bottom: 0.4em;
 }
