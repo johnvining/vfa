@@ -132,7 +132,6 @@ for (const event of events) {
 
 {renderItems.map(item => (
   <Fragment>
-    {item.showSeasonHeader && <span class="news-season">{item.season}</span>}
     {item.showMonthHeader && <span class="news-month">{item.month}</span>}
     {item.kind === 'news' && <div class="news-entry"><item.Content /></div>}
     {item.kind === 'geo' && (

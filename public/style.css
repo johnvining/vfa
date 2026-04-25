@@ -4,6 +4,7 @@ body {
 	min-width: 600px;
 	margin: 0 auto;
 	padding: 0 1rem;
+	line-height: 1.5;
 }
 
 a:link { color: #1a5296; }
@@ -53,18 +54,36 @@ a:visited { color: #6b3a8a; }
 	display: block;
 	font-size: 0.95em;
 	font-weight: bold;
-	color: #666;
-	margin-top: 0.4em;
-	margin-bottom: 0.1em;
+	color: #555;
+	margin-top: 1.8em;
+	margin-bottom: 0.4em;
+	padding-top: 0.8em;
+	border-top: 1px solid #ddd;
 }
 
 .news-entry {
-	margin-bottom: 0.4em;
+	margin-left: 1em;
+	margin-bottom: 0.6em;
 }
 
 .news-entry p {
 	margin-top: 0;
 	margin-bottom: 0.3em;
+}
+
+.news-entry ul {
+	list-style: none;
+	margin: 0.3em 0 0.3em 1.25em;
+	padding: 0;
+}
+
+.news-entry li {
+	margin-bottom: 0.4em;
+}
+
+a.newsletter-link {
+	font-size: 1.1em;
+	font-weight: bold;
 }
 
 .geo-updates {
