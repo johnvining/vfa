@@ -135,6 +135,28 @@ a:active           { color: #ff0000; }
 	margin-top: 1.5em;
 }
 
+.indented-list {
+	list-style: none;
+	padding-left: 1.5em;
+	margin: 0.2em 0 0;
+}
+
+.indented-list li {
+	margin-bottom: 0.2em;
+}
+
+.footnotes {
+	list-style: none;
+	padding: 0;
+	margin-top: 1em;
+}
+
+.footnotes li {
+	padding-left: 1.5em;
+	text-indent: -1.5em;
+	margin-bottom: 0.3em;
+}
+
 .people-divider {
 	width: 80px;
 	margin-left:0;
