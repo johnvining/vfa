@@ -87,12 +87,12 @@ function defaultHeading(type: string): string {
             <tr>
               <td align="left">&nbsp;</td>
               {section.table.columns.map(col => (
-                <td align="center" bgcolor="#DDDDDD">{col}</td>
+                <td align="center">{col}</td>
               ))}
             </tr>
             {section.table.rows.map(row => (
               <tr>
-                <td align="left" bgcolor="#DDDDDD">
+                <td align="left">
                   {row.indent ? <Fragment set:html={`&nbsp;&nbsp;&nbsp;&nbsp;${row.label}`} /> : row.label}
                 </td>
                 {row.values.map(val => (
