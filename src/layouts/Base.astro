@@ -20,6 +20,7 @@ const { title, description = '', keywords = '', activePage = '' } = Astro.props;
    {description && <meta name="description" content={description}>}
    {keywords && <meta name="keywords" content={keywords}>}
    <link rel="stylesheet" href={`${import.meta.env.BASE_URL}style.css`} />
+   <slot name="head" />
 </head>
 
 <body>
