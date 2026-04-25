@@ -5,14 +5,40 @@ body {
 	margin: 0 auto;
 	padding: 0 1rem;
 	line-height: 1.5;
+	font-family: Georgia, 'Palatino Linotype', Palatino, serif;
+	overflow-x: hidden;
+}
+
+pre {
+	overflow-x: auto;
+	max-width: 100%;
 }
 
 a:link { color: #1a5296; }
-a:visited { color: #6b3a8a; }
+
+.main-nav {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	padding: 0.45em 0;
+}
 
 .nav-item {
 	white-space: nowrap;
-	font-size: 0.85em;
+	font-size: 1em;
+}
+
+.nav-item a {
+	text-decoration: none;
+	color: #1a5296;
+}
+
+.nav-item b {
+	background-color: #f0f8f0;
+	color: #222;
+	padding: 3px 8px;
+	border-radius: 3px;
+	font-weight: normal;
 }
 
 .section-heading {
@@ -79,6 +105,49 @@ a:visited { color: #6b3a8a; }
 
 .news-entry li {
 	margin-bottom: 0.4em;
+}
+
+.letter-nav {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: baseline;
+	gap: 0.35em;
+	white-space: nowrap;
+	font-size: 1.2em;
+	padding: 0.4em 0;
+}
+
+.letter-nav a,
+.letter-nav-current,
+.letter-nav-unavailable {
+	padding: 3px 8px;
+}
+
+.letter-nav a {
+	text-decoration: none;
+	color: #1a5296;
+}
+
+.letter-nav-current {
+	font-weight: normal;
+	background-color: #f0f8f0;
+	color: #222;
+	border-radius: 3px;
+}
+
+.letter-nav-unavailable {
+	color: #c0c0c0;
+}
+
+.letter-nav-sep {
+	color: #aaa;
+}
+
+.page-updated {
+	font-size: 0.8em;
+	color: #999;
+	margin-top: 0.5em;
 }
 
 a.newsletter-link {
