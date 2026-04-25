@@ -31,10 +31,7 @@ const navItems = [
 <div class="main-nav">
   {navItems.map(item => (
     <span class="nav-item">
-      {item.label === activePage
-        ? <b>{item.label}</b>
-        : <a href={item.href}>{item.label}</a>
-      }
+      <a href={item.href} aria-current={item.label === activePage ? 'page' : undefined}>{item.label}</a>
     </span>
   ))}
 </div>

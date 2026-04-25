@@ -110,12 +110,13 @@ a:active           { color: #ff0000; }
 	color: var(--color-link);
 }
 
-.nav-item b {
+.nav-item a[aria-current="page"] {
 	background-color: var(--color-active-bg);
 	color: var(--color-active-text);
 	padding: 3px 8px;
 	border-radius: 3px;
 	font-weight: normal;
+	text-decoration: none;
 }
 
 .section-heading {
