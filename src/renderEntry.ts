@@ -242,7 +242,7 @@ export function renderEntry(data: EntryData): string {
   // Header
   const headingName = withVining(data.head.givenName, data.head.surname ?? 'Vining');
   const headingNote = data.head.headingNote ? ' ' + data.head.headingNote : '';
-  lines.push(`<a name="${data.id}"></a><font size="+2">${headingName}</font>${headingNote}`);
+  lines.push(`<a name="${data.id}"></a><span class="geo-name">${headingName}</span>${headingNote}`);
 
   // Parent reference
   if (data.parentDesc) {
@@ -350,14 +350,14 @@ export function renderEntry(data: EntryData): string {
   for (const group of (data.childrenGroups as any[]) ?? []) {
     if (group.headingText) {
       if (group.headingText.toLowerCase() !== 'children') {
-        lines.push(`<font size="+1">${group.headingText}:</font>`);
+        lines.push(`<span class="geo-children-label">${group.headingText}:</span>`);
       } else {
-        lines.push('<font size="+1">children:</font>');
+        lines.push('<span class="geo-children-label">children:</span>');
       }
     } else if (group.spouseRef) {
-      lines.push(`<font size="+1">children by ${group.spouseRef}:</font>`);
+      lines.push(`<span class="geo-children-label">children by ${group.spouseRef}:</span>`);
     } else {
-      lines.push('<font size="+1">children:</font>');
+      lines.push('<span class="geo-children-label">children:</span>');
     }
     for (const child of group.children) {
       lines.push(renderChildLine(child));
@@ -378,13 +378,13 @@ export function renderEntry(data: EntryData): string {
   // Updates section
   if (data.updates && data.updates.length > 0) {
     lines.push('');
-    lines.push('<font size="-1"><i>Updates:</i></font>');
+    lines.push('<span class="geo-update-label"><i>Updates:</i></span>');
     const sorted = [...data.updates].sort((a, b) => a.date.localeCompare(b.date));
     for (const u of sorted) {
-      let line = `<font size="-1">   ${formatUpdateDate(u.date)}`;
+      let line = `<span class="geo-update">   ${formatUpdateDate(u.date)}`;
       if (u.what) line += ` — ${u.what}`;
       if (u.thanks) line += ` (thanks to ${u.thanks})`;
-      line += '</font>';
+      line += '</span>';
       lines.push(line);
     }
   }

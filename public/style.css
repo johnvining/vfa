@@ -21,7 +21,39 @@ body {
 	min-height: 1.2em;
 }
 
+.geo-name {
+	font-size: 1.4em;
+}
+
+.geo-update-label,
+.geo-update {
+	font-size: 0.85em;
+}
+
 a:link { color: #1a5296; }
+
+.site-title {
+	color: #006600;
+	font-size: 2em;
+}
+
+.site-subtitle {
+	color: #006600;
+	font-size: 1.4em;
+}
+
+.doc-page-title {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+.doc-section-title {
+	font-size: 1.1em;
+}
+
+.doc-year {
+	font-size: 1.05em;
+}
 
 .main-nav {
 	display: flex;

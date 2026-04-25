@@ -50,7 +50,7 @@ function defaultHeading(type: string): string {
 <br><br>
 
 <center>
-  <font size="+2">Documentation for {headingTitle}</font>
+  <span class="doc-page-title">Documentation for {headingTitle}</span>
 </center>
 
 <br><br>
@@ -74,8 +74,8 @@ function defaultHeading(type: string): string {
   <div>
     <p>
       {section.headingLarge
-        ? <font size="+2">{section.heading ?? defaultHeading(section.type)}</font>
-        : <font size="+1"><b>{section.heading ?? defaultHeading(section.type)}</b></font>
+        ? <span class="doc-section-title">{section.heading ?? defaultHeading(section.type)}</span>
+        : <b class="doc-section-title">{section.heading ?? defaultHeading(section.type)}</b>
       }
     </p>
 
@@ -106,7 +106,7 @@ function defaultHeading(type: string): string {
 
         {section.entries && section.entries.map(entry => (
           <div>
-            <font size="+1"><b>{entry.year}</b></font>
+            <b class="doc-year">{entry.year}</b>
             {entry.caption && <Fragment set:html={` ${entry.caption}:`} />}
             <br />
             {entry.images && (
