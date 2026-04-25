@@ -85,18 +85,18 @@ function defaultHeading(type: string): string {
         {section.table && (
           <table class="data-table">
             <tr>
-              <td align="left">&nbsp;</td>
+              <td>&nbsp;</td>
               {section.table.columns.map(col => (
-                <td align="center">{col}</td>
+                <td class="text-center">{col}</td>
               ))}
             </tr>
             {section.table.rows.map(row => (
               <tr>
-                <td align="left">
+                <td>
                   {row.indent ? <Fragment set:html={`&nbsp;&nbsp;&nbsp;&nbsp;${row.label}`} /> : row.label}
                 </td>
                 {row.values.map(val => (
-                  <td align="center"><Fragment set:html={val.replace(/\n/g, '<br>')} /></td>
+                  <td class="text-center"><Fragment set:html={val.replace(/\n/g, '<br>')} /></td>
                 ))}
               </tr>
             ))}
