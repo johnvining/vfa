@@ -2,7 +2,6 @@
 import Base from '../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 
-// Manual news entries
 const allNews = await getCollection('news');
 allNews.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
@@ -13,7 +12,6 @@ const renderedNews = await Promise.all(
   })
 );
 
-// Genealogy updates: collected from all YAML entries that have an updates: block
 const allGenealogy = await getCollection('genealogy');
 
 type GeoUpdate = {
@@ -29,7 +27,7 @@ const geoByMonth = new Map<string, GeoUpdate[]>();
 for (const entry of allGenealogy) {
   if (!entry.data.updates) continue;
   for (const update of entry.data.updates) {
-    const monthKey = update.date.slice(0, 7); // YYYY-MM
+    const monthKey = update.date.slice(0, 7);
     if (!geoByMonth.has(monthKey)) geoByMonth.set(monthKey, []);
     const surname = entry.data.head.surname ?? 'Vining';
     geoByMonth.get(monthKey)!.push({
@@ -51,7 +49,6 @@ function monthLabel(date: Date): string {
   return date.toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
 }
 
-// Merge news and genealogy-update events into a single chronological list
 type NewsEvent = {
   type: 'news';
   date: Date;
@@ -81,24 +78,24 @@ const events: (NewsEvent | GeoEvent)[] = [
 ];
 events.sort((a, b) => b.date.getTime() - a.date.getTime());
 
-// Pre-compute heading flags so template stays declarative
-type RenderItem =
-  | {
-      kind: 'news';
-      showSeasonHeader: boolean;
-      season: string;
-      showMonthHeader: boolean;
-      month: string;
-      Content: any;
-    }
-  | {
-      kind: 'geo';
-      showSeasonHeader: false;
-      season: '';
-      showMonthHeader: boolean;
-      month: string;
-      updates: GeoUpdate[];
-    };
+type NewsItem = {
+  kind: 'news';
+  showSeasonHeader: boolean;
+  season: string;
+  showMonthHeader: boolean;
+  month: string;
+  Content: any;
+};
+type GeoItem = {
+  kind: 'geo';
+  showSeasonHeader: false;
+  season: '';
+  showMonthHeader: boolean;
+  month: string;
+  updates: GeoUpdate[];
+  thanks: string[];
+};
+type RenderItem = NewsItem | GeoItem;
 
 const renderItems: RenderItem[] = [];
 let lastSeason = '';
@@ -106,32 +103,18 @@ let lastMonth = '';
 
 for (const event of events) {
   const month = monthLabel(event.date);
-
   if (event.type === 'news') {
     const season = event.season;
     const showSeasonHeader = season !== lastSeason;
     const showMonthHeader = event.rendered.entry.data.showMonthHeading && month !== lastMonth;
     if (showSeasonHeader) lastSeason = season;
     if (month !== lastMonth) lastMonth = month;
-    renderItems.push({
-      kind: 'news',
-      showSeasonHeader,
-      season,
-      showMonthHeader,
-      month,
-      Content: event.rendered.Content,
-    });
+    renderItems.push({ kind: 'news', showSeasonHeader, season, showMonthHeader, month, Content: event.rendered.Content });
   } else {
     const showMonthHeader = month !== lastMonth;
     if (showMonthHeader) lastMonth = month;
-    renderItems.push({
-      kind: 'geo',
-      showSeasonHeader: false,
-      season: '',
-      showMonthHeader,
-      month,
-      updates: event.updates,
-    });
+    const thanks = [...new Set(event.updates.map(u => u.thanks).filter(Boolean) as string[])];
+    renderItems.push({ kind: 'geo', showSeasonHeader: false, season: '', showMonthHeader, month, updates: event.updates, thanks });
   }
 }
 ---
@@ -145,44 +128,28 @@ for (const event of events) {
 
 <br><br>
 
-<font size="+2">Do you have any news to share about the Vining family? births, marriages, deaths? graduations? honors received? genealogical puzzles solved? Please send them along for inclusion in our News and Notes.</font>
+<p>Do you have any news to share about the Vining family? births, marriages, deaths? graduations? honors received? genealogical puzzles solved? Please send them along for inclusion in our News and Notes.</p>
 
-{renderItems.map(item => {
-  const Content = item.kind === 'news' ? item.Content : null;
-  const geoUpdates = item.kind === 'geo' ? item.updates : [];
-  const thanks = item.kind === 'geo'
-    ? [...new Set(geoUpdates.map(u => u.thanks).filter((t): t is string => Boolean(t)))]
-    : [];
-  return (
-    <Fragment>
-      {item.showSeasonHeader && (
-        <Fragment>
-          <br /><br /><br />
-          <font size="+2"><b>{item.season}</b></font><br />
-        </Fragment>
-      )}
-      {item.showMonthHeader && (
-        <Fragment>
-          <font size="+1"><b>{item.month}</b></font><br />
-        </Fragment>
-      )}
-      {item.kind === 'news' && Content && <Content />}
-      {item.kind === 'geo' && (
-        <div class="geo-updates">
-          <div class="geo-updates-label">Genealogy updates:</div>
-          {geoUpdates.map(u => (
-            <div class="geo-updates-entry">
-              <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
-              {u.what && <Fragment> &#8212; {u.what}</Fragment>}
-            </div>
-          ))}
-          {thanks.length > 0 && (
-            <div class="geo-updates-thanks">Thanks to: {thanks.join(', ')}.</div>
-          )}
-        </div>
-      )}
-    </Fragment>
-  );
-})}
+{renderItems.map(item => (
+  <Fragment>
+    {item.showSeasonHeader && <span class="news-season">{item.season}</span>}
+    {item.showMonthHeader && <span class="news-month">{item.month}</span>}
+    {item.kind === 'news' && <div class="news-entry"><item.Content /></div>}
+    {item.kind === 'geo' && (
+      <div class="geo-updates">
+        <div class="geo-updates-label">Genealogy updates:</div>
+        {item.updates.map(u => (
+          <div class="geo-updates-entry">
+            <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
+            {u.what && <Fragment> &#8212; {u.what}</Fragment>}
+          </div>
+        ))}
+        {item.thanks.length > 0 && (
+          <div class="geo-updates-thanks">Thanks to: {item.thanks.join(', ')}.</div>
+        )}
+      </div>
+    )}
+  </Fragment>
+))}
 
 </Base>

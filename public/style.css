@@ -40,6 +40,33 @@ a:visited { color: #6b3a8a; }
 	padding: 5px;
 }
 
+.news-season {
+	display: block;
+	font-size: 1.15em;
+	font-weight: bold;
+	color: #444;
+	margin-top: 1.2em;
+	margin-bottom: 0;
+}
+
+.news-month {
+	display: block;
+	font-size: 0.95em;
+	font-weight: bold;
+	color: #666;
+	margin-top: 0.4em;
+	margin-bottom: 0.1em;
+}
+
+.news-entry {
+	margin-bottom: 0.4em;
+}
+
+.news-entry p {
+	margin-top: 0;
+	margin-bottom: 0.3em;
+}
+
 .geo-updates {
 	margin: 0.25em 0 0.75em 1.5em;
 }
