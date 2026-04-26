@@ -85,9 +85,9 @@ function defaultHeading(type: string): string {
         {section.table && (
           <table class="data-table">
             <tr>
-              <td>&nbsp;</td>
+              <th scope="col">&nbsp;</th>
               {section.table.columns.map(col => (
-                <td class="text-center">{col}</td>
+                <th scope="col" class="text-center">{col}</th>
               ))}
             </tr>
             {section.table.rows.map(row => (
