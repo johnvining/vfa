@@ -131,6 +131,13 @@ h2.section-heading {
 	margin-bottom: 0.4em;
 }
 
+h3.sub-heading {
+	font-size: 1em;
+	font-weight: bold;
+	margin-top: 1.2em;
+	margin-bottom: 0.2em;
+}
+
 .section-gap {
 	margin-top: 1.5em;
 }
