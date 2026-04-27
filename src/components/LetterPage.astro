@@ -77,12 +77,15 @@ const tocEntries = entries.map(e => {
   const toc = document.getElementById('letter-toc');
   const nav = document.getElementById('top');
   if (toc && nav) {
-    function alignToc() {
-      toc.style.top = nav.offsetTop + 'px';
-      toc.style.maxHeight = 'calc(100vh - ' + nav.offsetTop + 'px - 1rem)';
+    let navDocTop = nav.offsetTop;
+    function updateToc() {
+      const top = Math.max(8, navDocTop - window.scrollY);
+      toc.style.top = top + 'px';
+      toc.style.maxHeight = 'calc(100vh - ' + top + 'px - 0.5rem)';
     }
-    alignToc();
-    window.addEventListener('resize', alignToc);
+    updateToc();
+    window.addEventListener('scroll', updateToc, { passive: true });
+    window.addEventListener('resize', () => { navDocTop = nav.offsetTop; updateToc(); });
   }
 </script>
 
