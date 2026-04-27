@@ -43,6 +43,12 @@ const geoHtml = rawContent.split('\n').map(line => {
 
 const navLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 const unavailable = new Set(['X', 'Y', 'Z']);
+
+const tocEntries = entries.map(e => {
+  const birthDate = (e.data.head as any).birth?.date as string | undefined;
+  const year = birthDate ? (birthDate.match(/\b(\d{4})\b/)?.[1] ?? '') : '';
+  return { id: e.data.id, name: e.data.head.givenName, year };
+});
 ---
 
 <BaseInner
@@ -52,7 +58,22 @@ const unavailable = new Set(['X', 'Y', 'Z']);
   activePage="Online Genealogy"
 >
 
-<div class="letter-nav">
+<aside class="letter-toc">
+  <div class="letter-toc-header">
+    <span class="letter-toc-title">{letter} Entries</span>
+    <a href="#top" class="letter-toc-top">↑ Top</a>
+  </div>
+  <nav class="letter-toc-nav">
+    {tocEntries.map(e => (
+      <a href={`#${e.id}`} class="letter-toc-entry">
+        <span class="letter-toc-name">{e.name}</span>
+        {e.year && <span class="letter-toc-year">{e.year}</span>}
+      </a>
+    ))}
+  </nav>
+</aside>
+
+<div class="letter-nav" id="top">
   {navLetters.map(l => (
     unavailable.has(l)
       ? <span class="letter-nav-unavailable">{l}</span>
