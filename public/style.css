@@ -330,10 +330,10 @@ html {
 .letter-toc {
 	display: none;
 	position: fixed;
-	top: 2rem;
+	top: 0; /* overridden by JS to align with letter nav */
 	left: calc(50% + 480px);
 	width: 165px;
-	max-height: calc(100vh - 3rem);
+	max-height: 80vh; /* fallback; overridden by JS */
 	flex-direction: column;
 	background: white;
 	border: 1px solid var(--color-border);
