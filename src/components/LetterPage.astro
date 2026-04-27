@@ -58,7 +58,7 @@ const tocEntries = entries.map(e => {
   activePage="Online Genealogy"
 >
 
-<aside class="letter-toc">
+<aside class="letter-toc" id="letter-toc">
   <div class="letter-toc-header">
     <span class="letter-toc-title">{letter} Entries</span>
     <a href="#top" class="letter-toc-top">↑ Top</a>
@@ -72,6 +72,19 @@ const tocEntries = entries.map(e => {
     ))}
   </nav>
 </aside>
+
+<script>
+  const toc = document.getElementById('letter-toc');
+  const nav = document.getElementById('top');
+  if (toc && nav) {
+    function alignToc() {
+      toc.style.top = nav.offsetTop + 'px';
+      toc.style.maxHeight = 'calc(100vh - ' + nav.offsetTop + 'px - 1rem)';
+    }
+    alignToc();
+    window.addEventListener('resize', alignToc);
+  }
+</script>
 
 <div class="letter-nav" id="top">
   {navLetters.map(l => (
