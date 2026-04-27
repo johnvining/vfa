@@ -403,9 +403,6 @@ html {
 	color: #555;
 }
 
-.letter-toc-entry.toc-active {
-	font-weight: bold;
-}
 
 .letter-toc-name {
 	flex: 1;
