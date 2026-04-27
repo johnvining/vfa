@@ -320,3 +320,93 @@ a.newsletter-link {
 	border-width: 1px;
 	border-color: var(--color-border);
 }
+
+/* Letter-page fixed TOC */
+.letter-toc {
+	display: none;
+	position: fixed;
+	top: 2rem;
+	left: calc(50% + 480px);
+	width: 168px;
+	max-height: calc(100vh - 3rem);
+	background: white;
+	border: 1px solid var(--color-border);
+	border-radius: 4px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+	flex-direction: column;
+	overflow: hidden;
+	font-family: var(--font-body);
+	font-size: 0.78em;
+	z-index: 100;
+}
+
+@media (min-width: 1360px) {
+	.letter-toc { display: flex; }
+}
+
+.letter-toc-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0.45em 0.65em;
+	background: var(--color-active-bg);
+	border-bottom: 1px solid var(--color-border);
+	flex-shrink: 0;
+}
+
+.letter-toc-title {
+	font-weight: bold;
+	color: var(--color-green);
+}
+
+.letter-toc-top {
+	color: var(--color-link);
+	text-decoration: none;
+	font-size: 0.9em;
+	opacity: 0.75;
+}
+
+.letter-toc-top:hover {
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.letter-toc-nav {
+	overflow-y: auto;
+	flex: 1;
+	padding: 0.2em 0;
+}
+
+.letter-toc-entry {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	padding: 0.18em 0.65em;
+	text-decoration: none;
+	color: var(--color-link);
+	line-height: 1.45;
+	gap: 0.4em;
+}
+
+.letter-toc-entry:hover {
+	background: var(--color-active-bg);
+	color: var(--color-active-text);
+}
+
+.letter-toc-entry:hover .letter-toc-year {
+	color: #555;
+}
+
+.letter-toc-name {
+	flex: 1;
+	min-width: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.letter-toc-year {
+	flex-shrink: 0;
+	color: #999;
+	font-size: 0.9em;
+}
