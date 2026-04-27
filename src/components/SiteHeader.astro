@@ -1,19 +1,18 @@
 ---
 interface Props {
   activePage?: string;
-  baseUrl?: string;
 }
 
-const { activePage = '', baseUrl = '' } = Astro.props;
+const { activePage = '' } = Astro.props;
 
 const navItems = [
-  { label: 'Home', href: `${baseUrl}index.htm` },
-  { label: 'Online Genealogy', href: `${baseUrl}Viningfamilieshome.htm` },
-  { label: 'Research Problems', href: `${baseUrl}Viningresearchproblemshome.htm` },
-  { label: 'News and Notes', href: `${baseUrl}Viningnewshome.htm` },
-  { label: 'Census Records', href: `${baseUrl}Viningcensushome.htm` },
-  { label: 'Vining Migration', href: `${baseUrl}Viningmigrationhome.htm` },
-  { label: 'Places and People', href: `${baseUrl}Viningplacespeoplehome.htm` },
+  { label: 'Home', href: '/index.htm' },
+  { label: 'Online Genealogy', href: '/Viningfamilieshome.htm' },
+  { label: 'Research Problems', href: '/Viningresearchproblemshome.htm' },
+  { label: 'News and Notes', href: '/Viningnewshome.htm' },
+  { label: 'Census Records', href: '/Viningcensushome.htm' },
+  { label: 'Vining Migration', href: '/Viningmigrationhome.htm' },
+  { label: 'Places and People', href: '/Viningplacespeoplehome.htm' },
 ];
 ---
 
