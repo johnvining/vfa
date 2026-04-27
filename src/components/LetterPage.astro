@@ -76,17 +76,65 @@ const tocEntries = entries.map(e => {
 <script>
   const toc = document.getElementById('letter-toc');
   const nav = document.getElementById('top');
+  const tocNavEl = toc?.querySelector('.letter-toc-nav');
+
+  // TOC position: follows letter nav until it scrolls off, then pins to top
   if (toc && nav) {
     let navDocTop = nav.offsetTop;
-    function updateToc() {
+    function updateTocPos() {
       const top = Math.max(12, navDocTop - window.scrollY);
       toc.style.top = top + 'px';
       toc.style.maxHeight = 'calc(100vh - ' + top + 'px - 0.5rem)';
     }
-    updateToc();
-    window.addEventListener('scroll', updateToc, { passive: true });
-    window.addEventListener('resize', () => { navDocTop = nav.offsetTop; updateToc(); });
+    updateTocPos();
+    window.addEventListener('scroll', updateTocPos, { passive: true });
+    window.addEventListener('resize', () => { navDocTop = nav.offsetTop; updateTocPos(); });
   }
+
+  // Scroll spy: highlight the TOC entry for the currently visible genealogy section
+  const anchors = Array.from(document.querySelectorAll('.geo-pre a[name]'));
+  const tocLinks = new Map();
+  document.querySelectorAll('.letter-toc-entry').forEach(link => {
+    const id = link.getAttribute('href')?.slice(1);
+    if (id) tocLinks.set(id, link);
+  });
+
+  let anchorTops: {id: string, top: number}[] = [];
+  function cacheAnchorTops() {
+    anchorTops = anchors.map(a => ({
+      id: a.getAttribute('name') ?? '',
+      top: a.getBoundingClientRect().top + window.scrollY,
+    }));
+  }
+  cacheAnchorTops();
+  window.addEventListener('resize', cacheAnchorTops);
+
+  let currentActive: string | null = null;
+  function updateActive() {
+    const threshold = window.scrollY + 80;
+    let activeId: string | null = null;
+    for (const { id, top } of anchorTops) {
+      if (top <= threshold) activeId = id;
+      else break;
+    }
+    if (activeId === currentActive) return;
+    if (currentActive) tocLinks.get(currentActive)?.classList.remove('toc-active');
+    currentActive = activeId;
+    const activeLink = activeId ? tocLinks.get(activeId) : null;
+    if (activeLink) {
+      activeLink.classList.add('toc-active');
+      // Scroll TOC nav to keep active entry visible (without touching page scroll)
+      if (tocNavEl) {
+        const lTop = activeLink.offsetTop;
+        const lBot = lTop + activeLink.offsetHeight;
+        if (lTop < tocNavEl.scrollTop) tocNavEl.scrollTop = lTop;
+        else if (lBot > tocNavEl.scrollTop + tocNavEl.clientHeight)
+          tocNavEl.scrollTop = lBot - tocNavEl.clientHeight;
+      }
+    }
+  }
+  updateActive();
+  window.addEventListener('scroll', updateActive, { passive: true });
 </script>
 
 <div class="letter-nav" id="top">
