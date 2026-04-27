@@ -58,20 +58,30 @@ const tocEntries = entries.map(e => {
   activePage="Online Genealogy"
 >
 
-<aside class="letter-toc">
-  <div class="letter-toc-header">
-    <span class="letter-toc-title">{letter} Entries</span>
-    <a href="#top" class="letter-toc-top">↑ Top</a>
+<aside class="letter-toc" id="letter-toc">
+  <button class="letter-toc-tab" id="letter-toc-btn" title="Show contents">≡</button>
+  <div class="letter-toc-panel">
+    <div class="letter-toc-header">
+      <span class="letter-toc-title">{letter} Entries</span>
+      <a href="#top" class="letter-toc-top">↑ Top</a>
+    </div>
+    <nav class="letter-toc-nav">
+      {tocEntries.map(e => (
+        <a href={`#${e.id}`} class="letter-toc-entry">
+          <span class="letter-toc-name">{e.name}</span>
+          {e.year && <span class="letter-toc-year">{e.year}</span>}
+        </a>
+      ))}
+    </nav>
   </div>
-  <nav class="letter-toc-nav">
-    {tocEntries.map(e => (
-      <a href={`#${e.id}`} class="letter-toc-entry">
-        <span class="letter-toc-name">{e.name}</span>
-        {e.year && <span class="letter-toc-year">{e.year}</span>}
-      </a>
-    ))}
-  </nav>
 </aside>
+
+<script>
+const btn = document.getElementById('letter-toc-btn');
+btn?.addEventListener('click', () => {
+  document.getElementById('letter-toc')?.classList.toggle('open');
+});
+</script>
 
 <div class="letter-nav" id="top">
   {navLetters.map(l => (
