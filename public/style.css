@@ -392,13 +392,19 @@ html {
 	gap: 0.4em;
 }
 
-.letter-toc-entry:hover {
+.letter-toc-entry:hover,
+.letter-toc-entry.toc-active {
 	background: var(--color-active-bg);
 	color: var(--color-active-text);
 }
 
-.letter-toc-entry:hover .letter-toc-year {
+.letter-toc-entry:hover .letter-toc-year,
+.letter-toc-entry.toc-active .letter-toc-year {
 	color: #555;
+}
+
+.letter-toc-entry.toc-active {
+	font-weight: bold;
 }
 
 .letter-toc-name {
