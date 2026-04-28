@@ -1,7 +1,7 @@
 id: ClaytonM01
 letter: C
 sequence: 133
-lastUpdated: 25 February 2023
+lastUpdated: 27 April 2026
 relationship: son
 parentId: MerleE01
 parentLetter: M
@@ -34,23 +34,31 @@ childrenGroups:
         birth:
           date: 13 October 1955
         marriages:
-          - date: "Rebecca [...]"
+          - spouse: "Rebecca [...]"
+        death:
+          date: before 8 December 2025
       - name: Vickie Ann Vining
         birth:
           date: 18 August 1957
         marriages:
-          - date: Robert Geiger
+          - spouse: Robert Geiger
       - name: Deborah Elayne Vining
         birth:
           date: 7 April 1959
         marriages:
-          - date: Jeffrey Ryva
+          - spouse: Jeffrey Ryva
+        death:
+          date: before 8 December 2025
       - name: Jennifer Leigh Vining
         birth:
           date: 5 April 1963
         marriages:
-          - date: Martin Lavin
+          - spouse: Martin Lavin
 docsUrl: Csources/ClaytonM01doc.htm
+updates:
+  - date: "2026-04-27"
+    what: "noted Bruce and Deborah predeceased Betty; fixed children's marriage field bug; source: obituary of Betty Elaine Hubbard Vining"
+    url: "https://www.legacy.com/us/obituaries/morrisherald-news/name/betty-vining-obituary?id=60256622"
 raw: |-
   <a name="ClaytonM01"></a><font size=+2>Clayton Merle Vining</font>
      (son of <a href="Mfamilies.htm#MerleE01">Merle Edwin Vining and Edna Grace Snyder</a>)
