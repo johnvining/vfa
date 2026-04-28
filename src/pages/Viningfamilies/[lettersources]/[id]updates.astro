@@ -1,0 +1,64 @@
+---
+import BaseInner from '../../../layouts/BaseInner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allGenealogy = await getCollection('genealogy');
+  return allGenealogy
+    .filter(e => e.data.updates && e.data.updates.length > 0)
+    .map(entry => {
+      const letter = entry.data.letter.toUpperCase();
+      return {
+        params: {
+          lettersources: `${letter}sources`,
+          id: entry.data.id,
+        },
+        props: { entry },
+      };
+    });
+}
+
+const { entry } = Astro.props;
+const { id, letter, head, updates } = entry.data;
+const surname = head.surname ?? 'Vining';
+const name = `${head.givenName} ${surname}`;
+const backHref = `../${letter.toUpperCase()}families.htm#${id}`;
+
+function formatDate(dateStr: string): string {
+  const [y, m] = dateStr.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, 1))
+    .toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+}
+
+const sorted = [...(updates ?? [])].sort((a, b) => b.date.localeCompare(a.date));
+---
+
+<BaseInner
+  title={`Update History - ${name}`}
+  description={`Update history for ${name}`}
+  keywords={`Vining, ${name}, genealogy`}
+  activePage="Online Genealogy"
+>
+
+<p class="doc-back"><a href={backHref}>&larr; Back to {name}</a></p>
+
+<center>
+  <span class="doc-page-title">Update History for {name}</span>
+</center>
+
+<br>
+
+<div class="doc-page">
+  <ul>
+    {sorted.map(u => (
+      <li>
+        <b>{formatDate(u.date)}</b>
+        {u.what && <Fragment> &#8212; {u.what}{u.url && <Fragment> <a href={u.url} target="_blank">(link)</a></Fragment>}</Fragment>}
+      </li>
+    ))}
+  </ul>
+</div>
+
+<p class="doc-back"><a href={backHref}>&larr; Back to {name}</a></p>
+
+</BaseInner>

@@ -367,28 +367,22 @@ export function renderEntry(data: EntryData): string {
 
   lines.push('');
 
-  // Docs link
+  // Docs and updates links — on one line, dot-separated if both present
+  const docLinks: string[] = [];
   if (data.docsUrl) {
-    lines.push(`<a href="${data.docsUrl}">documentation and notes</a>`);
+    docLinks.push(`<a href="${data.docsUrl}">documentation and notes</a>`);
+  }
+  if (data.updates && data.updates.length > 0) {
+    const updatesUrl = `${data.letter.toUpperCase()}sources/${data.id}updates.htm`;
+    docLinks.push(`<a href="${updatesUrl}">update history</a>`);
+  }
+  if (docLinks.length > 0) {
+    lines.push(`<span class="geo-entry-links">${docLinks.join(' · ')}</span>`);
   }
 
   // Notes (e.g. surname change, annotation — rendered after docs link, matching original layout)
   if (data.notes) lines.push('');
   if (data.notes) lines.push(`   ${data.notes}`);
-
-  // Updates section
-  if (data.updates && data.updates.length > 0) {
-    lines.push('');
-    lines.push('<span class="geo-update-label"><i>Updates:</i></span>');
-    const sorted = [...data.updates].sort((a, b) => a.date.localeCompare(b.date));
-    for (const u of sorted) {
-      let line = `<span class="geo-update">   ${formatUpdateDate(u.date)}`;
-      if (u.what) line += ` — ${u.what}${u.url ? ` <a href="${u.url}" target="_blank">(link)</a>` : ''}`;
-      if (u.thanks) line += ` (thanks to ${u.thanks})`;
-      line += '</span>';
-      lines.push(line);
-    }
-  }
 
   return lines.join('\n');
 }

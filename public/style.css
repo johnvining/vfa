@@ -40,6 +40,11 @@ body {
 	font-size: 0.85em;
 }
 
+.geo-entry-links {
+	color: #666;
+	letter-spacing: 0.01em;
+}
+
 a:link, a:visited { color: var(--color-link); }
 a:active           { color: #ff0000; }
 
