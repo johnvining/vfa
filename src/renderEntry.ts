@@ -54,6 +54,7 @@ interface ChildrenGroup {
 interface Update {
   date: string;    // YYYY-MM or YYYY-MM-DD
   what?: string;
+  url?: string;
   thanks?: string;
 }
 
@@ -382,7 +383,7 @@ export function renderEntry(data: EntryData): string {
     const sorted = [...data.updates].sort((a, b) => a.date.localeCompare(b.date));
     for (const u of sorted) {
       let line = `<span class="geo-update">   ${formatUpdateDate(u.date)}`;
-      if (u.what) line += ` — ${u.what}`;
+      if (u.what) line += ` — ${u.what}${u.url ? ` <a href="${u.url}" target="_blank">(link)</a>` : ''}`;
       if (u.thanks) line += ` (thanks to ${u.thanks})`;
       line += '</span>';
       lines.push(line);

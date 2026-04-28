@@ -99,6 +99,7 @@ const genealogy = defineCollection({
     updates: z.array(z.object({
       date: z.string(),           // YYYY-MM or YYYY-MM-DD
       what: z.string().optional(),
+      url: z.string().optional(),
       thanks: z.string().optional(),
     })).optional(),
   }),

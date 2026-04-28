@@ -19,6 +19,7 @@ type GeoUpdate = {
   letter: string;
   name: string;
   what?: string;
+  url?: string;
   thanks?: string;
 };
 
@@ -35,6 +36,7 @@ for (const entry of allGenealogy) {
       letter: entry.data.letter.toUpperCase(),
       name: `${entry.data.head.givenName} ${surname}`,
       what: update.what,
+      url: update.url,
       thanks: update.thanks,
     });
   }
@@ -138,7 +140,7 @@ for (const event of events) {
         {item.updates.map(u => (
           <div class="geo-updates-entry">
             <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
-            {u.what && <Fragment> &#8212; {u.what}</Fragment>}
+            {u.what && <Fragment> &#8212; {u.what}{u.url && <Fragment> <a href={u.url} target="_blank">(link)</a></Fragment>}</Fragment>}
           </div>
         ))}
         {item.thanks.length > 0 && (
