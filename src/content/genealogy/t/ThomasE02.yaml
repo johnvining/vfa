@@ -1,7 +1,7 @@
 id: ThomasE02
 letter: T
 sequence: 29
-lastUpdated: 9 March 2023
+lastUpdated: 27 April 2026
 relationship: son
 parentId: ThomasG01
 parentDesc: Thomas Green Vining and Julia Sabrina Wells
@@ -64,13 +64,17 @@ childrenGroups:
           date: age 4 y. as of 1930 census
           place: Arkansas
         marriages:
-          - date: Fletcher Young
+          - spouse: Fletcher Young
+        death:
+          date: before 15 August 2025
       - name: Donald Vining +
         birth:
           date: age 2 y. as of 1930 census
           place: Arkansas
         marriages:
-          - date: "[...] Caudle"
+          - spouse: "[...] Caudle"
+        death:
+          date: before 15 August 2025
       - name: Billy Coleman Vining
         entryId: BillyC01
         entryLetter: B
@@ -78,9 +82,16 @@ childrenGroups:
           date: age 6 m. as of 1930 census
           place: "Eudora, Arkansas"
         marriages:
-          - date: 25 December 1949
+          - date: 24 December 1950
             spouse: Mary Ann Strickland
+        death:
+          date: 15 August 2025
+          place: "Little Rock, Arkansas"
 docsUrl: Tsources/ThomasE02doc.htm
+updates:
+  - date: "2026-04-27"
+    what: "fixed date→spouse bug for Ruth/Donald child marriages; marked Ruth Young and Donald Vining as predeceased (before 15 Aug 2025); updated Billy's marriage date to 24 Dec 1950 and added his death; source: obituary of Billy Coleman Vining Sr."
+    url: "https://www.smithfamilycares.com/obituaries/coach-billy-vining-sr"
 raw: |-
   <a name="ThomasE02"></a><font size=+2>Thomas Ebenezer Vining</font>
      (son of <a href="#ThomasG01">Thomas Green Vining and Julia Sabrina Wells</a>)

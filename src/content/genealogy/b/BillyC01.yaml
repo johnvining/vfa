@@ -1,7 +1,7 @@
 id: BillyC01
 letter: B
 sequence: 47
-lastUpdated: 25 February 2023
+lastUpdated: 27 April 2026
 relationship: son
 parentId: ThomasE02
 parentLetter: T
@@ -9,9 +9,16 @@ parentDesc: Thomas Ebenezer Vining and Mary Maude Edmonson
 head:
   givenName: Billy Coleman
   birth:
-    date: "Eudora, Chicot County, Arkansas"
+    date: 22 October 1929
+    place: "Eudora, Chicot County, Arkansas"
+  death:
+    date: 15 August 2025
+    place: "Little Rock, Arkansas"
+  burial:
+    place: "Rest Haven Memorial Gardens   Arkadelphia, Clark County, Arkansas"
 marriages:
-  - date: "25 December [1949 or 1950?; see &#8220;documentation and notes&#8221;]"
+  - number: 1
+    date: 24 December 1950
     spouse:
       givenName: Mary Ann
       surname: Strickland
@@ -24,6 +31,10 @@ marriages:
         place: "Little Rock, Pulaski County, Arkansas"
       burial:
         place: "Rest Haven Memorial Gardens   Arkadelphia, Clark County, Arkansas"
+  - number: 2
+    spouse:
+      givenName: Carolyn
+      surname: Davis
 childrenGroups:
   - children:
       - name: Charlotte Ruth Vining
@@ -45,11 +56,19 @@ childrenGroups:
         marriages:
           - spouse: Gina Morin
       - name: Polly Ann Vining
+        death:
+          date: in infancy
       - name: Molly Jan Vining
         marriages:
           - spouse: Steven Brent Wallace
-      - name: Lon Vining
+      - name: Alonzo "Lon" Vining
+        marriages:
+          - spouse: Tamara
 docsUrl: Bsources/BillyC01doc.htm
+updates:
+  - date: "2026-04-27"
+    what: "added birth date (22 Oct 1929), death (15 Aug 2025, Little Rock AR), burial, confirmed marriage date (24 Dec 1950), added second marriage to Carolyn Davis, Polly Ann noted as died in infancy, added spouse Tamara for Lon; source: obituary of Billy Coleman Vining Sr."
+    url: "https://www.smithfamilycares.com/obituaries/coach-billy-vining-sr"
 raw: |-
   <a name="BillyC01"></a><font size=+2>Billy Coleman Vining</font>
      (son of <a href="Tfamilies.htm#ThomasE02">Thomas Ebenezer Vining and Mary Maude Edmonson</a>)
