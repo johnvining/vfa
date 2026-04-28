@@ -22,6 +22,9 @@ updates:
 ```
 These appear on the News and Notes page automatically as "Genealogy updates."
 
+### When to create a headname entry
+A person listed as a child in their parent's entry should get their own YAML entry (headname) when we have enough information to fill it out — specifically when we know their spouse **and** their children. A child line with only a name and birth date stays inline; once we have a family to document, promote them to their own entry. When promoting, add `entryId` and `entryLetter` to the child line in the parent's entry, keep the child line brief (birth/death/marriage summary), and put the full family detail in the new file. New entries go in the folder for their first name's letter, and the ID follows the pattern `GivenNameInitials##` (e.g. `JohnE04`). The `updates` entry in the new file should say `"created entry"` with the source.
+
 ### `docsUrl` and genealogy-docs
 Source documents (obituaries, census records, etc.) go in `src/content/genealogy-docs/[letter]/[ID].yaml`. Add `docsUrl: [Letter]sources/[ID]doc.htm` to the genealogy entry to link to the docs page. Captions in docs entries support HTML, so links to online sources can be included directly in the caption.
 

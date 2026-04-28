@@ -1,7 +1,7 @@
 id: EugeneF01
 sequence: 127
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 27 April 2026
 relationship: son
 parentId: EltonC01
 parentDesc: Elton Cassius Vining and Anna Banta
@@ -50,11 +50,23 @@ childrenGroups:
         burial:
           place: "Willshire Cemetery   Willshire, Ohio"
       - name: John Eric Vining
+        entryId: JohnE04
+        entryLetter: J
         birth:
           date: 6 March 1955
+          place: "Willshire, Ohio"
         marriages:
-          - spouse: "Teresa [...]"
+          - date: 12 August 1978
+            place: "Huntington, Indiana"
+            spouse: Teresa Nave
+        death:
+          date: 6 September 2025
+          place: "Ohio City, Ohio"
 docsUrl: Esources/EugeneF01doc.htm
+updates:
+  - date: "2026-04-27"
+    what: "added John Eric's birth place (Willshire, OH), death (6 Sep 2025, Ohio City OH), marriage to Teresa Nave (12 Aug 1978, Huntington IN), and link to new entry JohnE04; source: obituary of John Eric Vining"
+    url: "https://thevwindependent.com/news/2025/09/07/john-eric-vining/"
 raw: |-
   <a name="EugeneF01"></a><font size=+2>Eugene F. Vining</font>
      (son of <a href="#EltonC01">Elton Cassius Vining and Anna Banta</a>)

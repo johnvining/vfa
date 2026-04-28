@@ -1,0 +1,38 @@
+id: JohnE04
+sequence: 339
+letter: J
+lastUpdated: 27 April 2026
+relationship: son
+parentId: EugeneF01
+parentLetter: E
+parentDesc: Eugene F. Vining and Rosella Dull
+head:
+  givenName: John Eric
+  birth:
+    date: 6 March 1955
+    place: "Willshire, Ohio"
+  death:
+    date: 6 September 2025
+    place: "Ohio City, Ohio"
+marriages:
+  - date: 12 August 1978
+    place: "Huntington, Indiana"
+    spouse:
+      givenName: Teresa
+      surname: Nave
+childrenGroups:
+  - children:
+      - name: Michael Vining
+        marriages:
+          - spouse: Brooke
+      - name: Alan Vining
+      - name: Aaron Vining
+        marriages:
+          - spouse: Rachel
+      - name: Evan Vining
+        marriages:
+          - spouse: Natalie
+updates:
+  - date: "2026-04-27"
+    what: "created entry; source: obituary of John Eric Vining"
+    url: "https://thevwindependent.com/news/2025/09/07/john-eric-vining/"
