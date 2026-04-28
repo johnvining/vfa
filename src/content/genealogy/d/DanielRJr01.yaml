@@ -1,25 +1,41 @@
 id: DanielRJr01
 sequence: 15
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 27 April 2026
 relationship: son
 parentId: DanielR01
-parentDesc: "Daniel Ruthledge and Margaret [&#8230;]"
+parentDesc: "Daniel Rutledge Vining and Margaret McClanahan"
 head:
   givenName: Daniel Rutledge Jr.
   birth:
     date: 12 January 1944
     place: "Fayetteville, Washington County, Arkansas"
+  death:
+    date: 19 April 2026
+    place: "Haddonfield, New Jersey"
+marriages:
+  - spouse:
+      givenName: Motoko
+      surname: Kashimada
 childrenGroups:
   - children:
-      - name: child Vining
-      - name: child Vining
-      - name: child Vining
-raw: |-
+      - name: Margaret A. Vining
+        marriages:
+          - spouse: Arthur H. Bradford
+      - name: Ella R. Vining
+        marriages:
+          - spouse: Peter C. Rock
+      - name: Daniel K. Vining
+        marriages:
+          - spouse: Susannah H.
+docsUrl: Dsources/DanielRJr01doc.htm
+updates:
+  - date: "2026-04-27"
+    what: "added death, wife, and children; source: obituary in The Retrospect, 21 April 2026"
+rawArchival: |-
   <a name="DanielRJr01"></a><font size=+2>Daniel Rutledge Vining Jr.</font>
      (son of <a href="#DanielR01">Daniel Ruthledge and Margaret [&#8230;]</a>)
      b. 12 January 1944   Fayetteville, Washington County, Arkansas
-  
   <font size=+1>children:</font>
      child Vining
      child Vining
