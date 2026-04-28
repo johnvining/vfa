@@ -104,7 +104,7 @@ a:active           { color: #ff0000; }
 
 .main-nav {
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: space-between;
 	align-items: center;
 	padding: 0.45em 0;
 }
@@ -298,16 +298,16 @@ a.newsletter-link {
 	font-weight: bold;
 }
 
-.geo-updates {
+.gene-updates {
 	margin: 0.25em 0 0.75em 1em;
 }
 
-.geo-updates-entry {
+.gene-updates-entry {
 	margin-left: 1.25em;
 	font-size: 0.9em;
 }
 
-.geo-updates-thanks {
+.gene-updates-thanks {
 	margin-left: 1.25em;
 	font-style: italic;
 	font-size: 0.9em;
