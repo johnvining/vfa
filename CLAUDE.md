@@ -10,6 +10,9 @@ Example: `parentDesc: "Daniel Rutledge Vining and Margaret McClanahan"`
 ### `rawArchival` field
 Genealogy YAML files may contain a `rawArchival` field. This is a frozen snapshot of the entry's HTML from before the site transitioned to structured YAML rendering. **Never update it under any circumstances** — not even when other fields in the same entry change. It exists solely to preserve the pre-transition state. All live data is in the structured fields (`head`, `marriages`, `childrenGroups`, etc.), which are rendered by `src/renderEntry.ts`.
 
+### Always update `lastUpdated` and add an `updates` entry
+Whenever you modify a genealogy YAML entry, always: (1) update the `lastUpdated` field to today's date, and (2) add an entry to the `updates` array with the date, what changed, and the source URL if one exists.
+
 ### `updates` field
 Use the `updates` field to record changes to an entry, including the source. **Always quote the date string** — unquoted ISO dates are parsed as Date objects by YAML:
 ```yaml
