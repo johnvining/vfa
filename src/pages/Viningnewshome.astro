@@ -140,7 +140,9 @@ for (const event of events) {
         {item.updates.map(u => (
           <div class="gene-updates-entry">
             <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
-            {u.what && <Fragment> &#8212; {u.what}</Fragment>}
+            {u.what
+              ? <Fragment> &#8212; {u.what}{!u.what.endsWith('.') && '.'}</Fragment>
+              : '.'}
           </div>
         ))}
         {item.thanks.length > 0 && (
