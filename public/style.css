@@ -294,17 +294,12 @@ a.newsletter-link {
 }
 
 .geo-updates {
-	margin: 0.25em 0 0.75em 1.5em;
-}
-
-.geo-updates-label {
-	font-weight: bold;
-	font-size: 0.9em;
-	color: #444;
+	margin: 0.25em 0 0.75em 1em;
 }
 
 .geo-updates-entry {
 	margin-left: 1.25em;
+	font-size: 0.9em;
 }
 
 .geo-updates-thanks {

@@ -136,11 +136,11 @@ for (const event of events) {
     {item.kind === 'news' && <div class="news-entry"><item.Content /></div>}
     {item.kind === 'geo' && (
       <div class="geo-updates">
-        <div class="geo-updates-label">Genealogy updates:</div>
+        <p>We've made the following updates to the online genealogy this month:</p>
         {item.updates.map(u => (
           <div class="geo-updates-entry">
             <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
-            {u.what && <Fragment> &#8212; {u.what}{u.url && <Fragment> <a href={u.url} target="_blank">(link)</a></Fragment>}</Fragment>}
+            {u.what && <Fragment> &#8212; {u.what}</Fragment>}
           </div>
         ))}
         {item.thanks.length > 0 && (
