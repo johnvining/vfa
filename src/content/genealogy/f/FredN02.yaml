@@ -1,7 +1,7 @@
 id: FredN02
 sequence: 53
 letter: F
-lastUpdated: 26 February 2023
+lastUpdated: 27 April 2026
 relationship: son
 parentId: DavidJ01
 parentLetter: D
@@ -32,18 +32,33 @@ childrenGroups:
           date: 25 May 1943
           place: "Lake City, Florida"
         marriages:
-          - date: Milo D. Miles
+          - spouse: Milo D. Miles
         death:
           date: 26 August 2025
           place: "Lake City, Florida"
         note: "[see <a href=\"https://www.legacy.com/us/obituaries/lakecityreporter/name/virginia-miles-obituary?id=59305501\" target=\"_blank\">obituary</a>]"
+      - name: Patricia Vining
+        marriages:
+          - spouse: Hudson
+      - name: Freda Vining
+        marriages:
+          - spouse: Flamm
+      - name: Shirlene Vining
+        marriages:
+          - spouse: Fletcher
+        death:
+          date: before 26 August 2025
       - name: Fred N. Vining Jr.
         entryId: FredNJr01
         birth:
           date: 7 August 1949
         marriages:
-          - date: Gloria Jean Bailey
+          - spouse: Gloria Jean Bailey
 docsUrl: Fsources/FredN02doc.htm
+updates:
+  - date: "2026-04-27"
+    what: "added siblings Patricia Hudson, Freda Flamm, and Shirlene Fletcher (deceased); fixed marriage field bug; source: obituary of Virginia Vining Miles"
+    url: "https://www.legacy.com/us/obituaries/lakecityreporter/name/virginia-miles-obituary?id=59305501"
 raw: |-
   <a name="FredN02"></a><font size=+2>Fred N. Vining</font>
      (son of <a href="Dfamilies.htm#DavidJ01">David Jacob Vining and Laura Hines</a>)
