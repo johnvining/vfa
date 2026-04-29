@@ -1,6 +1,9 @@
 id: NeilC01
 letter: N
-lastUpdated: 3 February 2021
+lastUpdated: "2026-04-28"
+updates:
+  - date: "2026-04-28"
+    what: "added Erik Vining (b. 23 April 2009, Ft. Stewart, GA), son of Neil and Suzanne; added Devyn's marriage to Alex Adcock (2023); source: Erik Vining"
 relationship: son
 parentId: RichardN01
 parentLetter: R
@@ -27,6 +30,15 @@ childrenGroups:
     children:
       - name: Alexander Quinn Vining
       - name: Devyn Ridgely Vining
+        marriages:
+          - date: "2023"
+            spouse: Alex Adcock
+  - spouseRef: Suzanne Strandhoy
+    children:
+      - name: Erik Vining
+        birth:
+          date: "23 April 2009"
+          place: "Ft. Stewart, GA"
 raw: |-
   <a name="NeilC01"></a><font size=+2>Neil Carroll Vining</font>
      (son of <a href="Rfamilies.htm#RichardN01">Richard Neil Vining and Helen Ridgely Lyon Van Ness</a>)
