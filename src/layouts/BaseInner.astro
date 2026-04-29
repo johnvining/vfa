@@ -20,6 +20,7 @@ const { title, description = '', keywords = '', activePage = '', noHeader = fals
    <title>{title}</title>
    {description && <meta name="description" content={description}>}
    {keywords && <meta name="keywords" content={keywords}>}
+   <link rel="icon" type="image/png" href={`${import.meta.env.BASE_URL}Vining-Logo-Transparency.png`} />
    <link rel="stylesheet" href={`${import.meta.env.BASE_URL}style.css`} />
 </head>
 

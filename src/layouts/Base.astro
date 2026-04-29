@@ -19,6 +19,7 @@ const { title, description = '', keywords = '', activePage = '' } = Astro.props;
    <title>{title}</title>
    {description && <meta name="description" content={description}>}
    {keywords && <meta name="keywords" content={keywords}>}
+   <link rel="icon" type="image/png" href={`${import.meta.env.BASE_URL}Vining-Logo-Transparency.png`} />
    <link rel="stylesheet" href={`${import.meta.env.BASE_URL}style.css`} />
    <slot name="head" />
 </head>
