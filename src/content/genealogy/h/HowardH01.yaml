@@ -1,6 +1,10 @@
 id: HowardH01
 letter: H
-lastUpdated: 30 July 2022
+lastUpdated: "2026-04-29"
+updates:
+  - date: "2026-04-29"
+    what: "added Augusta's maiden name Gaetke; source: Findagrave record, contributed by Jean Vining Springer"
+    url: "https://www.findagrave.com/memorial/43390292/augusta-marie-alexander"
 relationship: son
 parentId: OscarD01
 parentLetter: O
@@ -20,7 +24,7 @@ marriages:
     spouse:
       givenName: Fern Ione
       surname: Alexander
-      parents: "(dau. of George G. Alexander and Augusta [&#8230;])"
+      parents: "(dau. of George G. Alexander and Augusta Marie Gaetke)"
       birth:
         date: 8 July 1915
       death:
