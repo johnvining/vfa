@@ -20,7 +20,9 @@ marriages:
   - number: 1
     date: 29 January 1938
     place: Indiana
-    note: "divorced 4 October 1944   Kalamazoo, Kalamazoo County, Michigan"
+    divorce:
+      date: 4 October 1944
+      place: "Kalamazoo, Kalamazoo County, Michigan"
     spouse:
       givenName: Elizabeth Jane
       surname: Volenski

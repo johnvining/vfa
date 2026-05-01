@@ -40,8 +40,8 @@ childrenGroups:
           place: Michigan
         marriages:
           - number: 1
-            date: "Bonnabelle Zella Baker,"
-            spouse: divorced
+            spouse: Bonnabelle Zella Baker
+            divorce: {}
           - number: 2
             date: Josephine Weeks
         death:
@@ -79,8 +79,8 @@ childrenGroups:
           place: Michigan
         marriages:
           - number: 1
-            date: "Elizabeth Volenski,"
-            spouse: divorced
+            spouse: Elizabeth Volenski
+            divorce: {}
           - number: 2
             date: Mabel Dailey
         death:

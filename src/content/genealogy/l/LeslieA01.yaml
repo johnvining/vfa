@@ -19,7 +19,8 @@ marriages:
   - number: 1
     date: 24 June 1893
     place: "Farmington, Maine"
-    note: "divorced (Della m. (2) Frank A. Reed)"
+    divorce:
+      note: Della m. (2) Frank A. Reed
     spouse:
       givenName: Della J.
       surname: McKenney

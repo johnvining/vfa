@@ -19,7 +19,8 @@ marriages:
     spouse:
       givenName: Jodi Lynn
       surname: Jenson
-    note: "divorced 1998"
+    divorce:
+      date: "1998"
   - number: 2
     date: "2001"
     spouse:

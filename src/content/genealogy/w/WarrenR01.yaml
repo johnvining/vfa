@@ -41,10 +41,13 @@ childrenGroups:
         marriages:
           - number: 1
             date: 19 September 1980
-            spouse: "Eric Lindau,   divorced 1986"
+            spouse: Eric Lindau
+            divorce:
+              date: "1986"
           - number: 2
-            date: "Jim Smith,"
-            spouse: divorced 1995
+            spouse: Jim Smith
+            divorce:
+              date: "1995"
           - number: 3
             date: 26 August 1995
             spouse: Thomas A. Theroux

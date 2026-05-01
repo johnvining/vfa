@@ -34,7 +34,9 @@ childrenGroups:
         marriages:
           - date: "[19 or 10?] November 1979"
             place: "Farmington, Maine"
-            spouse: "Darryl Daniel Tyler,   [divorced?]"
+            spouse: Darryl Daniel Tyler
+            divorce:
+              note: uncertain
       - name: Sharon Lynn Vining
         birth:
           date: 10 December 1957
@@ -43,7 +45,9 @@ childrenGroups:
           - number: 1
             date: 18 March 1978
             place: "Farmington, Maine"
-            spouse: "Richard D. Brown,   [divorced?]"
+            spouse: Richard D. Brown
+            divorce:
+              note: uncertain
           - number: 2
             spouse: Mike Fortunato
       - name: Kevin Leon Vining

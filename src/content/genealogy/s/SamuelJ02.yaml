@@ -55,7 +55,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1916"
-            spouse: "Florence Nightengale Jones,   divorced 1920"
+            spouse: Florence Nightengale Jones
+            divorce:
+              date: "1920"
           - number: 2
             date: "Johnnie L. [...]"
           - number: 3

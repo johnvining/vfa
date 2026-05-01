@@ -52,8 +52,8 @@ childrenGroups:
           date: 25 February 1948
           place: "Fort Pierce, Florida"
         marriages:
-          - date: "Margaret Schofield,"
-            spouse: divorced
+          - spouse: Margaret Schofield
+            divorce: {}
         death:
           date: 23 November 2007
           place: North Carolina

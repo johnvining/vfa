@@ -17,7 +17,7 @@ head:
 marriages:
   - number: 1
     date: Edna Chapman
-    note: divorced
+    divorce: {}
   - number: 2
     date: "Frances [...]"
 childrenGroups:

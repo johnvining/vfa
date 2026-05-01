@@ -15,12 +15,19 @@ interface Spouse {
   burial?: Burial;
 }
 
+interface Divorce {
+  date?: string;
+  place?: string;
+  note?: string;
+}
+
 interface Marriage {
   number?: number | string;
   date?: string;
   place?: string;
   note?: string;
   spouse?: Spouse;
+  divorce?: Divorce;
 }
 
 interface ChildMarriage {
@@ -29,6 +36,8 @@ interface ChildMarriage {
   place?: string;
   spouse?: string;
   spouseDeath?: string;
+  note?: string;
+  divorce?: Divorce;
 }
 
 interface Child {
@@ -174,6 +183,15 @@ function renderSpouseBlock(m: Marriage, spouseIndent: number, detailIndent: numb
   return lines;
 }
 
+// "divorced 2015" / "divorced 1893   Texas" / "divorced (she m. (2) Floyd Tremper)"
+function renderDivorceBare(d: Divorce): string {
+  let s = 'divorced';
+  if (d.date) s += ' ' + d.date;
+  if (d.place) s += '   ' + d.place;
+  if (d.note) s += ' (' + d.note + ')';
+  return s;
+}
+
 function renderChildLine(child: Child): string {
   const parts: string[] = [];
 
@@ -207,6 +225,7 @@ function renderChildLine(child: Child): string {
         if (m.date) s += m.date;
         if (m.place) s += '   ' + m.place;
         if (m.spouse) s += '   ' + m.spouse;
+        if (m.divorce) s += (m.spouse ? ',' : '') + '   ' + renderDivorceBare(m.divorce);
         return s;
       });
       segments.push('m. ' + mParts.join(';   '));
@@ -217,7 +236,9 @@ function renderChildLine(child: Child): string {
         if (m.date) parts.push(m.date);
         if (m.place) parts.push(m.place);
         if (m.spouse) parts.push(m.spouse);
-        return 'm. ' + parts.join('   ');
+        let line = 'm. ' + parts.join('   ');
+        if (m.divorce) line += (m.spouse ? ',' : '') + '   ' + renderDivorceBare(m.divorce);
+        return line;
       });
       segments.push(...mStrings);
     }
@@ -287,6 +308,7 @@ export function renderEntry(data: EntryData): string {
       if (first.place) mLine += (first.date ? '   ' : '') + first.place;
       lines.push(mLine);
       lines.push(...renderNumberedSpouseBlock(first));
+      if (first.divorce) lines.push('               ' + renderDivorceBare(first.divorce));
       if (first.note) {
         for (const noteLine of first.note.split('\n')) {
           lines.push('               ' + noteLine);
@@ -300,6 +322,7 @@ export function renderEntry(data: EntryData): string {
         if (m.place) mLine += (m.date ? '   ' : '') + m.place;
         lines.push(mLine);
         lines.push(...renderNumberedSpouseBlock(m));
+        if (m.divorce) lines.push('               ' + renderDivorceBare(m.divorce));
         if (m.note) {
           for (const noteLine of m.note.split('\n')) {
             lines.push('               ' + noteLine);
@@ -321,6 +344,7 @@ export function renderEntry(data: EntryData): string {
           if (s.death) lines.push('            d. ' + dp(s.death));
           if (s.widowOf) lines.push('            m. ' + s.widowOf);
           lines.push(...bur(s.burial, 18));
+          if (m.divorce) lines.push('         ' + renderDivorceBare(m.divorce));
           if (m.note) {
             for (const noteLine of m.note.split('\n')) lines.push('         ' + noteLine);
           }
@@ -331,6 +355,7 @@ export function renderEntry(data: EntryData): string {
           if (m.place) mLine += (m.date ? '   ' : '') + m.place;
           lines.push(mLine);
           if (m.spouse) lines.push(...renderSpouseBlock(m, 9, 15, 21));
+          if (m.divorce) lines.push('         ' + renderDivorceBare(m.divorce));
           if (m.note) {
             for (const noteLine of m.note.split('\n')) lines.push('         ' + noteLine);
           }

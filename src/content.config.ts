@@ -33,12 +33,20 @@ const spouseSchema = z.object({
   burial,
 });
 
+const divorce = z.object({
+  date: z.string().optional(),
+  place: z.string().optional(),
+  note: z.string().optional(),     // parenthetical like "she m. (2) Floyd J. Tremper"
+}).optional();
+
 const childMarriage = z.object({
   number: z.union([z.number(), z.string()]).optional(),
   date: z.string().optional(),
   place: z.string().optional(),
   spouse: z.string().optional(),
   spouseDeath: z.string().optional(),
+  note: z.string().optional(),
+  divorce,
 });
 
 const child = z.object({
@@ -62,6 +70,7 @@ const marriage = z.object({
   place: z.string().optional(),
   note: z.string().optional(),        // "her second marriage" etc.
   spouse: spouseSchema.optional(),
+  divorce,
 });
 
 const childrenGroup = z.object({

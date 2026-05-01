@@ -16,7 +16,8 @@ marriages:
     spouse:
       givenName: "[Elisha?]"
       surname: Clark
-    note: divorced 1990
+    divorce:
+      date: "1990"
   - number: 2
     date: 10 November 1990
     spouse:

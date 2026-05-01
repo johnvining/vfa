@@ -18,7 +18,8 @@ marriages:
     spouse:
       givenName: Darla Sue
       surname: Bruce
-    note: divorced 19 December 1997
+    divorce:
+      date: 19 December 1997
   - number: 2
     date: 26 November 2003
     spouse:

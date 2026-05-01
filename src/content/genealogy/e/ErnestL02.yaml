@@ -87,7 +87,9 @@ childrenGroups:
           date: 14 September 1920
           place: "Neodesha, Kansas"
         marriages:
-          - spouse: "Jim Sullivan,   divorced 18 March 1953"
+          - spouse: Jim Sullivan
+            divorce:
+              date: 18 March 1953
 raw: |-
   <a name="ErnestL02"></a><font size=+2>Ernest Lester Vining</font>
      (son of <a href="Jfamilies.htm#JamesMJr01">James M. Vining Jr. and [Jane or Jeannie] Lindsley</a>)

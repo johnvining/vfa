@@ -39,7 +39,10 @@ childrenGroups:
           - number: 1
             date: 2 September 1967
             place: "North Highlands, California"
-            spouse: "Claudia Camille Smith,   divorced 1976   California"
+            spouse: Claudia Camille Smith
+            divorce:
+              date: "1976"
+              place: California
           - number: 2
             date: 14 January 1977
             place: "Carmichael, California"

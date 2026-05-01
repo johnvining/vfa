@@ -53,7 +53,8 @@ childrenGroups:
           place: "Elmore, Faribault County, Minnesota"
         marriages:
           - number: 1
-            spouse: "Lulu Hewitt,   divorced"
+            spouse: Lulu Hewitt
+            divorce: {}
           - number: 2
             date: 13 October 1942
             spouse: Regina Thill

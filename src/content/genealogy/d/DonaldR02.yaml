@@ -37,8 +37,8 @@ childrenGroups:
           date: 7 October 1966
           place: "Long Beach, California"
         marriages:
-          - date: Eric Hohler;
-            spouse: divorced
+          - spouse: Eric Hohler
+            divorce: {}
         death:
           date: 13 November 2010
           place: "Parsons, Kansas"

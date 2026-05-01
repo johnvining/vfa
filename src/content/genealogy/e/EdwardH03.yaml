@@ -48,7 +48,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: 2 January 1966
-            spouse: "Barbara Di Lullo,   divorced"
+            spouse: Barbara Di Lullo
+            divorce: {}
           - number: 2
             date: 28 August 1982
             place: "Carlsbad, New Mexico"

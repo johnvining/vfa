@@ -23,7 +23,8 @@ childrenGroups:
           place: "Clinton, Iowa"
         marriages:
           - date: 26 June 1971
-            spouse: "Terry Ray Jones,   divorced"
+            spouse: Terry Ray Jones
+            divorce: {}
       - name: John Vining
       - name: Mark Raymond Vining
         entryId: MarkR01

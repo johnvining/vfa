@@ -17,7 +17,8 @@ marriages:
     spouse:
       givenName: Cynthia
       surname: Bischoff
-    note: divorced 1984
+    divorce:
+      date: "1984"
 childrenGroups:
   - children:
       - name: Jason Dean Vining

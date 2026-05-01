@@ -45,8 +45,10 @@ childrenGroups:
           date: age 7 y. as of 1920 census
           place: Florida
         marriages:
-          - date: "Nola Mae Skeen,"
-            spouse: "divorced July 1960   Dade County, Florida"
+          - spouse: Nola Mae Skeen
+            divorce:
+              date: July 1960
+              place: "Dade County, Florida"
   - spouseRef: Effie Jane Jackson
     children:
       - name: Estelle Virginia Vining

@@ -35,7 +35,9 @@ childrenGroups:
           date: 12 February 1925
         marriages:
           - date: 13 February 1943
-            spouse: "Joe Gary,   divorced 10 May 1965"
+            spouse: Joe Gary
+            divorce:
+              date: 10 May 1965
       - name: Shirley Lorraine Vining
         birth:
           date: 19 January 1927

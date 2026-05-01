@@ -22,9 +22,11 @@ childrenGroups:
           date: 28 January 1940
         marriages:
           - number: 1
-            date: "[...],   divorced"
+            spouse: "[...]"
+            divorce: {}
           - number: 2
-            date: "Sherryann Kalomer[i?]s,   divorced"
+            spouse: "Sherryann Kalomer[i?]s"
+            divorce: {}
           - number: 3
             date: "Grace [...]"
         death:

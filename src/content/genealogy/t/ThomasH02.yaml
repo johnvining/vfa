@@ -17,7 +17,8 @@ marriages:
       surname: Stamper
       birth:
         date: 11 January 1963
-    note: "2009   divorced"
+    divorce:
+      date: "2009"
 childrenGroups:
   - children:
       - name: Taylor Cassandra Vining

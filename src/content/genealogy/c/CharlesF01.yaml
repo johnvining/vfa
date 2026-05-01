@@ -55,12 +55,15 @@ childrenGroups:
           - number: 1
             date: 16 January 1895
             place: "Brooklyn, Michigan"
-            spouse: "Flora E. Miller,   divorced"
+            spouse: Flora E. Miller
+            divorce: {}
           - number: 2
             date: Mary Rose Connell (d. 1909)
           - number: 3
             date: 15 January 1920
-            spouse: "Isabelle Hinkly,   divorced 1926"
+            spouse: Isabelle Hinkly
+            divorce:
+              date: "1926"
           - number: 4
             date: 20 November 1927
             spouse: Mrs. Barr
@@ -125,7 +128,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1905"
-            spouse: "Grover Harris,   divorced"
+            spouse: Grover Harris
+            divorce: {}
           - number: 2
             date: 28 October 1912
             spouse: Wilbur Austin

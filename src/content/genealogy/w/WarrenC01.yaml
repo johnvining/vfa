@@ -60,7 +60,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: 25 August 1945
-            spouse: "Allen Kent Breed,   divorced"
+            spouse: Allen Kent Breed
+            divorce: {}
           - number: 2
             date: 20 July 1962
             spouse: David McCarthy

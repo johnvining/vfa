@@ -39,7 +39,8 @@ marriages:
       birth:
         date: age 38 y. as of 1910 census
         place: Wisconsin
-    note: "divorced   1912"
+    divorce:
+      date: "1912"
   - number: 3
     date: Margaret Lula Warford
     spouse:

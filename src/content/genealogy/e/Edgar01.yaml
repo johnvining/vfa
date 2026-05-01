@@ -64,8 +64,8 @@ childrenGroups:
           place: Michigan
         marriages:
           - number: 1
-            date: "Elmer Campbell,"
-            spouse: divorced
+            spouse: Elmer Campbell
+            divorce: {}
           - number: 2
             date: Merton Barnes
       - name: Clarence Donavon Vining

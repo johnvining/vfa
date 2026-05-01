@@ -20,7 +20,7 @@ marriages:
     spouse:
       givenName: Flora E.
       surname: Miller
-    note: divorced
+    divorce: {}
   - number: 2
     date: 6 January 1908
     place: "Atlanta, Georgia"
@@ -39,7 +39,8 @@ marriages:
     spouse:
       givenName: Isabelle
       surname: Hinkly
-    note: "divorced 1926"
+    divorce:
+      date: "1926"
   - number: 4
     date: 20 November 1927
     spouse:

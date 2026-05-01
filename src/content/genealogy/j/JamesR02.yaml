@@ -19,7 +19,7 @@ head:
 marriages:
   - number: 1
     date: Margaret Beth Smith
-    note: divorced
+    divorce: {}
   - number: 2
     date: 23 April 1994
     spouse:

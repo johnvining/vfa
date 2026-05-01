@@ -16,7 +16,8 @@ marriages:
     spouse:
       givenName: Jo Ann
       surname: Strickland
-    note: divorced 1978
+    divorce:
+      date: "1978"
   - number: 2
     date: "1987"
     spouse:

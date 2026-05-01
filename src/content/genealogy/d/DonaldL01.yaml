@@ -17,7 +17,7 @@ head:
 marriages:
   - number: 1
     date: Elizabeth Kraft
-    note: divorced
+    divorce: {}
   - number: 2
     date: 15 October 1975
     spouse:

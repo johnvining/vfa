@@ -14,7 +14,8 @@ marriages:
     spouse:
       givenName: Nancy
       surname: Winslow
-    note: "divorced 2015"
+    divorce:
+      date: "2015"
 childrenGroups:
   - children:
       - name: Caleb Vining

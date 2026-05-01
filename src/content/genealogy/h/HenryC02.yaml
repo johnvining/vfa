@@ -36,7 +36,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: 2 August 1922
-            spouse: "Percy Malcolm Nielsen, divorced"
+            spouse: Percy Malcolm Nielsen
+            divorce: {}
           - number: 2
             date: 23 December 1933
             place: "Clinton, Iowa"
@@ -94,7 +95,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: 29 December 1933
-            spouse: "Charles Franklin Jones, divorced"
+            spouse: Charles Franklin Jones
+            divorce: {}
           - number: 2
             date: Ralph Paulsen
         death:

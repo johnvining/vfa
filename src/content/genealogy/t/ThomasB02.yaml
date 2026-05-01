@@ -48,7 +48,10 @@ childrenGroups:
           - number: 1
             date: 11 October 1885
             place: Georgia
-            spouse: "Caroline Elizabeth &#8220;Carrie&#8221; Beck,   divorced 1895   Texas"
+            spouse: "Caroline Elizabeth &#8220;Carrie&#8221; Beck"
+            divorce:
+              date: "1895"
+              place: Texas
           - number: 2
             date: "1895"
             spouse: Alice Martin

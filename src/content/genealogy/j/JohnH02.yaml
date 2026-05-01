@@ -30,7 +30,7 @@ marriages:
         place: "Westminster, Colorada"
       burial:
         place: "Horan & McConaty Crematory"
-    note: divorced
+    divorce: {}
 childrenGroups:
   - children:
       - name: Jeannie Patricia Vining
@@ -62,7 +62,9 @@ childrenGroups:
           date: 8 September 1960
         marriages:
           - date: 6 January 1990
-            spouse: "Carol Elaine Stamper,   2009 divorced"
+            spouse: Carol Elaine Stamper
+            divorce:
+              date: "2009"
       - name: John Uriah Vining
         birth:
           date: 30 July 1963

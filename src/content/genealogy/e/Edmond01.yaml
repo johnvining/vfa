@@ -53,8 +53,8 @@ childrenGroups:
           date: 23 January 1921
         marriages:
           - number: 1
-            date: "Oscar Ness,"
-            spouse: divorced
+            spouse: Oscar Ness
+            divorce: {}
           - number: 2
             date: Roy Schabot
           - number: 3
@@ -82,8 +82,8 @@ childrenGroups:
           date: 13 November 1926
         marriages:
           - number: 1
-            date: "Hugh Elkins,"
-            spouse: divorced
+            spouse: Hugh Elkins
+            divorce: {}
           - number: 2
             date: Al Johnson
       - name: Hazel Elaine Vining

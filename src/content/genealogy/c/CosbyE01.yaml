@@ -73,8 +73,9 @@ childrenGroups:
           date: 31 May 1935
         marriages:
           - number: 1
-            date: "Carolyn Sue Carroll,"
-            spouse: divorced May 1969
+            spouse: Carolyn Sue Carroll
+            divorce:
+              date: May 1969
           - number: 2
             date: October 1969
             spouse: Naomi Fisher Sowell

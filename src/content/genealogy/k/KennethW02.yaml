@@ -14,7 +14,7 @@ head:
 marriages:
   - date: 14 May 1976
     place: "Corpus Christi, Nueces County, Texas"
-    note: divorced
+    divorce: {}
     spouse:
       givenName: Barbara Ann
       surname: Benka

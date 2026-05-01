@@ -38,7 +38,10 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1947"
-            spouse: "Alberta Jane Herriott, divorced 29 October 1970   Delaware County, Ohio"
+            spouse: Alberta Jane Herriott
+            divorce:
+              date: 29 October 1970
+              place: "Delaware County, Ohio"
           - number: 2
             date: 19 April 1974
             place: Ohio

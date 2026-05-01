@@ -20,7 +20,9 @@ marriages:
     spouse:
       givenName: Louisa Mary
       surname: Wright
-    note: "divorced ca. 1893   Alexandra, Victoria, Australia"
+    divorce:
+      date: ca. 1893
+      place: "Alexandra, Victoria, Australia"
   - number: 2
     date: "1897"
     spouse:

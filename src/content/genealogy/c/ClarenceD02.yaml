@@ -71,8 +71,8 @@ childrenGroups:
           place: "Decker, Michigan"
         marriages:
           - number: 1
-            date: "Kay Smith,"
-            spouse: divorced
+            spouse: Kay Smith
+            divorce: {}
           - number: 2
             date: 13 November 1971
             spouse: "Violet L. Phetteplace (n&#233;e Loutzenhiser)"

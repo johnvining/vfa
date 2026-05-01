@@ -42,9 +42,12 @@ childrenGroups:
       - name: Dorothy Harger Vining
         marriages:
           - number: 1
-            spouse: "Theodore Richardson,   divorced 1965"
+            spouse: Theodore Richardson
+            divorce:
+              date: "1965"
           - number: 2
-            spouse: "Everett Lynn Partridge,   divorced"
+            spouse: Everett Lynn Partridge
+            divorce: {}
 docsUrl: Esources/EmmettD01doc.htm
 raw: |-
   <a name="EmmettD01"></a><font size=+2>Emmett Devere Vining</font>

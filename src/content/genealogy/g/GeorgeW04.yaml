@@ -77,7 +77,9 @@ childrenGroups:
         marriages:
           - date: "[1?] 15 July 1901"
             place: "Durand, Pepin County, Wisconsin"
-            spouse: "Jennie C. Clark;   [2?] Blanche Delia Ross;  [3?] Myrtle Jeanie Witham;   divorced before 1930 census"
+            spouse: "Jennie C. Clark;   [2?] Blanche Delia Ross;  [3?] Myrtle Jeanie Witham"
+            divorce:
+              date: before 1930 census
         death:
           date: 3 September 1955
           place: "Lowrie City, St. Clair County, Missouri"

@@ -17,7 +17,8 @@ head:
 marriages:
   - number: 1
     date: "1916"
-    note: "divorced 1920"
+    divorce:
+      date: "1920"
     spouse:
       givenName: Florence Nightengale
       surname: Jones
@@ -41,7 +42,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1941"
-            spouse: "Dorothy Helen Deschamps,   divorced"
+            spouse: Dorothy Helen Deschamps
+            divorce: {}
           - number: 2
             date: Josephine Primrose Gundry
         death:

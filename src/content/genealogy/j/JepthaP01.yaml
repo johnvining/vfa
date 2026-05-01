@@ -31,7 +31,8 @@ childrenGroups:
           place: New York
         marriages:
           - number: 1
-            date: "Pearl H. Pelham, divorced"
+            spouse: Pearl H. Pelham
+            divorce: {}
           - number: 2
             date: Cora Whittaker
         death:

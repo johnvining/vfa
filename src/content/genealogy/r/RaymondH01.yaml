@@ -35,7 +35,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: 26 November 1954
-            spouse: "David Fougner,   divorced February 1967"
+            spouse: David Fougner
+            divorce:
+              date: February 1967
           - number: 2
             date: 22 November 1967
             spouse: Ronald Jackson

@@ -38,7 +38,9 @@ childrenGroups:
           date: 6 March 1959
         marriages:
           - date: "1978"
-            spouse: "Cynthia Bischoff;   divorced 1984"
+            spouse: Cynthia Bischoff
+            divorce:
+              date: "1984"
         death:
           date: 20 December 2020
       - name: Tami Vining

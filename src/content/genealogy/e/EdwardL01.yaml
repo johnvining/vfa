@@ -25,7 +25,8 @@ marriages:
       parents: (dau. of Mark W. Newcomb and Mary McClearn)
       birth:
         date: "Corning, New Hampshire"
-    note: divorced 1935
+    divorce:
+      date: "1935"
   - number: 2
     date: 25 June 1939
     place: "Lewiston, Maine"
@@ -91,10 +92,14 @@ childrenGroups:
           - number: 1
             date: 24 December 1960
             place: "Auburn, Maine"
-            spouse: "Robert David King,   divorced 1980"
+            spouse: Robert David King
+            divorce:
+              date: "1980"
           - number: 2
             date: 10 June 1983
-            spouse: "Thomas Christopher Addison,   divorced March 1990"
+            spouse: Thomas Christopher Addison
+            divorce:
+              date: March 1990
       - name: Jean Elizabeth Vining
         birth:
           date: 25 February 1944
@@ -103,10 +108,14 @@ childrenGroups:
           - number: 1
             date: 10 May 1963
             place: "Minot, Maine"
-            spouse: "Daniel Gerard Blanchard,   divorced 19 August 1975"
+            spouse: Daniel Gerard Blanchard
+            divorce:
+              date: 19 August 1975
           - number: 2
             date: 27 August 1976
-            spouse: "Joseph William Marsden,   divorced 19 August 1980"
+            spouse: Joseph William Marsden
+            divorce:
+              date: 19 August 1980
 docsUrl: Esources/EdwardL01doc.htm
 raw: |-
   <a name="EdwardL01"></a><font size=+2>Edward Leander Vining</font>

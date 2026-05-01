@@ -33,7 +33,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: "Norfolk, Connecticut"
-            spouse: "Earle A. Crump, divorced"
+            spouse: Earle A. Crump
+            divorce: {}
           - number: 2
             date: "[...] Thomen"
       - name: George Vining

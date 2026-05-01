@@ -33,7 +33,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: 6 November 1965
-            spouse: "Linda Rae Young,   divorced"
+            spouse: Linda Rae Young
+            divorce: {}
           - number: 2
             date: Ann Crawford
         death:

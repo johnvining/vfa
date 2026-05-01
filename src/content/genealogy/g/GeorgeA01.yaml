@@ -27,7 +27,8 @@ marriages:
         place: "Rusk, Texas"
       burial:
         place: "Cedar Hill Cemetery   Rusk, Texas"
-    note: divorced 1905
+    divorce:
+      date: "1905"
 childrenGroups:
   - children:
       - name: William Macon Vining

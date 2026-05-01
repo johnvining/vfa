@@ -13,7 +13,9 @@ head:
 marriages:
   - number: 1
     date: "1947"
-    note: "divorced 20 October 1970   Delaware County, Ohio"
+    divorce:
+      date: 20 October 1970
+      place: "Delaware County, Ohio"
     spouse:
       givenName: Alberta Jane
       surname: Herriott

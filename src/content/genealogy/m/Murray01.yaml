@@ -67,7 +67,9 @@ childrenGroups:
         marriages:
           - date: 17 October 1914
             place: "Luce, Michigan"
-            spouse: Jay Martin Tanner;   divorced 26 May 1952
+            spouse: Jay Martin Tanner
+            divorce:
+              date: 26 May 1952
         death:
           date: November 1969
           place: "Oscoda, Michigan"

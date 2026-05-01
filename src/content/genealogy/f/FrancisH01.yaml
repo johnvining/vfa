@@ -42,7 +42,9 @@ childrenGroups:
           - number: 1
             date: 13 January 1935
             place: "Independence, Kansas"
-            spouse: "Lucille Marie King,   divorced Independence, Kansas"
+            spouse: Lucille Marie King
+            divorce:
+              place: "Independence, Kansas"
           - number: 2
             date: "Goldie [...]"
         death:

@@ -58,8 +58,9 @@ childrenGroups:
           place: Michigan
         marriages:
           - number: 1
-            date: "Helen Riggs,"
-            spouse: divorced 1937
+            spouse: Helen Riggs
+            divorce:
+              date: "1937"
           - number: 2
             date: Frances Riggs
         death:

@@ -28,7 +28,9 @@ marriages:
         place: "Denison, Grayson County, Texas"
       burial:
         place: "Fairview Cemetery   Denison, Texas"
-    note: "divorced January 1976   San Bernardino, California"
+    divorce:
+      date: January 1976
+      place: "San Bernardino, California"
 childrenGroups:
   - children:
       - name: Robert Lee Vining

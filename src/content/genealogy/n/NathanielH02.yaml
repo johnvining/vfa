@@ -23,7 +23,8 @@ marriages:
       birth:
         date: age 15 y. at marriage
         place: "St. Albans, Maine"
-    note: "divorced (she m. (2) [&#8230;] Kinney)"
+    divorce:
+      note: "she m. (2) [&#8230;] Kinney"
 childrenGroups:
   - children:
       - name: Anna Patricia Vining

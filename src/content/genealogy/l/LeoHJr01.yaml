@@ -18,7 +18,7 @@ head:
 marriages:
   - number: 1
     date: "1941"
-    note: divorced
+    divorce: {}
     spouse:
       givenName: Dorothy Helen
       surname: Deschamps
@@ -66,7 +66,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1969"
-            spouse: "Jo Ann Strickland,   divorced 1978"
+            spouse: Jo Ann Strickland
+            divorce:
+              date: "1978"
           - number: 2
             date: "1987"
             spouse: Leslie Ann Welch

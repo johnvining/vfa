@@ -37,7 +37,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1989"
-            spouse: "Jodi Lynn Jenson,   divorced 1998"
+            spouse: Jodi Lynn Jenson
+            divorce:
+              date: "1998"
           - number: 2
             date: "2001"
             spouse: Suzanne Strandhoy

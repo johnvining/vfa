@@ -28,14 +28,18 @@ childrenGroups:
           date: 8 March 1963
         marriages:
           - date: "1995"
-            spouse: "Nancy Winslow,   divorced 2015"
+            spouse: Nancy Winslow
+            divorce:
+              date: "2015"
       - name: Angela Vining
         birth:
           date: 31 August 1967
         marriages:
           - number: 1
             date: November 1991
-            spouse: Kenny Beckie;   divorced ca. 2009
+            spouse: Kenny Beckie
+            divorce:
+              date: ca. 2009
           - number: 2
             spouse: Helmut Stepp
       - name: John Wesley Vining
@@ -46,7 +50,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: 14 December 1991
-            spouse: "Jennifer Monique Eubanks,   divorced 25 September 2014"
+            spouse: Jennifer Monique Eubanks
+            divorce:
+              date: 25 September 2014
           - number: 2
             date: 18 May 2017
             spouse: Ratna Surjadi

@@ -17,10 +17,10 @@ head:
 marriages:
   - number: 1
     date: "[...]"
-    note: divorced
+    divorce: {}
   - number: 2
     date: "Sherryann Kalomer[i?]s"
-    note: divorced
+    divorce: {}
   - number: 3
     date: "Grace [...]"
 childrenGroups:

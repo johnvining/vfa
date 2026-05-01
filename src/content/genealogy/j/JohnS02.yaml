@@ -19,7 +19,9 @@ marriages:
       surname: Smith
       birth:
         date: 2 August 1946
-    note: divorced 1976   California
+    divorce:
+      date: "1976"
+      place: California
   - number: 2
     date: 14 January 1977
     place: "Carmichael, California"

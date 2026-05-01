@@ -125,10 +125,11 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1919"
-            spouse: "Joseph Kendall Robinson,   divorced"
+            spouse: Joseph Kendall Robinson
+            divorce: {}
           - number: 2
-            date: "Walter Morton,"
-            spouse: divorced
+            spouse: Walter Morton
+            divorce: {}
           - number: 3
             date: Wilbert Norring
         death:

@@ -50,7 +50,8 @@ childrenGroups:
         marriages:
           - number: 1
             date: 29 October 1932
-            spouse: "George A. French,   divorced"
+            spouse: George A. French
+            divorce: {}
           - number: 2
             date: 14 October 1939
             spouse: Franklin H. Steward

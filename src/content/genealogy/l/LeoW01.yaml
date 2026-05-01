@@ -47,7 +47,10 @@ childrenGroups:
           place: North Burbank California
         marriages:
           - date: 17 November 1970
-            spouse: "Reno, Nevada   Gary Duffy,   divorced 17 November 1987   Klamath Falls, Oregon"
+            spouse: "Reno, Nevada   Gary Duffy"
+            divorce:
+              date: 17 November 1987
+              place: "Klamath Falls, Oregon"
       - name: Jackie Roy Vining
         entryId: JackieR01
         entryLetter: J
@@ -65,8 +68,9 @@ childrenGroups:
             date: "Rogue River, Oregon"
             spouse: Robert Badley
           - number: 2
-            date: "Delbert Luft,"
-            place: "divorced Grants Pass, Oregon"
+            spouse: Delbert Luft
+            divorce:
+              place: "Grants Pass, Oregon"
       - name: Freddie Lee Vining
         entryId: FreddieL01
         entryLetter: F

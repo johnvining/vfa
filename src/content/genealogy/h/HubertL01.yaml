@@ -15,12 +15,15 @@ head:
     place: "(last residence: Ypsilanti, Michigan)"
 marriages:
   - number: 1
-    date: Helen Riggs
     spouse:
-      givenName: divorced
-      surname: "1937"
+      givenName: Helen
+      surname: Riggs
+    divorce:
+      date: "1937"
   - number: 2
-    date: Frances Riggs
+    spouse:
+      givenName: Frances
+      surname: Riggs
   - number: 3
     date: 18 July 1960
     spouse:

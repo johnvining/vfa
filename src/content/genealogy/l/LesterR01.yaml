@@ -38,7 +38,8 @@ childrenGroups:
         birth:
           date: 22 December 1920
         marriages:
-          - date: "Helen Parker,   divorced"
+          - spouse: Helen Parker
+            divorce: {}
         death:
           date: July 1986
           place: "(last residence: Umatilla, Florida)"

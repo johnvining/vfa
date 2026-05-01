@@ -47,10 +47,14 @@ childrenGroups:
         marriages:
           - number: 1
             date: 1 January 1973
-            spouse: "Steven Farrell,   divorced 19 January 1975"
+            spouse: Steven Farrell
+            divorce:
+              date: 19 January 1975
           - number: 2
             date: 11 July 1975
-            spouse: "Bruce Hodgkin,   divorced 9 December 1997"
+            spouse: Bruce Hodgkin
+            divorce:
+              date: 9 December 1997
       - name: Ronald Winston Vining Jr.
         entryId: RonaldWJr01
         birth:
@@ -59,7 +63,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: August 1977
-            spouse: "[Elisha?] Clark,   divorced 1990"
+            spouse: "[Elisha?] Clark"
+            divorce:
+              date: "1990"
           - number: 2
             date: 10 November 1990
             spouse: Joan Marie Stain
@@ -71,13 +77,19 @@ childrenGroups:
         marriages:
           - number: 1
             date: 7 July 1979
-            spouse: "Naomi [Chamberlain or Huff?],   divorced 1984"
+            spouse: "Naomi [Chamberlain or Huff?]"
+            divorce:
+              date: "1984"
           - number: 2
             date: 21 June 1985
-            spouse: "Susan Jandreau,   divorced 1993"
+            spouse: Susan Jandreau
+            divorce:
+              date: "1993"
           - number: 3
-            date: "7 August 1994,"
-            spouse: "divorced 20 February 2006   Lisa Marie [Trepanier or Mercier?]"
+            date: 7 August 1994
+            spouse: "Lisa Marie [Trepanier or Mercier?]"
+            divorce:
+              date: 20 February 2006
       - name: Bobby Leigh Vining
         entryId: BobbyL01
         entryLetter: B
@@ -86,7 +98,9 @@ childrenGroups:
           place: "Fort Fairfield, Aroostook County, Maine"
         marriages:
           - date: 15 September 1984
-            spouse: "Jeannine Arlene Greenleaf,   divorced 1997"
+            spouse: Jeannine Arlene Greenleaf
+            divorce:
+              date: "1997"
       - name: James Everett Vining
         entryId: JamesE05
         entryLetter: J
@@ -103,7 +117,9 @@ childrenGroups:
           place: "Lewiston, Androscoggin County, Maine"
         marriages:
           - date: "1985"
-            spouse: "David Veinot,   divorced 1987"
+            spouse: David Veinot
+            divorce:
+              date: "1987"
       - name: Tammy Lynn Vining
         birth:
           date: 7 November 1967

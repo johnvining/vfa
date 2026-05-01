@@ -16,7 +16,7 @@ head:
     place: "Oakwood Cemetery   Joliet, Illinois"
 marriages:
   - number: 1
-    note: divorced
+    divorce: {}
     spouse:
       givenName: Josephine
       surname: Middleton
@@ -62,7 +62,8 @@ childrenGroups:
         birth:
           date: 20 January 1939
         marriages:
-          - spouse: "Patricia Altiery,   divorced"
+          - spouse: Patricia Altiery
+            divorce: {}
   - headingText: child by Geraldine McGee
     children:
       - name: Gerald Curtis Vining

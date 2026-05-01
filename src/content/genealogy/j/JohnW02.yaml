@@ -31,10 +31,12 @@ childrenGroups:
           - number: 1
             date: 26 May 1990
             place: "Riverdale, Georgia"
-            spouse: "Karen Lawan Verner, divorced"
+            spouse: Karen Lawan Verner
+            divorce: {}
           - number: 2
             date: 3 August 2003
-            spouse: "Tanya Wadsworth, divorced"
+            spouse: Tanya Wadsworth
+            divorce: {}
           - number: 3
             date: 20 August 2005
             place: "Jonesboro, Georgia"

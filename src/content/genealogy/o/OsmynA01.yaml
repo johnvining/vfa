@@ -25,7 +25,7 @@ marriages:
         date: "1978"
       burial:
         place: "Lake View Cemetery   Kendallville, Indiana"
-    note: "divorced"
+    divorce: {}
   - number: 2
     date: Josephine Weeks
 childrenGroups:
@@ -36,8 +36,8 @@ childrenGroups:
         entryLetter: A
         marriages:
           - number: 1
-            date: "Jane Hanes,"
-            spouse: divorced
+            spouse: Jane Hanes
+            divorce: {}
           - number: 2
             date: "Donna [...]"
 raw: |-

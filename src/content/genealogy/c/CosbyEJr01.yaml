@@ -15,7 +15,8 @@ marriages:
     spouse:
       givenName: Vicky L.
       surname: Odell
-    note: divorced 1985
+    divorce:
+      date: "1985"
   - number: 2
     date: "(common law) 1992&#8211;2008"
     spouse:

@@ -43,7 +43,9 @@ childrenGroups:
           place: "Cincinnati, Ohio"
         marriages:
           - date: 28 May 1977
-            spouse: "Marion Olive Stevens,   divorced 1980s"
+            spouse: Marion Olive Stevens
+            divorce:
+              date: 1980s
         death:
           date: "November 8, 2022"
       - name: Richard Wayne Vining
@@ -61,7 +63,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: 23 December 1980
-            spouse: "Fairfield, IL   Darla Sue Bruce,   divorced 19 December 1997"
+            spouse: "Fairfield, IL   Darla Sue Bruce"
+            divorce:
+              date: 19 December 1997
           - number: 2
             date: 26 November 2003
             spouse: Ninfa R. Munarriz

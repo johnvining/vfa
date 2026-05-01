@@ -16,7 +16,8 @@ marriages:
     spouse:
       givenName: Jennifer Monique
       surname: Eubanks
-    note: divorced 25 September 2014
+    divorce:
+      date: 25 September 2014
   - number: 2
     date: 18 May 2017
     spouse:

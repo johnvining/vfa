@@ -89,8 +89,8 @@ childrenGroups:
           place: "Elmore, Minnesota"
         marriages:
           - number: 1
-            date: "Mary Ella Chapman,"
-            spouse: divorced
+            spouse: Mary Ella Chapman
+            divorce: {}
           - number: 2
             date: Lillian Dudley
         death:

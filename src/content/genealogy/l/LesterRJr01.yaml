@@ -36,8 +36,9 @@ childrenGroups:
           - date: "Glowenda Gay &#8220;Wendy&#8221; Lintemuth"
       - name: Kay Marie Vining
         marriages:
-          - date: "[1?] Glen Gale Lintemuth, divorced;"
-            spouse: "[2?] [...] Murin"
+          - spouse: "[1?] Glen Gale Lintemuth"
+            divorce: {}
+          - spouse: "[2?] [...] Murin"
       - name: Marlene Fay Vining
         marriages:
           - date: Carl Deighton Thayer

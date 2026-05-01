@@ -48,11 +48,11 @@ childrenGroups:
           place: Illinois
         marriages:
           - number: 1
-            date: "Bernice Rademacher,"
-            spouse: divorced
+            spouse: Bernice Rademacher
+            divorce: {}
           - number: 2
-            date: "Margaret Phelan,"
-            spouse: divorced
+            spouse: Margaret Phelan
+            divorce: {}
           - number: 3
             date: Mrs. Ha Mae Pope Baker
       - name: Celia Eunice Vining

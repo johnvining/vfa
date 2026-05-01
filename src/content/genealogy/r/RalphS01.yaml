@@ -67,7 +67,8 @@ childrenGroups:
           place: Michigan
         marriages:
           - date: 14 May 1960
-            spouse: "DeAnne Reger,   divorced"
+            spouse: DeAnne Reger
+            divorce: {}
       - name: Nancy Vining
         birth:
           date: 6 October 1941
@@ -78,8 +79,8 @@ childrenGroups:
           date: 1 June 1943
         marriages:
           - number: 1
-            date: "John Roberts,"
-            spouse: divorced
+            spouse: John Roberts
+            divorce: {}
           - number: 2
             date: Robet Anson
 docsUrl: Rsources/RalphS01doc.htm

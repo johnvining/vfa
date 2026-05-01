@@ -11,7 +11,7 @@ head:
   birth:
     date: 18 April 1947
 marriages:
-  - note: divorced
+  - divorce: {}
     spouse:
       givenName: Janet C.
       surname: Bow

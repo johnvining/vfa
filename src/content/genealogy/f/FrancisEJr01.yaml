@@ -42,7 +42,9 @@ childrenGroups:
           place: "Brighton, Massachusetts"
         marriages:
           - date: 24 April 1965
-            spouse: "Stephen Lane Mason,   divorced 2001"
+            spouse: Stephen Lane Mason
+            divorce:
+              date: "2001"
 docsUrl: Fsources/FrancisEJr01doc.htm
 raw: |-
   <a name="FrancisEJr01"></a><font size=+2>Francis Earl Vining Jr.</font>

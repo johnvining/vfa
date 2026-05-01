@@ -23,7 +23,8 @@ marriages:
       death:
         date: 10 November 1934
         place: Ohio
-    note: "divorced 1909"
+    divorce:
+      date: "1909"
 childrenGroups:
   - children:
       - name: son

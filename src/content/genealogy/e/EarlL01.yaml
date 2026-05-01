@@ -25,7 +25,9 @@ childrenGroups:
         marriages:
           - number: 1
             date: "1998"
-            spouse: "Patricia Long,   divorced 2000"
+            spouse: Patricia Long
+            divorce:
+              date: "2000"
           - number: 2
             date: 18 February 2003
             spouse: "Tina Pelham (n&#233;e Young)"

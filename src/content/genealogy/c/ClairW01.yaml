@@ -90,8 +90,8 @@ childrenGroups:
           place: "Brooklyn, New York"
         marriages:
           - number: 1
-            date: "Dee [...],"
-            spouse: divorced
+            spouse: "Dee [...]"
+            divorce: {}
           - number: 2
             date: "Elizabeth [...]"
         death:
@@ -109,7 +109,8 @@ childrenGroups:
           date: 28 November 1944
           place: "Trenton, New Jersey"
         marriages:
-          - date: "[...] Pearl,   divorced"
+          - spouse: "[...] Pearl"
+            divorce: {}
 raw: |-
   <a name="ClairW01"></a><font size=+2>Clair Wilbur Vining</font>
      (son of <a href="Jfamilies.htm#JohnD01">John Decker Vining and Julia Wilbur</a>)

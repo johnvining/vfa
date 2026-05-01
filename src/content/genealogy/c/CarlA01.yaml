@@ -18,10 +18,10 @@ head:
 marriages:
   - number: 1
     date: Bernice Rademacher
-    note: divorced
+    divorce: {}
   - number: 2
     date: Margaret Phelan
-    note: divorced
+    divorce: {}
   - number: 3
     date: Mrs. Ha Mae Pope Baker
 childrenGroups:

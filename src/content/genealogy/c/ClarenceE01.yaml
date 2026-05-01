@@ -16,7 +16,7 @@ head:
 marriages:
   - number: 1
     date: Kay Smith
-    note: divorced
+    divorce: {}
   - number: 2
     date: 13 November 1971
     place: "Decker, Michigan"

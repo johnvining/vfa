@@ -13,7 +13,8 @@ head:
     place: "Fort Fairfield, Aroostook County, Maine"
 marriages:
   - date: 15 September 1984
-    note: divorced 1997
+    divorce:
+      date: "1997"
     spouse:
       givenName: Jeannine Arlene
       surname: Greenleaf

@@ -14,7 +14,7 @@ marriages:
   - spouse:
       givenName: Patricia
       surname: Altiery
-    note: divorced
+    divorce: {}
 childrenGroups:
   - children:
       - name: Stephen Jay Vining

@@ -22,7 +22,9 @@ marriages:
         date: 1 May 2001
       burial:
         place: "Forest Lawn Memorial Gardens   Lake City, Columbia County, Florida"
-    note: "divorced July 1960   Dade County, Florida"
+    divorce:
+      date: July 1960
+      place: "Dade County, Florida"
 childrenGroups:
   - children:
       - name: Thomas Nathan Vining
