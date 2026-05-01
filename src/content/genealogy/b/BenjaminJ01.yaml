@@ -1,7 +1,7 @@
 id: BenjaminJ01
 letter: B
 sequence: 35
-lastUpdated: 25 February 2023
+lastUpdated: 1 May 2026
 relationship: son
 parentId: JohnE01
 parentLetter: J
@@ -12,7 +12,7 @@ head:
     date: 22 December 1982
     place: "Fairfield, Wayne County, Illinois"
   death:
-    date: 23 December 2020
+    date: 22 December 2020
 marriages:
   - date: 11 October 2014
     spouse:
@@ -26,6 +26,9 @@ childrenGroups:
         birth:
           date: 18 November 2015
 docsUrl: Bsources/BenjaminJ01doc.htm
+updates:
+  - date: "2026-05-01"
+    what: "corrected death date from 23 December 2020 to 22 December 2020"
 raw: |-
   <a name="BenjaminJ01"></a><font size=+2>Benjamin John Vining</font>
      (son of <a href="Jfamilies.htm#JohnE01">John Edwin Vining and Darla Sue Bruce</a>)
