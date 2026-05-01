@@ -184,11 +184,14 @@ function renderSpouseBlock(m: Marriage, spouseIndent: number, detailIndent: numb
 }
 
 // "divorced 2015" / "divorced 1893   Texas" / "divorced (she m. (2) Floyd Tremper)"
+// A note alongside a date/place renders in parens; a note without one renders bare.
 function renderDivorceBare(d: Divorce): string {
   let s = 'divorced';
   if (d.date) s += ' ' + d.date;
   if (d.place) s += '   ' + d.place;
-  if (d.note) s += ' (' + d.note + ')';
+  if (d.note) {
+    s += (d.date || d.place) ? ' (' + d.note + ')' : ' ' + d.note;
+  }
   return s;
 }
 
@@ -220,11 +223,16 @@ function renderChildLine(child: Child): string {
     const hasNumbered = child.marriages.some(m => m.number !== undefined);
     if (hasNumbered) {
       // Numbered marriages: m. (1) DATE   PLACE   SPOUSE;   (2) ...
+      // String numbers in `[...]` form (e.g. "[1?]") render without parens.
       const mParts = child.marriages.map(m => {
-        let s = `(${m.number}) `;
-        if (m.date) s += m.date;
-        if (m.place) s += '   ' + m.place;
-        if (m.spouse) s += '   ' + m.spouse;
+        const numStr = (typeof m.number === 'string' && m.number.startsWith('['))
+          ? `${m.number} `
+          : `(${m.number}) `;
+        const tail: string[] = [];
+        if (m.date) tail.push(m.date);
+        if (m.place) tail.push(m.place);
+        if (m.spouse) tail.push(m.spouse);
+        let s = numStr + tail.join('   ');
         if (m.divorce) s += (m.spouse ? ',' : '') + '   ' + renderDivorceBare(m.divorce);
         return s;
       });
