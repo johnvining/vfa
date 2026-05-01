@@ -19,7 +19,9 @@ head:
 marriages:
   - date: 9 June 1869
     spouse:
-      givenName: "Letitia McMullen (of New York)"
+      givenName: Letitia
+      surname: McMullen
+      from: New York
 childrenGroups:
   - headingText: "child"
     children:

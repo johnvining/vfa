@@ -8,6 +8,7 @@ interface Spouse {
   givenName?: string;
   surname?: string;
   nee?: string;
+  from?: string;
   widowOf?: string;
   parents?: string;
   birth?: DatePlace;
@@ -129,6 +130,14 @@ function withVining(givenName: string, surname: string = 'Vining'): string {
   return givenName + ' ' + surname;
 }
 
+// Builds a spouse name string with optional "(née X)" and "(of HOMETOWN)" suffixes.
+function spouseNameLine(s: Spouse): string {
+  let line = [s.givenName, s.surname].filter(Boolean).join(' ');
+  if (s.nee) line += ` (n&#233;e ${s.nee})`;
+  if (s.from) line += ` (of ${s.from})`;
+  return line;
+}
+
 // Renders a numbered marriage spouse block.
 // If spouse has givenName, renders name line at 15 then details at 21/27.
 // If spouse has no givenName (inline-name marriage), renders details at 21/27 directly.
@@ -139,8 +148,7 @@ function renderNumberedSpouseBlock(m: Marriage): string[] {
 
   if (s.givenName) {
     // Normal: separate spouse name line at 15
-    const nameParts = [s.givenName, s.surname].filter(Boolean);
-    lines.push(' '.repeat(15) + nameParts.join(' '));
+    lines.push(' '.repeat(15) + spouseNameLine(s));
     if (s.parents) lines.push(' '.repeat(21) + s.parents);
     if (s.birth) {
       const prefix = hasSelfPrefix(s.birth.date) ? '' : 'b. ';
@@ -168,8 +176,7 @@ function renderSpouseBlock(m: Marriage, spouseIndent: number, detailIndent: numb
   if (!m.spouse) return lines;
   const s = m.spouse;
 
-  const nameParts = [s.givenName, s.surname].filter(Boolean);
-  lines.push(' '.repeat(spouseIndent) + nameParts.join(' '));
+  lines.push(' '.repeat(spouseIndent) + spouseNameLine(s));
 
   if (s.parents) lines.push(' '.repeat(detailIndent) + s.parents);
   if (s.birth) {
@@ -344,8 +351,7 @@ export function renderEntry(data: EntryData): string {
         const isInline = !m.date && !m.place && m.spouse?.givenName;
         if (isInline) {
           const s = m.spouse!;
-          const nameParts = [s.givenName, s.surname].filter(Boolean);
-          lines.push('   m. ' + nameParts.join(' '));
+          lines.push('   m. ' + spouseNameLine(s));
           // Inline spouse details at indent 12
           if (s.parents) lines.push('            ' + s.parents);
           if (s.birth) lines.push('            b. ' + dp(s.birth));

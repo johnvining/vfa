@@ -1,0 +1,38 @@
+id: GregoryC01
+letter: G
+lastUpdated: 1 May 2026
+relationship: son
+parentId: EarlL01
+parentLetter: E
+parentDesc: Earl Lee Vining and Carol Hapner
+head:
+  givenName: Gregory Carl
+  birth:
+    date: 9 October 1963
+    place: "Fort Devens Army Hospital   Shirley, Massachusetts"
+marriages:
+  - number: 1
+    date: "1998"
+    spouse:
+      givenName: Patricia
+      surname: Long
+      from: "Schuylkill Haven, Pennsylvania"
+    divorce:
+      date: "2000"
+  - number: 2
+    date: 18 February 2003
+    spouse:
+      givenName: Tina
+      surname: Pelham
+      nee: Young
+      from: "Concord, Michigan"
+childrenGroups:
+  - headingText: "stepchildren by Tina Pelham (n&#233;e Young)"
+    children:
+      - name: John Paul Pelham
+      - name: Laura Jo Pelham
+        marriages:
+          - spouse: Juan Santos
+updates:
+  - date: "2026-05-01"
+    what: "created entry; promoted from inline child of Earl Lee Vining; added second wife Tina Pelham (n&#233;e Young) and stepchildren John Paul Pelham and Laura Jo Pelham (m. Juan Santos); contributed by Gregory Carl Vining"

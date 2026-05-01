@@ -17,7 +17,9 @@ head:
 marriages:
   - date: 22 October 1829
     spouse:
-      givenName: "Jane C. Thomas (of Strong, Franklin County, Maine)"
+      givenName: Jane C.
+      surname: Thomas
+      from: "Strong, Franklin County, Maine"
       birth:
         date: age 76 y. at death
       death:

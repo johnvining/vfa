@@ -8,7 +8,9 @@ head:
   givenName: Dan G.
 marriages:
   - spouse:
-      givenName: "Joan C. Melton (n&#233;e Kirkpatrick)"
+      givenName: Joan C.
+      surname: Melton
+      nee: Kirkpatrick
       parents: "(dau. of Hildred Kirkpatrick and Margaret Johnson)"
       birth:
         date: 1 April 1944

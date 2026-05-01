@@ -1,7 +1,7 @@
 id: EarlL01
 sequence: 6
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 1 May 2026
 relationship: son
 parentId: KamitaE01
 parentLetter: K
@@ -19,6 +19,8 @@ marriages:
 childrenGroups:
   - children:
       - name: Gregory Carl Vining
+        entryId: GregoryC01
+        entryLetter: G
         birth:
           date: 9 October 1963
           place: "Fort Devens Army Hospital   Shirley, Massachusetts"
@@ -39,6 +41,9 @@ childrenGroups:
           place: "[Kalamazoo, Michigan ?]"
         marriages:
           - spouse: Jodi Lynn Hudson
+updates:
+  - date: "2026-05-01"
+    what: "promoted Gregory Carl Vining to his own entry"
 raw: |-
   <a name="EarlL01"></a><font size=+2>Earl Lee Vining</font>
      (son of <a href="Kfamilies.htm#KamitaE01">Kamita Earl Vining and Elizabeth Volenski</a>)

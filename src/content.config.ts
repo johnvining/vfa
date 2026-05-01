@@ -26,6 +26,7 @@ const spouseSchema = z.object({
   givenName: z.string().optional(),
   surname: z.string().optional(),
   nee: z.string().optional(),         // maiden name for remarried widows
+  from: z.string().optional(),        // hometown / town of origin — renders as "(of X)"
   widowOf: z.string().optional(),     // note like "her second marriage"
   parents: z.string().optional(),
   birth: datePlace,

@@ -21,7 +21,9 @@ marriages:
       surname: Whitaker
   - number: 2
     spouse:
-      givenName: "Easter Johnson (n&#233;e Russell)"
+      givenName: Easter
+      surname: Johnson
+      nee: Russell
 childrenGroups:
   - spouseRef: Charlotte Jean Whitaker
     children:

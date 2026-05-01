@@ -35,7 +35,9 @@ marriages:
   - number: 2
     date: 24 March 1866
     spouse:
-      givenName: "Lydia J. Colson (n&#233;e Holbrook)"
+      givenName: Lydia J.
+      surname: Colson
+      nee: Holbrook
       birth:
         date: March 1819
       death:
