@@ -1,7 +1,7 @@
 id: ThomasCJr01
 letter: T
 sequence: 25
-lastUpdated: 9 March 2023
+lastUpdated: 1 May 2026
 relationship: son
 parentId: ThomasC02
 parentDesc: Thomas Cleburne Vining and Doretha Runnells
@@ -37,10 +37,11 @@ childrenGroups:
         marriages:
           - number: 1
             date: November 1991
-            spouse: Kenny Beckie
+            spouse: "Kenny [Beckie or Leckie?]"
             divorce:
               date: ca. 2009
           - number: 2
+            date: August 2017
             spouse: Helmut Stepp
       - name: John Wesley Vining
         entryId: JohnW07
@@ -57,6 +58,9 @@ childrenGroups:
             date: 18 May 2017
             spouse: Ratna Surjadi
 docsUrl: Tsources/ThomasCJr01doc.htm
+updates:
+  - date: "2026-05-01"
+    what: "added Helmut Stepp marriage date (August 2017) for Angela, and noted alternate spelling Leckie for Kenny Beckie's surname; contributed by John Wesley Vining"
 raw: |-
   <a name="ThomasCJr01"></a><font size=+2>Thomas Cleburne Vining Jr.</font>
      (son of <a href="#ThomasC02">Thomas Cleburne Vining and Doretha Runnells</a>)
