@@ -33,7 +33,7 @@ childrenGroups:
           place: "Stockton, Georgia"
         marriages:
           - number: 1
-            date: Tabitha Goodbread
+            spouse: Tabitha Goodbread
           - number: 2
             date: 19 August 1890
             spouse: Georgia Loretta Rimer
@@ -81,7 +81,7 @@ childrenGroups:
           date: 17 February 1869
           place: "Stockton, Georgia"
         marriages:
-          - date: Laura Hines
+          - spouse: Laura Hines
         death:
           date: 27 January 1928
         burial:
@@ -102,9 +102,9 @@ childrenGroups:
           place: "Stockton, GA"
         marriages:
           - number: 1
-            date: Vicey Hines
+            spouse: Vicey Hines
           - number: 2
-            date: Alma Hines
+            spouse: Alma Hines
         death:
           date: 23 July 1945
       - name: "[Magnolia or Pernola Belle?] Vining"
@@ -121,7 +121,7 @@ childrenGroups:
           date: 11 July 1876
           place: "Stockton, Georgia"
         marriages:
-          - date: Lewis Hurst
+          - spouse: Lewis Hurst
         death:
           date: "1938"
       - name: Nathaniel Frier Vining
@@ -132,9 +132,9 @@ childrenGroups:
           place: "Stockton, Georgia"
         marriages:
           - number: 1
-            date: Pollie Davis
+            spouse: Pollie Davis
           - number: 2
-            date: Effie Jane Jackson
+            spouse: Effie Jane Jackson
         death:
           date: 15 April 1935
           place: "Miami, Florida"

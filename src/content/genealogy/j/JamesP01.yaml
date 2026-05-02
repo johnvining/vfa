@@ -23,23 +23,23 @@ childrenGroups:
   - children:
       - name: Lisa Vining
         marriages:
-          - date: Roger Smith
+          - spouse: Roger Smith
       - name: Ann Smitherman Vining
         marriages:
-          - date: Paul Lawrence
+          - spouse: Paul Lawrence
       - name: Jamie Vining
         marriages:
-          - date: Greg Bruner
+          - spouse: Greg Bruner
       - name: LaDonna Vining
         marriages:
-          - date: "[...] Fortenbury"
+          - spouse: "[...] Fortenbury"
       - name: Holly Vining
         marriages:
-          - date: John Stiles
+          - spouse: John Stiles
       - name: James P. Vining Jr.
         entryId: JamesPJr01
         marriages:
-          - date: "Tina [...]"
+          - spouse: "Tina [...]"
 raw: |-
   <a name="JamesP01"></a><font size=+2>James P. Vining</font>
      (son of [?])

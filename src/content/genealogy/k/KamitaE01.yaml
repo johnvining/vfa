@@ -54,7 +54,7 @@ childrenGroups:
         birth:
           date: 24 September 1938
         marriages:
-          - date: Carol Hapner
+          - spouse: Carol Hapner
       - name: Errol Lynn Vining
         entryId: ErrolL01
         entryLetter: E
@@ -75,17 +75,17 @@ childrenGroups:
         birth:
           date: 8 March 1940
         marriages:
-          - date: "Mary Ann [...]"
+          - spouse: "Mary Ann [...]"
       - name: Sharon Kay Vining
         birth:
           date: 27 October 1941
         marriages:
-          - date: Robert E. K. Levick
+          - spouse: Robert E. K. Levick
       - name: Yvette Marie Vining
         birth:
           date: 14 November 1942
         marriages:
-          - date: Roger Maneke
+          - spouse: Roger Maneke
 docsUrl: Ksources/KamitaE01doc.htm
 raw: |-
   <a name="KamitaE01"></a><font size=+2>Kamita Earl Vining</font>

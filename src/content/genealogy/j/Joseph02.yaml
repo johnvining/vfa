@@ -50,7 +50,7 @@ childrenGroups:
           date: 4 October 1825
           place: "Savoy, Massachusetts"
         marriages:
-          - date: Jane Moore Sears
+          - spouse: Jane Moore Sears
         death:
           date: 16 May 1858
         burial:
@@ -66,7 +66,7 @@ childrenGroups:
           - number: 1
             date: Levi Prutt (d. 18 August 1863)
           - number: 2
-            date: Charles H. Standish
+            spouse: Charles H. Standish
         death:
           date: 29 April 1892
       - name: Abigail Vining

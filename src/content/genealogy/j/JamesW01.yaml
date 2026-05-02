@@ -37,12 +37,12 @@ childrenGroups:
         birth:
           date: "1919"
         marriages:
-          - date: Marion Broadway
+          - spouse: Marion Broadway
       - name: Leila Mae Vining
         birth:
           date: "1921"
         marriages:
-          - date: Charles Willis Bell
+          - spouse: Charles Willis Bell
       - name: James Otto Vining
         birth:
           date: "1922"
@@ -66,34 +66,34 @@ childrenGroups:
         birth:
           date: "1927"
         marriages:
-          - date: Charlie Lee Winburn
+          - spouse: Charlie Lee Winburn
       - name: Frances Ion Vining
         birth:
           date: "1928"
         marriages:
-          - date: James Weldon Lovelace
+          - spouse: James Weldon Lovelace
       - name: "George Douglas &#8220;Dick&#8221; Vining"
         birth:
           date: "1930"
         marriages:
-          - date: Alice Geneva Burke
+          - spouse: Alice Geneva Burke
       - name: "Thelma Alberta &#8220;Pete&#8221; Vining"
         birth:
           date: "1933"
         marriages:
-          - date: Joseph Marriables Waynick
+          - spouse: Joseph Marriables Waynick
       - name: Mary Pansy Vining
         birth:
           date: "1935"
         marriages:
-          - date: Dale Wayne Summerton
+          - spouse: Dale Wayne Summerton
       - name: "Jesse William &#8220;Bozo&#8221; Vining"
         entryId: JesseW01
         birth:
           date: 8 March 1937
           place: South Carolina
         marriages:
-          - date: Betty Shelby Jean Boykin
+          - spouse: Betty Shelby Jean Boykin
         death:
           date: 2 July 2000
           place: "Sumter, Sumter County, South Carolina"
@@ -103,7 +103,7 @@ childrenGroups:
         birth:
           date: "1939"
         marriages:
-          - date: John Douglas Edwards
+          - spouse: John Douglas Edwards
       - name: Cecil Eugene Vining
         entryId: CecilE02
         entryLetter: C
@@ -111,7 +111,7 @@ childrenGroups:
           date: "1940"
           place: "Sumter, South Carolina"
         marriages:
-          - date: Sara Emma Stone
+          - spouse: Sara Emma Stone
         death:
           date: 26 March 2015
         burial:

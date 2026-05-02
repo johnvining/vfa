@@ -52,7 +52,7 @@ childrenGroups:
           date: 18 October 1868
           place: Georgia
         marriages:
-          - date: Rhoda Corbitt
+          - spouse: Rhoda Corbitt
         death:
           date: 12 June 1945
         burial:
@@ -71,7 +71,7 @@ childrenGroups:
           date: 16 April 1875
           place: Georgia
         marriages:
-          - date: Bryant C. Hutto
+          - spouse: Bryant C. Hutto
       - name: James O. Vining
         entryId: JamesO02
         birth:
@@ -82,7 +82,7 @@ childrenGroups:
             date: 11 April 1901
             spouse: "Mary Jane O&#8217;Steen"
           - number: 2
-            date: Margaret Mitchell
+            spouse: Margaret Mitchell
         death:
           date: 20 November 1950
           place: "Aiken, South Carolina"
@@ -101,7 +101,7 @@ childrenGroups:
           date: 12 April 1882
         marriages:
           - number: 1
-            date: Benjamin Findley Blitch
+            spouse: Benjamin Findley Blitch
           - number: 2
             date: 23 December 1903
             spouse: Thomas M. Cady

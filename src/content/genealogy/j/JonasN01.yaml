@@ -14,8 +14,9 @@ head:
     date: 8 June 1931
 marriages:
   - number: 1
-    date: Malinda Bowen
     spouse:
+      givenName: Malinda
+      surname: Bowen
       birth:
         date: 1 July 1841
         place: Ohio
@@ -47,7 +48,7 @@ childrenGroups:
           date: 11 July 1896
           place: Ohio
         marriages:
-          - date: Jean M. McLean
+          - spouse: Jean M. McLean
         death:
           date: January 1951
       - name: Lloyd Ozias Vining
@@ -57,7 +58,7 @@ childrenGroups:
           date: 3 September 1899
           place: Ohio
         marriages:
-          - date: Esther Hulda Prince
+          - spouse: Esther Hulda Prince
         death:
           date: 13 July 1963
         burial:

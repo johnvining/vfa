@@ -16,8 +16,9 @@ head:
     place: "Vining Cemetery   Friendly Corners, Middlesex County, Ontario"
 marriages:
   - number: 1
-    date: "(Mary) Emma Lindley"
     spouse:
+      givenName: (Mary) Emma
+      surname: Lindley
       birth:
         date: 20 January 1863
       death:
@@ -57,7 +58,7 @@ childrenGroups:
         birth:
           date: 4 January 1891
         marriages:
-          - date: Nellie Vance
+          - spouse: Nellie Vance
         death:
           date: 3 September 1935
         burial:
@@ -66,19 +67,19 @@ childrenGroups:
         birth:
           date: 14 May 1893
         marriages:
-          - date: Clare Perkins
+          - spouse: Clare Perkins
         death:
           date: February 1978
       - name: Harriet Jean Vining
         birth:
           date: 12 July 1895
         marriages:
-          - date: Freeman J. Duffin
+          - spouse: Freeman J. Duffin
       - name: William Henry Vining
         birth:
           date: 24 February 1898
         marriages:
-          - date: Edith Tuttle
+          - spouse: Edith Tuttle
         death:
           date: 7 April 1971
           place: "(last residence: Niagara Falls, New York)"
@@ -88,7 +89,7 @@ childrenGroups:
         birth:
           date: 19 June 1900
         marriages:
-          - date: Nelson Corbett
+          - spouse: Nelson Corbett
       - name: Charlotte Irene Vining
         birth:
           date: 15 October 1902

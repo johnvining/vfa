@@ -38,7 +38,7 @@ childrenGroups:
           date: 5 July 1849
           place: Alabama
         marriages:
-          - date: Emma Sparks
+          - spouse: Emma Sparks
         death:
           date: 21 September 1907
         burial:
@@ -61,7 +61,7 @@ childrenGroups:
             place: "Eufaula, Alabama"
             spouse: Sarah Emma Averett
           - number: 2
-            date: Mary Belle Jones
+            spouse: Mary Belle Jones
         death:
           date: 23 February 1914
           place: "Eufaula, Alabama"
@@ -81,7 +81,7 @@ childrenGroups:
         birth:
           date: November 1860
         marriages:
-          - date: Rosa Lee Cada
+          - spouse: Rosa Lee Cada
         death:
           date: "1884"
       - name: Mary Leila Vining
@@ -89,32 +89,32 @@ childrenGroups:
           date: 13 December 1862
         marriages:
           - number: 1
-            date: James Carter
+            spouse: James Carter
           - number: 2
-            date: William Chambers
+            spouse: William Chambers
       - name: Martha Vining
         birth:
           date: 25 February 1865
         marriages:
-          - date: Davis Wood
+          - spouse: Davis Wood
       - name: Robert Lee Vining
         birth:
           date: 20 March 1867
         marriages:
-          - date: Freddie Smith
+          - spouse: Freddie Smith
       - name: Lucy Dixon Vining
         birth:
           date: 5 March 1869
         marriages:
           - number: 1
-            date: W. D. Glover
+            spouse: W. D. Glover
           - number: 2
-            date: J. W. Stamps
+            spouse: J. W. Stamps
       - name: Nora Belle Vining
         birth:
           date: 22 August 1871
         marriages:
-          - date: James D. Jones
+          - spouse: James D. Jones
       - name: Tabitha Vining
         birth:
           date: 26 February 1873

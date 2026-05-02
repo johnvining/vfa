@@ -26,22 +26,22 @@ childrenGroups:
           date: "1875"
           place: Minnesota
         marriages:
-          - date: Veronica Lucas
+          - spouse: Veronica Lucas
         death:
           date: "Minneapolis, Minnesota"
       - name: Libby Roxanne Vining
         birth:
           date: "1876"
         marriages:
-          - date: David Stewart
+          - spouse: David Stewart
       - name: Jessie Addil Vining
         birth:
           date: 2 September 1877
         marriages:
           - number: 1
-            date: Harry K. Aurandt
+            spouse: Harry K. Aurandt
           - number: 2
-            date: Winfield Chapman
+            spouse: Winfield Chapman
         death:
           date: "1958"
           place: "St. Paul, Minnesota"
@@ -58,19 +58,19 @@ childrenGroups:
         birth:
           date: 12 August 1880
         marriages:
-          - date: Bessie Morehouse
+          - spouse: Bessie Morehouse
       - name: "Clara Maude &#8220;Daisy&#8221; Vining"
         birth:
           date: 1 October 1881
         marriages:
-          - date: Carl Adams
+          - spouse: Carl Adams
       - name: Harrison Vining
         entryId: Harrison01
         birth:
           date: 22 March 1883
           place: "Florence, Minnesota"
         marriages:
-          - date: Marie Horejs
+          - spouse: Marie Horejs
         death:
           date: "1910"
           place: "St. Paul, Minnesota"
@@ -78,7 +78,7 @@ childrenGroups:
         birth:
           date: 21 July 1884
         marriages:
-          - date: Meta Schultz
+          - spouse: Meta Schultz
         death:
           date: "St. Paul, Minnesota"
       - name: Oscar David Vining
@@ -88,7 +88,7 @@ childrenGroups:
           date: 27 December 1885
           place: "Lake City, Minnesota"
         marriages:
-          - date: Emma E. Raddatz
+          - spouse: Emma E. Raddatz
         death:
           date: April 1969
           place: "St. Paul, Minnesota"

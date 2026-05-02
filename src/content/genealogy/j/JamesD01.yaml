@@ -18,9 +18,13 @@ head:
     place: "Saint James Catholic Cemetery   Neshkoro, Wisconsin"
 marriages:
   - number: 1
-    date: "[...] Gozinski"
+    spouse:
+      givenName: '[...]'
+      surname: Gozinski
   - number: 2
-    date: "[...] Berry"
+    spouse:
+      givenName: '[...]'
+      surname: Berry
 childrenGroups:
   - spouseRef: "[...] Gozinski"
     headingText: "child by [...] Gozinski"

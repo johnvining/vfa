@@ -15,10 +15,14 @@ head:
     date: 17 June 1979
 marriages:
   - number: 1
-    date: "Dee [...]"
     divorce: {}
+    spouse:
+      givenName: Dee
+      surname: '[...]'
   - number: 2
-    date: "Elizabeth [...]"
+    spouse:
+      givenName: Elizabeth
+      surname: '[...]'
 childrenGroups:
   - spouseRef: "Dee [...]"
     children:

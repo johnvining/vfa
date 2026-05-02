@@ -46,9 +46,9 @@ childrenGroups:
           place: Massachusetts
         marriages:
           - number: 1
-            date: Elmore E. Fancher
+            spouse: Elmore E. Fancher
           - number: 2
-            date: Noble E. Lord Sr.
+            spouse: Noble E. Lord Sr.
         death:
           date: 14 April 1937
       - name: Lydia Maria Vining
@@ -56,7 +56,7 @@ childrenGroups:
           date: 5 June 1857
           place: Massachusetts
         marriages:
-          - date: Charles Donahue
+          - spouse: Charles Donahue
         death:
           date: 4 November 1934
       - name: Hiram H. Vining
@@ -75,14 +75,14 @@ childrenGroups:
           place: "Southwick, Massachusetts"
         marriages:
           - number: 1
-            date: Annis S. Viets
+            spouse: Annis S. Viets
           - number: 2
             date: "[1885 or 1886?]"
             spouse: Harriet A. Booth
           - number: 3
-            date: "[...] Sullivan"
+            spouse: "[...] Sullivan"
           - number: 4
-            date: Mary Turner
+            spouse: Mary Turner
         death:
           date: 29 May 1909
           place: "Springfield, Massachusetts"
@@ -94,9 +94,9 @@ childrenGroups:
           place: Massachusetts
         marriages:
           - number: 1
-            date: Bertha Crane
+            spouse: Bertha Crane
           - number: 2
-            date: Linwood C. Merrill
+            spouse: Linwood C. Merrill
         death:
           date: 9 October 1929
           place: "West Springfield, Massachusetts"
@@ -107,7 +107,7 @@ childrenGroups:
           date: 6 October 1871
           place: "Southwick, Massachusetts"
         marriages:
-          - date: Herbert J. Lord
+          - spouse: Herbert J. Lord
         death:
           date: 9 April 1939
 docsUrl: Hsources/HomerC01doc.htm

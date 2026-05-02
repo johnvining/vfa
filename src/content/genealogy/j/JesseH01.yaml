@@ -11,7 +11,9 @@ head:
     date: "1858"
 marriages:
   - number: 1
-    date: "Tobitha Goodbread?"
+    spouse:
+      givenName: Tobitha
+      surname: Goodbread?
   - number: 2
     date: 19 August 1890
     spouse:
@@ -26,7 +28,7 @@ childrenGroups:
       - name: Priscilla Vining
       - name: Tabitha Vining
         marriages:
-          - date: Riley Fullwood
+          - spouse: Riley Fullwood
       - name: Nora Vining
 raw: |-
   <a name="JesseH01"></a><font size=+2>Jesse Henry Vining</font>

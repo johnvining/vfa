@@ -21,7 +21,7 @@ childrenGroups:
         birth:
           date: 26 February 1940
         marriages:
-          - date: "Judith [...]"
+          - spouse: "Judith [...]"
         death:
           date: 24 February 2015
           place: "Patterson, Louisiana"
@@ -29,10 +29,10 @@ childrenGroups:
           place: "Berwick Memorial Cemetery   Berwick, Louisiana"
       - name: Cheryl Vining
         marriages:
-          - date: Donald Stelly
+          - spouse: Donald Stelly
       - name: Janet Vining
         marriages:
-          - date: Gregory J. Kreider
+          - spouse: Gregory J. Kreider
 raw: |-
   <a name="HerbertW01"></a><font size=+2>Herbert William Vining</font>
      (son of <a href="#HenryH02">Henry Horatio Vining and Emma Garecht</a>)

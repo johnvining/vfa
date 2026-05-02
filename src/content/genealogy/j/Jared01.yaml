@@ -79,7 +79,7 @@ childrenGroups:
         birth:
           date: "1821"
         marriages:
-          - date: Samuel Crone
+          - spouse: Samuel Crone
         death:
           date: 18 January 1882
           place: "East London, Ontario"
@@ -90,7 +90,7 @@ childrenGroups:
         birth:
           date: "1825"
         marriages:
-          - date: Joseph Uren
+          - spouse: Joseph Uren
         death:
           date: 26 December 1907
       - name: Josiah Millard Vining
@@ -109,7 +109,7 @@ childrenGroups:
         birth:
           date: "1829"
         marriages:
-          - date: James McLeod
+          - spouse: James McLeod
         death:
           date: 5 October 1886
 docsUrl: Jsources/Jared01doc.htm

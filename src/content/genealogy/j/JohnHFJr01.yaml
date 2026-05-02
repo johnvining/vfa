@@ -21,14 +21,16 @@ marriages:
       surname: Young
     divorce: {}
   - number: 2
-    date: Ann Crawford
+    spouse:
+      givenName: Ann
+      surname: Crawford
 childrenGroups:
   - children:
       - name: Michael Crawford Vining
         entryId: MichaelC01
         entryLetter: M
         marriages:
-          - date: Dawn Elizabeth Rackleff
+          - spouse: Dawn Elizabeth Rackleff
       - name: Brennan Vining
 docsUrl: Jsources/JohnHFJr01doc.htm
 raw: |-

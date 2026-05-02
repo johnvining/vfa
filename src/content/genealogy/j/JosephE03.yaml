@@ -53,7 +53,7 @@ childrenGroups:
           place: "Napoleon, Michigan"
         marriages:
           - number: 1
-            date: Robert Hoag
+            spouse: Robert Hoag
           - number: 2
             date: "Chicago, Illinois"
             spouse: Irwin Rinder
@@ -67,9 +67,9 @@ childrenGroups:
           place: "Napoleon, Michigan"
         marriages:
           - number: 1
-            date: Minnie Gary
+            spouse: Minnie Gary
           - number: 2
-            date: Dorothy Chamberlain
+            spouse: Dorothy Chamberlain
         death:
           date: June 1976
           place: "(last residence: Jackson, Michigan)"
@@ -81,9 +81,9 @@ childrenGroups:
           place: Michigan
         marriages:
           - number: 1
-            date: Lucille Eagle
+            spouse: Lucille Eagle
           - number: 2
-            date: Gertrude M. Sampson
+            spouse: Gertrude M. Sampson
 docsUrl: Jsources/JosephE03doc.htm
 raw: |-
   <a name="JosephE03"></a><font size=+2>Joseph Easton Vining</font>

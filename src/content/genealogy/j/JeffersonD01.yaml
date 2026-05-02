@@ -17,8 +17,9 @@ head:
     place: "Mount Zion Cemetery   Axson, Georgia"
 marriages:
   - number: 1
-    date: Mamie Ratliff
     spouse:
+      givenName: Mamie
+      surname: Ratliff
       birth:
         date: "1894"
       death:
@@ -47,7 +48,7 @@ childrenGroups:
           date: 6 February 1914
           place: "Ware County, Georgia"
         marriages:
-          - date: Myrtice Coreen Rowe
+          - spouse: Myrtice Coreen Rowe
         death:
           date: 2 November 2005
           place: "Jacksonville, Florida"

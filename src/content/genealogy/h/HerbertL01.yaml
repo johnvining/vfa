@@ -31,8 +31,9 @@ marriages:
       burial:
         place: "Evergreen Cemetery   Los Angeles, California"
   - number: 2
-    date: "Minnie E. [...]"
     spouse:
+      givenName: Minnie E.
+      surname: '[...]'
       birth:
         date: 16 March 1886
         place: Iowa
@@ -64,7 +65,7 @@ childrenGroups:
           place: "Cheyenne, Wyoming"
         marriages:
           - number: 1
-            date: Alice Louise Johnson
+            spouse: Alice Louise Johnson
           - number: 2
             date: "1920"
             spouse: "Esther [...]"

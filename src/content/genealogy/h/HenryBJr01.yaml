@@ -16,20 +16,24 @@ head:
     place: Parkhill Cemetery
 marriages:
   - number: 1
-    date: "Evelyn [...]"
+    spouse:
+      givenName: Evelyn
+      surname: '[...]'
   - number: 2
-    date: Sue Owen
+    spouse:
+      givenName: Sue
+      surname: Owen
 childrenGroups:
   - spouseRef: "[?]"
     children:
       - name: Don Vining
       - name: Richard Vining
         marriages:
-          - date: "Deborah [...]"
+          - spouse: "Deborah [...]"
       - name: Victor Vining
       - name: Vicki Vining
         marriages:
-          - date: "[...] Stewart"
+          - spouse: "[...] Stewart"
 docsUrl: Hsources/HenryBJr01doc.htm
 raw: |-
   <a name="HenryBJr01"></a><font size=+2>Henry Bentley Vining Jr.</font>

@@ -35,7 +35,7 @@ childrenGroups:
         birth:
           date: "1839"
         marriages:
-          - date: John C. Young
+          - spouse: John C. Young
         death:
           date: 28 September 1904
       - name: Rufus Vining
@@ -75,7 +75,7 @@ childrenGroups:
         birth:
           date: 30 May 1844
         marriages:
-          - date: William George Washington Anderson
+          - spouse: William George Washington Anderson
         death:
           date: 4 May 1918
           place: "Oskaloosa, Iowa"
@@ -90,7 +90,7 @@ childrenGroups:
             date: 3 October 1867
             spouse: Cynthia Fritz
           - number: 2
-            date: Elnora Baker Laurence
+            spouse: Elnora Baker Laurence
         death:
           date: 14 September 1924
         burial:

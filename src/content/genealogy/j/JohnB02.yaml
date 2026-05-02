@@ -41,7 +41,7 @@ childrenGroups:
         birth:
           date: "1854"
         marriages:
-          - date: Alice Lavalette
+          - spouse: Alice Lavalette
   - spouseRef: Martha A. Dwinells
     children:
       - name: Emma Vining
@@ -76,7 +76,7 @@ childrenGroups:
           date: age 1 y. as of 1870 census
           place: Massachusetts
         marriages:
-          - date: Frank O. Palmer
+          - spouse: Frank O. Palmer
       - name: Wilbur C. Vining
         entryId: WilburC01
         entryLetter: W

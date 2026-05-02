@@ -48,7 +48,7 @@ childrenGroups:
           date: 12 January 1790
           place: New York
         marriages:
-          - date: Sybil Webster
+          - spouse: Sybil Webster
         death:
           date: 12 May 1857
         burial:
@@ -58,7 +58,7 @@ childrenGroups:
           date: 4 April 1793
           place: New York
         marriages:
-          - date: Samuel Davis
+          - spouse: Samuel Davis
         death:
           date: 28 March 1881
           place: "Marengo, Morrow County, Ohio"
@@ -87,7 +87,7 @@ childrenGroups:
           date: 28 March 1803
           place: "Chenango, New York"
         marriages:
-          - date: Mary Ann Noe
+          - spouse: Mary Ann Noe
         death:
           date: 18 January 1858
           place: Ohio

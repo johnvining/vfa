@@ -40,7 +40,7 @@ childrenGroups:
           date: age 5 y. as of 1940 census
           place: Florida
         marriages:
-          - date: "[...] Coats"
+          - spouse: "[...] Coats"
       - name: Earnest Vining
         birth:
           date: age 3 y. as of 1940 census
@@ -50,10 +50,10 @@ childrenGroups:
           date: "age [7?] m. as of 1940 census"
           place: Florida
         marriages:
-          - date: John Colson
+          - spouse: John Colson
       - name: James Vining
         marriages:
-          - date: "Jean [...]"
+          - spouse: "Jean [...]"
       - name: Frank Vining
 docsUrl: Hsources/Hezekiah01doc.htm
 raw: |-

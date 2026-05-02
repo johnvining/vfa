@@ -35,7 +35,7 @@ childrenGroups:
           date: "1853"
           place: "New York"
         marriages:
-          - date: Alice Edwards
+          - spouse: Alice Edwards
         death:
           date: 2 June 1926
           place: "Athens, New York"
@@ -55,7 +55,7 @@ childrenGroups:
           date: 21 November 1863
           place: "St. Joseph Township, Indiana"
         marriages:
-          - date: Charles Parker
+          - spouse: Charles Parker
         death:
           date: 25 April 1934
         burial:

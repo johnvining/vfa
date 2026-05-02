@@ -17,8 +17,9 @@ head:
     place: "Parker Community Cemetery   Parker, Arizona"
 marriages:
   - number: 1
-    date: Alice Louise Johnson
     spouse:
+      givenName: Alice Louise
+      surname: Johnson
       birth:
         date: 4 July 1910
       death:
@@ -38,12 +39,12 @@ childrenGroups:
         birth:
           date: ca. 1936
         marriages:
-          - date: Sally Burke
+          - spouse: Sally Burke
       - name: Cherie Louise Vining
         birth:
           date: "1940"
         marriages:
-          - date: Abe William Johnson III
+          - spouse: Abe William Johnson III
 docsUrl: Hsources/HerbertM01doc.htm
 raw: |-
   <a name="HerbertM01"></a><font size=+2>Herbert Mathew Vining</font>

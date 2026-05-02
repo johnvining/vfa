@@ -24,13 +24,13 @@ childrenGroups:
         birth:
           date: 23 May 1945
         marriages:
-          - date: Charles Fish
+          - spouse: Charles Fish
         death:
           date: 22 April 2020
           place: "Morgan City, Louisiana"
       - name: Connie Vining
         marriages:
-          - date: Donald Goodwin
+          - spouse: Donald Goodwin
 docsUrl: Jsources/JuniusO01doc.htm
 raw: |-
   <a name="JuniusO01"></a><font size=+2>Junius O. Vining</font>

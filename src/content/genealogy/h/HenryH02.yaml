@@ -17,8 +17,9 @@ head:
     place: "Willow Grove Cemetery   Berwick, Louisiana"
 marriages:
   - number: 1
-    date: Marguerite Mirsa Vallet
     spouse:
+      givenName: Marguerite Mirsa
+      surname: Vallet
       parents: "(dau. of Jean Amable Gentile Vallet and Marie Celina Leblanc)"
       birth:
         date: 30 April 1860
@@ -71,7 +72,7 @@ childrenGroups:
           date: 10 January 1888
           place: "Morgan City, Louisiana"
         marriages:
-          - date: Joseph Theoobold Angeron
+          - spouse: Joseph Theoobold Angeron
         death:
           date: 31 July 1969
           place: "Morgan City, Louisiana"
@@ -105,7 +106,7 @@ childrenGroups:
           date: "1899"
           place: Louisiana
         marriages:
-          - date: Ada Lodrigue
+          - spouse: Ada Lodrigue
       - name: Caroline Viola Vining
         birth:
           date: age 7 y. as of 1910 census
@@ -124,7 +125,7 @@ childrenGroups:
           date: age 2 y. as of 1910 census
           place: Louisiana
         marriages:
-          - date: Gladys Beadle
+          - spouse: Gladys Beadle
 docsUrl: Hsources/HenryH02doc.htm
 raw: |-
   <a name="HenryH02"></a><font size=+2>Henry Horatio Vining</font>

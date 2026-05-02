@@ -42,8 +42,9 @@ marriages:
     divorce:
       date: "1912"
   - number: 3
-    date: Margaret Lula Warford
     spouse:
+      givenName: Margaret Lula
+      surname: Warford
       parents: (dau. of Wilson Warford and Lucinda Lou Houseworth)
       birth:
         date: 12 May 1878

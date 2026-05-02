@@ -16,11 +16,14 @@ head:
     place: Georgia
 marriages:
   - number: 1
-    date: Amy Miller
     spouse:
+      givenName: Amy
+      surname: Miller
       parents: "(dau. of Josepoh Miller and [?])"
   - number: 2
-    date: Mary Thomas
+    spouse:
+      givenName: Mary
+      surname: Thomas
   - number: 3
     date: "?"
 childrenGroups:
@@ -31,7 +34,7 @@ childrenGroups:
           date: ca. 1765
           place: South Carolina
         marriages:
-          - date: Harmon Perryman
+          - spouse: Harmon Perryman
         death:
           date: ca. 1835
           place: Georgia
@@ -42,7 +45,7 @@ childrenGroups:
           date: "1755"
           place: "Anson County, North Carolina"
         marriages:
-          - date: Mary Wade
+          - spouse: Mary Wade
         death:
           date: "[22 or 26?] April 1826"
           place: "Athens, Alabama"
@@ -69,7 +72,7 @@ childrenGroups:
         birth:
           date: ca 1761
         marriages:
-          - date: "[...] Greer"
+          - spouse: "[...] Greer"
       - name: Uriah Blanchard Vining
         entryId: UriahB01
         entryLetter: U
@@ -77,7 +80,7 @@ childrenGroups:
           date: "1763"
           place: Tennessee
         marriages:
-          - date: Eunice Nugent
+          - spouse: Eunice Nugent
         death:
           date: 21 January 1821
           place: "Woodville, Wilkinson County, Mississippi"

@@ -33,7 +33,7 @@ childrenGroups:
           date: 9 March 1912
           place: California
         marriages:
-          - date: "[...] Williams"
+          - spouse: "[...] Williams"
         death:
           date: 7 October 2005
           place: Texas
@@ -53,7 +53,7 @@ childrenGroups:
         birth:
           date: 9 May 1916
         marriages:
-          - date: "Tennie Lee [...]"
+          - spouse: "Tennie Lee [...]"
         death:
           date: 4 January 1998
           place: Texas

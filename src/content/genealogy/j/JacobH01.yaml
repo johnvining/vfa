@@ -17,14 +17,16 @@ head:
     place: "Earlham Cemetery   Richmond, Wayne County, Indiana"
 marriages:
   - number: 1
-    date: "Catherine [...]"
     spouse:
+      givenName: Catherine
+      surname: '[...]'
       birth:
         date: age 29 y. as of 1850 census
         place: "[Massachusetts?]"
   - number: 2
-    date: Lucy Weeks Dillingham
     spouse:
+      givenName: Lucy Weeks
+      surname: Dillingham
       parents: (dau. of Edward Dillingham and Hannah Weeks)
       birth:
         date: 30 May 1821

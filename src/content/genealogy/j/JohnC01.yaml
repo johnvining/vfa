@@ -23,7 +23,7 @@ childrenGroups:
           date: "age 3 y., 9 m. as of 1920 densus"
           place: Georgia
         marriages:
-          - date: Carl Reich
+          - spouse: Carl Reich
         death:
           date: before 2 December 1911
       - name: John Carl Vining
@@ -45,7 +45,7 @@ childrenGroups:
           date: 4 February 1919
           place: Georgia
         marriages:
-          - date: Mabel Tapley
+          - spouse: Mabel Tapley
         death:
           date: 10 April 2017
       - name: William Howell Vining
@@ -53,13 +53,13 @@ childrenGroups:
           date: "age 6 y., as of 1930 census"
           place: Georgia
         marriages:
-          - date: "Annette [...]"
+          - spouse: "Annette [...]"
       - name: Gordon Vining
         birth:
           date: age 4 y. as of 1930 census
           place: Georgia
         marriages:
-          - date: "Becky [...]"
+          - spouse: "Becky [...]"
 docsUrl: Jsources/JohnC01doc.htm
 raw: |-
   <a name="JohnC01"></a><font size=+2>John Chester Vining</font>

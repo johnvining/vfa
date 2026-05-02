@@ -9,8 +9,10 @@ head:
   birth:
     date: age 55 y. as of 1881 census
 marriages:
-  - date: Rachel McLeod
-    place: b. age 38 y. as of 1881 census
+  - place: b. age 38 y. as of 1881 census
+    spouse:
+      givenName: Rachel
+      surname: McLeod
 childrenGroups:
   - children:
       - name: Sarah E. Vining

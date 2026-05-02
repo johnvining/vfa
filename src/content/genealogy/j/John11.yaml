@@ -16,8 +16,9 @@ head:
     place: "Etna Green, Indiana"
 marriages:
   - number: 1
-    date: Lucinda E. Farber
     spouse:
+      givenName: Lucinda E.
+      surname: Farber
       birth:
         date: age 29 y. at death
       death:
@@ -25,8 +26,9 @@ marriages:
       burial:
         place: "Etna Green Cemetery   Etna Green, Indiana"
   - number: 2
-    date: Lydia M. Pellett
     spouse:
+      givenName: Lydia M.
+      surname: Pellett
       parents: (dau. of Joseph Pellett and Sarah Holloway)
       birth:
         date: 16 March 1836
@@ -43,15 +45,15 @@ childrenGroups:
           date: age 24 y. as of 1880 census
           place: Indiana
         marriages:
-          - date: James Burke
+          - spouse: James Burke
       - name: Jane Vining
         birth:
           date: 28 February 1858
         marriages:
           - number: 1
-            date: Scott Farber
+            spouse: Scott Farber
           - number: 2
-            date: George Shepherd
+            spouse: George Shepherd
         death:
           date: 2 November 1944
           place: "Etna Green, Indiana"
@@ -63,9 +65,9 @@ childrenGroups:
           place: Indiana
         marriages:
           - number: 1
-            date: Anzina Figley (Morrison)
+            spouse: Anzina Figley (Morrison)
           - number: 2
-            date: Bertha Woodruff
+            spouse: Bertha Woodruff
         death:
           date: "1944"
       - name: Melissa Vining
@@ -77,7 +79,7 @@ childrenGroups:
           date: 3 March 1863
           place: Indiana
         marriages:
-          - date: Reuben Riley Bradford
+          - spouse: Reuben Riley Bradford
         death:
           date: "1944"
   - spouseRef: Lydia Pellett
@@ -102,7 +104,7 @@ childrenGroups:
           date: 29 September 1867
           place: Indiana
         marriages:
-          - date: Emma F. Dillingham
+          - spouse: Emma F. Dillingham
         death:
           date: 25 October 1937
       - name: John Franklin Vining
@@ -111,7 +113,7 @@ childrenGroups:
           date: 21 August 1872
           place: Indiana
         marriages:
-          - date: Clara Belle Hershberger
+          - spouse: Clara Belle Hershberger
         death:
           date: 2 June 1937
         burial:

@@ -52,7 +52,7 @@ childrenGroups:
           date: 15 March 1933
           place: Iowa
         marriages:
-          - date: Edward Millam
+          - spouse: Edward Millam
       - name: Kenneth Vining
         entryId: Kenneth02
         entryLetter: K
@@ -60,7 +60,7 @@ childrenGroups:
           date: 22 December 1934
           place: Iowa
         marriages:
-          - date: Diane Irene Ruch
+          - spouse: Diane Irene Ruch
   - headingText: "child by Ida Krischel"
     children:
       - name: Pamela E. Vining

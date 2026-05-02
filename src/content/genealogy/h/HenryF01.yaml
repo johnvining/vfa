@@ -61,7 +61,7 @@ childrenGroups:
         birth:
           date: 5 October 1881
         marriages:
-          - date: Charles Edwin Bolte
+          - spouse: Charles Edwin Bolte
         death:
           date: 20 September 1972
       - name: Francis Henry Vining
@@ -84,11 +84,11 @@ childrenGroups:
           date: "[16 or 14?] September 1884"
         marriages:
           - number: 1
-            date: "[...] Williams"
+            spouse: "[...] Williams"
           - number: 2
-            date: "[...] Brock"
+            spouse: "[...] Brock"
           - number: 3
-            date: Monte Scollins
+            spouse: Monte Scollins
         death:
           date: 25 July 1960
       - name: Laura May Vining
@@ -96,15 +96,15 @@ childrenGroups:
           date: "[22 March or 26 October] 1886"
         marriages:
           - number: 1
-            date: Perry Butcher
+            spouse: Perry Butcher
           - number: 2
-            date: Henry Yeager
+            spouse: Henry Yeager
       - name: Bessie Vining
         birth:
           date: 5 October 1887
         marriages:
           - number: 1
-            date: "[...]"
+            spouse: "[...]"
           - number: 2
             date: 26 December 1906
             spouse: Edward M. Bolte
@@ -131,9 +131,9 @@ childrenGroups:
           date: "28 [January or June?] 1894"
         marriages:
           - number: 1
-            date: Edith Flossie Hawkins
+            spouse: Edith Flossie Hawkins
           - number: 2
-            date: "Melvina Tower[s?]"
+            spouse: "Melvina Tower[s?]"
         death:
           date: 10 September 1960
         burial:

@@ -43,7 +43,7 @@ childrenGroups:
           date: 4 December 1904
           place: Indiana
         marriages:
-          - date: Claude Jones
+          - spouse: Claude Jones
       - name: Leland Chester Vining
         entryId: LelandC01
         entryLetter: L
@@ -51,7 +51,7 @@ childrenGroups:
           date: 21 August 1912
           place: Ohio
         marriages:
-          - date: Ruth E. Coby
+          - spouse: Ruth E. Coby
         death:
           date: 28 January 2001
           place: "(last residence: Auburndale, Florida)"

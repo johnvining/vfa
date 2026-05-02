@@ -18,8 +18,10 @@ head:
     place: "Saint Joseph Memorial Park Cemetery   Saint Joseph, Missouri"
 marriages:
   - number: 1
-    date: Margaret Beth Smith
     divorce: {}
+    spouse:
+      givenName: Margaret Beth
+      surname: Smith
   - number: 2
     date: 23 April 1994
     spouse:
@@ -29,10 +31,10 @@ childrenGroups:
   - children:
       - name: Karen Vining
         marriages:
-          - date: Larry Raines
+          - spouse: Larry Raines
       - name: Frances Vining
         marriages:
-          - date: Tom Bachman
+          - spouse: Tom Bachman
 docsUrl: Jsources/JamesR02doc.htm
 raw: |-
   <a name="JamesR02"></a><font size=+2>James Rodford Vining</font>

@@ -16,8 +16,9 @@ head:
     place: "Meeting House Hill Cemetery   West Springfield, Massachusetts"
 marriages:
   - number: 1
-    date: Bertha C. Crane
     spouse:
+      givenName: Bertha C.
+      surname: Crane
       birth:
         date: "1866"
       death:

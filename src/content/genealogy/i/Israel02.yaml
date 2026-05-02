@@ -14,7 +14,9 @@ head:
     date: 20 June 1860
 marriages:
   - number: 1
-    date: Rebecca Norton
+    spouse:
+      givenName: Rebecca
+      surname: Norton
   - number: 2
     date: 19 November 1837
     spouse:

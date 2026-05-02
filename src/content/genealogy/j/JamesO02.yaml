@@ -50,7 +50,7 @@ childrenGroups:
           date: "1901"
           place: Florida
         marriages:
-          - date: "[...] James"
+          - spouse: "[...] James"
         death:
           date: "1972"
       - name: Myrtle Vining
@@ -69,7 +69,7 @@ childrenGroups:
         birth:
           date: "1912"
         marriages:
-          - date: "[...] Morgan"
+          - spouse: "[...] Morgan"
         death:
           date: "1991"
 docsUrl: Jsources/JamesO02doc.htm

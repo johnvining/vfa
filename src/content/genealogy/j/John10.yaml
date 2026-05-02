@@ -45,7 +45,7 @@ childrenGroups:
         birth:
           date: 2 February 1840
         marriages:
-          - date: Nancy M. Richardson
+          - spouse: Nancy M. Richardson
       - name: Alonzo Haines Vining
         entryId: AlonzoH01
         entryLetter: A
@@ -89,7 +89,7 @@ childrenGroups:
         birth:
           date: 4 August 1854
         marriages:
-          - date: Elvira W. Keene
+          - spouse: Elvira W. Keene
         death:
           date: 31 December 1933
           place: "Strong, Maine"

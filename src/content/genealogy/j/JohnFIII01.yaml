@@ -32,7 +32,7 @@ childrenGroups:
         birth:
           date: 27 September 1960
         marriages:
-          - date: "[...] Muse"
+          - spouse: "[...] Muse"
       - name: Timothy Allen Vining
         birth:
           date: 12 March 1962
@@ -43,7 +43,7 @@ childrenGroups:
         birth:
           date: 20 September 1966
         marriages:
-          - date: "[...] Salmons"
+          - spouse: "[...] Salmons"
 docsUrl: Jsources/JohnFIII01doc.htm
 raw: |-
   <a name="JohnFIII01"></a><font size=+2>John Franklin Vining III</font>

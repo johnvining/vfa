@@ -14,13 +14,15 @@ head:
     date: 23 July 1945
 marriages:
   - number: 1
-    date: Vicey Hines
     spouse:
+      givenName: Vicey
+      surname: Hines
       birth:
         date: "1883"
   - number: 2
-    date: Alma Hines
     spouse:
+      givenName: Alma
+      surname: Hines
       birth:
         date: "1882"
       death:
@@ -33,7 +35,7 @@ childrenGroups:
         birth:
           date: "1901"
         marriages:
-          - date: Forrest Thomas
+          - spouse: Forrest Thomas
         death:
           date: "1984"
   - spouseRef: Alma Hines
@@ -42,7 +44,7 @@ childrenGroups:
         birth:
           date: "1904"
         marriages:
-          - date: Mable Lee Lillian Hall
+          - spouse: Mable Lee Lillian Hall
         death:
           date: "1976"
       - name: Mattie Vining

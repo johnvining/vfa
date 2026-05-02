@@ -27,7 +27,7 @@ childrenGroups:
           date: August 1835
           place: New York
         marriages:
-          - date: Harriet Decker
+          - spouse: Harriet Decker
         death:
           date: 31 March 1910
       - name: Dennison Vining
@@ -59,7 +59,7 @@ childrenGroups:
           date: age 4 y. as of 1850 census
           place: New York
         marriages:
-          - date: Willard Gilmore
+          - spouse: Willard Gilmore
       - name: Jerome Vining
         birth:
           date: age 3 y. as of 1850 census
@@ -69,7 +69,7 @@ childrenGroups:
           date: age 4 y. as of 1855
           place: New York
         marriages:
-          - date: "[...] Allen"
+          - spouse: "[...] Allen"
 docsUrl: Jsources/John09doc.htm
 raw: |-
   <a name="John09"></a><font size=+2>John Vining</font>

@@ -29,16 +29,16 @@ childrenGroups:
   - children:
       - name: Linda Vining
         marriages:
-          - date: "[...] Smith"
+          - spouse: "[...] Smith"
       - name: Jo Ann Vining
         marriages:
           - number: 1
-            date: "[...] Weeks"
+            spouse: "[...] Weeks"
           - number: 2
-            date: "[...] Williamson"
+            spouse: "[...] Williamson"
       - name: June Vining
         marriages:
-          - date: "[...] Gibson"
+          - spouse: "[...] Gibson"
       - name: Danny Vining
       - name: Douglas Vining
       - name: Jerry Vining

@@ -13,14 +13,16 @@ head:
     place: Massachusetts
 marriages:
   - number: 1
-    date: Cecelia M. Gilman
     spouse:
+      givenName: Cecelia M.
+      surname: Gilman
       birth:
         date: age 27 y. as of 1880 census
         place: Massachusetts
   - number: 2
-    date: Florence A. Ryder
     spouse:
+      givenName: Florence A.
+      surname: Ryder
       parents: "(dau. of [&#8230;] Ryder and Florence A. B. [&#8230;])"
       birth:
         date: September 1870

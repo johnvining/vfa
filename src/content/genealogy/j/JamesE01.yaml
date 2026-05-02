@@ -30,14 +30,14 @@ childrenGroups:
         birth:
           date: 2 March 1933
         marriages:
-          - date: Dorian Morley
+          - spouse: Dorian Morley
       - name: James Edward Vining Jr.
         entryId: JamesEJr01
         birth:
           date: 8 April 1935
           place: "St. Louis, Missouri"
         marriages:
-          - date: "[...] Drake"
+          - spouse: "[...] Drake"
 docsUrl: Jsources/JamesE01doc.htm
 raw: |-
   <a name="JamesE01"></a><font size=+2>James Edward Vining</font>

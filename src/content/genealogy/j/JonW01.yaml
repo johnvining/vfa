@@ -38,7 +38,7 @@ childrenGroups:
         birth:
           date: age 53 y. at death
         marriages:
-          - date: "Pam [...]"
+          - spouse: "Pam [...]"
         death:
           date: 10 April 2011
           place: "Richmond Hill, Georgia"
@@ -46,13 +46,13 @@ childrenGroups:
           place: "Richmond Hill First Baptist Church Cemetery   Richmond Hill, GA"
       - name: Nancy Vining
         marriages:
-          - date: James Jones
+          - spouse: James Jones
       - name: Vera Vining
         marriages:
-          - date: Charlie Anderson
+          - spouse: Charlie Anderson
       - name: David Vining
         marriages:
-          - date: "Traci [...]"
+          - spouse: "Traci [...]"
 docsUrl: Jsources/JonW01doc.htm
 raw: |-
   <a name="JonW01"></a><font size=+2>Jon Wayne Vining</font>

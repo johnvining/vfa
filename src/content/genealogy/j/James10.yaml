@@ -17,7 +17,7 @@ childrenGroups:
           date: 24 October 1913
           place: "Fitzgerald, Georgia"
         marriages:
-          - date: Arthur R. Williams Jr.
+          - spouse: Arthur R. Williams Jr.
         death:
           date: 16 December 2009
           place: "Greensboro, North Carolina"
@@ -25,10 +25,10 @@ childrenGroups:
           place: "Westminster Gardens   Greensboro, North Carolina"
       - name: Evelyn Vining
         marriages:
-          - date: "[...] Memory"
+          - spouse: "[...] Memory"
       - name: Rheba Vining
         marriages:
-          - date: "[...] Clark"
+          - spouse: "[...] Clark"
       - name: "Terry Vining [male]"
       - name: Jimmy Vining
 docsUrl: Jsources/James10doc.htm

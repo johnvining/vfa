@@ -22,7 +22,9 @@ marriages:
       death:
         date: before 30 July 2010
   - number: 2
-    date: "Rachel [...]"
+    spouse:
+      givenName: Rachel
+      surname: '[...]'
 childrenGroups:
   - children:
       - name: Brian James Vining
@@ -46,7 +48,7 @@ childrenGroups:
           date: 7 August 1964
       - name: Belinda Vining
         marriages:
-          - date: Andrew Trepagnier
+          - spouse: Andrew Trepagnier
 docsUrl: Isources/Isaiah01doc.htm
 raw: |-
   <a name="Isaiah01"></a><font size=+2>Isaiah Vining</font>

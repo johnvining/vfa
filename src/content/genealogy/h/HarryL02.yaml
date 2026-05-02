@@ -14,8 +14,9 @@ head:
     place: "Hennepin County, Minnesota"
 marriages:
   - number: 1
-    date: Veta L. Turcott
     spouse:
+      givenName: Veta L.
+      surname: Turcott
       parents: "(dau. of Gerge Turcott and Augusta Dudley)"
       birth:
         date: 6 June 1880
@@ -24,8 +25,9 @@ marriages:
         date: 2 May 1909
         place: "Hennepin County, Minnesota"
   - number: 2
-    date: Lucy A. Allard
     spouse:
+      givenName: Lucy A.
+      surname: Allard
       birth:
         date: 3 October 1886
         place: Minnesota
@@ -43,9 +45,9 @@ childrenGroups:
           place: "Minneapolis, Minnesota"
         marriages:
           - number: 1
-            date: Clara Catherine Allard
+            spouse: Clara Catherine Allard
           - number: 2
-            date: Edna Mae Allard
+            spouse: Edna Mae Allard
         death:
           date: 5 October 1937
           place: "Napa County, California"
@@ -61,7 +63,7 @@ childrenGroups:
           date: 18 July 1907
           place: Minnesota
         marriages:
-          - date: Francis J. Stelter
+          - spouse: Francis J. Stelter
         note: "26 February 1983   Ramsey, Minnesota"
   - headingText: "child by Lucy A. Allard"
     children:

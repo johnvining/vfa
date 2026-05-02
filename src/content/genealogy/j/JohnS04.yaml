@@ -33,7 +33,7 @@ childrenGroups:
         birth:
           date: "1886"
         marriages:
-          - date: Elva Waters
+          - spouse: Elva Waters
         death:
           date: "1958"
         burial:
@@ -42,7 +42,7 @@ childrenGroups:
       - name: Myrdie Vining
       - name: Lizzie Vining
         marriages:
-          - date: "[...] Riser"
+          - spouse: "[...] Riser"
       - name: Floy Vining
 docsUrl: Jsources/JohnS04doc.htm
 raw: |-

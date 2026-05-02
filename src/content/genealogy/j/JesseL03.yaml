@@ -15,8 +15,10 @@ head:
     date: 17 June 1950
 marriages:
   - number: 1
-    date: Lulu Hewitt
     divorce: {}
+    spouse:
+      givenName: Lulu
+      surname: Hewitt
   - number: 2
     date: 13 October 1942
     spouse:
@@ -31,9 +33,9 @@ childrenGroups:
           place: "Chetek, Wisconsin"
         marriages:
           - number: 1
-            date: George Peterson
+            spouse: George Peterson
           - number: 2
-            date: Melvin J. Swanson
+            spouse: Melvin J. Swanson
       - name: Ralph J. Vining
         birth:
           date: 5 October 1907

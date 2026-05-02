@@ -33,9 +33,9 @@ childrenGroups:
           place: Illinois
         marriages:
           - number: 1
-            date: Martin J. Walsh
+            spouse: Martin J. Walsh
           - number: 2
-            date: Frank Bandaisz
+            spouse: Frank Bandaisz
       - name: Frank Harry Vining
         entryId: FrankH01
         entryLetter: F
@@ -43,7 +43,7 @@ childrenGroups:
           date: age 33 y. as of 16 November 1946
           place: "Chicago, Illinois"
         marriages:
-          - date: Irene Mary Neumann
+          - spouse: Irene Mary Neumann
         death:
           date: 1960s
           place: "Chicago, Illinois"

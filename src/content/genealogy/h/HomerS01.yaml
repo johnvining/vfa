@@ -36,7 +36,7 @@ childrenGroups:
           date: 24 July 1906
           place: "New York, New York"
         marriages:
-          - date: Raymond A. Howard
+          - spouse: Raymond A. Howard
         death:
           date: 14 July 1968
       - name: Grace Ellen Vining
@@ -60,7 +60,7 @@ childrenGroups:
           date: 10 October 1912
           place: "Des Moines, Iowa"
         marriages:
-          - date: Henry Arthur Vaughn
+          - spouse: Henry Arthur Vaughn
         death:
           date: 1 February 1972
           place: "Ottawa, Kansas"
@@ -68,7 +68,7 @@ childrenGroups:
         birth:
           date: 6 March 1915
         marriages:
-          - date: James Hutchinson
+          - spouse: James Hutchinson
       - name: Samuel Eugene Vining
         entryId: SamuelE03
         entryLetter: S
@@ -87,7 +87,7 @@ childrenGroups:
         birth:
           date: 15 February 1920
         marriages:
-          - date: Helen Margaret Head
+          - spouse: Helen Margaret Head
         death:
           date: 8 September 1990
         burial:
@@ -106,7 +106,7 @@ childrenGroups:
           - number: 1
             date: Shirley Ann Petty (d. 1947)
           - number: 2
-            date: Ruby MacGillum
+            spouse: Ruby MacGillum
         death:
           date: 2 May 2001
           place: "(last residence: New Albany, Mississippi)"

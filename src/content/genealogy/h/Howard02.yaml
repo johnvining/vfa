@@ -17,8 +17,9 @@ head:
     place: "Limestone Cemetery   West Kankakee, Illinois"
 marriages:
   - number: 1
-    date: Rose Gross
     spouse:
+      givenName: Rose
+      surname: Gross
       birth:
         date: "1897"
       death:
@@ -27,8 +28,9 @@ marriages:
       burial:
         place: "Mound Grove Cemetery   Kankakee, Illinois"
   - number: 2
-    date: Hulda Anderson
     spouse:
+      givenName: Hulda
+      surname: Anderson
       birth:
         date: 1 August 1897
       death:
