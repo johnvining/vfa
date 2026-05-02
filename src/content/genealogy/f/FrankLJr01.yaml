@@ -1,0 +1,37 @@
+id: FrankLJr01
+sequence: 67
+letter: F
+lastUpdated: 2 May 2026
+relationship: son
+parentId: FrankL01
+parentLetter: F
+parentDesc: Frank Lathan Vining and Margaret Todd
+head:
+  givenName: Frank Lathan Jr.
+  birth:
+    date: "1920"
+    place: "Great Falls, Montana"
+  death:
+    date: "1973"
+  burial:
+    place: "Highland Cemetery   Great Falls, Montana"
+marriages:
+  - spouse:
+      givenName: Jennie Nora
+      surname: Hemstad
+childrenGroups:
+  - children:
+      - name: Judy Lae Vining
+        birth:
+          date: 7 October 1940
+          place: "Great Falls, Montana"
+        marriages:
+          - date: 14 June 1963
+            spouse: Kenneth I. Osborn
+        death:
+          date: 6 January 2026
+          place: "Randle, Washington"
+updates:
+  - date: "2026-05-02"
+    what: "created entry; added marriage to Jennie Nora Hemstad and daughter Judy Lae (b. 1940, d. 2026, m. Kenneth I. Osborn); source: obituary of Judy Lae Osborn"
+    url: "https://www.chronline.com/stories/in-loving-memory-of-judy-lae-osborn-1940-2026,395691"

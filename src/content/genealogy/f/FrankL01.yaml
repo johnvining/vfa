@@ -1,7 +1,7 @@
 id: FrankL01
 sequence: 36
 letter: F
-lastUpdated: 26 February 2023
+lastUpdated: 2 May 2026
 relationship: son
 parentId: FrankA03
 parentDesc: "Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft"
@@ -27,11 +27,13 @@ marriages:
 childrenGroups:
   - children:
       - name: Frank Lathan Vining Jr.
+        entryId: FrankLJr01
+        entryLetter: F
         birth:
           date: "1920"
           place: "Great Falls, Montana"
         marriages:
-          - date: "Jennie N. [&#8230;]"
+          - spouse: Jennie Nora Hemstad
         death:
           date: "1973"
         burial:
@@ -72,6 +74,10 @@ childrenGroups:
         burial:
           place: "Highland Cemetery   Great Falls, Montana"
 docsUrl: Fsources/FrankL01doc.htm
+updates:
+  - date: "2026-05-02"
+    what: "added wife Jennie Nora Hemstad's full name to Frank Lathan Vining Jr.'s child line; promoted him to his own entry; source: obituary of his daughter Judy Lae Osborn"
+    url: "https://www.chronline.com/stories/in-loving-memory-of-judy-lae-osborn-1940-2026,395691"
 raw: |-
   <a name="FrankL01"></a><font size=+2>Frank Lathan Vining</font>
      (son of <a href="#FrankA03">Frank Albert Vining and Jane Eliza &#8220;Jennie&#8221; Hopcroft</a>)
