@@ -143,17 +143,26 @@ childrenGroups:
         death:
           date: 22 February 1894
           place: Wisconsin
-      - name: Myrtle Esther Vining
+      - name: Myrtle Eraline Vining
         birth:
-          date: 19 June 1898
+          date: 23 June 1897
         death:
-          date: 7 January 1901
+          date: "[7 or 8?] January 1901"
         burial:
           place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
 docsUrl: Gsources/GeorgeW04doc.htm
 updates:
   - date: "2026-05-01"
     what: "corrected Myrtle Esther Vining's burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (on the original Vining family property in Frontenac, within Florence Township)"
+  - date: "2026-05-01"
+    what: "corrected name from Myrtle Esther Vining to Myrtle Eraline Vining (per death card and tombstone), birth date from 19 June 1898 to 23 June 1897 (per tombstone, corroborated by 1900 census age 2), and noted death date discrepancy 7 vs 8 January 1901 (tombstone says 7, Minnesota death card says 8)"
+    url:
+      - url: "https://www.findagrave.com/memorial/27541362/myrtle_eraline-vining/photo"
+        name: "Tombstone"
+      - url: "https://www.ancestry.com/search/collections/7602/records/75958890"
+        name: "1900 Census"
+      - url: "https://www.ironrangeresearchcenter.org/details/8/105181/"
+        name: "Death Card"
 raw: |-
   <a name="GeorgeW04"></a><font size=+2>George Washington Vining</font>
      (son of <a href="Dfamilies.htm#DavidH01">David H. Vining and Rocksy Susan Edwards</a>)
