@@ -89,15 +89,33 @@ type NewsItem = {
   month: string;
   Content: any;
 };
+type GeneGroup = { id: string; letter: string; name: string; whats: string[] };
 type GeneItem = {
   kind: 'gene';
   showSeasonHeader: false;
   season: '';
   showMonthHeader: boolean;
   month: string;
-  updates: GeneUpdate[];
+  groups: GeneGroup[];
   thanks: string[];
 };
+
+// Combine multiple updates for the same headname within a month into one entry,
+// preserving the order in which the first update for each headname appeared.
+function groupUpdatesByEntry(updates: GeneUpdate[]): GeneGroup[] {
+  const seen = new Map<string, number>();
+  const out: GeneGroup[] = [];
+  for (const u of updates) {
+    const idx = seen.get(u.id);
+    if (idx === undefined) {
+      seen.set(u.id, out.length);
+      out.push({ id: u.id, letter: u.letter, name: u.name, whats: u.what ? [u.what] : [] });
+    } else if (u.what) {
+      out[idx].whats.push(u.what);
+    }
+  }
+  return out;
+}
 type RenderItem = NewsItem | GeneItem;
 
 const renderItems: RenderItem[] = [];
@@ -117,7 +135,8 @@ for (const event of events) {
     const showMonthHeader = month !== lastMonth;
     if (showMonthHeader) lastMonth = month;
     const thanks = [...new Set(event.updates.map(u => u.thanks).filter(Boolean) as string[])];
-    renderItems.push({ kind: 'gene', showSeasonHeader: false, season: '', showMonthHeader, month, updates: event.updates, thanks });
+    const groups = groupUpdatesByEntry(event.updates);
+    renderItems.push({ kind: 'gene', showSeasonHeader: false, season: '', showMonthHeader, month, groups, thanks });
   }
 }
 ---
@@ -138,12 +157,12 @@ for (const event of events) {
     {item.kind === 'gene' && (
       <div class="gene-updates">
         <p>We've made the following updates to the online genealogy this month:</p>
-        {item.updates.map(u => (
+        {item.groups.map(g => (
           <div class="gene-updates-entry">
-            <a href={`Viningfamilies/${u.letter}families.htm#${u.id}`}>{u.name}</a>
-            {u.what
-              ? <Fragment> &#8212; {u.what}{!u.what.endsWith('.') && '.'}</Fragment>
-              : '.'}
+            <a href={`Viningfamilies/${g.letter}families.htm#${g.id}`}>{g.name}</a>
+            {g.whats.length === 0
+              ? '.'
+              : <Fragment> &#8212; {g.whats.map(w => w.replace(/\.$/, '')).join('; ')}.</Fragment>}
           </div>
         ))}
         {item.thanks.length > 0 && (
