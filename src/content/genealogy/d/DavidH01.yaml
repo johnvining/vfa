@@ -23,7 +23,7 @@ marriages:
       givenName: Rocksy Susan
       surname: Edwards
       birth:
-        date: "1819"
+        date: 23 August 1819
         place: Pennsylvania
       death:
         date: 15 January 1874
@@ -130,6 +130,15 @@ updates:
     url:
       - url: "https://www.findagrave.com/memorial/27541371/otis-a-vining"
         name: "Tombstone"
+  - date: "2026-05-01"
+    what: "refined Rocksy Susan (Edwards) Vining's birth date from 1819 to 23 August 1819 per tombstone inscription, corroborated by 1860 census (age 41) and 1870 census (age 51) in the David H. Vining household"
+    url:
+      - url: "https://www.findagrave.com/memorial/27541378/rocksy-susan-vining"
+        name: "Tombstone"
+      - url: "https://www.ancestry.com/search/collections/7667/records/45477613"
+        name: "1860 Census"
+      - url: "https://www.ancestry.com/search/collections/7163/records/41941535"
+        name: "1870 Census"
 raw: |-
   <a name="DavidH01"></a><font size=+2>David H. Vining</font>
      (son of <a href="#DavidJr02">David Vining Jr. and Hannah Husted</a>)
