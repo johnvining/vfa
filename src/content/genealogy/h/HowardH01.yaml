@@ -1,10 +1,12 @@
 id: HowardH01
 letter: H
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-01"
 updates:
   - date: "2026-04-29"
     what: "added Augusta's maiden name Gaetke; source: Findagrave record, contributed by Jean Vining Springer"
     url: "https://www.findagrave.com/memorial/43390292/augusta-marie-alexander"
+  - date: "2026-05-01"
+    what: "added marriage date 20 December 1969 for Lorna Ione Vining and Orville Redding; added September 1957 for Virginia Mae Vining and Gordon Genz; contributed by Jean Vining Springer"
 relationship: son
 parentId: OscarD01
 parentLetter: O
@@ -38,13 +40,14 @@ childrenGroups:
           date: 28 August 1937
           place: "Ramsey County, Minnesota"
         marriages:
-          - date: Gordon Genz
+          - date: September 1957
+            spouse: Gordon Genz
       - name: Lorna Ione Vining
         birth:
           date: 18 January 1940
           place: "Ramsey County, Minnesota"
         marriages:
-          - date: "[1967?]"
+          - date: 20 December 1969
             spouse: Orville Redding
       - name: Paul Howard Vining
         entryId: PaulH01
