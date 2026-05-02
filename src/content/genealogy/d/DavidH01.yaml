@@ -110,7 +110,7 @@ childrenGroups:
           place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
       - name: Charles D. Vining
         birth:
-          date: July 1858
+          date: 9 July 1858
           place: "Florence, Minnesota"
         death:
           date: 19 April 1861
@@ -120,6 +120,9 @@ docsUrl: Dsources/DavidH01doc.htm
 updates:
   - date: "2026-05-01"
     what: "corrected burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (cemetery is on the original Vining family property in Frontenac, within Florence Township)"
+  - date: "2026-05-01"
+    what: "refined Charles D. Vining's birth date from July 1858 to 9 July 1858 (derived from age-at-death on tombstone)"
+    url: "https://www.findagrave.com/memorial/27541325/charles-d-vining"
 raw: |-
   <a name="DavidH01"></a><font size=+2>David H. Vining</font>
      (son of <a href="#DavidJr02">David Vining Jr. and Hannah Husted</a>)
