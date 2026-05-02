@@ -31,7 +31,7 @@ childrenGroups:
           date: 5 July 1945
           place: "Baraboo, Wisconsin"
         marriages:
-          - date: Dorothy Ann Cook
+          - spouse: Dorothy Ann Cook
       - name: David Vern Vining
         birth:
           date: 4 December 1948
@@ -40,7 +40,7 @@ childrenGroups:
         birth:
           date: 4 March 1951
         marriages:
-          - date: "[...] Fry"
+          - spouse: "[...] Fry"
       - name: Linda Sue Vining
         entryId: LindaS01
         entryLetter: L

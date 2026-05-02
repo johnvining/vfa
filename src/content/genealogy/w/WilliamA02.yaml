@@ -34,7 +34,7 @@ childrenGroups:
         birth:
           date: 21 August 1961
         marriages:
-          - date: David Eckstrand
+          - spouse: David Eckstrand
       - name: Kimberly Anne Vining
         birth:
           date: 13 January 1963
@@ -42,10 +42,10 @@ childrenGroups:
           date: before 26 November 2021
       - name: William Vining
         marriages:
-          - date: Kathy Kosciolek
+          - spouse: Kathy Kosciolek
       - name: Robin Vining
         marriages:
-          - date: Peter Nowak
+          - spouse: Peter Nowak
 docsUrl: Wsources/WilliamA02doc.htm
 raw: |-
   <a name="WilliamA02"></a><font size=+2>William Albert Vining</font>

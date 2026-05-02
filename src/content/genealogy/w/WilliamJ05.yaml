@@ -33,7 +33,7 @@ childrenGroups:
           - date: "Joanne [&#8230;]"
       - name: Arlene Vining
         marriages:
-          - date: Hugh Hairston
+          - spouse: Hugh Hairston
       - name: William Vining
         marriages:
           - date: "Meredith [&#8230;]"
@@ -47,7 +47,7 @@ childrenGroups:
           date: 12 October 1950
           place: "Malden, Massachusetts"
         marriages:
-          - date: Mona L. Griffin
+          - spouse: Mona L. Griffin
         death:
           date: 5 December 2014
 docsUrl: Wsources/WilliamJ05doc.htm

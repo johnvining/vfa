@@ -16,10 +16,13 @@ head:
     place: "Deaver Cemetery   Nebraska"
 marriages:
   - number: 1
-    date: Anzina Figley (Morrison)
-  - number: 2
-    date: Bertha Woodruff
     spouse:
+      givenName: Anzina Figley
+      surname: (Morrison)
+  - number: 2
+    spouse:
+      givenName: Bertha
+      surname: Woodruff
       birth:
         date: "1875"
       death:
@@ -40,7 +43,7 @@ childrenGroups:
             date: 31 January 1912
             spouse: "Anna Banta (d. 1947)"
           - number: 2
-            date: Lou Weimer (Ellis)
+            spouse: Lou Weimer (Ellis)
         death:
           date: 22 April 1960
           place: "Willshire, Ohio"

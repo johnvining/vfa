@@ -34,7 +34,7 @@ childrenGroups:
         birth:
           date: February 1969
         marriages:
-          - date: Kevin Shaughnessy
+          - spouse: Kevin Shaughnessy
   - headingText: child by Lena Granger
     children:
       - name: Stephanie Rene Vining
@@ -42,7 +42,7 @@ childrenGroups:
           date: 28 May 1985
           place: "Carlsbad, New Mexico"
         marriages:
-          - date: Justin Hughes
+          - spouse: Justin Hughes
 docsUrl: Tsources/ThomasW03doc.htm
 raw: |-
   <a name="ThomasW03"></a><font size=+2>Thomas William Vining</font>

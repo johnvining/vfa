@@ -17,10 +17,13 @@ head:
     place: "Woodlawn Cemetery   Pomona, Kansas"
 marriages:
   - number: 1
-    date: Lois Murphy
-  - number: 2
-    date: Ruthann H. VanDeVeer
     spouse:
+      givenName: Lois
+      surname: Murphy
+  - number: 2
+    spouse:
+      givenName: Ruthann H.
+      surname: VanDeVeer
       birth:
         date: 15 February 1936
 childrenGroups:
@@ -30,7 +33,7 @@ childrenGroups:
         birth:
           date: 26 February 1954
         marriages:
-          - date: "[...] Edwards"
+          - spouse: "[...] Edwards"
       - name: Leslie Dean Vining
         entryId: LeslieD01
         entryLetter: L
@@ -38,7 +41,7 @@ childrenGroups:
           date: 19 January 1957
           place: "Topeka, Shawnee County, Kansas"
         marriages:
-          - date: Teresa Lynn Stubbs
+          - spouse: Teresa Lynn Stubbs
         death:
           date: 6 February 2014
           place: "Topeka, Shawnee County, Kansas"

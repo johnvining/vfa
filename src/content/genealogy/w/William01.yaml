@@ -33,7 +33,7 @@ childrenGroups:
     children:
       - name: Frances Vining
         marriages:
-          - date: "[...] Spring"
+          - spouse: "[...] Spring"
   - headingText: children by Huldah Pinney
     children:
       - name: Huldah May Vining
@@ -85,7 +85,7 @@ childrenGroups:
           date: 16 April 1813
           place: "Worthington, Ohio"
         marriages:
-          - date: Sarah J. Clark
+          - spouse: Sarah J. Clark
         death:
           date: 5 December 1871
           place: "Worthington, Ohio"

@@ -32,14 +32,14 @@ childrenGroups:
         birth:
           date: "1924"
         marriages:
-          - date: "[...] Everett"
+          - spouse: "[...] Everett"
         death:
           date: "2007"
       - name: Laura May Vining
         birth:
           date: 18 February 1927
         marriages:
-          - date: Bill East
+          - spouse: Bill East
         death:
           date: 20 November 2007
         burial:
@@ -50,7 +50,7 @@ childrenGroups:
           date: 10 August 1930
           place: "Forest, Louisiana"
         marriages:
-          - date: Bernice Jones
+          - spouse: Bernice Jones
         death:
           date: 29 November 2012
           place: "Farmerville, Louisiana"
@@ -60,7 +60,7 @@ childrenGroups:
         birth:
           date: "1932"
         marriages:
-          - date: "[...] Brown"
+          - spouse: "[...] Brown"
         death:
           date: "1978"
 raw: |-

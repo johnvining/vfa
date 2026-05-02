@@ -41,7 +41,7 @@ childrenGroups:
           date: 18 April 1895
           place: South Carolina
         marriages:
-          - date: Mary Ellen Blume
+          - spouse: Mary Ellen Blume
         death:
           date: July 1967
         burial:
@@ -53,7 +53,7 @@ childrenGroups:
           date: December 1896
           place: South Carolina
         marriages:
-          - date: Frances Margaret Price
+          - spouse: Frances Margaret Price
       - name: Thomas Manton Vining
         entryId: ThomasM01
         birth:
@@ -70,7 +70,7 @@ childrenGroups:
           date: 4 March 1900
           place: South Carolina
         marriages:
-          - date: Lucinda Trexler
+          - spouse: Lucinda Trexler
         death:
           date: 17 March 1977
         burial:
@@ -85,7 +85,7 @@ childrenGroups:
           date: "1902"
           place: South Carolina
         marriages:
-          - date: Robert Lee Terry
+          - spouse: Robert Lee Terry
         death:
           date: "1973"
       - name: Roberta May Vining
@@ -93,7 +93,7 @@ childrenGroups:
           date: "1908"
           place: South Carolina
         marriages:
-          - date: Findley Guess
+          - spouse: Findley Guess
         death:
           date: "1973"
 docsUrl: Tsources/ThomasR02doc.htm

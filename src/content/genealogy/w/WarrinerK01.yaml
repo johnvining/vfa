@@ -42,10 +42,10 @@ childrenGroups:
       - name: Edith Estella Vining
       - name: Flora Amelia Vining
         marriages:
-          - date: "[...] Arms"
+          - spouse: "[...] Arms"
       - name: Rose Belle Vining
         marriages:
-          - date: "[...] Tabor"
+          - spouse: "[...] Tabor"
       - name: Florence Clara Vining
         birth:
           date: "1878"
@@ -67,15 +67,15 @@ childrenGroups:
           place: "Bozrah Cemetery   Hawley, Massachusetts"
       - name: Cheri Emily Vining
         marriages:
-          - date: "[...] Dadmun"
+          - spouse: "[...] Dadmun"
   - headingText: child by Rosie Belle Hubbard
     children:
       - name: Doris Elizabeth Vining
         marriages:
           - number: 1
-            date: "[...] Bliss"
+            spouse: "[...] Bliss"
           - number: 2
-            date: "[...] Norris"
+            spouse: "[...] Norris"
 docsUrl: Wsources/WarrinerK01doc.htm
 raw: |-
   <a name="WarrinerK01"></a><font size=+2>Warriner King Vining</font>

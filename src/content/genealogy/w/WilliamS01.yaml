@@ -51,7 +51,7 @@ childrenGroups:
           date: 10 January 1889
           place: "Atlanta, Georgia"
         marriages:
-          - date: "Lillie [...]"
+          - spouse: "Lillie [...]"
         death:
           date: 12 October 1958
           place: "Atlanta, Georgia"
@@ -62,7 +62,7 @@ childrenGroups:
           date: 6 August 1893
           place: "Atlanta, Georgia"
         marriages:
-          - date: Oscar Kelly
+          - spouse: Oscar Kelly
         death:
           date: 16 May 1961
           place: "Atlanta, Georgia"
@@ -93,9 +93,9 @@ childrenGroups:
           place: "Atlanta, Georgia"
         marriages:
           - number: 1
-            date: Edna Mulkey
+            spouse: Edna Mulkey
           - number: 2
-            date: Lorene Wade
+            spouse: Lorene Wade
         death:
           date: 3 January 1973
           place: "Pinellas, Florida"
@@ -133,7 +133,7 @@ childrenGroups:
           place: "Atlanta, Georgia"
         marriages:
           - number: 1
-            date: John Thomas Kimbell
+            spouse: John Thomas Kimbell
           - number: 2
             date: 3 July 1940
             place: "Madison, Georgia"

@@ -17,8 +17,9 @@ head:
     place: "Riverside Cemetery   Charles City, Iowa"
 marriages:
   - number: 1
-    date: Joan Elaine Lockwood
     spouse:
+      givenName: Joan Elaine
+      surname: Lockwood
       birth:
         date: 23 April 1940
         place: "Marble Rock, Iowa"

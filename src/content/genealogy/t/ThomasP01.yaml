@@ -30,7 +30,7 @@ childrenGroups:
         birth:
           date: 16/17 January 1809
         marriages:
-          - date: John Potter
+          - spouse: John Potter
         death:
           date: 1 March 1846
         burial:
@@ -42,7 +42,7 @@ childrenGroups:
           date: age 45 y. as of 1855
           place: New York
         marriages:
-          - date: Adeliza Atwood
+          - spouse: Adeliza Atwood
       - name: Samuel D. Vining
         entryId: SamuelD01
         entryLetter: S
@@ -50,7 +50,7 @@ childrenGroups:
           date: age 39 y. as of 1855
           place: New York
         marriages:
-          - date: "Lovinia [...]"
+          - spouse: "Lovinia [...]"
       - name: Laura Vining
         birth:
           date: ca. 1821
@@ -78,7 +78,7 @@ childrenGroups:
           date: 12 May 1828
           place: "Taylor Township, New York"
         marriages:
-          - date: Howard Henry
+          - spouse: Howard Henry
         death:
           date: 16 April 1914
           place: "Powhuska, Oklahoma"
@@ -87,7 +87,7 @@ childrenGroups:
           date: February 1829
           place: New York
         marriages:
-          - date: Hiram Henry
+          - spouse: Hiram Henry
         death:
           date: 7 July 1869
         burial:

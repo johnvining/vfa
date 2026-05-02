@@ -30,7 +30,7 @@ childrenGroups:
         birth:
           date: "1920"
         marriages:
-          - date: Mary Louise
+          - spouse: Mary Louise
       - name: Emma Beatrice Vining
         birth:
           date: "1922"
@@ -42,7 +42,7 @@ childrenGroups:
         birth:
           date: 21 February 1923
         marriages:
-          - date: Alice Outlaw
+          - spouse: Alice Outlaw
         death:
           date: 16 August 1995
         burial:
@@ -51,12 +51,12 @@ childrenGroups:
         birth:
           date: "1924"
         marriages:
-          - date: LeRoy Spires
+          - spouse: LeRoy Spires
       - name: "[Ella or Eula] Mae Vining"
         birth:
           date: "1926"
         marriages:
-          - date: Harold Shealy
+          - spouse: Harold Shealy
       - name: Rudolph Vining
         entryId: Rudolph01
         entryLetter: R
@@ -64,14 +64,14 @@ childrenGroups:
           date: "1930"
           place: "Greeleyville, South Carolina"
         marriages:
-          - date: Betty Lee Glenn
+          - spouse: Betty Lee Glenn
         death:
           date: 28 June 2013
       - name: Betty Joan Vining
         birth:
           date: "1933"
         marriages:
-          - date: Spencer Eugene Douglas
+          - spouse: Spencer Eugene Douglas
 docsUrl: Tsources/ThomasM01doc.htm
 raw: |-
   <a name="ThomasM01"></a><font size=+2>Thomas Manton Vining</font>

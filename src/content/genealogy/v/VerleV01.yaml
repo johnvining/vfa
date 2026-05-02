@@ -36,9 +36,9 @@ childrenGroups:
           date: 4 April 1948
         marriages:
           - number: 1
-            date: "[...] Kallas"
+            spouse: "[...] Kallas"
           - number: 2
-            date: Glenn Troost
+            spouse: Glenn Troost
       - name: James DuWayne Vining
         entryId: JamesD01
         entryLetter: J
@@ -47,9 +47,9 @@ childrenGroups:
           place: "Berlin, Wisconsin"
         marriages:
           - number: 1
-            date: "[...] Gozinski"
+            spouse: "[...] Gozinski"
           - number: 2
-            date: "[...] Berry"
+            spouse: "[...] Berry"
         death:
           date: 6 October 1982
           place: "Marshfield, Wisconsin"
@@ -68,7 +68,7 @@ childrenGroups:
         birth:
           date: 13 September 1954
         marriages:
-          - date: Kenneth Disterhaft
+          - spouse: Kenneth Disterhaft
       - name: Jane Marie Ellen Vining
         birth:
           date: 3 December 1956
@@ -76,7 +76,7 @@ childrenGroups:
         birth:
           date: 28 August 1959
         marriages:
-          - date: Victoria Miller
+          - spouse: Victoria Miller
 docsUrl: Vsources/VerleV01doc.htm
 raw: |-
   <a name="VerleV01"></a><font size=+2>Verle Vernon Vining</font>

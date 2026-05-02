@@ -33,9 +33,9 @@ childrenGroups:
           date: 17 September 1903
         marriages:
           - number: 1
-            date: Louise Chatfield
+            spouse: Louise Chatfield
           - number: 2
-            date: Marguerite Frasier
+            spouse: Marguerite Frasier
         death:
           date: October 1976
           place: "(last residence: Maplecrest, New York)"
@@ -45,7 +45,7 @@ childrenGroups:
         birth:
           date: 30 November 1905
         marriages:
-          - date: Kenneth Stewart
+          - spouse: Kenneth Stewart
         death:
           date: "1964"
           place: "Maplecrest, New York"
@@ -55,7 +55,7 @@ childrenGroups:
         birth:
           date: 5 June 1908
         marriages:
-          - date: Thelma A. Swanker
+          - spouse: Thelma A. Swanker
         death:
           date: 18 September 2003
           place: "(last residence: Maplecrest, New York)"

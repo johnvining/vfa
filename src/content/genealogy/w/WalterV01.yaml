@@ -33,7 +33,7 @@ childrenGroups:
           date: 1 June 1917
           place: "Windham, New York"
         marriages:
-          - date: Theresa Esposito
+          - spouse: Theresa Esposito
         death:
           date: 31 October 1969
           place: "Albany, New York"
@@ -49,9 +49,9 @@ childrenGroups:
           date: 3 November 1922
         marriages:
           - number: 1
-            date: William J. Bulmer
+            spouse: William J. Bulmer
           - number: 2
-            date: Arthur North
+            spouse: Arthur North
 docsUrl: Wsources/WalterV01doc.htm
 raw: |-
   <a name="WalterV01"></a><font size=+2>Walter V. Vining</font>

@@ -42,7 +42,7 @@ childrenGroups:
           date: 19 January 1870
           place: "Pardeeville, Wisconsin"
         marriages:
-          - date: Elisha Bailey Jr.
+          - spouse: Elisha Bailey Jr.
         death:
           date: 1 November 1956
       - name: Florence Miami Vining
@@ -61,7 +61,7 @@ childrenGroups:
           date: "1874"
           place: "Elmore, Minnesota"
         marriages:
-          - date: Edgar Smith
+          - spouse: Edgar Smith
         death:
           date: "1895"
           place: "Elmore, Minnesota"
@@ -70,7 +70,7 @@ childrenGroups:
           date: 3 May 1877
           place: "Elmore, Minnesota"
         marriages:
-          - date: Albert Yetter
+          - spouse: Albert Yetter
         death:
           date: 3 November 1918
       - name: Catherine Vining
@@ -78,7 +78,7 @@ childrenGroups:
           date: March 1878
           place: "Elmore, Minnesota"
         marriages:
-          - date: Andrew Marion Schneider
+          - spouse: Andrew Marion Schneider
         death:
           date: "1907"
       - name: "Edward Harrison &#8220;Harry&#8221; Vining"
@@ -92,7 +92,7 @@ childrenGroups:
             spouse: Mary Ella Chapman
             divorce: {}
           - number: 2
-            date: Lillian Dudley
+            spouse: Lillian Dudley
         death:
           date: 21 September 1964
           place: "Mason City, Iowa"
@@ -102,9 +102,9 @@ childrenGroups:
           place: "Elmore, Minnesota"
         marriages:
           - number: 1
-            date: Guy Delbert McDermott
+            spouse: Guy Delbert McDermott
           - number: 2
-            date: Engelbert Knudson
+            spouse: Engelbert Knudson
         death:
           date: "1945"
       - name: "Elnora &@8220;Ella&#8221; Vining"
@@ -124,7 +124,7 @@ childrenGroups:
         birth:
           date: 17 January 1892
         marriages:
-          - date: Elmer Mars
+          - spouse: Elmer Mars
         death:
           date: 16 September 1960
 docsUrl: Wsources/WilliamH02doc.htm

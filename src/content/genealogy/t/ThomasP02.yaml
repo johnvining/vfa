@@ -42,7 +42,7 @@ childrenGroups:
         birth:
           date: ca. 1868
         marriages:
-          - date: H. C. Price
+          - spouse: H. C. Price
         death:
           date: "Chicago, Illinois"
   - spouseRef: Elnora Baker Laurence
@@ -61,7 +61,7 @@ childrenGroups:
           place: "Chicago, Illinois"
       - name: Cora Vining
         marriages:
-          - date: "[...] Hale"
+          - spouse: "[...] Hale"
         death:
           date: "[Delaware, Ohio?]"
 docsUrl: Tsources/ThomasP02doc.htm

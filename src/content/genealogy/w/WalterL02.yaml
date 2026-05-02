@@ -40,7 +40,7 @@ childrenGroups:
           date: 24 July 1931
           place: "Kirkland, Georgia"
         marriages:
-          - date: Joanne Farmer
+          - spouse: Joanne Farmer
         death:
           date: 5 February 1992
           place: "Atlanta, Georgia"
@@ -55,7 +55,7 @@ childrenGroups:
             spouse: James Curtis Treadwell
             divorce: {}
           - number: 2
-            date: Domingo Layton Stewart
+            spouse: Domingo Layton Stewart
 docsUrl: Wsources/WalterL02doc.htm
 raw: |-
   <a name="WalterL02"></a><font size=+2>Walter Laffette Vining</font>

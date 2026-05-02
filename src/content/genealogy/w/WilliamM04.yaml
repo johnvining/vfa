@@ -33,7 +33,7 @@ childrenGroups:
           date: 21 April 1916
           place: New Jersey
         marriages:
-          - date: Grace Haines
+          - spouse: Grace Haines
         death:
           date: 26 May 1966
         burial:
@@ -53,16 +53,16 @@ childrenGroups:
           date: age 8 y. as of 1930 census
           place: Pennsylvania
         marriages:
-          - date: Saint Williamson
+          - spouse: Saint Williamson
       - name: Eva Vining
         birth:
           date: "age 1 y., 2 m. as of 1930 census"
           place: Pennsylvania
         marriages:
           - number: 1
-            date: George Norcross
+            spouse: George Norcross
           - number: 2
-            date: Edward Ross
+            spouse: Edward Ross
       - name: Earle Vining
         birth:
           date: age 9 y. as of 1940 census

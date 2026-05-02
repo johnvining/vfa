@@ -33,7 +33,7 @@ childrenGroups:
         birth:
           date: 24 April 1887
         marriages:
-          - date: Jennie Worden
+          - spouse: Jennie Worden
         death:
           date: 25 June 1958
           place: "South Windsor, New York"
@@ -44,7 +44,7 @@ childrenGroups:
           date: 30 May 1889
           place: New York
         marriages:
-          - date: Harriet Euterpe Nash
+          - spouse: Harriet Euterpe Nash
         death:
           date: 12 October 1969
       - name: Guy Ellsworth Vining
@@ -66,9 +66,9 @@ childrenGroups:
           date: 18 January 1896
         marriages:
           - number: 1
-            date: John Benjamin Morgan
+            spouse: John Benjamin Morgan
           - number: 2
-            date: Herbert Rooks
+            spouse: Herbert Rooks
         death:
           date: "1971"
       - name: Millis Vining
@@ -78,11 +78,11 @@ childrenGroups:
           date: 1 July 1900
         marriages:
           - number: 1
-            date: Bernice G. Powell
+            spouse: Bernice G. Powell
           - number: 2
-            date: Norma I. Wilson
+            spouse: Norma I. Wilson
           - number: 3
-            date: Margaret H. Bollman
+            spouse: Margaret H. Bollman
         death:
           date: "1991"
         burial:
@@ -94,7 +94,7 @@ childrenGroups:
           date: 5 November 1903
           place: "Binghamton, New York"
         marriages:
-          - date: Erma Eloise Merrill
+          - spouse: Erma Eloise Merrill
         death:
           date: February 1978
           place: "(last residence: Binghamton, New York)"
@@ -103,7 +103,7 @@ childrenGroups:
           date: 5 November 1903
           place: "Binghamton, New York"
         marriages:
-          - date: Harvey Noble Bliss
+          - spouse: Harvey Noble Bliss
 docsUrl: Wsources/WilliamA01doc.htm
 raw: |-
   <a name="WilliamA01"></a><font size=+2>William Albert Vining</font>

@@ -11,8 +11,9 @@ head:
     date: 26 July 1934
 marriages:
   - number: 1
-    date: Patsy Stanfill
     spouse:
+      givenName: Patsy
+      surname: Stanfill
       death:
         date: 15 June 1996
   - number: 2
@@ -27,14 +28,14 @@ childrenGroups:
         birth:
           date: 12 August 1958
         marriages:
-          - date: "Lisa [...]"
+          - spouse: "Lisa [...]"
       - name: James David Vining
         entryId: JamesD02
         entryLetter: J
         birth:
           date: 31 January 1960
         marriages:
-          - date: "Gail [...]"
+          - spouse: "Gail [...]"
       - name: Debra Sue Vining
         birth:
           date: 28 July 1961

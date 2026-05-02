@@ -18,8 +18,9 @@ head:
     place: "Oak Grove Cemetery   Napoleon, Michigan"
 marriages:
   - number: 1
-    date: Minnie Gary
     spouse:
+      givenName: Minnie
+      surname: Gary
       parents: "(dau. of Hugh H. Gary and Minnie B. [...])"
       birth:
         date: "age 21 y. as of 1920 census"
@@ -27,7 +28,9 @@ marriages:
       death:
         date: "1939"
   - number: 2
-    date: Dorothy Chamberlain
+    spouse:
+      givenName: Dorothy
+      surname: Chamberlain
 childrenGroups:
   - headingText: child by Minnie Gary
     children:

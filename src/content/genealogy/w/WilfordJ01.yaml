@@ -15,14 +15,17 @@ head:
     place: "Brownsville, Texas"
 marriages:
   - number: 1
-    date: Aurora Helen Grunow
     spouse:
+      givenName: Aurora Helen
+      surname: Grunow
       parents: "(dau. of Martin Herman Grunow and Agnes Catherine Gensmer)"
       birth:
         date: 2 April 1916
         place: "Horicon, Wisconsin"
   - number: 2
-    date: Bobbie Ruth Cooper
+    spouse:
+      givenName: Bobbie Ruth
+      surname: Cooper
 childrenGroups:
   - headingText: child by Aurora Helen Grunow
     children:
@@ -32,7 +35,7 @@ childrenGroups:
         birth:
           date: 8 August 1937
         marriages:
-          - date: Shirley Lillian Totten
+          - spouse: Shirley Lillian Totten
   - headingText: children by Bobbie Ruth Cooper
     children:
       - name: Patricia Sue Vining
@@ -40,19 +43,19 @@ childrenGroups:
           date: "1947"
         marriages:
           - number: 1
-            date: Ray Kophf
+            spouse: Ray Kophf
           - number: 2
-            date: Rick Stearns
+            spouse: Rick Stearns
       - name: Theresa Katherine Ann Vining
         birth:
           date: "1948"
         marriages:
-          - date: Pat Myers
+          - spouse: Pat Myers
       - name: Joan Edna Vining
         birth:
           date: "1949"
         marriages:
-          - date: Ronald Lee Spicer
+          - spouse: Ronald Lee Spicer
 raw: |-
   <a name="WilfordJ01"></a><font size=+2>Wilford Jesse Vining</font>
      (son of <a href="#WilfordB01">Wilford Benjamin Vining and Edna Peters</a>)

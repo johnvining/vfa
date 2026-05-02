@@ -51,7 +51,7 @@ childrenGroups:
         birth:
           date: "1792"
         marriages:
-          - date: George Campbell
+          - spouse: George Campbell
         death:
           date: "1823"
       - name: Wade Hampton Vining
@@ -88,7 +88,7 @@ childrenGroups:
             date: 13 August 1817
             spouse: Ezekiel Ford (d. 1 May 1839)
           - number: 2
-            date: John Moseley
+            spouse: John Moseley
         death:
           date: "1844"
           place: "Madison County, Alabama"

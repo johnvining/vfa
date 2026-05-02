@@ -44,14 +44,14 @@ childrenGroups:
           date: "1896"
           place: Iowa
         marriages:
-          - date: Randy Mansager
+          - spouse: Randy Mansager
         death:
           date: Jewell, Iowa
   - spouseRef: Elizabeth Bainbridge
     children:
       - name: Wilda Vining
         marriages:
-          - date: Fred Wingert
+          - spouse: Fred Wingert
       - name: Frank Arnold Vining
         entryId: FrankA02
         entryLetter: F

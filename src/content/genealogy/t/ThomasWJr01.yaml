@@ -55,7 +55,7 @@ childrenGroups:
           date: age 4 y. as of 1860 census
           place: Arkansas
         marriages:
-          - date: James Evin Bradshaw
+          - spouse: James Evin Bradshaw
         death:
           date: ca. 1894
           place: Arkansas
@@ -108,7 +108,7 @@ childrenGroups:
           date: 27 December 1886
         marriages:
           - number: 1
-            date: Oklahoma
+            spouse: Oklahoma
           - number: 2
             date: "1936"
             spouse: Anita Vogt

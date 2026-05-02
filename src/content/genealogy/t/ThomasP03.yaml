@@ -79,7 +79,7 @@ childrenGroups:
           place: "Liberty Township, Michigan"
         marriages:
           - number: 1
-            date: Robert Birch
+            spouse: Robert Birch
           - number: 2
             date: 6 January 1912
             spouse: Charles Davis
@@ -115,7 +115,7 @@ childrenGroups:
           date: 14 February 1902
           place: Michigan
         marriages:
-          - date: Virginia Harmer
+          - spouse: Virginia Harmer
         death:
           date: November 1971
           place: "(last residence: Traverse City, Michigan)"
@@ -131,7 +131,7 @@ childrenGroups:
             spouse: Walter Morton
             divorce: {}
           - number: 3
-            date: Wilbert Norring
+            spouse: Wilbert Norring
         death:
           date: 20 July 1989
           place: "Jackson, Michigan"

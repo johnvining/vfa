@@ -9,9 +9,13 @@ head:
   givenName: William Henry Jr.
 marriages:
   - number: 1
-    date: Daunine Mae Hagman
+    spouse:
+      givenName: Daunine Mae
+      surname: Hagman
   - number: 2
-    date: "[...] Kamile"
+    spouse:
+      givenName: '[...]'
+      surname: Kamile
 childrenGroups:
   - headingText: child by Daunine Mae Hagman
     children:
