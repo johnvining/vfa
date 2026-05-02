@@ -11,8 +11,9 @@ head:
     date: 21 June 1904
     place: "Cummington, Massachusetts"
 marriages:
-  - date: Cuba
-    place: "Mercedes [...]"
+  - place: "Mercedes [...]"
+    spouse:
+      givenName: Cuba
 childrenGroups:
   - children:
       - name: Dorothy Elizabeth Vining

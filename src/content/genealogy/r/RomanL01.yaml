@@ -15,9 +15,13 @@ head:
     place: "(last residence: Albuquerque, New Mexico)"
 marriages:
   - number: 1
-    date: Nancy Lou Tidmore
+    spouse:
+      givenName: Nancy Lou
+      surname: Tidmore
   - number: 2
-    date: Margaret Kemp
+    spouse:
+      givenName: Margaret
+      surname: Kemp
 childrenGroups:
   - spouseRef: Nancy Lou Tidmore
     children:

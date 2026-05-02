@@ -37,9 +37,9 @@ childrenGroups:
           place: "Ruston, Louisiana"
         marriages:
           - number: 1
-            date: Roy Waggoner
+            spouse: Roy Waggoner
           - number: 2
-            date: James William Langley III
+            spouse: James William Langley III
         death:
           date: 15 September 1947
           place: "Albuquerque, New Mexico"
@@ -85,7 +85,7 @@ childrenGroups:
       - name: Carl Vining
       - name: Blanche Vining
         marriages:
-          - date: "[...] Richardson"
+          - spouse: "[...] Richardson"
 raw: |-
   <a name="RobertL04"></a><font size=+2>Robert Lee Vining</font>
      (son of <a href="Ffamilies.htm#FrancisM01">Francis Marion Vining and Elizabeth Scott</a>)

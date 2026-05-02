@@ -29,35 +29,35 @@ childrenGroups:
       - name: daughter
         marriages:
           - number: 1
-            date: "[...] Marshall"
+            spouse: "[...] Marshall"
           - number: 2
-            date: "[...] Ferrell"
+            spouse: "[...] Ferrell"
           - number: 3
-            date: "[...] Beck"
+            spouse: "[...] Beck"
       - name: daughter
         marriages:
           - number: 1
-            date: "[...] Radachowsky"
+            spouse: "[...] Radachowsky"
           - number: 2
-            date: "[...] Pirone"
+            spouse: "[...] Pirone"
       - name: Margaret Maureen Vining
         birth:
           date: 30 January 1952
           place: "Chicago, IL"
         marriages:
-          - date: "[...] Rogers"
+          - spouse: "[...] Rogers"
         death:
           date: 17 June 1992
       - name: daughter
         marriages:
-          - date: "[...] Chase"
+          - spouse: "[...] Chase"
       - name: son
       - name: daughter
         marriages:
-          - date: "[...]"
+          - spouse: "[...]"
       - name: son +
         marriages:
-          - date: "[...] Arce"
+          - spouse: "[...] Arce"
 raw: |-
   <a name="RichardB01"></a><font size=+2>Richard Burns Vining</font>
      (son of <a href="Cfamilies.htm#CharlesE01">Charles Edward Vining and Myrtle Burns</a>)

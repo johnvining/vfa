@@ -33,7 +33,9 @@ marriages:
         place: "Webb City, Missouri"
     divorce: {}
   - number: 2
-    date: "Goldie [...]"
+    spouse:
+      givenName: Goldie
+      surname: '[...]'
 childrenGroups:
   - children:
       - name: daughter
@@ -48,7 +50,7 @@ childrenGroups:
           date: 1 February 1937
           place: Oklahoma
         marriages:
-          - date: "Aileen [...]"
+          - spouse: "Aileen [...]"
         death:
           date: 10 March 2009
         burial:

@@ -25,12 +25,12 @@ childrenGroups:
         birth:
           date: 7 July 1961
         marriages:
-          - date: David Catt
+          - spouse: David Catt
       - name: Tonya Vining
         birth:
           date: 10 August 1962
         marriages:
-          - date: Bradley Nielsen
+          - spouse: Bradley Nielsen
       - name: Jennifer Vining
         birth:
           date: 23 May 1964
@@ -41,10 +41,10 @@ childrenGroups:
         birth:
           date: 7 November 1967
         marriages:
-          - date: Ric Donovan
+          - spouse: Ric Donovan
       - name: Sarah Vining
         marriages:
-          - date: Matt Opdahl
+          - spouse: Matt Opdahl
 docsUrl: Rsources/RoyalD01doc.htm
 raw: |-
   <a name="RoyalD01"></a><font size=+2>Royal Dean Vining</font>

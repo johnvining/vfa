@@ -48,7 +48,7 @@ childrenGroups:
           date: 12 December 1925
           place: Georgia
         marriages:
-          - date: Edward Menzies
+          - spouse: Edward Menzies
   - spouseRef: Maggie Mae Randall
     children:
       - name: "Clinton [Edwin or Edward?] Vining"
@@ -80,7 +80,7 @@ childrenGroups:
           date: 10 September 1932
           place: "Vauhn, Spalding County, Georgia"
         marriages:
-          - date: "Shirley [Godfrey or Godfery?]"
+          - spouse: "Shirley [Godfrey or Godfery?]"
       - name: Bobby Frank Vining
         entryId: BobbyF01
         entryLetter: B
@@ -101,7 +101,7 @@ childrenGroups:
           date: 26 April 1936
           place: Georgia
         marriages:
-          - date: Linda Willis
+          - spouse: Linda Willis
       - name: Richard Joseph Vining
         birth:
           date: 23 Septenber 1938
@@ -112,7 +112,7 @@ childrenGroups:
         birth:
           date: 1 February 1941
         marriages:
-          - date: Ray Fowler
+          - spouse: Ray Fowler
       - name: Larry Ray Vining
         birth:
           date: 12 September 1946
@@ -122,7 +122,7 @@ childrenGroups:
         birth:
           date: 4 August 1943
         marriages:
-          - date: Donald Banks
+          - spouse: Donald Banks
       - name: Sylvia Vining
         marriages:
           - date: "[&#8230;] Pitts"
@@ -130,12 +130,12 @@ childrenGroups:
         birth:
           date: 20 July 1954
         marriages:
-          - date: Rhonda J. Calhoun
+          - spouse: Rhonda J. Calhoun
       - name: Sylvia Vining
         birth:
           date: 15 November 1947
         marriages:
-          - date: Larry Pitts
+          - spouse: Larry Pitts
 docsUrl: Rsources/RoyE01doc.htm
 raw: |-
   <a name="RoyE01"></a><font size=+2>Roy Edward Vining</font>

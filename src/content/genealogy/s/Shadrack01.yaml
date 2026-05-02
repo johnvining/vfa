@@ -51,7 +51,7 @@ childrenGroups:
           date: 24 January 1782
           place: North Carolina
         marriages:
-          - date: William Vardaman
+          - spouse: William Vardaman
         death:
           date: Alabama
       - name: John Vining
@@ -69,9 +69,9 @@ childrenGroups:
           date: 16 February 1785
         marriages:
           - number: 1
-            date: Joseph Tommie Jr.
+            spouse: Joseph Tommie Jr.
           - number: 2
-            date: Anthony Holloway
+            spouse: Anthony Holloway
         death:
           date: "1879"
           place: Georgia
@@ -88,14 +88,14 @@ childrenGroups:
         birth:
           date: 19 October 1786
         marriages:
-          - date: Joseph Vardaman
+          - spouse: Joseph Vardaman
       - name: Jehu Vining
         entryId: Jehu01
         entryLetter: J
         birth:
           date: 22 January 1790
         marriages:
-          - date: Sarah Farley
+          - spouse: Sarah Farley
         death:
           date: Alabama
       - name: Simeon Vining
@@ -168,13 +168,13 @@ childrenGroups:
         birth:
           date: 21 July 1800
         marriages:
-          - date: William C. Young
+          - spouse: William C. Young
       - name: Jefferson Vining
         birth:
           date: 26 January 1802
         marriages:
           - number: 1
-            date: Marie Jernigan
+            spouse: Marie Jernigan
           - number: 2
             date: 9 September 1832
             place: Georgia

@@ -69,14 +69,14 @@ childrenGroups:
           date: 26 November 1825
           place: "Nissouri, Ontario, Canada"
         marriages:
-          - date: Joseph Gleason
+          - spouse: Joseph Gleason
         death:
           date: 25 November 1903
       - name: Mariah Vining
         birth:
           date: 3 January 1828
         marriages:
-          - date: Dennis Horsman
+          - spouse: Dennis Horsman
         death:
           date: "1873"
         burial:
@@ -90,7 +90,7 @@ childrenGroups:
         birth:
           date: 28 February 1832
         marriages:
-          - date: James Oliphant
+          - spouse: James Oliphant
         death:
           date: 3 December 1916
           place: "Detroit, Wayne County, Michigan"
@@ -99,7 +99,7 @@ childrenGroups:
           date: 29 March 1834
           place: "Nissouri, Ontario, Canada"
         marriages:
-          - date: Samuel Truman
+          - spouse: Samuel Truman
         death:
           date: 6 December 1920
           place: "Berkeley, Alameda County, California"

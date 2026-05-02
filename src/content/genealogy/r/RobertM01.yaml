@@ -85,7 +85,7 @@ childrenGroups:
         birth:
           date: April 1870
         marriages:
-          - date: William Kuhn
+          - spouse: William Kuhn
         death:
           date: 1 July 1905
       - name: "William [E. or H.?] Vining"
@@ -117,9 +117,9 @@ childrenGroups:
       - name: Dora Vining
         marriages:
           - number: 1
-            date: William Chat Beam
+            spouse: William Chat Beam
           - number: 2
-            date: "[...]"
+            spouse: "[...]"
       - name: Irvin Elonidus Vining
         entryId: IrvinE01
         entryLetter: I
@@ -127,7 +127,7 @@ childrenGroups:
           date: 6 September 1881
           place: Ohio
         marriages:
-          - date: Mary Zada Bragg
+          - spouse: Mary Zada Bragg
         death:
           date: 9 May 1955
           place: "Celina, Mercer County, Ohio"
@@ -138,7 +138,7 @@ childrenGroups:
           date: 25 January 1884
           place: "Blackcreek, Ohio"
         marriages:
-          - date: Joe Brush
+          - spouse: Joe Brush
       - name: Clarence Leroy Vining
         birth:
           date: 6 March 1887
@@ -156,7 +156,7 @@ childrenGroups:
           date: 7 March 1890
           place: "Blackcreek, Ohio"
         marriages:
-          - date: Hazel Carr
+          - spouse: Hazel Carr
         death:
           date: 26 February 1958
         burial:
@@ -166,7 +166,7 @@ childrenGroups:
           date: 5 April 1893
           place: "Blackcreek, Ohio"
         marriages:
-          - date: Frank Hamrick
+          - spouse: Frank Hamrick
         death:
           date: 29 September 1934
           place: "Willshire, Ohio"
@@ -177,7 +177,7 @@ childrenGroups:
           date: 1 June 1895
           place: "Blackcreek, Ohio"
         marriages:
-          - date: Ermal Pauline Wilson
+          - spouse: Ermal Pauline Wilson
         death:
           date: "1952"
         burial:

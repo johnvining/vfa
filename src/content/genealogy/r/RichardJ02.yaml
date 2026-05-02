@@ -30,7 +30,7 @@ childrenGroups:
         birth:
           date: "1864"
         marriages:
-          - date: Emily Dreger
+          - spouse: Emily Dreger
         death:
           date: "1947"
       - name: Richard Charles Vining
@@ -44,7 +44,7 @@ childrenGroups:
         birth:
           date: "1879"
         marriages:
-          - date: Emma Louise Curtis
+          - spouse: Emma Louise Curtis
         death:
           date: "1947"
           place: "Caulfield, Victoria"

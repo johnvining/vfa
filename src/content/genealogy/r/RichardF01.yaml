@@ -26,7 +26,7 @@ childrenGroups:
           date: 17 August 1959
           place: "Los Angeles, California"
         marriages:
-          - date: "Cynthia Yvonne [...]"
+          - spouse: "Cynthia Yvonne [...]"
         death:
           date: 9 May 2008
           place: "Fredericksburg, Virginia"
@@ -35,12 +35,12 @@ childrenGroups:
       - name: Gregory Vining
       - name: Kimberly Ann Vining
         marriages:
-          - date: William Edgar Bishop
+          - spouse: William Edgar Bishop
       - name: Michelle Vining
       - name: Diana Vining
       - name: Tana Vining
         marriages:
-          - date: "[...] Barnes"
+          - spouse: "[...] Barnes"
 docsUrl: Rsources/RichardF01doc.htm
 raw: |-
   <a name="RichardF01"></a><font size=+2>Richard Franklin Vining</font>

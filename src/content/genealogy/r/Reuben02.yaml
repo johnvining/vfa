@@ -44,7 +44,7 @@ childrenGroups:
           - number: 1
             date: "Capitolia B. [...] (d. 1908)"
           - number: 2
-            date: Jennie Holmes
+            spouse: Jennie Holmes
         death:
           date: 20 December 1932
           place: "Sioux Falls, South Dakota"
@@ -63,7 +63,7 @@ childrenGroups:
           date: 25 May 1872
           place: Iowa
         marriages:
-          - date: Fannie Cathcart
+          - spouse: Fannie Cathcart
         death:
           date: 4 July 1957
           place: "Bremerton, Illinois"
@@ -75,9 +75,9 @@ childrenGroups:
           place: Iowa
         marriages:
           - number: 1
-            date: Mary M. Cathcart
+            spouse: Mary M. Cathcart
           - number: 2
-            date: Minnie Ellen Argo
+            spouse: Minnie Ellen Argo
         death:
           date: 26 December 1951
           place: "Bremerton, Illinois"
@@ -90,7 +90,7 @@ childrenGroups:
             date: "1898"
             spouse: John Anderson
           - number: 2
-            date: Daniel Brawz
+            spouse: Daniel Brawz
         death:
           date: 15 November 1960
           place: "Concord, California"
@@ -100,7 +100,7 @@ childrenGroups:
           date: 5 February 1881
           place: Iowa
         marriages:
-          - date: Anna Marie Byers
+          - spouse: Anna Marie Byers
         death:
           date: 23 July 1957
           place: "Aberdeen, South Dakota"

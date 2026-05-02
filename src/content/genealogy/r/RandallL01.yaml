@@ -56,9 +56,9 @@ childrenGroups:
           place: Mississippi
         marriages:
           - number: 1
-            date: "[...] Fallin"
+            spouse: "[...] Fallin"
           - number: 2
-            date: Joseph Grant Hodges
+            spouse: Joseph Grant Hodges
         death:
           date: 1 December 1985
           place: "Seminole, Seminole County, Oklahoma"
@@ -101,7 +101,7 @@ childrenGroups:
           date: 20 January 1904
           place: "Forest, West Carroll Parish, Louisiana"
         marriages:
-          - date: Edith Mildred Alexander
+          - spouse: Edith Mildred Alexander
         death:
           date: 16 July 1999
           place: "West Monroe, Ouachita Parish, Louisiana"
@@ -137,9 +137,9 @@ childrenGroups:
           place: "Pioneer, Louisiana"
         marriages:
           - number: 1
-            date: Bobbie Jean White
+            spouse: Bobbie Jean White
           - number: 2
-            date: Jewel Pippin
+            spouse: Jewel Pippin
         death:
           date: 31 December 1995
           place: "Monroe, Louisiana"
@@ -152,7 +152,7 @@ childrenGroups:
           date: 22 February 1916
           place: Louisiana
         marriages:
-          - date: Melba Whatley
+          - spouse: Melba Whatley
         death:
           date: 3 September 1984
           place: "(last residence: Sondheimer, Louisiana)"

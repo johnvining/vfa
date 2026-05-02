@@ -37,7 +37,7 @@ childrenGroups:
           place: "London, England"
         marriages:
           - number: 1
-            date: "[...] Reed"
+            spouse: "[...] Reed"
           - number: 2
             date: "1872"
             place: "New Orleans, Louisiana"
@@ -71,7 +71,7 @@ childrenGroups:
           date: 20 August 1863
           place: Louisiana
         marriages:
-          - date: Lula Worth Morgan
+          - spouse: Lula Worth Morgan
         death:
           date: 27 November 1929
           place: "Austin, Travis County, Texas"

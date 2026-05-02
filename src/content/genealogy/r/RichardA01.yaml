@@ -21,7 +21,9 @@ marriages:
       givenName: La Vohn Teckla
       surname: Coleman
   - number: 2
-    date: "Bonnie [...]"
+    spouse:
+      givenName: Bonnie
+      surname: '[...]'
 childrenGroups:
   - children:
       - name: Richard Bruce Vining

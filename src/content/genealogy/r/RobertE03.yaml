@@ -17,7 +17,9 @@ marriages:
   - number: 1
     date: Shirley Ann Petty (d. 1947)
   - number: 2
-    date: Ruby MacGillum
+    spouse:
+      givenName: Ruby
+      surname: MacGillum
 childrenGroups:
   - headingText: child
     children:

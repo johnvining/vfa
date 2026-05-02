@@ -33,7 +33,7 @@ childrenGroups:
           date: "age 3 y., 10 m. as of 1930 census"
           place: Georgia
         marriages:
-          - date: Frank Dancy
+          - spouse: Frank Dancy
       - name: Solomon Benjamin Vining Jr.
         birth:
           date: 23 October 1928
@@ -60,7 +60,7 @@ childrenGroups:
           date: age 5 y. as of 1940 census
           place: Georgia
         marriages:
-          - date: "[...] Oglesby"
+          - spouse: "[...] Oglesby"
       - name: Albert Edward Vining
         entryId: AlbertE03
         entryLetter: A
@@ -69,7 +69,7 @@ childrenGroups:
           place: "Marshallville, Georgia"
         marriages:
           - number: 1
-            date: Irene Anderson
+            spouse: Irene Anderson
           - number: 2
             date: "Betty [&#8230;]"
         death:
@@ -82,10 +82,10 @@ childrenGroups:
           date: age 5 m. as of 1940 census
           place: Georgia
         marriages:
-          - date: "[...] Bowden"
+          - spouse: "[...] Bowden"
       - name: Doris Vining
         marriages:
-          - date: "[...] Teece"
+          - spouse: "[...] Teece"
       - name: William Berner Vining
         birth:
           date: "1941"

@@ -30,7 +30,7 @@ childrenGroups:
           date: 16 December 1901
           place: New York
         marriages:
-          - date: Lillian Eggers
+          - spouse: Lillian Eggers
         death:
           date: 12 December 1991
       - name: Robert Lucius Vining
@@ -38,7 +38,7 @@ childrenGroups:
         birth:
           date: 16 June 1907
         marriages:
-          - date: Evelyn Eggers
+          - spouse: Evelyn Eggers
         death:
           date: 15 June 1996
           place: "(last residence: Quarryville, Pennsylvania)"
@@ -48,7 +48,7 @@ childrenGroups:
         birth:
           date: 7 September 1908
         marriages:
-          - date: Marie Dunham
+          - spouse: Marie Dunham
         death:
           date: December 1982
           place: "(last residence: Hensonville, New York)"

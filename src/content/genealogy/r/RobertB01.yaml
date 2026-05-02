@@ -13,16 +13,16 @@ childrenGroups:
         birth:
           date: age 65 y. at death
         marriages:
-          - date: "Elizabeth [...]"
+          - spouse: "Elizabeth [...]"
         death:
           date: 6 September 2010
       - name: Kathy Vining
         marriages:
-          - date: "[...] Phares"
+          - spouse: "[...] Phares"
       - name: Paul Vining
       - name: Mary Vining
         marriages:
-          - date: "[...] Kinsella"
+          - spouse: "[...] Kinsella"
 raw: |-
   <a name="RobertB01"></a><font size=+2>Robert B. Vining</font>
      (son of [?])

@@ -34,9 +34,9 @@ childrenGroups:
           date: 28 January 1838
         marriages:
           - number: 1
-            date: "Mark Harding (of Melrose, Massachusetts)"
+            spouse: "Mark Harding (of Melrose, Massachusetts)"
           - number: 2
-            date: "Albert Elisha Jones (of Weld, Franklin County, Maine)"
+            spouse: "Albert Elisha Jones (of Weld, Franklin County, Maine)"
         death:
           date: 7 August 1904
       - name: Henry C. Vining
@@ -79,7 +79,7 @@ childrenGroups:
           - number: 1
             date: Ann R. Pike (d. 2 February 1875)
           - number: 2
-            date: Amanda Maxim
+            spouse: Amanda Maxim
         death:
           date: 20 May 1922
           place: "Farmington, Franklin County, Maine"
@@ -94,7 +94,7 @@ childrenGroups:
             place: "Weld, Maine"
             spouse: "Stanwood W. [Phinney or Philley?] (of Weld, Maine)"
           - number: 2
-            date: Charles Sawyer
+            spouse: Charles Sawyer
         death:
           date: 24 March 1933
         burial:
@@ -114,7 +114,7 @@ childrenGroups:
           place: Maine
         marriages:
           - number: 1
-            date: Alice C. Preston
+            spouse: Alice C. Preston
           - number: 2
             date: "Almira W. &#8220;Myra&#8221; Cook"
         death:
@@ -124,7 +124,7 @@ childrenGroups:
           place: "Evergreen Cemetery   Phillips, Franklin County, Maine"
       - name: Addie Vining
         marriages:
-          - date: "John McKnight (of Boston, Massachusetts)"
+          - spouse: "John McKnight (of Boston, Massachusetts)"
         death:
           date: 10 January
           place: "Melrose, Massachusetts"
@@ -137,7 +137,7 @@ childrenGroups:
           date: age 17 y. as of 1870 census
           place: Maine
         marriages:
-          - date: "George O. Osgood (of Waltham, Massachusetts)"
+          - spouse: "George O. Osgood (of Waltham, Massachusetts)"
       - name: Fremont Seward Vining
         birth:
           date: 18 June 1855

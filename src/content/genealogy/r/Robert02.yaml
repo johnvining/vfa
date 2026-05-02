@@ -16,10 +16,13 @@ head:
     place: "Hensonville, New York"
 marriages:
   - number: 1
-    date: Polly Waters
-  - number: 2
-    date: "Elizabeth [...]"
     spouse:
+      givenName: Polly
+      surname: Waters
+  - number: 2
+    spouse:
+      givenName: Elizabeth
+      surname: '[...]'
       birth:
         date: 16 June 1814
         place: "New York"
@@ -45,7 +48,7 @@ childrenGroups:
           date: age 21 y. as of 1850 census
           place: New York
         marriages:
-          - date: James Walker
+          - spouse: James Walker
       - name: Lewis Vining
         entryId: Lewis01
         entryLetter: L
@@ -78,7 +81,7 @@ childrenGroups:
           date: 3 May 1840
           place: New York
         marriages:
-          - date: Lucy Gordon
+          - spouse: Lucy Gordon
         death:
           date: 5 March 1915
           place: "Windham, New York"
@@ -100,7 +103,7 @@ childrenGroups:
           date: 20 December 1844
           place: New York
         marriages:
-          - date: Lucy A. Hoover
+          - spouse: Lucy A. Hoover
         death:
           date: 26 April 1921
       - name: Stephen T. Vining
@@ -110,7 +113,7 @@ childrenGroups:
           date: 20 September 1846
           place: New York
         marriages:
-          - date: Jennie Showers
+          - spouse: Jennie Showers
         death:
           date: 11 February 1913
       - name: Winfield Scott Vining
@@ -120,7 +123,7 @@ childrenGroups:
           date: 14 August 1849
           place: New York
         marriages:
-          - date: Estelle Miles
+          - spouse: Estelle Miles
         death:
           date: 21 January 1911
       - name: Leonard Vining

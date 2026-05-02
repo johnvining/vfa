@@ -16,13 +16,18 @@ head:
     description: "buried West Yarmouth, Massachusetts"
 marriages:
   - number: 1
-    date: "[...]"
     divorce: {}
+    spouse:
+      givenName: '[...]'
   - number: 2
-    date: "Sherryann Kalomer[i?]s"
     divorce: {}
+    spouse:
+      givenName: Sherryann
+      surname: Kalomer[i?]s
   - number: 3
-    date: "Grace [...]"
+    spouse:
+      givenName: Grace
+      surname: '[...]'
 childrenGroups:
   - spouseRef: "Sherryann Kalomer[i?]s"
     children:
@@ -33,7 +38,7 @@ childrenGroups:
         birth:
           date: 26 April 1970
         marriages:
-          - date: "[...] Schwiederek"
+          - spouse: "[...] Schwiederek"
 raw: |-
   <a name="RobertE05"></a><font size=+2>Robert Edwin Vining</font>
      (son of <a href="Jfamilies.htm#JamesE04">James [Edwin?] Vining and Hazel [...]</a>)

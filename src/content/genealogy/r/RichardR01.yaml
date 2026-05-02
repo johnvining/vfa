@@ -16,9 +16,13 @@ head:
     description: "cremated, ashes scattered"
 marriages:
   - number: 1
-    date: Judith Stoner
+    spouse:
+      givenName: Judith
+      surname: Stoner
   - number: 2
-    date: Kaaren Crail
+    spouse:
+      givenName: Kaaren
+      surname: Crail
 childrenGroups:
   - headingText: "child by Judith Stoner"
     children:

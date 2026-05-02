@@ -37,7 +37,7 @@ childrenGroups:
           date: age 5 y. as of 1940 census
           place: Michigan
         marriages:
-          - date: Joyce Yetter
+          - spouse: Joyce Yetter
       - name: Lawrence Lee Vining
         entryId: LawrenceL01
         entryLetter: L
@@ -45,7 +45,7 @@ childrenGroups:
           date: "1936"
           place: Michigan
         marriages:
-          - date: "Carol [...]"
+          - spouse: "Carol [...]"
         death:
           date: "1977"
         burial:
@@ -76,7 +76,7 @@ childrenGroups:
         birth:
           date: 6 October 1941
         marriages:
-          - date: Jack Wuckuya
+          - spouse: Jack Wuckuya
       - name: Judy Vining
         birth:
           date: 1 June 1943
@@ -85,7 +85,7 @@ childrenGroups:
             spouse: John Roberts
             divorce: {}
           - number: 2
-            date: Robet Anson
+            spouse: Robet Anson
 docsUrl: Rsources/RalphS01doc.htm
 updates:
   - date: "2026-05-02"

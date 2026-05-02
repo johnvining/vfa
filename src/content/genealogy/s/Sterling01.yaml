@@ -31,12 +31,12 @@ childrenGroups:
           date: 26 December 1942
         marriages:
           - number: 1
-            date: Andrea Vicknair
+            spouse: Andrea Vicknair
       - name: Tracy Vining
         entryId: Tracy01
         entryLetter: T
         marriages:
-          - date: "Julie [...]"
+          - spouse: "Julie [...]"
 updates:
   - date: "2026-05-01"
     what: "removed Ronald Vining and Gary Vining from Sterling's children list; per Blake D. K. Vining's earlier contribution they are sons of Donald Earl Vining (Sterling's son), not of Sterling directly"

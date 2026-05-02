@@ -45,7 +45,7 @@ childrenGroups:
           date: 29 November 1890
           place: "Black Creek, Ohio"
         marriages:
-          - date: Arthur J. Behringer
+          - spouse: Arthur J. Behringer
       - name: Leo Heath Vining
         entryId: LeoH01
         entryLetter: L
@@ -59,9 +59,9 @@ childrenGroups:
             divorce:
               date: "1920"
           - number: 2
-            date: "Johnnie L. [...]"
+            spouse: "Johnnie L. [...]"
           - number: 3
-            date: Priscilla Margaret Henning
+            spouse: Priscilla Margaret Henning
         death:
           date: February 1968
           place: "Owensboro, Kentucky"

@@ -18,7 +18,9 @@ head:
     place: "Riverside National Cemetery   Riverside, California"
 marriages:
   - number: 1
-    date: Pat Ryan
+    spouse:
+      givenName: Pat
+      surname: Ryan
   - number: 2
     date: 18 July 1981
     place: Nevada

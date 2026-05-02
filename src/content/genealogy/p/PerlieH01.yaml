@@ -43,7 +43,7 @@ childrenGroups:
           date: "age 2 y., 10 m. as of 1930 census"
           place: Connecticut
         marriages:
-          - date: Mary Jean Hurley
+          - spouse: Mary Jean Hurley
       - name: Russell Edward Vining
         entryId: RussellE01
         entryLetter: R
@@ -51,7 +51,7 @@ childrenGroups:
           date: 21 July 1930
           place: "New Haven, Connecticut"
         marriages:
-          - date: Ann Molloy
+          - spouse: Ann Molloy
         death:
           date: 3 October 1992
           place: "Hamden, New Haven County, Connecticut"

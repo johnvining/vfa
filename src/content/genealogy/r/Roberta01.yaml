@@ -32,14 +32,14 @@ childrenGroups:
         birth:
           date: 20 October 1950
         marriages:
-          - date: Martin Hauser
+          - spouse: Martin Hauser
       - name: Jon Andrew Vining
         entryId: JonA01
         entryLetter: J
         birth:
           date: 19 June 1955
         marriages:
-          - date: Cathy Hollis
+          - spouse: Cathy Hollis
 docsUrl: Rsources/RobertA01doc.htm
 raw: |-
   <a name="RobertA01"></a><font size=+2>Robert Andrew Vining</font>

@@ -28,7 +28,7 @@ childrenGroups:
           date: 14 August 1905
           place: Alabama
         marriages:
-          - date: G. Dewey Brantley
+          - spouse: G. Dewey Brantley
       - name: Ola Mae Vining
         birth:
           date: 11 August 1908
@@ -40,9 +40,9 @@ childrenGroups:
           place: Alabama
         marriages:
           - number: 1
-            date: Nancy Lou Tidmore
+            spouse: Nancy Lou Tidmore
           - number: 2
-            date: Margaret Kemp
+            spouse: Margaret Kemp
         death:
           date: 24 July 1995
           place: "(last residence: Albuquerque, New Mexico)"
@@ -51,9 +51,9 @@ childrenGroups:
           date: 25 August 1913
         marriages:
           - number: 1
-            date: Lee Roberson
+            spouse: Lee Roberson
           - number: 2
-            date: Jesse Whitlock
+            spouse: Jesse Whitlock
       - name: Walter Rupert Vining
         entryId: WalterR02
         entryLetter: W
@@ -61,7 +61,7 @@ childrenGroups:
           date: 16 August 1921
           place: Alabama
         marriages:
-          - date: Mary Elizabeth Daniel
+          - spouse: Mary Elizabeth Daniel
         death:
           date: 26 December 1974
           place: "Green Pond Presbyterian Church Cemetery   Green Pond, Alabama"

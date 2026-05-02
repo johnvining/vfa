@@ -36,7 +36,7 @@ childrenGroups:
           date: 23 October 1932
           place: "Bedico, Tangipahoa, Louisiana"
         marriages:
-          - date: Francis Burroughs
+          - spouse: Francis Burroughs
         death:
           date: 26 August 2012
           place: "Burlington, Chittenden County, Vermont"
@@ -47,7 +47,7 @@ childrenGroups:
           date: 3 August 1934
           place: "Ponchatoula, Tangipahoa Parish, Louisiana"
         marriages:
-          - date: "Barbara G. [...]"
+          - spouse: "Barbara G. [...]"
         death:
           date: 27 September 2000
           place: "Harbour Heights, Charlotte County, Florida"
@@ -66,7 +66,7 @@ childrenGroups:
       - name: Willis Vining
       - name: Iris Vining
         marriages:
-          - date: Floyd Paul DeWitt
+          - spouse: Floyd Paul DeWitt
 docsUrl: Rsources/RobertE07doc.htm
 raw: |-
   <a name="RobertE07"></a><font size=+2>Robert Ervin Vining</font>
