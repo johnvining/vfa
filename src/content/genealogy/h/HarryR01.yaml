@@ -1,6 +1,6 @@
 id: HarryR01
 letter: H
-lastUpdated: 30 July 2022
+lastUpdated: 2 May 2026
 relationship: son
 parentId: ArthurS01
 parentLetter: A
@@ -48,14 +48,19 @@ childrenGroups:
         marriages:
           - date: "[&#8230;] Reese"
       - name: Virgil Vernon Vining
+        entryId: VirgilV01
+        entryLetter: V
         birth:
           date: 11 November 1911
-          place: "Mahaska, Kansas"
+          place: "Mahaska, Washington County, Kansas"
+        marriages:
+          - date: 10 March 1946
+            spouse: Elberta Dale
         death:
           date: 8 March 2004
-          place: "Sun City, Arizona"
+          place: "Sun City, Maricopa County, Arizona"
         burial:
-          place: "Sunland Memorial Park   Sun City, Arizona"
+          place: "Sunland Memorial Park   Sun City, Maricopa County, Arizona"
       - name: Jesse A. Vining
         birth:
           date: 14 September 1914
@@ -85,6 +90,9 @@ childrenGroups:
         marriages:
           - date: "[&#8230;] Richardson-Nichols"
 docsUrl: Hsources/HarryR01doc.htm
+updates:
+  - date: "2026-05-02"
+    what: "promoted Virgil Vernon Vining to his own entry; refined birth/death/burial places to include county"
 raw: |-
   <a name="HarryR01"></a><font size=+2>Harry Ray Vining</font>
      (son of <a href="Afamilies.htm#ArthurS01">Arthur Scott Vining and Ida Bell[e?] Loy</a>)

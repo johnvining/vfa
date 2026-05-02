@@ -1,0 +1,34 @@
+id: VirgilV01
+letter: V
+lastUpdated: 2 May 2026
+relationship: son
+parentId: HarryR01
+parentLetter: H
+parentDesc: Harry Ray Vining and Kathryn A. Elliott
+head:
+  givenName: Virgil Vernon
+  birth:
+    date: 11 November 1911
+    place: "Mahaska, Washington County, Kansas"
+  death:
+    date: 8 March 2004
+    place: "Sun City, Maricopa County, Arizona"
+  burial:
+    place: "Sunland Memorial Park   Sun City, Maricopa County, Arizona"
+marriages:
+  - date: 10 March 1946
+    spouse:
+      givenName: Elberta
+      surname: Dale
+      birth:
+        date: "1922"
+      death:
+        date: "2011"
+childrenGroups:
+  - children:
+      - name: Daniel Vining
+      - name: Vickie Vining
+notes: "Held as a prisoner of war in Japan during World War II."
+updates:
+  - date: "2026-05-02"
+    what: "created entry; promoted from inline child of Harry R. Vining; added marriage to Elberta Dale on 10 March 1946 (source: Elberta's memoir *Life Goes On*); noted POW service in Japan during World War II"
