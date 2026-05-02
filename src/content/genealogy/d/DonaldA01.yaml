@@ -15,7 +15,9 @@ head:
     date: 9 May 2018
 marriages:
   - number: 1
-    date: Judith Passarelli
+    spouse:
+      givenName: Judith
+      surname: Passarelli
   - number: 2
     date: 4 y. as of 2018
     spouse:

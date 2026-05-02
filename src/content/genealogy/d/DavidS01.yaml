@@ -23,7 +23,9 @@ marriages:
       givenName: Germaine
       surname: Sharkey
   - number: 2
-    date: Gerry Trottier
+    spouse:
+      givenName: Gerry
+      surname: Trottier
 childrenGroups:
   - headingText: child
     children:

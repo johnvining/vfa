@@ -16,7 +16,9 @@ head:
     place: "Wenatchee, Washington"
 marriages:
   - number: 1
-    date: Beverly Hansen
+    spouse:
+      givenName: Beverly
+      surname: Hansen
   - number: 2
     date: "Betty [&#8230;]"
 childrenGroups:
@@ -28,7 +30,7 @@ childrenGroups:
           date: 4 April 1952
           place: "Anchorage, Alaska"
         marriages:
-          - date: Patricia Ann Amburgey
+          - spouse: Patricia Ann Amburgey
       - name: Murray Neal Vining
         birth:
           date: 16 October 1953

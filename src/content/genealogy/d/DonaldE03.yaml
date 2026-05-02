@@ -12,7 +12,9 @@ head:
     date: 26 December 1942
 marriages:
   - number: 1
-    date: Andrea Vicknair
+    spouse:
+      givenName: Andrea
+      surname: Vicknair
 childrenGroups:
   - children:
       - name: Gary Vining

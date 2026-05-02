@@ -18,7 +18,9 @@ head:
     place: "Greenlawn Memorial Park   Lafayette [Parish?], Louisiana"
 marriages:
   - number: 1
-    date: Emily Eymard
+    spouse:
+      givenName: Emily
+      surname: Eymard
   - number: 2
     date: 37 y. as of 2011
     spouse:
