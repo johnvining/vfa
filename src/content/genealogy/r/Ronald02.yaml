@@ -1,18 +1,25 @@
 id: Ronald02
 sequence: 140
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 2 May 2026
 relationship: son
 parentId: RalphS01
 parentDesc: Ralph Spellman Vining and Lura Baker
 head:
-  givenName: Ronald
+  givenName: Ronald Rene
   birth:
     date: 6 October 1935
+    place: "Kalamazoo, Michigan"
+  death:
+    date: 17 November 2023
+  burial:
+    place: "Fort Custer National Cemetery   Augusta, Michigan"
 marriages:
-  - spouse:
+  - date: 24 June 1961
+    place: "Ionia, Michigan"
+    spouse:
       givenName: Betty
-      surname: Bayliss
+      surname: Baylis
 childrenGroups:
   - children:
       - name: Cynthia Vining
@@ -21,9 +28,17 @@ childrenGroups:
       - name: Pamela Vining
         birth:
           date: 19 April 1964
+        marriages:
+          - spouse: Jeffrey Ball
       - name: Kathy Vining
         birth:
           date: 25 June 1970
+        marriages:
+          - spouse: Anthony Gettig
+updates:
+  - date: "2026-05-02"
+    what: "added middle name Rene; added birth place (Kalamazoo, Michigan), death date (17 November 2023), and burial (Fort Custer National Cemetery); added marriage date/place (24 June 1961, Ionia, Michigan); corrected spouse surname to Baylis; added daughters' husbands Jeffrey Ball and Anthony Gettig; source: obituary"
+    url: "https://obits.mlive.com/us/obituaries/kalamazoo/name/ronald-vining-obituary?id=53631320"
 raw: |-
   <a name="Ronald02"></a><font size=+2>Ronald Vining</font>
      (son of <a href="#RalphS01">Ralph Spellman Vining and Lura Baker</a>)
