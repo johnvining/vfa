@@ -1,7 +1,7 @@
 id: JackH01
 sequence: 3
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 2 May 2026
 relationship: son
 parentId: JacksonL02
 parentDesc: Jackson L. Vining and Catherine Elizabeth Harrison
@@ -20,6 +20,12 @@ marriages:
     spouse:
       givenName: Madge Burt
       surname: Alexander
+      birth:
+        date: 29 November 1931
+        place: "Atlanta, Georgia"
+      death:
+        date: 9 February 2026
+        place: "Columbia, Connecticut"
 childrenGroups:
   - children:
       - name: Mark Vining
@@ -34,6 +40,10 @@ childrenGroups:
         marriages:
           - date: David White
 docsUrl: Jsources/JackH01doc.htm
+updates:
+  - date: "2026-05-02"
+    what: "added birth date/place and death date/place for Madge Burt Alexander; source: Legacy.com obituary"
+    url: "https://www.legacy.com/us/obituaries/thechronicle/name/madge-vining-obituary?id=60822694"
 raw: |-
   <a name="JackH01"></a><font size=+2>Jack HarrisonVining</font>
      (son of <a href="#JacksonL02">Jackson L. Vining and Catherine Elizabeth Harrison</a>)
