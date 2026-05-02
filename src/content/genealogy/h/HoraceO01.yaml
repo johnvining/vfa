@@ -1,6 +1,6 @@
 id: HoraceO01
 letter: H
-lastUpdated: 30 July 2022
+lastUpdated: 1 May 2026
 relationship: son
 parentId: DavidH01
 parentLetter: D
@@ -13,7 +13,7 @@ head:
   death:
     date: 19 November 1885
   burial:
-    place: "Vining Cemetery   Florence, Minnesota"
+    place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
 marriages:
   - spouse:
       givenName: Martha Harrison
@@ -51,7 +51,7 @@ childrenGroups:
         death:
           date: 18 January 1883
         burial:
-          place: "Vining Cemetery   Florence, Minnesota"
+          place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
       - name: James O. Vining
         entryId: JamesO01
         entryLetter: J
@@ -93,6 +93,9 @@ childrenGroups:
           date: April 1969
           place: "St. Paul, Minnesota"
 docsUrl: Hsources/HoraceO01doc.htm
+updates:
+  - date: "2026-05-01"
+    what: "corrected burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (on the original Vining family property in Frontenac, within Florence Township)"
 raw: |-
   <a name="HoraceO01"></a><font size=+2>Horace Oscar Vining</font>
      (son of <a href="Dfamilies.htm#DavidH01">David H. Vining and Rocksy Susan Edwards</a>)

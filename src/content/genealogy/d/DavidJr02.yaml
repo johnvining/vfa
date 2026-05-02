@@ -1,7 +1,7 @@
 id: DavidJr02
 sequence: 34
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 1 May 2026
 relationship: son
 parentId: David02
 parentLetter: D
@@ -66,7 +66,7 @@ childrenGroups:
           date: 5 August 1894
           place: "Lake City, Minnesota"
         burial:
-          place: "Vining Cemetery   Florence, Minnesota"
+          place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
       - name: Elisha W. Vining
         entryId: ElishaW01
         entryLetter: E
@@ -132,6 +132,9 @@ childrenGroups:
           - date: ca. 1858
             spouse: Silvert Gripman
 docsUrl: Dsources/DavidJr02doc.htm
+updates:
+  - date: "2026-05-01"
+    what: "corrected David H. Vining's burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (on the original Vining family property in Frontenac, within Florence Township)"
 raw: |-
   <a name="DavidJr02"><a><font size=+2>David Vining Jr.</font>
      (son of <a href="#David02">David Vining and Esther Corthel</a>)

@@ -1,7 +1,7 @@
 id: GeorgeW04
 letter: G
 sequence: 45
-lastUpdated: 22 July 2022
+lastUpdated: 1 May 2026
 relationship: son
 parentId: DavidH01
 parentLetter: D
@@ -149,8 +149,11 @@ childrenGroups:
         death:
           date: 7 January 1901
         burial:
-          place: "Vining Cemetery   Florence Township, Goodhue County, Minnesota"
+          place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
 docsUrl: Gsources/GeorgeW04doc.htm
+updates:
+  - date: "2026-05-01"
+    what: "corrected Myrtle Esther Vining's burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (on the original Vining family property in Frontenac, within Florence Township)"
 raw: |-
   <a name="GeorgeW04"></a><font size=+2>George Washington Vining</font>
      (son of <a href="Dfamilies.htm#DavidH01">David H. Vining and Rocksy Susan Edwards</a>)

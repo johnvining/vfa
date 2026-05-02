@@ -1,7 +1,7 @@
 id: DavidH01
 sequence: 45
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 1 May 2026
 relationship: son
 parentId: DavidJr02
 parentDesc: David Vining Jr. and Hannah Husted
@@ -14,7 +14,7 @@ head:
     date: 5 August 1894
     place: "Lake City, Minnesota"
   burial:
-    place: "Vining Cemetery   Florence, Minnesota"
+    place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
 marriages:
   - number: 1
     date: 1 June 1839
@@ -28,7 +28,7 @@ marriages:
       death:
         date: 15 January 1874
       burial:
-        place: "Vining Cemetery   Florence, Minnesota"
+        place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
   - number: 2
     date: "1879"
     spouse:
@@ -73,7 +73,7 @@ childrenGroups:
         death:
           date: 19 November 1885
         burial:
-          place: "Vining Cemetery   Florence, Minnesota"
+          place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
       - name: George Washington Vining
         entryId: GeorgeW04
         entryLetter: G
@@ -107,7 +107,7 @@ childrenGroups:
           date: 8 November 1874
           place: "Florence, Minnesota"
         burial:
-          place: "Vining Cemetery   Florence, Minnesota"
+          place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
       - name: Charles D. Vining
         birth:
           date: July 1858
@@ -115,8 +115,11 @@ childrenGroups:
         death:
           date: 19 April 1861
         burial:
-          place: "Vining Cemetery  Florence, Minnesota"
+          place: "Vining Cemetery   Frontenac, Goodhue County, Minnesota"
 docsUrl: Dsources/DavidH01doc.htm
+updates:
+  - date: "2026-05-01"
+    what: "corrected burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (cemetery is on the original Vining family property in Frontenac, within Florence Township)"
 raw: |-
   <a name="DavidH01"></a><font size=+2>David H. Vining</font>
      (son of <a href="#DavidJr02">David Vining Jr. and Hannah Husted</a>)
