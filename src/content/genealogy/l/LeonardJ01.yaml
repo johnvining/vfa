@@ -1,7 +1,7 @@
 id: LeonardJ01
 sequence: 43
 letter: L
-lastUpdated: 26 July 2022
+lastUpdated: 2 May 2026
 relationship: son
 parentId: WillardB01
 parentLetter: W
@@ -17,31 +17,36 @@ head:
     place: "Maplecrest Cemetery   Windham, New York"
 marriages:
   - number: 1
-    date: Louise Chatfield
     spouse:
+      givenName: Louise Newcomb
+      surname: Chatfield
       birth:
         date: "1900"
       death:
         date: "1938"
   - number: 2
-    date: Marguerite Frasier
     spouse:
+      givenName: Marguerite
+      surname: Frasier
       birth:
         date: 13 February 1922
       death:
         date: 3 May 1997
         place: "(last residence: Maplecrest, New York)"
 childrenGroups:
-  - spouseRef: Louise Chatfield
+  - spouseRef: Louise Newcomb Chatfield
     children:
       - name: Leonard John Vining Jr.
         entryId: LeonardJJr01
         entryLetter: L
         birth:
           date: 23 November 1928
+          place: "Liberty, New York"
         marriages:
           - date: 3 June 1947
             spouse: Mariam Aletha Wiers
+        death:
+          date: 19 June 2024
       - name: Herbert Edward Vining
         birth:
           date: 7 April 1932
@@ -83,6 +88,10 @@ childrenGroups:
         death:
           date: "1955"
 docsUrl: Lsources/LeonardJ01doc.htm
+updates:
+  - date: "2026-05-02"
+    what: "added Louise Chatfield's middle name Newcomb; added death date (19 June 2024) and birth place (Liberty, New York) to Leonard John Vining Jr.'s child line; source: obituary of Leonard John Vining Jr."
+    url: "https://midhudsonnews.com/obituary/leonard-john-vining-jr/"
 raw: |-
   <a name="LeonardJ01"></a><font size=+2>Leonard John Vining</font>
      (son of <a href="Wfamilies.htm#WillardB01">Willard B. Vining and Jessie Hitchcock</a>)

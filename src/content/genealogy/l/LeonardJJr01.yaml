@@ -1,15 +1,18 @@
 id: LeonardJJr01
 sequence: 44
 letter: L
-lastUpdated: 26 July 2022
+lastUpdated: 2 May 2026
 relationship: son
 parentId: LeonardJ01
 parentLetter: L
-parentDesc: Leonard John Vining and Louise Chatfield
+parentDesc: Leonard John Vining and Louise Newcomb Chatfield
 head:
   givenName: Leonard John Jr.
   birth:
     date: 23 November 1928
+    place: "Liberty, New York"
+  death:
+    date: 19 June 2024
 marriages:
   - date: 3 June 1947
     spouse:
@@ -23,7 +26,7 @@ marriages:
         date: 12 April 2015
 childrenGroups:
   - children:
-      - name: Louise A. Vining
+      - name: Louise Ann Vining
         birth:
           date: 16 March 1949
         marriages:
@@ -31,17 +34,22 @@ childrenGroups:
             date: Robert Witt
           - number: 2
             date: Robert Keneally
-      - name: Lowell Vining
+      - name: Lowell Edward Vining
         birth:
           date: 15 January 1951
         marriages:
-          - date: Jill Zieber
+          - spouse: Jill Zieber
+            spouseDeath: deceased
       - name: Leonard John Vining III
         birth:
           date: 4 July 1953
         marriages:
           - date: Diane Hoover
 docsUrl: Lsources/LeonardJJr01doc.htm
+updates:
+  - date: "2026-05-02"
+    what: "added birth place (Liberty, New York), death date (19 June 2024); added middle names for children Louise Ann and Lowell Edward; noted Jill Zieber as deceased; source: obituary"
+    url: "https://midhudsonnews.com/obituary/leonard-john-vining-jr/"
 raw: |-
   <a name="LeonardJJr01"></a><font size=+2>Leonard John Vining Jr.</font>
      (son of <a href="Lfamilies.htm#LeonardJ01">Leonard John Vining and Louise Chatfield</a>)
