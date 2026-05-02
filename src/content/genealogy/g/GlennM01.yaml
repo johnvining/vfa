@@ -16,12 +16,17 @@ head:
     place: "Etna Green Cemetery   Etna Green, Indiana"
 marriages:
   - number: 1
-    date: Mabel Shumaker
-  - number: 2
-    date: Mary Lotimore
-  - number: 3
-    date: Ruby Irene Samules
     spouse:
+      givenName: Mabel
+      surname: Shumaker
+  - number: 2
+    spouse:
+      givenName: Mary
+      surname: Lotimore
+  - number: 3
+    spouse:
+      givenName: Ruby Irene
+      surname: Samules
       birth:
         date: "1915"
       death:

@@ -68,9 +68,9 @@ childrenGroups:
           place: "Simsbury, Connecticut"
         marriages:
           - number: 1
-            date: Wealthy Weston
+            spouse: Wealthy Weston
           - number: 2
-            date: Mary Mason
+            spouse: Mary Mason
         death:
           date: 17 November 1852/53
       - name: William Vining
@@ -96,7 +96,7 @@ childrenGroups:
             date: "1806"
             spouse: "Sarah &#8220;Sally&#8221; McLean"
           - number: 2
-            date: Sarah Goodwin
+            spouse: Sarah Goodwin
         death:
           date: "[11 or 13?] November 1848"
       - name: Philomathes M. Vining

@@ -30,8 +30,9 @@ marriages:
       burial:
         place: "Oak Hill Cemetery   Neenah, Wisconsin"
   - number: 2
-    date: Clara Alice Huxley
     spouse:
+      givenName: Clara Alice
+      surname: Huxley
       birth:
         date: "1836"
         place: Massachusetts
@@ -79,13 +80,13 @@ childrenGroups:
           date: December 1869
           place: Wisconsin
         marriages:
-          - date: "[...] [Alden?]"
+          - spouse: "[...] [Alden?]"
       - name: Gorham P. Vining
         birth:
           date: 18 October 1877
           place: Wisconsin
         marriages:
-          - date: "Grace P. [...]"
+          - spouse: "Grace P. [...]"
         death:
           date: February 1969
           place: "(last residence: Monterey, Indiana)"

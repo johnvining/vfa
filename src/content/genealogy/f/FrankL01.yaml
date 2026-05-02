@@ -43,7 +43,7 @@ childrenGroups:
           date: age 5 y. as of 1930 census
           place: Montanas
         marriages:
-          - date: "[...] Preston"
+          - spouse: "[...] Preston"
       - name: Robert J. Vining
         birth:
           date: 8 September 1925
@@ -58,7 +58,7 @@ childrenGroups:
           date: age 2 y. as of 1930 census
           place: Montana
         marriages:
-          - date: "[...] Frank"
+          - spouse: "[...] Frank"
       - name: Thomas Harry Vining
         entryId: ThomasH01
         entryLetter: T

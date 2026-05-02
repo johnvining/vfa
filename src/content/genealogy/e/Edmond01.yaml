@@ -16,16 +16,18 @@ head:
     place: "Bremerton, Washington"
 marriages:
   - number: 1
-    date: Mary M. Cathcart
     spouse:
+      givenName: Mary M.
+      surname: Cathcart
       birth:
         date: age 34 y. as of 1910 census
         place: Minnesota
       death:
         date: "1918"
   - number: 2
-    date: Minnie Ellen Argo
     spouse:
+      givenName: Minnie Ellen
+      surname: Argo
       birth:
         date: age 30 y. as of 1920 census
         place: Iowa
@@ -56,9 +58,9 @@ childrenGroups:
             spouse: Oscar Ness
             divorce: {}
           - number: 2
-            date: Roy Schabot
+            spouse: Roy Schabot
           - number: 3
-            date: "[...] Storey"
+            spouse: "[...] Storey"
       - name: DeWitt Allen Vining
         entryId: DeWittA01
         entryLetter: D
@@ -85,7 +87,7 @@ childrenGroups:
             spouse: Hugh Elkins
             divorce: {}
           - number: 2
-            date: Al Johnson
+            spouse: Al Johnson
       - name: Hazel Elaine Vining
         birth:
           date: 18 July 1928

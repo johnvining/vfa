@@ -26,13 +26,13 @@ childrenGroups:
       - name: daughter
       - name: son +
         marriages:
-          - date: "[...] Jones"
+          - spouse: "[...] Jones"
       - name: son +
         marriages:
-          - date: "[...] Smith"
+          - spouse: "[...] Smith"
       - name: son +
         marriages:
-          - date: "[...] Betram"
+          - spouse: "[...] Betram"
 docsUrl: Gsources/GeorgeW06doc.htm
 raw: |-
   <a name="GeorgeW06"></a><font size=+2>George Washington Vining</font>

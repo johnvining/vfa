@@ -18,7 +18,9 @@ marriages:
       surname: Taylor
       parents: "(dau. of William F. Taylor and Maggie [...])"
   - number: 2
-    date: "Terry [...]"
+    spouse:
+      givenName: Terry
+      surname: '[...]'
 childrenGroups:
   - children:
       - name: Carol Ann Vining

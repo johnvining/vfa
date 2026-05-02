@@ -17,8 +17,9 @@ head:
     place: "Hillcrest Cemetery   DeRuyter, New York"
 marriages:
   - number: 1
-    date: Kate Kellyhouse
     spouse:
+      givenName: Kate
+      surname: Kellyhouse
       birth:
         place: "Binghamton, New York"
       death:

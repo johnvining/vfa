@@ -36,7 +36,7 @@ childrenGroups:
         birth:
           date: January 1885
         marriages:
-          - date: R. T. Sessums
+          - spouse: R. T. Sessums
       - name: Joseph Alford Lee Vining
         entryId: JosephAL01
         entryLetter: J
@@ -44,7 +44,7 @@ childrenGroups:
           date: 1 June 1886
           place: Louisiana
         marriages:
-          - date: Gracie Gustavia Fryday
+          - spouse: Gracie Gustavia Fryday
         death:
           date: 27 February 1955
         burial:
@@ -56,7 +56,7 @@ childrenGroups:
           date: 19 January 1888
           place: Louisiana
         marriages:
-          - date: Lorena Grubbs
+          - spouse: Lorena Grubbs
         death:
           date: 21 December 1939
         burial:
@@ -68,7 +68,7 @@ childrenGroups:
           date: 15 May 1889
           place: Louisiana
         marriages:
-          - date: Laura Amanda Grubbs
+          - spouse: Laura Amanda Grubbs
         death:
           date: 25 May 1977
         burial:
@@ -112,7 +112,7 @@ childrenGroups:
         birth:
           date: 12 February 1903
         marriages:
-          - date: Lukie Irene Goyne
+          - spouse: Lukie Irene Goyne
         death:
           date: 22 October 1953
         burial:

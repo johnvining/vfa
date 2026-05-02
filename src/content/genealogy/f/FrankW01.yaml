@@ -60,7 +60,7 @@ childrenGroups:
         birth:
           date: 27 July 1881
         marriages:
-          - date: Bessie Curtis
+          - spouse: Bessie Curtis
         death:
           date: 2 January 1951
       - name: Austin James Vining
@@ -70,7 +70,7 @@ childrenGroups:
           date: 10 August 1884
           place: Illinois
         marriages:
-          - date: Fanny Darby
+          - spouse: Fanny Darby
         death:
           date: 20 April 1946
           place: "Wilmington, Illinois"
@@ -83,7 +83,7 @@ childrenGroups:
           date: 30 September 1886
           place: Illinois
         marriages:
-          - date: Ada Eversoll
+          - spouse: Ada Eversoll
         death:
           date: January 1963
           place: "(last residence: Illinois)"
@@ -92,9 +92,9 @@ childrenGroups:
           date: 25 April 1889
         marriages:
           - number: 1
-            date: T. A. Peters
+            spouse: T. A. Peters
           - number: 2
-            date: Bert Russell
+            spouse: Bert Russell
       - name: Arthur Ray Vining
         entryId: ArthurR01
         entryLetter: A
@@ -102,7 +102,7 @@ childrenGroups:
           date: 16 May 1892
           place: "Limestone Township, Illinois"
         marriages:
-          - date: Eunice Olive Corbett
+          - spouse: Eunice Olive Corbett
         death:
           date: 24 April 1964
           place: "(last residence: Illinois)"

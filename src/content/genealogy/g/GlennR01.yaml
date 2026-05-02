@@ -12,16 +12,18 @@ head:
     place: Michigan
 marriages:
   - number: 1
-    date: Lucille Eagle
     spouse:
+      givenName: Lucille
+      surname: Eagle
       birth:
         date: "1898"
         place: Michigan
       death:
         date: "1927"
   - number: 2
-    date: Gertrude M. Sampson
     spouse:
+      givenName: Gertrude M.
+      surname: Sampson
       birth:
         date: age 33 y. as of 1930 census
         place: Canada

@@ -33,9 +33,9 @@ childrenGroups:
           place: "[Montpelier or Greensburg?], Saint Helena Parish, Louisiana"
         marriages:
           - number: 1
-            date: Rosa Hart
+            spouse: Rosa Hart
           - number: 2
-            date: Phoebe Self
+            spouse: Phoebe Self
         death:
           date: 27 October 1928
           place: "Amite, Tangipahoa Parish, Louisiana"
@@ -51,9 +51,9 @@ childrenGroups:
           place: "Saint Helena Parish, Louisiana"
         marriages:
           - number: 1
-            date: Edna Dyward
+            spouse: Edna Dyward
           - number: 2
-            date: Pauline Woodridge
+            spouse: Pauline Woodridge
         death:
           date: 11 Apri 1924
       - name: Sarah Vining
@@ -61,7 +61,7 @@ childrenGroups:
           date: "1874"
           place: "Saint Helena Parish, Louisiana"
         marriages:
-          - date: Charles Chas Morris
+          - spouse: Charles Chas Morris
         death:
           date: "1952"
           place: "Amite, Louisiana"
@@ -71,7 +71,7 @@ childrenGroups:
           date: age 4 y. as of 1880 census
           place: "Saint Helena Parish, Louisiana"
         marriages:
-          - date: "[Alice or Allie] Bean"
+          - spouse: "[Alice or Allie] Bean"
         death:
           date: "Saint Helena Parish, Louisiana"
 docsUrl: Fsources/Frank01doc.htm

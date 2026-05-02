@@ -73,9 +73,9 @@ childrenGroups:
           place: Kansas
         marriages:
           - number: 1
-            date: Bessie M. Jones
+            spouse: Bessie M. Jones
           - number: 2
-            date: Hansena C. Moonsen
+            spouse: Hansena C. Moonsen
         death:
           date: 7 March 1976
         burial:
@@ -90,7 +90,7 @@ childrenGroups:
           date: February 1896
           place: Kansas
         marriages:
-          - date: "[...] White"
+          - spouse: "[...] White"
       - name: Flossie E. Vining
         birth:
           date: August 1898
@@ -100,7 +100,7 @@ childrenGroups:
           date: "1901"
           place: "Fredonia, Kansas"
         marriages:
-          - date: Arch Pennington
+          - spouse: Arch Pennington
       - name: Floyd Vining
         birth:
           date: Kansas

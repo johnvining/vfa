@@ -20,10 +20,10 @@ childrenGroups:
   - children:
       - name: Dora Vining
         marriages:
-          - date: "[...] Emery"
+          - spouse: "[...] Emery"
       - name: Georgianna Vining
         marriages:
-          - date: "[...] Morris"
+          - spouse: "[...] Morris"
       - name: Kenneth David Vining
         entryId: KennethD01
         entryLetter: K
@@ -31,7 +31,7 @@ childrenGroups:
           date: 24 September 1953
           place: "Miami, Florida"
         marriages:
-          - date: "Roxanne [...]"
+          - spouse: "Roxanne [...]"
         death:
           date: 16 January 2015
       - name: Jon R. Vining

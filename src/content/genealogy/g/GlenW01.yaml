@@ -17,7 +17,9 @@ head:
     place: "Riverside National Cemetery   Riverside, California"
 marriages:
   - number: 1
-    date: Dorothy Bolton
+    spouse:
+      givenName: Dorothy
+      surname: Bolton
   - number: 2
     date: "1968"
     spouse:
@@ -37,7 +39,7 @@ childrenGroups:
         birth:
           date: 26 May 1939
         marriages:
-          - date: Donna Waggner
+          - spouse: Donna Waggner
       - name: Kent M. Vining
         entryId: KentM01
         entryLetter: K

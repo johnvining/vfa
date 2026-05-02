@@ -25,7 +25,7 @@ childrenGroups:
         birth:
           date: 18 December 1945
         marriages:
-          - date: Buddy Summerlin
+          - spouse: Buddy Summerlin
         death:
           date: 19 October 2007
         burial:
@@ -35,7 +35,7 @@ childrenGroups:
       - name: Vince Vining
       - name: "[Eloise or Delane?] Vining"
         marriages:
-          - date: Larry Delk
+          - spouse: Larry Delk
       - name: Linda Vining
 docsUrl: Gsources/GeorgeV01doc.htm
 raw: |-

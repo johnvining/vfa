@@ -18,8 +18,9 @@ head:
     place: "Fairview Cemetery   Cedar Falls, Iowa"
 marriages:
   - number: 1
-    date: Mary Ella Chapman
     spouse:
+      givenName: Mary Ella
+      surname: Chapman
       parents: (dau. of Millard Penfield Chapman and Johanna Marie Mork)
       birth:
         date: "[29 or 19?] November 1888"
@@ -31,8 +32,9 @@ marriages:
         place: "Fairview Cemetery   Cedar Falls, Iowa"
     divorce: {}
   - number: 2
-    date: Lillian Dudley
     spouse:
+      givenName: Lillian
+      surname: Dudley
       birth:
         date: "1893"
       death:
@@ -63,9 +65,9 @@ childrenGroups:
           place: "Blue Earth, Minnesota"
         marriages:
           - number: 1
-            date: William Charles Thomas
+            spouse: William Charles Thomas
           - number: 2
-            date: Bruce Billings
+            spouse: Bruce Billings
           - number: 3
             date: 26 January 1935
             place: "Galena, Illinois"
