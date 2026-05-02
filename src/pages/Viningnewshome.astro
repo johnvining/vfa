@@ -14,12 +14,13 @@ const renderedNews = await Promise.all(
 
 const allGenealogy = await getCollection('genealogy');
 
+type Link = string | { url: string; name?: string };
 type GeneUpdate = {
   id: string;
   letter: string;
   name: string;
   what?: string;
-  url?: string;
+  url?: Link | Link[];
   thanks?: string;
 };
 

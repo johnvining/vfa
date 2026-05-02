@@ -8,7 +8,7 @@ parentDesc: David H. Vining and Rocksy Susan Edwards
 head:
   givenName: Horace Oscar
   birth:
-    date: 27 February 1847
+    date: 23 February 1849
     place: "Palmyra, Pennsylvania"
   death:
     date: 19 November 1885
@@ -96,6 +96,15 @@ docsUrl: Hsources/HoraceO01doc.htm
 updates:
   - date: "2026-05-01"
     what: "corrected burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (on the original Vining family property in Frontenac, within Florence Township)"
+  - date: "2026-05-01"
+    what: "corrected birth date from 27 February 1847 to 23 February 1849 (tombstone inscription at Vining Cemetery; corroborated by 1860 census, age 11, and 1870 census, age 21)"
+    url:
+      - url: "https://www.findagrave.com/memorial/27541346/horace-oscar-vining"
+        name: "Tombstone"
+      - url: "https://www.ancestry.com/search/collections/7667/records/45477613"
+        name: "1860 Census"
+      - url: "https://www.ancestry.com/search/collections/7163/records/41941535"
+        name: "1870 Census"
 raw: |-
   <a name="HoraceO01"></a><font size=+2>Horace Oscar Vining</font>
      (son of <a href="Dfamilies.htm#DavidH01">David H. Vining and Rocksy Susan Edwards</a>)

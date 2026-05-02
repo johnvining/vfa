@@ -109,7 +109,16 @@ const genealogy = defineCollection({
     updates: z.array(z.object({
       date: z.string(),           // YYYY-MM or YYYY-MM-DD
       what: z.string().optional(),
-      url: z.string().optional(),
+      // Each link can be either a bare URL string or an object with an
+      // optional name; `url` accepts a single link or an array of them.
+      url: z.union([
+        z.string(),
+        z.object({ url: z.string(), name: z.string().optional() }),
+        z.array(z.union([
+          z.string(),
+          z.object({ url: z.string(), name: z.string().optional() }),
+        ])),
+      ]).optional(),
       thanks: z.string().optional(),
     })).optional(),
   }),

@@ -50,12 +50,22 @@ const sorted = [...(updates ?? [])].sort((a, b) => b.date.localeCompare(a.date))
 
 <div class="doc-page">
   <ul>
-    {sorted.map(u => (
-      <li>
-        <b>{formatDate(u.date)}</b>
-        {u.what && <Fragment> &#8212; {u.what}{u.url && <Fragment> <a href={u.url} target="_blank">(link)</a></Fragment>}</Fragment>}
-      </li>
-    ))}
+    {sorted.map(u => {
+      const raw = Array.isArray(u.url) ? u.url : (u.url ? [u.url] : []);
+      const links = raw.map(item =>
+        typeof item === 'string' ? { url: item, name: undefined } : item
+      );
+      return (
+        <li>
+          <b>{formatDate(u.date)}</b>
+          {u.what && <Fragment> &#8212; {u.what}</Fragment>}
+          {links.map((link, i) => {
+            const label = link.name ?? (links.length > 1 ? `link ${i + 1}` : 'link');
+            return <Fragment> <a href={link.url} target="_blank">({label})</a></Fragment>;
+          })}
+        </li>
+      );
+    })}
   </ul>
 </div>
 
