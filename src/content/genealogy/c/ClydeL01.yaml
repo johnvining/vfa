@@ -33,7 +33,7 @@ childrenGroups:
           date: 20 July 1929
         marriages:
           - number: 1
-            date: Robert Alwine
+            spouse: Robert Alwine
           - number: 2
             date: "[&#8230;] Page"
       - name: David Allen Vining
@@ -44,7 +44,7 @@ childrenGroups:
           place: "Etna Green, Indiana"
         marriages:
           - number: 1
-            date: Beverly Hanson
+            spouse: Beverly Hanson
           - number: 2
             date: "Betty [&#8230;]"
         death:
@@ -56,7 +56,7 @@ childrenGroups:
           date: 22 July 1933
           place: "Etna Green, Indiana"
         marriages:
-          - date: Phyllis A. Struble
+          - spouse: Phyllis A. Struble
         death:
           date: 1 November 1993
           place: "Lehigh Acres, Florida"

@@ -15,8 +15,10 @@ head:
     place: "Saginaw, Michigan"
 marriages:
   - number: 1
-    date: Kay Smith
     divorce: {}
+    spouse:
+      givenName: Kay
+      surname: Smith
   - number: 2
     date: 13 November 1971
     place: "Decker, Michigan"
@@ -36,7 +38,7 @@ childrenGroups:
         birth:
           date: 17 June 1963
         marriages:
-          - date: Lu Ann Bradley
+          - spouse: Lu Ann Bradley
         death:
           date: 26 September 2003
           place: "(last residence: Saginaw, Michigan)"

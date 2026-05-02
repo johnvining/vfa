@@ -45,7 +45,7 @@ childrenGroups:
           place: Michigan
         marriages:
           - number: 1
-            date: Hattie Lewis
+            spouse: Hattie Lewis
           - number: 2
             date: 12 y. as of 1900 census
             spouse: Anna Greene
@@ -70,7 +70,7 @@ childrenGroups:
           date: "[January?] 1847"
           place: "[Michigan or Indiana?]"
         marriages:
-          - date: "Mary A. [Scuttle or Cosgrove ?]"
+          - spouse: "Mary A. [Scuttle or Cosgrove ?]"
       - name: Charles Fournier Vining
         entryId: CharlesF01
         birth:
@@ -82,7 +82,7 @@ childrenGroups:
             place: "Clark Lake, Michigan"
             spouse: Nancy Ophelia Preston
           - number: 2
-            date: "Viola Adora Redner Vining [widow of his brother Thomas]"
+            spouse: "Viola Adora Redner Vining [widow of his brother Thomas]"
         death:
           date: "1924"
         burial:
@@ -97,7 +97,7 @@ childrenGroups:
             place: Michigan
             spouse: Thomas F. Seaman
           - number: 2
-            date: John Garlinghouse
+            spouse: John Garlinghouse
       - name: Thomas Paine Vining
         entryId: ThomasP03
         entryLetter: T
@@ -124,7 +124,7 @@ childrenGroups:
             place: Michigan
             spouse: Alwilda Russell
           - number: 2
-            date: Mary Leo (Bartlett) (Pelham)
+            spouse: Mary Leo (Bartlett) (Pelham)
         death:
           date: 27 May 1929
           place: "Brooklyn, Michigan"

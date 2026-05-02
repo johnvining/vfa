@@ -37,14 +37,14 @@ childrenGroups:
         birth:
           date: "1922"
         marriages:
-          - date: Martha Matthews
+          - spouse: Martha Matthews
         death:
           date: "1988"
       - name: Jesse David Vining
         birth:
           date: "1926"
         marriages:
-          - date: Edna Eddie
+          - spouse: Edna Eddie
         death:
           date: "1975"
 raw: |-

@@ -35,15 +35,15 @@ childrenGroups:
           place: Illinois
         marriages:
           - number: 1
-            date: Hans Breiholtz (d.)
+            spouse: Hans Breiholtz (d.)
           - number: 2
-            date: Benjamin Bain
+            spouse: Benjamin Bain
       - name: Estella Pearl Vining
         birth:
           date: 11 October 1900
           place: Illinois
         marriages:
-          - date: Frank Rhoads
+          - spouse: Frank Rhoads
       - name: Alice Ruth Vining
         birth:
           date: 16 February 1903
@@ -70,7 +70,7 @@ childrenGroups:
           date: 25 April 1909
           place: Iowa
         marriages:
-          - date: Virginia Elizabeth Tillotson
+          - spouse: Virginia Elizabeth Tillotson
         death:
           date: 27 August 1992
           place: "Ash Flat, Arkansas"

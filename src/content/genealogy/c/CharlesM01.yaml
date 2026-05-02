@@ -15,9 +15,13 @@ head:
     place: "Atlanta, Georgia"
 marriages:
   - number: 1
-    date: Jimmie Earline Breckenridge
+    spouse:
+      givenName: Jimmie Earline
+      surname: Breckenridge
   - number: 2
-    date: Christine Woods
+    spouse:
+      givenName: Christine
+      surname: Woods
 childrenGroups:
   - spouseRef: Jimmie Breckenridge
     headingText: children by Jimmie Breckenridge
@@ -26,14 +30,14 @@ childrenGroups:
         birth:
           date: 14 October 1923
         marriages:
-          - date: Sam McDonald
+          - spouse: Sam McDonald
       - name: James Allen Vining
         entryId: JamesA02
         entryLetter: J
         birth:
           date: 26 August 1928
         marriages:
-          - date: Sarah Thornton
+          - spouse: Sarah Thornton
         death:
           date: 7 January 2018
           place: "Meridian, Mississippi"

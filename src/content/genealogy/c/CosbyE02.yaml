@@ -11,8 +11,9 @@ head:
     date: 31 May 1935
 marriages:
   - number: 1
-    date: Carolyn Sue Carroll
     spouse:
+      givenName: Carolyn Sue
+      surname: Carroll
       birth:
         date: 18 March 1936
     divorce:
@@ -45,7 +46,7 @@ childrenGroups:
             spouse: Bobby Lara
             divorce: {}
           - number: 2
-            date: Bruce Boone
+            spouse: Bruce Boone
       - name: Teri Lynn Vining
         birth:
           date: 5 July 1958
@@ -54,7 +55,7 @@ childrenGroups:
             spouse: Richard Reader
             divorce: {}
           - number: 2
-            date: Craig Taylor
+            spouse: Craig Taylor
       - name: Brenda Sue Vining
         birth:
           date: 8 December 1959
@@ -63,7 +64,7 @@ childrenGroups:
             spouse: Douglas Lauck
             divorce: {}
           - number: 2
-            date: Allen Bradshaw
+            spouse: Allen Bradshaw
 raw: |-
   <a name="CosbyE02"></a><font size=+2>Cosby Eugene Vining</font>
      (son of <a href="#CosbyE01">Cosby Evans Vining and Flora Malvina Masters</a>)

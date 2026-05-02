@@ -26,7 +26,7 @@ childrenGroups:
         birth:
           date: 24 July 1926
         marriages:
-          - date: Betty Fogal
+          - spouse: Betty Fogal
       - name: Max W. Vining
         entryId: MaxW01
         entryLetter: M
@@ -34,7 +34,7 @@ childrenGroups:
           date: 24 March 1928
           place: Michigan
         marriages:
-          - date: Lois Marjorie Potter
+          - spouse: Lois Marjorie Potter
         death:
           date: 10 December 2000
           place: "(last residence: Saginaw, Michigan)"
@@ -44,7 +44,7 @@ childrenGroups:
         birth:
           date: 21 August 1929
         marriages:
-          - date: Lee Galloway
+          - spouse: Lee Galloway
       - name: Ronald Wayne Vining
         entryId: RonaldW02
         entryLetter: R
@@ -61,7 +61,7 @@ childrenGroups:
         birth:
           date: 28 March 1932
         marriages:
-          - date: Darwin Donley
+          - spouse: Darwin Donley
         death:
           date: before 10 August 2007
       - name: "Clarence E. &#8220;Pete&#8221; Vining"
@@ -84,7 +84,7 @@ childrenGroups:
           date: 24 July 1938
           place: "Decker, Michigan"
         marriages:
-          - date: Merle Ford
+          - spouse: Merle Ford
         death:
           date: 31 January 2001
           place: "(last residence: Venice, Florida)"

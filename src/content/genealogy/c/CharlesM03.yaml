@@ -17,8 +17,9 @@ head:
     place: "Laurel Land Memorial Park   Dallas, Texas"
 marriages:
   - number: 1
-    date: Anna Leona Banks
     spouse:
+      givenName: Anna Leona
+      surname: Banks
       birth:
         date: 9 December 1902
       death:
@@ -26,8 +27,9 @@ marriages:
       burial:
         place: "Laurel Land Memorial Park   Dallas, Texas"
   - number: 2
-    date: Gene O. Young
     spouse:
+      givenName: Gene O.
+      surname: Young
       birth:
         date: 4 August 1927
 childrenGroups:
@@ -40,7 +42,7 @@ childrenGroups:
           date: 17 July 1921
           place: Texas
         marriages:
-          - date: Jean Oleta Young
+          - spouse: Jean Oleta Young
         death:
           date: 23 August 1984
           place: "Texas   (last residence: Dallas, Texas)"

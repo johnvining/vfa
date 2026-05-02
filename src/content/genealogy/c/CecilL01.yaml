@@ -36,7 +36,7 @@ childrenGroups:
           date: 8 December 1905
           place: New York
         marriages:
-          - date: "[...] Marion"
+          - spouse: "[...] Marion"
         death:
           date: 4 February 1984
           place: Florida
@@ -54,7 +54,7 @@ childrenGroups:
           date: 8 December 1919
           place: Florida
         marriages:
-          - date: Sarah Henry
+          - spouse: Sarah Henry
         death:
           date: August 1957
           place: "Volusia, Florida"

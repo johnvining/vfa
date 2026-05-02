@@ -33,7 +33,7 @@ childrenGroups:
           date: December 1860
           place: New York
         marriages:
-          - date: William R. Parker
+          - spouse: William R. Parker
       - name: Benjamin L. Vining
         entryId: BenjaminL02
         entryLetter: B
@@ -41,7 +41,7 @@ childrenGroups:
           date: "1861"
           place: New York
         marriages:
-          - date: "Esther [Kellyhouse or Callyhouse?]"
+          - spouse: "Esther [Kellyhouse or Callyhouse?]"
         death:
           date: 28 January 1933
           place: "Lower Cincinnatus, Cortland County, New York"
@@ -59,7 +59,7 @@ childrenGroups:
           place: New York
         marriages:
           - number: 1
-            date: Kate Kellyhouse
+            spouse: Kate Kellyhouse
           - number: 2
             date: 14 June 1947
             place: "Cortland [County?], New York"

@@ -17,10 +17,13 @@ head:
     place: "Elm Lawn Cemetery   Elmhurst, Illinois"
 marriages:
   - number: 1
-    date: Jean Forrester
-  - number: 2
-    date: Myrtle Burns
     spouse:
+      givenName: Jean
+      surname: Forrester
+  - number: 2
+    spouse:
+      givenName: Myrtle
+      surname: Burns
       parents: "(dau. of John M. Burns and Rae Lois [...])"
       birth:
         date: 7 June 1907
@@ -37,9 +40,9 @@ childrenGroups:
           place: "Chicago, Illinois"
         marriages:
           - number: 1
-            date: "Jessie [...]"
+            spouse: "Jessie [...]"
           - number: 2
-            date: "[...]"
+            spouse: "[...]"
           - number: 3
             date: 30 August 1992
             spouse: "Maui, Hawaii   Nita Rae Killen"
@@ -64,7 +67,7 @@ childrenGroups:
           place: "(last residence: Waterbury, Connecticut)"
       - name: Verna Rae Vining
         marriages:
-          - date: Joseph Pardo
+          - spouse: Joseph Pardo
         death:
           date: "1994"
 raw: |-

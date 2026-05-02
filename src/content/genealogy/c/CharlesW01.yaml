@@ -42,7 +42,7 @@ childrenGroups:
           date: 3 January 1938
           place: Indiana
         marriages:
-          - date: John Schuh
+          - spouse: John Schuh
       - name: Forest Glee Vining
         entryId: ForestG01
         entryLetter: F
@@ -50,7 +50,7 @@ childrenGroups:
           date: 22 January 1940
           place: Indiana
         marriages:
-          - date: "Betty [...]"
+          - spouse: "Betty [...]"
   - spouseRef: Mary M. Whitker
     headingText: children by Mary M. Whitker
     children:
@@ -58,7 +58,7 @@ childrenGroups:
         birth:
           date: 12 August 1943
         marriages:
-          - date: Stanley Craft
+          - spouse: Stanley Craft
       - name: Sharon Louise Vining
         entryId: SharonL01
         entryLetter: S
@@ -69,7 +69,7 @@ childrenGroups:
         birth:
           date: 28 December 1949
         marriages:
-          - date: Margaret Ray
+          - spouse: Margaret Ray
 docsUrl: Csources/CharlesW01doc.htm
 raw: |-
   <a name="CharlesW01"></a><font size=+2>Charles Wendell Vining</font>

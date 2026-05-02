@@ -42,7 +42,7 @@ childrenGroups:
         birth:
           date: 24 September 1811
         marriages:
-          - date: George Hodson
+          - spouse: George Hodson
         death:
           date: "1867"
       - name: William Vining
@@ -80,7 +80,7 @@ childrenGroups:
         birth:
           date: 1 January 1823
         marriages:
-          - date: Richard Poole
+          - spouse: Richard Poole
         death:
           date: December 1908
       - name: Emma Vining
@@ -92,7 +92,7 @@ childrenGroups:
         birth:
           date: 11 January 1829
         marriages:
-          - date: Mary Hughes
+          - spouse: Mary Hughes
         death:
           date: "1872"
 raw: |-

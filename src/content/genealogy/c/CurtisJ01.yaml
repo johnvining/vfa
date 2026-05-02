@@ -19,7 +19,9 @@ marriages:
       givenName: Kimberly Kay
       surname: Dickerson
   - number: 2
-    date: Melodee Sue Miller
+    spouse:
+      givenName: Melodee Sue
+      surname: Miller
 childrenGroups:
   - headingText: child by Kimberly Kay Dickerson
     children:

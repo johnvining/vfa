@@ -29,7 +29,7 @@ childrenGroups:
           date: 1 September 1958
           place: "Fargo, North Dakota"
         marriages:
-          - date: "[...] Bryan"
+          - spouse: "[...] Bryan"
       - name: Roel Craig Vining
         entryId: RoelC01
         entryLetter: R
@@ -37,7 +37,7 @@ childrenGroups:
           date: 28 December 1960
           place: "Fargo, North Dakota"
         marriages:
-          - date: "[...] Holmes"
+          - spouse: "[...] Holmes"
 docsUrl: Csources/CliffordR01doc.htm
 raw: |-
   <a name="CliffordR01"></a><font size=+2>Clifford Ray Vining</font>

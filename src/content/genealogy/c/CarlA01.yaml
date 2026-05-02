@@ -17,13 +17,19 @@ head:
     place: "Woodlawn Memorial Park I   Joliet, Illinois"
 marriages:
   - number: 1
-    date: Bernice Rademacher
     divorce: {}
+    spouse:
+      givenName: Bernice
+      surname: Rademacher
   - number: 2
-    date: Margaret Phelan
     divorce: {}
+    spouse:
+      givenName: Margaret
+      surname: Phelan
   - number: 3
-    date: Mrs. Ha Mae Pope Baker
+    spouse:
+      givenName: Mrs. Ha Mae Pope
+      surname: Baker
 childrenGroups:
   - spouseRef: "[...]"
     headingText: "children by [...]"

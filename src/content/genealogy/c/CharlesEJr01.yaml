@@ -15,9 +15,12 @@ head:
     place: "Palm Desert, California"
 marriages:
   - number: 1
-    date: "Jessie [...]"
+    spouse:
+      givenName: Jessie
+      surname: '[...]'
   - number: 2
-    date: "[...]"
+    spouse:
+      givenName: '[...]'
   - number: 3
     date: 30 August 1992
     place: "Maui, Hawaii"
@@ -28,10 +31,10 @@ childrenGroups:
   - children:
       - name: Vicki Lynn Vining
         marriages:
-          - date: "[...] Meece"
+          - spouse: "[...] Meece"
       - name: Stacey Jean Vining
         marriages:
-          - date: "[...] Kelley"
+          - spouse: "[...] Kelley"
       - name: Charles Richard Vining
 docsUrl: Csources/CharlesEJr01doc.htm
 raw: |-

@@ -14,14 +14,16 @@ head:
     place: "Oak Harbor, Ottawa County, Ohio"
 marriages:
   - number: 1
-    date: Mahala Jones
     spouse:
+      givenName: Mahala
+      surname: Jones
       birth:
         date: age 40 y. as of 1850 census
         place: Pennsylvania
   - number: 2
-    date: Harriet Croney
     spouse:
+      givenName: Harriet
+      surname: Croney
       birth:
         date: age 32 y. as of 1860 census
         place: Canada

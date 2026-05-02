@@ -36,7 +36,7 @@ childrenGroups:
           date: 30 June 1925
           place: Louisiana
         marriages:
-          - date: Netye Douglas
+          - spouse: Netye Douglas
         death:
           date: 16 June 2001
         burial:
@@ -46,7 +46,7 @@ childrenGroups:
           date: 24 February 1927
           place: "Ponchatoula, Louisiana"
         marriages:
-          - date: Paul Croset Gordon
+          - spouse: Paul Croset Gordon
         death:
           date: 27 July 2001
           place: "Hammond, Louisiana"
@@ -66,7 +66,7 @@ childrenGroups:
           date: 10 January 1932
           place: "Ponchatoula, Louisiana"
         marriages:
-          - date: Frank Guiffreda
+          - spouse: Frank Guiffreda
         death:
           date: 22 June 2007
           place: "Ponchatoula, Louisiana"
@@ -74,7 +74,7 @@ childrenGroups:
           place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
       - name: Alberta H. Vining
         marriages:
-          - date: "[...] M[e?]yers"
+          - spouse: "[...] M[e?]yers"
       - name: Walter Levi Vining
         birth:
           date: age 2 y. as of 1940 census
@@ -94,9 +94,9 @@ childrenGroups:
           date: 23 March 1948
         marriages:
           - number: 1
-            date: "[...]"
+            spouse: "[...]"
           - number: 2
-            date: Elizabeth Cook
+            spouse: Elizabeth Cook
         death:
           date: 26 May 2003
           place: "Hammond, Louisiana"

@@ -46,7 +46,7 @@ childrenGroups:
           date: "1916"
           place: Missouri
         marriages:
-          - date: "[...] Rodriguez"
+          - spouse: "[...] Rodriguez"
       - name: Dorothy E. Vining
         birth:
           date: "1917"
@@ -56,7 +56,7 @@ childrenGroups:
           date: "1919"
           place: Missouri
         marriages:
-          - date: Lena Troha
+          - spouse: Lena Troha
         death:
           date: "[...]"
         burial:

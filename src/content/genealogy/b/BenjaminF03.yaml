@@ -39,7 +39,7 @@ childrenGroups:
           date: 26 September 1908
           place: "Atlanta, Fulton County, Georgia"
         marriages:
-          - date: Corene Farlow
+          - spouse: Corene Farlow
         death:
           date: 8 March 1975
           place: "Atlanta, Fulton County, Georgia"
@@ -50,7 +50,7 @@ childrenGroups:
           date: 25 February 1911
           place: "Atlanta, Fulton County, Georgia"
         marriages:
-          - date: Harold Edwin Gilbert
+          - spouse: Harold Edwin Gilbert
         death:
           date: 21 February 1988
           place: "Miami, MIami-Dade County, Florida"
@@ -62,15 +62,15 @@ childrenGroups:
           place: "Atlanta, Fulton County, Georgia"
         marriages:
           - number: 1
-            date: Carl Cronan
+            spouse: Carl Cronan
           - number: 2
-            date: Harry Witt
+            spouse: Harry Witt
       - name: Louise C. Vining
         birth:
           date: 2 September 1918
           place: "[Atlanta or Thomaston?], Georgia"
         marriages:
-          - date: William O. Tallent
+          - spouse: William O. Tallent
         death:
           date: 7 June 2003
           place: "Macon [County?], Missouri"
@@ -81,7 +81,7 @@ childrenGroups:
           date: 21 July 1922
           place: "Atlanta, Fulton County, Georgia"
         marriages:
-          - date: "Hazel [...]"
+          - spouse: "Hazel [...]"
         burial:
           place: "Miami, Florida"
       - name: Frankie Lee Vining

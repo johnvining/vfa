@@ -87,7 +87,7 @@ childrenGroups:
         birth:
           date: 8 February 1805
         marriages:
-          - date: Martha C. Thomas
+          - spouse: Martha C. Thomas
         death:
           date: 4 February 1894
       - name: Converse Wing Vining
@@ -97,7 +97,7 @@ childrenGroups:
           date: "[27 or 24?] February 1807"
           place: "North Yarmouth, Cumberland County, Maine"
         marriages:
-          - date: Esther Hall Worthley
+          - spouse: Esther Hall Worthley
         death:
           date: 12 April 1887
           place: "Avon, Franklin County, Maine"
@@ -123,9 +123,9 @@ childrenGroups:
           place: Maine
         marriages:
           - number: 1
-            date: Mary Haines
+            spouse: Mary Haines
           - number: 2
-            date: Louisa T. Stevens
+            spouse: Louisa T. Stevens
         death:
           date: 13 March 1889
         burial:
@@ -136,7 +136,7 @@ childrenGroups:
         birth:
           date: 16 March 1813
         marriages:
-          - date: Louisa Jane Worthley
+          - spouse: Louisa Jane Worthley
         death:
           date: "1878"
         burial:

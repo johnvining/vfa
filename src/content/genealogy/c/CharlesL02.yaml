@@ -18,10 +18,13 @@ head:
     place: "Oak Grove Cemetery   Oak Grove, Louisiana"
 marriages:
   - number: 1
-    date: Bobbie Jean White
-  - number: 2
-    date: Ruby Ruby Pippens
     spouse:
+      givenName: Bobbie Jean
+      surname: White
+  - number: 2
+    spouse:
+      givenName: Ruby Ruby
+      surname: Pippens
       birth:
         date: 21 September 1911
       death:
@@ -58,7 +61,7 @@ childrenGroups:
       - name: Randall E. Vining
       - name: Bobbie Vining
         marriages:
-          - date: Albert Donald
+          - spouse: Albert Donald
       - name: Helen Vining
         marriages:
           - date: "[&#8230;] Meaux"

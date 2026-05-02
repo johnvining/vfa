@@ -51,7 +51,7 @@ childrenGroups:
           date: 3 October 1916
           place: New York
         marriages:
-          - date: Earlbetta De Ette Belles
+          - spouse: Earlbetta De Ette Belles
         death:
           date: November 1982
           place: "(last residence: Binghamton, New York)"
@@ -73,7 +73,7 @@ childrenGroups:
         birth:
           date: 3 January 1923
         marriages:
-          - date: Lillian Ropic
+          - spouse: Lillian Ropic
         death:
           date: 9 November 1996
           place: "(last residence: Johnson City, New York)"
@@ -93,7 +93,7 @@ childrenGroups:
             spouse: "Dee [...]"
             divorce: {}
           - number: 2
-            date: "Elizabeth [...]"
+            spouse: "Elizabeth [...]"
         death:
           date: 17 June 1979
       - name: "John Richard &#8220;Jack&#8221; Vining"

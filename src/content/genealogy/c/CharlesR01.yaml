@@ -16,10 +16,14 @@ head:
     place: "St. Petersburg, Florida"
 marriages:
   - number: 1
-    date: Edna Chapman
     divorce: {}
+    spouse:
+      givenName: Edna
+      surname: Chapman
   - number: 2
-    date: "Frances [...]"
+    spouse:
+      givenName: Frances
+      surname: '[...]'
 childrenGroups:
   - headingText: "child by ?"
     children:

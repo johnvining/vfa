@@ -49,7 +49,7 @@ childrenGroups:
         birth:
           date: 9 October 1913
         marriages:
-          - date: "[...] Sucor"
+          - spouse: "[...] Sucor"
       - name: Nancy Vining
         birth:
           date: "age 3 y., 9 m. as of 1920 census"
@@ -59,7 +59,7 @@ childrenGroups:
           date: 8 March 1919
           place: New York
         marriages:
-          - date: Jenson Ross
+          - spouse: Jenson Ross
 docsUrl: Csources/CorneliusW02doc.htm
 raw: |-
   <a name="CorneliusW02"></a><font size=+2>Cornelius Wright Vining</font>

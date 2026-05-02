@@ -40,7 +40,7 @@ childrenGroups:
           date: 27 November 1932
           place: "Topeka, Shawnee County, Kansas"
         marriages:
-          - date: "[...] Rogers"
+          - spouse: "[...] Rogers"
         death:
           date: 23 January 2016
           place: "Topeka, Shawnee County, Kansas"
@@ -66,7 +66,7 @@ childrenGroups:
           place: Kansas
       - name: Laura Beth Vining
         marriages:
-          - date: "[...] Fletcher"
+          - spouse: "[...] Fletcher"
 docsUrl: Csources/CharlesB02doc.htm
 raw: |-
   <a name="CharlesB02"></a><font size=+2>Charles Benjamin Vining</font>

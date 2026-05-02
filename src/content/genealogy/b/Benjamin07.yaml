@@ -18,8 +18,9 @@ marriages:
   - number: 1
     date: "Ann [&#8230;]"
   - number: 2
-    date: Mary Middleton
     spouse:
+      givenName: Mary
+      surname: Middleton
       parents: "(dau. of Hugh Middleton and [&#8230;])"
       birth:
         date: "1705"
@@ -49,7 +50,7 @@ childrenGroups:
         birth:
           date: ca. 1730
         marriages:
-          - date: Charles Inglis
+          - spouse: Charles Inglis
       - name: Benjamin Vining
         birth:
           date: ca. 1730

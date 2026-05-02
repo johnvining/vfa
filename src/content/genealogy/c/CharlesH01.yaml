@@ -17,8 +17,10 @@ head:
     place: "Village Cemetery   Strong, Maine"
 marriages:
   - number: 1
-    date: "Carolyn Hunter (of Strong, Maine)"
     spouse:
+      givenName: Carolyn
+      surname: Hunter
+      from: Strong, Maine
       birth:
         date: "age 35 y., 7 m., 23 d. at death"
         place: Maine

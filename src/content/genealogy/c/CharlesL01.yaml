@@ -37,13 +37,13 @@ childrenGroups:
           date: 30 July 1941
           place: "St. Paul, Minnesota"
         marriages:
-          - date: Duane H. Schroeder
+          - spouse: Duane H. Schroeder
       - name: Jo Anne Vining
         birth:
           date: 29 August 1944
           place: "St. Paul, Minnesota"
         marriages:
-          - date: Thomas Wilkinson
+          - spouse: Thomas Wilkinson
       - name: Linda Vining
         birth:
           date: 5 November 1948
@@ -55,7 +55,7 @@ childrenGroups:
         birth:
           date: 2 February 1960
         marriages:
-          - date: Dennis Norberg
+          - spouse: Dennis Norberg
 docsUrl: Csources/CharlesL01doc.htm
 raw: |-
   <a name="CharlesL01"></a><font size=+2>Charles L. Vining</font>

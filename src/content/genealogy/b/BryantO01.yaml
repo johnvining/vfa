@@ -41,7 +41,7 @@ childrenGroups:
           date: 6 April 1909
           place: "Wilsey, Morris County, Kansas"
         marriages:
-          - date: Alpharetta Hight
+          - spouse: Alpharetta Hight
         death:
           date: "[?]"
         burial:
@@ -62,9 +62,9 @@ childrenGroups:
           place: "Wilsey, Morris County, Kansas"
         marriages:
           - number: 1
-            date: Mary Jean Stone
+            spouse: Mary Jean Stone
           - number: 2
-            date: Geraldine Marie Harris
+            spouse: Geraldine Marie Harris
         death:
           date: 13 June 1996
       - name: Alberta Lorraine Vining
@@ -72,7 +72,7 @@ childrenGroups:
           date: 25 September 1918
           place: "Wilsey, Morris County, Kansas"
         marriages:
-          - date: Verel Charles Westover
+          - spouse: Verel Charles Westover
       - name: Ladd Vining
         birth:
           date: 28 July 1922
@@ -88,9 +88,9 @@ childrenGroups:
           place: "Wilsey, Morris County, Kansas"
         marriages:
           - number: 1
-            date: Jack Moskovitz
+            spouse: Jack Moskovitz
           - number: 2
-            date: Art Hertzing
+            spouse: Art Hertzing
       - name: Willis Dean Vining
         entryId: WillisD01
         entryLetter: W
@@ -98,7 +98,7 @@ childrenGroups:
           date: May 1926
           place: "Wilsey, Morris County, Kansas"
         marriages:
-          - date: Lois Murphy
+          - spouse: Lois Murphy
       - name: John Curtis Vining
         birth:
           date: 11 September 1929
@@ -123,9 +123,9 @@ childrenGroups:
           place: "Wilsey, Morris County, Kansas"
         marriages:
           - number: 1
-            date: Coy Murray Carter
+            spouse: Coy Murray Carter
           - number: 2
-            date: Bill Jack Tippit
+            spouse: Bill Jack Tippit
 docsUrl: Bsources/BryantO01doc.htm
 raw: |-
   <a name="BryantO01"></a><font size=+2>Bryant Oliver Vining</font>

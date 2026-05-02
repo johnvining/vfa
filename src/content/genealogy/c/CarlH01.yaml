@@ -22,7 +22,7 @@ childrenGroups:
         birth:
           date: 19 August 1937
         marriages:
-          - date: Michael Troy Westmoreland
+          - spouse: Michael Troy Westmoreland
       - name: Terrence Wiley Vining
         entryId: TerrenceW01
         entryLetter: T
@@ -30,7 +30,7 @@ childrenGroups:
           date: 22 May 1941
           place: "Detroit, Wayne County, Michigan"
         marriages:
-          - date: Patricia Ann Bookhardt
+          - spouse: Patricia Ann Bookhardt
 docsUrl: Csources/CarlH01doc.htm
 raw: |-
   <a name="CarlH01"></a><font size=+2>Carl Horace Vining</font>

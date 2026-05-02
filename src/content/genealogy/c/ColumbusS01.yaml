@@ -34,7 +34,7 @@ childrenGroups:
         birth:
           date: 7 February 1887
         marriages:
-          - date: Florence Imogene Jackson
+          - spouse: Florence Imogene Jackson
         death:
           date: 16 April 1962
         burial:
@@ -53,9 +53,9 @@ childrenGroups:
           place: "Savannah, Georgia"
         marriages:
           - number: 1
-            date: Lucille Kilpatrick
+            spouse: Lucille Kilpatrick
           - number: 2
-            date: Charles Lou King
+            spouse: Charles Lou King
         death:
           date: 20 July 1970
           place: Florida
@@ -65,14 +65,14 @@ childrenGroups:
         birth:
           date: "1894"
         marriages:
-          - date: Walter J. Timmerman
+          - spouse: Walter J. Timmerman
       - name: Gus Columbus Vining
         entryId: GusC01
         entryLetter: G
         birth:
           date: 25 October 1896
         marriages:
-          - date: Ethel Malone
+          - spouse: Ethel Malone
         death:
           date: 22 February 1959
           place: Georgia
@@ -82,7 +82,7 @@ childrenGroups:
         birth:
           date: 4 September 1899
         marriages:
-          - date: Doris Goodbread
+          - spouse: Doris Goodbread
         death:
           date: 29 June 1964
         burial:
@@ -91,12 +91,12 @@ childrenGroups:
         birth:
           date: "1901"
         marriages:
-          - date: Frank L. Fender
+          - spouse: Frank L. Fender
       - name: Jesse Cleveland Vining
         birth:
           date: 22 February 1904
         marriages:
-          - date: "Nina M. [...]"
+          - spouse: "Nina M. [...]"
         death:
           date: 24 July 1977
           place: Georgia
