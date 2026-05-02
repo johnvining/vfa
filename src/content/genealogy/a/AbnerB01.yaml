@@ -82,7 +82,7 @@ childrenGroups:
           date: age 7 y. as of 1870 census
           place: Ohio
         marriages:
-          - date: Royal D. Price
+          - spouse: Royal D. Price
         death:
           date: "1955"
         burial:
@@ -103,7 +103,7 @@ childrenGroups:
           date: 19 September 1868
           place: Ohio
         marriages:
-          - date: Ellis Wilbur Hysell
+          - spouse: Ellis Wilbur Hysell
         death:
           date: 23 July 1949
           place: "Pomeroy, Meigs County, Ohio"
@@ -137,9 +137,9 @@ childrenGroups:
           place: Oregon
         marriages:
           - number: 1
-            date: Earl J. Titus
+            spouse: Earl J. Titus
           - number: 2
-            date: Henry Anthony Brauner
+            spouse: Henry Anthony Brauner
         death:
           date: 28 February 1977
           place: Oregon
@@ -148,7 +148,7 @@ childrenGroups:
           date: 25 January 1904
           place: Oregon
         marriages:
-          - date: Chester Blodgett
+          - spouse: Chester Blodgett
         death:
           date: 27 June 1969
           place: "Lane County, Oregon"

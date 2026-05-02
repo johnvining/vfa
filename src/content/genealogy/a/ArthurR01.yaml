@@ -34,7 +34,7 @@ childrenGroups:
           date: 7 December 1916
           place: Illinois
         marriages:
-          - date: Mildred Andrew
+          - spouse: Mildred Andrew
         death:
           date: July 1983
           place: "(last residence: Manhattan, Will County, Illinois)"
@@ -54,13 +54,13 @@ childrenGroups:
             spouse: Margaret Phelan
             divorce: {}
           - number: 3
-            date: Mrs. Ha Mae Pope Baker
+            spouse: Mrs. Ha Mae Pope Baker
       - name: Celia Eunice Vining
         birth:
           date: 1 March 1926
           place: Illinois
         marriages:
-          - date: Otto H. Decker
+          - spouse: Otto H. Decker
       - name: Nina Ilene Vining
         birth:
           date: 7 November 1927

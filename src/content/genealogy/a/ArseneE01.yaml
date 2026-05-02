@@ -10,10 +10,14 @@ head:
   givenName: Arsene Earl
 marriages:
   - number: 1
-    date: Jane Hanes
     divorce: {}
+    spouse:
+      givenName: Jane
+      surname: Hanes
   - number: 2
-    date: "Donna [...]"
+    spouse:
+      givenName: Donna
+      surname: '[...]'
 childrenGroups:
   - headingText: child by Jane Hanes
     children:

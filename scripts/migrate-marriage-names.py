@@ -162,10 +162,37 @@ def migrate_child_marriage(m):
     return True
 
 
+RAW_BLOCK_RE = re.compile(r'^raw: \|[\-+]?\s*\n(?:^[ \t].*\n?|^\n)*', re.MULTILINE)
+
+
+def extract_raw_block(text):
+    """Return (raw_block_text, text_without_raw) or (None, text) if no raw: present.
+
+    The raw: block is the literal scalar that survives migration unchanged. We
+    splice it out before YAML round-trip so ruamel can't strip its trailing
+    whitespace, then restore it verbatim afterwards.
+    """
+    m = RAW_BLOCK_RE.search(text)
+    if not m:
+        return None, text
+    return m.group(0), text[:m.start()] + text[m.end():]
+
+
+def restore_raw_block(text, raw_block):
+    """Re-insert the original raw: block at the end of the document."""
+    if raw_block is None:
+        return text
+    if not text.endswith('\n'):
+        text += '\n'
+    return text + raw_block
+
+
 def process_file(path, yaml_io, apply):
-    text = path.read_text()
+    original_text = path.read_text()
+    raw_block, text_for_yaml = extract_raw_block(original_text)
+
     try:
-        data = yaml_io.load(text)
+        data = yaml_io.load(text_for_yaml)
     except Exception as e:
         print(f"  PARSE ERROR {path}: {e}", file=sys.stderr)
         return 0, 0
@@ -187,8 +214,11 @@ def process_file(path, yaml_io, apply):
 
     total = head_changes + child_changes
     if total and apply:
-        with path.open('w') as f:
-            yaml_io.dump(data, f)
+        import io
+        buf = io.StringIO()
+        yaml_io.dump(data, buf)
+        new_text = restore_raw_block(buf.getvalue(), raw_block)
+        path.write_text(new_text)
     return head_changes, child_changes
 
 

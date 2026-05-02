@@ -52,7 +52,7 @@ childrenGroups:
         birth:
           date: 11 June 1849
         marriages:
-          - date: John Johnson
+          - spouse: John Johnson
         death:
           date: 12 May 1923
       - name: Mary Vining
@@ -64,7 +64,7 @@ childrenGroups:
             date: "Marlette, Sanilac County, Michigan"
             spouse: Thomas Gourlay (d. 1880)
           - number: 2
-            date: Amos Knapp
+            spouse: Amos Knapp
         death:
           date: "1890"
           place: "Marlette, Sanilac County,  Michigan"
@@ -72,7 +72,7 @@ childrenGroups:
         birth:
           date: 12 March 1853
         marriages:
-          - date: Thomas J. Harris
+          - spouse: Thomas J. Harris
         death:
           date: 5 May 1937
         burial:
@@ -81,7 +81,7 @@ childrenGroups:
         birth:
           date: 2 February 1855
         marriages:
-          - date: Frederick Oliver
+          - spouse: Frederick Oliver
         death:
           date: "1932"
       - name: Joseph Alonzo Vining
@@ -111,7 +111,7 @@ childrenGroups:
         birth:
           date: 28 May 1860
         marriages:
-          - date: Duncan D. McArthur
+          - spouse: Duncan D. McArthur
         death:
           date: 8 January 1923
       - name: John Paul Vining
@@ -120,7 +120,7 @@ childrenGroups:
         birth:
           date: "1863"
         marriages:
-          - date: Zilpha Gleason
+          - spouse: Zilpha Gleason
         death:
           date: "1949"
       - name: Mattie C. Vining

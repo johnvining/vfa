@@ -18,7 +18,9 @@ head:
     place: "Oaklawn Cemetery   Fort Valley, Peach County, Georgia"
 marriages:
   - number: 1
-    date: Irene Anderson
+    spouse:
+      givenName: Irene
+      surname: Anderson
   - number: 2
     date: "Betty [&#8230;]"
 childrenGroups:
@@ -35,7 +37,7 @@ childrenGroups:
       - name: Joe Vining
       - name: Pamela L. Vining
         marriages:
-          - date: "[...] Amburn"
+          - spouse: "[...] Amburn"
 docsUrl: Asources/AlbertE03doc.htm
 raw: |-
   <a name="AlbertE03"></a><font size="+2">Albert Edward Vining</font>

@@ -17,9 +17,13 @@ head:
     place: "Reunion Cemetery   Thach, Alabama"
 marriages:
   - number: 1
-    date: "Marie L. [..]"
+    spouse:
+      givenName: Marie L.
+      surname: '[..]'
   - number: 2
-    date: Lois Webb
+    spouse:
+      givenName: Lois
+      surname: Webb
 childrenGroups:
   - headingText: "child by Marie L. [...]"
     children:

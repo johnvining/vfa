@@ -31,7 +31,7 @@ childrenGroups:
         birth:
           date: 16 June 1941
         marriages:
-          - date: Miles Nelson
+          - spouse: Miles Nelson
       - name: Donald Alfred Vining
         entryId: DonaldA01
         entryLetter: D
@@ -40,7 +40,7 @@ childrenGroups:
           place: "Catskill, New York"
         marriages:
           - number: 1
-            date: Judith Passarelli
+            spouse: Judith Passarelli
           - number: 2
             date: 4 y. as of 2018
             spouse: "Elsie [&#8230;]"

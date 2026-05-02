@@ -17,7 +17,8 @@ head:
     place: "Ferncliff Cemetery   Springfield, Clark County, Ohio"
 marriages:
   - number: 1
-    date: "[...]"
+    spouse:
+      givenName: '[...]'
   - number: 2
     date: 3 y. as of 1910 census
     spouse:

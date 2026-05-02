@@ -50,9 +50,9 @@ childrenGroups:
           place: "East Windsor, Hartford County, Connecticut"
         marriages:
           - number: 1
-            date: Levi Clark
+            spouse: Levi Clark
           - number: 2
-            date: Martin Denslow
+            spouse: Martin Denslow
       - name: Elizabeth Vining
         birth:
           date: 27 December 1776
@@ -65,7 +65,7 @@ childrenGroups:
           date: 27 December 1776
           place: "East Windsor, Hartford County, Connecticut"
         marriages:
-          - date: Catharine White
+          - spouse: Catharine White
         death:
           date: 6 August 1807
       - name: Elem Vining
@@ -76,9 +76,9 @@ childrenGroups:
           place: "East Windsor, Hartford County, Connecticut"
         marriages:
           - number: 1
-            date: Sarah Allen
+            spouse: Sarah Allen
           - number: 2
-            date: Sarah Carter
+            spouse: Sarah Carter
         death:
           date: 10 January 1837
           place: "Delaware [County?], Ohio"
@@ -101,7 +101,7 @@ childrenGroups:
           date: 20 May 1783
           place: "East Windsor, Hartford County, Connecticut"
         marriages:
-          - date: Sarah Stone
+          - spouse: Sarah Stone
         death:
           date: 2 February 1847
           place: "Longmeadow, Hampden County, Massachusetts"

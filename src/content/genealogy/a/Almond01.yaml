@@ -35,7 +35,7 @@ childrenGroups:
           date: 8 April 1890
           place: Minnesota
         marriages:
-          - date: Mabel Bye
+          - spouse: Mabel Bye
         death:
           date: 13 September 1948
       - name: Grace Vining
@@ -43,7 +43,7 @@ childrenGroups:
           date: 3 July 1891
           place: Minnesota
         marriages:
-          - date: Henry Oliver Buer
+          - spouse: Henry Oliver Buer
         death:
           date: 11 August 1969
   - headingText: adopted child

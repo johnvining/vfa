@@ -18,8 +18,9 @@ head:
     place: "Highland Cemetery   Havre, Hill County, Montana"
 marriages:
   - number: 1
-    date: Marian Lucille Deyoung
     spouse:
+      givenName: Marian Lucille
+      surname: Deyoung
       parents: "(dau. of John Francis Deyoung and Clara Helen Reisinger)"
       birth:
         date: 23 August 1924
@@ -42,7 +43,7 @@ childrenGroups:
           - date: "Ruby [&#8230;]"
       - name: Bruce Albert Vining
         marriages:
-          - date: Yvonne Villanueva
+          - spouse: Yvonne Villanueva
       - name: Brett Alan Vining
         entryId: BrettA01
         entryLetter: B
@@ -50,7 +51,7 @@ childrenGroups:
           date: 10 June 1953
           place: "Seattle, King County, Washington"
         marriages:
-          - date: Karol Schock
+          - spouse: Karol Schock
         death:
           date: 4 December 2019
           place: "Pasco, Franklin County, Washington"
@@ -58,7 +59,7 @@ childrenGroups:
     children:
       - name: Barbara Leslie Vining
         marriages:
-          - date: Mike Halligan
+          - spouse: Mike Halligan
 docsUrl: Asources/AlbertL03doc.htm
 raw: |-
   <a name="AlbertL03"></a><font size="+2">Albert Lester Vining</font>
