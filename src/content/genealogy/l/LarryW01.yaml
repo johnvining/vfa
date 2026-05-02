@@ -15,13 +15,15 @@ head:
     date: 23 November 2007
     place: North Carolina
 marriages:
-  - date: Margaret Schofield
-    divorce: {}
+  - divorce: {}
+    spouse:
+      givenName: Margaret
+      surname: Schofield
 childrenGroups:
   - children:
       - name: Thyra Vining
         marriages:
-          - date: "[...] Richardson"
+          - spouse: "[...] Richardson"
       - name: Dorcia Vining
       - name: Desiree Vining
       - name: Nicholas Vining

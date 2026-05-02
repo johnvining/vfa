@@ -25,8 +25,9 @@ marriages:
         date: 9 April 1854
         place: Georgia
   - number: 2
-    date: Mary Belle Jones
     spouse:
+      givenName: Mary Belle
+      surname: Jones
       parents: "(dau. of Joseph Jones and Mattie Parker)"
       birth:
         date: 27 October 1867
@@ -59,7 +60,7 @@ childrenGroups:
           date: 30 June 1899
           place: Alabama
         marriages:
-          - date: Gladys Gibbs
+          - spouse: Gladys Gibbs
         death:
           date: 11January 1987
           place: "(last residence: Tryon, North Carolina)"
@@ -72,7 +73,7 @@ childrenGroups:
           date: 12 September 1901
           place: Alabama
         marriages:
-          - date: Sarah Caroline Persons
+          - spouse: Sarah Caroline Persons
         death:
           date: 20 July 1986
           place: "(last residence: Hurtsboro, Alabama)   bur. Hurtsboro Cemetery   Hurtsboro, Russell County, Alabama"
@@ -81,7 +82,7 @@ childrenGroups:
           date: 7 October 1903
           place: Alabama
         marriages:
-          - date: Joel D. Wilkes
+          - spouse: Joel D. Wilkes
       - name: Charles Boyd Vining
         entryId: CharlesB01
         entryLetter: C
@@ -89,7 +90,7 @@ childrenGroups:
           date: 30 September 1906
           place: Alabama
         marriages:
-          - date: Nell Cody
+          - spouse: Nell Cody
         death:
           date: January 1982
           place: "(last residence: Eufaula, Alabama)"

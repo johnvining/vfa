@@ -60,14 +60,14 @@ childrenGroups:
         birth:
           date: 10 January 1934
         marriages:
-          - date: Roberta Jean Daugherty
+          - spouse: Roberta Jean Daugherty
       - name: Burdette C. Vining
         entryId: BurdetteC01
         entryLetter: B
         birth:
           date: 20 September 1935
         marriages:
-          - date: Mary Woodward
+          - spouse: Mary Woodward
         death:
           date: "1963"
           place: "Maplecrest, New York"
@@ -81,7 +81,7 @@ childrenGroups:
         birth:
           date: 19 July 1940
         marriages:
-          - date: Mary Van Valin
+          - spouse: Mary Van Valin
       - name: David Vining
         birth:
           date: 29 September 1942

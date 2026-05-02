@@ -42,8 +42,9 @@ marriages:
       burial:
         place: "North Burial Ground   Providence, Rhode Island"
   - number: 3
-    date: Olga Maria Laine
     spouse:
+      givenName: Olga Maria
+      surname: Laine
       birth:
         date: "[15 or 20?] September [1890 or 1889?]"
         place: Finland
@@ -73,7 +74,7 @@ childrenGroups:
           date: 24 October 1925
           place: "Helena, Montana"
         marriages:
-          - date: Shirley Joanne Peterson
+          - spouse: Shirley Joanne Peterson
         death:
           date: 24 March 2006
           place: "Williamsburg, Virginia"

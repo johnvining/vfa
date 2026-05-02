@@ -32,7 +32,7 @@ childrenGroups:
         birth:
           date: "1867"
         marriages:
-          - date: William Phiestev
+          - spouse: William Phiestev
       - name: Simon H. Vining
         birth:
           date: 14 June 1870
@@ -70,7 +70,7 @@ childrenGroups:
         birth:
           date: "1878"
         marriages:
-          - date: "Mary [Julian?]"
+          - spouse: "Mary [Julian?]"
         death:
           date: "1968"
         burial:
@@ -93,7 +93,7 @@ childrenGroups:
         birth:
           date: April 1887
         marriages:
-          - date: John Sinkler
+          - spouse: John Sinkler
         death:
           date: "1951"
           place: Wisconsin

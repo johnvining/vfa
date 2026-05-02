@@ -16,8 +16,9 @@ head:
     place: "Arlington National Cemetery   Arlington, Virginia"
 marriages:
   - number: 1
-    date: Bonnabelle Zella Baker
     spouse:
+      givenName: Bonnabelle Zella
+      surname: Baker
       parents: "(dau. of Donald Jerome Baker and Vera Ellen Pierson)"
       birth:
         date: "1913"
@@ -27,7 +28,9 @@ marriages:
         place: "Lake View Cemetery   Kendallville, Indiana"
     divorce: {}
   - number: 2
-    date: Josephine Weeks
+    spouse:
+      givenName: Josephine
+      surname: Weeks
 childrenGroups:
   - headingText: "child by Bonnabelle Zella Baker"
     children:
@@ -39,7 +42,7 @@ childrenGroups:
             spouse: Jane Hanes
             divorce: {}
           - number: 2
-            date: "Donna [...]"
+            spouse: "Donna [...]"
 raw: |-
   <a name="OsmynA01"></a><font size=+2>Osmyn Arsene Vining</font>
      (son of <a href="#OsmynC01">Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221 La Palm</a>)

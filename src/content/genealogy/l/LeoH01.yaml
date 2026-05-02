@@ -26,9 +26,13 @@ marriages:
         date: age 24 y. as of 1920 census
         place: Ohio
   - number: 2
-    date: "Johnnie L. [...]"
+    spouse:
+      givenName: Johnnie L.
+      surname: '[...]'
   - number: 3
-    date: Priscilla Margaret Henning
+    spouse:
+      givenName: Priscilla Margaret
+      surname: Henning
 childrenGroups:
   - spouseRef: Florence Nightengale Jones
     children:
@@ -45,7 +49,7 @@ childrenGroups:
             spouse: Dorothy Helen Deschamps
             divorce: {}
           - number: 2
-            date: Josephine Primrose Gundry
+            spouse: Josephine Primrose Gundry
         death:
           date: 26 February 1980
         burial:

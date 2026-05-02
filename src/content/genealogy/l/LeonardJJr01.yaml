@@ -31,9 +31,9 @@ childrenGroups:
           date: 16 March 1949
         marriages:
           - number: 1
-            date: Robert Witt
+            spouse: Robert Witt
           - number: 2
-            date: Robert Keneally
+            spouse: Robert Keneally
       - name: Lowell Edward Vining
         birth:
           date: 15 January 1951
@@ -44,7 +44,7 @@ childrenGroups:
         birth:
           date: 4 July 1953
         marriages:
-          - date: Diane Hoover
+          - spouse: Diane Hoover
 docsUrl: Lsources/LeonardJJr01doc.htm
 updates:
   - date: "2026-05-02"

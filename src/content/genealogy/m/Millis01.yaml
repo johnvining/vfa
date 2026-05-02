@@ -16,10 +16,13 @@ head:
     place: "Chenango Valley Cemetery   Binghamton, New York"
 marriages:
   - number: 1
-    date: Bernice G. Powell
-  - number: 2
-    date: Norma I. Wilson
     spouse:
+      givenName: Bernice G.
+      surname: Powell
+  - number: 2
+    spouse:
+      givenName: Norma I.
+      surname: Wilson
       birth:
         date: "1904"
       death:
@@ -27,7 +30,9 @@ marriages:
       burial:
         place: "Chenango Valley Cemetery   Binghamton, New York"
   - number: 3
-    date: Margaret H. Bollman
+    spouse:
+      givenName: Margaret H.
+      surname: Bollman
 childrenGroups:
   - spouseRef: Norma I. Wilson
     children:
@@ -35,7 +40,7 @@ childrenGroups:
         birth:
           date: 14 September 1929
         marriages:
-          - date: James Kwasnik
+          - spouse: James Kwasnik
       - name: Karl Wilson Vining
         entryId: KarlW01
         entryLetter: K
@@ -43,7 +48,7 @@ childrenGroups:
           date: 16 February 1937
           place: "Binghamton, New York"
         marriages:
-          - date: Patricia Fletcher
+          - spouse: Patricia Fletcher
         death:
           date: 17 April 2013
           place: South Carolina

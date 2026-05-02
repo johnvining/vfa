@@ -31,7 +31,7 @@ childrenGroups:
           date: 31 March 1914
           place: New York
         marriages:
-          - date: Margery Nabinger
+          - spouse: Margery Nabinger
         death:
           date: 5 November 1985
           place: "(last residence: Ouaquaga, New York)"
@@ -42,7 +42,7 @@ childrenGroups:
           date: 28 October 1915
           place: "Occanum, New York"
         marriages:
-          - date: Carlton Bennett
+          - spouse: Carlton Bennett
       - name: Grace Virginia Vining
         birth:
           date: 22 October 1917
@@ -57,7 +57,7 @@ childrenGroups:
           date: 23 July 1920
           place: "South Windsor, New York"
         marriages:
-          - date: Jean Rosemond Nabinger
+          - spouse: Jean Rosemond Nabinger
         death:
           date: March 1992
 docsUrl: Lsources/LeroyL01doc.htm

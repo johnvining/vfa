@@ -17,8 +17,9 @@ head:
     place: "Evergreen Cemetery   Phillips, Maine"
 marriages:
   - number: 1
-    date: Alice C. Preston
     spouse:
+      givenName: Alice C.
+      surname: Preston
       birth:
         date: "1851"
       death:

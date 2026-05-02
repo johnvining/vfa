@@ -8,9 +8,13 @@ head:
   givenName: Leon Percy
 marriages:
   - number: 1
-    date: Hattie Hayes
+    spouse:
+      givenName: Hattie
+      surname: Hayes
   - number: 2
-    date: Ida Lewis
+    spouse:
+      givenName: Ida
+      surname: Lewis
 childrenGroups:
   - headingText: "child by Hattie Hayes"
     children:
@@ -18,7 +22,7 @@ childrenGroups:
         birth:
           date: age 76 y. at death
         marriages:
-          - date: James Frank
+          - spouse: James Frank
         death:
           date: 24 March 2003
           place: "New Orleans, Louisiana"

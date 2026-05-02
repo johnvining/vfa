@@ -18,8 +18,9 @@ head:
     place: "Bethany Baptist Church Cemetery   Ambrose, Georgia"
 marriages:
   - number: 1
-    date: Gladys Grantham
     spouse:
+      givenName: Gladys
+      surname: Grantham
       birth:
         date: 7 September 1916
         place: Georgia
@@ -29,7 +30,9 @@ marriages:
       burial:
         place: "Bethany Baptist Church Cemetery   Ambrose, Georgia"
   - number: 2
-    date: Dorothy Little
+    spouse:
+      givenName: Dorothy
+      surname: Little
 childrenGroups:
   - spouseRef: Gladys Grantham
     children:
@@ -38,7 +41,7 @@ childrenGroups:
           date: 31 December 1936
           place: Georgia
         marriages:
-          - date: "[...] Story"
+          - spouse: "[...] Story"
         death:
           date: 13 May 1998
           place: Georgia

@@ -34,9 +34,9 @@ childrenGroups:
           date: 9 September 1947
         marriages:
           - number: 1
-            date: "[...] Adams"
+            spouse: "[...] Adams"
           - number: 2
-            date: Terry Wheaton
+            spouse: Terry Wheaton
       - name: Kenny Mac Vining
         birth:
           date: 22 June 1952
@@ -44,7 +44,7 @@ childrenGroups:
         birth:
           date: 16 July 1959
         marriages:
-          - date: "[...] Rozar"
+          - spouse: "[...] Rozar"
       - name: Michael Anthony Vining
         birth:
           date: 24 December 1960

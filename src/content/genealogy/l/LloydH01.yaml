@@ -18,8 +18,9 @@ head:
     place: "Beech Grove Cemetery   Muncie, Indiana"
 marriages:
   - number: 1
-    date: Elizabeth Pierce
     spouse:
+      givenName: Elizabeth
+      surname: Pierce
       birth:
         date: 16 June 1921
         place: "Muncie, Indiana"
@@ -29,10 +30,13 @@ marriages:
       burial:
         place: "Green Park Cemetery   Portland, Indiana"
   - number: 2
-    date: "Esther [...]"
-  - number: 3
-    date: Geraldine Stanley
     spouse:
+      givenName: Esther
+      surname: '[...]'
+  - number: 3
+    spouse:
+      givenName: Geraldine
+      surname: Stanley
       birth:
         date: "1930"
       death:
@@ -50,7 +54,7 @@ childrenGroups:
           place: Indiana
         marriages:
           - number: 1
-            date: Pat Ryan
+            spouse: Pat Ryan
           - number: 2
             date: 18 July 1981
             spouse: "Nevada   Priscella J. [...]"
@@ -73,7 +77,7 @@ childrenGroups:
           date: 6 March 1944
           place: "Parker City, Indiana"
         marriages:
-          - date: Granville Caldwell
+          - spouse: Granville Caldwell
         death:
           date: 18 August 2007
           place: "Douglasville, Georgia"

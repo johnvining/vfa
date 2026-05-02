@@ -17,15 +17,17 @@ head:
     place: "Miami Memorial Park   Miami, Florida"
 marriages:
   - number: 1
-    date: Pollie Davis
     spouse:
+      givenName: Pollie
+      surname: Davis
       birth:
         date: "1887"
       death:
         date: "1917"
   - number: 2
-    date: Effie Jane Jackson
     spouse:
+      givenName: Effie Jane
+      surname: Jackson
       parents: "(dau. of John [K. or Frank?] Jackson and [Elizabeth J. Hufham or Martha Jane Walker?])"
       birth:
         date: 14 March 1902

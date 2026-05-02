@@ -36,7 +36,7 @@ childrenGroups:
         birth:
           date: "1874"
         marriages:
-          - date: Fred D. Sherman
+          - spouse: Fred D. Sherman
         death:
           date: "1943"
       - name: "Marion A. &#8220;Mamie&#8221; Vining"
@@ -52,7 +52,7 @@ childrenGroups:
           date: August 1881
           place: Ohio
         marriages:
-          - date: Charles B. Quigley
+          - spouse: Charles B. Quigley
         death:
           date: "1958"
       - name: Eva E. Vining
@@ -74,7 +74,7 @@ childrenGroups:
           date: 13 July 1890
           place: "Milan, Ohio"
         marriages:
-          - date: Laurel Vivian Ladner
+          - spouse: Laurel Vivian Ladner
         death:
           date: 9 June 1958
           place: "Morley, Michigan"

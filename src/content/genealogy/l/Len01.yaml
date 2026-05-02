@@ -8,9 +8,13 @@ head:
   givenName: Len
 marriages:
   - number: 1
-    date: Patricia Foster
+    spouse:
+      givenName: Patricia
+      surname: Foster
   - number: 2
-    date: "Jan [...]"
+    spouse:
+      givenName: Jan
+      surname: '[...]'
 childrenGroups:
   - children:
       - name: Kenneth Patrick Vining

@@ -35,31 +35,31 @@ childrenGroups:
           place: Bayou Macon Cemetery   Louisiana
       - name: son +
         marriages:
-          - date: "[...] Forney"
+          - spouse: "[...] Forney"
       - name: Dixie E. Vining
         birth:
           date: 28 April 1928
           place: Louisiana
         marriages:
-          - date: Sidney Lloyd Harrison
+          - spouse: Sidney Lloyd Harrison
       - name: daughter
         marriages:
-          - date: "[...] Ferrell"
+          - spouse: "[...] Ferrell"
       - name: daughter
         marriages:
-          - date: "[...] Clark"
+          - spouse: "[...] Clark"
       - name: son +
         marriages:
           - number: 1
-            date: "[...] Gilley"
+            spouse: "[...] Gilley"
           - number: 2
-            date: "[...]"
+            spouse: "[...]"
       - name: daughter
         marriages:
-          - date: "[...] Morgan"
+          - spouse: "[...] Morgan"
       - name: son +
         marriages:
-          - date: "[...] Bertone"
+          - spouse: "[...] Bertone"
       - name: Robert Randall Vining
         entryId: RobertR01
         entryLetter: R

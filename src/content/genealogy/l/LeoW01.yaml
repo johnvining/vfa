@@ -17,7 +17,8 @@ head:
     place: "Dayton Memorial Park Cemetery   Dayton, Ohio"
 marriages:
   - number: 1
-    date: "[...]"
+    spouse:
+      givenName: '[...]'
   - number: 2
     date: 14 February 1949
     spouse:
@@ -77,12 +78,12 @@ childrenGroups:
         birth:
           date: 22 August 1960
         marriages:
-          - date: "Patty [...]"
+          - spouse: "Patty [...]"
       - name: Jill Dannell Vining
         birth:
           date: 11 September 1962
         marriages:
-          - date: Mike Pabst
+          - spouse: Mike Pabst
       - name: Leo Warren Vining Jr.
         birth:
           date: 19 December 1969

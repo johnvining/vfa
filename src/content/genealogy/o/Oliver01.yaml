@@ -36,7 +36,7 @@ childrenGroups:
         birth:
           date: age 10 y. as of 1880 census
         marriages:
-          - date: "[...] Robbins"
+          - spouse: "[...] Robbins"
         death:
           date: 8 January 1943
       - name: Church Abijah Vining
@@ -56,7 +56,7 @@ childrenGroups:
           date: November 1881
           place: Illinois
         marriages:
-          - date: Walter Rantz
+          - spouse: Walter Rantz
         death:
           date: 20 December 1939
       - name: Abbey Pearl Vining
@@ -64,7 +64,7 @@ childrenGroups:
           date: March 1886
           place: Illinois
         marriages:
-          - date: John Nesbitt
+          - spouse: John Nesbitt
         death:
           date: September 1957
       - name: A. Burchim Vining

@@ -37,7 +37,7 @@ childrenGroups:
           date: 26 August 1920
           place: Louisiana
         marriages:
-          - date: Thomas E. Davis
+          - spouse: Thomas E. Davis
         death:
           date: 4 April 2010
           place: "Morgan City, Louisiana"
@@ -52,7 +52,7 @@ childrenGroups:
           date: age 6 y. as of 1930 census
           place: Louisiana
         marriages:
-          - date: "[...] Morgan"
+          - spouse: "[...] Morgan"
       - name: Clarence Leon Vining
         birth:
           date: "age 5 y., 2 m. as of 1930 census"
@@ -64,7 +64,7 @@ childrenGroups:
           date: 11 April 1928
           place: "Berwick, Louisiana"
         marriages:
-          - date: "Ruby D. [...]"
+          - spouse: "Ruby D. [...]"
         death:
           date: 20 November 2013
           place: "Morgan City, Louisiana"
@@ -73,7 +73,7 @@ childrenGroups:
       - name: Norman Vining
       - name: Katherine Vining
         marriages:
-          - date: "[...] Barras"
+          - spouse: "[...] Barras"
       - name: Julius Vining
       - name: Ruel Vining
 docsUrl: Msources/MitchellO01doc.htm

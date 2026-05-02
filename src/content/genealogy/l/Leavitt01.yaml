@@ -34,13 +34,13 @@ childrenGroups:
           date: age 33 y. as of 1850 census
           place: Massachusetts
         marriages:
-          - date: Henry Manchester
+          - spouse: Henry Manchester
       - name: David A. Vining
         birth:
           date: age 39 y. as of 1860 census
           place: Massachusetts
         marriages:
-          - date: "Clarissa [...]"
+          - spouse: "Clarissa [...]"
       - name: Oliver Smith Vining
         entryId: OliverS01
         entryLetter: O
@@ -70,7 +70,7 @@ childrenGroups:
       - name: Heman Vining
       - name: Mary Vining
         marriages:
-          - date: "[...] Atkinson"
+          - spouse: "[...] Atkinson"
       - name: Theron Vining
         birth:
           date: "age 22 y., 4 m. at death"

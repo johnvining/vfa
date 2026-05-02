@@ -30,19 +30,19 @@ childrenGroups:
           date: 30 August 1912
           place: New York
         marriages:
-          - date: Frances Cross
+          - spouse: Frances Cross
       - name: Louise E. Vining
         birth:
           date: 12 January 1913
           place: New York
         marriages:
-          - date: Lloyd Robert Jenkins
+          - spouse: Lloyd Robert Jenkins
       - name: Stella F. Vining
         birth:
           date: 6 March 1917
           place: New York
         marriages:
-          - date: John Tully
+          - spouse: John Tully
       - name: Leah L. Vining
         birth:
           date: "13 January [1920 or 1921?]"
@@ -51,7 +51,7 @@ childrenGroups:
           - number: 1
             date: "[&#8230;] Hankinson"
           - number: 2
-            date: Stanton Sherow
+            spouse: Stanton Sherow
 docsUrl: Nsources/NewellE01doc.htm
 raw: |-
   <a name="NewellE01"></a><font size=+2>Newell E. Vining</font>

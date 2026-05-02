@@ -17,10 +17,13 @@ head:
     place: "Highland Cemetery   Ypsilanti, Michigan"
 marriages:
   - number: 1
-    date: Celestine Richardson
-  - number: 2
-    date: Adelle G. Billings Henry
     spouse:
+      givenName: Celestine
+      surname: Richardson
+  - number: 2
+    spouse:
+      givenName: Adelle G. Billings
+      surname: Henry
       birth:
         date: "1853"
       death:

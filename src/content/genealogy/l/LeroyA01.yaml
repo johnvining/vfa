@@ -16,8 +16,9 @@ head:
     place: "Napa County, California"
 marriages:
   - number: 1
-    date: Clara Catherine Allard
     spouse:
+      givenName: Clara Catherine
+      surname: Allard
       birth:
         date: "1906"
         place: "Lakeville, Minnesota"
@@ -25,8 +26,9 @@ marriages:
         date: 29 July 1931
         place: "Eureka, Minnesota"
   - number: 2
-    date: Edna Mae Allard
     spouse:
+      givenName: Edna Mae
+      surname: Allard
       birth:
         date: 2 February 1910
         place: "Roosevelt, Minnesota"
@@ -64,7 +66,7 @@ childrenGroups:
           date: 26 December 1935
           place: "Colusa, California"
         marriages:
-          - date: Colleen F. Hall
+          - spouse: Colleen F. Hall
         death:
           date: 19 July 2004
           place: "Los Lunas, New Mexico"
