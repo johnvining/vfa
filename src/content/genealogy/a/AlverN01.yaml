@@ -1,7 +1,7 @@
 id: AlverN01
 letter: A
 sequence: 60
-lastUpdated: 1 February 2021
+lastUpdated: 2 May 2026
 relationship: son
 parentId: JosephF01
 parentLetter: J
@@ -29,9 +29,13 @@ marriages:
 childrenGroups:
   - children:
       - name: Nathan Felix Vining
+        entryId: NathanF01
+        entryLetter: N
         birth:
           date: 17 June 1921
           place: Georgia
+        marriages:
+          - spouse: "Mary Ethel [...]"
         death:
           date: 22 February 1984
         burial:
@@ -53,6 +57,10 @@ childrenGroups:
           date: age 6 m. as of 1930 census
           place: Georgia
 docsUrl: Asources/AlverN01doc.htm
+updates:
+  - date: "2026-05-02"
+    what: "added wife Mary Ethel to Nathan Felix Vining's child line; promoted him to his own entry; source: obituary of his daughter Wanda Diane Vining Holloman"
+    url: "https://barnesville.com/wanda-diane-vining-holloman-2/"
 raw: |-
   <a name="AlverN01"></a><font size="+2">Alver Nathaniel Vining</font>
      (son of <a href="Jfamilies.htm#JosephF01">Joseph Francis Vining and Leesie D. Beard</a>)

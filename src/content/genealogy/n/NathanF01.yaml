@@ -1,0 +1,40 @@
+id: NathanF01
+sequence: 557
+letter: N
+lastUpdated: 2 May 2026
+relationship: son
+parentId: AlverN01
+parentLetter: A
+parentDesc: Alver Nathaniel Vining and Mary Alice Bock
+head:
+  givenName: Nathan Felix
+  birth:
+    date: 17 June 1921
+    place: Georgia
+  death:
+    date: 22 February 1984
+  burial:
+    place: "Oak Hill Cemetery   Griffin, Spalding County, Georgia"
+marriages:
+  - spouse:
+      givenName: Mary Ethel
+      surname: "[...]"
+childrenGroups:
+  - children:
+      - name: Wanda Diane Vining
+        birth:
+          date: 7 September 1952
+        marriages:
+          - spouse: "[...] Holloman"
+        death:
+          date: 14 January 2026
+        burial:
+          place: "Milner Baptist Church Cemetery   Milner, Georgia"
+      - name: Rhonda Vining
+        marriages:
+          - spouse: Jim Yearwood
+      - name: Jerry Vining
+updates:
+  - date: "2026-05-02"
+    what: "created entry; added marriage to Mary Ethel and children Wanda Diane (b. 1952, d. 2026, m. [...] Holloman), Rhonda (m. Jim Yearwood), and Jerry; source: obituary of Wanda Diane Vining Holloman"
+    url: "https://barnesville.com/wanda-diane-vining-holloman-2/"
