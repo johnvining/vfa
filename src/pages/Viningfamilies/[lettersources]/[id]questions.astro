@@ -1,0 +1,106 @@
+---
+import BaseInner from '../../../layouts/BaseInner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allGenealogy = await getCollection('genealogy');
+  return allGenealogy
+    .filter(e => e.data.openQuestions && e.data.openQuestions.length > 0)
+    .map(entry => {
+      const letter = entry.data.letter.toUpperCase();
+      return {
+        params: {
+          lettersources: `${letter}sources`,
+          id: entry.data.id,
+        },
+        props: { entry },
+      };
+    });
+}
+
+const { entry } = Astro.props;
+const { id, letter, head, openQuestions } = entry.data;
+const surname = head.surname ?? 'Vining';
+const name = `${head.givenName} ${surname}`;
+const backHref = `../${letter.toUpperCase()}families.htm#${id}`;
+
+function formatDate(dateStr: string): string {
+  const parts = dateStr.split('-').map(Number);
+  const [y, m, d] = parts;
+  const date = new Date(Date.UTC(y, (m ?? 1) - 1, d ?? 1));
+  if (parts.length >= 3) {
+    return date.toLocaleString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+  }
+  return date.toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+}
+
+type LinkLike = string | { url: string; name?: string };
+function normalizeLinks(url: LinkLike | LinkLike[] | undefined) {
+  const raw = Array.isArray(url) ? url : (url ? [url] : []);
+  return raw.map(item => typeof item === 'string' ? { url: item, name: undefined } : item);
+}
+
+const sorted = [...(openQuestions ?? [])].sort((a, b) => {
+  const ar = a.resolved ? 1 : 0;
+  const br = b.resolved ? 1 : 0;
+  if (ar !== br) return ar - br;
+  return b.posted.localeCompare(a.posted);
+});
+---
+
+<BaseInner
+  title={`Open Questions - ${name}`}
+  description={`Open questions for ${name}`}
+  keywords={`Vining, ${name}, genealogy`}
+  activePage="Online Genealogy"
+>
+
+<p class="doc-back"><a href={backHref}>&larr; Back to {name}</a></p>
+
+<center>
+  <span class="doc-page-title">Open Questions for {name}</span>
+</center>
+
+<br>
+
+<div class="doc-page">
+  {sorted.map((q, idx) => {
+    const followups = [...(q.updates ?? [])].sort((a, b) => b.date.localeCompare(a.date));
+    return (
+      <div class="open-question">
+        <p>
+          <b>Question {idx + 1}.</b>
+          <Fragment set:html={` ${q.question}`} />
+          {q.resolved && <Fragment> <i>(resolved {formatDate(q.resolved)})</i></Fragment>}
+        </p>
+        <p class="page-updated">posted {formatDate(q.posted)}</p>
+        {q.background && (
+          <p><b>Background:</b> <Fragment set:html={q.background.replace(/\n/g, '<br>')} /></p>
+        )}
+        {followups.length > 0 && (
+          <ul>
+            {followups.map(u => {
+              const links = normalizeLinks(u.url);
+              return (
+                <li>
+                  <b>{formatDate(u.date)}</b>
+                  {u.what && <Fragment> &#8212; <Fragment set:html={u.what} /></Fragment>}
+                  {links.map((link, i) => {
+                    const label = link.name ?? (links.length > 1 ? `link ${i + 1}` : 'link');
+                    return <Fragment> <a href={link.url} target="_blank">({label})</a></Fragment>;
+                  })}
+                </li>
+              );
+            })}
+          </ul>
+        )}
+      </div>
+    );
+  })}
+</div>
+
+<p>To contribute information toward an open question, please e-mail <a href="mailto:info@vining-family.org">info@vining-family.org</a>.</p>
+
+<p class="doc-back"><a href={backHref}>&larr; Back to {name}</a></p>
+
+</BaseInner>

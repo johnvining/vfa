@@ -121,6 +121,24 @@ const genealogy = defineCollection({
       ]).optional(),
       thanks: z.string().optional(),
     })).optional(),
+    openQuestions: z.array(z.object({
+      posted: z.string(),                     // YYYY-MM or YYYY-MM-DD
+      question: z.string(),
+      background: z.string().optional(),
+      resolved: z.string().optional(),        // YYYY-MM or YYYY-MM-DD; presence marks it answered
+      updates: z.array(z.object({
+        date: z.string(),
+        what: z.string().optional(),
+        url: z.union([
+          z.string(),
+          z.object({ url: z.string(), name: z.string().optional() }),
+          z.array(z.union([
+            z.string(),
+            z.object({ url: z.string(), name: z.string().optional() }),
+          ])),
+        ]).optional(),
+      })).optional(),
+    })).optional(),
   }),
 });
 
