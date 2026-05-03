@@ -34,6 +34,12 @@ function formatDate(dateStr: string): string {
   return date.toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
 }
 
+function formatMonth(dateStr: string): string {
+  const [y, m] = dateStr.split('-').map(Number);
+  return new Date(Date.UTC(y, (m ?? 1) - 1, 1))
+    .toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+}
+
 type LinkLike = string | { url: string; name?: string };
 function normalizeLinks(url: LinkLike | LinkLike[] | undefined) {
   const raw = Array.isArray(url) ? url : (url ? [url] : []);
@@ -71,9 +77,8 @@ const sorted = [...(openQuestions ?? [])].sort((a, b) => {
         <p>
           <b>Question {idx + 1}.</b>
           <Fragment set:html={` ${q.question}`} />
-          {q.resolved && <Fragment> <i>(resolved {formatDate(q.resolved)})</i></Fragment>}
+          {q.resolved && <Fragment> <i>(resolved)</i></Fragment>}
         </p>
-        <p class="page-updated">posted {formatDate(q.posted)}</p>
         {q.background && (
           <p><b>Background:</b> <Fragment set:html={q.background.replace(/\n/g, '<br>')} /></p>
         )}
