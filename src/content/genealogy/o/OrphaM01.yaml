@@ -1,6 +1,6 @@
 id: OrphaM01
 letter: O
-lastUpdated: 27 May 2020
+lastUpdated: 3 May 2026
 relationship: dau.
 parentId: Charles02
 parentLetter: C
@@ -12,11 +12,17 @@ head:
     place: New York
   death:
     date: 1 February 1952
+  burial:
+    place: "Ashland, Greene County, New York"
 marriages:
-  - date: "(?) [...]"
+  - date: 23 September 1901
+    place: "Meredith, New York"
     spouse:
-      givenName: "(1) 7 y. as of 1910 census"
-      surname: David Frayer
+      givenName: David
+      surname: Frayer
+      parents: "(son of William W. Frayer and Laura Howland)"
+      birth:
+        date: "1877"
 childrenGroups:
   - headingText: "child by [...]"
     children:
@@ -29,6 +35,34 @@ childrenGroups:
           - spouse: Flossie Leah Turk
         death:
           date: "[23 August 1962 or December 1972?]"
+  - headingText: "child by David Frayer"
+    children:
+      - name: Cora Frayer
+        birth:
+          date: ca. 1905
+docsUrl: Osources/OrphaM01doc.htm
+updates:
+  - date: "2026-05-03"
+    what: "added documentation for Orpha's life 1880-1952 (censuses, marriage record, NY State Death Index, gravestone); restructured marriage to David Frayer (23 September 1901, Meredith, NY); added daughter Cora Frayer; added David's parents and Greene County origins; narrowed David's death window to 1915-1920 from the 1920 census; added burial location Ashland, Greene County, NY"
+openQuestions:
+  - posted: "2026-05-03"
+    question: "Who was the biological father of Orpha's son Russell Dale Vining?"
+    background: "Russell was born 28 August 1896, when Orpha was 16 and unmarried. She married David Frayer five years later (23 September 1901). Russell carried his mother's surname. The 1900 census shows him as \"nephew\" in an unidentified Vining household with Orpha as \"servant\"; his 1918 WWI draft card names Orpha as next of kin and lists no father."
+  - posted: "2026-05-03"
+    question: "Who is the head of the Vining household where Orpha and 3-year-old Russell appear in the 1900 US Federal Census?"
+    background: "The 1900 census records a male Vining household head born ~April 1856 (age 44, married 20 years), wife Etta (b. Jan 1853), and four children: Clarence J. (1881), [child] E. (1886), Myrtle E. (Jul 1890), and Walter (Jul 1897). Russell is the head's nephew and Orpha his servant. Orpha's father Charles Vining (b. 1844) is too old; her only currently-recorded sibling Henry (b. 1882) was 18 in 1900."
+  - posted: "2026-05-03"
+    question: "When and where did David Frayer die, and where is he buried?"
+    background: "David Frayer was head of household in Meredith, NY, in the 1915 NY State Census (age 38). The 1920 US Federal Census records Orpha as widowed. David died between June 1915 and January 1920."
+  - posted: "2026-05-03"
+    question: "What became of Cora Frayer (Orpha and David's daughter)?"
+    background: "Cora appears in the 1915 NY State Census as a 10-year-old daughter in the Frayer household in Meredith, NY. She is absent from the 1920 census (Russell's household, where she would have been ~15) and the 1925 NY State Census (Orpha's residence, ~20)."
+  - posted: "2026-05-03"
+    question: "What does Orpha's middle initial \"M.\" stand for?"
+    background: "Census records consistently show \"Orpha M.\" The 1952 NY State Death Index records her middle initial as \"V\". A Find a Grave memorial gives \"May\"."
+  - posted: "2026-05-03"
+    question: "What is Orpha's correct birth date — 13 February 1880 or November 1880?"
+    background: "Currently recorded as 13 February 1880. The 1900 US Federal Census records her birth month as November 1880. Other censuses (1910-1925) give only her age, all consistent with 1880."
 raw: |-
   <a name="OrphaM01"></a><font size=+2>Orpha M. Vining</font>
      (dau. of <a href="Cfamilies.htm#Charles02">Charles Vining and Lucy A. Hoover</a>)

@@ -1,0 +1,105 @@
+id: OrphaM01
+title: Orpha M. Vining - David Frayer
+sections:
+  - type: family
+    items:
+      - caption: "1880 US Federal Census - David Frayer (age 4) in the household of his parents William and Laura Frayer, Lexington, Greene County, NY:"
+        images:
+          - src: OrphaM01davidfrayerfamily1880.png
+  - type: marriage
+    items:
+      - caption: "Marriage of David Frayer and Orpha M. Vining, 23 September 1901, Meredith, NY (NY State Marriage Index, cert. 17874):"
+        images:
+          - src: OrphaM01marriageindex1901vining.png
+          - src: OrphaM01marriageindex1901frayer.png
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1915"
+        - "1920"
+        - "1925"
+        - "1930"
+      rows:
+        - label: David Frayer
+          values:
+            - ""
+            - "34 (head)"
+            - "38 (head)"
+            - dead
+            - ""
+            - ""
+        - label: Orpha M. Vining
+          values:
+            - "20 (servant)"
+            - "30 (wife)"
+            - "35 (wife)"
+            - "39 (mother, widowed)"
+            - "45 (servant)"
+            - "50 (servant)"
+        - label: Russell Dale Vining
+          values:
+            - "3 (nephew)"
+            - "13 (nephew)"
+            - ""
+            - "23 (head)"
+            - ""
+            - ""
+          indent: true
+        - label: Cora Frayer
+          values:
+            - ""
+            - "?"
+            - "10 (daughter)"
+            - ""
+            - ""
+            - ""
+          indent: true
+        - label: Charles Vining
+          values:
+            - ""
+            - father-in-law
+            - "70 (father-in-law)"
+            - ""
+            - ""
+            - ""
+          indent: true
+    entries:
+      - year: "1900"
+        caption: Orpha as servant with son Russell (the head's nephew) in an unidentified Vining household.
+        images:
+          - src: OrphaM01census1900.png
+      - year: "1910"
+        caption: Frayer household, with Russell labeled "nephew" of David and recorded under the surname Frayer.
+        images:
+          - src: OrphaM01census1910.png
+      - year: "1915"
+        caption: Meredith, NY. Charles Vining (Orpha's father) was living with the family.
+        images:
+          - src: OrphaM01census1915.png
+      - year: "1920"
+        caption: Orpha widowed and using her maiden name Vining, living with adult son Russell as head of household.
+        images:
+          - src: OrphaM01census1920.png
+      - year: "1925"
+        caption: Orpha working as servant in the Oscar Fuller household.
+        images:
+          - src: OrphaM01census1925.png
+      - year: "1930"
+        caption: Orpha as servant in the Mary L. Forsyth household, Albany Avenue. Marital status recorded as "single" (conflicting with the 1920 census's "widowed").
+        images:
+          - src: OrphaM01census1930.png
+  - type: military
+    items:
+      - caption: "1918 WWI draft registration card for Russell Vining (Orpha's son). Names Orpha as next of kin; no father listed:"
+        images:
+          - src: OrphaM01russelldraftcard1918.png
+  - type: death
+    items:
+      - caption: 'NY State Death Index, 1952 - died 1 February 1952 in Oneonta, NY (certificate #11370). Index records middle initial as "V" (census records consistently show "M."):'
+        images:
+          - src: OrphaM01deathindex1952.png
+      - caption: 'Gravestone in Ashland, Greene County, NY (from Find A Grave). Inscribed simply "ORPHA VINING 1880-1952" — buried under maiden name:'
+        images:
+          - src: OrphaM01gravestone.png

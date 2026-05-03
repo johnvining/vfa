@@ -1,7 +1,7 @@
 id: RussellD01
 sequence: 177
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 3 May 2026
 relationship: son
 parentId: OrphaM01
 parentLetter: O
@@ -10,12 +10,16 @@ head:
   givenName: Russell Dale
   birth:
     date: 28 August 1896
+    place: "[Windham?], New York"
   death:
     date: "[23 August 1962 or December 1972?]"
 marriages:
-  - spouse:
+  - date: "ca. 1923"
+    spouse:
       givenName: Flossie Leah
       surname: Turk
+      birth:
+        date: "ca. 1905"
 childrenGroups:
   - children:
       - name: Foster Vining
@@ -34,6 +38,17 @@ childrenGroups:
           date: 8 September 1935
         marriages:
           - spouse: Paul Adams
+docsUrl: Rsources/RussellD01doc.htm
+updates:
+  - date: "2026-05-03"
+    what: "added documentation for Russell's life 1900-1930 (federal censuses and 1918 WWI draft card); added probable birth place (Windham, NY); inferred marriage to Flossie Leah Turk as ca. 1923 and Flossie's birth as ca. 1905 from the 1930 census"
+openQuestions:
+  - posted: "2026-05-03"
+    question: "Who was Russell's biological father?"
+    background: "Russell was born 28 August 1896, when his mother Orpha was 16 and unmarried. Orpha married David Frayer five years later (23 September 1901). Russell carried his mother's surname. The 1900 census shows him as \"nephew\" in another Vining household with Orpha as \"servant\"; his 1918 WWI draft card names Orpha as next of kin and lists no father."
+  - posted: "2026-05-03"
+    question: "When and where did Russell die, and where is he buried?"
+    background: "Two competing dates currently recorded: 23 August 1962 or December 1972. Place of death and burial unknown."
 raw: |-
   <a name="RussellD01"></a><font size=+2>Russell Dale Vining</font>
      (son of <a href="Ofamilies.htm#OrphaM01">Orpha M. Vining and [...]</a>)

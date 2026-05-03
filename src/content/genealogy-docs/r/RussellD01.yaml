@@ -1,0 +1,64 @@
+id: RussellD01
+title: Russell Dale Vining - Flossie Leah Turk
+sections:
+  - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+        - "1920"
+        - "1930"
+      rows:
+        - label: Russell Dale Vining
+          values:
+            - "3 (nephew)"
+            - "13 (nephew)"
+            - "23 (head)"
+            - "33 (head)"
+        - label: Flossie Leah (Turk) Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "25 (wife)"
+        - label: Foster C. Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "5 (son)"
+          indent: true
+        - label: Orpha (Vining) Frayer
+          values:
+            - "20 (servant)"
+            - "30 (wife of David Frayer)"
+            - "39 (mother, widowed)"
+            - ""
+        - label: David Frayer (stepfather)
+          values:
+            - ""
+            - "34 (head)"
+            - dead
+            - ""
+    entries:
+      - year: "1900"
+        caption: Russell at age 3-4 with mother Orpha (servant) in an unidentified Vining household. Listed as the head's nephew.
+        images:
+          - src: RussellD01census1900.png
+      - year: "1910"
+        caption: Russell at age 13-14 in David Frayer's household, again labeled "nephew" and recorded under the surname Frayer.
+        images:
+          - src: RussellD01census1910.png
+      - year: "1920"
+        caption: Russell as head of household at age 23 (single), with widowed mother Orpha.
+        images:
+          - src: RussellD01census1920.png
+      - year: "1930"
+        caption: Russell as head of household at age 33 (home owner) with wife Flossie L. (~25, married age 19) and son Foster C. (~5).
+        images:
+          - src: RussellD01census1930.png
+  - type: military
+    items:
+      - caption: "1918 WWI draft registration card; residing in Windham, NY (Greene County). Lists Orpha Vining as mother and next of kin; no father listed:"
+        images:
+          - src: RussellD01draftcard1918.png
