@@ -76,6 +76,13 @@ interface OpenQuestion {
   updates?: Update[];
 }
 
+interface Lead {
+  posted: string;
+  note: string;
+  url?: string;
+  resolved?: string;
+}
+
 interface EntryData {
   id: string;
   letter: string;
@@ -98,6 +105,7 @@ interface EntryData {
   notes?: string;
   updates?: Update[];
   openQuestions?: OpenQuestion[];
+  leads?: Lead[];
 }
 
 function formatUpdateDate(dateStr: string): string {
@@ -429,6 +437,12 @@ export function renderEntry(data: EntryData): string {
     const questionsUrl = `${data.letter.toUpperCase()}sources/${data.id}questions.htm`;
     const label = open > 0 ? `open questions (${open})` : 'open questions';
     docLinks.push(`<a href="${questionsUrl}">${label}</a>`);
+  }
+  if (data.leads && data.leads.length > 0) {
+    const open = data.leads.filter(l => !l.resolved).length;
+    const leadsUrl = `${data.letter.toUpperCase()}sources/${data.id}leads.htm`;
+    const label = open > 0 ? `leads (${open})` : 'leads';
+    docLinks.push(`<a href="${leadsUrl}">${label}</a>`);
   }
   if (docLinks.length > 0) {
     lines.push(`<span class="geo-entry-links">${docLinks.join(' · ')}</span>`);
