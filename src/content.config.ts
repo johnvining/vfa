@@ -139,6 +139,19 @@ const genealogy = defineCollection({
         ]).optional(),
       })).optional(),
     })).optional(),
+    leads: z.array(z.object({
+      posted: z.string(),                     // YYYY-MM or YYYY-MM-DD
+      note: z.string(),
+      url: z.union([
+        z.string(),
+        z.object({ url: z.string(), name: z.string().optional() }),
+        z.array(z.union([
+          z.string(),
+          z.object({ url: z.string(), name: z.string().optional() }),
+        ])),
+      ]).optional(),
+      resolved: z.string().optional(),        // YYYY-MM or YYYY-MM-DD; presence marks it followed-up
+    })).optional(),
   }),
 });
 
