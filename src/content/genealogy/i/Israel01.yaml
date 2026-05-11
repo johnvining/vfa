@@ -1,6 +1,12 @@
 id: Israel01
 letter: I
-lastUpdated: 9 March 2021
+lastUpdated: 10 May 2026
+leads:
+  - posted: "2026-05-10"
+    note: "Search Weymouth and Hingham church baptism registers (1757-1759) for an Israel Vining baptism. The first-born Israel (b. 1748) was baptized at a Weymouth church per Vital Records of Weymouth, so the second-born Israel's missing baptism may also be at Weymouth or Hingham rather than Abington."
+updates:
+  - date: "2026-05-10"
+    what: "added documentation of Revolutionary War service (1832 pension declaration and Mass. Secretary of State service certification), marriage, and death; refined birth date; added Abia's cause of death; added baptism dates for six children."
 relationship: son
 parentId: Elisha01
 parentLetter: E
@@ -8,7 +14,7 @@ parentDesc: Elisha Vining and Mary Leavitt
 head:
   givenName: Israel
   birth:
-    date: ca. 1760
+    date: "5 March 1757 or 1759"
     place: "Abington, Plymouth County, Massachusetts"
   death:
     date: 16 April 1840
@@ -67,7 +73,7 @@ childrenGroups:
       - name: Eunice Vining
         birth:
           date: "5 March [1792 or 1793?]"
-          place: "Windsor, Berkshire County, Massachusetts"
+          place: "Windsor, Berkshire County, Massachusetts (bapt. there 3 July 1808)"
         death:
           date: 13 August 1864
       - name: Elisha Vining
@@ -80,7 +86,7 @@ childrenGroups:
         entryLetter: J
         birth:
           date: 19 April 1797
-          place: "Windsor, Berkshire County, Massachusetts"
+          place: "Windsor, Berkshire County, Massachusetts (bapt. there 3 July 1808)"
         marriages:
           - date: 30 October 1821
             place: "Pownal, Bennington County, Vermont"
@@ -92,14 +98,14 @@ childrenGroups:
           date: 21 January 1799
           place: "(bapt. Windsor, Berkshire County, Massachusetts)"
         death:
-          date: "[23 or 25?] March 1799"
+          date: 23 March 1799
           place: "Windsor, Berkshire County, Massachusetts"
       - name: Ansel Vining
         entryId: Ansel01
         entryLetter: A
         birth:
           date: 23 January 1800
-          place: "Windsor, Berkshire County, Massachusetts"
+          place: "Windsor, Berkshire County, Massachusetts (bapt. there 3 July 1808)"
         marriages:
           - date: 18 September 1828
             place: "Pownal, Bennington County, Vermont"
@@ -112,7 +118,7 @@ childrenGroups:
         entryId: IsraelR01
         birth:
           date: 12 April 1802
-          place: "(bapt. Windsor, Berkshire County, Massachusetts)"
+          place: "(bapt. 3 July 1808 Windsor, Berkshire County, Massachusetts)"
         marriages:
           - number: 1
             date: 9 June 1821
@@ -127,13 +133,13 @@ childrenGroups:
       - name: Cullen Vining
         birth:
           date: 31 March 1804
-          place: "(bapt. Windsor, Berkshire County, Massachusetts)"
+          place: "(bapt. 3 July 1808 Windsor, Berkshire County, Massachusetts)"
         death:
           date: 24 August 1856
       - name: Mariah Vining
         birth:
           date: 2 July 1806
-          place: "(bapt. Windsor, Berkshire County, Massachusetts)"
+          place: "(bapt. 3 July 1808 Windsor, Berkshire County, Massachusetts)"
         marriages:
           - date: 13 October 1825
             place: "Windsor, Berkshire County, Massachusetts"
@@ -141,6 +147,16 @@ childrenGroups:
         death:
           date: 16 October 1874
 docsUrl: Isources/Israel01doc.htm
+openQuestions:
+  - posted: "2026-05-03"
+    question: "Are Elisha Vining and Mary Leavitt confirmed as Israel's parents?"
+    background: "Parentage is circumstantial, not documentary. No baptism, birth record, or parental will names him their child. Supporting: this Israel named one son Leavitt (Mary's maiden name) and another Elisha; his marriage record describes him as 'of Abington.' Repeated naming after infant child deaths is a trend in this family (Elisha and Mary had earlier children Mary, David, Israel, and Ebed who all died in 1752 and were each replaced by later children of the same name)."
+  - posted: "2026-05-03"
+    question: "Why is Israel's birth not in the Abington Vital Records?"
+    background: "1832 pension testimony: born March 5, 1757, 1758, or 1759 in Abington. No Abington baptism recorded. The first-born Israel (b. 1748) was baptized at a Weymouth church per Vital Records of Weymouth, so the second-born Israel's baptism may also be at Weymouth or Hingham. If possible sister Celia (bapt. 15 May 1758) is also a child of Elisha and Mary, 1758 is ruled out for Israel — their births would be ~2 months apart, which is impossible — leaving 1757 or 1759. Age 81 at death (per Windsor C.R. and gravestone) weakly indicates 1759 over 1757."
+  - posted: "2026-05-03"
+    question: "Who was the older brother Israel substituted for in the 1775 8-month service?"
+    background: "Israel testified (~1834 supplemental pension) that in 1775 he served at Roxbury in his brother's place for nearly half the term in Capt. Reed's Co., Col. Bailey's Regt. Brother unnamed. Candidates: David Vining (b. 1753, age 22 in 1775) or Elisha Vining Jr. (b. 1742, age 33 in 1775)."
 raw: |-
   <a name="Israel01"></a><font size=+2>Israel Vining</font>
      (son of <a href="Efamilies.htm#Elisha01">Elisha Vining and Mary Leavitt</a>)

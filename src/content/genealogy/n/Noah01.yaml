@@ -1,6 +1,10 @@
 id: Noah01
 letter: N
-lastUpdated: 3 February 2021
+lastUpdated: 10 May 2026
+updates:
+  - date: "2026-05-10"
+    what: "added burial for wife Mary Leavitt (Stoddard) Vining."
+    url: "https://www.findagrave.com/memorial/261007257"
 relationship: son
 parentId: David01
 parentLetter: D
@@ -26,6 +30,8 @@ marriages:
       death:
         date: 24 December 1868
         place: "Weymouth, Massachusetts"
+      burial:
+        place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
 childrenGroups:
   - children:
       - name: Noah Vining Jr.

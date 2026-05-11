@@ -1,0 +1,49 @@
+id: Celia01
+letter: C
+lastUpdated: 10 May 2026
+relationship: dau.
+parentId: Elisha01
+parentLetter: E
+parentDesc: Elisha Vining and Mary Leavitt
+head:
+  givenName: Celia
+  birth:
+    date: "bapt. 15 May 1758"
+    place: "Abington, Plymouth County, Massachusetts"
+  death:
+    date: 18 December 1843
+  burial:
+    place: "Union Cemetery   Hanover, Plymouth County, Massachusetts"
+marriages:
+  - date: 29 January 1781
+    place: "Abington, Plymouth County, Massachusetts"
+    spouse:
+      givenName: Obadiah
+      surname: Stoddard
+      from: "Scituate, Massachusetts"
+childrenGroups:
+  - children:
+      - name: Mary Leavitt Stoddard
+        birth:
+          date: 30 July 1783
+          place: "Weymouth, Massachusetts"
+        marriages:
+          - date: 16 July 1806
+            place: "Weymouth, Massachusetts"
+            spouse: Noah Vining
+        death:
+          date: 24 December 1868
+          place: "Weymouth, Massachusetts"
+        burial:
+          place: "Mount Hope Cemetery   Weymouth, Norfolk County, Massachusetts"
+docsUrl: Csources/Celia01doc.htm
+updates:
+  - date: "2026-05-10"
+    what: "created entry; added baptism, marriage, death and burial; added daughter Mary Leavitt Stoddard's burial. Note: Obadiah Stoddard's place of origin corrected from Weymouth to Scituate."
+openQuestions:
+  - posted: "2026-05-03"
+    question: "Is Celia confirmed as a daughter of Elisha Vining and Mary Leavitt?"
+    background: "Parentage inferred from the 15 May 1758 baptism at Abington First Congregational Church (the Vining family church) and from daughter Mary Leavitt Stoddard's middle name (her maternal grandmother's maiden name). No direct documentary evidence."
+  - posted: "2026-05-03"
+    question: "Did Celia and Obadiah have other children besides Mary Leavitt Stoddard?"
+    background: "Only Mary Leavitt Stoddard (b. 1783) is currently documented. Weymouth and Scituate vital records may show additional children."

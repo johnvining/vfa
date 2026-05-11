@@ -1,7 +1,14 @@
 id: Elisha01
 sequence: 79
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 10 May 2026
+updates:
+  - date: "2026-05-10"
+    what: "added daughter Celia Vining; refined son Israel's birth date; added first Israel's birth and Weymouth baptism record; noted reviewed Elisha Jr.'s probate (case 21657, no inventory or distribution); noted History of the Town of Hingham (1893) supports Levi Gardner spelling for daughter Mary's husband."
+openQuestions:
+  - posted: "2026-05-03"
+    question: "Are there other unrecorded children of Elisha and Mary Leavitt?"
+    background: "Daughter Celia (bapt. 1758) was added to this family from <a href='https://congregationallibrary.quartexcollections.com/Documents/Detail/church-records-1750-1774-first-congregational-church-in-abington-mass./40726'>Abington First Church baptism records, 1750-1774</a>. Her parentage to Elisha and Mary Leavitt is inferred from the Abington church and from her daughter's middle name (Leavitt), not from any direct documentary evidence — we still need to verify these are the correct parents to associate her with."
 relationship: son
 parentId: George01
 parentLetter: G
@@ -49,7 +56,7 @@ childrenGroups:
       - name: Israel Vining
         birth:
           date: 24 December 1748
-          place: "Abington, Plymouth County, Massachusetts"
+          place: "Abington, Plymouth County, Massachusetts (bapt. 1748-9, recorded in Weymouth Vital Records, C.R.2)"
         death:
           date: 23 February 1752
           place: "Abington, Plymouth County, Massachusetts"
@@ -81,11 +88,21 @@ childrenGroups:
           - date: 24 March 1784
             place: "Abington, Plymouth County, Massachusetts"
             spouse: "Levi [Gardner or Garnet?] (of Hingham, Massachusetts)"
+      - name: Celia Vining
+        entryId: Celia01
+        entryLetter: C
+        birth:
+          date: "bapt. 15 May 1758"
+          place: "Abington, Plymouth County, Massachusetts"
+        marriages:
+          - date: 29 January 1781
+            place: "Abington, Plymouth County, Massachusetts"
+            spouse: Obadiah Stoddard (of Scituate)
       - name: Israel Vining
         entryId: Israel01
         entryLetter: I
         birth:
-          date: ca. 1760
+          date: "5 March 1757 or 1759"
           place: "Abington, Plymouth County, Massachusetts"
         marriages:
           - date: 4 February 1782
