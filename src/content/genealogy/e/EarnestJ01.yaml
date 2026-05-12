@@ -1,0 +1,48 @@
+id: EarnestJ01
+sequence: 139
+letter: E
+lastUpdated: 11 May 2026
+relationship: son
+parentId: Hezekiah01
+parentLetter: H
+parentDesc: "Hezekiah &#8220;Kie&#8221; Vining and Maggie Albritton"
+head:
+  givenName: Earnest James
+  birth:
+    date: 29 March 1937
+    place: Florida
+  death:
+    date: 15 August 2006
+    place: Florida
+  burial:
+    place: "Oak Grove Baptist Church Cemetery   Deep Creek, Columbia County, Florida"
+marriages:
+  - date: January 1960
+    place: Florida
+    spouse:
+      givenName: Pamela Rae
+      surname: Libert
+      parents: (dau. of Edward Libert and Ethel [&#8230;])
+    divorce:
+      date: March 1966
+      place: "Hamilton, Florida"
+docsUrl: Esources/EarnestJ01doc.htm
+childrenGroups:
+  - children:
+      - name: Bruce Edward Vining
+        entryId: Bruce03
+        entryLetter: B
+        birth:
+          date: 27 June 1960
+          place: "Lake City, Florida"
+        death:
+          date: 25 August 2025
+          place: "Dothan, Alabama"
+updates:
+  - date: "2026-05-11"
+    what: "created entry; sources: 1940 US census (in Hezekiah &#8220;Kie&#8221; Vining household, Florida, age 3), Find a Grave memorial, Florida marriage index (Earnest Vining and Pamela Rae Libert, January 1960, certificate 967, vol. 1860), Florida divorce index (Earnest Vining and Pamela L. Vining, March 1966, Hamilton County, certificate 4711), and obituary of son Bruce Edward Vining; gravestone reads &#8220;Earnest James Vining&#8221; while Bruce's obituary spells the father's name &#8220;Ernest&#8221;"
+    url:
+      - url: "https://www.findagrave.com/memorial/216087537/earnest-james-vining"
+        name: "Find a Grave"
+      - url: "https://www.legacy.com/us/obituaries/lakecityreporter/name/bruce-vining-obituary?id=59410333"
+        name: "Bruce E. Vining obituary"

@@ -1,6 +1,6 @@
 id: Hezekiah01
 letter: H
-lastUpdated: 30 July 2022
+lastUpdated: 11 May 2026
 relationship: son
 parentId: DavidJ01
 parentLetter: D
@@ -41,9 +41,21 @@ childrenGroups:
           place: Florida
         marriages:
           - spouse: "[...] Coats"
-      - name: Earnest Vining
+      - name: Earnest James Vining
+        entryId: EarnestJ01
+        entryLetter: E
         birth:
-          date: age 3 y. as of 1940 census
+          date: 29 March 1937
+          place: Florida
+        marriages:
+          - date: January 1960
+            place: Florida
+            spouse: Pamela Rae Libert
+            divorce:
+              date: March 1966
+              place: "Hamilton, Florida"
+        death:
+          date: 15 August 2006
           place: Florida
       - name: Rubye Vining
         birth:
@@ -56,6 +68,14 @@ childrenGroups:
           - spouse: "Jean [...]"
       - name: Frank Vining
 docsUrl: Hsources/Hezekiah01doc.htm
+openQuestions:
+  - posted: "2026-05-11"
+    question: "Is the David N. Vining (age 5) in Kie's 1950 census household the same person as &#8220;Frank Vining&#8221; in the current child list, or a separate child not yet recorded?"
+    background: "The 1950 US census shows Kie Vining's household with children Kie Jr., Lucille (15), Ernest (13), Ruby L. (10), James W. (7), and David N. (5). The current entry lists James and Frank with no birth info; James W. (7) appears to match James, but David N. (5) does not obviously match Frank. Possible explanations: David is a separate child missing from the entry, Frank is a nickname/middle name for David, or one of the names is a transcription error."
+updates:
+  - date: "2026-05-11"
+    what: "promoted Earnest James Vining to his own entry; added his middle name, full birth date (29 March 1937), and death information (15 August 2006, buried Oak Grove Baptist Church Cemetery, Deep Creek, Columbia County, Florida)"
+    url: "https://www.findagrave.com/memorial/216087537/earnest-james-vining"
 raw: |-
   <a name="Hezekiah01"></a><font size=+2>Hezekiah &#8220;Kie&#8221; Vining</font>
      (son of <a href="Dfamilies.htm#DavidJ01">David Jacob Vining and Laura Hines</a>)
