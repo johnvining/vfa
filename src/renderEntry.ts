@@ -48,6 +48,7 @@ interface Child {
   hasUnlistedChildren?: boolean;
   leadingDash?: boolean;
   birth?: DatePlace;
+  baptism?: DatePlace;
   adoptedDate?: string;
   marriages?: ChildMarriage[];
   middleNote?: string;
@@ -95,6 +96,7 @@ interface EntryData {
     surname?: string;
     headingNote?: string;
     birth?: DatePlace;
+    baptism?: DatePlace;
     adoptedDate?: string;
     death?: DatePlace;
     burial?: Burial;
@@ -240,6 +242,10 @@ function renderChildLine(child: Child): string {
     const prefix = hasSelfPrefix(child.birth.date) ? '' : 'b. ';
     segments.push(prefix + dp(child.birth));
   }
+  if (child.baptism) {
+    const prefix = hasSelfPrefix(child.baptism.date) ? '' : 'bapt. ';
+    segments.push(prefix + dp(child.baptism));
+  }
 
   if (child.adoptedDate) segments.push('adopted ' + child.adoptedDate);
 
@@ -324,6 +330,10 @@ export function renderEntry(data: EntryData): string {
   if (data.head.birth) {
     const prefix = hasSelfPrefix(data.head.birth.date) ? '   ' : '   b. ';
     lines.push(prefix + dp(data.head.birth));
+  }
+  if (data.head.baptism) {
+    const prefix = hasSelfPrefix(data.head.baptism.date) ? '   ' : '   bapt. ';
+    lines.push(prefix + dp(data.head.baptism));
   }
   if (data.head.adoptedDate) lines.push('         adopted ' + data.head.adoptedDate);
 

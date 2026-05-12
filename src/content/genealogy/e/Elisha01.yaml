@@ -56,7 +56,10 @@ childrenGroups:
       - name: Israel Vining
         birth:
           date: 24 December 1748
-          place: "Abington, Plymouth County, Massachusetts (bapt. 1748-9, recorded in Weymouth Vital Records, C.R.2)"
+          place: "Abington, Plymouth County, Massachusetts"
+        baptism:
+          date: "1748-9"
+          place: "Weymouth, Norfolk County, Massachusetts (recorded in Weymouth Vital Records, C.R.2)"
         death:
           date: 23 February 1752
           place: "Abington, Plymouth County, Massachusetts"
@@ -91,8 +94,8 @@ childrenGroups:
       - name: Celia Vining
         entryId: Celia01
         entryLetter: C
-        birth:
-          date: "bapt. 15 May 1758"
+        baptism:
+          date: 15 May 1758
           place: "Abington, Plymouth County, Massachusetts"
         marriages:
           - date: 29 January 1781

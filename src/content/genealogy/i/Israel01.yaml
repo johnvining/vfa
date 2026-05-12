@@ -66,14 +66,18 @@ childrenGroups:
       - name: Ansel Vining
         birth:
           date: 6 April 1789
-          place: "(bapt. Windsor, Berkshire County, Massachusetts)"
+        baptism:
+          place: "Windsor, Berkshire County, Massachusetts"
         death:
           date: 1 November 1799
           place: "Windsor, Berkshire County, Massachusetts"
       - name: Eunice Vining
         birth:
           date: "5 March [1792 or 1793?]"
-          place: "Windsor, Berkshire County, Massachusetts (bapt. there 3 July 1808)"
+          place: "Windsor, Berkshire County, Massachusetts"
+        baptism:
+          date: 3 July 1808
+          place: "Windsor, Berkshire County, Massachusetts"
         death:
           date: 13 August 1864
       - name: Elisha Vining
@@ -86,7 +90,10 @@ childrenGroups:
         entryLetter: J
         birth:
           date: 19 April 1797
-          place: "Windsor, Berkshire County, Massachusetts (bapt. there 3 July 1808)"
+          place: "Windsor, Berkshire County, Massachusetts"
+        baptism:
+          date: 3 July 1808
+          place: "Windsor, Berkshire County, Massachusetts"
         marriages:
           - date: 30 October 1821
             place: "Pownal, Bennington County, Vermont"
@@ -96,7 +103,8 @@ childrenGroups:
       - name: Israel Vining Jr.
         birth:
           date: 21 January 1799
-          place: "(bapt. Windsor, Berkshire County, Massachusetts)"
+        baptism:
+          place: "Windsor, Berkshire County, Massachusetts"
         death:
           date: 23 March 1799
           place: "Windsor, Berkshire County, Massachusetts"
@@ -105,7 +113,10 @@ childrenGroups:
         entryLetter: A
         birth:
           date: 23 January 1800
-          place: "Windsor, Berkshire County, Massachusetts (bapt. there 3 July 1808)"
+          place: "Windsor, Berkshire County, Massachusetts"
+        baptism:
+          date: 3 July 1808
+          place: "Windsor, Berkshire County, Massachusetts"
         marriages:
           - date: 18 September 1828
             place: "Pownal, Bennington County, Vermont"
@@ -118,7 +129,9 @@ childrenGroups:
         entryId: IsraelR01
         birth:
           date: 12 April 1802
-          place: "(bapt. 3 July 1808 Windsor, Berkshire County, Massachusetts)"
+        baptism:
+          date: 3 July 1808
+          place: "Windsor, Berkshire County, Massachusetts"
         marriages:
           - number: 1
             date: 9 June 1821
@@ -133,13 +146,17 @@ childrenGroups:
       - name: Cullen Vining
         birth:
           date: 31 March 1804
-          place: "(bapt. 3 July 1808 Windsor, Berkshire County, Massachusetts)"
+        baptism:
+          date: 3 July 1808
+          place: "Windsor, Berkshire County, Massachusetts"
         death:
           date: 24 August 1856
       - name: Mariah Vining
         birth:
           date: 2 July 1806
-          place: "(bapt. 3 July 1808 Windsor, Berkshire County, Massachusetts)"
+        baptism:
+          date: 3 July 1808
+          place: "Windsor, Berkshire County, Massachusetts"
         marriages:
           - date: 13 October 1825
             place: "Windsor, Berkshire County, Massachusetts"

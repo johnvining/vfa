@@ -13,18 +13,20 @@ marriages:
 childrenGroups:
   - children:
       - name: Sarah Taylor Vining
-        birth:
-          date: baptized 5 November 1779
+        baptism:
+          date: 5 November 1779
         death:
           date: 11 January 1781
           place: England
       - name: Edward Vining
         birth:
           date: "[b. ca. 1780?]"
-        note: "christened 28 September 1815   St. Paul&#8217;s, Bristol, Gloucester, England"
+        baptism:
+          date: 28 September 1815
+          place: "St. Paul&#8217;s, Bristol, Gloucester, England"
       - name: Joseph Vining
-        birth:
-          date: baptized 14 December 1781
+        baptism:
+          date: 14 December 1781
           place: "St. Bartholomew the Great, Smithfield, England"
         marriages:
           - date: 24 November 1804
@@ -38,7 +40,9 @@ childrenGroups:
       - name: William George Vining
         birth:
           date: "1783"
-          place: "London, Middlexes, England   -  baptized 20 October 1783"
+          place: "London, Middlexes, England"
+        baptism:
+          date: 20 October 1783
         marriages:
           - date: "1816"
             spouse: "St. Nicholas, Brighton, Sussex, England   Mary Gossop Johannot"
@@ -69,7 +73,10 @@ childrenGroups:
           place: England
       - name: Frederick Augustus Vining
         birth:
-          date: "25 November 1790   -   bapt. 28 November 1790   St. Paul&#8217;s, Covent Garden, London, England"
+          date: 25 November 1790
+        baptism:
+          date: 28 November 1790
+          place: "St. Paul&#8217;s, Covent Garden, London, England"
         marriages:
           - date: "Jemima &#8220;Marian&#8221; Bew"
         death:
@@ -77,7 +84,10 @@ childrenGroups:
           place: "London, Surrey, England"
       - name: Harriot Vining
         birth:
-          date: "1792   -   bapt. 18 October 1792   St. Andrew, Holborn, London, England"
+          date: "1792"
+        baptism:
+          date: 18 October 1792
+          place: "St. Andrew, Holborn, London, England"
         death:
           date: "1798"
       - name: "Philip Taylor &#8220;Henry&#8221; Vining   [b. or bapt.?] 16 January 1794   St. Andrew, Holborn, London, England"

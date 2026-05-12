@@ -34,15 +34,15 @@ marriages:
 childrenGroups:
   - children:
       - name: Hervey Vining
-        birth:
-          date: "bapt. 27 September 1801"
+        baptism:
+          date: 27 September 1801
           place: "Weymouth, Norfolk County, Massachusetts"
         death:
           date: 26 February 1803
           place: "Weymouth, Norfolk County, Massachusetts"
       - name: Eveline Lincoln Vining
-        birth:
-          date: "bapt. 31 March 1805"
+        baptism:
+          date: 31 March 1805
           place: "Weymouth, Norfolk County, Massachusetts"
         marriages:
           - date: "int. 6 August 1824"
@@ -52,8 +52,8 @@ childrenGroups:
           date: 7 January 1868
           place: "Weymouth, Norfolk County, Massachusetts"
       - name: Eliza Ann Vining
-        birth:
-          date: "bapt. 2 August 1807"
+        baptism:
+          date: 2 August 1807
           place: "Weymouth, Norfolk County, Massachusetts"
       - name: Maria Vining
         birth:

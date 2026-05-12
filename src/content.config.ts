@@ -57,6 +57,7 @@ const child = z.object({
   hasUnlistedChildren: z.boolean().optional(),
   leadingDash: z.boolean().optional(),
   birth: datePlace,
+  baptism: datePlace,
   adoptedDate: z.string().optional(),
   marriages: z.array(childMarriage).optional(),
   middleNote: z.string().optional(),  // segment after marriages, before death (no "m." prefix)
@@ -97,6 +98,7 @@ const genealogy = defineCollection({
       surname: z.string().optional(),   // override when surname is non-standard (e.g. "Vinning")
       headingNote: z.string().optional(), // trailing annotation like [sic; ...]
       birth: datePlace,
+      baptism: datePlace,
       adoptedDate: z.string().optional(),
       death: datePlace,
       burial,
