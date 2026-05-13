@@ -1,0 +1,54 @@
+id: FrankL02
+sequence: 68
+letter: F
+lastUpdated: 12 May 2026
+relationship: son
+parentId: WillisW01
+parentLetter: W
+parentDesc: Willis W. Vining and Rittia Morse
+head:
+  givenName: "Frank Louis &#8220;F.L.&#8221;"
+  birth:
+    date: age 7 y. as of 1930 census
+    place: Louisiana
+marriages:
+  - number: 1
+    spouse:
+      givenName: Helaine Hutchinson
+      surname: Fossier
+      parents: (dau. of [&#8230;] Fossier and Josephine Hutchinson)
+  - number: 2
+    spouse:
+      givenName: Betty Louise
+      surname: Brunner
+      parents: (dau. of William W. Brunner and Emma Nober)
+      birth:
+        date: "ca. 1933"
+        place: "Ponchatoula, Tangipahoa Parish, Louisiana"
+      death:
+        date: 5 October 2025
+childrenGroups:
+  - spouseRef: Helaine Hutchinson Fossier
+    children:
+      - name: "Frank &#8220;Dwayne&#8221; Vining Sr."
+        birth:
+          date: 7 March 1946
+          place: "Tangipahoa Parish, Louisiana"
+        marriages:
+          - spouse: Marsha Owens
+        death:
+          date: 27 March 2023
+        burial:
+          place: "Carter Cemetery"
+      - name: Bernard Vining
+      - name: Lorraine Vining
+        marriages:
+          - spouse: Phil Pankey
+updates:
+  - date: "2026-05-12"
+    what: "created entry; sources: 1930 US census (in Willis W. Vining household, age 7, Louisiana), obituary of son Frank &#8220;Dwayne&#8221; Vining Sr. (March 2023), and obituary of second wife Betty Louise Brunner Vining (October 2025); Frank's full birth date, death date, and place of death are not yet documented"
+    url:
+      - url: "https://www.legacy.com/us/obituaries/name/frank-vining-obituary?id=51503714"
+        name: "Frank &#8220;Dwayne&#8221; Vining Sr. obituary"
+      - url: "https://obits.al.com/us/obituaries/hammondstar/name/betty-vining-obituary?id=59748912"
+        name: "Betty Louise Brunner Vining obituary"

@@ -1,7 +1,7 @@
 id: WillisW01
 sequence: 149
 letter: W
-lastUpdated: 10 March 2023
+lastUpdated: 12 May 2026
 relationship: son
 parentId: Francis02
 parentLetter: F
@@ -14,7 +14,7 @@ head:
 marriages:
   - spouse:
       givenName: Rittia
-      surname: "[&#8230;]"
+      surname: Morse
       birth:
         date: age 32 y. as of 1930 census
         place: Louisiana
@@ -28,10 +28,17 @@ childrenGroups:
         birth:
           date: age 10 y. as of 1930 census
           place: Louisiana
-      - name: Frank Vining
+      - name: "Frank Louis &#8220;F.L.&#8221; Vining"
+        entryId: FrankL02
+        entryLetter: F
         birth:
           date: age 7 y. as of 1930 census
           place: Louisiana
+        marriages:
+          - number: 1
+            spouse: Helaine Hutchinson Fossier
+          - number: 2
+            spouse: Betty Louise Brunner
       - name: Edna Vining
         birth:
           date: age 4 y. as of 1930 census
@@ -41,6 +48,14 @@ childrenGroups:
           date: age 1 y. as of 1930 census
           place: Louisiana
 docsUrl: Wsources/WillisW01doc.htm
+updates:
+  - date: "2026-05-12"
+    what: "added wife Rittia's maiden name (Morse) and promoted son Frank Louis &#8220;F.L.&#8221; Vining to his own entry (with marriages to Helaine Hutchinson Fossier and Betty Louise Brunner); sources: obituary of Frank's son Frank &#8220;Dwayne&#8221; Vining Sr. (March 2023) and obituary of Frank's second wife Betty Louise Brunner Vining (October 2025)"
+    url:
+      - url: "https://www.legacy.com/us/obituaries/name/frank-vining-obituary?id=51503714"
+        name: "Frank &#8220;Dwayne&#8221; Vining Sr. obituary"
+      - url: "https://obits.al.com/us/obituaries/hammondstar/name/betty-vining-obituary?id=59748912"
+        name: "Betty Louise Brunner Vining obituary"
 raw: |-
   <a name="WillisW01"></a><font size=+2>Willis W. Vining</font>
      (son of <a href="Ffamilies.htm#Francis02">Francis "Frank" Vining and Harriet Joiner</a>)
