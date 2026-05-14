@@ -1,0 +1,38 @@
+id: DouglasR01
+sequence: 99
+letter: D
+lastUpdated: 14 May 2026
+relationship: son
+parentId: ReginaldW01
+parentLetter: R
+parentDesc: Reginald W. Vining and Frances Elizabeth Ackley
+head:
+  givenName: Douglas Robert
+  birth:
+    date: 31 December 1931
+    place: "Norwich, Chenango County, New York"
+  death:
+    date: 22 February 2008
+    place: "Boston, Suffolk County, Massachusetts"
+  burial:
+    place: "Wyoming Cemetery   Melrose, Middlesex County, Massachusetts"
+marriages:
+  - spouse:
+      givenName: Dolores J.
+      surname: Britten
+      parents: (dau. of Martin Britten and Dolores Bryan)
+      birth:
+        date: 14 April 1936
+        place: "Perry, Iowa"
+      death:
+        date: 27 February 2025
+        place: "Worcester, Massachusetts"
+      burial:
+        place: "Wyoming Cemetery   Melrose, Middlesex County, Massachusetts"
+docsUrl: Dsources/DouglasR01doc.htm
+updates:
+  - date: "2026-05-14"
+    what: "promoted from inline child of ReginaldW01 to his own entry; added wife Dolores J. (Britten) Vining's life dates, parents, and burial from her 2025 obituary"
+    url:
+      - url: "https://www.newspapers.com/image/444336585/?article=4937ecbc-9ed6-4530-a09b-7d33aec35857"
+        name: "Douglas R. Vining obituary, February 2008"

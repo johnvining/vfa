@@ -1,7 +1,7 @@
 id: ReginaldW01
 sequence: 28
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 14 May 2026
 relationship: son
 parentId: ErnestW01
 parentLetter: E
@@ -33,15 +33,22 @@ childrenGroups:
   - headingText: child
     children:
       - name: Douglas Robert Vining
+        entryId: DouglasR01
+        entryLetter: D
         birth:
           date: 31 December 1931
           place: "Norwich, Chenango County, New York"
+        marriages:
+          - spouse: Dolores J. Britten
         death:
           date: 22 February 2008
           place: "Boston, Suffolk County, Massachusetts"
         burial:
           place: "Wyoming Cemetery   Melrose, Middlesex County, Massachusetts"
 docsUrl: Rsources/ReginaldW01doc.htm
+updates:
+  - date: "2026-05-14"
+    what: "promoted son Douglas Robert Vining to his own entry; added his marriage to Dolores J. Britten"
 raw: |-
   <a name="ReginaldW01"></a><font size=+2>Reginald W. Vining</font>
      (son of <a href="Efamilies.htm#ErnestW01">Ernest W. Vining and Catherine [&#8230;]</a>)
