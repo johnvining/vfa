@@ -1,7 +1,7 @@
 id: JohnH05
 sequence: 232
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 13 May 2026
 relationship: son
 parentId: HenryC02
 parentLetter: H
@@ -12,9 +12,20 @@ head:
     date: 4 June 1926
     place: "Clinton, Iowa"
 marriages:
-  - spouse:
+  - date: 11 January 1947
+    place: "Clinton, Iowa"
+    spouse:
       givenName: Verna Belle
       surname: Dyke
+      parents: "(dau. of John Dyke and Margaret Sikkema)"
+      birth:
+        date: 17 July 1927
+        place: "Clinton, Iowa"
+      death:
+        date: 29 January 2025
+        place: "Iowa City, Iowa"
+      burial:
+        description: cremated
 childrenGroups:
   - children:
       - name: Deborah Sue Vining
@@ -22,10 +33,17 @@ childrenGroups:
           date: 13 May 1954
           place: "Clinton, Iowa"
         marriages:
-          - date: 26 June 1971
+          - number: 1
+            date: 26 June 1971
             spouse: Terry Ray Jones
             divorce: {}
+          - number: 2
+            spouse: Robert Thies
+        death:
+          date: before 29 January 2025
       - name: John Vining
+        marriages:
+          - spouse: Sheila
       - name: Mark Raymond Vining
         entryId: MarkR01
         entryLetter: M
@@ -34,6 +52,10 @@ childrenGroups:
           place: "Clinton, Iowa"
         marriages:
           - spouse: Lynn Ann Willenburg
+updates:
+  - date: "2026-05-13"
+    what: "added wife Verna Belle (Dyke) Vining's full life dates (17 July 1927 – 29 January 2025), parents (John Dyke and Margaret Sikkema), birthplace and death place; added marriage date (11 January 1947, Clinton, Iowa); noted daughter Deborah's second marriage to Robert Thies and her death predeceasing her mother; added son John's wife Sheila; source: Verna's obituary at Lensing Funeral Home"
+    url: "https://www.lensingfuneral.com/obituaries/Verna-Vining?obId=35179729"
 raw: |-
   <a name="JohnH05"></a><font size=+2>John Henry Vining</font>
      (son of <a href="Hfamilies.htm#HenryC02">Henry Calvin Vining and Gertrude Delia Mewherter</a>)
