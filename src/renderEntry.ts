@@ -142,6 +142,15 @@ function bur(b: Burial, indent: number): string[] {
   return lines;
 }
 
+// Splits a widowOf value on ";" so multiple other marriages each get their own
+// "m. ..." line at the given indent. Single-value strings (no semicolons) render
+// as one line, matching the prior behavior.
+function widow(s: string | undefined, indent: number): string[] {
+  if (!s) return [];
+  const pad = ' '.repeat(indent);
+  return s.split(';').map(part => pad + 'm. ' + part.trim());
+}
+
 // Inserts " SURNAME" (default "Vining") before any trailing suffix (Jr., Sr., roman numerals)
 function withVining(givenName: string, surname: string = 'Vining'): string {
   const m = givenName.match(/^(.*?)(\s+(?:Jr\.?|Sr\.?|[IVX]+))$/);
@@ -174,7 +183,7 @@ function renderNumberedSpouseBlock(m: Marriage): string[] {
       lines.push(' '.repeat(21) + prefix + dp(s.birth));
     }
     if (s.death) lines.push(' '.repeat(21) + 'd. ' + dp(s.death));
-    if (s.widowOf) lines.push(' '.repeat(21) + 'm. ' + s.widowOf);
+    lines.push(...widow(s.widowOf, 21));
     lines.push(...bur(s.burial, 27));
   } else {
     // Inline-name marriage: date line contains the name, details directly at 21
@@ -184,7 +193,7 @@ function renderNumberedSpouseBlock(m: Marriage): string[] {
       lines.push(' '.repeat(21) + prefix + dp(s.birth));
     }
     if (s.death) lines.push(' '.repeat(21) + 'd. ' + dp(s.death));
-    if (s.widowOf) lines.push(' '.repeat(21) + 'm. ' + s.widowOf);
+    lines.push(...widow(s.widowOf, 21));
     lines.push(...bur(s.burial, 27));
   }
   return lines;
@@ -203,7 +212,7 @@ function renderSpouseBlock(m: Marriage, spouseIndent: number, detailIndent: numb
     lines.push(' '.repeat(detailIndent) + prefix + dp(s.birth));
   }
   if (s.death) lines.push(' '.repeat(detailIndent) + 'd. ' + dp(s.death));
-  if (s.widowOf) lines.push(' '.repeat(detailIndent) + 'm. ' + s.widowOf);
+  lines.push(...widow(s.widowOf, detailIndent));
   lines.push(...bur(s.burial, burialIndent));
 
   return lines;
@@ -383,7 +392,7 @@ export function renderEntry(data: EntryData): string {
           if (s.parents) lines.push('            ' + s.parents);
           if (s.birth) lines.push('            b. ' + dp(s.birth));
           if (s.death) lines.push('            d. ' + dp(s.death));
-          if (s.widowOf) lines.push('            m. ' + s.widowOf);
+          lines.push(...widow(s.widowOf, 12));
           lines.push(...bur(s.burial, 18));
           if (m.divorce) lines.push('         ' + renderDivorceBare(m.divorce));
           if (m.note) {

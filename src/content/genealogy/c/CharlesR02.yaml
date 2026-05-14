@@ -1,7 +1,7 @@
 id: CharlesR02
 letter: C
 sequence: 96
-lastUpdated: 25 February 2023
+lastUpdated: 13 May 2026
 migrationNote: "Original HTML omitted b. birth marker before child Douglas Herbert Vining's birth date; added in new rendering."
 relationship: son
 parentId: Levi01
@@ -66,15 +66,16 @@ childrenGroups:
           date: 10 January 1932
           place: "Ponchatoula, Louisiana"
         marriages:
-          - spouse: Frank Guiffreda
+          - spouse: Frank Donald Guiffreda
         death:
           date: 22 June 2007
           place: "Ponchatoula, Louisiana"
         burial:
           place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
+        note: "(Frank Guiffreda later m. (2) Netye Douglas, widow of Viola's brother Douglas Herbert Vining)"
       - name: Alberta H. Vining
         marriages:
-          - spouse: "[...] M[e?]yers"
+          - spouse: "[&#8230;] Meyers"
       - name: Walter Levi Vining
         birth:
           date: age 2 y. as of 1940 census
@@ -85,7 +86,7 @@ childrenGroups:
         birth:
           date: 22 August 1942
         marriages:
-          - date: "Christine [&#8230;]"
+          - spouse: "Christine [&#8230;]"
         death:
           date: 12 March 2016
           place: "Ponchatoula, Louisiana"
@@ -102,8 +103,14 @@ childrenGroups:
           place: "Hammond, Louisiana"
         burial:
           place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
-      - name: Gary Vining
+      - name: Gary Wayne Vining
 docsUrl: Csources/CharlesR02doc.htm
+updates:
+  - date: "2026-05-13"
+    what: "renamed the existing &#8220;Gary Vining&#8221; child to Gary Wayne Vining (distinct from his nephew Gary Paul Vining); added note that Frank Guiffreda later married Viola's sister-in-law Netye Douglas Vining"
+  - date: "2026-05-13"
+    what: "Charles Ray's 1966 funeral notice names three surviving daughters as Mrs. Paul Gordon, Mrs. Frank Guiffreda, and Mrs. Albert Husser; the first two clearly match Esther B. and Viola H., but Mrs. Albert Husser is not yet identified with any documented daughter (Alberta H. is later documented as &#8220;Alberta Myers&#8221; in Douglas's 2001 obituary, but no source ties Mrs. Albert Husser and Alberta Myers to the same person)"
+    url: "https://www.newspapers.com/image/850540447/?article=382e4c3f-e3ea-417c-a191-68e8794316f4"
 raw: |-
   <a name="CharlesR02"></a><font size=+2>Charles Ray Vining</font>
      (son of <a href="Lfamilies.htm#Levi01">Levi Vining and Harriet F. [&#8230;]</a>)

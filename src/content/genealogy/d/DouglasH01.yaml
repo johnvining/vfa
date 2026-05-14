@@ -1,7 +1,7 @@
 id: DouglasH01
 sequence: 93
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 13 May 2026
 relationship: son
 parentId: CharlesR02
 parentLetter: C
@@ -15,25 +15,107 @@ head:
   burial:
     place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
 marriages:
-  - spouse:
-      givenName: Netye
+  - number: 1
+    spouse:
+      givenName: Pearl
+      surname: Constant
+      parents: (dau. of Sidney Joseph Constant and Norma Marie Kramer)
+      birth:
+        date: "ca. 1923"
+        place: "Kramer, Louisiana"
+      death:
+        date: 19 March 2004
+        place: "North Oaks Medical Center, Hammond, Louisiana"
+      burial:
+        place: "Springfield Cemetery"
+      widowOf: "Clifford A. Threeton (her later marriage)"
+  - number: 2
+    spouse:
+      givenName: "Netye &#8220;Zel&#8221;"
       surname: Douglas
+      parents: "(dau. of William Larkin Douglas and Henry Della [&#8230;])"
+      birth:
+        date: 3 November 1932
+        place: "Logtown, Mississippi"
+      death:
+        date: 1 March 2024
+      burial:
+        place: "Ponchatoula Cemetery   Ponchatoula, Louisiana"
+      widowOf: "Marvin Sylvest of Picayune, Mississippi; Frank Donald Guiffreda (after Douglas's death)"
 childrenGroups:
-  - children:
-      - name: Joyce Vining
+  - spouseRef: Pearl Constant
+    children:
+      - name: Ronald Vining
+        birth:
+          date: age 3 y. as of 1950 census
         marriages:
-          - spouse: "[...] Lawrence"
+          - spouse: Patricia "Trish" Woods
+      - name: Gary Paul Vining
+        entryId: GaryP02
+        entryLetter: G
+        birth:
+          date: 17 February 1948
+          place: "Hammond, Tangipahoa Parish, Louisiana"
+        marriages:
+          - date: 13 June 1970
+            place: "Wichita Falls, Texas"
+            spouse: Ann King
+        death:
+          date: 16 June 2025
+          place: Taylor Lake
+      - name: Donald Vining
+        birth:
+          date: age 1 y. as of 1950 census
+  - spouseRef: Netye Douglas
+    children:
       - name: Patricia S. Vining
         marriages:
-          - spouse: "[...] Stevenson"
+          - spouse: Charles Stevenson
       - name: Peggy S. Vining
         marriages:
-          - spouse: "[...] Jarrell"
-      - name: Gary Vining
-      - name: Ronald Vining
-      - name: "Jeffrey Sylvest[er?] [Vining?]"
-      - name: Donald Vining
+          - spouse: John Jarrell
+  - headingText: "child of Douglas Herbert Vining (mother not documented in any source available to us)"
+    children:
+      - name: Joyce Vining
+        marriages:
+          - spouse: Sidney Lawrence
+        note: "(predeceased by sons Alan and Steven Lawrence)"
+  - headingText: "stepson, Netye Douglas's son by her marriage to Marvin Sylvest"
+    children:
+      - name: Jeffrey Sylvest
+        marriages:
+          - date: 17 November 1984
+            place: "First United Methodist Church, Hammond, Louisiana"
+            spouse: Betsy Brown
 docsUrl: Dsources/DouglasH01doc.htm
+updates:
+  - date: "2026-05-13"
+    what: "promoted son Gary Paul Vining to his own entry; added Douglas's first wife Pearl Constant and second wife Netye &#8220;Zel&#8221; Douglas with full life dates, parents, and burials; restructured children into four groups by mother (Pearl's three sons; Netye's two documented daughters; Joyce, mother undocumented; stepson Jeffrey Sylvest by Netye's earlier marriage to Marvin Sylvest); filled in spouse first names for the children's marriages"
+    url:
+      - url: "https://www.whittfh.com/obituary/Gary-Vining"
+        name: "Gary Paul Vining obituary (Whitt Funeral Home)"
+      - url: "https://www.legacy.com/us/obituaries/name/gary-vining-obituary?id=58669895"
+        name: "Gary Paul Vining obituary (Legacy.com)"
+      - url: "https://www.newspapers.com/image/1256214281/"
+        name: "Douglas Herbert Vining obituary, The Daily Star (Hammond), 17 June 2001"
+      - url: "https://www.newspapers.com/image/1256071131/"
+        name: "Pearl Constant Vining Threeton obituary, The Daily Star (Hammond), 21 March 2004"
+      - url: "https://www.harrymckneely.com/obituaries/frank-donald-guiffreda"
+        name: "Frank Donald Guiffreda obituary, October 2022 (Harry McKneely & Son Funeral Home)"
+      - url: "https://www.echovita.com/us/obituaries/la/ponchatoula/frank-donald-guiffreda-15428795"
+        name: "Frank Donald Guiffreda obituary, October 2022 (echovita.com mirror)"
+      - url: "https://obits.harrymckneely.com/netye-guiffreda"
+        name: "Netye &#8220;Zel&#8221; D. Guiffreda obituary, March 2024 (Harry McKneely & Son Funeral Home)"
+      - url: "https://www.findagrave.com/memorial/64436894/frank-donald-guiffreda#view-photo=37874706"
+        name: "Find A Grave Memorial #64436894, Frank Donald Guiffreda (with joint Frank-and-Netye Guiffreda headstone photo)"
+      - url: "http://files.usgwarchives.net/la/tangipahoa/obits/obitssur/vining.txt"
+        name: "Douglas Herbert Vining obituary (The Advocate, 18 June 2001), USGenWeb Archives transcription"
+      - url: "https://www.newspapers.com/image/855025188/"
+        name: "Tangi Talk Court News, 20 December 1967 (Douglas H. Vining v. Netye Douglas Sylvest Vining, separation)"
+      - url: "https://www.newspapers.com/image/1253727132/?article=9cac0686-09fe-45d2-9446-bfd1592ce50b"
+        name: "The Daily Star (Hammond), 30 December 1984 (Brown-Sylvest wedding announcement: Betsy Brown and Jeffrey Sylvest, married 17 November 1984)"
+  - date: "2026-05-13"
+    what: "added 1950 US census documentation for Douglas's household with Pearl Constant: Douglas (24), Pearl (26), Ronald (3), Gary (2), Donald (1) &#8212; no Joyce. This established birth order Ronald (b. ~1947) &#8211; Gary (b. 1948) &#8211; Donald (b. ~1949), and added approximate birth years for Ronald and Donald. Joyce's absence from the 1950 household is further evidence she was not Pearl's daughter (Pearl's 2004 obituary listed only three sons and no daughters as either surviving or preceding her)"
 raw: |-
   <a name="DouglasH01"></a><font size=+2>Douglas Herbert Vining</font>
      (son of <a href="Cfamilies.htm#CharlesR02">Charles Ray Vining and Corine Perrilloux</a>)

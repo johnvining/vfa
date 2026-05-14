@@ -1,0 +1,39 @@
+id: GaryP02
+sequence: 51
+letter: G
+lastUpdated: 13 May 2026
+relationship: son
+parentId: DouglasH01
+parentLetter: D
+parentDesc: Douglas Herbert Vining and Pearl Constant
+head:
+  givenName: Gary Paul
+  birth:
+    date: 17 February 1948
+    place: "Hammond, Tangipahoa Parish, Louisiana"
+  death:
+    date: 16 June 2025
+    place: Taylor Lake
+  burial:
+    description: cremated
+marriages:
+  - date: 13 June 1970
+    place: "Wichita Falls, Texas"
+    spouse:
+      givenName: Ann
+      surname: King
+childrenGroups:
+  - children:
+      - name: Dana Vining
+        marriages:
+          - spouse: "[&#8230;] Baker"
+        death:
+          date: before 16 June 2025
+updates:
+  - date: "2026-05-13"
+    what: "created entry; sources: obituary of Gary Paul Vining (which names his mother as Pearl (Constant) Threton, i.e. Pearl Constant Vining who later remarried a Threton), and obituary of Frank Donald Guiffreda (October 2022) which identifies Netye Douglas Vining as Douglas Herbert Vining's later wife (mother of Patricia, Peggy, and Jeffrey, not Gary)"
+    url:
+      - url: "https://www.whittfh.com/obituary/Gary-Vining"
+        name: "Gary Paul Vining obituary (Whitt Funeral Home)"
+      - url: "https://www.legacy.com/us/obituaries/name/gary-vining-obituary?id=58669895"
+        name: "Gary Paul Vining obituary (Legacy.com)"
