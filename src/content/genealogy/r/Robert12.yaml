@@ -1,0 +1,65 @@
+id: Robert12
+letter: R
+lastUpdated: 14 May 2026
+parentDesc: "[?]"
+head:
+  givenName: Robert
+  birth:
+    date: abt 1872
+    place: Georgia
+marriages:
+  - spouse:
+      givenName: Annie
+      birth:
+        date: abt 1874
+        place: Georgia
+childrenGroups:
+  - children:
+      - name: Robert Matthew Vining
+        entryId: RobertM03
+        entryLetter: R
+        birth:
+          date: abt 1896
+          place: Georgia
+        marriages:
+          - spouse: Maggie B.
+      - name: Lillie Vinnig
+        birth:
+          date: age 22 y. as of 1920 census
+          place: Georgia
+      - name: Bettie Vinnig
+        birth:
+          date: age 14 y. as of 1920 census
+          place: Georgia
+      - name: Willie Vinnig
+        birth:
+          date: age 12 y. as of 1920 census
+          place: Georgia
+      - name: Eddie Vinnig
+        birth:
+          date: age 12 y. as of 1920 census
+          place: Georgia
+      - name: Taft Vinnig
+        birth:
+          date: age 8 y. as of 1920 census
+          place: Georgia
+      - name: Annie Lue Vinnig
+        birth:
+          date: age 6 y. as of 1920 census
+          place: Georgia
+      - name: Mandy Vinnig
+        birth:
+          date: age 4 y. as of 1920 census
+          place: Georgia
+      - name: Handy Vinnig
+        birth:
+          date: age 2 y. as of 1920 census
+          place: Georgia
+      - name: Henry Vinnig
+        birth:
+          date: age 1 y. as of 1920 census
+          place: Georgia
+docsUrl: Rsources/Robert12doc.htm
+updates:
+  - date: "2026-05-14"
+    what: "created entry; added wife Annie and ten children; source: 1920 U.S. census of Bartow, Jefferson County, Georgia (household recorded under surname 'Vinnig'/'Virnig')"

@@ -4,50 +4,35 @@ sections:
   - type: census
     table:
       columns:
-        - "1920"
         - "1940"
       rows:
         - label: Robert Matthew Vining
           values:
-            - "24 (listed as 'Mathew Vinnig', single, son in his father's household)"
             - "head of household"
         - label: Maggie B. (&#8230;) Vining
           values:
-            - ""
             - "wife"
         - label: Ola Bell Vining
           values:
-            - ""
             - "17"
           indent: true
         - label: Ollie James Vining
           values:
-            - ""
             - "15"
           indent: true
         - label: Willie Mathis Vining
           values:
-            - ""
             - "13"
           indent: true
         - label: Annie Estella Vining
           values:
-            - ""
             - "7"
           indent: true
     entries:
-      - year: "1920"
-        caption: >-
-          Bartow, Jefferson County, Georgia. Listed in his father's household as "Mathew Vinnig" (also rendered as
-          "Mathew Virnig"), age 24, single, born abt 1896, race Black. Father: Robert Vinnig (b. Georgia, age 48).
-          Mother: Annie Vinnig (b. Georgia, age 46). Occupation: laborer on home farm. Siblings in the household:
-          Lillie (22), Bettie (14), Willie (12), Eddie (12), Taft (8), Annie Lue (6), Mandy (4), Handy (2), and Henry
-          (1).
-        images:
-          - src: RobertM03census1920.png
       - year: "1940"
         caption: >-
           Listed with wife Maggie B. and children Ola Bell (17), Ollie James (15), Willie Mathis (13), Annie Estella
-          (7), and a younger daughter whose name is not legible in this screenshot.
+          (7), and a younger daughter whose name is not legible in this screenshot. For his appearance as a son in his
+          parents' 1920 household, see <a href="Rsources/Robert12doc.htm">Robert Vining and Annie</a>.
         images:
           - src: RobertM03census1940.png

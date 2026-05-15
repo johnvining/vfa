@@ -1,0 +1,63 @@
+id: Robert12
+title: Robert Vining - Annie
+sections:
+  - type: census
+    table:
+      columns:
+        - "1920"
+      rows:
+        - label: Robert Vinnig
+          values:
+            - "48"
+        - label: Annie Vinnig
+          values:
+            - "46"
+        - label: Robert Matthew ("Mathew") Vinnig
+          values:
+            - "24"
+          indent: true
+        - label: Lillie Vinnig
+          values:
+            - "22"
+          indent: true
+        - label: Bettie Vinnig
+          values:
+            - "14"
+          indent: true
+        - label: Willie Vinnig
+          values:
+            - "12"
+          indent: true
+        - label: Eddie Vinnig
+          values:
+            - "12"
+          indent: true
+        - label: Taft Vinnig
+          values:
+            - "8"
+          indent: true
+        - label: Annie Lue Vinnig
+          values:
+            - "6"
+          indent: true
+        - label: Mandy Vinnig
+          values:
+            - "4"
+          indent: true
+        - label: Handy Vinnig
+          values:
+            - "2"
+          indent: true
+        - label: Henry Vinnig
+          values:
+            - "1"
+          indent: true
+    entries:
+      - year: "1920"
+        caption: >-
+          Bartow, Jefferson County, Georgia. Household recorded under surname "Vinnig" (also rendered "Virnig"), race
+          Black. Robert (head) and Annie (wife) both born in Georgia. Son Mathew (later known formally as Reverend
+          Robert M. Vining, head of his own household in 1940) appears here single, age 24, working as a laborer on
+          the home farm.
+        images:
+          - src: Robert12census1920.png
