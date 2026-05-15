@@ -1,7 +1,7 @@
 id: WoodzayJ01
 sequence: 155
 letter: W
-lastUpdated: 10 March 2023
+lastUpdated: 15 May 2026
 relationship: son
 parentId: RudolphA02
 parentLetter: R
@@ -18,6 +18,11 @@ marriages:
       givenName: Ave Lee
       surname: David
 childrenGroups:
+  - headingText: "stepchild"
+    children:
+      - name: Susan David
+        marriages:
+          - spouse: Raymond Quibedeaux
   - children:
       - name: David Vining
         marriages:
@@ -28,6 +33,9 @@ childrenGroups:
       - name: Tammy Vining
         marriages:
           - spouse: Douuglas Guilliams
+updates:
+  - date: "2026-05-15"
+    what: "added stepdaughter Susan David and her husband Raymond Quibedeaux; contributed by Tina Comeaux"
 docsUrl: Wsources/WoodzayJ01doc.htm
 raw: |-
   <a name="WoodzayJ01"></a><font size=+2>Woodzay Joseph Vining</font>
