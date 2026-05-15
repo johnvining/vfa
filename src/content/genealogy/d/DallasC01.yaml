@@ -1,7 +1,7 @@
 id: DallasC01
 sequence: 4
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 15 May 2026
 relationship: son
 parentId: WilliamA01
 parentLetter: W
@@ -43,7 +43,7 @@ childrenGroups:
           date: 8 September 1919
           place: "Litchfield, Sherman County, Nebraska"
         marriages:
-          - spouse: Frederick Chittenden
+          - spouse: Frederick Max Chittenden
         death:
           date: 7 December 2006
           place: "Idaho Falls, Bonneville County, Idaho"
@@ -57,6 +57,9 @@ childrenGroups:
           - spouse: Wilma L. Diels
         death:
           date: 22 January 2001
+updates:
+  - date: "2026-05-15"
+    what: "added middle name Max for Frederick Chittenden, husband of daughter Barbara Gay Vining; added biographical tribute and portrait photograph of Barbara; contributed by Linda Basinger (Barbara's daughter)"
 docsUrl: Dsources/DallasC01doc.htm
 raw: |-
   <a name="DallasC01"></a><font size=+2>Dallas Claude Vining</font>
