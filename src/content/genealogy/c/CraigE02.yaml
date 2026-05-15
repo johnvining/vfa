@@ -1,7 +1,7 @@
 id: CraigE02
 letter: C
 sequence: 165
-lastUpdated: 25 February 2023
+lastUpdated: 15 May 2026
 relationship: son
 parentId: JesseW01
 parentLetter: J
@@ -10,6 +10,12 @@ head:
   givenName: Craig Eugene
   birth:
     date: 29 August 1967
+marriages:
+  - spouse:
+      givenName: Janet M.
+      surname: Humphreys
+      birth:
+        date: 7 January 1970
 childrenGroups:
   - headingText: child
     children:
@@ -21,6 +27,9 @@ childrenGroups:
           place: "Sumter County, South Carolina"
         marriages:
           - spouse: Jamie Lee Holladay
+updates:
+  - date: "2026-05-15"
+    what: "added spouse Janet M. Humphreys (b. 7 January 1970); contributed by William Cory Vining"
 raw: |-
   <a name="CraigE02"></a><font size=+2>Craig Eugene Vining</font>
      (son of <a href="Jfamilies.htm#JesseW01">Jesse William Vining and Betty Shelby Jean Boykin</a>)
