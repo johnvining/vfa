@@ -6,31 +6,44 @@ sections:
     table:
       columns:
         - "1940"
+        - "1950"
       rows:
         - label: Artie Vining
           values:
             - "30"
+            - ""
         - label: Elenora Nayoma (Hall) Vining
           values:
             - "24"
+            - "34"
         - label: Kenneth Leon Vining
           values:
             - "7"
+            - ""
           indent: true
         - label: Charles Marion Vining
           values:
             - "5"
+            - "15"
           indent: true
-        - label: Ruth Vining
+        - label: Helen Ruth Vining
           values:
             - "4"
+            - "14"
           indent: true
         - label: Richard W. Vining
           values:
             - "2"
+            - "12"
+          indent: true
+        - label: Bobby J. Vining
+          values:
+            - ""
+            - "9"
           indent: true
         - label: Jereld Ray Vining
           values:
+            - ""
             - ""
           indent: true
     entries:
@@ -38,6 +51,11 @@ sections:
         caption: Limestone County, Alabama
         images:
           - src: Artie01census1940.jpg
+      - year: "1950"
+        caption: Limestone County, Alabama
+        images:
+          - src: Artie01census1950.png
+          - src: Artie01census1950b.png
   - type: death
     items:
       - caption: >-
@@ -52,3 +70,17 @@ sections:
           - src: Artie01sonKennethgravestone.jpg
           - src: Artie01sonJereldgravestone.jpg
         inline: true
+      - caption: >-
+          Gravestone for Helen Ruth (Vining) McCloy, daughter of Artie Vining and Elenora Nayoma (Hall) Vining, and
+          her husband Horace Scott "Tubby" McCloy, in Crestview Memorial Gardens, Adamsville, Jefferson County,
+          Alabama (from <a href="https://www.findagrave.com/memorial/245276161/helen_ruth-mccloy" target="_blank">Find A Grave</a>):
+        images:
+          - src: Artie01daughterHelenandhusbandgravestone.png
+  - type: other
+    items:
+      - caption: >-
+          Birmingham Post-Herald, Thursday, June 15, 1950 &mdash; human-interest photo and caption describing the
+          family's loss of their home to fire, featuring Helen Ruth Vining (age 14) and her brother Richard W. Vining
+          (age 12), daughter and son of Artie Vining and Elenora Nayoma (Hall) Vining:
+        images:
+          - src: Artie01familyfire1950.png

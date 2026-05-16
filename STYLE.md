@@ -27,7 +27,9 @@ The `rawArchival` field is a frozen legacy plain-text snapshot of the entry from
 
 ### Headnames — when and how
 
-**When to create a headname entry.** A person listed as a child in their parent's entry gets their own YAML headname as soon as we know they have **children of their own**. Spouse is not required — known children alone is the trigger. Until there are known children, they stay inline as a child of the parent's entry.
+**When to create a headname entry.** A person listed as a child in their parent's entry gets their own YAML headname as soon as we know they have **children of their own who carry the Vining surname**. Spouse is not required — known Vining-surnamed children alone is the trigger. Until there are such children, they stay inline as a child of the parent's entry.
+
+The site itself frames the rule this way: *"Family units are arranged alphabetically by the first name of the Vining father (or single-parent mother)"* (rendered intro text on every letter page). So headname entries exist for **Vining fathers** and for **single-parent mothers whose children retained the Vining surname** — nothing else.
 
 **File location and ID pattern.**
 - New entries live in the folder for the **first name's first letter** (e.g. `John...` → `src/content/genealogy/j/`).

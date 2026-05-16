@@ -1,7 +1,7 @@
 id: Artie01
 letter: A
 sequence: 100
-lastUpdated: 1 February 2021
+lastUpdated: 16 May 2026
 relationship: son
 parentId: JohnH03
 parentLetter: J
@@ -50,16 +50,29 @@ childrenGroups:
           place: "Hueytown, Alabama"
         burial:
           place: "Forest Grove Memorial Gardens   Pleasant Grove, Jefferson County, Alabama"
-      - name: Ruth Vining
+      - name: Helen Ruth Vining
+        hasUnlistedChildren: true
         birth:
-          date: age 4 y. as of 1940 census
-          place: Alabama
+          date: 4 April 1936
+          place: "Limestone County, Alabama"
+        marriages:
+          - date: 9 July 1950
+            spouse: Horace Scott McCloy
+        death:
+          date: 1 November 2022
+          place: "Jefferson County, Alabama"
+        burial:
+          place: "Crestview Memorial Gardens   Adamsville, Jefferson County, Alabama"
       - name: Richard W. Vining
         birth:
           date: "1937"
           place: Alabama
         death:
           date: "2002"
+      - name: Bobby J. Vining
+        birth:
+          date: age 9 y. as of 1950 census
+          place: Alabama
       - name: Jereld Ray Vining
         birth:
           date: 19 August 1942
@@ -67,6 +80,12 @@ childrenGroups:
           date: February 1943
         burial:
           place: "Mount Pleasant Cemetery   Holland Gin, Limestone County, Alabama"
+updates:
+  - date: "2026-05-16"
+    what: "expanded inline daughter Ruth to full name Helen Ruth Vining with birth, death, burial, and marriage details; contributed by Debbie Parker"
+    url: "https://www.findagrave.com/memorial/245276161/helen_ruth-mccloy"
+  - date: "2026-05-16"
+    what: "added previously omitted child Bobby J. Vining from 1950 census"
 docsUrl: Asources/Artie01doc.htm
 rawArchival: |-
   <a name="Artie01"></a><font size="+2">Artie Vining</font>
