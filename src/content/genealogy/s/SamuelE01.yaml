@@ -1,7 +1,7 @@
 id: SamuelE01
 sequence: 17
 letter: S
-lastUpdated: 25 February 2023
+lastUpdated: 16 May 2026
 relationship: son
 parentId: HomerC01
 parentLetter: H
@@ -26,8 +26,8 @@ marriages:
       surname: Booth
       parents: "(dau. of Seldon W. Booth and Harriet Bartlett)"
       birth:
-        date: "20 February [1855 or 1856?]"
-        place: "[Southwick, Hampden County, Massachusetts?]"
+        date: 3 August 1853
+        place: "Southwick, Hampden County, Massachusetts"
       death:
         date: 12 October 1895
         place: "Worcester, Hampden County, Massachusetts"
@@ -81,6 +81,10 @@ childrenGroups:
         death:
           date: 8 February 1964
           place: "St. Petersburg, Pinellas County, Florida"
+docsUrl: Ssources/SamuelE01doc.htm
+updates:
+  - date: "2026-05-16"
+    what: "corrected birth date of 2nd wife Harriet A. Booth from the previously listed (unsourced) &#8220;20 February 1855 or 1856&#8221; to 3 August 1853 (Southwick, Massachusetts confirmed) based on her appearance as &#8220;Hattie A. Booth&#8221; age 11 in the 1865 Massachusetts state census; added that census image to the documentation. Noted that her parents and brother (Charles Collins Booth) are buried at Southwick Cemetery; contributed by Lynn"
 raw: |-
   <a name="SamuelE01"></a><font size=+2>Samuel E. Vining</font>
      (son of <a href="Hfamilies.htm#HomerC01">Homer C. Vining and Sarah Fowler</a>)
