@@ -1,6 +1,6 @@
 id: HermanA01
 letter: H
-lastUpdated: 30 July 2022
+lastUpdated: 16 May 2026
 relationship: son
 parentId: HomerT01
 parentDesc: Homer Thadd Vining and Neva Dell McGregor
@@ -31,6 +31,9 @@ childrenGroups:
         marriages:
           - spouse: "[...] Smith"
       - name: Jo Ann Vining
+        death:
+          date: 15 May 2025
+          place: "Carroll County, Mississippi"
         marriages:
           - number: 1
             spouse: "[...] Weeks"
@@ -43,6 +46,10 @@ childrenGroups:
       - name: Douglas Vining
       - name: Jerry Vining
 docsUrl: Hsources/HermanA01doc.htm
+updates:
+  - date: "2026-05-16"
+    what: "added daughter Jo Ann (Vining) Williamson's death; source: her obituary at Williams & Lord Funeral Home"
+    url: "https://www.gwcommonwealth.com/joann-vining-williamson"
 raw: |-
   <a name="HermanA01"></a><font size=+2>Herman Albert Vining</font>
      (son of <a href="#HomerT01">Homer Thadd Vining and Neva Dell McGregor</a>)
