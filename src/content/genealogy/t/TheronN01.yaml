@@ -1,6 +1,6 @@
 id: TheronN01
 letter: T
-lastUpdated: 9 March 2023
+lastUpdated: 16 May 2026
 relationship: son
 parentId: JosephAL01
 parentLetter: J
@@ -37,13 +37,26 @@ childrenGroups:
         burial:
           place: "New Forest Cemetery   Forest, Louisiana"
       - name: Lavelle Vining
+        marriages:
+          - spouse: "Ella Dean [...]"
       - name: Huey Vining
+        marriages:
+          - spouse: "Dot [...]"
       - name: Kenneth Vining
       - name: Larry Vining
-      - name: Jimmy Vining
-      - name: Geraldine Vining
         marriages:
-          - spouse: "[...] Irby"
+          - spouse: "Flo [...]"
+      - name: Jimmy Vining
+        marriages:
+          - spouse: "Lynette [...]"
+      - name: Geraldine Vining
+        death:
+          date: 16 May 2025
+          place: "Oak Grove, Louisiana"
+        burial:
+          place: "Red Wing Cemetery   near Oak Grove, Louisiana"
+        marriages:
+          - spouse: "Charles V. Irby"
       - name: Diane Vining
         marriages:
           - spouse: "[...] Beam"
@@ -51,6 +64,10 @@ childrenGroups:
         marriages:
           - spouse: "[...] Citrano"
 docsUrl: Tsources/TheronN01doc.htm
+updates:
+  - date: "2026-05-16"
+    what: "added daughter Geraldine (Vining) Irby's death and burial info and her husband's full name; added spouses for brothers Lavelle, Huey, Larry, and Jimmy; source: Geraldine's obituary at Legacy.com"
+    url: "https://www.legacy.com/us/obituaries/name/geraldine-irby-obituary?id=58414316"
 raw: |-
   <a name="TheronN01"></a><font size=+2>Theron Nash Vining</font>
      (son of <a href="Jfamilies.htm#JosephAL01">Joseph Alford Lee Vining and Gracie Gustavia Fryday</a>)
