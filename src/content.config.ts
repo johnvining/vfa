@@ -107,7 +107,7 @@ const genealogy = defineCollection({
     childrenGroups: z.array(childrenGroup).optional(),
     docsUrl: z.string().optional(),
     notes: z.string().optional(),
-    raw: z.string().optional(),
+    rawArchival: z.string().optional(),
     updates: z.array(z.object({
       date: z.string(),           // YYYY-MM or YYYY-MM-DD
       what: z.string().optional(),

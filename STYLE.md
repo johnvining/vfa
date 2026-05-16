@@ -22,8 +22,8 @@ Father's full name (including "Vining") and mother's **maiden name only** — no
 parentDesc: "Daniel Rutledge Vining and Margaret McClanahan"
 ```
 
-### Never update `raw` or `rawArchival`
-Both `raw` and `rawArchival` are frozen legacy plain-text snapshots. **Never modify them under any circumstances**, even when the structured fields change. Live data lives in `head`, `marriages`, `childrenGroups`, etc., and is rendered by `src/renderEntry.ts`.
+### Never update `rawArchival`
+The `rawArchival` field is a frozen legacy plain-text snapshot of the entry from before the site transitioned to structured YAML rendering. **Never modify it under any circumstances**, even when the structured fields change. Live data lives in `head`, `marriages`, `childrenGroups`, etc., and is rendered by `src/renderEntry.ts`.
 
 ### Headnames — when and how
 
@@ -142,7 +142,7 @@ Full example: `https://vining-family.org/Viningfamilies/Tfamilies.htm#TheronN01`
 
 ## 7. Quick checklist before finishing an entry edit
 
-- [ ] Modified only structured fields, not `raw` or `rawArchival`
+- [ ] Modified only structured fields, not `rawArchival`
 - [ ] Bumped `lastUpdated` to today
 - [ ] Added an `updates` entry — quoted date, `url` in its own field, describes what changed (not values), credit rules applied correctly
 - [ ] Letter-page `thanks` updated if a contributor provided real new info
