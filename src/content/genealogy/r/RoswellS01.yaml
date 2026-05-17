@@ -1,7 +1,7 @@
 id: RoswellS01
 sequence: 155
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 16 May 2026
 relationship: son
 parentId: WinfieldS01
 parentLetter: W
@@ -37,11 +37,12 @@ childrenGroups:
         entryId: RobertL02
         birth:
           date: 16 June 1907
+          place: "Maplecrest, Greene County, New York"
         marriages:
           - spouse: Evelyn Eggers
         death:
-          date: 15 June 1996
-          place: "(last residence: Quarryville, Pennsylvania)"
+          date: 24 June 1996
+          place: "Quarryville, Lancaster County, Pennsylvania"
       - name: Alfred William Vining
         entryId: AlfredW01
         entryLetter: A
@@ -54,6 +55,9 @@ childrenGroups:
           place: "(last residence: Hensonville, New York)"
         burial:
           place: "Pleasant Valley Cemetery   Ashland, New York"
+updates:
+  - date: "2026-05-16"
+    what: "corrected son Robert Lucius's death date and added his birthplace; from his 1996 Lancaster New Era obituary"
 docsUrl: Rsources/RoswellS01doc.htm
 rawArchival: |-
   <a name="RoswellS01"></a><font size=+2>Roswell S. Vining</font>

@@ -46,6 +46,8 @@ The site itself frames the rule this way: *"Family units are arranged alphabetic
 ### `docsUrl` and the `genealogy-docs` folder
 Source documents (obituaries, census records, headstones, etc.) live in `src/content/genealogy-docs/[letter]/[ID].yaml`. Add `docsUrl: [Letter]sources/[ID]doc.htm` to the genealogy entry to link to its docs page. Captions in docs entries support HTML — links to online sources can be embedded directly.
 
+**Keep captions barebones.** Identify the source (publication + date, or cemetery + location) and what is pictured. Do **not** narrate the document's content, list named people from inside the image, or summarize the facts it contains. The image carries its own content; the structured genealogy YAML carries the extracted facts. Good: `"Marriage announcement for X and Y, Lewisburg Journal, Thursday, June 23, 1932:"`. Bad: anything that goes on to describe who married, where, who witnessed, what the document says.
+
 ---
 
 ## 3. The `updates` array
@@ -65,13 +67,17 @@ updates:
 
 - **Quote the date** — unquoted ISO dates get parsed as Date objects by YAML.
 - **`url` is a separate field** — never embed the URL inside `what`.
-- **Keep `what` succinct.** Describe what changed, not the values — name the fields and people affected, but don't echo the actual dates, places, or names. Those are already visible in the surrounding YAML.
+- **Keep `what` succinct. Default to omitting values.** Describe what changed — name the fields and people affected — but do not echo the actual dates, places, or names. Those are already visible in the surrounding YAML. Repeating them is noise.
   - Good: `"added daughter X's death and burial info; added spouses for brothers A, B, C, and D"`
   - Bad: `"added daughter X's death (16 May 2025, Oak Grove, LA; bur. Red Wing Cemetery) and spouses Ella Dean (A's wife), Dot (B's), ..."`
-- **Exception — include the value when it disambiguates.** If a change is a correction or replaces a previously unsourced/confusing value, name the value so the changelog is meaningful. Examples:
+- **The test, applied strictly:** before writing any value, ask *"would a reader looking at the new YAML be unable to understand what changed without this value being repeated here?"* If no → omit. If unsure → omit. The bias is toward omission, not inclusion.
+- **Source attribution ≠ value disclosure.** Naming the source ("from X's obituary," "per 1950 census") is useful metadata and belongs in `what` (or in the `url` field). It does *not* license including the value alongside it. Good: `"added birthplace from father's obituary"`. Bad: `"added birthplace (West Virginia, from father's obituary)"`. The first is source attribution; the second smuggles the value in under that cover.
+- **Never use internal IDs in `what` strings.** Entry IDs like `RobertL02`, `JohnE04`, `HelenR01` are internal references for the YAML structure — the `what` field renders publicly on the News and Notes page. Refer to people by name and relationship ("father," "brother," "wife"), not by ID. Good: `"propagated from brother Robert Lucius's update"`. Bad: `"propagated from RobertL02 update"`.
+- **Exception, narrow: corrections and replacements.** When a change replaces a previously incorrect, unsourced, or confusing value, name the old or new value so the changelog is intelligible. This is the *only* case where including a value is allowed. Examples:
   - `"corrected Augusta's birth year from 1923 to 1924 per Find A Grave headstone"`
   - `"replaced unsourced maiden name 'Smith' with 'Schmidt' from 1880 census"`
-  The test: would a future reader looking at this entry be confused about what got fixed without seeing the value? If yes, include it.
+  - `"standardized birthplace spelling from 'Maple Crest' to 'Maplecrest'"`
+  Routine additions — "added birthplace," "added death date," "added spouse" — never qualify, even when the field was previously empty. The new value is in the YAML, not in the changelog.
 - **Open questions are welcome.** If something has been researched but not resolved, record it in `what` so the next person knows where to pick up. Use a clear "open question:" prefix:
   - `"added Mary's death date; open question: two Mary Vinings appear in 1900 census for Tangipahoa Parish — could not confirm which is ours"`
   - `"created entry; open question: spouse appears as both 'Eliza Jane Cole' and 'Eliza J. Coyle' in different sources"`

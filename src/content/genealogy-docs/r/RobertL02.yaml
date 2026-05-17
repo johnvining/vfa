@@ -1,0 +1,34 @@
+id: RobertL02
+title: Robert Lucius Vining - Evelyn Eggers
+sections:
+  - type: census
+    table:
+      columns:
+        - "1950"
+      rows:
+        - label: Robert L. Vining
+          values:
+            - "42"
+        - label: Evelyn (Eggers) Vining
+          values:
+            - "40"
+        - label: David R. Vining
+          values:
+            - "9"
+          indent: true
+    entries:
+      - year: "1950"
+        caption: "Hempstead, Nassau County, New York"
+        images:
+          - src: RobertL02census1950.png
+  - type: marriage
+    items:
+      - caption: "Marriage announcement for the Rev. Robert Vining and Miss Evelyn Eggers, Lewisburg Journal, Thursday, June 23, 1932:"
+        images:
+          - src: RobertL02marriage.png
+  - type: death
+    items:
+      - caption: >-
+          Obituary for the Rev. Robert L. Vining, Lancaster New Era, Wednesday, June 26, 1996:
+        images:
+          - src: RobertL02obituary.png

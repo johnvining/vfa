@@ -1,21 +1,32 @@
 id: RobertL02
 sequence: 117
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 17 May 2026
 relationship: son
 parentId: RoswellS01
 parentDesc: Roswell S. Vining and Julia Vestina Hitchcock
 head:
   givenName: Robert Lucius
+  headingNote: "(Rev.)"
   birth:
     date: 16 June 1907
+    place: "Maplecrest, Greene County, New York"
   death:
-    date: 14 June 1996
-    place: "(last residence: Quarryville, Pennsylvania)"
+    date: 24 June 1996
+    place: "Quarryville Presbyterian Home, Quarryville, Lancaster County, Pennsylvania"
 marriages:
-  - spouse:
+  - date: 21 June 1932
+    place: "Maplecrest, Greene County, New York"
+    spouse:
       givenName: Evelyn
       surname: Eggers
+      from: "Brooklyn, New York"
+      parents: "(dau. of Ernest A. Eggers and [&#8230;])"
+      birth:
+        date: age 40 y. as of 1950 census
+        place: New York
+      death:
+        date: "1984"
 childrenGroups:
   - headingText: "adopted child"
     children:
@@ -24,8 +35,13 @@ childrenGroups:
         entryLetter: D
         birth:
           date: 15 March 1941
+          place: "West Virginia"
         marriages:
           - spouse: Judy Norris
+docsUrl: Rsources/RobertL02doc.htm
+updates:
+  - date: "2026-05-17"
+    what: "added birthplace, marriage date and place, spouse Evelyn's father and birth/death/residence details, son David's birthplace; corrected death date and specified place of death; attached 1932 Lewisburg Journal marriage announcement, 1950 US Census, and 1996 Lancaster New Era obituary as sources"
 rawArchival: |-
   <a name="RobertL02"></a><font size=+2>Robert Lucius Vining</font>
      (son of <a href="#RoswellS01">Roswell S. Vining and Julia Vestina Hitchcock</a>)

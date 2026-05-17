@@ -1,6 +1,6 @@
 id: ScottO01
 letter: S
-lastUpdated: 25 February 2023
+lastUpdated: 17 May 2026
 relationship: son
 parentId: RoswellS01
 parentLetter: R
@@ -16,6 +16,7 @@ marriages:
   - spouse:
       givenName: Lillian
       surname: Eggers
+      parents: "(dau. of Ernest A. Eggers and [&#8230;])"
       birth:
         date: "age 38 y. as of 1940 census"
         place: New York
@@ -50,6 +51,9 @@ childrenGroups:
           date: 28 April 1938
         marriages:
           - spouse: Oscar Wehrly
+updates:
+  - date: "2026-05-17"
+    what: "added spouse Lillian's father, identified via brother Robert Lucius's 1932 marriage announcement (Lewisburg Journal) which confirmed the two spouses as sisters"
 docsUrl: Ssources/ScottO01doc.htm
 rawArchival: |-
   <a name="ScottO01"></a><font size=+2>Scott Osborn Vining</font>

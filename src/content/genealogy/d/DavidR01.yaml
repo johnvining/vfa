@@ -1,7 +1,7 @@
 id: DavidR01
 sequence: 56
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 16 May 2026
 relationship: son
 parentId: RobertL02
 parentLetter: R
@@ -10,6 +10,12 @@ head:
   givenName: David Roswell
   birth:
     date: 15 March 1941
+    place: "West Virginia"
+  death:
+    date: October 2025
+    place: "Oxford, Chester County, Pennsylvania"
+  burial:
+    place: "Oxford Cemetery   Oxford, Chester County, Pennsylvania"
 marriages:
   - spouse:
       givenName: Judy
@@ -22,6 +28,10 @@ childrenGroups:
       - name: Michael David Vining
         birth:
           date: 14 September 1967
+updates:
+  - date: "2026-05-16"
+    what: "added birthplace from father's 1996 obituary; added death, place of death, and burial"
+    url: "https://www.legacy.com/us/obituaries/name/david-vining-obituary?id=59759246"
 rawArchival: |-
   <a name="DavidR01"></a><font size=+2>David Roswell Vining</font>
      (son of <a href="Rfamilies.htm#RobertL02">Robert Lucius Vining and Evelyn Eggers</a>)
