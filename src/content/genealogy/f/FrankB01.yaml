@@ -1,7 +1,7 @@
 id: FrankB01
 sequence: 29
 letter: F
-lastUpdated: 26 February 2023
+lastUpdated: 17 May 2026
 relationship: son
 parentId: SamuelE01
 parentLetter: S
@@ -22,6 +22,17 @@ childrenGroups:
   - headingText: child
     children:
       - name: Frank Booth Vining Jr.
+        birth:
+          date: 6 December 1911
+          place: "New York"
+        death:
+          date: 19 October 1976
+          place: "California"
+docsUrl: Fsources/FrankB01doc.htm
+updates:
+  - date: "2026-05-17"
+    what: "added birth and death dates and places for son Frank Booth Vining Jr. from his gravestone; contributed by Lynn"
+    url: "https://www.findagrave.com/memorial/103831831/frank-booth-vining"
 rawArchival: |-
   <a name="FrankB01"></a><font size=+2>Frank Booth Vining</font>
      (son of <a href="Sfamilies.htm#SamuelE01">Samuel E. Vining and Harriet A. Booth<a>)
