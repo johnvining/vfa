@@ -1,6 +1,6 @@
 id: VirgilV01
 letter: V
-lastUpdated: 2 May 2026
+lastUpdated: 17 May 2026
 relationship: son
 parentId: HarryR01
 parentLetter: H
@@ -26,9 +26,13 @@ marriages:
         date: "2011"
 childrenGroups:
   - children:
-      - name: Daniel Vining
+      - name: Daniel Hugh Vining
+        entryId: DanielH02
+        entryLetter: D
       - name: Vickie Vining
 notes: "Held as a prisoner of war in Japan during World War II."
 updates:
   - date: "2026-05-02"
     what: "created entry; promoted from inline child of Harry R. Vining; added marriage to Elberta Dale on 10 March 1946 (source: Elberta's memoir *Life Goes On*); noted POW service in Japan during World War II"
+  - date: "2026-05-17"
+    what: "added son Daniel's middle name and promoted him to his own entry"

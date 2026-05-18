@@ -1,0 +1,25 @@
+id: DanielH02
+sequence: 100
+letter: D
+lastUpdated: 17 May 2026
+relationship: son
+parentId: VirgilV01
+parentLetter: V
+parentDesc: Virgil Vernon Vining and Elberta Dale
+head:
+  givenName: Daniel Hugh
+marriages:
+  - spouse:
+      givenName: Barbara Porter
+      surname: Blue
+childrenGroups:
+  - children:
+      - name: John Vining
+        entryId: John39
+        entryLetter: J
+        birth:
+          date: 20 August 1989
+      - name: Ingrid Elberta Vining
+updates:
+  - date: "2026-05-17"
+    what: "created entry; promoted from inline child of Virgil Vernon Vining; added wife and children; promoted son John to his own entry"
