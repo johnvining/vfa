@@ -1,7 +1,7 @@
 id: WalterR01
 sequence: 20
 letter: W
-lastUpdated: 10 March 2023
+lastUpdated: 17 May 2026
 relationship: son
 parentId: ChurchA01
 parentLetter: C
@@ -45,7 +45,15 @@ childrenGroups:
         birth:
           date: 11 October 1935
         marriages:
-          - spouse: Beatrice Orins
+          - spouse: Beatrice Prins
+        death:
+          date: 31 March 2025
+          place: "Rapid City, South Dakota"
+        burial:
+          place: "Restlawn Memory Gardens Cemetery   Huron, Beadle County, South Dakota"
+updates:
+  - date: "2026-05-17"
+    what: "corrected daughter-in-law's surname; added son David's death and burial"
 rawArchival: |-
   <a name="WalterR01"></a><font size=+2>Walter Ray Vining</font>
      (son of <a href="Cfamilies.htm#ChurchA01">Church Abijah Vining and Edith Rachel Case</a>)

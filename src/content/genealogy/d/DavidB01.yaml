@@ -1,7 +1,7 @@
 id: DavidB01
 sequence: 41
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 17 May 2026
 relationship: son
 parentId: WalterR01
 parentLetter: W
@@ -10,16 +10,22 @@ head:
   givenName: David Burchim
   birth:
     date: 11 October 1935
+  death:
+    date: 31 March 2025
+    place: "Rapid City, South Dakota"
+  burial:
+    place: "Restlawn Memory Gardens Cemetery   Huron, Beadle County, South Dakota"
 marriages:
-  - spouse:
+  - date: 2 October 1955
+    spouse:
       givenName: Beatrice
-      surname: Orins
+      surname: Prins
       birth:
         date: "1936"
       death:
-        date: October 1998
+        date: 26 October 1998
       burial:
-        place: "Restlawn Memory Gardens   Huron, South Dakota"
+        place: "Restlawn Memory Gardens Cemetery   Huron, Beadle County, South Dakota"
 childrenGroups:
   - children:
       - name: Keith Burchim Vining
@@ -41,6 +47,9 @@ childrenGroups:
         marriages:
           - spouse: "Luann [...]"
 docsUrl: Dsources/DavidB01doc.htm
+updates:
+  - date: "2026-05-17"
+    what: "added David's death info and burial; added marriage date; corrected wife's surname; refined wife's death date"
 rawArchival: |-
   <a name="DavidB01"></a><font size=+2>David Burchim Vining</font>
      (son of <a href="Wfamilies.htm#WalterR01">Walter Ray Vining and Alice Anderson</a>)

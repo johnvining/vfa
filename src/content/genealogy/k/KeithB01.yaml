@@ -1,11 +1,11 @@
 id: KeithB01
 letter: K
 sequence: 5
-lastUpdated: 24 July 2022
+lastUpdated: 17 May 2026
 relationship: son
 parentId: DavidB01
 parentLetter: D
-parentDesc: David Burchim Vining and Beatrice Myrna Orins
+parentDesc: David Burchim Vining and Beatrice Myrna Prins
 head:
   givenName: Keith Burchim
   birth:
@@ -24,6 +24,9 @@ childrenGroups:
       - name: Hillary Vining
       - name: Dustin Vining
 docsUrl: Ksources/KeithB01doc.htm
+updates:
+  - date: "2026-05-17"
+    what: "corrected mother's surname"
 rawArchival: |-
   <a name="KeithB01"></a><font size=+2>Keith Burchim Vining</font>
      (son of <a href="Dfamilies.htm#DavidB01">David Burchim Vining and Beatrice Myrna Orins</a>)

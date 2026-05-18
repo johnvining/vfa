@@ -1,11 +1,11 @@
 id: KevinB01
 letter: K
 sequence: 29
-lastUpdated: 24 July 2022
+lastUpdated: 17 May 2026
 relationship: son
 parentId: DavidB01
 parentLetter: D
-parentDesc: David Burchim Vining and Beatrice Orins
+parentDesc: David Burchim Vining and Beatrice Prins
 head:
   givenName: Kevin Brian
   birth:
@@ -18,6 +18,9 @@ childrenGroups:
   - children:
       - name: Cody Vining
       - name: Cory Jo Vining
+updates:
+  - date: "2026-05-17"
+    what: "corrected mother's surname"
 rawArchival: |-
   <a name="KevinB01"></a><font size=+2>Kevin Brian Vining</font>
      (son of <a href="Dfamilies.htm#DavidB01">David Burchim Vining and Beatrice Orins</a>)
