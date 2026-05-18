@@ -135,6 +135,24 @@ const tocEntries = entries.map(e => {
   }
   updateActive();
   window.addEventListener('scroll', updateActive, { passive: true });
+
+  // Permalink icon next to each headname: copies the entry URL to clipboard on click.
+  document.querySelectorAll<HTMLAnchorElement>('.geo-permalink').forEach(link => {
+    link.addEventListener('click', () => {
+      const href = link.getAttribute('href');
+      if (!href || !href.startsWith('#')) return;
+      const url = window.location.origin + window.location.pathname + href;
+      navigator.clipboard?.writeText(url).then(() => {
+        const originalHTML = link.innerHTML;
+        link.innerHTML = '<span class="geo-permalink-check">✓</span>';
+        link.classList.add('geo-permalink-copied');
+        setTimeout(() => {
+          link.innerHTML = originalHTML;
+          link.classList.remove('geo-permalink-copied');
+        }, 1200);
+      });
+    });
+  });
 </script>
 
 <div class="letter-nav" id="top">
