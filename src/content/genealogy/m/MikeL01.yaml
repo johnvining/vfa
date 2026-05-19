@@ -1,7 +1,7 @@
 id: MikeL01
 sequence: 34
 letter: M
-lastUpdated: 13 January 2021
+lastUpdated: 19 May 2026
 relationship: son
 parentId: RandallL01
 parentLetter: R
@@ -42,19 +42,27 @@ childrenGroups:
           place: Louisiana
         marriages:
           - spouse: Sidney Lloyd Harrison
-      - name: daughter
+      - name: Joy Vining
         marriages:
           - spouse: "[...] Ferrell"
-      - name: daughter
+      - name: Dorothy Dean Vining
+        birth:
+          date: 23 July 1933
+          place: "Forest, West Carroll Parish, Louisiana"
         marriages:
-          - spouse: "[...] Clark"
+          - date: 1 July 1954
+            place: "Ruston, Lincoln Parish, Louisiana"
+            spouse: Glenn E. Clark
+        death:
+          date: 16 June 2024
+          place: "Ruston, Lincoln Parish, Louisiana"
       - name: son +
         marriages:
           - number: 1
             spouse: "[...] Gilley"
           - number: 2
             spouse: "[...]"
-      - name: daughter
+      - name: Mary Vining
         marriages:
           - spouse: "[...] Morgan"
       - name: son +
@@ -74,6 +82,10 @@ childrenGroups:
         burial:
           place: Forest Corner Cemetery
 docsUrl: Msources/MikeL01doc.htm
+updates:
+  - date: "2026-05-19"
+    what: "added daughter Dorothy's birth, marriage, and death from her obituary; added first names for daughters Joy and Mary"
+    url: "https://www.rustonleader.com/obituaries/dorothy-vining-clark"
 rawArchival: |-
   <a name="MikeL01"></a><font size=+2>Mike Lee Vining</font>
      (son of <a href="Rfamilies.htm#RandallL01">Randall Lee Vining and [Della or Delia?] Stewart</a>)
