@@ -1,7 +1,7 @@
 id: EdwinJJr01
 sequence: 56
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 19 May 2026
 relationship: son
 parentId: EdwinJ01
 parentDesc: Edwin Johnson Vining and Miriam Estelle Starns
@@ -15,6 +15,15 @@ marriages:
   - spouse:
       givenName: Grace
       surname: Pfleeger
+      parents: (dau. of Frank Pfleeger and Lillie [&#8230;])
+      birth:
+        date: 8 February 1943
+        place: "New Orleans, Orleans Parish, Louisiana"
+      death:
+        date: 12 July 2024
+        place: "Covington, St. Tammany Parish, Louisiana"
+      burial:
+        place: "Amite Memorial Gardens   Amite, Tangipahoa Parish, Louisiana"
 childrenGroups:
   - children:
       - name: Tina Christine Vining
@@ -23,6 +32,15 @@ childrenGroups:
       - name: Darren Kelley Vining
         birth:
           date: 17 November 1969
+        marriages:
+          - spouse: Shauna
+      - name: Donovan Vining
+        marriages:
+          - spouse: Carol
+      - name: Edwin J. &#8220;Scooter&#8221; Vining III
+updates:
+  - date: "2026-05-19"
+    what: "added wife Grace's birth, death, burial, and parents from her obituary; added sons Donovan and Edwin J. III; added wives for Darren and Donovan"
 rawArchival: |-
   <a name="EdwinJJr01"></a><font size=+2>Edwin Johnson Vining Jr.</font>
      (son of <a href="#EdwinJ01">Edwin Johnson Vining and Miriam Estelle Starns</a>)
