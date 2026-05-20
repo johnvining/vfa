@@ -12,8 +12,20 @@ head:
     date: 5 December 1941
     place: "Anson, Somerset County, Maine"
 marriages:
-  - spouse:
-      givenName: "Carolyn [&#8230;]"
+  - date: 26 January 1963
+    spouse:
+      givenName: Carolyn Glennis
+      surname: Blodgett
+      parents: (dau. of Clarence Arthur Blodgett Sr. and Christine Decker)
+      birth:
+        date: 14 January 1940
+        place: "Fairfield, Somerset County, Maine"
+      death:
+        date: 2 March 2024
+        place: "Skowhegan, Somerset County, Maine"
 updates:
   - date: "2026-05-19"
     what: "created entry; promoted from inline child of Elbridge Winfield Vining"
+  - date: "2026-05-19"
+    what: "added wife Carolyn's full name, life dates, and parents from her obituary"
+    url: "https://www.centralmaine.com/2024/06/08/obituarycarolyn-glennis-blodgett-vining-2/"
