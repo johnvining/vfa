@@ -1,6 +1,12 @@
 id: ElbridgeW02
 title: Elbridge Winfield Vining - Mary Elizabeth Devault
 sections:
+  - type: census
+    entries:
+      - year: "1950"
+        caption: "1950 U.S. Census excerpt — Elbridge Winfield Vining household:"
+        images:
+          - src: ElbridgeW02census1950.png
   - type: death
     items:
       - caption: >-
@@ -8,4 +14,3 @@ sections:
           Madison, Somerset County, Maine (from Find A Grave):
         images:
           - src: ElbridgeW02andwifeheadstone.jpg
-      - caption: \

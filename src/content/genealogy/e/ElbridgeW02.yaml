@@ -1,7 +1,7 @@
 id: ElbridgeW02
 sequence: 66
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 19 May 2026
 relationship: son
 parentId: HerveyE01
 parentLetter: H
@@ -78,6 +78,8 @@ childrenGroups:
         marriages:
           - spouse: "[&#8230;] Luce"
       - name: William Francis Vining
+        entryId: WilliamF02
+        entryLetter: W
         birth:
           date: 5 December 1941
           place: "Anson, Maine"
@@ -102,6 +104,9 @@ childrenGroups:
         marriages:
           - spouse: Lincoln Stevens
 docsUrl: Esources/ElbridgeW02doc.htm
+updates:
+  - date: "2026-05-19"
+    what: "promoted son William Francis to his own entry; added 1950 census source"
 rawArchival: |-
   <a name="ElbridgeW02"></a><font size=+2>Elbridge Winfield Vining</font>
      (son of <a href="Hfamilies.htm#HerveyE01">Hervey E. Vining and Ethel Bertha Marson</a>)
