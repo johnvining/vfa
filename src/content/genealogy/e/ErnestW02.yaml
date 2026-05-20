@@ -1,7 +1,7 @@
 id: ErnestW02
 sequence: 118
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 19 May 2026
 relationship: son
 parentId: JuliusH01
 parentLetter: J
@@ -34,9 +34,13 @@ childrenGroups:
           date: age 7 y. as of 1910 census
           place: Connecticut
       - name: Albert Clifford Vining
+        entryId: AlbertC01
+        entryLetter: A
         birth:
           date: "1905"
           place: Connecticut
+        marriages:
+          - spouse: Alta
         death:
           date: 28 January 1956
           place: "Tacoma, Washington"
@@ -63,6 +67,9 @@ childrenGroups:
         burial:
           place: "Sumner Cemetery   Sumner, Washington"
 docsUrl: Esources/ErnestW02doc.htm
+updates:
+  - date: "2026-05-19"
+    what: "promoted son Albert Clifford to his own entry; added Albert's wife Alta"
 rawArchival: |-
   <a name="ErnestW02"></a><font size=+2>Ernest W. Vining</font>
      (son of <a href="Jfamilies.htm#JuliusH01">Julius Hart Vining and Margaret &#8220;Maggie&#8221; Glenketchen</a>)

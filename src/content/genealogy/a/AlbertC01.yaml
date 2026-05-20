@@ -1,0 +1,33 @@
+id: AlbertC01
+sequence: 116
+letter: A
+lastUpdated: 19 May 2026
+relationship: son
+parentId: ErnestW02
+parentLetter: E
+parentDesc: Ernest W. Vining and May Louise Crocker
+head:
+  givenName: Albert Clifford
+  birth:
+    date: 17 July 1905
+    place: "Simsbury, Hartford County, Connecticut"
+  death:
+    date: 28 January 1956
+    place: "Tacoma, Pierce County, Washington"
+  burial:
+    place: "Mountain View Memorial Park   Lakewood, Pierce County, Washington"
+marriages:
+  - spouse:
+      givenName: Alta Esther
+      birth:
+        place: Minnesota
+childrenGroups:
+  - children:
+      - name: William Vining
+        birth:
+          date: age 4 y. as of 1950 census
+          place: Washington
+docsUrl: Asources/AlbertC01doc.htm
+updates:
+  - date: "2026-05-19"
+    what: "created entry; promoted from inline child of Ernest W. Vining; added wife Alta Esther, son William, and Albert's full birth date and place"
