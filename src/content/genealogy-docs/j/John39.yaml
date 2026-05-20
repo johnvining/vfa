@@ -1,6 +1,14 @@
 id: John39
 title: John Vinning
 sections:
+  - type: census
+    entries:
+      - year: "1910"
+        caption: "1910 U.S. Census — John Vining household, Louisiana:"
+        images:
+          - src: John39census1910a.png
+          - src: John39census1910b.png
+          - src: John39census1910c.png
   - type: death
     items:
       - caption: "Gravestone for John Vinning (\"JOHN VINNING — DIED JULY 12, 1934 — AGE 84\"):"
