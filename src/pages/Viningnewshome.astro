@@ -162,7 +162,7 @@ for (const event of events) {
             <a href={`Viningfamilies/${g.letter}families.htm#${g.id}`}>{g.name}</a>
             {g.whats.length === 0
               ? '.'
-              : <Fragment> &#8212; {g.whats.map(w => w.replace(/\.$/, '')).join('; ')}.</Fragment>}
+              : <Fragment set:html={` &#8212; ${g.whats.map(w => w.replace(/\.$/, '')).join('; ')}.`} />}
           </div>
         ))}
         {item.thanks.length > 0 && (
