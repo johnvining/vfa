@@ -26,6 +26,11 @@ marriages:
 childrenGroups:
   - children:
       - name: Melvin J. Vinning
+        entryId: MelvinJ01
+        entryLetter: M
+        death:
+          date: 3 April 2025
+        note: "(birth mother: Frances Pennison)"
       - name: Clarence J. Vinning Jr.
       - name: Francis C. Vinning
       - name: Sylvia Vinning
@@ -46,5 +51,7 @@ updates:
   - date: "2026-05-19"
     what: "created entry from a Morgan City–area newspaper obituary clipping; open question: Clarence's parents are unknown and he is not yet linked to an existing Louisiana Vining line (Stephensville/Patterson suggests proximity to the Alcide Joseph Vining family but no source ties them)"
   - date: "2026-05-19"
+    what: "promoted son Melvin to his own entry; added his death date from his obituary"
+    url: "https://kqkinews.com/melvin-j-vinning/"
   - date: "2026-05-20"
     what: "added Clarence's approximate birth year from 1950 census"
