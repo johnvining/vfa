@@ -1,0 +1,50 @@
+id: ClarenceJ02
+sequence: 173
+letter: C
+lastUpdated: 19 May 2026
+parentDesc: "[?]"
+head:
+  givenName: Clarence J. Sr.
+  surname: Vinning
+  birth:
+    date: ca. 1910
+    place: "Stephensville, Saint Martin Parish, Louisiana"
+  death:
+    date: age 84
+    place: "Morgan City, Saint Mary Parish, Louisiana"
+  burial:
+    place: "Saint Joseph Catholic Church Cemetery   Patterson, Saint Mary Parish, Louisiana"
+marriages:
+  - number: 1
+    spouse:
+      givenName: Frances
+      surname: Pennison
+  - number: 2
+    spouse:
+      givenName: Lou Ella
+      surname: Suire
+childrenGroups:
+  - children:
+      - name: Melvin J. Vinning
+      - name: Clarence J. Vinning Jr.
+      - name: Francis C. Vinning
+      - name: Sylvia Vinning
+        marriages:
+          - spouse: Lawrence Stansbury
+      - name: Delores Vinning
+        marriages:
+          - spouse: Julian J. Sons
+      - name: Barbara Vinning
+      - name: Jeaneze Vinning
+        marriages:
+          - spouse: Gary Frentz
+      - name: Ruby Vinning
+        marriages:
+          - spouse: Roland Crappell
+docsUrl: Csources/ClarenceJ02doc.htm
+updates:
+  - date: "2026-05-19"
+    what: "created entry from a Morgan City–area newspaper obituary clipping; open question: Clarence's parents are unknown and he is not yet linked to an existing Louisiana Vining line (Stephensville/Patterson suggests proximity to the Alcide Joseph Vining family but no source ties them)"
+  - date: "2026-05-19"
+  - date: "2026-05-20"
+    what: "added Clarence's approximate birth year from 1950 census"
