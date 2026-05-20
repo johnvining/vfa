@@ -1,0 +1,33 @@
+id: WilliamG02
+sequence: 157
+letter: W
+lastUpdated: 19 May 2026
+relationship: adopted son
+parentId: AlbertC01
+parentLetter: A
+parentDesc: Albert Clifford Vining and Alta Esther
+head:
+  givenName: William George
+  birth:
+    date: 15 January 1946
+    place: "Tacoma, Pierce County, Washington"
+  adoptedDate: 15 January 1946
+  death:
+    date: 20 October 2023
+    place: "Ryderwood, Cowlitz County, Washington"
+  burial:
+    place: "Little Falls Cemetery   Vader, Lewis County, Washington"
+marriages:
+  - date: 18 February 1967
+    place: "Everett, Snohomish County, Washington"
+    spouse:
+      givenName: Dixie
+childrenGroups:
+  - children:
+      - name: James Vining
+      - name: Jason Vining
+notes: "Biological parents: Ward Cromwell and Bernice [&#8230;]."
+updates:
+  - date: "2026-05-19"
+    what: "created entry from William's obituary"
+    url: "https://www.legacy.com/us/obituaries/tdn/name/william-vining-obituary?id=53453655"

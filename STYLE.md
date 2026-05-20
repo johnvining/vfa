@@ -43,6 +43,14 @@ The site itself frames the rule this way: *"Family units are arranged alphabetic
 - In the new file, set the `updates` entry to `"created entry"` with the source URL.
 - Promotion is a **structural change** — no `contributed by` credit, no letter-page `thanks` addition (see Section 3).
 
+### Spouse modifier fields
+
+A few non-obvious spouse fields render as parenthetical modifiers next to the name:
+
+- **`from:`** → `"(of HOMETOWN)"`. Use for the spouse's **place of origin** before the marriage (where they came from), not their current or last residence.
+- **`nee:`** → `"(née MAIDEN)"`. Use when the source gives a maiden name distinct from the recorded surname.
+- **`widowOf:`** → renders as a separate `m. PRIOR_SPOUSE` line beneath the spouse. Use for a spouse's prior marriage(s); semicolon-separated for multiple.
+
 ### `docsUrl` and the `genealogy-docs` folder
 Source documents (obituaries, census records, headstones, etc.) live in `src/content/genealogy-docs/[letter]/[ID].yaml`. Add `docsUrl: [Letter]sources/[ID]doc.htm` to the genealogy entry to link to its docs page. Captions in docs entries support HTML — links to online sources can be embedded directly.
 

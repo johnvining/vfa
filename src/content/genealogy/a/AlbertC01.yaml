@@ -22,12 +22,26 @@ marriages:
       birth:
         place: Minnesota
 childrenGroups:
-  - children:
-      - name: William Vining
+  - headingText: adopted child
+    children:
+      - name: William George Vining
+        entryId: WilliamG02
+        entryLetter: W
+        adoptedDate: 15 January 1946
         birth:
-          date: age 4 y. as of 1950 census
-          place: Washington
+          date: 15 January 1946
+          place: "Tacoma, Pierce County, Washington"
+        marriages:
+          - date: 18 February 1967
+            place: "Everett, Snohomish County, Washington"
+            spouse: Dixie
+        death:
+          date: 20 October 2023
+          place: "Ryderwood, Cowlitz County, Washington"
 docsUrl: Asources/AlbertC01doc.htm
 updates:
   - date: "2026-05-19"
     what: "created entry; promoted from inline child of Ernest W. Vining; added wife Alta Esther, son William, and Albert's full birth date and place"
+  - date: "2026-05-19"
+    what: "added William's full name, birth/death/marriage/adoption details from his obituary; promoted William to his own entry"
+    url: "https://www.legacy.com/us/obituaries/tdn/name/william-vining-obituary?id=53453655"
