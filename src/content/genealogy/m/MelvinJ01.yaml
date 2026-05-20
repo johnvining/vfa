@@ -9,3 +9,32 @@ parentDesc: Clarence J. Vinning Sr. and Frances Pennison
 head:
   givenName: Melvin J.
   surname: Vinning
+  birth:
+    date: ca. 1935
+    place: Louisiana
+  death:
+    date: 3 April 2025
+    place: "Patterson, Saint Mary Parish, Louisiana"
+  burial:
+    place: "Saint Joseph Cemetery Mausoleum   Patterson, Saint Mary Parish, Louisiana"
+marriages:
+  - date: ca. 1961
+    spouse:
+      givenName: Myrna
+      surname: Gautreaux
+childrenGroups:
+  - children:
+      - name: Brandon Vinning
+        marriages:
+          - spouse: Suzanne
+      - name: Garnet Vinning
+        marriages:
+          - spouse: Ruben Trevino Jr.
+      - name: Belynda Vinning
+      - name: Gordon Vinning
+        marriages:
+          - spouse: Rita
+updates:
+  - date: "2026-05-19"
+    what: "created entry from Melvin's obituary"
+    url: "https://kqkinews.com/melvin-j-vinning/"
