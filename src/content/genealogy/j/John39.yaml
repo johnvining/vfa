@@ -1,7 +1,7 @@
 id: John39
 sequence: 341
 letter: J
-lastUpdated: 20 May 2026
+lastUpdated: 21 May 2026
 parentDesc: "[?]"
 head:
   givenName: John
@@ -10,6 +10,12 @@ head:
     date: ca. 1850
   death:
     date: 12 July 1934
+marriages:
+  - date: 2 August 1898
+    place: "Assumption Parish, Louisiana"
+    spouse:
+      givenName: Amelia
+      surname: Thibodeaux
 docsUrl: Jsources/John39doc.htm
 openQuestions:
   - posted: "2026-05-20"
@@ -22,3 +28,5 @@ updates:
     what: "added 1910 U.S. Census as a source; recorded a Louisiana John Vining household whose head's age corroborates the gravestone's birth-year inference — no household members or wife added to the entry yet pending verification"
   - date: "2026-05-20"
     what: "added 1900 U.S. Census as a source"
+  - date: "2026-05-21"
+    what: "added marriage to Amelia Thibodeaux, dated/placed from an 1898 Assumption Parish marriage bond"
