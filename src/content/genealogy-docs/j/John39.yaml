@@ -2,7 +2,64 @@ id: John39
 title: John Vinning
 sections:
   - type: census
+    table:
+      columns:
+        - "1900"
+        - "1910"
+      rows:
+        - label: John Vining
+          values:
+            - "49"
+            - "60"
+        - label: wife (Mèlia/Nèlia in 1900; Maria in 1910)
+          values:
+            - "27"
+            - "39"
+        - label: Victoria Vining
+          values:
+            - "20"
+            - ""
+          indent: true
+        - label: Almire Vining
+          values:
+            - "13"
+            - ""
+          indent: true
+        - label: Iyes / Ivey Vining
+          values:
+            - "11"
+            - "20"
+          indent: true
+        - label: Luisiana Vining
+          values:
+            - "3"
+            - ""
+          indent: true
+        - label: Aurelia Vining
+          values:
+            - ""
+            - "9"
+          indent: true
+        - label: Cobbey Vining
+          values:
+            - ""
+            - "6"
+          indent: true
+        - label: Lizzie Vining
+          values:
+            - ""
+            - "3"
+          indent: true
+        - label: Clarence Vining
+          values:
+            - ""
+            - "0"
+          indent: true
     entries:
+      - year: "1900"
+        caption: "1900 U.S. Census — John Vining household, Louisiana:"
+        images:
+          - src: John39census1900.png
       - year: "1910"
         caption: "1910 U.S. Census — John Vining household, Louisiana:"
         images:
