@@ -3,14 +3,18 @@ sequence: 187
 letter: J
 lastUpdated: 21 May 2026
 relationship: son
-parentDesc: "[?]"
+parentDesc: "William Vining and [?] Smith"
 head:
   givenName: John
   birth:
     date: age 30 y. as of 1880 census
-    place: Louisiana
+    place: "Assumption Parish, Louisiana"
   death:
     date: 12 July 1934
+    place: "Patterson, Saint Mary Parish, Louisiana"
+  burial:
+    date: 13 July 1934
+    place: "Patterson, Louisiana"
 marriages:
   - spouse:
       givenName: Aurelia (Orilea)
@@ -97,6 +101,8 @@ updates:
     what: "added wife's maiden name; resolved son Alcide's full given name, added his wife and place of death; source: Louisiana death certificate (state file no. 8669) for Alcide Joseph Vining"
   - date: "2026-05-21"
     what: "merged in the John Vinning entry (previously held separately): added John's death date and gravestone, a second marriage and bond, additional children documented in the 1900 and 1910 censuses, and an open question about whether John is the Jean-Baptiste of LA Ancestry trees"
+  - date: "2026-05-21"
+    what: "added father's name, mother's maiden surname, narrowed birthplace, added place and date of death and burial; source: Louisiana death certificate (state file no. 8595) for John Vining"
 rawArchival: |-
   <a name="John35"></a><font size=+2>John Vining</font>
      (son of [?])
