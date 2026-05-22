@@ -87,7 +87,9 @@ childrenGroups:
         birth:
           date: age 3 y. as of 1910 census
           place: Louisiana
-      - name: Clarince Vining
+      - name: Clarence J. Vinning Sr.
+        entryId: ClarenceJ02
+        entryLetter: C
         birth:
           date: age 0 y. as of 1910 census
           place: Louisiana
@@ -103,6 +105,8 @@ updates:
     what: "merged in the John Vinning entry (previously held separately): added John's death date and gravestone, a second marriage and bond, additional children documented in the 1900 and 1910 censuses, and an open question about whether John is the Jean-Baptiste of LA Ancestry trees"
   - date: "2026-05-21"
     what: "added father's name, mother's maiden surname, narrowed birthplace, added place and date of death and burial; source: Louisiana death certificate (state file no. 8595) for John Vining"
+  - date: "2026-05-21"
+    what: "linked youngest son's child-line to his own entry ClarenceJ02"
 rawArchival: |-
   <a name="John35"></a><font size=+2>John Vining</font>
      (son of [?])

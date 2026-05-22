@@ -1,8 +1,11 @@
 id: ClarenceJ02
 sequence: 173
 letter: C
-lastUpdated: 19 May 2026
-parentDesc: "[?]"
+lastUpdated: 21 May 2026
+relationship: son
+parentId: John35
+parentLetter: J
+parentDesc: "John Vining and Amelia Thibodeaux"
 head:
   givenName: Clarence J. Sr.
   surname: Vinning
@@ -55,3 +58,5 @@ updates:
     url: "https://kqkinews.com/melvin-j-vinning/"
   - date: "2026-05-20"
     what: "added Clarence's approximate birth year from 1950 census"
+  - date: "2026-05-21"
+    what: "linked to parents in John35"
