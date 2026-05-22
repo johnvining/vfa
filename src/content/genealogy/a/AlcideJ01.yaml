@@ -1,19 +1,18 @@
 id: AlcideJ01
 letter: A
 sequence: 38
-lastUpdated: 1 February 2021
+lastUpdated: 21 May 2026
 relationship: son
 parentId: John35
 parentLetter: J
-parentDesc: "John Vining and Aurelia [&#8230;]"
+parentDesc: "John Vining and Aurelia Mayon"
 head:
   givenName: Alcide Joseph
   birth:
-    date: "[15 January 1872 or 7 December 1983 ?]"
+    date: 15 January 1872
     place: "Saint Martin Parish, Louisiana"
   death:
-    date: "[27 March 1947 or 18 June 1957 ?]"
-    place: "Morgan City, Louisiana"
+    date: 27 March 1947
   burial:
     place: "Saint Andrews Cemetery   Amelia, St. Mary Parish, Louisiana"
 marriages:
@@ -71,6 +70,9 @@ childrenGroups:
           date: age 6 y. as of 1910 census
           place: Louisiana
 docsUrl: Asources/AlcideJ01doc.htm
+updates:
+  - date: "2026-05-21"
+    what: "resolved birth and death dates by separating them from his brother Alcide (b. 1873, d. 1957); added mother's maiden name Mayon"
 rawArchival: |-
   <a name="AlcideJ01"></a><font size="+2">Alcide Joseph Vining</font>
      (son of <a href="Jfamilies.htm#John35">John Vining and Aurelia [&#8230;]</a>)

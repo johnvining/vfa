@@ -1,5 +1,5 @@
 id: John35
-title: John Vining - Aurelia [...]
+title: John Vining
 sections:
   - type: census
     table:
@@ -8,30 +8,28 @@ sections:
         - "1890"
         - "1900"
         - "1910"
-        - "1920"
-        - "1930"
       rows:
         - label: John Vining
           values:
             - "30"
             - "?"
-            - "?"
-            - "?"
-            - "?"
-            - "?"
-        - label: Aurelia ([...]) Vining
+            - "49"
+            - "60"
+        - label: Aurelia (Mayon) Vining
           values:
             - "26"
             - "?"
-            - "?"
-            - "?"
-            - "?"
-            - "?"
+            - ""
+            - ""
+        - label: Amelia (Thibodeaux) Vining (2nd wife; "Mèlia/Nèlia" in 1900, "Maria" in 1910)
+          values:
+            - ""
+            - ""
+            - "27"
+            - "39"
         - label: Alcee Vining
           values:
             - "8"
-            - "?"
-            - "?"
             - "?"
             - "?"
             - "?"
@@ -42,14 +40,10 @@ sections:
             - "?"
             - "?"
             - "?"
-            - "?"
-            - "?"
           indent: true
         - label: Alida Vining
           values:
             - "3"
-            - "?"
-            - "?"
             - "?"
             - "?"
             - "?"
@@ -58,13 +52,85 @@ sections:
           values:
             - "1"
             - "?"
-            - "?"
-            - "?"
-            - "?"
-            - "?"
+            - "20"
+            - ""
+          indent: true
+        - label: Almire Vining
+          values:
+            - ""
+            - ""
+            - "13"
+            - ""
+          indent: true
+        - label: Iyes / Ivey Vining
+          values:
+            - ""
+            - ""
+            - "11"
+            - "20"
+          indent: true
+        - label: Luisiana Vining
+          values:
+            - ""
+            - ""
+            - "3"
+            - ""
+          indent: true
+        - label: Aurelia Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "9"
+          indent: true
+        - label: Cobbey Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "6"
+          indent: true
+        - label: Liza Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "3"
+          indent: true
+        - label: Clarince Vining
+          values:
+            - ""
+            - ""
+            - ""
+            - "0"
           indent: true
     entries:
       - year: "1880"
         caption: Ward 2, Saint Martin Parish, Louisiana - no dwelling number, no family number
         images:
           - src: John35census1880.jpg
+      - year: "1890"
+        caption: 'the 1890 U.S. Census schedules were almost entirely destroyed by fire at the Commerce Department on 10 January 1921 — no surviving record for this household (<a href="https://www.archives.gov/research/census/1890">National Archives</a>)'
+      - year: "1900"
+        caption: "1900 U.S. Census — John Vining household, Louisiana:"
+        images:
+          - src: John35census1900.png
+      - year: "1910"
+        caption: "1910 U.S. Census — John Vining household, Louisiana:"
+        images:
+          - src: John35census1910a.png
+          - src: John35census1910b.png
+          - src: John35census1910c.png
+  - type: marriage
+    items:
+      - caption: "Marriage bond of John Vining and Amelia Thibodeaux, Parish of Assumption, Twentieth Judicial District Court, 26 July 1898 (with Auguste Landry as surety; John signs with his mark):"
+        images:
+          - src: John35marriagebond.png
+  - type: death
+    items:
+      - caption: "Gravestone for John Vinning (\"JOHN VINNING — DIED JULY 12, 1934 — AGE 84\"):"
+        images:
+          - src: John35gravestone.png
+      - caption: "Louisiana death certificate (state file no. 8669) for son Alcide Joseph Vining (b. 7 December 1873, d. 18 June 1957 at Lakewood Hospital, Morgan City), naming his father as Johnny Vining and his mother as Orilea Mayon, both of Louisiana:"
+        images:
+          - src: John35deathcertAlcideJ.png
