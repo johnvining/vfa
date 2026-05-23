@@ -1,7 +1,7 @@
 id: FrankC02
 sequence: 30
 letter: F
-lastUpdated: 26 February 2023
+lastUpdated: 23 May 2026
 relationship: son
 parentId: LesterR01
 parentLetter: L
@@ -18,18 +18,36 @@ head:
     place: "Higbee Cemetery   Deerfield Village, Mecosta County, Michigan"
 marriages:
   - date: 23 February 1957
+    place: "Rectory of St. Mary Catholic Church, Big Rapids, Michigan"
     spouse:
-      givenName: Barbara Jean
+      givenName: Barbara Jean &#8220;Barb&#8221;
       surname: Olson
+      parents: (dau. of Loren Olson and Rose [...])
+      birth:
+        date: 15 October 1933
+        place: "Big Rapids, Michigan"
+      death:
+        date: 31 May 2024
+        place: "Alpena, Michigan"
+      burial:
+        place: "Higbee Cemetery   Deerfield Village, Mecosta County, Michigan"
 childrenGroups:
   - children:
       - name: Craig Allen Vining
         birth:
           date: 12 February 1959
-      - name: Jacqueline Rae Vining
+        marriages:
+          - spouse: "Mary [...]"
+      - name: Jacqueline Rae &#8220;Jackie&#8221; Vining
         birth:
           date: 29 May 1963
+        marriages:
+          - spouse: Chad SanCartier
 docsUrl: Fsources/FrankC02doc.htm
+updates:
+  - date: "2026-05-23"
+    what: "added wife Barbara's birth, death, burial, parents, and nickname; added marriage place; added spouses for children Craig and Jacqueline; source: obituary"
+    url: "https://www.legacy.com/us/obituaries/bigrapidsnews/name/barbara-vining-obituary?pid=207049250"
 rawArchival: |-
   <a name="FrankC02"></a><font size=+2>Frank Christensen Vining</font>
      (son of <a href="Lfamilies.htm#LesterR01">Lester Raymond Vining and Laurel Vivian Ladner</a>)
