@@ -1,7 +1,7 @@
 id: CharlesW01
 letter: C
 sequence: 105
-lastUpdated: 25 February 2023
+lastUpdated: 22 May 2026
 relationship: son
 parentId: JohnF01
 parentLetter: J
@@ -47,10 +47,13 @@ childrenGroups:
         entryId: ForestG01
         entryLetter: F
         birth:
-          date: 22 January 1940
-          place: Indiana
+          date: 23 January 1940
+          place: "Etna Green, Indiana"
+        death:
+          date: 20 May 2024
+          place: "Claypool, Indiana"
         marriages:
-          - spouse: "Betty [...]"
+          - spouse: Betty J. Millington
   - spouseRef: Mary M. Whitker
     headingText: children by Mary M. Whitker
     children:
@@ -71,6 +74,10 @@ childrenGroups:
         marriages:
           - spouse: Margaret Ray
 docsUrl: Csources/CharlesW01doc.htm
+updates:
+  - date: "2026-05-22"
+    what: "updated child Forest Glee's birth place, death, and spouse surname from his obituary"
+    url: "https://www.titusfuneralhome.com/obituaries/forrest-bud-vining"
 rawArchival: |-
   <a name="CharlesW01"></a><font size=+2>Charles Wendell Vining</font>
      (son of <a href="Jfamilies.htm#JohnF01">John Franklin Vining and Clara Belle Hershberger</a>)
