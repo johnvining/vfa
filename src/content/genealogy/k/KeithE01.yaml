@@ -1,7 +1,7 @@
 id: KeithE01
 letter: K
 sequence: 7
-lastUpdated: 24 July 2022
+lastUpdated: 23 May 2026
 relationship: son
 parentId: CharlesMJr01
 parentLetter: C
@@ -10,10 +10,25 @@ head:
   givenName: Keith Edward
   birth:
     date: 8 February 1955
+    place: "Detroit, Michigan"
+  death:
+    date: 20 October 2024
+    place: "Toledo, Ohio"
+marriages:
+  - spouse:
+      givenName: Suzanne
 childrenGroups:
   - children:
       - name: Lara Rochelle Vining
+        marriages:
+          - spouse: "[...] McLean"
       - name: Jacquelin Denise Vining
+        marriages:
+          - spouse: Jeffrey Dare
+updates:
+  - date: "2026-05-23"
+    what: "added birth place, death, and spouse; noted both daughters' marriages; source: obituary of Keith Edward Vining"
+    url: "https://www.legacy.com/us/obituaries/name/keith-vining-obituary?id=56586893"
 rawArchival: |-
   <a name="KeithE01"></a><font size=+2>Keith Edward Vining</font>
      (son of <a href="Cfamilies.htm#CharlesMJr01">Charles Myron Vining Jr. and Lorraine Joyce Walsh</a>)
