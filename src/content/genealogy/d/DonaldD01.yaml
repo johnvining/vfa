@@ -1,13 +1,23 @@
 id: DonaldD01
 sequence: 75
 letter: D
-lastUpdated: 27 April 2026
+lastUpdated: 25 May 2026
 relationship: son
-parentDesc: "[?]"
+parentId: ThomasE02
+parentLetter: T
+parentDesc: "Thomas Ebenezer Vining and Mary Maude Edmonson"
 head:
-  givenName: Donald D.
+  givenName: Donald Dent Sr.
+  birth:
+    date: 28 April 1928
+    place: "Eudora, Arkansas"
+  death:
+    date: 25 September 2024
+  burial:
+    place: "Arkansas State Veterans Cemetery"
 marriages:
-  - spouse:
+  - date: "1948"
+    spouse:
       givenName: Peggy Sue
       surname: Caudle
       parents: "(dau. of Clayton Caudle and Winnie Mae Moore)"
@@ -21,6 +31,7 @@ childrenGroups:
       - name: Suzanne Vining
         marriages:
           - spouse: John Kunkel
+            spouseDeath: before 25 September 2024
       - name: Kathy Vining
         birth:
           date: 18 October 1952
@@ -34,7 +45,7 @@ childrenGroups:
       - name: Vicky Vining
         marriages:
           - spouse: Ron Crawley
-      - name: Donald D. Vining Jr.
+      - name: Donald Dent Vining Jr.
       - name: Cheri Lynn Vining
         marriages:
           - spouse: Ray Hayes
@@ -43,6 +54,9 @@ updates:
   - date: "2026-04-27"
     what: "added marriage year 1994 for Kathy Vining and Herb DeLone; source: obituary of Kathy Vining DeLone"
     url: "https://www.smithfamilycares.com/obituaries/kathy-delone"
+  - date: "2026-05-25"
+    what: "added head's full middle name, Sr. suffix, birth, death, and burial; linked to parents; added marriage year; noted son-in-law John Kunkel predeceased; expanded son Donald Jr.'s middle name; source: obituary of Donald Dent Vining Sr."
+    url: "https://www.smithfamilycares.com/obituaries/donald-vining-sr"
 rawArchival: |-
   <a name="DonaldD01"></a><font size=+2>Donald D. Vining</font>
      (son of [?])
