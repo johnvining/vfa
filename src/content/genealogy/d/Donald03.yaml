@@ -1,7 +1,7 @@
 id: Donald03
 sequence: 69
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 25 May 2026
 relationship: son
 parentId: John38
 parentLetter: J
@@ -16,16 +16,29 @@ head:
 marriages:
   - spouse:
       givenName: Wanda
-      surname: "[&#8230;]"
+      surname: Headley
+      birth:
+        date: 22 September 1950
+      death:
+        date: 30 March 2024
+        place: "Bessemer, Alabama"
 childrenGroups:
   - children:
       - name: Donnie Vining
         marriages:
-          - date: "Patsy [&#8230;]"
+          - spouse: "Patsy [&#8230;]"
+        death:
+          date: before 30 March 2024
       - name: Kyle Vining
+        entryId: Kyle01
+        entryLetter: K
         marriages:
-          - date: "Dawn [&#8230;]"
+          - spouse: "Dawn [&#8230;]"
 docsUrl: Dsources/Donald03doc.htm
+updates:
+  - date: "2026-05-25"
+    what: "added maiden name and death info for spouse Wanda; noted Donnie predeceased her; fixed children's marriage structure; promoted Kyle to his own entry; source: obituary of Wanda Headley Vining"
+    url: "https://www.echovita.com/us/obituaries/al/bessemer/wanda-headley-vining-17862291"
 rawArchival: |-
   <a name="Donald03"></a><font size=+2>Donald Vining</font>
      (son of <a href="Jfamilies.htm#John38">John Vining and Burlie [&#8230;]</a>)

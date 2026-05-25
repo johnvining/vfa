@@ -1,0 +1,21 @@
+id: Kyle01
+sequence: 33
+letter: K
+lastUpdated: 25 May 2026
+relationship: son
+parentId: Donald03
+parentLetter: D
+parentDesc: "Donald Vining and Wanda Headley"
+head:
+  givenName: Kyle
+marriages:
+  - spouse:
+      givenName: Dawn
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Cooper Vining
+updates:
+  - date: "2026-05-25"
+    what: "created entry; source: obituary of mother Wanda Headley Vining"
+    url: "https://www.echovita.com/us/obituaries/al/bessemer/wanda-headley-vining-17862291"
