@@ -7,6 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
+    "check:children": "node scripts/check-child-consistency.mjs",
     "build": "astro build && node rename-htm.mjs",
     "preview": "astro preview",
     "astro": "astro"
