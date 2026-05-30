@@ -1,6 +1,6 @@
 id: Oliver03
 letter: O
-lastUpdated: 27 May 2020
+lastUpdated: 29 May 2026
 relationship: son
 parentId: Benjamin03
 parentLetter: B
@@ -9,7 +9,7 @@ head:
   givenName: Oliver
   birth:
     date: age 5 y. as of 1880 census
-    place: "[Louisiana or New York?]"
+    place: "Louisiana"
   death:
     date: between 1920 and 1930 censuses
 marriages:
@@ -52,6 +52,9 @@ childrenGroups:
         burial:
           place: "Mountain Grove Cemetery and Mausoleum   Bridgeport, Connecticut"
 docsUrl: Osources/Oliver03doc.htm
+updates:
+  - date: "2026-05-29"
+    what: "resolved uncertain birth place per 1920 census"
 rawArchival: |-
   <a name="Oliver03"></a><font size=+2>Oliver Vining</font>
      (son of <a href="Bfamilies.htm#Benjamin03">Benjamin Vining and Amanda [&#8230;]</a>)
