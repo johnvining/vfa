@@ -1,6 +1,6 @@
 id: RonaldW01
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 30 May 2026
 relationship: son
 parentId: EdwardL01
 parentLetter: E
@@ -89,6 +89,8 @@ childrenGroups:
             spouse: "Lisa Marie [Trepanier or Mercier?]"
             divorce:
               date: 20 February 2006
+        death:
+          date: 10 October 2020
       - name: Bobby Leigh Vining
         entryId: BobbyL01
         entryLetter: B
@@ -100,6 +102,8 @@ childrenGroups:
             spouse: Jeannine Arlene Greenleaf
             divorce:
               date: "1997"
+        death:
+          date: 12 December 2016
       - name: James Everett Vining
         entryId: JamesE05
         entryLetter: J
@@ -127,6 +131,9 @@ childrenGroups:
           - date: 25 September 1999
             spouse: Mark Gauthier
 docsUrl: Rsources/RonaldW01doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "added death dates for sons Bobby Leigh and Ricky Michael; contributed by Sarah (Vining) Fournier"
 rawArchival: |-
   <a name="RonaldW01"></a><font size=+2>Ronald Winston Vining</font>
      (son of <a href="Efamilies.htm#EdwardL01">Edward Leander Vining and Marjorie E. Newcomb</a>)

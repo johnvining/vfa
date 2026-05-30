@@ -1,6 +1,6 @@
 id: RickyM01
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 30 May 2026
 relationship: son
 parentId: RonaldW01
 parentDesc: Ronald Winston Vining and Joyce Clementine Schmieks
@@ -9,6 +9,8 @@ head:
   birth:
     date: 13 June 1959
     place: "Limestone, Aroostook County, Maine"
+  death:
+    date: 10 October 2020
 marriages:
   - number: 1
     date: 7 July 1979
@@ -46,6 +48,9 @@ childrenGroups:
       - name: Rusty Vining
         birth:
           date: 29 July 1988
+updates:
+  - date: "2026-05-30"
+    what: "added death date; contributed by his niece Sarah (Vining) Fournier"
 rawArchival: |-
   <a name="RickyM01"></a><font size=+2>Ricky Michael Vining</font>
      (son of <a href="#RonaldW01">Ronald Winston Vining and Joyce Clementine Schmieks</a>)

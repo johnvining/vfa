@@ -1,6 +1,6 @@
 id: BobbyL01
 letter: B
-lastUpdated: 25 February 2023
+lastUpdated: 30 May 2026
 relationship: son
 parentId: RonaldW01
 parentLetter: R
@@ -10,6 +10,8 @@ head:
   birth:
     date: 20 October 1960
     place: "Fort Fairfield, Aroostook County, Maine"
+  death:
+    date: 12 December 2016
 marriages:
   - date: 15 September 1984
     divorce:
@@ -25,6 +27,9 @@ childrenGroups:
       - name: Ashley Ann Vining
         birth:
           date: 29 May 1987
+updates:
+  - date: "2026-05-30"
+    what: "added death date; contributed by his daughter Sarah (Vining) Fournier"
 rawArchival: |-
   <a name="BobbyL01"></a><font size=+2>Bobby Leigh Vining</font>
      (son of <a href="Rfamilies.htm#RonaldW01">Ronald Winston Vining and Joyce Clementine Schmieks</a>)
