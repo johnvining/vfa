@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 6. Thomas — `Thomas02`
-
-- Own entry: [t/Thomas02.yaml](src/content/genealogy/t/Thomas02.yaml) · docs: `Tsources/Thomas02doc.htm`
-- Parent's entry: [e/Elias01.yaml](src/content/genealogy/e/Elias01.yaml) (`Elias01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| death date | `17 November 1852/53` | `17 November 1853` |
-
----
-
 ## 7. Olen Marshall — `OlenM01`
 
 - Own entry: [o/OlenM01.yaml](src/content/genealogy/o/OlenM01.yaml) · docs: `Osources/OlenM01doc.htm`

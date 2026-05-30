@@ -1,6 +1,6 @@
 id: Elias01
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 30 May 2026
 relationship: son
 parentId: SamuelJr01
 parentLetter: S
@@ -71,7 +71,7 @@ childrenGroups:
           - number: 2
             spouse: Mary Mason
         death:
-          date: 17 November 1852/53
+          date: 17 November 1853
       - name: William Vining
         entryId: William01
         entryLetter: W
@@ -125,6 +125,9 @@ childrenGroups:
         burial:
           place: "Southwick Cemetery   Southwick, Massachusetts"
 docsUrl: Esources/Elias01doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "resolved Thomas's child-line death year per gravestone"
 rawArchival: |-
   <a name="Elias01"></a><font size=+2>Elias Vining</font>
      (son of <a href="Sfamilies.htm#SamuelJr01">Samuel Vining Jr. and Mary Gleason</a>)
