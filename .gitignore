@@ -2,6 +2,7 @@
 *.sublime-project
 node_modules/
 dist/
+snapshots/
 .astro/
 .env
 .env.production
