@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 9. Harold B. — `HaroldB01`
-
-- Own entry: [h/HaroldB01.yaml](src/content/genealogy/h/HaroldB01.yaml)
-- Parent's entry: [h/HenryH04.yaml](src/content/genealogy/h/HenryH04.yaml) (`HenryH04`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| death place | `Califonia` | `California` |
-
----
-
 ## 10. Erastus Clarkson — `ErastusC01`
 
 - Own entry: [e/ErastusC01.yaml](src/content/genealogy/e/ErastusC01.yaml) · docs: `Esources/ErastusC01doc.htm`
