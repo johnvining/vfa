@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 8. Thomas — `Thomas14`
-
-- Own entry: [t/Thomas14.yaml](src/content/genealogy/t/Thomas14.yaml) · docs: `Tsources/Thomas14doc.htm`
-- Parent's entry: [f/FrankC01.yaml](src/content/genealogy/f/FrankC01.yaml) (`FrankC01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `Rochester, New York` | `Friday Harbor, San Juan County, Washington` |
-
----
-
 ## 9. Harold B. — `HaroldB01`
 
 - Own entry: [h/HaroldB01.yaml](src/content/genealogy/h/HaroldB01.yaml)

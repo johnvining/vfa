@@ -1,6 +1,6 @@
 id: Thomas14
 letter: T
-lastUpdated: 9 March 2023
+lastUpdated: 30 May 2026
 migrationNote: "Original HTML had malformed anchor tag: <a name=\"Thomas14\"</a> (missing closing >)."
 relationship: son
 parentId: FrankC01
@@ -10,7 +10,7 @@ head:
   givenName: Thomas
   birth:
     date: 14 December 1869
-    place: "Friday Harbor, San Juan County, Washington"
+    place: "Rochester, New York"
   death:
     date: 17 March 1922
     place: "Ellensburg, Kittitas County, Washington"
@@ -44,6 +44,9 @@ childrenGroups:
         burial:
           place: "IOOF Cemetery   Ellensburg, Kittitas County, Washington"
 docsUrl: Tsources/Thomas14doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "corrected birth place to match parent entry and the 1900, 1910, and 1920 censuses"
 rawArchival: |-
   <a name="Thomas14"</a><font size=+2>Thomas Vining</font>
      (son of <a href="Ffamilies.htm#FrankC01">Frank Clarke Vining and Mary A. Cosgrove</a>)
