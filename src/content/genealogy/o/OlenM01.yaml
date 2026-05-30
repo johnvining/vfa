@@ -1,6 +1,6 @@
 id: OlenM01
 letter: O
-lastUpdated: 27 May 2020
+lastUpdated: 30 May 2026
 relationship: son
 parentId: Francis02
 parentLetter: F
@@ -9,7 +9,7 @@ head:
   givenName: Olen Marshall
   birth:
     date: 15 December 1878
-    place: "[Mississippi or Louisiana?]"
+    place: Louisiana
   death:
     date: 29 January 1955
   burial:
@@ -77,6 +77,9 @@ childrenGroups:
           date: 17 February 2003
           place: "Velva, North Dakota"
 docsUrl: Osources/OlenM01doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "resolved uncertain birth place per 1920, 1930, and 1940 censuses"
 rawArchival: |-
   <a name="OlenM01"></a><font size=+2>Olen Marshall Vining</font>
      (son of <a href="Ffamilies.htm#Francis02">Francis &#8220;Frank&#8221; Vining and Harriet Joiner</a>)

@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 7. Olen Marshall — `OlenM01`
-
-- Own entry: [o/OlenM01.yaml](src/content/genealogy/o/OlenM01.yaml) · docs: `Osources/OlenM01doc.htm`
-- Parent's entry: [f/Francis02.yaml](src/content/genealogy/f/Francis02.yaml) (`Francis02`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `[Louisiana or Mississippi?]` | `[Mississippi or Louisiana?]` |
-
----
-
 ## 8. Thomas — `Thomas14`
 
 - Own entry: [t/Thomas14.yaml](src/content/genealogy/t/Thomas14.yaml) · docs: `Tsources/Thomas14doc.htm`
