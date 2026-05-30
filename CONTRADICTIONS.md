@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 3. George Albert — `GeorgeA01`
-
-- Own entry: [g/GeorgeA01.yaml](src/content/genealogy/g/GeorgeA01.yaml) · docs: `Gsources/GeorgeA01doc.htm`
-- Parent's entry: [b/BenjaminF04.yaml](src/content/genealogy/b/BenjaminF04.yaml) (`BenjaminF04`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth date | `8 November 1870` | `1876` |
-
----
-
 ## 4. Edward Thomas — `EdwardT02`
 
 - Own entry: [e/EdwardT02.yaml](src/content/genealogy/e/EdwardT02.yaml) · docs: `Esources/EdwardT02doc.htm`

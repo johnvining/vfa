@@ -1,6 +1,6 @@
 id: BenjaminF04
 letter: B
-lastUpdated: 25 February 2023
+lastUpdated: 30 May 2026
 relationship: son
 parentId: AlbertG02
 parentLetter: A
@@ -52,6 +52,11 @@ childrenGroups:
         marriages:
           - date: 28 February 1894
             spouse: Ruby Lee Roten
+        death:
+          date: 6 August 1932
+          place: "Jefferson County, Alabama"
+        burial:
+          place: "Elmwood Cemetery and Mausoleum   Birmingham, Jefferson County, Alabama"
       - name: William Eddington Vining
         entryId: WilliamE03
         entryLetter: W
@@ -89,6 +94,10 @@ childrenGroups:
         death:
           date: before 1900 census
 docsUrl: Bsources/BenjaminF04doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "resolved George Albert's child-line birth year and added death date, place, and burial; source: gravestone via Find A Grave"
+    url: "https://www.findagrave.com/memorial/175505682/george-albert-vining"
 rawArchival: |-
   <a name="BenjaminF04"></a><font size=+2>Benjamin Franklin Vining</font>
      (son of <a href="Afamilies.htm#AlbertG02">Albert Gallatin Vining and Elizabeth Ann Gerrard</a>)
