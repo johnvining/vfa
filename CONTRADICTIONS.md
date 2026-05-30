@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 5. Lorenzo Devaro — `LorenzoD01`
-
-- Own entry: [l/LorenzoD01.yaml](src/content/genealogy/l/LorenzoD01.yaml) · docs: `Lsources/LorenzoD01doc.htm`
-- Parent's entry: [e/Ebenezer02.yaml](src/content/genealogy/e/Ebenezer02.yaml) (`Ebenezer02`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `[Ohio or New York?]` | `New York` |
-
----
-
 ## 6. Thomas — `Thomas02`
 
 - Own entry: [t/Thomas02.yaml](src/content/genealogy/t/Thomas02.yaml) · docs: `Tsources/Thomas02doc.htm`
