@@ -1,6 +1,6 @@
 id: ElmoW01
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 29 May 2026
 relationship: son
 parentId: BelaA01
 parentLetter: B
@@ -9,7 +9,7 @@ head:
   givenName: Elmo William
   birth:
     date: 7 November 1871
-    place: "[Iowa or Connecticut?]"
+    place: "Iowa"
   death:
     date: 22 April 1951
     place: "Osage, Mitchell County, Iowa"
@@ -53,6 +53,9 @@ childrenGroups:
         burial:
           place: "Osage Cemetery   Osage, Iowa"
 docsUrl: Esources/ElmoW01doc.htm
+updates:
+  - date: "2026-05-29"
+    what: "resolved uncertain birth place per 1900 census"
 rawArchival: |-
   <a name="ElmoW01"></a><font size=+2>Elmo William Vining</font>
      (son of <a href="Bfamilies.htm#BelaA01">Bela A. Vining and Lucretia Ann Lyman</a>)

@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 1. Elmo William — `ElmoW01`
-
-- Own entry: [e/ElmoW01.yaml](src/content/genealogy/e/ElmoW01.yaml) · docs: `Esources/ElmoW01doc.htm`
-- Parent's entry: [b/BelaA01.yaml](src/content/genealogy/b/BelaA01.yaml) (`BelaA01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `Iowa` | `[Iowa or Connecticut?]` |
-
----
-
 ## 2. Oliver — `Oliver03`
 
 - Own entry: [o/Oliver03.yaml](src/content/genealogy/o/Oliver03.yaml) · docs: `Osources/Oliver03doc.htm`
