@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 10. Erastus Clarkson — `ErastusC01`
-
-- Own entry: [e/ErastusC01.yaml](src/content/genealogy/e/ErastusC01.yaml) · docs: `Esources/ErastusC01doc.htm`
-- Parent's entry: [j/JamesM03.yaml](src/content/genealogy/j/JamesM03.yaml) (`JamesM03`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| death place | `MO` | `Missouri` |
-
----
-
 ## 11. Peter S. — `PeterS02`
 
 - Own entry: [p/PeterS02.yaml](src/content/genealogy/p/PeterS02.yaml) · docs: `Psources/PeterS02doc.htm`
