@@ -1,12 +1,15 @@
 id: HowardH01
 letter: H
-lastUpdated: "2026-05-01"
+lastUpdated: "2026-05-30"
 updates:
   - date: "2026-04-29"
     what: "added Augusta's maiden name Gaetke; source: Findagrave record, contributed by Jean Vining Springer"
     url: "https://www.findagrave.com/memorial/43390292/augusta-marie-alexander"
   - date: "2026-05-01"
     what: "added marriage date 20 December 1969 for Lorna Ione Vining and Orville Redding; added September 1957 for Virginia Mae Vining and Gordon Genz; contributed by Jean Vining Springer"
+  - date: "2026-05-30"
+    what: "added death date, place, and burial for Virginia Mae (Vining) Genz; source: obituary"
+    url: "https://www.twincities.com/obituaries/virginia-m-genz/"
 relationship: son
 parentId: OscarD01
 parentLetter: O
@@ -42,6 +45,11 @@ childrenGroups:
         marriages:
           - date: September 1957
             spouse: Gordon Genz
+        death:
+          date: 23 May 2026
+          place: "West St. Paul, Minnesota"
+        burial:
+          place: Acacia Cemetery
       - name: Lorna Ione Vining
         birth:
           date: 18 January 1940
