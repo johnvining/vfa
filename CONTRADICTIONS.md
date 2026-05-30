@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 4. Edward Thomas — `EdwardT02`
-
-- Own entry: [e/EdwardT02.yaml](src/content/genealogy/e/EdwardT02.yaml) · docs: `Esources/EdwardT02doc.htm`
-- Parent's entry: [c/Cleveland01.yaml](src/content/genealogy/c/Cleveland01.yaml) (`Cleveland01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| death place | `24 September 1972` | `Bakersfield, California` |
-
----
-
 ## 5. Lorenzo Devaro — `LorenzoD01`
 
 - Own entry: [l/LorenzoD01.yaml](src/content/genealogy/l/LorenzoD01.yaml) · docs: `Lsources/LorenzoD01doc.htm`
