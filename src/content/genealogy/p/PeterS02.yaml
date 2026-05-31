@@ -1,14 +1,14 @@
 id: PeterS02
 letter: P
-lastUpdated: 5 May 2021
+lastUpdated: 30 May 2026
 relationship: son
-parentId: James05
+parentId: JamesW07
 parentLetter: J
-parentDesc: "James Vining and Henrietta [&#8230;]"
+parentDesc: "James Washington Vining and Henrietta [&#8230;]"
 head:
   givenName: Peter S.
   birth:
-    date: "1877"
+    date: 22 July 1877
     place: Connecticut
   death:
     date: "1971"
@@ -44,6 +44,9 @@ childrenGroups:
           date: age 2 y. as of 1910 census
           place: New York
 docsUrl: Psources/PeterS02doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "added full birth date (day and month); fixed broken parent link to James Washington Vining"
 rawArchival: |-
   <a name="PeterS02"></a><font size=+2>Peter S. Vining</font>
      (son of <a href="Jfamilies.htm#James05">James Vining and Henrietta [&#8230;]</a>)

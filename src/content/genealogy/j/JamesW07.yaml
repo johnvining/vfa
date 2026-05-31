@@ -1,6 +1,6 @@
 id: JamesW07
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 30 May 2026
 relationship: son
 parentId: PeterS01
 parentLetter: P
@@ -37,17 +37,20 @@ childrenGroups:
         entryLetter: P
         birth:
           date: 22 July 1877
-          place: "[Connecticut or New York?]"
+          place: Connecticut
         marriages:
           - date: 9 y. as of 1910 census
             spouse: Mary Campion
         death:
           date: September 1971
-          place: "Snd Lake, Rensselaer County, New York"
+          place: "Sand Lake, Rensselaer County, New York"
         burial:
           place: "Sand Lake Union Cemetery   Sand Lake, New York"
       - name: Raymond Vining
 docsUrl: Jsources/JamesW07doc.htm
+updates:
+  - date: "2026-05-30"
+    what: "resolved Peter S.'s child-line birth place per 1910 and 1920 censuses"
 rawArchival: |-
   <a name="JamesW07"></a><font size=+2>James Washington Vining</font>
      (son of <a href="Pfamilies.htm#PeterS01">Peter Smith Vining and Sarah Maria Hicks</a>)

@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 11. Peter S. — `PeterS02`
-
-- Own entry: [p/PeterS02.yaml](src/content/genealogy/p/PeterS02.yaml) · docs: `Psources/PeterS02doc.htm`
-- Parent's entry: [j/JamesW07.yaml](src/content/genealogy/j/JamesW07.yaml) (`JamesW07`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `[Connecticut or New York?]` | `Connecticut` |
-
----
-
 ## 12. Shadrack Joshua — `ShadrackJ01`
 
 - Own entry: [s/ShadrackJ01.yaml](src/content/genealogy/s/ShadrackJ01.yaml) · docs: `Ssources/ShadrackJ01doc.htm`
