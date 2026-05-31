@@ -1,20 +1,42 @@
 # Suspicious dates / chronology to review
 
-Automated scan of all 1966 entries. Only **concrete** dates are used for the "impossible" checks (census-age estimates and bracketed/approx dates are skipped there) to avoid false alarms. Numbers shown are computed ages/gaps. To-do list: delete each as resolved. **No fixes applied.**
+Automated scan of all 1966 entries. Only concrete dates used for "impossible" checks (census-age & bracketed dates skipped there). To-do list: delete each as resolved. **No fixes applied.**
 
-**Total flags: 61**
+**Total flags: 77**
 
+- Child born BEFORE parent — impossible: **16**
 - Death before birth (person or spouse) — impossible: **4**
 - Marriage before birth — impossible: **1**
 - Marriage after death — impossible: **1**
 - Spouse died before the marriage date — impossible: **1**
 - Spouse born after the marriage date — impossible: **1**
 - Child died before born — impossible: **4**
-- Child born >1 yr after parent's death — check (posthumous limit): **7**
+- Child born >1 yr after parent's death — check: **7**
 - Parent under 14 at child's birth — suspicious: **31**
-- Parent over 70 (father) / 55 (mother) at child's birth — suspicious: **9**
+- Parent over 70 (father) / 55 (mother) — suspicious: **9**
 - Married under 14 — suspicious: **1**
 - Lifespan over 105 years — review: **1**
+
+---
+
+## Child born BEFORE parent — impossible (16)
+
+- FrankH01 — Frank Harry [f/FrankH01.yaml]: parent b. 1946, child "Rose Edith Russell" b. 1945 (child 1 yrs BEFORE parent)
+- FrankH01 — Frank Harry [f/FrankH01.yaml]: mother b. 1946, child "Rose Edith Russell" b. 1945 (child 1 yrs BEFORE mother)
+- Harrison01 — Harrison [h/Harrison01.yaml]: mother b. 1910, child "Francis Joseph Vining" b. 1908 (child 2 yrs BEFORE mother)
+- JamesJ02 — James John [j/JamesJ02.yaml]: mother b. 1940, child "James Rodford Vining" b. 1928 (child 12 yrs BEFORE mother)
+- JamesJ02 — James John [j/JamesJ02.yaml]: mother b. 1940, child "Charles Evan Vining" b. 1932 (child 8 yrs BEFORE mother)
+- JamesM03 — James M. [j/JamesM03.yaml]: parent b. 1850, child "Edward Vining" b. 1833 (child 17 yrs BEFORE parent)
+- JamesM03 — James M. [j/JamesM03.yaml]: parent b. 1850, child "Almanzo Vining" b. 1835 (child 15 yrs BEFORE parent)
+- JamesM03 — James M. [j/JamesM03.yaml]: parent b. 1850, child "Erastus Clarkson Vining" b. 1841 (child 9 yrs BEFORE parent)
+- JamesM03 — James M. [j/JamesM03.yaml]: parent b. 1850, child "Israel A. Vining" b. 1842 (child 8 yrs BEFORE parent)
+- JamesM03 — James M. [j/JamesM03.yaml]: parent b. 1850, child "Charles Augustus Vining" b. 1844 (child 6 yrs BEFORE parent)
+- JamesM03 — James M. [j/JamesM03.yaml]: parent b. 1850, child "James M. Vining Jr." b. 1848 (child 2 yrs BEFORE parent)
+- John09 — John [j/John09.yaml]: parent b. 1855, child "Atwood P. Vining" b. 1835 (child 20 yrs BEFORE parent)
+- John09 — John [j/John09.yaml]: parent b. 1855, child "John Newell Vining" b. 1839 (child 16 yrs BEFORE parent)
+- RoyE01 — Roy Edward [r/RoyE01.yaml]: parent b. 1904, child "Charles Edgar Vining" b. 1830 (child 74 yrs BEFORE parent)
+- SamuelD01 — Samuel D. [s/SamuelD01.yaml]: parent b. 1855, child "Eugene/John Vining" b. 1850 (child 5 yrs BEFORE parent)
+- SamuelD01 — Samuel D. [s/SamuelD01.yaml]: parent b. 1855, child "Mary Elizabeth Vining" b. 1854 (child 1 yrs BEFORE parent)
 
 ---
 
@@ -60,7 +82,7 @@ Automated scan of all 1966 entries. Only **concrete** dates are used for the "im
 
 ---
 
-## Child born >1 yr after parent's death — check (posthumous limit) (7)
+## Child born >1 yr after parent's death — check (7)
 
 - AlbertE01 — Albert Edwin [a/AlbertE01.yaml]: parent d. 1943, child "David Stevens Vining" b. 1947 (4 yrs after)
 - JesseL04 — Jesse Lawrence [j/JesseL04.yaml]: parent d. 1918, child "Mattie L. Vining" b. 1985 (67 yrs after)
@@ -108,7 +130,7 @@ Automated scan of all 1966 entries. Only **concrete** dates are used for the "im
 
 ---
 
-## Parent over 70 (father) / 55 (mother) at child's birth — suspicious (9)
+## Parent over 70 (father) / 55 (mother) — suspicious (9)
 
 - AverettW01 — Averett Wells [a/AverettW01.yaml]: mother b. 1802, child "James Averett Vining" b. 1927 (mother age 125)
 - AverettW01 — Averett Wells [a/AverettW01.yaml]: mother b. 1802, child "Hollis F. Vining" b. 1929 (mother age 127)
