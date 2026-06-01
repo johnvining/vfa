@@ -2,9 +2,8 @@
 
 Docs pages that build but no genealogy entry links to them (no `docsUrl` points to them). To-do: delete each as resolved. Already fixed: GeorgeM05->GM02, ShadrackJ02->Shadrack04.
 
-## A. Entry exists under the same id, just missing `docsUrl` — add it (2)
+## A. Entry exists under the same id, just missing `docsUrl` — add it (1)
 
-- [ ] `Bela03` — Bela Vining - Thankful Millbanks → add `docsUrl: Bsources/Bela03doc.htm` to the entry
 - [ ] `JamesE05` — James Everett Vining - [...] [...] → add `docsUrl: Jsources/JamesE05doc.htm` to the entry
 
 ## B. No same-id entry — renamed; repoint the right entry (verify by spouse) (7)
