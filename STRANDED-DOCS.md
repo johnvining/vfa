@@ -6,8 +6,6 @@ Docs pages that build but no genealogy entry links to them (no `docsUrl` points 
 
 ## B. No same-id entry — renamed; repoint the right entry (verify by spouse) (7)
 
-- [ ] `a/AlbertW01` — Albert W. “Perk” Vining - Eileen M. Ledger
-      candidate(s): `Albert01` (Albert &#8220;Perk&#8221;) — verify by spouse before repointing
 - [ ] `b/BillyD01` — Billy Dale Vining and (1) Joan Elaine Lockwood;   (2) Susan M. [...]
       candidate(s): `BeverlyL01` (Beverly Lawrence) — verify by spouse before repointing
 - [ ] `c/CharlesJ02` — Charles Joseph Vining and Doris Smith
