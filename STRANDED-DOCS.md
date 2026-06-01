@@ -2,9 +2,8 @@
 
 Docs pages that build but no genealogy entry links to them (no `docsUrl` points to them). To-do: delete each as resolved. Already fixed: GeorgeM05->GM02, ShadrackJ02->Shadrack04.
 
-## A. Entry exists under the same id, just missing `docsUrl` — add it (5)
+## A. Entry exists under the same id, just missing `docsUrl` — add it (4)
 
-- [ ] `AdrianD01` — Adrian DeWitt Vining - Frances Helen Mitchell → add `docsUrl: Asources/AdrianD01doc.htm` to the entry
 - [ ] `Albert03` — Albert Vining - Theresa Jackson → add `docsUrl: Asources/Albert03doc.htm` to the entry
 - [ ] `Alexander02` — Alexander Vining - (1) Abigail Whiton, (2) Mary Jacobs → add `docsUrl: Asources/Alexander02doc.htm` to the entry
 - [ ] `Bela03` — Bela Vining - Thankful Millbanks → add `docsUrl: Bsources/Bela03doc.htm` to the entry
