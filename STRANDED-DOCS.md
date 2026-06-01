@@ -6,8 +6,6 @@ Docs pages that build but no genealogy entry links to them (no `docsUrl` points 
 
 ## B. No same-id entry — renamed; repoint the right entry (verify by spouse) (7)
 
-- [ ] `b/BillyD01` — Billy Dale Vining and (1) Joan Elaine Lockwood;   (2) Susan M. [...]
-      candidate(s): `BeverlyL01` (Beverly Lawrence) — verify by spouse before repointing
 - [ ] `c/CharlesJ02` — Charles Joseph Vining and Doris Smith
       candidate(s): `Charles06` (Charles), `Charles10` (Charles) — verify by spouse before repointing
 - [ ] `d/DanielHJr01` — Daniel Hervey Vining Jr. - Elizabeth Ann Field
