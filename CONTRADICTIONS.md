@@ -4,18 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 12. Shadrack Joshua — `ShadrackJ01`
-
-- Own entry: [s/ShadrackJ01.yaml](src/content/genealogy/s/ShadrackJ01.yaml) · docs: `Ssources/ShadrackJ01doc.htm`
-- Parent's entry: [j/JehuS01.yaml](src/content/genealogy/j/JehuS01.yaml) (`JehuS01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth date | `1816` | `20 February 1858` |
-| death date | `1887` | `2 July 1919` |
-
----
-
 ## 13. Joel Benson — `JoelB01`
 
 - Own entry: [j/JoelB01.yaml](src/content/genealogy/j/JoelB01.yaml) · docs: `Jsources/JoelB01doc.htm`

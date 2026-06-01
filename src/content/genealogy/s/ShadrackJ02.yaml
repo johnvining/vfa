@@ -1,8 +1,10 @@
 id: ShadrackJ02
 letter: S
-lastUpdated: 25 February 2023
+lastUpdated: 31 May 2026
 relationship: son
-parentDesc: "[?]"
+parentId: JehuS01
+parentLetter: J
+parentDesc: Jehu S. Vining and Sarah Farmby
 head:
   givenName: Shadrack
   birth:
@@ -138,7 +140,10 @@ childrenGroups:
           place: "Austin, Travis County, Texas"
         burial:
           place: "Taylor City Cemetery   Taylor, Texas"
-docsUrl: Ssources/ShadrackJ02doc.htm
+docsUrl: Ssources/Shadrack04doc.htm
+updates:
+  - date: "2026-05-31"
+    what: "identified parent — son of Jehu S. Vining (b. 1816, Jefferson County GA; matches Jehu's child line and the 1850/1860 censuses)"
 rawArchival: |-
   <a name="ShadrackJ02"></a><font size=+2>Shadrack Vining</font>
      (son of [?])

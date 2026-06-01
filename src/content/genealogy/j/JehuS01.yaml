@@ -1,6 +1,6 @@
 id: JehuS01
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 30 May 2026
 relationship: son
 parentId: Shadrack01
 parentLetter: S
@@ -28,7 +28,7 @@ childrenGroups:
   - headingText: "child"
     children:
       - name: Shadrack Joshua Vining
-        entryId: ShadrackJ01
+        entryId: ShadrackJ02
         entryLetter: S
         birth:
           date: "1816"
@@ -58,7 +58,10 @@ childrenGroups:
         death:
           date: 25 May 1895
           place: "Bibb County, Alabama"
-docsUrl: Jsources/JehuS01doc.htm
+docsUrl: Jsources/Jehu01doc.htm
+updates:
+  - date: "2026-05-31"
+    what: "corrected the child-line link for son Shadrack (b. 1816) to his actual entry ShadrackJ02 (m. Nancy Clifton); it had been wrongly linked to ShadrackJ01, a different, later Shadrack Joshua (b. 1858)"
 rawArchival: |-
   <a name="JehuS01"></a><font size=+2>Jehu S. Vining</font>
      (son of <a href="Sfamilies.htm#Shadrack01">Shadrack Vining and Phereby Carmeal Ratcliff(e)</a>)
