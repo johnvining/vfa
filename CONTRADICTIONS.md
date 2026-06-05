@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 13. Joel Benson — `JoelB01`
-
-- Own entry: [j/JoelB01.yaml](src/content/genealogy/j/JoelB01.yaml) · docs: `Jsources/JoelB01doc.htm`
-- Parent's entry: [j/JesseJr02.yaml](src/content/genealogy/j/JesseJr02.yaml) (`JesseJr02`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `Louisiana` | `LA` |
-
----
-
 ## 14. Jesse Lawrence — `JesseL01`
 
 - Own entry: [j/JesseL01.yaml](src/content/genealogy/j/JesseL01.yaml) · docs: `Jsources/JesseL01doc.htm`
