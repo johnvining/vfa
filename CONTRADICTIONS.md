@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 14. Jesse Lawrence — `JesseL01`
-
-- Own entry: [j/JesseL01.yaml](src/content/genealogy/j/JesseL01.yaml) · docs: `Jsources/JesseL01doc.htm`
-- Parent's entry: [j/JesseP01.yaml](src/content/genealogy/j/JesseP01.yaml) (`JesseP01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth date | `12 September 1834` | `12 September 1830` |
-
----
-
 ## 15. Cadar — `Cadar01`
 
 - Own entry: [c/Cadar01.yaml](src/content/genealogy/c/Cadar01.yaml)

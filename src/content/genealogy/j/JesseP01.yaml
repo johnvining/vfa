@@ -1,6 +1,6 @@
 id: JesseP01
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 4 June 2026
 relationship: son
 parentId: JesseJr01
 parentDesc: Jesse Vining Jr. and Phebe Pledger
@@ -64,7 +64,7 @@ childrenGroups:
       - name: Jesse Lawrence Vining
         entryId: JesseL01
         birth:
-          date: 12 September 1834
+          date: 12 September 1830
           place: "Bennettsville, Marlboro County, South Carolina"
         marriages:
           - spouse: Sarah Ann Nail Alcox
@@ -123,6 +123,9 @@ childrenGroups:
           date: age 16 y. as of 1860 census
           place: "Bennetsville, Marlboro County, South Carolina?]"
 docsUrl: Jsources/JesseP01doc.htm
+updates:
+  - date: "2026-06-04"
+    what: "corrected Jesse Lawrence Vining's birth year in the child line to match his own entry, which is corroborated by the 1860–1900 census ages on his documentation page"
 rawArchival: |-
   <a name="JesseP01"></a><font size=+2>Jesse Pledger Vining</font>
      (son of <a href="#JesseJr01">Jesse Vining Jr. and Phebe Pledger</a>)
