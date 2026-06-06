@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 16. Clair Wilbur — `ClairW01`
-
-- Own entry: [c/ClairW01.yaml](src/content/genealogy/c/ClairW01.yaml)
-- Parent's entry: [j/JohnD01.yaml](src/content/genealogy/j/JohnD01.yaml) (`JohnD01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `New York` | `NY` |
-
----
-
 ## 17. Barry L. — `BarryL01`
 
 - Own entry: [b/BarryL01.yaml](src/content/genealogy/b/BarryL01.yaml) · docs: `Bsources/BarryL01doc.htm`
