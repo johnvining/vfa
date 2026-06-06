@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 17. Barry L. — `BarryL01`
-
-- Own entry: [b/BarryL01.yaml](src/content/genealogy/b/BarryL01.yaml) · docs: `Bsources/BarryL01doc.htm`
-- Parent's entry: [l/LouisD02.yaml](src/content/genealogy/l/LouisD02.yaml) (`LouisD02`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| death date | `2 March 1922` | `2 March 2022` |
-
----
-
 ## 18. Thomas B. — `ThomasB03`
 
 - Own entry: [t/ThomasB03.yaml](src/content/genealogy/t/ThomasB03.yaml) · docs: `Tsources/ThomasB03doc.htm`
