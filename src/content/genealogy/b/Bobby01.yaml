@@ -1,12 +1,17 @@
 id: Bobby01
 letter: B
-lastUpdated: 25 February 2023
+lastUpdated: 6 June 2026
 relationship: son
 parentId: EdwardK03
 parentLetter: E
-parentDesc: Edward Kevlin Vining and Charlotte Ester Lafuria
+parentDesc: Edward Kevlin Vining and Betty June Sheppard
 head:
-  givenName: Bobby
+  givenName: Bobby Edward
+  birth:
+    date: 21 October 1958
+  death:
+    date: 16 April 2026
+    place: "Ocean Springs, Jackson County, Mississippi"
 marriages:
   - spouse:
       givenName: Lisa
@@ -24,6 +29,10 @@ childrenGroups:
         burial:
           place: "Pinecrest Cemetery   Gautier, Jackson County, Mississippi"
 docsUrl: Bsources/Bobby01doc.htm
+updates:
+  - date: "2026-06-06"
+    what: "added Bobby's birth date, death date, death place, and middle name, and identified his mother as Edward Kevlin Vining's first wife; source: obituary"
+    url: "https://www.legacy.com/us/obituaries/name/bobby-vining-obituary?id=61285459"
 rawArchival: |-
   <a name="Bobby01"></a><font size=+2>Bobby Vining</font>
      (son of <a href="Efamilies.htm#EdwardK03">Edward Kevlin Vining and Charlotte Ester Lafuria</a>)
