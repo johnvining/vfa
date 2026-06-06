@@ -1,6 +1,6 @@
 id: Cadar01
 letter: C
-lastUpdated: 25 February 2023
+lastUpdated: 6 June 2026
 relationship: son
 parentId: John13
 parentLetter: J
@@ -9,7 +9,7 @@ head:
   givenName: Cadar
   birth:
     date: "1748"
-    place: "Jefferson, Jackson County, Georgia"
+    place: "[North Carolina or Jefferson, Jackson County, Georgia?]"
   death:
     date: "1832"
     place: Georgia
@@ -43,6 +43,9 @@ childrenGroups:
           date: 22 July 1848
           place: "Jefferson, Jackson County, Georgia"
       - name: "Rhoda Vining   [Jefferson, Georgia ?]"
+updates:
+  - date: "2026-06-06"
+    what: "marked Cadar's birth place as uncertain to reconcile the differing places given in his own entry and his father's entry; neither is documented"
 rawArchival: |-
   <a name="Cadar01"></a><font size=+2>Cadar Vining</font>
      (son of <a href="Jfamilies.htm#John13">John Vining and Sarah Ratcliff(e)</a>)

@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 15. Cadar — `Cadar01`
-
-- Own entry: [c/Cadar01.yaml](src/content/genealogy/c/Cadar01.yaml)
-- Parent's entry: [j/John13.yaml](src/content/genealogy/j/John13.yaml) (`John13`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `North Carolina` | `Jefferson, Jackson County, Georgia` |
-
----
-
 ## 16. Clair Wilbur — `ClairW01`
 
 - Own entry: [c/ClairW01.yaml](src/content/genealogy/c/ClairW01.yaml)
