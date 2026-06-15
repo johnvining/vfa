@@ -1,5 +1,10 @@
 id: FestusG01
 title: Festus G. Vining - Almira B. Dennison
+intro:
+  - caption: "Festus G. Vining:"
+    images:
+      - src: FestusG01image.jpg
+        link: true
 sections:
   - type: census
     table:
