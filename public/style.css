@@ -92,6 +92,49 @@ a:active           { color: #ff0000; }
 	height: auto;
 }
 
+/* Click-through portraits: show a capped thumbnail that links to the full image. */
+.doc-image-zoom img {
+	max-height: 400px;
+	width: auto;
+	cursor: zoom-in;
+}
+
+/* Full-image lightbox overlay opened by .doc-image-zoom links. */
+.doc-lightbox {
+	position: fixed;
+	inset: 0;
+	z-index: 1000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(0, 0, 0, 0.85);
+	cursor: zoom-out;
+}
+
+.doc-lightbox[hidden] {
+	display: none;
+}
+
+.doc-lightbox-img {
+	max-width: 92vw;
+	max-height: 92vh;
+	cursor: default;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+.doc-lightbox-close {
+	position: fixed;
+	top: 12px;
+	right: 20px;
+	background: none;
+	border: none;
+	color: #fff;
+	font-size: 42px;
+	line-height: 1;
+	cursor: pointer;
+	padding: 0 8px;
+}
+
 .doc-image-block {
 	margin-bottom: 1.5em;
 }

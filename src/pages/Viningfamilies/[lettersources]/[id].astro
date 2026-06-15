@@ -37,6 +37,15 @@ function defaultHeading(type: string): string {
   };
   return map[type] ?? type;
 }
+
+// Build an <img> tag; when `link` is set, wrap it in an anchor so the
+// thumbnail clicks through to the full-size image in a new tab.
+function imgHtml(img: { src: string; height?: number; link?: boolean }): string {
+  const tag = `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`;
+  return img.link
+    ? `<a href="${imageBase}/${img.src}" target="_blank" class="doc-image-zoom">${tag}</a>`
+    : tag;
+}
 ---
 
 <BaseInner
@@ -62,10 +71,10 @@ function defaultHeading(type: string): string {
     {item.images && (
       item.inline
         ? <div class="doc-image-block"><Fragment set:html={item.images.map(img =>
-            `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
+            imgHtml(img)
           ).join('&nbsp;&nbsp;&nbsp;')} /></div>
         : item.images.map(img => (
-            <div class="doc-image-block"><Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`} /></div>
+            <div class="doc-image-block"><Fragment set:html={imgHtml(img)} /></div>
           ))
     )}
   </div>
@@ -111,10 +120,10 @@ function defaultHeading(type: string): string {
             {entry.images && (
               entry.inline
                 ? <div class="doc-image-block"><Fragment set:html={entry.images.map(img =>
-                    `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
+                    imgHtml(img)
                   ).join('&nbsp;&nbsp;&nbsp;')} /></div>
                 : entry.images.map(img => (
-                    <div class="doc-image-block"><Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`} /></div>
+                    <div class="doc-image-block"><Fragment set:html={imgHtml(img)} /></div>
                   ))
             )}
           </div>
@@ -128,10 +137,10 @@ function defaultHeading(type: string): string {
         {item.images && (
           item.inline
             ? <div class="doc-image-block"><Fragment set:html={item.images.map(img =>
-                `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`
+                imgHtml(img)
               ).join('&nbsp;&nbsp;&nbsp;')} /></div>
             : item.images.map(img => (
-                <div class="doc-image-block"><Fragment set:html={`<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`} /></div>
+                <div class="doc-image-block"><Fragment set:html={imgHtml(img)} /></div>
               ))
         )}
       </div>
@@ -151,5 +160,46 @@ function defaultHeading(type: string): string {
 </div>
 
 <p class="doc-back"><a href={backHref}>&larr; Back to {headingTitle}</a></p>
+
+<div id="doc-lightbox" class="doc-lightbox" hidden>
+  <button type="button" id="doc-lightbox-close" class="doc-lightbox-close" aria-label="Close">&times;</button>
+  <img id="doc-lightbox-img" class="doc-lightbox-img" src="" alt="" />
+</div>
+
+<script>
+  const box = document.getElementById('doc-lightbox');
+  const boxImg = document.getElementById('doc-lightbox-img') as HTMLImageElement | null;
+
+  function openBox(href: string) {
+    if (!box || !boxImg) return;
+    boxImg.src = href;
+    box.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+  function closeBox() {
+    if (!box || !boxImg) return;
+    box.hidden = true;
+    boxImg.src = '';
+    document.body.style.overflow = '';
+  }
+
+  document.querySelectorAll('a.doc-image-zoom').forEach(link => {
+    link.addEventListener('click', e => {
+      const href = (link as HTMLAnchorElement).href;
+      if (!href) return;
+      e.preventDefault();
+      openBox(href);
+    });
+  });
+
+  // Close on the X button, on the backdrop (but not the image itself), or Escape.
+  document.getElementById('doc-lightbox-close')?.addEventListener('click', closeBox);
+  box?.addEventListener('click', e => {
+    if (e.target !== boxImg) closeBox();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && box && !box.hidden) closeBox();
+  });
+</script>
 
 </BaseInner>

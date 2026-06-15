@@ -164,6 +164,14 @@ const letters = defineCollection({
   }),
 });
 
+// A single image on a docs page. `link: true` makes the on-page thumbnail
+// click through to the full image (see `.doc-image-zoom` in style.css).
+const docImage = z.object({
+  src: z.string(),
+  height: z.number().optional(),
+  link: z.boolean().optional(),
+});
+
 const genealogyDocs = defineCollection({
   loader: glob({ pattern: '**/*.yaml', base: './src/content/genealogy-docs' }),
   schema: z.object({
@@ -172,10 +180,7 @@ const genealogyDocs = defineCollection({
     displayTitle: z.string().optional(),
     intro: z.array(z.object({
       caption: z.string().optional(),
-      images: z.array(z.object({
-        src: z.string(),
-        height: z.number().optional(),
-      })).optional(),
+      images: z.array(docImage).optional(),
       inline: z.boolean().optional(),
     })).optional(),
     sections: z.array(z.object({
@@ -193,18 +198,12 @@ const genealogyDocs = defineCollection({
       entries: z.array(z.object({
         year: z.string(),
         caption: z.string().optional(),
-        images: z.array(z.object({
-          src: z.string(),
-          height: z.number().optional(),
-        })).optional(),
+        images: z.array(docImage).optional(),
         inline: z.boolean().optional(),
       })).optional(),
       items: z.array(z.object({
         caption: z.string().optional(),
-        images: z.array(z.object({
-          src: z.string(),
-          height: z.number().optional(),
-        })).optional(),
+        images: z.array(docImage).optional(),
         inline: z.boolean().optional(),
       })).optional(),
       text: z.string().optional(),
