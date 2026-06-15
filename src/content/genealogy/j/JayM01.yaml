@@ -1,6 +1,10 @@
 id: JayM01
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 15 June 2026
+updates:
+  - date: "2026-06-15"
+    what: "promoted Christopher David to his own entry; added his marriage, death, and birth place"
+    url: "https://www.bgsfuneralhome.com/obituaries/christopher-vining"
 relationship: son
 parentId: EverettC01
 parentLetter: E
@@ -26,8 +30,15 @@ childrenGroups:
         birth:
           date: 18 April 1963
       - name: Christopher David Vining
+        entryId: ChristopherD01
+        entryLetter: C
         birth:
           date: 21 December 1964
+          place: "Joliet, Illinois"
+        marriages:
+          - spouse: "Tonya K. [...]"
+        death:
+          date: 5 November 2020
 rawArchival: |-
   <a name="JayM01"></a><font size=+2>Jay Middleton Vining</font>
      (son of <a href="Efamilies.htm#EverettC01">Everett C. Vining and Josephine Middleton</a>)

@@ -1,0 +1,30 @@
+id: ChristopherD01
+letter: C
+lastUpdated: 15 June 2026
+relationship: son
+parentId: JayM01
+parentLetter: J
+parentDesc: Jay Middleton Vining and Patricia Altiery
+head:
+  givenName: Christopher David
+  birth:
+    date: 21 December 1964
+    place: "Joliet, Illinois"
+  death:
+    date: 5 November 2020
+    place: "Joliet, Illinois"
+marriages:
+  - spouse:
+      givenName: Tonya K.
+      death:
+        date: "2019"
+childrenGroups:
+  - children:
+      - name: Jay Vining
+        marriages:
+          - spouse: "Megan [...]"
+      - name: Monica Hurley
+updates:
+  - date: "2026-06-15"
+    what: "created entry"
+    url: "https://www.bgsfuneralhome.com/obituaries/christopher-vining"
