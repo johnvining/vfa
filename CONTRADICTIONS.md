@@ -4,17 +4,6 @@ Generated from `npm run check:children`. 25 entries where the parent's child lin
 
 ---
 
-## 18. Thomas B. — `ThomasB03`
-
-- Own entry: [t/ThomasB03.yaml](src/content/genealogy/t/ThomasB03.yaml) · docs: `Tsources/ThomasB03doc.htm`
-- Parent's entry: [n/NathanielF01.yaml](src/content/genealogy/n/NathanielF01.yaml) (`NathanielF01`)
-
-| field | value in parent's entry | value in own entry |
-| --- | --- | --- |
-| birth place | `Florida` | `Homerville, Georgia` |
-
----
-
 ## 19. William Henry — `WilliamH10`
 
 - Own entry: [w/WilliamH10.yaml](src/content/genealogy/w/WilliamH10.yaml)

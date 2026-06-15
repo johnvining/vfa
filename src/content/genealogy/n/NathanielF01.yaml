@@ -1,6 +1,9 @@
 id: NathanielF01
 letter: N
-lastUpdated: 3 February 2021
+lastUpdated: 15 June 2026
+updates:
+  - date: "2026-06-15"
+    what: "changed Thomas B.'s birth place in his child line to reflect the conflict between the 1940 census and the previously recorded value, matching his own entry"
 relationship: son
 parentId: JesseL01
 parentLetter: J
@@ -45,7 +48,7 @@ childrenGroups:
         entryLetter: T
         birth:
           date: age 7 y. as of 1920 census
-          place: Florida
+          place: "[Florida or Homerville, Georgia?]"
         marriages:
           - spouse: Nola Mae Skeen
             divorce:

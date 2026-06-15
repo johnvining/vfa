@@ -1,6 +1,9 @@
 id: ThomasB03
 letter: T
-lastUpdated: 9 March 2023
+lastUpdated: 15 June 2026
+updates:
+  - date: "2026-06-15"
+    what: "added 1940 census to docs page; changed birth place to reflect the conflict between the 1940 census and the previously recorded value"
 relationship: son
 parentId: NathanielF01
 parentLetter: N
@@ -9,7 +12,7 @@ head:
   givenName: Thomas B.
   birth:
     date: age 7 y. as of 1920 census
-    place: "Homerville, Georgia"
+    place: "[Florida or Homerville, Georgia?]"
 marriages:
   - spouse:
       givenName: Nola Mae
