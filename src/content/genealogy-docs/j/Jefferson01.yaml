@@ -29,6 +29,13 @@ sections:
         images:
           - src: Jefferson01sonWilliamimage.jpg
             link: true
+  - type: family
+    heading: "Four Generations"
+    items:
+      - caption: "From left to right: Lorena McKinstry Lucia, Edith Drayer McKinstry, Clara Vining Drayer and Livonia (McKinstry?)"
+        images:
+          - src: Jefferson01fourgenerationsClaraimage.jpg
+            link: true
   - type: census
     table:
       columns:
