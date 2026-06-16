@@ -1,6 +1,12 @@
 id: Jefferson01
 title: Jefferson Vining - Elizabeth M. Fraser [Frazer?]
 sections:
+  - type: family
+    items:
+      - caption: "Almina E. (Vining) Wilmot, daughter of Jefferson Vining and Elizabeth M. Fraser:"
+        images:
+          - src: Jefferson01dauAlminaimage.jpg
+            link: true
   - type: census
     table:
       columns:
