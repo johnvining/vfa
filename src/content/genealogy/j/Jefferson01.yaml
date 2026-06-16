@@ -6,6 +6,10 @@ updates:
     what: "added a photograph of daughter Almina E. (Vining) Wilmot, contributed by Sarah Bylander Montzka; corrected Almina's death date, which had mistakenly carried her husband Warren Henry Wilmot's death year, and recorded that year on the marriage as his; source: family photograph and Find A Grave"
   - date: "2026-06-15"
     what: "added photographs of daughter Clara M. (Vining) Drayer and her husband Calvin C. Drayer, contributed by Sarah Bylander Montzka"
+  - date: "2026-06-15"
+    what: "added a photograph of son William Percy Vining, contributed by Sarah Bylander Montzka"
+  - date: "2026-06-15"
+    what: "added son William P. Vining's approximate birth year (uncertain); source: family photograph inscription"
 relationship: son
 parentId: Abijah02
 parentLetter: A
@@ -111,6 +115,7 @@ childrenGroups:
           place: "Mound Grove Cemetery   Kankakee, Kankakee County, Illinois"
       - name: William P. Vining
         birth:
+          date: "[1878?]"
           place: "Kankakee, Illinois"
         death:
           place: "Portland, Multnomah County, Oregon"
