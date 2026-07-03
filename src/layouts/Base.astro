@@ -21,7 +21,7 @@ const { title, description = '', keywords = '', activePage = '' } = Astro.props;
    {keywords && <meta name="keywords" content={keywords}>}
    <link rel="icon" type="image/png" href={`${import.meta.env.BASE_URL}Vining-Logo-Transparency.png`} />
    <link rel="stylesheet" href={`${import.meta.env.BASE_URL}style.css`} />
-   <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\.html$/, '.htm'), Astro.site).href} />
+   <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\.html$/, '.htm').replace(/\/index\.htm$/, '/'), Astro.site).href} />
    <slot name="head" />
 </head>
 
