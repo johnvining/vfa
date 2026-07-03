@@ -1,0 +1,35 @@
+id: Jerry01
+letter: J
+lastUpdated: 3 July 2026
+relationship: son
+parentDesc: "[?]"
+head:
+  givenName: Jerry
+marriages:
+  - spouse:
+      givenName: Sheryl K.
+      surname: Kitchens
+      parents: (dau. of James Kitchens and Jewel [...])
+      birth:
+        date: 26 August 1955
+        place: "Greenwood, Mississippi"
+      death:
+        date: 26 May 2026
+        place: "Southaven, Mississippi"
+      burial:
+        place: "Desoto Memorial Gardens"
+childrenGroups:
+  - children:
+      - name: Sonja Vining
+        marriages:
+          - spouse: Bradley Dickey
+      - name: Meggan Vining
+        marriages:
+          - spouse: Ryan Reviere
+      - name: Jeri Anne Vining
+        marriages:
+          - spouse: Joe Clowes
+updates:
+  - date: "2026-07-03"
+    what: "created entry; parentage unverified (possibly a son of Leo Heath Vining — see the open question in that entry); added wife Sheryl K. (née Kitchens), her birth, death, burial, and parents, and daughters Sonja (m. Bradley Dickey), Meggan (m. Ryan Reviere), and Jeri Anne (m. Joe Clowes); source: obituary"
+    url: "https://www.colemanfuneralhomesh.com"
