@@ -38,10 +38,22 @@ function defaultHeading(type: string): string {
   return map[type] ?? type;
 }
 
+// Escape a string for safe use inside a double-quoted HTML attribute.
+function escAttr(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// Descriptive alt text for a doc image: the family page name followed by the
+// image's own caption (with any HTML and trailing colon stripped).
+function altText(caption?: string): string {
+  const clean = (caption ?? '').replace(/<[^>]*>/g, '').replace(/[\s:]+$/, '').trim();
+  return [headingTitle, clean].filter(Boolean).join(' - ');
+}
+
 // Build an <img> tag; when `link` is set, wrap it in an anchor so the
 // thumbnail clicks through to the full-size image in a new tab.
-function imgHtml(img: { src: string; height?: number; link?: boolean }): string {
-  const tag = `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}">`;
+function imgHtml(img: { src: string; height?: number; link?: boolean }, caption?: string): string {
+  const tag = `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}" alt="${escAttr(altText(caption))}">`;
   return img.link
     ? `<a href="${imageBase}/${img.src}" target="_blank" class="doc-image-zoom">${tag}</a>`
     : tag;
@@ -71,10 +83,10 @@ function imgHtml(img: { src: string; height?: number; link?: boolean }): string 
     {item.images && (
       item.inline
         ? <div class="doc-image-block"><Fragment set:html={item.images.map(img =>
-            imgHtml(img)
+            imgHtml(img, item.caption)
           ).join('&nbsp;&nbsp;&nbsp;')} /></div>
         : item.images.map(img => (
-            <div class="doc-image-block"><Fragment set:html={imgHtml(img)} /></div>
+            <div class="doc-image-block"><Fragment set:html={imgHtml(img, item.caption)} /></div>
           ))
     )}
   </div>
@@ -120,10 +132,10 @@ function imgHtml(img: { src: string; height?: number; link?: boolean }): string 
             {entry.images && (
               entry.inline
                 ? <div class="doc-image-block"><Fragment set:html={entry.images.map(img =>
-                    imgHtml(img)
+                    imgHtml(img, entry.caption)
                   ).join('&nbsp;&nbsp;&nbsp;')} /></div>
                 : entry.images.map(img => (
-                    <div class="doc-image-block"><Fragment set:html={imgHtml(img)} /></div>
+                    <div class="doc-image-block"><Fragment set:html={imgHtml(img, entry.caption)} /></div>
                   ))
             )}
           </div>
@@ -137,10 +149,10 @@ function imgHtml(img: { src: string; height?: number; link?: boolean }): string 
         {item.images && (
           item.inline
             ? <div class="doc-image-block"><Fragment set:html={item.images.map(img =>
-                imgHtml(img)
+                imgHtml(img, item.caption)
               ).join('&nbsp;&nbsp;&nbsp;')} /></div>
             : item.images.map(img => (
-                <div class="doc-image-block"><Fragment set:html={imgHtml(img)} /></div>
+                <div class="doc-image-block"><Fragment set:html={imgHtml(img, item.caption)} /></div>
               ))
         )}
       </div>
