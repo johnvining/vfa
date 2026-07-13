@@ -1,6 +1,6 @@
 id: KamitaE01
 letter: K
-lastUpdated: 24 July 2022
+lastUpdated: 13 July 2026
 relationship: son
 parentId: OsmynC01
 parentLetter: O
@@ -80,12 +80,26 @@ childrenGroups:
           date: 27 October 1941
         marriages:
           - spouse: Robert E. K. Levick
+  - headingText: "daughter by Elizabeth Volenski"
+    children:
       - name: Yvette Marie Vining
         birth:
           date: 14 November 1942
+          place: "Kalamazoo, Kalamazoo County, Michigan"
         marriages:
-          - spouse: Roger Maneke
+          - date: 16 September 1961
+            spouse: Roger Maneke
+        death:
+          date: 9 June 2026
+          place: "Grand Rapids, Kent County, Michigan"
 docsUrl: Ksources/KamitaE01doc.htm
+updates:
+  - date: "2026-07-13"
+    what: "recorded daughter Yvette's death, marriage date, and birthplace; regrouped Yvette as Kamita's daughter by his first wife Elizabeth Volenski"
+    url: "https://www.legacy.com/us/obituaries/shorelinemedia/name/yvette-maneke-obituary?id=61811375"
+openQuestions:
+  - posted: "2026-07-13"
+    question: "Were Earl, Errol, Sherman, and Sharon also Elizabeth Volenski's children rather than Mabel Dailey's, as Yvette's obituary shows for Yvette?"
 rawArchival: |-
   <a name="KamitaE01"></a><font size=+2>Kamita Earl Vining</font>
      (son of <a href="Ofamilies.htm#OsmynC01">Osmyn Carl Vining and Aurore A. &#8220;Ora&#8221; La Palm</a>)
