@@ -1,0 +1,29 @@
+id: JimmyD01
+letter: J
+lastUpdated: 14 July 2026
+relationship: son
+parentId: TheronN01
+parentLetter: T
+parentDesc: Theron Nash Vining and Eva Mae Grubbs
+head:
+  givenName: Jimmy Dale
+marriages:
+  - spouse:
+      givenName: Lynnette
+      surname: "[&#8230;]"
+childrenGroups:
+  - headingText: "son by Thereca Jane O&#8217;Neal"
+    children:
+      - name: Dale Vining Jr.
+        birth:
+          date: 28 January 1972
+          place: "Oak Grove, Louisiana"
+        death:
+          date: 11 July 2026
+          place: "West Monroe, Louisiana"
+        burial:
+          place: "Concord Cemetery   Oak Grove, Louisiana"
+updates:
+  - date: "2026-07-14"
+    what: "created entry"
+    url: "https://www.legacy.com/us/obituaries/name/dale-vining-obituary?id=61946845"

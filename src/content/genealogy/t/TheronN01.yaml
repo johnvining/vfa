@@ -1,6 +1,6 @@
 id: TheronN01
 letter: T
-lastUpdated: 16 May 2026
+lastUpdated: 14 July 2026
 relationship: son
 parentId: JosephAL01
 parentLetter: J
@@ -46,9 +46,11 @@ childrenGroups:
       - name: Larry Vining
         marriages:
           - spouse: "Flo [...]"
-      - name: Jimmy Vining
+      - name: Jimmy Dale Vining
+        entryId: JimmyD01
+        entryLetter: J
         marriages:
-          - spouse: "Lynette [...]"
+          - spouse: "Lynnette [...]"
       - name: Geraldine Vining
         death:
           date: 16 May 2025
@@ -68,6 +70,9 @@ updates:
   - date: "2026-05-16"
     what: "added daughter Geraldine (Vining) Irby's death and burial info and her husband's full name; added spouses for brothers Lavelle, Huey, Larry, and Jimmy; source: Geraldine's obituary at Legacy.com"
     url: "https://www.legacy.com/us/obituaries/name/geraldine-irby-obituary?id=58414316"
+  - date: "2026-07-14"
+    what: "added middle name Dale to son Jimmy and promoted him to his own entry; source: obituary of Jimmy's son Dale Vining Jr."
+    url: "https://www.legacy.com/us/obituaries/name/dale-vining-obituary?id=61946845"
 rawArchival: |-
   <a name="TheronN01"></a><font size=+2>Theron Nash Vining</font>
      (son of <a href="Jfamilies.htm#JosephAL01">Joseph Alford Lee Vining and Gracie Gustavia Fryday</a>)
