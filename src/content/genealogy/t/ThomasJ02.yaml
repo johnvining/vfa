@@ -1,6 +1,6 @@
 id: ThomasJ02
 letter: T
-lastUpdated: 9 March 2023
+lastUpdated: 3 August 2026
 relationship: son
 parentId: JonahL01
 parentLetter: J
@@ -53,6 +53,8 @@ childrenGroups:
         birth:
           date: 21 May 1935
           place: "Green Pond, Bibb County, Alabama"
+        marriages:
+          - spouse: "J. Sue [...]"
         death:
           date: 19 May 1990
           place: Alabama
@@ -80,6 +82,9 @@ childrenGroups:
         burial:
           place: "Hickman Chapel Cemetery   Tuscaloosa County, Alabama"
 docsUrl: Tsources/ThomasJ02doc.htm
+updates:
+  - date: "2026-08-03"
+    what: "added son Cecil Edgar Vining's wife and his headstone, which had been misattributed to a like-named Cecil Eugene Vining in the CecilH01 (Kansas) family"
 rawArchival: |-
   <a name="ThomasJ02"></a><font size=+2>Thomas Joshua Vining</font>
      (son of <a href="Jfamilies.htm#JonahL01">Jonah Lafayette Vining and Rebecca Addie Wright</a>)

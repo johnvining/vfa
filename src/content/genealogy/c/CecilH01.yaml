@@ -1,6 +1,6 @@
 id: CecilH01
 letter: C
-lastUpdated: 25 February 2023
+lastUpdated: 3 August 2026
 relationship: son
 parentId: HarryR01
 parentLetter: H
@@ -35,16 +35,12 @@ childrenGroups:
           place: Kansas
         marriages:
           - spouse: Harold Denholm
-      - name: Cecil E. Vining
+      - name: Cecil Eugene Vining
         birth:
-          date: 21 May 1935
+          date: age 5 y. as of 1940 census
           place: Kansas
         marriages:
-          - date: "J. Sue [&#8230;]"
-        death:
-          date: 19 May 1990
-        burial:
-          place: "Green Pond Presbyterian Church Cemetery   Green Pond, Bibb County, Alabama"
+          - spouse: Pat
       - name: Kathryn Jane Vining
         birth:
           date: 19 February 1946
@@ -58,6 +54,9 @@ childrenGroups:
         burial:
           place: "Marshfield Cemetery   Marshfield, Webster County, Missouri"
 docsUrl: Csources/CecilH01doc.htm
+updates:
+  - date: "2026-08-03"
+    what: "gave son Cecil Eugene Vining's middle name in full, corrected his spouse and birth date, and removed his death date and burial place, which had been taken from the Find A Grave record of a like-named Cecil Edgar Vining (see ThomasJ02); contributed by Pat Vining"
 rawArchival: |-
   <a name="CecilH01"></a><font size=+2>Cecil H. Vining</font>
      (son of <a href="Hfamilies.htm#HarryR01">Harry Ray Vining and Kathryne A. Elliott</a>)
