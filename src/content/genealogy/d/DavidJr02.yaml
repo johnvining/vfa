@@ -1,6 +1,6 @@
 id: DavidJr02
 letter: D
-lastUpdated: 1 May 2026
+lastUpdated: 3 August 2026
 relationship: son
 parentId: David02
 parentLetter: D
@@ -13,7 +13,7 @@ head:
     date: 21 May 1840
     place: "Cairo, Greene County, New York"
   burial:
-    place: "Parks Cemetery   Cairo, Greene County, New York"
+    place: "Parks Family Cemetery   Cairo, Greene County, New York"
 marriages:
   - spouse:
       givenName: Hannah
@@ -40,14 +40,20 @@ childrenGroups:
         marriages:
           - place: "Coxsackie, New York"
             spouse: James Brown
+        death:
+          date: 5 November 1856
+        burial:
+          place: "Parks Family Cemetery   Cairo, Greene County, New York"
       - name: Caroline Vining
         birth:
           date: "[26 July 1812 or 21 July 1813?]"
         marriages:
-          - spouse: Jeptha Barnum
+          - spouse: Jeptha Zepilia Barnum
         death:
           date: 28 May 1885
           place: "Catskill, New York"
+        burial:
+          place: "Catskill Village Cemetery   Catskill, Greene County, New York"
       - name: David H. Vining
         entryId: DavidH01
         entryLetter: D
@@ -132,6 +138,12 @@ childrenGroups:
             spouse: Silvert Gripman
 docsUrl: Dsources/DavidJr02doc.htm
 updates:
+  - date: "2026-08-03"
+    what: "added daughter Polly (Vining) Brown's death date and burial place; contributed by Christine Hood"
+    url: "https://greene.nygenweb.net/cairocem.htm"
+  - date: "2026-08-03"
+    what: "gave daughter Caroline's husband Jeptha Barnum's middle name and added her burial place; contributed by Christine Hood"
+    url: "https://www.findagrave.com/memorial/125318269/caroline-barnum"
   - date: "2026-05-01"
     what: "corrected David H. Vining's burial location to Vining Cemetery, Frontenac, Goodhue County, Minnesota (on the original Vining family property in Frontenac, within Florence Township)"
 rawArchival: |-
