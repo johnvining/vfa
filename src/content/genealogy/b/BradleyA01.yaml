@@ -1,6 +1,9 @@
 id: BradleyA01
 letter: B
-lastUpdated: 25 February 2023
+lastUpdated: 10 August 2026
+updates:
+  - date: "2026-08-10"
+    what: "resolved the uncertain year in Barbara's death date and added her death place; added Bradley's death place; resolved his previously uncertain birthplace on the strength of the birth certificate cited in the line of ancestry, in preference to the birthplace given on his death certificate; added the date, place, and spouse's full name for son John Milton Vining's marriage; corrected the spelling of Paul's birth county; sources: Massachusetts death certificates for Bradley A. Vining and Barbara A. (Milton) Vining, Town of Holden marriage certificate, and the 2006 Order of the Founders and Patriots of America line of ancestry; contributed by John Milton Vining"
 relationship: son
 parentId: JohnFJr01
 parentLetter: J
@@ -9,9 +12,10 @@ head:
   givenName: Bradley Allen
   birth:
     date: 21 February 1935
-    place: "[Weymouth or Roxbury?], Massachusetts"
+    place: "Weymouth, Norfolk County, Massachusetts"
   death:
     date: 26 November 2019
+    place: "Worcester, Worcester County, Massachusetts"
   burial:
     place: "Hope Cemetery   Worcester, Worcester County, Massachusetts"
 marriages:
@@ -25,8 +29,8 @@ marriages:
         date: 16 March 1932
         place: "Worcester, Worcester County, Massachusetts"
       death:
-        date: "14 May 201[6 or 5?]"
-        place: "Natick, MIDdlesex County, Massachusetts"
+        date: 14 May 2016
+        place: "Natick, Middlesex County, Massachusetts"
       burial:
         place: "Hope Cemetery   Worcester, Worcester County, Massachusetts"
 childrenGroups:
@@ -36,11 +40,13 @@ childrenGroups:
           date: 8 March 1967
           place: "Boston, Suffolk County, Massachusetts"
         marriages:
-          - date: "Debra P. [&#8230;]"
+          - date: 1 November 2008
+            place: "Holden, Worcester County, Massachusetts"
+            spouse: Debra Pauline Bagdigian
       - name: Paul Forrest Vining
         birth:
           date: 18 April 1968
-          place: "Boston, Suuffolk County, Massachusetts"
+          place: "Boston, Suffolk County, Massachusetts"
 docsUrl: Bsources/BradleyA01doc.htm
 rawArchival: |-
   <a name="BradleyA01"></a><font size=+2>Bradley Allen Vining</font>
