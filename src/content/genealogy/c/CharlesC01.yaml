@@ -1,0 +1,31 @@
+id: CharlesC01
+letter: C
+lastUpdated: 7 September 2026
+relationship: son
+parentId: ThomasF03
+parentLetter: T
+parentDesc: Thomas F. Vining and Frances Callen Close
+head:
+  givenName: Charles Clarence Sr.
+  birth:
+    date: 9 August 1944
+    place: "LaGrange, Troup County, Georgia"
+  death:
+    date: 26 August 2026
+    place: "Oak Island, Brunswick County, North Carolina"
+marriages:
+  - spouse:
+      givenName: Betty Louise
+      surname: "[&#8230;]"
+childrenGroups:
+  - children:
+      - name: Charles Vining Jr.
+        marriages:
+          - spouse: "Misty [&#8230;]"
+      - name: Missy Vining
+        marriages:
+          - spouse: "Chris [&#8230;]"
+updates:
+  - date: "2026-09-07"
+    what: "created entry; promoted from inline child of Thomas F. Vining"
+    url: "https://stateportpilot.com/obituaries/article_2a8c6617-f4ef-449f-8261-88b1b1c47eec.html"

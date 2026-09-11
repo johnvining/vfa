@@ -1,12 +1,12 @@
 id: ThomasF03
 letter: T
-lastUpdated: 9 March 2023
+lastUpdated: 7 September 2026
 relationship: son
 parentId: DorseyT01
 parentLetter: D
 parentDesc: Dorsey T. Vining and Bertha J.ewell Pritchard
 head:
-  givenName: Thomas F.
+  givenName: "Thomas F. &#8220;TF&#8221;"
   birth:
     date: 21 December 1921
     place: "[Georgia or Alabama?]"
@@ -26,10 +26,24 @@ marriages:
       parents: "(dau. of Calvin Clarence Close and Omie Irene Robinson)"
 childrenGroups:
   - children:
-      - name: Charles C. Vining
-        marriages:
-          - spouse: "Betty [...]"
+      - name: Charles Clarence Vining Sr.
+        entryId: CharlesC01
+        entryLetter: C
+        birth:
+          date: 9 August 1944
+          place: "LaGrange, Troup County, Georgia"
+        death:
+          date: 26 August 2026
+          place: "Oak Island, Brunswick County, North Carolina"
       - name: Jan
+openQuestions:
+  - posted: "2026-09-07"
+    question: "Is Thomas F. Vining's wife, documented as Frances Callen Close (m. 11 October 1941, Chambers County, Alabama), the same woman named as \"Colleen Francis Vining\" in son Charles's 2026 obituary?"
+    background: "The names appear to be a reordering of the same two given names (Callen/Colleen, Frances/Francis), but this is not confirmed."
+updates:
+  - date: "2026-09-07"
+    what: "gave head the nickname TF; promoted son Charles to his own entry with birth and death information; source: son Charles's obituary"
+    url: "https://stateportpilot.com/obituaries/article_2a8c6617-f4ef-449f-8261-88b1b1c47eec.html"
 rawArchival: |-
   <a name="ThomasF03"></a><font size=+2>Thomas F. Vining</font>
      (son of <a href="Dfamilies.htm#DorseyT01">Dorsey T. Vining and Bertha J.ewell Pritchard</a>)
