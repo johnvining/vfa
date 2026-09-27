@@ -1,6 +1,6 @@
 id: EdwardJ03
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 27 September 2026
 relationship: son
 parentId: KennethE02
 parentLetter: K
@@ -29,7 +29,7 @@ marriages:
       burial:
         place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
 childrenGroups:
-  - headingText: child
+  - headingText: children
     children:
       - name: Carl Edward Vining
         birth:
@@ -40,7 +40,22 @@ childrenGroups:
           place: "Mansfield, Richland County, Ohio"
         burial:
           place: "Greenlawn Union Cemetery   Perrysville, Ashland County, Ohio"
+      - name: Brenda Vining
+        marriages:
+          - spouse: William Caley III
+  - headingText: "children [by Nettie Charlene Bridges?]"
+    children:
+      - name: George Vining
+        marriages:
+          - spouse: "Cindy [&#8230;]"
+      - name: Mike Vining
+        marriages:
+          - spouse: "Lisa [&#8230;]"
 docsUrl: Esources/EdwardJ03doc.htm
+updates:
+  - date: "2026-09-27"
+    what: "added daughter Brenda and her spouse; added sons George and Mike and their spouses; source: grandson Brian Edward Caley's obituary"
+    url: "https://www.legacy.com/us/obituaries/name/brian-caley-obituary?id=62503378"
 rawArchival: |-
   <a name="EdwardJ03"></a><font size=+2>Edward Junior Vining</font>
      (son of <a href="Kfamilies.htm#KennethE02">Kenneth E. Vining and Rachel A. [...]</a>)
