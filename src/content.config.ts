@@ -96,6 +96,9 @@ const genealogy = defineCollection({
       givenName: z.string(),
       surname: z.string().optional(),   // override when surname is non-standard (e.g. "Vinning")
       headingNote: z.string().optional(), // trailing annotation like [sic; ...]
+      // Military service designations shown beside the name, one per war,
+      // e.g. "Revolutionary War Patriot", "Civil War Veteran"
+      military: z.array(z.string()).optional(),
       birth: datePlace,
       baptism: datePlace,
       adoptedDate: z.string().optional(),

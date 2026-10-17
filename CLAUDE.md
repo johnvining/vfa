@@ -7,6 +7,16 @@ Father's full name (including Vining) and mother's **maiden name only** — no "
 
 Example: `parentDesc: "Daniel Rutledge Vining and Margaret McClanahan"`
 
+### `head.military` field
+Military service designations go in `head.military`, a list with one string per war, and render beside the person's name. Use the standard wording `"[War] Patriot"` for the Revolutionary War (the DAR/SAR term) and `"[War] Veteran"` for later wars:
+```yaml
+head:
+  givenName: David
+  military:
+    - Revolutionary War Patriot
+```
+Don't put service designations in `headingNote` or `notes`.
+
 ### `rawArchival` field
 Genealogy YAML files may contain a `rawArchival` field. This is a frozen snapshot of the entry's HTML from before the site transitioned to structured YAML rendering. **Never update it under any circumstances** — not even when other fields in the same entry change. It exists solely to preserve the pre-transition state. All live data is in the structured fields (`head`, `marriages`, `childrenGroups`, etc.), which are rendered by `src/renderEntry.ts`.
 

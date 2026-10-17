@@ -35,6 +35,11 @@ body {
 	font-size: 1.4em;
 }
 
+.geo-military {
+	font-style: italic;
+	color: var(--color-green);
+}
+
 .geo-permalink {
 	float: right;
 	text-decoration: none;
