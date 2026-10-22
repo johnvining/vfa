@@ -1,11 +1,16 @@
 id: ElmerH02
 letter: E
-lastUpdated: 23 February 2023
+lastUpdated: 18 October 2026
+updates:
+  - date: "2026-10-18"
+    what: "added World War I Veteran (US Army) designation; contributed by Judi Vining"
 relationship: son
 parentId: ElmerH01
 parentDesc: Elmer Howard Vining and Mariah Louise DesLauriers
 head:
   givenName: Elmer Harold
+  military:
+    - World War I Veteran
   birth:
     date: 9 March 1892
     place: "Brockton, Massachusetts"

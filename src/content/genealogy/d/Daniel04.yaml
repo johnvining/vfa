@@ -1,11 +1,16 @@
 id: Daniel04
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 18 October 2026
+updates:
+  - date: "2026-10-18"
+    what: "added Civil War Veteran designation and note on Grand Army of the Republic membership; contributed by Judi Vining"
 relationship: son
 parentId: DanielH01
 parentDesc: Daniel Hervey Vining and Anna Binney
 head:
   givenName: Daniel
+  military:
+    - Civil War Veteran
   birth:
     date: 18 September 1838
     place: "Weymouth, Norfolk County, Massachusetts"
@@ -77,6 +82,7 @@ childrenGroups:
           place: "Santa Clara [County?], California"
         burial:
           place: "Golden Gate National Cemetery   San Bruno, San Mateo County, California"
+notes: "Daniel was a member of the Grand Army of the Republic (GAR)."
 docsUrl: Dsources/Daniel04doc.htm
 rawArchival: |-
   <a name="Daniel04"></a><font size=+2>Daniel Vining</font>

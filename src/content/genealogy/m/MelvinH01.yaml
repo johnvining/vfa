@@ -1,12 +1,18 @@
 id: MelvinH01
 letter: M
-lastUpdated: 13 January 2021
+lastUpdated: 18 October 2026
+updates:
+  - date: "2026-10-18"
+    what: "added World War II Veteran and Korean War Veteran designations (US Army and US Air Force); contributed by Judi Vining"
 relationship: son
 parentId: ElmerH02
 parentLetter: E
 parentDesc: Elmer Harold Vining and Bernice Marguerite Foye
 head:
   givenName: Melvin Howard
+  military:
+    - World War II Veteran
+    - Korean War Veteran
   birth:
     date: 27 October 1921
     place: "Brockton, Massachusetts"

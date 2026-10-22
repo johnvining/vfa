@@ -1,12 +1,17 @@
 id: DanielH01
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 18 October 2026
+updates:
+  - date: "2026-10-18"
+    what: "added Civil War Veteran; contributed by Judi Vining"
 relationship: son
 parentId: Bela02
 parentLetter: B
 parentDesc: Bela Vining and Content Pratt
 head:
   givenName: Daniel Hervey
+  military:
+    - Civil War Veteran
   birth:
     date: 5 August 1813
     place: "Weymouth, Norfolk County, Massachusetts"
