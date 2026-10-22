@@ -1,6 +1,6 @@
 id: Jonathan02
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 22 October 2026
 relationship: son
 parentId: Jonah01
 parentDesc: Jonah Vining and Olive Leavitt
@@ -26,7 +26,7 @@ marriages:
       burial:
         place: "Windsor Neck Cemetery   Windsor, Maine"
 childrenGroups:
-  - headingText: "children (<a href=\"Jsources/Jonathan02fam.htm\">family record from Windsor, Maine, town records</a>)"
+  - headingText: "children (<a href=\"Jsources/Jonathan02doc.htm\">family record from Windsor, Maine, town records</a>)"
     children:
       - name: Clarissa Vining
         birth:
@@ -105,6 +105,9 @@ childrenGroups:
         burial:
           place: "Windsor Neck Cemetery   Windsor, Maine"
 docsUrl: Jsources/Jonathan02doc.htm
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to Windsor, Maine, family record"
 rawArchival: |-
   <a name="Jonathan02"></a><font size=+2>Jonathan Vining</font>
      (son of <a href="#Jonah01">Jonah Vining and Olive Leavitt</a>)

@@ -1,8 +1,8 @@
 id: HarmonR01
 letter: H
-lastUpdated: 30 July 2022
+lastUpdated: 22 October 2026
 relationship: son
-parentId: JOHNC01
+parentId: JohnC01
 parentLetter: J
 parentDesc: John Chester Vining and Annie O. Wicks
 head:
@@ -20,6 +20,9 @@ childrenGroups:
     children:
       - name: David Gordon Vining
 docsUrl: Hsources/HarmonR01doc.htm
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to his father John Chester Vining"
 rawArchival: |-
   <a name="HarmonR01"></a><font size=+2>Harmon R[ummell?]. Vining</font>
      (son of <a href="Jfamilies.htm#JOHNC01">John Chester Vining and Annie O. Wicks</a>)

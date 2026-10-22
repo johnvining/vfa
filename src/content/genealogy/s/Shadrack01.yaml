@@ -1,6 +1,6 @@
 id: Shadrack01
 letter: S
-lastUpdated: 25 February 2023
+lastUpdated: 22 October 2026
 relationship: son
 parentId: John13
 parentLetter: J
@@ -89,7 +89,7 @@ childrenGroups:
         marriages:
           - spouse: Joseph Vardaman
       - name: Jehu Vining
-        entryId: Jehu01
+        entryId: JehuS01
         entryLetter: J
         birth:
           date: 22 January 1790
@@ -179,6 +179,9 @@ childrenGroups:
             place: Georgia
             spouse: Rebecca Thornton
 docsUrl: Ssources/Shadrack01doc.htm
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to son Jehu Vining"
 rawArchival: |-
   <a name="Shadrack01"></a><font size=+2>Shadrack Vining</font>
      (son of <a href="Jfamilies.htm#John13">John Vining and Sarah Ratcliff(e)</a>)

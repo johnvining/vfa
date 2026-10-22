@@ -1,8 +1,8 @@
 id: BeverlyL01
 letter: B
-lastUpdated: 25 February 2023
+lastUpdated: 22 October 2026
 relationship: son
-parentId: MitchellO01
+parentId: MichelO01
 parentLetter: M
 parentDesc: Mitchell O. Vining and Clara Clark
 head:
@@ -30,6 +30,9 @@ childrenGroups:
       - name: Lori Vining
         marriages:
           - spouse: William McCarthy
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to his father Mitchell O. Vining"
 rawArchival: |-
   <a name="BeverlyL01"></a><font size=+2>Beverly Lawrence Vining</font>
      (son of <a href="Mfamilies.htm#MitchellO01">Mitchell O. Vining and Clara Clark</a>)

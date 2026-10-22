@@ -4,6 +4,12 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const docs = await getCollection('genealogyDocs');
+  // The entry that links to a doc page may have a different ID or letter than
+  // the doc itself (e.g. after an entry is renamed), so map each docsUrl to its entry.
+  const owners = new Map<string, { id: string; letter: string }>();
+  for (const entry of await getCollection('genealogy')) {
+    if (entry.data.docsUrl) owners.set(entry.data.docsUrl, { id: entry.data.id, letter: entry.data.letter });
+  }
   return docs.map(doc => {
     const letter = doc.id.split('/')[0].toUpperCase();
     const personId = doc.data.id; // use data.id to preserve original case
@@ -12,17 +18,19 @@ export async function getStaticPaths() {
         lettersources: `${letter}sources`,
         id: `${personId}doc`,
       },
-      props: { doc },
+      props: { doc, owner: owners.get(`${letter}sources/${personId}doc.htm`) },
     };
   });
 }
 
-const { doc } = Astro.props;
+const { doc, owner } = Astro.props;
 const { title, displayTitle, intro, sections } = doc.data;
 const headingTitle = displayTitle ?? title;
 const letter = doc.id.split('/')[0].toUpperCase();
 const imageBase = `${import.meta.env.BASE_URL}genealogy-images/${doc.id.split('/')[0]}`;
-const backHref = `../${letter}families.htm#${doc.data.id}`;
+const backHref = owner
+  ? `../${owner.letter}families.htm#${owner.id}`
+  : `../${letter}families.htm#${doc.data.id}`;
 
 function defaultHeading(type: string): string {
   const map: Record<string, string> = {

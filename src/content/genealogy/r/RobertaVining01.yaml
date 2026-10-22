@@ -1,8 +1,8 @@
 id: Roberta01
 letter: R
-lastUpdated: 15 January 2024
+lastUpdated: 22 October 2026
 relationship: dau.
-parentId: Doug01
+parentId: DouglasF01
 parentLetter: D
 parentDesc: Doug Vining and Alcena Kaye Lybyer
 head:
@@ -13,6 +13,9 @@ childrenGroups:
       - name: Khristyne Sidnee Vining
         marriages:
           - date: "[&#8230;] Means"
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to her father Doug Vining"
 rawArchival: |-
   <a name="Roberta01"></a><font size=+2>Roberta Vining</font>
      (dau. of <a href="Dfamilies.htm#Doug01">Doug Vining and Alcena Kaye Lybyer</a>)

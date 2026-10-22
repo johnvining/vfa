@@ -1,8 +1,9 @@
 id: JeffersonD01
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 22 October 2026
 relationship: son
 parentId: Vincent01
+parentLetter: V
 parentDesc: Vincent Vining and Malinda Abigail May
 head:
   givenName: Jefferson Davis
@@ -72,6 +73,9 @@ childrenGroups:
         death:
           date: ca. 1916
 docsUrl: Jsources/JeffersonD01doc.htm
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to his father Vincent Vining"
 rawArchival: |-
   <a name="JeffersonD01"></a><font size=+2>Jefferson Davis Vining</font>
      (son of <a href="#Vincent01">Vincent Vining and Malinda Abigail May</a>)

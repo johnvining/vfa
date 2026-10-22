@@ -96,18 +96,24 @@ sections:
     items:
       - images:
           - src: SimeonF01andfamily.jpg
-      - images:
-          - src: SimeonF01
-      - images:
-          - src: SimeonF01
-      - images:
-          - src: SimeonF01
-      - images:
-          - src: SimeonF01
-      - images:
-          - src: SimeonF01
-      - images:
-          - src: SimeonF01
+      - caption: "Helena and Henry, 1943:"
+        images:
+          - src: "SimeonF01 - Helena & Henry 1943.jpg"
+      - caption: "Helena:"
+        images:
+          - src: "SimeonF01 - Helena.jpg"
+      - caption: "Joyce, Lena, Helena, Agnes, May 1974:"
+        images:
+          - src: "SimeonF01 - Joyce, Lena, Helena, Agnes May 1974.jpg"
+      - caption: "Lena Farrow:"
+        images:
+          - src: "SimeonF01 - Lena Farrow.jpg"
+      - caption: "Lily De Lille:"
+        images:
+          - src: "SimeonF01 - Lily De Lille.jpeg"
+      - caption: "Mike, Debbie, Henry, Mark, Cheryl, Helena:"
+        images:
+          - src: "SimeonF01 - Mike, Debbie, henry, Mark, Cheryl, Helena.jpg"
   - type: other
     heading: Flint, Michigan, City Directory entries
     items:

@@ -1,9 +1,7 @@
 id: GeorgeH04
 letter: G
-lastUpdated: 22 July 2022
+lastUpdated: 22 October 2026
 relationship: son
-parentId: unknown03
-parentLetter: UNKNOWN
 parentDesc: "[?]"
 head:
   givenName: George H.
@@ -35,6 +33,9 @@ childrenGroups:
           date: 16 January 2015
       - name: Jon R. Vining
 docsUrl: Gsources/GeorgeH04doc.htm
+updates:
+  - date: "2026-10-22"
+    what: "removed broken link for unknown parents"
 rawArchival: |-
   <a name="GeorgeH04"></a><font size=+2>George H. Vining</font>
      (son of <a href="unknownfamilies.htm#unknown03">[?]</a>)

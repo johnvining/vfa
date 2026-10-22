@@ -1,8 +1,8 @@
 id: JeffersonT01
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 22 October 2026
 relationship: son
-parentId: GM02
+parentId: GeorgeM05
 parentLetter: G
 parentDesc: "G. M. Troop Vining and Lucy M. [&#8230;]"
 head:
@@ -37,6 +37,9 @@ childrenGroups:
         burial:
           place: "Masonic Cemetery   McMinnville, Oregon"
 docsUrl: Jsources/JeffersonT01doc.htm
+updates:
+  - date: "2026-10-22"
+    what: "fixed link to his father G. M. Troop Vining"
 rawArchival: |-
   <a name="JeffersonT01"></a><font size=+2>Jefferson T. Vining</font>
      (son of <a href="Gfamilies.htm#GM02">G. M. Troop Vining and Lucy M. [&#8230;]</a>)
