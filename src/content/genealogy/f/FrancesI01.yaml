@@ -1,0 +1,41 @@
+id: FrancesI01
+letter: F
+lastUpdated: 22 October 2026
+relationship: dau.
+parentId: JamesW01
+parentLetter: J
+parentDesc: James Walter Vining and Mattie Maybelle Blume
+head:
+  givenName: Frances Ion
+  birth:
+    date: 16 October 1928
+    place: "Sumter, Sumter County, South Carolina"
+  death:
+    date: 19 October 2026
+  burial:
+    place: "Evergreen Memorial Park Cemetery   Sumter, Sumter County, South Carolina"
+marriages:
+  - spouse:
+      givenName: James Weldon
+      surname: Lovelace
+childrenGroups:
+  - children:
+      - name: Betty Jean Lovelace
+        marriages:
+          - spouse: David James McLhinney Sr.
+      - name: Barbara Ann Lovelace
+        marriages:
+          - spouse: "[&#8230;] Hale"
+      - name: Jo-Reba Lovelace
+        marriages:
+          - spouse: Dr. Thomas Allan Bryson
+      - name: "James Weldon &#8220;Jimmy&#8221; Lovelace Jr."
+        marriages:
+          - spouse: Jean Alieen Nettles
+      - name: "Francis Ion &#8220;Frankie&#8221; Lovelace"
+        marriages:
+          - spouse: Connie Mary Loraine Parker
+updates:
+  - date: "2026-10-22"
+    what: "created entry; promoted from inline child of James Walter Vining; added birth, death, burial, and children; source: Frances's obituary in The Sumter Item"
+    url: "https://www.theitem.com/stories/frances-ion-vining-lovelace,448098"

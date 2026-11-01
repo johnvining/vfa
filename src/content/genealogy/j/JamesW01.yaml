@@ -1,6 +1,6 @@
 id: JamesW01
 letter: J
-lastUpdated: 10 March 2023
+lastUpdated: 22 October 2026
 relationship: son
 parentId: ThomasR02
 parentLetter: T
@@ -37,11 +37,15 @@ childrenGroups:
           date: "1919"
         marriages:
           - spouse: Marion Broadway
+        death:
+          date: before 19 October 2026
       - name: Leila Mae Vining
         birth:
           date: "1921"
         marriages:
           - spouse: Charles Willis Bell
+        death:
+          date: before 19 October 2026
       - name: James Otto Vining
         birth:
           date: "1922"
@@ -56,7 +60,7 @@ childrenGroups:
           date: 11 November 1924
           place: South Carolina
         marriages:
-          - date: "Barbara June &#8220;Bobbie&#8221; Woodyard"
+          - spouse: "Barbara June &#8220;Bobbie&#8221; Woodyard"
         death:
           date: 22 June 2005
         burial:
@@ -66,26 +70,39 @@ childrenGroups:
           date: "1927"
         marriages:
           - spouse: Charlie Lee Winburn
+        death:
+          date: before 19 October 2026
       - name: Frances Ion Vining
+        entryId: FrancesI01
+        entryLetter: F
         birth:
-          date: "1928"
+          date: 16 October 1928
+          place: "Sumter, South Carolina"
         marriages:
           - spouse: James Weldon Lovelace
+        death:
+          date: 19 October 2026
       - name: "George Douglas &#8220;Dick&#8221; Vining"
         birth:
           date: "1930"
         marriages:
           - spouse: Alice Geneva Burke
+        death:
+          date: before 19 October 2026
       - name: "Thelma Alberta &#8220;Pete&#8221; Vining"
         birth:
           date: "1933"
         marriages:
           - spouse: Joseph Marriables Waynick
+        death:
+          date: before 19 October 2026
       - name: Mary Pansy Vining
         birth:
           date: "1935"
         marriages:
           - spouse: Dale Wayne Summerton
+        death:
+          date: before 19 October 2026
       - name: "Jesse William &#8220;Bozo&#8221; Vining"
         entryId: JesseW01
         birth:
@@ -103,6 +120,8 @@ childrenGroups:
           date: "1939"
         marriages:
           - spouse: John Douglas Edwards
+        death:
+          date: before 19 October 2026
       - name: Cecil Eugene Vining
         entryId: CecilE02
         entryLetter: C
@@ -116,6 +135,14 @@ childrenGroups:
         burial:
           place: "Evergreen Memorial Park Cemetery   Sumter, South Carolina"
 docsUrl: Jsources/JamesW01doc.htm
+openQuestions:
+  - posted: "2026-10-22"
+    question: "What are the correct names of Leila Mae Vining's and Mary Pansy Vining's husbands?"
+    background: "We have them as Charles Willis Bell and Dale Wayne Summerton; sister Frances's 2026 obituary names them Charles William Bell and Dayle Wayne Summerton."
+updates:
+  - date: "2026-10-22"
+    what: "promoted daughter Frances to her own entry with full birth date and death date; noted that daughters Eloise, Leila Mae, Mildred, Thelma, Mary Pansy, and Mattie Louise and son George Douglas died before her; corrected display of son Clarence's marriage to Barbara June Woodyard; source: daughter Frances's obituary in The Sumter Item"
+    url: "https://www.theitem.com/stories/frances-ion-vining-lovelace,448098"
 rawArchival: |-
   <a name="JamesW01"></a><font size=+2>James Walter Vining</font>
      (son of <a href="Tfamilies.htm#ThomasR02">Thomas Reece Vining and Lydia Jane Pope</a>)
