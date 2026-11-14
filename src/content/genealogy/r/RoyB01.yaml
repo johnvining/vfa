@@ -1,0 +1,33 @@
+id: RoyB01
+letter: R
+lastUpdated: 14 November 2026
+relationship: son
+parentId: ClarenceE02
+parentLetter: C
+parentDesc: Clarence Eugene Vining and Elva Mae Waters
+head:
+  givenName: Roy Basil
+  birth:
+    date: 5 July 1915
+    place: "Rayville, Richland Parish, Louisiana"
+  death:
+    date: "7 September [or 9 July?] 1986"
+    place: "Choudrant, Lincoln Parish, Louisiana"
+marriages:
+  - spouse:
+      givenName: Sarah Elizabeth
+      surname: Liner
+childrenGroups:
+  - children:
+      - name: John Vining
+        entryId: John39
+        entryLetter: J
+        marriages:
+          - spouse: Deborah Cole
+      - name: Roy Wayne Vining
+        death:
+          date: before 4 February 2026
+updates:
+  - date: "2026-11-14"
+    what: "created entry; promoted from inline child of Clarence Eugene Vining; added sons John and Roy Wayne; source: grandson Andrew Cole Vining's obituary"
+    url: "https://www.thejenatimes.net/obituaries/458,andrew-vining"

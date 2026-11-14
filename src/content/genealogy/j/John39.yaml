@@ -1,0 +1,36 @@
+id: John39
+letter: J
+lastUpdated: 14 November 2026
+relationship: son
+parentId: RoyB01
+parentLetter: R
+parentDesc: Roy Basil Vining and Sarah Elizabeth Liner
+head:
+  givenName: John
+marriages:
+  - spouse:
+      givenName: Deborah
+      surname: Cole
+      parents: "(dau. of Lewis Cole and Clara [&#8230;])"
+      death:
+        date: before 4 February 2026
+childrenGroups:
+  - children:
+      - name: Andrew Cole Vining
+        birth:
+          date: 10 January 1978
+          place: "Albany, Georgia"
+        death:
+          date: 4 February 2026
+          place: "Marrero, Jefferson Parish, Louisiana"
+      - name: Ryan Vining
+        marriages:
+          - spouse: "Karrie [&#8230;]"
+openQuestions:
+  - posted: "2026-11-14"
+    question: "Did Deborah (Cole) Vining die before her son Andrew in February 2026?"
+    background: "Andrew's obituary lists his \"beloved mother, Deborah Cole Vining\" among those who preceded him in death, but also says he was survived by \"his parents\"."
+updates:
+  - date: "2026-11-14"
+    what: "created entry; added wife Deborah Cole and sons Andrew Cole and Ryan; source: son Andrew Cole Vining's obituary"
+    url: "https://www.thejenatimes.net/obituaries/458,andrew-vining"
