@@ -1,0 +1,28 @@
+id: PatK01
+letter: P
+lastUpdated: "2026-11-17"
+relationship: son
+parentId: DaleK01
+parentLetter: D
+parentDesc: Dale Kelly Vining and Patty Ellen Montgomery
+head:
+  givenName: Pat Kelly
+marriages:
+  - spouse:
+      givenName: Vona
+      surname: Vining
+childrenGroups:
+  - children:
+      - name: Shaun Kelly Vining
+        entryId: ShaunKV01
+        entryLetter: S
+        birth:
+          date: 13 October 1979
+          place: "Phoenix, Maricopa County, Arizona, United States"
+        marriages:
+          - date: 28 August 2004
+            place: "Mesa, Maricopa County, Arizona"
+            spouse: Lauren Zaccagni Sickle-Vining
+updates:
+  - date: "2026-11-17"
+    what: "created entry with wife Vona Vining and son Shaun Kelly Vining; contributed by Shaun Kelly Vining"

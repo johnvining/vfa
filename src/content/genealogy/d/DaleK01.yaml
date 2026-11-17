@@ -1,6 +1,6 @@
 id: DaleK01
 letter: D
-lastUpdated: 25 February 2023
+lastUpdated: 17 November 2026
 relationship: son
 parentId: LloydK01
 parentLetter: L
@@ -31,9 +31,17 @@ childrenGroups:
   - children:
       - name: Kelly Vining
       - name: Terry Vining
+      - name: Pat Kelly Vining
+        entryId: PatK01
+        entryLetter: P
+        marriages:
+          - spouse: Vona Vining
       - name: Dale Ellen Vining
         marriages:
           - spouse: "[...] Breiland"
+updates:
+  - date: "2026-11-17"
+    what: "added Pat Kelly Vining and his wife, Vona Vining, as a child and linked to his family entry; contributed by Shaun Kelly Vining"
 docsUrl: Dsources/DaleK01doc.htm
 rawArchival: |-
   <a name="DaleK01"></a><font size=+2>Dale Kelly Vining</font>

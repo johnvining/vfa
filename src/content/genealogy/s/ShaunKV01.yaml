@@ -1,0 +1,36 @@
+id: ShaunKV01
+letter: S
+lastUpdated: "2026-11-17"
+relationship: son
+parentId: PatK01
+parentLetter: P
+parentDesc: Pat Kelly Vining and Vona Vining
+head:
+  givenName: Shaun Kelly
+  birth:
+    date: 13 October 1979
+    place: "Phoenix, Maricopa County, Arizona, United States"
+marriages:
+  - date: 28 August 2004
+    place: "Mesa, Maricopa County, Arizona"
+    spouse:
+      givenName: Lauren
+      surname: Zaccagni Sickle-Vining
+childrenGroups:
+  - children:
+      - name: Eden Sickle Vining
+        birth:
+          date: 12 December 2006
+          date: 22 May 2026
+      - name: Emilyn Grace Vining
+        birth:
+          date: 20 August 2010
+      - name: Weston Isiah Kellen Vining
+        birth:
+          date: 11 May 2015
+      - name: Declan Royal Zaccagni Vining
+        birth:
+          date: 5 December 2018
+updates:
+  - date: "2026-11-17"
+    what: "created entry with Shaun's birth, marriage, and children's information; contributed by Shaun Kelly Vining"
