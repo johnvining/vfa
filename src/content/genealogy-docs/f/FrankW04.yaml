@@ -1,6 +1,29 @@
 id: FrankW04
 title: Frank Whitten Vining - Sarah Elizabeth Slaughter
 sections:
+  - type: other
+    heading: Photographs
+    items:
+      - caption: "Frank Whitten Vining:"
+        images:
+          - src: FrankW04portrait.jpg
+            height: 500
+      - caption: "Frank Whitten Vining in later years:"
+        images:
+          - src: FrankW04withdog.jpg
+      - caption: "Children of Frank Whitten Vining, left to right: Mattie Mae, Ethel, Roy, Hugh, and Catherine:"
+        images:
+          - src: FrankW04children.jpg
+      - caption: "Sarah Elizabeth &#8220;Lizzie&#8221; (Slaughter) Vining with her son Hugh Dorsey Vining:"
+        images:
+          - src: FrankW04wifeLizzieandsonHugh.jpg
+            height: 500
+      - caption: >-
+          Roy Edward Vining (back) with his mother, Sarah Elizabeth &#8220;Lizzie&#8221; (Slaughter) Vining (second
+          from left), and her mother (left); the woman holding the child is believed to be Roy's wife:
+        images:
+          - src: FrankW04sonRoywithmotherLizzieandgrandmother.jpg
+      - caption: "&#8212;photographs contributed by Randon Shaw and Randy Vining"
   - type: census
     table:
       columns:
