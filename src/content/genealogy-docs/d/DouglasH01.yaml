@@ -2,14 +2,15 @@ id: DouglasH01
 title: Douglas Herbert Vining - Netye Douglas
 sections:
   - type: census
-    items:
-      - caption: >-
+    entries:
+      - year: "1950"
+        caption: >-
           1950 US census, Douglas Vining household: Douglas (24, head), Pearl (26, wife), Ronald (3, son), Gary (2, son),
           and Donald (1, son). The household has three sons, no daughters &#8212; Joyce is not present, which together with
           her absence from Pearl Constant Vining Threeton's 2004 obituary indicates Joyce was not Pearl's daughter.
           Birth order of Pearl's sons: Ronald (b. ~1947), Gary (b. 1948), Donald (b. ~1949).
         images:
-          - src: DouglasH01census1950.jpg
+          - src: DouglasH01census1950.png
   - type: marriage
     items:
       - caption: >-
@@ -32,7 +33,7 @@ sections:
           Obituary for Douglas Herbert Vining published in <em>The Daily Star</em> (Hammond), Sunday, 17 June 2001. Source:
           <a href="https://www.newspapers.com/image/1256214281/">Newspapers.com</a>.
         images:
-          - src: DouglasH01obituary2001DailyStar.jpg
+          - src: DouglasH01obituary2001DailyStar.png
       - caption: "Earlier typed transcription of the same obituary text:"
         images:
           - src: DouglasH01obituary.jpg
@@ -48,7 +49,7 @@ sections:
           Clifford A. Threeton, and her three surviving sons Gary P., Ronald M., and Donald D. Vining. Source:
           <a href="https://www.newspapers.com/image/1256071131/">Newspapers.com</a>.
         images:
-          - src: DouglasH01wifePearlobituary2004DailyStar.jpg
+          - src: DouglasH01wifePearlobituary2004DailyStar.png
       - caption: >-
           Gravestone for Douglas H. Vining, in Ponchatoula Cemetery, Ponchatoula, Tangipahoa Parish, Louisiana (from
           Find A Grave):

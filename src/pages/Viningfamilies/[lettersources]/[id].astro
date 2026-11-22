@@ -1,6 +1,8 @@
 ---
 import BaseInner from '../../../layouts/BaseInner.astro';
 import { getCollection } from 'astro:content';
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 
 export async function getStaticPaths() {
   const docs = await getCollection('genealogyDocs');
@@ -58,9 +60,27 @@ function altText(caption?: string): string {
   return [headingTitle, clean].filter(Boolean).join(' - ');
 }
 
+// Files referenced by docs YAML that never made it into public/
+// (see the missing-image issues) render as a placeholder box instead
+// of a broken <img>; it disappears on its own once the file is added.
+const imageDir = join(process.cwd(), 'public', 'genealogy-images', doc.id.split('/')[0]);
+const missingCache = new Map<string, boolean>();
+function imageMissing(src: string): boolean {
+  let missed = missingCache.get(src);
+  if (missed === undefined) {
+    missed = !existsSync(join(imageDir, src));
+    missingCache.set(src, missed);
+  }
+  return missed;
+}
+
 // Build an <img> tag; when `link` is set, wrap it in an anchor so the
 // thumbnail clicks through to the full-size image in a new tab.
 function imgHtml(img: { src: string; height?: number; link?: boolean }, caption?: string): string {
+  if (imageMissing(img.src)) {
+    const label = (caption ?? '').replace(/<[^>]*>/g, '').replace(/[\s:]+$/, '').trim() || img.src;
+    return `<span class="doc-image-missing">Missing image &mdash; ${label}</span>`;
+  }
   const tag = `<img${img.height ? ` height="${img.height}"` : ''} src="${imageBase}/${img.src}" alt="${escAttr(altText(caption))}">`;
   return img.link
     ? `<a href="${imageBase}/${img.src}" target="_blank" class="doc-image-zoom">${tag}</a>`

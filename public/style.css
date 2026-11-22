@@ -144,6 +144,15 @@ a:active           { color: #ff0000; }
 	margin-bottom: 1.5em;
 }
 
+/* Placeholder shown when a docs image file is missing from public/. */
+.doc-image-missing {
+	display: inline-block;
+	padding: 1em 1.5em;
+	border: 2px dashed #999;
+	color: #666;
+	font-style: italic;
+}
+
 .doc-back {
 	font-size: 0.9em;
 	margin-bottom: 0.5em;
